@@ -36,8 +36,11 @@ export function ListenIdentifyStep({ items, allItems, onComplete }: ListenIdenti
   const [showFeedback, setShowFeedback] = useState(false);
   const correctCountRef = useRef(0);
 
-  const item = items[currentIdx];
-  const isLast = currentIdx === items.length - 1;
+  // Shuffle item order so the sequence isn't predictable
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  const shuffledItems = useMemo(() => shuffle([...items]), [items.length]);
+  const item = shuffledItems[currentIdx];
+  const isLast = currentIdx === shuffledItems.length - 1;
 
   // Generate visual options: correct item front + 3 distractors
   const options = useMemo(() => {
@@ -67,13 +70,13 @@ export function ListenIdentifyStep({ items, allItems, onComplete }: ListenIdenti
 
   const handleNext = useCallback(() => {
     if (isLast) {
-      onComplete({ correct: correctCountRef.current, total: items.length });
+      onComplete({ correct: correctCountRef.current, total: shuffledItems.length });
       return;
     }
     setCurrentIdx((prev) => prev + 1);
     setSelectedOption(null);
     setShowFeedback(false);
-  }, [isLast, items.length, onComplete]);
+  }, [isLast, shuffledItems.length, onComplete]);
 
   return (
     <div className="flex flex-col items-center">
@@ -87,7 +90,7 @@ export function ListenIdentifyStep({ items, allItems, onComplete }: ListenIdenti
         />
       </div>
 
-      <span className="text-xs text-slate-500 mb-4">{currentIdx + 1} / {items.length}</span>
+      <span className="text-xs text-slate-500 mb-4">{currentIdx + 1} / {shuffledItems.length}</span>
 
       {/* Visual options */}
       <div className="w-full max-w-md grid grid-cols-2 gap-3 mb-6">

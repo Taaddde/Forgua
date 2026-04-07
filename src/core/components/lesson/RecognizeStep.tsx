@@ -31,8 +31,11 @@ export function RecognizeStep({ items, allItems, onComplete }: RecognizeStepProp
   const [showFeedback, setShowFeedback] = useState(false);
   const correctCountRef = useRef(0);
 
-  const item = items[currentIdx];
-  const isLast = currentIdx === items.length - 1;
+  // Shuffle item order so the sequence isn't predictable
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  const shuffledItems = useMemo(() => shuffle([...items]), [items.length]);
+  const item = shuffledItems[currentIdx];
+  const isLast = currentIdx === shuffledItems.length - 1;
 
   // Generate options: 1 correct + 3 distractors from allItems
   const options = useMemo(() => {
@@ -62,13 +65,13 @@ export function RecognizeStep({ items, allItems, onComplete }: RecognizeStepProp
 
   const handleNext = useCallback(() => {
     if (isLast) {
-      onComplete({ correct: correctCountRef.current, total: items.length });
+      onComplete({ correct: correctCountRef.current, total: shuffledItems.length });
       return;
     }
     setCurrentIdx((prev) => prev + 1);
     setSelectedOption(null);
     setShowFeedback(false);
-  }, [isLast, items.length, onComplete]);
+  }, [isLast, shuffledItems.length, onComplete]);
 
   return (
     <div className="flex flex-col items-center">
@@ -79,7 +82,7 @@ export function RecognizeStep({ items, allItems, onComplete }: RecognizeStepProp
 
       {/* Progress */}
       <span className="text-xs text-slate-500 mb-4">
-        {currentIdx + 1} / {items.length}
+        {currentIdx + 1} / {shuffledItems.length}
       </span>
 
       {/* Options */}

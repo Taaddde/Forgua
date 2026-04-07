@@ -1,9 +1,12 @@
 /**
- * RecallStep — shows the meaning (back), user types the front.
- * For CJK, the input can accept romaji that matches the reading.
+ * RecallStep — tests recall in the meaningful direction.
+ *
+ * Normal mode (back ≠ reading): shows the meaning (back), user types the front or reading.
+ * Reversed mode (back ≈ reading, e.g. hiragana): shows the native character (front),
+ * user types the romaji (back/reading). This avoids the trivial "copy what you see" problem.
  */
 
-import { useState, useCallback, useRef } from 'react';
+import { useState, useCallback, useRef, useMemo } from 'react';
 import { useTranslation } from 'react-i18next';
 import { Check, X } from 'lucide-react';
 import { Button } from '../common/Button';
@@ -18,6 +21,15 @@ function normalize(s: string): string {
   return s.trim().toLowerCase().replace(/\s+/g, '');
 }
 
+function shuffle<T>(arr: T[]): T[] {
+  const result = [...arr];
+  for (let i = result.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [result[i], result[j]] = [result[j], result[i]];
+  }
+  return result;
+}
+
 export function RecallStep({ items, onComplete }: RecallStepProps) {
   const { t } = useTranslation();
   const [currentIdx, setCurrentIdx] = useState(0);
@@ -26,45 +38,72 @@ export function RecallStep({ items, onComplete }: RecallStepProps) {
   const [isCorrect, setIsCorrect] = useState(false);
   const correctCountRef = useRef(0);
 
-  const item = items[currentIdx];
-  const isLast = currentIdx === items.length - 1;
+  // Shuffle item order so the sequence isn't predictable
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  const shuffledItems = useMemo(() => shuffle([...items]), [items.length]);
+  const item = shuffledItems[currentIdx];
+  const isLast = currentIdx === shuffledItems.length - 1;
+
+  // When back ≈ reading (e.g. hiragana: back="chi", reading="chi"),
+  // showing "chi" and accepting "chi" is trivial. Reverse the direction:
+  // show the character, ask for the romaji.
+  const isReversed =
+    item.reading !== undefined &&
+    normalize(item.back) === normalize(item.reading);
 
   const handleCheck = useCallback(() => {
     const normalizedInput = normalize(input);
-    const normalizedFront = normalize(item.front);
-    const normalizedReading = item.reading ? normalize(item.reading) : '';
 
-    const match =
-      normalizedInput === normalizedFront ||
-      normalizedInput === normalizedReading;
+    let match: boolean;
+    if (isReversed) {
+      // Reversed: prompt is front (character), accept back or reading
+      match =
+        normalizedInput === normalize(item.back) ||
+        normalizedInput === normalize(item.reading ?? '');
+    } else {
+      // Normal: prompt is back (meaning), accept front or reading
+      match =
+        normalizedInput === normalize(item.front) ||
+        normalizedInput === normalize(item.reading ?? '');
+    }
 
     setIsCorrect(match);
     setShowFeedback(true);
     if (match) {
       correctCountRef.current += 1;
     }
-  }, [input, item]);
+  }, [input, item, isReversed]);
 
   const handleNext = useCallback(() => {
     if (isLast) {
-      onComplete({ correct: correctCountRef.current, total: items.length });
+      onComplete({ correct: correctCountRef.current, total: shuffledItems.length });
       return;
     }
     setCurrentIdx((prev) => prev + 1);
     setInput('');
     setShowFeedback(false);
     setIsCorrect(false);
-  }, [isLast, items.length, onComplete]);
+  }, [isLast, shuffledItems.length, onComplete]);
+
+  // What to show as prompt and what to reveal on error
+  const promptText = isReversed ? item.front : item.back;
+  const correctAnswer = isReversed
+    ? item.back
+    : `${item.front}${item.reading ? ` (${item.reading})` : ''}`;
 
   return (
     <div className="flex flex-col items-center">
-      {/* Show meaning */}
+      {/* Prompt card */}
       <div className="bg-slate-900 border border-slate-700 rounded-2xl p-8 text-center mb-6 w-full max-w-md">
-        <span className="text-sm text-slate-500 mb-2 block">{t('exercise.expected')}</span>
-        <span className="text-2xl font-bold text-indigo-300">{item.back}</span>
+        <span className="text-sm text-slate-500 mb-2 block">
+          {isReversed ? t('exercise.writeReading') : t('exercise.expected')}
+        </span>
+        <span className={`font-bold ${isReversed ? 'text-5xl text-slate-100' : 'text-2xl text-indigo-300'}`}>
+          {promptText}
+        </span>
       </div>
 
-      <span className="text-xs text-slate-500 mb-4">{currentIdx + 1} / {items.length}</span>
+      <span className="text-xs text-slate-500 mb-4">{currentIdx + 1} / {shuffledItems.length}</span>
 
       {/* Input */}
       <div className="w-full max-w-md mb-4">
@@ -101,7 +140,7 @@ export function RecallStep({ items, onComplete }: RecallStepProps) {
             </span>
             {!isCorrect && (
               <span className="text-sm text-slate-400 block mt-1">
-                {item.front} {item.reading ? `(${item.reading})` : ''}
+                {correctAnswer}
               </span>
             )}
           </div>

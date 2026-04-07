@@ -8,6 +8,7 @@
     "study": "Estudiar",
     "learn": "Aprender",
     "browse": "Explorar",
+    "explore": "Explorar",
     "reading": "Lectura",
     "listening": "Escucha",
     "speaking": "Hablar",
@@ -225,6 +226,15 @@
     "tapToStop": "Tocá para terminar",
     "youSaid": "Lo que dijiste",
     "wordsCorrect": "palabras correctas"
+  },
+  "explore": {
+    "title": "Explorar contenido",
+    "searchPlaceholder": "Buscar por palabra, lectura o significado...",
+    "allLevels": "Todos los niveles",
+    "filterByLevel": "Filtrar por nivel",
+    "listView": "Vista de lista",
+    "gridView": "Vista de grilla",
+    "clearFilters": "Limpiar filtros"
   },
   "learn": {
     "title": "Aprender",

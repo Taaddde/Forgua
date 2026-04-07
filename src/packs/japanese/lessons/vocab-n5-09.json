@@ -1,0 +1,111 @@
+{
+  "id": "vocab-n5-09",
+  "title": "Adjetivos い",
+  "description": "おおきい、ちいさい、たかい — los adjetivos que terminan en い",
+  "level": "n5",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "大きい",
+      "back": "grande / big",
+      "reading": "おおきい",
+      "explanation": "Grande. Adjetivo い. Se conjuga: 大きくない (ookikunai) = 'no es grande'. 大きい犬 (ookii inu) = 'perro grande'.",
+      "cardRef": { "category": "vocabulary", "front": "大きい" }
+    },
+    {
+      "front": "小さい",
+      "back": "pequeño / small",
+      "reading": "ちいさい",
+      "explanation": "Pequeño, chico. Lo opuesto de 大きい. 小さい猫 (chiisai neko) = 'gato pequeño'. Se conjuga igual que todos los adjetivos い.",
+      "cardRef": { "category": "vocabulary", "front": "小さい" }
+    },
+    {
+      "front": "高い",
+      "back": "alto, caro / tall, expensive",
+      "reading": "たかい",
+      "explanation": "Alto o caro (¡doble significado!). 高い山 (takai yama) = 'montaña alta'. 高い! = '¡Qué caro!'. El contexto aclara cuál es.",
+      "cardRef": { "category": "vocabulary", "front": "高い" }
+    },
+    {
+      "front": "安い",
+      "back": "barato / cheap",
+      "reading": "やすい",
+      "explanation": "Barato. Lo opuesto de 高い (caro). 安い店 (yasui mise) = 'tienda barata'. Muy útil para ir de compras en Japón.",
+      "cardRef": { "category": "vocabulary", "front": "安い" }
+    },
+    {
+      "front": "新しい",
+      "back": "nuevo / new",
+      "reading": "あたらしい",
+      "explanation": "Nuevo. 新しい本 (atarashii hon) = 'libro nuevo'. Lo opuesto es 古い (furui, viejo).",
+      "cardRef": { "category": "vocabulary", "front": "新しい" }
+    },
+    {
+      "front": "古い",
+      "back": "viejo (cosas) / old (things)",
+      "reading": "ふるい",
+      "explanation": "Viejo (para objetos, no personas). 古い家 (furui ie) = 'casa vieja'. Para personas se usa 年を取った (toshi wo totta).",
+      "cardRef": { "category": "vocabulary", "front": "古い" }
+    },
+    {
+      "front": "いい",
+      "back": "bueno / good",
+      "reading": "いい",
+      "explanation": "Bueno, bien. Es irregular: la forma negativa es よくない (yokunai), no いくない. いい天気 (ii tenki) = 'buen clima'. Probablemente la palabra que más vas a usar.",
+      "cardRef": { "category": "vocabulary", "front": "いい" }
+    },
+    {
+      "front": "悪い",
+      "back": "malo / bad",
+      "reading": "わるい",
+      "explanation": "Malo. Lo opuesto de いい. 悪い人 (warui hito) = 'mala persona'. También se usa para disculparse: 悪い！= '¡Perdón!' (informal).",
+      "cardRef": { "category": "vocabulary", "front": "悪い" }
+    },
+    {
+      "front": "おいしい",
+      "back": "delicioso / delicious",
+      "reading": "おいしい",
+      "explanation": "Delicioso, rico. Probablemente la primera palabra que vas a decir en un restaurante japonés. おいしい！con cara de felicidad es el mejor cumplido para un cocinero.",
+      "cardRef": { "category": "vocabulary", "front": "おいしい" }
+    },
+    {
+      "front": "暑い",
+      "back": "caluroso / hot (weather)",
+      "reading": "あつい",
+      "explanation": "Caluroso (clima). Ojo: 暑い es para el clima, 熱い (también あつい) es para objetos calientes. El verano japonés es 暑い de verdad.",
+      "cardRef": { "category": "vocabulary", "front": "暑い" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Palabras nuevas",
+      "instruction": "Los adjetivos い son uno de los dos tipos de adjetivos en japonés. Todos terminan en い y se conjugan de forma regular (excepto いい, que es irregular).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "Escribí la palabra",
+      "instruction": "Ves el significado, escribí la palabra en japonés (romaji).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "listen-transcribe",
+      "title": "Escuchá y escribí",
+      "instruction": "Escuchá la pronunciación y escribí lo que oís.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste 大きい、小さい、高い、安い、新しい、古い、いい、悪い、おいしい、暑い. Ya podés describir cosas en japonés. Estas palabras se suman a tu repaso diario.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "vocab-n5-05",
+  "title": "Lugares",
+  "description": "がっこう、えき、びょういん — los lugares que necesitás conocer",
+  "level": "n5",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "学校",
+      "back": "escuela / school",
+      "reading": "がっこう",
+      "explanation": "Escuela. 学 (gaku) = estudio, 校 (kou) = escuela. がっこうに行く (gakkou ni iku) = 'ir a la escuela'.",
+      "cardRef": { "category": "vocabulary", "front": "学校" }
+    },
+    {
+      "front": "駅",
+      "back": "estación / station",
+      "reading": "えき",
+      "explanation": "Estación (de tren). En Japón el tren es el transporte principal, así que esta palabra la vas a ver por todos lados. 東京駅 = Estación de Tokio.",
+      "cardRef": { "category": "vocabulary", "front": "駅" }
+    },
+    {
+      "front": "病院",
+      "back": "hospital / hospital",
+      "reading": "びょういん",
+      "explanation": "Hospital. 病 (byou) = enfermedad, 院 (in) = institución. Ojalá no la necesites, pero es importante saberla.",
+      "cardRef": { "category": "vocabulary", "front": "病院" }
+    },
+    {
+      "front": "銀行",
+      "back": "banco / bank",
+      "reading": "ぎんこう",
+      "explanation": "Banco (financiero). 銀 (gin) = plata, 行 (kou) = ir/establecimiento. Japón sigue usando mucho efectivo, así que vas a necesitar esta palabra.",
+      "cardRef": { "category": "vocabulary", "front": "銀行" }
+    },
+    {
+      "front": "郵便局",
+      "back": "correo / post office",
+      "reading": "ゆうびんきょく",
+      "explanation": "Oficina de correo. 郵便 (yuubin) = correo postal, 局 (kyoku) = oficina. En Japón también funcionan como cajero automático.",
+      "cardRef": { "category": "vocabulary", "front": "郵便局" }
+    },
+    {
+      "front": "公園",
+      "back": "parque / park",
+      "reading": "こうえん",
+      "explanation": "Parque. 公 (kou) = público, 園 (en) = jardín. Los parques japoneses son famosos por los cerezos en flor (hanami).",
+      "cardRef": { "category": "vocabulary", "front": "公園" }
+    },
+    {
+      "front": "店",
+      "back": "tienda / shop",
+      "reading": "みせ",
+      "explanation": "Tienda, negocio. Se usa sola o como sufijo: パン屋 (panadería), 本屋 (librería). みせ es la lectura kun'yomi.",
+      "cardRef": { "category": "vocabulary", "front": "店" }
+    },
+    {
+      "front": "レストラン",
+      "back": "restaurante / restaurant",
+      "reading": "レストラン",
+      "explanation": "Restaurante. Viene del francés/inglés 'restaurant'. Se escribe en katakana porque es palabra extranjera. En Japón hay de todo: ramen, sushi, yakiniku...",
+      "cardRef": { "category": "vocabulary", "front": "レストラン" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Palabras nuevas",
+      "instruction": "Estos son los lugares más comunes que vas a necesitar en japonés. Escuchá cada palabra y prestá atención a la lectura.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recall",
+      "title": "Escribí la palabra",
+      "instruction": "Ves el significado, escribí la palabra en japonés (romaji).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "listen-transcribe",
+      "title": "Escuchá y escribí",
+      "instruction": "Escuchá la pronunciación y escribí lo que oís.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste 学校、駅、病院、銀行、郵便局、公園、店、レストラン. Ahora podés hablar de lugares básicos. Estas palabras se suman a tu repaso diario.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

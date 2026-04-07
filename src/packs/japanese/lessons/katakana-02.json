@@ -1,0 +1,127 @@
+{
+  "id": "katakana-02",
+  "title": "Katakana: カ行 + サ行 (ka~ko, sa~so)",
+  "description": "Las consonantes K y S en katakana — 10 caracteres esenciales",
+  "level": "n5",
+  "category": "characters",
+  "items": [
+    {
+      "front": "カ",
+      "back": "ka",
+      "reading": "ka",
+      "explanation": "Sílaba 'ka'. Dos trazos angulares que forman una esquina.",
+      "mnemonic": "Parece un cuchillo cortando — 'Ka-t!' el filo corta",
+      "cardRef": { "category": "characters", "front": "カ" }
+    },
+    {
+      "front": "キ",
+      "back": "ki",
+      "reading": "ki",
+      "explanation": "Sílaba 'ki'. Trazos horizontales cruzados por uno diagonal.",
+      "mnemonic": "Parece una llave antigua — 'Ki' suena como 'key' (llave en inglés)",
+      "cardRef": { "category": "characters", "front": "キ" }
+    },
+    {
+      "front": "ク",
+      "back": "ku",
+      "reading": "ku",
+      "explanation": "Sílaba 'ku'. Un ángulo abierto hacia la derecha.",
+      "mnemonic": "Parece el pico de un cuervo — 'Ku-ervo' graznando",
+      "cardRef": { "category": "characters", "front": "ク" }
+    },
+    {
+      "front": "ケ",
+      "back": "ke",
+      "reading": "ke",
+      "explanation": "Sílaba 'ke'. Similar a カ pero con un trazo extra.",
+      "mnemonic": "Parece una K incompleta — 'Ke' empieza con K",
+      "cardRef": { "category": "characters", "front": "ケ" }
+    },
+    {
+      "front": "コ",
+      "back": "ko",
+      "reading": "ko",
+      "explanation": "Sílaba 'ko'. Dos trazos formando una esquina abierta.",
+      "mnemonic": "Parece una esquina de una caja — 'Ko-rner' (esquina)",
+      "cardRef": { "category": "characters", "front": "コ" }
+    },
+    {
+      "front": "サ",
+      "back": "sa",
+      "reading": "sa",
+      "explanation": "Sílaba 'sa'. Tres trazos que se cruzan.",
+      "mnemonic": "Parece una persona sentada en una silla — 'Sa-ntate acá'",
+      "cardRef": { "category": "characters", "front": "サ" }
+    },
+    {
+      "front": "シ",
+      "back": "shi",
+      "reading": "shi",
+      "explanation": "Sílaba 'shi'. Tres trazos: dos puntos y una curva.",
+      "mnemonic": "Parece una cara sonriente inclinada — 'Shi' como una sonrisa tímida ;)",
+      "cardRef": { "category": "characters", "front": "シ" }
+    },
+    {
+      "front": "ス",
+      "back": "su",
+      "reading": "su",
+      "explanation": "Sílaba 'su'. Un trazo diagonal con una curva.",
+      "mnemonic": "Parece el número 7 estilizado — 'Su-erte del 7'",
+      "cardRef": { "category": "characters", "front": "ス" }
+    },
+    {
+      "front": "セ",
+      "back": "se",
+      "reading": "se",
+      "explanation": "Sílaba 'se'. Trazos que forman un ángulo con extensión.",
+      "mnemonic": "Parece una persona señalando — 'Se-ñalá para allá'",
+      "cardRef": { "category": "characters", "front": "セ" }
+    },
+    {
+      "front": "ソ",
+      "back": "so",
+      "reading": "so",
+      "explanation": "Sílaba 'so'. Dos trazos diagonales. ¡Cuidado! Se parece a ン (n).",
+      "mnemonic": "Parece dos líneas cosiendo — 'So-stura' diagonal. Los trazos van de arriba a abajo.",
+      "cardRef": { "category": "characters", "front": "ソ" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Consonantes K y S en katakana",
+      "instruction": "Estas son las filas カ (ka) y サ (sa) del katakana. Son 10 caracteres nuevos. Prestá atención a シ (shi) y ソ (so) que se parecen entre sí.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es cuál?",
+      "instruction": "Elegí la lectura correcta para cada carácter.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se lee?",
+      "instruction": "Ves el carácter. Escribí cómo se pronuncia.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "listen-transcribe",
+      "title": "Escuchá y escribí",
+      "instruction": "Escuchá el sonido y escribí qué carácter es.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "speak",
+      "title": "Decilo vos",
+      "instruction": "Escuchá el ejemplo y repetilo en voz alta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste las filas K y S del katakana. Ya conocés 15 katakana en total. Seguí practicando en los repasos diarios.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

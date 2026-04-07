@@ -1,0 +1,87 @@
+{
+  "id": "katakana-01",
+  "title": "Katakana: ア行 (a, i, u, e, o)",
+  "description": "Las 5 vocales en katakana — usado para palabras extranjeras",
+  "level": "n5",
+  "category": "characters",
+  "items": [
+    {
+      "front": "ア",
+      "back": "a",
+      "reading": "a",
+      "explanation": "La vocal 'a'. En katakana los trazos son más rectos y angulares que en hiragana.",
+      "mnemonic": "Parece una antena de TV — 'A-ntena' captando señal",
+      "cardRef": { "category": "characters", "front": "ア" }
+    },
+    {
+      "front": "イ",
+      "back": "i",
+      "reading": "i",
+      "explanation": "La vocal 'i'. Dos trazos diagonales que se cruzan.",
+      "mnemonic": "Parece una persona de perfil con la nariz puntiaguda — 'I-ndividuo'",
+      "cardRef": { "category": "characters", "front": "イ" }
+    },
+    {
+      "front": "ウ",
+      "back": "u",
+      "reading": "u",
+      "explanation": "La vocal 'u'. Un trazo horizontal arriba con dos verticales abajo.",
+      "mnemonic": "Parece una corona vista de frente — 'U-na corona real'",
+      "cardRef": { "category": "characters", "front": "ウ" }
+    },
+    {
+      "front": "エ",
+      "back": "e",
+      "reading": "e",
+      "explanation": "La vocal 'e'. Tres trazos horizontales conectados por uno vertical.",
+      "mnemonic": "Parece una estantería con dos repisas — 'E-stante'",
+      "cardRef": { "category": "characters", "front": "エ" }
+    },
+    {
+      "front": "オ",
+      "back": "o",
+      "reading": "o",
+      "explanation": "La vocal 'o'. Un trazo horizontal cruzado por uno vertical y otro diagonal.",
+      "mnemonic": "Parece un operario con un martillo golpeando — '¡O-brero al trabajo!'",
+      "cardRef": { "category": "characters", "front": "オ" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Conocé las 5 vocales en katakana",
+      "instruction": "Estas son las 5 vocales en katakana. Katakana se usa para palabras extranjeras (gairaigo), nombres extranjeros y onomatopeyas.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es cuál?",
+      "instruction": "Elegí la lectura correcta para cada carácter.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se lee?",
+      "instruction": "Ves el carácter. Escribí cómo se pronuncia.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "listen-transcribe",
+      "title": "Escuchá y escribí",
+      "instruction": "Escuchá el sonido y escribí qué carácter es.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "speak",
+      "title": "Decilo vos",
+      "instruction": "Escuchá el ejemplo y repetilo en voz alta.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste las 5 vocales en katakana. Son iguales en sonido a las de hiragana, pero con forma angular. Ahora van a aparecer en tus repasos diarios.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    }
+  ]
+}

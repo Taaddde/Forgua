@@ -1,0 +1,247 @@
+{
+  "id": "katakana-06",
+  "title": "Katakana: Dakuten y Handakuten (ガ, ザ, ダ, バ, パ...)",
+  "description": "Todas las variantes con dakuten (゛) y handakuten (゜) en katakana — 25 caracteres",
+  "level": "n5",
+  "category": "characters",
+  "items": [
+    {
+      "front": "ガ",
+      "back": "ga",
+      "reading": "ga",
+      "explanation": "カ (ka) + dakuten (゛) = ガ (ga). El dakuten sonoriza la consonante.",
+      "mnemonic": "Es カ (ka) con dos rayitas — como si le hubieran dado un 'GA-rrotazo' y le salieron chispas",
+      "cardRef": { "category": "characters", "front": "ガ" }
+    },
+    {
+      "front": "ギ",
+      "back": "gi",
+      "reading": "gi",
+      "explanation": "キ (ki) + dakuten = ギ (gi). La 'g' es siempre dura como en 'gato'.",
+      "mnemonic": "Es キ (ki) con marca de sonorización — 'Gi-tarra' eléctrica vibrando",
+      "cardRef": { "category": "characters", "front": "ギ" }
+    },
+    {
+      "front": "グ",
+      "back": "gu",
+      "reading": "gu",
+      "explanation": "ク (ku) + dakuten = グ (gu).",
+      "mnemonic": "Es ク (ku) con dakuten — 'Gu-ante' de boxeo golpeando",
+      "cardRef": { "category": "characters", "front": "グ" }
+    },
+    {
+      "front": "ゲ",
+      "back": "ge",
+      "reading": "ge",
+      "explanation": "ケ (ke) + dakuten = ゲ (ge). Como en ゲーム (geemu = game).",
+      "mnemonic": "Es ケ (ke) con dakuten — 'Ge-imer' (gamer) listo para jugar",
+      "cardRef": { "category": "characters", "front": "ゲ" }
+    },
+    {
+      "front": "ゴ",
+      "back": "go",
+      "reading": "go",
+      "explanation": "コ (ko) + dakuten = ゴ (go).",
+      "mnemonic": "Es コ (ko) con dakuten — 'Go-l!' la esquina de la red vibrando",
+      "cardRef": { "category": "characters", "front": "ゴ" }
+    },
+    {
+      "front": "ザ",
+      "back": "za",
+      "reading": "za",
+      "explanation": "サ (sa) + dakuten = ザ (za).",
+      "mnemonic": "Es サ (sa) con dakuten — 'Za-pato' pisando fuerte",
+      "cardRef": { "category": "characters", "front": "ザ" }
+    },
+    {
+      "front": "ジ",
+      "back": "ji",
+      "reading": "ji",
+      "explanation": "シ (shi) + dakuten = ジ (ji). Muy común en palabras extranjeras.",
+      "mnemonic": "Es シ (shi) con dakuten — la carita sonriente ahora dice 'Ji ji ji'",
+      "cardRef": { "category": "characters", "front": "ジ" }
+    },
+    {
+      "front": "ズ",
+      "back": "zu",
+      "reading": "zu",
+      "explanation": "ス (su) + dakuten = ズ (zu).",
+      "mnemonic": "Es ス (su) con dakuten — 'Zu-mbido' de una abeja",
+      "cardRef": { "category": "characters", "front": "ズ" }
+    },
+    {
+      "front": "ゼ",
+      "back": "ze",
+      "reading": "ze",
+      "explanation": "セ (se) + dakuten = ゼ (ze).",
+      "mnemonic": "Es セ (se) con dakuten — 'Ze-ro' absoluto, señalando al vacío",
+      "cardRef": { "category": "characters", "front": "ゼ" }
+    },
+    {
+      "front": "ゾ",
+      "back": "zo",
+      "reading": "zo",
+      "explanation": "ソ (so) + dakuten = ゾ (zo).",
+      "mnemonic": "Es ソ (so) con dakuten — 'Zo-na' peligrosa marcada con señales",
+      "cardRef": { "category": "characters", "front": "ゾ" }
+    },
+    {
+      "front": "ダ",
+      "back": "da",
+      "reading": "da",
+      "explanation": "タ (ta) + dakuten = ダ (da).",
+      "mnemonic": "Es タ (ta) con dakuten — 'Da-le' que va, con energía extra",
+      "cardRef": { "category": "characters", "front": "ダ" }
+    },
+    {
+      "front": "ヂ",
+      "back": "di",
+      "reading": "di",
+      "explanation": "チ (chi) + dakuten = ヂ (di/ji). Se pronuncia igual que ジ (ji) en japonés moderno. Muy raro.",
+      "mnemonic": "Es チ (chi) con dakuten — un 'Di-nosaurio' raro que casi no se ve",
+      "cardRef": { "category": "characters", "front": "ヂ" }
+    },
+    {
+      "front": "ヅ",
+      "back": "du",
+      "reading": "du",
+      "explanation": "ツ (tsu) + dakuten = ヅ (du/zu). Se pronuncia igual que ズ (zu) en japonés moderno. Muy raro.",
+      "mnemonic": "Es ツ (tsu) con dakuten — otro 'Du-ende' raro que casi no aparece",
+      "cardRef": { "category": "characters", "front": "ヅ" }
+    },
+    {
+      "front": "デ",
+      "back": "de",
+      "reading": "de",
+      "explanation": "テ (te) + dakuten = デ (de). Común en palabras como デザイン (dezain = design).",
+      "mnemonic": "Es テ (te) con dakuten — 'De-corar' la mesa con adornos",
+      "cardRef": { "category": "characters", "front": "デ" }
+    },
+    {
+      "front": "ド",
+      "back": "do",
+      "reading": "do",
+      "explanation": "ト (to) + dakuten = ド (do). Como en ドア (doa = door).",
+      "mnemonic": "Es ト (to) con dakuten — 'Do-s' postes vibrando con el golpe",
+      "cardRef": { "category": "characters", "front": "ド" }
+    },
+    {
+      "front": "バ",
+      "back": "ba",
+      "reading": "ba",
+      "explanation": "ハ (ha) + dakuten = バ (ba). Muy común en préstamos: バス (basu = bus).",
+      "mnemonic": "Es ハ (ha) con dakuten — las alas del pájaro ahora hacen 'Ba-tir' con fuerza",
+      "cardRef": { "category": "characters", "front": "バ" }
+    },
+    {
+      "front": "ビ",
+      "back": "bi",
+      "reading": "bi",
+      "explanation": "ヒ (hi) + dakuten = ビ (bi). Como en ビール (biiru = beer).",
+      "mnemonic": "Es ヒ (hi) con dakuten — la sonrisa ahora dice 'Bi-en, muy bien!'",
+      "cardRef": { "category": "characters", "front": "ビ" }
+    },
+    {
+      "front": "ブ",
+      "back": "bu",
+      "reading": "bu",
+      "explanation": "フ (fu) + dakuten = ブ (bu). Como en ブログ (burogu = blog).",
+      "mnemonic": "Es フ (fu) con dakuten — la taza ahora hierve 'Bu-bujear'",
+      "cardRef": { "category": "characters", "front": "ブ" }
+    },
+    {
+      "front": "ベ",
+      "back": "be",
+      "reading": "be",
+      "explanation": "ヘ (he) + dakuten = ベ (be). Como en ベッド (beddo = bed).",
+      "mnemonic": "Es ヘ (he) con dakuten — la flecha ahora apunta y dice 'Be-ní para acá'",
+      "cardRef": { "category": "characters", "front": "ベ" }
+    },
+    {
+      "front": "ボ",
+      "back": "bo",
+      "reading": "bo",
+      "explanation": "ホ (ho) + dakuten = ボ (bo). Como en ボール (booru = ball).",
+      "mnemonic": "Es ホ (ho) con dakuten — el espantapájaros ahora juega al 'Bo-wling'",
+      "cardRef": { "category": "characters", "front": "ボ" }
+    },
+    {
+      "front": "パ",
+      "back": "pa",
+      "reading": "pa",
+      "explanation": "ハ (ha) + handakuten (゜) = パ (pa). El circulito indica sonido 'p'.",
+      "mnemonic": "Es ハ (ha) con un circulito — 'Pa-n' recién horneado, redondito como el handakuten",
+      "cardRef": { "category": "characters", "front": "パ" }
+    },
+    {
+      "front": "ピ",
+      "back": "pi",
+      "reading": "pi",
+      "explanation": "ヒ (hi) + handakuten = ピ (pi). Como en ピザ (piza = pizza).",
+      "mnemonic": "Es ヒ (hi) con circulito — 'Pi-zza' con una aceituna redonda arriba",
+      "cardRef": { "category": "characters", "front": "ピ" }
+    },
+    {
+      "front": "プ",
+      "back": "pu",
+      "reading": "pu",
+      "explanation": "フ (fu) + handakuten = プ (pu). Como en プログラム (puroguramu = program).",
+      "mnemonic": "Es フ (fu) con circulito — 'Pu-nto' final, una bolita de remate",
+      "cardRef": { "category": "characters", "front": "プ" }
+    },
+    {
+      "front": "ペ",
+      "back": "pe",
+      "reading": "pe",
+      "explanation": "ヘ (he) + handakuten = ペ (pe). Como en ページ (peeji = page).",
+      "mnemonic": "Es ヘ (he) con circulito — 'Pe-lota' rodando cuesta abajo",
+      "cardRef": { "category": "characters", "front": "ペ" }
+    },
+    {
+      "front": "ポ",
+      "back": "po",
+      "reading": "po",
+      "explanation": "ホ (ho) + handakuten = ポ (po). Como en スポーツ (supootsu = sports).",
+      "mnemonic": "Es ホ (ho) con circulito — 'Po-ste' con un globo atado arriba",
+      "cardRef": { "category": "characters", "front": "ポ" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Dakuten y Handakuten en katakana",
+      "instruction": "El dakuten (゛) sonoriza la consonante: K→G, S→Z, T→D, H→B. El handakuten (゜) solo se usa con la fila H para hacer P. Son 25 caracteres pero todos se basan en katakana que ya conocés, solo agregando las marquitas.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es cuál?",
+      "instruction": "Elegí la lectura correcta para cada carácter.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se lee?",
+      "instruction": "Ves el carácter. Escribí cómo se pronuncia.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
+    },
+    {
+      "type": "listen-transcribe",
+      "title": "Escuchá y escribí",
+      "instruction": "Escuchá el sonido y escribí qué carácter es.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
+    },
+    {
+      "type": "speak",
+      "title": "Decilo vos",
+      "instruction": "Escuchá el ejemplo y repetilo en voz alta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "¡Felicitaciones! Aprendiste todos los dakuten y handakuten del katakana. Con esto completaste todo el katakana: 46 básicos + 25 variantes = 71 caracteres. ¡Ya podés leer cualquier palabra en katakana!",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
+    }
+  ]
+}

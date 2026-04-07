@@ -1,0 +1,97 @@
+{
+  "id": "vocab-n4-02",
+  "title": "Expresiones útiles N4",
+  "description": "Adverbios y expresiones que hacen tu japonés más natural y fluido. Palabras que escuchás todo el tiempo en conversación.",
+  "level": "n4",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "もちろん",
+      "back": "por supuesto / of course",
+      "reading": "もちろん",
+      "explanation": "もちろん (mochiron) es 'por supuesto' o 'claro que sí'. Se usa igual que en español cuando querés confirmar algo con seguridad. Ejemplo: 「行く？」「もちろん！」(¿Vas? ¡Por supuesto!).",
+      "cardRef": { "category": "vocabulary", "front": "もちろん" }
+    },
+    {
+      "front": "たぶん",
+      "back": "probablemente / maybe, probably",
+      "reading": "たぶん",
+      "explanation": "たぶん (tabun) es 'probablemente' o 'quizás'. Indica que no estás 100% seguro. Ejemplo: たぶん明日行く (probablemente voy mañana). Se puede escribir 多分 en kanji pero es más común en kana.",
+      "cardRef": { "category": "vocabulary", "front": "たぶん" }
+    },
+    {
+      "front": "全然",
+      "back": "para nada / not at all",
+      "reading": "ぜんぜん",
+      "explanation": "全然 (zenzen) se usa con verbos negativos para decir 'para nada'. Ejemplo: 全然わからない (no entiendo para nada). Ojo: en japonés informal moderno también se usa con positivos (全然大丈夫 = totalmente bien).",
+      "cardRef": { "category": "vocabulary", "front": "全然" }
+    },
+    {
+      "front": "ぜひ",
+      "back": "sin falta, definitivamente / by all means, definitely",
+      "reading": "ぜひ",
+      "explanation": "ぜひ (zehi) expresa un deseo fuerte: 'sin falta' o 'definitivamente'. Ejemplo: ぜひ来てください (venite sin falta, por favor). Se usa mucho para invitar o recomendar algo.",
+      "cardRef": { "category": "vocabulary", "front": "ぜひ" }
+    },
+    {
+      "front": "やっぱり",
+      "back": "como pensaba, al final / as expected, after all",
+      "reading": "やっぱり",
+      "explanation": "やっぱり (yappari) es 'como pensaba' o 'al final'. Lo usás cuando algo confirma lo que ya sospechabas. Ejemplo: やっぱり難しい (como pensaba, es difícil). La forma corta es やっぱ.",
+      "cardRef": { "category": "vocabulary", "front": "やっぱり" }
+    },
+    {
+      "front": "特に",
+      "back": "especialmente / especially, particularly",
+      "reading": "とくに",
+      "explanation": "特に (toku ni) es 'especialmente' o 'en particular'. Ejemplo: 日本料理が好きです。特にラーメンが好きです。(Me gusta la comida japonesa. Especialmente el ramen).",
+      "cardRef": { "category": "vocabulary", "front": "特に" }
+    },
+    {
+      "front": "急に",
+      "back": "de repente / suddenly",
+      "reading": "きゅうに",
+      "explanation": "急に (kyuu ni) es 'de repente' o 'de golpe'. Indica que algo pasa sin aviso. Ejemplo: 急に雨が降った (de repente llovió). El kanji 急 significa 'urgente/repentino'.",
+      "cardRef": { "category": "vocabulary", "front": "急に" }
+    },
+    {
+      "front": "だんだん",
+      "back": "gradualmente, poco a poco / gradually",
+      "reading": "だんだん",
+      "explanation": "だんだん (dandan) es 'gradualmente' o 'poco a poco'. Indica un cambio progresivo. Ejemplo: だんだん寒くなった (se fue poniendo frío de a poco). Se puede escribir 段々 pero casi siempre va en kana.",
+      "cardRef": { "category": "vocabulary", "front": "だんだん" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Expresiones que dan color",
+      "instruction": "Estas expresiones son las que hacen que tu japonés suene natural. Son adverbios y palabras que los japoneses usan constantemente en la conversación diaria. Leé cada una y fijate en los ejemplos.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto de cada expresión.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recall",
+      "title": "Del español al japonés",
+      "instruction": "Ves el significado en español. Escribí la expresión en japonés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "listen-transcribe",
+      "title": "Escuchá y escribí",
+      "instruction": "Escuchá la pronunciación y escribí la expresión en japonés.",
+      "itemIndices": [0, 2, 4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "¡Expresiones incorporadas!",
+      "instruction": "Ahora conocés もちろん, たぶん, 全然, ぜひ, やっぱり, 特に, 急に y だんだん. Usá estas expresiones para sonar mucho más natural en japonés. Van a aparecer en tus repasos.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

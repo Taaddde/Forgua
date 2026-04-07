@@ -1,0 +1,161 @@
+{
+  "id": "kanji-n5-04",
+  "title": "Kanji: Posición y conceptos",
+  "description": "Arriba, abajo, izquierda, derecha, puntos cardinales y conceptos de lugar",
+  "level": "n5",
+  "category": "characters",
+  "items": [
+    {
+      "front": "上",
+      "back": "arriba, encima / up, above",
+      "reading": "うえ",
+      "explanation": "On'yomi: じょう (jou). Kun'yomi: うえ (ue), あ(がる) (a(garu)), のぼ(る) (nobo(ru)). 上 = arriba.",
+      "mnemonic": "Una línea base con un trazo que sube — señalando hacia arriba.",
+      "cardRef": { "category": "characters", "front": "上" }
+    },
+    {
+      "front": "下",
+      "back": "abajo, debajo / down, below",
+      "reading": "した",
+      "explanation": "On'yomi: か (ka), げ (ge). Kun'yomi: した (shita), さ(がる) (sa(garu)), くだ(る) (kuda(ru)).",
+      "mnemonic": "Una línea base con un trazo que baja — señalando hacia abajo.",
+      "cardRef": { "category": "characters", "front": "下" }
+    },
+    {
+      "front": "中",
+      "back": "dentro, medio, centro / inside, middle",
+      "reading": "なか",
+      "explanation": "On'yomi: ちゅう (chuu). Kun'yomi: なか (naka). 中国 (ちゅうごく) = China (país del centro).",
+      "mnemonic": "Una línea atravesando un rectángulo por el medio — el centro.",
+      "cardRef": { "category": "characters", "front": "中" }
+    },
+    {
+      "front": "左",
+      "back": "izquierda / left",
+      "reading": "ひだり",
+      "explanation": "On'yomi: さ (sa). Kun'yomi: ひだり (hidari).",
+      "mnemonic": "Una mano (ナ) sosteniendo una regla (工) — la mano izquierda del artesano.",
+      "cardRef": { "category": "characters", "front": "左" }
+    },
+    {
+      "front": "右",
+      "back": "derecha / right",
+      "reading": "みぎ",
+      "explanation": "On'yomi: う (u), ゆう (yuu). Kun'yomi: みぎ (migi).",
+      "mnemonic": "Una mano (ナ) y una boca (口) — la mano derecha que lleva la comida a la boca.",
+      "cardRef": { "category": "characters", "front": "右" }
+    },
+    {
+      "front": "前",
+      "back": "delante, antes / front, before",
+      "reading": "まえ",
+      "explanation": "On'yomi: ぜん (zen). Kun'yomi: まえ (mae). 名前 (なまえ) = nombre. 午前 (ごぜん) = AM.",
+      "mnemonic": "Dos pies avanzando con un cuchillo cortando camino — ir hacia adelante.",
+      "cardRef": { "category": "characters", "front": "前" }
+    },
+    {
+      "front": "後",
+      "back": "detrás, después / behind, after",
+      "reading": "うしろ",
+      "explanation": "On'yomi: ご (go), こう (kou). Kun'yomi: うし(ろ) (ushi(ro)), あと (ato), のち (nochi). 午後 (ごご) = PM.",
+      "mnemonic": "Pies (彳) que se arrastran con hilos (幺) atrás — quedarse detrás.",
+      "cardRef": { "category": "characters", "front": "後" }
+    },
+    {
+      "front": "北",
+      "back": "norte / north",
+      "reading": "きた",
+      "explanation": "On'yomi: ほく (hoku). Kun'yomi: きた (kita). 北海道 (ほっかいどう) = Hokkaido.",
+      "mnemonic": "Dos personas dándose la espalda — en el norte hace frío y se dan vuelta para cubrirse.",
+      "cardRef": { "category": "characters", "front": "北" }
+    },
+    {
+      "front": "南",
+      "back": "sur / south",
+      "reading": "みなみ",
+      "explanation": "On'yomi: なん (nan). Kun'yomi: みなみ (minami).",
+      "mnemonic": "Un edificio con plantas creciendo adentro — en el sur cálido todo crece.",
+      "cardRef": { "category": "characters", "front": "南" }
+    },
+    {
+      "front": "東",
+      "back": "este / east",
+      "reading": "ひがし",
+      "explanation": "On'yomi: とう (tou). Kun'yomi: ひがし (higashi). 東京 (とうきょう) = Tokio (capital del este).",
+      "mnemonic": "El sol (日) saliendo detrás de un árbol (木) — el sol sale por el este.",
+      "cardRef": { "category": "characters", "front": "東" }
+    },
+    {
+      "front": "西",
+      "back": "oeste / west",
+      "reading": "にし",
+      "explanation": "On'yomi: せい (sei), さい (sai). Kun'yomi: にし (nishi).",
+      "mnemonic": "Un pájaro volviendo a su nido al atardecer — el sol se pone por el oeste.",
+      "cardRef": { "category": "characters", "front": "西" }
+    },
+    {
+      "front": "国",
+      "back": "país / country",
+      "reading": "くに",
+      "explanation": "On'yomi: こく (koku). Kun'yomi: くに (kuni). 外国 (がいこく) = país extranjero.",
+      "mnemonic": "Un tesoro (玉) encerrado dentro de fronteras (囗) — un país protege sus tesoros.",
+      "cardRef": { "category": "characters", "front": "国" }
+    },
+    {
+      "front": "学",
+      "back": "estudio, aprender / study, learn",
+      "reading": "がく",
+      "explanation": "On'yomi: がく (gaku). Kun'yomi: まな(ぶ) (mana(bu)). 学生 (がくせい) = estudiante. 大学 (だいがく) = universidad.",
+      "mnemonic": "Un niño (子) bajo un techo estudiando con marcas de esfuerzo — aprender.",
+      "cardRef": { "category": "characters", "front": "学" }
+    },
+    {
+      "front": "校",
+      "back": "escuela (sufijo) / school",
+      "reading": "こう",
+      "explanation": "On'yomi: こう (kou). Kun'yomi: (raro). Siempre en compuestos: 学校 (がっこう) = escuela, 高校 (こうこう) = secundaria.",
+      "mnemonic": "Un árbol (木) con estructura — la escuela es como un árbol donde crecés.",
+      "cardRef": { "category": "characters", "front": "校" }
+    },
+    {
+      "front": "先",
+      "back": "antes, adelante, primero / before, ahead, first",
+      "reading": "さき",
+      "explanation": "On'yomi: せん (sen). Kun'yomi: さき (saki). 先生 (せんせい) = profesor (el que nació antes). 先週 (せんしゅう) = semana pasada.",
+      "mnemonic": "Dos piernas (儿) avanzando adelante — ir primero, estar adelante.",
+      "cardRef": { "category": "characters", "front": "先" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Posiciones: arriba, abajo y alrededor",
+      "instruction": "Empezamos con las posiciones básicas: arriba/abajo, dentro, izquierda/derecha, delante/detrás. Estos kanji son fundamentales para dar y entender direcciones en japonés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "introduce",
+      "title": "Puntos cardinales y conceptos",
+      "instruction": "Ahora los puntos cardinales (norte, sur, este, oeste) y conceptos de lugar (país, escuela, estudio). Dato: 東京 (Tokio) significa literalmente 'capital del este' y 北海道 (Hokkaido) es 'camino del mar del norte'.",
+      "itemIndices": [7, 8, 9, 10, 11, 12, 13, 14]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué kanji es?",
+      "instruction": "Te muestro un kanji y varias opciones de significado. Elegí la correcta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+    },
+    {
+      "type": "recall",
+      "title": "Escribí la lectura",
+      "instruction": "Ves el kanji, escribí su lectura principal en romaji.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste 15 kanji de posición y conceptos. Ya podés entender direcciones (上、下、左、右), puntos cardinales (北、南、東、西) y palabras como 学校 (escuela) y 先生 (profesor). ¡Genial!",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+    }
+  ]
+}

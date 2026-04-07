@@ -1,0 +1,135 @@
+{
+  "id": "katakana-05",
+  "title": "Katakana: ヤ行・ラ行・ワ行 + ン (ya~yo, ra~ro, wa, wo, n)",
+  "description": "Las filas Y, R, W y el carácter especial ン — los últimos katakana básicos",
+  "level": "n5",
+  "category": "characters",
+  "items": [
+    {
+      "front": "ヤ",
+      "back": "ya",
+      "reading": "ya",
+      "explanation": "Sílaba 'ya'. Trazos angulares que forman una estructura abierta.",
+      "mnemonic": "Parece un llavero — 'Ya-vero' con las llaves colgando",
+      "cardRef": { "category": "characters", "front": "ヤ" }
+    },
+    {
+      "front": "ユ",
+      "back": "yu",
+      "reading": "yu",
+      "explanation": "Sílaba 'yu'. Un trazo que forma un ángulo recto abierto.",
+      "mnemonic": "Parece una cañería con un codo — 'Yu-nta' de caños",
+      "cardRef": { "category": "characters", "front": "ユ" }
+    },
+    {
+      "front": "ヨ",
+      "back": "yo",
+      "reading": "yo",
+      "explanation": "Sílaba 'yo'. Tres trazos horizontales conectados a la derecha.",
+      "mnemonic": "Parece una E invertida o un tenedor de costado — 'Yo' como pincho",
+      "cardRef": { "category": "characters", "front": "ヨ" }
+    },
+    {
+      "front": "ラ",
+      "back": "ra",
+      "reading": "ra",
+      "explanation": "Sílaba 'ra'. Un trazo angular arriba con una curva suave abajo.",
+      "mnemonic": "Parece un rapero con gorra — 'Ra-p' haciendo un gesto",
+      "cardRef": { "category": "characters", "front": "ラ" }
+    },
+    {
+      "front": "リ",
+      "back": "ri",
+      "reading": "ri",
+      "explanation": "Sílaba 'ri'. Dos trazos verticales, uno más largo que el otro.",
+      "mnemonic": "Parece dos palitos de diferente tamaño — 'Ri-tmo' marcado con baquetas",
+      "cardRef": { "category": "characters", "front": "リ" }
+    },
+    {
+      "front": "ル",
+      "back": "ru",
+      "reading": "ru",
+      "explanation": "Sílaba 'ru'. Un trazo que baja recto y termina en gancho.",
+      "mnemonic": "Parece la pata de un mueble — 'Ru-eda' con soporte angular",
+      "cardRef": { "category": "characters", "front": "ル" }
+    },
+    {
+      "front": "レ",
+      "back": "re",
+      "reading": "re",
+      "explanation": "Sílaba 're'. Un solo trazo angular como una L invertida.",
+      "mnemonic": "Parece una reja de perfil — 'Re-ja' de metal angular",
+      "cardRef": { "category": "characters", "front": "レ" }
+    },
+    {
+      "front": "ロ",
+      "back": "ro",
+      "reading": "ro",
+      "explanation": "Sílaba 'ro'. Un rectángulo abierto abajo, como una boca.",
+      "mnemonic": "Parece una boca cuadrada de robot — 'Ro-bot' hablando",
+      "cardRef": { "category": "characters", "front": "ロ" }
+    },
+    {
+      "front": "ワ",
+      "back": "wa",
+      "reading": "wa",
+      "explanation": "Sílaba 'wa'. Similar a ウ pero con una curva más abierta.",
+      "mnemonic": "Parece una copa de vino — 'Wa-ine' (wine) servido en la copa",
+      "cardRef": { "category": "characters", "front": "ワ" }
+    },
+    {
+      "front": "ヲ",
+      "back": "wo",
+      "reading": "wo",
+      "explanation": "Sílaba 'wo'. Rara vez usado en katakana. Se pronuncia igual que オ (o) en japonés moderno.",
+      "mnemonic": "Parece un フ (fu) con un trazo extra arriba — 'Wo-w!' sorprendido",
+      "cardRef": { "category": "characters", "front": "ヲ" }
+    },
+    {
+      "front": "ン",
+      "back": "n",
+      "reading": "n",
+      "explanation": "El único carácter que es solo una consonante. Se pronuncia como la 'n' al final de 'pan'.",
+      "mnemonic": "Parece una persona recostada pensando — 'N-mmmm...' meditando",
+      "cardRef": { "category": "characters", "front": "ン" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Las últimas filas del katakana básico",
+      "instruction": "Estas son las filas ヤ (ya), ラ (ra), ワ (wa) y el especial ン (n). Con estos completás los 46 katakana básicos. ¡Ojo con ン (n) y ソ (so) que se parecen!",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es cuál?",
+      "instruction": "Elegí la lectura correcta para cada carácter.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se lee?",
+      "instruction": "Ves el carácter. Escribí cómo se pronuncia.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    {
+      "type": "listen-transcribe",
+      "title": "Escuchá y escribí",
+      "instruction": "Escuchá el sonido y escribí qué carácter es.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    {
+      "type": "speak",
+      "title": "Decilo vos",
+      "instruction": "Escuchá el ejemplo y repetilo en voz alta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "¡Aprendiste los 46 katakana básicos! Ya podés leer cualquier katakana puro. En la próxima lección aprendés los dakuten y handakuten para completar todo el set.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    }
+  ]
+}

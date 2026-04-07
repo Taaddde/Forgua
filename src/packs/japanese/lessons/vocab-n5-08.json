@@ -1,0 +1,97 @@
+{
+  "id": "vocab-n5-08",
+  "title": "Verbos cotidianos 2",
+  "description": "かく、よむ、はなす — más verbos para el día a día",
+  "level": "n5",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "書く",
+      "back": "escribir / to write",
+      "reading": "かく",
+      "explanation": "Escribir. Verbo godan. 手紙を書く (tegami wo kaku) = 'escribir una carta'. También: 名前を書く = 'escribir el nombre'.",
+      "cardRef": { "category": "vocabulary", "front": "書く" }
+    },
+    {
+      "front": "読む",
+      "back": "leer / to read",
+      "reading": "よむ",
+      "explanation": "Leer. Verbo godan. 本を読む (hon wo yomu) = 'leer un libro'. La て-form es 読んで (yonde). Se usa mucho en la vida diaria.",
+      "cardRef": { "category": "vocabulary", "front": "読む" }
+    },
+    {
+      "front": "話す",
+      "back": "hablar / to speak",
+      "reading": "はなす",
+      "explanation": "Hablar. Verbo godan. 日本語を話す (nihongo wo hanasu) = 'hablar japonés'. No confundir con 聞く (escuchar/preguntar).",
+      "cardRef": { "category": "vocabulary", "front": "話す" }
+    },
+    {
+      "front": "買う",
+      "back": "comprar / to buy",
+      "reading": "かう",
+      "explanation": "Comprar. Verbo godan. パンを買う (pan wo kau) = 'comprar pan'. La て-form es 買って (katte). Muy útil para ir de compras.",
+      "cardRef": { "category": "vocabulary", "front": "買う" }
+    },
+    {
+      "front": "会う",
+      "back": "encontrarse, reunirse / to meet",
+      "reading": "あう",
+      "explanation": "Encontrarse con alguien. 友達に会う (tomodachi ni au) = 'encontrarse con un amigo'. Ojo: se usa la partícula に, no を.",
+      "cardRef": { "category": "vocabulary", "front": "会う" }
+    },
+    {
+      "front": "待つ",
+      "back": "esperar / to wait",
+      "reading": "まつ",
+      "explanation": "Esperar. Verbo godan. ちょっと待って (chotto matte) = 'esperá un momento'. Es una de las frases más útiles del japonés cotidiano.",
+      "cardRef": { "category": "vocabulary", "front": "待つ" }
+    },
+    {
+      "front": "分かる",
+      "back": "entender / to understand",
+      "reading": "わかる",
+      "explanation": "Entender, comprender. 分かりません (wakarimasen) = 'no entiendo'. Es una de las primeras frases que necesitás como estudiante. El sujeto lleva が, no を.",
+      "cardRef": { "category": "vocabulary", "front": "分かる" }
+    },
+    {
+      "front": "教える",
+      "back": "enseñar / to teach",
+      "reading": "おしえる",
+      "explanation": "Enseñar, informar. Verbo ichidan. 日本語を教える (nihongo wo oshieru) = 'enseñar japonés'. También significa 'decir/informar': 道を教える = 'indicar el camino'.",
+      "cardRef": { "category": "vocabulary", "front": "教える" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Palabras nuevas",
+      "instruction": "Estos verbos expanden tu capacidad de expresión. Con ellos podés hablar de leer, escribir, hablar, comprar y más.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recall",
+      "title": "Escribí la palabra",
+      "instruction": "Ves el significado, escribí la palabra en japonés (romaji).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "listen-transcribe",
+      "title": "Escuchá y escribí",
+      "instruction": "Escuchá la pronunciación y escribí lo que oís.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste 書く、読む、話す、買う、会う、待つ、分かる、教える. Ya tenés un arsenal sólido de verbos. Estas palabras se suman a tu repaso diario.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

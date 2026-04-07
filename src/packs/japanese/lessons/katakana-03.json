@@ -1,0 +1,127 @@
+{
+  "id": "katakana-03",
+  "title": "Katakana: タ行 + ナ行 (ta~to, na~no)",
+  "description": "Las consonantes T y N en katakana — 10 caracteres nuevos",
+  "level": "n5",
+  "category": "characters",
+  "items": [
+    {
+      "front": "タ",
+      "back": "ta",
+      "reading": "ta",
+      "explanation": "Sílaba 'ta'. Trazos angulares que recuerdan a un kanji simplificado.",
+      "mnemonic": "Parece la letra 'ta' escrita con prisa — un tajo diagonal cruzado",
+      "cardRef": { "category": "characters", "front": "タ" }
+    },
+    {
+      "front": "チ",
+      "back": "chi",
+      "reading": "chi",
+      "explanation": "Sílaba 'chi' (no 'ti'). Un trazo horizontal arriba con una curva abajo.",
+      "mnemonic": "Parece un número 5 estirado — 'Chi-nco' (cinco con acento)",
+      "cardRef": { "category": "characters", "front": "チ" }
+    },
+    {
+      "front": "ツ",
+      "back": "tsu",
+      "reading": "tsu",
+      "explanation": "Sílaba 'tsu'. Tres trazos: dos puntos arriba y una curva. ¡Cuidado! Se parece a シ (shi).",
+      "mnemonic": "Parece una cara con los ojos bien abiertos — 'Tsu-nami viene!' Los trazos van de arriba a abajo (vertical).",
+      "cardRef": { "category": "characters", "front": "ツ" }
+    },
+    {
+      "front": "テ",
+      "back": "te",
+      "reading": "te",
+      "explanation": "Sílaba 'te'. Un trazo horizontal largo cruzado por uno corto.",
+      "mnemonic": "Parece una mesa de costado — 'Te-léfono apoyado en la mesa'",
+      "cardRef": { "category": "characters", "front": "テ" }
+    },
+    {
+      "front": "ト",
+      "back": "to",
+      "reading": "to",
+      "explanation": "Sílaba 'to'. Solo dos trazos simples formando un ángulo.",
+      "mnemonic": "Parece un poste de luz — 'To-rre' eléctrica en miniatura",
+      "cardRef": { "category": "characters", "front": "ト" }
+    },
+    {
+      "front": "ナ",
+      "back": "na",
+      "reading": "na",
+      "explanation": "Sílaba 'na'. Dos trazos que se cruzan formando una X incompleta.",
+      "mnemonic": "Parece un cuchillo clavado en una tabla — 'Na-vaja' afilada",
+      "cardRef": { "category": "characters", "front": "ナ" }
+    },
+    {
+      "front": "ニ",
+      "back": "ni",
+      "reading": "ni",
+      "explanation": "Sílaba 'ni'. Dos trazos horizontales paralelos, muy simple.",
+      "mnemonic": "Son dos líneas como el signo igual — 'Ni' uno 'ni' otro, los dos iguales",
+      "cardRef": { "category": "characters", "front": "ニ" }
+    },
+    {
+      "front": "ヌ",
+      "back": "nu",
+      "reading": "nu",
+      "explanation": "Sílaba 'nu'. Trazos curvos que se cruzan.",
+      "mnemonic": "Parece un lazo o nudo flojo — 'Nu-do' enredado",
+      "cardRef": { "category": "characters", "front": "ヌ" }
+    },
+    {
+      "front": "ネ",
+      "back": "ne",
+      "reading": "ne",
+      "explanation": "Sílaba 'ne'. Varios trazos que se conectan en el centro.",
+      "mnemonic": "Parece una red de pescar — 'Ne-t' (red en inglés)",
+      "cardRef": { "category": "characters", "front": "ネ" }
+    },
+    {
+      "front": "ノ",
+      "back": "no",
+      "reading": "no",
+      "explanation": "Sílaba 'no'. ¡El katakana más simple! Un solo trazo diagonal.",
+      "mnemonic": "Es como una barra diagonal diciendo 'NO' — una línea tachando",
+      "cardRef": { "category": "characters", "front": "ノ" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Consonantes T y N en katakana",
+      "instruction": "Estas son las filas タ (ta) y ナ (na) del katakana. Cuidado con ツ (tsu) y シ (shi) que se confunden fácil: en ツ los trazos van más vertical, en シ van más horizontal.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es cuál?",
+      "instruction": "Elegí la lectura correcta para cada carácter.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se lee?",
+      "instruction": "Ves el carácter. Escribí cómo se pronuncia.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "listen-transcribe",
+      "title": "Escuchá y escribí",
+      "instruction": "Escuchá el sonido y escribí qué carácter es.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "speak",
+      "title": "Decilo vos",
+      "instruction": "Escuchá el ejemplo y repetilo en voz alta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste las filas T y N del katakana. Ya conocés 25 katakana en total. ¡Vas por la mitad!",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

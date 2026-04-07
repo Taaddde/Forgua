@@ -1,0 +1,127 @@
+{
+  "id": "katakana-04",
+  "title": "Katakana: ハ行 + マ行 (ha~ho, ma~mo)",
+  "description": "Las consonantes H y M en katakana — 10 caracteres nuevos",
+  "level": "n5",
+  "category": "characters",
+  "items": [
+    {
+      "front": "ハ",
+      "back": "ha",
+      "reading": "ha",
+      "explanation": "Sílaba 'ha'. Dos trazos diagonales que se abren como un abanico.",
+      "mnemonic": "Parece las alas de un pájaro abiertas — '¡Ha! Volando alto!'",
+      "cardRef": { "category": "characters", "front": "ハ" }
+    },
+    {
+      "front": "ヒ",
+      "back": "hi",
+      "reading": "hi",
+      "explanation": "Sílaba 'hi'. Un trazo curvo que recuerda una sonrisa.",
+      "mnemonic": "Parece una boca abierta riendo — 'Hi hi hi' riéndose",
+      "cardRef": { "category": "characters", "front": "ヒ" }
+    },
+    {
+      "front": "フ",
+      "back": "fu",
+      "reading": "fu",
+      "explanation": "Sílaba 'fu' (entre 'fu' y 'hu'). Un solo trazo curvo simple.",
+      "mnemonic": "Parece el borde de una taza de café — 'Fu-uu' soplando para enfriar",
+      "cardRef": { "category": "characters", "front": "フ" }
+    },
+    {
+      "front": "ヘ",
+      "back": "he",
+      "reading": "he",
+      "explanation": "Sílaba 'he'. Un solo trazo angular como un techo. ¡Es idéntico al hiragana へ!",
+      "mnemonic": "Parece la punta de una flecha — 'He-ading' (apuntando) hacia la derecha",
+      "cardRef": { "category": "characters", "front": "ヘ" }
+    },
+    {
+      "front": "ホ",
+      "back": "ho",
+      "reading": "ho",
+      "explanation": "Sílaba 'ho'. Trazos que forman una estructura como un poste con brazos.",
+      "mnemonic": "Parece un espantapájaros — '¡Ho-la!' saludando con los brazos abiertos",
+      "cardRef": { "category": "characters", "front": "ホ" }
+    },
+    {
+      "front": "マ",
+      "back": "ma",
+      "reading": "ma",
+      "explanation": "Sílaba 'ma'. Dos trazos horizontales con uno diagonal.",
+      "mnemonic": "Parece una mama con el brazo extendido — 'Ma-má' llamándote",
+      "cardRef": { "category": "characters", "front": "マ" }
+    },
+    {
+      "front": "ミ",
+      "back": "mi",
+      "reading": "mi",
+      "explanation": "Sílaba 'mi'. Tres trazos horizontales paralelos.",
+      "mnemonic": "Son tres líneas como las rayas de un gato — 'Mi-chi' (gato en japonés informal)",
+      "cardRef": { "category": "characters", "front": "ミ" }
+    },
+    {
+      "front": "ム",
+      "back": "mu",
+      "reading": "mu",
+      "explanation": "Sílaba 'mu'. Un trazo angular que termina en curva.",
+      "mnemonic": "Parece la cabeza de una vaca — 'Mu-uuu' mugiendo",
+      "cardRef": { "category": "characters", "front": "ム" }
+    },
+    {
+      "front": "メ",
+      "back": "me",
+      "reading": "me",
+      "explanation": "Sílaba 'me'. Dos trazos que se cruzan formando una X alargada.",
+      "mnemonic": "Parece dos palitos chinos cruzados — 'Me-sa' lista para comer",
+      "cardRef": { "category": "characters", "front": "メ" }
+    },
+    {
+      "front": "モ",
+      "back": "mo",
+      "reading": "mo",
+      "explanation": "Sílaba 'mo'. Trazos horizontales con uno vertical.",
+      "mnemonic": "Parece la letra E al revés — 'Mo-strá' lo que aprendiste",
+      "cardRef": { "category": "characters", "front": "モ" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Consonantes H y M en katakana",
+      "instruction": "Estas son las filas ハ (ha) y マ (ma) del katakana. Dato curioso: ヘ (he) se escribe exactamente igual en hiragana y katakana.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es cuál?",
+      "instruction": "Elegí la lectura correcta para cada carácter.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se lee?",
+      "instruction": "Ves el carácter. Escribí cómo se pronuncia.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "listen-transcribe",
+      "title": "Escuchá y escribí",
+      "instruction": "Escuchá el sonido y escribí qué carácter es.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "speak",
+      "title": "Decilo vos",
+      "instruction": "Escuchá el ejemplo y repetilo en voz alta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste las filas H y M del katakana. Ya conocés 35 katakana. ¡Falta poco para completar el set!",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

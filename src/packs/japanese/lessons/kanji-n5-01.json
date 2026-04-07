@@ -1,0 +1,185 @@
+{
+  "id": "kanji-n5-01",
+  "title": "Kanji: Números y tiempo",
+  "description": "一、二、三... Los kanji más básicos, empezando por los números y conceptos de tiempo",
+  "level": "n5",
+  "category": "characters",
+  "items": [
+    {
+      "front": "一",
+      "back": "uno / one",
+      "reading": "いち",
+      "explanation": "El kanji más simple: un trazo horizontal = 1. On'yomi: いち (ichi). Kun'yomi: ひと(つ) (hito(tsu)).",
+      "mnemonic": "Un solo trazo horizontal — uno.",
+      "cardRef": { "category": "characters", "front": "一" }
+    },
+    {
+      "front": "二",
+      "back": "dos / two",
+      "reading": "に",
+      "explanation": "Dos trazos horizontales = 2. On'yomi: に (ni). Kun'yomi: ふた(つ) (futa(tsu)).",
+      "mnemonic": "Dos líneas paralelas — dos.",
+      "cardRef": { "category": "characters", "front": "二" }
+    },
+    {
+      "front": "三",
+      "back": "tres / three",
+      "reading": "さん",
+      "explanation": "Tres trazos horizontales = 3. On'yomi: さん (san). Kun'yomi: み(つ) (mi(tsu)).",
+      "mnemonic": "Tres líneas apiladas — tres. ¡El patrón es claro!",
+      "cardRef": { "category": "characters", "front": "三" }
+    },
+    {
+      "front": "四",
+      "back": "cuatro / four",
+      "reading": "し",
+      "explanation": "Acá el patrón de trazos se rompe. On'yomi: し (shi). Kun'yomi: よん (yon), よ(つ) (yo(tsu)). Se usa よん para evitar し que suena como 死 (muerte).",
+      "mnemonic": "Parece una ventana con cuatro paneles — cuatro.",
+      "cardRef": { "category": "characters", "front": "四" }
+    },
+    {
+      "front": "五",
+      "back": "cinco / five",
+      "reading": "ご",
+      "explanation": "On'yomi: ご (go). Kun'yomi: いつ(つ) (itsu(tsu)).",
+      "mnemonic": "Parece un bailarín haciendo una pirueta — cinco dedos de cada mano al girar.",
+      "cardRef": { "category": "characters", "front": "五" }
+    },
+    {
+      "front": "六",
+      "back": "seis / six",
+      "reading": "ろく",
+      "explanation": "On'yomi: ろく (roku). Kun'yomi: む(つ) (mu(tsu)).",
+      "mnemonic": "Un techo con patas — como una mesa con seis patas.",
+      "cardRef": { "category": "characters", "front": "六" }
+    },
+    {
+      "front": "七",
+      "back": "siete / seven",
+      "reading": "しち",
+      "explanation": "On'yomi: しち (shichi). Kun'yomi: なな (nana). Se usa なな frecuentemente para evitar confusión con し (cuatro).",
+      "mnemonic": "Parece un 7 invertido — siete.",
+      "cardRef": { "category": "characters", "front": "七" }
+    },
+    {
+      "front": "八",
+      "back": "ocho / eight",
+      "reading": "はち",
+      "explanation": "On'yomi: はち (hachi). Kun'yomi: や(つ) (ya(tsu)).",
+      "mnemonic": "Dos trazos que se abren como un abanico — ocho.",
+      "cardRef": { "category": "characters", "front": "八" }
+    },
+    {
+      "front": "九",
+      "back": "nueve / nine",
+      "reading": "きゅう",
+      "explanation": "On'yomi: きゅう (kyuu), く (ku). Kun'yomi: ここの(つ) (kokono(tsu)).",
+      "mnemonic": "Parece un brazo flexionado — nueve es casi diez, ¡falta poquito!",
+      "cardRef": { "category": "characters", "front": "九" }
+    },
+    {
+      "front": "十",
+      "back": "diez / ten",
+      "reading": "じゅう",
+      "explanation": "Una cruz = 10. On'yomi: じゅう (juu). Kun'yomi: とお (too).",
+      "mnemonic": "Una cruz perfecta: un trazo horizontal + uno vertical = diez.",
+      "cardRef": { "category": "characters", "front": "十" }
+    },
+    {
+      "front": "百",
+      "back": "cien / hundred",
+      "reading": "ひゃく",
+      "explanation": "On'yomi: ひゃく (hyaku). No tiene kun'yomi común.",
+      "mnemonic": "一 (uno) sobre 白 (blanco) — cien cosas blancas.",
+      "cardRef": { "category": "characters", "front": "百" }
+    },
+    {
+      "front": "千",
+      "back": "mil / thousand",
+      "reading": "せん",
+      "explanation": "On'yomi: せん (sen). Kun'yomi: ち (chi).",
+      "mnemonic": "Parece una persona con un sombrero enorme — se necesitan mil para llenar un estadio.",
+      "cardRef": { "category": "characters", "front": "千" }
+    },
+    {
+      "front": "万",
+      "back": "diez mil / ten thousand",
+      "reading": "まん",
+      "explanation": "On'yomi: まん (man), ばん (ban). Kun'yomi: (raro).",
+      "mnemonic": "Un kanji ancho con muchos trazos — diez mil es un número grande.",
+      "cardRef": { "category": "characters", "front": "万" }
+    },
+    {
+      "front": "円",
+      "back": "yen (moneda) / yen, circle",
+      "reading": "えん",
+      "explanation": "On'yomi: えん (en). Kun'yomi: まる(い) (maru(i), redondo). Es la moneda japonesa ¥.",
+      "mnemonic": "Parece una moneda con líneas dentro — el yen japonés.",
+      "cardRef": { "category": "characters", "front": "円" }
+    },
+    {
+      "front": "時",
+      "back": "hora, tiempo / time, hour",
+      "reading": "じ",
+      "explanation": "On'yomi: じ (ji). Kun'yomi: とき (toki). Se usa en 一時 (いちじ, la una en punto).",
+      "mnemonic": "日 (sol) + 寺 (templo) — el templo marca las horas con su campana.",
+      "cardRef": { "category": "characters", "front": "時" }
+    },
+    {
+      "front": "日",
+      "back": "día, sol / day, sun",
+      "reading": "にち",
+      "explanation": "On'yomi: にち (nichi), じつ (jitsu). Kun'yomi: ひ (hi), か (ka, en fechas).",
+      "mnemonic": "Un rectángulo con una línea — el sol simplificado.",
+      "cardRef": { "category": "characters", "front": "日" }
+    },
+    {
+      "front": "月",
+      "back": "mes, luna / month, moon",
+      "reading": "げつ",
+      "explanation": "On'yomi: げつ (getsu), がつ (gatsu, en meses). Kun'yomi: つき (tsuki).",
+      "mnemonic": "Una luna creciente estilizada — la luna marca los meses.",
+      "cardRef": { "category": "characters", "front": "月" }
+    },
+    {
+      "front": "年",
+      "back": "año / year",
+      "reading": "ねん",
+      "explanation": "On'yomi: ねん (nen). Kun'yomi: とし (toshi).",
+      "mnemonic": "Una persona cargando la cosecha — cada año se cosecha.",
+      "cardRef": { "category": "characters", "front": "年" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Números del 1 al 10",
+      "instruction": "Empezamos con los números básicos. Los primeros tres (一、二、三) son intuitivos: uno, dos y tres trazos horizontales. Después la cosa se pone más interesante. Mirá cada kanji, su significado y el truco para recordarlo.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "introduce",
+      "title": "Cantidades grandes y tiempo",
+      "instruction": "Ahora vamos con los números grandes (百、千、万), la moneda (円) y los kanji de tiempo (時、日、月、年). Estos los vas a ver constantemente en fechas, precios y horarios.",
+      "itemIndices": [10, 11, 12, 13, 14, 15, 16, 17]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué kanji es?",
+      "instruction": "Te muestro un kanji y varias opciones de significado. Elegí la correcta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+    },
+    {
+      "type": "recall",
+      "title": "Escribí la lectura",
+      "instruction": "Ves el kanji, escribí su lectura principal en romaji.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste 18 kanji de números y tiempo. Ya podés leer precios (百円, 千円), fechas (一月, 二日) y horarios (三時). ¡Estos kanji van a aparecer en tus repasos!",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+    }
+  ]
+}

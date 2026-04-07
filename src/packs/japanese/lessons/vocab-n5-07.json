@@ -1,0 +1,104 @@
+{
+  "id": "vocab-n5-07",
+  "title": "Verbos cotidianos 1",
+  "description": "たべる、のむ、みる — los verbos que usás todos los días",
+  "level": "n5",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "食べる",
+      "back": "comer / to eat",
+      "reading": "たべる",
+      "explanation": "Comer. Es un verbo ichidan (grupo 2), así que se conjuga fácil: 食べます (tabemasu, formal), 食べない (tabenai, negativo). ご飯を食べる = 'comer'.",
+      "cardRef": { "category": "vocabulary", "front": "食べる" }
+    },
+    {
+      "front": "飲む",
+      "back": "beber / to drink",
+      "reading": "のむ",
+      "explanation": "Beber, tomar. Es un verbo godan (grupo 1). 水を飲む (mizu wo nomu) = 'tomar agua'. También se usa para medicamentos: 薬を飲む = 'tomar medicina'.",
+      "cardRef": { "category": "vocabulary", "front": "飲む" }
+    },
+    {
+      "front": "見る",
+      "back": "ver, mirar / to see, to watch",
+      "reading": "みる",
+      "explanation": "Ver, mirar. Verbo ichidan. テレビを見る (terebi wo miru) = 'ver televisión'. 映画を見る = 'ver una película'.",
+      "cardRef": { "category": "vocabulary", "front": "見る" }
+    },
+    {
+      "front": "聞く",
+      "back": "escuchar, preguntar / to listen, to ask",
+      "reading": "きく",
+      "explanation": "Escuchar o preguntar (¡doble significado!). 音楽を聞く = 'escuchar música'. 先生に聞く = 'preguntarle al profesor'. El contexto aclara cuál es.",
+      "cardRef": { "category": "vocabulary", "front": "聞く" }
+    },
+    {
+      "front": "行く",
+      "back": "ir / to go",
+      "reading": "いく",
+      "explanation": "Ir. Verbo godan pero con conjugación irregular en て-form: 行って (itte), no 行いて. 学校に行く (gakkou ni iku) = 'ir a la escuela'.",
+      "cardRef": { "category": "vocabulary", "front": "行く" }
+    },
+    {
+      "front": "来る",
+      "back": "venir / to come",
+      "reading": "くる",
+      "explanation": "Venir. Es uno de los dos verbos irregulares del japonés (junto con する). Conjugación: 来ます (kimasu), 来ない (konai), 来て (kite). Hay que memorizarlo.",
+      "cardRef": { "category": "vocabulary", "front": "来る" }
+    },
+    {
+      "front": "する",
+      "back": "hacer / to do",
+      "reading": "する",
+      "explanation": "Hacer. El otro verbo irregular. Se combina con sustantivos para crear verbos: 勉強する (benkyou suru) = estudiar, 料理する (ryouri suru) = cocinar. Es el verbo comodín.",
+      "cardRef": { "category": "vocabulary", "front": "する" }
+    },
+    {
+      "front": "ある",
+      "back": "haber, existir (inanimado) / to exist (inanimate)",
+      "reading": "ある",
+      "explanation": "Existir, haber — para cosas inanimadas (objetos, plantas). 本がある (hon ga aru) = 'hay un libro'. Para seres vivos se usa いる.",
+      "cardRef": { "category": "vocabulary", "front": "ある" }
+    },
+    {
+      "front": "いる",
+      "back": "haber, existir (animado) / to exist (animate)",
+      "reading": "いる",
+      "explanation": "Existir, haber — para seres animados (personas, animales). 猫がいる (neko ga iru) = 'hay un gato'. Para objetos se usa ある. Esta distinción es clave.",
+      "cardRef": { "category": "vocabulary", "front": "いる" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Palabras nuevas",
+      "instruction": "Estos son los verbos más fundamentales del japonés. Sin ellos no podés formar oraciones. Prestá especial atención a する y 来る, que son irregulares.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "type": "recall",
+      "title": "Escribí la palabra",
+      "instruction": "Ves el significado, escribí la palabra en japonés (romaji).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "type": "listen-transcribe",
+      "title": "Escuchá y escribí",
+      "instruction": "Escuchá la pronunciación y escribí lo que oís.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste 食べる、飲む、見る、聞く、行く、来る、する、ある、いる. Son los verbos más usados del japonés. Estas palabras se suman a tu repaso diario.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    }
+  ]
+}

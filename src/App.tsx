@@ -7,8 +7,7 @@ import { LoadingScreen } from './core/components/common/LoadingScreen';
 const Dashboard = lazy(() => import('./core/pages/Dashboard'));
 const Study = lazy(() => import('./core/pages/Study'));
 const Lessons = lazy(() => import('./core/pages/Lessons'));
-const Learn = lazy(() => import('./core/pages/Learn'));
-const Browse = lazy(() => import('./core/pages/Browse'));
+const Explore = lazy(() => import('./core/pages/Explore'));
 const Reading = lazy(() => import('./core/pages/Reading'));
 const Listening = lazy(() => import('./core/pages/Listening'));
 const Speaking = lazy(() => import('./core/pages/Speaking'));
@@ -34,8 +33,7 @@ export default function App() {
             <Route path="/" element={<Page><Dashboard /></Page>} />
             <Route path="/study" element={<Page><Study /></Page>} />
             <Route path="/lessons" element={<Page><Lessons /></Page>} />
-            <Route path="/learn" element={<Page><Learn /></Page>} />
-            <Route path="/browse" element={<Page><Browse /></Page>} />
+            <Route path="/explore" element={<Page><Explore /></Page>} />
             <Route path="/reading" element={<Page><Reading /></Page>} />
             <Route path="/listening" element={<Page><Listening /></Page>} />
             <Route path="/speaking" element={<Page><Speaking /></Page>} />

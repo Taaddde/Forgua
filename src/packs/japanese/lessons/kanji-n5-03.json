@@ -1,0 +1,161 @@
+{
+  "id": "kanji-n5-03",
+  "title": "Kanji: Acciones básicas",
+  "description": "Comer, beber, leer, escribir... Los verbos esenciales del día a día en kanji",
+  "level": "n5",
+  "category": "characters",
+  "items": [
+    {
+      "front": "食",
+      "back": "comer / eat",
+      "reading": "た",
+      "explanation": "On'yomi: しょく (shoku). Kun'yomi: た(べる) (ta(beru)). 食べる (たべる) = comer. 食事 (しょくじ) = comida.",
+      "mnemonic": "Un techo sobre una persona comiendo con palitos — comer bajo techo.",
+      "cardRef": { "category": "characters", "front": "食" }
+    },
+    {
+      "front": "飲",
+      "back": "beber / drink",
+      "reading": "の",
+      "explanation": "On'yomi: いん (in). Kun'yomi: の(む) (no(mu)). 飲む (のむ) = beber. 飲み物 (のみもの) = bebida.",
+      "mnemonic": "食 (comida) modificado con una boca abierta tragando — beber.",
+      "cardRef": { "category": "characters", "front": "飲" }
+    },
+    {
+      "front": "見",
+      "back": "ver, mirar / see, look",
+      "reading": "み",
+      "explanation": "On'yomi: けん (ken). Kun'yomi: み(る) (mi(ru)). 見る (みる) = ver. 意見 (いけん) = opinión.",
+      "mnemonic": "Un ojo (目) con piernas — el ojo que camina mirando todo.",
+      "cardRef": { "category": "characters", "front": "見" }
+    },
+    {
+      "front": "聞",
+      "back": "escuchar, preguntar / hear, ask",
+      "reading": "き",
+      "explanation": "On'yomi: ぶん (bun), もん (mon). Kun'yomi: き(く) (ki(ku)). 聞く = escuchar/preguntar. 新聞 (しんぶん) = periódico.",
+      "mnemonic": "Una oreja (耳) en una puerta (門) — escuchando detrás de la puerta.",
+      "cardRef": { "category": "characters", "front": "聞" }
+    },
+    {
+      "front": "読",
+      "back": "leer / read",
+      "reading": "よ",
+      "explanation": "On'yomi: どく (doku), とく (toku). Kun'yomi: よ(む) (yo(mu)). 読む (よむ) = leer. 読書 (どくしょ) = lectura.",
+      "mnemonic": "言 (palabras) + 売 (vender) — leer es comprar palabras con los ojos.",
+      "cardRef": { "category": "characters", "front": "読" }
+    },
+    {
+      "front": "書",
+      "back": "escribir / write",
+      "reading": "か",
+      "explanation": "On'yomi: しょ (sho). Kun'yomi: か(く) (ka(ku)). 書く (かく) = escribir. 辞書 (じしょ) = diccionario.",
+      "mnemonic": "Una mano sosteniendo un pincel sobre papel — escribir.",
+      "cardRef": { "category": "characters", "front": "書" }
+    },
+    {
+      "front": "行",
+      "back": "ir, fila / go, row",
+      "reading": "い",
+      "explanation": "On'yomi: こう (kou), ぎょう (gyou). Kun'yomi: い(く) (i(ku)), おこな(う) (okona(u)). 行く (いく) = ir.",
+      "mnemonic": "Una encrucijada de caminos — elegí a dónde ir.",
+      "cardRef": { "category": "characters", "front": "行" }
+    },
+    {
+      "front": "来",
+      "back": "venir / come",
+      "reading": "く",
+      "explanation": "On'yomi: らい (rai). Kun'yomi: く(る) (ku(ru)), き(ます) (ki(masu)). 来る (くる) = venir. 来年 (らいねん) = el año que viene.",
+      "mnemonic": "Una persona acercándose con los brazos abiertos — ¡vení!",
+      "cardRef": { "category": "characters", "front": "来" }
+    },
+    {
+      "front": "出",
+      "back": "salir, sacar / go out, put out",
+      "reading": "で",
+      "explanation": "On'yomi: しゅつ (shutsu). Kun'yomi: で(る) (de(ru)), だ(す) (da(su)). 出る = salir, 出す = sacar.",
+      "mnemonic": "Dos montañas, una saliendo detrás de la otra — salir.",
+      "cardRef": { "category": "characters", "front": "出" }
+    },
+    {
+      "front": "入",
+      "back": "entrar, meter / enter, put in",
+      "reading": "はい",
+      "explanation": "On'yomi: にゅう (nyuu). Kun'yomi: はい(る) (hai(ru)), い(れる) (i(reru)). 入る = entrar, 入れる = meter.",
+      "mnemonic": "Una flecha apuntando hacia abajo y adentro — entrar.",
+      "cardRef": { "category": "characters", "front": "入" }
+    },
+    {
+      "front": "立",
+      "back": "pararse, estar de pie / stand",
+      "reading": "た",
+      "explanation": "On'yomi: りつ (ritsu). Kun'yomi: た(つ) (ta(tsu)). 立つ (たつ) = pararse.",
+      "mnemonic": "Una persona de pie sobre el suelo con los brazos extendidos — pararse.",
+      "cardRef": { "category": "characters", "front": "立" }
+    },
+    {
+      "front": "休",
+      "back": "descansar / rest",
+      "reading": "やす",
+      "explanation": "On'yomi: きゅう (kyuu). Kun'yomi: やす(む) (yasu(mu)). 休む = descansar. 休日 (きゅうじつ) = día libre.",
+      "mnemonic": "Una persona (亻) apoyada contra un árbol (木) — descansando a la sombra.",
+      "cardRef": { "category": "characters", "front": "休" }
+    },
+    {
+      "front": "言",
+      "back": "decir, palabra / say, word",
+      "reading": "い",
+      "explanation": "On'yomi: げん (gen), ごん (gon). Kun'yomi: い(う) (i(u)), こと (koto). 言う (いう) = decir.",
+      "mnemonic": "Líneas horizontales saliendo de una boca — palabras que se dicen.",
+      "cardRef": { "category": "characters", "front": "言" }
+    },
+    {
+      "front": "話",
+      "back": "hablar, historia, conversación / speak, story, talk",
+      "reading": "はなし",
+      "explanation": "On'yomi: わ (wa). Kun'yomi: はな(す) (hana(su)), はなし (hanashi). 話す = hablar. 電話 (でんわ) = teléfono.",
+      "mnemonic": "言 (palabras) + 舌 (lengua) — mover la lengua para hablar.",
+      "cardRef": { "category": "characters", "front": "話" }
+    },
+    {
+      "front": "買",
+      "back": "comprar / buy",
+      "reading": "か",
+      "explanation": "On'yomi: ばい (bai). Kun'yomi: か(う) (ka(u)). 買う (かう) = comprar. 買い物 (かいもの) = compras.",
+      "mnemonic": "Una red (网) sobre conchas (貝, moneda antigua) — atrapar las compras con la red.",
+      "cardRef": { "category": "characters", "front": "買" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Acciones cotidianas: sentidos y comunicación",
+      "instruction": "Arrancamos con los verbos que usás todos los días: comer, beber, ver, escuchar, leer y escribir. Estos kanji aparecen en el radical de muchos otros kanji compuestos.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "introduce",
+      "title": "Acciones de movimiento y más",
+      "instruction": "Ahora los verbos de movimiento (ir, venir, salir, entrar) y otras acciones básicas (pararse, descansar, decir, hablar, comprar). Con estos ya podés describir un día completo en japonés.",
+      "itemIndices": [6, 7, 8, 9, 10, 11, 12, 13, 14]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué kanji es?",
+      "instruction": "Te muestro un kanji y varias opciones de significado. Elegí la correcta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+    },
+    {
+      "type": "recall",
+      "title": "Escribí la lectura",
+      "instruction": "Ves el kanji, escribí su lectura principal en romaji.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste 15 kanji de acciones básicas. Ya podés reconocer verbos como 食べる (comer), 読む (leer), 行く (ir) y 買う (comprar). ¡Estos son de los más usados en japonés!",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+    }
+  ]
+}

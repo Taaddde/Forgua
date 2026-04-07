@@ -1,0 +1,101 @@
+{
+  "id": "grammar-n4-01",
+  "title": "Te-form usos: 〜ている (estado continuo)",
+  "description": "Aprendé a expresar acciones en progreso ('estoy comiendo') y estados resultantes ('vivo en Tokio') con la forma 〜ている.",
+  "level": "n4",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "食べている",
+      "back": "estoy comiendo (acción en progreso)",
+      "reading": "たべている",
+      "explanation": "食べている (tabete iru) expresa una acción EN PROGRESO: 'estoy comiendo'. Se forma con la te-form del verbo + いる. Es el equivalente del gerundio en español ('estoy + -ando/-endo').",
+      "cardRef": { "category": "grammar", "front": "食べている" }
+    },
+    {
+      "front": "住んでいる",
+      "back": "vivo (en un lugar) — estado resultante",
+      "reading": "すんでいる",
+      "explanation": "住んでいる (sunde iru) NO significa 'estoy viviendo' en el sentido de acción en progreso, sino que indica un ESTADO: 'vivo (en tal lugar)'. Con verbos como 住む, ている indica el resultado de una acción pasada que continúa.",
+      "cardRef": { "category": "grammar", "front": "住んでいる" }
+    },
+    {
+      "front": "知っている",
+      "back": "sé / conozco — estado resultante",
+      "reading": "しっている",
+      "explanation": "知っている (shitte iru) significa 'sé' o 'conozco'. Cuidado: 知る solo no se usa para 'saber' — siempre se dice 知っている. Para el negativo, se usa 知らない (no 知っていない).",
+      "cardRef": { "category": "grammar", "front": "知っている" }
+    },
+    {
+      "front": "持っている",
+      "back": "tengo / llevo (encima) — estado resultante",
+      "reading": "もっている",
+      "explanation": "持っている (motte iru) significa 'tengo' (poseo algo o lo llevo encima). 持つ es 'agarrar/tomar', pero 持っている indica el estado de tener algo. Ejemplo: 車を持っている (tengo auto).",
+      "cardRef": { "category": "grammar", "front": "持っている" }
+    },
+    {
+      "front": "降っている",
+      "back": "está lloviendo (acción en progreso)",
+      "reading": "ふっている",
+      "explanation": "降っている (futte iru) es 'está lloviendo'. Es un caso de acción en progreso, como 食べている. Ejemplo: 今、雨が降っている (ahora está lloviendo). 降る se usa para lluvia (雨) y nieve (雪).",
+      "cardRef": { "category": "grammar", "front": "降っている" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Dos usos de 〜ている",
+      "instruction": "〜ている tiene dos usos principales: 1) ACCIÓN EN PROGRESO — como 'estoy comiendo' (食べている), y 2) ESTADO RESULTANTE — como 'vivo en Tokio' (住んでいる). La forma es siempre la misma: te-form + いる. Lo que cambia es el tipo de verbo.",
+      "itemIndices": [0, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "Estados resultantes",
+      "instruction": "Con verbos como 住む (vivir), 知る (saber) y 持つ (tener), ている indica un estado que sigue vigente. No es 'estoy en proceso de vivir' sino 'vivo (ahí)'. Estos son los que más confunden, pero los vas a usar todo el tiempo.",
+      "itemIndices": [1, 2, 3]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Progreso o estado?",
+      "instruction": "Elegí el significado correcto. Pensá si es una acción en progreso o un estado resultante.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá la oración",
+      "instruction": "Arrastrá las piezas para formar oraciones con 〜ている.",
+      "itemIndices": [0, 1, 3],
+      "config": {
+        "sentences": [
+          {
+            "fragments": ["今", "ごはん", "を", "食べている"],
+            "correctOrder": [0, 1, 2, 3],
+            "translation": "Ahora estoy comiendo"
+          },
+          {
+            "fragments": ["東京", "に", "住んでいる"],
+            "correctOrder": [0, 1, 2],
+            "translation": "Vivo en Tokio"
+          },
+          {
+            "fragments": ["車", "を", "持っている"],
+            "correctOrder": [0, 1, 2],
+            "translation": "Tengo auto"
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "Producí la forma ている",
+      "instruction": "Ves la traducción en español. Escribí la expresión en japonés usando 〜ている.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "¡ている dominado!",
+      "instruction": "Aprendiste los dos usos de 〜ている: acción en progreso (食べている, 降っている) y estado resultante (住んでいる, 知っている, 持っている). La clave es el tipo de verbo — con la práctica vas a distinguirlos automáticamente.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    }
+  ]
+}

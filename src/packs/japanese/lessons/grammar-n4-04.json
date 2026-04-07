@@ -1,0 +1,101 @@
+{
+  "id": "grammar-n4-04",
+  "title": "Forma pasiva: 〜られる",
+  "description": "Aprendé a formar y usar la voz pasiva en japonés. Incluye la 'pasiva de sufrimiento', una estructura única del japonés que no existe en español.",
+  "level": "n4",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "食べられる",
+      "back": "ser comido / poder comer",
+      "reading": "たべられる",
+      "explanation": "食べられる (taberareru) es la forma pasiva de 食べる. Para verbos ichidan (grupo 2): sacás る y ponés られる. Ojo: en N4, られる también puede ser potencial ('poder comer'). El contexto te dice cuál es. Ejemplo pasivo: ケーキが食べられた (el pastel fue comido).",
+      "cardRef": { "category": "grammar", "front": "食べられる" }
+    },
+    {
+      "front": "読まれる",
+      "back": "ser leído / to be read",
+      "reading": "よまれる",
+      "explanation": "読まれる (yomareru) es la forma pasiva de 読む. Para verbos godan (grupo 1): cambiás la última sílaba a la columna あ y agregás れる. 読む → 読ま + れる. Ejemplo: この本は多くの人に読まれている (este libro es leído por mucha gente).",
+      "cardRef": { "category": "grammar", "front": "読まれる" }
+    },
+    {
+      "front": "言われる",
+      "back": "ser dicho, que te digan / to be told",
+      "reading": "いわれる",
+      "explanation": "言われる (iwareru) es la forma pasiva de 言う. 言う → 言わ + れる. Es muy común en japonés cotidiano. Ejemplo: 先生に「勉強しなさい」と言われた (el profesor me dijo 'estudiá'). Fijate: に marca quién hace la acción.",
+      "cardRef": { "category": "grammar", "front": "言われる" }
+    },
+    {
+      "front": "雨に降られる",
+      "back": "ser afectado por la lluvia / to be rained on (suffering passive)",
+      "reading": "あめにふられる",
+      "explanation": "雨に降られる (ame ni furareru) es la PASIVA DE SUFRIMIENTO (迷惑の受身). En español decimos 'me agarró la lluvia', pero en japonés se usa pasiva: 'fui llovido'. Indica que algo te pasó y te afectó negativamente. Es una estructura única del japonés.",
+      "cardRef": { "category": "grammar", "front": "雨に降られる" }
+    },
+    {
+      "front": "褒められる",
+      "back": "ser elogiado / to be praised",
+      "reading": "ほめられる",
+      "explanation": "褒められる (homerareru) es la forma pasiva de 褒める. 褒める → 褒め + られる. Ejemplo: 先生に褒められた (fui elogiado por el profesor). A diferencia de la pasiva de sufrimiento, acá la pasiva tiene un sentido positivo.",
+      "cardRef": { "category": "grammar", "front": "褒められる" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Cómo se forma la pasiva",
+      "instruction": "La pasiva en japonés se forma así: Verbos ichidan (grupo 2, terminan en る): sacás る y ponés られる (食べる→食べられる). Verbos godan (grupo 1): cambiás a la columna あ y agregás れる (読む→読まれる, 言う→言われる).",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "La pasiva de sufrimiento",
+      "instruction": "El japonés tiene algo que no existe en español: la PASIVA DE SUFRIMIENTO (迷惑の受身). Se usa cuando algo te pasa y te afecta negativamente. 雨に降られた = 'me cayó la lluvia (y me jodió)'. Hasta verbos intransitivos pueden usarse en pasiva de esta forma.",
+      "itemIndices": [3, 4]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa en pasiva?",
+      "instruction": "Elegí el significado correcto de cada forma pasiva.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá oraciones pasivas",
+      "instruction": "Arrastrá las piezas para formar oraciones en voz pasiva.",
+      "itemIndices": [1, 2, 4],
+      "config": {
+        "sentences": [
+          {
+            "fragments": ["この", "本", "は", "多くの人", "に", "読まれている"],
+            "correctOrder": [0, 1, 2, 3, 4, 5],
+            "translation": "Este libro es leído por mucha gente"
+          },
+          {
+            "fragments": ["先生", "に", "言われた"],
+            "correctOrder": [0, 1, 2],
+            "translation": "El profesor me lo dijo"
+          },
+          {
+            "fragments": ["先生", "に", "褒められた"],
+            "correctOrder": [0, 1, 2],
+            "translation": "Fui elogiado por el profesor"
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "Formá la pasiva",
+      "instruction": "Ves la oración en español. Escribí la forma pasiva del verbo en japonés.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "¡Pasiva dominada!",
+      "instruction": "Aprendiste a formar la pasiva (られる/れる) y descubriste la pasiva de sufrimiento, única del japonés. Recordá: la pasiva japonesa se usa mucho más que en español — no la evites, abrazala. Van a aparecer en tus repasos.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    }
+  ]
+}

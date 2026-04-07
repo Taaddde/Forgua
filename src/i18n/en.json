@@ -8,6 +8,7 @@
     "study": "Study",
     "learn": "Learn",
     "browse": "Browse",
+    "explore": "Explore",
     "reading": "Reading",
     "listening": "Listening",
     "speaking": "Speaking",
@@ -225,6 +226,15 @@
     "tapToStop": "Tap to stop",
     "youSaid": "You said",
     "wordsCorrect": "words correct"
+  },
+  "explore": {
+    "title": "Explore content",
+    "searchPlaceholder": "Search by word, reading or meaning...",
+    "allLevels": "All levels",
+    "filterByLevel": "Filter by level",
+    "listView": "List view",
+    "gridView": "Grid view",
+    "clearFilters": "Clear filters"
   },
   "learn": {
     "title": "Learn",

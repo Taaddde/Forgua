@@ -49,6 +49,13 @@ export default defineConfig({
       },
     })] : []),
   ],
+  optimizeDeps: {
+    esbuildOptions: {
+      define: {
+        this: 'globalThis',
+      },
+    },
+  },
   resolve: {
     alias: {
       '@': '/src',

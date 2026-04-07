@@ -1,0 +1,104 @@
+{
+  "id": "vocab-n5-10",
+  "title": "Adjetivos な y adverbios",
+  "description": "きれい、しずか、とても — adjetivos な y adverbios esenciales",
+  "level": "n5",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "きれい",
+      "back": "bonito, limpio / beautiful, clean",
+      "reading": "きれい",
+      "explanation": "Bonito o limpio (¡doble significado!). Es adjetivo な aunque termina en い. きれいな人 = 'persona bonita'. きれいな部屋 = 'habitación limpia'. Cuidado: NO se conjuga como adjetivo い.",
+      "cardRef": { "category": "vocabulary", "front": "きれい" }
+    },
+    {
+      "front": "静か",
+      "back": "tranquilo, silencioso / quiet",
+      "reading": "しずか",
+      "explanation": "Tranquilo, silencioso. Adjetivo な. 静かな場所 (shizuka na basho) = 'lugar tranquilo'. 静かにしてください = 'silencio, por favor'.",
+      "cardRef": { "category": "vocabulary", "front": "静か" }
+    },
+    {
+      "front": "元気",
+      "back": "energético, saludable / energetic, healthy",
+      "reading": "げんき",
+      "explanation": "Energético, con buena salud. 元 (gen) = origen, 気 (ki) = energía. お元気ですか？= '¿Cómo estás?'. Literal: '¿Tenés energía original?'. Es el saludo más común.",
+      "cardRef": { "category": "vocabulary", "front": "元気" }
+    },
+    {
+      "front": "便利",
+      "back": "conveniente, práctico / convenient",
+      "reading": "べんり",
+      "explanation": "Conveniente, práctico. 便 (ben) = conveniente, 利 (ri) = beneficio. Japón es 便利 por excelencia: conbinis 24hs, trenes puntuales, máquinas expendedoras en cada esquina.",
+      "cardRef": { "category": "vocabulary", "front": "便利" }
+    },
+    {
+      "front": "好き",
+      "back": "gustar / to like",
+      "reading": "すき",
+      "explanation": "Gustar (funciona como adjetivo な, no como verbo). 寿司が好きです = 'Me gusta el sushi'. Ojo: el sujeto lleva が. 大好き (daisuki) = 'me encanta'.",
+      "cardRef": { "category": "vocabulary", "front": "好き" }
+    },
+    {
+      "front": "嫌い",
+      "back": "no gustar, detestar / to dislike",
+      "reading": "きらい",
+      "explanation": "No gustar, detestar. Lo opuesto de 好き. 野菜が嫌いです = 'No me gustan las verduras'. Los japoneses suelen evitar decir 嫌い directamente porque es fuerte.",
+      "cardRef": { "category": "vocabulary", "front": "嫌い" }
+    },
+    {
+      "front": "とても",
+      "back": "muy / very",
+      "reading": "とても",
+      "explanation": "Muy. Adverbio de intensidad. とてもおいしい = 'muy delicioso'. とても好きです = 'me gusta mucho'. Se pone antes del adjetivo o verbo que modifica.",
+      "cardRef": { "category": "vocabulary", "front": "とても" }
+    },
+    {
+      "front": "ちょっと",
+      "back": "un poco / a little",
+      "reading": "ちょっと",
+      "explanation": "Un poco. También se usa para rechazar algo de forma suave: ちょっと... (sin terminar la frase) = 'es un poco difícil...' (o sea, no). Muy japonés.",
+      "cardRef": { "category": "vocabulary", "front": "ちょっと" }
+    },
+    {
+      "front": "まだ",
+      "back": "todavía / still, not yet",
+      "reading": "まだ",
+      "explanation": "Todavía, aún. まだです = 'todavía no'. まだ食べていません = 'todavía no comí'. También: まだまだ = 'falta mucho / todavía me falta'.",
+      "cardRef": { "category": "vocabulary", "front": "まだ" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Palabras nuevas",
+      "instruction": "Los adjetivos な funcionan distinto a los い: necesitan な antes del sustantivo (きれいな花). Los adverbios como とても y ちょっと te permiten matizar lo que decís.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "type": "recall",
+      "title": "Escribí la palabra",
+      "instruction": "Ves el significado, escribí la palabra en japonés (romaji).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "type": "listen-transcribe",
+      "title": "Escuchá y escribí",
+      "instruction": "Escuchá la pronunciación y escribí lo que oís.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste きれい、静か、元気、便利、好き、嫌い、とても、ちょっと、まだ. Ya podés describir cosas y matizar tus opiniones. Estas palabras se suman a tu repaso diario.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "id": "kanji-n5-02",
+  "title": "Kanji: Personas y naturaleza",
+  "description": "Personas, tamaños y elementos de la naturaleza — kanji que vas a ver en todos lados",
+  "level": "n5",
+  "category": "characters",
+  "items": [
+    {
+      "front": "人",
+      "back": "persona / person",
+      "reading": "ひと",
+      "explanation": "On'yomi: じん (jin), にん (nin). Kun'yomi: ひと (hito). Uno de los kanji más frecuentes del japonés.",
+      "mnemonic": "Dos trazos como piernas caminando — una persona.",
+      "cardRef": { "category": "characters", "front": "人" }
+    },
+    {
+      "front": "男",
+      "back": "hombre / man",
+      "reading": "おとこ",
+      "explanation": "On'yomi: だん (dan), なん (nan). Kun'yomi: おとこ (otoko). Combina 田 (campo) + 力 (fuerza).",
+      "mnemonic": "Fuerza (力) en el campo (田) — el hombre trabajando la tierra.",
+      "cardRef": { "category": "characters", "front": "男" }
+    },
+    {
+      "front": "女",
+      "back": "mujer / woman",
+      "reading": "おんな",
+      "explanation": "On'yomi: じょ (jo). Kun'yomi: おんな (onna). Es un radical muy común en otros kanji.",
+      "mnemonic": "Una persona sentada con gracia, las piernas cruzadas — mujer.",
+      "cardRef": { "category": "characters", "front": "女" }
+    },
+    {
+      "front": "子",
+      "back": "niño, hijo / child",
+      "reading": "こ",
+      "explanation": "On'yomi: し (shi), す (su). Kun'yomi: こ (ko). Muy usado en nombres femeninos (花子, はなこ).",
+      "mnemonic": "Un bebé envuelto con los bracitos extendidos — niño.",
+      "cardRef": { "category": "characters", "front": "子" }
+    },
+    {
+      "front": "大",
+      "back": "grande / big",
+      "reading": "おお",
+      "explanation": "On'yomi: だい (dai), たい (tai). Kun'yomi: おお(きい) (oo(kii)).",
+      "mnemonic": "Una persona con los brazos bien abiertos — ¡así de grande!",
+      "cardRef": { "category": "characters", "front": "大" }
+    },
+    {
+      "front": "小",
+      "back": "pequeño / small",
+      "reading": "しょう",
+      "explanation": "On'yomi: しょう (shou). Kun'yomi: ちい(さい) (chii(sai)), こ (ko), お (o).",
+      "mnemonic": "Tres trazos chiquitos juntitos — pequeño.",
+      "cardRef": { "category": "characters", "front": "小" }
+    },
+    {
+      "front": "山",
+      "back": "montaña / mountain",
+      "reading": "やま",
+      "explanation": "On'yomi: さん (san), como en 富士山 (ふじさん, Monte Fuji). Kun'yomi: やま (yama).",
+      "mnemonic": "Tres picos de una montaña — ¡es literalmente una montaña!",
+      "cardRef": { "category": "characters", "front": "山" }
+    },
+    {
+      "front": "川",
+      "back": "río / river",
+      "reading": "かわ",
+      "explanation": "On'yomi: せん (sen). Kun'yomi: かわ (kawa).",
+      "mnemonic": "Tres líneas verticales fluyendo — las corrientes de un río.",
+      "cardRef": { "category": "characters", "front": "川" }
+    },
+    {
+      "front": "水",
+      "back": "agua / water",
+      "reading": "みず",
+      "explanation": "On'yomi: すい (sui). Kun'yomi: みず (mizu). 水曜日 (すいようび) = miércoles.",
+      "mnemonic": "Gotas salpicando desde el centro — agua.",
+      "cardRef": { "category": "characters", "front": "水" }
+    },
+    {
+      "front": "火",
+      "back": "fuego / fire",
+      "reading": "ひ",
+      "explanation": "On'yomi: か (ka). Kun'yomi: ひ (hi). 火曜日 (かようび) = martes.",
+      "mnemonic": "Una persona con llamas a los costados — fuego.",
+      "cardRef": { "category": "characters", "front": "火" }
+    },
+    {
+      "front": "木",
+      "back": "árbol, madera / tree, wood",
+      "reading": "き",
+      "explanation": "On'yomi: もく (moku), ぼく (boku). Kun'yomi: き (ki). 木曜日 (もくようび) = jueves.",
+      "mnemonic": "Un tronco con ramas arriba y raíces abajo — un árbol.",
+      "cardRef": { "category": "characters", "front": "木" }
+    },
+    {
+      "front": "金",
+      "back": "oro, dinero, metal / gold, money",
+      "reading": "きん",
+      "explanation": "On'yomi: きん (kin), こん (kon). Kun'yomi: かね (kane). 金曜日 (きんようび) = viernes.",
+      "mnemonic": "Un techo cubriendo pepitas de oro — dinero guardado.",
+      "cardRef": { "category": "characters", "front": "金" }
+    },
+    {
+      "front": "土",
+      "back": "tierra, suelo / earth, ground",
+      "reading": "つち",
+      "explanation": "On'yomi: ど (do), と (to). Kun'yomi: つち (tsuchi). 土曜日 (どようび) = sábado.",
+      "mnemonic": "Una cruz sobre una línea — algo creciendo de la tierra.",
+      "cardRef": { "category": "characters", "front": "土" }
+    },
+    {
+      "front": "天",
+      "back": "cielo / sky, heaven",
+      "reading": "てん",
+      "explanation": "On'yomi: てん (ten). Kun'yomi: あめ (ame), あま (ama). 天気 (てんき) = clima.",
+      "mnemonic": "Una persona (大) con una línea encima — lo que está por encima de todos: el cielo.",
+      "cardRef": { "category": "characters", "front": "天" }
+    },
+    {
+      "front": "気",
+      "back": "espíritu, energía, aire / spirit, energy, air",
+      "reading": "き",
+      "explanation": "On'yomi: き (ki), け (ke). Kun'yomi: (raro). Muy común: 元気 (げんき, energía), 天気 (てんき, clima).",
+      "mnemonic": "Vapor subiendo de un plato de arroz — la energía vital, el ki.",
+      "cardRef": { "category": "characters", "front": "気" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Personas y tamaños",
+      "instruction": "Arrancamos con los kanji de personas: hombre, mujer, niño... y los opuestos grande/pequeño. Estos kanji aparecen como componentes dentro de otros kanji más complejos, así que aprendelos bien.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "introduce",
+      "title": "Naturaleza y elementos",
+      "instruction": "Ahora los elementos de la naturaleza: montaña, río, agua, fuego, árbol, oro, tierra, cielo y energía. Varios de estos se usan para los días de la semana en japonés (火曜日 = martes, 水曜日 = miércoles, etc.).",
+      "itemIndices": [6, 7, 8, 9, 10, 11, 12, 13, 14]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué kanji es?",
+      "instruction": "Te muestro un kanji y varias opciones de significado. Elegí la correcta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+    },
+    {
+      "type": "recall",
+      "title": "Escribí la lectura",
+      "instruction": "Ves el kanji, escribí su lectura principal en romaji.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste 15 kanji de personas y naturaleza. Ya podés leer cosas como 大人 (おとな, adulto), 女の子 (おんなのこ, chica), 山川 (やまかわ, montañas y ríos). ¡Seguí practicando en los repasos!",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+    }
+  ]
+}

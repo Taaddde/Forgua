@@ -1,0 +1,97 @@
+{
+  "id": "vocab-n4-01",
+  "title": "Verbos transitivos e intransitivos",
+  "description": "Aprendé los pares de verbos transitivos (alguien hace la acción) e intransitivos (la acción ocurre sola). Es una de las claves del japonés natural.",
+  "level": "n4",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "開ける",
+      "back": "abrir (transitivo) / to open",
+      "reading": "あける",
+      "explanation": "開ける (akeru) es TRANSITIVO: alguien abre algo. Ejemplo: ドアを開ける (abro la puerta). Necesita la partícula を porque hay un objeto directo.",
+      "cardRef": { "category": "vocabulary", "front": "開ける" }
+    },
+    {
+      "front": "開く",
+      "back": "abrirse (intransitivo) / to open (by itself)",
+      "reading": "あく",
+      "explanation": "開く (aku) es INTRANSITIVO: algo se abre solo. Ejemplo: ドアが開く (la puerta se abre). Usa が porque no hay agente — la acción ocurre sola.",
+      "cardRef": { "category": "vocabulary", "front": "開く" }
+    },
+    {
+      "front": "閉める",
+      "back": "cerrar (transitivo) / to close",
+      "reading": "しめる",
+      "explanation": "閉める (shimeru) es TRANSITIVO: alguien cierra algo. Ejemplo: 窓を閉める (cierro la ventana). El par intransitivo es 閉まる.",
+      "cardRef": { "category": "vocabulary", "front": "閉める" }
+    },
+    {
+      "front": "閉まる",
+      "back": "cerrarse (intransitivo) / to close (by itself)",
+      "reading": "しまる",
+      "explanation": "閉まる (shimaru) es INTRANSITIVO: algo se cierra solo. Ejemplo: ドアが閉まる (la puerta se cierra). Fijate que el kanji 閉 es el mismo — lo que cambia es la terminación.",
+      "cardRef": { "category": "vocabulary", "front": "閉まる" }
+    },
+    {
+      "front": "付ける",
+      "back": "encender / prender (transitivo) / to turn on",
+      "reading": "つける",
+      "explanation": "付ける (tsukeru) es TRANSITIVO: alguien enciende algo. Ejemplo: 電気を付ける (prendo la luz). También puede significar 'pegar' o 'adjuntar'.",
+      "cardRef": { "category": "vocabulary", "front": "付ける" }
+    },
+    {
+      "front": "付く",
+      "back": "encenderse (intransitivo) / to turn on (by itself)",
+      "reading": "つく",
+      "explanation": "付く (tsuku) es INTRANSITIVO: algo se enciende solo. Ejemplo: 電気が付く (la luz se prende). El cambio ける→く es un patrón común en pares transitivo/intransitivo.",
+      "cardRef": { "category": "vocabulary", "front": "付く" }
+    },
+    {
+      "front": "消す",
+      "back": "apagar / borrar (transitivo) / to turn off, to erase",
+      "reading": "けす",
+      "explanation": "消す (kesu) es TRANSITIVO: alguien apaga o borra algo. Ejemplo: テレビを消す (apago la tele). También sirve para borrar cosas escritas.",
+      "cardRef": { "category": "vocabulary", "front": "消す" }
+    },
+    {
+      "front": "消える",
+      "back": "apagarse / desaparecer (intransitivo) / to go out, to disappear",
+      "reading": "きえる",
+      "explanation": "消える (kieru) es INTRANSITIVO: algo se apaga o desaparece solo. Ejemplo: 火が消える (el fuego se apaga). Acá el patrón es す→える.",
+      "cardRef": { "category": "vocabulary", "front": "消える" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Pares transitivos e intransitivos",
+      "instruction": "En japonés, muchos verbos vienen en pares: uno TRANSITIVO (alguien hace la acción, usa を) y otro INTRANSITIVO (la acción ocurre sola, usa が). Es como la diferencia entre 'abro la puerta' y 'la puerta se abre'. Mirá cada par y fijate en los patrones.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Transitivo o intransitivo?",
+      "instruction": "Elegí el significado correcto. Prestá atención a si el verbo indica que alguien hace algo o que algo pasa solo.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recall",
+      "title": "Escribí el verbo",
+      "instruction": "Ves el significado en español. Escribí el verbo correcto en japonés. Recordá: ¿es transitivo (alguien lo hace) o intransitivo (pasa solo)?",
+      "itemIndices": [0, 1, 2, 3, 6, 7]
+    },
+    {
+      "type": "listen-transcribe",
+      "title": "Escuchá y escribí",
+      "instruction": "Escuchá la pronunciación del verbo y escribilo en japonés.",
+      "itemIndices": [0, 1, 4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "¡Pares dominados!",
+      "instruction": "Aprendiste 4 pares de verbos transitivos/intransitivos: 開ける↔開く, 閉める↔閉まる, 付ける↔付く, 消す↔消える. La clave: transitivo usa を (alguien actúa), intransitivo usa が (algo pasa solo). Van a aparecer en tus repasos.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

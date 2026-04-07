@@ -1,0 +1,97 @@
+{
+  "id": "vocab-n5-04",
+  "title": "Comida y bebida",
+  "description": "みず、ごはん、パン — lo esencial para no morirte de hambre",
+  "level": "n5",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "水",
+      "back": "agua / water",
+      "reading": "みず",
+      "explanation": "Agua. Es de las primeras palabras que vas a necesitar en un restaurante. お水ください (omizu kudasai) = 'agua, por favor'.",
+      "cardRef": { "category": "vocabulary", "front": "水" }
+    },
+    {
+      "front": "ご飯",
+      "back": "arroz / comida",
+      "reading": "ごはん",
+      "explanation": "Significa 'arroz cocido' pero también 'comida' en general. ごはんを食べる = 'comer'. Es tan central en la dieta japonesa que 'comida' y 'arroz' son lo mismo.",
+      "cardRef": { "category": "vocabulary", "front": "ご飯" }
+    },
+    {
+      "front": "パン",
+      "back": "pan / bread",
+      "reading": "パン",
+      "explanation": "Pan. Viene del portugués (pão), no del inglés. Se escribe en katakana porque es palabra de origen extranjero. Japón tiene panaderías increíbles.",
+      "cardRef": { "category": "vocabulary", "front": "パン" }
+    },
+    {
+      "front": "魚",
+      "back": "pescado / fish",
+      "reading": "さかな",
+      "explanation": "Pescado. Japón es una isla, así que el pescado es fundamental en su cocina. Lo vas a encontrar en sushi, sashimi y muchísimos platos más.",
+      "cardRef": { "category": "vocabulary", "front": "魚" }
+    },
+    {
+      "front": "肉",
+      "back": "carne / meat",
+      "reading": "にく",
+      "explanation": "Carne en general. Se combina con otros kanji: 牛肉 (gyuuniku, carne de vaca), 鶏肉 (toriniku, pollo), 豚肉 (butaniku, cerdo).",
+      "cardRef": { "category": "vocabulary", "front": "肉" }
+    },
+    {
+      "front": "野菜",
+      "back": "verdura / vegetable",
+      "reading": "やさい",
+      "explanation": "Verdura, vegetal. 野 (ya) = campo, 菜 (sai) = vegetal. Si te dicen 野菜を食べなさい es el equivalente japonés de 'comé tus verduras'.",
+      "cardRef": { "category": "vocabulary", "front": "野菜" }
+    },
+    {
+      "front": "果物",
+      "back": "fruta / fruit",
+      "reading": "くだもの",
+      "explanation": "Fruta. En Japón la fruta es cara y se regala como algo especial. Un melón puede costar una fortuna.",
+      "cardRef": { "category": "vocabulary", "front": "果物" }
+    },
+    {
+      "front": "お茶",
+      "back": "té verde / green tea",
+      "reading": "おちゃ",
+      "explanation": "Té (verde por defecto). El お es un prefijo de cortesía. En Japón te ofrecen お茶 en todos lados: restaurantes, oficinas, casas.",
+      "cardRef": { "category": "vocabulary", "front": "お茶" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Palabras nuevas",
+      "instruction": "Estas son las palabras esenciales de comida y bebida. Escuchá cada una y leé la explicación para entender el contexto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recall",
+      "title": "Escribí la palabra",
+      "instruction": "Ves el significado, escribí la palabra en japonés (romaji).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "listen-transcribe",
+      "title": "Escuchá y escribí",
+      "instruction": "Escuchá la pronunciación y escribí lo que oís.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Ahora conocés 水、ご飯、パン、魚、肉、野菜、果物、お茶. Ya podés hablar de comida básica en japonés. Estas palabras se suman a tu repaso diario.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

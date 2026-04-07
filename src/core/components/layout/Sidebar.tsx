@@ -3,8 +3,7 @@ import { useTranslation } from 'react-i18next';
 import {
   LayoutDashboard,
   GraduationCap,
-  BookOpen,
-  Library,
+  Search,
   BookText,
   Headphones,
   Mic,
@@ -16,17 +15,23 @@ import {
 } from 'lucide-react';
 import { useAppStore } from '../../store/useAppStore';
 
-const navItems = [
-  { to: '/', icon: LayoutDashboard, labelKey: 'nav.dashboard' },
-  { to: '/lessons', icon: Lightbulb, labelKey: 'nav.lessons' },
-  { to: '/study', icon: GraduationCap, labelKey: 'nav.study' },
-  { to: '/learn', icon: BookOpen, labelKey: 'nav.learn' },
-  { to: '/browse', icon: Library, labelKey: 'nav.browse' },
-  { to: '/reading', icon: BookText, labelKey: 'nav.reading' },
-  { to: '/listening', icon: Headphones, labelKey: 'nav.listening' },
-  { to: '/speaking', icon: Mic, labelKey: 'nav.speaking' },
-  { to: '/writing', icon: PenTool, labelKey: 'nav.writing' },
-  { to: '/roadmap', icon: Map, labelKey: 'nav.roadmap' },
+type NavEntry =
+  | { type: 'link'; to: string; icon: typeof LayoutDashboard; labelKey: string }
+  | { type: 'separator' };
+
+const navItems: NavEntry[] = [
+  { type: 'link', to: '/', icon: LayoutDashboard, labelKey: 'nav.dashboard' },
+  { type: 'separator' },
+  { type: 'link', to: '/lessons', icon: Lightbulb, labelKey: 'nav.lessons' },
+  { type: 'link', to: '/study', icon: GraduationCap, labelKey: 'nav.study' },
+  { type: 'link', to: '/explore', icon: Search, labelKey: 'nav.explore' },
+  { type: 'separator' },
+  { type: 'link', to: '/reading', icon: BookText, labelKey: 'nav.reading' },
+  { type: 'link', to: '/listening', icon: Headphones, labelKey: 'nav.listening' },
+  { type: 'link', to: '/speaking', icon: Mic, labelKey: 'nav.speaking' },
+  { type: 'link', to: '/writing', icon: PenTool, labelKey: 'nav.writing' },
+  { type: 'separator' },
+  { type: 'link', to: '/roadmap', icon: Map, labelKey: 'nav.roadmap' },
 ];
 
 export function Sidebar() {
@@ -83,24 +88,30 @@ export function Sidebar() {
 
         {/* Navigation */}
         <nav className="flex-1 overflow-y-auto px-3 py-4 space-y-1">
-          {navItems.map(({ to, icon: Icon, labelKey }) => (
-            <NavLink
-              key={to}
-              to={to}
-              end={to === '/'}
-              onClick={() => setSidebarOpen(false)}
-              className={({ isActive }) =>
-                `flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium transition-colors ${
-                  isActive
-                    ? 'bg-indigo-600/20 text-indigo-300'
-                    : 'text-slate-400 hover:text-slate-200 hover:bg-slate-800/50'
-                }`
-              }
-            >
-              <Icon className="w-5 h-5 shrink-0" />
-              <span>{t(labelKey)}</span>
-            </NavLink>
-          ))}
+          {navItems.map((item, idx) => {
+            if (item.type === 'separator') {
+              return <div key={`sep-${idx}`} className="h-px bg-slate-800 my-2 mx-4" />;
+            }
+            const { to, icon: Icon, labelKey } = item;
+            return (
+              <NavLink
+                key={to}
+                to={to}
+                end={to === '/'}
+                onClick={() => setSidebarOpen(false)}
+                className={({ isActive }) =>
+                  `flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium transition-colors ${
+                    isActive
+                      ? 'bg-indigo-600/20 text-indigo-300'
+                      : 'text-slate-400 hover:text-slate-200 hover:bg-slate-800/50'
+                  }`
+                }
+              >
+                <Icon className="w-5 h-5 shrink-0" />
+                <span>{t(labelKey)}</span>
+              </NavLink>
+            );
+          })}
         </nav>
 
         {/* Settings link at bottom */}

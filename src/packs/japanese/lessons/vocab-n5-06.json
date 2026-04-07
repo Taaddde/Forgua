@@ -1,0 +1,104 @@
+{
+  "id": "vocab-n5-06",
+  "title": "Tiempo y clima",
+  "description": "いま、きょう、あした — para hablar del tiempo y del clima",
+  "level": "n5",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "今",
+      "back": "ahora / now",
+      "reading": "いま",
+      "explanation": "Ahora, en este momento. 今何時ですか？(ima nanji desu ka?) = '¿Qué hora es ahora?'. Palabra súper frecuente.",
+      "cardRef": { "category": "vocabulary", "front": "今" }
+    },
+    {
+      "front": "今日",
+      "back": "hoy / today",
+      "reading": "きょう",
+      "explanation": "Hoy. Usa los kanji de 今 (ahora) y 日 (día), pero la lectura きょう es irregular — no se lee 'ima nichi'. Hay que memorizarla.",
+      "cardRef": { "category": "vocabulary", "front": "今日" }
+    },
+    {
+      "front": "明日",
+      "back": "mañana / tomorrow",
+      "reading": "あした",
+      "explanation": "Mañana (el día siguiente). 明 (brillante) + 日 (día). La lectura あした es la más común en conversación. También se puede leer あす en contextos formales.",
+      "cardRef": { "category": "vocabulary", "front": "明日" }
+    },
+    {
+      "front": "昨日",
+      "back": "ayer / yesterday",
+      "reading": "きのう",
+      "explanation": "Ayer. 昨 (pasado) + 日 (día). La lectura きのう es la estándar. Otra lectura formal es さくじつ.",
+      "cardRef": { "category": "vocabulary", "front": "昨日" }
+    },
+    {
+      "front": "朝",
+      "back": "mañana (morning) / morning",
+      "reading": "あさ",
+      "explanation": "Mañana (la parte del día, no 'tomorrow'). 朝ご飯 (asagohan) = desayuno (literalmente 'comida de la mañana').",
+      "cardRef": { "category": "vocabulary", "front": "朝" }
+    },
+    {
+      "front": "夜",
+      "back": "noche / night",
+      "reading": "よる",
+      "explanation": "Noche. 夜ご飯 (yorugohan) = cena. También aparece en こんばんは (konbanwa) = buenas noches (saludo), que usa 今晩.",
+      "cardRef": { "category": "vocabulary", "front": "夜" }
+    },
+    {
+      "front": "天気",
+      "back": "clima, tiempo / weather",
+      "reading": "てんき",
+      "explanation": "Clima, tiempo atmosférico. 天 (ten) = cielo, 気 (ki) = espíritu/energía. いい天気ですね = 'Qué lindo día, ¿no?'. Frase típica para romper el hielo.",
+      "cardRef": { "category": "vocabulary", "front": "天気" }
+    },
+    {
+      "front": "雨",
+      "back": "lluvia / rain",
+      "reading": "あめ",
+      "explanation": "Lluvia. Japón tiene mucha lluvia, especialmente en la temporada de tsuyu (梅雨). 雨が降る (ame ga furu) = 'llueve'.",
+      "cardRef": { "category": "vocabulary", "front": "雨" }
+    },
+    {
+      "front": "晴れ",
+      "back": "despejado, soleado / sunny",
+      "reading": "はれ",
+      "explanation": "Despejado, buen tiempo. 明日は晴れです = 'Mañana va a estar despejado'. Es lo opuesto a 雨 (lluvia) y 曇り (nublado).",
+      "cardRef": { "category": "vocabulary", "front": "晴れ" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Palabras nuevas",
+      "instruction": "Estas palabras te permiten hablar del tiempo (cuándo pasan las cosas) y del clima. Son esenciales para la conversación diaria.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "type": "recall",
+      "title": "Escribí la palabra",
+      "instruction": "Ves el significado, escribí la palabra en japonés (romaji).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "type": "listen-transcribe",
+      "title": "Escuchá y escribí",
+      "instruction": "Escuchá la pronunciación y escribí lo que oís.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste 今、今日、明日、昨日、朝、夜、天気、雨、晴れ. Ya podés hablar del tiempo y del clima. Estas palabras se suman a tu repaso diario.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    }
+  ]
+}

@@ -161,15 +161,17 @@ export function Reading() {
           {t('reading.backToList')}
         </button>
         <div className="flex gap-2">
-          <button
-            onClick={() => setShowFurigana(!showFurigana)}
-            className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-medium transition-colors ${
-              showFurigana ? 'bg-indigo-600 text-white' : 'bg-slate-800 text-slate-400'
-            }`}
-          >
-            <Languages className="w-3.5 h-3.5" />
-            {t('reading.showFurigana')}
-          </button>
+          {activePack?.features.furigana && (
+            <button
+              onClick={() => setShowFurigana(!showFurigana)}
+              className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-medium transition-colors ${
+                showFurigana ? 'bg-indigo-600 text-white' : 'bg-slate-800 text-slate-400'
+              }`}
+            >
+              <Languages className="w-3.5 h-3.5" />
+              {t('reading.showFurigana')}
+            </button>
+          )}
           <button
             onClick={() => setShowTranslation(!showTranslation)}
             className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-medium transition-colors ${

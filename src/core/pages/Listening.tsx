@@ -146,7 +146,7 @@ export function Listening() {
           <Dictation
             key={currentIndex}
             text={currentCard.front}
-            expected={currentCard.reading ?? currentCard.front}
+            expected={currentCard.front}
             lang={ttsLang}
             rate={ttsRate}
             adapter={activeAdapter}
@@ -160,7 +160,7 @@ export function Listening() {
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
           {(vocabCards ?? []).slice(0, 60).map((card) => (
             <div key={card.id} className="flex items-center gap-3 bg-slate-900 border border-slate-800 rounded-xl p-3">
-              <AudioPlayer text={card.reading ?? card.front} lang={ttsLang} rate={ttsRate} size="sm" />
+              <AudioPlayer text={card.front} lang={ttsLang} rate={ttsRate} size="sm" />
               <div className="min-w-0">
                 <span className="text-sm font-medium text-slate-100">{card.front}</span>
                 {card.reading && <span className="text-xs text-slate-500 ml-2">{card.reading}</span>}

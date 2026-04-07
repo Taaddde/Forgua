@@ -53,8 +53,9 @@ export function ListenTranscribeStep({ items, onComplete }: ListenTranscribeStep
   const isLast = currentIdx === shuffledItems.length - 1;
 
   // For hiragana items (back ≈ reading), accept the reading/back as answer.
-  // For vocabulary, accept front or reading.
+  // For vocabulary, accept front or reading (but NOT if reading is IPA).
   const isHiraganaLike = item.reading !== undefined && normalize(item.back) === normalize(item.reading);
+  const readingIsIPA = item.reading?.startsWith('/');
 
   const handlePlay = useCallback(async () => {
     if (replays >= MAX_REPLAYS || isPlaying) return;
@@ -75,10 +76,9 @@ export function ListenTranscribeStep({ items, onComplete }: ListenTranscribeStep
         normalizedInput === normalize(item.reading ?? '') ||
         normalizedInput === normalize(item.front);
     } else {
-      // For vocabulary: TTS says "たべる", user types "taberu" or "食べる"
-      match =
-        normalizedInput === normalize(item.front) ||
-        normalizedInput === normalize(item.reading ?? '');
+      // For vocabulary: accept front, and reading only if it's not IPA
+      match = normalizedInput === normalize(item.front) ||
+        (!readingIsIPA && normalizedInput === normalize(item.reading ?? ''));
     }
 
     setIsCorrect(match);
@@ -86,7 +86,7 @@ export function ListenTranscribeStep({ items, onComplete }: ListenTranscribeStep
     if (match) {
       correctCountRef.current += 1;
     }
-  }, [showFeedback, input, item, isHiraganaLike]);
+  }, [showFeedback, input, item, isHiraganaLike, readingIsIPA]);
 
   const handleNext = useCallback(() => {
     if (isLast) {
@@ -102,7 +102,7 @@ export function ListenTranscribeStep({ items, onComplete }: ListenTranscribeStep
 
   const correctAnswer = isHiraganaLike
     ? `${item.front} (${item.reading})`
-    : `${item.front}${item.reading ? ` (${item.reading})` : ''}`;
+    : readingIsIPA ? item.front : `${item.front}${item.reading ? ` (${item.reading})` : ''}`;
 
   return (
     <div className="flex flex-col items-center">

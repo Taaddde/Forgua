@@ -32,7 +32,9 @@ export function SpeakExercise({ targetText, expectedReading, lang, adapter, onAn
   } | null>(null);
   const [answered, setAnswered] = useState(false);
 
-  const expected = expectedReading ?? targetText;
+  // If expectedReading is IPA (starts with /), use targetText instead — STT returns plain text, not IPA.
+  const isIPA = expectedReading?.startsWith('/');
+  const expected = (expectedReading && !isIPA) ? expectedReading : targetText;
 
   const handleTranscript = useCallback((transcript: string, confidence: number) => {
     if (answered) return;

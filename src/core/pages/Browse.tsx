@@ -166,7 +166,7 @@ export function Browse() {
                 <div className="flex items-start justify-between mb-4">
                   <div className="flex items-center gap-2">
                     <h2 className="text-2xl font-bold text-slate-100">{selectedCard.front}</h2>
-                    <AudioPlayer text={selectedCard.reading ?? selectedCard.front} lang={activePack?.speech.ttsLang} size="sm" />
+                    <AudioPlayer text={selectedCard.front} lang={activePack?.speech.ttsLang} size="sm" />
                     {selectedCard.reading && <p className="text-sm text-slate-500">{selectedCard.reading}</p>}
                   </div>
                   <button onClick={() => setSelectedCard(null)}>

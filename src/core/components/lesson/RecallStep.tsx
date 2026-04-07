@@ -50,6 +50,7 @@ export function RecallStep({ items, onComplete }: RecallStepProps) {
   const isReversed =
     item.reading !== undefined &&
     normalize(item.back) === normalize(item.reading);
+  const readingIsIPA = item.reading?.startsWith('/');
 
   const handleCheck = useCallback(() => {
     const normalizedInput = normalize(input);
@@ -61,10 +62,10 @@ export function RecallStep({ items, onComplete }: RecallStepProps) {
         normalizedInput === normalize(item.back) ||
         normalizedInput === normalize(item.reading ?? '');
     } else {
-      // Normal: prompt is back (meaning), accept front or reading
+      // Normal: prompt is back (meaning), accept front; also accept reading if NOT IPA
       match =
         normalizedInput === normalize(item.front) ||
-        normalizedInput === normalize(item.reading ?? '');
+        (!readingIsIPA && normalizedInput === normalize(item.reading ?? ''));
     }
 
     setIsCorrect(match);
@@ -72,7 +73,7 @@ export function RecallStep({ items, onComplete }: RecallStepProps) {
     if (match) {
       correctCountRef.current += 1;
     }
-  }, [input, item, isReversed]);
+  }, [input, item, isReversed, readingIsIPA]);
 
   const handleNext = useCallback(() => {
     if (isLast) {
@@ -89,7 +90,7 @@ export function RecallStep({ items, onComplete }: RecallStepProps) {
   const promptText = isReversed ? item.front : item.back;
   const correctAnswer = isReversed
     ? item.back
-    : `${item.front}${item.reading ? ` (${item.reading})` : ''}`;
+    : readingIsIPA ? item.front : `${item.front}${item.reading ? ` (${item.reading})` : ''}`;
 
   return (
     <div className="flex flex-col items-center">

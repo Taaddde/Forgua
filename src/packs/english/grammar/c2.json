@@ -1,0 +1,157 @@
+[
+  {
+    "id": "c2-subjunctive-english",
+    "title": "Subjunctive in English",
+    "pattern": "suggest/recommend/insist + (that) + subject + base verb | If I were... | formulaic: God save..., Be that as it may",
+    "meaning": "subjuntivo en inglés (vestigial, formal y formulaico)",
+    "level": "c2",
+    "explanation": "El subjuntivo en inglés es vestigial — sobrevive solo en contextos específicos. Se usa después de verbos de sugerencia/exigencia (suggest, recommend, insist, demand, require) + that + sujeto + verbo base SIN conjugar: 'I suggest he leave' (no 'leaves'). También aparece en expresiones fijas: 'If I were you', 'God save the King', 'Be that as it may', 'Come what may', 'Long live the Queen'. Los hispanohablantes tienden a sobreusarlo por transferencia del L1, ya que el subjuntivo español es muchísimo más productivo y abarca deseos, dudas, emociones y subordinadas. En inglés, la mayoría de estos contextos usan indicativo: 'I hope she comes' (indicativo), no *'I hope she come' (subjuntivo). En inglés británico, el subjuntivo mandativo suele reemplazarse con 'should': 'I suggest he should leave'.",
+    "examples": [
+      {
+        "sentence": "The committee recommended that the proposal be reviewed immediately.",
+        "reading": "",
+        "translation": "El comité recomendó que la propuesta fuera revisada inmediatamente.",
+        "breakdown": ["The committee = el comité", "recommended = recomendó", "that = que", "the proposal = la propuesta", "be reviewed = fuera revisada (subjuntivo: 'be' en lugar de 'is')", "immediately = inmediatamente"]
+      },
+      {
+        "sentence": "It is essential that every student be given equal opportunities.",
+        "reading": "",
+        "translation": "Es esencial que a cada estudiante se le den oportunidades iguales.",
+        "breakdown": ["It is essential = es esencial", "that = que", "every student = cada estudiante", "be given = se le den (subjuntivo pasivo)", "equal opportunities = oportunidades iguales"]
+      },
+      {
+        "sentence": "Be that as it may, we still need to address the issue.",
+        "reading": "",
+        "translation": "Sea como sea, igual necesitamos abordar el problema.",
+        "breakdown": ["Be that as it may = sea como sea (expresión fija con subjuntivo)", "we still need to = igual necesitamos", "address = abordar", "the issue = el problema"]
+      }
+    ],
+    "notes": "Error frecuente de hispanohablantes: usar subjuntivo donde el inglés usa indicativo. 'I want her to come' (infinitivo), NO *'I want that she come'. 'I hope she passes' (indicativo), NO *'I hope she pass'. El subjuntivo inglés solo es productivo con verbos mandativos (suggest, recommend, insist, demand, require, propose) y en expresiones fijas.",
+    "related": ["c1-nominal-clauses", "c1-wish-if-only"],
+    "tags": ["subjunctive", "formal-register", "mandative", "formulaic"]
+  },
+  {
+    "id": "c2-discourse-organization",
+    "title": "Advanced Discourse Organization",
+    "pattern": "Fronting: Object/Complement + subject + verb | Right-dislocation: clause, + noun phrase | Hedging: It would seem that...",
+    "meaning": "organización avanzada del discurso (fronting, dislocación, hedging)",
+    "level": "c2",
+    "explanation": "El nivel C2 requiere manejar el orden de la información para lograr efectos comunicativos específicos. 'Fronting' mueve un elemento al inicio para enfatizar: 'This we cannot accept' (en lugar de 'We cannot accept this'). 'Right-dislocation' agrega una aclaración al final: 'She's clever, your sister'. 'Left-dislocation' anticipa el tema: 'Your sister, she's really clever'. El 'hedging' usa estructuras tentativas para suavizar afirmaciones: 'It would seem that...', 'One might argue that...', 'It could be said that...'. En español la dislocación es más natural y frecuente ('Tu hermana, es muy inteligente'), pero el hedging académico inglés es mucho más elaborado que el español, que tiende a ser más directo. Dominar estas estructuras es la diferencia entre hablar correctamente y hablar con estilo.",
+    "examples": [
+      {
+        "sentence": "This kind of behaviour we simply cannot tolerate.",
+        "reading": "",
+        "translation": "Este tipo de comportamiento simplemente no podemos tolerar.",
+        "breakdown": ["This kind of behaviour = este tipo de comportamiento (objeto fronteado para énfasis)", "we = nosotros", "simply cannot tolerate = simplemente no podemos tolerar"]
+      },
+      {
+        "sentence": "He's quite the character, that uncle of yours.",
+        "reading": "",
+        "translation": "Es todo un personaje, ese tío tuyo.",
+        "breakdown": ["He's quite the character = es todo un personaje", "that uncle of yours = ese tío tuyo (right-dislocation: aclaración al final)"]
+      },
+      {
+        "sentence": "It would seem that the initial findings were somewhat misleading.",
+        "reading": "",
+        "translation": "Parecería que los hallazgos iniciales fueron algo engañosos.",
+        "breakdown": ["It would seem = parecería (hedging: condicional para suavizar)", "that = que", "the initial findings = los hallazgos iniciales", "were somewhat misleading = fueron algo engañosos ('somewhat' también es hedging)"]
+      }
+    ],
+    "notes": "El hedging es crucial en escritura académica inglesa. Comparar: 'This proves that...' (demasiado directo) vs 'This would seem to suggest that...' (apropiado académicamente). Los hispanohablantes tienden a ser demasiado directos en inglés académico porque el español tolera más la afirmación categórica. El fronting es más común en inglés escrito y formal; en conversación puede sonar literario.",
+    "related": ["c1-inversion-negative-adverbials", "c1-ellipsis-substitution", "c2-pragmatic-competence"],
+    "tags": ["discourse", "fronting", "hedging", "register", "academic"]
+  },
+  {
+    "id": "c2-complex-tense-narrative",
+    "title": "Complex Tense Interactions in Narrative",
+    "pattern": "was going to / was about to / would later become (future in the past) | Historical present | Free indirect speech",
+    "meaning": "interacciones complejas de tiempos verbales en narrativa",
+    "level": "c2",
+    "explanation": "En la narrativa avanzada, los tiempos verbales se combinan de formas sofisticadas. El 'futuro en el pasado' usa 'was going to', 'was about to' y 'would' para describir lo que iba a suceder: 'She was about to discover something that would change her life forever'. El 'presente histórico' narra eventos pasados en presente para crear inmediatez: 'So I'm walking down the street and this guy comes up to me...'. El 'discurso indirecto libre' (free indirect speech) mezcla la narración en tercera persona con los pensamientos del personaje sin verbos de reporte: 'She walked to the door. Was this really happening? She had to find out.' En español el discurso indirecto libre funciona de manera similar, pero el futuro en el pasado y el presente histórico tienen reglas de uso diferentes.",
+    "examples": [
+      {
+        "sentence": "Little did she know that the letter she was about to open would change everything.",
+        "reading": "",
+        "translation": "Poco sabía ella que la carta que estaba por abrir cambiaría todo.",
+        "breakdown": ["Little did she know = poco sabía ella (inversión + futuro en el pasado)", "that = que", "the letter = la carta", "she was about to open = estaba por abrir", "would change = cambiaría (futuro en el pasado)", "everything = todo"]
+      },
+      {
+        "sentence": "So there I am, standing in the rain, and suddenly she walks up and says, 'I've been looking for you.'",
+        "reading": "",
+        "translation": "Así que ahí estoy, parado en la lluvia, y de repente ella se acerca y dice: 'Te estuve buscando.'",
+        "breakdown": ["So there I am = así que ahí estoy (presente histórico)", "standing = parado", "in the rain = en la lluvia", "suddenly = de repente", "she walks up = ella se acerca (presente histórico)", "and says = y dice"]
+      },
+      {
+        "sentence": "She stared at the ceiling. Why had he said that? What was she supposed to do now?",
+        "reading": "",
+        "translation": "Miraba el techo. ¿Por qué había dicho eso? ¿Qué se suponía que hiciera ahora?",
+        "breakdown": ["She stared = miraba (narración)", "at the ceiling = el techo", "Why had he said that? = ¿por qué había dicho eso? (discurso indirecto libre: pensamiento del personaje)", "What was she supposed to do now? = ¿qué se suponía que hiciera ahora? (sin verbo de reporte)"]
+      }
+    ],
+    "notes": "El discurso indirecto libre es una técnica literaria que difumina la línea entre narrador y personaje. Se distingue del discurso indirecto normal porque no tiene verbo de reporte ('She thought/wondered'). Es extensamente usado por autores como Jane Austen, Virginia Woolf y James Joyce. En traducción, es uno de los elementos más difíciles de preservar entre inglés y español.",
+    "related": ["c1-inversion-negative-adverbials"],
+    "tags": ["narrative", "tense", "literary", "free-indirect-speech"]
+  },
+  {
+    "id": "c2-idiomatic-conditionals",
+    "title": "Idiomatic Conditionals and Fixed Expressions",
+    "pattern": "If worst comes to worst | Come what may | Be that as it may | What with...and... | But for + noun (= if it weren't for)",
+    "meaning": "condicionales idiomáticos y expresiones fijas que rompen las reglas gramaticales normales",
+    "level": "c2",
+    "explanation": "Existen expresiones condicionales fijas que no siguen las reglas estándar de los condicionales. 'If worst comes to worst' (en el peor de los casos) usa presente simple para ambas cláusulas. 'Come what may' (pase lo que pase) usa subjuntivo invertido. 'Be that as it may' (sea como sea) es una concesión formal. 'But for' + sustantivo equivale a 'if it weren't for': 'But for your help, I would have failed'. 'What with...and...' introduce causas acumulativas: 'What with the rain and the traffic, we arrived late'. Estas expresiones son fósiles gramaticales — restos de etapas anteriores del inglés que sobreviven como bloques fijos. No se pueden modificar ni analizar componente por componente; se aprenden como unidades completas.",
+    "examples": [
+      {
+        "sentence": "But for the scholarship, she would never have been able to attend university.",
+        "reading": "",
+        "translation": "De no ser por la beca, ella nunca habría podido asistir a la universidad.",
+        "breakdown": ["But for = de no ser por (= if it hadn't been for)", "the scholarship = la beca", "she would never have been able = nunca habría podido", "to attend = asistir a", "university = la universidad"]
+      },
+      {
+        "sentence": "Come what may, I will stand by my decision.",
+        "reading": "",
+        "translation": "Pase lo que pase, mantendré mi decisión.",
+        "breakdown": ["Come what may = pase lo que pase (subjuntivo invertido, expresión fija)", "I will stand by = mantendré / me mantendré firme en", "my decision = mi decisión"]
+      },
+      {
+        "sentence": "What with the kids being sick and the car breaking down, it was a terrible week.",
+        "reading": "",
+        "translation": "Entre que los chicos estaban enfermos y el auto se rompió, fue una semana terrible.",
+        "breakdown": ["What with = entre que / dado que (causas acumulativas)", "the kids being sick = los chicos estando enfermos", "and = y", "the car breaking down = el auto rompiéndose", "it was a terrible week = fue una semana terrible"]
+      }
+    ],
+    "notes": "Estas expresiones se caracterizan por ser no composicionales: su significado no se deriva de la suma de sus partes. 'But for' no tiene nada que ver con 'but' (pero) ni con 'for' (para). Son marcadores de nivel C2 porque incluso hablantes avanzados las evitan, prefiriendo alternativas más transparentes como 'If it weren't for...' en lugar de 'But for...'.",
+    "related": ["c1-mixed-conditionals", "c2-subjunctive-english"],
+    "tags": ["idiomatic", "conditional", "fixed-expressions", "formal-register"]
+  },
+  {
+    "id": "c2-pragmatic-competence",
+    "title": "Pragmatic Competence: Implicature and Indirectness",
+    "pattern": "I don't suppose you could... | I was wondering if you might... | That's not entirely untrue (litotes) | understatement patterns",
+    "meaning": "competencia pragmática: implicatura, indirección y atenuación",
+    "level": "c2",
+    "explanation": "La pragmática del inglés valora la indirección, especialmente en contextos formales y británicos. 'I don't suppose you could...' es más cortés que 'Could you...?'. 'I was wondering if you might...' usa pasado continuo + condicional para máxima distancia cortés. La litotes (afirmación mediante doble negación) es muy inglesa: 'not bad' = bastante bueno, 'not entirely untrue' = bastante cierto, 'not unlike' = parecido. El understatement (atenuación) es cultural: un inglés dice 'It's a bit of a problem' cuando la situación es grave. El español es culturalmente más directo: 'Tenemos un problema serio'. Esta diferencia pragmática causa malentendidos interculturales frecuentes. Un hispanohablante puede sonar brusco en inglés sin intención, y un anglohablante puede parecer evasivo en español.",
+    "examples": [
+      {
+        "sentence": "I don't suppose you could possibly lend me your notes, could you?",
+        "reading": "",
+        "translation": "No supondrás que podrías prestarme tus apuntes, ¿no?",
+        "breakdown": ["I don't suppose = no supongo (negación cortés)", "you could possibly = podrías posiblemente (hedging con 'possibly')", "lend me = prestarme", "your notes = tus apuntes", "could you? = ¿no? (tag question para suavizar más)"]
+      },
+      {
+        "sentence": "I was wondering if you might be able to help me with something.",
+        "reading": "",
+        "translation": "Me preguntaba si podrías ayudarme con algo.",
+        "breakdown": ["I was wondering = me preguntaba (pasado continuo = distancia cortés)", "if you might = si podrías (condicional = más distancia)", "be able to = poder", "help me = ayudarme", "with something = con algo"]
+      },
+      {
+        "sentence": "The weather wasn't exactly ideal — it rained for seven days straight.",
+        "reading": "",
+        "translation": "El clima no fue exactamente ideal — llovió siete días seguidos.",
+        "breakdown": ["The weather = el clima", "wasn't exactly ideal = no fue exactamente ideal (understatement: 'no ideal' para 'terrible')", "it rained = llovió", "for seven days straight = siete días seguidos"]
+      }
+    ],
+    "notes": "Escala de cortesía para pedidos (de menos a más cortés): 'Give me...' → 'Can you...?' → 'Could you...?' → 'Would you mind...?' → 'I was wondering if you could...' → 'I don't suppose you could possibly...'. La litotes ('not bad', 'not unpleasant', 'not entirely wrong') es especialmente británica y puede confundir a hispanohablantes que la interpretan literalmente. Dominar la pragmática es lo que distingue a un hablante C2 de un C1: no es qué decís, sino cómo lo decís.",
+    "related": ["c2-discourse-organization", "c1-ellipsis-substitution"],
+    "tags": ["pragmatics", "politeness", "litotes", "understatement", "cultural"]
+  }
+]

@@ -10,7 +10,7 @@
       { "sentence": "I am a student.", "reading": "", "translation": "Soy estudiante.", "breakdown": ["I = yo", "am = soy", "a = un/una", "student = estudiante"] },
       { "sentence": "She is happy.", "reading": "", "translation": "Ella está feliz.", "breakdown": ["She = ella", "is = está", "happy = feliz"] }
     ],
-    "notes": "Contracciones: I'm, you're, he's, she's, it's, we're, they're. Negación: am not, isn't, aren't.",
+    "notes": "Contracciones: I'm, you're, he's, she's, it's, we're, they're. Negación: am not, isn't, aren't. ⚠️ PARA HISPANOHABLANTES: En español 'ser' y 'estar' son distintos. En inglés 'to be' cubre ambos: 'I am a student' (soy) y 'I am tired' (estoy). Además, en inglés SIEMPRE necesitás el sujeto: 'It is cold' (no 'Is cold' como en español 'Hace frío').",
     "tags": ["verb", "essential"]
   },
   {
@@ -25,7 +25,7 @@
       { "sentence": "She ate an orange.", "reading": "", "translation": "Ella comió una naranja." },
       { "sentence": "The book is on the table.", "reading": "", "translation": "El libro está sobre la mesa." }
     ],
-    "notes": "En español usamos artículos con más frecuencia que en inglés. No se usan artículos con nombres propios: 'I live in Argentina' (no 'the Argentina').",
+    "notes": "⚠️ ERROR #1 DE HISPANOHABLANTES: Sobreusar artículos. En español: 'Me gusta EL chocolate', en inglés: 'I like chocolate' (sin 'the'). No usar artículo con: sustantivos generales ('Dogs are loyal'), nombres propios ('Argentina', no 'the Argentina'), idiomas ('I speak English'), comidas ('I had breakfast'). Error frecuente del Cambridge Learner Corpus: 'I love the nature' → 'I love nature'.",
     "tags": ["articles", "essential"]
   },
   {
@@ -81,9 +81,10 @@
     "explanation": "Indican posesión. Van siempre antes del sustantivo. my (mi), your (tu), his (su, de él), her (su, de ella), its (su, de ello), our (nuestro), their (su, de ellos).",
     "examples": [
       { "sentence": "This is my house.", "reading": "", "translation": "Esta es mi casa." },
-      { "sentence": "Her name is Maria.", "reading": "", "translation": "Su nombre es María." },
-      { "sentence": "Their car is blue.", "reading": "", "translation": "Su auto es azul." }
+      { "sentence": "Her name is Maria.", "reading": "", "translation": "Su nombre es María. (her = de ella)" },
+      { "sentence": "Their car is blue.", "reading": "", "translation": "Su auto es azul. (their = de ellos)" }
     ],
+    "notes": "⚠️ PARA HISPANOHABLANTES: En español, 'su' puede ser his, her, its o their. En inglés son 4 palabras distintas. Error típico: 'Mary said that HIS car...' debería ser 'Mary said that HER car...' porque Mary es mujer. También: 'its' (sin apóstrofo) = posesivo de 'it'. No confundir con 'it's' = 'it is'.",
     "tags": ["pronouns", "possession"]
   },
   {
@@ -126,6 +127,7 @@
       { "sentence": "She is in the kitchen.", "reading": "", "translation": "Ella está en la cocina." },
       { "sentence": "The cat is under the bed.", "reading": "", "translation": "El gato está debajo de la cama." }
     ],
+    "notes": "⚠️ ERROR MÁS FRECUENTE de hispanohablantes según el Cambridge Learner Corpus: preposición incorrecta. En español 'en' cubre in/on/at. Errores típicos: 'Put it IN the plate' → 'Put it ON the plate' (sobre la superficie). 'I'm IN school' (dentro del edificio) vs 'I'm AT school' (en la escuela como lugar). Regla: IN = dentro, ON = superficie, AT = punto/lugar.",
     "tags": ["prepositions", "place"]
   },
   {
@@ -209,7 +211,7 @@
       { "sentence": "She played tennis last week.", "reading": "", "translation": "Ella jugó al tenis la semana pasada." },
       { "sentence": "Did you study English?", "reading": "", "translation": "¿Estudiaste inglés?" }
     ],
-    "notes": "Preguntas y negaciones usan 'did': Did you work? I didn't work.",
+    "notes": "Preguntas y negaciones usan 'did': Did you work? I didn't work. ⚠️ PRONUNCIACIÓN de -ed: /t/ después de sonidos sordos (worked /wɜːrkt/, stopped /stɑːpt/), /d/ después de sonidos sonoros (played /pleɪd/, lived /lɪvd/), /ɪd/ después de t o d (wanted /ˈwɑːntɪd/, needed /ˈniːdɪd/). Esta distinción no existe en español y es clave para sonar natural.",
     "tags": ["tense", "past"]
   },
   {
@@ -351,6 +353,7 @@
       { "sentence": "How much money do you have?", "reading": "", "translation": "¿Cuánto dinero tenés?" },
       { "sentence": "There are three chairs.", "reading": "", "translation": "Hay tres sillas." }
     ],
+    "notes": "⚠️ PARA HISPANOHABLANTES: En español, 'información' puede ser plural ('las informaciones'). En inglés, 'information' es SIEMPRE incontable — 'an information' es ERROR. Se dice 'a piece of information'. Lo mismo con: advice (consejo), furniture (muebles), luggage (equipaje), news (noticias), homework (tarea). Todos son incontables en inglés aunque en español sean contables.",
     "tags": ["nouns", "quantifiers"]
   }
 ]

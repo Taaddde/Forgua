@@ -1,0 +1,75 @@
+{
+  "id": "grammar-a1-17",
+  "title": "Past Simple: was / were",
+  "description": "El pasado de 'to be': was (I/he/she/it) y were (you/we/they). Negación con wasn't/weren't y preguntas invirtiendo el orden.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "I was / He was / She was / It was",
+      "back": "Yo fui-estuve / Él fue-estuvo / Ella fue-estuvo / Eso fue-estuvo",
+      "reading": "/aɪ wɒz/ /hiː wɒz/ /ʃiː wɒz/ /ɪt wɒz/",
+      "explanation": "'Was' se usa con I, he, she, it (singulares excepto 'you'). Igual que 'to be' en presente, cubre 'ser' Y 'estar' en pasado: 'I was happy' = 'Fui feliz' o 'Estuve feliz'. 'She was a teacher' = 'Ella era/fue profesora'.",
+      "cardRef": { "category": "grammar", "front": "was (past of be)" }
+    },
+    {
+      "front": "You were / We were / They were",
+      "back": "Vos fuiste-estuviste / Nosotros fuimos-estuvimos / Ellos fueron-estuvieron",
+      "reading": "/juː wɜːr/ /wiː wɜːr/ /ðeɪ wɜːr/",
+      "explanation": "'Were' se usa con you, we, they (plurales + you singular). 'You were right' = 'Tenías razón' (literalmente: 'estabas correcto'). 'They were at home' = 'Estaban en casa'. Recordá: 'you' siempre usa 'were', nunca 'was'.",
+      "cardRef": { "category": "grammar", "front": "were (past of be)" }
+    },
+    {
+      "front": "I wasn't tired. / They weren't at school.",
+      "back": "No estaba cansado. / No estaban en la escuela.",
+      "reading": "/aɪ ˈwɒzənt ˈtaɪərd/ /ðeɪ wɜːrnt æt skuːl/",
+      "explanation": "Negación: was + not = wasn't, were + not = weren't. Es directo — no necesitás auxiliar como en Present Simple (don't/doesn't). 'I wasn't hungry' = 'No tenía hambre'. 'We weren't ready' = 'No estábamos listos'.",
+      "cardRef": { "category": "grammar", "front": "wasn't / weren't" }
+    },
+    {
+      "front": "Was she happy? / Were they at home? — Yes, she was. / No, they weren't.",
+      "back": "¿Estaba contenta? / ¿Estaban en casa? — Sí, ella estaba. / No, ellos no estaban.",
+      "reading": "/wɒz ʃiː ˈhæpi/ /wɜːr ðeɪ æt hoʊm/",
+      "explanation": "Preguntas: se invierte el orden → Was/Were + sujeto + complemento. 'Was she a student?' = '¿Era estudiante?'. 'Were you tired?' = '¿Estabas cansado?'. Respuestas cortas: 'Yes, I was' / 'No, I wasn't'. 'Yes, they were' / 'No, they weren't'.",
+      "cardRef": { "category": "grammar", "front": "was/were questions" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "was y were: el pasado de 'to be'",
+      "instruction": "Ya conocés 'am/is/are' (presente). Ahora el pasado: 'was' (para I, he, she, it) y 'were' (para you, we, they). Como siempre con 'to be', cubre 'ser' y 'estar': 'I was happy' puede ser 'Fui feliz' o 'Estuve feliz'. 'She was a doctor' = 'Era doctora'.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Negaciones y preguntas",
+      "instruction": "Para negar: wasn't / weren't. Para preguntar: invertí el orden (Was she...? Were they...?). Es más simple que Present Simple porque no necesitás 'do/does'. Solo invertís was/were con el sujeto.",
+      "itemIndices": [2, 3]
+    },
+    {
+      "type": "recognize",
+      "title": "¿was o were?",
+      "instruction": "Elegí la forma correcta (was o were) para cada sujeto.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "recall",
+      "title": "Completá con was/were/wasn't/weren't",
+      "instruction": "Ves la oración incompleta. Escribí la forma correcta del pasado de 'to be'.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "write",
+      "title": "Traducí al inglés",
+      "instruction": "Ves la oración en español. Escribí la traducción usando was o were.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Resumen: was (I/he/she/it) y were (you/we/they). Negación: wasn't / weren't. Preguntas: Was/Were + sujeto? Respuestas cortas: Yes, I was / No, I wasn't. Recordá que cubre 'ser' y 'estar' en pasado, igual que 'to be' en presente.",
+      "itemIndices": [0, 1, 2, 3]
+    }
+  ]
+}

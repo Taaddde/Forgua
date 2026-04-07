@@ -1,0 +1,170 @@
+[
+  {
+    "id": "b1-reading-working-from-home",
+    "title": "Working from Home",
+    "level": "b1",
+    "text": "When the pandemic started in 2020, millions of people around the world had to start working from home. At first, many workers were excited about the change. They didn't have to commute to the office anymore, and they could work in comfortable clothes. However, after a few months, some people began to feel isolated. They missed talking to their colleagues face to face and found it hard to separate work from personal life.\n\nFor me, working from home has been mostly positive. I wake up later because I don't need to spend an hour on the train. I can take breaks whenever I want and even cook lunch in my own kitchen. On the other hand, I sometimes feel less motivated when I'm alone at home all day. It's easy to get distracted by housework or social media.\n\nMany companies have now adopted a hybrid model, where employees work from home two or three days a week and go to the office on the other days. I think this is a good balance. You get the flexibility of remote work but also the social interaction that comes with being in the office. The way we work has changed forever, and I believe that's mostly a good thing.",
+    "translation": "Cuando la pandemia empezó en 2020, millones de personas en todo el mundo tuvieron que empezar a trabajar desde casa. Al principio, muchos trabajadores estaban entusiasmados con el cambio. Ya no tenían que viajar a la oficina, y podían trabajar con ropa cómoda. Sin embargo, después de unos meses, algunas personas empezaron a sentirse aisladas. Extrañaban hablar con sus compañeros cara a cara y les costaba separar el trabajo de la vida personal.\n\nPara mí, trabajar desde casa ha sido mayormente positivo. Me levanto más tarde porque no necesito pasar una hora en el tren. Puedo tomar descansos cuando quiera e incluso cocinar el almuerzo en mi propia cocina. Por otro lado, a veces me siento menos motivado cuando estoy solo en casa todo el día. Es fácil distraerse con las tareas del hogar o las redes sociales.\n\nMuchas empresas han adoptado ahora un modelo híbrido, donde los empleados trabajan desde casa dos o tres días a la semana y van a la oficina los otros días. Creo que es un buen equilibrio. Tenés la flexibilidad del trabajo remoto pero también la interacción social que viene con estar en la oficina. La forma en que trabajamos cambió para siempre, y creo que eso es mayormente algo bueno.",
+    "vocabulary": ["commute - viajar al trabajo", "isolated - aislado", "colleagues - compañeros de trabajo", "separate - separar", "motivated - motivado", "distracted - distraído", "housework - tareas del hogar", "hybrid - híbrido", "employees - empleados", "flexibility - flexibilidad", "remote work - trabajo remoto", "balance - equilibrio"],
+    "questions": [
+      {
+        "question": "What was the initial reaction of many workers to working from home?",
+        "options": ["They were worried about losing their jobs.", "They were excited about the change.", "They were angry at their employers.", "They preferred going to the office."],
+        "correctIndex": 1,
+        "explanation": "The text says 'many workers were excited about the change' when they first started working from home."
+      },
+      {
+        "question": "What does the author find difficult about working from home?",
+        "options": ["The internet connection is bad.", "The house is too noisy.", "It's easy to get distracted.", "The working hours are longer."],
+        "correctIndex": 2,
+        "explanation": "The author says 'It's easy to get distracted by housework or social media' when working from home."
+      },
+      {
+        "question": "What kind of work model does the author think is best?",
+        "options": ["Working from home every day.", "Going to the office every day.", "A hybrid model combining both.", "Working only on weekends."],
+        "correctIndex": 2,
+        "explanation": "The author says 'I think this is a good balance' about the hybrid model where employees split time between home and office."
+      }
+    ]
+  },
+  {
+    "id": "b1-reading-trip-to-new-york",
+    "title": "A Trip to New York",
+    "level": "b1",
+    "text": "Last September, I finally visited New York City for the first time. I had always dreamed of going there, so when I found a cheap flight, I didn't think twice. I booked a small apartment in Brooklyn through an online platform because hotels in Manhattan were too expensive.\n\nOn my first morning, I took the subway to Times Square. I couldn't believe how big and bright everything was. There were huge screens everywhere and thousands of tourists taking photos. After that, I walked to Central Park, which was much larger than I had imagined. I spent two hours just walking around and enjoying the views.\n\nThe next day, I visited the Statue of Liberty and the 9/11 Memorial. Both places were very moving. I also tried real New York pizza, and it was as good as everyone says. In the evenings, I explored different neighborhoods like SoHo and the East Village. Each one had its own personality and atmosphere.\n\nThe thing that surprised me most was how diverse the city is. I heard people speaking at least ten different languages on the subway. The energy of New York is something you can't understand until you experience it yourself. I stayed for five days, but I feel like I only saw a small part of the city. I definitely want to go back.",
+    "translation": "En septiembre pasado, finalmente visité la ciudad de Nueva York por primera vez. Siempre había soñado con ir, así que cuando encontré un vuelo barato, no lo pensé dos veces. Reservé un departamento pequeño en Brooklyn a través de una plataforma online porque los hoteles en Manhattan eran demasiado caros.\n\nEn mi primera mañana, tomé el subte hasta Times Square. No podía creer lo grande y brillante que era todo. Había pantallas enormes por todos lados y miles de turistas sacando fotos. Después de eso, caminé hasta Central Park, que era mucho más grande de lo que había imaginado. Pasé dos horas simplemente caminando y disfrutando de las vistas.\n\nAl día siguiente, visité la Estatua de la Libertad y el Memorial del 11-S. Ambos lugares fueron muy conmovedores. También probé pizza neoyorquina auténtica, y era tan buena como todos dicen. Por las noches, exploré diferentes barrios como SoHo y el East Village. Cada uno tenía su propia personalidad y atmósfera.\n\nLo que más me sorprendió fue lo diversa que es la ciudad. Escuché gente hablando al menos diez idiomas diferentes en el subte. La energía de Nueva York es algo que no podés entender hasta que lo experimentás vos mismo. Me quedé cinco días, pero siento que solo vi una pequeña parte de la ciudad. Definitivamente quiero volver.",
+    "vocabulary": ["dreamed - soñado", "booked - reservé", "subway - subte/metro", "huge - enorme", "tourists - turistas", "memorial - memorial", "moving - conmovedor", "neighborhoods - barrios", "atmosphere - atmósfera", "diverse - diverso", "energy - energía", "experience - experimentar"],
+    "questions": [
+      {
+        "question": "Why did the author stay in Brooklyn instead of Manhattan?",
+        "options": ["Brooklyn had better restaurants.", "Hotels in Manhattan were too expensive.", "Brooklyn was closer to the airport.", "The author had friends in Brooklyn."],
+        "correctIndex": 1,
+        "explanation": "The text states the author booked in Brooklyn 'because hotels in Manhattan were too expensive.'"
+      },
+      {
+        "question": "What surprised the author most about New York?",
+        "options": ["The size of Central Park.", "The price of the pizza.", "How diverse the city is.", "The number of tourists."],
+        "correctIndex": 2,
+        "explanation": "The text says 'The thing that surprised me most was how diverse the city is,' mentioning hearing at least ten different languages."
+      },
+      {
+        "question": "How did the author feel about the length of the trip?",
+        "options": ["Five days was too long.", "Five days was the perfect amount of time.", "Five days was not enough to see everything.", "The author wanted to leave earlier."],
+        "correctIndex": 2,
+        "explanation": "The author says 'I stayed for five days, but I feel like I only saw a small part of the city' and wants to go back."
+      }
+    ]
+  },
+  {
+    "id": "b1-reading-social-media-friendships",
+    "title": "Social Media and Friendships",
+    "level": "b1",
+    "text": "Social media has completely changed the way we communicate with each other. Platforms like Instagram, Facebook, and WhatsApp make it easy to stay in touch with friends and family, even if they live in another country. You can share photos, send messages, and video call people at any time. In many ways, social media has made the world feel smaller.\n\nHowever, some people argue that social media is actually damaging our friendships. When we spend too much time online, we may forget to invest in real, face-to-face relationships. It's common to have hundreds of 'friends' on social media but only talk to a few of them regularly. Some studies have shown that heavy social media use can lead to feelings of loneliness and anxiety.\n\nI think the key is to find a balance. Social media is a wonderful tool for keeping in contact with people, especially old friends who live far away. But it should not replace spending quality time with the people who matter most to us. I try to limit my screen time to one hour per day and make sure I meet my close friends in person at least once a week. Technology should bring us together, not push us apart.",
+    "translation": "Las redes sociales cambiaron completamente la forma en que nos comunicamos. Plataformas como Instagram, Facebook y WhatsApp hacen fácil mantenerse en contacto con amigos y familia, incluso si viven en otro país. Podés compartir fotos, enviar mensajes y hacer videollamadas en cualquier momento. De muchas maneras, las redes sociales hicieron que el mundo se sienta más pequeño.\n\nSin embargo, algunas personas argumentan que las redes sociales en realidad están dañando nuestras amistades. Cuando pasamos demasiado tiempo en línea, podemos olvidarnos de invertir en relaciones reales, cara a cara. Es común tener cientos de 'amigos' en las redes sociales pero solo hablar con algunos de ellos regularmente. Algunos estudios han demostrado que el uso excesivo de redes sociales puede llevar a sentimientos de soledad y ansiedad.\n\nCreo que la clave es encontrar un equilibrio. Las redes sociales son una herramienta maravillosa para mantenerse en contacto con la gente, especialmente viejos amigos que viven lejos. Pero no deberían reemplazar pasar tiempo de calidad con las personas que más nos importan. Intento limitar mi tiempo de pantalla a una hora por día y asegurarme de ver a mis amigos cercanos en persona al menos una vez por semana. La tecnología debería unirnos, no separarnos.",
+    "vocabulary": ["communicate - comunicarse", "platforms - plataformas", "stay in touch - mantenerse en contacto", "argue - argumentar", "damaging - dañando", "invest - invertir", "relationships - relaciones", "loneliness - soledad", "anxiety - ansiedad", "balance - equilibrio", "screen time - tiempo de pantalla", "quality time - tiempo de calidad"],
+    "questions": [
+      {
+        "question": "According to the text, what is one positive effect of social media?",
+        "options": ["It makes people more productive.", "It helps people stay in touch across distances.", "It improves people's mental health.", "It replaces the need for face-to-face meetings."],
+        "correctIndex": 1,
+        "explanation": "The text states that social media makes it 'easy to stay in touch with friends and family, even if they live in another country.'"
+      },
+      {
+        "question": "What problem does the author mention about social media friendships?",
+        "options": ["People argue more online.", "People have hundreds of online friends but few real connections.", "Social media is too expensive.", "People share too many personal photos."],
+        "correctIndex": 1,
+        "explanation": "The text says 'It's common to have hundreds of friends on social media but only talk to a few of them regularly.'"
+      },
+      {
+        "question": "What personal rule does the author follow regarding social media?",
+        "options": ["Never use social media.", "Only use it on weekends.", "Limit screen time to one hour per day.", "Only follow close friends."],
+        "correctIndex": 2,
+        "explanation": "The author says 'I try to limit my screen time to one hour per day.'"
+      }
+    ]
+  },
+  {
+    "id": "b1-reading-job-interview",
+    "title": "The Job Interview",
+    "level": "b1",
+    "text": "I had been looking for a new job for three months when I finally got a call from a marketing company. They wanted to interview me for a junior marketing position. I was nervous but also excited because it was the kind of job I had always wanted.\n\nI spent the whole weekend preparing. I researched the company online, practiced common interview questions in front of the mirror, and chose my best outfit. My sister helped me by doing a mock interview. She asked me difficult questions like 'What is your biggest weakness?' and 'Where do you see yourself in five years?' It was really helpful.\n\nOn the day of the interview, I arrived fifteen minutes early. The office was modern and bright, with plants everywhere. The interviewer, Mr. Davis, was friendly and made me feel comfortable. He asked about my studies, my work experience, and why I was interested in marketing. I tried to speak clearly and give specific examples from my previous job.\n\nThe hardest question was about a time when I had to deal with a difficult situation at work. I told him about a project where the deadline was very tight, and how I organized my team to finish on time. He seemed impressed. At the end, he said they would contact me within a week. Three days later, I got the call — I got the job!",
+    "translation": "Llevaba tres meses buscando un nuevo trabajo cuando finalmente recibí una llamada de una empresa de marketing. Querían entrevistarme para un puesto de marketing junior. Estaba nervioso pero también entusiasmado porque era el tipo de trabajo que siempre había querido.\n\nPasé todo el fin de semana preparándome. Investigué la empresa en internet, practiqué preguntas comunes de entrevista frente al espejo y elegí mi mejor ropa. Mi hermana me ayudó haciendo una entrevista simulada. Me hizo preguntas difíciles como '¿Cuál es tu mayor debilidad?' y '¿Dónde te ves en cinco años?' Fue muy útil.\n\nEl día de la entrevista, llegué quince minutos antes. La oficina era moderna y luminosa, con plantas por todos lados. El entrevistador, el Sr. Davis, fue amable y me hizo sentir cómodo. Me preguntó sobre mis estudios, mi experiencia laboral y por qué me interesaba el marketing. Intenté hablar claro y dar ejemplos específicos de mi trabajo anterior.\n\nLa pregunta más difícil fue sobre una vez que tuve que manejar una situación difícil en el trabajo. Le conté sobre un proyecto donde el plazo era muy ajustado, y cómo organicé a mi equipo para terminar a tiempo. Pareció impresionado. Al final, dijo que me contactarían dentro de una semana. Tres días después, recibí la llamada — ¡conseguí el trabajo!",
+    "vocabulary": ["interview - entrevista", "position - puesto", "researched - investigué", "outfit - ropa/atuendo", "mock interview - entrevista simulada", "weakness - debilidad", "modern - moderno", "comfortable - cómodo", "specific - específico", "deadline - plazo/fecha límite", "impressed - impresionado", "contact - contactar"],
+    "questions": [
+      {
+        "question": "How long had the author been looking for a job before the interview?",
+        "options": ["One month.", "Two months.", "Three months.", "Six months."],
+        "correctIndex": 2,
+        "explanation": "The text says 'I had been looking for a new job for three months when I finally got a call.'"
+      },
+      {
+        "question": "How did the author prepare for the interview?",
+        "options": ["Took a professional training course.", "Researched the company, practiced questions, and did a mock interview.", "Asked friends who worked there for advice.", "Read a book about marketing."],
+        "correctIndex": 1,
+        "explanation": "The text describes researching the company, practicing questions in front of the mirror, and doing a mock interview with the author's sister."
+      },
+      {
+        "question": "What difficult situation did the author describe to the interviewer?",
+        "options": ["A conflict with a colleague.", "A project with a very tight deadline.", "A problem with a customer.", "A mistake in a report."],
+        "correctIndex": 1,
+        "explanation": "The author told the interviewer 'about a project where the deadline was very tight, and how I organized my team to finish on time.'"
+      }
+    ]
+  },
+  {
+    "id": "b1-reading-climate-change",
+    "title": "Climate Change: What Can We Do?",
+    "level": "b1",
+    "text": "Climate change is one of the biggest challenges facing our planet today. Scientists agree that human activities, especially burning fossil fuels, are causing the Earth's temperature to rise. This is leading to more extreme weather events, rising sea levels, and the loss of many plant and animal species.\n\nSome people think that only governments and big companies can solve this problem. While it's true that they need to take action, there are many things that ordinary people can do in their daily lives to help. For example, we can reduce our energy consumption by turning off lights when we leave a room and using energy-efficient appliances. We can also drive less and use public transportation, ride a bicycle, or walk when possible.\n\nAnother important step is to reduce waste. We can bring reusable bags to the supermarket, avoid buying products with too much plastic packaging, and recycle as much as possible. Eating less meat is also helpful, because the meat industry produces a large amount of greenhouse gases.\n\nOf course, individual actions alone won't solve climate change. We also need to support policies that protect the environment and hold polluters accountable. But every small action counts, and when millions of people make changes, the impact can be enormous. The important thing is to start today, not tomorrow.",
+    "translation": "El cambio climático es uno de los mayores desafíos que enfrenta nuestro planeta hoy. Los científicos coinciden en que las actividades humanas, especialmente la quema de combustibles fósiles, están causando que la temperatura de la Tierra suba. Esto está provocando eventos climáticos más extremos, aumento del nivel del mar y la pérdida de muchas especies de plantas y animales.\n\nAlgunas personas piensan que solo los gobiernos y las grandes empresas pueden resolver este problema. Si bien es cierto que necesitan tomar acción, hay muchas cosas que la gente común puede hacer en su vida diaria para ayudar. Por ejemplo, podemos reducir nuestro consumo de energía apagando las luces cuando salimos de una habitación y usando electrodomésticos eficientes. También podemos manejar menos y usar el transporte público, andar en bicicleta o caminar cuando sea posible.\n\nOtro paso importante es reducir los residuos. Podemos llevar bolsas reutilizables al supermercado, evitar comprar productos con demasiado envoltorio de plástico, y reciclar lo más posible. Comer menos carne también ayuda, porque la industria cárnica produce una gran cantidad de gases de efecto invernadero.\n\nPor supuesto, las acciones individuales por sí solas no van a resolver el cambio climático. También necesitamos apoyar políticas que protejan el medio ambiente y hagan responsables a los contaminadores. Pero cada pequeña acción cuenta, y cuando millones de personas hacen cambios, el impacto puede ser enorme. Lo importante es empezar hoy, no mañana.",
+    "vocabulary": ["climate change - cambio climático", "fossil fuels - combustibles fósiles", "temperature - temperatura", "extreme - extremo", "consumption - consumo", "appliances - electrodomésticos", "public transportation - transporte público", "reusable - reutilizable", "packaging - envoltorio/embalaje", "recycle - reciclar", "greenhouse gases - gases de efecto invernadero", "impact - impacto"],
+    "questions": [
+      {
+        "question": "According to the text, what is the main cause of climate change?",
+        "options": ["Natural weather cycles.", "Deforestation.", "Human activities like burning fossil fuels.", "Volcanic eruptions."],
+        "correctIndex": 2,
+        "explanation": "The text states that 'human activities, especially burning fossil fuels, are causing the Earth's temperature to rise.'"
+      },
+      {
+        "question": "Why does the author suggest eating less meat?",
+        "options": ["It is better for personal health.", "Meat is becoming more expensive.", "The meat industry produces many greenhouse gases.", "There is not enough meat for everyone."],
+        "correctIndex": 2,
+        "explanation": "The text says 'the meat industry produces a large amount of greenhouse gases.'"
+      },
+      {
+        "question": "What is the author's overall message about individual action?",
+        "options": ["Individual actions are useless against climate change.", "Only governments can make a difference.", "Every small action counts, especially when millions of people participate.", "People should wait for technology to solve the problem."],
+        "correctIndex": 2,
+        "explanation": "The author states 'every small action counts, and when millions of people make changes, the impact can be enormous.'"
+      }
+    ]
+  },
+  {
+    "id": "b1-reading-moving-abroad",
+    "title": "Moving to Another Country",
+    "level": "b1",
+    "text": "Two years ago, I made the biggest decision of my life: I moved from Argentina to Germany for work. I had studied German at university, but living in a country where everyone speaks the language is completely different from studying it in a classroom.\n\nThe first few months were the hardest. I missed my family and friends terribly. The food was different, the weather was much colder, and I didn't understand many cultural differences. For example, in Argentina people often arrive late to social events, but in Germany, being punctual is very important. I also found it strange that shops close early on Saturdays and stay closed on Sundays.\n\nLittle by little, I started to adapt. I joined a local sports club and met people who became good friends. I discovered that Germans are very warm and welcoming once you get to know them. I started to enjoy German food, especially bread and pastries, which are incredible. I even got used to the cold weather, although I still miss the Argentine sun.\n\nLooking back, I think culture shock is a normal part of moving abroad. It takes time to feel at home in a new country, and that's okay. The experience has made me more open-minded and independent. I have learned that home is not just a place — it's also the people and memories you carry with you wherever you go.",
+    "translation": "Hace dos años, tomé la decisión más grande de mi vida: me mudé de Argentina a Alemania por trabajo. Había estudiado alemán en la universidad, pero vivir en un país donde todos hablan el idioma es completamente diferente a estudiarlo en un aula.\n\nLos primeros meses fueron los más difíciles. Extrañaba terriblemente a mi familia y amigos. La comida era diferente, el clima era mucho más frío, y no entendía muchas diferencias culturales. Por ejemplo, en Argentina la gente a menudo llega tarde a los eventos sociales, pero en Alemania, ser puntual es muy importante. También me pareció extraño que los negocios cierren temprano los sábados y queden cerrados los domingos.\n\nDe a poco, empecé a adaptarme. Me uní a un club deportivo local y conocí personas que se convirtieron en buenos amigos. Descubrí que los alemanes son muy cálidos y acogedores una vez que los conocés. Empecé a disfrutar la comida alemana, especialmente el pan y las facturas, que son increíbles. Hasta me acostumbré al clima frío, aunque todavía extraño el sol argentino.\n\nMirando hacia atrás, creo que el choque cultural es una parte normal de mudarse al exterior. Toma tiempo sentirse en casa en un país nuevo, y está bien. La experiencia me hizo más abierto de mente e independiente. Aprendí que el hogar no es solo un lugar — también son las personas y los recuerdos que llevás con vos a donde vayas.",
+    "vocabulary": ["decision - decisión", "completely - completamente", "cultural differences - diferencias culturales", "punctual - puntual", "adapt - adaptarse", "welcoming - acogedor", "pastries - facturas/masas", "got used to - me acostumbré a", "culture shock - choque cultural", "open-minded - de mente abierta", "independent - independiente", "memories - recuerdos"],
+    "questions": [
+      {
+        "question": "What cultural difference surprised the author about Germany?",
+        "options": ["People eat dinner very late.", "People work on Sundays.", "Being punctual is very important.", "People don't go to sports clubs."],
+        "correctIndex": 2,
+        "explanation": "The text mentions that 'in Germany, being punctual is very important,' which contrasted with the Argentine habit of arriving late to social events."
+      },
+      {
+        "question": "How did the author start to make friends in Germany?",
+        "options": ["Through work colleagues.", "By joining a local sports club.", "Through an online app.", "At a language school."],
+        "correctIndex": 1,
+        "explanation": "The text says 'I joined a local sports club and met people who became good friends.'"
+      },
+      {
+        "question": "What lesson did the author learn from moving abroad?",
+        "options": ["Germany is better than Argentina.", "It's impossible to feel at home in another country.", "Home is not just a place but also people and memories.", "Learning a language in a classroom is enough."],
+        "correctIndex": 2,
+        "explanation": "The author concludes that 'home is not just a place — it's also the people and memories you carry with you wherever you go.'"
+      }
+    ]
+  }
+]

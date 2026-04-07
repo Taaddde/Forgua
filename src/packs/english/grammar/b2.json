@@ -1,0 +1,486 @@
+[
+  {
+    "id": "b2-mixed-conditionals",
+    "title": "Mixed Conditionals",
+    "pattern": "If + past perfect, would + infinitive | If + past simple, would have + past participle",
+    "meaning": "condicionales mixtos (mezcla de tiempos)",
+    "level": "b2",
+    "explanation": "Los mixed conditionals combinan elementos del segundo y tercer condicional. Tipo 1: 'If + past perfect, would + infinitive' = una situación pasada irreal con resultado presente ('Si hubiera estudiado medicina, ahora sería doctor'). Tipo 2: 'If + past simple, would have + past participle' = una situación presente irreal con resultado pasado ('Si fuera más valiente, habría aceptado el trabajo'). En español usamos el subjuntivo de forma similar, pero la combinación de tiempos es igualmente difícil para hispanohablantes.",
+    "examples": [
+      {
+        "sentence": "If I had studied medicine, I would be a doctor now.",
+        "reading": "",
+        "translation": "Si hubiera estudiado medicina, ahora sería doctor.",
+        "breakdown": ["If I had studied = si hubiera estudiado (pasado irreal)", "medicine = medicina", "I would be = sería (resultado presente)", "a doctor now = doctor ahora"]
+      },
+      {
+        "sentence": "If she weren't so shy, she would have spoken to him at the party.",
+        "reading": "",
+        "translation": "Si ella no fuera tan tímida, le habría hablado en la fiesta.",
+        "breakdown": ["If she weren't = si no fuera (presente irreal)", "so shy = tan tímida", "she would have spoken = le habría hablado (resultado pasado)", "to him = a él", "at the party = en la fiesta"]
+      },
+      {
+        "sentence": "If we had taken that flight, we would be in Tokyo right now.",
+        "reading": "",
+        "translation": "Si hubiéramos tomado ese vuelo, estaríamos en Tokio ahora mismo.",
+        "breakdown": ["If we had taken = si hubiéramos tomado (pasado irreal)", "that flight = ese vuelo", "we would be = estaríamos (resultado presente)", "in Tokyo right now = en Tokio ahora mismo"]
+      }
+    ],
+    "notes": "La clave es identificar cuándo la condición y el resultado pertenecen a tiempos diferentes. Si la condición es pasada pero el resultado es presente -> past perfect + would. Si la condición es presente pero el resultado es pasado -> past simple + would have. Preguntate: ¿la condición es sobre ahora o sobre antes? ¿El resultado es sobre ahora o sobre antes?",
+    "related": ["b1-second-conditional", "b1-third-conditional"],
+    "tags": ["conditional", "hypothetical", "advanced"]
+  },
+  {
+    "id": "b2-future-perfect",
+    "title": "Future Perfect",
+    "pattern": "Subject + will have + past participle",
+    "meaning": "futuro perfecto",
+    "level": "b2",
+    "explanation": "El futuro perfecto se usa para hablar de acciones que estarán completadas antes de un momento específico en el futuro. Se forma con 'will have + participio pasado'. Es muy común con 'by + tiempo' (by next year, by the time..., by then). En español se traduce como 'habré + participio' ('habré terminado'). También se usa para hacer suposiciones sobre el pasado: 'She will have arrived by now' (supongo que ya llegó).",
+    "examples": [
+      {
+        "sentence": "By next December, I will have graduated from university.",
+        "reading": "",
+        "translation": "Para diciembre próximo, me habré graduado de la universidad.",
+        "breakdown": ["By next December = para diciembre próximo", "I will have graduated = me habré graduado", "from university = de la universidad"]
+      },
+      {
+        "sentence": "They will have finished the project by the time we arrive.",
+        "reading": "",
+        "translation": "Habrán terminado el proyecto para cuando lleguemos.",
+        "breakdown": ["They will have finished = habrán terminado", "the project = el proyecto", "by the time = para cuando", "we arrive = lleguemos"]
+      },
+      {
+        "sentence": "By 2030, scientists will have discovered new treatments for cancer.",
+        "reading": "",
+        "translation": "Para 2030, los científicos habrán descubierto nuevos tratamientos para el cáncer.",
+        "breakdown": ["By 2030 = para 2030", "scientists = los científicos", "will have discovered = habrán descubierto", "new treatments = nuevos tratamientos", "for cancer = para el cáncer"]
+      }
+    ],
+    "notes": "Marcadores temporales típicos: by + fecha/momento (by Friday, by next month, by the end of the year, by then), by the time + present simple. NO se usa con 'when' en la cláusula temporal: 'When you arrive, I will have finished' (no 'when you will arrive').",
+    "related": ["b1-future-continuous", "b2-future-perfect-continuous"],
+    "tags": ["tense", "future", "perfect"]
+  },
+  {
+    "id": "b2-future-perfect-continuous",
+    "title": "Future Perfect Continuous",
+    "pattern": "Subject + will have been + verb-ing",
+    "meaning": "futuro perfecto continuo",
+    "level": "b2",
+    "explanation": "El futuro perfecto continuo se usa para enfatizar la duración de una acción que habrá estado en progreso hasta un punto en el futuro. Se forma con 'will have been + verbo-ing'. Se usa comúnmente con 'for + duración' para destacar cuánto tiempo. La diferencia con el futuro perfecto simple es que este enfatiza la duración/proceso, mientras que el simple enfatiza la completitud. En español no existe este tiempo; se traduce como 'habré estado + gerundio'.",
+    "examples": [
+      {
+        "sentence": "By June, I will have been working here for ten years.",
+        "reading": "",
+        "translation": "Para junio, habré estado trabajando acá durante diez años.",
+        "breakdown": ["By June = para junio", "I will have been working = habré estado trabajando", "here = acá", "for ten years = durante diez años"]
+      },
+      {
+        "sentence": "Next month, they will have been living in this house for twenty years.",
+        "reading": "",
+        "translation": "El mes que viene, habrán estado viviendo en esta casa durante veinte años.",
+        "breakdown": ["Next month = el mes que viene", "they will have been living = habrán estado viviendo", "in this house = en esta casa", "for twenty years = durante veinte años"]
+      }
+    ],
+    "notes": "Compare: 'By 5pm I will have written the report' (futuro perfecto: énfasis en que estará terminado) vs 'By 5pm I will have been writing the report for three hours' (futuro perfecto continuo: énfasis en las tres horas de proceso). Los stative verbs (know, believe, own) no se usan en continuo.",
+    "related": ["b2-future-perfect", "b1-present-perfect-continuous"],
+    "tags": ["tense", "future", "perfect", "continuous"]
+  },
+  {
+    "id": "b2-past-perfect-continuous",
+    "title": "Past Perfect Continuous",
+    "pattern": "Subject + had been + verb-ing",
+    "meaning": "pasado perfecto continuo (pluscuamperfecto continuo)",
+    "level": "b2",
+    "explanation": "El past perfect continuous se usa para hablar de una acción que estuvo en progreso durante un período ANTES de otra acción pasada. Enfatiza la duración de la acción anterior. Se forma con 'had been + verbo-ing'. Es muy útil en narraciones para dar contexto y explicar causas. En español se traduce como 'había estado + gerundio'. Frecuentemente se combina con past simple para crear secuencias narrativas.",
+    "examples": [
+      {
+        "sentence": "She had been studying for three hours when the power went out.",
+        "reading": "",
+        "translation": "Había estado estudiando durante tres horas cuando se cortó la luz.",
+        "breakdown": ["She had been studying = había estado estudiando", "for three hours = durante tres horas", "when = cuando", "the power went out = se cortó la luz"]
+      },
+      {
+        "sentence": "They were tired because they had been walking all day.",
+        "reading": "",
+        "translation": "Estaban cansados porque habían estado caminando todo el día.",
+        "breakdown": ["They were tired = estaban cansados", "because = porque", "they had been walking = habían estado caminando", "all day = todo el día"]
+      },
+      {
+        "sentence": "I could tell she had been crying. Her eyes were red.",
+        "reading": "",
+        "translation": "Me di cuenta de que había estado llorando. Tenía los ojos rojos.",
+        "breakdown": ["I could tell = me di cuenta", "she had been crying = había estado llorando (evidencia visible)", "Her eyes = sus ojos", "were red = estaban rojos"]
+      }
+    ],
+    "notes": "Diferencia con Past Perfect Simple: 'She had read three books' (resultado, cantidad completada) vs 'She had been reading for hours' (proceso, duración). El Past Perfect Continuous explica frecuentemente por qué algo era de cierta forma: 'The ground was wet because it had been raining'.",
+    "related": ["b1-past-perfect", "b2-narrative-tenses"],
+    "tags": ["tense", "past", "perfect", "continuous"]
+  },
+  {
+    "id": "b2-narrative-tenses",
+    "title": "Narrative Tenses",
+    "pattern": "past simple + past continuous + past perfect (+ past perfect continuous)",
+    "meaning": "tiempos narrativos (combinación para contar historias)",
+    "level": "b2",
+    "explanation": "Para contar historias de forma efectiva en inglés, se combinan múltiples tiempos pasados. Past simple: eventos principales de la historia (acciones completadas en secuencia). Past continuous: contexto, ambiente, acciones en progreso cuando algo ocurrió. Past perfect: eventos anteriores a la historia principal (flashbacks). Past perfect continuous: duración de acciones anteriores. Dominar esta combinación es esencial para la escritura y el habla natural en inglés.",
+    "examples": [
+      {
+        "sentence": "I was walking home when I saw an old friend I hadn't seen for years.",
+        "reading": "",
+        "translation": "Estaba caminando a casa cuando vi a un viejo amigo que no había visto en años.",
+        "breakdown": ["I was walking = estaba caminando (contexto, past continuous)", "home = a casa", "when I saw = cuando vi (evento principal, past simple)", "an old friend = un viejo amigo", "I hadn't seen = no había visto (anterior al evento, past perfect)", "for years = en años"]
+      },
+      {
+        "sentence": "She had been working at the company for five years when she decided to quit. She was earning a good salary, but she wasn't happy.",
+        "reading": "",
+        "translation": "Había estado trabajando en la empresa durante cinco años cuando decidió renunciar. Ganaba un buen sueldo, pero no estaba feliz.",
+        "breakdown": ["She had been working = había estado trabajando (duración anterior, past perfect continuous)", "for five years = durante cinco años", "when she decided = cuando decidió (evento principal, past simple)", "to quit = renunciar", "She was earning = ganaba (contexto, past continuous)", "a good salary = un buen sueldo", "but she wasn't happy = pero no estaba feliz (estado, past simple/continuous)"]
+      }
+    ],
+    "notes": "Estructura narrativa típica: 1) Contexto con past continuous ('The sun was shining...'). 2) Eventos con past simple ('Suddenly, a man appeared...'). 3) Antecedentes con past perfect ('He had escaped from...'). Los conectores temporales ayudan: suddenly, when, while, as soon as, by the time, after, before.",
+    "related": ["b1-past-perfect", "b2-past-perfect-continuous", "b1-would-past-habits"],
+    "tags": ["tense", "narrative", "storytelling"]
+  },
+  {
+    "id": "b2-extended-passives",
+    "title": "Extended Passives",
+    "pattern": "modal + be + past participle | have been + past participle | get + past participle",
+    "meaning": "pasivas extendidas (con modales, perfectas, con 'get')",
+    "level": "b2",
+    "explanation": "A nivel B2, la voz pasiva se extiende a estructuras más complejas. Pasiva con modales: 'can be done', 'should be fixed', 'must be completed'. Pasiva en present perfect: 'has been sold'. Pasiva en past perfect: 'had been built'. Pasiva con 'get' (informal): 'get paid', 'got fired'. Los hispanohablantes tienden a evitar la pasiva en general, pero en inglés es mucho más frecuente, especialmente en contextos formales, académicos y periodísticos.",
+    "examples": [
+      {
+        "sentence": "This problem should be addressed immediately.",
+        "reading": "",
+        "translation": "Este problema debería ser abordado inmediatamente.",
+        "breakdown": ["This problem = este problema", "should be addressed = debería ser abordado (pasiva con modal)", "immediately = inmediatamente"]
+      },
+      {
+        "sentence": "The building has been renovated and will be reopened next month.",
+        "reading": "",
+        "translation": "El edificio ha sido renovado y será reabierto el mes que viene.",
+        "breakdown": ["The building = el edificio", "has been renovated = ha sido renovado (pasiva en present perfect)", "and will be reopened = y será reabierto (pasiva con will)", "next month = el mes que viene"]
+      },
+      {
+        "sentence": "He got fired because he kept arriving late.",
+        "reading": "",
+        "translation": "Lo echaron porque seguía llegando tarde.",
+        "breakdown": ["He got fired = lo echaron (pasiva informal con 'get')", "because = porque", "he kept arriving = seguía llegando", "late = tarde"]
+      }
+    ],
+    "notes": "Pasiva con 'get' es más informal y se usa para eventos inesperados o negativos: 'get hurt' (lastimarse), 'get caught' (ser atrapado), 'get promoted' (ser ascendido). En escritura académica, se prefiere 'be': 'The results were analysed' (no 'got analysed'). La pasiva es esencial en inglés donde en español usaríamos 'se': 'se analizaron los resultados' = 'the results were analysed'.",
+    "related": ["b1-simple-passive", "b1-have-something-done"],
+    "tags": ["passive", "modal", "advanced"]
+  },
+  {
+    "id": "b2-wish-past-perfect",
+    "title": "Wish + Past Perfect",
+    "pattern": "Subject + wish + subject + had + past participle",
+    "meaning": "ojalá hubiera / desearía haber (arrepentimiento del pasado)",
+    "level": "b2",
+    "explanation": "'Wish + past perfect' se usa para expresar arrepentimiento sobre algo que pasó (o no pasó) en el pasado. Es como decir 'ojalá hubiera...' o 'desearía haber...'. La situación ya no se puede cambiar. Contraste con 'wish + past simple' (B1) que es sobre el presente. 'If only' puede reemplazar a 'wish' con un tono más enfático y emocional.",
+    "examples": [
+      {
+        "sentence": "I wish I had learned to play the piano when I was young.",
+        "reading": "",
+        "translation": "Ojalá hubiera aprendido a tocar el piano cuando era joven.",
+        "breakdown": ["I wish = ojalá/desearía", "I had learned = hubiera aprendido (past perfect = pasado irreal)", "to play the piano = a tocar el piano", "when I was young = cuando era joven"]
+      },
+      {
+        "sentence": "She wishes she hadn't said those things. She really regrets it.",
+        "reading": "",
+        "translation": "Ella desearía no haber dicho esas cosas. Realmente se arrepiente.",
+        "breakdown": ["She wishes = ella desearía", "she hadn't said = no haber dicho (arrepentimiento)", "those things = esas cosas", "She really regrets it = realmente se arrepiente"]
+      },
+      {
+        "sentence": "If only we had bought that house when it was cheap!",
+        "reading": "",
+        "translation": "¡Si tan solo hubiéramos comprado esa casa cuando era barata!",
+        "breakdown": ["If only = si tan solo (más enfático que 'wish')", "we had bought = hubiéramos comprado", "that house = esa casa", "when it was cheap = cuando era barata"]
+      }
+    ],
+    "notes": "Resumen de 'wish': wish + past simple = presente irreal ('I wish I knew' = ojalá supiera ahora). Wish + past perfect = pasado irreal ('I wish I had known' = ojalá hubiera sabido). Wish + would = queja/frustración ('I wish it would stop raining' = ojalá dejara de llover). 'If only' es intercambiable con 'wish' pero más emotivo.",
+    "related": ["b1-wish-past-simple", "b2-unreal-past"],
+    "tags": ["wish", "regret", "past"]
+  },
+  {
+    "id": "b2-would-rather-had-better",
+    "title": "Would rather / Had better",
+    "pattern": "would rather + base verb | had better + base verb",
+    "meaning": "preferiría / más vale que",
+    "level": "b2",
+    "explanation": "'Would rather' (preferiría) expresa preferencia. Con el mismo sujeto: 'I'd rather stay home'. Con diferente sujeto: 'I'd rather you didn't smoke' (usa pasado simple para situación presente, como en el segundo condicional). 'Had better' (más vale que, mejor que) da consejo fuerte con implicación de consecuencia negativa si no se sigue. Pese a tener 'had', se refiere al presente/futuro. Contracción: 'd rather, 'd better.",
+    "examples": [
+      {
+        "sentence": "I'd rather stay home tonight than go to the party.",
+        "reading": "",
+        "translation": "Preferiría quedarme en casa esta noche que ir a la fiesta.",
+        "breakdown": ["I'd rather = preferiría", "stay home = quedarme en casa", "tonight = esta noche", "than = que (comparación)", "go to the party = ir a la fiesta"]
+      },
+      {
+        "sentence": "I'd rather you didn't tell anyone about this.",
+        "reading": "",
+        "translation": "Preferiría que no le contaras a nadie sobre esto.",
+        "breakdown": ["I'd rather = preferiría", "you didn't tell = que no le contaras (pasado simple = presente irreal)", "anyone = a nadie", "about this = sobre esto"]
+      },
+      {
+        "sentence": "You'd better hurry up or you'll miss the train.",
+        "reading": "",
+        "translation": "Más vale que te apures o vas a perder el tren.",
+        "breakdown": ["You'd better = más vale que (consejo fuerte)", "hurry up = apurarte", "or = o", "you'll miss = vas a perder", "the train = el tren"]
+      }
+    ],
+    "notes": "Negación: 'I'd rather not go' (preferiría no ir), 'You'd better not be late' (más vale que no llegues tarde). 'Had better' implica consecuencia negativa: 'You'd better study or you'll fail' (si no estudiás, vas a reprobar). NO confundir con 'had' pasado: 'had better' siempre se refiere al presente/futuro.",
+    "related": ["b1-second-conditional"],
+    "tags": ["preference", "advice", "modal"]
+  },
+  {
+    "id": "b2-cleft-sentences",
+    "title": "Cleft Sentences",
+    "pattern": "What + subject + verb + is/was... | It is/was + focus + who/that...",
+    "meaning": "oraciones hendidas (para enfatizar)",
+    "level": "b2",
+    "explanation": "Las cleft sentences reorganizan la oración para enfatizar un elemento específico. 'What-cleft': 'What I need is a holiday' (lo que necesito es unas vacaciones). 'It-cleft': 'It was John who broke the window' (fue John quien rompió la ventana). Estas estructuras no tienen equivalente directo en español, donde el énfasis se logra principalmente con la entonación o el orden de palabras. Son muy comunes en inglés formal y académico.",
+    "examples": [
+      {
+        "sentence": "What I really need is a good night's sleep.",
+        "reading": "",
+        "translation": "Lo que realmente necesito es una buena noche de sueño.",
+        "breakdown": ["What I really need = lo que realmente necesito (what-cleft: enfatiza el objeto)", "is = es", "a good night's sleep = una buena noche de sueño"]
+      },
+      {
+        "sentence": "It was the noise that kept me awake, not the light.",
+        "reading": "",
+        "translation": "Fue el ruido lo que me mantuvo despierto, no la luz.",
+        "breakdown": ["It was = fue (it-cleft)", "the noise = el ruido (elemento enfatizado)", "that kept me awake = lo que me mantuvo despierto", "not the light = no la luz"]
+      },
+      {
+        "sentence": "What she did was resign without telling anyone.",
+        "reading": "",
+        "translation": "Lo que hizo fue renunciar sin decirle a nadie.",
+        "breakdown": ["What she did = lo que ella hizo (what-cleft: enfatiza la acción)", "was resign = fue renunciar", "without telling anyone = sin decirle a nadie"]
+      }
+    ],
+    "notes": "Tipos: 'It-cleft' enfatiza sustantivos y frases nominales: 'It was IN PARIS that we met' (fue en París donde nos conocimos). 'What-cleft' enfatiza acciones y objetos: 'What bothers me is the lack of communication'. 'All-cleft': 'All I want is peace and quiet' (todo lo que quiero es paz y tranquilidad). En español, estas estructuras suenan redundantes, pero en inglés son naturales y muy utilizadas.",
+    "related": ["b2-emphasis-fronting"],
+    "tags": ["emphasis", "cleft", "advanced"]
+  },
+  {
+    "id": "b2-participle-clauses",
+    "title": "Participle Clauses",
+    "pattern": "Present participle (-ing) / Past participle (-ed) / Perfect participle (having + pp) + clause",
+    "meaning": "cláusulas participiales (participio presente y pasado)",
+    "level": "b2",
+    "explanation": "Las participle clauses reemplazan cláusulas más largas con sujeto + verbo, haciendo la oración más concisa y formal. Present participle (-ing): acciones simultáneas o causa ('Walking home, I saw a fox'). Past participle (-ed): pasiva reducida ('Built in 1900, the house is still standing'). Perfect participle (having + pp): acción anterior completada ('Having finished the exam, she left'). El sujeto de la participle clause debe ser el mismo que el de la cláusula principal.",
+    "examples": [
+      {
+        "sentence": "Having finished the report, she went home early.",
+        "reading": "",
+        "translation": "Habiendo terminado el informe, se fue a casa temprano.",
+        "breakdown": ["Having finished = habiendo terminado (perfect participle: acción completada antes)", "the report = el informe", "she went home = se fue a casa", "early = temprano"]
+      },
+      {
+        "sentence": "Not knowing what to say, he remained silent.",
+        "reading": "",
+        "translation": "Sin saber qué decir, se quedó en silencio.",
+        "breakdown": ["Not knowing = sin saber (present participle negativo: causa/circunstancia)", "what to say = qué decir", "he remained = se quedó", "silent = en silencio"]
+      },
+      {
+        "sentence": "Written in the 18th century, the novel still feels relevant today.",
+        "reading": "",
+        "translation": "Escrita en el siglo XVIII, la novela todavía se siente relevante hoy.",
+        "breakdown": ["Written in the 18th century = escrita en el siglo XVIII (past participle: pasiva reducida)", "the novel = la novela", "still feels relevant = todavía se siente relevante", "today = hoy"]
+      }
+    ],
+    "notes": "Error común (dangling participle): el sujeto implícito de la participle clause DEBE coincidir con el sujeto de la cláusula principal. INCORRECTO: 'Walking down the street, the trees were beautiful' (¿los árboles caminaban?). CORRECTO: 'Walking down the street, I noticed the beautiful trees'. Estas cláusulas son más frecuentes en escritura que en habla.",
+    "related": ["b2-narrative-tenses", "b2-advanced-relative-clauses"],
+    "tags": ["participle", "clauses", "formal"]
+  },
+  {
+    "id": "b2-inversion-negative-adverbials",
+    "title": "Inversion after Negative Adverbials",
+    "pattern": "Negative adverbial + auxiliary + subject + verb",
+    "meaning": "inversión después de adverbios negativos",
+    "level": "b2",
+    "explanation": "Cuando ciertos adverbios negativos o restrictivos van al inicio de la oración, se produce inversión (el auxiliar va antes del sujeto, como en una pregunta). Esto ocurre con: never, rarely, seldom, hardly, barely, scarcely, not only...but also, no sooner...than, only when/after/by. Es una estructura formal y enfática. En español, la inversión sujeto-verbo es extremadamente rara y no existe este tipo de construcción, lo que la hace especialmente difícil para hispanohablantes.",
+    "examples": [
+      {
+        "sentence": "Never have I seen such a beautiful sunset.",
+        "reading": "",
+        "translation": "Nunca he visto un atardecer tan hermoso.",
+        "breakdown": ["Never = nunca (adverbio negativo al inicio)", "have I seen = he visto (inversión: auxiliar antes del sujeto)", "such a beautiful sunset = un atardecer tan hermoso"]
+      },
+      {
+        "sentence": "Not only did she win the race, but she also broke the record.",
+        "reading": "",
+        "translation": "No solo ganó la carrera, sino que también rompió el récord.",
+        "breakdown": ["Not only = no solo (adverbio negativo al inicio)", "did she win = ganó ella (inversión)", "the race = la carrera", "but she also broke = sino que también rompió", "the record = el récord"]
+      },
+      {
+        "sentence": "Rarely do we get the chance to travel abroad.",
+        "reading": "",
+        "translation": "Rara vez tenemos la oportunidad de viajar al exterior.",
+        "breakdown": ["Rarely = rara vez (adverbio negativo)", "do we get = tenemos (inversión con 'do')", "the chance = la oportunidad", "to travel abroad = de viajar al exterior"]
+      }
+    ],
+    "notes": "La inversión NO ocurre si el adverbio negativo no está al inicio: 'I have never seen...' (orden normal). 'Never have I seen...' (inversión). Otros disparadores: 'Hardly had I sat down when the phone rang', 'No sooner had she arrived than it started raining', 'Only then did I understand'. Es un recurso retórico poderoso en discursos y escritura formal.",
+    "related": ["b2-emphasis-fronting"],
+    "tags": ["inversion", "formal", "emphasis"]
+  },
+  {
+    "id": "b2-advanced-relative-clauses",
+    "title": "Advanced Relative Clauses",
+    "pattern": "preposition + which/whom | quantifier + of which/whom",
+    "meaning": "cláusulas relativas avanzadas (preposición + relativo, cuantificadores)",
+    "level": "b2",
+    "explanation": "A nivel B2, las relative clauses incluyen preposiciones antes del pronombre relativo ('in which', 'to whom', 'about which') y cuantificadores con 'of which/whom' ('many of whom', 'some of which', 'none of whom'). 'Whom' es la forma objeto de 'who' y se usa en registros formales. La preposición puede ir al final en registro informal ('the city which I grew up in') o al principio en registro formal ('the city in which I grew up').",
+    "examples": [
+      {
+        "sentence": "The company for which she works is based in London.",
+        "reading": "",
+        "translation": "La empresa para la cual trabaja tiene sede en Londres.",
+        "breakdown": ["The company = la empresa", "for which = para la cual (preposición + which, formal)", "she works = trabaja", "is based = tiene sede", "in London = en Londres"]
+      },
+      {
+        "sentence": "He has three brothers, two of whom live abroad.",
+        "reading": "",
+        "translation": "Tiene tres hermanos, dos de los cuales viven en el exterior.",
+        "breakdown": ["He has three brothers = tiene tres hermanos", "two of whom = dos de los cuales (cuantificador + of whom)", "live abroad = viven en el exterior"]
+      },
+      {
+        "sentence": "She wrote ten novels, several of which became bestsellers.",
+        "reading": "",
+        "translation": "Escribió diez novelas, varias de las cuales se convirtieron en best-sellers.",
+        "breakdown": ["She wrote = escribió", "ten novels = diez novelas", "several of which = varias de las cuales (cuantificador + of which)", "became bestsellers = se convirtieron en best-sellers"]
+      }
+    ],
+    "notes": "Registro formal: 'the person to whom I spoke' (formal/escrito). Registro informal: 'the person who I spoke to' o 'the person I spoke to' (coloquial/oral). Cuantificadores comunes: all of, both of, each of, either of, many of, most of, much of, none of, some of + which/whom. SIEMPRE llevan coma antes (son non-defining).",
+    "related": ["b1-relative-clauses-defining", "b1-relative-clauses-non-defining"],
+    "tags": ["clauses", "relative", "formal"]
+  },
+  {
+    "id": "b2-unreal-past",
+    "title": "Unreal Past (Subjunctive Uses)",
+    "pattern": "It's time + subject + past simple | as if/as though + past simple/past perfect | If only...",
+    "meaning": "pasado irreal (usos del subjuntivo)",
+    "level": "b2",
+    "explanation": "El inglés usa el pasado simple para expresar situaciones irreales en el presente, similar al subjuntivo en español. 'It's time we left' (es hora de que nos vayamos). 'As if/as though + past simple' para comparaciones irreales presentes: 'He acts as if he were the boss'. 'As if + past perfect' para irreales pasadas: 'She looked as if she had seen a ghost'. Estas estructuras son difíciles porque usan tiempos pasados con significado presente, un concepto que en español se maneja con el subjuntivo.",
+    "examples": [
+      {
+        "sentence": "It's high time you got a proper job.",
+        "reading": "",
+        "translation": "Ya es hora de que consigas un trabajo en serio.",
+        "breakdown": ["It's high time = ya es hora de que (enfático)", "you got = consigas (pasado simple = subjuntivo)", "a proper job = un trabajo en serio"]
+      },
+      {
+        "sentence": "He talks as if he knew everything, but he doesn't.",
+        "reading": "",
+        "translation": "Habla como si supiera todo, pero no sabe.",
+        "breakdown": ["He talks = habla", "as if = como si", "he knew = supiera (pasado simple = presente irreal)", "everything = todo", "but he doesn't = pero no sabe"]
+      },
+      {
+        "sentence": "She looked as though she hadn't slept in days.",
+        "reading": "",
+        "translation": "Parecía como si no hubiera dormido en días.",
+        "breakdown": ["She looked = parecía", "as though = como si", "she hadn't slept = no hubiera dormido (past perfect = pasado irreal)", "in days = en días"]
+      }
+    ],
+    "notes": "Con 'be', la forma correcta formal es 'were' para todas las personas: 'as if I were', 'as if she were', 'It's time it were done'. Otros ejemplos de pasado irreal: 'I'd rather you came tomorrow' (preferiría que vinieras mañana), 'Suppose we won the lottery' (supongamos que ganemos la lotería). Es la misma lógica que el segundo condicional y 'wish + past simple'.",
+    "related": ["b1-wish-past-simple", "b2-wish-past-perfect", "b1-second-conditional"],
+    "tags": ["subjunctive", "unreal", "formal"]
+  },
+  {
+    "id": "b2-discourse-markers",
+    "title": "Discourse Markers",
+    "pattern": "As a matter of fact / On the other hand / Having said that / In any case / etc.",
+    "meaning": "marcadores discursivos",
+    "level": "b2",
+    "explanation": "Los discourse markers organizan y conectan ideas en el habla y la escritura. Van más allá de los conectores simples (but, because) y añaden matices como reformulación, concesión, adición enfática y cambio de tema. Son esenciales para sonar natural y fluido en inglés, especialmente en presentaciones, debates, ensayos y conversaciones formales. Cada uno tiene una función discursiva específica.",
+    "examples": [
+      {
+        "sentence": "The hotel was expensive. Having said that, the service was excellent.",
+        "reading": "",
+        "translation": "El hotel era caro. Dicho esto, el servicio fue excelente.",
+        "breakdown": ["The hotel was expensive = el hotel era caro", "Having said that = dicho esto / habiendo dicho eso (concesión parcial)", "the service was excellent = el servicio fue excelente"]
+      },
+      {
+        "sentence": "I'm not a fan of his work. As a matter of fact, I find it quite boring.",
+        "reading": "",
+        "translation": "No soy fan de su trabajo. De hecho, me parece bastante aburrido.",
+        "breakdown": ["I'm not a fan = no soy fan", "of his work = de su trabajo", "As a matter of fact = de hecho (refuerza lo anterior)", "I find it = me parece", "quite boring = bastante aburrido"]
+      },
+      {
+        "sentence": "On the one hand, the job pays well. On the other hand, the hours are terrible.",
+        "reading": "",
+        "translation": "Por un lado, el trabajo paga bien. Por otro lado, los horarios son terribles.",
+        "breakdown": ["On the one hand = por un lado", "the job pays well = el trabajo paga bien", "On the other hand = por otro lado (contraste)", "the hours are terrible = los horarios son terribles"]
+      }
+    ],
+    "notes": "Categorías: Adición enfática: 'What's more', 'Furthermore', 'On top of that'. Contraste: 'On the other hand', 'Then again', 'Having said that'. Reformulación: 'In other words', 'That is to say', 'What I mean is'. Conclusión: 'All in all', 'In any case', 'At the end of the day'. Cambio de tema: 'Anyway', 'By the way', 'Speaking of which'. Estos marcadores son los que distinguen el B1 del B2 en producción oral y escrita.",
+    "related": ["b1-connectors-cause", "b1-connectors-contrast"],
+    "tags": ["discourse", "connectors", "fluency"]
+  },
+  {
+    "id": "b2-advanced-modal-meanings",
+    "title": "Advanced Modal Meanings",
+    "pattern": "needn't have done | could have been | was to have + past participle | should have done",
+    "meaning": "significados avanzados de modales",
+    "level": "b2",
+    "explanation": "A nivel B2, los modales expresan significados más sutiles sobre el pasado. 'Should have done' = deberías haber hecho (reproche/arrepentimiento). 'Needn't have done' = no era necesario haberlo hecho (pero lo hiciste). 'Could have done' = podrías haber hecho (posibilidad pasada no realizada). 'Must have done' = debes haber hecho (deducción pasada). 'Was/were to have done' = se suponía que iba a hacer (plan no cumplido, muy formal). Cada estructura combina un modal con 'have + past participle'.",
+    "examples": [
+      {
+        "sentence": "You should have told me earlier. I could have helped you.",
+        "reading": "",
+        "translation": "Deberías habérmelo dicho antes. Podría haberte ayudado.",
+        "breakdown": ["You should have told = deberías haber dicho (reproche)", "me earlier = me antes", "I could have helped = podría haber ayudado (posibilidad no realizada)", "you = te"]
+      },
+      {
+        "sentence": "You needn't have bought so much food. We already had enough.",
+        "reading": "",
+        "translation": "No hacía falta que compraras tanta comida. Ya teníamos suficiente.",
+        "breakdown": ["You needn't have bought = no hacía falta que compraras (acción innecesaria ya realizada)", "so much food = tanta comida", "We already had = ya teníamos", "enough = suficiente"]
+      },
+      {
+        "sentence": "She must have forgotten about the meeting. She's never this late.",
+        "reading": "",
+        "translation": "Debe haberse olvidado de la reunión. Nunca llega tan tarde.",
+        "breakdown": ["She must have forgotten = debe haberse olvidado (deducción sobre el pasado)", "about the meeting = de la reunión", "She's never this late = nunca llega tan tarde"]
+      }
+    ],
+    "notes": "Diferencia clave: 'didn't need to do' = no era necesario, y probablemente NO lo hiciste. 'Needn't have done' = no era necesario, pero SÍ lo hiciste. 'He didn't need to buy milk' (no hacía falta y no compró). 'He needn't have bought milk' (no hacía falta pero compró igual). 'Could have' también puede expresar reproche: 'You could have at least called!' (¡podrías al menos haber llamado!).",
+    "related": ["b1-modals-deduction-present", "a2-should", "a2-must-mustn't"],
+    "tags": ["modal", "past", "advanced"]
+  },
+  {
+    "id": "b2-emphasis-fronting",
+    "title": "Emphasis & Fronting",
+    "pattern": "What + subject + did was... | Adjective + though/as + subject + verb | Object/complement + subject + verb",
+    "meaning": "énfasis y anteposición (fronting)",
+    "level": "b2",
+    "explanation": "El fronting es mover un elemento al inicio de la oración para darle énfasis. 'What she did was leave without saying goodbye' enfatiza la acción. 'Interesting though it was, I couldn't finish it' es una estructura concesiva formal. 'Gone are the days when...' mueve el complemento al frente. Estas estructuras dan al hablante control retórico y son especialmente comunes en escritura periodística, literaria y en discursos. En español logramos énfasis con entonación; en inglés, se modifica la estructura.",
+    "examples": [
+      {
+        "sentence": "What she did was quit her job and move to another country.",
+        "reading": "",
+        "translation": "Lo que hizo fue renunciar a su trabajo y mudarse a otro país.",
+        "breakdown": ["What she did = lo que ella hizo (what-cleft para énfasis)", "was quit = fue renunciar", "her job = a su trabajo", "and move = y mudarse", "to another country = a otro país"]
+      },
+      {
+        "sentence": "Strange though it may seem, he actually enjoys waking up at 5 am.",
+        "reading": "",
+        "translation": "Por extraño que parezca, a él realmente le gusta despertarse a las 5 de la mañana.",
+        "breakdown": ["Strange though it may seem = por extraño que parezca (adjetivo + though + inversión)", "he actually enjoys = realmente le gusta", "waking up = despertarse", "at 5 am = a las 5 de la mañana"]
+      },
+      {
+        "sentence": "Little did they know that this decision would change their lives forever.",
+        "reading": "",
+        "translation": "Poco sabían que esta decisión cambiaría sus vidas para siempre.",
+        "breakdown": ["Little did they know = poco sabían (fronting con inversión)", "that this decision = que esta decisión", "would change = cambiaría", "their lives = sus vidas", "forever = para siempre"]
+      }
+    ],
+    "notes": "Estructura 'adj + though/as': 'Tired as I was, I kept going' = 'Though I was tired, I kept going' (aunque estaba cansado, seguí). 'Much as I'd like to help, I can't' = 'Although I'd like to help very much, I can't'. Estas inversiones son retóricas y literarias. No se usan tanto en conversación casual, pero son esenciales para escritura avanzada y exámenes de B2.",
+    "related": ["b2-cleft-sentences", "b2-inversion-negative-adverbials"],
+    "tags": ["emphasis", "fronting", "formal", "advanced"]
+  }
+]

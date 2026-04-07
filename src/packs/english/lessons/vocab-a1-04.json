@@ -1,0 +1,111 @@
+{
+  "id": "vocab-a1-04",
+  "title": "Colors & Basic Adjectives",
+  "description": "Colores y adjetivos básicos. REGLA CLAVE: en inglés el adjetivo va ANTES del sustantivo ('red car', NO 'car red').",
+  "level": "a1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "red",
+      "back": "rojo/a",
+      "reading": "/rɛd/",
+      "explanation": "En español: coche rojo. En inglés: RED car. El adjetivo SIEMPRE va antes del sustantivo. Este es uno de los cambios más importantes para hispanohablantes.",
+      "cardRef": { "category": "vocabulary", "front": "red" }
+    },
+    {
+      "front": "blue",
+      "back": "azul",
+      "reading": "/bluː/",
+      "explanation": "También significa 'triste' en sentido figurado: 'I feel blue' = me siento triste. A blue sky = un cielo azul (adjetivo antes del sustantivo).",
+      "cardRef": { "category": "vocabulary", "front": "blue" }
+    },
+    {
+      "front": "green",
+      "back": "verde",
+      "reading": "/ɡriːn/",
+      "explanation": "También se usa para 'ecológico': go green = volverse ecológico. A green apple = una manzana verde.",
+      "cardRef": { "category": "vocabulary", "front": "green" }
+    },
+    {
+      "front": "big",
+      "back": "grande",
+      "reading": "/bɪɡ/",
+      "explanation": "Sinónimo: large (más formal). Comparativo: bigger. Superlativo: the biggest. 'A big house' = una casa grande.",
+      "cardRef": { "category": "vocabulary", "front": "big" }
+    },
+    {
+      "front": "small",
+      "back": "pequeño/a, chico/a",
+      "reading": "/smɔːl/",
+      "explanation": "Sinónimo: little (más informal/afectivo). 'A small cat' = un gato pequeño. En inglés los adjetivos NO cambian por género: 'a small boy', 'a small girl' — siempre 'small'.",
+      "cardRef": { "category": "vocabulary", "front": "small" }
+    },
+    {
+      "front": "hot",
+      "back": "caliente / caluroso",
+      "reading": "/hɑːt/",
+      "explanation": "Para clima: 'It's hot today'. Para comida: 'The coffee is hot'. También informal: 'atractivo'. Opuesto: cold.",
+      "cardRef": { "category": "vocabulary", "front": "hot" }
+    },
+    {
+      "front": "cold",
+      "back": "frío/a",
+      "reading": "/koʊld/",
+      "explanation": "Para clima: 'It's cold outside'. Para objetos: 'cold water'. Para personas: 'I'm cold' = tengo frío (NO 'I have cold' — eso sería 'tengo un resfrío').",
+      "cardRef": { "category": "vocabulary", "front": "cold" }
+    },
+    {
+      "front": "new",
+      "back": "nuevo/a",
+      "reading": "/nuː/",
+      "explanation": "Se pronuncia como 'niu'. 'A new phone' = un teléfono nuevo. Opuesto: old. En inglés el adjetivo no cambia: new car, new cars — nunca 'news cars'.",
+      "cardRef": { "category": "vocabulary", "front": "new" }
+    },
+    {
+      "front": "old",
+      "back": "viejo/a / antiguo/a",
+      "reading": "/oʊld/",
+      "explanation": "Para personas: 'She is old'. Para cosas: 'an old building'. También se usa para edad: 'How old are you? — I'm 30 years old.' Opuesto: new (cosas), young (personas).",
+      "cardRef": { "category": "vocabulary", "front": "old" }
+    },
+    {
+      "front": "beautiful",
+      "back": "hermoso/a, bello/a",
+      "reading": "/ˈbjuːtɪfəl/",
+      "explanation": "Tres sílabas: BEAU-ti-ful /ˈbjuː-tɪ-fəl/. Se usa para personas, lugares, cosas. 'A beautiful day' = un hermoso día. Más informal: pretty, lovely.",
+      "cardRef": { "category": "vocabulary", "front": "beautiful" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Colores y adjetivos básicos",
+      "instruction": "Aprendé 3 colores y 7 adjetivos esenciales. LA REGLA MÁS IMPORTANTE: en inglés el adjetivo va ANTES del sustantivo. En español decís 'coche rojo', en inglés es 'red car'. Además, los adjetivos NUNCA cambian por género ni número: 'a big cat', 'two big cats' — siempre 'big'.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto de cada adjetivo o color.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá la frase correcta",
+      "instruction": "Ordená las palabras para formar frases correctas. Recordá: adjetivo + sustantivo. Ejemplo: 'big' + 'house' = 'a big house' (NO 'a house big').",
+      "itemIndices": [0, 1, 3, 4, 5, 6, 9]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice en inglés?",
+      "instruction": "Ves la palabra en español. Escribí el adjetivo o color en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "¡Colores y adjetivos listos!",
+      "instruction": "Ya manejás 10 adjetivos esenciales. NUNCA TE OLVIDES: en inglés el adjetivo va ANTES del sustantivo — 'a beautiful house', 'cold water', 'a new car'. Los adjetivos no cambian por género ni número. Si decís 'car red' un angloparlante no te va a entender.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

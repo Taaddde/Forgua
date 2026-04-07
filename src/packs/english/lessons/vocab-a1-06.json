@@ -1,0 +1,131 @@
+{
+  "id": "vocab-a1-06",
+  "title": "Days, Months & Time",
+  "description": "Monday, January, three o'clock. Los días, meses y expresiones de tiempo. Recordá: en inglés los días y meses SIEMPRE van en mayúscula.",
+  "level": "a1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "Monday",
+      "back": "lunes",
+      "reading": "/ˈmʌndeɪ/",
+      "explanation": "Se pronuncia MUN-dei. En inglés los días de la semana SIEMPRE van con mayúscula (Monday, no monday). En español no: lunes. Preposición: 'on Monday' = el lunes.",
+      "cardRef": { "category": "vocabulary", "front": "Monday" }
+    },
+    {
+      "front": "Friday",
+      "back": "viernes",
+      "reading": "/ˈfraɪdeɪ/",
+      "explanation": "Se pronuncia FRAI-dei. 'Thank God it's Friday' (TGIF) es una expresión muy popular. 'On Fridays' = los viernes (habitual).",
+      "cardRef": { "category": "vocabulary", "front": "Friday" }
+    },
+    {
+      "front": "Sunday",
+      "back": "domingo",
+      "reading": "/ˈsʌndeɪ/",
+      "explanation": "Se pronuncia SUN-dei. En muchos países anglosajones, la semana empieza el domingo, no el lunes como en Hispanoamérica.",
+      "cardRef": { "category": "vocabulary", "front": "Sunday" }
+    },
+    {
+      "front": "January",
+      "back": "enero",
+      "reading": "/ˈdʒænjuˌɛri/",
+      "explanation": "Los meses también van SIEMPRE en mayúscula. Preposición: 'in January' = en enero. Se pronuncia CHAN-iu-eri (la J suena /dʒ/).",
+      "cardRef": { "category": "vocabulary", "front": "January" }
+    },
+    {
+      "front": "June",
+      "back": "junio",
+      "reading": "/dʒuːn/",
+      "explanation": "Se pronuncia 'chun'. Preposición: 'in June'. Para fechas específicas: 'on June 5th' (el 5 de junio).",
+      "cardRef": { "category": "vocabulary", "front": "June" }
+    },
+    {
+      "front": "December",
+      "back": "diciembre",
+      "reading": "/dɪˈsɛmbər/",
+      "explanation": "Cognado casi directo: diciembre → December. Acento en la segunda sílaba: de-CEM-ber.",
+      "cardRef": { "category": "vocabulary", "front": "December" }
+    },
+    {
+      "front": "today",
+      "back": "hoy",
+      "reading": "/təˈdeɪ/",
+      "explanation": "Se pronuncia tu-DEI. 'Today is Monday' = hoy es lunes. No necesita preposición: 'I work today' (no 'in today').",
+      "cardRef": { "category": "vocabulary", "front": "today" }
+    },
+    {
+      "front": "tomorrow",
+      "back": "mañana (el día siguiente)",
+      "reading": "/təˈmɑːroʊ/",
+      "explanation": "¡Ojo! 'Tomorrow' = mañana (día siguiente). 'Morning' = mañana (parte del día). En español es la misma palabra, en inglés son dos diferentes.",
+      "cardRef": { "category": "vocabulary", "front": "tomorrow" }
+    },
+    {
+      "front": "yesterday",
+      "back": "ayer",
+      "reading": "/ˈjɛstərdeɪ/",
+      "explanation": "Se pronuncia YES-ter-dei. Se usa con pasado: 'I saw her yesterday' = la vi ayer. No necesita preposición.",
+      "cardRef": { "category": "vocabulary", "front": "yesterday" }
+    },
+    {
+      "front": "morning",
+      "back": "mañana (parte del día)",
+      "reading": "/ˈmɔːrnɪŋ/",
+      "explanation": "Diferente de 'tomorrow'. 'In the morning' = por la mañana / a la mañana. 'This morning' = esta mañana. 'Good morning' = buenos días.",
+      "cardRef": { "category": "vocabulary", "front": "morning" }
+    },
+    {
+      "front": "afternoon",
+      "back": "tarde",
+      "reading": "/ˌæftərˈnuːn/",
+      "explanation": "Desde el mediodía hasta las 5-6 PM. 'In the afternoon' = por la tarde. 'This afternoon' = esta tarde. 'Good afternoon' = buenas tardes.",
+      "cardRef": { "category": "vocabulary", "front": "afternoon" }
+    },
+    {
+      "front": "What time is it?",
+      "back": "¿Qué hora es?",
+      "reading": "/wɑːt taɪm ɪz ɪt/",
+      "explanation": "Para responder: 'It's three o'clock' (son las tres), 'It's half past two' (son las dos y media), 'It's quarter to five' (son las cinco menos cuarto). Siempre empieza con 'It's...'.",
+      "cardRef": { "category": "vocabulary", "front": "What time is it?" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Días, meses y tiempo",
+      "instruction": "12 expresiones para hablar del tiempo y el calendario. REGLA IMPORTANTE: en inglés los días (Monday, Friday) y los meses (January, June) SIEMPRE van con mayúscula inicial. En español no. También prestá atención: 'tomorrow' = mañana (día siguiente), 'morning' = mañana (parte del día) — son palabras diferentes.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué día o mes es?",
+      "instruction": "Elegí el significado correcto de cada palabra.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+    },
+    {
+      "type": "listen-identify",
+      "title": "Escuchá y elegí",
+      "instruction": "Escuchá la palabra y elegí cuál es.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    {
+      "type": "write",
+      "title": "Escribí en inglés",
+      "instruction": "Escribí el día, mes o expresión de tiempo en inglés. Recordá usar mayúscula para días y meses.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Ves la palabra en español. Escribí la palabra o frase en inglés.",
+      "itemIndices": [6, 7, 8, 9, 10, 11]
+    },
+    {
+      "type": "summary",
+      "title": "¡Calendario aprendido!",
+      "instruction": "Ya manejás días, meses y expresiones de tiempo. Recordá: SIEMPRE mayúscula para días y meses. Preposiciones clave: 'on Monday' (día), 'in January' (mes), 'in the morning' (parte del día). Y no confundas 'tomorrow' (el día siguiente) con 'morning' (la mañana).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+    }
+  ]
+}

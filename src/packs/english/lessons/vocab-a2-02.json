@@ -1,0 +1,111 @@
+{
+  "id": "vocab-a2-02",
+  "title": "Work & Jobs",
+  "description": "El mundo laboral en inglés: oficina, reuniones, salarios y todo lo que necesitás para hablar de trabajo.",
+  "level": "a2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "office",
+      "back": "oficina",
+      "reading": "/ˈɒfɪs/",
+      "explanation": "Lugar de trabajo. 'I work in an office.' Preposición: IN an office (no 'at'). También: 'post office' = correo, 'box office' = boletería.",
+      "cardRef": { "category": "vocabulary", "front": "office" }
+    },
+    {
+      "front": "meeting",
+      "back": "reunión",
+      "reading": "/ˈmiːtɪŋ/",
+      "explanation": "Encuentro formal de trabajo. 'I have a meeting at 3 PM.' Verbo: 'to meet' = conocer/encontrarse. 'We had a meeting' = Tuvimos una reunión. Se usa 'in a meeting': 'She's in a meeting right now.'",
+      "cardRef": { "category": "vocabulary", "front": "meeting" }
+    },
+    {
+      "front": "salary",
+      "back": "salario / sueldo",
+      "reading": "/ˈsæləri/",
+      "explanation": "Pago mensual o anual fijo. 'Her salary is $50,000 a year.' No confundir con 'wage' (pago por hora, más informal). 'Salary' = profesionales/empleados fijos. 'Wage' = trabajo por hora.",
+      "cardRef": { "category": "vocabulary", "front": "salary" }
+    },
+    {
+      "front": "manager",
+      "back": "gerente / jefe",
+      "reading": "/ˈmænɪdʒər/",
+      "explanation": "Persona que dirige un equipo o departamento. 'I need to talk to the manager.' Verbo: 'to manage' = gestionar/administrar. 'Manager' es más formal que 'boss' (jefe, coloquial).",
+      "cardRef": { "category": "vocabulary", "front": "manager" }
+    },
+    {
+      "front": "employee",
+      "back": "empleado/a",
+      "reading": "/ɪmˈplɔɪiː/",
+      "explanation": "Persona que trabaja para una empresa. 'The company has 500 employees.' Opuesto: 'employer' = empleador (el que contrata). Ojo: employee termina en -ee (el que recibe la acción), employer termina en -er (el que hace la acción).",
+      "cardRef": { "category": "vocabulary", "front": "employee" }
+    },
+    {
+      "front": "interview",
+      "back": "entrevista",
+      "reading": "/ˈɪntərvjuː/",
+      "explanation": "Conversación formal, especialmente para conseguir trabajo. 'I have a job interview tomorrow.' También es verbo: 'They interviewed ten candidates.' Pronunciación: IN-ter-vyoo, no 'in-ter-BIU'.",
+      "cardRef": { "category": "vocabulary", "front": "interview" }
+    },
+    {
+      "front": "deadline",
+      "back": "fecha límite / plazo",
+      "reading": "/ˈdɛdlaɪn/",
+      "explanation": "Fecha máxima para entregar algo. 'The deadline is Friday.' 'I need to meet the deadline.' (cumplir el plazo). 'I missed the deadline.' (no llegué a tiempo). Muy usado en ambientes laborales.",
+      "cardRef": { "category": "vocabulary", "front": "deadline" }
+    },
+    {
+      "front": "colleague",
+      "back": "colega / compañero de trabajo",
+      "reading": "/ˈkɒliːɡ/",
+      "explanation": "Persona con la que trabajás. 'My colleagues are very friendly.' Más formal que 'coworker' (sinónimo). Pronunciación: CO-liig, solo dos sílabas. No se pronuncia la '-ue' final.",
+      "cardRef": { "category": "vocabulary", "front": "colleague" }
+    },
+    {
+      "front": "resign",
+      "back": "renunciar",
+      "reading": "/rɪˈzaɪn/",
+      "explanation": "Dejar un trabajo voluntariamente. 'She resigned from her job.' La 'g' es MUDA: /rɪˈzaɪn/. Sustantivo: 'resignation'. Más informal: 'quit' — 'I quit my job.'",
+      "cardRef": { "category": "vocabulary", "front": "resign" }
+    },
+    {
+      "front": "apply for",
+      "back": "postularse a / solicitar",
+      "reading": "/əˈplaɪ fɔːr/",
+      "explanation": "Presentarse como candidato a un puesto. 'I applied for a new job.' Siempre con 'for': apply FOR a job/position/scholarship. Sustantivo: 'application' = solicitud. 'Job application' = solicitud de empleo.",
+      "cardRef": { "category": "vocabulary", "front": "apply for" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Tu lugar de trabajo",
+      "instruction": "Estas 5 palabras describen el entorno laboral: dónde trabajás, con quién y cómo te pagan. Prestá atención a la diferencia entre salary (mensual/anual) y wage (por hora), y entre employee (-ee, quien recibe) y employer (-er, quien da).",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "Conseguir y dejar un trabajo",
+      "instruction": "Ahora el ciclo laboral: entrevistas, plazos, compañeros, renunciar y postularse. Ojo con 'resign' — la 'g' es muda. Y 'apply' siempre va con 'for': apply FOR a job.",
+      "itemIndices": [5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto de cada palabra del mundo laboral.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice en inglés?",
+      "instruction": "Ves la palabra en español. Escribí la traducción en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste 10 palabras del mundo laboral. Recordá: salary ≠ wage, employee (-ee) ≠ employer (-er), resign tiene la 'g' muda, y apply siempre va con FOR. Con esto ya podés hablar de tu trabajo en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

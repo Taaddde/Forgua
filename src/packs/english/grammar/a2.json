@@ -11,7 +11,7 @@
       { "sentence": "She has already finished.", "reading": "", "translation": "Ella ya terminó." },
       { "sentence": "Have you ever eaten sushi?", "reading": "", "translation": "¿Alguna vez comiste sushi?" }
     ],
-    "notes": "Contracciones: I've, you've, he's, she's, we've, they've. Negación: haven't/hasn't.",
+    "notes": "Contracciones: I've, you've, he's, she's, we've, they've. Negación: haven't/hasn't. ⚠️ PARA HISPANOHABLANTES: El presente perfecto en español ('he visto') se usa de forma más amplia que en inglés. En español podés decir 'He visto la película ayer', pero en inglés eso es INCORRECTO — debés usar past simple: 'I saw the movie yesterday'. Regla: si mencionás cuándo pasó → Past Simple.",
     "tags": ["tense", "perfect"]
   },
   {
@@ -25,6 +25,7 @@
       { "sentence": "I have been to London. / I went to London in 2019.", "reading": "", "translation": "He estado en Londres. / Fui a Londres en 2019." },
       { "sentence": "She has just arrived. / She arrived ten minutes ago.", "reading": "", "translation": "Ella acaba de llegar. / Ella llegó hace diez minutos." }
     ],
+    "notes": "⚠️ ESTE ES EL ERROR GRAMATICAL #1 DE HISPANOHABLANTES según el Cambridge Learner Corpus: usar Present Perfect con tiempo específico. ERROR: 'I have seen him yesterday' → CORRECTO: 'I saw him yesterday'. ERROR: 'She has called me last night' → CORRECTO: 'She called me last night'. En español 'He visto/vi' son intercambiables en muchos dialectos, pero en inglés la distinción es estricta.",
     "tags": ["tense", "comparison"]
   },
   {
@@ -194,7 +195,7 @@
       { "sentence": "She takes after her mother.", "reading": "", "translation": "Ella se parece a su madre." },
       { "sentence": "Please turn off the light.", "reading": "", "translation": "Por favor, apagá la luz." }
     ],
-    "notes": "Separables: turn off the TV / turn the TV off. Inseparables: look after the children (NO look the children after).",
+    "notes": "Separables: turn off the TV / turn the TV off. Inseparables: look after the children (NO look the children after). ⚠️ PARA HISPANOHABLANTES: Los phrasal verbs NO EXISTEN en español. En español usás un solo verbo ('buscar'), en inglés a veces necesitás verbo + partícula ('look for'). El significado cambia completamente con la partícula: look = mirar, look for = buscar, look after = cuidar, look up = buscar (en diccionario), look forward to = esperar con ganas. Memorizalos como unidades — no intentes traducir palabra por palabra.",
     "tags": ["phrasal-verbs", "vocabulary"]
   },
   {
@@ -208,7 +209,7 @@
       { "sentence": "If I had money, I would travel the world.", "reading": "", "translation": "Si tuviera dinero, viajaría por el mundo." },
       { "sentence": "If she were taller, she would play basketball.", "reading": "", "translation": "Si ella fuera más alta, jugaría al básquet." }
     ],
-    "notes": "Con 'to be' se puede usar 'were' para todas las personas en contextos formales: If I were you...",
+    "notes": "Con 'to be' se puede usar 'were' para todas las personas en contextos formales: If I were you... ⚠️ PARA HISPANOHABLANTES: En español el segundo condicional usa subjuntivo ('Si tuviera dinero, viajaría'). En inglés NO hay subjuntivo como tal — se usa past simple en la cláusula if. Error común: 'If I would have money' → CORRECTO: 'If I had money'. Nunca uses 'would' en la cláusula if del segundo condicional.",
     "tags": ["conditional", "hypothetical"]
   },
   {

@@ -1,0 +1,90 @@
+{
+  "id": "grammar-a1-04",
+  "title": "Possessive Adjectives: my, your, his, her, its, our, their",
+  "description": "En español, 'su' puede significar his, her, its o their. En inglés hay una palabra diferente para cada uno. Confundir 'his' y 'her' es el error #1 de hispanohablantes.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "my",
+      "back": "mi / mis",
+      "reading": "/maɪ/",
+      "explanation": "Posesivo de 'I'. 'My' no cambia con singular o plural: my book (mi libro), my books (mis libros). En español tenemos 'mi' y 'mis', pero en inglés es siempre 'my'.",
+      "cardRef": { "category": "grammar", "front": "my (possessive)" }
+    },
+    {
+      "front": "your",
+      "back": "tu / tus / su / sus (de usted/ustedes)",
+      "reading": "/jʊr/",
+      "explanation": "Posesivo de 'you'. Como 'you' es singular y plural, 'your' cubre: tu, tus, su (de usted), sus (de ustedes). No confundir con 'you're' (you are).",
+      "cardRef": { "category": "grammar", "front": "your (possessive)" }
+    },
+    {
+      "front": "his",
+      "back": "su / sus (de él)",
+      "reading": "/hɪz/",
+      "explanation": "'His' = de ÉL exclusivamente. ERROR CRÍTICO: 'Mary loves his car' es INCORRECTO si el auto es de Mary. Debería ser 'Mary loves HER car'. En español ambos son 'su', pero en inglés hay que distinguir el género del POSEEDOR.",
+      "cardRef": { "category": "grammar", "front": "his (possessive)" }
+    },
+    {
+      "front": "her",
+      "back": "su / sus (de ella)",
+      "reading": "/hɜːr/",
+      "explanation": "'Her' = de ELLA exclusivamente. 'Maria said that her car is new' (María dijo que SU auto es nuevo — el de ella). Si dijeras 'his car', significaría el auto de un hombre. En español 'su' no distingue, pero en inglés SÍ.",
+      "cardRef": { "category": "grammar", "front": "her (possessive)" }
+    },
+    {
+      "front": "its",
+      "back": "su / sus (de una cosa o animal)",
+      "reading": "/ɪts/",
+      "explanation": "'Its' = posesivo de 'it' (cosas, animales). 'The dog wagged its tail' (El perro movió su cola). CUIDADO: 'its' (posesivo) NO lleva apóstrofo. 'It's' con apóstrofo = 'it is'.",
+      "cardRef": { "category": "grammar", "front": "its (possessive)" }
+    },
+    {
+      "front": "our",
+      "back": "nuestro/a/os/as",
+      "reading": "/aʊr/",
+      "explanation": "Posesivo de 'we'. Invariable: our house (nuestra casa), our friends (nuestros amigos). En español cambia por género y número, en inglés no.",
+      "cardRef": { "category": "grammar", "front": "our (possessive)" }
+    },
+    {
+      "front": "their",
+      "back": "su / sus (de ellos/ellas)",
+      "reading": "/ðɛr/",
+      "explanation": "'Their' = de ellos/ellas. No confundir con 'there' (allí) ni 'they're' (they are). Los tres suenan igual: /ðɛr/. 'Their house is big' = Su casa (de ellos) es grande.",
+      "cardRef": { "category": "grammar", "front": "their (possessive)" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El problema de 'su' en español",
+      "instruction": "En español, 'su' puede referirse a él, ella, usted, ellos o ellas. En inglés hay una palabra diferente para cada uno: his (de él), her (de ella), its (de cosa/animal), their (de ellos/ellas). Confundir 'his' y 'her' es el error más común de hispanohablantes. Regla: el posesivo en inglés depende del POSEEDOR, no del objeto poseído.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "recognize",
+      "title": "¿De quién es? Elegí el posesivo correcto",
+      "instruction": "Elegí el adjetivo posesivo correcto para cada situación. Prestá especial atención a si el poseedor es hombre (his), mujer (her) o cosa (its).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "recall",
+      "title": "Completá con el posesivo",
+      "instruction": "Ves una oración en español. Escribí el adjetivo posesivo en inglés que corresponde.",
+      "itemIndices": [2, 3, 4, 5, 6]
+    },
+    {
+      "type": "write",
+      "title": "Traducí prestando atención al poseedor",
+      "instruction": "Escribí la traducción completa. Cuidado: pensá bien si el poseedor es masculino, femenino o neutro antes de elegir el posesivo.",
+      "itemIndices": [2, 3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Resumen: my (de yo), your (de vos/usted), his (de él), her (de ella), its (de cosa), our (de nosotros), their (de ellos). REGLA CLAVE: el posesivo en inglés sigue al POSEEDOR. 'María loves HER car' (no 'his'). Y cuidado con los homófonos: its/it's, your/you're, their/there/they're.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+[
+  {
+    "id": "c1-inversion-negative-adverbials",
+    "title": "Inversion with Negative Adverbials",
+    "pattern": "Negative adverbial + auxiliary + subject + verb",
+    "meaning": "inversiones con adverbios negativos (registro muy formal)",
+    "level": "c1",
+    "explanation": "En inglés formal y literario, cuando una expresión negativa o restrictiva se coloca al inicio de la oración, el sujeto y el auxiliar se invierten (como en una pregunta). Las expresiones más comunes son: never, rarely, seldom, hardly, scarcely, not only...but also, no sooner...than, at no time, under no circumstances. En español existe una estructura similar ('raramente se ve', 'nunca había visto') pero el orden de palabras es diferente: en español el verbo simplemente sigue al adverbio, mientras que en inglés se requiere la inversión auxiliar-sujeto. Esta estructura es extremadamente formal y se usa en discursos, ensayos académicos y literatura.",
+    "examples": [
+      {
+        "sentence": "Never have I seen such a beautiful sunset.",
+        "reading": "",
+        "translation": "Nunca he visto un atardecer tan hermoso.",
+        "breakdown": ["Never = nunca", "have = he (auxiliar invertido)", "I = yo", "seen = visto", "such a = tan (un/una)", "beautiful = hermoso", "sunset = atardecer"]
+      },
+      {
+        "sentence": "Not only did she win the race, but she also broke the record.",
+        "reading": "",
+        "translation": "No solo ganó la carrera, sino que tambi\u00e9n rompió el récord.",
+        "breakdown": ["Not only = no solo", "did = auxiliar (inversión)", "she = ella", "win = ganar", "the race = la carrera", "but she also = sino que también", "broke = rompió", "the record = el récord"]
+      },
+      {
+        "sentence": "Hardly had I arrived when the phone rang.",
+        "reading": "",
+        "translation": "Apenas había llegado cuando sonó el teléfono.",
+        "breakdown": ["Hardly = apenas", "had = había (auxiliar invertido)", "I = yo", "arrived = llegado", "when = cuando", "the phone = el teléfono", "rang = sonó"]
+      }
+    ],
+    "notes": "Las inversiones más frecuentes: 'Never have I...', 'Rarely does he...', 'Seldom do we...', 'No sooner had I...than...', 'Hardly had I...when...'. En el habla cotidiana estas estructuras suenan pomposas; se reservan para escritura formal, discursos y énfasis retórico.",
+    "related": ["c2-discourse-organization"],
+    "tags": ["inversion", "formal-register", "emphasis"]
+  },
+  {
+    "id": "c1-mixed-conditionals",
+    "title": "Advanced Mixed Conditionals",
+    "pattern": "If + past perfect, would + base verb (3rd→2nd) | If + past simple, would have + past participle (2nd→3rd)",
+    "meaning": "condicionales mixtos (mezcla de tiempos hipotéticos)",
+    "level": "c1",
+    "explanation": "Los condicionales mixtos combinan tiempos de diferentes condicionales. El tipo 3rd→2nd (If + past perfect, would + base verb) describe cómo una acción pasada irreal afecta el presente: 'If I had studied harder, I would be a doctor now'. El tipo 2nd→3rd (If + past simple, would have + past participle) describe cómo una condición permanente habría afectado un evento pasado: 'If she were braver, she would have said something'. En español se usan formas del subjuntivo que no mapean directamente: 'Si hubiera estudiado más, sería médico ahora' usa pluscuamperfecto de subjuntivo + condicional simple, mientras que en inglés se mezclan past perfect con would + base verb.",
+    "examples": [
+      {
+        "sentence": "If I had studied medicine, I would be a doctor now.",
+        "reading": "",
+        "translation": "Si hubiera estudiado medicina, sería médico ahora.",
+        "breakdown": ["If = si", "I had studied = hubiera estudiado (pasado irreal)", "medicine = medicina", "I would be = sería (resultado presente)", "a doctor = médico", "now = ahora"]
+      },
+      {
+        "sentence": "If she were more confident, she would have spoken up at the meeting.",
+        "reading": "",
+        "translation": "Si ella fuera más segura de sí misma, habría hablado en la reunión.",
+        "breakdown": ["If = si", "she were = ella fuera (condición permanente)", "more confident = más segura", "she would have spoken up = habría hablado", "at the meeting = en la reunión"]
+      },
+      {
+        "sentence": "If we hadn't missed the flight, we would be in Paris right now.",
+        "reading": "",
+        "translation": "Si no hubiéramos perdido el vuelo, estaríamos en París ahora mismo.",
+        "breakdown": ["If = si", "we hadn't missed = no hubiéramos perdido", "the flight = el vuelo", "we would be = estaríamos", "in Paris = en París", "right now = ahora mismo"]
+      }
+    ],
+    "notes": "La clave para identificar un condicional mixto es que la condición y el resultado se refieren a tiempos diferentes. 3rd→2nd: pasado irreal → presente irreal. 2nd→3rd: condición permanente → pasado irreal. Son muy frecuentes en el habla nativa pero rara vez se enseñan de forma explícita.",
+    "related": ["c2-idiomatic-conditionals"],
+    "tags": ["conditional", "advanced", "hypothetical"]
+  },
+  {
+    "id": "c1-modals-past",
+    "title": "Modals in the Past (All Forms)",
+    "pattern": "modal + have + past participle | modal + have been + verb-ing",
+    "meaning": "modales en pasado (debería haber, podría haber, etc.)",
+    "level": "c1",
+    "explanation": "Los modales en pasado expresan juicios sobre acciones pasadas. 'Should have done' = debería haber hecho (arrepentimiento). 'Could have done' = podría haber hecho (posibilidad no realizada). 'Might have been' = podría haber estado. 'Must have done' = debe haber hecho (deducción). 'Needn't have done' = no necesitaba haberlo hecho (pero lo hizo). La distinción entre 'needn't have done' (lo hizo innecesariamente) y 'didn't need to do' (no lo hizo porque no era necesario) no existe en español, donde ambas se traducen como 'no necesitaba hacerlo'. También existen formas continuas: 'could have been doing', 'would have been doing'.",
+    "examples": [
+      {
+        "sentence": "You should have told me earlier.",
+        "reading": "",
+        "translation": "Deberías habérmelo dicho antes.",
+        "breakdown": ["You = vos", "should have told = deberías haber dicho (arrepentimiento)", "me = me", "earlier = antes/más temprano"]
+      },
+      {
+        "sentence": "She needn't have bought so much food — we already had plenty.",
+        "reading": "",
+        "translation": "No necesitaba haber comprado tanta comida — ya teníamos de sobra.",
+        "breakdown": ["She = ella", "needn't have bought = no necesitaba haber comprado (pero lo hizo)", "so much food = tanta comida", "we already had = ya teníamos", "plenty = de sobra"]
+      },
+      {
+        "sentence": "He must have been working all night — he looks exhausted.",
+        "reading": "",
+        "translation": "Debe haber estado trabajando toda la noche — se ve agotado.",
+        "breakdown": ["He = él", "must have been working = debe haber estado trabajando (deducción)", "all night = toda la noche", "he looks = se ve", "exhausted = agotado"]
+      }
+    ],
+    "notes": "Diferencia clave: 'needn't have done' = lo hizo pero no era necesario. 'didn't need to do' = no lo hizo porque no era necesario. Ejemplo: 'I needn't have brought an umbrella' (la traje pero no llovió) vs 'I didn't need to bring an umbrella' (no la traje porque no iba a llover). Esta distinción es muy difícil para hispanohablantes.",
+    "related": ["c1-all-passive-forms"],
+    "tags": ["modals", "past", "deduction", "regret"]
+  },
+  {
+    "id": "c1-all-passive-forms",
+    "title": "All Passive Forms",
+    "pattern": "being done | having been done | to have been done | get + past participle | It is said/believed/thought that...",
+    "meaning": "todas las formas pasivas (incluyendo pasiva impersonal y con 'get')",
+    "level": "c1",
+    "explanation": "Más allá de la pasiva básica (is/was done), existen formas avanzadas. 'Being done' = estar siendo hecho (pasiva continua). 'Having been done' = habiendo sido hecho (pasiva perfecta de gerundio). 'To have been done' = haber sido hecho (pasiva perfecta de infinitivo). 'Get + past participle' = versión informal/coloquial de la pasiva. Las pasivas impersonales con verbos de reporte (It is said that..., He is believed to have...) son muy diferentes del español 'Se dice que...'. En español se usa la construcción reflexiva impersonal ('se piensa que'), mientras que en inglés se usa una estructura pasiva con sujeto anticipado ('It is thought that...' o 'He is thought to be...').",
+    "examples": [
+      {
+        "sentence": "She didn't like being told what to do.",
+        "reading": "",
+        "translation": "A ella no le gustaba que le dijeran qué hacer.",
+        "breakdown": ["She = ella", "didn't like = no le gustaba", "being told = que le dijeran (pasiva continua)", "what to do = qué hacer"]
+      },
+      {
+        "sentence": "He is believed to have left the country.",
+        "reading": "",
+        "translation": "Se cree que él abandonó el país.",
+        "breakdown": ["He = él", "is believed = se cree (pasiva impersonal)", "to have left = que abandonó (infinitivo perfecto)", "the country = el país"]
+      },
+      {
+        "sentence": "Having been warned twice, he was finally fired.",
+        "reading": "",
+        "translation": "Habiendo sido advertido dos veces, finalmente fue despedido.",
+        "breakdown": ["Having been warned = habiendo sido advertido (participio perfecto pasivo)", "twice = dos veces", "he was finally fired = finalmente fue despedido"]
+      }
+    ],
+    "notes": "La pasiva con 'get' es informal: 'He got fired' (lo echaron), 'She got promoted' (la ascendieron). Las pasivas con verbos de reporte tienen dos formas: 'It is said that he is rich' o 'He is said to be rich'. Ambas equivalen a 'Se dice que es rico' en español.",
+    "related": ["c1-modals-past"],
+    "tags": ["passive", "advanced", "impersonal", "formal-register"]
+  },
+  {
+    "id": "c1-phrasal-verb-patterns",
+    "title": "Phrasal Verb Splitting & Complex Patterns",
+    "pattern": "verb + particle + object / verb + object + particle | stacked phrasal verbs",
+    "meaning": "separación de phrasal verbs y patrones complejos apilados",
+    "level": "c1",
+    "explanation": "Los phrasal verbs separables pueden llevar el objeto entre el verbo y la partícula ('turn it down') o después ('turn down the offer'). Con pronombres, la separación es obligatoria: 'turn it down' (NUNCA 'turn down it'). Los phrasal verbs pueden apilarse creando cadenas complejas: 'She ended up having to put up with being talked down to'. Los phrasal verbs no existen en español — cada uno tiene un equivalente léxico diferente. Esta es considerada la dificultad número uno para aprendices avanzados de inglés. Un mismo verbo base puede tener decenas de significados diferentes según la partícula: 'take off' (despegar), 'take on' (asumir), 'take over' (tomar control), 'take up' (empezar un hobby).",
+    "examples": [
+      {
+        "sentence": "I need to look it up — you can't just look up it.",
+        "reading": "",
+        "translation": "Necesito buscarlo — no podés simplemente 'look up it' (orden incorrecto).",
+        "breakdown": ["look it up = buscarlo (pronombre en medio, obligatorio)", "look up it = incorrecto (nunca con pronombre después de la partícula)"]
+      },
+      {
+        "sentence": "She ended up having to put up with being talked down to.",
+        "reading": "",
+        "translation": "Ella terminó teniendo que aguantar que le hablaran con condescendencia.",
+        "breakdown": ["ended up = terminó (resultado inesperado)", "having to = teniendo que", "put up with = aguantar/tolerar", "being talked down to = que le hablaran con condescendencia"]
+      },
+      {
+        "sentence": "They called off the meeting, so I didn't have to get up early to set off for work.",
+        "reading": "",
+        "translation": "Cancelaron la reunión, así que no tuve que levantarme temprano para salir al trabajo.",
+        "breakdown": ["called off = cancelaron", "the meeting = la reunión", "get up = levantarse", "early = temprano", "set off = salir/partir", "for work = al trabajo"]
+      }
+    ],
+    "notes": "Regla de oro: si el objeto es un pronombre, SIEMPRE va entre el verbo y la partícula en phrasal verbs separables. 'Turn the TV off' y 'Turn off the TV' son ambos correctos, pero con pronombre solo 'Turn it off'. Los phrasal verbs de tres palabras (look up to, put up with, come up with) son generalmente inseparables.",
+    "related": ["c2-idiomatic-conditionals"],
+    "tags": ["phrasal-verbs", "advanced", "separability"]
+  },
+  {
+    "id": "c1-wish-if-only",
+    "title": "Wish / If only (All Tenses)",
+    "pattern": "wish/if only + past simple (present) | wish/if only + past perfect (past) | wish/if only + would (future/annoyance)",
+    "meaning": "ojalá / si tan solo (deseos y arrepentimientos en todos los tiempos)",
+    "level": "c1",
+    "explanation": "Wish e If only expresan deseos contrarios a la realidad. Con pasado simple: deseo sobre el presente ('I wish I knew' = ojalá supiera). Con pasado perfecto: arrepentimiento sobre el pasado ('I wish I had known' = ojalá hubiera sabido). Con would: deseo de cambio futuro o queja ('I wish it would stop raining' = ojalá dejara de llover). En español se usa 'ojalá' + subjuntivo, que es similar pero no idéntico. La diferencia clave es que 'I wish you would stop' expresa irritación sobre un hábito ajeno, un matiz difícil de traducir. Además, 'If only' es más enfático que 'wish' y se usa frecuentemente al inicio de oraciones exclamativas.",
+    "examples": [
+      {
+        "sentence": "I wish I had known about this earlier.",
+        "reading": "",
+        "translation": "Ojalá hubiera sabido esto antes.",
+        "breakdown": ["I wish = ojalá/desearía", "I had known = hubiera sabido (past perfect = arrepentimiento pasado)", "about this = sobre esto", "earlier = antes"]
+      },
+      {
+        "sentence": "If only she weren't so stubborn, we could reach an agreement.",
+        "reading": "",
+        "translation": "Si tan solo ella no fuera tan obstinada, podríamos llegar a un acuerdo.",
+        "breakdown": ["If only = si tan solo (más enfático que wish)", "she weren't = ella no fuera", "so stubborn = tan obstinada", "we could reach = podríamos llegar a", "an agreement = un acuerdo"]
+      },
+      {
+        "sentence": "I wish you would stop interrupting me!",
+        "reading": "",
+        "translation": "¡Ojalá dejaras de interrumpirme!",
+        "breakdown": ["I wish = desearía (irritación)", "you would stop = dejaras de (wish + would = queja sobre hábito ajeno)", "interrupting me = interrumpirme"]
+      }
+    ],
+    "notes": "Nunca se usa 'wish + would' sobre uno mismo: 'I wish I would...' es incorrecto. Se dice 'I wish I could...' en su lugar. 'If only' puede usarse en todos los mismos contextos que 'wish' pero con mayor carga emocional. En español, 'ojalá' cubre todos estos usos con diferentes tiempos del subjuntivo.",
+    "related": ["c2-subjunctive-english"],
+    "tags": ["wish", "regret", "hypothetical", "subjunctive"]
+  },
+  {
+    "id": "c1-ellipsis-substitution",
+    "title": "Ellipsis and Substitution",
+    "pattern": "So do I / Neither can she / I think so / I hope not / auxiliary stranding",
+    "meaning": "elipsis y sustitución (omisión de palabras ya entendidas)",
+    "level": "c1",
+    "explanation": "El inglés omite con frecuencia elementos que se sobrentienden del contexto. La elipsis incluye: acuerdo ('So do I', 'Neither can she'), opinión reducida ('I think so', 'I hope not', 'I'm afraid so'), comparaciones truncadas ('She can swim better than I can'), respuestas cortas ('Have you finished? — Yes, I have') y 'auxiliary stranding' donde solo queda el auxiliar ('I haven't been to Paris, but I'd like to'). En español muchas de estas construcciones no tienen equivalente directo: 'I think so' no se dice 'Pienso así' sino 'Creo que sí'. Son altamente idiomáticas y esenciales para sonar natural en inglés.",
+    "examples": [
+      {
+        "sentence": "A: I've never been to Japan. B: Neither have I, but I'd love to.",
+        "reading": "",
+        "translation": "A: Nunca estuve en Japón. B: Yo tampoco, pero me encantaría.",
+        "breakdown": ["Neither have I = yo tampoco (inversión negativa)", "but = pero", "I'd love to = me encantaría (elipsis: se omite 'go to Japan')"]
+      },
+      {
+        "sentence": "Is it going to rain? — I hope not.",
+        "reading": "",
+        "translation": "¿Va a llover? — Espero que no.",
+        "breakdown": ["Is it going to rain? = ¿va a llover?", "I hope not = espero que no (sustitución con 'not')"]
+      },
+      {
+        "sentence": "She speaks French better than he does.",
+        "reading": "",
+        "translation": "Ella habla francés mejor que él.",
+        "breakdown": ["She speaks = ella habla", "French = francés", "better than = mejor que", "he does = él (auxiliar 'does' reemplaza 'speaks French')"]
+      }
+    ],
+    "notes": "Patrones clave: 'I think so / I don't think so' (creo que sí / creo que no), 'I hope so / I hope not' (espero que sí / espero que no), 'I'm afraid so / I'm afraid not' (me temo que sí / me temo que no). Nótese que con 'think' la negación va en el verbo principal ('I don't think so'), pero con 'hope' y 'afraid' va en el sustituto ('I hope not').",
+    "related": ["c2-discourse-organization"],
+    "tags": ["ellipsis", "substitution", "idiomatic", "conversational"]
+  },
+  {
+    "id": "c1-nominal-clauses",
+    "title": "Nominal Clauses and Complex Complementation",
+    "pattern": "The fact that... | It struck me that... | There's no denying that... | Whether or not...",
+    "meaning": "cláusulas nominales y complementación compleja",
+    "level": "c1",
+    "explanation": "Las cláusulas nominales funcionan como sustantivos dentro de una oración. 'The fact that...' introduce un hecho como sujeto u objeto. 'It' como sujeto anticipado permite estructuras como 'It struck me that...', 'It turns out that...', 'It goes without saying that...'. Expresiones fijas como 'There's no denying that...' y 'There's no point in...' combinan cláusulas nominales con modismos. 'Whether or not' introduce alternativas. En español, muchas de estas estructuras requieren subjuntivo donde el inglés usa indicativo: 'Es importante que estudie' (subjuntivo) vs 'It's important that she studies' (indicativo, aunque el subjuntivo 'study' también es posible en inglés formal).",
+    "examples": [
+      {
+        "sentence": "The fact that she didn't apologize made things worse.",
+        "reading": "",
+        "translation": "El hecho de que no se haya disculpado empeoró las cosas.",
+        "breakdown": ["The fact that = el hecho de que", "she didn't apologize = no se disculpó", "made things worse = empeoró las cosas"]
+      },
+      {
+        "sentence": "It suddenly struck me that I had left the oven on.",
+        "reading": "",
+        "translation": "De repente me di cuenta de que había dejado el horno encendido.",
+        "breakdown": ["It = sujeto anticipado", "suddenly = de repente", "struck me = me impactó / me di cuenta", "that = que", "I had left = había dejado", "the oven on = el horno encendido"]
+      },
+      {
+        "sentence": "Whether or not you agree, we need to make a decision.",
+        "reading": "",
+        "translation": "Estés de acuerdo o no, necesitamos tomar una decisión.",
+        "breakdown": ["Whether or not = estés o no", "you agree = estés de acuerdo", "we need to = necesitamos", "make a decision = tomar una decisión"]
+      }
+    ],
+    "notes": "Expresiones útiles con cláusulas nominales: 'There's no denying that...' (no se puede negar que...), 'There's no point in...' (no tiene sentido...), 'It goes without saying that...' (va de suyo que...), 'It turns out that...' (resulta que...). Estas son muy frecuentes en escritura académica y periodística.",
+    "related": ["c2-subjunctive-english", "c2-discourse-organization"],
+    "tags": ["clauses", "nominal", "complementation", "academic"]
+  }
+]

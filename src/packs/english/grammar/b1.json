@@ -1,0 +1,642 @@
+[
+  {
+    "id": "b1-second-conditional",
+    "title": "Second Conditional",
+    "pattern": "If + past simple, would + infinitive",
+    "meaning": "segundo condicional (situaciones hipotéticas presentes/futuras)",
+    "level": "b1",
+    "explanation": "El segundo condicional se usa para hablar de situaciones imaginarias o improbables en el presente o futuro. La clave es que la cláusula 'if' usa pasado simple, pero NO se refiere al pasado real, sino a una situación irreal. En español usamos el subjuntivo ('si tuviera'), pero en inglés se usa el pasado simple indicativo ('if I had'). Esta diferencia confunde mucho a los hispanohablantes. Con 'to be', la forma correcta formal es 'were' para todas las personas.",
+    "examples": [
+      {
+        "sentence": "If I had more time, I would learn Japanese.",
+        "reading": "",
+        "translation": "Si tuviera más tiempo, aprendería japonés.",
+        "breakdown": ["If = si", "I had = yo tuviera (pasado simple, no subjuntivo)", "more time = más tiempo", "I would learn = aprendería", "Japanese = japonés"]
+      },
+      {
+        "sentence": "If she lived in Spain, she would speak Spanish fluently.",
+        "reading": "",
+        "translation": "Si ella viviera en España, hablaría español con fluidez.",
+        "breakdown": ["If she lived = si ella viviera", "in Spain = en España", "she would speak = ella hablaría", "Spanish = español", "fluently = con fluidez"]
+      },
+      {
+        "sentence": "What would you do if you won the lottery?",
+        "reading": "",
+        "translation": "¿Qué harías si ganaras la lotería?",
+        "breakdown": ["What would you do = qué harías", "if you won = si ganaras", "the lottery = la lotería"]
+      }
+    ],
+    "notes": "Error frecuente de hispanohablantes: usar 'would' en la cláusula 'if'. INCORRECTO: 'If I would have time'. CORRECTO: 'If I had time'. En español decimos 'si tuviera' (subjuntivo), en inglés es 'if I had' (pasado simple).",
+    "related": ["a2-second-conditional", "b1-third-conditional", "b1-wish-past-simple"],
+    "tags": ["conditional", "hypothetical"]
+  },
+  {
+    "id": "b1-third-conditional",
+    "title": "Third Conditional",
+    "pattern": "If + past perfect, would have + past participle",
+    "meaning": "tercer condicional (situaciones hipotéticas pasadas)",
+    "level": "b1",
+    "explanation": "El tercer condicional se usa para hablar de situaciones hipotéticas en el pasado: cosas que NO ocurrieron y sus consecuencias imaginarias. La cláusula 'if' usa past perfect (had + participio) y el resultado usa 'would have + participio'. Es como decir 'si hubiera... habría...' en español. Es imposible cambiar estas situaciones porque ya pasaron.",
+    "examples": [
+      {
+        "sentence": "If I had studied harder, I would have passed the exam.",
+        "reading": "",
+        "translation": "Si hubiera estudiado más, habría aprobado el examen.",
+        "breakdown": ["If I had studied = si hubiera estudiado", "harder = más fuerte/más", "I would have passed = habría aprobado", "the exam = el examen"]
+      },
+      {
+        "sentence": "If they had left earlier, they wouldn't have missed the train.",
+        "reading": "",
+        "translation": "Si hubieran salido antes, no habrían perdido el tren.",
+        "breakdown": ["If they had left = si hubieran salido", "earlier = antes/más temprano", "they wouldn't have missed = no habrían perdido", "the train = el tren"]
+      }
+    ],
+    "notes": "Contracciones comunes: 'If I'd known' (= If I had known), 'I'd have gone' (= I would have gone). Cuidado: 'd puede ser 'had' o 'would' dependiendo del contexto.",
+    "related": ["b1-second-conditional", "b1-past-perfect", "b2-mixed-conditionals"],
+    "tags": ["conditional", "hypothetical", "past"]
+  },
+  {
+    "id": "b1-present-perfect-continuous",
+    "title": "Present Perfect Continuous",
+    "pattern": "Subject + have/has been + verb-ing",
+    "meaning": "presente perfecto continuo",
+    "level": "b1",
+    "explanation": "Se usa para acciones que empezaron en el pasado y continúan hasta ahora, o acciones recientes cuyo resultado es visible. Enfatiza la duración o el proceso de la acción. Se forma con have/has + been + verbo-ing. Es muy común con 'for' (duración) y 'since' (punto de inicio). En español no existe un equivalente directo; se traduce generalmente como 'he estado + gerundio'.",
+    "examples": [
+      {
+        "sentence": "I have been waiting for two hours.",
+        "reading": "",
+        "translation": "He estado esperando durante dos horas.",
+        "breakdown": ["I have been waiting = he estado esperando", "for = durante", "two hours = dos horas"]
+      },
+      {
+        "sentence": "She has been working here since 2019.",
+        "reading": "",
+        "translation": "Ella ha estado trabajando acá desde 2019.",
+        "breakdown": ["She has been working = ella ha estado trabajando", "here = acá", "since = desde", "2019 = 2019"]
+      },
+      {
+        "sentence": "It has been raining all day. That's why the ground is wet.",
+        "reading": "",
+        "translation": "Ha estado lloviendo todo el día. Por eso el suelo está mojado.",
+        "breakdown": ["It has been raining = ha estado lloviendo", "all day = todo el día", "That's why = por eso", "the ground = el suelo", "is wet = está mojado"]
+      }
+    ],
+    "notes": "Diferencia con Present Perfect Simple: 'I've read three books' (resultado, cantidad) vs 'I've been reading all morning' (proceso, duración). Los stative verbs (know, believe, want) no se usan en continuo.",
+    "related": ["a2-present-perfect", "b1-past-perfect"],
+    "tags": ["tense", "perfect", "continuous"]
+  },
+  {
+    "id": "b1-past-perfect",
+    "title": "Past Perfect",
+    "pattern": "Subject + had + past participle",
+    "meaning": "pasado perfecto (pluscuamperfecto)",
+    "level": "b1",
+    "explanation": "El past perfect se usa para hablar de una acción que ocurrió ANTES de otra acción pasada. Establece una secuencia temporal clara: primero pasó X (past perfect), luego pasó Y (past simple). Se forma con 'had' + participio pasado para todas las personas. Es equivalente al pluscuamperfecto en español ('había + participio'). Es esencial para narrar historias con claridad temporal.",
+    "examples": [
+      {
+        "sentence": "When I arrived at the cinema, the film had already started.",
+        "reading": "",
+        "translation": "Cuando llegué al cine, la película ya había empezado.",
+        "breakdown": ["When I arrived = cuando llegué", "at the cinema = al cine", "the film = la película", "had already started = ya había empezado"]
+      },
+      {
+        "sentence": "She was nervous because she had never flown before.",
+        "reading": "",
+        "translation": "Estaba nerviosa porque nunca había volado antes.",
+        "breakdown": ["She was nervous = estaba nerviosa", "because = porque", "she had never flown = nunca había volado", "before = antes"]
+      }
+    ],
+    "notes": "Contracción: 'd (I'd finished = I had finished). Cuidado: 'd también puede ser 'would'. Contexto: después de 'if' suele ser 'had', en el resultado suele ser 'would'.",
+    "related": ["a2-past-perfect-intro", "b1-third-conditional", "b2-past-perfect-continuous"],
+    "tags": ["tense", "past", "perfect"]
+  },
+  {
+    "id": "b1-simple-passive",
+    "title": "Simple Passive (Present & Past)",
+    "pattern": "Subject + am/is/are/was/were + past participle (+ by agent)",
+    "meaning": "voz pasiva simple (presente y pasado)",
+    "level": "b1",
+    "explanation": "La voz pasiva pone el foco en la acción o el objeto, no en quien la realiza. Se usa mucho en inglés formal, noticias y textos académicos. En español tendemos a usar construcciones con 'se' ('se habla inglés') o directamente la voz activa. Los hispanohablantes suelen evitar la pasiva en inglés cuando deberían usarla, especialmente en escritura formal. Presente: is/are + participio. Pasado: was/were + participio.",
+    "examples": [
+      {
+        "sentence": "The report was written by the manager.",
+        "reading": "",
+        "translation": "El informe fue escrito por el gerente.",
+        "breakdown": ["The report = el informe", "was written = fue escrito", "by = por", "the manager = el gerente"]
+      },
+      {
+        "sentence": "These cars are manufactured in Germany.",
+        "reading": "",
+        "translation": "Estos autos se fabrican en Alemania.",
+        "breakdown": ["These cars = estos autos", "are manufactured = son fabricados / se fabrican", "in Germany = en Alemania"]
+      },
+      {
+        "sentence": "The window was broken during the storm.",
+        "reading": "",
+        "translation": "La ventana fue rota durante la tormenta.",
+        "breakdown": ["The window = la ventana", "was broken = fue rota", "during = durante", "the storm = la tormenta"]
+      }
+    ],
+    "notes": "El agente ('by...') solo se incluye cuando es importante saber quién realizó la acción. En muchos casos se omite: 'The building was constructed in 1920' (no importa quién lo construyó). En español es más natural decir 'se construyó' que 'fue construido'.",
+    "related": ["a2-passive-present", "b2-extended-passives"],
+    "tags": ["passive", "tense"]
+  },
+  {
+    "id": "b1-reported-speech-statements",
+    "title": "Reported Speech (Statements)",
+    "pattern": "He said (that) + backshifted tense",
+    "meaning": "discurso indirecto (afirmaciones)",
+    "level": "b1",
+    "explanation": "Para reportar lo que alguien dijo, los tiempos verbales retroceden un paso: present simple -> past simple, present continuous -> past continuous, present perfect -> past perfect, will -> would, can -> could. Los pronombres y referencias de tiempo también cambian (today -> that day, here -> there). El 'that' es opcional. En español el cambio de tiempos es similar pero no idéntico, lo cual puede generar confusión.",
+    "examples": [
+      {
+        "sentence": "She said that she was feeling tired.",
+        "reading": "",
+        "translation": "Ella dijo que se sentía cansada.",
+        "breakdown": ["She said = ella dijo", "that = que", "she was feeling = se sentía (backshift: am feeling -> was feeling)", "tired = cansada"]
+      },
+      {
+        "sentence": "He told me he had already eaten dinner.",
+        "reading": "",
+        "translation": "Él me dijo que ya había cenado.",
+        "breakdown": ["He told me = él me dijo", "he had already eaten = ya había comido (backshift: have eaten -> had eaten)", "dinner = la cena"]
+      },
+      {
+        "sentence": "They said they would arrive the next day.",
+        "reading": "",
+        "translation": "Dijeron que llegarían al día siguiente.",
+        "breakdown": ["They said = dijeron", "they would arrive = llegarían (backshift: will arrive -> would arrive)", "the next day = al día siguiente (cambio: tomorrow -> the next day)"]
+      }
+    ],
+    "notes": "Diferencia 'say' vs 'tell': 'say' no necesita objeto indirecto (She said she was tired). 'Tell' necesita objeto indirecto (She told ME she was tired). NO: 'She said me'. NO: 'She told that she was tired'.",
+    "related": ["a2-reported-speech-intro", "b1-reported-speech-questions"],
+    "tags": ["reported-speech"]
+  },
+  {
+    "id": "b1-reported-speech-questions",
+    "title": "Reported Speech (Questions)",
+    "pattern": "She asked if/whether... | He asked what/where/when...",
+    "meaning": "discurso indirecto (preguntas)",
+    "level": "b1",
+    "explanation": "Para reportar preguntas, se usa 'asked' + if/whether (para yes/no questions) o la palabra interrogativa (what, where, when, etc.). El orden cambia a afirmativo (NO se usa inversión ni auxiliares de pregunta). Los tiempos retroceden igual que en las afirmaciones. En español también se usa 'si' para preguntas indirectas de sí/no, así que la estructura es similar.",
+    "examples": [
+      {
+        "sentence": "She asked me if I had ever been to Japan.",
+        "reading": "",
+        "translation": "Ella me preguntó si alguna vez había estado en Japón.",
+        "breakdown": ["She asked me = ella me preguntó", "if = si", "I had ever been = alguna vez había estado (backshift)", "to Japan = a Japón"]
+      },
+      {
+        "sentence": "He asked where the nearest station was.",
+        "reading": "",
+        "translation": "Él preguntó dónde estaba la estación más cercana.",
+        "breakdown": ["He asked = él preguntó", "where = dónde", "the nearest station = la estación más cercana", "was = estaba (orden afirmativo, no 'where was the station')"]
+      }
+    ],
+    "notes": "Error típico: mantener el orden de pregunta. INCORRECTO: 'She asked where was the station'. CORRECTO: 'She asked where the station was'. La inversión desaparece en reported speech.",
+    "related": ["b1-reported-speech-statements"],
+    "tags": ["reported-speech", "questions"]
+  },
+  {
+    "id": "b1-modals-deduction-present",
+    "title": "Modals for Deduction (Present)",
+    "pattern": "must be / might be / could be / can't be",
+    "meaning": "modales de deducción (presente)",
+    "level": "b1",
+    "explanation": "Usamos modales para expresar cuán seguros estamos de algo en el presente. 'Must be' = estamos casi seguros de que es verdad (debe ser). 'Might be' / 'could be' = es posible pero no seguro (podría ser). 'Can't be' = estamos casi seguros de que NO es verdad (no puede ser). Es diferente del uso de 'must' para obligación. El contexto determina el significado.",
+    "examples": [
+      {
+        "sentence": "She must be at home. Her car is in the driveway.",
+        "reading": "",
+        "translation": "Debe estar en casa. Su auto está en la entrada.",
+        "breakdown": ["She must be = debe estar (deducción, alta certeza)", "at home = en casa", "Her car = su auto", "is in the driveway = está en la entrada"]
+      },
+      {
+        "sentence": "That might be true, but I'm not sure.",
+        "reading": "",
+        "translation": "Eso podría ser verdad, pero no estoy seguro.",
+        "breakdown": ["That might be = eso podría ser (posibilidad)", "true = verdad", "but = pero", "I'm not sure = no estoy seguro"]
+      },
+      {
+        "sentence": "He can't be 60 years old. He looks so young!",
+        "reading": "",
+        "translation": "No puede tener 60 años. ¡Se ve tan joven!",
+        "breakdown": ["He can't be = no puede ser/tener (deducción negativa)", "60 years old = 60 años", "He looks = se ve", "so young = tan joven"]
+      }
+    ],
+    "notes": "Escala de certeza: must (95%) > could/may/might (50%) > can't (5%). 'May be' y 'might be' son casi idénticos en significado. No confundir 'must be' (deducción) con 'must do' (obligación).",
+    "related": ["a2-must-mustn't", "b2-advanced-modal-meanings"],
+    "tags": ["modal", "deduction"]
+  },
+  {
+    "id": "b1-complex-question-tags",
+    "title": "Complex Question Tags",
+    "pattern": "statement + auxiliary tag (doesn't she?, haven't they?, won't we?)",
+    "meaning": "question tags complejas",
+    "level": "b1",
+    "explanation": "Las question tags se vuelven más complejas con diferentes tiempos y modales. La regla es siempre la misma: oración afirmativa -> tag negativo, oración negativa -> tag positivo. El auxiliar del tag debe coincidir con el de la oración. Con present perfect, past perfect, modales y pasiva, los tags requieren más atención. En español simplemente decimos '¿no?' o '¿verdad?', por lo que los tags son un concepto que no existe de la misma forma.",
+    "examples": [
+      {
+        "sentence": "You have been to Paris, haven't you?",
+        "reading": "",
+        "translation": "Has estado en París, ¿no?",
+        "breakdown": ["You have been = has estado (present perfect)", "to Paris = en París", "haven't you? = ¿no? (tag negativo porque la oración es afirmativa)"]
+      },
+      {
+        "sentence": "She won't be late, will she?",
+        "reading": "",
+        "translation": "No va a llegar tarde, ¿verdad?",
+        "breakdown": ["She won't be late = no va a llegar tarde (negativa)", "will she? = ¿verdad? (tag positivo porque la oración es negativa)"]
+      },
+      {
+        "sentence": "They could have called, couldn't they?",
+        "reading": "",
+        "translation": "Podrían haber llamado, ¿no?",
+        "breakdown": ["They could have called = podrían haber llamado", "couldn't they? = ¿no? (tag con el mismo modal)"]
+      }
+    ],
+    "notes": "Casos especiales: 'I am' -> 'aren't I?' (no 'amn't I'). 'Let's go' -> 'shall we?'. 'Nobody came' -> 'did they?' (nobody es negativo). 'Everybody knows' -> 'don't they?' (everybody es singular pero el tag usa 'they').",
+    "related": ["a2-tag-questions"],
+    "tags": ["questions", "confirmation"]
+  },
+  {
+    "id": "b1-connectors-cause",
+    "title": "Connectors of Cause",
+    "pattern": "because / since / as / due to / because of + noun",
+    "meaning": "conectores de causa",
+    "level": "b1",
+    "explanation": "Estos conectores expresan la razón o causa de algo. 'Because', 'since' y 'as' van seguidos de una cláusula (sujeto + verbo). 'Because of' y 'due to' van seguidos de un sustantivo o frase nominal. 'Since' y 'as' son más formales que 'because' y suelen ir al inicio de la oración. En español todos se traducen como variantes de 'porque' o 'debido a', pero en inglés la estructura gramatical que les sigue es diferente.",
+    "examples": [
+      {
+        "sentence": "She stayed home because she was feeling ill.",
+        "reading": "",
+        "translation": "Se quedó en casa porque se sentía mal.",
+        "breakdown": ["She stayed home = se quedó en casa", "because = porque", "she was feeling ill = se sentía mal"]
+      },
+      {
+        "sentence": "Since you already know the answer, why don't you tell us?",
+        "reading": "",
+        "translation": "Ya que sabés la respuesta, ¿por qué no nos decís?",
+        "breakdown": ["Since = ya que/puesto que", "you already know = ya sabés", "the answer = la respuesta", "why don't you tell us = por qué no nos decís"]
+      },
+      {
+        "sentence": "The flight was cancelled due to bad weather.",
+        "reading": "",
+        "translation": "El vuelo fue cancelado debido al mal tiempo.",
+        "breakdown": ["The flight = el vuelo", "was cancelled = fue cancelado", "due to = debido a", "bad weather = mal tiempo"]
+      }
+    ],
+    "notes": "Error común: confundir 'because' (+ cláusula) con 'because of' (+ sustantivo). CORRECTO: 'because it rained' / 'because of the rain'. INCORRECTO: 'because of it rained'. 'Due to' es más formal y se usa frecuentemente en escritura.",
+    "related": ["b1-connectors-contrast", "b1-connectors-purpose"],
+    "tags": ["connectors", "cause"]
+  },
+  {
+    "id": "b1-connectors-contrast",
+    "title": "Connectors of Contrast",
+    "pattern": "although / however / despite / in spite of",
+    "meaning": "conectores de contraste",
+    "level": "b1",
+    "explanation": "'Although' y 'even though' van seguidos de cláusula (sujeto + verbo) y significan 'aunque'. 'However' es un adverbio que conecta dos oraciones y significa 'sin embargo'. 'Despite' e 'in spite of' van seguidos de sustantivo o gerundio (-ing) y significan 'a pesar de'. La elección del conector depende de la estructura gramatical, no del significado, ya que todos expresan contraste.",
+    "examples": [
+      {
+        "sentence": "Although she was tired, she continued working.",
+        "reading": "",
+        "translation": "Aunque estaba cansada, siguió trabajando.",
+        "breakdown": ["Although = aunque", "she was tired = estaba cansada", "she continued = ella siguió", "working = trabajando"]
+      },
+      {
+        "sentence": "The test was difficult. However, most students passed.",
+        "reading": "",
+        "translation": "El examen fue difícil. Sin embargo, la mayoría de los estudiantes aprobó.",
+        "breakdown": ["The test was difficult = el examen fue difícil", "However = sin embargo (inicio de oración nueva)", "most students passed = la mayoría aprobó"]
+      },
+      {
+        "sentence": "Despite being exhausted, he finished the marathon.",
+        "reading": "",
+        "translation": "A pesar de estar agotado, terminó el maratón.",
+        "breakdown": ["Despite = a pesar de", "being exhausted = estar agotado (gerundio, no cláusula)", "he finished = él terminó", "the marathon = el maratón"]
+      }
+    ],
+    "notes": "'However' siempre va entre dos oraciones separadas (con punto o punto y coma), nunca une dos cláusulas dentro de la misma oración. INCORRECTO: 'The test was difficult however most students passed'. CORRECTO: 'The test was difficult. However, most students passed.' o 'The test was difficult; however, most students passed.'",
+    "related": ["b1-connectors-cause", "b1-connectors-purpose"],
+    "tags": ["connectors", "contrast"]
+  },
+  {
+    "id": "b1-connectors-purpose",
+    "title": "Connectors of Purpose",
+    "pattern": "to / in order to / so that / so as to + verb",
+    "meaning": "conectores de propósito",
+    "level": "b1",
+    "explanation": "'To' e 'in order to' van seguidos de infinitivo y expresan propósito directo ('para + infinitivo'). 'So that' va seguido de una cláusula con sujeto + verbo (frecuentemente con can/could/will/would) y significa 'para que'. 'So as to' es más formal que 'to' y también va con infinitivo. 'In order not to' y 'so as not to' expresan propósito negativo. En español todo se traduce como 'para' o 'para que'.",
+    "examples": [
+      {
+        "sentence": "I woke up early to catch the first train.",
+        "reading": "",
+        "translation": "Me levanté temprano para tomar el primer tren.",
+        "breakdown": ["I woke up early = me levanté temprano", "to catch = para tomar", "the first train = el primer tren"]
+      },
+      {
+        "sentence": "She studied hard so that she could get a scholarship.",
+        "reading": "",
+        "translation": "Estudió mucho para que pudiera conseguir una beca.",
+        "breakdown": ["She studied hard = estudió mucho", "so that = para que", "she could get = pudiera conseguir", "a scholarship = una beca"]
+      },
+      {
+        "sentence": "He left quietly so as not to wake the baby.",
+        "reading": "",
+        "translation": "Se fue en silencio para no despertar al bebé.",
+        "breakdown": ["He left quietly = se fue en silencio", "so as not to = para no", "wake = despertar", "the baby = al bebé"]
+      }
+    ],
+    "notes": "Nivel de formalidad: to (informal/neutro) < in order to (formal) < so as to (muy formal). 'So that' es el único que permite diferente sujeto: 'I left early so that SHE could sleep' (yo me fui para que ELLA pudiera dormir).",
+    "related": ["b1-connectors-cause", "b1-connectors-contrast"],
+    "tags": ["connectors", "purpose"]
+  },
+  {
+    "id": "b1-used-to",
+    "title": "Used to + Infinitive",
+    "pattern": "Subject + used to + base verb",
+    "meaning": "solía + infinitivo (hábitos pasados)",
+    "level": "b1",
+    "explanation": "'Used to' describe hábitos o estados del pasado que ya no son verdad. Solo existe en pasado. A nivel B1 se profundiza en las diferencias con 'would' para hábitos pasados y con 'be used to' / 'get used to' (estar/acostumbrarse a). No confundir: 'I used to smoke' (solía fumar, ya no) vs 'I am used to smoking' (estoy acostumbrado a fumar) vs 'I got used to the noise' (me acostumbré al ruido).",
+    "examples": [
+      {
+        "sentence": "I used to believe in Santa Claus when I was a child.",
+        "reading": "",
+        "translation": "Solía creer en Papá Noel cuando era chico.",
+        "breakdown": ["I used to believe = solía creer", "in Santa Claus = en Papá Noel", "when I was a child = cuando era chico"]
+      },
+      {
+        "sentence": "There used to be a cinema here, but now it's a supermarket.",
+        "reading": "",
+        "translation": "Solía haber un cine acá, pero ahora es un supermercado.",
+        "breakdown": ["There used to be = solía haber", "a cinema = un cine", "here = acá", "but now = pero ahora", "it's a supermarket = es un supermercado"]
+      }
+    ],
+    "notes": "Trampas de confusión: 'used to' (hábito pasado) vs 'be used to + gerund' (estar acostumbrado a) vs 'get used to + gerund' (acostumbrarse a). 'I used to drive on the left' (solía manejar por la izquierda). 'I'm used to driving on the left' (estoy acostumbrado a manejar por la izquierda).",
+    "related": ["a2-used-to", "b1-would-past-habits"],
+    "tags": ["past", "habits"]
+  },
+  {
+    "id": "b1-would-past-habits",
+    "title": "Would + Infinitive (Past Habits)",
+    "pattern": "Subject + would + base verb (repeated past actions)",
+    "meaning": "solía / acostumbraba (acciones repetidas del pasado)",
+    "level": "b1",
+    "explanation": "'Would' puede usarse para hablar de acciones repetidas en el pasado, similar a 'used to'. Sin embargo, 'would' SOLO funciona con acciones (verbos dinámicos), NO con estados. 'Used to' funciona con ambos. No se puede decir 'I would be a child' ni 'I would live in Madrid' porque son estados. Sí se puede decir 'I would play in the park every day'. Se usa frecuentemente en narraciones y recuerdos.",
+    "examples": [
+      {
+        "sentence": "Every summer, we would go to the beach and build sandcastles.",
+        "reading": "",
+        "translation": "Cada verano, íbamos a la playa y hacíamos castillos de arena.",
+        "breakdown": ["Every summer = cada verano", "we would go = íbamos (acción repetida pasada)", "to the beach = a la playa", "and build = y hacíamos/construíamos", "sandcastles = castillos de arena"]
+      },
+      {
+        "sentence": "My grandmother would always make us cookies when we visited.",
+        "reading": "",
+        "translation": "Mi abuela siempre nos hacía galletas cuando la visitábamos.",
+        "breakdown": ["My grandmother = mi abuela", "would always make = siempre hacía (hábito pasado)", "us cookies = galletas para nosotros", "when we visited = cuando visitábamos"]
+      }
+    ],
+    "notes": "Diferencia clave: 'I used to have a dog' es CORRECTO (estado). 'I would have a dog' es INCORRECTO para hábito pasado (have = estado). 'I used to/would walk to school' ambos son CORRECTOS (acción). Consejo: si podés usar 'would', también podés usar 'used to', pero no viceversa.",
+    "related": ["b1-used-to", "b2-narrative-tenses"],
+    "tags": ["past", "habits", "modal"]
+  },
+  {
+    "id": "b1-future-continuous",
+    "title": "Future Continuous",
+    "pattern": "Subject + will be + verb-ing",
+    "meaning": "futuro continuo",
+    "level": "b1",
+    "explanation": "El futuro continuo se usa para acciones que estarán en progreso en un momento específico del futuro. También se usa para hablar de planes y arreglos futuros de forma educada o natural, y para preguntar sobre los planes de alguien sin sonar demandante. Se forma con will + be + verbo-ing. En español se traduce como 'estaré + gerundio'.",
+    "examples": [
+      {
+        "sentence": "This time tomorrow, I will be flying to London.",
+        "reading": "",
+        "translation": "Mañana a esta hora, estaré volando a Londres.",
+        "breakdown": ["This time tomorrow = mañana a esta hora", "I will be flying = estaré volando", "to London = a Londres"]
+      },
+      {
+        "sentence": "Will you be using the car tonight? I need it.",
+        "reading": "",
+        "translation": "¿Vas a estar usando el auto esta noche? Lo necesito.",
+        "breakdown": ["Will you be using = vas a estar usando (pregunta educada)", "the car = el auto", "tonight = esta noche", "I need it = lo necesito"]
+      }
+    ],
+    "notes": "Uso educado: 'Will you be attending the meeting?' suena más cortés que 'Are you attending the meeting?' o 'Will you attend the meeting?' porque implica que la acción ya está decidida, sin presionar al interlocutor.",
+    "related": ["a2-will-future", "b2-future-perfect"],
+    "tags": ["tense", "future", "continuous"]
+  },
+  {
+    "id": "b1-relative-clauses-defining",
+    "title": "Relative Clauses (Defining)",
+    "pattern": "noun + who/which/that/where/whose + clause",
+    "meaning": "cláusulas relativas (especificativas)",
+    "level": "b1",
+    "explanation": "Las defining relative clauses identifican exactamente de qué o quién hablamos. Sin la cláusula, la oración pierde sentido o cambia. 'Who' para personas, 'which' para cosas, 'that' para ambos, 'where' para lugares, 'whose' para posesión. NO llevan comas. En estas cláusulas, el pronombre relativo puede omitirse cuando es objeto: 'The book (that) I bought' pero NO cuando es sujeto: 'The man who lives here'.",
+    "examples": [
+      {
+        "sentence": "The woman who works at the bank is my aunt.",
+        "reading": "",
+        "translation": "La mujer que trabaja en el banco es mi tía.",
+        "breakdown": ["The woman = la mujer", "who works = que trabaja (who = sujeto, no se puede omitir)", "at the bank = en el banco", "is my aunt = es mi tía"]
+      },
+      {
+        "sentence": "The book that I lent you was really interesting.",
+        "reading": "",
+        "translation": "El libro que te presté era muy interesante.",
+        "breakdown": ["The book = el libro", "that I lent you = que te presté (that = objeto, se puede omitir)", "was really interesting = era muy interesante"]
+      },
+      {
+        "sentence": "That's the restaurant where we had dinner last night.",
+        "reading": "",
+        "translation": "Ese es el restaurante donde cenamos anoche.",
+        "breakdown": ["That's = ese es", "the restaurant = el restaurante", "where = donde", "we had dinner = cenamos", "last night = anoche"]
+      }
+    ],
+    "notes": "'Whose' indica posesión: 'The girl whose father is a doctor' = la chica cuyo padre es médico. Omisión del pronombre relativo: solo es posible cuando el relativo es OBJETO, no sujeto. 'The man I saw' (correcto, 'the man' es objeto). 'The man lives here' (incorrecto si se omite 'who').",
+    "related": ["a2-relative-clauses", "b1-relative-clauses-non-defining"],
+    "tags": ["clauses", "relative"]
+  },
+  {
+    "id": "b1-relative-clauses-non-defining",
+    "title": "Relative Clauses (Non-defining)",
+    "pattern": "noun + , who/which ... , + rest of sentence",
+    "meaning": "cláusulas relativas (explicativas)",
+    "level": "b1",
+    "explanation": "Las non-defining relative clauses agregan información EXTRA que no es esencial para identificar al sustantivo. Van entre comas. Si se eliminan, la oración todavía tiene sentido completo. NO se puede usar 'that' en non-defining clauses (solo who/which/where/whose). NO se puede omitir el pronombre relativo. Son más comunes en escritura formal que en habla cotidiana.",
+    "examples": [
+      {
+        "sentence": "My brother, who lives in Canada, is coming to visit.",
+        "reading": "",
+        "translation": "Mi hermano, que vive en Canadá, viene a visitarnos.",
+        "breakdown": ["My brother = mi hermano", ", who lives in Canada, = que vive en Canadá (información extra, entre comas)", "is coming to visit = viene a visitarnos"]
+      },
+      {
+        "sentence": "The Eiffel Tower, which was built in 1889, attracts millions of visitors.",
+        "reading": "",
+        "translation": "La Torre Eiffel, que fue construida en 1889, atrae millones de visitantes.",
+        "breakdown": ["The Eiffel Tower = la Torre Eiffel", ", which was built in 1889, = que fue construida en 1889 (información adicional)", "attracts = atrae", "millions of visitors = millones de visitantes"]
+      }
+    ],
+    "notes": "Diferencia crucial: 'My sister who lives in London is a doctor' (defining: tengo varias hermanas, la que vive en Londres es doctora). 'My sister, who lives in London, is a doctor' (non-defining: tengo una sola hermana, y aparte vive en Londres). Las comas cambian el significado.",
+    "related": ["b1-relative-clauses-defining", "b2-advanced-relative-clauses"],
+    "tags": ["clauses", "relative"]
+  },
+  {
+    "id": "b1-verb-patterns-infinitive-gerund",
+    "title": "Verb Patterns: Infinitive vs Gerund",
+    "pattern": "verb + to-infinitive | verb + gerund (-ing) | verb + both (with meaning change)",
+    "meaning": "patrones verbales: infinitivo vs gerundio",
+    "level": "b1",
+    "explanation": "A nivel B1, se profundiza en los verbos que cambian de significado según vayan seguidos de infinitivo o gerundio. 'Stop doing' = dejar de hacer algo. 'Stop to do' = parar para hacer algo. 'Remember doing' = recordar algo que ya hiciste. 'Remember to do' = acordarse de hacer algo (futuro). 'Try doing' = probar algo. 'Try to do' = hacer un esfuerzo. Estos cambios de significado no existen en español, donde 'parar de hacer' y 'parar para hacer' son más explícitos.",
+    "examples": [
+      {
+        "sentence": "I stopped smoking last year. / I stopped to smoke a cigarette.",
+        "reading": "",
+        "translation": "Dejé de fumar el año pasado. / Paré para fumarme un cigarrillo.",
+        "breakdown": ["stopped smoking = dejé de fumar (la acción de fumar terminó)", "stopped to smoke = paré para fumar (paré otra actividad para fumar)"]
+      },
+      {
+        "sentence": "I remember meeting her at the party. / Remember to lock the door.",
+        "reading": "",
+        "translation": "Recuerdo haberla conocido en la fiesta. / Acordate de cerrar la puerta con llave.",
+        "breakdown": ["remember meeting = recuerdo haber conocido (memoria del pasado)", "remember to lock = acordate de cerrar (acción futura)"]
+      },
+      {
+        "sentence": "She tried opening the window, but it was stuck.",
+        "reading": "",
+        "translation": "Probó abrir la ventana, pero estaba trabada.",
+        "breakdown": ["tried opening = probó abrir (experimentó como opción)", "the window = la ventana", "but it was stuck = pero estaba trabada"]
+      }
+    ],
+    "notes": "Otros verbos con cambio de significado: 'forget doing' (olvidar que hiciste algo) vs 'forget to do' (olvidarte de hacer algo). 'Regret doing' (lamentar algo hecho) vs 'regret to say' (lamento informar). 'Go on doing' (seguir haciendo lo mismo) vs 'go on to do' (pasar a hacer otra cosa).",
+    "related": ["a2-gerund-infinitive"],
+    "tags": ["verb-patterns", "gerund", "infinitive"]
+  },
+  {
+    "id": "b1-so-such-that",
+    "title": "So / Such ... that",
+    "pattern": "so + adjective/adverb + that | such + (a/an) + adjective + noun + that",
+    "meaning": "tan... que / tal... que (intensificadores con resultado)",
+    "level": "b1",
+    "explanation": "'So' va antes de un adjetivo o adverbio solo: 'so tired that...'. 'Such' va antes de un sustantivo (con o sin adjetivo): 'such a good book that...'. Ambos expresan intensidad con una consecuencia. En español los dos se traducen como 'tan... que' o 'tal... que'. La cláusula con 'that' expresa el resultado. 'That' puede omitirse en lenguaje informal.",
+    "examples": [
+      {
+        "sentence": "The movie was so boring that I fell asleep.",
+        "reading": "",
+        "translation": "La película era tan aburrida que me quedé dormido.",
+        "breakdown": ["The movie was = la película era", "so boring = tan aburrida", "that = que", "I fell asleep = me quedé dormido"]
+      },
+      {
+        "sentence": "It was such a beautiful day that we decided to go to the beach.",
+        "reading": "",
+        "translation": "Era un día tan lindo que decidimos ir a la playa.",
+        "breakdown": ["It was = era", "such a beautiful day = un día tan lindo", "that = que", "we decided = decidimos", "to go to the beach = ir a la playa"]
+      },
+      {
+        "sentence": "He spoke so quickly that nobody could understand him.",
+        "reading": "",
+        "translation": "Habló tan rápido que nadie pudo entenderlo.",
+        "breakdown": ["He spoke = habló", "so quickly = tan rápido (so + adverbio)", "that nobody could understand = que nadie pudo entender", "him = lo"]
+      }
+    ],
+    "notes": "Regla: so + adj/adv (so tired, so quickly). Such + noun phrase (such a mess, such nice people). Con sustantivos plurales o incontables NO se usa 'a/an': 'such nice people', 'such good weather'. Error común: 'It was a so good movie' -> CORRECTO: 'It was such a good movie' o 'The movie was so good'.",
+    "related": ["b1-too-enough"],
+    "tags": ["intensifiers", "result"]
+  },
+  {
+    "id": "b1-too-enough",
+    "title": "Too / Enough",
+    "pattern": "too + adjective + to | adjective + enough + to | enough + noun",
+    "meaning": "demasiado... para / suficientemente... para",
+    "level": "b1",
+    "explanation": "A nivel B1 se profundiza 'too' y 'enough' con cláusulas de resultado usando 'to + infinitivo' y 'for + persona'. 'Too + adj + to' indica que algo es excesivo para un propósito. 'Adj + enough + to' indica que algo es suficiente para un propósito. 'Enough' va después de adjetivos/adverbios pero ANTES de sustantivos. Se puede agregar 'for + persona' para especificar para quién.",
+    "examples": [
+      {
+        "sentence": "This suitcase is too heavy for me to carry.",
+        "reading": "",
+        "translation": "Esta maleta es demasiado pesada para que yo la lleve.",
+        "breakdown": ["This suitcase = esta maleta", "is too heavy = es demasiado pesada", "for me = para mí/que yo", "to carry = llevar/cargar"]
+      },
+      {
+        "sentence": "She is old enough to make her own decisions.",
+        "reading": "",
+        "translation": "Es lo suficientemente grande como para tomar sus propias decisiones.",
+        "breakdown": ["She is = ella es", "old enough = lo suficientemente grande", "to make = para tomar", "her own decisions = sus propias decisiones"]
+      },
+      {
+        "sentence": "There aren't enough chairs for everyone to sit down.",
+        "reading": "",
+        "translation": "No hay suficientes sillas para que todos se sienten.",
+        "breakdown": ["There aren't = no hay", "enough chairs = suficientes sillas (enough antes del sustantivo)", "for everyone = para que todos", "to sit down = se sienten"]
+      }
+    ],
+    "notes": "'Too' tiene sentido negativo (exceso que impide algo): 'too tired to study' = tan cansado que no puede estudiar. No confundir con 'very' que es neutro: 'very tired' = muy cansado (sin implicar que no puede hacer algo).",
+    "related": ["a2-too-enough", "b1-so-such-that"],
+    "tags": ["degree", "adjectives", "result"]
+  },
+  {
+    "id": "b1-have-something-done",
+    "title": "Have Something Done (Causative)",
+    "pattern": "Subject + have/get + object + past participle",
+    "meaning": "hacer que alguien haga algo / mandar a hacer",
+    "level": "b1",
+    "explanation": "La estructura causativa se usa cuando otra persona hace algo por nosotros, generalmente un servicio profesional. 'I had my hair cut' = me corté el pelo (alguien me lo cortó, no yo mismo). Se forma con have + objeto + participio pasado. 'Get' puede reemplazar a 'have' en contextos más informales. En español decimos 'me corté el pelo' o 'mandé a arreglar el auto', que son menos explícitos sobre quién hace la acción.",
+    "examples": [
+      {
+        "sentence": "I had my car repaired last week.",
+        "reading": "",
+        "translation": "Mandé a arreglar mi auto la semana pasada.",
+        "breakdown": ["I had = mandé a (causativo)", "my car = mi auto", "repaired = arreglar/reparado", "last week = la semana pasada"]
+      },
+      {
+        "sentence": "She's getting her nails done at the salon.",
+        "reading": "",
+        "translation": "Se está haciendo las uñas en el salón.",
+        "breakdown": ["She's getting = se está haciendo (causativo informal)", "her nails = sus uñas", "done = hacer", "at the salon = en el salón"]
+      },
+      {
+        "sentence": "You should have your eyes tested.",
+        "reading": "",
+        "translation": "Deberías hacerte revisar la vista.",
+        "breakdown": ["You should have = deberías mandar a (causativo con modal)", "your eyes = tus ojos/tu vista", "tested = revisar/examinar"]
+      }
+    ],
+    "notes": "No confundir: 'I cut my hair' (yo mismo me lo corté) vs 'I had my hair cut' (alguien me lo cortó). También se usa para experiencias negativas: 'I had my wallet stolen' (me robaron la billetera). En este caso no lo 'mandamos a hacer', sino que nos pasó.",
+    "related": ["b1-simple-passive"],
+    "tags": ["causative", "services"]
+  },
+  {
+    "id": "b1-wish-past-simple",
+    "title": "Wish + Past Simple",
+    "pattern": "Subject + wish + subject + past simple",
+    "meaning": "ojalá / desearía (situaciones presentes irreales)",
+    "level": "b1",
+    "explanation": "'Wish + past simple' se usa para expresar deseos sobre el presente: cosas que queremos que sean diferentes AHORA pero no lo son. Aunque se usa el pasado simple, NO se refiere al pasado. Es un uso irreal del pasado, igual que en el segundo condicional. Con 'to be', la forma formal es 'were' para todas las personas: 'I wish I were taller'. En español se traduce como 'ojalá' + subjuntivo o 'desearía que' + subjuntivo.",
+    "examples": [
+      {
+        "sentence": "I wish I spoke better English.",
+        "reading": "",
+        "translation": "Ojalá hablara mejor inglés.",
+        "breakdown": ["I wish = ojalá/desearía", "I spoke = hablara (pasado simple = presente irreal)", "better English = mejor inglés"]
+      },
+      {
+        "sentence": "She wishes she didn't have to work on Saturdays.",
+        "reading": "",
+        "translation": "Ella desearía no tener que trabajar los sábados.",
+        "breakdown": ["She wishes = ella desearía", "she didn't have to = no tuviera que", "work = trabajar", "on Saturdays = los sábados"]
+      },
+      {
+        "sentence": "I wish I were taller.",
+        "reading": "",
+        "translation": "Ojalá fuera más alto.",
+        "breakdown": ["I wish = ojalá", "I were = fuera (forma formal con 'were')", "taller = más alto"]
+      }
+    ],
+    "notes": "Tres estructuras con 'wish': wish + past simple (presente irreal: 'I wish I knew'), wish + past perfect (pasado irreal: 'I wish I had known' -> B2), wish + would (queja/pedido: 'I wish you would stop' -> frustración con situación que no cambia).",
+    "related": ["b1-second-conditional", "b2-wish-past-perfect", "b2-unreal-past"],
+    "tags": ["wish", "hypothetical", "subjunctive"]
+  }
+]

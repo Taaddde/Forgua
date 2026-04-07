@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a1-18",
+  "title": "Past Simple: Regular Verbs (-ed)",
+  "description": "El pasado regular se forma con -ed. Lo difícil no es la gramática sino la PRONUNCIACIÓN: -ed suena /t/, /d/ o /ɪd/ según el verbo. Esta distinción no existe en español.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "verb + -ed: work → worked, play → played, want → wanted",
+      "back": "verbo + -ed: trabajar → trabajé, jugar → jugué, querer → quise",
+      "reading": "/wɜːrkt/ /pleɪd/ /ˈwɑːntɪd/",
+      "explanation": "La regla básica: para formar el pasado de verbos regulares, agregá -ed. Esto funciona para TODAS las personas: I worked, you worked, she worked, they worked. ¡Mucho más simple que el español donde cada persona tiene terminación distinta!",
+      "cardRef": { "category": "grammar", "front": "past simple -ed rule" }
+    },
+    {
+      "front": "Spelling: study → studied (y→ied), stop → stopped (double consonant), live → lived (just +d)",
+      "back": "Ortografía: study → studied, stop → stopped, live → lived",
+      "reading": "/ˈstʌdid/ /stɑːpt/ /lɪvd/",
+      "explanation": "Reglas ortográficas: (1) Consonante + y → cambiar y por ied: study→studied, carry→carried. (2) Vocal corta acentuada + consonante → duplicar consonante: stop→stopped, plan→planned. (3) Termina en -e → solo agregar -d: live→lived, dance→danced.",
+      "cardRef": { "category": "grammar", "front": "past simple -ed spelling" }
+    },
+    {
+      "front": "Pronunciation /t/: worked, walked, watched, stopped, laughed",
+      "back": "Pronunciación /t/: después de sonidos sordos",
+      "reading": "/wɜːrkt/ /wɔːkt/ /wɑːtʃt/ /stɑːpt/ /læft/",
+      "explanation": "Después de sonidos SORDOS (p, k, f, s, sh, ch), la -ed se pronuncia /t/. 'Worked' suena /wɜːrkt/ (no /wɜːrkɛd/). Es rápido y seco: la -ed casi no se escucha. Los hispanohablantes tienden a pronunciar 'work-ED' como dos sílabas, pero es solo una: /wɜːrkt/.",
+      "cardRef": { "category": "grammar", "front": "-ed pronunciation /t/" }
+    },
+    {
+      "front": "Pronunciation /d/: played, opened, called, rained, loved",
+      "back": "Pronunciación /d/: después de sonidos sonoros",
+      "reading": "/pleɪd/ /ˈoʊpənd/ /kɔːld/ /reɪnd/ /lʌvd/",
+      "explanation": "Después de sonidos SONOROS (b, g, v, z, m, n, l, r y todas las vocales), la -ed se pronuncia /d/. 'Played' suena /pleɪd/ (no /pleɪɛd/). 'Called' suena /kɔːld/. También es una sola sílaba — no se agrega sílaba extra.",
+      "cardRef": { "category": "grammar", "front": "-ed pronunciation /d/" }
+    },
+    {
+      "front": "Pronunciation /ɪd/: wanted, needed, started, decided, visited",
+      "back": "Pronunciación /ɪd/: después de t o d",
+      "reading": "/ˈwɑːntɪd/ /ˈniːdɪd/ /ˈstɑːrtɪd/ /dɪˈsaɪdɪd/ /ˈvɪzɪtɪd/",
+      "explanation": "SOLO cuando el verbo termina en sonido /t/ o /d/, la -ed se pronuncia como sílaba extra /ɪd/. 'Want-ed' /ˈwɑːntɪd/ (2 sílabas), 'need-ed' /ˈniːdɪd/ (2 sílabas). Tiene sentido: no podés decir /wɑːntt/ — necesitás la vocal extra.",
+      "cardRef": { "category": "grammar", "front": "-ed pronunciation /ɪd/" }
+    },
+    {
+      "front": "I didn't work. / Did you work? — Yes, I did. / No, I didn't.",
+      "back": "No trabajé. / ¿Trabajaste? — Sí. / No.",
+      "reading": "/aɪ ˈdɪdənt wɜːrk/ /dɪd juː wɜːrk/",
+      "explanation": "Negativo: didn't (did not) + verbo BASE (sin -ed). 'I didn't work' (NO 'I didn't worked'). Preguntas: Did + sujeto + verbo BASE. 'Did you work?' (NO 'Did you worked?'). Igual que con do/does en presente: el auxiliar absorbe la marca de tiempo.",
+      "cardRef": { "category": "grammar", "front": "past simple negative/questions" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Regla básica: agregar -ed",
+      "instruction": "El pasado de verbos regulares se forma agregando -ed: work→worked, play→played, want→wanted. Y la mejor parte: es IGUAL para todas las personas (I worked, she worked, they worked). Mucho más simple que en español. Pero hay reglas ortográficas: study→studied (y→ied), stop→stopped (consonante doble), live→lived (solo +d).",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Las 3 pronunciaciones de -ed",
+      "instruction": "Esto es lo realmente difícil para hispanohablantes. La -ed tiene 3 pronunciaciones: /t/ después de sonido sordo (worked /wɜːrkt/), /d/ después de sonido sonoro (played /pleɪd/), /ɪd/ después de t o d (wanted /ˈwɑːntɪd/). Los hispanohablantes tienden a siempre decir /ɛd/ como sílaba extra, pero 'worked' es UNA sílaba, no dos.",
+      "itemIndices": [2, 3, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "Negaciones y preguntas con did",
+      "instruction": "Para negar: didn't + verbo BASE (sin -ed). 'I didn't work' (NO 'I didn't worked'). Para preguntar: Did + sujeto + verbo BASE. 'Did you work?' (NO 'Did you worked?'). El auxiliar 'did' ya marca el pasado, así que el verbo principal va en forma base.",
+      "itemIndices": [5]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es la forma correcta?",
+      "instruction": "Elegí la forma correcta del pasado para cada verbo. Prestá atención a la ortografía.",
+      "itemIndices": [0, 1, 5]
+    },
+    {
+      "type": "listen-identify",
+      "title": "¿/t/, /d/ o /ɪd/? Identificá la pronunciación",
+      "instruction": "Escuchá (o pensá en) la pronunciación de cada verbo en pasado y clasificalo: ¿la -ed suena /t/, /d/ o /ɪd/? Recordá: /t/ después de sonido sordo, /d/ después de sonoro, /ɪd/ después de t/d.",
+      "itemIndices": [2, 3, 4]
+    },
+    {
+      "type": "recall",
+      "title": "Escribí el pasado",
+      "instruction": "Ves el verbo en infinitivo. Escribí su forma en pasado simple (-ed) con la ortografía correcta.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Resumen: Pasado regular = verbo + ed. Ortografía: consonante+y→ied (studied), vocal corta+consonante→duplicar (stopped), termina en e→solo d (lived). PRONUNCIACIÓN: /t/ tras sordo (worked), /d/ tras sonoro (played), /ɪd/ tras t/d (wanted). Negativo: didn't + verbo base. Preguntas: Did + sujeto + verbo base. NUNCA 'didn't worked' ni 'Did you worked?'.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

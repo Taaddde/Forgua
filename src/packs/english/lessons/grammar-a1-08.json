@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a1-08",
+  "title": "Present Simple: Habits & Routines",
+  "description": "El Present Simple se usa para hábitos y rutinas. Cuidado con la tercera persona: 'I work' pero 'She works'. Y las preguntas/negaciones usan do/does.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "I/You/We/They work every day.",
+      "back": "Yo trabajo / Vos trabajás / Nosotros trabajamos / Ellos trabajan todos los días.",
+      "reading": "/aɪ wɜːrk ˈɛvri deɪ/",
+      "explanation": "Con I, you, we, they → el verbo va SIN cambios. 'I work', 'They eat', 'We live'. En español conjugamos para cada persona; en inglés, la base form sirve para casi todas.",
+      "cardRef": { "category": "grammar", "front": "present simple base form" }
+    },
+    {
+      "front": "He/She/It works every day.",
+      "back": "Él/Ella trabaja todos los días.",
+      "reading": "/ʃiː wɜːrks ˈɛvri deɪ/",
+      "explanation": "Con he, she, it → se agrega -S al verbo. 'She works', 'He eats', 'It rains'. ERROR MUY COMÚN de hispanohablantes: olvidarse de la -s. 'She work' está MAL. Reglas especiales: -es después de -s, -sh, -ch, -x (watches, goes); consonante+y → -ies (study→studies).",
+      "cardRef": { "category": "grammar", "front": "present simple third person -s" }
+    },
+    {
+      "front": "I don't work on Sundays. / She doesn't work on Sundays.",
+      "back": "No trabajo los domingos. / Ella no trabaja los domingos.",
+      "reading": "/aɪ doʊnt wɜːrk/ — /ʃiː ˈdʌzənt wɜːrk/",
+      "explanation": "Negativo: do not (don't) + verbo base para I/you/we/they. Does not (doesn't) + verbo base para he/she/it. CUIDADO: después de 'doesn't', el verbo vuelve a la forma base: 'She doesn't work' (NO 'She doesn't works').",
+      "cardRef": { "category": "grammar", "front": "present simple negative" }
+    },
+    {
+      "front": "Do you work here? / Does she work here?",
+      "back": "¿Trabajás acá? / ¿Ella trabaja acá?",
+      "reading": "/duː juː wɜːrk hɪr/ — /dʌz ʃiː wɜːrk hɪr/",
+      "explanation": "Preguntas: Do + I/you/we/they + verbo base. Does + he/she/it + verbo base. En español simplemente cambiamos la entonación ('¿Trabajás acá?'). En inglés necesitás el auxiliar do/does. Después de 'does', verbo SIN -s: 'Does she work?' (NO 'Does she works?').",
+      "cardRef": { "category": "grammar", "front": "present simple questions" }
+    },
+    {
+      "front": "every day / on Mondays / usually / always / never",
+      "back": "todos los días / los lunes / generalmente / siempre / nunca",
+      "reading": "/ˈɛvri deɪ/ /ɑːn ˈmʌndeɪz/ /ˈjuːʒuəli/ /ˈɔːlweɪz/ /ˈnɛvər/",
+      "explanation": "Marcadores de frecuencia que indican Present Simple (hábitos). 'I always drink coffee' (siempre, hábito). Los adverbios (always, usually, never) van ANTES del verbo principal pero DESPUÉS de 'to be': 'She always works' pero 'She is always happy'.",
+      "cardRef": { "category": "grammar", "front": "frequency markers (present simple)" }
+    },
+    {
+      "front": "I work at a hospital. (habit) vs. I am working right now. (this moment)",
+      "back": "Trabajo en un hospital. (hábito) vs. Estoy trabajando ahora mismo. (este momento)",
+      "reading": "/aɪ wɜːrk/ vs. /aɪ æm ˈwɜːrkɪŋ/",
+      "explanation": "Present Simple = hábitos, rutinas, verdades generales ('I work at a hospital' = es mi empleo habitual). Present Continuous = lo que pasa AHORA MISMO ('I am working' = en este momento). En español a veces usamos el mismo tiempo para ambos, pero en inglés es una distinción fundamental.",
+      "cardRef": { "category": "grammar", "front": "present simple vs continuous" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Present Simple: para hábitos y rutinas",
+      "instruction": "El Present Simple se usa para cosas que hacés regularmente (hábitos) o que son verdades generales. 'I work every day', 'She lives in Buenos Aires', 'Water boils at 100°C'. La estructura es simple: sujeto + verbo. Pero con he/she/it, el verbo lleva -s: 'She works'.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Negaciones y preguntas con do/does",
+      "instruction": "En español, para negar decimos 'No trabajo'. En inglés necesitás un auxiliar: 'I don't work' o 'She doesn't work'. Para preguntas: 'Do you work?' o 'Does she work?'. Después de 'doesn't' y 'does', el verbo va SIN -s (la -s ya está absorbida en 'does').",
+      "itemIndices": [2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Present Simple vs Present Continuous",
+      "instruction": "Diferencia clave: 'I work' (hábito, todos los días) vs 'I am working' (ahora mismo). Las palabras de frecuencia (always, usually, every day) son pistas de que necesitás Present Simple.",
+      "itemIndices": [4, 5]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es la forma correcta?",
+      "instruction": "Elegí la opción correcta para cada oración. Prestá atención a la tercera persona singular y al uso de do/does.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "recall",
+      "title": "Completá la oración",
+      "instruction": "Ves la oración incompleta. Escribí la forma correcta del verbo en Present Simple.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá oraciones en Present Simple",
+      "instruction": "Ordená las palabras para formar oraciones correctas en Present Simple.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Resumen: Present Simple = hábitos y rutinas. Con I/you/we/they → verbo base ('I work'). Con he/she/it → verbo + s ('She works'). Negativo: don't/doesn't + verbo base. Preguntas: Do/Does + sujeto + verbo base. Marcadores: always, usually, every day, on Mondays. Y NO lo confundas con Present Continuous (am/is/are + -ing) que es para AHORA MISMO.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

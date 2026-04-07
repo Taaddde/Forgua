@@ -1,0 +1,83 @@
+{
+  "id": "grammar-a2-02",
+  "title": "Present Perfect: Have you ever...?",
+  "description": "El present perfect (have/has + participio) se usa para experiencias, tiempo no terminado y resultados presentes. Los hispanohablantes tienden a confundirlo con el pretérito perfecto español, que tiene usos diferentes.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "have/has + past participle",
+      "back": "he/has/ha + participio (pero NO se usa igual que en español)",
+      "reading": "",
+      "explanation": "Estructura: sujeto + have/has + participio pasado. 'I have visited Paris.' 'She has eaten sushi.' Has = tercera persona (he/she/it). Have = todos los demás. Contracción: I've, you've, he's, she's, we've, they've.",
+      "cardRef": { "category": "grammar", "front": "have/has + past participle" }
+    },
+    {
+      "front": "Have you ever + past participle?",
+      "back": "¿Alguna vez has + participio?",
+      "reading": "",
+      "explanation": "Para preguntar sobre experiencias de vida (sin especificar cuándo). 'Have you ever been to Japan?' = ¿Alguna vez estuviste en Japón? Respuestas: 'Yes, I have.' / 'No, I haven't.' / 'No, never.'",
+      "cardRef": { "category": "grammar", "front": "Have you ever + past participle?" }
+    },
+    {
+      "front": "I have never + past participle",
+      "back": "Nunca he + participio",
+      "reading": "",
+      "explanation": "'Never' va entre have/has y el participio. 'I have never seen snow.' = Nunca vi/he visto nieve. OJO: con 'never' NO se usa 'not' — 'I have never' (no 'I haven't never', eso es doble negación).",
+      "cardRef": { "category": "grammar", "front": "I have never + past participle" }
+    },
+    {
+      "front": "I have seen that movie (this week).",
+      "back": "Vi / He visto esa película (esta semana).",
+      "reading": "",
+      "explanation": "Tiempo no terminado: usamos present perfect con 'today', 'this week', 'this year' porque el período aún no terminó. 'I have had three coffees today.' = Tomé tres cafés hoy (y el día sigue). Cuando el período termina → past simple: 'I had three coffees yesterday.'",
+      "cardRef": { "category": "grammar", "front": "I have seen that movie (this week)." }
+    },
+    {
+      "front": "I have lost my keys (= I can't find them NOW).",
+      "back": "Perdí mis llaves (= no las encuentro AHORA).",
+      "reading": "",
+      "explanation": "Resultado en el presente: la acción pasó antes, pero el RESULTADO importa ahora. 'I have lost my keys' = las perdí y AHORA no las tengo. 'She has broken her leg' = se la rompió y AHORA tiene yeso. El foco está en la consecuencia presente.",
+      "cardRef": { "category": "grammar", "front": "I have lost my keys (= I can't find them NOW)." }
+    },
+    {
+      "front": "I have seen him yesterday. ✗ WRONG",
+      "back": "ERROR: con tiempo específico (yesterday) se usa past simple → I SAW him yesterday. ✓",
+      "reading": "",
+      "explanation": "ERROR TÍPICO de hispanohablantes: en español 'He visto' y 'Vi' son casi intercambiables. En inglés NO. Si hay tiempo específico (yesterday, last week, in 2020, when I was young) → SIEMPRE past simple. 'I saw him yesterday' ✓. 'I have seen him yesterday' ✗. Esta diferencia es la trampa #1.",
+      "cardRef": { "category": "grammar", "front": "I have seen him yesterday. ✗ WRONG" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "¿Qué es el present perfect?",
+      "instruction": "La estructura es simple: have/has + participio pasado (been, seen, eaten, visited...). Pero ¡cuidado! Aunque se parece al 'he visto/he comido' del español, en inglés tiene reglas muy distintas sobre CUÁNDO usarlo. Mirá los tres usos principales.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Tiempo no terminado y resultado presente",
+      "instruction": "El present perfect conecta el pasado con el presente. Se usa cuando el período de tiempo no terminó ('this week') o cuando el resultado importa ahora ('I have lost my keys' = ahora no las tengo). Y la regla de oro: NUNCA con tiempo específico.",
+      "itemIndices": [3, 4, 5]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Present perfect o past simple?",
+      "instruction": "Elegí si la oración necesita present perfect o past simple. Preguntate: ¿hay un tiempo específico? ¿El período terminó?",
+      "itemIndices": [0, 1, 3, 4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "Formá oraciones en present perfect",
+      "instruction": "Escribí la oración completa usando have/has + participio pasado.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste el present perfect: have/has + participio. Tres usos: (1) experiencias con ever/never, (2) tiempo no terminado (today, this week), (3) resultado presente. Regla de oro: NUNCA con yesterday, last week, in 2020. Eso es past simple. Siguiente lección: Present Perfect vs Past Simple en detalle.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

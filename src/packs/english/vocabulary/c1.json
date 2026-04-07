@@ -1,0 +1,752 @@
+[
+  {
+    "word": "elaborate",
+    "reading": "/ɪˈlæbərət/",
+    "meanings": ["elaborar", "desarrollar", "detallado"],
+    "pos": "verb",
+    "level": "c1",
+    "tags": ["academic", "formal register", "cognate"],
+    "examples": [
+      {
+        "text": "Could you elaborate on the methodology you used in your research?",
+        "reading": "",
+        "translation": "¿Podrías elaborar sobre la metodología que usaste en tu investigación?"
+      }
+    ]
+  },
+  {
+    "word": "implement",
+    "reading": "/ˈɪmpləˌmɛnt/",
+    "meanings": ["implementar", "poner en práctica"],
+    "pos": "verb",
+    "level": "c1",
+    "tags": ["academic", "formal register", "cognate"],
+    "examples": [
+      {
+        "text": "The government plans to implement new regulations by next quarter.",
+        "reading": "",
+        "translation": "El gobierno planea implementar nuevas regulaciones para el próximo trimestre."
+      }
+    ]
+  },
+  {
+    "word": "undermine",
+    "reading": "/ˌʌndərˈmaɪn/",
+    "meanings": ["socavar", "debilitar", "minar"],
+    "pos": "verb",
+    "level": "c1",
+    "tags": ["academic", "formal register"],
+    "examples": [
+      {
+        "text": "Spreading misinformation can undermine public trust in institutions.",
+        "reading": "",
+        "translation": "Difundir desinformación puede socavar la confianza pública en las instituciones."
+      }
+    ]
+  },
+  {
+    "word": "inherent",
+    "reading": "/ɪnˈhɪrənt/",
+    "meanings": ["inherente", "intrínseco"],
+    "pos": "adjective",
+    "level": "c1",
+    "tags": ["academic", "formal register", "cognate"],
+    "examples": [
+      {
+        "text": "There are inherent risks in any investment strategy.",
+        "reading": "",
+        "translation": "Hay riesgos inherentes en cualquier estrategia de inversión."
+      }
+    ]
+  },
+  {
+    "word": "prevail",
+    "reading": "/prɪˈveɪl/",
+    "meanings": ["prevalecer", "imponerse", "predominar"],
+    "pos": "verb",
+    "level": "c1",
+    "tags": ["academic", "formal register", "cognate"],
+    "examples": [
+      {
+        "text": "Justice will prevail if we remain committed to the truth.",
+        "reading": "",
+        "translation": "La justicia prevalecerá si nos mantenemos comprometidos con la verdad."
+      }
+    ]
+  },
+  {
+    "word": "constitute",
+    "reading": "/ˈkɑːnstəˌtuːt/",
+    "meanings": ["constituir", "representar"],
+    "pos": "verb",
+    "level": "c1",
+    "tags": ["academic", "formal register", "cognate"],
+    "examples": [
+      {
+        "text": "These findings constitute a major breakthrough in cancer research.",
+        "reading": "",
+        "translation": "Estos hallazgos constituyen un gran avance en la investigación del cáncer."
+      }
+    ]
+  },
+  {
+    "word": "attribute",
+    "reading": "/əˈtrɪbjuːt/",
+    "meanings": ["atribuir", "atributo"],
+    "pos": "verb",
+    "level": "c1",
+    "tags": ["academic", "formal register", "cognate"],
+    "examples": [
+      {
+        "text": "Historians attribute the fall of the empire to internal corruption.",
+        "reading": "",
+        "translation": "Los historiadores atribuyen la caída del imperio a la corrupción interna."
+      }
+    ]
+  },
+  {
+    "word": "facilitate",
+    "reading": "/fəˈsɪləˌteɪt/",
+    "meanings": ["facilitar", "posibilitar"],
+    "pos": "verb",
+    "level": "c1",
+    "tags": ["academic", "formal register", "cognate"],
+    "examples": [
+      {
+        "text": "Technology can facilitate communication between remote teams.",
+        "reading": "",
+        "translation": "La tecnología puede facilitar la comunicación entre equipos remotos."
+      }
+    ]
+  },
+  {
+    "word": "infer",
+    "reading": "/ɪnˈfɜːr/",
+    "meanings": ["inferir", "deducir"],
+    "pos": "verb",
+    "level": "c1",
+    "tags": ["academic", "formal register", "cognate"],
+    "examples": [
+      {
+        "text": "From the data, we can infer that the treatment is effective.",
+        "reading": "",
+        "translation": "A partir de los datos, podemos inferir que el tratamiento es efectivo."
+      }
+    ]
+  },
+  {
+    "word": "empirical",
+    "reading": "/ɛmˈpɪrɪkəl/",
+    "meanings": ["empírico", "basado en la experiencia"],
+    "pos": "adjective",
+    "level": "c1",
+    "tags": ["academic", "formal register", "cognate"],
+    "examples": [
+      {
+        "text": "The theory lacks empirical evidence to support its claims.",
+        "reading": "",
+        "translation": "La teoría carece de evidencia empírica para respaldar sus afirmaciones."
+      }
+    ]
+  },
+  {
+    "word": "nevertheless",
+    "reading": "/ˌnɛvərðəˈlɛs/",
+    "meanings": ["sin embargo", "no obstante", "aun así"],
+    "pos": "adverb",
+    "level": "c1",
+    "tags": ["argumentation", "linking words", "formal register"],
+    "examples": [
+      {
+        "text": "The experiment failed; nevertheless, the team gained valuable insights.",
+        "reading": "",
+        "translation": "El experimento falló; sin embargo, el equipo obtuvo información valiosa."
+      }
+    ]
+  },
+  {
+    "word": "whereas",
+    "reading": "/wɛrˈæz/",
+    "meanings": ["mientras que", "en cambio"],
+    "pos": "adverb",
+    "level": "c1",
+    "tags": ["argumentation", "linking words", "contrast"],
+    "examples": [
+      {
+        "text": "Some students prefer lectures, whereas others learn better through discussion.",
+        "reading": "",
+        "translation": "Algunos estudiantes prefieren las clases magistrales, mientras que otros aprenden mejor a través de la discusión."
+      }
+    ]
+  },
+  {
+    "word": "allegedly",
+    "reading": "/əˈlɛdʒɪdli/",
+    "meanings": ["supuestamente", "presuntamente"],
+    "pos": "adverb",
+    "level": "c1",
+    "tags": ["argumentation", "nuance", "media"],
+    "examples": [
+      {
+        "text": "The company allegedly dumped toxic waste into the river.",
+        "reading": "",
+        "translation": "La empresa supuestamente vertió residuos tóxicos en el río."
+      }
+    ]
+  },
+  {
+    "word": "arguably",
+    "reading": "/ˈɑːrɡjuəbli/",
+    "meanings": ["posiblemente", "podría decirse que"],
+    "pos": "adverb",
+    "level": "c1",
+    "tags": ["argumentation", "nuance", "opinion"],
+    "examples": [
+      {
+        "text": "She is arguably the most influential scientist of the 21st century.",
+        "reading": "",
+        "translation": "Podría decirse que es la científica más influyente del siglo XXI."
+      }
+    ]
+  },
+  {
+    "word": "notwithstanding",
+    "reading": "/ˌnɑːtwɪθˈstændɪŋ/",
+    "meanings": ["a pesar de", "no obstante"],
+    "pos": "adverb",
+    "level": "c1",
+    "tags": ["argumentation", "linking words", "formal register"],
+    "examples": [
+      {
+        "text": "Notwithstanding the challenges, the project was completed on time.",
+        "reading": "",
+        "translation": "A pesar de los desafíos, el proyecto se completó a tiempo."
+      }
+    ]
+  },
+  {
+    "word": "subtle",
+    "reading": "/ˈsʌtəl/",
+    "meanings": ["sutil", "tenue"],
+    "pos": "adjective",
+    "level": "c1",
+    "tags": ["argumentation", "nuance", "description"],
+    "examples": [
+      {
+        "text": "There is a subtle difference between the two proposals that most people miss.",
+        "reading": "",
+        "translation": "Hay una diferencia sutil entre las dos propuestas que la mayoría de la gente no nota."
+      }
+    ]
+  },
+  {
+    "word": "ambiguous",
+    "reading": "/æmˈbɪɡjuəs/",
+    "meanings": ["ambiguo", "equívoco"],
+    "pos": "adjective",
+    "level": "c1",
+    "tags": ["argumentation", "nuance", "cognate"],
+    "examples": [
+      {
+        "text": "The contract language was deliberately ambiguous to avoid commitment.",
+        "reading": "",
+        "translation": "El lenguaje del contrato era deliberadamente ambiguo para evitar compromisos."
+      }
+    ]
+  },
+  {
+    "word": "coherent",
+    "reading": "/koʊˈhɪrənt/",
+    "meanings": ["coherente", "lógico"],
+    "pos": "adjective",
+    "level": "c1",
+    "tags": ["argumentation", "nuance", "cognate"],
+    "examples": [
+      {
+        "text": "Your argument needs to be more coherent if you want to persuade the committee.",
+        "reading": "",
+        "translation": "Tu argumento necesita ser más coherente si quieres persuadir al comité."
+      }
+    ]
+  },
+  {
+    "word": "account for",
+    "reading": "/əˈkaʊnt fɔːr/",
+    "meanings": ["representar", "explicar", "dar cuenta de"],
+    "pos": "verb",
+    "level": "c1",
+    "tags": ["phrasal verb", "academic"],
+    "examples": [
+      {
+        "text": "Renewable energy now accounts for 30% of the country's electricity.",
+        "reading": "",
+        "translation": "La energía renovable ahora representa el 30% de la electricidad del país."
+      }
+    ]
+  },
+  {
+    "word": "boil down to",
+    "reading": "/bɔɪl daʊn tuː/",
+    "meanings": ["reducirse a", "resumirse en"],
+    "pos": "verb",
+    "level": "c1",
+    "tags": ["phrasal verb", "informal"],
+    "examples": [
+      {
+        "text": "The whole debate boils down to a question of priorities.",
+        "reading": "",
+        "translation": "Todo el debate se reduce a una cuestión de prioridades."
+      }
+    ]
+  },
+  {
+    "word": "phase out",
+    "reading": "/feɪz aʊt/",
+    "meanings": ["eliminar gradualmente", "retirar progresivamente"],
+    "pos": "verb",
+    "level": "c1",
+    "tags": ["phrasal verb", "business"],
+    "examples": [
+      {
+        "text": "The manufacturer plans to phase out the older model by next year.",
+        "reading": "",
+        "translation": "El fabricante planea eliminar gradualmente el modelo anterior para el próximo año."
+      }
+    ]
+  },
+  {
+    "word": "stem from",
+    "reading": "/stɛm frɑːm/",
+    "meanings": ["derivarse de", "provenir de", "tener su origen en"],
+    "pos": "verb",
+    "level": "c1",
+    "tags": ["phrasal verb", "academic"],
+    "examples": [
+      {
+        "text": "Many of these problems stem from a lack of proper planning.",
+        "reading": "",
+        "translation": "Muchos de estos problemas se derivan de una falta de planificación adecuada."
+      }
+    ]
+  },
+  {
+    "word": "rule out",
+    "reading": "/ruːl aʊt/",
+    "meanings": ["descartar", "excluir"],
+    "pos": "verb",
+    "level": "c1",
+    "tags": ["phrasal verb", "decision-making"],
+    "examples": [
+      {
+        "text": "The doctors have ruled out the possibility of a viral infection.",
+        "reading": "",
+        "translation": "Los médicos han descartado la posibilidad de una infección viral."
+      }
+    ]
+  },
+  {
+    "word": "opt for",
+    "reading": "/ɑːpt fɔːr/",
+    "meanings": ["optar por", "elegir"],
+    "pos": "verb",
+    "level": "c1",
+    "tags": ["phrasal verb", "decision-making"],
+    "examples": [
+      {
+        "text": "More consumers are opting for sustainable products these days.",
+        "reading": "",
+        "translation": "Más consumidores están optando por productos sostenibles hoy en día."
+      }
+    ]
+  },
+  {
+    "word": "come up with",
+    "reading": "/kʌm ʌp wɪð/",
+    "meanings": ["idear", "ocurrírsele a uno", "inventar"],
+    "pos": "verb",
+    "level": "c1",
+    "tags": ["phrasal verb", "creativity"],
+    "examples": [
+      {
+        "text": "The team came up with an innovative solution to reduce costs.",
+        "reading": "",
+        "translation": "El equipo ideó una solución innovadora para reducir costos."
+      }
+    ]
+  },
+  {
+    "word": "dawn on",
+    "reading": "/dɔːn ɑːn/",
+    "meanings": ["caer en la cuenta", "darse cuenta de repente"],
+    "pos": "verb",
+    "level": "c1",
+    "tags": ["phrasal verb", "realization"],
+    "examples": [
+      {
+        "text": "It suddenly dawned on me that I had been approaching the problem all wrong.",
+        "reading": "",
+        "translation": "De repente caí en la cuenta de que había estado abordando el problema completamente mal."
+      }
+    ]
+  },
+  {
+    "word": "pose a threat",
+    "reading": "/poʊz ə θrɛt/",
+    "meanings": ["representar una amenaza", "suponer un peligro"],
+    "pos": "expression",
+    "level": "c1",
+    "tags": ["collocation", "formal register"],
+    "examples": [
+      {
+        "text": "Climate change poses a serious threat to coastal communities.",
+        "reading": "",
+        "translation": "El cambio climático representa una seria amenaza para las comunidades costeras."
+      }
+    ]
+  },
+  {
+    "word": "reach a consensus",
+    "reading": "/riːtʃ ə kənˈsɛnsəs/",
+    "meanings": ["llegar a un consenso", "alcanzar un acuerdo"],
+    "pos": "expression",
+    "level": "c1",
+    "tags": ["collocation", "formal register", "cognate"],
+    "examples": [
+      {
+        "text": "After hours of negotiation, the committee finally reached a consensus.",
+        "reading": "",
+        "translation": "Después de horas de negociación, el comité finalmente llegó a un consenso."
+      }
+    ]
+  },
+  {
+    "word": "bridge the gap",
+    "reading": "/brɪdʒ ðə ɡæp/",
+    "meanings": ["cerrar la brecha", "acortar la distancia"],
+    "pos": "expression",
+    "level": "c1",
+    "tags": ["collocation", "formal register"],
+    "examples": [
+      {
+        "text": "Education is key to bridging the gap between rich and poor.",
+        "reading": "",
+        "translation": "La educación es clave para cerrar la brecha entre ricos y pobres."
+      }
+    ]
+  },
+  {
+    "word": "meet a deadline",
+    "reading": "/miːt ə ˈdɛdˌlaɪn/",
+    "meanings": ["cumplir un plazo", "entregar a tiempo"],
+    "pos": "expression",
+    "level": "c1",
+    "tags": ["collocation", "business"],
+    "examples": [
+      {
+        "text": "We need to work overtime if we want to meet the deadline.",
+        "reading": "",
+        "translation": "Necesitamos trabajar horas extra si queremos cumplir el plazo."
+      }
+    ]
+  },
+  {
+    "word": "shed light on",
+    "reading": "/ʃɛd laɪt ɑːn/",
+    "meanings": ["arrojar luz sobre", "esclarecer"],
+    "pos": "expression",
+    "level": "c1",
+    "tags": ["collocation", "academic"],
+    "examples": [
+      {
+        "text": "This new study sheds light on the causes of the disease.",
+        "reading": "",
+        "translation": "Este nuevo estudio arroja luz sobre las causas de la enfermedad."
+      }
+    ]
+  },
+  {
+    "word": "raise awareness",
+    "reading": "/reɪz əˈwɛrnəs/",
+    "meanings": ["concientizar", "crear conciencia"],
+    "pos": "expression",
+    "level": "c1",
+    "tags": ["collocation", "social"],
+    "examples": [
+      {
+        "text": "The campaign aims to raise awareness about mental health issues.",
+        "reading": "",
+        "translation": "La campaña busca concientizar sobre problemas de salud mental."
+      }
+    ]
+  },
+  {
+    "word": "take into account",
+    "reading": "/teɪk ˌɪntə əˈkaʊnt/",
+    "meanings": ["tener en cuenta", "considerar"],
+    "pos": "expression",
+    "level": "c1",
+    "tags": ["collocation", "academic"],
+    "examples": [
+      {
+        "text": "You should take into account the cultural context when interpreting results.",
+        "reading": "",
+        "translation": "Deberías tener en cuenta el contexto cultural al interpretar los resultados."
+      }
+    ]
+  },
+  {
+    "word": "draw a conclusion",
+    "reading": "/drɔː ə kənˈkluːʒən/",
+    "meanings": ["sacar una conclusión", "llegar a una conclusión"],
+    "pos": "expression",
+    "level": "c1",
+    "tags": ["collocation", "academic", "cognate"],
+    "examples": [
+      {
+        "text": "It would be premature to draw any conclusions from such limited data.",
+        "reading": "",
+        "translation": "Sería prematuro sacar conclusiones a partir de datos tan limitados."
+      }
+    ]
+  },
+  {
+    "word": "beat around the bush",
+    "reading": "/biːt əˈraʊnd ðə bʊʃ/",
+    "meanings": ["andarse con rodeos", "irse por las ramas"],
+    "pos": "expression",
+    "level": "c1",
+    "tags": ["idiom", "informal"],
+    "examples": [
+      {
+        "text": "Stop beating around the bush and tell me what you really think.",
+        "reading": "",
+        "translation": "Deja de andarte con rodeos y dime lo que realmente piensas."
+      }
+    ]
+  },
+  {
+    "word": "once in a blue moon",
+    "reading": "/wʌns ɪn ə bluː muːn/",
+    "meanings": ["muy de vez en cuando", "rarísima vez"],
+    "pos": "expression",
+    "level": "c1",
+    "tags": ["idiom", "informal", "frequency"],
+    "examples": [
+      {
+        "text": "He only visits his hometown once in a blue moon.",
+        "reading": "",
+        "translation": "Solo visita su ciudad natal muy de vez en cuando."
+      }
+    ]
+  },
+  {
+    "word": "the ball is in your court",
+    "reading": "/ðə bɔːl ɪz ɪn jɔːr kɔːrt/",
+    "meanings": ["la decisión es tuya", "te toca a ti"],
+    "pos": "expression",
+    "level": "c1",
+    "tags": ["idiom", "informal", "decision-making"],
+    "examples": [
+      {
+        "text": "I've made my offer — the ball is in your court now.",
+        "reading": "",
+        "translation": "He hecho mi oferta — ahora la decisión es tuya."
+      }
+    ]
+  },
+  {
+    "word": "hit the nail on the head",
+    "reading": "/hɪt ðə neɪl ɑːn ðə hɛd/",
+    "meanings": ["dar en el clavo", "acertar de lleno"],
+    "pos": "expression",
+    "level": "c1",
+    "tags": ["idiom", "informal"],
+    "examples": [
+      {
+        "text": "You hit the nail on the head — that's exactly the problem.",
+        "reading": "",
+        "translation": "Diste en el clavo — ese es exactamente el problema."
+      }
+    ]
+  },
+  {
+    "word": "get the ball rolling",
+    "reading": "/ɡɛt ðə bɔːl ˈroʊlɪŋ/",
+    "meanings": ["poner las cosas en marcha", "empezar"],
+    "pos": "expression",
+    "level": "c1",
+    "tags": ["idiom", "informal", "action"],
+    "examples": [
+      {
+        "text": "Let's get the ball rolling on this project before the end of the week.",
+        "reading": "",
+        "translation": "Pongamos las cosas en marcha con este proyecto antes de fin de semana."
+      }
+    ]
+  },
+  {
+    "word": "be on the same page",
+    "reading": "/bi ɑːn ðə seɪm peɪdʒ/",
+    "meanings": ["estar de acuerdo", "estar en sintonía"],
+    "pos": "expression",
+    "level": "c1",
+    "tags": ["idiom", "business", "communication"],
+    "examples": [
+      {
+        "text": "Before we proceed, let's make sure we're all on the same page.",
+        "reading": "",
+        "translation": "Antes de continuar, asegurémonos de que estamos todos de acuerdo."
+      }
+    ]
+  },
+  {
+    "word": "cut corners",
+    "reading": "/kʌt ˈkɔːrnərz/",
+    "meanings": ["tomar atajos", "hacer las cosas a medias"],
+    "pos": "expression",
+    "level": "c1",
+    "tags": ["idiom", "business"],
+    "examples": [
+      {
+        "text": "The company cut corners on safety, which led to the accident.",
+        "reading": "",
+        "translation": "La empresa tomó atajos en seguridad, lo que provocó el accidente."
+      }
+    ]
+  },
+  {
+    "word": "break new ground",
+    "reading": "/breɪk nuː ɡraʊnd/",
+    "meanings": ["innovar", "abrir nuevos caminos", "ser pionero"],
+    "pos": "expression",
+    "level": "c1",
+    "tags": ["idiom", "innovation"],
+    "examples": [
+      {
+        "text": "Her research broke new ground in the field of artificial intelligence.",
+        "reading": "",
+        "translation": "Su investigación abrió nuevos caminos en el campo de la inteligencia artificial."
+      }
+    ]
+  },
+  {
+    "word": "perception",
+    "reading": "/pərˈsɛpʃən/",
+    "meanings": ["percepción", "punto de vista"],
+    "pos": "noun",
+    "level": "c1",
+    "tags": ["abstract", "philosophical", "cognate"],
+    "examples": [
+      {
+        "text": "Public perception of the company changed after the scandal.",
+        "reading": "",
+        "translation": "La percepción pública de la empresa cambió después del escándalo."
+      }
+    ]
+  },
+  {
+    "word": "autonomy",
+    "reading": "/ɔːˈtɑːnəmi/",
+    "meanings": ["autonomía", "independencia"],
+    "pos": "noun",
+    "level": "c1",
+    "tags": ["abstract", "philosophical", "cognate"],
+    "examples": [
+      {
+        "text": "Employees perform better when they are given greater autonomy.",
+        "reading": "",
+        "translation": "Los empleados rinden mejor cuando se les da mayor autonomía."
+      }
+    ]
+  },
+  {
+    "word": "paradigm",
+    "reading": "/ˈpærəˌdaɪm/",
+    "meanings": ["paradigma", "modelo"],
+    "pos": "noun",
+    "level": "c1",
+    "tags": ["abstract", "philosophical", "academic", "cognate"],
+    "examples": [
+      {
+        "text": "The internet created a paradigm shift in how we access information.",
+        "reading": "",
+        "translation": "Internet creó un cambio de paradigma en cómo accedemos a la información."
+      }
+    ]
+  },
+  {
+    "word": "discourse",
+    "reading": "/ˈdɪskɔːrs/",
+    "meanings": ["discurso", "debate", "disertación"],
+    "pos": "noun",
+    "level": "c1",
+    "tags": ["abstract", "philosophical", "academic", "cognate"],
+    "examples": [
+      {
+        "text": "Political discourse has become increasingly polarized in recent years.",
+        "reading": "",
+        "translation": "El discurso político se ha vuelto cada vez más polarizado en los últimos años."
+      }
+    ]
+  },
+  {
+    "word": "rationale",
+    "reading": "/ˌræʃəˈnæl/",
+    "meanings": ["fundamento", "justificación", "razón de ser"],
+    "pos": "noun",
+    "level": "c1",
+    "tags": ["abstract", "philosophical", "academic", "cognate"],
+    "examples": [
+      {
+        "text": "What is the rationale behind this decision?",
+        "reading": "",
+        "translation": "¿Cuál es el fundamento detrás de esta decisión?"
+      }
+    ]
+  },
+  {
+    "word": "catalyst",
+    "reading": "/ˈkætəlɪst/",
+    "meanings": ["catalizador", "detonante"],
+    "pos": "noun",
+    "level": "c1",
+    "tags": ["abstract", "philosophical", "cognate"],
+    "examples": [
+      {
+        "text": "The assassination was the catalyst for the revolution.",
+        "reading": "",
+        "translation": "El asesinato fue el catalizador de la revolución."
+      }
+    ]
+  },
+  {
+    "word": "dichotomy",
+    "reading": "/daɪˈkɑːtəmi/",
+    "meanings": ["dicotomía", "división en dos partes"],
+    "pos": "noun",
+    "level": "c1",
+    "tags": ["abstract", "philosophical", "academic", "cognate"],
+    "examples": [
+      {
+        "text": "The dichotomy between theory and practice is a recurring theme in education.",
+        "reading": "",
+        "translation": "La dicotomía entre teoría y práctica es un tema recurrente en la educación."
+      }
+    ]
+  },
+  {
+    "word": "trajectory",
+    "reading": "/trəˈdʒɛktəri/",
+    "meanings": ["trayectoria", "rumbo"],
+    "pos": "noun",
+    "level": "c1",
+    "tags": ["abstract", "philosophical", "cognate"],
+    "examples": [
+      {
+        "text": "The company's growth trajectory has been impressive over the past decade.",
+        "reading": "",
+        "translation": "La trayectoria de crecimiento de la empresa ha sido impresionante en la última década."
+      }
+    ]
+  }
+]

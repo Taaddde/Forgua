@@ -1,232 +1,232 @@
 [
   {
     "word": "think",
-    "reading": "think",
-    "meanings": ["pensar", "creer"],
+    "reading": "/θɪŋk/",
+    "meanings": ["pensar","creer"],
     "pos": "verb",
     "level": "a2",
-    "tags": ["opinion", "verb", "essential"],
+    "tags": ["opinion","verb","essential"],
     "examples": [
       {
         "text": "I think we should go home.",
-        "reading": "I think we should go home.",
-        "translation": "Creo que deber\u00edamos ir a casa."
+        "reading": "",
+        "translation": "Creo que deberíamos ir a casa."
       }
     ]
   },
   {
     "word": "believe",
-    "reading": "believe",
+    "reading": "/bɪˈliːv/",
     "meanings": ["creer"],
     "pos": "verb",
     "level": "a2",
-    "tags": ["opinion", "verb"],
+    "tags": ["opinion","verb"],
     "examples": [
       {
         "text": "I believe you are right.",
-        "reading": "I believe you are right.",
-        "translation": "Creo que ten\u00e9s raz\u00f3n."
+        "reading": "",
+        "translation": "Creo que tenés razón."
       }
     ]
   },
   {
     "word": "feel",
-    "reading": "feel",
-    "meanings": ["sentir", "sentirse"],
+    "reading": "/fiːl/",
+    "meanings": ["sentir","sentirse"],
     "pos": "verb",
     "level": "a2",
-    "tags": ["emotion", "verb"],
+    "tags": ["emotion","verb"],
     "examples": [
       {
         "text": "I feel tired after work.",
-        "reading": "I feel tired after work.",
-        "translation": "Me siento cansado despu\u00e9s del trabajo."
+        "reading": "",
+        "translation": "Me siento cansado después del trabajo."
       }
     ]
   },
   {
     "word": "hope",
-    "reading": "hope",
-    "meanings": ["esperar", "esperanza"],
+    "reading": "/hoʊp/",
+    "meanings": ["esperar","esperanza"],
     "pos": "verb",
     "level": "a2",
-    "tags": ["emotion", "verb"],
+    "tags": ["emotion","verb"],
     "examples": [
       {
         "text": "I hope you feel better soon.",
-        "reading": "I hope you feel better soon.",
+        "reading": "",
         "translation": "Espero que te sientas mejor pronto."
       }
     ]
   },
   {
     "word": "worry",
-    "reading": "worry",
+    "reading": "/ˈwɜːri/",
     "meanings": ["preocuparse"],
     "pos": "verb",
     "level": "a2",
-    "tags": ["emotion", "verb"],
+    "tags": ["emotion","verb"],
     "examples": [
       {
         "text": "Don't worry, everything will be fine.",
-        "reading": "Don't worry, everything will be fine.",
+        "reading": "",
         "translation": "No te preocupes, todo va a estar bien."
       }
     ]
   },
   {
     "word": "enjoy",
-    "reading": "enjoy",
+    "reading": "/ɪnˈdʒɔɪ/",
     "meanings": ["disfrutar"],
     "pos": "verb",
     "level": "a2",
-    "tags": ["emotion", "verb"],
+    "tags": ["emotion","verb"],
     "examples": [
       {
         "text": "I enjoy reading books in the evening.",
-        "reading": "I enjoy reading books in the evening.",
+        "reading": "",
         "translation": "Disfruto leyendo libros por la tarde."
       }
     ]
   },
   {
     "word": "prefer",
-    "reading": "prefer",
+    "reading": "/prɪˈfɜːr/",
     "meanings": ["preferir"],
     "pos": "verb",
     "level": "a2",
-    "tags": ["opinion", "verb"],
+    "tags": ["opinion","verb"],
     "examples": [
       {
         "text": "I prefer tea to coffee.",
-        "reading": "I prefer tea to coffee.",
-        "translation": "Prefiero el t\u00e9 al caf\u00e9."
+        "reading": "",
+        "translation": "Prefiero el té al café."
       }
     ]
   },
   {
     "word": "suggest",
-    "reading": "suggest",
-    "meanings": ["sugerir", "proponer"],
+    "reading": "/səˈdʒɛst/",
+    "meanings": ["sugerir","proponer"],
     "pos": "verb",
     "level": "a2",
-    "tags": ["opinion", "verb"],
+    "tags": ["opinion","verb"],
     "examples": [
       {
         "text": "I suggest we take a break.",
-        "reading": "I suggest we take a break.",
+        "reading": "",
         "translation": "Sugiero que tomemos un descanso."
       }
     ]
   },
   {
     "word": "agree",
-    "reading": "agree",
+    "reading": "/əˈɡriː/",
     "meanings": ["estar de acuerdo"],
     "pos": "verb",
     "level": "a2",
-    "tags": ["opinion", "verb"],
+    "tags": ["opinion","verb"],
     "examples": [
       {
         "text": "I agree with your opinion.",
-        "reading": "I agree with your opinion.",
-        "translation": "Estoy de acuerdo con tu opini\u00f3n."
+        "reading": "",
+        "translation": "Estoy de acuerdo con tu opinión."
       }
     ]
   },
   {
     "word": "disagree",
-    "reading": "disagree",
-    "meanings": ["estar en desacuerdo", "no estar de acuerdo"],
+    "reading": "/ˌdɪsəˈɡriː/",
+    "meanings": ["estar en desacuerdo","no estar de acuerdo"],
     "pos": "verb",
     "level": "a2",
-    "tags": ["opinion", "verb"],
+    "tags": ["opinion","verb"],
     "examples": [
       {
         "text": "I disagree with that decision.",
-        "reading": "I disagree with that decision.",
-        "translation": "No estoy de acuerdo con esa decisi\u00f3n."
+        "reading": "",
+        "translation": "No estoy de acuerdo con esa decisión."
       }
     ]
   },
   {
     "word": "imagine",
-    "reading": "imagine",
+    "reading": "/ɪˈmædʒɪn/",
     "meanings": ["imaginar"],
     "pos": "verb",
     "level": "a2",
-    "tags": ["opinion", "verb"],
+    "tags": ["opinion","verb"],
     "examples": [
       {
         "text": "Imagine you are on a beautiful beach.",
-        "reading": "Imagine you are on a beautiful beach.",
-        "translation": "Imagin\u00e1 que est\u00e1s en una playa hermosa."
+        "reading": "",
+        "translation": "Imaginá que estás en una playa hermosa."
       }
     ]
   },
   {
     "word": "remember",
-    "reading": "remember",
-    "meanings": ["recordar", "acordarse"],
+    "reading": "/rɪˈmɛmbər/",
+    "meanings": ["recordar","acordarse"],
     "pos": "verb",
     "level": "a2",
-    "tags": ["opinion", "verb"],
+    "tags": ["opinion","verb"],
     "examples": [
       {
         "text": "I remember my first day at school.",
-        "reading": "I remember my first day at school.",
-        "translation": "Recuerdo mi primer d\u00eda en la escuela."
+        "reading": "",
+        "translation": "Recuerdo mi primer día en la escuela."
       }
     ]
   },
   {
     "word": "forget",
-    "reading": "forget",
-    "meanings": ["olvidar", "olvidarse"],
+    "reading": "/fərˈɡɛt/",
+    "meanings": ["olvidar","olvidarse"],
     "pos": "verb",
     "level": "a2",
-    "tags": ["opinion", "verb"],
+    "tags": ["opinion","verb"],
     "examples": [
       {
         "text": "Don't forget to call your mother.",
-        "reading": "Don't forget to call your mother.",
+        "reading": "",
         "translation": "No te olvides de llamar a tu madre."
       }
     ]
   },
   {
     "word": "decide",
-    "reading": "decide",
+    "reading": "/dɪˈsaɪd/",
     "meanings": ["decidir"],
     "pos": "verb",
     "level": "a2",
-    "tags": ["opinion", "verb"],
+    "tags": ["opinion","verb"],
     "examples": [
       {
         "text": "We need to decide by tomorrow.",
-        "reading": "We need to decide by tomorrow.",
-        "translation": "Necesitamos decidir para ma\u00f1ana."
+        "reading": "",
+        "translation": "Necesitamos decidir para mañana."
       }
     ]
   },
   {
     "word": "expect",
-    "reading": "expect",
-    "meanings": ["esperar", "suponer"],
+    "reading": "/ɪkˈspɛkt/",
+    "meanings": ["esperar","suponer"],
     "pos": "verb",
     "level": "a2",
-    "tags": ["opinion", "verb"],
+    "tags": ["opinion","verb"],
     "examples": [
       {
         "text": "I expect to arrive at three o'clock.",
-        "reading": "I expect to arrive at three o'clock.",
+        "reading": "",
         "translation": "Espero llegar a las tres."
       }
     ]
   },
   {
     "word": "airport",
-    "reading": "airport",
+    "reading": "/ˈɛrˌpɔːrt/",
     "meanings": ["aeropuerto"],
     "pos": "noun",
     "level": "a2",
@@ -234,29 +234,29 @@
     "examples": [
       {
         "text": "We need to be at the airport two hours early.",
-        "reading": "We need to be at the airport two hours early.",
+        "reading": "",
         "translation": "Necesitamos estar en el aeropuerto dos horas antes."
       }
     ]
   },
   {
     "word": "ticket",
-    "reading": "ticket",
-    "meanings": ["boleto", "pasaje", "entrada"],
+    "reading": "/ˈtɪkɪt/",
+    "meanings": ["boleto","pasaje","entrada"],
     "pos": "noun",
     "level": "a2",
     "tags": ["travel"],
     "examples": [
       {
         "text": "I bought a ticket to London.",
-        "reading": "I bought a ticket to London.",
-        "translation": "Compr\u00e9 un pasaje a Londres."
+        "reading": "",
+        "translation": "Compré un pasaje a Londres."
       }
     ]
   },
   {
     "word": "passport",
-    "reading": "passport",
+    "reading": "/ˈpæsˌpɔːrt/",
     "meanings": ["pasaporte"],
     "pos": "noun",
     "level": "a2",
@@ -264,14 +264,14 @@
     "examples": [
       {
         "text": "Don't forget your passport!",
-        "reading": "Don't forget your passport!",
-        "translation": "\u00a1No te olvides el pasaporte!"
+        "reading": "",
+        "translation": "¡No te olvides el pasaporte!"
       }
     ]
   },
   {
     "word": "hotel",
-    "reading": "hotel",
+    "reading": "/hoʊˈtɛl/",
     "meanings": ["hotel"],
     "pos": "noun",
     "level": "a2",
@@ -279,29 +279,29 @@
     "examples": [
       {
         "text": "We stayed at a nice hotel near the beach.",
-        "reading": "We stayed at a nice hotel near the beach.",
+        "reading": "",
         "translation": "Nos quedamos en un lindo hotel cerca de la playa."
       }
     ]
   },
   {
     "word": "reservation",
-    "reading": "reservation",
-    "meanings": ["reserva", "reservaci\u00f3n"],
+    "reading": "/ˌrɛzərˈveɪʃən/",
+    "meanings": ["reserva","reservación"],
     "pos": "noun",
     "level": "a2",
     "tags": ["travel"],
     "examples": [
       {
         "text": "I have a reservation for tonight.",
-        "reading": "I have a reservation for tonight.",
+        "reading": "",
         "translation": "Tengo una reserva para esta noche."
       }
     ]
   },
   {
     "word": "luggage",
-    "reading": "luggage",
+    "reading": "/ˈlʌɡɪdʒ/",
     "meanings": ["equipaje"],
     "pos": "noun",
     "level": "a2",
@@ -309,14 +309,14 @@
     "examples": [
       {
         "text": "Where can I pick up my luggage?",
-        "reading": "Where can I pick up my luggage?",
-        "translation": "\u00bfD\u00f3nde puedo recoger mi equipaje?"
+        "reading": "",
+        "translation": "¿Dónde puedo recoger mi equipaje?"
       }
     ]
   },
   {
     "word": "flight",
-    "reading": "flight",
+    "reading": "/flaɪt/",
     "meanings": ["vuelo"],
     "pos": "noun",
     "level": "a2",
@@ -324,44 +324,44 @@
     "examples": [
       {
         "text": "My flight leaves at six in the morning.",
-        "reading": "My flight leaves at six in the morning.",
-        "translation": "Mi vuelo sale a las seis de la ma\u00f1ana."
+        "reading": "",
+        "translation": "Mi vuelo sale a las seis de la mañana."
       }
     ]
   },
   {
     "word": "train",
-    "reading": "train",
+    "reading": "/treɪn/",
     "meanings": ["tren"],
     "pos": "noun",
     "level": "a2",
-    "tags": ["travel", "transport"],
+    "tags": ["travel","transport"],
     "examples": [
       {
         "text": "The train to Barcelona takes three hours.",
-        "reading": "The train to Barcelona takes three hours.",
+        "reading": "",
         "translation": "El tren a Barcelona tarda tres horas."
       }
     ]
   },
   {
     "word": "bus",
-    "reading": "bus",
-    "meanings": ["autob\u00fas", "colectivo", "bus"],
+    "reading": "/bʌs/",
+    "meanings": ["autobús","colectivo","bus"],
     "pos": "noun",
     "level": "a2",
-    "tags": ["travel", "transport"],
+    "tags": ["travel","transport"],
     "examples": [
       {
         "text": "I take the bus to work every day.",
-        "reading": "I take the bus to work every day.",
-        "translation": "Tomo el colectivo al trabajo todos los d\u00edas."
+        "reading": "",
+        "translation": "Tomo el colectivo al trabajo todos los días."
       }
     ]
   },
   {
     "word": "map",
-    "reading": "map",
+    "reading": "/mæp/",
     "meanings": ["mapa"],
     "pos": "noun",
     "level": "a2",
@@ -369,14 +369,14 @@
     "examples": [
       {
         "text": "Can you show me on the map?",
-        "reading": "Can you show me on the map?",
-        "translation": "\u00bfPod\u00e9s mostrarme en el mapa?"
+        "reading": "",
+        "translation": "¿Podés mostrarme en el mapa?"
       }
     ]
   },
   {
     "word": "tourist",
-    "reading": "tourist",
+    "reading": "/ˈtʊrɪst/",
     "meanings": ["turista"],
     "pos": "noun",
     "level": "a2",
@@ -384,89 +384,89 @@
     "examples": [
       {
         "text": "There are many tourists in the city.",
-        "reading": "There are many tourists in the city.",
+        "reading": "",
         "translation": "Hay muchos turistas en la ciudad."
       }
     ]
   },
   {
     "word": "guide",
-    "reading": "guide",
-    "meanings": ["gu\u00eda"],
+    "reading": "/ɡaɪd/",
+    "meanings": ["guía"],
     "pos": "noun",
     "level": "a2",
     "tags": ["travel"],
     "examples": [
       {
         "text": "The guide showed us the old part of the city.",
-        "reading": "The guide showed us the old part of the city.",
-        "translation": "El gu\u00eda nos mostr\u00f3 la parte vieja de la ciudad."
+        "reading": "",
+        "translation": "El guía nos mostró la parte vieja de la ciudad."
       }
     ]
   },
   {
     "word": "suitcase",
-    "reading": "suitcase",
-    "meanings": ["maleta", "valija"],
+    "reading": "/ˈsuːtˌkeɪs/",
+    "meanings": ["maleta","valija"],
     "pos": "noun",
     "level": "a2",
     "tags": ["travel"],
     "examples": [
       {
         "text": "My suitcase is too heavy.",
-        "reading": "My suitcase is too heavy.",
-        "translation": "Mi maleta est\u00e1 demasiado pesada."
+        "reading": "",
+        "translation": "Mi maleta está demasiado pesada."
       }
     ]
   },
   {
     "word": "boarding pass",
-    "reading": "boarding pass",
-    "meanings": ["tarjeta de embarque", "pase de abordar"],
+    "reading": "/ˈbɔːrdɪŋ pæs/",
+    "meanings": ["tarjeta de embarque","pase de abordar"],
     "pos": "noun",
     "level": "a2",
     "tags": ["travel"],
     "examples": [
       {
         "text": "Please show your boarding pass.",
-        "reading": "Please show your boarding pass.",
+        "reading": "",
         "translation": "Por favor, muestre su tarjeta de embarque."
       }
     ]
   },
   {
     "word": "delay",
-    "reading": "delay",
-    "meanings": ["demora", "retraso"],
+    "reading": "/dɪˈleɪ/",
+    "meanings": ["demora","retraso"],
     "pos": "noun",
     "level": "a2",
     "tags": ["travel"],
     "examples": [
       {
         "text": "There is a two-hour delay on our flight.",
-        "reading": "There is a two-hour delay on our flight.",
+        "reading": "",
         "translation": "Hay una demora de dos horas en nuestro vuelo."
       }
     ]
   },
   {
     "word": "job",
-    "reading": "job",
-    "meanings": ["trabajo", "empleo"],
+    "reading": "/dʒɑːb/",
+    "meanings": ["trabajo","empleo"],
     "pos": "noun",
     "level": "a2",
     "tags": ["work"],
     "examples": [
       {
         "text": "She got a new job at a tech company.",
-        "reading": "She got a new job at a tech company.",
-        "translation": "Ella consigui\u00f3 un nuevo trabajo en una empresa de tecnolog\u00eda."
+        "reading": "",
+        "translation": "Ella consiguió un nuevo trabajo en una empresa de tecnología."
       }
     ]
   },
   {
     "word": "office",
-    "reading": "office",
+    "reading": "/ˈɑːfɪs/",
     "meanings": ["oficina"],
     "pos": "noun",
     "level": "a2",
@@ -474,74 +474,74 @@
     "examples": [
       {
         "text": "I work in an office downtown.",
-        "reading": "I work in an office downtown.",
+        "reading": "",
         "translation": "Trabajo en una oficina en el centro."
       }
     ]
   },
   {
     "word": "meeting",
-    "reading": "meeting",
-    "meanings": ["reuni\u00f3n", "junta"],
+    "reading": "/ˈmiːtɪŋ/",
+    "meanings": ["reunión","junta"],
     "pos": "noun",
     "level": "a2",
     "tags": ["work"],
     "examples": [
       {
         "text": "We have a meeting at ten o'clock.",
-        "reading": "We have a meeting at ten o'clock.",
-        "translation": "Tenemos una reuni\u00f3n a las diez."
+        "reading": "",
+        "translation": "Tenemos una reunión a las diez."
       }
     ]
   },
   {
     "word": "boss",
-    "reading": "boss",
-    "meanings": ["jefe", "jefa"],
+    "reading": "/bɑːs/",
+    "meanings": ["jefe","jefa"],
     "pos": "noun",
     "level": "a2",
     "tags": ["work"],
     "examples": [
       {
         "text": "My boss is very understanding.",
-        "reading": "My boss is very understanding.",
+        "reading": "",
         "translation": "Mi jefe es muy comprensivo."
       }
     ]
   },
   {
     "word": "salary",
-    "reading": "salary",
-    "meanings": ["salario", "sueldo"],
+    "reading": "/ˈsæləri/",
+    "meanings": ["salario","sueldo"],
     "pos": "noun",
     "level": "a2",
     "tags": ["work"],
     "examples": [
       {
         "text": "The salary is paid every month.",
-        "reading": "The salary is paid every month.",
+        "reading": "",
         "translation": "El salario se paga cada mes."
       }
     ]
   },
   {
     "word": "colleague",
-    "reading": "colleague",
-    "meanings": ["colega", "compa\u00f1ero de trabajo"],
+    "reading": "/ˈkɑːliːɡ/",
+    "meanings": ["colega","compañero de trabajo"],
     "pos": "noun",
     "level": "a2",
     "tags": ["work"],
     "examples": [
       {
         "text": "My colleague helps me with difficult tasks.",
-        "reading": "My colleague helps me with difficult tasks.",
-        "translation": "Mi colega me ayuda con las tareas dif\u00edciles."
+        "reading": "",
+        "translation": "Mi colega me ayuda con las tareas difíciles."
       }
     ]
   },
   {
     "word": "project",
-    "reading": "project",
+    "reading": "/ˈprɑːdʒɛkt/",
     "meanings": ["proyecto"],
     "pos": "noun",
     "level": "a2",
@@ -549,44 +549,44 @@
     "examples": [
       {
         "text": "We are working on an important project.",
-        "reading": "We are working on an important project.",
+        "reading": "",
         "translation": "Estamos trabajando en un proyecto importante."
       }
     ]
   },
   {
     "word": "deadline",
-    "reading": "deadline",
-    "meanings": ["fecha l\u00edmite", "plazo"],
+    "reading": "/ˈdɛdˌlaɪn/",
+    "meanings": ["fecha límite","plazo"],
     "pos": "noun",
     "level": "a2",
     "tags": ["work"],
     "examples": [
       {
         "text": "The deadline is next Friday.",
-        "reading": "The deadline is next Friday.",
-        "translation": "La fecha l\u00edmite es el pr\u00f3ximo viernes."
+        "reading": "",
+        "translation": "La fecha límite es el próximo viernes."
       }
     ]
   },
   {
     "word": "resume",
-    "reading": "resume",
-    "meanings": ["curr\u00edculum", "hoja de vida"],
+    "reading": "/ˈrɛzʊˌmeɪ/",
+    "meanings": ["currículum","hoja de vida"],
     "pos": "noun",
     "level": "a2",
     "tags": ["work"],
     "examples": [
       {
         "text": "Send your resume to the company.",
-        "reading": "Send your resume to the company.",
-        "translation": "Envi\u00e1 tu curr\u00edculum a la empresa."
+        "reading": "",
+        "translation": "Enviá tu currículum a la empresa."
       }
     ]
   },
   {
     "word": "interview",
-    "reading": "interview",
+    "reading": "/ˈɪntərˌvjuː/",
     "meanings": ["entrevista"],
     "pos": "noun",
     "level": "a2",
@@ -594,119 +594,119 @@
     "examples": [
       {
         "text": "I have a job interview tomorrow.",
-        "reading": "I have a job interview tomorrow.",
-        "translation": "Tengo una entrevista de trabajo ma\u00f1ana."
+        "reading": "",
+        "translation": "Tengo una entrevista de trabajo mañana."
       }
     ]
   },
   {
     "word": "promotion",
-    "reading": "promotion",
-    "meanings": ["ascenso", "promoci\u00f3n"],
+    "reading": "/prəˈmoʊʃən/",
+    "meanings": ["ascenso","promoción"],
     "pos": "noun",
     "level": "a2",
     "tags": ["work"],
     "examples": [
       {
         "text": "She got a promotion after two years.",
-        "reading": "She got a promotion after two years.",
-        "translation": "Ella recibi\u00f3 un ascenso despu\u00e9s de dos a\u00f1os."
+        "reading": "",
+        "translation": "Ella recibió un ascenso después de dos años."
       }
     ]
   },
   {
     "word": "company",
-    "reading": "company",
-    "meanings": ["empresa", "compa\u00f1\u00eda"],
+    "reading": "/ˈkʌmpəni/",
+    "meanings": ["empresa","compañía"],
     "pos": "noun",
     "level": "a2",
     "tags": ["work"],
     "examples": [
       {
         "text": "The company has 500 employees.",
-        "reading": "The company has 500 employees.",
+        "reading": "",
         "translation": "La empresa tiene 500 empleados."
       }
     ]
   },
   {
     "word": "employee",
-    "reading": "employee",
-    "meanings": ["empleado", "empleada"],
+    "reading": "/ɪmˈplɔɪiː/",
+    "meanings": ["empleado","empleada"],
     "pos": "noun",
     "level": "a2",
     "tags": ["work"],
     "examples": [
       {
         "text": "Every employee gets health insurance.",
-        "reading": "Every employee gets health insurance.",
-        "translation": "Cada empleado tiene seguro m\u00e9dico."
+        "reading": "",
+        "translation": "Cada empleado tiene seguro médico."
       }
     ]
   },
   {
     "word": "manager",
-    "reading": "manager",
-    "meanings": ["gerente", "encargado"],
+    "reading": "/ˈmænɪdʒər/",
+    "meanings": ["gerente","encargado"],
     "pos": "noun",
     "level": "a2",
     "tags": ["work"],
     "examples": [
       {
         "text": "The manager will call you back.",
-        "reading": "The manager will call you back.",
+        "reading": "",
         "translation": "El gerente te va a devolver la llamada."
       }
     ]
   },
   {
     "word": "schedule",
-    "reading": "schedule",
-    "meanings": ["horario", "cronograma"],
+    "reading": "/ˈskɛdʒuːl/",
+    "meanings": ["horario","cronograma"],
     "pos": "noun",
     "level": "a2",
-    "tags": ["work", "time"],
+    "tags": ["work","time"],
     "examples": [
       {
         "text": "What's your schedule for this week?",
-        "reading": "What's your schedule for this week?",
-        "translation": "\u00bfCu\u00e1l es tu horario para esta semana?"
+        "reading": "",
+        "translation": "¿Cuál es tu horario para esta semana?"
       }
     ]
   },
   {
     "word": "doctor",
-    "reading": "doctor",
-    "meanings": ["doctor", "m\u00e9dico"],
+    "reading": "/ˈdɑːktər/",
+    "meanings": ["doctor","médico"],
     "pos": "noun",
     "level": "a2",
     "tags": ["health"],
     "examples": [
       {
         "text": "You should see a doctor.",
-        "reading": "You should see a doctor.",
-        "translation": "Deber\u00edas ver a un m\u00e9dico."
+        "reading": "",
+        "translation": "Deberías ver a un médico."
       }
     ]
   },
   {
     "word": "medicine",
-    "reading": "medicine",
-    "meanings": ["medicina", "medicamento"],
+    "reading": "/ˈmɛdɪsɪn/",
+    "meanings": ["medicina","medicamento"],
     "pos": "noun",
     "level": "a2",
     "tags": ["health"],
     "examples": [
       {
         "text": "Take this medicine three times a day.",
-        "reading": "Take this medicine three times a day.",
-        "translation": "Tom\u00e1 este medicamento tres veces al d\u00eda."
+        "reading": "",
+        "translation": "Tomá este medicamento tres veces al día."
       }
     ]
   },
   {
     "word": "headache",
-    "reading": "headache",
+    "reading": "/ˈhɛdˌeɪk/",
     "meanings": ["dolor de cabeza"],
     "pos": "noun",
     "level": "a2",
@@ -714,14 +714,14 @@
     "examples": [
       {
         "text": "I have a terrible headache.",
-        "reading": "I have a terrible headache.",
+        "reading": "",
         "translation": "Tengo un dolor de cabeza terrible."
       }
     ]
   },
   {
     "word": "sick",
-    "reading": "sick",
+    "reading": "/sɪk/",
     "meanings": ["enfermo"],
     "pos": "adjective",
     "level": "a2",
@@ -729,44 +729,44 @@
     "examples": [
       {
         "text": "She can't come because she is sick.",
-        "reading": "She can't come because she is sick.",
-        "translation": "Ella no puede venir porque est\u00e1 enferma."
+        "reading": "",
+        "translation": "Ella no puede venir porque está enferma."
       }
     ]
   },
   {
     "word": "healthy",
-    "reading": "healthy",
-    "meanings": ["saludable", "sano"],
+    "reading": "/ˈhɛlθi/",
+    "meanings": ["saludable","sano"],
     "pos": "adjective",
     "level": "a2",
     "tags": ["health"],
     "examples": [
       {
         "text": "Eating fruit is healthy.",
-        "reading": "Eating fruit is healthy.",
+        "reading": "",
         "translation": "Comer fruta es saludable."
       }
     ]
   },
   {
     "word": "exercise",
-    "reading": "exercise",
+    "reading": "/ˈɛksərˌsaɪz/",
     "meanings": ["ejercicio"],
     "pos": "noun",
     "level": "a2",
-    "tags": ["health", "sport"],
+    "tags": ["health","sport"],
     "examples": [
       {
         "text": "I do exercise every morning.",
-        "reading": "I do exercise every morning.",
-        "translation": "Hago ejercicio cada ma\u00f1ana."
+        "reading": "",
+        "translation": "Hago ejercicio cada mañana."
       }
     ]
   },
   {
     "word": "pain",
-    "reading": "pain",
+    "reading": "/peɪn/",
     "meanings": ["dolor"],
     "pos": "noun",
     "level": "a2",
@@ -774,14 +774,14 @@
     "examples": [
       {
         "text": "I have a pain in my back.",
-        "reading": "I have a pain in my back.",
+        "reading": "",
         "translation": "Tengo un dolor en la espalda."
       }
     ]
   },
   {
     "word": "fever",
-    "reading": "fever",
+    "reading": "/ˈfiːvər/",
     "meanings": ["fiebre"],
     "pos": "noun",
     "level": "a2",
@@ -789,104 +789,104 @@
     "examples": [
       {
         "text": "The child has a high fever.",
-        "reading": "The child has a high fever.",
-        "translation": "El ni\u00f1o tiene fiebre alta."
+        "reading": "",
+        "translation": "El niño tiene fiebre alta."
       }
     ]
   },
   {
     "word": "cough",
-    "reading": "cough",
-    "meanings": ["tos", "toser"],
+    "reading": "/kɑːf/",
+    "meanings": ["tos","toser"],
     "pos": "noun",
     "level": "a2",
     "tags": ["health"],
     "examples": [
       {
         "text": "I have had a cough for three days.",
-        "reading": "I have had a cough for three days.",
-        "translation": "He tenido tos por tres d\u00edas."
+        "reading": "",
+        "translation": "He tenido tos por tres días."
       }
     ]
   },
   {
     "word": "movie",
-    "reading": "movie",
-    "meanings": ["pel\u00edcula"],
+    "reading": "/ˈmuːvi/",
+    "meanings": ["película"],
     "pos": "noun",
     "level": "a2",
     "tags": ["entertainment"],
     "examples": [
       {
         "text": "Let's watch a movie tonight.",
-        "reading": "Let's watch a movie tonight.",
-        "translation": "Miremos una pel\u00edcula esta noche."
+        "reading": "",
+        "translation": "Miremos una película esta noche."
       }
     ]
   },
   {
     "word": "music",
-    "reading": "music",
-    "meanings": ["m\u00fasica"],
+    "reading": "/ˈmjuːzɪk/",
+    "meanings": ["música"],
     "pos": "noun",
     "level": "a2",
     "tags": ["entertainment"],
     "examples": [
       {
         "text": "I listen to music while I study.",
-        "reading": "I listen to music while I study.",
-        "translation": "Escucho m\u00fasica mientras estudio."
+        "reading": "",
+        "translation": "Escucho música mientras estudio."
       }
     ]
   },
   {
     "word": "sport",
-    "reading": "sport",
+    "reading": "/spɔːrt/",
     "meanings": ["deporte"],
     "pos": "noun",
     "level": "a2",
-    "tags": ["entertainment", "sport"],
+    "tags": ["entertainment","sport"],
     "examples": [
       {
         "text": "Football is the most popular sport here.",
-        "reading": "Football is the most popular sport here.",
-        "translation": "El f\u00fatbol es el deporte m\u00e1s popular ac\u00e1."
+        "reading": "",
+        "translation": "El fútbol es el deporte más popular acá."
       }
     ]
   },
   {
     "word": "game",
-    "reading": "game",
-    "meanings": ["juego", "partido"],
+    "reading": "/ɡeɪm/",
+    "meanings": ["juego","partido"],
     "pos": "noun",
     "level": "a2",
     "tags": ["entertainment"],
     "examples": [
       {
         "text": "We watched the game on TV.",
-        "reading": "We watched the game on TV.",
+        "reading": "",
         "translation": "Vimos el partido por tele."
       }
     ]
   },
   {
     "word": "concert",
-    "reading": "concert",
-    "meanings": ["concierto", "recital"],
+    "reading": "/ˈkɑːnsərt/",
+    "meanings": ["concierto","recital"],
     "pos": "noun",
     "level": "a2",
     "tags": ["entertainment"],
     "examples": [
       {
         "text": "We went to a concert last weekend.",
-        "reading": "We went to a concert last weekend.",
+        "reading": "",
         "translation": "Fuimos a un recital el fin de semana pasado."
       }
     ]
   },
   {
     "word": "theater",
-    "reading": "theater",
+    "reading": "/ˈθiːətər/",
     "meanings": ["teatro"],
     "pos": "noun",
     "level": "a2",
@@ -894,59 +894,59 @@
     "examples": [
       {
         "text": "They are performing a play at the theater.",
-        "reading": "They are performing a play at the theater.",
-        "translation": "Est\u00e1n haciendo una obra en el teatro."
+        "reading": "",
+        "translation": "Están haciendo una obra en el teatro."
       }
     ]
   },
   {
     "word": "TV show",
-    "reading": "TV show",
-    "meanings": ["programa de televisi\u00f3n", "serie"],
+    "reading": "/ˌtiːˈviː ʃoʊ/",
+    "meanings": ["programa de televisión","serie"],
     "pos": "noun",
     "level": "a2",
     "tags": ["entertainment"],
     "examples": [
       {
         "text": "What's your favorite TV show?",
-        "reading": "What's your favorite TV show?",
-        "translation": "\u00bfCu\u00e1l es tu serie favorita?"
+        "reading": "",
+        "translation": "¿Cuál es tu serie favorita?"
       }
     ]
   },
   {
     "word": "hobby",
-    "reading": "hobby",
-    "meanings": ["pasatiempo", "hobby"],
+    "reading": "/ˈhɑːbi/",
+    "meanings": ["pasatiempo","hobby"],
     "pos": "noun",
     "level": "a2",
     "tags": ["entertainment"],
     "examples": [
       {
         "text": "Photography is my favorite hobby.",
-        "reading": "Photography is my favorite hobby.",
-        "translation": "La fotograf\u00eda es mi pasatiempo favorito."
+        "reading": "",
+        "translation": "La fotografía es mi pasatiempo favorito."
       }
     ]
   },
   {
     "word": "party",
-    "reading": "party",
+    "reading": "/ˈpɑːrti/",
     "meanings": ["fiesta"],
     "pos": "noun",
     "level": "a2",
-    "tags": ["entertainment", "social"],
+    "tags": ["entertainment","social"],
     "examples": [
       {
         "text": "Are you coming to the party on Saturday?",
-        "reading": "Are you coming to the party on Saturday?",
-        "translation": "\u00bfVen\u00eds a la fiesta el s\u00e1bado?"
+        "reading": "",
+        "translation": "¿Venís a la fiesta el sábado?"
       }
     ]
   },
   {
     "word": "because",
-    "reading": "because",
+    "reading": "/bɪˈkɑːz/",
     "meanings": ["porque"],
     "pos": "conjunction",
     "level": "a2",
@@ -954,14 +954,14 @@
     "examples": [
       {
         "text": "I stayed home because it was raining.",
-        "reading": "I stayed home because it was raining.",
-        "translation": "Me qued\u00e9 en casa porque estaba lloviendo."
+        "reading": "",
+        "translation": "Me quedé en casa porque estaba lloviendo."
       }
     ]
   },
   {
     "word": "however",
-    "reading": "however",
+    "reading": "/haʊˈɛvər/",
     "meanings": ["sin embargo"],
     "pos": "adverb",
     "level": "a2",
@@ -969,14 +969,14 @@
     "examples": [
       {
         "text": "The test was hard. However, I passed.",
-        "reading": "The test was hard. However, I passed.",
-        "translation": "El examen fue dif\u00edcil. Sin embargo, aprob\u00e9."
+        "reading": "",
+        "translation": "El examen fue difícil. Sin embargo, aprobé."
       }
     ]
   },
   {
     "word": "although",
-    "reading": "although",
+    "reading": "/ɔːlˈðoʊ/",
     "meanings": ["aunque"],
     "pos": "conjunction",
     "level": "a2",
@@ -984,14 +984,14 @@
     "examples": [
       {
         "text": "Although it was cold, we went for a walk.",
-        "reading": "Although it was cold, we went for a walk.",
-        "translation": "Aunque hac\u00eda fr\u00edo, salimos a caminar."
+        "reading": "",
+        "translation": "Aunque hacía frío, salimos a caminar."
       }
     ]
   },
   {
     "word": "therefore",
-    "reading": "therefore",
+    "reading": "/ˈðɛrˌfɔːr/",
     "meanings": ["por lo tanto"],
     "pos": "adverb",
     "level": "a2",
@@ -999,29 +999,29 @@
     "examples": [
       {
         "text": "It was raining; therefore, we stayed inside.",
-        "reading": "It was raining; therefore, we stayed inside.",
+        "reading": "",
         "translation": "Estaba lloviendo; por lo tanto, nos quedamos adentro."
       }
     ]
   },
   {
     "word": "moreover",
-    "reading": "moreover",
-    "meanings": ["adem\u00e1s"],
+    "reading": "/mɔːrˈoʊvər/",
+    "meanings": ["además"],
     "pos": "adverb",
     "level": "a2",
     "tags": ["connectors"],
     "examples": [
       {
         "text": "The hotel was cheap. Moreover, it was near the beach.",
-        "reading": "The hotel was cheap. Moreover, it was near the beach.",
-        "translation": "El hotel era barato. Adem\u00e1s, estaba cerca de la playa."
+        "reading": "",
+        "translation": "El hotel era barato. Además, estaba cerca de la playa."
       }
     ]
   },
   {
     "word": "meanwhile",
-    "reading": "meanwhile",
+    "reading": "/ˈmiːnˌwaɪl/",
     "meanings": ["mientras tanto"],
     "pos": "adverb",
     "level": "a2",
@@ -1029,44 +1029,44 @@
     "examples": [
       {
         "text": "I'll cook dinner. Meanwhile, you can set the table.",
-        "reading": "I'll cook dinner. Meanwhile, you can set the table.",
-        "translation": "Voy a cocinar la cena. Mientras tanto, pod\u00e9s poner la mesa."
+        "reading": "",
+        "translation": "Voy a cocinar la cena. Mientras tanto, podés poner la mesa."
       }
     ]
   },
   {
     "word": "besides",
-    "reading": "besides",
-    "meanings": ["adem\u00e1s de", "aparte de"],
+    "reading": "/bɪˈsaɪdz/",
+    "meanings": ["además de","aparte de"],
     "pos": "adverb",
     "level": "a2",
     "tags": ["connectors"],
     "examples": [
       {
         "text": "Besides English, I also speak French.",
-        "reading": "Besides English, I also speak French.",
-        "translation": "Adem\u00e1s del ingl\u00e9s, tambi\u00e9n hablo franc\u00e9s."
+        "reading": "",
+        "translation": "Además del inglés, también hablo francés."
       }
     ]
   },
   {
     "word": "actually",
-    "reading": "actually",
-    "meanings": ["en realidad", "de hecho"],
+    "reading": "/ˈæktʃuəli/",
+    "meanings": ["en realidad","de hecho"],
     "pos": "adverb",
     "level": "a2",
     "tags": ["connectors"],
     "examples": [
       {
         "text": "Actually, I changed my mind.",
-        "reading": "Actually, I changed my mind.",
-        "translation": "En realidad, cambi\u00e9 de opini\u00f3n."
+        "reading": "",
+        "translation": "En realidad, cambié de opinión."
       }
     ]
   },
   {
     "word": "probably",
-    "reading": "probably",
+    "reading": "/ˈprɑːbəbli/",
     "meanings": ["probablemente"],
     "pos": "adverb",
     "level": "a2",
@@ -1074,29 +1074,29 @@
     "examples": [
       {
         "text": "It will probably rain tomorrow.",
-        "reading": "It will probably rain tomorrow.",
-        "translation": "Probablemente llueva ma\u00f1ana."
+        "reading": "",
+        "translation": "Probablemente llueva mañana."
       }
     ]
   },
   {
     "word": "definitely",
-    "reading": "definitely",
-    "meanings": ["definitivamente", "seguro"],
+    "reading": "/ˈdɛfɪnɪtli/",
+    "meanings": ["definitivamente","seguro"],
     "pos": "adverb",
     "level": "a2",
     "tags": ["connectors"],
     "examples": [
       {
         "text": "I will definitely be there.",
-        "reading": "I will definitely be there.",
-        "translation": "Definitivamente voy a estar ah\u00ed."
+        "reading": "",
+        "translation": "Definitivamente voy a estar ahí."
       }
     ]
   },
   {
     "word": "look for",
-    "reading": "look for",
+    "reading": "/lʊk fɔːr/",
     "meanings": ["buscar"],
     "pos": "phrasal verb",
     "level": "a2",
@@ -1104,59 +1104,59 @@
     "examples": [
       {
         "text": "I'm looking for my keys.",
-        "reading": "I'm looking for my keys.",
+        "reading": "",
         "translation": "Estoy buscando mis llaves."
       }
     ]
   },
   {
     "word": "give up",
-    "reading": "give up",
-    "meanings": ["rendirse", "abandonar"],
+    "reading": "/ɡɪv ʌp/",
+    "meanings": ["rendirse","abandonar"],
     "pos": "phrasal verb",
     "level": "a2",
     "tags": ["phrasal verbs"],
     "examples": [
       {
         "text": "Don't give up! You can do it.",
-        "reading": "Don't give up! You can do it.",
-        "translation": "\u00a1No te rindas! Pod\u00e9s hacerlo."
+        "reading": "",
+        "translation": "¡No te rindas! Podés hacerlo."
       }
     ]
   },
   {
     "word": "pick up",
-    "reading": "pick up",
-    "meanings": ["recoger", "levantar", "buscar"],
+    "reading": "/pɪk ʌp/",
+    "meanings": ["recoger","levantar","buscar"],
     "pos": "phrasal verb",
     "level": "a2",
     "tags": ["phrasal verbs"],
     "examples": [
       {
         "text": "Can you pick me up at the station?",
-        "reading": "Can you pick me up at the station?",
-        "translation": "\u00bfPod\u00e9s buscarme en la estaci\u00f3n?"
+        "reading": "",
+        "translation": "¿Podés buscarme en la estación?"
       }
     ]
   },
   {
     "word": "turn on",
-    "reading": "turn on",
-    "meanings": ["encender", "prender"],
+    "reading": "/tɜːrn ɑːn/",
+    "meanings": ["encender","prender"],
     "pos": "phrasal verb",
     "level": "a2",
     "tags": ["phrasal verbs"],
     "examples": [
       {
         "text": "Turn on the light, please.",
-        "reading": "Turn on the light, please.",
-        "translation": "Prend\u00e9 la luz, por favor."
+        "reading": "",
+        "translation": "Prendé la luz, por favor."
       }
     ]
   },
   {
     "word": "turn off",
-    "reading": "turn off",
+    "reading": "/tɜːrn ɑːf/",
     "meanings": ["apagar"],
     "pos": "phrasal verb",
     "level": "a2",
@@ -1164,29 +1164,29 @@
     "examples": [
       {
         "text": "Turn off the TV before you go to bed.",
-        "reading": "Turn off the TV before you go to bed.",
-        "translation": "Apag\u00e1 la tele antes de ir a dormir."
+        "reading": "",
+        "translation": "Apagá la tele antes de ir a dormir."
       }
     ]
   },
   {
     "word": "find out",
-    "reading": "find out",
-    "meanings": ["descubrir", "enterarse"],
+    "reading": "/faɪnd aʊt/",
+    "meanings": ["descubrir","enterarse"],
     "pos": "phrasal verb",
     "level": "a2",
     "tags": ["phrasal verbs"],
     "examples": [
       {
         "text": "I need to find out what happened.",
-        "reading": "I need to find out what happened.",
-        "translation": "Necesito descubrir qu\u00e9 pas\u00f3."
+        "reading": "",
+        "translation": "Necesito descubrir qué pasó."
       }
     ]
   },
   {
     "word": "get along",
-    "reading": "get along",
+    "reading": "/ɡɛt əˈlɑːŋ/",
     "meanings": ["llevarse bien"],
     "pos": "phrasal verb",
     "level": "a2",
@@ -1194,14 +1194,14 @@
     "examples": [
       {
         "text": "I get along well with my colleagues.",
-        "reading": "I get along well with my colleagues.",
+        "reading": "",
         "translation": "Me llevo bien con mis colegas."
       }
     ]
   },
   {
     "word": "look after",
-    "reading": "look after",
+    "reading": "/lʊk ˈæftər/",
     "meanings": ["cuidar"],
     "pos": "phrasal verb",
     "level": "a2",
@@ -1209,149 +1209,149 @@
     "examples": [
       {
         "text": "Can you look after my dog this weekend?",
-        "reading": "Can you look after my dog this weekend?",
-        "translation": "\u00bfPod\u00e9s cuidar a mi perro este fin de semana?"
+        "reading": "",
+        "translation": "¿Podés cuidar a mi perro este fin de semana?"
       }
     ]
   },
   {
     "word": "set up",
-    "reading": "set up",
-    "meanings": ["organizar", "configurar", "montar"],
+    "reading": "/sɛt ʌp/",
+    "meanings": ["organizar","configurar","montar"],
     "pos": "phrasal verb",
     "level": "a2",
     "tags": ["phrasal verbs"],
     "examples": [
       {
         "text": "We need to set up a meeting for next week.",
-        "reading": "We need to set up a meeting for next week.",
-        "translation": "Necesitamos organizar una reuni\u00f3n para la semana que viene."
+        "reading": "",
+        "translation": "Necesitamos organizar una reunión para la semana que viene."
       }
     ]
   },
   {
     "word": "put off",
-    "reading": "put off",
-    "meanings": ["posponer", "postergar"],
+    "reading": "/pʊt ɑːf/",
+    "meanings": ["posponer","postergar"],
     "pos": "phrasal verb",
     "level": "a2",
     "tags": ["phrasal verbs"],
     "examples": [
       {
         "text": "Don't put off your homework.",
-        "reading": "Don't put off your homework.",
+        "reading": "",
         "translation": "No postergues tu tarea."
       }
     ]
   },
   {
     "word": "come back",
-    "reading": "come back",
-    "meanings": ["volver", "regresar"],
+    "reading": "/kʌm bæk/",
+    "meanings": ["volver","regresar"],
     "pos": "phrasal verb",
     "level": "a2",
     "tags": ["phrasal verbs"],
     "examples": [
       {
         "text": "What time will you come back?",
-        "reading": "What time will you come back?",
-        "translation": "\u00bfA qu\u00e9 hora vas a volver?"
+        "reading": "",
+        "translation": "¿A qué hora vas a volver?"
       }
     ]
   },
   {
     "word": "go on",
-    "reading": "go on",
-    "meanings": ["continuar", "seguir"],
+    "reading": "/ɡoʊ ɑːn/",
+    "meanings": ["continuar","seguir"],
     "pos": "phrasal verb",
     "level": "a2",
     "tags": ["phrasal verbs"],
     "examples": [
       {
         "text": "Please go on with your story.",
-        "reading": "Please go on with your story.",
-        "translation": "Por favor, continu\u00e1 con tu historia."
+        "reading": "",
+        "translation": "Por favor, continuá con tu historia."
       }
     ]
   },
   {
     "word": "take off",
-    "reading": "take off",
-    "meanings": ["despegar", "quitarse"],
+    "reading": "/teɪk ɑːf/",
+    "meanings": ["despegar","quitarse"],
     "pos": "phrasal verb",
     "level": "a2",
     "tags": ["phrasal verbs"],
     "examples": [
       {
         "text": "The plane takes off at noon.",
-        "reading": "The plane takes off at noon.",
-        "translation": "El avi\u00f3n despega al mediod\u00eda."
+        "reading": "",
+        "translation": "El avión despega al mediodía."
       }
     ]
   },
   {
     "word": "bring up",
-    "reading": "bring up",
-    "meanings": ["mencionar", "criar"],
+    "reading": "/brɪŋ ʌp/",
+    "meanings": ["mencionar","criar"],
     "pos": "phrasal verb",
     "level": "a2",
     "tags": ["phrasal verbs"],
     "examples": [
       {
         "text": "She brought up an interesting point.",
-        "reading": "She brought up an interesting point.",
-        "translation": "Ella mencion\u00f3 un punto interesante."
+        "reading": "",
+        "translation": "Ella mencionó un punto interesante."
       }
     ]
   },
   {
     "word": "carry out",
-    "reading": "carry out",
-    "meanings": ["llevar a cabo", "realizar"],
+    "reading": "/ˈkæri aʊt/",
+    "meanings": ["llevar a cabo","realizar"],
     "pos": "phrasal verb",
     "level": "a2",
     "tags": ["phrasal verbs"],
     "examples": [
       {
         "text": "We need to carry out more research.",
-        "reading": "We need to carry out more research.",
-        "translation": "Necesitamos llevar a cabo m\u00e1s investigaci\u00f3n."
+        "reading": "",
+        "translation": "Necesitamos llevar a cabo más investigación."
       }
     ]
   },
   {
     "word": "enough",
-    "reading": "enough",
-    "meanings": ["suficiente", "bastante"],
+    "reading": "/ɪˈnʌf/",
+    "meanings": ["suficiente","bastante"],
     "pos": "adverb",
     "level": "a2",
     "tags": ["other"],
     "examples": [
       {
         "text": "Do we have enough time?",
-        "reading": "Do we have enough time?",
-        "translation": "\u00bfTenemos suficiente tiempo?"
+        "reading": "",
+        "translation": "¿Tenemos suficiente tiempo?"
       }
     ]
   },
   {
     "word": "already",
-    "reading": "already",
+    "reading": "/ɔːlˈrɛdi/",
     "meanings": ["ya"],
     "pos": "adverb",
     "level": "a2",
-    "tags": ["other", "time"],
+    "tags": ["other","time"],
     "examples": [
       {
         "text": "I have already finished my homework.",
-        "reading": "I have already finished my homework.",
-        "translation": "Ya termin\u00e9 mi tarea."
+        "reading": "",
+        "translation": "Ya terminé mi tarea."
       }
     ]
   },
   {
     "word": "almost",
-    "reading": "almost",
+    "reading": "/ˈɔːlˌmoʊst/",
     "meanings": ["casi"],
     "pos": "adverb",
     "level": "a2",
@@ -1359,14 +1359,14 @@
     "examples": [
       {
         "text": "We are almost there.",
-        "reading": "We are almost there.",
+        "reading": "",
         "translation": "Ya casi llegamos."
       }
     ]
   },
   {
     "word": "quite",
-    "reading": "quite",
+    "reading": "/kwaɪt/",
     "meanings": ["bastante"],
     "pos": "adverb",
     "level": "a2",
@@ -1374,14 +1374,14 @@
     "examples": [
       {
         "text": "The exam was quite difficult.",
-        "reading": "The exam was quite difficult.",
-        "translation": "El examen fue bastante dif\u00edcil."
+        "reading": "",
+        "translation": "El examen fue bastante difícil."
       }
     ]
   },
   {
     "word": "several",
-    "reading": "several",
+    "reading": "/ˈsɛvərəl/",
     "meanings": ["varios"],
     "pos": "determiner",
     "level": "a2",
@@ -1389,14 +1389,14 @@
     "examples": [
       {
         "text": "I have visited several countries in Europe.",
-        "reading": "I have visited several countries in Europe.",
-        "translation": "He visitado varios pa\u00edses en Europa."
+        "reading": "",
+        "translation": "He visitado varios países en Europa."
       }
     ]
   },
   {
     "word": "available",
-    "reading": "available",
+    "reading": "/əˈveɪləbəl/",
     "meanings": ["disponible"],
     "pos": "adjective",
     "level": "a2",
@@ -1404,14 +1404,14 @@
     "examples": [
       {
         "text": "Is this table available?",
-        "reading": "Is this table available?",
-        "translation": "\u00bfEst\u00e1 disponible esta mesa?"
+        "reading": "",
+        "translation": "¿Está disponible esta mesa?"
       }
     ]
   },
   {
     "word": "main",
-    "reading": "main",
+    "reading": "/meɪn/",
     "meanings": ["principal"],
     "pos": "adjective",
     "level": "a2",
@@ -1419,29 +1419,29 @@
     "examples": [
       {
         "text": "What is the main idea of the text?",
-        "reading": "What is the main idea of the text?",
-        "translation": "\u00bfCu\u00e1l es la idea principal del texto?"
+        "reading": "",
+        "translation": "¿Cuál es la idea principal del texto?"
       }
     ]
   },
   {
     "word": "common",
-    "reading": "common",
-    "meanings": ["com\u00fan", "frecuente"],
+    "reading": "/ˈkɑːmən/",
+    "meanings": ["común","frecuente"],
     "pos": "adjective",
     "level": "a2",
     "tags": ["other"],
     "examples": [
       {
         "text": "This is a very common mistake.",
-        "reading": "This is a very common mistake.",
-        "translation": "Este es un error muy com\u00fan."
+        "reading": "",
+        "translation": "Este es un error muy común."
       }
     ]
   },
   {
     "word": "recent",
-    "reading": "recent",
+    "reading": "/ˈriːsənt/",
     "meanings": ["reciente"],
     "pos": "adjective",
     "level": "a2",
@@ -1449,23 +1449,23 @@
     "examples": [
       {
         "text": "Have you seen any recent news?",
-        "reading": "Have you seen any recent news?",
-        "translation": "\u00bfViste alguna noticia reciente?"
+        "reading": "",
+        "translation": "¿Viste alguna noticia reciente?"
       }
     ]
   },
   {
     "word": "similar",
-    "reading": "similar",
-    "meanings": ["similar", "parecido"],
+    "reading": "/ˈsɪmɪlər/",
+    "meanings": ["similar","parecido"],
     "pos": "adjective",
     "level": "a2",
     "tags": ["other"],
     "examples": [
       {
         "text": "Spanish and Portuguese are similar languages.",
-        "reading": "Spanish and Portuguese are similar languages.",
-        "translation": "El espa\u00f1ol y el portugu\u00e9s son idiomas similares."
+        "reading": "",
+        "translation": "El español y el portugués son idiomas similares."
       }
     ]
   }

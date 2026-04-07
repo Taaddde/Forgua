@@ -1,0 +1,111 @@
+{
+  "id": "vocab-a2-01",
+  "title": "Travel & Transport",
+  "description": "Vocabulario esencial para viajar: aeropuerto, vuelos, trenes y todo lo que necesitás para moverte en un país angloparlante.",
+  "level": "a2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "airport",
+      "back": "aeropuerto",
+      "reading": "/ˈɛrpɔːrt/",
+      "explanation": "Lugar donde salen y llegan los aviones. 'We arrived at the airport two hours early.' Preposición: AT the airport (no 'in').",
+      "cardRef": { "category": "vocabulary", "front": "airport" }
+    },
+    {
+      "front": "flight",
+      "back": "vuelo",
+      "reading": "/flaɪt/",
+      "explanation": "Un viaje en avión. 'My flight leaves at 8 AM.' También: 'flight attendant' = azafata/o. Pronunciación: la 'gh' es muda.",
+      "cardRef": { "category": "vocabulary", "front": "flight" }
+    },
+    {
+      "front": "train",
+      "back": "tren",
+      "reading": "/treɪn/",
+      "explanation": "Medio de transporte sobre rieles. 'I take the train to work every day.' Verbo: 'to train' = entrenar (¡otra palabra!).",
+      "cardRef": { "category": "vocabulary", "front": "train" }
+    },
+    {
+      "front": "bus",
+      "back": "autobús / colectivo",
+      "reading": "/bʌs/",
+      "explanation": "Transporte público por carretera. 'The bus stop is around the corner.' Plural: buses (con doble 's'). Preposición: ON the bus (no 'in').",
+      "cardRef": { "category": "vocabulary", "front": "bus" }
+    },
+    {
+      "front": "ticket",
+      "back": "boleto / pasaje / entrada",
+      "reading": "/ˈtɪkɪt/",
+      "explanation": "Sirve para transporte ('train ticket'), espectáculos ('concert ticket') y multas ('parking ticket'). 'I bought a one-way ticket.' One-way = ida, return/round-trip = ida y vuelta.",
+      "cardRef": { "category": "vocabulary", "front": "ticket" }
+    },
+    {
+      "front": "passport",
+      "back": "pasaporte",
+      "reading": "/ˈpæspɔːrt/",
+      "explanation": "Documento de identidad para viajar al exterior. 'Don't forget your passport!' Ojo con la pronunciación: /ˈpæs-pɔːrt/, no /pas-port/ como en español.",
+      "cardRef": { "category": "vocabulary", "front": "passport" }
+    },
+    {
+      "front": "hotel",
+      "back": "hotel",
+      "reading": "/hoʊˈtɛl/",
+      "explanation": "Alojamiento para viajeros. 'We booked a hotel near the beach.' Acento en la segunda sílaba: ho-TEL (no HO-tel como en español). Se usa 'at': 'I'm staying AT the hotel.'",
+      "cardRef": { "category": "vocabulary", "front": "hotel" }
+    },
+    {
+      "front": "luggage",
+      "back": "equipaje",
+      "reading": "/ˈlʌɡɪdʒ/",
+      "explanation": "Todo lo que llevás en un viaje (valijas, bolsos). ¡INCONTABLE! No se dice 'a luggage' ni 'luggages'. Se dice: 'a piece of luggage' o simplemente 'my luggage'. Sinónimo: baggage.",
+      "cardRef": { "category": "vocabulary", "front": "luggage" }
+    },
+    {
+      "front": "platform",
+      "back": "andén / plataforma",
+      "reading": "/ˈplætfɔːrm/",
+      "explanation": "Área de la estación donde esperás el tren. 'The train to London departs from platform 3.' En el aeropuerto NO se usa platform, se usa 'gate'.",
+      "cardRef": { "category": "vocabulary", "front": "platform" }
+    },
+    {
+      "front": "gate",
+      "back": "puerta de embarque",
+      "reading": "/ɡeɪt/",
+      "explanation": "Puerta por donde subís al avión en el aeropuerto. 'Please go to gate 12 for boarding.' También significa 'portón' en general: 'garden gate'.",
+      "cardRef": { "category": "vocabulary", "front": "gate" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "En el aeropuerto",
+      "instruction": "Estas son las palabras clave para moverte en un aeropuerto. Prestá atención a las preposiciones: AT the airport, AT the gate. Y recordá: 'luggage' es incontable (no se dice 'a luggage').",
+      "itemIndices": [0, 1, 5, 7, 9]
+    },
+    {
+      "type": "introduce",
+      "title": "Transporte terrestre y alojamiento",
+      "instruction": "Ahora el transporte por tierra y dónde dormir. Ojo con las preposiciones: ON the bus, ON the train, AT the hotel. Y 'platform' es para trenes, 'gate' es para aviones.",
+      "itemIndices": [2, 3, 4, 6, 8]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto de cada palabra de viaje.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice en inglés?",
+      "instruction": "Ves la palabra en español. Escribí la traducción en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste 10 palabras de viaje y transporte. Recordá: AT the airport/gate/hotel, ON the bus/train, luggage es INCONTABLE, platform = tren y gate = avión. ¡Ya podés moverte en inglés!",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

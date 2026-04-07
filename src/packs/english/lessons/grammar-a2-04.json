@@ -1,0 +1,69 @@
+{
+  "id": "grammar-a2-04",
+  "title": "Will vs Going to",
+  "description": "Dos formas de hablar del futuro con usos distintos. 'Will' para decisiones espontáneas, predicciones y promesas. 'Going to' para planes previos y predicciones basadas en evidencia.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "will + infinitive (spontaneous decisions, promises, predictions)",
+      "back": "Decisiones del momento, promesas, predicciones sin evidencia",
+      "reading": "",
+      "explanation": "Usamos 'will' cuando decidimos algo EN EL MOMENTO de hablar. 'The phone is ringing.' → 'I'll answer it.' (no lo tenías planeado). También para promesas: 'I'll help you, I promise.' Y predicciones basadas en opinión: 'I think it will rain tomorrow.' Contracción: I'll, you'll, he'll, she'll, we'll, they'll. Negativo: won't.",
+      "cardRef": { "category": "grammar", "front": "will + infinitive (spontaneous decisions, promises, predictions)" }
+    },
+    {
+      "front": "going to + infinitive (plans, evidence-based predictions)",
+      "back": "Planes decididos antes, predicciones con evidencia visible",
+      "reading": "",
+      "explanation": "Usamos 'going to' cuando ya decidiste algo ANTES de hablar. 'I'm going to study medicine.' (ya lo decidiste). Y para predicciones con evidencia visible: 'Look at those clouds — it's going to rain.' (ves la evidencia). Estructura: am/is/are + going to + verbo base.",
+      "cardRef": { "category": "grammar", "front": "going to + infinitive (plans, evidence-based predictions)" }
+    },
+    {
+      "front": "'It's cold.' → 'I'll close the window.' (spontaneous) vs 'I'm going to close the window.' (planned)",
+      "back": "'Hace frío.' → 'Cierro la ventana.' (espontáneo) vs 'Voy a cerrar la ventana.' (planeado)",
+      "reading": "",
+      "explanation": "Contraste clave: 'I'll close the window' = decidís en ese momento porque alguien dijo que tiene frío. 'I'm going to close the window' = ya habías decidido cerrarla (quizás te estabas levantando para hacerlo). En español a menudo usamos 'voy a...' para ambos. En inglés la distinción importa.",
+      "cardRef": { "category": "grammar", "front": "'It's cold.' → 'I'll close the window.' (spontaneous) vs 'I'm going to close the window.' (planned)" }
+    },
+    {
+      "front": "'I think Brazil will win.' (opinion) vs 'Brazil is going to win — look at the score!' (evidence)",
+      "back": "'Creo que Brasil va a ganar.' (opinión) vs '¡Brasil va a ganar — mirá el marcador!' (evidencia)",
+      "reading": "",
+      "explanation": "Predicciones: 'will' = opinión personal, sin evidencia directa. 'I think the economy will improve.' 'Going to' = hay evidencia ahora mismo. 'She's going to have a baby!' (la ves embarazada). 'Look out! That vase is going to fall!' (lo ves tambalear). En español no hay esta distinción — siempre decimos 'va a...'.",
+      "cardRef": { "category": "grammar", "front": "'I think Brazil will win.' (opinion) vs 'Brazil is going to win — look at the score!' (evidence)" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Dos futuros, dos intenciones",
+      "instruction": "En español generalmente usamos 'voy a...' para casi todo el futuro. En inglés hay que elegir: 'will' para lo espontáneo y 'going to' para lo planeado. La diferencia está en CUÁNDO tomaste la decisión: ¿ahora mismo o antes de este momento?",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Contrastes directos",
+      "instruction": "Mirá las mismas situaciones con will y going to. Notar cómo cambia el significado según si la decisión es espontánea o previa, y si la predicción tiene evidencia visible o es solo una opinión.",
+      "itemIndices": [2, 3]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Will o going to?",
+      "instruction": "Leé la situación y elegí: ¿will o going to? Preguntate: ¿la decisión se toma ahora o ya estaba tomada? ¿Hay evidencia visible?",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "recall",
+      "title": "Completá con will o going to",
+      "instruction": "Escribí la oración completa usando la forma correcta del futuro.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Resumen: WILL = decisiones espontáneas ('I'll help you'), promesas ('I'll call you'), predicciones por opinión ('I think it will rain'). GOING TO = planes previos ('I'm going to study law'), predicciones con evidencia ('Look! It's going to rain'). Truco: si podés decir 'ya lo decidí' → going to. Si lo decidís en el momento → will.",
+      "itemIndices": [0, 1, 2, 3]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "vocab-a1-08",
+  "title": "Body Parts & Health",
+  "description": "Partes del cuerpo y expresiones de salud. CLAVE: 'I have a headache' (NO 'I have pain of head'), 'I am hungry' (NO 'I have hunger').",
+  "level": "a1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "head",
+      "back": "cabeza",
+      "reading": "/hɛd/",
+      "explanation": "Se pronuncia como 'jed' (la 'h' es aspirada). No confundir con 'hat' (sombrero). 'My head hurts' = me duele la cabeza.",
+      "cardRef": { "category": "vocabulary", "front": "head" }
+    },
+    {
+      "front": "eye",
+      "back": "ojo",
+      "reading": "/aɪ/",
+      "explanation": "Se pronuncia exactamente como 'I' (yo): /aɪ/. Plural: eyes /aɪz/. 'My eyes are blue' = mis ojos son azules.",
+      "cardRef": { "category": "vocabulary", "front": "eye" }
+    },
+    {
+      "front": "hand",
+      "back": "mano",
+      "reading": "/hænd/",
+      "explanation": "Pronunciación: la 'a' es /æ/ (entre 'a' y 'e'). 'Right hand' = mano derecha. 'Left hand' = mano izquierda. 'Wash your hands' = lavate las manos.",
+      "cardRef": { "category": "vocabulary", "front": "hand" }
+    },
+    {
+      "front": "arm",
+      "back": "brazo",
+      "reading": "/ɑːrm/",
+      "explanation": "Se pronuncia 'arm' con vocal larga. No confundir con 'harm' (daño). 'My arm hurts' = me duele el brazo.",
+      "cardRef": { "category": "vocabulary", "front": "arm" }
+    },
+    {
+      "front": "leg",
+      "back": "pierna",
+      "reading": "/lɛɡ/",
+      "explanation": "Incluye toda la extremidad inferior: muslo, rodilla, pantorrilla. 'I broke my leg' = me rompí la pierna.",
+      "cardRef": { "category": "vocabulary", "front": "leg" }
+    },
+    {
+      "front": "stomach",
+      "back": "estómago / panza",
+      "reading": "/ˈstʌmək/",
+      "explanation": "Pronunciación sorprendente: STU-mak (la 'ch' suena /k/, no /tʃ/). 'My stomach hurts' = me duele el estómago. También informal: 'tummy'.",
+      "cardRef": { "category": "vocabulary", "front": "stomach" }
+    },
+    {
+      "front": "tooth / teeth",
+      "back": "diente / dientes",
+      "reading": "/tuːθ/ · /tiːθ/",
+      "explanation": "Plural MUY irregular: tooth → teeth (no 'tooths'). Ambos tienen el sonido 'th' /θ/. 'Brush your teeth' = cepillate los dientes. 'Toothache' = dolor de muelas.",
+      "cardRef": { "category": "vocabulary", "front": "tooth / teeth" }
+    },
+    {
+      "front": "I have a headache",
+      "back": "Me duele la cabeza",
+      "reading": "/aɪ hæv ə ˈhɛdeɪk/",
+      "explanation": "¡ERROR TÍPICO! En español: 'me duele la cabeza'. Traducción literal incorrecta: 'I have pain of head'. CORRECTO: 'I have a headache'. En inglés los dolores se expresan como: 'I have a + [parte del cuerpo]+ache' → headache, stomachache, toothache, backache.",
+      "cardRef": { "category": "vocabulary", "front": "I have a headache" }
+    },
+    {
+      "front": "I feel sick",
+      "back": "Me siento mal / Estoy enfermo",
+      "reading": "/aɪ fiːl sɪk/",
+      "explanation": "En inglés usás el verbo 'feel' (sentir) + adjetivo, o 'be' + adjetivo: 'I feel sick' / 'I am sick'. Importante: 'I am hungry' = tengo hambre (NO 'I have hunger'). 'I am thirsty' = tengo sed (NO 'I have thirst'). 'I am cold' = tengo frío. El inglés usa 'to be' donde el español usa 'tener'.",
+      "cardRef": { "category": "vocabulary", "front": "I feel sick" }
+    },
+    {
+      "front": "doctor",
+      "back": "médico / doctor",
+      "reading": "/ˈdɑːktər/",
+      "explanation": "Cognado directo. Se pronuncia DOC-tor. 'Go to the doctor' = ir al médico. 'I need to see a doctor' = necesito ver a un médico. En inglés se usa para cualquier médico, no solo doctorados.",
+      "cardRef": { "category": "vocabulary", "front": "doctor" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Tu cuerpo y tu salud",
+      "instruction": "10 palabras y expresiones sobre el cuerpo y la salud. PRESTÁ MUCHA ATENCIÓN a cómo se expresan los dolores y estados físicos en inglés — es muy diferente al español. En español usamos 'tener' (tengo hambre, tengo frío, tengo dolor), pero en inglés se usa 'be' o 'have a [X]ache'. Esto es una fuente enorme de errores para hispanohablantes.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué parte del cuerpo es?",
+      "instruction": "Elegí el significado correcto de cada palabra o expresión.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "listen-identify",
+      "title": "Escuchá y elegí",
+      "instruction": "Escuchá la palabra y elegí qué parte del cuerpo o expresión de salud es.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Expresá cómo te sentís",
+      "instruction": "Armá oraciones correctas sobre salud. Recordá: 'I HAVE a headache' (no 'I have pain of head'), 'I AM sick' (no 'I have sick'), 'I AM hungry' (no 'I have hunger').",
+      "itemIndices": [7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice en inglés?",
+      "instruction": "Ves la palabra o expresión en español. Escribí la versión en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "¡Cuerpo y salud listos!",
+      "instruction": "Ya sabés 7 partes del cuerpo y 3 expresiones de salud. LAS REGLAS MÁS IMPORTANTES: (1) Dolores: 'I have a headache/stomachache/toothache' — nunca 'pain of [body part]'. (2) Estados físicos con 'to be': 'I AM hungry/thirsty/cold/hot/sick' — nunca 'I have hunger'. (3) Plural irregular: tooth → teeth. Estos errores son de los más comunes en hispanohablantes.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

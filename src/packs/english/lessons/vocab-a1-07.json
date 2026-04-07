@@ -1,0 +1,117 @@
+{
+  "id": "vocab-a1-07",
+  "title": "House & Furniture",
+  "description": "Las partes de la casa y los muebles principales. Aprendé también las preposiciones clave: 'in the kitchen', 'at home'.",
+  "level": "a1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "house",
+      "back": "casa",
+      "reading": "/haʊs/",
+      "explanation": "Sustantivo: /haʊs/ con 's' sorda. Plural: houses /ˈhaʊzɪz/. Diferencia: 'house' = la estructura física. 'Home' = el concepto de hogar. 'I'm going home' (no 'to home'), pero 'I'm going to my house'.",
+      "cardRef": { "category": "vocabulary", "front": "house" }
+    },
+    {
+      "front": "room",
+      "back": "habitación / cuarto",
+      "reading": "/ruːm/",
+      "explanation": "Palabra genérica para cualquier habitación. También significa 'espacio': 'There's no room' = no hay espacio. Se pronuncia 'rum' con vocal larga.",
+      "cardRef": { "category": "vocabulary", "front": "room" }
+    },
+    {
+      "front": "bedroom",
+      "back": "dormitorio / habitación",
+      "reading": "/ˈbɛdruːm/",
+      "explanation": "Literalmente: bed (cama) + room (habitación). Muchas palabras de la casa se forman así: bathroom, living room, dining room.",
+      "cardRef": { "category": "vocabulary", "front": "bedroom" }
+    },
+    {
+      "front": "kitchen",
+      "back": "cocina",
+      "reading": "/ˈkɪtʃɪn/",
+      "explanation": "Se pronuncia KI-chin. Preposición: 'in the kitchen' = en la cocina. 'I'm cooking in the kitchen.' La 'tch' suena /tʃ/ como en 'church'.",
+      "cardRef": { "category": "vocabulary", "front": "kitchen" }
+    },
+    {
+      "front": "bathroom",
+      "back": "baño",
+      "reading": "/ˈbæθruːm/",
+      "explanation": "Incluye 'th' /θ/: BATh-rum. En EE.UU., 'bathroom' es la forma educada de decir 'donde está el inodoro'. En Reino Unido se dice 'toilet' o 'loo'. 'In the bathroom' = en el baño.",
+      "cardRef": { "category": "vocabulary", "front": "bathroom" }
+    },
+    {
+      "front": "table",
+      "back": "mesa",
+      "reading": "/ˈteɪbəl/",
+      "explanation": "Se pronuncia TEI-bol. 'On the table' = sobre la mesa (preposición 'on' para superficies). 'At the table' = sentado a la mesa.",
+      "cardRef": { "category": "vocabulary", "front": "table" }
+    },
+    {
+      "front": "chair",
+      "back": "silla",
+      "reading": "/tʃɛr/",
+      "explanation": "Se pronuncia 'cher' (rima con 'air'). 'On a chair' = sentado en una silla. 'Sit on the chair' = sentate en la silla.",
+      "cardRef": { "category": "vocabulary", "front": "chair" }
+    },
+    {
+      "front": "bed",
+      "back": "cama",
+      "reading": "/bɛd/",
+      "explanation": "Preposiciones: 'in bed' = en la cama (acostado, sin artículo). 'On the bed' = sobre la cama (como superficie). 'Go to bed' = ir a dormir (sin artículo).",
+      "cardRef": { "category": "vocabulary", "front": "bed" }
+    },
+    {
+      "front": "window",
+      "back": "ventana",
+      "reading": "/ˈwɪndoʊ/",
+      "explanation": "Se pronuncia UIN-dou. No confundir con 'Windows' (el sistema operativo). 'Look out the window' = mirá por la ventana.",
+      "cardRef": { "category": "vocabulary", "front": "window" }
+    },
+    {
+      "front": "door",
+      "back": "puerta",
+      "reading": "/dɔːr/",
+      "explanation": "Se pronuncia como 'dor'. 'Open the door' = abrí la puerta. 'At the door' = en la puerta (esperando afuera). 'Next door' = al lado, el vecino.",
+      "cardRef": { "category": "vocabulary", "front": "door" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Tu casa en inglés",
+      "instruction": "10 palabras para describir tu casa. Prestá mucha atención a las preposiciones, porque en español todo es 'en', pero en inglés cambia: 'IN the kitchen' (dentro), 'ON the table' (sobre una superficie), 'AT home' (ubicación general). También notá que muchas habitaciones se forman con compuestos: bed+room, bath+room.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué parte de la casa es?",
+      "instruction": "Elegí el significado correcto de cada palabra.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "listen-identify",
+      "title": "Escuchá y elegí",
+      "instruction": "Escuchá la palabra y elegí qué parte de la casa o mueble es.",
+      "itemIndices": [0, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice en inglés?",
+      "instruction": "Ves la palabra en español. Escribí la palabra en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá frases con preposiciones",
+      "instruction": "Usá las preposiciones correctas con cada palabra. Recordá: 'in' para dentro de espacios, 'on' para superficies, 'at' para ubicaciones generales.",
+      "itemIndices": [3, 4, 5, 7, 9]
+    },
+    {
+      "type": "summary",
+      "title": "¡Casa equipada!",
+      "instruction": "Ya sabés 10 palabras de la casa. Las preposiciones son CLAVE: 'in the kitchen/bedroom/bathroom' (dentro de un espacio), 'on the table/bed' (sobre una superficie), 'at home' (ubicación general). Truco: 'in bed' (acostado) pero 'on the bed' (sentado encima). Estas diferencias no existen en español, así que practicá mucho.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

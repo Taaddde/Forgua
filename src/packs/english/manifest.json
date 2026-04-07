@@ -1,21 +1,21 @@
 {
   "id": "english",
-  "name": "Ingl\u00e9s",
+  "name": "Inglés",
   "nativeName": "English",
-  "icon": "\ud83c\uddec\ud83c\udde7",
+  "icon": "🇺🇸",
   "version": "1.0.0",
   "authors": ["LinguaForge Team"],
   "license": "MIT",
-  "aiGenerated": false,
+  "aiGenerated": true,
   "family": "latin",
   "speech": {
     "recognitionLang": "en-US",
     "ttsLang": "en-US",
-    "defaultRate": 1.0
+    "defaultRate": 0.85
   },
   "direction": "ltr",
   "writingSystems": [
-    { "id": "latin", "name": "Latin Script" }
+    { "id": "latin-alphabet", "name": "Latin Alphabet" }
   ],
   "features": {
     "pitchAccent": false,
@@ -25,9 +25,12 @@
     "tokenization": false
   },
   "levels": [
-    { "id": "a1", "name": "CEFR A1", "order": 1, "description": "Beginner" },
-    { "id": "a2", "name": "CEFR A2", "order": 2, "description": "Elementary" },
-    { "id": "b1", "name": "CEFR B1", "order": 3, "description": "Intermediate" }
+    { "id": "a1", "name": "CEFR A1", "order": 1, "description": "Principiante — Supervivencia" },
+    { "id": "a2", "name": "CEFR A2", "order": 2, "description": "Elemental — Comunicación básica" },
+    { "id": "b1", "name": "CEFR B1", "order": 3, "description": "Intermedio — Usuario independiente" },
+    { "id": "b2", "name": "CEFR B2", "order": 4, "description": "Intermedio alto — Profesional" },
+    { "id": "c1", "name": "CEFR C1", "order": 5, "description": "Avanzado — Dominio operativo" },
+    { "id": "c2", "name": "CEFR C2", "order": 6, "description": "Maestría — Casi nativo" }
   ],
-  "categories": ["vocabulary", "grammar", "reading"]
+  "categories": ["vocabulary", "grammar", "reading", "listening"]
 }

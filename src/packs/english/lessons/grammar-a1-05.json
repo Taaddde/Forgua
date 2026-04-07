@@ -1,0 +1,76 @@
+{
+  "id": "grammar-a1-05",
+  "title": "Plural Nouns: Regular and Irregular",
+  "description": "La mayoría de los plurales en inglés se forman con -s, pero hay reglas especiales (-es, -ies) y plurales irregulares que hay que memorizar (man→men, child→children).",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "most nouns + -s: cat → cats, book → books",
+      "back": "regla general: agregar -s",
+      "reading": "/kæts/ /bʊks/",
+      "explanation": "La regla más simple: la mayoría de sustantivos forman el plural agregando -s. Igual que en español (gato→gatos). La pronunciación de la -s varía: /s/ después de sonido sordo (cats, books), /z/ después de sonido sonoro (dogs, games).",
+      "cardRef": { "category": "grammar", "front": "plural -s rule" }
+    },
+    {
+      "front": "-s, -sh, -ch, -x, -z + -es: bus → buses, box → boxes, watch → watches",
+      "back": "agregar -es cuando termina en sonido sibilante",
+      "reading": "/ˈbʌsɪz/ /ˈbɑːksɪz/ /ˈwɑːtʃɪz/",
+      "explanation": "Si el sustantivo termina en -s, -sh, -ch, -x o -z, se agrega -es (no solo -s). Se pronuncia como una sílaba extra /ɪz/: buses, dishes, watches, boxes. Similar al español: luz→luces.",
+      "cardRef": { "category": "grammar", "front": "plural -es rule" }
+    },
+    {
+      "front": "man → men, woman → women, child → children, person → people",
+      "back": "plurales irregulares con cambio de raíz",
+      "reading": "/mɛn/ /ˈwɪmɪn/ /ˈtʃɪldrən/ /ˈpiːpəl/",
+      "explanation": "Estos plurales irregulares cambian la palabra completamente — no siguen ningún patrón. Hay que memorizarlos. Ojo: 'people' ya es plural ('one person, two people'). ERROR: 'peoples' existe pero significa 'pueblos/naciones'.",
+      "cardRef": { "category": "grammar", "front": "irregular plurals (man, child, person)" }
+    },
+    {
+      "front": "sheep → sheep, fish → fish, deer → deer",
+      "back": "plurales sin cambio (igual en singular y plural)",
+      "reading": "/ʃiːp/ /fɪʃ/ /dɪr/",
+      "explanation": "Algunos sustantivos tienen la MISMA forma en singular y plural: 'one sheep, ten sheep' (no 'sheeps'). 'Fish' puede ser 'fish' o 'fishes' (cuando hablás de distintas especies). Esto no existe en español.",
+      "cardRef": { "category": "grammar", "front": "zero plural (sheep, fish)" }
+    },
+    {
+      "front": "tooth → teeth, foot → feet, mouse → mice, goose → geese",
+      "back": "plurales irregulares con cambio de vocal",
+      "reading": "/tiːθ/ /fiːt/ /maɪs/ /ɡiːs/",
+      "explanation": "Estos plurales cambian la vocal interna: oo→ee (tooth/teeth, foot/feet, goose/geese), ou→i (mouse/mice). Son restos del inglés antiguo. Memorizalos como pares: tooth-teeth, foot-feet.",
+      "cardRef": { "category": "grammar", "front": "irregular plurals (tooth, foot, mouse)" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Regla general: agregar -s",
+      "instruction": "La buena noticia: la MAYORÍA de los plurales en inglés se forman simplemente agregando -s, igual que en español. Cat→cats, book→books, student→students. Pero hay excepciones importantes que tenés que conocer.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Plurales irregulares: los que hay que memorizar",
+      "instruction": "Hay sustantivos muy comunes que NO siguen las reglas. 'Man→men', 'child→children', 'person→people'. Algunos no cambian nada: 'sheep→sheep'. Y otros cambian la vocal: 'tooth→teeth', 'foot→feet'. No hay otra opción: hay que memorizarlos.",
+      "itemIndices": [2, 3, 4]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es el plural correcto?",
+      "instruction": "Elegí la forma plural correcta para cada sustantivo.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "recall",
+      "title": "Escribí el plural",
+      "instruction": "Ves el sustantivo en singular. Escribí su forma plural.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Resumen: Regla general = +s (cats, books). Termina en -s/-sh/-ch/-x/-z = +es (buses, watches). Irregulares = memorizarlos (men, children, people, teeth, feet, mice). Sin cambio = sheep, fish, deer. Consejo: cuando aprendas un sustantivo nuevo, fijate si su plural es regular o irregular.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    }
+  ]
+}

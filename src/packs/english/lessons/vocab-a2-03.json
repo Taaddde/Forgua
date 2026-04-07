@@ -1,0 +1,111 @@
+{
+  "id": "vocab-a2-03",
+  "title": "Phrasal Verbs: The Basics",
+  "description": "Los phrasal verbs NO existen en español y son uno de los mayores desafíos del inglés. Un verbo + una partícula = significado completamente nuevo. Acá aprendés los 10 más comunes.",
+  "level": "a2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "get up",
+      "back": "levantarse",
+      "reading": "/ɡɛt ʌp/",
+      "explanation": "Levantarse de la cama o de una silla. 'I get up at 7 AM every day.' Separable: 'Get me up at 7' (informal). ¿Qué es un phrasal verb? Un verbo (get) + una partícula (up) que JUNTOS significan algo diferente al verbo solo. 'Get' = obtener, pero 'get up' = levantarse.",
+      "cardRef": { "category": "vocabulary", "front": "get up" }
+    },
+    {
+      "front": "look for",
+      "back": "buscar",
+      "reading": "/lʊk fɔːr/",
+      "explanation": "Buscar algo o a alguien. 'I'm looking for my keys.' INSEPARABLE: el objeto va DESPUÉS de 'for'. 'I'm looking for them.' ✓ (NO 'I'm looking them for' ✗). 'Look' = mirar, pero 'look for' = buscar. Cambió completamente el significado.",
+      "cardRef": { "category": "vocabulary", "front": "look for" }
+    },
+    {
+      "front": "turn on / turn off",
+      "back": "encender / apagar",
+      "reading": "/tɜːrn ɒn/ — /tɜːrn ɒf/",
+      "explanation": "Encender y apagar dispositivos. 'Turn on the TV.' SEPARABLE: con pronombres, el pronombre va EN EL MEDIO. 'Turn it on.' ✓ (NO 'Turn on it.' ✗). Con sustantivos, ambos funcionan: 'Turn on the light' = 'Turn the light on'.",
+      "cardRef": { "category": "vocabulary", "front": "turn on / turn off" }
+    },
+    {
+      "front": "give up",
+      "back": "rendirse / dejar de (un hábito)",
+      "reading": "/ɡɪv ʌp/",
+      "explanation": "Dos usos: (1) Rendirse: 'Don't give up!' = ¡No te rindas! (2) Dejar un hábito: 'I gave up smoking.' = Dejé de fumar. Separable: 'I gave it up.' ✓ Con pronombre, siempre en el medio.",
+      "cardRef": { "category": "vocabulary", "front": "give up" }
+    },
+    {
+      "front": "pick up",
+      "back": "levantar / recoger / pasar a buscar",
+      "reading": "/pɪk ʌp/",
+      "explanation": "Tres usos comunes: (1) Levantar del suelo: 'Pick up that paper.' (2) Recoger/pasar a buscar: 'I'll pick you up at 8.' (3) Aprender informalmente: 'I picked up some Spanish in Mexico.' Separable: 'Pick it up.' ✓",
+      "cardRef": { "category": "vocabulary", "front": "pick up" }
+    },
+    {
+      "front": "look after",
+      "back": "cuidar",
+      "reading": "/lʊk ˈɑːftər/",
+      "explanation": "Cuidar a alguien o algo. 'She looks after her grandmother.' = Cuida a su abuela. INSEPARABLE: 'She looks after her.' ✓ (NO 'She looks her after.' ✗). Sinónimo: 'take care of'. 'Look' = mirar, 'look after' = cuidar — significado totalmente distinto.",
+      "cardRef": { "category": "vocabulary", "front": "look after" }
+    },
+    {
+      "front": "put on",
+      "back": "ponerse (ropa)",
+      "reading": "/pʊt ɒn/",
+      "explanation": "Ponerse ropa o accesorios. 'Put on your jacket.' = Ponete la campera. Opuesto: 'take off'. Separable: 'Put it on.' ✓ (NO 'Put on it.' ✗). También: 'put on weight' = subir de peso.",
+      "cardRef": { "category": "vocabulary", "front": "put on" }
+    },
+    {
+      "front": "take off",
+      "back": "sacarse (ropa) / despegar (avión)",
+      "reading": "/teɪk ɒf/",
+      "explanation": "Dos significados: (1) Sacarse ropa: 'Take off your shoes.' (2) Despegar (avión): 'The plane takes off at 9.' Separable con ropa: 'Take them off.' ✓ Con aviones es intransitivo (sin objeto).",
+      "cardRef": { "category": "vocabulary", "front": "take off" }
+    },
+    {
+      "front": "find out",
+      "back": "descubrir / enterarse",
+      "reading": "/faɪnd aʊt/",
+      "explanation": "Descubrir información. 'I found out the truth.' = Descubrí la verdad. 'How did you find out?' = ¿Cómo te enteraste? Separable: 'I found it out.' ✓ (aunque 'I found out about it' es más natural).",
+      "cardRef": { "category": "vocabulary", "front": "find out" }
+    },
+    {
+      "front": "come back",
+      "back": "volver / regresar",
+      "reading": "/kʌm bæk/",
+      "explanation": "Regresar a un lugar. 'When are you coming back?' = ¿Cuándo volvés? 'I'll come back later.' INTRANSITIVO: no lleva objeto directo. Sustantivo: 'comeback' (una sola palabra) = regreso/reaparición.",
+      "cardRef": { "category": "vocabulary", "front": "come back" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "¿Qué son los phrasal verbs?",
+      "instruction": "Los phrasal verbs son verbo + partícula con un significado NUEVO que no podés adivinar. 'Look' = mirar, pero 'look for' = buscar y 'look after' = cuidar. En español NO existen — es concepto nuevo. Hay dos tipos: SEPARABLES (el pronombre va en el medio: 'turn it on') e INSEPARABLES (todo junto: 'look for it'). Empecemos con los 5 más usados.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "5 phrasal verbs más",
+      "instruction": "Estos 5 phrasal verbs completan tu kit básico. Prestá especial atención a si son separables o inseparables. Regla clave: con pronombres (it, them, me), los separables OBLIGAN a poner el pronombre en el medio: 'Put it on' ✓, 'Put on it' ✗.",
+      "itemIndices": [5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa el phrasal verb?",
+      "instruction": "Elegí el significado correcto. Recordá: el significado del phrasal verb suele ser MUY diferente al del verbo solo.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice en inglés?",
+      "instruction": "Ves el significado en español. Escribí el phrasal verb correcto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste 10 phrasal verbs básicos. Regla clave de separabilidad: con pronombres (it, them), los separables llevan el pronombre EN EL MEDIO: 'Turn it on' ✓, 'Turn on it' ✗. Los inseparables (look for, look after) nunca se separan. Los phrasal verbs son infinitos en inglés — estos 10 son los más frecuentes. ¡Seguí incorporando más!",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

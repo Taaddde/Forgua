@@ -1,1951 +1,2684 @@
 [
   {
     "word": "hello",
-    "reading": "hello",
-    "meanings": ["hola"],
+    "reading": "/həˈloʊ/",
+    "meanings": [
+      "hola"
+    ],
     "pos": "interjection",
     "level": "a1",
-    "tags": ["greetings", "basic"],
+    "tags": [
+      "greetings",
+      "basic"
+    ],
     "examples": [
       {
         "text": "Hello, how are you?",
-        "reading": "Hello, how are you?",
-        "translation": "Hola, \u00bfc\u00f3mo est\u00e1s?"
+        "reading": "",
+        "translation": "Hola, ¿cómo estás?"
       }
     ]
   },
   {
     "word": "goodbye",
-    "reading": "goodbye",
-    "meanings": ["adi\u00f3s", "hasta luego"],
+    "reading": "/ɡʊdˈbaɪ/",
+    "meanings": [
+      "adiós",
+      "hasta luego"
+    ],
     "pos": "interjection",
     "level": "a1",
-    "tags": ["greetings", "basic"],
+    "tags": [
+      "greetings",
+      "basic"
+    ],
     "examples": [
       {
         "text": "Goodbye! See you tomorrow.",
-        "reading": "Goodbye! See you tomorrow.",
-        "translation": "\u00a1Adi\u00f3s! Nos vemos ma\u00f1ana."
+        "reading": "",
+        "translation": "¡Adiós! Nos vemos mañana."
       }
     ]
   },
   {
     "word": "please",
-    "reading": "please",
-    "meanings": ["por favor"],
+    "reading": "/pliːz/",
+    "meanings": [
+      "por favor"
+    ],
     "pos": "adverb",
     "level": "a1",
-    "tags": ["greetings", "basic", "polite"],
+    "tags": [
+      "greetings",
+      "basic",
+      "polite"
+    ],
     "examples": [
       {
         "text": "Can I have some water, please?",
-        "reading": "Can I have some water, please?",
-        "translation": "\u00bfPuedo tomar un poco de agua, por favor?"
+        "reading": "",
+        "translation": "¿Puedo tomar un poco de agua, por favor?"
       }
     ]
   },
   {
     "word": "thank you",
-    "reading": "thank you",
-    "meanings": ["gracias"],
+    "reading": "/θæŋk juː/",
+    "meanings": [
+      "gracias"
+    ],
     "pos": "interjection",
     "level": "a1",
-    "tags": ["greetings", "basic", "polite"],
+    "tags": [
+      "greetings",
+      "basic",
+      "polite"
+    ],
     "examples": [
       {
         "text": "Thank you very much!",
-        "reading": "Thank you very much!",
-        "translation": "\u00a1Muchas gracias!"
+        "reading": "",
+        "translation": "¡Muchas gracias!"
       }
     ]
   },
   {
     "word": "sorry",
-    "reading": "sorry",
-    "meanings": ["perd\u00f3n", "lo siento"],
+    "reading": "/ˈsɑːri/",
+    "meanings": [
+      "perdón",
+      "lo siento"
+    ],
     "pos": "interjection",
     "level": "a1",
-    "tags": ["greetings", "basic"],
+    "tags": [
+      "greetings",
+      "basic"
+    ],
     "examples": [
       {
         "text": "Sorry, I don't understand.",
-        "reading": "Sorry, I don't understand.",
-        "translation": "Perd\u00f3n, no entiendo."
+        "reading": "",
+        "translation": "Perdón, no entiendo."
       }
     ]
   },
   {
     "word": "excuse me",
-    "reading": "excuse me",
-    "meanings": ["disculpe", "con permiso"],
+    "reading": "/ɪkˈskjuːz miː/",
+    "meanings": [
+      "disculpe",
+      "con permiso"
+    ],
     "pos": "interjection",
     "level": "a1",
-    "tags": ["greetings", "basic", "polite"],
+    "tags": [
+      "greetings",
+      "basic",
+      "polite"
+    ],
     "examples": [
       {
         "text": "Excuse me, where is the bathroom?",
-        "reading": "Excuse me, where is the bathroom?",
-        "translation": "Disculpe, \u00bfd\u00f3nde est\u00e1 el ba\u00f1o?"
+        "reading": "",
+        "translation": "Disculpe, ¿dónde está el baño?"
       }
     ]
   },
   {
     "word": "yes",
-    "reading": "yes",
-    "meanings": ["s\u00ed"],
+    "reading": "/jɛs/",
+    "meanings": [
+      "sí"
+    ],
     "pos": "adverb",
     "level": "a1",
-    "tags": ["greetings", "basic"],
+    "tags": [
+      "greetings",
+      "basic"
+    ],
     "examples": [
       {
         "text": "Yes, I am a student.",
-        "reading": "Yes, I am a student.",
-        "translation": "S\u00ed, soy estudiante."
+        "reading": "",
+        "translation": "Sí, soy estudiante."
       }
     ]
   },
   {
     "word": "no",
-    "reading": "no",
-    "meanings": ["no"],
+    "reading": "/noʊ/",
+    "meanings": [
+      "no"
+    ],
     "pos": "adverb",
     "level": "a1",
-    "tags": ["greetings", "basic"],
+    "tags": [
+      "greetings",
+      "basic"
+    ],
     "examples": [
       {
         "text": "No, thank you.",
-        "reading": "No, thank you.",
+        "reading": "",
         "translation": "No, gracias."
       }
     ]
   },
   {
     "word": "good morning",
-    "reading": "good morning",
-    "meanings": ["buenos d\u00edas", "buen d\u00eda"],
+    "reading": "/ɡʊd ˈmɔːrnɪŋ/",
+    "meanings": [
+      "buenos días",
+      "buen día"
+    ],
     "pos": "interjection",
     "level": "a1",
-    "tags": ["greetings", "basic"],
+    "tags": [
+      "greetings",
+      "basic"
+    ],
     "examples": [
       {
         "text": "Good morning! Did you sleep well?",
-        "reading": "Good morning! Did you sleep well?",
-        "translation": "\u00a1Buenos d\u00edas! \u00bfDormiste bien?"
+        "reading": "",
+        "translation": "¡Buenos días! ¿Dormiste bien?"
       }
     ]
   },
   {
     "word": "good night",
-    "reading": "good night",
-    "meanings": ["buenas noches"],
+    "reading": "/ɡʊd naɪt/",
+    "meanings": [
+      "buenas noches"
+    ],
     "pos": "interjection",
     "level": "a1",
-    "tags": ["greetings", "basic"],
+    "tags": [
+      "greetings",
+      "basic"
+    ],
     "examples": [
       {
         "text": "Good night, see you tomorrow.",
-        "reading": "Good night, see you tomorrow.",
-        "translation": "Buenas noches, nos vemos ma\u00f1ana."
+        "reading": "",
+        "translation": "Buenas noches, nos vemos mañana."
       }
     ]
   },
   {
     "word": "one",
-    "reading": "one",
-    "meanings": ["uno"],
+    "reading": "/wʌn/",
+    "meanings": [
+      "uno"
+    ],
     "pos": "number",
     "level": "a1",
-    "tags": ["numbers", "basic"],
+    "tags": [
+      "numbers",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I have one brother.",
-        "reading": "I have one brother.",
+        "reading": "",
         "translation": "Tengo un hermano."
       }
     ]
   },
   {
     "word": "two",
-    "reading": "two",
-    "meanings": ["dos"],
+    "reading": "/tuː/",
+    "meanings": [
+      "dos"
+    ],
     "pos": "number",
     "level": "a1",
-    "tags": ["numbers", "basic"],
+    "tags": [
+      "numbers",
+      "basic"
+    ],
     "examples": [
       {
         "text": "There are two cats in the garden.",
-        "reading": "There are two cats in the garden.",
-        "translation": "Hay dos gatos en el jard\u00edn."
+        "reading": "",
+        "translation": "Hay dos gatos en el jardín."
       }
     ]
   },
   {
     "word": "three",
-    "reading": "three",
-    "meanings": ["tres"],
+    "reading": "/θriː/",
+    "meanings": [
+      "tres"
+    ],
     "pos": "number",
     "level": "a1",
-    "tags": ["numbers", "basic"],
+    "tags": [
+      "numbers",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I need three eggs.",
-        "reading": "I need three eggs.",
+        "reading": "",
         "translation": "Necesito tres huevos."
       }
     ]
   },
   {
     "word": "four",
-    "reading": "four",
-    "meanings": ["cuatro"],
+    "reading": "/fɔːr/",
+    "meanings": [
+      "cuatro"
+    ],
     "pos": "number",
     "level": "a1",
-    "tags": ["numbers", "basic"],
+    "tags": [
+      "numbers",
+      "basic"
+    ],
     "examples": [
       {
         "text": "There are four seasons in a year.",
-        "reading": "There are four seasons in a year.",
-        "translation": "Hay cuatro estaciones en un a\u00f1o."
+        "reading": "",
+        "translation": "Hay cuatro estaciones en un año."
       }
     ]
   },
   {
     "word": "five",
-    "reading": "five",
-    "meanings": ["cinco"],
+    "reading": "/faɪv/",
+    "meanings": [
+      "cinco"
+    ],
     "pos": "number",
     "level": "a1",
-    "tags": ["numbers", "basic"],
+    "tags": [
+      "numbers",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I have five fingers on each hand.",
-        "reading": "I have five fingers on each hand.",
+        "reading": "",
         "translation": "Tengo cinco dedos en cada mano."
       }
     ]
   },
   {
     "word": "six",
-    "reading": "six",
-    "meanings": ["seis"],
+    "reading": "/sɪks/",
+    "meanings": [
+      "seis"
+    ],
     "pos": "number",
     "level": "a1",
-    "tags": ["numbers", "basic"],
+    "tags": [
+      "numbers",
+      "basic"
+    ],
     "examples": [
       {
         "text": "The class starts at six o'clock.",
-        "reading": "The class starts at six o'clock.",
+        "reading": "",
         "translation": "La clase empieza a las seis."
       }
     ]
   },
   {
     "word": "seven",
-    "reading": "seven",
-    "meanings": ["siete"],
+    "reading": "/ˈsɛvən/",
+    "meanings": [
+      "siete"
+    ],
     "pos": "number",
     "level": "a1",
-    "tags": ["numbers", "basic"],
+    "tags": [
+      "numbers",
+      "basic"
+    ],
     "examples": [
       {
         "text": "There are seven days in a week.",
-        "reading": "There are seven days in a week.",
-        "translation": "Hay siete d\u00edas en una semana."
+        "reading": "",
+        "translation": "Hay siete días en una semana."
       }
     ]
   },
   {
     "word": "eight",
-    "reading": "eight",
-    "meanings": ["ocho"],
+    "reading": "/eɪt/",
+    "meanings": [
+      "ocho"
+    ],
     "pos": "number",
     "level": "a1",
-    "tags": ["numbers", "basic"],
+    "tags": [
+      "numbers",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I wake up at eight in the morning.",
-        "reading": "I wake up at eight in the morning.",
-        "translation": "Me despierto a las ocho de la ma\u00f1ana."
+        "reading": "",
+        "translation": "Me despierto a las ocho de la mañana."
       }
     ]
   },
   {
     "word": "nine",
-    "reading": "nine",
-    "meanings": ["nueve"],
+    "reading": "/naɪn/",
+    "meanings": [
+      "nueve"
+    ],
     "pos": "number",
     "level": "a1",
-    "tags": ["numbers", "basic"],
+    "tags": [
+      "numbers",
+      "basic"
+    ],
     "examples": [
       {
         "text": "My daughter is nine years old.",
-        "reading": "My daughter is nine years old.",
-        "translation": "Mi hija tiene nueve a\u00f1os."
+        "reading": "",
+        "translation": "Mi hija tiene nueve años."
       }
     ]
   },
   {
     "word": "ten",
-    "reading": "ten",
-    "meanings": ["diez"],
+    "reading": "/tɛn/",
+    "meanings": [
+      "diez"
+    ],
     "pos": "number",
     "level": "a1",
-    "tags": ["numbers", "basic"],
+    "tags": [
+      "numbers",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I need ten minutes.",
-        "reading": "I need ten minutes.",
+        "reading": "",
         "translation": "Necesito diez minutos."
       }
     ]
   },
   {
     "word": "today",
-    "reading": "today",
-    "meanings": ["hoy"],
+    "reading": "/təˈdeɪ/",
+    "meanings": [
+      "hoy"
+    ],
     "pos": "adverb",
     "level": "a1",
-    "tags": ["time", "basic"],
+    "tags": [
+      "time",
+      "basic"
+    ],
     "examples": [
       {
         "text": "Today is a beautiful day.",
-        "reading": "Today is a beautiful day.",
-        "translation": "Hoy es un d\u00eda hermoso."
+        "reading": "",
+        "translation": "Hoy es un día hermoso."
       }
     ]
   },
   {
     "word": "yesterday",
-    "reading": "yesterday",
-    "meanings": ["ayer"],
+    "reading": "/ˈjɛstərdeɪ/",
+    "meanings": [
+      "ayer"
+    ],
     "pos": "adverb",
     "level": "a1",
-    "tags": ["time", "basic"],
+    "tags": [
+      "time",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I went to the park yesterday.",
-        "reading": "I went to the park yesterday.",
+        "reading": "",
         "translation": "Fui al parque ayer."
       }
     ]
   },
   {
     "word": "tomorrow",
-    "reading": "tomorrow",
-    "meanings": ["ma\u00f1ana"],
+    "reading": "/təˈmɑːroʊ/",
+    "meanings": [
+      "mañana"
+    ],
     "pos": "adverb",
     "level": "a1",
-    "tags": ["time", "basic"],
+    "tags": [
+      "time",
+      "basic"
+    ],
     "examples": [
       {
         "text": "Tomorrow is Monday.",
-        "reading": "Tomorrow is Monday.",
-        "translation": "Ma\u00f1ana es lunes."
+        "reading": "",
+        "translation": "Mañana es lunes."
       }
     ]
   },
   {
     "word": "morning",
-    "reading": "morning",
-    "meanings": ["ma\u00f1ana", "la ma\u00f1ana"],
+    "reading": "/ˈmɔːrnɪŋ/",
+    "meanings": [
+      "mañana",
+      "la mañana"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["time", "basic"],
+    "tags": [
+      "time",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I drink coffee in the morning.",
-        "reading": "I drink coffee in the morning.",
-        "translation": "Tomo caf\u00e9 por la ma\u00f1ana."
+        "reading": "",
+        "translation": "Tomo café por la mañana."
       }
     ]
   },
   {
     "word": "night",
-    "reading": "night",
-    "meanings": ["noche"],
+    "reading": "/naɪt/",
+    "meanings": [
+      "noche"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["time", "basic"],
+    "tags": [
+      "time",
+      "basic"
+    ],
     "examples": [
       {
         "text": "The stars are beautiful at night.",
-        "reading": "The stars are beautiful at night.",
+        "reading": "",
         "translation": "Las estrellas son hermosas por la noche."
       }
     ]
   },
   {
     "word": "mother",
-    "reading": "mother",
-    "meanings": ["madre", "mam\u00e1"],
+    "reading": "/ˈmʌðər/",
+    "meanings": [
+      "madre",
+      "mamá"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["family", "basic"],
+    "tags": [
+      "family",
+      "basic"
+    ],
     "examples": [
       {
         "text": "My mother is a teacher.",
-        "reading": "My mother is a teacher.",
+        "reading": "",
         "translation": "Mi madre es profesora."
       }
     ]
   },
   {
     "word": "father",
-    "reading": "father",
-    "meanings": ["padre", "pap\u00e1"],
+    "reading": "/ˈfɑːðər/",
+    "meanings": [
+      "padre",
+      "papá"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["family", "basic"],
+    "tags": [
+      "family",
+      "basic"
+    ],
     "examples": [
       {
         "text": "My father works in an office.",
-        "reading": "My father works in an office.",
+        "reading": "",
         "translation": "Mi padre trabaja en una oficina."
       }
     ]
   },
   {
     "word": "brother",
-    "reading": "brother",
-    "meanings": ["hermano"],
+    "reading": "/ˈbrʌðər/",
+    "meanings": [
+      "hermano"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["family", "basic"],
+    "tags": [
+      "family",
+      "basic"
+    ],
     "examples": [
       {
         "text": "My brother is older than me.",
-        "reading": "My brother is older than me.",
+        "reading": "",
         "translation": "Mi hermano es mayor que yo."
       }
     ]
   },
   {
     "word": "sister",
-    "reading": "sister",
-    "meanings": ["hermana"],
+    "reading": "/ˈsɪstər/",
+    "meanings": [
+      "hermana"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["family", "basic"],
+    "tags": [
+      "family",
+      "basic"
+    ],
     "examples": [
       {
         "text": "My sister lives in Madrid.",
-        "reading": "My sister lives in Madrid.",
+        "reading": "",
         "translation": "Mi hermana vive en Madrid."
       }
     ]
   },
   {
     "word": "son",
-    "reading": "son",
-    "meanings": ["hijo"],
+    "reading": "/sʌn/",
+    "meanings": [
+      "hijo"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["family", "basic"],
+    "tags": [
+      "family",
+      "basic"
+    ],
     "examples": [
       {
         "text": "Their son is five years old.",
-        "reading": "Their son is five years old.",
-        "translation": "Su hijo tiene cinco a\u00f1os."
+        "reading": "",
+        "translation": "Su hijo tiene cinco años."
       }
     ]
   },
   {
     "word": "daughter",
-    "reading": "daughter",
-    "meanings": ["hija"],
+    "reading": "/ˈdɔːtər/",
+    "meanings": [
+      "hija"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["family", "basic"],
+    "tags": [
+      "family",
+      "basic"
+    ],
     "examples": [
       {
         "text": "Her daughter goes to school.",
-        "reading": "Her daughter goes to school.",
+        "reading": "",
         "translation": "Su hija va a la escuela."
       }
     ]
   },
   {
     "word": "family",
-    "reading": "family",
-    "meanings": ["familia"],
+    "reading": "/ˈfæməli/",
+    "meanings": [
+      "familia"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["family", "basic"],
+    "tags": [
+      "family",
+      "basic"
+    ],
     "examples": [
       {
         "text": "My family is very big.",
-        "reading": "My family is very big.",
+        "reading": "",
         "translation": "Mi familia es muy grande."
       }
     ]
   },
   {
     "word": "friend",
-    "reading": "friend",
-    "meanings": ["amigo", "amiga"],
+    "reading": "/frɛnd/",
+    "meanings": [
+      "amigo",
+      "amiga"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["family", "basic", "social"],
+    "tags": [
+      "family",
+      "basic",
+      "social"
+    ],
     "examples": [
       {
         "text": "She is my best friend.",
-        "reading": "She is my best friend.",
+        "reading": "",
         "translation": "Ella es mi mejor amiga."
       }
     ]
   },
   {
     "word": "baby",
-    "reading": "baby",
-    "meanings": ["beb\u00e9"],
+    "reading": "/ˈbeɪbi/",
+    "meanings": [
+      "bebé"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["family", "basic"],
+    "tags": [
+      "family",
+      "basic"
+    ],
     "examples": [
       {
         "text": "The baby is sleeping.",
-        "reading": "The baby is sleeping.",
-        "translation": "El beb\u00e9 est\u00e1 durmiendo."
+        "reading": "",
+        "translation": "El bebé está durmiendo."
       }
     ]
   },
   {
     "word": "husband",
-    "reading": "husband",
-    "meanings": ["esposo", "marido"],
+    "reading": "/ˈhʌzbənd/",
+    "meanings": [
+      "esposo",
+      "marido"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["family", "basic"],
+    "tags": [
+      "family",
+      "basic"
+    ],
     "examples": [
       {
         "text": "Her husband is a doctor.",
-        "reading": "Her husband is a doctor.",
-        "translation": "Su esposo es m\u00e9dico."
+        "reading": "",
+        "translation": "Su esposo es médico."
       }
     ]
   },
   {
     "word": "water",
-    "reading": "water",
-    "meanings": ["agua"],
+    "reading": "/ˈwɔːtər/",
+    "meanings": [
+      "agua"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["food", "drink", "basic"],
+    "tags": [
+      "food",
+      "drink",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I need a glass of water.",
-        "reading": "I need a glass of water.",
+        "reading": "",
         "translation": "Necesito un vaso de agua."
       }
     ]
   },
   {
     "word": "food",
-    "reading": "food",
-    "meanings": ["comida", "alimento"],
+    "reading": "/fuːd/",
+    "meanings": [
+      "comida",
+      "alimento"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["food", "basic"],
+    "tags": [
+      "food",
+      "basic"
+    ],
     "examples": [
       {
         "text": "The food is delicious.",
-        "reading": "The food is delicious.",
-        "translation": "La comida est\u00e1 deliciosa."
+        "reading": "",
+        "translation": "La comida está deliciosa."
       }
     ]
   },
   {
     "word": "bread",
-    "reading": "bread",
-    "meanings": ["pan"],
+    "reading": "/brɛd/",
+    "meanings": [
+      "pan"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["food", "basic"],
+    "tags": [
+      "food",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I eat bread for breakfast.",
-        "reading": "I eat bread for breakfast.",
+        "reading": "",
         "translation": "Como pan para el desayuno."
       }
     ]
   },
   {
     "word": "rice",
-    "reading": "rice",
-    "meanings": ["arroz"],
+    "reading": "/raɪs/",
+    "meanings": [
+      "arroz"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["food", "basic"],
+    "tags": [
+      "food",
+      "basic"
+    ],
     "examples": [
       {
         "text": "We eat rice with chicken.",
-        "reading": "We eat rice with chicken.",
+        "reading": "",
         "translation": "Comemos arroz con pollo."
       }
     ]
   },
   {
     "word": "coffee",
-    "reading": "coffee",
-    "meanings": ["caf\u00e9"],
+    "reading": "/ˈkɔːfi/",
+    "meanings": [
+      "café"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["food", "drink", "basic"],
+    "tags": [
+      "food",
+      "drink",
+      "basic"
+    ],
     "examples": [
       {
         "text": "Do you want a cup of coffee?",
-        "reading": "Do you want a cup of coffee?",
-        "translation": "\u00bfQuer\u00e9s una taza de caf\u00e9?"
+        "reading": "",
+        "translation": "¿Querés una taza de café?"
       }
     ]
   },
   {
     "word": "milk",
-    "reading": "milk",
-    "meanings": ["leche"],
+    "reading": "/mɪlk/",
+    "meanings": [
+      "leche"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["food", "drink", "basic"],
+    "tags": [
+      "food",
+      "drink",
+      "basic"
+    ],
     "examples": [
       {
         "text": "Children drink milk every day.",
-        "reading": "Children drink milk every day.",
-        "translation": "Los ni\u00f1os toman leche todos los d\u00edas."
+        "reading": "",
+        "translation": "Los niños toman leche todos los días."
       }
     ]
   },
   {
     "word": "meat",
-    "reading": "meat",
-    "meanings": ["carne"],
+    "reading": "/miːt/",
+    "meanings": [
+      "carne"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["food", "basic"],
+    "tags": [
+      "food",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I don't eat meat.",
-        "reading": "I don't eat meat.",
+        "reading": "",
         "translation": "No como carne."
       }
     ]
   },
   {
     "word": "fruit",
-    "reading": "fruit",
-    "meanings": ["fruta"],
+    "reading": "/fruːt/",
+    "meanings": [
+      "fruta"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["food", "basic"],
+    "tags": [
+      "food",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I like to eat fresh fruit.",
-        "reading": "I like to eat fresh fruit.",
+        "reading": "",
         "translation": "Me gusta comer fruta fresca."
       }
     ]
   },
   {
     "word": "eat",
-    "reading": "eat",
-    "meanings": ["comer"],
+    "reading": "/iːt/",
+    "meanings": [
+      "comer"
+    ],
     "pos": "verb",
     "level": "a1",
-    "tags": ["food", "basic", "verb"],
+    "tags": [
+      "food",
+      "basic",
+      "verb"
+    ],
     "examples": [
       {
         "text": "We eat dinner at seven.",
-        "reading": "We eat dinner at seven.",
+        "reading": "",
         "translation": "Cenamos a las siete."
       }
     ]
   },
   {
     "word": "drink",
-    "reading": "drink",
-    "meanings": ["beber", "tomar"],
+    "reading": "/drɪŋk/",
+    "meanings": [
+      "beber",
+      "tomar"
+    ],
     "pos": "verb",
     "level": "a1",
-    "tags": ["food", "drink", "basic", "verb"],
+    "tags": [
+      "food",
+      "drink",
+      "basic",
+      "verb"
+    ],
     "examples": [
       {
         "text": "I drink tea in the afternoon.",
-        "reading": "I drink tea in the afternoon.",
-        "translation": "Tomo t\u00e9 por la tarde."
+        "reading": "",
+        "translation": "Tomo té por la tarde."
       }
     ]
   },
   {
     "word": "red",
-    "reading": "red",
-    "meanings": ["rojo"],
+    "reading": "/rɛd/",
+    "meanings": [
+      "rojo"
+    ],
     "pos": "adjective",
     "level": "a1",
-    "tags": ["colors", "basic"],
+    "tags": [
+      "colors",
+      "basic"
+    ],
     "examples": [
       {
         "text": "She has a red dress.",
-        "reading": "She has a red dress.",
+        "reading": "",
         "translation": "Ella tiene un vestido rojo."
       }
     ]
   },
   {
     "word": "blue",
-    "reading": "blue",
-    "meanings": ["azul"],
+    "reading": "/bluː/",
+    "meanings": [
+      "azul"
+    ],
     "pos": "adjective",
     "level": "a1",
-    "tags": ["colors", "basic"],
+    "tags": [
+      "colors",
+      "basic"
+    ],
     "examples": [
       {
         "text": "The sky is blue today.",
-        "reading": "The sky is blue today.",
-        "translation": "El cielo est\u00e1 azul hoy."
+        "reading": "",
+        "translation": "El cielo está azul hoy."
       }
     ]
   },
   {
     "word": "green",
-    "reading": "green",
-    "meanings": ["verde"],
+    "reading": "/ɡriːn/",
+    "meanings": [
+      "verde"
+    ],
     "pos": "adjective",
     "level": "a1",
-    "tags": ["colors", "basic"],
+    "tags": [
+      "colors",
+      "basic"
+    ],
     "examples": [
       {
         "text": "The grass is green in spring.",
-        "reading": "The grass is green in spring.",
+        "reading": "",
         "translation": "El pasto es verde en primavera."
       }
     ]
   },
   {
     "word": "big",
-    "reading": "big",
-    "meanings": ["grande"],
+    "reading": "/bɪɡ/",
+    "meanings": [
+      "grande"
+    ],
     "pos": "adjective",
     "level": "a1",
-    "tags": ["adjectives", "basic"],
+    "tags": [
+      "adjectives",
+      "basic"
+    ],
     "examples": [
       {
         "text": "They live in a big house.",
-        "reading": "They live in a big house.",
+        "reading": "",
         "translation": "Ellos viven en una casa grande."
       }
     ]
   },
   {
     "word": "small",
-    "reading": "small",
-    "meanings": ["peque\u00f1o", "chico"],
+    "reading": "/smɔːl/",
+    "meanings": [
+      "pequeño",
+      "chico"
+    ],
     "pos": "adjective",
     "level": "a1",
-    "tags": ["adjectives", "basic"],
+    "tags": [
+      "adjectives",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I have a small dog.",
-        "reading": "I have a small dog.",
-        "translation": "Tengo un perro peque\u00f1o."
+        "reading": "",
+        "translation": "Tengo un perro pequeño."
       }
     ]
   },
   {
     "word": "good",
-    "reading": "good",
-    "meanings": ["bueno", "bien"],
+    "reading": "/ɡʊd/",
+    "meanings": [
+      "bueno",
+      "bien"
+    ],
     "pos": "adjective",
     "level": "a1",
-    "tags": ["adjectives", "basic"],
+    "tags": [
+      "adjectives",
+      "basic"
+    ],
     "examples": [
       {
         "text": "This is a very good book.",
-        "reading": "This is a very good book.",
+        "reading": "",
         "translation": "Este es un libro muy bueno."
       }
     ]
   },
   {
     "word": "bad",
-    "reading": "bad",
-    "meanings": ["malo", "mal"],
+    "reading": "/bæd/",
+    "meanings": [
+      "malo",
+      "mal"
+    ],
     "pos": "adjective",
     "level": "a1",
-    "tags": ["adjectives", "basic"],
+    "tags": [
+      "adjectives",
+      "basic"
+    ],
     "examples": [
       {
         "text": "The weather is bad today.",
-        "reading": "The weather is bad today.",
-        "translation": "El clima est\u00e1 mal hoy."
+        "reading": "",
+        "translation": "El clima está mal hoy."
       }
     ]
   },
   {
     "word": "happy",
-    "reading": "happy",
-    "meanings": ["feliz", "contento"],
+    "reading": "/ˈhæpi/",
+    "meanings": [
+      "feliz",
+      "contento"
+    ],
     "pos": "adjective",
     "level": "a1",
-    "tags": ["adjectives", "emotions", "basic"],
+    "tags": [
+      "adjectives",
+      "emotions",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I am happy to see you.",
-        "reading": "I am happy to see you.",
+        "reading": "",
         "translation": "Estoy feliz de verte."
       }
     ]
   },
   {
     "word": "sad",
-    "reading": "sad",
-    "meanings": ["triste"],
+    "reading": "/sæd/",
+    "meanings": [
+      "triste"
+    ],
     "pos": "adjective",
     "level": "a1",
-    "tags": ["adjectives", "emotions", "basic"],
+    "tags": [
+      "adjectives",
+      "emotions",
+      "basic"
+    ],
     "examples": [
       {
         "text": "She feels sad because her cat is sick.",
-        "reading": "She feels sad because her cat is sick.",
-        "translation": "Ella se siente triste porque su gato est\u00e1 enfermo."
+        "reading": "",
+        "translation": "Ella se siente triste porque su gato está enfermo."
       }
     ]
   },
   {
     "word": "new",
-    "reading": "new",
-    "meanings": ["nuevo"],
+    "reading": "/nuː/",
+    "meanings": [
+      "nuevo"
+    ],
     "pos": "adjective",
     "level": "a1",
-    "tags": ["adjectives", "basic"],
+    "tags": [
+      "adjectives",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I bought a new phone.",
-        "reading": "I bought a new phone.",
-        "translation": "Compr\u00e9 un tel\u00e9fono nuevo."
+        "reading": "",
+        "translation": "Compré un teléfono nuevo."
       }
     ]
   },
   {
     "word": "old",
-    "reading": "old",
-    "meanings": ["viejo", "antiguo"],
+    "reading": "/oʊld/",
+    "meanings": [
+      "viejo",
+      "antiguo"
+    ],
     "pos": "adjective",
     "level": "a1",
-    "tags": ["adjectives", "basic"],
+    "tags": [
+      "adjectives",
+      "basic"
+    ],
     "examples": [
       {
         "text": "This is an old building.",
-        "reading": "This is an old building.",
+        "reading": "",
         "translation": "Este es un edificio viejo."
       }
     ]
   },
   {
     "word": "be",
-    "reading": "be",
-    "meanings": ["ser", "estar"],
+    "reading": "/biː/",
+    "meanings": [
+      "ser",
+      "estar"
+    ],
     "pos": "verb",
     "level": "a1",
-    "tags": ["verb", "essential", "basic"],
+    "tags": [
+      "verb",
+      "essential",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I want to be a doctor.",
-        "reading": "I want to be a doctor.",
-        "translation": "Quiero ser m\u00e9dico."
+        "reading": "",
+        "translation": "Quiero ser médico."
       }
     ]
   },
   {
     "word": "have",
-    "reading": "have",
-    "meanings": ["tener", "haber"],
+    "reading": "/hæv/",
+    "meanings": [
+      "tener",
+      "haber"
+    ],
     "pos": "verb",
     "level": "a1",
-    "tags": ["verb", "essential", "basic"],
+    "tags": [
+      "verb",
+      "essential",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I have two children.",
-        "reading": "I have two children.",
+        "reading": "",
         "translation": "Tengo dos hijos."
       }
     ]
   },
   {
     "word": "do",
-    "reading": "do",
-    "meanings": ["hacer"],
+    "reading": "/duː/",
+    "meanings": [
+      "hacer"
+    ],
     "pos": "verb",
     "level": "a1",
-    "tags": ["verb", "essential", "basic"],
+    "tags": [
+      "verb",
+      "essential",
+      "basic"
+    ],
     "examples": [
       {
         "text": "What do you do on weekends?",
-        "reading": "What do you do on weekends?",
-        "translation": "\u00bfQu\u00e9 hac\u00e9s los fines de semana?"
+        "reading": "",
+        "translation": "¿Qué hacés los fines de semana?"
       }
     ]
   },
   {
     "word": "go",
-    "reading": "go",
-    "meanings": ["ir"],
+    "reading": "/ɡoʊ/",
+    "meanings": [
+      "ir"
+    ],
     "pos": "verb",
     "level": "a1",
-    "tags": ["verb", "essential", "basic"],
+    "tags": [
+      "verb",
+      "essential",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I go to school every day.",
-        "reading": "I go to school every day.",
-        "translation": "Voy a la escuela todos los d\u00edas."
+        "reading": "",
+        "translation": "Voy a la escuela todos los días."
       }
     ]
   },
   {
     "word": "come",
-    "reading": "come",
-    "meanings": ["venir"],
+    "reading": "/kʌm/",
+    "meanings": [
+      "venir"
+    ],
     "pos": "verb",
     "level": "a1",
-    "tags": ["verb", "essential", "basic"],
+    "tags": [
+      "verb",
+      "essential",
+      "basic"
+    ],
     "examples": [
       {
         "text": "Come here, please.",
-        "reading": "Come here, please.",
-        "translation": "Ven\u00ed ac\u00e1, por favor."
+        "reading": "",
+        "translation": "Vení acá, por favor."
       }
     ]
   },
   {
     "word": "want",
-    "reading": "want",
-    "meanings": ["querer", "desear"],
+    "reading": "/wɑːnt/",
+    "meanings": [
+      "querer",
+      "desear"
+    ],
     "pos": "verb",
     "level": "a1",
-    "tags": ["verb", "essential", "basic"],
+    "tags": [
+      "verb",
+      "essential",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I want a glass of water.",
-        "reading": "I want a glass of water.",
+        "reading": "",
         "translation": "Quiero un vaso de agua."
       }
     ]
   },
   {
     "word": "need",
-    "reading": "need",
-    "meanings": ["necesitar"],
+    "reading": "/niːd/",
+    "meanings": [
+      "necesitar"
+    ],
     "pos": "verb",
     "level": "a1",
-    "tags": ["verb", "essential", "basic"],
+    "tags": [
+      "verb",
+      "essential",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I need to study more.",
-        "reading": "I need to study more.",
-        "translation": "Necesito estudiar m\u00e1s."
+        "reading": "",
+        "translation": "Necesito estudiar más."
       }
     ]
   },
   {
     "word": "like",
-    "reading": "like",
-    "meanings": ["gustar"],
+    "reading": "/laɪk/",
+    "meanings": [
+      "gustar"
+    ],
     "pos": "verb",
     "level": "a1",
-    "tags": ["verb", "essential", "basic"],
+    "tags": [
+      "verb",
+      "essential",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I like chocolate ice cream.",
-        "reading": "I like chocolate ice cream.",
+        "reading": "",
         "translation": "Me gusta el helado de chocolate."
       }
     ]
   },
   {
     "word": "see",
-    "reading": "see",
-    "meanings": ["ver"],
+    "reading": "/siː/",
+    "meanings": [
+      "ver"
+    ],
     "pos": "verb",
     "level": "a1",
-    "tags": ["verb", "essential", "basic"],
+    "tags": [
+      "verb",
+      "essential",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I can see the mountains from here.",
-        "reading": "I can see the mountains from here.",
-        "translation": "Puedo ver las monta\u00f1as desde ac\u00e1."
+        "reading": "",
+        "translation": "Puedo ver las montañas desde acá."
       }
     ]
   },
   {
     "word": "sleep",
-    "reading": "sleep",
-    "meanings": ["dormir"],
+    "reading": "/sliːp/",
+    "meanings": [
+      "dormir"
+    ],
     "pos": "verb",
     "level": "a1",
-    "tags": ["verb", "essential", "basic"],
+    "tags": [
+      "verb",
+      "essential",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I sleep eight hours every night.",
-        "reading": "I sleep eight hours every night.",
+        "reading": "",
         "translation": "Duermo ocho horas cada noche."
       }
     ]
   },
   {
     "word": "work",
-    "reading": "work",
-    "meanings": ["trabajar", "trabajo"],
+    "reading": "/wɜːrk/",
+    "meanings": [
+      "trabajar",
+      "trabajo"
+    ],
     "pos": "verb",
     "level": "a1",
-    "tags": ["verb", "essential", "basic"],
+    "tags": [
+      "verb",
+      "essential",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I work from Monday to Friday.",
-        "reading": "I work from Monday to Friday.",
+        "reading": "",
         "translation": "Trabajo de lunes a viernes."
       }
     ]
   },
   {
     "word": "live",
-    "reading": "live",
-    "meanings": ["vivir"],
+    "reading": "/lɪv/",
+    "meanings": [
+      "vivir"
+    ],
     "pos": "verb",
     "level": "a1",
-    "tags": ["verb", "essential", "basic"],
+    "tags": [
+      "verb",
+      "essential",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I live in Buenos Aires.",
-        "reading": "I live in Buenos Aires.",
+        "reading": "",
         "translation": "Vivo en Buenos Aires."
       }
     ]
   },
   {
     "word": "know",
-    "reading": "know",
-    "meanings": ["saber", "conocer"],
+    "reading": "/noʊ/",
+    "meanings": [
+      "saber",
+      "conocer"
+    ],
     "pos": "verb",
     "level": "a1",
-    "tags": ["verb", "essential", "basic"],
+    "tags": [
+      "verb",
+      "essential",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I know the answer.",
-        "reading": "I know the answer.",
-        "translation": "S\u00e9 la respuesta."
+        "reading": "",
+        "translation": "Sé la respuesta."
       }
     ]
   },
   {
     "word": "house",
-    "reading": "house",
-    "meanings": ["casa"],
+    "reading": "/haʊs/",
+    "meanings": [
+      "casa"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["places", "basic"],
+    "tags": [
+      "places",
+      "basic"
+    ],
     "examples": [
       {
         "text": "My house has three bedrooms.",
-        "reading": "My house has three bedrooms.",
+        "reading": "",
         "translation": "Mi casa tiene tres habitaciones."
       }
     ]
   },
   {
     "word": "school",
-    "reading": "school",
-    "meanings": ["escuela", "colegio"],
+    "reading": "/skuːl/",
+    "meanings": [
+      "escuela",
+      "colegio"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["places", "basic", "education"],
+    "tags": [
+      "places",
+      "basic",
+      "education"
+    ],
     "examples": [
       {
         "text": "The children go to school at eight.",
-        "reading": "The children go to school at eight.",
-        "translation": "Los ni\u00f1os van a la escuela a las ocho."
+        "reading": "",
+        "translation": "Los niños van a la escuela a las ocho."
       }
     ]
   },
   {
     "word": "hospital",
-    "reading": "hospital",
-    "meanings": ["hospital"],
+    "reading": "/ˈhɑːspɪtəl/",
+    "meanings": [
+      "hospital"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["places", "basic", "health"],
+    "tags": [
+      "places",
+      "basic",
+      "health"
+    ],
     "examples": [
       {
         "text": "She works at the hospital.",
-        "reading": "She works at the hospital.",
+        "reading": "",
         "translation": "Ella trabaja en el hospital."
       }
     ]
   },
   {
     "word": "park",
-    "reading": "park",
-    "meanings": ["parque"],
+    "reading": "/pɑːrk/",
+    "meanings": [
+      "parque"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["places", "basic"],
+    "tags": [
+      "places",
+      "basic"
+    ],
     "examples": [
       {
         "text": "We play in the park on Sundays.",
-        "reading": "We play in the park on Sundays.",
+        "reading": "",
         "translation": "Jugamos en el parque los domingos."
       }
     ]
   },
   {
     "word": "store",
-    "reading": "store",
-    "meanings": ["tienda", "negocio"],
+    "reading": "/stɔːr/",
+    "meanings": [
+      "tienda",
+      "negocio"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["places", "basic", "shopping"],
+    "tags": [
+      "places",
+      "basic",
+      "shopping"
+    ],
     "examples": [
       {
         "text": "I need to go to the store.",
-        "reading": "I need to go to the store.",
+        "reading": "",
         "translation": "Necesito ir a la tienda."
       }
     ]
   },
   {
     "word": "city",
-    "reading": "city",
-    "meanings": ["ciudad"],
+    "reading": "/ˈsɪti/",
+    "meanings": [
+      "ciudad"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["places", "basic"],
+    "tags": [
+      "places",
+      "basic"
+    ],
     "examples": [
       {
         "text": "This city is very beautiful.",
-        "reading": "This city is very beautiful.",
+        "reading": "",
         "translation": "Esta ciudad es muy hermosa."
       }
     ]
   },
   {
     "word": "street",
-    "reading": "street",
-    "meanings": ["calle"],
+    "reading": "/striːt/",
+    "meanings": [
+      "calle"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["places", "basic"],
+    "tags": [
+      "places",
+      "basic"
+    ],
     "examples": [
       {
         "text": "The street is very long.",
-        "reading": "The street is very long.",
+        "reading": "",
         "translation": "La calle es muy larga."
       }
     ]
   },
   {
     "word": "country",
-    "reading": "country",
-    "meanings": ["pa\u00eds"],
+    "reading": "/ˈkʌntri/",
+    "meanings": [
+      "país"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["places", "basic"],
+    "tags": [
+      "places",
+      "basic"
+    ],
     "examples": [
       {
         "text": "Argentina is a big country.",
-        "reading": "Argentina is a big country.",
-        "translation": "Argentina es un pa\u00eds grande."
+        "reading": "",
+        "translation": "Argentina es un país grande."
       }
     ]
   },
   {
     "word": "restaurant",
-    "reading": "restaurant",
-    "meanings": ["restaurante"],
+    "reading": "/ˈrɛstərɑːnt/",
+    "meanings": [
+      "restaurante"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["places", "basic", "food"],
+    "tags": [
+      "places",
+      "basic",
+      "food"
+    ],
     "examples": [
       {
         "text": "Let's go to a restaurant tonight.",
-        "reading": "Let's go to a restaurant tonight.",
+        "reading": "",
         "translation": "Vamos a un restaurante esta noche."
       }
     ]
   },
   {
     "word": "bank",
-    "reading": "bank",
-    "meanings": ["banco"],
+    "reading": "/bæŋk/",
+    "meanings": [
+      "banco"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["places", "basic"],
+    "tags": [
+      "places",
+      "basic"
+    ],
     "examples": [
       {
         "text": "The bank opens at nine.",
-        "reading": "The bank opens at nine.",
+        "reading": "",
         "translation": "El banco abre a las nueve."
       }
     ]
   },
   {
     "word": "head",
-    "reading": "head",
-    "meanings": ["cabeza"],
+    "reading": "/hɛd/",
+    "meanings": [
+      "cabeza"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["body", "basic"],
+    "tags": [
+      "body",
+      "basic"
+    ],
     "examples": [
       {
         "text": "My head hurts.",
-        "reading": "My head hurts.",
+        "reading": "",
         "translation": "Me duele la cabeza."
       }
     ]
   },
   {
     "word": "hand",
-    "reading": "hand",
-    "meanings": ["mano"],
+    "reading": "/hænd/",
+    "meanings": [
+      "mano"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["body", "basic"],
+    "tags": [
+      "body",
+      "basic"
+    ],
     "examples": [
       {
         "text": "Wash your hands before eating.",
-        "reading": "Wash your hands before eating.",
-        "translation": "Lav\u00e1 tus manos antes de comer."
+        "reading": "",
+        "translation": "Lavá tus manos antes de comer."
       }
     ]
   },
   {
     "word": "eye",
-    "reading": "eye",
-    "meanings": ["ojo"],
+    "reading": "/aɪ/",
+    "meanings": [
+      "ojo"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["body", "basic"],
+    "tags": [
+      "body",
+      "basic"
+    ],
     "examples": [
       {
         "text": "She has blue eyes.",
-        "reading": "She has blue eyes.",
+        "reading": "",
         "translation": "Ella tiene ojos azules."
       }
     ]
   },
   {
     "word": "mouth",
-    "reading": "mouth",
-    "meanings": ["boca"],
+    "reading": "/maʊθ/",
+    "meanings": [
+      "boca"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["body", "basic"],
+    "tags": [
+      "body",
+      "basic"
+    ],
     "examples": [
       {
         "text": "Open your mouth, please.",
-        "reading": "Open your mouth, please.",
-        "translation": "Abr\u00ed la boca, por favor."
+        "reading": "",
+        "translation": "Abrí la boca, por favor."
       }
     ]
   },
   {
     "word": "shirt",
-    "reading": "shirt",
-    "meanings": ["camisa", "remera"],
+    "reading": "/ʃɜːrt/",
+    "meanings": [
+      "camisa",
+      "remera"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["clothes", "basic"],
+    "tags": [
+      "clothes",
+      "basic"
+    ],
     "examples": [
       {
         "text": "He is wearing a white shirt.",
-        "reading": "He is wearing a white shirt.",
-        "translation": "\u00c9l est\u00e1 usando una camisa blanca."
+        "reading": "",
+        "translation": "Él está usando una camisa blanca."
       }
     ]
   },
   {
     "word": "shoes",
-    "reading": "shoes",
-    "meanings": ["zapatos"],
+    "reading": "/ʃuːz/",
+    "meanings": [
+      "zapatos"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["clothes", "basic"],
+    "tags": [
+      "clothes",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I need new shoes.",
-        "reading": "I need new shoes.",
+        "reading": "",
         "translation": "Necesito zapatos nuevos."
       }
     ]
   },
   {
     "word": "pants",
-    "reading": "pants",
-    "meanings": ["pantalones"],
+    "reading": "/pænts/",
+    "meanings": [
+      "pantalones"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["clothes", "basic"],
+    "tags": [
+      "clothes",
+      "basic"
+    ],
     "examples": [
       {
         "text": "These pants are too long.",
-        "reading": "These pants are too long.",
+        "reading": "",
         "translation": "Estos pantalones son demasiado largos."
       }
     ]
   },
   {
     "word": "hat",
-    "reading": "hat",
-    "meanings": ["sombrero", "gorro"],
+    "reading": "/hæt/",
+    "meanings": [
+      "sombrero",
+      "gorro"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["clothes", "basic"],
+    "tags": [
+      "clothes",
+      "basic"
+    ],
     "examples": [
       {
         "text": "Wear a hat in the sun.",
-        "reading": "Wear a hat in the sun.",
-        "translation": "Us\u00e1 un sombrero en el sol."
+        "reading": "",
+        "translation": "Usá un sombrero en el sol."
       }
     ]
   },
   {
     "word": "bag",
-    "reading": "bag",
-    "meanings": ["bolso", "bolsa", "mochila"],
+    "reading": "/bæɡ/",
+    "meanings": [
+      "bolso",
+      "bolsa",
+      "mochila"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["clothes", "basic"],
+    "tags": [
+      "clothes",
+      "basic"
+    ],
     "examples": [
       {
         "text": "My bag is on the table.",
-        "reading": "My bag is on the table.",
-        "translation": "Mi bolso est\u00e1 en la mesa."
+        "reading": "",
+        "translation": "Mi bolso está en la mesa."
       }
     ]
   },
   {
     "word": "dress",
-    "reading": "dress",
-    "meanings": ["vestido"],
+    "reading": "/drɛs/",
+    "meanings": [
+      "vestido"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["clothes", "basic"],
+    "tags": [
+      "clothes",
+      "basic"
+    ],
     "examples": [
       {
         "text": "She bought a beautiful dress.",
-        "reading": "She bought a beautiful dress.",
-        "translation": "Ella compr\u00f3 un vestido hermoso."
+        "reading": "",
+        "translation": "Ella compró un vestido hermoso."
       }
     ]
   },
   {
     "word": "what",
-    "reading": "what",
-    "meanings": ["qu\u00e9"],
+    "reading": "/wɑːt/",
+    "meanings": [
+      "qué"
+    ],
     "pos": "pronoun",
     "level": "a1",
-    "tags": ["questions", "basic"],
+    "tags": [
+      "questions",
+      "basic"
+    ],
     "examples": [
       {
         "text": "What is your name?",
-        "reading": "What is your name?",
-        "translation": "\u00bfC\u00f3mo te llam\u00e1s?"
+        "reading": "",
+        "translation": "¿Cómo te llamás?"
       }
     ]
   },
   {
     "word": "where",
-    "reading": "where",
-    "meanings": ["d\u00f3nde"],
+    "reading": "/wɛr/",
+    "meanings": [
+      "dónde"
+    ],
     "pos": "adverb",
     "level": "a1",
-    "tags": ["questions", "basic"],
+    "tags": [
+      "questions",
+      "basic"
+    ],
     "examples": [
       {
         "text": "Where do you live?",
-        "reading": "Where do you live?",
-        "translation": "\u00bfD\u00f3nde viv\u00eds?"
+        "reading": "",
+        "translation": "¿Dónde vivís?"
       }
     ]
   },
   {
     "word": "when",
-    "reading": "when",
-    "meanings": ["cu\u00e1ndo"],
+    "reading": "/wɛn/",
+    "meanings": [
+      "cuándo"
+    ],
     "pos": "adverb",
     "level": "a1",
-    "tags": ["questions", "basic"],
+    "tags": [
+      "questions",
+      "basic"
+    ],
     "examples": [
       {
         "text": "When is your birthday?",
-        "reading": "When is your birthday?",
-        "translation": "\u00bfCu\u00e1ndo es tu cumplea\u00f1os?"
+        "reading": "",
+        "translation": "¿Cuándo es tu cumpleaños?"
       }
     ]
   },
   {
     "word": "who",
-    "reading": "who",
-    "meanings": ["qui\u00e9n"],
+    "reading": "/huː/",
+    "meanings": [
+      "quién"
+    ],
     "pos": "pronoun",
     "level": "a1",
-    "tags": ["questions", "basic"],
+    "tags": [
+      "questions",
+      "basic"
+    ],
     "examples": [
       {
         "text": "Who is that woman?",
-        "reading": "Who is that woman?",
-        "translation": "\u00bfQui\u00e9n es esa mujer?"
+        "reading": "",
+        "translation": "¿Quién es esa mujer?"
       }
     ]
   },
   {
     "word": "how",
-    "reading": "how",
-    "meanings": ["c\u00f3mo"],
+    "reading": "/haʊ/",
+    "meanings": [
+      "cómo"
+    ],
     "pos": "adverb",
     "level": "a1",
-    "tags": ["questions", "basic"],
+    "tags": [
+      "questions",
+      "basic"
+    ],
     "examples": [
       {
         "text": "How do you say this in English?",
-        "reading": "How do you say this in English?",
-        "translation": "\u00bfC\u00f3mo se dice esto en ingl\u00e9s?"
+        "reading": "",
+        "translation": "¿Cómo se dice esto en inglés?"
       }
     ]
   },
   {
     "word": "and",
-    "reading": "and",
-    "meanings": ["y"],
+    "reading": "/ænd/",
+    "meanings": [
+      "y"
+    ],
     "pos": "conjunction",
     "level": "a1",
-    "tags": ["connectors", "basic"],
+    "tags": [
+      "connectors",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I like coffee and tea.",
-        "reading": "I like coffee and tea.",
-        "translation": "Me gusta el caf\u00e9 y el t\u00e9."
+        "reading": "",
+        "translation": "Me gusta el café y el té."
       }
     ]
   },
   {
     "word": "or",
-    "reading": "or",
-    "meanings": ["o"],
+    "reading": "/ɔːr/",
+    "meanings": [
+      "o"
+    ],
     "pos": "conjunction",
     "level": "a1",
-    "tags": ["connectors", "basic"],
+    "tags": [
+      "connectors",
+      "basic"
+    ],
     "examples": [
       {
         "text": "Do you want tea or coffee?",
-        "reading": "Do you want tea or coffee?",
-        "translation": "\u00bfQuer\u00e9s t\u00e9 o caf\u00e9?"
+        "reading": "",
+        "translation": "¿Querés té o café?"
       }
     ]
   },
   {
     "word": "but",
-    "reading": "but",
-    "meanings": ["pero"],
+    "reading": "/bʌt/",
+    "meanings": [
+      "pero"
+    ],
     "pos": "conjunction",
     "level": "a1",
-    "tags": ["connectors", "basic"],
+    "tags": [
+      "connectors",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I like it, but it's expensive.",
-        "reading": "I like it, but it's expensive.",
+        "reading": "",
         "translation": "Me gusta, pero es caro."
       }
     ]
   },
   {
     "word": "very",
-    "reading": "very",
-    "meanings": ["muy"],
+    "reading": "/ˈvɛri/",
+    "meanings": [
+      "muy"
+    ],
     "pos": "adverb",
     "level": "a1",
-    "tags": ["daily", "basic"],
+    "tags": [
+      "daily",
+      "basic"
+    ],
     "examples": [
       {
         "text": "The movie was very good.",
-        "reading": "The movie was very good.",
-        "translation": "La pel\u00edcula fue muy buena."
+        "reading": "",
+        "translation": "La película fue muy buena."
       }
     ]
   },
   {
     "word": "here",
-    "reading": "here",
-    "meanings": ["aqu\u00ed", "ac\u00e1"],
+    "reading": "/hɪr/",
+    "meanings": [
+      "aquí",
+      "acá"
+    ],
     "pos": "adverb",
     "level": "a1",
-    "tags": ["daily", "basic"],
+    "tags": [
+      "daily",
+      "basic"
+    ],
     "examples": [
       {
         "text": "Come here, please.",
-        "reading": "Come here, please.",
-        "translation": "Ven\u00ed ac\u00e1, por favor."
+        "reading": "",
+        "translation": "Vení acá, por favor."
       }
     ]
   },
   {
     "word": "there",
-    "reading": "there",
-    "meanings": ["ah\u00ed", "all\u00ed", "all\u00e1"],
+    "reading": "/ðɛr/",
+    "meanings": [
+      "ahí",
+      "allí",
+      "allá"
+    ],
     "pos": "adverb",
     "level": "a1",
-    "tags": ["daily", "basic"],
+    "tags": [
+      "daily",
+      "basic"
+    ],
     "examples": [
       {
         "text": "The book is over there.",
-        "reading": "The book is over there.",
-        "translation": "El libro est\u00e1 all\u00e1."
+        "reading": "",
+        "translation": "El libro está allá."
       }
     ]
   },
   {
     "word": "now",
-    "reading": "now",
-    "meanings": ["ahora"],
+    "reading": "/naʊ/",
+    "meanings": [
+      "ahora"
+    ],
     "pos": "adverb",
     "level": "a1",
-    "tags": ["time", "daily", "basic"],
+    "tags": [
+      "time",
+      "daily",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I am busy now.",
-        "reading": "I am busy now.",
+        "reading": "",
         "translation": "Estoy ocupado ahora."
       }
     ]
   },
   {
     "word": "always",
-    "reading": "always",
-    "meanings": ["siempre"],
+    "reading": "/ˈɔːlweɪz/",
+    "meanings": [
+      "siempre"
+    ],
     "pos": "adverb",
     "level": "a1",
-    "tags": ["time", "daily", "basic"],
+    "tags": [
+      "time",
+      "daily",
+      "basic"
+    ],
     "examples": [
       {
         "text": "She always arrives on time.",
-        "reading": "She always arrives on time.",
+        "reading": "",
         "translation": "Ella siempre llega a tiempo."
       }
     ]
   },
   {
     "word": "man",
-    "reading": "man",
-    "meanings": ["hombre"],
+    "reading": "/mæn/",
+    "meanings": [
+      "hombre"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["people", "basic"],
+    "tags": [
+      "people",
+      "basic"
+    ],
     "examples": [
       {
         "text": "The man is reading a book.",
-        "reading": "The man is reading a book.",
-        "translation": "El hombre est\u00e1 leyendo un libro."
+        "reading": "",
+        "translation": "El hombre está leyendo un libro."
       }
     ]
   },
   {
     "word": "woman",
-    "reading": "woman",
-    "meanings": ["mujer"],
+    "reading": "/ˈwʊmən/",
+    "meanings": [
+      "mujer"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["people", "basic"],
+    "tags": [
+      "people",
+      "basic"
+    ],
     "examples": [
       {
         "text": "The woman speaks three languages.",
-        "reading": "The woman speaks three languages.",
+        "reading": "",
         "translation": "La mujer habla tres idiomas."
       }
     ]
   },
   {
     "word": "child",
-    "reading": "child",
-    "meanings": ["ni\u00f1o", "ni\u00f1a", "hijo/a"],
+    "reading": "/tʃaɪld/",
+    "meanings": [
+      "niño",
+      "niña",
+      "hijo/a"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["people", "family", "basic"],
+    "tags": [
+      "people",
+      "family",
+      "basic"
+    ],
     "examples": [
       {
         "text": "The child is playing in the park.",
-        "reading": "The child is playing in the park.",
-        "translation": "El ni\u00f1o est\u00e1 jugando en el parque."
+        "reading": "",
+        "translation": "El niño está jugando en el parque."
       }
     ]
   },
   {
     "word": "teacher",
-    "reading": "teacher",
-    "meanings": ["profesor", "profesora", "maestro"],
+    "reading": "/ˈtiːtʃər/",
+    "meanings": [
+      "profesor",
+      "profesora",
+      "maestro"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["people", "education", "basic"],
+    "tags": [
+      "people",
+      "education",
+      "basic"
+    ],
     "examples": [
       {
         "text": "My teacher is very kind.",
-        "reading": "My teacher is very kind.",
+        "reading": "",
         "translation": "Mi profesor es muy amable."
       }
     ]
   },
   {
     "word": "student",
-    "reading": "student",
-    "meanings": ["estudiante", "alumno"],
+    "reading": "/ˈstuːdənt/",
+    "meanings": [
+      "estudiante",
+      "alumno"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["people", "education", "basic"],
+    "tags": [
+      "people",
+      "education",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I am a student at the university.",
-        "reading": "I am a student at the university.",
+        "reading": "",
         "translation": "Soy estudiante en la universidad."
       }
     ]
   },
   {
     "word": "book",
-    "reading": "book",
-    "meanings": ["libro"],
+    "reading": "/bʊk/",
+    "meanings": [
+      "libro"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["education", "basic"],
+    "tags": [
+      "education",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I am reading a very interesting book.",
-        "reading": "I am reading a very interesting book.",
+        "reading": "",
         "translation": "Estoy leyendo un libro muy interesante."
       }
     ]
   },
   {
     "word": "table",
-    "reading": "table",
-    "meanings": ["mesa"],
+    "reading": "/ˈteɪbəl/",
+    "meanings": [
+      "mesa"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["furniture", "basic"],
+    "tags": [
+      "furniture",
+      "basic"
+    ],
     "examples": [
       {
         "text": "Put the plates on the table.",
-        "reading": "Put the plates on the table.",
-        "translation": "Pon\u00e9 los platos en la mesa."
+        "reading": "",
+        "translation": "Poné los platos en la mesa."
       }
     ]
   },
   {
     "word": "door",
-    "reading": "door",
-    "meanings": ["puerta"],
+    "reading": "/dɔːr/",
+    "meanings": [
+      "puerta"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["house", "basic"],
+    "tags": [
+      "house",
+      "basic"
+    ],
     "examples": [
       {
         "text": "Please close the door.",
-        "reading": "Please close the door.",
-        "translation": "Por favor, cerr\u00e1 la puerta."
+        "reading": "",
+        "translation": "Por favor, cerrá la puerta."
       }
     ]
   },
   {
     "word": "window",
-    "reading": "window",
-    "meanings": ["ventana"],
+    "reading": "/ˈwɪndoʊ/",
+    "meanings": [
+      "ventana"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["house", "basic"],
+    "tags": [
+      "house",
+      "basic"
+    ],
     "examples": [
       {
         "text": "Open the window, it's hot.",
-        "reading": "Open the window, it's hot.",
-        "translation": "Abr\u00ed la ventana, hace calor."
+        "reading": "",
+        "translation": "Abrí la ventana, hace calor."
       }
     ]
   },
   {
     "word": "car",
-    "reading": "car",
-    "meanings": ["auto", "coche", "carro"],
+    "reading": "/kɑːr/",
+    "meanings": [
+      "auto",
+      "coche",
+      "carro"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["transport", "basic"],
+    "tags": [
+      "transport",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I go to work by car.",
-        "reading": "I go to work by car.",
+        "reading": "",
         "translation": "Voy al trabajo en auto."
       }
     ]
   },
   {
     "word": "dog",
-    "reading": "dog",
-    "meanings": ["perro"],
+    "reading": "/dɔːɡ/",
+    "meanings": [
+      "perro"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["animals", "basic"],
+    "tags": [
+      "animals",
+      "basic"
+    ],
     "examples": [
       {
         "text": "My dog likes to play in the park.",
-        "reading": "My dog likes to play in the park.",
+        "reading": "",
         "translation": "A mi perro le gusta jugar en el parque."
       }
     ]
   },
   {
     "word": "cat",
-    "reading": "cat",
-    "meanings": ["gato"],
+    "reading": "/kæt/",
+    "meanings": [
+      "gato"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["animals", "basic"],
+    "tags": [
+      "animals",
+      "basic"
+    ],
     "examples": [
       {
         "text": "The cat is sleeping on the sofa.",
-        "reading": "The cat is sleeping on the sofa.",
-        "translation": "El gato est\u00e1 durmiendo en el sof\u00e1."
+        "reading": "",
+        "translation": "El gato está durmiendo en el sofá."
       }
     ]
   },
   {
     "word": "day",
-    "reading": "day",
-    "meanings": ["d\u00eda"],
+    "reading": "/deɪ/",
+    "meanings": [
+      "día"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["time", "basic"],
+    "tags": [
+      "time",
+      "basic"
+    ],
     "examples": [
       {
         "text": "Have a nice day!",
-        "reading": "Have a nice day!",
-        "translation": "\u00a1Que tengas un buen d\u00eda!"
+        "reading": "",
+        "translation": "¡Que tengas un buen día!"
       }
     ]
   },
   {
     "word": "week",
-    "reading": "week",
-    "meanings": ["semana"],
+    "reading": "/wiːk/",
+    "meanings": [
+      "semana"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["time", "basic"],
+    "tags": [
+      "time",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I study English three times a week.",
-        "reading": "I study English three times a week.",
-        "translation": "Estudio ingl\u00e9s tres veces por semana."
+        "reading": "",
+        "translation": "Estudio inglés tres veces por semana."
       }
     ]
   },
   {
     "word": "year",
-    "reading": "year",
-    "meanings": ["a\u00f1o"],
+    "reading": "/jɪr/",
+    "meanings": [
+      "año"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["time", "basic"],
+    "tags": [
+      "time",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I am twenty years old.",
-        "reading": "I am twenty years old.",
-        "translation": "Tengo veinte a\u00f1os."
+        "reading": "",
+        "translation": "Tengo veinte años."
       }
     ]
   },
   {
     "word": "money",
-    "reading": "money",
-    "meanings": ["dinero", "plata"],
+    "reading": "/ˈmʌni/",
+    "meanings": [
+      "dinero",
+      "plata"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["daily", "basic"],
+    "tags": [
+      "daily",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I don't have enough money.",
-        "reading": "I don't have enough money.",
+        "reading": "",
         "translation": "No tengo suficiente dinero."
       }
     ]
   },
   {
     "word": "name",
-    "reading": "name",
-    "meanings": ["nombre"],
+    "reading": "/neɪm/",
+    "meanings": [
+      "nombre"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["basic", "personal"],
+    "tags": [
+      "basic",
+      "personal"
+    ],
     "examples": [
       {
         "text": "My name is Maria.",
-        "reading": "My name is Maria.",
-        "translation": "Mi nombre es Mar\u00eda."
+        "reading": "",
+        "translation": "Mi nombre es María."
       }
     ]
   },
   {
     "word": "phone",
-    "reading": "phone",
-    "meanings": ["tel\u00e9fono", "celular"],
+    "reading": "/foʊn/",
+    "meanings": [
+      "teléfono",
+      "celular"
+    ],
     "pos": "noun",
     "level": "a1",
-    "tags": ["technology", "basic"],
+    "tags": [
+      "technology",
+      "basic"
+    ],
     "examples": [
       {
         "text": "Can I use your phone?",
-        "reading": "Can I use your phone?",
-        "translation": "\u00bfPuedo usar tu tel\u00e9fono?"
+        "reading": "",
+        "translation": "¿Puedo usar tu teléfono?"
       }
     ]
   },
   {
     "word": "give",
-    "reading": "give",
-    "meanings": ["dar"],
+    "reading": "/ɡɪv/",
+    "meanings": [
+      "dar"
+    ],
     "pos": "verb",
     "level": "a1",
-    "tags": ["verb", "basic"],
+    "tags": [
+      "verb",
+      "basic"
+    ],
     "examples": [
       {
         "text": "Give me the book, please.",
-        "reading": "Give me the book, please.",
+        "reading": "",
         "translation": "Dame el libro, por favor."
       }
     ]
   },
   {
     "word": "take",
-    "reading": "take",
-    "meanings": ["tomar", "llevar", "agarrar"],
+    "reading": "/teɪk/",
+    "meanings": [
+      "tomar",
+      "llevar",
+      "agarrar"
+    ],
     "pos": "verb",
     "level": "a1",
-    "tags": ["verb", "basic"],
+    "tags": [
+      "verb",
+      "basic"
+    ],
     "examples": [
       {
         "text": "Take an umbrella, it's raining.",
-        "reading": "Take an umbrella, it's raining.",
-        "translation": "Llev\u00e1 un paraguas, est\u00e1 lloviendo."
+        "reading": "",
+        "translation": "Llevá un paraguas, está lloviendo."
       }
     ]
   },
   {
     "word": "make",
-    "reading": "make",
-    "meanings": ["hacer", "fabricar", "preparar"],
+    "reading": "/meɪk/",
+    "meanings": [
+      "hacer",
+      "fabricar",
+      "preparar"
+    ],
     "pos": "verb",
     "level": "a1",
-    "tags": ["verb", "basic"],
+    "tags": [
+      "verb",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I make breakfast every morning.",
-        "reading": "I make breakfast every morning.",
-        "translation": "Preparo el desayuno cada ma\u00f1ana."
+        "reading": "",
+        "translation": "Preparo el desayuno cada mañana."
       }
     ]
   },
   {
     "word": "say",
-    "reading": "say",
-    "meanings": ["decir"],
+    "reading": "/seɪ/",
+    "meanings": [
+      "decir"
+    ],
     "pos": "verb",
     "level": "a1",
-    "tags": ["verb", "basic"],
+    "tags": [
+      "verb",
+      "basic"
+    ],
     "examples": [
       {
         "text": "What did you say?",
-        "reading": "What did you say?",
-        "translation": "\u00bfQu\u00e9 dijiste?"
+        "reading": "",
+        "translation": "¿Qué dijiste?"
       }
     ]
   },
   {
     "word": "think",
-    "reading": "think",
-    "meanings": ["pensar", "creer"],
+    "reading": "/θɪŋk/",
+    "meanings": [
+      "pensar",
+      "creer"
+    ],
     "pos": "verb",
     "level": "a1",
-    "tags": ["verb", "basic"],
+    "tags": [
+      "verb",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I think it's a good idea.",
-        "reading": "I think it's a good idea.",
+        "reading": "",
         "translation": "Creo que es una buena idea."
       }
     ]
   },
   {
     "word": "hot",
-    "reading": "hot",
-    "meanings": ["caliente", "caluroso"],
+    "reading": "/hɑːt/",
+    "meanings": [
+      "caliente",
+      "caluroso"
+    ],
     "pos": "adjective",
     "level": "a1",
-    "tags": ["adjectives", "weather", "basic"],
+    "tags": [
+      "adjectives",
+      "weather",
+      "basic"
+    ],
     "examples": [
       {
         "text": "It's very hot today.",
-        "reading": "It's very hot today.",
+        "reading": "",
         "translation": "Hace mucho calor hoy."
       }
     ]
   },
   {
     "word": "cold",
-    "reading": "cold",
-    "meanings": ["fr\u00edo"],
+    "reading": "/koʊld/",
+    "meanings": [
+      "frío"
+    ],
     "pos": "adjective",
     "level": "a1",
-    "tags": ["adjectives", "weather", "basic"],
+    "tags": [
+      "adjectives",
+      "weather",
+      "basic"
+    ],
     "examples": [
       {
         "text": "The water is very cold.",
-        "reading": "The water is very cold.",
-        "translation": "El agua est\u00e1 muy fr\u00eda."
+        "reading": "",
+        "translation": "El agua está muy fría."
       }
     ]
   },
   {
     "word": "beautiful",
-    "reading": "beautiful",
-    "meanings": ["hermoso", "bonito", "bello"],
+    "reading": "/ˈbjuːtɪfəl/",
+    "meanings": [
+      "hermoso",
+      "bonito",
+      "bello"
+    ],
     "pos": "adjective",
     "level": "a1",
-    "tags": ["adjectives", "basic"],
+    "tags": [
+      "adjectives",
+      "basic"
+    ],
     "examples": [
       {
         "text": "What a beautiful sunset!",
-        "reading": "What a beautiful sunset!",
-        "translation": "\u00a1Qu\u00e9 hermoso atardecer!"
+        "reading": "",
+        "translation": "¡Qué hermoso atardecer!"
       }
     ]
   },
   {
     "word": "with",
-    "reading": "with",
-    "meanings": ["con"],
+    "reading": "/wɪð/",
+    "meanings": [
+      "con"
+    ],
     "pos": "preposition",
     "level": "a1",
-    "tags": ["prepositions", "basic"],
+    "tags": [
+      "prepositions",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I go to the cinema with my friends.",
-        "reading": "I go to the cinema with my friends.",
+        "reading": "",
         "translation": "Voy al cine con mis amigos."
       }
     ]
   },
   {
     "word": "without",
-    "reading": "without",
-    "meanings": ["sin"],
+    "reading": "/wɪˈðaʊt/",
+    "meanings": [
+      "sin"
+    ],
     "pos": "preposition",
     "level": "a1",
-    "tags": ["prepositions", "basic"],
+    "tags": [
+      "prepositions",
+      "basic"
+    ],
     "examples": [
       {
         "text": "I can't live without music.",
-        "reading": "I can't live without music.",
-        "translation": "No puedo vivir sin m\u00fasica."
+        "reading": "",
+        "translation": "No puedo vivir sin música."
       }
     ]
   }

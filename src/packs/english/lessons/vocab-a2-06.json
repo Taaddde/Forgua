@@ -1,0 +1,111 @@
+{
+  "id": "vocab-a2-06",
+  "title": "False Friends: ¡Cuidado!",
+  "description": "Palabras que PARECEN iguales en español e inglés pero significan cosas completamente distintas. Fuente: Wiktionary False Friends list (972+ pares documentados).",
+  "level": "a2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "actual",
+      "back": "real, verdadero (NO 'actual')",
+      "reading": "/ˈæktʃuəl/",
+      "explanation": "'Actual' en inglés = real, verdadero. 'The actual cost was $500' = El costo REAL fue $500. Para decir 'actual' en español (presente, corriente), se dice 'current': 'the current situation'.",
+      "cardRef": { "category": "vocabulary", "front": "actual (false friend)" }
+    },
+    {
+      "front": "embarrassed",
+      "back": "avergonzado (NO 'embarazada')",
+      "reading": "/ɪmˈbærəst/",
+      "explanation": "'Embarrassed' = avergonzado/a. 'I was embarrassed' = Estaba avergonzado. Para 'embarazada' se dice 'pregnant'. ¡Confundir esto puede ser MUY incómodo!",
+      "cardRef": { "category": "vocabulary", "front": "embarrassed (false friend)" }
+    },
+    {
+      "front": "exit",
+      "back": "salida (NO 'éxito')",
+      "reading": "/ˈɛɡzɪt/",
+      "explanation": "'Exit' = salida (de un edificio, autopista). Para 'éxito' se dice 'success': 'The project was a success'.",
+      "cardRef": { "category": "vocabulary", "front": "exit (false friend)" }
+    },
+    {
+      "front": "sensible",
+      "back": "sensato, razonable (NO 'sensible')",
+      "reading": "/ˈsɛnsəbəl/",
+      "explanation": "'Sensible' en inglés = sensato, prudente. 'A sensible decision' = Una decisión sensata. Para 'sensible' (que siente mucho) se dice 'sensitive': 'She's very sensitive'.",
+      "cardRef": { "category": "vocabulary", "front": "sensible (false friend)" }
+    },
+    {
+      "front": "library",
+      "back": "biblioteca (NO 'librería')",
+      "reading": "/ˈlaɪbreri/",
+      "explanation": "'Library' = biblioteca (donde se prestan libros). Para 'librería' (donde se venden libros) se dice 'bookstore' o 'bookshop'.",
+      "cardRef": { "category": "vocabulary", "front": "library (false friend)" }
+    },
+    {
+      "front": "fabric",
+      "back": "tela, tejido (NO 'fábrica')",
+      "reading": "/ˈfæbrɪk/",
+      "explanation": "'Fabric' = tela, tejido. 'Cotton fabric' = tela de algodón. Para 'fábrica' se dice 'factory'.",
+      "cardRef": { "category": "vocabulary", "front": "fabric (false friend)" }
+    },
+    {
+      "front": "carpet",
+      "back": "alfombra (NO 'carpeta')",
+      "reading": "/ˈkɑːrpɪt/",
+      "explanation": "'Carpet' = alfombra. Para 'carpeta' (de documentos) se dice 'folder'.",
+      "cardRef": { "category": "vocabulary", "front": "carpet (false friend)" }
+    },
+    {
+      "front": "attend",
+      "back": "asistir, ir a (NO 'atender')",
+      "reading": "/əˈtɛnd/",
+      "explanation": "'Attend' = asistir a, ir a un evento. 'I attended the meeting' = Asistí a la reunión. Para 'atender' (a un cliente) se dice 'serve' o 'help': 'Can I help you?'.",
+      "cardRef": { "category": "vocabulary", "front": "attend (false friend)" }
+    },
+    {
+      "front": "realize",
+      "back": "darse cuenta (NO 'realizar')",
+      "reading": "/ˈriːəlaɪz/",
+      "explanation": "'Realize' = darse cuenta. 'I realized my mistake' = Me di cuenta de mi error. Para 'realizar' (llevar a cabo) se dice 'carry out' o 'accomplish'.",
+      "cardRef": { "category": "vocabulary", "front": "realize (false friend)" }
+    },
+    {
+      "front": "large",
+      "back": "grande (NO 'largo')",
+      "reading": "/lɑːrdʒ/",
+      "explanation": "'Large' = grande (tamaño). 'A large pizza' = Una pizza grande. Para 'largo' se dice 'long': 'a long road' = un camino largo.",
+      "cardRef": { "category": "vocabulary", "front": "large (false friend)" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "¿Qué son los False Friends?",
+      "instruction": "Los 'false friends' (falsos amigos) son palabras que se escriben parecido en español e inglés pero significan cosas DISTINTAS. Hay más de 970 documentados. Estos 10 son los más peligrosos porque son muy comunes y los errores pueden ser vergonzosos (especialmente 'embarrassed' ≠ 'embarazada').",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "5 falsos amigos más",
+      "instruction": "Seguimos con más falsos amigos. Recordá: si una palabra en inglés se 'parece' a una en español, desconfiá y verificá.",
+      "itemIndices": [5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa realmente?",
+      "instruction": "Elegí el significado REAL en inglés, no lo que parece por el español.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice en inglés?",
+      "instruction": "Ves el significado. Escribí la palabra correcta en inglés (no el falso amigo).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Resumen de los 10 false friends más comunes: actual=real, embarrassed=avergonzado, exit=salida, sensible=sensato, library=biblioteca, fabric=tela, carpet=alfombra, attend=asistir, realize=darse cuenta, large=grande. Regla: si se parece al español, ¡verificá antes de usar!",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

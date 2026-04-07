@@ -3,55 +3,88 @@
     "id": "intensive",
     "name": "Ruta Intensiva",
     "type": "intensive",
-    "description": "Para quienes dedican más de 3 horas diarias. Objetivo: alcanzar B1 en 6 meses.",
+    "description": "Para quienes dedican más de 3 horas diarias. Objetivo: alcanzar C1 en ~18 meses. Basado en estimaciones de Cambridge (700-940h acumuladas para C1 desde español).",
     "phases": [
       {
-        "name": "A1 Foundations",
+        "name": "A1 — Cimientos",
         "duration": "4 semanas",
         "level": "a1",
-        "content": "Gramática esencial: to be, present simple, present continuous, articles. Vocabulario básico: 300+ palabras (saludos, familia, comida, colores, números). Lecturas y ejercicios de nivel A1.",
-        "dailyGoal": "3+ horas: 1h gramática, 1h vocabulario + SRS, 30min lectura, 30min escucha/pronunciación",
+        "content": "Gramática esencial: to be, present simple, present continuous, articles (a/an/the/zero), possessive adjectives, there is/are, can/can't, imperatives, prepositions (in/on/at). Vocabulario: 500 palabras (saludos, familia, comida, números, colores, ropa, casa). Pronunciación: las 5 vocales nuevas (/æ/, /ʌ/, /ɪ/, /ə/, /ɜː/), /v/ vs /b/, sonidos 'th'. Lectura: textos de 50-80 palabras (menús, señales, formularios).",
+        "dailyGoal": "3-4 horas: 1h gramática, 1h vocabulario + SRS, 30min lectura, 30min pronunciación/escucha",
         "milestones": [
-          "Presentarse y hacer preguntas básicas en inglés",
-          "Entender instrucciones simples",
-          "Leer textos cortos sin diccionario"
+          "Presentarse y hacer preguntas básicas",
+          "Distinguir /ɪ/ de /iː/ (ship vs sheep)",
+          "Leer menús y señales sin diccionario",
+          "500 palabras activas en SRS"
         ]
       },
       {
-        "name": "A1 Complete + A2 Start",
+        "name": "A2 — Comunicación básica",
         "duration": "6 semanas",
         "level": "a2",
-        "content": "Completar gramática A1 (past simple, going to, comparatives). Empezar A2: present perfect, will, conditionals. Vocabulario: 600+ palabras. Phrasal verbs básicos.",
-        "dailyGoal": "3+ horas: 1h gramática nueva, 1h vocabulario + SRS, 30min reading/writing, 30min speaking/listening",
+        "content": "Gramática: past simple (regular + irregular), going to, will, comparatives/superlatives, present perfect (intro), countable/uncountable, modals (have to, should), zero + 1st conditional, gerunds, common phrasal verbs. Vocabulario: 1000-1500 palabras acumuladas. Pronunciación: stress patterns, weak forms intro, connected speech básico. Lectura: emails, descripciones cortas, brochures.",
+        "dailyGoal": "3-4 horas: 1h gramática nueva, 1h vocabulario + SRS, 30min reading/writing, 30min listening + pronunciation",
         "milestones": [
-          "Contar experiencias pasadas en inglés",
-          "Entender el 60% de una conversación cotidiana",
-          "Escribir emails simples"
+          "Contar experiencias pasadas",
+          "Entender el 60% de conversaciones cotidianas",
+          "Escribir emails simples de 80+ palabras",
+          "Entender podcasts para beginners (VOA Learning English)",
+          "Equivalente a Cambridge A2 Key"
         ]
       },
       {
-        "name": "A2 Complete",
-        "duration": "8 semanas",
-        "level": "a2",
-        "content": "Gramática A2 completa: passive voice, relative clauses, reported speech, second conditional. Vocabulario: 1000+ palabras. Inmersión con podcasts y videos.",
-        "dailyGoal": "3+ horas: 1h gramática, 1h inmersión (podcasts, videos), 30min writing, 30min conversation practice",
-        "milestones": [
-          "Entender podcasts para learners (6 Minute English)",
-          "Mantener una conversación de 10+ minutos",
-          "Aprobar mock test A2 con >80%"
-        ]
-      },
-      {
-        "name": "B1 Transition",
-        "duration": "8 semanas",
+        "name": "B1 — Usuario independiente",
+        "duration": "10 semanas",
         "level": "b1",
-        "content": "Gramática B1: past perfect, third conditional, modal perfects. Vocabulario: 1500+ palabras. Lectura de artículos reales. Práctica de writing estructurado.",
-        "dailyGoal": "3+ horas: balance 50/50 entre estudio formal e inmersión real",
+        "content": "Gramática: 2nd/3rd conditionals, past perfect, present perfect continuous, simple passive, reported speech, complex connectors (cause/contrast), modals for deduction (might/may). Vocabulario: 2000-3000 palabras acumuladas. Pronunciación: connected speech (linking, elision), weak forms completo, schwa en todas las posiciones. Lectura: artículos de BBC Learning English, emails profesionales.",
+        "dailyGoal": "3-4 horas: 1h gramática, 1h inmersión (podcasts/videos), 30min writing, 30min conversation practice",
         "milestones": [
           "Leer artículos de BBC Learning English sin ayuda",
-          "Entender TED Talks con subtítulos en inglés",
-          "Escribir ensayos de 200+ palabras",
-          "Aprobar mock test B1"
+          "Entender 6 Minute English sin subtítulos",
+          "Mantener conversaciones de 15+ minutos",
+          "Escribir textos de 200+ palabras estructurados",
+          "Equivalente a Cambridge B1 Preliminary / IELTS 4.0-5.0"
+        ]
+      },
+      {
+        "name": "B2 — Profesional",
+        "duration": "12 semanas",
+        "level": "b2",
+        "content": "Gramática: future perfect/continuous, mixed conditionals, narrative tenses, extended passives, relative clauses avanzadas, wish/would. Vocabulario: 4000-5000 palabras acumuladas (Oxford 5000). Pronunciación: intonation patterns, register awareness. Lectura: artículos con opiniones, prosa literaria, abstracts académicos. False friends intensivo.",
+        "dailyGoal": "3-4 horas: balance 50/50 estudio formal e inmersión real (series, podcasts, libros)",
+        "milestones": [
+          "Entender TED Talks sin subtítulos",
+          "Leer artículos de The Guardian / NY Times",
+          "Escribir ensayos argumentativos de 300+ palabras",
+          "Conversación fluida con nativos sobre temas variados",
+          "Equivalente a Cambridge B2 First / IELTS 5.5-6.5 / TOEFL 72-94"
+        ]
+      },
+      {
+        "name": "C1 — Dominio operativo",
+        "duration": "16 semanas",
+        "level": "c1",
+        "content": "Gramática: inversion with negative adverbials, advanced mixed conditionals, modals in the past, all passive forms, phrasal verb splitting. Vocabulario: 6000-8000 palabras acumuladas (incluye Academic Word List). Pronunciación: near-native intonation, register shifting. Lectura: textos académicos, literarios, técnicos extensos.",
+        "dailyGoal": "3-4 horas: 80% inmersión real (lectura académica, podcasts nativos, writing avanzado), 20% refinamiento gramatical",
+        "milestones": [
+          "Entender conferencias y presentaciones complejas",
+          "Leer literatura en inglés sin diccionario",
+          "Escribir textos académicos de 500+ palabras",
+          "Expresar matices y opiniones con precisión",
+          "Equivalente a Cambridge C1 Advanced / IELTS 7.0-8.0 / TOEFL 95-113"
+        ]
+      },
+      {
+        "name": "C2 — Maestría",
+        "duration": "20+ semanas",
+        "level": "c2",
+        "content": "Refinamiento de todos los sistemas. Vocabulario: 10000+ palabras (incluyendo expresiones idiomáticas, collocations avanzadas, register formal/informal). Lectura: textos abstractos, estructuralmente complejos, arcaicos. Producción near-native.",
+        "dailyGoal": "3+ horas: inmersión total — leer, escuchar, escribir y hablar en inglés como rutina diaria",
+        "milestones": [
+          "Entender virtualmente cualquier texto escrito u oral",
+          "Escribir con estilo, precisión y matiz",
+          "Humor, ironía y juegos de palabras en inglés",
+          "Equivalente a Cambridge C2 Proficiency / IELTS 8.5-9.0 / TOEFL 114+"
         ]
       }
     ]
@@ -60,54 +93,82 @@
     "id": "standard",
     "name": "Ruta Estándar",
     "type": "standard",
-    "description": "Para quienes dedican 1-2 horas diarias. Objetivo: alcanzar B1 en 12-18 meses.",
+    "description": "Para quienes dedican 1-2 horas diarias. Objetivo: alcanzar B2 en ~2 años, C1 en ~3 años. Basado en Cambridge GLH: hispanohablantes necesitan ~700-940h para C1.",
     "phases": [
       {
-        "name": "A1 Base",
+        "name": "A1 — Primeros pasos",
         "duration": "8 semanas",
         "level": "a1",
-        "content": "Gramática A1 a ritmo sostenido. Vocabulario: primeras 200 palabras. Ejercicios diarios de SRS.",
+        "content": "Gramática A1 a ritmo sostenido: to be, present simple, present continuous, articles, possessives, there is/are, can/can't. Vocabulario: 500 palabras. Pronunciación: vocales nuevas, /v/ vs /b/. Lecturas graduadas A1.",
         "dailyGoal": "1-2 horas: 30min gramática, 30min vocabulario SRS, 30min lectura/escucha",
         "milestones": [
           "Presentarse en inglés con confianza",
           "Entender textos graduados nivel A1",
-          "200+ palabras activas en SRS"
+          "500 palabras activas en SRS"
         ]
       },
       {
-        "name": "A1 → A2 Transition",
+        "name": "A2 — Expandiendo la base",
         "duration": "12 semanas",
-        "level": "a1",
-        "content": "Completar gramática A1. Empezar vocabulario A2. Lectura graduada. Primeros podcasts para beginners.",
-        "dailyGoal": "1.5 horas: 30min estudio nuevo, 30min SRS repaso, 30min escucha",
-        "milestones": [
-          "Gramática A1 sólida",
-          "400+ palabras activas",
-          "Entender instrucciones en inglés"
-        ]
-      },
-      {
-        "name": "A2 Gradual",
-        "duration": "20 semanas",
         "level": "a2",
-        "content": "Gramática A2 completa. Vocabulario 800+ palabras. Phrasal verbs. Lectura de textos intermedios. Práctica de escritura.",
-        "dailyGoal": "1.5 horas: 30min gramática, 30min SRS, 30min inmersión variada",
+        "content": "Gramática A2 completa: past simple, going to, will, present perfect intro, comparatives, modals, conditionals, phrasal verbs comunes. Vocabulario: 1000-1500 palabras. Pronunciación: stress patterns, weak forms intro.",
+        "dailyGoal": "1.5 horas: 30min gramática, 30min SRS + vocabulario, 30min lectura/escucha variada",
         "milestones": [
-          "Entender conversaciones cotidianas",
+          "Entender conversaciones cotidianas simples",
           "Escribir textos de 100+ palabras",
-          "Aprobar mock test A2"
+          "Entender 6 Minute English con transcripción",
+          "Equivalente a Cambridge A2 Key"
         ]
       },
       {
-        "name": "B1 Sostenido",
-        "duration": "24 semanas",
+        "name": "B1 — Independencia",
+        "duration": "20 semanas",
         "level": "b1",
-        "content": "Gramática B1. Vocabulario 1200+ palabras. Transición a contenido real (noticias, podcasts, series).",
-        "dailyGoal": "2 horas: 30min gramática, 30min SRS, 30min lectura real, 30min escucha",
+        "content": "Gramática B1: conditionals 2nd/3rd, past perfect, present perfect continuous, passive, reported speech, connectors. Vocabulario: 2000-3000 palabras. Pronunciación: connected speech, schwa. Inmersión con podcasts y artículos.",
+        "dailyGoal": "1.5 horas: 30min gramática, 30min SRS, 30min inmersión variada (podcasts, lectura, writing)",
         "milestones": [
           "Leer artículos de noticias con ayuda moderada",
-          "Entender series en inglés con subtítulos",
-          "Mantener conversaciones sobre temas variados"
+          "Entender series en inglés con subtítulos en inglés",
+          "Mantener conversaciones sobre temas variados",
+          "Equivalente a Cambridge B1 Preliminary / IELTS 4.0-5.0"
+        ]
+      },
+      {
+        "name": "B2 — Fluidez",
+        "duration": "24 semanas",
+        "level": "b2",
+        "content": "Gramática B2: future perfect, mixed conditionals, narrative tenses, passives avanzadas, relative clauses, wish. Vocabulario: 4000-5000 palabras (Oxford 5000). Lectura: artículos con opiniones, prosa literaria. Immersión intensiva.",
+        "dailyGoal": "2 horas: 30min estudio formal, 30min SRS, 1h inmersión real (series, podcasts, lectura)",
+        "milestones": [
+          "Entender TED Talks con subtítulos en inglés",
+          "Leer artículos de opinión en inglés",
+          "Escribir ensayos de 250+ palabras",
+          "Equivalente a Cambridge B2 First / IELTS 5.5-6.5"
+        ]
+      },
+      {
+        "name": "C1 — Dominio",
+        "duration": "30 semanas",
+        "level": "c1",
+        "content": "Gramática C1: inversion, modals in the past, all passives, phrasal verbs avanzados. Vocabulario: 6000-8000 palabras. Inmersión total: lectura académica, podcasts nativos, writing avanzado.",
+        "dailyGoal": "2 horas: 20% estudio formal, 80% inmersión real",
+        "milestones": [
+          "Entender conferencias y debates complejos",
+          "Leer literatura sin diccionario",
+          "Escribir textos académicos coherentes",
+          "Equivalente a Cambridge C1 Advanced / IELTS 7.0-8.0"
+        ]
+      },
+      {
+        "name": "C2 — Perfeccionamiento",
+        "duration": "40+ semanas",
+        "level": "c2",
+        "content": "Refinamiento completo. Vocabulario: 10000+ palabras. Collocations, idioms, register shifting. Producción near-native en todos los registros.",
+        "dailyGoal": "2 horas: inmersión total como rutina diaria",
+        "milestones": [
+          "Producción escrita y oral near-native",
+          "Comprensión de humor, ironía y matices culturales",
+          "Equivalente a Cambridge C2 Proficiency / IELTS 8.5-9.0"
         ]
       }
     ]
@@ -116,53 +177,56 @@
     "id": "casual",
     "name": "Ruta Casual",
     "type": "casual",
-    "description": "Para quienes dedican 30 minutos diarios. Progreso gradual sin presión. Objetivo: A2-B1 a tu ritmo.",
+    "description": "Para quienes dedican 20-30 minutos diarios. Progreso gradual sin presión. Ideal para quienes ya tienen algo de inglés y quieren mejorar a su ritmo.",
     "phases": [
       {
-        "name": "Descubrimiento",
-        "duration": "12 semanas",
+        "name": "Descubrimiento — A1",
+        "duration": "16 semanas",
         "level": "a1",
-        "content": "Aprender lo esencial: saludos, números, verbos básicos. Gramática mínima: to be, present simple.",
-        "dailyGoal": "30 minutos: 15min vocabulario nuevo + SRS, 15min gramática o lectura",
+        "content": "Lo esencial: saludos, números, verbos básicos (to be, present simple). 5-8 palabras nuevas por día. Pronunciación: las vocales más importantes (/æ/, /ɪ/, /ə/). Lecturas cortas de 40-60 palabras.",
+        "dailyGoal": "20-30 minutos: 10min vocabulario nuevo + SRS, 10min gramática o lectura, 10min escucha",
         "milestones": [
-          "100+ palabras básicas aprendidas",
-          "Presentarse en inglés"
+          "Presentarse en inglés",
+          "Entender instrucciones muy simples",
+          "300+ palabras en SRS"
         ]
       },
       {
-        "name": "Base A1",
-        "duration": "24 semanas",
-        "level": "a1",
-        "content": "Gramática A1 a ritmo relajado. 5-8 palabras nuevas por día. Lecturas cortas. Juegos y apps.",
-        "dailyGoal": "30 minutos: 15min items nuevos, 15min repaso + lectura ligera",
-        "milestones": [
-          "Gramática A1 básica internalizada",
-          "300+ palabras en SRS",
-          "Disfrutar textos graduados A1"
-        ]
-      },
-      {
-        "name": "Exploración A2",
-        "duration": "36 semanas",
+        "name": "Base sólida — A2",
+        "duration": "30 semanas",
         "level": "a2",
-        "content": "Empezar A2 sin prisa. Intercalar contenido nuevo con repaso profundo de A1. Primeros podcasts simples.",
-        "dailyGoal": "30 minutos: lo que te motive ese día — vocabulario, gramática, escucha o lectura",
+        "content": "Gramática A2 a ritmo relajado: past simple, going to, comparatives. 5-6 palabras nuevas por día. Intercalar contenido nuevo con repaso profundo de A1. Primeros podcasts simples (VOA Learning English).",
+        "dailyGoal": "20-30 minutos: lo que te motive — vocabulario, gramática, escucha o lectura",
         "milestones": [
           "A1 sólido y maduro",
-          "200+ palabras A2 aprendidas",
-          "Entender canciones simples en inglés"
+          "Entender canciones simples en inglés",
+          "700+ palabras en SRS",
+          "Entender conversaciones muy básicas"
         ]
       },
       {
-        "name": "Hacia B1",
-        "duration": "48+ semanas",
+        "name": "Crecimiento — B1",
+        "duration": "40 semanas",
         "level": "b1",
-        "content": "Continuar A2 y empezar B1 gradualmente. Sin fecha límite — disfrutar el proceso.",
-        "dailyGoal": "30 minutos: lo que te motive",
+        "content": "Gramática B1 gradual. Vocabulario 1500+ palabras. Transición a contenido real: noticias simplificadas, podcasts para learners, series con subtítulos.",
+        "dailyGoal": "30 minutos: 15min estudio (gramática o vocabulario), 15min inmersión (podcast, reading, serie)",
         "milestones": [
-          "Vocabulario activo de 800+ palabras",
-          "Entender series simples en inglés",
-          "Poder comunicarse en situaciones básicas de viaje"
+          "Entender series simples con subtítulos en inglés",
+          "Leer artículos adaptados",
+          "Comunicarse en situaciones básicas de viaje",
+          "1500+ palabras en SRS"
+        ]
+      },
+      {
+        "name": "Consolidación — B2",
+        "duration": "52+ semanas",
+        "level": "b2",
+        "content": "Sin prisa hacia B2. Inmersión natural: series, podcasts, lectura por placer. Gramática como refinamiento, no como estudio principal.",
+        "dailyGoal": "30 minutos: inmersión placentera — lo que disfrutes en inglés",
+        "milestones": [
+          "Disfrutar contenido en inglés como entretenimiento",
+          "Entender la mayoría de series/películas con subtítulos",
+          "Comunicarse con cierta fluidez sobre temas conocidos"
         ]
       }
     ]

@@ -1,0 +1,111 @@
+{
+  "id": "vocab-a1-02",
+  "title": "Numbers 1-20",
+  "description": "Los números del 1 al 20 en inglés. Aprendé a contar y a decir tu edad correctamente (I am 25, NO 'I have 25').",
+  "level": "a1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "one",
+      "back": "uno (1)",
+      "reading": "/wʌn/",
+      "explanation": "Se pronuncia 'uan', no 'oun'. La 'o' suena como /ʌ/ (similar a la 'a' en español).",
+      "cardRef": { "category": "vocabulary", "front": "one" }
+    },
+    {
+      "front": "two",
+      "back": "dos (2)",
+      "reading": "/tuː/",
+      "explanation": "Se pronuncia igual que 'too' (también) y 'to' (a/para). Tres palabras, mismo sonido, distinto significado.",
+      "cardRef": { "category": "vocabulary", "front": "two" }
+    },
+    {
+      "front": "three",
+      "back": "tres (3)",
+      "reading": "/θriː/",
+      "explanation": "Empieza con 'th' /θ/: lengua entre los dientes. Los hispanohablantes tienden a decir 'tri' — practicá el sonido /θ/.",
+      "cardRef": { "category": "vocabulary", "front": "three" }
+    },
+    {
+      "front": "five",
+      "back": "cinco (5)",
+      "reading": "/faɪv/",
+      "explanation": "Rima con 'alive' y 'drive'. La 'i' se pronuncia /aɪ/ como en español 'ai'.",
+      "cardRef": { "category": "vocabulary", "front": "five" }
+    },
+    {
+      "front": "seven",
+      "back": "siete (7)",
+      "reading": "/ˈsɛvən/",
+      "explanation": "Acento en la primera sílaba: SE-ven. La segunda sílaba es casi muda: /ən/.",
+      "cardRef": { "category": "vocabulary", "front": "seven" }
+    },
+    {
+      "front": "ten",
+      "back": "diez (10)",
+      "reading": "/tɛn/",
+      "explanation": "Corto y directo. Rima con 'pen', 'men', 'hen'.",
+      "cardRef": { "category": "vocabulary", "front": "ten" }
+    },
+    {
+      "front": "twelve",
+      "back": "doce (12)",
+      "reading": "/twɛlv/",
+      "explanation": "Empieza con el grupo 'tw' /tw/. Termina en /v/ — no confundir con 'twenty'.",
+      "cardRef": { "category": "vocabulary", "front": "twelve" }
+    },
+    {
+      "front": "fifteen",
+      "back": "quince (15)",
+      "reading": "/ˌfɪfˈtiːn/",
+      "explanation": "Acento en la segunda sílaba: fif-TEEN. No confundir con 'fifty' (50), que tiene acento en FIF-ty.",
+      "cardRef": { "category": "vocabulary", "front": "fifteen" }
+    },
+    {
+      "front": "twenty",
+      "back": "veinte (20)",
+      "reading": "/ˈtwɛnti/",
+      "explanation": "Acento en la primera sílaba: TWEN-ty. En inglés americano la 't' del medio suena casi como 'd': 'twenny'.",
+      "cardRef": { "category": "vocabulary", "front": "twenty" }
+    },
+    {
+      "front": "How old are you?",
+      "back": "¿Cuántos años tenés?",
+      "reading": "/haʊ oʊld ɑːr juː/",
+      "explanation": "¡ERROR TÍPICO! En español decimos 'tengo 25 años' → 'I HAVE 25 years'. INCORRECTO. En inglés la edad usa el verbo SER: 'I AM 25 years old' o simplemente 'I'm 25'. Nunca uses 'have' para la edad.",
+      "cardRef": { "category": "vocabulary", "front": "How old are you?" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Los números clave del 1 al 20",
+      "instruction": "Estos son los números más importantes en inglés. Prestá atención a la pronunciación: 'three' tiene el sonido 'th' /θ/, y 'fifteen' vs 'fifty' se distinguen por dónde cae el acento. Al final, aprendemos a preguntar la edad — ¡cuidado con no traducir literalmente del español!",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué número es?",
+      "instruction": "Elegí el significado correcto de cada número.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "listen-identify",
+      "title": "Escuchá el número",
+      "instruction": "Escuchá la pronunciación y elegí qué número es.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "type": "recall",
+      "title": "Escribí el número en inglés",
+      "instruction": "Ves el número en español. Escribí la palabra en inglés. Recordá: three con 'th', twelve con 'tw'.",
+      "itemIndices": [0, 1, 2, 3, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "¡Números aprendidos!",
+      "instruction": "Ya sabés los números clave del 1 al 20 y cómo preguntar/decir la edad. Recordá: en inglés la edad usa el verbo 'to be' (I AM 25), nunca 'have'. Tip: para no confundir fifteen (15) y fifty (50), escuchá el acento — fifTEEN vs FIFty.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

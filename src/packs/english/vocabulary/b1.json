@@ -1,0 +1,1322 @@
+[
+  {
+    "word": "colleague",
+    "reading": "/ˈkɑːliːɡ/",
+    "meanings": ["colega", "compañero de trabajo"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["work", "people"],
+    "examples": [
+      {
+        "text": "My colleague helped me finish the report.",
+        "reading": "/maɪ ˈkɑːliːɡ hɛlpt miː ˈfɪnɪʃ ðə rɪˈpɔːrt/",
+        "translation": "Mi colega me ayudó a terminar el informe."
+      }
+    ]
+  },
+  {
+    "word": "deadline",
+    "reading": "/ˈdɛdlaɪn/",
+    "meanings": ["fecha límite", "plazo"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["work", "time"],
+    "examples": [
+      {
+        "text": "We need to meet the deadline by Friday.",
+        "reading": "/wiː niːd tə miːt ðə ˈdɛdlaɪn baɪ ˈfraɪdeɪ/",
+        "translation": "Necesitamos cumplir con la fecha límite para el viernes."
+      }
+    ]
+  },
+  {
+    "word": "manager",
+    "reading": "/ˈmænɪdʒər/",
+    "meanings": ["gerente", "director"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["work", "people"],
+    "examples": [
+      {
+        "text": "The manager approved the new project.",
+        "reading": "/ðə ˈmænɪdʒər əˈpruːvd ðə nuː ˈprɑːdʒɛkt/",
+        "translation": "El gerente aprobó el nuevo proyecto."
+      }
+    ]
+  },
+  {
+    "word": "salary",
+    "reading": "/ˈsæləri/",
+    "meanings": ["salario", "sueldo"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["work", "money"],
+    "examples": [
+      {
+        "text": "She received a raise in her salary last month.",
+        "reading": "/ʃiː rɪˈsiːvd ə reɪz ɪn hɜːr ˈsæləri læst mʌnθ/",
+        "translation": "Ella recibió un aumento de sueldo el mes pasado."
+      }
+    ]
+  },
+  {
+    "word": "resign",
+    "reading": "/rɪˈzaɪn/",
+    "meanings": ["renunciar", "dimitir"],
+    "pos": "verb",
+    "level": "b1",
+    "tags": ["work"],
+    "examples": [
+      {
+        "text": "He decided to resign from his position.",
+        "reading": "/hiː dɪˈsaɪdɪd tə rɪˈzaɪn frəm hɪz pəˈzɪʃən/",
+        "translation": "Él decidió renunciar a su puesto."
+      }
+    ]
+  },
+  {
+    "word": "promote",
+    "reading": "/prəˈmoʊt/",
+    "meanings": ["ascender", "promover"],
+    "pos": "verb",
+    "level": "b1",
+    "tags": ["work"],
+    "examples": [
+      {
+        "text": "They promoted her to team leader.",
+        "reading": "/ðeɪ prəˈmoʊtɪd hɜːr tə tiːm ˈliːdər/",
+        "translation": "La ascendieron a líder de equipo."
+      }
+    ]
+  },
+  {
+    "word": "interview",
+    "reading": "/ˈɪntərvjuː/",
+    "meanings": ["entrevista", "entrevistar"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["work"],
+    "examples": [
+      {
+        "text": "I have a job interview tomorrow morning.",
+        "reading": "/aɪ hæv ə dʒɑːb ˈɪntərvjuː təˈmɑːroʊ ˈmɔːrnɪŋ/",
+        "translation": "Tengo una entrevista de trabajo mañana por la mañana."
+      }
+    ]
+  },
+  {
+    "word": "apply",
+    "reading": "/əˈplaɪ/",
+    "meanings": ["postularse", "aplicar", "solicitar"],
+    "pos": "verb",
+    "level": "b1",
+    "tags": ["work"],
+    "examples": [
+      {
+        "text": "She applied for three different positions.",
+        "reading": "/ʃiː əˈplaɪd fɔːr θriː ˈdɪfərənt pəˈzɪʃənz/",
+        "translation": "Ella se postuló a tres puestos diferentes."
+      }
+    ]
+  },
+  {
+    "word": "experience",
+    "reading": "/ɪkˈspɪriəns/",
+    "meanings": ["experiencia"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["work", "cognate"],
+    "examples": [
+      {
+        "text": "You need at least two years of experience.",
+        "reading": "/juː niːd ət liːst tuː jɪrz əv ɪkˈspɪriəns/",
+        "translation": "Necesitás al menos dos años de experiencia."
+      }
+    ]
+  },
+  {
+    "word": "employee",
+    "reading": "/ɪmˈplɔɪiː/",
+    "meanings": ["empleado"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["work", "people"],
+    "examples": [
+      {
+        "text": "The company has over 500 employees.",
+        "reading": "/ðə ˈkʌmpəni hæz ˈoʊvər faɪv ˈhʌndrəd ɪmˈplɔɪiːz/",
+        "translation": "La empresa tiene más de 500 empleados."
+      }
+    ]
+  },
+  {
+    "word": "flight",
+    "reading": "/flaɪt/",
+    "meanings": ["vuelo"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["travel", "transport"],
+    "examples": [
+      {
+        "text": "Our flight was delayed by two hours.",
+        "reading": "/aʊr flaɪt wəz dɪˈleɪd baɪ tuː ˈaʊərz/",
+        "translation": "Nuestro vuelo se retrasó dos horas."
+      }
+    ]
+  },
+  {
+    "word": "departure",
+    "reading": "/dɪˈpɑːrtʃər/",
+    "meanings": ["salida", "partida"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["travel", "transport"],
+    "examples": [
+      {
+        "text": "The departure gate has been changed.",
+        "reading": "/ðə dɪˈpɑːrtʃər ɡeɪt hæz bɪn tʃeɪndʒd/",
+        "translation": "La puerta de embarque fue cambiada."
+      }
+    ]
+  },
+  {
+    "word": "boarding pass",
+    "reading": "/ˈbɔːrdɪŋ pæs/",
+    "meanings": ["tarjeta de embarque", "pase de abordar"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["travel", "transport"],
+    "examples": [
+      {
+        "text": "Please have your boarding pass ready.",
+        "reading": "/pliːz hæv jɔːr ˈbɔːrdɪŋ pæs ˈrɛdi/",
+        "translation": "Por favor tenga su tarjeta de embarque lista."
+      }
+    ]
+  },
+  {
+    "word": "accommodation",
+    "reading": "/əˌkɑːməˈdeɪʃən/",
+    "meanings": ["alojamiento", "hospedaje"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["travel"],
+    "examples": [
+      {
+        "text": "We booked our accommodation online.",
+        "reading": "/wiː bʊkt aʊr əˌkɑːməˈdeɪʃən ˈɑːnlaɪn/",
+        "translation": "Reservamos nuestro alojamiento por internet."
+      }
+    ]
+  },
+  {
+    "word": "destination",
+    "reading": "/ˌdɛstɪˈneɪʃən/",
+    "meanings": ["destino"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["travel", "cognate"],
+    "examples": [
+      {
+        "text": "What is your final destination?",
+        "reading": "/wʌt ɪz jɔːr ˈfaɪnəl ˌdɛstɪˈneɪʃən/",
+        "translation": "¿Cuál es su destino final?"
+      }
+    ]
+  },
+  {
+    "word": "luggage",
+    "reading": "/ˈlʌɡɪdʒ/",
+    "meanings": ["equipaje"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["travel"],
+    "examples": [
+      {
+        "text": "My luggage didn't arrive at the airport.",
+        "reading": "/maɪ ˈlʌɡɪdʒ ˈdɪdənt əˈraɪv ət ðə ˈɛrpɔːrt/",
+        "translation": "Mi equipaje no llegó al aeropuerto."
+      }
+    ]
+  },
+  {
+    "word": "platform",
+    "reading": "/ˈplætfɔːrm/",
+    "meanings": ["andén", "plataforma"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["travel", "transport"],
+    "examples": [
+      {
+        "text": "The train leaves from platform 3.",
+        "reading": "/ðə treɪn liːvz frəm ˈplætfɔːrm θriː/",
+        "translation": "El tren sale del andén 3."
+      }
+    ]
+  },
+  {
+    "word": "passenger",
+    "reading": "/ˈpæsəndʒər/",
+    "meanings": ["pasajero"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["travel", "transport", "people"],
+    "examples": [
+      {
+        "text": "All passengers must fasten their seatbelts.",
+        "reading": "/ɔːl ˈpæsəndʒərz mʌst ˈfæsən ðɛr ˈsiːtbɛlts/",
+        "translation": "Todos los pasajeros deben abrocharse el cinturón."
+      }
+    ]
+  },
+  {
+    "word": "round trip",
+    "reading": "/raʊnd trɪp/",
+    "meanings": ["viaje de ida y vuelta"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["travel", "transport"],
+    "examples": [
+      {
+        "text": "I'd like a round trip ticket to Boston.",
+        "reading": "/aɪd laɪk ə raʊnd trɪp ˈtɪkɪt tə ˈbɑːstən/",
+        "translation": "Quisiera un pasaje de ida y vuelta a Boston."
+      }
+    ]
+  },
+  {
+    "word": "customs",
+    "reading": "/ˈkʌstəmz/",
+    "meanings": ["aduana"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["travel"],
+    "examples": [
+      {
+        "text": "We had to go through customs at the border.",
+        "reading": "/wiː hæd tə ɡoʊ θruː ˈkʌstəmz ət ðə ˈbɔːrdər/",
+        "translation": "Tuvimos que pasar por la aduana en la frontera."
+      }
+    ]
+  },
+  {
+    "word": "symptom",
+    "reading": "/ˈsɪmptəm/",
+    "meanings": ["síntoma"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["health", "cognate"],
+    "examples": [
+      {
+        "text": "What symptoms have you been experiencing?",
+        "reading": "/wʌt ˈsɪmptəmz hæv juː bɪn ɪkˈspɪriənsɪŋ/",
+        "translation": "¿Qué síntomas ha estado experimentando?"
+      }
+    ]
+  },
+  {
+    "word": "prescription",
+    "reading": "/prɪˈskrɪpʃən/",
+    "meanings": ["receta médica"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["health"],
+    "examples": [
+      {
+        "text": "The doctor gave me a prescription for antibiotics.",
+        "reading": "/ðə ˈdɑːktər ɡeɪv miː ə prɪˈskrɪpʃən fɔːr ˌæntɪbaɪˈɑːtɪks/",
+        "translation": "El doctor me dio una receta para antibióticos."
+      }
+    ]
+  },
+  {
+    "word": "appointment",
+    "reading": "/əˈpɔɪntmənt/",
+    "meanings": ["cita", "turno"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["health", "work"],
+    "examples": [
+      {
+        "text": "I made an appointment with the dentist.",
+        "reading": "/aɪ meɪd ən əˈpɔɪntmənt wɪð ðə ˈdɛntɪst/",
+        "translation": "Saqué un turno con el dentista."
+      }
+    ]
+  },
+  {
+    "word": "injured",
+    "reading": "/ˈɪndʒərd/",
+    "meanings": ["herido", "lesionado"],
+    "pos": "adjective",
+    "level": "b1",
+    "tags": ["health"],
+    "examples": [
+      {
+        "text": "Two people were injured in the accident.",
+        "reading": "/tuː ˈpiːpəl wɜːr ˈɪndʒərd ɪn ðə ˈæksɪdənt/",
+        "translation": "Dos personas resultaron heridas en el accidente."
+      }
+    ]
+  },
+  {
+    "word": "cure",
+    "reading": "/kjʊr/",
+    "meanings": ["cura", "curar"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["health"],
+    "examples": [
+      {
+        "text": "There is no cure for the common cold.",
+        "reading": "/ðɛr ɪz noʊ kjʊr fɔːr ðə ˈkɑːmən koʊld/",
+        "translation": "No hay cura para el resfriado común."
+      }
+    ]
+  },
+  {
+    "word": "treatment",
+    "reading": "/ˈtriːtmənt/",
+    "meanings": ["tratamiento"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["health"],
+    "examples": [
+      {
+        "text": "The treatment lasted several weeks.",
+        "reading": "/ðə ˈtriːtmənt ˈlæstɪd ˈsɛvərəl wiːks/",
+        "translation": "El tratamiento duró varias semanas."
+      }
+    ]
+  },
+  {
+    "word": "fever",
+    "reading": "/ˈfiːvər/",
+    "meanings": ["fiebre"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["health"],
+    "examples": [
+      {
+        "text": "She stayed home because she had a fever.",
+        "reading": "/ʃiː steɪd hoʊm bɪˈkɔːz ʃiː hæd ə ˈfiːvər/",
+        "translation": "Se quedó en casa porque tenía fiebre."
+      }
+    ]
+  },
+  {
+    "word": "recover",
+    "reading": "/rɪˈkʌvər/",
+    "meanings": ["recuperarse"],
+    "pos": "verb",
+    "level": "b1",
+    "tags": ["health"],
+    "examples": [
+      {
+        "text": "It took him a month to fully recover.",
+        "reading": "/ɪt tʊk hɪm ə mʌnθ tə ˈfʊli rɪˈkʌvər/",
+        "translation": "Le tomó un mes recuperarse completamente."
+      }
+    ]
+  },
+  {
+    "word": "degree",
+    "reading": "/dɪˈɡriː/",
+    "meanings": ["título universitario", "grado"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["education"],
+    "examples": [
+      {
+        "text": "She has a degree in computer science.",
+        "reading": "/ʃiː hæz ə dɪˈɡriː ɪn kəmˈpjuːtər ˈsaɪəns/",
+        "translation": "Ella tiene un título en informática."
+      }
+    ]
+  },
+  {
+    "word": "research",
+    "reading": "/rɪˈsɜːrtʃ/",
+    "meanings": ["investigación", "investigar"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["education"],
+    "examples": [
+      {
+        "text": "He is doing research on climate change.",
+        "reading": "/hiː ɪz ˈduːɪŋ rɪˈsɜːrtʃ ɑːn ˈklaɪmət tʃeɪndʒ/",
+        "translation": "Él está haciendo investigación sobre el cambio climático."
+      }
+    ]
+  },
+  {
+    "word": "scholarship",
+    "reading": "/ˈskɑːlərʃɪp/",
+    "meanings": ["beca"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["education"],
+    "examples": [
+      {
+        "text": "She won a scholarship to study abroad.",
+        "reading": "/ʃiː wʌn ə ˈskɑːlərʃɪp tə ˈstʌdi əˈbrɔːd/",
+        "translation": "Ganó una beca para estudiar en el extranjero."
+      }
+    ]
+  },
+  {
+    "word": "assignment",
+    "reading": "/əˈsaɪnmənt/",
+    "meanings": ["tarea", "trabajo asignado"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["education"],
+    "examples": [
+      {
+        "text": "The assignment is due next Monday.",
+        "reading": "/ðə əˈsaɪnmənt ɪz duː nɛkst ˈmʌndeɪ/",
+        "translation": "La tarea se entrega el próximo lunes."
+      }
+    ]
+  },
+  {
+    "word": "revise",
+    "reading": "/rɪˈvaɪz/",
+    "meanings": ["repasar", "revisar"],
+    "pos": "verb",
+    "level": "b1",
+    "tags": ["education"],
+    "examples": [
+      {
+        "text": "I need to revise for my exam tomorrow.",
+        "reading": "/aɪ niːd tə rɪˈvaɪz fɔːr maɪ ɪɡˈzæm təˈmɑːroʊ/",
+        "translation": "Necesito repasar para mi examen de mañana."
+      }
+    ]
+  },
+  {
+    "word": "lecture",
+    "reading": "/ˈlɛktʃər/",
+    "meanings": ["clase magistral", "conferencia"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["education"],
+    "examples": [
+      {
+        "text": "The lecture on history was very interesting.",
+        "reading": "/ðə ˈlɛktʃər ɑːn ˈhɪstəri wəz ˈvɛri ˈɪntrəstɪŋ/",
+        "translation": "La clase de historia fue muy interesante."
+      }
+    ]
+  },
+  {
+    "word": "graduate",
+    "reading": "/ˈɡrædʒuˌeɪt/",
+    "meanings": ["graduarse", "graduado"],
+    "pos": "verb",
+    "level": "b1",
+    "tags": ["education"],
+    "examples": [
+      {
+        "text": "He graduated from university last year.",
+        "reading": "/hiː ˈɡrædʒuˌeɪtɪd frəm ˌjuːnɪˈvɜːrsɪti læst jɪr/",
+        "translation": "Se graduó de la universidad el año pasado."
+      }
+    ]
+  },
+  {
+    "word": "tuition",
+    "reading": "/tuːˈɪʃən/",
+    "meanings": ["matrícula", "cuota universitaria"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["education", "money"],
+    "examples": [
+      {
+        "text": "Tuition fees have increased this year.",
+        "reading": "/tuːˈɪʃən fiːz hæv ɪnˈkriːst ðɪs jɪr/",
+        "translation": "Las matrículas aumentaron este año."
+      }
+    ]
+  },
+  {
+    "word": "download",
+    "reading": "/ˈdaʊnloʊd/",
+    "meanings": ["descargar", "descarga"],
+    "pos": "verb",
+    "level": "b1",
+    "tags": ["technology"],
+    "examples": [
+      {
+        "text": "You can download the app for free.",
+        "reading": "/juː kæn ˈdaʊnloʊd ðə æp fɔːr friː/",
+        "translation": "Podés descargar la aplicación gratis."
+      }
+    ]
+  },
+  {
+    "word": "upload",
+    "reading": "/ˈʌploʊd/",
+    "meanings": ["subir", "cargar"],
+    "pos": "verb",
+    "level": "b1",
+    "tags": ["technology"],
+    "examples": [
+      {
+        "text": "She uploaded the photos to the cloud.",
+        "reading": "/ʃiː ˈʌploʊdɪd ðə ˈfoʊtoʊz tə ðə klaʊd/",
+        "translation": "Ella subió las fotos a la nube."
+      }
+    ]
+  },
+  {
+    "word": "password",
+    "reading": "/ˈpæswɜːrd/",
+    "meanings": ["contraseña"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["technology"],
+    "examples": [
+      {
+        "text": "You should change your password regularly.",
+        "reading": "/juː ʃʊd tʃeɪndʒ jɔːr ˈpæswɜːrd ˈrɛɡjələrli/",
+        "translation": "Deberías cambiar tu contraseña regularmente."
+      }
+    ]
+  },
+  {
+    "word": "device",
+    "reading": "/dɪˈvaɪs/",
+    "meanings": ["dispositivo", "aparato"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["technology"],
+    "examples": [
+      {
+        "text": "This device can connect to Wi-Fi.",
+        "reading": "/ðɪs dɪˈvaɪs kæn kəˈnɛkt tə ˈwaɪfaɪ/",
+        "translation": "Este dispositivo puede conectarse a Wi-Fi."
+      }
+    ]
+  },
+  {
+    "word": "software",
+    "reading": "/ˈsɔːftwɛr/",
+    "meanings": ["software", "programa informático"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["technology", "cognate"],
+    "examples": [
+      {
+        "text": "We need to update the software.",
+        "reading": "/wiː niːd tə ˈʌpdeɪt ðə ˈsɔːftwɛr/",
+        "translation": "Necesitamos actualizar el software."
+      }
+    ]
+  },
+  {
+    "word": "browser",
+    "reading": "/ˈbraʊzər/",
+    "meanings": ["navegador"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["technology"],
+    "examples": [
+      {
+        "text": "Which browser do you use to surf the internet?",
+        "reading": "/wɪtʃ ˈbraʊzər duː juː juːz tə sɜːrf ðə ˈɪntərnɛt/",
+        "translation": "¿Qué navegador usás para navegar por internet?"
+      }
+    ]
+  },
+  {
+    "word": "update",
+    "reading": "/ˈʌpdeɪt/",
+    "meanings": ["actualizar", "actualización"],
+    "pos": "verb",
+    "level": "b1",
+    "tags": ["technology"],
+    "examples": [
+      {
+        "text": "Don't forget to update your phone.",
+        "reading": "/doʊnt fɔːrˈɡɛt tə ˈʌpdeɪt jɔːr foʊn/",
+        "translation": "No te olvides de actualizar tu teléfono."
+      }
+    ]
+  },
+  {
+    "word": "network",
+    "reading": "/ˈnɛtwɜːrk/",
+    "meanings": ["red"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["technology"],
+    "examples": [
+      {
+        "text": "The Wi-Fi network is down again.",
+        "reading": "/ðə ˈwaɪfaɪ ˈnɛtwɜːrk ɪz daʊn əˈɡɛn/",
+        "translation": "La red Wi-Fi se cayó de nuevo."
+      }
+    ]
+  },
+  {
+    "word": "drought",
+    "reading": "/draʊt/",
+    "meanings": ["sequía"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["environment", "weather"],
+    "examples": [
+      {
+        "text": "The region is suffering from a severe drought.",
+        "reading": "/ðə ˈriːdʒən ɪz ˈsʌfərɪŋ frəm ə sɪˈvɪr draʊt/",
+        "translation": "La región está sufriendo una sequía severa."
+      }
+    ]
+  },
+  {
+    "word": "flood",
+    "reading": "/flʌd/",
+    "meanings": ["inundación", "inundar"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["environment", "weather"],
+    "examples": [
+      {
+        "text": "Heavy rain caused floods in the city.",
+        "reading": "/ˈhɛvi reɪn kɔːzd flʌdz ɪn ðə ˈsɪti/",
+        "translation": "La lluvia fuerte causó inundaciones en la ciudad."
+      }
+    ]
+  },
+  {
+    "word": "pollution",
+    "reading": "/pəˈluːʃən/",
+    "meanings": ["contaminación", "polución"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["environment"],
+    "examples": [
+      {
+        "text": "Air pollution is a major problem in big cities.",
+        "reading": "/ɛr pəˈluːʃən ɪz ə ˈmeɪdʒər ˈprɑːbləm ɪn bɪɡ ˈsɪtiz/",
+        "translation": "La contaminación del aire es un problema grave en las grandes ciudades."
+      }
+    ]
+  },
+  {
+    "word": "recycle",
+    "reading": "/riːˈsaɪkəl/",
+    "meanings": ["reciclar"],
+    "pos": "verb",
+    "level": "b1",
+    "tags": ["environment", "cognate"],
+    "examples": [
+      {
+        "text": "We should recycle plastic and paper.",
+        "reading": "/wiː ʃʊd riːˈsaɪkəl ˈplæstɪk ænd ˈpeɪpər/",
+        "translation": "Deberíamos reciclar plástico y papel."
+      }
+    ]
+  },
+  {
+    "word": "climate",
+    "reading": "/ˈklaɪmət/",
+    "meanings": ["clima"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["environment", "cognate"],
+    "examples": [
+      {
+        "text": "Climate change affects the entire planet.",
+        "reading": "/ˈklaɪmət tʃeɪndʒ əˈfɛkts ðə ɪnˈtaɪər ˈplænɪt/",
+        "translation": "El cambio climático afecta a todo el planeta."
+      }
+    ]
+  },
+  {
+    "word": "endangered",
+    "reading": "/ɪnˈdeɪndʒərd/",
+    "meanings": ["en peligro de extinción"],
+    "pos": "adjective",
+    "level": "b1",
+    "tags": ["environment", "nature"],
+    "examples": [
+      {
+        "text": "Many endangered species live in the rainforest.",
+        "reading": "/ˈmɛni ɪnˈdeɪndʒərd ˈspiːʃiːz lɪv ɪn ðə ˈreɪnfɔːrɪst/",
+        "translation": "Muchas especies en peligro de extinción viven en la selva tropical."
+      }
+    ]
+  },
+  {
+    "word": "landscape",
+    "reading": "/ˈlændskeɪp/",
+    "meanings": ["paisaje"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["environment", "nature"],
+    "examples": [
+      {
+        "text": "The landscape in Patagonia is breathtaking.",
+        "reading": "/ðə ˈlændskeɪp ɪn ˌpætəˈɡoʊniə ɪz ˈbrɛθˌteɪkɪŋ/",
+        "translation": "El paisaje en la Patagonia es impresionante."
+      }
+    ]
+  },
+  {
+    "word": "renewable",
+    "reading": "/rɪˈnuːəbəl/",
+    "meanings": ["renovable"],
+    "pos": "adjective",
+    "level": "b1",
+    "tags": ["environment", "cognate"],
+    "examples": [
+      {
+        "text": "Solar power is a renewable energy source.",
+        "reading": "/ˈsoʊlər ˈpaʊər ɪz ə rɪˈnuːəbəl ˈɛnərdʒi sɔːrs/",
+        "translation": "La energía solar es una fuente de energía renovable."
+      }
+    ]
+  },
+  {
+    "word": "anxious",
+    "reading": "/ˈæŋkʃəs/",
+    "meanings": ["ansioso", "angustiado"],
+    "pos": "adjective",
+    "level": "b1",
+    "tags": ["emotions"],
+    "examples": [
+      {
+        "text": "She felt anxious before the presentation.",
+        "reading": "/ʃiː fɛlt ˈæŋkʃəs bɪˈfɔːr ðə ˌprɛzənˈteɪʃən/",
+        "translation": "Se sentía ansiosa antes de la presentación."
+      }
+    ]
+  },
+  {
+    "word": "frustrated",
+    "reading": "/ˈfrʌstreɪtɪd/",
+    "meanings": ["frustrado"],
+    "pos": "adjective",
+    "level": "b1",
+    "tags": ["emotions", "cognate"],
+    "examples": [
+      {
+        "text": "He was frustrated because the computer crashed.",
+        "reading": "/hiː wəz ˈfrʌstreɪtɪd bɪˈkɔːz ðə kəmˈpjuːtər kræʃt/",
+        "translation": "Estaba frustrado porque la computadora se colgó."
+      }
+    ]
+  },
+  {
+    "word": "grateful",
+    "reading": "/ˈɡreɪtfəl/",
+    "meanings": ["agradecido"],
+    "pos": "adjective",
+    "level": "b1",
+    "tags": ["emotions"],
+    "examples": [
+      {
+        "text": "I'm very grateful for your help.",
+        "reading": "/aɪm ˈvɛri ˈɡreɪtfəl fɔːr jɔːr hɛlp/",
+        "translation": "Estoy muy agradecido por tu ayuda."
+      }
+    ]
+  },
+  {
+    "word": "disappointed",
+    "reading": "/ˌdɪsəˈpɔɪntɪd/",
+    "meanings": ["decepcionado", "desilusionado"],
+    "pos": "adjective",
+    "level": "b1",
+    "tags": ["emotions"],
+    "examples": [
+      {
+        "text": "We were disappointed with the results.",
+        "reading": "/wiː wɜːr ˌdɪsəˈpɔɪntɪd wɪð ðə rɪˈzʌlts/",
+        "translation": "Estábamos decepcionados con los resultados."
+      }
+    ]
+  },
+  {
+    "word": "confident",
+    "reading": "/ˈkɑːnfɪdənt/",
+    "meanings": ["seguro de sí mismo", "confiado"],
+    "pos": "adjective",
+    "level": "b1",
+    "tags": ["emotions", "personality"],
+    "examples": [
+      {
+        "text": "She is very confident when speaking in public.",
+        "reading": "/ʃiː ɪz ˈvɛri ˈkɑːnfɪdənt wɛn ˈspiːkɪŋ ɪn ˈpʌblɪk/",
+        "translation": "Ella es muy segura de sí misma cuando habla en público."
+      }
+    ]
+  },
+  {
+    "word": "jealous",
+    "reading": "/ˈdʒɛləs/",
+    "meanings": ["celoso", "envidioso"],
+    "pos": "adjective",
+    "level": "b1",
+    "tags": ["emotions"],
+    "examples": [
+      {
+        "text": "He gets jealous when she talks to other people.",
+        "reading": "/hiː ɡɛts ˈdʒɛləs wɛn ʃiː tɔːks tə ˈʌðər ˈpiːpəl/",
+        "translation": "Se pone celoso cuando ella habla con otras personas."
+      }
+    ]
+  },
+  {
+    "word": "relieved",
+    "reading": "/rɪˈliːvd/",
+    "meanings": ["aliviado"],
+    "pos": "adjective",
+    "level": "b1",
+    "tags": ["emotions"],
+    "examples": [
+      {
+        "text": "I was so relieved when I passed the exam.",
+        "reading": "/aɪ wəz soʊ rɪˈliːvd wɛn aɪ pæst ðə ɪɡˈzæm/",
+        "translation": "Me sentí tan aliviado cuando aprobé el examen."
+      }
+    ]
+  },
+  {
+    "word": "stubborn",
+    "reading": "/ˈstʌbərn/",
+    "meanings": ["terco", "obstinado"],
+    "pos": "adjective",
+    "level": "b1",
+    "tags": ["personality"],
+    "examples": [
+      {
+        "text": "He's too stubborn to admit he was wrong.",
+        "reading": "/hiːz tuː ˈstʌbərn tə ədˈmɪt hiː wəz rɔːŋ/",
+        "translation": "Es demasiado terco para admitir que estaba equivocado."
+      }
+    ]
+  },
+  {
+    "word": "refund",
+    "reading": "/ˈriːfʌnd/",
+    "meanings": ["reembolso", "devolución"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["shopping", "money"],
+    "examples": [
+      {
+        "text": "I'd like to get a refund for this product.",
+        "reading": "/aɪd laɪk tə ɡɛt ə ˈriːfʌnd fɔːr ðɪs ˈprɑːdʌkt/",
+        "translation": "Me gustaría obtener un reembolso por este producto."
+      }
+    ]
+  },
+  {
+    "word": "receipt",
+    "reading": "/rɪˈsiːt/",
+    "meanings": ["recibo", "comprobante"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["shopping", "money"],
+    "examples": [
+      {
+        "text": "Keep the receipt in case you need to return it.",
+        "reading": "/kiːp ðə rɪˈsiːt ɪn keɪs juː niːd tə rɪˈtɜːrn ɪt/",
+        "translation": "Guardá el recibo por si necesitás devolverlo."
+      }
+    ]
+  },
+  {
+    "word": "bargain",
+    "reading": "/ˈbɑːrɡən/",
+    "meanings": ["ganga", "oferta"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["shopping"],
+    "examples": [
+      {
+        "text": "I found a real bargain at the market.",
+        "reading": "/aɪ faʊnd ə riːəl ˈbɑːrɡən ət ðə ˈmɑːrkɪt/",
+        "translation": "Encontré una verdadera ganga en el mercado."
+      }
+    ]
+  },
+  {
+    "word": "afford",
+    "reading": "/əˈfɔːrd/",
+    "meanings": ["permitirse", "costear"],
+    "pos": "verb",
+    "level": "b1",
+    "tags": ["shopping", "money"],
+    "examples": [
+      {
+        "text": "We can't afford to buy a new car right now.",
+        "reading": "/wiː kænt əˈfɔːrd tə baɪ ə nuː kɑːr raɪt naʊ/",
+        "translation": "No podemos permitirnos comprar un auto nuevo ahora."
+      }
+    ]
+  },
+  {
+    "word": "withdraw",
+    "reading": "/wɪðˈdrɔː/",
+    "meanings": ["retirar dinero", "retirarse"],
+    "pos": "verb",
+    "level": "b1",
+    "tags": ["money"],
+    "examples": [
+      {
+        "text": "I need to withdraw some cash from the ATM.",
+        "reading": "/aɪ niːd tə wɪðˈdrɔː sʌm kæʃ frəm ðə ˌeɪtiːˈɛm/",
+        "translation": "Necesito retirar algo de efectivo del cajero automático."
+      }
+    ]
+  },
+  {
+    "word": "debt",
+    "reading": "/dɛt/",
+    "meanings": ["deuda"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["money"],
+    "examples": [
+      {
+        "text": "He's working hard to pay off his debts.",
+        "reading": "/hiːz ˈwɜːrkɪŋ hɑːrd tə peɪ ɔːf hɪz dɛts/",
+        "translation": "Está trabajando duro para pagar sus deudas."
+      }
+    ]
+  },
+  {
+    "word": "discount",
+    "reading": "/ˈdɪskaʊnt/",
+    "meanings": ["descuento"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["shopping", "money"],
+    "examples": [
+      {
+        "text": "Students get a 10% discount.",
+        "reading": "/ˈstuːdənts ɡɛt ə tɛn pɜːrˈsɛnt ˈdɪskaʊnt/",
+        "translation": "Los estudiantes obtienen un 10% de descuento."
+      }
+    ]
+  },
+  {
+    "word": "loan",
+    "reading": "/loʊn/",
+    "meanings": ["préstamo"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["money"],
+    "examples": [
+      {
+        "text": "She took out a loan to start her business.",
+        "reading": "/ʃiː tʊk aʊt ə loʊn tə stɑːrt hɜːr ˈbɪznəs/",
+        "translation": "Pidió un préstamo para empezar su negocio."
+      }
+    ]
+  },
+  {
+    "word": "look up",
+    "reading": "/lʊk ʌp/",
+    "meanings": ["buscar información"],
+    "pos": "verb",
+    "level": "b1",
+    "tags": ["phrasal-verb"],
+    "examples": [
+      {
+        "text": "I need to look up this word in the dictionary.",
+        "reading": "/aɪ niːd tə lʊk ʌp ðɪs wɜːrd ɪn ðə ˈdɪkʃənɛri/",
+        "translation": "Necesito buscar esta palabra en el diccionario."
+      }
+    ]
+  },
+  {
+    "word": "give up",
+    "reading": "/ɡɪv ʌp/",
+    "meanings": ["rendirse", "dejar de"],
+    "pos": "verb",
+    "level": "b1",
+    "tags": ["phrasal-verb"],
+    "examples": [
+      {
+        "text": "Don't give up, you're almost there!",
+        "reading": "/doʊnt ɡɪv ʌp juːr ˈɔːlmoʊst ðɛr/",
+        "translation": "¡No te rindas, ya casi llegás!"
+      }
+    ]
+  },
+  {
+    "word": "turn on",
+    "reading": "/tɜːrn ɑːn/",
+    "meanings": ["encender", "prender"],
+    "pos": "verb",
+    "level": "b1",
+    "tags": ["phrasal-verb"],
+    "examples": [
+      {
+        "text": "Can you turn on the lights, please?",
+        "reading": "/kæn juː tɜːrn ɑːn ðə laɪts pliːz/",
+        "translation": "¿Podés encender las luces, por favor?"
+      }
+    ]
+  },
+  {
+    "word": "find out",
+    "reading": "/faɪnd aʊt/",
+    "meanings": ["descubrir", "enterarse"],
+    "pos": "verb",
+    "level": "b1",
+    "tags": ["phrasal-verb"],
+    "examples": [
+      {
+        "text": "I just found out that the meeting was cancelled.",
+        "reading": "/aɪ dʒʌst faʊnd aʊt ðæt ðə ˈmiːtɪŋ wəz ˈkænsəld/",
+        "translation": "Acabo de enterarme de que la reunión fue cancelada."
+      }
+    ]
+  },
+  {
+    "word": "carry on",
+    "reading": "/ˈkæri ɑːn/",
+    "meanings": ["continuar", "seguir adelante"],
+    "pos": "verb",
+    "level": "b1",
+    "tags": ["phrasal-verb"],
+    "examples": [
+      {
+        "text": "Please carry on with your work.",
+        "reading": "/pliːz ˈkæri ɑːn wɪð jɔːr wɜːrk/",
+        "translation": "Por favor, continuá con tu trabajo."
+      }
+    ]
+  },
+  {
+    "word": "put off",
+    "reading": "/pʊt ɔːf/",
+    "meanings": ["posponer", "aplazar"],
+    "pos": "verb",
+    "level": "b1",
+    "tags": ["phrasal-verb"],
+    "examples": [
+      {
+        "text": "We had to put off the meeting until next week.",
+        "reading": "/wiː hæd tə pʊt ɔːf ðə ˈmiːtɪŋ ənˈtɪl nɛkst wiːk/",
+        "translation": "Tuvimos que posponer la reunión hasta la semana que viene."
+      }
+    ]
+  },
+  {
+    "word": "get along",
+    "reading": "/ɡɛt əˈlɔːŋ/",
+    "meanings": ["llevarse bien"],
+    "pos": "verb",
+    "level": "b1",
+    "tags": ["phrasal-verb"],
+    "examples": [
+      {
+        "text": "She gets along well with her colleagues.",
+        "reading": "/ʃiː ɡɛts əˈlɔːŋ wɛl wɪð hɜːr ˈkɑːliːɡz/",
+        "translation": "Se lleva bien con sus colegas."
+      }
+    ]
+  },
+  {
+    "word": "run out of",
+    "reading": "/rʌn aʊt əv/",
+    "meanings": ["quedarse sin"],
+    "pos": "verb",
+    "level": "b1",
+    "tags": ["phrasal-verb"],
+    "examples": [
+      {
+        "text": "We've run out of milk.",
+        "reading": "/wiːv rʌn aʊt əv mɪlk/",
+        "translation": "Nos quedamos sin leche."
+      }
+    ]
+  },
+  {
+    "word": "break down",
+    "reading": "/breɪk daʊn/",
+    "meanings": ["averiarse", "descomponerse"],
+    "pos": "verb",
+    "level": "b1",
+    "tags": ["phrasal-verb"],
+    "examples": [
+      {
+        "text": "The car broke down on the highway.",
+        "reading": "/ðə kɑːr broʊk daʊn ɑːn ðə ˈhaɪweɪ/",
+        "translation": "El auto se averió en la autopista."
+      }
+    ]
+  },
+  {
+    "word": "set up",
+    "reading": "/sɛt ʌp/",
+    "meanings": ["configurar", "establecer", "armar"],
+    "pos": "verb",
+    "level": "b1",
+    "tags": ["phrasal-verb"],
+    "examples": [
+      {
+        "text": "He set up his own business last year.",
+        "reading": "/hiː sɛt ʌp hɪz oʊn ˈbɪznəs læst jɪr/",
+        "translation": "Él montó su propio negocio el año pasado."
+      }
+    ]
+  },
+  {
+    "word": "actual",
+    "reading": "/ˈæktʃuəl/",
+    "meanings": ["real", "verdadero"],
+    "pos": "adjective",
+    "level": "b1",
+    "tags": ["false-friend"],
+    "examples": [
+      {
+        "text": "The actual cost was much higher than expected.",
+        "reading": "/ðə ˈæktʃuəl kɔːst wəz mʌtʃ ˈhaɪər ðən ɪkˈspɛktɪd/",
+        "translation": "El costo real fue mucho mayor de lo esperado. (No significa 'actual' en español, que se traduce como 'current'.)"
+      }
+    ]
+  },
+  {
+    "word": "realize",
+    "reading": "/ˈriːəlaɪz/",
+    "meanings": ["darse cuenta"],
+    "pos": "verb",
+    "level": "b1",
+    "tags": ["false-friend"],
+    "examples": [
+      {
+        "text": "I didn't realize you were waiting for me.",
+        "reading": "/aɪ ˈdɪdənt ˈriːəlaɪz juː wɜːr ˈweɪtɪŋ fɔːr miː/",
+        "translation": "No me di cuenta de que me estabas esperando. (No significa 'realizar', que se traduce como 'carry out'.)"
+      }
+    ]
+  },
+  {
+    "word": "sensible",
+    "reading": "/ˈsɛnsəbəl/",
+    "meanings": ["sensato", "prudente"],
+    "pos": "adjective",
+    "level": "b1",
+    "tags": ["false-friend"],
+    "examples": [
+      {
+        "text": "That seems like a sensible decision.",
+        "reading": "/ðæt siːmz laɪk ə ˈsɛnsəbəl dɪˈsɪʒən/",
+        "translation": "Esa parece una decisión sensata. (No significa 'sensible' en español, que se traduce como 'sensitive'.)"
+      }
+    ]
+  },
+  {
+    "word": "attend",
+    "reading": "/əˈtɛnd/",
+    "meanings": ["asistir a", "ir a"],
+    "pos": "verb",
+    "level": "b1",
+    "tags": ["false-friend"],
+    "examples": [
+      {
+        "text": "Will you attend the conference next week?",
+        "reading": "/wɪl juː əˈtɛnd ðə ˈkɑːnfərəns nɛkst wiːk/",
+        "translation": "¿Vas a asistir a la conferencia la semana que viene? (No significa 'atender', que se traduce como 'serve' o 'help'.)"
+      }
+    ]
+  },
+  {
+    "word": "success",
+    "reading": "/səkˈsɛs/",
+    "meanings": ["éxito"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["false-friend"],
+    "examples": [
+      {
+        "text": "Hard work is the key to success.",
+        "reading": "/hɑːrd wɜːrk ɪz ðə kiː tə səkˈsɛs/",
+        "translation": "El trabajo duro es la clave del éxito. (No significa 'suceso', que se traduce como 'event'.)"
+      }
+    ]
+  },
+  {
+    "word": "fabric",
+    "reading": "/ˈfæbrɪk/",
+    "meanings": ["tela", "tejido"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["false-friend"],
+    "examples": [
+      {
+        "text": "This fabric is very soft and comfortable.",
+        "reading": "/ðɪs ˈfæbrɪk ɪz ˈvɛri sɔːft ænd ˈkʌmfərtəbəl/",
+        "translation": "Esta tela es muy suave y cómoda. (No significa 'fábrica', que se traduce como 'factory'.)"
+      }
+    ]
+  },
+  {
+    "word": "argument",
+    "reading": "/ˈɑːrɡjəmənt/",
+    "meanings": ["discusión", "pelea verbal"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["false-friend"],
+    "examples": [
+      {
+        "text": "They had a big argument about money.",
+        "reading": "/ðeɪ hæd ə bɪɡ ˈɑːrɡjəmənt əˈbaʊt ˈmʌni/",
+        "translation": "Tuvieron una discusión fuerte sobre dinero. (No significa 'argumento' (de una historia), que se traduce como 'plot'.)"
+      }
+    ]
+  },
+  {
+    "word": "library",
+    "reading": "/ˈlaɪbrɛri/",
+    "meanings": ["biblioteca"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["false-friend"],
+    "examples": [
+      {
+        "text": "I borrowed this book from the library.",
+        "reading": "/aɪ ˈbɑːroʊd ðɪs bʊk frəm ðə ˈlaɪbrɛri/",
+        "translation": "Saqué este libro de la biblioteca. (No significa 'librería', que se traduce como 'bookstore'.)"
+      }
+    ]
+  },
+  {
+    "word": "embarrassed",
+    "reading": "/ɪmˈbærəst/",
+    "meanings": ["avergonzado"],
+    "pos": "adjective",
+    "level": "b1",
+    "tags": ["false-friend", "emotions"],
+    "examples": [
+      {
+        "text": "I was so embarrassed when I forgot her name.",
+        "reading": "/aɪ wəz soʊ ɪmˈbærəst wɛn aɪ fɔːrˈɡɑːt hɜːr neɪm/",
+        "translation": "Me dio mucha vergüenza cuando me olvidé su nombre. (No significa 'embarazada', que se traduce como 'pregnant'.)"
+      }
+    ]
+  },
+  {
+    "word": "carpet",
+    "reading": "/ˈkɑːrpɪt/",
+    "meanings": ["alfombra"],
+    "pos": "noun",
+    "level": "b1",
+    "tags": ["false-friend"],
+    "examples": [
+      {
+        "text": "We bought a new carpet for the living room.",
+        "reading": "/wiː bɔːt ə nuː ˈkɑːrpɪt fɔːr ðə ˈlɪvɪŋ ruːm/",
+        "translation": "Compramos una alfombra nueva para el living. (No significa 'carpeta', que se traduce como 'folder'.)"
+      }
+    ]
+  }
+]

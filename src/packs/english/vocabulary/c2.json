@@ -1,0 +1,602 @@
+[
+  {
+    "word": "ephemeral",
+    "reading": "/ɪˈfɛmərəl/",
+    "meanings": ["efímero", "pasajero", "transitorio"],
+    "pos": "adjective",
+    "level": "c2",
+    "tags": ["literary", "poetic", "cognate"],
+    "examples": [
+      {
+        "text": "The beauty of cherry blossoms is ephemeral, lasting only a few days.",
+        "reading": "",
+        "translation": "La belleza de los cerezos en flor es efímera, durando solo unos pocos días."
+      }
+    ]
+  },
+  {
+    "word": "melancholy",
+    "reading": "/ˈmɛlənˌkɑːli/",
+    "meanings": ["melancolía", "tristeza profunda"],
+    "pos": "noun",
+    "level": "c2",
+    "tags": ["literary", "poetic", "emotions", "cognate"],
+    "examples": [
+      {
+        "text": "A sense of melancholy pervaded the abandoned house.",
+        "reading": "",
+        "translation": "Un sentimiento de melancolía impregnaba la casa abandonada."
+      }
+    ]
+  },
+  {
+    "word": "serendipity",
+    "reading": "/ˌsɛrənˈdɪpəti/",
+    "meanings": ["serendipia", "hallazgo afortunado"],
+    "pos": "noun",
+    "level": "c2",
+    "tags": ["literary", "poetic", "cognate"],
+    "examples": [
+      {
+        "text": "It was pure serendipity that led them to discover the ancient ruins.",
+        "reading": "",
+        "translation": "Fue pura serendipia lo que los llevó a descubrir las ruinas antiguas."
+      }
+    ]
+  },
+  {
+    "word": "ubiquitous",
+    "reading": "/juːˈbɪkwɪtəs/",
+    "meanings": ["ubicuo", "omnipresente"],
+    "pos": "adjective",
+    "level": "c2",
+    "tags": ["literary", "formal register", "cognate"],
+    "examples": [
+      {
+        "text": "Smartphones have become ubiquitous in modern society.",
+        "reading": "",
+        "translation": "Los teléfonos inteligentes se han vuelto ubicuos en la sociedad moderna."
+      }
+    ]
+  },
+  {
+    "word": "eloquent",
+    "reading": "/ˈɛləkwənt/",
+    "meanings": ["elocuente", "expresivo"],
+    "pos": "adjective",
+    "level": "c2",
+    "tags": ["literary", "poetic", "communication", "cognate"],
+    "examples": [
+      {
+        "text": "Her eloquent speech moved the entire audience to tears.",
+        "reading": "",
+        "translation": "Su elocuente discurso conmovió a toda la audiencia hasta las lágrimas."
+      }
+    ]
+  },
+  {
+    "word": "quintessential",
+    "reading": "/ˌkwɪntɪˈsɛnʃəl/",
+    "meanings": ["por excelencia", "arquetípico", "quintaesencial"],
+    "pos": "adjective",
+    "level": "c2",
+    "tags": ["literary", "formal register", "cognate"],
+    "examples": [
+      {
+        "text": "Paris is the quintessential European city for art lovers.",
+        "reading": "",
+        "translation": "París es la ciudad europea por excelencia para los amantes del arte."
+      }
+    ]
+  },
+  {
+    "word": "juxtaposition",
+    "reading": "/ˌdʒʌkstəpəˈzɪʃən/",
+    "meanings": ["yuxtaposición", "contraposición"],
+    "pos": "noun",
+    "level": "c2",
+    "tags": ["literary", "academic", "cognate"],
+    "examples": [
+      {
+        "text": "The juxtaposition of wealth and poverty in the city is striking.",
+        "reading": "",
+        "translation": "La yuxtaposición de riqueza y pobreza en la ciudad es impactante."
+      }
+    ]
+  },
+  {
+    "word": "ethereal",
+    "reading": "/ɪˈθɪriəl/",
+    "meanings": ["etéreo", "celestial", "inmaterial"],
+    "pos": "adjective",
+    "level": "c2",
+    "tags": ["literary", "poetic", "cognate"],
+    "examples": [
+      {
+        "text": "The singer's ethereal voice seemed to float above the orchestra.",
+        "reading": "",
+        "translation": "La voz etérea de la cantante parecía flotar sobre la orquesta."
+      }
+    ]
+  },
+  {
+    "word": "surreptitious",
+    "reading": "/ˌsɜːrəpˈtɪʃəs/",
+    "meanings": ["subrepticio", "furtivo", "clandestino"],
+    "pos": "adjective",
+    "level": "c2",
+    "tags": ["literary", "formal register", "cognate"],
+    "examples": [
+      {
+        "text": "She cast a surreptitious glance at the confidential documents.",
+        "reading": "",
+        "translation": "Ella echó una mirada furtiva a los documentos confidenciales."
+      }
+    ]
+  },
+  {
+    "word": "ineffable",
+    "reading": "/ɪnˈɛfəbəl/",
+    "meanings": ["inefable", "indescriptible"],
+    "pos": "adjective",
+    "level": "c2",
+    "tags": ["literary", "poetic", "cognate"],
+    "examples": [
+      {
+        "text": "The sunset over the Grand Canyon filled her with an ineffable sense of wonder.",
+        "reading": "",
+        "translation": "El atardecer sobre el Gran Cañón la llenó de una sensación inefable de asombro."
+      }
+    ]
+  },
+  {
+    "word": "jurisdiction",
+    "reading": "/ˌdʒʊrɪsˈdɪkʃən/",
+    "meanings": ["jurisdicción", "competencia legal"],
+    "pos": "noun",
+    "level": "c2",
+    "tags": ["legal", "formal register", "cognate"],
+    "examples": [
+      {
+        "text": "This case falls outside the jurisdiction of the local courts.",
+        "reading": "",
+        "translation": "Este caso queda fuera de la jurisdicción de los tribunales locales."
+      }
+    ]
+  },
+  {
+    "word": "indemnify",
+    "reading": "/ɪnˈdɛmnɪˌfaɪ/",
+    "meanings": ["indemnizar", "compensar", "resarcir"],
+    "pos": "verb",
+    "level": "c2",
+    "tags": ["legal", "formal register", "cognate"],
+    "examples": [
+      {
+        "text": "The insurance company is obligated to indemnify the policyholder for any losses.",
+        "reading": "",
+        "translation": "La compañía de seguros está obligada a indemnizar al asegurado por cualquier pérdida."
+      }
+    ]
+  },
+  {
+    "word": "pursuant",
+    "reading": "/pərˈsuːənt/",
+    "meanings": ["de conformidad con", "en cumplimiento de"],
+    "pos": "adjective",
+    "level": "c2",
+    "tags": ["legal", "formal register"],
+    "examples": [
+      {
+        "text": "Pursuant to Article 5 of the agreement, both parties must submit quarterly reports.",
+        "reading": "",
+        "translation": "De conformidad con el Artículo 5 del acuerdo, ambas partes deben presentar informes trimestrales."
+      }
+    ]
+  },
+  {
+    "word": "stipulate",
+    "reading": "/ˈstɪpjəˌleɪt/",
+    "meanings": ["estipular", "establecer como condición"],
+    "pos": "verb",
+    "level": "c2",
+    "tags": ["legal", "formal register", "cognate"],
+    "examples": [
+      {
+        "text": "The contract stipulates that payment must be made within 30 days.",
+        "reading": "",
+        "translation": "El contrato estipula que el pago debe realizarse dentro de 30 días."
+      }
+    ]
+  },
+  {
+    "word": "adjudicate",
+    "reading": "/əˈdʒuːdɪˌkeɪt/",
+    "meanings": ["adjudicar", "fallar", "resolver judicialmente"],
+    "pos": "verb",
+    "level": "c2",
+    "tags": ["legal", "formal register", "cognate"],
+    "examples": [
+      {
+        "text": "An independent tribunal was appointed to adjudicate the dispute.",
+        "reading": "",
+        "translation": "Se designó un tribunal independiente para adjudicar la disputa."
+      }
+    ]
+  },
+  {
+    "word": "precedent",
+    "reading": "/ˈprɛsɪdənt/",
+    "meanings": ["precedente", "antecedente jurídico"],
+    "pos": "noun",
+    "level": "c2",
+    "tags": ["legal", "formal register", "cognate"],
+    "examples": [
+      {
+        "text": "The ruling set a legal precedent for all future cases of this nature.",
+        "reading": "",
+        "translation": "El fallo sentó un precedente legal para todos los casos futuros de esta naturaleza."
+      }
+    ]
+  },
+  {
+    "word": "waive",
+    "reading": "/weɪv/",
+    "meanings": ["renunciar a", "prescindir de", "eximir"],
+    "pos": "verb",
+    "level": "c2",
+    "tags": ["legal", "formal register"],
+    "examples": [
+      {
+        "text": "The university agreed to waive the application fee for low-income students.",
+        "reading": "",
+        "translation": "La universidad aceptó eximir de la cuota de inscripción a los estudiantes de bajos ingresos."
+      }
+    ]
+  },
+  {
+    "word": "hitherto",
+    "reading": "/ˌhɪðərˈtuː/",
+    "meanings": ["hasta ahora", "hasta este momento"],
+    "pos": "adverb",
+    "level": "c2",
+    "tags": ["archaic", "formal register", "literary"],
+    "examples": [
+      {
+        "text": "The research revealed hitherto unknown aspects of the civilization.",
+        "reading": "",
+        "translation": "La investigación reveló aspectos hasta ahora desconocidos de la civilización."
+      }
+    ]
+  },
+  {
+    "word": "whence",
+    "reading": "/wɛns/",
+    "meanings": ["de donde", "desde donde"],
+    "pos": "adverb",
+    "level": "c2",
+    "tags": ["archaic", "literary"],
+    "examples": [
+      {
+        "text": "He returned to the village whence he came, fifty years later.",
+        "reading": "",
+        "translation": "Regresó al pueblo de donde vino, cincuenta años después."
+      }
+    ]
+  },
+  {
+    "word": "forthwith",
+    "reading": "/ˌfɔːrθˈwɪθ/",
+    "meanings": ["inmediatamente", "de inmediato", "sin demora"],
+    "pos": "adverb",
+    "level": "c2",
+    "tags": ["archaic", "legal", "formal register"],
+    "examples": [
+      {
+        "text": "The court ordered the defendant to cease all operations forthwith.",
+        "reading": "",
+        "translation": "El tribunal ordenó al demandado cesar todas las operaciones de inmediato."
+      }
+    ]
+  },
+  {
+    "word": "albeit",
+    "reading": "/ɔːlˈbiːɪt/",
+    "meanings": ["aunque", "si bien"],
+    "pos": "adverb",
+    "level": "c2",
+    "tags": ["archaic", "formal register", "linking words"],
+    "examples": [
+      {
+        "text": "The project was successful, albeit more expensive than anticipated.",
+        "reading": "",
+        "translation": "El proyecto fue exitoso, aunque más costoso de lo previsto."
+      }
+    ]
+  },
+  {
+    "word": "lest",
+    "reading": "/lɛst/",
+    "meanings": ["para que no", "no sea que", "por temor a que"],
+    "pos": "adverb",
+    "level": "c2",
+    "tags": ["archaic", "formal register", "literary"],
+    "examples": [
+      {
+        "text": "She whispered, lest anyone overhear their conversation.",
+        "reading": "",
+        "translation": "Ella susurró, no fuera que alguien escuchara su conversación."
+      }
+    ]
+  },
+  {
+    "word": "inasmuch",
+    "reading": "/ˌɪnəzˈmʌtʃ/",
+    "meanings": ["en la medida en que", "dado que", "puesto que"],
+    "pos": "adverb",
+    "level": "c2",
+    "tags": ["archaic", "formal register", "legal"],
+    "examples": [
+      {
+        "text": "The claim is valid inasmuch as it is supported by documented evidence.",
+        "reading": "",
+        "translation": "La reclamación es válida en la medida en que está respaldada por evidencia documentada."
+      }
+    ]
+  },
+  {
+    "word": "the writing is on the wall",
+    "reading": "/ðə ˈraɪtɪŋ ɪz ɑːn ðə wɔːl/",
+    "meanings": ["es una señal clara de lo que va a pasar", "el final es inevitable"],
+    "pos": "expression",
+    "level": "c2",
+    "tags": ["idiom", "proverb"],
+    "examples": [
+      {
+        "text": "With sales declining for three straight years, the writing is on the wall for this company.",
+        "reading": "",
+        "translation": "Con las ventas cayendo durante tres años seguidos, el futuro de esta empresa es predecible."
+      }
+    ]
+  },
+  {
+    "word": "turn a blind eye",
+    "reading": "/tɜːrn ə blaɪnd aɪ/",
+    "meanings": ["hacer la vista gorda", "ignorar deliberadamente"],
+    "pos": "expression",
+    "level": "c2",
+    "tags": ["idiom", "proverb"],
+    "examples": [
+      {
+        "text": "The authorities turned a blind eye to the corruption for decades.",
+        "reading": "",
+        "translation": "Las autoridades hicieron la vista gorda ante la corrupción durante décadas."
+      }
+    ]
+  },
+  {
+    "word": "a double-edged sword",
+    "reading": "/ə ˌdʌbəl ɛdʒd sɔːrd/",
+    "meanings": ["un arma de doble filo"],
+    "pos": "expression",
+    "level": "c2",
+    "tags": ["idiom", "proverb"],
+    "examples": [
+      {
+        "text": "Social media is a double-edged sword — it connects people but also spreads misinformation.",
+        "reading": "",
+        "translation": "Las redes sociales son un arma de doble filo — conectan a las personas pero también difunden desinformación."
+      }
+    ]
+  },
+  {
+    "word": "leave no stone unturned",
+    "reading": "/liːv noʊ stoʊn ʌnˈtɜːrnd/",
+    "meanings": ["no dejar piedra sin mover", "investigar a fondo"],
+    "pos": "expression",
+    "level": "c2",
+    "tags": ["idiom", "proverb"],
+    "examples": [
+      {
+        "text": "The detective left no stone unturned in her investigation of the case.",
+        "reading": "",
+        "translation": "La detective no dejó piedra sin mover en su investigación del caso."
+      }
+    ]
+  },
+  {
+    "word": "a wolf in sheep's clothing",
+    "reading": "/ə wʊlf ɪn ʃiːps ˈkloʊðɪŋ/",
+    "meanings": ["un lobo con piel de oveja", "alguien que finge ser bueno"],
+    "pos": "expression",
+    "level": "c2",
+    "tags": ["idiom", "proverb"],
+    "examples": [
+      {
+        "text": "The scammer was a wolf in sheep's clothing, pretending to be a charity worker.",
+        "reading": "",
+        "translation": "El estafador era un lobo con piel de oveja, haciéndose pasar por trabajador de caridad."
+      }
+    ]
+  },
+  {
+    "word": "the tip of the iceberg",
+    "reading": "/ðə tɪp ʌv ði ˈaɪsbɜːrɡ/",
+    "meanings": ["la punta del iceberg", "solo una pequeña parte del problema"],
+    "pos": "expression",
+    "level": "c2",
+    "tags": ["idiom", "proverb"],
+    "examples": [
+      {
+        "text": "The accounting errors they found were just the tip of the iceberg.",
+        "reading": "",
+        "translation": "Los errores contables que encontraron eran solo la punta del iceberg."
+      }
+    ]
+  },
+  {
+    "word": "burn the midnight oil",
+    "reading": "/bɜːrn ðə ˌmɪdnaɪt ɔɪl/",
+    "meanings": ["quedarse despierto hasta tarde trabajando", "quemarse las pestañas"],
+    "pos": "expression",
+    "level": "c2",
+    "tags": ["idiom", "proverb"],
+    "examples": [
+      {
+        "text": "She burned the midnight oil every night to finish her doctoral thesis.",
+        "reading": "",
+        "translation": "Se quemó las pestañas todas las noches para terminar su tesis doctoral."
+      }
+    ]
+  },
+  {
+    "word": "add insult to injury",
+    "reading": "/æd ˌɪnsʌlt tə ˈɪndʒəri/",
+    "meanings": ["para colmo", "para más inri", "echar sal en la herida"],
+    "pos": "expression",
+    "level": "c2",
+    "tags": ["idiom", "proverb"],
+    "examples": [
+      {
+        "text": "To add insult to injury, they charged him a cancellation fee after the flight was delayed.",
+        "reading": "",
+        "translation": "Para colmo, le cobraron una tarifa de cancelación después de que el vuelo se retrasó."
+      }
+    ]
+  },
+  {
+    "word": "address",
+    "reading": "/əˈdrɛs/",
+    "meanings": ["abordar (un tema)", "dirigirse a (formal)", "dirección (informal)"],
+    "pos": "verb",
+    "level": "c2",
+    "tags": ["register-shifting", "polysemy"],
+    "examples": [
+      {
+        "text": "The minister addressed the nation on television. / We need to address these concerns immediately.",
+        "reading": "",
+        "translation": "El ministro se dirigió a la nación por televisión. / Necesitamos abordar estas preocupaciones de inmediato."
+      }
+    ]
+  },
+  {
+    "word": "exercise",
+    "reading": "/ˈɛksərˌsaɪz/",
+    "meanings": ["ejercer (poder/derecho)", "hacer ejercicio", "ejercicio (tarea)"],
+    "pos": "verb",
+    "level": "c2",
+    "tags": ["register-shifting", "polysemy", "cognate"],
+    "examples": [
+      {
+        "text": "Citizens must exercise their right to vote. / She exercises every morning before work.",
+        "reading": "",
+        "translation": "Los ciudadanos deben ejercer su derecho al voto. / Ella hace ejercicio todas las mañanas antes del trabajo."
+      }
+    ]
+  },
+  {
+    "word": "engage",
+    "reading": "/ɪnˈɡeɪdʒ/",
+    "meanings": ["involucrar (formal)", "comprometerse", "atraer (la atención)"],
+    "pos": "verb",
+    "level": "c2",
+    "tags": ["register-shifting", "polysemy"],
+    "examples": [
+      {
+        "text": "The company seeks to engage stakeholders in the decision-making process.",
+        "reading": "",
+        "translation": "La empresa busca involucrar a las partes interesadas en el proceso de toma de decisiones."
+      }
+    ]
+  },
+  {
+    "word": "craft",
+    "reading": "/kræft/",
+    "meanings": ["elaborar cuidadosamente (formal)", "oficio/artesanía (sustantivo)"],
+    "pos": "verb",
+    "level": "c2",
+    "tags": ["register-shifting", "polysemy"],
+    "examples": [
+      {
+        "text": "The diplomat carefully crafted a response to avoid escalating tensions.",
+        "reading": "",
+        "translation": "El diplomático elaboró cuidadosamente una respuesta para evitar escalar las tensiones."
+      }
+    ]
+  },
+  {
+    "word": "champion",
+    "reading": "/ˈtʃæmpiən/",
+    "meanings": ["defender/promover (formal)", "campeón (deportivo)"],
+    "pos": "verb",
+    "level": "c2",
+    "tags": ["register-shifting", "polysemy", "cognate"],
+    "examples": [
+      {
+        "text": "She has championed the cause of gender equality throughout her career.",
+        "reading": "",
+        "translation": "Ella ha defendido la causa de la igualdad de género a lo largo de su carrera."
+      }
+    ]
+  },
+  {
+    "word": "harbor",
+    "reading": "/ˈhɑːrbər/",
+    "meanings": ["albergar (sentimientos/sospechas)", "dar refugio", "puerto (sustantivo)"],
+    "pos": "verb",
+    "level": "c2",
+    "tags": ["register-shifting", "polysemy"],
+    "examples": [
+      {
+        "text": "He still harbors resentment over the way he was treated. / The fishing boats returned to the harbor.",
+        "reading": "",
+        "translation": "Él todavía alberga resentimiento por cómo fue tratado. / Los barcos pesqueros regresaron al puerto."
+      }
+    ]
+  },
+  {
+    "word": "spell",
+    "reading": "/spɛl/",
+    "meanings": ["deletrear", "significar/implicar (formal)", "hechizo/período"],
+    "pos": "verb",
+    "level": "c2",
+    "tags": ["register-shifting", "polysemy"],
+    "examples": [
+      {
+        "text": "This policy could spell disaster for small businesses. / Can you spell your last name?",
+        "reading": "",
+        "translation": "Esta política podría significar un desastre para las pequeñas empresas. / ¿Puedes deletrear tu apellido?"
+      }
+    ]
+  },
+  {
+    "word": "tender",
+    "reading": "/ˈtɛndər/",
+    "meanings": ["presentar formalmente (dimisión/oferta)", "tierno", "licitación"],
+    "pos": "verb",
+    "level": "c2",
+    "tags": ["register-shifting", "polysemy"],
+    "examples": [
+      {
+        "text": "The CEO tendered his resignation after the board meeting. / The steak was perfectly tender.",
+        "reading": "",
+        "translation": "El CEO presentó su renuncia después de la reunión de directorio. / El bistec estaba perfectamente tierno."
+      }
+    ]
+  },
+  {
+    "word": "table",
+    "reading": "/ˈteɪbəl/",
+    "meanings": ["presentar formalmente (una propuesta, en inglés británico)", "posponer (en inglés americano)", "mesa"],
+    "pos": "verb",
+    "level": "c2",
+    "tags": ["register-shifting", "polysemy", "British vs American"],
+    "examples": [
+      {
+        "text": "The senator moved to table the amendment until the next session. / In British English, to table a motion means to present it for discussion.",
+        "reading": "",
+        "translation": "El senador propuso posponer la enmienda hasta la próxima sesión. / En inglés británico, 'table a motion' significa presentarla para discusión."
+      }
+    ]
+  }
+]

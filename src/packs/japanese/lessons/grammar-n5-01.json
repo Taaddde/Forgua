@@ -10,14 +10,14 @@
       "back": "partícula de tema (wa)",
       "reading": "wa",
       "explanation": "は es la partícula de tema. Se escribe は (ha) pero se pronuncia 'wa' cuando funciona como partícula. Marca el tema de la oración: lo que estás describiendo o de lo que hablás.",
-      "cardRef": { "category": "grammar", "front": "は" }
+      "cardRef": { "category": "grammar", "front": "は（partícula） ([tema] + は + [comentario])" }
     },
     {
       "front": "です",
       "back": "es / ser (cópula formal)",
       "reading": "desu",
       "explanation": "です (desu) es la cópula formal — equivale a 'es' o 'soy'. Va al final de la oración. Es la forma educada; la forma informal es だ (da).",
-      "cardRef": { "category": "grammar", "front": "です" }
+      "cardRef": { "category": "grammar", "front": "です ([名詞] + です)" }
     },
     {
       "front": "私は学生です",

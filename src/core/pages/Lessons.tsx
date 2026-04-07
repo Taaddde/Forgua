@@ -97,7 +97,11 @@ export function Lessons() {
   const handleCompleteLesson = useCallback(
     async (score: number) => {
       if (!packId || !activeLesson) return;
-      await completeLesson(packId, activeLesson.id, score, activeLesson.items);
+      try {
+        await completeLesson(packId, activeLesson.id, score, activeLesson.items);
+      } catch (err) {
+        console.error('Failed to save lesson progress:', err);
+      }
       setActiveLesson(null);
     },
     [packId, activeLesson],

@@ -1,5 +1,5 @@
 import { test, expect } from '@playwright/test';
-import { clearIndexedDB } from './helpers';
+import { clearIndexedDB, goToPackSelector } from './helpers';
 
 test.describe('Full learner journey', () => {
   test.setTimeout(120_000);
@@ -10,9 +10,9 @@ test.describe('Full learner journey', () => {
 
   test('complete Japanese learning journey', async ({ page }) => {
     // === ONBOARDING ===
-    await page.goto('/');
+    await goToPackSelector(page);
 
-    const jpBtn = page.locator('button', { hasText: '日本語' });
+    const jpBtn = page.locator('button', { hasText: 'Japonés' });
     await expect(jpBtn).toBeVisible({ timeout: 5000 });
     await jpBtn.click();
     await page.waitForTimeout(5000);
@@ -26,7 +26,7 @@ test.describe('Full learner journey', () => {
     await page.waitForTimeout(2000);
     await page.screenshot({ path: 'e2e/screenshots/02-lessons-list.png' });
 
-    // First lesson should be visible
+    // First lesson should be visible (title contains "あ行")
     const firstLesson = page.locator('button').filter({ hasText: /あ行/i }).first();
     await expect(firstLesson).toBeVisible();
 
@@ -122,7 +122,7 @@ test.describe('Full learner journey', () => {
     await expect(scoreText).toBeVisible({ timeout: 5000 });
 
     // Complete the lesson
-    const completeBtn = page.getByRole('button', { name: /complete|terminar|continuar|volver|siguiente|finish/i });
+    const completeBtn = page.getByRole('button', { name: /complete|terminar|continuar|volver|siguiente|finish|finalizar/i });
     if (await completeBtn.isVisible({ timeout: 2000 }).catch(() => false)) {
       await completeBtn.click();
       await page.waitForTimeout(1000);

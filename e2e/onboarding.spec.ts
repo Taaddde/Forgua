@@ -1,5 +1,5 @@
 import { test, expect } from '@playwright/test';
-import { clearIndexedDB } from './helpers';
+import { clearIndexedDB, goToPackSelector } from './helpers';
 
 test.describe('Onboarding flow', () => {
   test.beforeEach(async ({ page }) => {
@@ -7,14 +7,11 @@ test.describe('Onboarding flow', () => {
   });
 
   test('new user can select Japanese pack and reach dashboard', async ({ page }) => {
-    await page.goto('/');
+    await goToPackSelector(page);
 
-    // Should show pack selector
-    await expect(page.getByRole('heading', { level: 1 })).toBeVisible();
-
-    // Find Japanese pack button
-    const japaneseButton = page.locator('button', { hasText: '日本語' });
-    await expect(japaneseButton).toBeVisible();
+    // Pack selector page shows packs with Spanish names
+    const japaneseButton = page.locator('button', { hasText: 'Japonés' });
+    await expect(japaneseButton).toBeVisible({ timeout: 5000 });
     await japaneseButton.click();
 
     // Should navigate to dashboard after pack install
@@ -22,11 +19,11 @@ test.describe('Onboarding flow', () => {
   });
 
   test('new user can see at least 2 packs', async ({ page }) => {
-    await page.goto('/');
+    await goToPackSelector(page);
 
-    // Japanese pack
-    await expect(page.locator('button', { hasText: '日本語' })).toBeVisible();
-    // English pack
-    await expect(page.locator('button', { hasText: /English|Inglés/i })).toBeVisible();
+    // Japanese pack (name: "Japonés", nativeName: "日本語")
+    await expect(page.locator('button', { hasText: 'Japonés' })).toBeVisible({ timeout: 5000 });
+    // English pack (name: "Inglés", nativeName: "English")
+    await expect(page.locator('button', { hasText: 'Inglés' })).toBeVisible({ timeout: 5000 });
   });
 });

@@ -14,7 +14,7 @@ test.describe('Hiragana-01 lesson', () => {
     await page.goto('/lessons');
     await page.waitForTimeout(2000);
 
-    // Find and click hiragana-01 (あ行)
+    // Find and click hiragana-01 (title contains "あ行")
     const lesson = page.locator('button', { hasText: 'あ行' });
     await expect(lesson).toBeVisible({ timeout: 5000 });
     await lesson.click();

@@ -16,11 +16,29 @@ export async function clearIndexedDB(page: Page): Promise<void> {
 }
 
 /**
+ * Navigate to the pack selector page.
+ * The dashboard shows a welcome button when no pack is active.
+ */
+export async function goToPackSelector(page: Page): Promise<void> {
+  await page.goto('/');
+  // Dashboard shows "Elegí tu idioma" button when no pack is active
+  const selectBtn = page.getByRole('button', { name: /eleg|choose/i });
+  if (await selectBtn.isVisible({ timeout: 5000 }).catch(() => false)) {
+    await selectBtn.click();
+    await page.waitForTimeout(1000);
+  } else {
+    await page.goto('/pack-selector');
+    await page.waitForTimeout(1000);
+  }
+}
+
+/**
  * Install the Japanese pack and wait for it to complete.
+ * Pack name is "Japonés" (Spanish UI), nativeName is "日本語".
  */
 export async function installJapanesePack(page: Page): Promise<void> {
-  await page.goto('/');
-  const japaneseButton = page.locator('button', { hasText: '日本語' });
+  await goToPackSelector(page);
+  const japaneseButton = page.locator('button', { hasText: 'Japonés' });
   if (await japaneseButton.isVisible({ timeout: 5000 }).catch(() => false)) {
     await japaneseButton.click();
     await page.waitForTimeout(5000);

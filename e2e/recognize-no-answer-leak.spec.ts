@@ -25,7 +25,7 @@ test.describe('RecognizeStep answer visibility', () => {
       }
     }
 
-    // Now in RecognizeStep — the prompt card should show "あ" but NOT "a" as a hint
+    // Now in RecognizeStep — the prompt card should show a character but NOT its reading as a hint
     await page.waitForTimeout(500);
     const card = page.locator('.rounded-2xl.p-8');
     await expect(card).toBeVisible({ timeout: 3000 });

@@ -1,0 +1,1127 @@
+[
+  {
+    "id": "n4-tara",
+    "title": "〜たら",
+    "pattern": "Verb-た + ら",
+    "meaning": "si / cuando (condicional)",
+    "level": "n4",
+    "explanation": "Expresa una condición. Se forma añadiendo ら a la forma pasada del verbo. Se usa tanto para condiciones reales como hipotéticas. Con eventos pasados indica 'cuando' (descubrimiento tras la acción).",
+    "examples": [
+      {
+        "sentence": "雨が降ったら、家にいます。",
+        "reading": "あめがふったら、いえにいます。",
+        "translation": "Si llueve, me quedo en casa.",
+        "breakdown": ["雨が降る = llover", "たら = si/cuando", "家にいる = estar en casa"]
+      },
+      {
+        "sentence": "駅に着いたら、電話してください。",
+        "reading": "えきについたら、でんわしてください。",
+        "translation": "Cuando llegues a la estación, llámame por teléfono.",
+        "breakdown": ["駅 = estación", "着く = llegar", "たら = cuando", "電話する = llamar por teléfono", "ください = por favor"]
+      }
+    ],
+    "notes": "A diferencia de ば, たら se usa más para eventos únicos o secuenciales. También se puede usar con sustantivos y adjetivos: 暇だったら (si estás libre).",
+    "related": ["n4-ba", "n4-to-conditional", "n4-nara"],
+    "tags": ["condicional", "forma-ta"]
+  },
+  {
+    "id": "n4-ba",
+    "title": "〜ば",
+    "pattern": "Verb-えば / Adj-ければ",
+    "meaning": "si (condicional general)",
+    "level": "n4",
+    "explanation": "Forma condicional que expresa condiciones generales o hipotéticas. Para verbos godan se cambia la última sílaba a la columna え y se añade ば. Para ichidan se quita る y se añade れば. Para adjetivos-i se cambia い por ければ.",
+    "examples": [
+      {
+        "sentence": "薬を飲めば、元気になりますよ。",
+        "reading": "くすりをのめば、げんきになりますよ。",
+        "translation": "Si tomas la medicina, te pondrás bien.",
+        "breakdown": ["薬 = medicina", "飲む → 飲めば = si bebes/tomas", "元気になる = ponerse bien"]
+      },
+      {
+        "sentence": "安ければ、買います。",
+        "reading": "やすければ、かいます。",
+        "translation": "Si es barato, lo compro.",
+        "breakdown": ["安い → 安ければ = si es barato", "買う = comprar"]
+      }
+    ],
+    "notes": "ば suele usarse para condiciones generales y verdades universales. No se usa tanto para peticiones o sugerencias directas. La forma negativa es なければ.",
+    "related": ["n4-tara", "n4-to-conditional", "n4-nara", "n4-ba-hodo"],
+    "tags": ["condicional"]
+  },
+  {
+    "id": "n4-nara",
+    "title": "〜なら",
+    "pattern": "Noun/Verb(plain) + なら",
+    "meaning": "si (condicional contextual)",
+    "level": "n4",
+    "explanation": "Condicional que se usa cuando se retoma información del interlocutor o del contexto para dar una recomendación o respuesta. Implica 'si es el caso de que...'. Se conecta directamente a sustantivos, adjetivos-na y formas plain de verbos.",
+    "examples": [
+      {
+        "sentence": "日本に行くなら、京都がおすすめです。",
+        "reading": "にほんにいくなら、きょうとがおすすめです。",
+        "translation": "Si vas a ir a Japón, te recomiendo Kioto.",
+        "breakdown": ["日本に行く = ir a Japón", "なら = si (es el caso)", "京都 = Kioto", "おすすめ = recomendación"]
+      },
+      {
+        "sentence": "魚なら、この店がいちばんおいしいです。",
+        "reading": "さかななら、このみせがいちばんおいしいです。",
+        "translation": "Si hablamos de pescado, esta tienda es la más deliciosa.",
+        "breakdown": ["魚 = pescado", "なら = si (hablamos de)", "この店 = esta tienda", "いちばん = el más", "おいしい = delicioso"]
+      }
+    ],
+    "notes": "なら se diferencia de las otras condicionales porque la condición no necesariamente precede al resultado en el tiempo. Se usa mucho para dar consejos basados en lo que dijo el otro.",
+    "related": ["n4-tara", "n4-ba", "n4-to-conditional"],
+    "tags": ["condicional", "contexto"]
+  },
+  {
+    "id": "n4-to-conditional",
+    "title": "〜と（condicional）",
+    "pattern": "Verb(dict.) + と",
+    "meaning": "cuando / siempre que (condicional natural)",
+    "level": "n4",
+    "explanation": "Condicional que expresa resultados naturales, automáticos o inevitables. Se usa con la forma de diccionario del verbo + と. Indica que siempre que ocurre A, ocurre B de forma natural.",
+    "examples": [
+      {
+        "sentence": "春になると、桜が咲きます。",
+        "reading": "はるになると、さくらがさきます。",
+        "translation": "Cuando llega la primavera, florecen los cerezos.",
+        "breakdown": ["春 = primavera", "になる = llegar a ser/convertirse", "と = cuando (natural)", "桜 = cerezo", "咲く = florecer"]
+      },
+      {
+        "sentence": "このボタンを押すと、ドアが開きます。",
+        "reading": "このボタンをおすと、ドアがあきます。",
+        "translation": "Cuando presionas este botón, la puerta se abre.",
+        "breakdown": ["ボタン = botón", "押す = presionar", "と = cuando (automático)", "ドア = puerta", "開く = abrirse"]
+      }
+    ],
+    "notes": "No se usa con voluntad, peticiones ni sugerencias en la cláusula principal. Es para resultados naturales o habituales. También se usa para dar direcciones: まっすぐ行くと (si vas recto...).",
+    "related": ["n4-tara", "n4-ba", "n4-nara"],
+    "tags": ["condicional", "natural"]
+  },
+  {
+    "id": "n4-passive",
+    "title": "〜れる / 〜られる（受身）",
+    "pattern": "Verb-ない stem + れる/られる",
+    "meaning": "ser + participio (pasiva)",
+    "level": "n4",
+    "explanation": "La forma pasiva indica que el sujeto recibe la acción. Para verbos godan: stem negativo + れる. Para ichidan: stem + られる. する → される, 来る → 来られる. En japonés también existe la 'pasiva de molestia' donde el sujeto se ve afectado negativamente.",
+    "examples": [
+      {
+        "sentence": "弟にケーキを食べられた。",
+        "reading": "おとうとにケーキをたべられた。",
+        "translation": "Mi hermano menor se comió mi pastel (y me molestó).",
+        "breakdown": ["弟 = hermano menor", "に = por (agente)", "ケーキ = pastel", "食べられた = fue comido (pasiva de molestia)"]
+      },
+      {
+        "sentence": "この本は多くの人に読まれています。",
+        "reading": "このほんはおおくのひとによまれています。",
+        "translation": "Este libro es leído por muchas personas.",
+        "breakdown": ["この本 = este libro", "多くの人 = muchas personas", "に = por", "読まれている = está siendo leído"]
+      }
+    ],
+    "notes": "La pasiva japonesa tiene un uso único llamado 迷惑の受身 (pasiva de molestia) que no existe en español. El sujeto es la persona afectada negativamente por la acción.",
+    "related": ["n4-causative", "n4-potential"],
+    "tags": ["voz pasiva", "conjugación"]
+  },
+  {
+    "id": "n4-causative",
+    "title": "〜せる / 〜させる",
+    "pattern": "Verb-ない stem + せる/させる",
+    "meaning": "hacer que / dejar que (causativo)",
+    "level": "n4",
+    "explanation": "La forma causativa indica que alguien hace o permite que otra persona haga algo. Para godan: stem negativo + せる. Para ichidan: stem + させる. する → させる, 来る → 来させる. Puede expresar obligación o permiso según el contexto.",
+    "examples": [
+      {
+        "sentence": "母は弟に野菜を食べさせた。",
+        "reading": "はははおとうとにやさいをたべさせた。",
+        "translation": "Mi madre hizo que mi hermano menor comiera verduras.",
+        "breakdown": ["母 = madre", "弟 = hermano menor", "に = a (persona causada)", "野菜 = verduras", "食べさせた = hizo comer"]
+      },
+      {
+        "sentence": "先生は学生を立たせました。",
+        "reading": "せんせいはがくせいをたたせました。",
+        "translation": "El profesor hizo que los estudiantes se pararan.",
+        "breakdown": ["先生 = profesor", "学生 = estudiante", "を = (marca persona causada con verbos intransitivos)", "立たせた = hizo parar"]
+      }
+    ],
+    "notes": "Con verbos transitivos el causado se marca con に. Con verbos intransitivos se marca con を. Para pedir permiso se usa させてください (por favor déjeme...).",
+    "related": ["n4-passive", "n4-potential"],
+    "tags": ["causativo", "conjugación"]
+  },
+  {
+    "id": "n4-potential",
+    "title": "〜える / 〜られる（可能）",
+    "pattern": "Verb-ない stem + える/られる",
+    "meaning": "poder (potencial)",
+    "level": "n4",
+    "explanation": "La forma potencial expresa capacidad o posibilidad. Para godan: se cambia la última sílaba a la columna え + る. Para ichidan: stem + られる (coloquialmente solo れる). する → できる, 来る → 来られる. El objeto directo puede marcarse con が o を.",
+    "examples": [
+      {
+        "sentence": "漢字が読めるようになりました。",
+        "reading": "かんじがよめるようになりました。",
+        "translation": "Llegué a poder leer kanji.",
+        "breakdown": ["漢字 = kanji", "が = (marca objeto con potencial)", "読める = poder leer", "ようになる = llegar a poder"]
+      },
+      {
+        "sentence": "日本語で電話ができますか。",
+        "reading": "にほんごででんわができますか。",
+        "translation": "¿Puedes hablar por teléfono en japonés?",
+        "breakdown": ["日本語で = en japonés", "電話 = teléfono", "ができる = poder hacer"]
+      }
+    ],
+    "notes": "En japonés coloquial moderno, los verbos ichidan suelen usar la forma abreviada れる en vez de られる (ら抜き言葉). Con la forma potencial, が suele reemplazar a を para el objeto directo.",
+    "related": ["n4-passive", "n4-you-ni-naru"],
+    "tags": ["potencial", "conjugación"]
+  },
+  {
+    "id": "n4-te-ageru",
+    "title": "〜てあげる",
+    "pattern": "Verb-て + あげる",
+    "meaning": "hacer (algo) para alguien",
+    "level": "n4",
+    "explanation": "Indica que el sujeto realiza una acción como favor para otra persona. Literalmente 'dar la acción de'. El beneficiario se marca con に. Puede sonar condescendiente si se usa para personas de mayor estatus.",
+    "examples": [
+      {
+        "sentence": "友達に日本語を教えてあげました。",
+        "reading": "ともだちににほんごをおしえてあげました。",
+        "translation": "Le enseñé japonés a mi amigo (como favor).",
+        "breakdown": ["友達 = amigo", "に = a (beneficiario)", "日本語 = japonés", "教える = enseñar", "てあげる = hacer para alguien"]
+      },
+      {
+        "sentence": "妹の宿題を手伝ってあげた。",
+        "reading": "いもうとのしゅくだいをてつだってあげた。",
+        "translation": "Le ayudé a mi hermana menor con la tarea.",
+        "breakdown": ["妹 = hermana menor", "宿題 = tarea", "手伝う = ayudar", "てあげた = hice (como favor)"]
+      }
+    ],
+    "notes": "No se dice 〜てあげる cuando se habla de hacer algo para alguien de mayor rango. En ese caso se usa お〜する. Tampoco se usa en primera persona hacia el oyente directamente ya que suena arrogante.",
+    "related": ["n4-te-morau", "n4-te-kureru"],
+    "tags": ["dar-recibir", "favor", "て形"]
+  },
+  {
+    "id": "n4-te-morau",
+    "title": "〜てもらう",
+    "pattern": "Verb-て + もらう",
+    "meaning": "recibir el favor de que alguien haga (algo)",
+    "level": "n4",
+    "explanation": "Indica que el sujeto recibe el beneficio de una acción realizada por otra persona. El que realiza la acción se marca con に. Es más natural que てくれる cuando el sujeto activamente pide o busca el favor.",
+    "examples": [
+      {
+        "sentence": "友達に駅まで送ってもらった。",
+        "reading": "ともだちにえきまでおくってもらった。",
+        "translation": "Mi amigo me llevó hasta la estación (recibí el favor).",
+        "breakdown": ["友達 = amigo", "に = de (quien hace el favor)", "駅まで = hasta la estación", "送る = llevar/acompañar", "てもらった = recibí el favor de"]
+      },
+      {
+        "sentence": "先生に作文を直してもらいました。",
+        "reading": "せんせいにさくぶんをなおしてもらいました。",
+        "translation": "El profesor me corrigió la redacción (recibí el favor).",
+        "breakdown": ["先生 = profesor", "に = de", "作文 = redacción", "直す = corregir", "てもらった = recibí la corrección"]
+      }
+    ],
+    "notes": "てもらう enfatiza que el sujeto es el beneficiario. Se usa mucho para expresar agradecimiento implícito. La forma de petición educada es てもらえませんか (¿podría hacerme el favor de...?).",
+    "related": ["n4-te-ageru", "n4-te-kureru"],
+    "tags": ["dar-recibir", "favor", "て形"]
+  },
+  {
+    "id": "n4-te-kureru",
+    "title": "〜てくれる",
+    "pattern": "Verb-て + くれる",
+    "meaning": "alguien hace (algo) por mí / nosotros",
+    "level": "n4",
+    "explanation": "Indica que otra persona realiza una acción en beneficio del hablante o su grupo. A diferencia de てもらう, el sujeto gramatical es quien realiza la acción. Implica gratitud del hablante.",
+    "examples": [
+      {
+        "sentence": "母が毎朝お弁当を作ってくれます。",
+        "reading": "ははがまいあさおべんとうをつくってくれます。",
+        "translation": "Mi madre me prepara el almuerzo cada mañana.",
+        "breakdown": ["母 = madre", "毎朝 = cada mañana", "お弁当 = almuerzo (bento)", "作る = preparar", "てくれる = hace por mí"]
+      },
+      {
+        "sentence": "田中さんが道を教えてくれました。",
+        "reading": "たなかさんがみちをおしえてくれました。",
+        "translation": "Tanaka me indicó el camino.",
+        "breakdown": ["田中さん = Sr./Sra. Tanaka", "道 = camino", "教える = enseñar/indicar", "てくれた = hizo por mí"]
+      }
+    ],
+    "notes": "てくれる implica que el hablante está agradecido. Se usa mucho en la vida diaria. La forma de petición es てくれない？(informal) o てくれませんか (formal).",
+    "related": ["n4-te-ageru", "n4-te-morau"],
+    "tags": ["dar-recibir", "favor", "て形"]
+  },
+  {
+    "id": "n4-nakereba-naranai",
+    "title": "〜なければならない",
+    "pattern": "Verb-なければ + ならない",
+    "meaning": "tener que / deber",
+    "level": "n4",
+    "explanation": "Expresa obligación o necesidad. Se forma con la forma negativa del verbo (ない → なければ) + ならない. Literalmente significa 'si no se hace, no está bien'. Tiene variantes más coloquiales como なきゃ y なくちゃ.",
+    "examples": [
+      {
+        "sentence": "明日までにレポートを出さなければなりません。",
+        "reading": "あしたまでにレポートをださなければなりません。",
+        "translation": "Tengo que entregar el informe antes de mañana.",
+        "breakdown": ["明日までに = antes de mañana", "レポート = informe", "出す = entregar/presentar", "なければならない = tener que"]
+      },
+      {
+        "sentence": "毎日薬を飲まなければならない。",
+        "reading": "まいにちくすりをのまなければならない。",
+        "translation": "Tengo que tomar medicina todos los días.",
+        "breakdown": ["毎日 = todos los días", "薬 = medicina", "飲む = tomar/beber", "なければならない = tener que"]
+      }
+    ],
+    "notes": "Formas coloquiales: なきゃいけない, なくちゃいけない, なきゃ, なくちゃ. También existe ないといけない con el mismo significado.",
+    "related": ["n4-nakutemo-ii"],
+    "tags": ["obligación", "deber", "modal"]
+  },
+  {
+    "id": "n4-nakutemo-ii",
+    "title": "〜なくてもいい",
+    "pattern": "Verb-なくても + いい",
+    "meaning": "no es necesario / no hace falta",
+    "level": "n4",
+    "explanation": "Indica que algo no es obligatorio, que no hay necesidad de hacerlo. Se forma con la forma negativa て del verbo (なくて) + も + いい. Es lo opuesto a なければならない.",
+    "examples": [
+      {
+        "sentence": "明日は来なくてもいいですよ。",
+        "reading": "あしたはこなくてもいいですよ。",
+        "translation": "No hace falta que vengas mañana.",
+        "breakdown": ["明日 = mañana", "来る → 来なくても = aunque no vengas", "いい = está bien"]
+      },
+      {
+        "sentence": "そんなに急がなくてもいいです。",
+        "reading": "そんなにいそがなくてもいいです。",
+        "translation": "No hace falta que te apures tanto.",
+        "breakdown": ["そんなに = tanto", "急ぐ = apurarse", "なくてもいい = no es necesario"]
+      }
+    ],
+    "notes": "Se puede usar también con sustantivos y adjetivos-na: じゃなくてもいい. Con adjetivos-i: くなくてもいい.",
+    "related": ["n4-nakereba-naranai"],
+    "tags": ["no-obligación", "permiso", "modal"]
+  },
+  {
+    "id": "n4-tsumori",
+    "title": "〜つもり",
+    "pattern": "Verb(dict./ない) + つもり",
+    "meaning": "tener la intención de",
+    "level": "n4",
+    "explanation": "Expresa la intención o plan firme del hablante de hacer (o no hacer) algo. Se usa con la forma de diccionario para intención positiva y con la forma ない para intención negativa. No se usa para terceras personas en afirmaciones directas.",
+    "examples": [
+      {
+        "sentence": "来年日本に留学するつもりです。",
+        "reading": "らいねんにほんにりゅうがくするつもりです。",
+        "translation": "Tengo la intención de estudiar en Japón el año que viene.",
+        "breakdown": ["来年 = año que viene", "日本 = Japón", "留学する = estudiar en el extranjero", "つもり = intención"]
+      },
+      {
+        "sentence": "もうお酒を飲まないつもりだ。",
+        "reading": "もうおさけをのまないつもりだ。",
+        "translation": "Tengo la intención de no beber más alcohol.",
+        "breakdown": ["もう = ya (no más)", "お酒 = alcohol", "飲まない = no beber", "つもり = intención"]
+      }
+    ],
+    "notes": "つもりだった expresa una intención pasada que pudo no haberse cumplido. Para terceras personas se usa つもりらしい o つもりのようだ.",
+    "related": ["n4-yotei", "n4-you-ni-suru"],
+    "tags": ["intención", "plan", "futuro"]
+  },
+  {
+    "id": "n4-yotei",
+    "title": "〜予定",
+    "pattern": "Verb(dict.) + 予定だ",
+    "meaning": "estar previsto / tener programado",
+    "level": "n4",
+    "explanation": "Indica un plan o programa más formal y definido que つもり. Se usa para eventos ya decididos o agendados. 予定 es un sustantivo que significa 'plan/programa'. Se conecta con la forma de diccionario del verbo.",
+    "examples": [
+      {
+        "sentence": "来月結婚する予定です。",
+        "reading": "らいげつけっこんするよていです。",
+        "translation": "Está previsto que me case el mes que viene.",
+        "breakdown": ["来月 = el mes que viene", "結婚する = casarse", "予定 = plan/programa"]
+      },
+      {
+        "sentence": "会議は三時に始まる予定です。",
+        "reading": "かいぎはさんじにはじまるよていです。",
+        "translation": "La reunión está programada para comenzar a las tres.",
+        "breakdown": ["会議 = reunión", "三時 = las tres", "始まる = comenzar", "予定 = programa"]
+      }
+    ],
+    "notes": "予定 es más objetivo que つもり. Se usa tanto para planes propios como ajenos. 予定を変更する significa 'cambiar los planes'.",
+    "related": ["n4-tsumori"],
+    "tags": ["plan", "programa", "futuro"]
+  },
+  {
+    "id": "n4-you-ni-suru",
+    "title": "〜ようにする",
+    "pattern": "Verb(dict./ない) + ようにする",
+    "meaning": "procurar / esforzarse por",
+    "level": "n4",
+    "explanation": "Expresa el esfuerzo consciente por hacer algo habitualmente o cambiar un comportamiento. Con la forma de diccionario significa 'procurar hacer'. Con la forma ない significa 'procurar no hacer'.",
+    "examples": [
+      {
+        "sentence": "毎日野菜を食べるようにしています。",
+        "reading": "まいにちやさいをたべるようにしています。",
+        "translation": "Procuro comer verduras todos los días.",
+        "breakdown": ["毎日 = todos los días", "野菜 = verduras", "食べる = comer", "ようにしている = procuro/me esfuerzo por"]
+      },
+      {
+        "sentence": "夜遅く食べないようにしている。",
+        "reading": "よるおそくたべないようにしている。",
+        "translation": "Procuro no comer tarde en la noche.",
+        "breakdown": ["夜遅く = tarde en la noche", "食べない = no comer", "ようにしている = procuro"]
+      }
+    ],
+    "notes": "ようにしている (con ている) enfatiza un esfuerzo continuo. ようにした indica que se empezó a hacer ese esfuerzo en un momento concreto.",
+    "related": ["n4-you-ni-naru", "n4-tsumori"],
+    "tags": ["esfuerzo", "hábito", "cambio"]
+  },
+  {
+    "id": "n4-you-ni-naru",
+    "title": "〜ようになる",
+    "pattern": "Verb(dict./ない) + ようになる",
+    "meaning": "llegar a / empezar a (cambio gradual)",
+    "level": "n4",
+    "explanation": "Expresa un cambio gradual de estado o capacidad. Indica que algo que antes no era posible o no ocurría, ahora sí (o viceversa con ない). Se usa frecuentemente con la forma potencial.",
+    "examples": [
+      {
+        "sentence": "日本語が話せるようになりました。",
+        "reading": "にほんごがはなせるようになりました。",
+        "translation": "Llegué a poder hablar japonés.",
+        "breakdown": ["日本語 = japonés", "話せる = poder hablar", "ようになった = llegué a poder"]
+      },
+      {
+        "sentence": "朝早く起きられるようになった。",
+        "reading": "あさはやくおきられるようになった。",
+        "translation": "Llegué a poder levantarme temprano por la mañana.",
+        "breakdown": ["朝早く = temprano por la mañana", "起きられる = poder levantarse", "ようになった = llegué a poder"]
+      }
+    ],
+    "notes": "Se usa mucho con verbos en forma potencial para expresar adquisición de habilidades. La forma negativa ないようになる indica que algo dejó de ocurrir.",
+    "related": ["n4-you-ni-suru", "n4-potential"],
+    "tags": ["cambio", "gradual", "capacidad"]
+  },
+  {
+    "id": "n4-sou-da-appearance",
+    "title": "〜そうだ（様態）",
+    "pattern": "Verb-stem / Adj-stem + そうだ",
+    "meaning": "parece que / tiene pinta de",
+    "level": "n4",
+    "explanation": "Expresa una impresión o apariencia basada en la observación directa. Para verbos se usa el stem (ます sin ます). Para adjetivos-i se quita い. Para adjetivos-na se quita な. Indica lo que parece a simple vista.",
+    "examples": [
+      {
+        "sentence": "このケーキはおいしそうですね。",
+        "reading": "このケーキはおいしそうですね。",
+        "translation": "Este pastel se ve delicioso, ¿verdad?",
+        "breakdown": ["このケーキ = este pastel", "おいしい → おいしそう = se ve delicioso", "ですね = ¿verdad?"]
+      },
+      {
+        "sentence": "雨が降りそうだ。",
+        "reading": "あめがふりそうだ。",
+        "translation": "Parece que va a llover.",
+        "breakdown": ["雨 = lluvia", "降る → 降りそう = parece que va a caer", "だ = ser"]
+      }
+    ],
+    "notes": "Excepciones importantes: いい → よさそう, ない → なさそう. No confundir con そうだ (transmisión) que se conecta a la forma plain completa.",
+    "related": ["n4-sou-da-hearsay", "n4-mitai-da", "n4-you-da"],
+    "tags": ["apariencia", "conjetura", "observación"]
+  },
+  {
+    "id": "n4-sou-da-hearsay",
+    "title": "〜そうだ（伝聞）",
+    "pattern": "Verb/Adj(plain) + そうだ",
+    "meaning": "dicen que / he oído que",
+    "level": "n4",
+    "explanation": "Expresa información de segunda mano, algo que el hablante escuchó o leyó. Se conecta directamente a la forma plain completa del verbo o adjetivo. A diferencia de そう de apariencia, aquí no se modifica el stem.",
+    "examples": [
+      {
+        "sentence": "天気予報によると、明日は雪が降るそうです。",
+        "reading": "てんきよほうによると、あしたはゆきがふるそうです。",
+        "translation": "Según el pronóstico, dicen que mañana va a nevar.",
+        "breakdown": ["天気予報 = pronóstico del tiempo", "によると = según", "雪が降る = nevar", "そうだ = dicen que"]
+      },
+      {
+        "sentence": "あの映画はとてもよかったそうです。",
+        "reading": "あのえいがはとてもよかったそうです。",
+        "translation": "He oído que esa película estuvo muy buena.",
+        "breakdown": ["あの映画 = esa película", "とても = muy", "よかった = estuvo buena", "そうだ = he oído que"]
+      }
+    ],
+    "notes": "Se diferencia del そう de apariencia en la conexión: forma plain completa + そう (transmisión) vs. stem + そう (apariencia). Suele acompañarse de によると (según).",
+    "related": ["n4-sou-da-appearance", "n4-rashii", "n4-tte"],
+    "tags": ["transmisión", "información", "segunda-mano"]
+  },
+  {
+    "id": "n4-mitai-da",
+    "title": "〜みたいだ",
+    "pattern": "Noun/Verb(plain)/Adj + みたいだ",
+    "meaning": "parece / es como",
+    "level": "n4",
+    "explanation": "Expresa similitud o conjetura basada en evidencia. Puede significar 'parece que' (conjetura) o 'es como' (símil). Es más coloquial que ようだ. Se conecta directamente a sustantivos, formas plain de verbos y adjetivos.",
+    "examples": [
+      {
+        "sentence": "田中さんは忙しいみたいです。",
+        "reading": "たなかさんはいそがしいみたいです。",
+        "translation": "Parece que Tanaka está ocupado.",
+        "breakdown": ["田中さん = Tanaka", "忙しい = ocupado", "みたいだ = parece que"]
+      },
+      {
+        "sentence": "あの人はモデルみたいにきれいだ。",
+        "reading": "あのひとはモデルみたいにきれいだ。",
+        "translation": "Esa persona es bonita como una modelo.",
+        "breakdown": ["あの人 = esa persona", "モデル = modelo", "みたいに = como", "きれい = bonita"]
+      }
+    ],
+    "notes": "みたいだ funciona como adjetivo-na: みたいな + sustantivo, みたいに + verbo/adjetivo. Es más casual que ようだ pero tiene los mismos usos.",
+    "related": ["n4-you-da", "n4-rashii", "n4-sou-da-appearance"],
+    "tags": ["conjetura", "similitud", "comparación"]
+  },
+  {
+    "id": "n4-rashii",
+    "title": "〜らしい",
+    "pattern": "Noun/Verb(plain)/Adj + らしい",
+    "meaning": "parece que / aparentemente",
+    "level": "n4",
+    "explanation": "Expresa una conjetura basada en información indirecta o evidencia. También puede significar 'típico de' cuando se conecta a sustantivos (子供らしい = típico de un niño). Se conecta a formas plain.",
+    "examples": [
+      {
+        "sentence": "来週テストがあるらしいです。",
+        "reading": "らいしゅうテストがあるらしいです。",
+        "translation": "Aparentemente hay un examen la semana que viene.",
+        "breakdown": ["来週 = semana que viene", "テスト = examen", "ある = haber", "らしい = aparentemente"]
+      },
+      {
+        "sentence": "彼女は日本人らしい日本人だ。",
+        "reading": "かのじょはにほんじんらしいにほんじんだ。",
+        "translation": "Ella es una japonesa típica.",
+        "breakdown": ["彼女 = ella", "日本人 = japonesa", "らしい = típico de", "日本人 = japonesa"]
+      }
+    ],
+    "notes": "らしい como conjetura se basa en evidencia objetiva (noticias, rumores). Como 'típico de' se adjunta a sustantivos. Se conjuga como adjetivo-i: らしかった (pasado), らしくない (negativo).",
+    "related": ["n4-mitai-da", "n4-you-da", "n4-sou-da-hearsay"],
+    "tags": ["conjetura", "evidencia", "tipicidad"]
+  },
+  {
+    "id": "n4-you-da",
+    "title": "〜ようだ",
+    "pattern": "Verb(plain)/Noun + の + ようだ",
+    "meaning": "parece que / es como (formal)",
+    "level": "n4",
+    "explanation": "Versión más formal de みたいだ. Expresa conjetura basada en evidencia o similitud. Para sustantivos se usa の + ようだ. Para verbos y adjetivos se conecta directamente a la forma plain. Funciona como adjetivo-na.",
+    "examples": [
+      {
+        "sentence": "彼は何か隠しているようだ。",
+        "reading": "かれはなにかかくしているようだ。",
+        "translation": "Parece que él está ocultando algo.",
+        "breakdown": ["彼 = él", "何か = algo", "隠している = estar ocultando", "ようだ = parece que"]
+      },
+      {
+        "sentence": "まるで夢のようだった。",
+        "reading": "まるでゆめのようだった。",
+        "translation": "Fue como un sueño.",
+        "breakdown": ["まるで = exactamente como", "夢 = sueño", "のようだ = como", "だった = fue"]
+      }
+    ],
+    "notes": "ような + sustantivo (como modificador), ように + verbo (como adverbio). まるで...ようだ es una expresión fija para símiles enfáticos.",
+    "related": ["n4-mitai-da", "n4-rashii"],
+    "tags": ["conjetura", "similitud", "formal"]
+  },
+  {
+    "id": "n4-to-iu",
+    "title": "〜と言う",
+    "pattern": "Sentence(plain) + と言う",
+    "meaning": "decir que",
+    "level": "n4",
+    "explanation": "Se usa para reportar lo que alguien dijo. La cita se pone en forma plain antes de と. Puede ser cita directa (con comillas) o indirecta (sin comillas). 言う se puede conjugar: 言った (dijo), 言っている (dice/está diciendo).",
+    "examples": [
+      {
+        "sentence": "先生は明日テストがあると言いました。",
+        "reading": "せんせいはあしたテストがあるといいました。",
+        "translation": "El profesor dijo que mañana hay examen.",
+        "breakdown": ["先生 = profesor", "明日 = mañana", "テストがある = hay examen", "と言った = dijo que"]
+      },
+      {
+        "sentence": "山田さんは「行きたくない」と言っていた。",
+        "reading": "やまださんは「いきたくない」といっていた。",
+        "translation": "Yamada estaba diciendo que no quería ir.",
+        "breakdown": ["山田さん = Yamada", "行きたくない = no querer ir", "と言っていた = estaba diciendo"]
+      }
+    ],
+    "notes": "と言う también se usa para definir nombres: これはお茶と言います (esto se llama ocha). Forma pasiva: と言われている (se dice que).",
+    "related": ["n4-tte", "n4-sou-da-hearsay"],
+    "tags": ["cita", "reporte", "discurso"]
+  },
+  {
+    "id": "n4-tte",
+    "title": "〜って",
+    "pattern": "Sentence(plain) + って",
+    "meaning": "dicen que / es que (cita informal)",
+    "level": "n4",
+    "explanation": "Forma coloquial de と言う y と. Se usa para citar informalmente lo que alguien dijo o para transmitir información. También puede funcionar como partícula de tema coloquial reemplazando は.",
+    "examples": [
+      {
+        "sentence": "田中さん、明日来ないって。",
+        "reading": "たなかさん、あしたこないって。",
+        "translation": "Dicen que Tanaka no viene mañana.",
+        "breakdown": ["田中さん = Tanaka", "明日 = mañana", "来ない = no venir", "って = dicen que"]
+      },
+      {
+        "sentence": "この漢字って何て読むの？",
+        "reading": "このかんじってなんてよむの？",
+        "translation": "¿Cómo se lee este kanji?",
+        "breakdown": ["この漢字 = este kanji", "って = (tema coloquial)", "何て = cómo", "読む = leer"]
+      }
+    ],
+    "notes": "って es muy frecuente en japonés hablado. Puede reemplazar と言っている, と聞いた, や según el contexto. Como partícula de tema es muy casual.",
+    "related": ["n4-to-iu", "n4-sou-da-hearsay"],
+    "tags": ["cita", "coloquial", "informal"]
+  },
+  {
+    "id": "n4-koto-ga-aru",
+    "title": "〜ことがある",
+    "pattern": "Verb-た + ことがある",
+    "meaning": "haber (hecho algo) / tener la experiencia de",
+    "level": "n4",
+    "explanation": "Expresa experiencia: que el sujeto ha hecho algo alguna vez en su vida. Se usa con la forma pasada (た) del verbo + ことがある. La negación es ことがない (nunca haber hecho).",
+    "examples": [
+      {
+        "sentence": "富士山に登ったことがあります。",
+        "reading": "ふじさんにのぼったことがあります。",
+        "translation": "He escalado el Monte Fuji.",
+        "breakdown": ["富士山 = Monte Fuji", "登る = escalar/subir", "たことがある = tener la experiencia de"]
+      },
+      {
+        "sentence": "納豆を食べたことがない。",
+        "reading": "なっとうをたべたことがない。",
+        "translation": "Nunca he comido natto.",
+        "breakdown": ["納豆 = natto", "食べる = comer", "たことがない = nunca haber hecho"]
+      }
+    ],
+    "notes": "No confundir con la forma de diccionario + ことがある que significa 'a veces ocurre que'. たことがある es específico para experiencias de vida.",
+    "related": ["n4-koto-ni-suru", "n4-koto-ni-naru"],
+    "tags": ["experiencia", "pasado"]
+  },
+  {
+    "id": "n4-koto-ni-suru",
+    "title": "〜ことにする",
+    "pattern": "Verb(dict./ない) + ことにする",
+    "meaning": "decidir (hacer/no hacer)",
+    "level": "n4",
+    "explanation": "Expresa una decisión tomada activamente por el sujeto. Se usa con la forma de diccionario para decidir hacer algo, y con la forma ない para decidir no hacer algo. ことにした indica que ya se tomó la decisión.",
+    "examples": [
+      {
+        "sentence": "来月から毎日運動することにした。",
+        "reading": "らいげつからまいにちうんどうすることにした。",
+        "translation": "Decidí hacer ejercicio todos los días a partir del mes que viene.",
+        "breakdown": ["来月から = desde el mes que viene", "毎日 = todos los días", "運動する = hacer ejercicio", "ことにした = decidí"]
+      },
+      {
+        "sentence": "今日はお酒を飲まないことにします。",
+        "reading": "きょうはおさけをのまないことにします。",
+        "translation": "Hoy decido no beber alcohol.",
+        "breakdown": ["今日 = hoy", "お酒 = alcohol", "飲まない = no beber", "ことにする = decidir"]
+      }
+    ],
+    "notes": "ことにしている indica un hábito o regla personal que uno decidió mantener. A diferencia de ことになる, la decisión es del propio sujeto.",
+    "related": ["n4-koto-ni-naru", "n4-tsumori"],
+    "tags": ["decisión", "voluntad"]
+  },
+  {
+    "id": "n4-koto-ni-naru",
+    "title": "〜ことになる",
+    "pattern": "Verb(dict./ない) + ことになる",
+    "meaning": "resultar que / quedar decidido que",
+    "level": "n4",
+    "explanation": "Indica un resultado o decisión que no depende directamente del sujeto, sino de circunstancias externas o un acuerdo grupal. Se presenta como algo que simplemente 'resultó así'.",
+    "examples": [
+      {
+        "sentence": "来年アメリカに転勤することになりました。",
+        "reading": "らいねんアメリカにてんきんすることになりました。",
+        "translation": "Resultó que me transfieren a Estados Unidos el año que viene.",
+        "breakdown": ["来年 = el año que viene", "アメリカ = Estados Unidos", "転勤する = ser transferido", "ことになった = resultó que"]
+      },
+      {
+        "sentence": "会議は来週行うことになった。",
+        "reading": "かいぎはらいしゅうおこなうことになった。",
+        "translation": "Quedó decidido que la reunión se hará la semana que viene.",
+        "breakdown": ["会議 = reunión", "来週 = semana que viene", "行う = realizar", "ことになった = quedó decidido"]
+      }
+    ],
+    "notes": "ことになっている indica una regla o norma establecida: この学校では制服を着ることになっている (en esta escuela es la norma usar uniforme).",
+    "related": ["n4-koto-ni-suru", "n4-yotei"],
+    "tags": ["resultado", "decisión-externa"]
+  },
+  {
+    "id": "n4-noni",
+    "title": "〜のに（逆接）",
+    "pattern": "Verb/Adj(plain) + のに",
+    "meaning": "a pesar de que / aunque",
+    "level": "n4",
+    "explanation": "Conecta dos cláusulas donde la segunda es contraria a lo esperado por la primera. Expresa sorpresa, frustración o insatisfacción. Para adjetivos-na y sustantivos se usa な + のに.",
+    "examples": [
+      {
+        "sentence": "たくさん勉強したのに、テストに落ちた。",
+        "reading": "たくさんべんきょうしたのに、テストにおちた。",
+        "translation": "A pesar de que estudié mucho, reprobé el examen.",
+        "breakdown": ["たくさん = mucho", "勉強した = estudié", "のに = a pesar de", "テスト = examen", "落ちた = reprobé"]
+      },
+      {
+        "sentence": "約束したのに、来なかった。",
+        "reading": "やくそくしたのに、こなかった。",
+        "translation": "Aunque prometió, no vino.",
+        "breakdown": ["約束した = prometió", "のに = aunque/a pesar de", "来なかった = no vino"]
+      }
+    ],
+    "notes": "のに siempre implica cierto tono emocional (frustración, sorpresa). Si solo se quiere contrastar sin emoción, se usa が o けど. のに al final de la oración expresa queja: せっかく作ったのに... (lo preparé con esfuerzo y...).",
+    "related": ["n4-node"],
+    "tags": ["contraste", "concesión", "emoción"]
+  },
+  {
+    "id": "n4-node",
+    "title": "〜ので",
+    "pattern": "Verb/Adj(plain) + ので",
+    "meaning": "porque / como (causa)",
+    "level": "n4",
+    "explanation": "Conecta una causa con su consecuencia de manera suave y objetiva. Para adjetivos-na y sustantivos se usa な + ので. Es más educado que から y se prefiere en situaciones formales o cuando se da una explicación.",
+    "examples": [
+      {
+        "sentence": "電車が遅れたので、遅刻しました。",
+        "reading": "でんしゃがおくれたので、ちこくしました。",
+        "translation": "Como el tren se retrasó, llegué tarde.",
+        "breakdown": ["電車 = tren", "遅れた = se retrasó", "ので = como/porque", "遅刻した = llegué tarde"]
+      },
+      {
+        "sentence": "明日は休みなので、ゆっくりできます。",
+        "reading": "あしたはやすみなので、ゆっくりできます。",
+        "translation": "Como mañana es día libre, puedo relajarme.",
+        "breakdown": ["明日 = mañana", "休み = día libre", "なので = como (sustantivo+ので)", "ゆっくりできる = poder relajarse"]
+      }
+    ],
+    "notes": "ので presenta la causa como algo objetivo. から es más subjetivo. En japonés formal se prefiere ので. No se usa ので con imperativos o invitaciones directas.",
+    "related": ["n4-noni", "n4-tame-ni-cause"],
+    "tags": ["causa", "razón", "formal"]
+  },
+  {
+    "id": "n4-tame-ni-purpose",
+    "title": "〜ために（目的）",
+    "pattern": "Verb(dict.) / Noun + の + ために",
+    "meaning": "para / con el fin de",
+    "level": "n4",
+    "explanation": "Expresa propósito u objetivo. Con verbos se usa la forma de diccionario + ために. Con sustantivos se usa の + ために. El sujeto de ambas cláusulas suele ser el mismo cuando se usa con verbos volitivos.",
+    "examples": [
+      {
+        "sentence": "日本語を勉強するために、日本に来ました。",
+        "reading": "にほんごをべんきょうするために、にほんにきました。",
+        "translation": "Vine a Japón para estudiar japonés.",
+        "breakdown": ["日本語 = japonés", "勉強する = estudiar", "ために = para", "日本に来た = vine a Japón"]
+      },
+      {
+        "sentence": "健康のために、毎日走っています。",
+        "reading": "けんこうのために、まいにちはしっています。",
+        "translation": "Corro todos los días por mi salud.",
+        "breakdown": ["健康 = salud", "のために = por/para", "毎日 = todos los días", "走っている = estoy corriendo"]
+      }
+    ],
+    "notes": "Para propósito con verbos volitivos, ために y ように son diferentes: ために indica acción directa para lograr el objetivo, ように indica esfuerzo para que algo ocurra.",
+    "related": ["n4-tame-ni-cause", "n4-you-ni-suru"],
+    "tags": ["propósito", "objetivo"]
+  },
+  {
+    "id": "n4-tame-ni-cause",
+    "title": "〜ために（原因）",
+    "pattern": "Verb(plain-past) / Noun + の + ために",
+    "meaning": "debido a / a causa de",
+    "level": "n4",
+    "explanation": "Expresa causa o razón, generalmente para situaciones negativas o formales. A diferencia de ので/から, ために suena más formal y objetivo. Con verbos suele usarse la forma pasada para causa.",
+    "examples": [
+      {
+        "sentence": "事故のために、電車が止まっています。",
+        "reading": "じこのために、でんしゃがとまっています。",
+        "translation": "Debido a un accidente, el tren está detenido.",
+        "breakdown": ["事故 = accidente", "のために = debido a", "電車 = tren", "止まっている = está detenido"]
+      },
+      {
+        "sentence": "台風が来たために、学校が休みになった。",
+        "reading": "たいふうがきたために、がっこうがやすみになった。",
+        "translation": "Debido a que vino un tifón, la escuela cerró.",
+        "breakdown": ["台風 = tifón", "来た = vino", "ために = debido a", "学校 = escuela", "休みになった = cerró"]
+      }
+    ],
+    "notes": "El ために de causa se distingue del de propósito por el contexto y la forma verbal: pasado para causa, diccionario para propósito. Se usa frecuentemente en noticias y textos formales.",
+    "related": ["n4-tame-ni-purpose", "n4-node"],
+    "tags": ["causa", "razón", "formal"]
+  },
+  {
+    "id": "n4-te-shimau",
+    "title": "〜てしまう",
+    "pattern": "Verb-て + しまう",
+    "meaning": "terminar por / acabar (completar / lamentar)",
+    "level": "n4",
+    "explanation": "Tiene dos significados: 1) completar una acción totalmente, y 2) expresar arrepentimiento o que algo lamentable ocurrió. El contexto determina cuál es. En habla coloquial se contrae a ちゃう/じゃう.",
+    "examples": [
+      {
+        "sentence": "宿題を全部やってしまいました。",
+        "reading": "しゅくだいをぜんぶやってしまいました。",
+        "translation": "Terminé toda la tarea (completamente).",
+        "breakdown": ["宿題 = tarea", "全部 = todo", "やる = hacer", "てしまった = completé"]
+      },
+      {
+        "sentence": "大事な書類をなくしてしまった。",
+        "reading": "だいじなしょるいをなくしてしまった。",
+        "translation": "Perdí un documento importante (lamentablemente).",
+        "breakdown": ["大事な = importante", "書類 = documento", "なくす = perder", "てしまった = acabé perdiendo (lamento)"]
+      }
+    ],
+    "notes": "Contracciones coloquiales: てしまう → ちゃう, でしまう → じゃう. Ejemplo: 食べてしまう → 食べちゃう. Estas formas son muy comunes en habla casual.",
+    "related": ["n4-te-iku", "n4-te-kuru"],
+    "tags": ["completivo", "arrepentimiento", "て形"]
+  },
+  {
+    "id": "n4-te-iku",
+    "title": "〜ていく",
+    "pattern": "Verb-て + いく",
+    "meaning": "ir (haciendo) / continuar (alejándose)",
+    "level": "n4",
+    "explanation": "Expresa una acción que se realiza mientras se aleja del punto de referencia, o un cambio que continúa hacia el futuro. También indica llevar algo consigo. Combina la acción del verbo con el movimiento de 'ir'.",
+    "examples": [
+      {
+        "sentence": "これから暖かくなっていきます。",
+        "reading": "これからあたたかくなっていきます。",
+        "translation": "A partir de ahora irá haciendo más calor.",
+        "breakdown": ["これから = a partir de ahora", "暖かくなる = ponerse caluroso", "ていく = ir (progresando hacia adelante)"]
+      },
+      {
+        "sentence": "お弁当を持っていきます。",
+        "reading": "おべんとうをもっていきます。",
+        "translation": "Voy a llevar el almuerzo.",
+        "breakdown": ["お弁当 = almuerzo (bento)", "持つ = llevar/tener", "ていく = llevar (alejándose)"]
+      }
+    ],
+    "notes": "ていく indica dirección 'alejándose' del hablante o progresión hacia el futuro. Se contrasta con てくる que indica dirección 'hacia' el hablante o progresión desde el pasado.",
+    "related": ["n4-te-kuru", "n4-te-shimau"],
+    "tags": ["movimiento", "progresión", "futuro"]
+  },
+  {
+    "id": "n4-te-kuru",
+    "title": "〜てくる",
+    "pattern": "Verb-て + くる",
+    "meaning": "venir (haciendo) / empezar a",
+    "level": "n4",
+    "explanation": "Expresa una acción que se realiza mientras se acerca al punto de referencia, un cambio que viene desde el pasado, o el inicio de un cambio. También indica traer algo consigo o ir y volver.",
+    "examples": [
+      {
+        "sentence": "雨が降ってきた。",
+        "reading": "あめがふってきた。",
+        "translation": "Empezó a llover.",
+        "breakdown": ["雨 = lluvia", "降る = caer/llover", "てきた = empezó a (cambio que se acerca)"]
+      },
+      {
+        "sentence": "ちょっとコンビニに行ってきます。",
+        "reading": "ちょっとコンビニにいってきます。",
+        "translation": "Voy un momento al konbini (y vuelvo).",
+        "breakdown": ["ちょっと = un momento", "コンビニ = tienda de conveniencia", "行ってくる = ir y volver"]
+      }
+    ],
+    "notes": "行ってきます es la frase que se dice al salir de casa (literalmente 'voy y vuelvo'). てくる también expresa que un cambio ha ocurrido hasta ahora: 日本語が上手になってきた (mi japonés ha ido mejorando).",
+    "related": ["n4-te-iku", "n4-te-shimau"],
+    "tags": ["movimiento", "cambio", "acercamiento"]
+  },
+  {
+    "id": "n4-te-aru",
+    "title": "〜てある",
+    "pattern": "Verb-て(transitivo) + ある",
+    "meaning": "estar (hecho) / haber sido (preparado)",
+    "level": "n4",
+    "explanation": "Indica que algo se encuentra en un estado resultante de una acción intencional previa. Se usa con verbos transitivos. El objeto de la acción se convierte en el sujeto marcado con が. Implica que alguien lo hizo a propósito.",
+    "examples": [
+      {
+        "sentence": "窓が開けてあります。",
+        "reading": "まどがあけてあります。",
+        "translation": "La ventana está abierta (alguien la abrió a propósito).",
+        "breakdown": ["窓 = ventana", "開ける = abrir (transitivo)", "てある = está (resultado intencional)"]
+      },
+      {
+        "sentence": "テーブルの上にメモが書いてある。",
+        "reading": "テーブルのうえにメモがかいてある。",
+        "translation": "Hay una nota escrita sobre la mesa.",
+        "breakdown": ["テーブルの上 = sobre la mesa", "メモ = nota", "書く = escribir", "てある = está escrito (resultado)"]
+      }
+    ],
+    "notes": "Diferencia con ている: ドアが開いている (la puerta está abierta — estado) vs. ドアが開けてある (la puerta está abierta — alguien la abrió intencionalmente). てある siempre implica intención.",
+    "related": ["n4-te-oku"],
+    "tags": ["estado-resultante", "intencional", "transitivo"]
+  },
+  {
+    "id": "n4-te-oku",
+    "title": "〜ておく",
+    "pattern": "Verb-て + おく",
+    "meaning": "hacer de antemano / dejar (preparado)",
+    "level": "n4",
+    "explanation": "Indica que se realiza una acción como preparación para el futuro o se deja algo en cierto estado a propósito. Implica previsión o preparación. En habla coloquial se contrae a とく.",
+    "examples": [
+      {
+        "sentence": "パーティーの前に部屋を掃除しておきます。",
+        "reading": "パーティーのまえにへやをそうじしておきます。",
+        "translation": "Voy a limpiar la habitación antes de la fiesta (como preparación).",
+        "breakdown": ["パーティーの前に = antes de la fiesta", "部屋 = habitación", "掃除する = limpiar", "ておく = hacer de antemano"]
+      },
+      {
+        "sentence": "ホテルを予約しておいた方がいい。",
+        "reading": "ホテルをよやくしておいたほうがいい。",
+        "translation": "Es mejor reservar el hotel de antemano.",
+        "breakdown": ["ホテル = hotel", "予約する = reservar", "ておいた = haber hecho de antemano", "方がいい = es mejor"]
+      }
+    ],
+    "notes": "Contracción coloquial: ておく → とく. Ejemplo: 買っておく → 買っとく. También se usa para dejar algo como está: そのままにしておく (dejarlo así).",
+    "related": ["n4-te-aru"],
+    "tags": ["preparación", "previsión", "て形"]
+  },
+  {
+    "id": "n4-koto-wa-ga",
+    "title": "〜ことは〜が",
+    "pattern": "Verb(dict.) + ことは + Verb + が",
+    "meaning": "sí que... pero",
+    "level": "n4",
+    "explanation": "Estructura que admite parcialmente algo pero añade una reserva o limitación. Se repite el mismo verbo (o adjetivo) antes y después de ことは para reconocer un hecho, y luego が introduce la objeción o matiz.",
+    "examples": [
+      {
+        "sentence": "食べることは食べたが、おいしくなかった。",
+        "reading": "たべることはたべたが、おいしくなかった。",
+        "translation": "Comer, sí que comí, pero no estaba rico.",
+        "breakdown": ["食べる = comer", "ことは = en cuanto a", "食べた = comí", "が = pero", "おいしくなかった = no estaba rico"]
+      },
+      {
+        "sentence": "日本語は読めることは読めるが、書くのは難しい。",
+        "reading": "にほんごはよめることはよめるが、かくのはむずかしい。",
+        "translation": "Leer japonés, sí que puedo leerlo, pero escribirlo es difícil.",
+        "breakdown": ["読める = poder leer", "ことは = en cuanto a", "読める = puedo leer", "が = pero", "書くのは難しい = escribir es difícil"]
+      }
+    ],
+    "notes": "Esta estructura es útil para hacer concesiones parciales. También se puede usar con adjetivos: 高いことは高いが (caro, sí que es caro, pero...).",
+    "related": ["n4-noni"],
+    "tags": ["concesión", "contraste"]
+  },
+  {
+    "id": "n4-yori-hou",
+    "title": "〜より〜ほう",
+    "pattern": "A より B のほうが + Adj",
+    "meaning": "B es más... que A",
+    "level": "n4",
+    "explanation": "Estructura comparativa. より marca el elemento inferior en la comparación, y のほうが marca el elemento superior. El adjetivo o verbo va al final. Se puede usar sin より si el contexto es claro.",
+    "examples": [
+      {
+        "sentence": "電車よりバスのほうが安いです。",
+        "reading": "でんしゃよりバスのほうがやすいです。",
+        "translation": "El autobús es más barato que el tren.",
+        "breakdown": ["電車 = tren", "より = que (comparación)", "バス = autobús", "のほうが = es más", "安い = barato"]
+      },
+      {
+        "sentence": "読むより書くほうが難しい。",
+        "reading": "よむよりかくほうがむずかしい。",
+        "translation": "Escribir es más difícil que leer.",
+        "breakdown": ["読む = leer", "より = que", "書く = escribir", "ほうが = es más", "難しい = difícil"]
+      }
+    ],
+    "notes": "Para preguntar preferencia: AとBとどちらのほうが〜ですか。Para decir 'prefiero': 〜ほうがいい。La posición de より y ほう puede variar.",
+    "related": ["n4-hodo", "n4-ba-hodo"],
+    "tags": ["comparación"]
+  },
+  {
+    "id": "n4-hodo",
+    "title": "〜ほど",
+    "pattern": "A ほど B ない / A ほど B",
+    "meaning": "tanto como / al grado de",
+    "level": "n4",
+    "explanation": "Indica grado o extensión. En comparaciones negativas: A ほど B ない significa 'B no es tanto como A'. También se usa para expresar el grado de algo: 泣くほど (al grado de llorar).",
+    "examples": [
+      {
+        "sentence": "東京は大阪ほど暑くないです。",
+        "reading": "とうきょうはおおさかほどあつくないです。",
+        "translation": "Tokio no es tan caluroso como Osaka.",
+        "breakdown": ["東京 = Tokio", "大阪 = Osaka", "ほど = tanto como", "暑くない = no es caluroso"]
+      },
+      {
+        "sentence": "びっくりするほど上手ですね。",
+        "reading": "びっくりするほどじょうずですね。",
+        "translation": "Es tan hábil que sorprende.",
+        "breakdown": ["びっくりする = sorprenderse", "ほど = al grado de", "上手 = hábil", "ですね = ¿verdad?"]
+      }
+    ],
+    "notes": "ほど en comparaciones negativas es la forma estándar de decir 'no tanto como'. También se usa en expresiones como: 死ぬほど疲れた (estoy muerto de cansancio, literalmente 'cansado al grado de morir').",
+    "related": ["n4-yori-hou", "n4-ba-hodo"],
+    "tags": ["comparación", "grado"]
+  },
+  {
+    "id": "n4-ba-hodo",
+    "title": "〜ば〜ほど",
+    "pattern": "Verb-ば + Verb(dict.) + ほど",
+    "meaning": "cuanto más... más...",
+    "level": "n4",
+    "explanation": "Expresa que cuanto más se hace A, más ocurre B. Se repite el mismo verbo en forma ば y forma de diccionario + ほど. También funciona con adjetivos: ければ...ほど.",
+    "examples": [
+      {
+        "sentence": "練習すればするほど上手になる。",
+        "reading": "れんしゅうすればするほどじょうずになる。",
+        "translation": "Cuanto más practicas, mejor te vuelves.",
+        "breakdown": ["練習する = practicar", "すれば = si se hace", "するほど = cuanto más", "上手になる = mejorar"]
+      },
+      {
+        "sentence": "考えれば考えるほどわからなくなる。",
+        "reading": "かんがえればかんがえるほどわからなくなる。",
+        "translation": "Cuanto más lo pienso, menos lo entiendo.",
+        "breakdown": ["考える = pensar", "考えれば = si pienso", "考えるほど = cuanto más pienso", "わからなくなる = dejar de entender"]
+      }
+    ],
+    "notes": "Con adjetivos-i: 安ければ安いほどいい (cuanto más barato, mejor). Con adjetivos-na: 静かであれば静かなほどいい. Es una expresión muy productiva.",
+    "related": ["n4-ba", "n4-hodo"],
+    "tags": ["comparación", "proporcional", "condicional"]
+  },
+  {
+    "id": "n4-nikui-yasui",
+    "title": "〜にくい / 〜やすい",
+    "pattern": "Verb-ます stem + にくい/やすい",
+    "meaning": "difícil de / fácil de",
+    "level": "n4",
+    "explanation": "にくい indica que algo es difícil de hacer. やすい indica que algo es fácil de hacer o que tiende a ocurrir. Se adjuntan al stem ます del verbo y se conjugan como adjetivos-i.",
+    "examples": [
+      {
+        "sentence": "この漢字は覚えにくいです。",
+        "reading": "このかんじはおぼえにくいです。",
+        "translation": "Este kanji es difícil de memorizar.",
+        "breakdown": ["この漢字 = este kanji", "覚える = memorizar", "にくい = difícil de"]
+      },
+      {
+        "sentence": "この靴は歩きやすいです。",
+        "reading": "このくつはあるきやすいです。",
+        "translation": "Estos zapatos son fáciles de caminar con ellos.",
+        "breakdown": ["この靴 = estos zapatos", "歩く = caminar", "やすい = fácil de"]
+      }
+    ],
+    "notes": "やすい también puede significar 'propenso a': 壊れやすい (se rompe fácilmente), 風邪を引きやすい (propenso a resfriarse). Se conjugan como adjetivos-i: にくかった, やすかった.",
+    "related": ["n4-sugiru"],
+    "tags": ["dificultad", "facilidad", "sufijo"]
+  },
+  {
+    "id": "n4-sugiru",
+    "title": "〜すぎる",
+    "pattern": "Verb-ます stem / Adj-stem + すぎる",
+    "meaning": "demasiado",
+    "level": "n4",
+    "explanation": "Indica exceso. Para verbos se usa el stem ます + すぎる. Para adjetivos-i se quita い + すぎる. Para adjetivos-na se quita な + すぎる. すぎる se conjuga como verbo ichidan.",
+    "examples": [
+      {
+        "sentence": "昨日食べすぎて、お腹が痛い。",
+        "reading": "きのうたべすぎて、おなかがいたい。",
+        "translation": "Comí demasiado ayer y me duele el estómago.",
+        "breakdown": ["昨日 = ayer", "食べすぎる = comer demasiado", "お腹 = estómago", "痛い = doler"]
+      },
+      {
+        "sentence": "このカバンは重すぎます。",
+        "reading": "このカバンはおもすぎます。",
+        "translation": "Esta bolsa es demasiado pesada.",
+        "breakdown": ["このカバン = esta bolsa", "重い → 重すぎる = demasiado pesado"]
+      }
+    ],
+    "notes": "ない + すぎる → なさすぎる (demasiado poco/insuficiente). すぎる también se usa como sustantivo: 飲みすぎ (exceso de bebida). La forma て: すぎて (porque es demasiado...).",
+    "related": ["n4-nikui-yasui"],
+    "tags": ["exceso", "sufijo", "grado"]
+  },
+  {
+    "id": "n4-hajimeru-dasu",
+    "title": "〜始める / 〜出す",
+    "pattern": "Verb-ます stem + 始める/出す",
+    "meaning": "empezar a / ponerse a",
+    "level": "n4",
+    "explanation": "始める indica el comienzo deliberado de una acción. 出す indica un comienzo repentino o inesperado. Ambos se adjuntan al stem ます del verbo. 始める es más neutral y planificado; 出す es más súbito.",
+    "examples": [
+      {
+        "sentence": "日本語を勉強し始めたのは三年前です。",
+        "reading": "にほんごをべんきょうしはじめたのはさんねんまえです。",
+        "translation": "Empecé a estudiar japonés hace tres años.",
+        "breakdown": ["日本語 = japonés", "勉強する = estudiar", "始めた = empecé", "三年前 = hace tres años"]
+      },
+      {
+        "sentence": "子供が急に泣き出した。",
+        "reading": "こどもがきゅうになきだした。",
+        "translation": "El niño se puso a llorar de repente.",
+        "breakdown": ["子供 = niño", "急に = de repente", "泣く = llorar", "出した = se puso a (repentino)"]
+      }
+    ],
+    "notes": "始める se usa con acciones controlables y planificadas. 出す se usa más con acciones involuntarias o repentinas: 降り出す (ponerse a llover), 走り出す (salir corriendo). 出す no se usa con verbos de estado.",
+    "related": ["n4-tsuzukeru"],
+    "tags": ["aspecto", "inicio", "sufijo"]
+  },
+  {
+    "id": "n4-tsuzukeru",
+    "title": "〜続ける",
+    "pattern": "Verb-ます stem + 続ける",
+    "meaning": "continuar / seguir (haciendo)",
+    "level": "n4",
+    "explanation": "Indica la continuación de una acción. Se adjunta al stem ます del verbo. Se conjuga como verbo ichidan. Expresa perseverancia o persistencia en una actividad.",
+    "examples": [
+      {
+        "sentence": "十年間日本語を勉強し続けています。",
+        "reading": "じゅうねんかんにほんごをべんきょうしつづけています。",
+        "translation": "Llevo diez años estudiando japonés sin parar.",
+        "breakdown": ["十年間 = durante diez años", "日本語 = japonés", "勉強する = estudiar", "続ける = continuar"]
+      },
+      {
+        "sentence": "雨が三日間降り続けた。",
+        "reading": "あめがみっかかんふりつづけた。",
+        "translation": "Llovió durante tres días sin parar.",
+        "breakdown": ["雨 = lluvia", "三日間 = durante tres días", "降る = llover/caer", "続けた = continuó"]
+      }
+    ],
+    "notes": "続ける enfatiza la perseverancia. Se puede usar con casi cualquier verbo de acción. Como verbo independiente: 続ける (continuar algo), 続く (algo continúa — intransitivo).",
+    "related": ["n4-hajimeru-dasu"],
+    "tags": ["aspecto", "continuación", "sufijo"]
+  },
+  {
+    "id": "n4-o-ni-naru",
+    "title": "お〜になる（尊敬語）",
+    "pattern": "お + Verb-ます stem + になる",
+    "meaning": "(forma honorífica del verbo)",
+    "level": "n4",
+    "explanation": "Forma honorífica (尊敬語) que eleva la acción de la otra persona para mostrar respeto. Se forma con お + stem ます del verbo + になる. Se usa al hablar de las acciones de superiores, clientes o personas mayores.",
+    "examples": [
+      {
+        "sentence": "先生はもうお帰りになりました。",
+        "reading": "せんせいはもうおかえりになりました。",
+        "translation": "El profesor ya se retiró (honorífico).",
+        "breakdown": ["先生 = profesor", "もう = ya", "お帰りになる = retirarse (honorífico de 帰る)"]
+      },
+      {
+        "sentence": "社長はこの本をお読みになりましたか。",
+        "reading": "しゃちょうはこのほんをおよみになりましたか。",
+        "translation": "¿El presidente (de la empresa) leyó este libro? (honorífico).",
+        "breakdown": ["社長 = presidente (empresa)", "この本 = este libro", "お読みになる = leer (honorífico de 読む)"]
+      }
+    ],
+    "notes": "No se usa para acciones propias (eso sería お〜する). Algunos verbos tienen formas honoríficas especiales: いる → いらっしゃる, 食べる → 召し上がる, 言う → おっしゃる, 行く → いらっしゃる.",
+    "related": ["n4-o-suru"],
+    "tags": ["honorífico", "尊敬語", "keigo"]
+  },
+  {
+    "id": "n4-o-suru",
+    "title": "お〜する（謙譲語）",
+    "pattern": "お + Verb-ます stem + する",
+    "meaning": "(forma humilde del verbo)",
+    "level": "n4",
+    "explanation": "Forma humilde (謙譲語) que rebaja la propia acción para mostrar respeto hacia la otra persona. Se forma con お + stem ます del verbo + する. Se usa para las acciones propias cuando el beneficiario es alguien de mayor rango.",
+    "examples": [
+      {
+        "sentence": "お荷物をお持ちします。",
+        "reading": "おにもつをおもちします。",
+        "translation": "Le llevo el equipaje (humilde).",
+        "breakdown": ["お荷物 = equipaje (honorífico)", "お持ちする = llevar (humilde de 持つ)"]
+      },
+      {
+        "sentence": "後でお電話いたします。",
+        "reading": "あとでおでんわいたします。",
+        "translation": "Le llamaré después (humilde).",
+        "breakdown": ["後で = después", "お電話する = llamar por teléfono (humilde)", "いたす = hacer (forma aún más humilde de する)"]
+      }
+    ],
+    "notes": "いたす es una forma más humilde de する. Algunos verbos tienen formas humildes especiales: 行く/来る → 参る, いる → おる, 食べる → いただく, 言う → 申す, 見る → 拝見する.",
+    "related": ["n4-o-ni-naru"],
+    "tags": ["humilde", "謙譲語", "keigo"]
+  }
+]

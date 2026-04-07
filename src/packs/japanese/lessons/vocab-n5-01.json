@@ -1,0 +1,97 @@
+{
+  "id": "vocab-n5-01",
+  "title": "Primeras palabras: Saludos",
+  "description": "Las palabras que necesitás para sobrevivir en japonés",
+  "level": "n5",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "こんにちは",
+      "back": "hola / buenas tardes",
+      "reading": "konnichiwa",
+      "explanation": "El saludo más universal. Se usa desde mediodía hasta la tarde.",
+      "cardRef": { "category": "vocabulary", "front": "こんにちは" }
+    },
+    {
+      "front": "ありがとう",
+      "back": "gracias",
+      "reading": "arigatou",
+      "explanation": "Gracias informal. Para más formalidad: ありがとうございます.",
+      "cardRef": { "category": "vocabulary", "front": "ありがとう" }
+    },
+    {
+      "front": "すみません",
+      "back": "disculpe / perdón",
+      "reading": "sumimasen",
+      "explanation": "Se usa para disculparse Y para llamar la atención ('excuse me').",
+      "cardRef": { "category": "vocabulary", "front": "すみません" }
+    },
+    {
+      "front": "おはよう",
+      "back": "buenos días",
+      "reading": "ohayou",
+      "explanation": "Buenos días informal. Formal: おはようございます.",
+      "cardRef": { "category": "vocabulary", "front": "おはよう" }
+    },
+    {
+      "front": "さようなら",
+      "back": "adiós",
+      "reading": "sayounara",
+      "explanation": "Adiós formal. En la vida diaria se usa más じゃあね (informal).",
+      "cardRef": { "category": "vocabulary", "front": "さようなら" }
+    },
+    {
+      "front": "はい",
+      "back": "sí",
+      "reading": "hai",
+      "explanation": "Sí. También se usa como 'entiendo' o 'ajá' en conversación.",
+      "cardRef": { "category": "vocabulary", "front": "はい" }
+    },
+    {
+      "front": "いいえ",
+      "back": "no",
+      "reading": "iie",
+      "explanation": "No. En la práctica los japoneses evitan decir 'no' directamente.",
+      "cardRef": { "category": "vocabulary", "front": "いいえ" }
+    },
+    {
+      "front": "おねがいします",
+      "back": "por favor",
+      "reading": "onegai shimasu",
+      "explanation": "Por favor (al pedir algo). Literalmente: 'le pido el favor'.",
+      "cardRef": { "category": "vocabulary", "front": "おねがいします" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "8 palabras para sobrevivir",
+      "instruction": "Estas son las palabras más importantes para empezar. Escuchá cada una (tocá el ícono de audio) y leé la explicación.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto de cada palabra.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "listen-identify",
+      "title": "Escuchá y elegí",
+      "instruction": "Escuchá la pronunciación y elegí la palabra correcta.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice...?",
+      "instruction": "Ves el significado en español. Escribí la palabra en japonés.",
+      "itemIndices": [0, 1, 2, 5, 6]
+    },
+    {
+      "type": "summary",
+      "title": "¡Ya sabés saludar!",
+      "instruction": "Ahora podés saludar, dar las gracias y pedir disculpas en japonés. Estas palabras se van a sumar a tu repaso diario.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

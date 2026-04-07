@@ -1,0 +1,360 @@
+[
+  {
+    "id": "n3-reading-01",
+    "title": "日本の季節と文化",
+    "level": "n3",
+    "text": "日本には四季があり、それぞれの季節に独特の文化や行事がある。春には桜の花見が行われ、公園や川沿いに多くの人が集まる。夏になると、各地で花火大会や祭りが開かれ、浴衣を着た人々でにぎわう。秋は紅葉の季節で、山や寺院が美しい赤や黄色に染まる。冬には正月という最も大切な行事があり、家族が集まって新年を祝う。このように、日本人は自然の変化を大切にし、季節ごとの行事を通じて人と人のつながりを深めてきた。現代でもこの伝統は受け継がれており、多くの外国人観光客を引きつけている。",
+    "reading": "にほんにはしきがあり、それぞれのきせつにどくとくのぶんかやぎょうじがある。はるにはさくらのはなみがおこなわれ、こうえんやかわぞいにおおくのひとがあつまる。なつになると、かくちではなびたいかいやまつりがひらかれ、ゆかたをきたひとびとでにぎわう。あきはこうようのきせつで、やまやじいんがうつくしいあかやきいろにそまる。ふゆにはしょうがつというもっともたいせつなぎょうじがあり、かぞくがあつまってしんねんをいわう。このように、にほんじんはしぜんのへんかをたいせつにし、きせつごとのぎょうじをつうじてひととひとのつながりをふかめてきた。げんだいでもこのでんとうはうけつがれており、おおくのがいこくじんかんこうきゃくをひきつけている。",
+    "translation": "Japón tiene cuatro estaciones, y cada estación tiene su propia cultura y eventos únicos. En primavera se celebra el hanami (contemplación de los cerezos en flor), y mucha gente se reúne en parques y a lo largo de los ríos. Cuando llega el verano, se celebran festivales de fuegos artificiales y matsuri en distintas regiones, llenándose de gente vestida con yukata. El otoño es la estación del follaje rojo, cuando montañas y templos se tiñen de hermosos rojos y amarillos. En invierno está el Año Nuevo, el evento más importante, cuando las familias se reúnen para celebrar el nuevo año. De esta manera, los japoneses han valorado los cambios de la naturaleza y han profundizado los lazos entre las personas a través de los eventos estacionales. Incluso en la actualidad, esta tradición se ha transmitido y atrae a muchos turistas extranjeros.",
+    "vocabulary": [
+      "四季 - cuatro estaciones",
+      "独特 - único/particular",
+      "行事 - evento/ceremonia",
+      "花見 - contemplación de cerezos",
+      "川沿い - a lo largo del río",
+      "花火大会 - festival de fuegos artificiales",
+      "浴衣 - yukata (kimono de verano)",
+      "紅葉 - follaje de otoño",
+      "寺院 - templo budista",
+      "染まる - teñirse",
+      "正月 - Año Nuevo",
+      "祝う - celebrar",
+      "つながり - conexión/vínculo",
+      "受け継がれる - ser transmitido/heredado",
+      "引きつける - atraer"
+    ],
+    "questions": [
+      {
+        "question": "春にはどんな行事がありますか。",
+        "options": ["花火大会がある。", "桜の花見が行われる。", "紅葉を見に行く。", "正月を祝う。"],
+        "correctIndex": 1,
+        "explanation": "テキストに「春には桜の花見が行われ」とあります。"
+      },
+      {
+        "question": "秋の季節の特徴は何ですか。",
+        "options": ["祭りが多い。", "浴衣を着る。", "山や寺院が赤や黄色に染まる。", "家族が集まる。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「秋は紅葉の季節で、山や寺院が美しい赤や黄色に染まる」とあります。"
+      },
+      {
+        "question": "筆者によると、日本人は季節の行事を通じて何をしてきましたか。",
+        "options": ["経済を発展させてきた。", "外国人を集めてきた。", "人と人のつながりを深めてきた。", "新しい文化を作ってきた。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「季節ごとの行事を通じて人と人のつながりを深めてきた」とあります。"
+      }
+    ]
+  },
+  {
+    "id": "n3-reading-02",
+    "title": "テクノロジーと私たちの生活",
+    "level": "n3",
+    "text": "近年、テクノロジーの発展によって私たちの生活は大きく変化した。スマートフォンの普及により、いつでもどこでも情報を得ることができるようになった。また、SNSを通じて世界中の人とつながることが可能になり、コミュニケーションの形も変わった。一方で、テクノロジーへの依存が問題になっている。特に若者の間では、スマートフォンの使いすぎによる健康への影響が指摘されている。目の疲れや睡眠の質の低下、さらには対面でのコミュニケーション能力の低下も心配されている。テクノロジーは確かに便利だが、それとの付き合い方を考える必要がある。大切なのは、テクノロジーに支配されるのではなく、うまく活用することではないだろうか。",
+    "reading": "きんねん、テクノロジーのはってんによってわたしたちのせいかつはおおきくへんかした。スマートフォンのふきゅうにより、いつでもどこでもじょうほうをえることができるようになった。また、エスエヌエスをつうじてせかいじゅうのひととつながることがかのうになり、コミュニケーションのかたちもかわった。いっぽうで、テクノロジーへのいぞんがもんだいになっている。とくにわかもののあいだでは、スマートフォンのつかいすぎによるけんこうへのえいきょうがしてきされている。めのつかれやすいみんのしつのていか、さらにはたいめんでのコミュニケーションのうりょくのていかもしんぱいされている。テクノロジーはたしかにべんりだが、それとのつきあいかたをかんがえるひつようがある。たいせつなのは、テクノロジーにしはいされるのではなく、うまくかつようすることではないだろうか。",
+    "translation": "En los últimos años, nuestras vidas han cambiado significativamente gracias al avance de la tecnología. Con la difusión de los smartphones, podemos obtener información en cualquier momento y lugar. Además, a través de las redes sociales se ha vuelto posible conectarse con personas de todo el mundo, y la forma de comunicarse también ha cambiado. Por otro lado, la dependencia de la tecnología se ha convertido en un problema. Especialmente entre los jóvenes, se señalan los efectos negativos en la salud por el uso excesivo del smartphone. Se preocupan por el cansancio ocular, la disminución de la calidad del sueño, e incluso la disminución de la capacidad de comunicación cara a cara. La tecnología es sin duda conveniente, pero es necesario pensar en cómo relacionarnos con ella. Lo importante no es ser dominados por la tecnología, sino utilizarla de manera inteligente.",
+    "vocabulary": [
+      "発展 - desarrollo/avance",
+      "変化 - cambio",
+      "普及 - difusión/popularización",
+      "情報 - información",
+      "可能 - posible",
+      "依存 - dependencia",
+      "指摘 - señalar/indicar",
+      "睡眠 - sueño",
+      "低下 - disminución/declive",
+      "対面 - cara a cara",
+      "能力 - capacidad/habilidad",
+      "支配 - dominar/controlar",
+      "活用 - utilizar/aprovechar"
+    ],
+    "questions": [
+      {
+        "question": "テクノロジーの発展で何ができるようになりましたか。",
+        "options": ["いつでも買い物ができるようになった。", "いつでもどこでも情報を得ることができるようになった。", "いつでも旅行できるようになった。", "いつでも仕事ができるようになった。"],
+        "correctIndex": 1,
+        "explanation": "テキストに「いつでもどこでも情報を得ることができるようになった」とあります。"
+      },
+      {
+        "question": "スマートフォンの使いすぎによる問題として挙げられていないものはどれですか。",
+        "options": ["目の疲れ。", "睡眠の質の低下。", "体重の増加。", "対面でのコミュニケーション能力の低下。"],
+        "correctIndex": 2,
+        "explanation": "テキストでは体重の増加については触れられていません。"
+      },
+      {
+        "question": "筆者はテクノロジーについてどう考えていますか。",
+        "options": ["使わないほうがいい。", "もっと発展させるべきだ。", "うまく活用することが大切だ。", "若者は使うべきではない。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「テクノロジーに支配されるのではなく、うまく活用することではないだろうか」とあります。"
+      }
+    ]
+  },
+  {
+    "id": "n3-reading-03",
+    "title": "環境問題と私たちにできること",
+    "level": "n3",
+    "text": "地球温暖化や海洋汚染など、環境問題はますます深刻になっている。特にプラスチックごみの問題は世界的な課題であり、毎年大量のプラスチックが海に流れ込んでいる。これによって海の生物が被害を受け、生態系全体に悪影響を及ぼしている。こうした問題を解決するために、各国で様々な取り組みが行われている。日本でもレジ袋の有料化が始まり、マイバッグを持ち歩く人が増えた。しかし、政府や企業の努力だけでは不十分であり、一人一人の行動が重要だ。例えば、使い捨て製品を減らす、リサイクルを徹底する、公共交通機関を利用するなど、日常生活の中でできることは多い。小さな行動の積み重ねが、大きな変化につながるのだ。",
+    "reading": "ちきゅうおんだんかやかいようおせんなど、かんきょうもんだいはますますしんこくになっている。とくにプラスチックごみのもんだいはせかいてきなかだいであり、まいとしたいりょうのプラスチックがうみにながれこんでいる。これによってうみのせいぶつがひがいをうけ、せいたいけいぜんたいにあくえいきょうをおよぼしている。こうしたもんだいをかいけつするために、かっこくでさまざまなとりくみがおこなわれている。にほんでもレジぶくろのゆうりょうかがはじまり、マイバッグをもちあるくひとがふえた。しかし、せいふやきぎょうのどりょくだけではふじゅうぶんであり、ひとりひとりのこうどうがじゅうようだ。たとえば、つかいすてせいひんをへらす、リサイクルをてっていする、こうきょうこうつうきかんをりようするなど、にちじょうせいかつのなかでできることはおおい。ちいさなこうどうのつみかさねが、おおきなへんかにつながるのだ。",
+    "translation": "Problemas ambientales como el calentamiento global y la contaminación marina se están volviendo cada vez más graves. En particular, el problema de los residuos plásticos es un desafío mundial, y cada año una gran cantidad de plástico fluye hacia el mar. Esto daña a los organismos marinos y afecta negativamente a todo el ecosistema. Para resolver estos problemas, se están llevando a cabo diversas iniciativas en cada país. En Japón también se comenzó a cobrar por las bolsas plásticas, y aumentó la cantidad de personas que llevan su propia bolsa. Sin embargo, solo los esfuerzos del gobierno y las empresas no son suficientes, y las acciones de cada individuo son importantes. Por ejemplo, hay muchas cosas que se pueden hacer en la vida diaria, como reducir los productos desechables, reciclar exhaustivamente y usar el transporte público. La acumulación de pequeñas acciones conduce a grandes cambios.",
+    "vocabulary": [
+      "地球温暖化 - calentamiento global",
+      "海洋汚染 - contaminación marina",
+      "深刻 - grave/serio",
+      "課題 - desafío/tarea",
+      "大量 - gran cantidad",
+      "生態系 - ecosistema",
+      "悪影響 - efecto negativo",
+      "取り組み - iniciativa/esfuerzo",
+      "レジ袋 - bolsa de plástico (de la tienda)",
+      "有料化 - cobrar (hacer de pago)",
+      "不十分 - insuficiente",
+      "使い捨て - desechable",
+      "徹底する - ser exhaustivo",
+      "公共交通機関 - transporte público",
+      "積み重ね - acumulación"
+    ],
+    "questions": [
+      {
+        "question": "プラスチックごみの問題で何が起きていますか。",
+        "options": ["山にごみが増えている。", "海の生物が被害を受けている。", "空気が汚染されている。", "川の水が飲めなくなった。"],
+        "correctIndex": 1,
+        "explanation": "テキストに「海の生物が被害を受け、生態系全体に悪影響を及ぼしている」とあります。"
+      },
+      {
+        "question": "日本で行われた環境対策は何ですか。",
+        "options": ["車の使用を禁止した。", "プラスチックの製造を止めた。", "レジ袋の有料化が始まった。", "工場を閉鎖した。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「日本でもレジ袋の有料化が始まり」とあります。"
+      },
+      {
+        "question": "筆者は環境問題の解決に何が大切だと言っていますか。",
+        "options": ["政府の力だけで解決できる。", "企業の技術開発が一番大切だ。", "一人一人の行動が重要だ。", "外国の協力が不可欠だ。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「一人一人の行動が重要だ」とあります。"
+      }
+    ]
+  },
+  {
+    "id": "n3-reading-04",
+    "title": "日本の伝統芸能：歌舞伎",
+    "level": "n3",
+    "text": "歌舞伎は約四百年の歴史を持つ日本の伝統芸能である。江戸時代に庶民の娯楽として発展し、現在もなお多くの人に愛されている。歌舞伎の特徴は、独特の化粧である「隈取」、華やかな衣装、そして大げさな動きや声の表現にある。すべての役は男性によって演じられ、女性の役を演じる俳優は「女形」と呼ばれる。歌舞伎の演目には、歴史的な物語や恋愛、義理と人情の葛藤など、様々なテーマがある。近年では、若い観客を引きつけるために、人気のアニメや漫画を題材にした新しい演目も上演されている。また、英語の字幕サービスも導入され、外国人にとっても楽しみやすくなっている。伝統を守りながらも新しい挑戦を続ける歌舞伎は、日本文化の重要な一部であり続けている。",
+    "reading": "かぶきはやくよんひゃくねんのれきしをもつにほんのでんとうげいのうである。えどじだいにしょみんのごらくとしてはってんし、げんざいもなおおおくのひとにあいされている。かぶきのとくちょうは、どくとくのけしょうである「くまどり」、はなやかないしょう、そしておおげさなうごきやこえのひょうげんにある。すべてのやくはだんせいによってえんじられ、じょせいのやくをえんじるはいゆうは「おんながた」とよばれる。かぶきのえんもくには、れきしてきなものがたりやれんあい、ぎりとにんじょうのかっとうなど、さまざまなテーマがある。きんねんでは、わかいかんきゃくをひきつけるために、にんきのアニメやまんがをだいざいにしたあたらしいえんもくもじょうえんされている。また、えいごのじまくサービスもどうにゅうされ、がいこくじんにとってもたのしみやすくなっている。でんとうをまもりながらもあたらしいちょうせんをつづけるかぶきは、にほんぶんかのじゅうようないちぶでありつづけている。",
+    "translation": "El kabuki es un arte escénico tradicional japonés con aproximadamente cuatrocientos años de historia. Se desarrolló como entretenimiento popular durante la era Edo y sigue siendo apreciado por mucha gente hoy en día. Las características del kabuki son el maquillaje único llamado \"kumadori\", los vistosos vestuarios y las expresiones exageradas de movimiento y voz. Todos los papeles son interpretados por hombres, y los actores que interpretan papeles femeninos se llaman \"onnagata\". Los repertorios del kabuki incluyen diversos temas como historias históricas, romance y conflictos entre el deber y los sentimientos. En los últimos años, para atraer a un público joven, también se representan nuevas obras basadas en anime y manga populares. Además, se han introducido servicios de subtítulos en inglés, haciéndolo más accesible para los extranjeros. El kabuki, que continúa con nuevos desafíos mientras preserva la tradición, sigue siendo una parte importante de la cultura japonesa.",
+    "vocabulary": [
+      "伝統芸能 - arte escénico tradicional",
+      "庶民 - pueblo/ciudadanos comunes",
+      "娯楽 - entretenimiento",
+      "隈取 - kumadori (maquillaje de kabuki)",
+      "華やか - vistoso/espléndido",
+      "衣装 - vestuario",
+      "大げさ - exagerado",
+      "女形 - onnagata (actor de papeles femeninos)",
+      "演目 - repertorio/obra",
+      "義理 - deber/obligación social",
+      "人情 - sentimientos humanos",
+      "葛藤 - conflicto",
+      "題材 - tema/material",
+      "字幕 - subtítulos",
+      "挑戦 - desafío"
+    ],
+    "questions": [
+      {
+        "question": "歌舞伎はいつ発展しましたか。",
+        "options": ["平安時代に発展した。", "鎌倉時代に発展した。", "江戸時代に発展した。", "明治時代に発展した。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「江戸時代に庶民の娯楽として発展し」とあります。"
+      },
+      {
+        "question": "歌舞伎で女性の役を演じる俳優は何と呼ばれますか。",
+        "options": ["隈取", "女優", "女形", "花形"],
+        "correctIndex": 2,
+        "explanation": "テキストに「女性の役を演じる俳優は『女形』と呼ばれる」とあります。"
+      },
+      {
+        "question": "若い観客を引きつけるために何が行われていますか。",
+        "options": ["チケットの価格を下げている。", "アニメや漫画を題材にした新しい演目を上演している。", "歌舞伎をテレビで放送している。", "歌舞伎教室を開いている。"],
+        "correctIndex": 1,
+        "explanation": "テキストに「人気のアニメや漫画を題材にした新しい演目も上演されている」とあります。"
+      }
+    ]
+  },
+  {
+    "id": "n3-reading-05",
+    "title": "ビジネスメール：プロジェクトの進捗報告",
+    "level": "n3",
+    "text": "件名：プロジェクトA 進捗報告\n\n営業部 山田部長\n\nお疲れ様です。企画課の鈴木です。\nプロジェクトAの進捗についてご報告いたします。\n\n現在、第二段階の作業が予定どおり進んでおります。先週のミーティングでいただいたご指摘を踏まえ、デザインの一部を修正いたしました。修正箇所については、添付の資料をご確認ください。\n\nなお、一つ問題が生じております。外部の協力会社からの部品の納入が一週間ほど遅れる見込みです。この遅延による全体のスケジュールへの影響は最小限に抑えられるよう、対策を検討しております。\n\n来週月曜日の定例会議で、詳細をご説明させていただきたく存じます。ご都合のよい時間をお知らせいただければ幸いです。\n\n何かご質問やご要望がございましたら、お気軽にお申し付けください。\n\n何卒よろしくお願いいたします。\n\n企画課 鈴木太郎",
+    "reading": "けんめい：プロジェクトエー しんちょくほうこく\n\nえいぎょうぶ やまだぶちょう\n\nおつかれさまです。きかくかのすずきです。\nプロジェクトエーのしんちょくについてごほうこくいたします。\n\nげんざい、だいにだんかいのさぎょうがよていどおりすすんでおります。せんしゅうのミーティングでいただいたごしてきをふまえ、デザインのいちぶをしゅうせいいたしました。しゅうせいかしょについては、てんぷのしりょうをごかくにんください。\n\nなお、ひとつもんだいがしょうじております。がいぶのきょうりょくがいしゃからのぶひんののうにゅうがいっしゅうかんほどおくれるみこみです。このちえんによるぜんたいのスケジュールへのえいきょうはさいしょうげんにおさえられるよう、たいさくをけんとうしております。\n\nらいしゅうげつようびのていれいかいぎで、しょうさいをごせつめいさせていただきたくぞんじます。ごつごうのよいじかんをおしらせいただければさいわいです。\n\nなにかごしつもんやごようぼうがございましたら、おきがるにおもうしつけください。\n\nなにとぞよろしくおねがいいたします。\n\nきかくか すずきたろう",
+    "translation": "Asunto: Informe de avance del Proyecto A\n\nSr. Yamada, Director del Departamento de Ventas\n\nBuenas tardes. Soy Suzuki del Departamento de Planificación.\nLe informo sobre el avance del Proyecto A.\n\nActualmente, el trabajo de la segunda etapa avanza según lo previsto. Basándonos en las observaciones que nos dieron en la reunión de la semana pasada, hemos corregido una parte del diseño. Sobre los puntos corregidos, por favor revise el material adjunto.\n\nSin embargo, ha surgido un problema. Se estima que la entrega de piezas de la empresa colaboradora externa se retrasará aproximadamente una semana. Estamos estudiando medidas para minimizar el impacto de este retraso en el cronograma general.\n\nMe gustaría explicarle los detalles en la reunión regular del lunes de la próxima semana. Le agradecería si pudiera indicarme un horario que le convenga.\n\nSi tiene alguna pregunta o solicitud, no dude en decírmelo.\n\nLe ruego encarecidamente su cooperación.\n\nTaro Suzuki, Departamento de Planificación",
+    "vocabulary": [
+      "進捗 - avance/progreso",
+      "営業部 - departamento de ventas",
+      "企画課 - sección de planificación",
+      "段階 - etapa/fase",
+      "指摘 - observación/señalamiento",
+      "踏まえ - basándose en",
+      "修正 - corrección",
+      "添付 - adjunto",
+      "協力会社 - empresa colaboradora",
+      "部品 - piezas/componentes",
+      "納入 - entrega",
+      "遅延 - retraso",
+      "最小限 - mínimo",
+      "定例会議 - reunión regular",
+      "何卒 - por favor (muy formal)"
+    ],
+    "questions": [
+      {
+        "question": "プロジェクトの第二段階はどのような状況ですか。",
+        "options": ["遅れている。", "予定どおり進んでいる。", "中止になった。", "まだ始まっていない。"],
+        "correctIndex": 1,
+        "explanation": "メールに「第二段階の作業が予定どおり進んでおります」とあります。"
+      },
+      {
+        "question": "発生した問題は何ですか。",
+        "options": ["デザインに問題があった。", "予算が足りない。", "部品の納入が遅れる見込みだ。", "スタッフが足りない。"],
+        "correctIndex": 2,
+        "explanation": "メールに「外部の協力会社からの部品の納入が一週間ほど遅れる見込みです」とあります。"
+      },
+      {
+        "question": "鈴木さんは山田部長に何をお願いしていますか。",
+        "options": ["予算の増額を求めている。", "都合のよい時間を教えてほしいとお願いしている。", "プロジェクトの中止を提案している。", "新しいスタッフの採用を頼んでいる。"],
+        "correctIndex": 1,
+        "explanation": "メールに「ご都合のよい時間をお知らせいただければ幸いです」とあります。"
+      }
+    ]
+  },
+  {
+    "id": "n3-reading-06",
+    "title": "新聞社説：少子高齢化の課題",
+    "level": "n3",
+    "text": "日本が直面している最大の課題の一つは、少子高齢化である。出生率の低下と平均寿命の延びにより、高齢者の割合は年々増加している。この傾向が続けば、労働力の不足や社会保障費の増大など、経済に深刻な影響を与えることは避けられない。政府はこれまで、育児休業制度の充実や保育所の増設など、様々な対策を講じてきた。しかし、根本的な解決には至っていない。出生率が上がらない背景には、若者の経済的な不安や、仕事と育児の両立の難しさがある。また、結婚に対する価値観の変化も無視できない要因である。この問題に対しては、経済支援だけでなく、働き方改革や地域社会のサポート体制の強化など、総合的な取り組みが求められている。次の世代に持続可能な社会を引き継ぐために、今こそ社会全体で真剣に向き合うべき時だ。",
+    "reading": "にほんがちょくめんしているさいだいのかだいのひとつは、しょうしこうれいかである。しゅっしょうりつのていかとへいきんじゅみょうののびにより、こうれいしゃのわりあいはねんねんぞうかしている。このけいこうがつづけば、ろうどうりょくのふそくやしゃかいほしょうひのぞうだいなど、けいざいにしんこくなえいきょうをあたえることはさけられない。せいふはこれまで、いくじきゅうぎょうせいどのじゅうじつやほいくしょのぞうせつなど、さまざまなたいさくをこうじてきた。しかし、こんぽんてきなかいけつにはいたっていない。しゅっしょうりつがあがらないはいけいには、わかもののけいざいてきなふあんや、しごとといくじのりょうりつのむずかしさがある。また、けっこんにたいするかちかんのへんかもむしできないよういんである。このもんだいにたいしては、けいざいしえんだけでなく、はたらきかたかいかくやちいきしゃかいのサポートたいせいのきょうかなど、そうごうてきなとりくみがもとめられている。つぎのせだいにじぞくかのうなしゃかいをひきつぐために、いまこそしゃかいぜんたいでしんけんにむきあうべきときだ。",
+    "translation": "Uno de los mayores desafíos que enfrenta Japón es la disminución de la natalidad y el envejecimiento de la población. Debido a la caída de la tasa de natalidad y al aumento de la esperanza de vida promedio, la proporción de personas mayores aumenta año tras año. Si esta tendencia continúa, es inevitable que tenga un impacto grave en la economía, como la escasez de mano de obra y el aumento de los gastos de seguridad social. El gobierno ha tomado diversas medidas hasta ahora, como mejorar el sistema de licencia por maternidad/paternidad y aumentar las guarderías. Sin embargo, no se ha llegado a una solución fundamental. Detrás de que la tasa de natalidad no suba están la inseguridad económica de los jóvenes y la dificultad de compatibilizar trabajo y crianza. Además, el cambio en los valores sobre el matrimonio es un factor que no se puede ignorar. Para este problema se requieren iniciativas integrales que incluyan no solo apoyo económico, sino también reforma laboral y fortalecimiento del sistema de apoyo de la comunidad local. Para transmitir una sociedad sostenible a la próxima generación, ahora es el momento de que toda la sociedad se enfrente seriamente a este tema.",
+    "vocabulary": [
+      "直面する - enfrentar",
+      "少子高齢化 - baja natalidad y envejecimiento",
+      "出生率 - tasa de natalidad",
+      "平均寿命 - esperanza de vida promedio",
+      "労働力 - mano de obra",
+      "社会保障費 - gastos de seguridad social",
+      "育児休業 - licencia por crianza",
+      "保育所 - guardería",
+      "講じる - tomar (medidas)",
+      "両立 - compatibilizar",
+      "価値観 - valores/visión de valores",
+      "要因 - factor",
+      "持続可能 - sostenible",
+      "引き継ぐ - transmitir/heredar"
+    ],
+    "questions": [
+      {
+        "question": "高齢者の割合が増えている原因は何ですか。",
+        "options": ["移民が減っているから。", "出生率の低下と平均寿命の延びによる。", "若者が外国に行くから。", "医療費が高いから。"],
+        "correctIndex": 1,
+        "explanation": "テキストに「出生率の低下と平均寿命の延びにより、高齢者の割合は年々増加している」とあります。"
+      },
+      {
+        "question": "出生率が上がらない理由として挙げられていないものはどれですか。",
+        "options": ["若者の経済的な不安。", "仕事と育児の両立の難しさ。", "住宅の値段が高いこと。", "結婚に対する価値観の変化。"],
+        "correctIndex": 2,
+        "explanation": "テキストでは住宅の値段については触れられていません。"
+      },
+      {
+        "question": "筆者は問題解決のために何が必要だと述べていますか。",
+        "options": ["経済支援だけで十分だ。", "政府だけが対策を取るべきだ。", "総合的な取り組みが求められている。", "移民を増やすべきだ。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「総合的な取り組みが求められている」とあります。"
+      }
+    ]
+  },
+  {
+    "id": "n3-reading-07",
+    "title": "留学体験記：東京での一年",
+    "level": "n3",
+    "text": "去年の四月から一年間、東京の大学に留学していた。最初の数か月は本当に大変だった。日本語学校で二年間勉強してから来たものの、実際の生活で使われる日本語は教科書とは全く違っていた。特に敬語の使い方には苦労した。アルバイト先のコンビニで、お客さんに対する言葉遣いを何度も注意された。しかし、失敗を恐れずに話し続けたおかげで、半年後にはだいぶ自然に会話ができるようになった。また、ホストファミリーとの生活を通じて、日本の日常文化を肌で感じることができた。ご飯の前の「いただきます」、靴を脱ぐ習慣、お風呂の入り方など、小さなことの中に日本らしさを発見する毎日だった。留学を通じて学んだのは語学力だけではない。異なる文化を理解し、尊重する姿勢こそが、国際社会で生きていくために最も大切なことだと気づいた。",
+    "reading": "きょねんのしがつからいちねんかん、とうきょうのだいがくにりゅうがくしていた。さいしょのすうかげつはほんとうにたいへんだった。にほんごがっこうでにねんかんべんきょうしてからきたものの、じっさいのせいかつでつかわれるにほんごはきょうかしょとはまったくちがっていた。とくにけいごのつかいかたにはくろうした。アルバイトさきのコンビニで、おきゃくさんにたいすることばづかいをなんどもちゅういされた。しかし、しっぱいをおそれずにはなしつづけたおかげで、はんとしごにはだいぶしぜんにかいわができるようになった。また、ホストファミリーとのせいかつをつうじて、にほんのにちじょうぶんかをはだでかんじることができた。ごはんのまえの「いただきます」、くつをぬぐしゅうかん、おふろのはいりかたなど、ちいさなことのなかににほんらしさをはっけんするまいにちだった。りゅうがくをつうじてまなんだのはごがくりょくだけではない。ことなるぶんかをりかいし、そんちょうするしせいこそが、こくさいしゃかいでいきていくためにもっともたいせつなことだときづいた。",
+    "translation": "Desde abril del año pasado, estudié durante un año en una universidad de Tokio. Los primeros meses fueron realmente difíciles. Aunque estudié japonés en una escuela de idiomas durante dos años antes de venir, el japonés usado en la vida real era completamente diferente al de los libros de texto. En particular, tuve dificultades con el uso del lenguaje formal. En la tienda de conveniencia donde trabajaba a tiempo parcial, me corrigieron muchas veces la forma de hablarles a los clientes. Sin embargo, gracias a que seguí hablando sin temer a los errores, después de medio año pude conversar de manera bastante natural. Además, a través de la convivencia con la familia anfitriona, pude sentir en carne propia la cultura cotidiana japonesa. El \"itadakimasu\" antes de comer, la costumbre de quitarse los zapatos, la forma de bañarse... eran días de descubrir la esencia japonesa en las pequeñas cosas. Lo que aprendí a través del intercambio no fue solo habilidad lingüística. Me di cuenta de que la actitud de comprender y respetar culturas diferentes es lo más importante para vivir en una sociedad internacional.",
+    "vocabulary": [
+      "留学 - estudiar en el extranjero",
+      "教科書 - libro de texto",
+      "敬語 - lenguaje formal/honorífico",
+      "苦労する - tener dificultades",
+      "言葉遣い - forma de hablar/uso del lenguaje",
+      "注意する - advertir/corregir",
+      "失敗 - fracaso/error",
+      "恐れる - temer",
+      "ホストファミリー - familia anfitriona",
+      "肌で感じる - sentir en carne propia",
+      "習慣 - costumbre/hábito",
+      "発見する - descubrir",
+      "異なる - diferente",
+      "尊重する - respetar",
+      "姿勢 - actitud/postura"
+    ],
+    "questions": [
+      {
+        "question": "筆者が最初に苦労したことは何ですか。",
+        "options": ["料理を作ること。", "電車に乗ること。", "敬語の使い方。", "友達を作ること。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「特に敬語の使い方には苦労した」とあります。"
+      },
+      {
+        "question": "筆者はどうやって日本語が上手になりましたか。",
+        "options": ["毎日教科書を読んだ。", "失敗を恐れずに話し続けた。", "日本語学校に通い続けた。", "テレビを見て勉強した。"],
+        "correctIndex": 1,
+        "explanation": "テキストに「失敗を恐れずに話し続けたおかげで」とあります。"
+      },
+      {
+        "question": "筆者が留学を通じて最も大切だと気づいたことは何ですか。",
+        "options": ["日本語を完璧に話すこと。", "日本の文化を覚えること。", "異なる文化を理解し、尊重する姿勢。", "良いアルバイトを見つけること。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「異なる文化を理解し、尊重する姿勢こそが…最も大切なこと」とあります。"
+      }
+    ]
+  },
+  {
+    "id": "n3-reading-08",
+    "title": "旅行ガイド：京都の魅力",
+    "level": "n3",
+    "text": "京都は千年以上にわたって日本の都であり続けた、歴史と文化の宝庫である。世界遺産に登録された寺社仏閣をはじめ、美しい庭園、伝統的な町並みなど、見どころは数え切れない。特に人気があるのは、金閣寺、清水寺、伏見稲荷大社の三か所だ。金閣寺は金色に輝く建物が池に映る姿が美しく、清水寺は山の上に建てられた舞台からの眺めが絶景である。伏見稲荷大社では、千本以上の赤い鳥居が並ぶ参道を歩くことができる。観光だけでなく、京都は食文化も魅力的だ。湯豆腐、抹茶スイーツ、京漬物など、京都ならではの味が楽しめる。訪れるなら、桜の季節の春か紅葉の秋がおすすめだが、どの季節にも独自の魅力がある。ただし、観光客が多い時期は交通が混雑するため、公共交通機関の利用やレンタサイクルの活用を検討すると良い。京都は何度訪れても新しい発見がある、奥深い街だ。",
+    "reading": "きょうとはせんねんいじょうにわたってにほんのみやこでありつづけた、れきしとぶんかのほうこである。せかいいさんにとうろくされたじしゃぶっかくをはじめ、うつくしいていえん、でんとうてきなまちなみなど、みどころはかぞえきれない。とくににんきがあるのは、きんかくじ、きよみずでら、ふしみいなりたいしゃのさんかしょだ。きんかくじはきんいろにかがやくたてものがいけにうつるすがたがうつくしく、きよみずでらはやまのうえにたてられたぶたいからのながめがぜっけいである。ふしみいなりたいしゃでは、せんぼんいじょうのあかいとりいがならぶさんどうをあるくことができる。かんこうだけでなく、きょうとはしょくぶんかもみりょくてきだ。ゆどうふ、まっちゃスイーツ、きょうつけものなど、きょうとならではのあじがたのしめる。おとずれるなら、さくらのきせつのはるかこうようのあきがおすすめだが、どのきせつにもどくじのみりょくがある。ただし、かんこうきゃくがおおいじきはこうつうがこんざつするため、こうきょうこうつうきかんのりようやレンタサイクルのかつようをけんとうするとよい。きょうとはなんどおとずれてもあたらしいはっけんがある、おくぶかいまちだ。",
+    "translation": "Kioto es un tesoro de historia y cultura que fue la capital de Japón durante más de mil años. Desde los templos y santuarios registrados como Patrimonio de la Humanidad, pasando por hermosos jardines y paisajes urbanos tradicionales, los puntos de interés son incontables. Los tres lugares más populares son el Templo Kinkaku-ji, el Templo Kiyomizu-dera y el Santuario Fushimi Inari Taisha. El Kinkaku-ji es hermoso por su edificio dorado que se refleja en el estanque, y el Kiyomizu-dera ofrece vistas espectaculares desde su escenario construido en la montaña. En el Fushimi Inari Taisha se puede caminar por un sendero donde se alinean más de mil torii rojos. No solo el turismo, la cultura gastronómica de Kioto también es atractiva. Se pueden disfrutar sabores exclusivos de Kioto como el tofu caliente, los dulces de matcha y los encurtidos de Kioto. Si planeas visitar, se recomiendan la primavera con los cerezos o el otoño con el follaje, aunque cada estación tiene su propio encanto. Sin embargo, como el tráfico se congestiona en las temporadas de más turistas, es buena idea considerar el uso del transporte público o alquilar bicicletas. Kioto es una ciudad profunda donde siempre hay nuevos descubrimientos, sin importar cuántas veces la visites.",
+    "vocabulary": [
+      "宝庫 - tesoro/depósito",
+      "世界遺産 - Patrimonio de la Humanidad",
+      "寺社仏閣 - templos y santuarios",
+      "庭園 - jardín",
+      "町並み - paisaje urbano",
+      "見どころ - puntos de interés",
+      "金閣寺 - Templo Kinkaku-ji",
+      "清水寺 - Templo Kiyomizu-dera",
+      "伏見稲荷大社 - Santuario Fushimi Inari",
+      "鳥居 - torii (puerta de santuario)",
+      "参道 - sendero de acceso al santuario",
+      "湯豆腐 - tofu caliente",
+      "抹茶 - matcha (té verde en polvo)",
+      "京漬物 - encurtidos de Kioto",
+      "混雑する - congestionarse",
+      "奥深い - profundo/con mucho por descubrir"
+    ],
+    "questions": [
+      {
+        "question": "テキストで特に人気がある場所として挙げられていないのはどれですか。",
+        "options": ["金閣寺", "清水寺", "二条城", "伏見稲荷大社"],
+        "correctIndex": 2,
+        "explanation": "テキストでは金閣寺、清水寺、伏見稲荷大社の三か所が挙げられています。二条城は含まれていません。"
+      },
+      {
+        "question": "伏見稲荷大社の特徴は何ですか。",
+        "options": ["金色の建物がある。", "山の上に舞台がある。", "千本以上の赤い鳥居が並んでいる。", "美しい庭園がある。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「千本以上の赤い鳥居が並ぶ参道を歩くことができる」とあります。"
+      },
+      {
+        "question": "観光客が多い時期にはどうすれば良いと勧めていますか。",
+        "options": ["別の都市に行く。", "ホテルを早めに予約する。", "公共交通機関やレンタサイクルを利用する。", "観光地を避ける。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「公共交通機関の利用やレンタサイクルの活用を検討すると良い」とあります。"
+      }
+    ]
+  }
+]

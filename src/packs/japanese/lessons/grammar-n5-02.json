@@ -1,0 +1,56 @@
+{
+  "id": "grammar-n5-02",
+  "title": "Gramática N5: ～ですか？",
+  "description": "Aprendé a hacer preguntas en japonés agregando か al final de una oración. Es la forma más simple de convertir cualquier afirmación en pregunta.",
+  "level": "n5",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "か",
+      "back": "partícula de pregunta",
+      "reading": "ka",
+      "explanation": "か (ka) es la partícula de pregunta. Se agrega al final de una oración para convertirla en pregunta. No hace falta cambiar el orden de las palabras ni usar signos de interrogación (aunque a veces se agregan).",
+      "cardRef": { "category": "grammar", "front": "か" }
+    },
+    {
+      "front": "これは本ですか？",
+      "back": "¿Es esto un libro?",
+      "reading": "kore wa hon desu ka",
+      "explanation": "これは本ですか (kore wa hon desu ka) = '¿Es esto un libro?'. これ (kore) = esto, は (wa) = partícula de tema, 本 (hon) = libro, です (desu) = es, か (ka) = partícula de pregunta. Es la estructura X は Y ですか.",
+      "cardRef": { "category": "grammar", "front": "これは本ですか？" }
+    },
+    {
+      "front": "はい、本です。",
+      "back": "Sí, es un libro.",
+      "reading": "hai, hon desu",
+      "explanation": "はい、本です (hai, hon desu) = 'Sí, es un libro'. はい (hai) = sí. Fijate que en la respuesta no hace falta repetir el tema (これは) porque ya se entiende del contexto.",
+      "cardRef": { "category": "grammar", "front": "はい、本です。" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "La partícula か y cómo preguntar",
+      "instruction": "Para hacer preguntas en japonés, solo agregás か (ka) al final de la oración. No cambia nada más: X は Y です → X は Y ですか？ Así de simple. Observá la partícula y dos ejemplos de pregunta y respuesta.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa cada oración?",
+      "instruction": "Elegí la traducción correcta para cada elemento.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "recall",
+      "title": "Del español al japonés",
+      "instruction": "Ves la oración en español. Recordá cómo se dice en japonés.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste a hacer preguntas con か y a responder con はい/いいえ. Combinado con X は Y です, ya podés mantener diálogos básicos. Ahora van a aparecer en tus repasos diarios.",
+      "itemIndices": [0, 1, 2]
+    }
+  ]
+}

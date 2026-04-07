@@ -1,0 +1,356 @@
+[
+  {
+    "id": "a1-to-be",
+    "title": "To be (Present Simple)",
+    "pattern": "Subject + am/is/are",
+    "meaning": "ser / estar (presente)",
+    "level": "a1",
+    "explanation": "El verbo 'to be' es el más importante en inglés. Se conjuga: I am, you are, he/she/it is, we are, they are. Tiene dos significados principales: 'ser' (identidad) y 'estar' (estado).",
+    "examples": [
+      { "sentence": "I am a student.", "reading": "", "translation": "Soy estudiante.", "breakdown": ["I = yo", "am = soy", "a = un/una", "student = estudiante"] },
+      { "sentence": "She is happy.", "reading": "", "translation": "Ella está feliz.", "breakdown": ["She = ella", "is = está", "happy = feliz"] }
+    ],
+    "notes": "Contracciones: I'm, you're, he's, she's, it's, we're, they're. Negación: am not, isn't, aren't.",
+    "tags": ["verb", "essential"]
+  },
+  {
+    "id": "a1-articles",
+    "title": "Articles (a / an / the)",
+    "pattern": "a/an + singular noun | the + noun",
+    "meaning": "artículos (un/una / el/la)",
+    "level": "a1",
+    "explanation": "'A' se usa antes de consonantes (a book), 'an' antes de vocales (an apple). 'The' se usa cuando hablamos de algo específico o ya mencionado.",
+    "examples": [
+      { "sentence": "I have a cat.", "reading": "", "translation": "Tengo un gato." },
+      { "sentence": "She ate an orange.", "reading": "", "translation": "Ella comió una naranja." },
+      { "sentence": "The book is on the table.", "reading": "", "translation": "El libro está sobre la mesa." }
+    ],
+    "notes": "En español usamos artículos con más frecuencia que en inglés. No se usan artículos con nombres propios: 'I live in Argentina' (no 'the Argentina').",
+    "tags": ["articles", "essential"]
+  },
+  {
+    "id": "a1-plural-nouns",
+    "title": "Plural Nouns",
+    "pattern": "noun + -s / -es / irregular",
+    "meaning": "sustantivos en plural",
+    "level": "a1",
+    "explanation": "Para formar el plural se agrega -s (cats, dogs). Si termina en s, sh, ch, x, z se agrega -es (buses, dishes). Algunos son irregulares: man→men, child→children, person→people.",
+    "examples": [
+      { "sentence": "I have two cats.", "reading": "", "translation": "Tengo dos gatos." },
+      { "sentence": "There are three boxes.", "reading": "", "translation": "Hay tres cajas." },
+      { "sentence": "The children are playing.", "reading": "", "translation": "Los niños están jugando." }
+    ],
+    "tags": ["nouns", "essential"]
+  },
+  {
+    "id": "a1-present-simple",
+    "title": "Present Simple",
+    "pattern": "Subject + verb (+ -s/-es for he/she/it)",
+    "meaning": "presente simple",
+    "level": "a1",
+    "explanation": "Se usa para hábitos, rutinas y verdades generales. En tercera persona (he/she/it) se agrega -s o -es al verbo. Para preguntas se usa do/does, para negaciones don't/doesn't.",
+    "examples": [
+      { "sentence": "I work every day.", "reading": "", "translation": "Trabajo todos los días." },
+      { "sentence": "She likes coffee.", "reading": "", "translation": "A ella le gusta el café." },
+      { "sentence": "Do you speak English?", "reading": "", "translation": "¿Hablás inglés?" }
+    ],
+    "notes": "Negación: I don't work / She doesn't like. Pregunta: Do you work? / Does she like?",
+    "tags": ["tense", "essential"]
+  },
+  {
+    "id": "a1-present-continuous",
+    "title": "Present Continuous",
+    "pattern": "Subject + am/is/are + verb-ing",
+    "meaning": "presente continuo (estar + gerundio)",
+    "level": "a1",
+    "explanation": "Se usa para acciones que están ocurriendo ahora o en este período. Se forma con to be + verbo-ing.",
+    "examples": [
+      { "sentence": "I am reading a book.", "reading": "", "translation": "Estoy leyendo un libro." },
+      { "sentence": "They are playing soccer.", "reading": "", "translation": "Están jugando al fútbol." },
+      { "sentence": "Is she working now?", "reading": "", "translation": "¿Está trabajando ahora?" }
+    ],
+    "notes": "Algunos verbos no se usan en continuo (stative verbs): know, want, like, love, need, believe.",
+    "tags": ["tense", "essential"]
+  },
+  {
+    "id": "a1-possessive-adjectives",
+    "title": "Possessive Adjectives",
+    "pattern": "my / your / his / her / its / our / their + noun",
+    "meaning": "adjetivos posesivos (mi, tu, su, etc.)",
+    "level": "a1",
+    "explanation": "Indican posesión. Van siempre antes del sustantivo. my (mi), your (tu), his (su, de él), her (su, de ella), its (su, de ello), our (nuestro), their (su, de ellos).",
+    "examples": [
+      { "sentence": "This is my house.", "reading": "", "translation": "Esta es mi casa." },
+      { "sentence": "Her name is Maria.", "reading": "", "translation": "Su nombre es María." },
+      { "sentence": "Their car is blue.", "reading": "", "translation": "Su auto es azul." }
+    ],
+    "tags": ["pronouns", "possession"]
+  },
+  {
+    "id": "a1-there-is-are",
+    "title": "There is / There are",
+    "pattern": "There is + singular | There are + plural",
+    "meaning": "hay (singular / plural)",
+    "level": "a1",
+    "explanation": "'There is' se usa con sustantivos singulares o incontables. 'There are' se usa con plurales. Equivale a 'hay' en español.",
+    "examples": [
+      { "sentence": "There is a cat on the table.", "reading": "", "translation": "Hay un gato sobre la mesa." },
+      { "sentence": "There are many students in the class.", "reading": "", "translation": "Hay muchos estudiantes en la clase." },
+      { "sentence": "Is there a bank near here?", "reading": "", "translation": "¿Hay un banco cerca de acá?" }
+    ],
+    "tags": ["existence", "essential"]
+  },
+  {
+    "id": "a1-can-ability",
+    "title": "Can / Can't (Ability)",
+    "pattern": "Subject + can/can't + base verb",
+    "meaning": "poder / no poder (habilidad)",
+    "level": "a1",
+    "explanation": "'Can' expresa habilidad o capacidad. No cambia con la persona (no se agrega -s). La forma negativa es 'can't' o 'cannot'.",
+    "examples": [
+      { "sentence": "I can swim.", "reading": "", "translation": "Sé nadar." },
+      { "sentence": "She can't drive.", "reading": "", "translation": "Ella no sabe manejar." },
+      { "sentence": "Can you speak French?", "reading": "", "translation": "¿Sabés hablar francés?" }
+    ],
+    "tags": ["modal", "ability"]
+  },
+  {
+    "id": "a1-prepositions-place",
+    "title": "Prepositions of Place",
+    "pattern": "in / on / at / under / next to / between / behind / in front of",
+    "meaning": "preposiciones de lugar",
+    "level": "a1",
+    "explanation": "'In' para espacios cerrados (in the room), 'on' para superficies (on the table), 'at' para puntos específicos (at the door). 'Under' = debajo, 'next to' = al lado, 'between' = entre, 'behind' = detrás, 'in front of' = enfrente.",
+    "examples": [
+      { "sentence": "The book is on the table.", "reading": "", "translation": "El libro está sobre la mesa." },
+      { "sentence": "She is in the kitchen.", "reading": "", "translation": "Ella está en la cocina." },
+      { "sentence": "The cat is under the bed.", "reading": "", "translation": "El gato está debajo de la cama." }
+    ],
+    "tags": ["prepositions", "place"]
+  },
+  {
+    "id": "a1-prepositions-time",
+    "title": "Prepositions of Time",
+    "pattern": "in + month/year/season | on + day/date | at + time",
+    "meaning": "preposiciones de tiempo",
+    "level": "a1",
+    "explanation": "'In' para meses, años y estaciones (in January, in 2024, in summer). 'On' para días y fechas (on Monday, on July 4th). 'At' para horas y momentos (at 3 o'clock, at night).",
+    "examples": [
+      { "sentence": "I was born in 1995.", "reading": "", "translation": "Nací en 1995." },
+      { "sentence": "The meeting is on Monday.", "reading": "", "translation": "La reunión es el lunes." },
+      { "sentence": "I wake up at 7 o'clock.", "reading": "", "translation": "Me despierto a las 7." }
+    ],
+    "tags": ["prepositions", "time"]
+  },
+  {
+    "id": "a1-question-words",
+    "title": "Question Words",
+    "pattern": "What / Where / When / Who / Why / How + auxiliary + subject + verb",
+    "meaning": "palabras interrogativas",
+    "level": "a1",
+    "explanation": "What = qué, Where = dónde, When = cuándo, Who = quién, Why = por qué, How = cómo. Se usan al inicio de la pregunta, seguidas del auxiliar (do/does/is/are/can).",
+    "examples": [
+      { "sentence": "What is your name?", "reading": "", "translation": "¿Cómo te llamás?" },
+      { "sentence": "Where do you live?", "reading": "", "translation": "¿Dónde vivís?" },
+      { "sentence": "How old are you?", "reading": "", "translation": "¿Cuántos años tenés?" }
+    ],
+    "tags": ["questions", "essential"]
+  },
+  {
+    "id": "a1-demonstratives",
+    "title": "Demonstratives",
+    "pattern": "this / that / these / those + noun",
+    "meaning": "demostrativos (este, ese, estos, esos)",
+    "level": "a1",
+    "explanation": "'This' (este/a) y 'these' (estos/as) para cosas cercanas. 'That' (ese/a, aquel/la) y 'those' (esos/as, aquellos/as) para cosas lejanas.",
+    "examples": [
+      { "sentence": "This is my book.", "reading": "", "translation": "Este es mi libro." },
+      { "sentence": "Those cars are expensive.", "reading": "", "translation": "Esos autos son caros." }
+    ],
+    "tags": ["demonstratives"]
+  },
+  {
+    "id": "a1-some-any",
+    "title": "Some / Any",
+    "pattern": "some (affirmative) / any (negative/questions)",
+    "meaning": "algunos, algo / ningún, algún",
+    "level": "a1",
+    "explanation": "'Some' se usa en oraciones afirmativas y ofrecimientos. 'Any' se usa en oraciones negativas y preguntas. Ambos van con sustantivos plurales o incontables.",
+    "examples": [
+      { "sentence": "I have some friends in London.", "reading": "", "translation": "Tengo algunos amigos en Londres." },
+      { "sentence": "Do you have any questions?", "reading": "", "translation": "¿Tenés alguna pregunta?" },
+      { "sentence": "There isn't any milk.", "reading": "", "translation": "No hay leche." }
+    ],
+    "tags": ["quantifiers"]
+  },
+  {
+    "id": "a1-past-simple-to-be",
+    "title": "Past Simple of 'to be'",
+    "pattern": "I/he/she/it + was | you/we/they + were",
+    "meaning": "pasado simple de 'ser/estar'",
+    "level": "a1",
+    "explanation": "'Was' se usa con I, he, she, it. 'Were' se usa con you, we, they. Negación: wasn't, weren't. Preguntas: Was he...? Were they...?",
+    "examples": [
+      { "sentence": "I was at home yesterday.", "reading": "", "translation": "Estuve en casa ayer." },
+      { "sentence": "They were happy.", "reading": "", "translation": "Estaban felices." },
+      { "sentence": "Was she at the party?", "reading": "", "translation": "¿Estuvo ella en la fiesta?" }
+    ],
+    "tags": ["tense", "past"]
+  },
+  {
+    "id": "a1-past-simple-regular",
+    "title": "Past Simple (Regular Verbs)",
+    "pattern": "Subject + verb-ed",
+    "meaning": "pasado simple (verbos regulares)",
+    "level": "a1",
+    "explanation": "Se forma agregando -ed al verbo base: work→worked, play→played. Si termina en -e, solo se agrega -d: live→lived. Si termina en consonante+y, cambia a -ied: study→studied.",
+    "examples": [
+      { "sentence": "I worked yesterday.", "reading": "", "translation": "Trabajé ayer." },
+      { "sentence": "She played tennis last week.", "reading": "", "translation": "Ella jugó al tenis la semana pasada." },
+      { "sentence": "Did you study English?", "reading": "", "translation": "¿Estudiaste inglés?" }
+    ],
+    "notes": "Preguntas y negaciones usan 'did': Did you work? I didn't work.",
+    "tags": ["tense", "past"]
+  },
+  {
+    "id": "a1-past-simple-irregular",
+    "title": "Past Simple (Irregular Verbs)",
+    "pattern": "Subject + irregular past form",
+    "meaning": "pasado simple (verbos irregulares)",
+    "level": "a1",
+    "explanation": "Muchos verbos comunes tienen pasado irregular: go→went, have→had, do→did, see→saw, eat→ate, come→came, take→took, make→made, get→got, know→knew.",
+    "examples": [
+      { "sentence": "I went to school.", "reading": "", "translation": "Fui a la escuela." },
+      { "sentence": "She had breakfast at 8.", "reading": "", "translation": "Desayunó a las 8." },
+      { "sentence": "We saw a movie last night.", "reading": "", "translation": "Vimos una película anoche." }
+    ],
+    "notes": "Las preguntas y negaciones usan 'did' + verbo base: Did you go? I didn't see.",
+    "tags": ["tense", "past", "irregular"]
+  },
+  {
+    "id": "a1-going-to",
+    "title": "Going to (Future Plans)",
+    "pattern": "Subject + am/is/are + going to + base verb",
+    "meaning": "ir a (planes futuros)",
+    "level": "a1",
+    "explanation": "Se usa para expresar planes e intenciones futuras. Se forma con to be + going to + verbo base.",
+    "examples": [
+      { "sentence": "I am going to travel next month.", "reading": "", "translation": "Voy a viajar el mes que viene." },
+      { "sentence": "She is going to study medicine.", "reading": "", "translation": "Ella va a estudiar medicina." },
+      { "sentence": "Are you going to come to the party?", "reading": "", "translation": "¿Vas a venir a la fiesta?" }
+    ],
+    "tags": ["tense", "future"]
+  },
+  {
+    "id": "a1-imperatives",
+    "title": "Imperatives",
+    "pattern": "Base verb! / Don't + base verb!",
+    "meaning": "imperativo (órdenes e instrucciones)",
+    "level": "a1",
+    "explanation": "El imperativo usa el verbo base sin sujeto. Para la forma negativa se agrega 'don't'. Se usa para dar órdenes, instrucciones, consejos o direcciones.",
+    "examples": [
+      { "sentence": "Open the door.", "reading": "", "translation": "Abrí la puerta." },
+      { "sentence": "Don't touch that!", "reading": "", "translation": "¡No toques eso!" },
+      { "sentence": "Please sit down.", "reading": "", "translation": "Por favor, sentate." }
+    ],
+    "tags": ["imperative", "commands"]
+  },
+  {
+    "id": "a1-comparatives",
+    "title": "Comparatives",
+    "pattern": "adjective + -er + than | more + adjective + than",
+    "meaning": "comparativos (más... que)",
+    "level": "a1",
+    "explanation": "Adjetivos cortos (1-2 sílabas): agregar -er (taller, bigger, happier). Adjetivos largos (3+ sílabas): more + adj (more expensive, more interesting). Irregulares: good→better, bad→worse.",
+    "examples": [
+      { "sentence": "She is taller than me.", "reading": "", "translation": "Ella es más alta que yo." },
+      { "sentence": "This book is more interesting.", "reading": "", "translation": "Este libro es más interesante." },
+      { "sentence": "He is better than his brother.", "reading": "", "translation": "Él es mejor que su hermano." }
+    ],
+    "tags": ["adjectives", "comparison"]
+  },
+  {
+    "id": "a1-superlatives",
+    "title": "Superlatives",
+    "pattern": "the + adjective + -est | the most + adjective",
+    "meaning": "superlativos (el más...)",
+    "level": "a1",
+    "explanation": "Adjetivos cortos: the + adj-est (the tallest, the biggest). Adjetivos largos: the most + adj (the most expensive). Irregulares: the best, the worst.",
+    "examples": [
+      { "sentence": "She is the tallest in the class.", "reading": "", "translation": "Ella es la más alta de la clase." },
+      { "sentence": "It's the most beautiful city.", "reading": "", "translation": "Es la ciudad más linda." },
+      { "sentence": "This is the best restaurant.", "reading": "", "translation": "Este es el mejor restaurante." }
+    ],
+    "tags": ["adjectives", "comparison"]
+  },
+  {
+    "id": "a1-object-pronouns",
+    "title": "Object Pronouns",
+    "pattern": "verb + me/you/him/her/it/us/them",
+    "meaning": "pronombres objeto (me, te, lo/la, nos, les)",
+    "level": "a1",
+    "explanation": "Se usan después del verbo o preposición: me (me/a mí), you (te/a vos), him (lo/a él), her (la/a ella), it (lo/la), us (nos), them (los/les).",
+    "examples": [
+      { "sentence": "She loves him.", "reading": "", "translation": "Ella lo ama." },
+      { "sentence": "Can you help me?", "reading": "", "translation": "¿Me podés ayudar?" },
+      { "sentence": "I gave them the money.", "reading": "", "translation": "Les di el dinero." }
+    ],
+    "tags": ["pronouns"]
+  },
+  {
+    "id": "a1-possessive-pronouns",
+    "title": "Possessive Pronouns",
+    "pattern": "mine / yours / his / hers / ours / theirs",
+    "meaning": "pronombres posesivos (mío, tuyo, suyo)",
+    "level": "a1",
+    "explanation": "Se usan solos, sin sustantivo después: mine (mío), yours (tuyo), his (de él), hers (de ella), ours (nuestro), theirs (de ellos). Reemplazan a 'possessive adjective + noun'.",
+    "examples": [
+      { "sentence": "This book is mine.", "reading": "", "translation": "Este libro es mío." },
+      { "sentence": "Is this yours?", "reading": "", "translation": "¿Esto es tuyo?" },
+      { "sentence": "That car is theirs.", "reading": "", "translation": "Ese auto es de ellos." }
+    ],
+    "tags": ["pronouns", "possession"]
+  },
+  {
+    "id": "a1-would-like",
+    "title": "Would like",
+    "pattern": "Subject + would like + noun / to + verb",
+    "meaning": "me gustaría / quisiera",
+    "level": "a1",
+    "explanation": "'Would like' es una forma educada de decir 'want'. Se usa para pedir cosas, ofrecer o expresar deseos. Contracción: I'd like.",
+    "examples": [
+      { "sentence": "I would like a coffee, please.", "reading": "", "translation": "Quisiera un café, por favor." },
+      { "sentence": "Would you like some water?", "reading": "", "translation": "¿Querés un poco de agua?" },
+      { "sentence": "She'd like to travel to Japan.", "reading": "", "translation": "A ella le gustaría viajar a Japón." }
+    ],
+    "tags": ["polite", "requests"]
+  },
+  {
+    "id": "a1-adverbs-frequency",
+    "title": "Adverbs of Frequency",
+    "pattern": "Subject + always/usually/often/sometimes/never + verb",
+    "meaning": "adverbios de frecuencia",
+    "level": "a1",
+    "explanation": "Van antes del verbo principal pero después de 'to be'. always (siempre, 100%), usually (generalmente, 80%), often (a menudo, 60%), sometimes (a veces, 40%), rarely (raramente, 10%), never (nunca, 0%).",
+    "examples": [
+      { "sentence": "I always eat breakfast.", "reading": "", "translation": "Siempre desayuno." },
+      { "sentence": "She is usually happy.", "reading": "", "translation": "Ella generalmente está feliz." },
+      { "sentence": "They never watch TV.", "reading": "", "translation": "Nunca miran televisión." }
+    ],
+    "tags": ["adverbs", "frequency"]
+  },
+  {
+    "id": "a1-countable-uncountable",
+    "title": "Countable & Uncountable Nouns",
+    "pattern": "countable: a/an, one, two... | uncountable: some, much, a lot of",
+    "meaning": "sustantivos contables e incontables",
+    "level": "a1",
+    "explanation": "Contables: tienen plural (a book, two books). Incontables: no tienen plural (water, rice, money, information). Con incontables se usa 'some', 'much', 'a lot of' pero NO 'a/an' ni números.",
+    "examples": [
+      { "sentence": "I need some water.", "reading": "", "translation": "Necesito algo de agua." },
+      { "sentence": "How much money do you have?", "reading": "", "translation": "¿Cuánto dinero tenés?" },
+      { "sentence": "There are three chairs.", "reading": "", "translation": "Hay tres sillas." }
+    ],
+    "tags": ["nouns", "quantifiers"]
+  }
+]

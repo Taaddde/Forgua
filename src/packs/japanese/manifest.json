@@ -1,0 +1,37 @@
+{
+  "id": "japanese",
+  "name": "Japonés",
+  "nativeName": "日本語",
+  "icon": "🇯🇵",
+  "version": "1.0.0",
+  "authors": ["LinguaForge Team"],
+  "license": "MIT",
+  "aiGenerated": false,
+  "family": "cjk-japanese",
+  "speech": {
+    "recognitionLang": "ja-JP",
+    "ttsLang": "ja-JP",
+    "defaultRate": 0.8
+  },
+  "direction": "ltr",
+  "writingSystems": [
+    { "id": "hiragana", "name": "Hiragana", "hasDrawing": true },
+    { "id": "katakana", "name": "Katakana", "hasDrawing": true },
+    { "id": "kanji", "name": "Kanji", "hasDrawing": true, "hasStrokeOrder": true }
+  ],
+  "features": {
+    "pitchAccent": true,
+    "toneMarks": false,
+    "furigana": true,
+    "inputConversion": "wanakana",
+    "tokenization": true
+  },
+  "levels": [
+    { "id": "n5", "name": "JLPT N5", "order": 1, "description": "Principiante" },
+    { "id": "n4", "name": "JLPT N4", "order": 2, "description": "Principiante alto" },
+    { "id": "n3", "name": "JLPT N3", "order": 3, "description": "Intermedio" },
+    { "id": "n2", "name": "JLPT N2", "order": 4, "description": "Intermedio alto" },
+    { "id": "n1", "name": "JLPT N1", "order": 5, "description": "Avanzado" }
+  ],
+  "categories": ["vocabulary", "grammar", "characters", "reading", "listening"]
+}

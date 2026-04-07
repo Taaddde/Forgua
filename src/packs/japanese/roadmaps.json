@@ -1,0 +1,253 @@
+[
+  {
+    "id": "intensive",
+    "name": "Ruta Intensiva",
+    "type": "intensive",
+    "description": "Para quienes dedican más de 3 horas diarias. Objetivo: dominar N1 en 2-3 años.",
+    "phases": [
+      {
+        "name": "Fundamentos (Kana + N5 básico)",
+        "duration": "4 semanas",
+        "level": "n5",
+        "content": "Memorizar hiragana y katakana. Aprender las primeras 100 palabras y 40 kanji. Gramática básica: partículas は/が/を/に/で, です/ます, て形.",
+        "dailyGoal": "3-4 horas: 1h kanji/vocab, 1h gramática, 1h lectura/escucha, 30min escritura, 30min repaso SRS",
+        "milestones": [
+          "Leer y escribir todos los kana sin dudar",
+          "Presentarse y hacer preguntas básicas",
+          "Entender frases simples en contexto cotidiano"
+        ]
+      },
+      {
+        "name": "N5 Completo",
+        "duration": "6 semanas",
+        "level": "n5",
+        "content": "Completar vocabulario N5 (~800 palabras), todos los kanji N5 (80), y todos los puntos gramaticales N5. Lecturas graduadas nivel 0-1.",
+        "dailyGoal": "3-4 horas: 1h kanji nuevos + repaso, 1h gramática con ejercicios, 1h lectura + escucha, 30min hablar/shadowing",
+        "milestones": [
+          "800+ palabras en SRS con >80% madurez",
+          "Leer textos simples sin furigana en kanji conocidos",
+          "Entender conversaciones simples de anime/drama con subtítulos"
+        ]
+      },
+      {
+        "name": "N4 Gramática + Vocab",
+        "duration": "8 semanas",
+        "level": "n4",
+        "content": "Vocabulario N4 (600+ palabras), kanji N4 (170+), gramática N4: condicionales, pasiva, causativa, dar/recibir, apariencia.",
+        "dailyGoal": "3-4 horas: misma distribución, agregar 30min de producción escrita",
+        "milestones": [
+          "Usar condicionales y pasiva en conversación",
+          "Leer NHK Easy News con diccionario",
+          "Escribir párrafos de 5-6 oraciones sobre temas cotidianos"
+        ]
+      },
+      {
+        "name": "N4 → N3 Transición",
+        "duration": "8 semanas",
+        "level": "n3",
+        "content": "Empezar kanji y vocabulario N3. Gramática N3 inicial. Lecturas de nivel intermedio. Inmersión activa con material nativo simple.",
+        "dailyGoal": "4 horas: 1h kanji/vocab, 1h gramática, 1h inmersión (anime/manga/podcast), 1h producción",
+        "milestones": [
+          "Entender artículos simples sin diccionario",
+          "Mantener una conversación de 10+ minutos",
+          "Pasar un mock test de N4 con >70%"
+        ]
+      },
+      {
+        "name": "N3 Completo",
+        "duration": "12 semanas",
+        "level": "n3",
+        "content": "Completar vocabulario N3 (1500+ palabras), kanji N3 (370+), gramática N3. Lecturas intermedias. Inmersión con material semi-nativo.",
+        "dailyGoal": "4+ horas: balance entre estudio formal e inmersión 50/50",
+        "milestones": [
+          "Leer manga sin furigana con comprensión ~70%",
+          "Entender podcasts nativos con repetición",
+          "Escribir ensayos de 200+ caracteres",
+          "Aprobar mock test N3 con >70%"
+        ]
+      },
+      {
+        "name": "N2 Intermedio-Alto",
+        "duration": "16 semanas",
+        "level": "n2",
+        "content": "30 kanji nuevos por semana. Vocabulario semi-formal y técnico. Gramática N2 completa. Lectura de artículos de periódico y textos de opinión. Escucha de noticias y entrevistas. Producción escrita formal.",
+        "dailyGoal": "4+ horas: 1h kanji/vocab, 1h gramática N2, 1h lectura de artículos, 1h escucha + producción",
+        "milestones": [
+          "Leer artículos de periódico con ayuda mínima",
+          "Entender conversaciones formales",
+          "Aprobar mock test N2 con >70%",
+          "Vocabulario activo de 5000+ palabras"
+        ]
+      },
+      {
+        "name": "N1 Avanzado",
+        "duration": "24 semanas",
+        "level": "n1",
+        "content": "Inmersión intensiva con textos nativos sin simplificar. Dominio de 四字熟語 (yojijukugo) y expresiones literarias. Vocabulario literario y académico. Lectura de novelas, ensayos y documentos formales. Escucha de noticias, debates y conferencias.",
+        "dailyGoal": "4+ horas con inmersión total: 1h gramática/vocab avanzado, 1h lectura nativa, 1h escucha nativa, 1h producción escrita/oral",
+        "milestones": [
+          "Leer novelas japonesas sin diccionario constante",
+          "Entender noticias NHK sin subtítulos",
+          "Escribir ensayos de 400+ caracteres",
+          "Aprobar mock test N1 con >60%"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "standard",
+    "name": "Ruta Estándar",
+    "type": "standard",
+    "description": "Para quienes dedican 1-2 horas diarias. Objetivo: dominar N1 en 4-5 años.",
+    "phases": [
+      {
+        "name": "Kana + Fundamentos",
+        "duration": "6 semanas",
+        "level": "n5",
+        "content": "Memorizar hiragana y katakana. Primeras 50 palabras y 20 kanji básicos.",
+        "dailyGoal": "1-2 horas: 30min kana/kanji, 30min vocabulario, 30min gramática básica",
+        "milestones": [
+          "Leer y escribir todos los kana",
+          "Conocer los números, saludos, y pronombres básicos"
+        ]
+      },
+      {
+        "name": "N5 Progresivo",
+        "duration": "16 semanas",
+        "level": "n5",
+        "content": "Vocabulario N5 completo a ritmo sostenido. Kanji N5 completo. Gramática N5 con práctica.",
+        "dailyGoal": "1.5 horas: 30min SRS repaso, 30min contenido nuevo, 30min lectura/escucha",
+        "milestones": [
+          "500+ palabras en SRS activo",
+          "Leer textos graduados nivel 0",
+          "Entender instrucciones simples en japonés"
+        ]
+      },
+      {
+        "name": "N4 Gradual",
+        "duration": "24 semanas",
+        "level": "n4",
+        "content": "Vocabulario y kanji N4 a ritmo de 10-15 items nuevos por día. Gramática N4 un punto por semana.",
+        "dailyGoal": "1.5 horas: 30min SRS, 30min gramática, 30min lectura o escucha",
+        "milestones": [
+          "Usar formas condicionales naturalmente",
+          "Leer NHK Easy con ayuda moderada",
+          "Entender el 50% de conversaciones cotidianas"
+        ]
+      },
+      {
+        "name": "N3 Sostenido",
+        "duration": "32 semanas",
+        "level": "n3",
+        "content": "Vocabulario y kanji N3. Gramática N3. Transición a material nativo con apoyo.",
+        "dailyGoal": "2 horas: 30min SRS, 30min gramática, 30min lectura nativa, 30min escucha",
+        "milestones": [
+          "Vocabulario activo de 3000+ palabras",
+          "Leer artículos con diccionario ocasional",
+          "Aprobar mock test N3"
+        ]
+      },
+      {
+        "name": "N2 Sostenido",
+        "duration": "32 semanas",
+        "level": "n2",
+        "content": "Vocabulario y kanji N2 a ritmo constante. Gramática N2 con práctica semanal. Lectura de artículos y textos semi-formales. Escucha de podcasts y noticias con apoyo.",
+        "dailyGoal": "2 horas: 30min SRS, 30min gramática N2, 30min lectura, 30min escucha/producción",
+        "milestones": [
+          "Vocabulario activo de 4000+ palabras",
+          "Leer artículos con ayuda moderada",
+          "Aprobar mock test N2"
+        ]
+      },
+      {
+        "name": "N1 Gradual",
+        "duration": "48 semanas",
+        "level": "n1",
+        "content": "Vocabulario y gramática N1 sin prisa. Lectura de textos formales, literarios y académicos. Escucha de noticias y contenido nativo sin simplificar. Expresiones avanzadas y 四字熟語.",
+        "dailyGoal": "2 horas: 30min SRS avanzado, 30min gramática N1, 30min lectura nativa, 30min inmersión",
+        "milestones": [
+          "Comprender textos formales y literarios",
+          "Vocabulario activo de 7000+",
+          "Aprobar mock test N1"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "casual",
+    "name": "Ruta Casual",
+    "type": "casual",
+    "description": "Para quienes dedican 30 minutos diarios. Progreso gradual sin presión.",
+    "phases": [
+      {
+        "name": "Descubrimiento",
+        "duration": "8 semanas",
+        "level": "n5",
+        "content": "Aprender kana a tu ritmo. Primeras palabras y frases útiles.",
+        "dailyGoal": "30 minutos: 15min kana/vocab, 15min repaso SRS",
+        "milestones": [
+          "Leer hiragana con fluidez",
+          "Conocer 100+ palabras"
+        ]
+      },
+      {
+        "name": "Base N5",
+        "duration": "24 semanas",
+        "level": "n5",
+        "content": "Vocabulario y gramática N5 a ritmo relajado. 5-8 items nuevos por día.",
+        "dailyGoal": "30 minutos: 15min items nuevos, 15min repaso",
+        "milestones": [
+          "300+ palabras en SRS",
+          "Gramática básica internalizada"
+        ]
+      },
+      {
+        "name": "Exploración N4",
+        "duration": "36 semanas",
+        "level": "n4",
+        "content": "Empezar N4 sin prisa. Contenido nuevo intercalado con repaso profundo de N5.",
+        "dailyGoal": "30 minutos: intercalar estudio nuevo con repaso y lectura ligera",
+        "milestones": [
+          "N5 sólido y maduro",
+          "100+ palabras N4 aprendidas",
+          "Disfrutar lectura graduada nivel 1"
+        ]
+      },
+      {
+        "name": "Hacia N3",
+        "duration": "48+ semanas",
+        "level": "n3",
+        "content": "Continuar N4 y empezar N3 gradualmente. Sin fecha límite — disfrutar el proceso.",
+        "dailyGoal": "30 minutos: lo que te motive ese día",
+        "milestones": [
+          "Vocabulario activo de 1500+ palabras",
+          "Poder leer manga simple",
+          "Entender anime sin subtítulos en escenas simples"
+        ]
+      },
+      {
+        "name": "Exploración N2",
+        "duration": "48 semanas",
+        "level": "n2",
+        "content": "Avanzar gradualmente por el contenido N2. Repaso constante de N3 para consolidar. Lectura de manga intermedio y textos cotidianos.",
+        "dailyGoal": "30 minutos: intercalar repaso N3 con contenido N2 nuevo",
+        "milestones": [
+          "N3 sólido",
+          "500+ palabras N2 aprendidas",
+          "Leer manga intermedio sin furigana"
+        ]
+      },
+      {
+        "name": "Hacia N1",
+        "duration": "72+ semanas",
+        "level": "n1",
+        "content": "Explorar contenido N1 sin fecha límite. Disfrutar material nativo como objetivo principal. Lectura y escucha por placer.",
+        "dailyGoal": "30 minutos: lo que te motive — lectura, escucha o repaso",
+        "milestones": [
+          "Vocabulario activo de 5000+",
+          "Disfrutar lectura nativa"
+        ]
+      }
+    ]
+  }
+]

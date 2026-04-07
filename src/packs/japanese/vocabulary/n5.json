@@ -1,0 +1,1802 @@
+[
+  {
+    "word": "おはようございます",
+    "reading": "おはようございます",
+    "meanings": ["Buenos días (formal)", "Good morning (formal)"],
+    "pos": "expression",
+    "level": "n5",
+    "tags": ["greetings", "polite"],
+    "examples": [
+      {
+        "text": "先生、おはようございます。",
+        "reading": "せんせい、おはようございます。",
+        "translation": "Buenos días, profesor."
+      }
+    ]
+  },
+  {
+    "word": "こんにちは",
+    "reading": "こんにちは",
+    "meanings": ["Buenas tardes / Hola", "Good afternoon / Hello"],
+    "pos": "expression",
+    "level": "n5",
+    "tags": ["greetings"],
+    "examples": [
+      {
+        "text": "こんにちは、お元気ですか。",
+        "reading": "こんにちは、おげんきですか。",
+        "translation": "Hola, ¿cómo estás?"
+      }
+    ]
+  },
+  {
+    "word": "こんばんは",
+    "reading": "こんばんは",
+    "meanings": ["Buenas noches (saludo)", "Good evening"],
+    "pos": "expression",
+    "level": "n5",
+    "tags": ["greetings"],
+    "examples": [
+      {
+        "text": "こんばんは、いい天気ですね。",
+        "reading": "こんばんは、いいてんきですね。",
+        "translation": "Buenas noches, hace buen tiempo, ¿verdad?"
+      }
+    ]
+  },
+  {
+    "word": "さようなら",
+    "reading": "さようなら",
+    "meanings": ["Adiós", "Goodbye"],
+    "pos": "expression",
+    "level": "n5",
+    "tags": ["greetings"],
+    "examples": [
+      {
+        "text": "では、さようなら。",
+        "reading": "では、さようなら。",
+        "translation": "Bueno, adiós."
+      }
+    ]
+  },
+  {
+    "word": "ありがとうございます",
+    "reading": "ありがとうございます",
+    "meanings": ["Muchas gracias (formal)", "Thank you very much (formal)"],
+    "pos": "expression",
+    "level": "n5",
+    "tags": ["greetings", "polite"],
+    "examples": [
+      {
+        "text": "手伝ってくれて、ありがとうございます。",
+        "reading": "てつだってくれて、ありがとうございます。",
+        "translation": "Gracias por ayudarme."
+      }
+    ]
+  },
+  {
+    "word": "すみません",
+    "reading": "すみません",
+    "meanings": ["Disculpe / Perdón", "Excuse me / I'm sorry"],
+    "pos": "expression",
+    "level": "n5",
+    "tags": ["greetings", "polite"],
+    "examples": [
+      {
+        "text": "すみません、駅はどこですか。",
+        "reading": "すみません、えきはどこですか。",
+        "translation": "Disculpe, ¿dónde está la estación?"
+      }
+    ]
+  },
+  {
+    "word": "いただきます",
+    "reading": "いただきます",
+    "meanings": ["Buen provecho (antes de comer)", "Let's eat (before a meal)"],
+    "pos": "expression",
+    "level": "n5",
+    "tags": ["greetings", "food", "polite"],
+    "examples": [
+      {
+        "text": "ごはんの前に「いただきます」と言います。",
+        "reading": "ごはんのまえに「いただきます」といいます。",
+        "translation": "Antes de comer se dice 'itadakimasu'."
+      }
+    ]
+  },
+  {
+    "word": "ごちそうさまでした",
+    "reading": "ごちそうさまでした",
+    "meanings": ["Gracias por la comida (después de comer)", "Thank you for the meal (after eating)"],
+    "pos": "expression",
+    "level": "n5",
+    "tags": ["greetings", "food", "polite"],
+    "examples": [
+      {
+        "text": "ごちそうさまでした、おいしかったです。",
+        "reading": "ごちそうさまでした、おいしかったです。",
+        "translation": "Gracias por la comida, estaba delicioso."
+      }
+    ]
+  },
+  {
+    "word": "おねがいします",
+    "reading": "おねがいします",
+    "meanings": ["Por favor", "Please"],
+    "pos": "expression",
+    "level": "n5",
+    "tags": ["greetings", "polite"],
+    "examples": [
+      {
+        "text": "コーヒーをおねがいします。",
+        "reading": "こーひーをおねがいします。",
+        "translation": "Un café, por favor."
+      }
+    ]
+  },
+  {
+    "word": "はい",
+    "reading": "はい",
+    "meanings": ["Sí", "Yes"],
+    "pos": "interjection",
+    "level": "n5",
+    "tags": ["greetings", "basic"],
+    "examples": [
+      {
+        "text": "はい、そうです。",
+        "reading": "はい、そうです。",
+        "translation": "Sí, así es."
+      }
+    ]
+  },
+  {
+    "word": "いいえ",
+    "reading": "いいえ",
+    "meanings": ["No", "No"],
+    "pos": "interjection",
+    "level": "n5",
+    "tags": ["greetings", "basic"],
+    "examples": [
+      {
+        "text": "いいえ、ちがいます。",
+        "reading": "いいえ、ちがいます。",
+        "translation": "No, es diferente."
+      }
+    ]
+  },
+  {
+    "word": "おはよう",
+    "reading": "おはよう",
+    "meanings": ["Buenos días (informal)", "Good morning (informal)"],
+    "pos": "expression",
+    "level": "n5",
+    "tags": ["greetings", "casual"],
+    "examples": [
+      {
+        "text": "おはよう、きょうもがんばろう。",
+        "reading": "おはよう、きょうもがんばろう。",
+        "translation": "Buenos días, esforcémonos hoy también."
+      }
+    ]
+  },
+  {
+    "word": "ありがとう",
+    "reading": "ありがとう",
+    "meanings": ["Gracias (informal)", "Thank you (informal)"],
+    "pos": "expression",
+    "level": "n5",
+    "tags": ["greetings", "casual"],
+    "examples": [
+      {
+        "text": "ありがとう、たすかったよ。",
+        "reading": "ありがとう、たすかったよ。",
+        "translation": "Gracias, me salvaste."
+      }
+    ]
+  },
+  {
+    "word": "ごめんなさい",
+    "reading": "ごめんなさい",
+    "meanings": ["Lo siento", "I'm sorry"],
+    "pos": "expression",
+    "level": "n5",
+    "tags": ["greetings", "polite"],
+    "examples": [
+      {
+        "text": "遅くなって、ごめんなさい。",
+        "reading": "おそくなって、ごめんなさい。",
+        "translation": "Perdón por llegar tarde."
+      }
+    ]
+  },
+  {
+    "word": "はじめまして",
+    "reading": "はじめまして",
+    "meanings": ["Mucho gusto", "Nice to meet you"],
+    "pos": "expression",
+    "level": "n5",
+    "tags": ["greetings", "polite"],
+    "examples": [
+      {
+        "text": "はじめまして、田中です。",
+        "reading": "はじめまして、たなかです。",
+        "translation": "Mucho gusto, soy Tanaka."
+      }
+    ]
+  },
+  {
+    "word": "私",
+    "reading": "わたし",
+    "meanings": ["Yo", "I / me"],
+    "pos": "pronoun",
+    "level": "n5",
+    "tags": ["pronoun", "basic"],
+    "examples": [
+      {
+        "text": "私は学生です。",
+        "reading": "わたしはがくせいです。",
+        "translation": "Yo soy estudiante."
+      }
+    ]
+  },
+  {
+    "word": "あなた",
+    "reading": "あなた",
+    "meanings": ["Tú / Usted", "You"],
+    "pos": "pronoun",
+    "level": "n5",
+    "tags": ["pronoun", "basic"],
+    "examples": [
+      {
+        "text": "あなたの名前は何ですか。",
+        "reading": "あなたのなまえはなんですか。",
+        "translation": "¿Cuál es tu nombre?"
+      }
+    ]
+  },
+  {
+    "word": "彼",
+    "reading": "かれ",
+    "meanings": ["Él", "He / him"],
+    "pos": "pronoun",
+    "level": "n5",
+    "tags": ["pronoun"],
+    "examples": [
+      {
+        "text": "彼は日本人です。",
+        "reading": "かれはにほんじんです。",
+        "translation": "Él es japonés."
+      }
+    ]
+  },
+  {
+    "word": "彼女",
+    "reading": "かのじょ",
+    "meanings": ["Ella", "She / her"],
+    "pos": "pronoun",
+    "level": "n5",
+    "tags": ["pronoun"],
+    "examples": [
+      {
+        "text": "彼女は先生です。",
+        "reading": "かのじょはせんせいです。",
+        "translation": "Ella es profesora."
+      }
+    ]
+  },
+  {
+    "word": "私たち",
+    "reading": "わたしたち",
+    "meanings": ["Nosotros", "We / us"],
+    "pos": "pronoun",
+    "level": "n5",
+    "tags": ["pronoun"],
+    "examples": [
+      {
+        "text": "私たちは友達です。",
+        "reading": "わたしたちはともだちです。",
+        "translation": "Nosotros somos amigos."
+      }
+    ]
+  },
+  {
+    "word": "これ",
+    "reading": "これ",
+    "meanings": ["Esto", "This"],
+    "pos": "pronoun",
+    "level": "n5",
+    "tags": ["pronoun", "demonstrative"],
+    "examples": [
+      {
+        "text": "これは何ですか。",
+        "reading": "これはなんですか。",
+        "translation": "¿Qué es esto?"
+      }
+    ]
+  },
+  {
+    "word": "それ",
+    "reading": "それ",
+    "meanings": ["Eso", "That (near listener)"],
+    "pos": "pronoun",
+    "level": "n5",
+    "tags": ["pronoun", "demonstrative"],
+    "examples": [
+      {
+        "text": "それをください。",
+        "reading": "それをください。",
+        "translation": "Deme eso, por favor."
+      }
+    ]
+  },
+  {
+    "word": "あれ",
+    "reading": "あれ",
+    "meanings": ["Aquello", "That (over there)"],
+    "pos": "pronoun",
+    "level": "n5",
+    "tags": ["pronoun", "demonstrative"],
+    "examples": [
+      {
+        "text": "あれは山です。",
+        "reading": "あれはやまです。",
+        "translation": "Aquello es una montaña."
+      }
+    ]
+  },
+  {
+    "word": "ここ",
+    "reading": "ここ",
+    "meanings": ["Aquí", "Here"],
+    "pos": "pronoun",
+    "level": "n5",
+    "tags": ["pronoun", "place"],
+    "examples": [
+      {
+        "text": "ここに座ってください。",
+        "reading": "ここにすわってください。",
+        "translation": "Siéntese aquí, por favor."
+      }
+    ]
+  },
+  {
+    "word": "そこ",
+    "reading": "そこ",
+    "meanings": ["Ahí", "There (near listener)"],
+    "pos": "pronoun",
+    "level": "n5",
+    "tags": ["pronoun", "place"],
+    "examples": [
+      {
+        "text": "そこにかばんがあります。",
+        "reading": "そこにかばんがあります。",
+        "translation": "Ahí hay un bolso."
+      }
+    ]
+  },
+  {
+    "word": "一つ",
+    "reading": "ひとつ",
+    "meanings": ["Uno (contador general)", "One (general counter)"],
+    "pos": "counter",
+    "level": "n5",
+    "tags": ["number", "counter"],
+    "examples": [
+      {
+        "text": "りんごを一つください。",
+        "reading": "りんごをひとつください。",
+        "translation": "Deme una manzana, por favor."
+      }
+    ]
+  },
+  {
+    "word": "二つ",
+    "reading": "ふたつ",
+    "meanings": ["Dos (contador general)", "Two (general counter)"],
+    "pos": "counter",
+    "level": "n5",
+    "tags": ["number", "counter"],
+    "examples": [
+      {
+        "text": "卵を二つ買いました。",
+        "reading": "たまごをふたつかいました。",
+        "translation": "Compré dos huevos."
+      }
+    ]
+  },
+  {
+    "word": "三つ",
+    "reading": "みっつ",
+    "meanings": ["Tres (contador general)", "Three (general counter)"],
+    "pos": "counter",
+    "level": "n5",
+    "tags": ["number", "counter"],
+    "examples": [
+      {
+        "text": "箱が三つあります。",
+        "reading": "はこがみっつあります。",
+        "translation": "Hay tres cajas."
+      }
+    ]
+  },
+  {
+    "word": "四つ",
+    "reading": "よっつ",
+    "meanings": ["Cuatro (contador general)", "Four (general counter)"],
+    "pos": "counter",
+    "level": "n5",
+    "tags": ["number", "counter"],
+    "examples": [
+      {
+        "text": "椅子が四つあります。",
+        "reading": "いすがよっつあります。",
+        "translation": "Hay cuatro sillas."
+      }
+    ]
+  },
+  {
+    "word": "五つ",
+    "reading": "いつつ",
+    "meanings": ["Cinco (contador general)", "Five (general counter)"],
+    "pos": "counter",
+    "level": "n5",
+    "tags": ["number", "counter"],
+    "examples": [
+      {
+        "text": "みかんが五つあります。",
+        "reading": "みかんがいつつあります。",
+        "translation": "Hay cinco mandarinas."
+      }
+    ]
+  },
+  {
+    "word": "六つ",
+    "reading": "むっつ",
+    "meanings": ["Seis (contador general)", "Six (general counter)"],
+    "pos": "counter",
+    "level": "n5",
+    "tags": ["number", "counter"],
+    "examples": [
+      {
+        "text": "ボールが六つあります。",
+        "reading": "ぼーるがむっつあります。",
+        "translation": "Hay seis pelotas."
+      }
+    ]
+  },
+  {
+    "word": "七つ",
+    "reading": "ななつ",
+    "meanings": ["Siete (contador general)", "Seven (general counter)"],
+    "pos": "counter",
+    "level": "n5",
+    "tags": ["number", "counter"],
+    "examples": [
+      {
+        "text": "星が七つ見えます。",
+        "reading": "ほしがななつみえます。",
+        "translation": "Se ven siete estrellas."
+      }
+    ]
+  },
+  {
+    "word": "八つ",
+    "reading": "やっつ",
+    "meanings": ["Ocho (contador general)", "Eight (general counter)"],
+    "pos": "counter",
+    "level": "n5",
+    "tags": ["number", "counter"],
+    "examples": [
+      {
+        "text": "お皿が八つあります。",
+        "reading": "おさらがやっつあります。",
+        "translation": "Hay ocho platos."
+      }
+    ]
+  },
+  {
+    "word": "九つ",
+    "reading": "ここのつ",
+    "meanings": ["Nueve (contador general)", "Nine (general counter)"],
+    "pos": "counter",
+    "level": "n5",
+    "tags": ["number", "counter"],
+    "examples": [
+      {
+        "text": "飴が九つあります。",
+        "reading": "あめがここのつあります。",
+        "translation": "Hay nueve caramelos."
+      }
+    ]
+  },
+  {
+    "word": "十",
+    "reading": "とお",
+    "meanings": ["Diez (contador general)", "Ten (general counter)"],
+    "pos": "counter",
+    "level": "n5",
+    "tags": ["number", "counter"],
+    "examples": [
+      {
+        "text": "子供が十います。",
+        "reading": "こどもがとおいます。",
+        "translation": "Hay diez niños."
+      }
+    ]
+  },
+  {
+    "word": "今日",
+    "reading": "きょう",
+    "meanings": ["Hoy", "Today"],
+    "pos": "noun",
+    "level": "n5",
+    "tags": ["time", "basic"],
+    "examples": [
+      {
+        "text": "今日はいい天気です。",
+        "reading": "きょうはいいてんきです。",
+        "translation": "Hoy hace buen tiempo."
+      }
+    ]
+  },
+  {
+    "word": "明日",
+    "reading": "あした",
+    "meanings": ["Mañana", "Tomorrow"],
+    "pos": "noun",
+    "level": "n5",
+    "tags": ["time", "basic"],
+    "examples": [
+      {
+        "text": "明日、学校に行きます。",
+        "reading": "あした、がっこうにいきます。",
+        "translation": "Mañana iré a la escuela."
+      }
+    ]
+  },
+  {
+    "word": "昨日",
+    "reading": "きのう",
+    "meanings": ["Ayer", "Yesterday"],
+    "pos": "noun",
+    "level": "n5",
+    "tags": ["time", "basic"],
+    "examples": [
+      {
+        "text": "昨日、映画を見ました。",
+        "reading": "きのう、えいがをみました。",
+        "translation": "Ayer vi una película."
+      }
+    ]
+  },
+  {
+    "word": "朝",
+    "reading": "あさ",
+    "meanings": ["Mañana (parte del día)", "Morning"],
+    "pos": "noun",
+    "level": "n5",
+    "tags": ["time"],
+    "examples": [
+      {
+        "text": "朝、コーヒーを飲みます。",
+        "reading": "あさ、こーひーをのみます。",
+        "translation": "Por la mañana tomo café."
+      }
+    ]
+  },
+  {
+    "word": "昼",
+    "reading": "ひる",
+    "meanings": ["Mediodía / Tarde", "Noon / Daytime"],
+    "pos": "noun",
+    "level": "n5",
+    "tags": ["time"],
+    "examples": [
+      {
+        "text": "昼ごはんを食べましょう。",
+        "reading": "ひるごはんをたべましょう。",
+        "translation": "Comamos el almuerzo."
+      }
+    ]
+  },
+  {
+    "word": "夜",
+    "reading": "よる",
+    "meanings": ["Noche", "Night"],
+    "pos": "noun",
+    "level": "n5",
+    "tags": ["time"],
+    "examples": [
+      {
+        "text": "夜、本を読みます。",
+        "reading": "よる、ほんをよみます。",
+        "translation": "Por la noche leo un libro."
+      }
+    ]
+  },
+  {
+    "word": "毎日",
+    "reading": "まいにち",
+    "meanings": ["Todos los días", "Every day"],
+    "pos": "noun",
+    "level": "n5",
+    "tags": ["time", "frequency"],
+    "examples": [
+      {
+        "text": "毎日、日本語を勉強します。",
+        "reading": "まいにち、にほんごをべんきょうします。",
+        "translation": "Estudio japonés todos los días."
+      }
+    ]
+  },
+  {
+    "word": "毎朝",
+    "reading": "まいあさ",
+    "meanings": ["Cada mañana", "Every morning"],
+    "pos": "noun",
+    "level": "n5",
+    "tags": ["time", "frequency"],
+    "examples": [
+      {
+        "text": "毎朝、ジョギングをします。",
+        "reading": "まいあさ、じょぎんぐをします。",
+        "translation": "Cada mañana salgo a correr."
+      }
+    ]
+  },
+  {
+    "word": "今",
+    "reading": "いま",
+    "meanings": ["Ahora", "Now"],
+    "pos": "noun",
+    "level": "n5",
+    "tags": ["time", "basic"],
+    "examples": [
+      {
+        "text": "今、何時ですか。",
+        "reading": "いま、なんじですか。",
+        "translation": "¿Qué hora es ahora?"
+      }
+    ]
+  },
+  {
+    "word": "今年",
+    "reading": "ことし",
+    "meanings": ["Este año", "This year"],
+    "pos": "noun",
+    "level": "n5",
+    "tags": ["time"],
+    "examples": [
+      {
+        "text": "今年、日本に行きたいです。",
+        "reading": "ことし、にほんにいきたいです。",
+        "translation": "Este año quiero ir a Japón."
+      }
+    ]
+  },
+  {
+    "word": "来年",
+    "reading": "らいねん",
+    "meanings": ["El año que viene", "Next year"],
+    "pos": "noun",
+    "level": "n5",
+    "tags": ["time"],
+    "examples": [
+      {
+        "text": "来年、大学に入ります。",
+        "reading": "らいねん、だいがくにはいります。",
+        "translation": "El año que viene entraré a la universidad."
+      }
+    ]
+  },
+  {
+    "word": "去年",
+    "reading": "きょねん",
+    "meanings": ["El año pasado", "Last year"],
+    "pos": "noun",
+    "level": "n5",
+    "tags": ["time"],
+    "examples": [
+      {
+        "text": "去年、京都に行きました。",
+        "reading": "きょねん、きょうとにいきました。",
+        "translation": "El año pasado fui a Kioto."
+      }
+    ]
+  },
+  {
+    "word": "週末",
+    "reading": "しゅうまつ",
+    "meanings": ["Fin de semana", "Weekend"],
+    "pos": "noun",
+    "level": "n5",
+    "tags": ["time"],
+    "examples": [
+      {
+        "text": "週末、何をしますか。",
+        "reading": "しゅうまつ、なにをしますか。",
+        "translation": "¿Qué harás el fin de semana?"
+      }
+    ]
+  },
+  {
+    "word": "月曜日",
+    "reading": "げつようび",
+    "meanings": ["Lunes", "Monday"],
+    "pos": "noun",
+    "level": "n5",
+    "tags": ["time", "day-of-week"],
+    "examples": [
+      {
+        "text": "月曜日から仕事が始まります。",
+        "reading": "げつようびからしごとがはじまります。",
+        "translation": "El trabajo empieza el lunes."
+      }
+    ]
+  },
+  {
+    "word": "日曜日",
+    "reading": "にちようび",
+    "meanings": ["Domingo", "Sunday"],
+    "pos": "noun",
+    "level": "n5",
+    "tags": ["time", "day-of-week"],
+    "examples": [
+      {
+        "text": "日曜日は休みです。",
+        "reading": "にちようびはやすみです。",
+        "translation": "El domingo es día de descanso."
+      }
+    ]
+  },
+  {
+    "word": "食べる",
+    "reading": "たべる",
+    "meanings": ["Comer", "To eat"],
+    "pos": "verb-ichidan",
+    "level": "n5",
+    "tags": ["verb", "food", "daily-life"],
+    "examples": [
+      {
+        "text": "朝ごはんを食べます。",
+        "reading": "あさごはんをたべます。",
+        "translation": "Desayuno. / Como el desayuno."
+      }
+    ]
+  },
+  {
+    "word": "飲む",
+    "reading": "のむ",
+    "meanings": ["Beber", "To drink"],
+    "pos": "verb-godan",
+    "level": "n5",
+    "tags": ["verb", "food", "daily-life"],
+    "examples": [
+      {
+        "text": "水を飲みます。",
+        "reading": "みずをのみます。",
+        "translation": "Bebo agua."
+      }
+    ]
+  },
+  {
+    "word": "行く",
+    "reading": "いく",
+    "meanings": ["Ir", "To go"],
+    "pos": "verb-godan",
+    "level": "n5",
+    "tags": ["verb", "movement", "basic"],
+    "examples": [
+      {
+        "text": "学校に行きます。",
+        "reading": "がっこうにいきます。",
+        "translation": "Voy a la escuela."
+      }
+    ]
+  },
+  {
+    "word": "来る",
+    "reading": "くる",
+    "meanings": ["Venir", "To come"],
+    "pos": "verb-irregular",
+    "level": "n5",
+    "tags": ["verb", "movement", "basic"],
+    "examples": [
+      {
+        "text": "友達が家に来ます。",
+        "reading": "ともだちがいえにきます。",
+        "translation": "Mi amigo viene a casa."
+      }
+    ]
+  },
+  {
+    "word": "見る",
+    "reading": "みる",
+    "meanings": ["Ver / Mirar", "To see / To watch"],
+    "pos": "verb-ichidan",
+    "level": "n5",
+    "tags": ["verb", "perception"],
+    "examples": [
+      {
+        "text": "テレビを見ます。",
+        "reading": "てれびをみます。",
+        "translation": "Veo la televisión."
+      }
+    ]
+  },
+  {
+    "word": "聞く",
+    "reading": "きく",
+    "meanings": ["Escuchar / Preguntar", "To listen / To ask"],
+    "pos": "verb-godan",
+    "level": "n5",
+    "tags": ["verb", "perception", "communication"],
+    "examples": [
+      {
+        "text": "音楽を聞きます。",
+        "reading": "おんがくをききます。",
+        "translation": "Escucho música."
+      }
+    ]
+  },
+  {
+    "word": "話す",
+    "reading": "はなす",
+    "meanings": ["Hablar", "To speak / To talk"],
+    "pos": "verb-godan",
+    "level": "n5",
+    "tags": ["verb", "communication"],
+    "examples": [
+      {
+        "text": "日本語を話します。",
+        "reading": "にほんごをはなします。",
+        "translation": "Hablo japonés."
+      }
+    ]
+  },
+  {
+    "word": "読む",
+    "reading": "よむ",
+    "meanings": ["Leer", "To read"],
+    "pos": "verb-godan",
+    "level": "n5",
+    "tags": ["verb", "study"],
+    "examples": [
+      {
+        "text": "本を読みます。",
+        "reading": "ほんをよみます。",
+        "translation": "Leo un libro."
+      }
+    ]
+  },
+  {
+    "word": "書く",
+    "reading": "かく",
+    "meanings": ["Escribir", "To write"],
+    "pos": "verb-godan",
+    "level": "n5",
+    "tags": ["verb", "study"],
+    "examples": [
+      {
+        "text": "手紙を書きます。",
+        "reading": "てがみをかきます。",
+        "translation": "Escribo una carta."
+      }
+    ]
+  },
+  {
+    "word": "買う",
+    "reading": "かう",
+    "meanings": ["Comprar", "To buy"],
+    "pos": "verb-godan",
+    "level": "n5",
+    "tags": ["verb", "shopping"],
+    "examples": [
+      {
+        "text": "スーパーで野菜を買います。",
+        "reading": "すーぱーでやさいをかいます。",
+        "translation": "Compro verduras en el supermercado."
+      }
+    ]
+  },
+  {
+    "word": "作る",
+    "reading": "つくる",
+    "meanings": ["Hacer / Crear", "To make / To create"],
+    "pos": "verb-godan",
+    "level": "n5",
+    "tags": ["verb", "daily-life"],
+    "examples": [
+      {
+        "text": "料理を作ります。",
+        "reading": "りょうりをつくります。",
+        "translation": "Preparo la comida."
+      }
+    ]
+  },
+  {
+    "word": "遊ぶ",
+    "reading": "あそぶ",
+    "meanings": ["Jugar / Divertirse", "To play / To have fun"],
+    "pos": "verb-godan",
+    "level": "n5",
+    "tags": ["verb", "leisure"],
+    "examples": [
+      {
+        "text": "公園で遊びます。",
+        "reading": "こうえんであそびます。",
+        "translation": "Juego en el parque."
+      }
+    ]
+  },
+  {
+    "word": "働く",
+    "reading": "はたらく",
+    "meanings": ["Trabajar", "To work"],
+    "pos": "verb-godan",
+    "level": "n5",
+    "tags": ["verb", "work"],
+    "examples": [
+      {
+        "text": "会社で働きます。",
+        "reading": "かいしゃではたらきます。",
+        "translation": "Trabajo en una empresa."
+      }
+    ]
+  },
+  {
+    "word": "勉強する",
+    "reading": "べんきょうする",
+    "meanings": ["Estudiar", "To study"],
+    "pos": "verb-irregular",
+    "level": "n5",
+    "tags": ["verb", "study"],
+    "examples": [
+      {
+        "text": "図書館で勉強します。",
+        "reading": "としょかんでべんきょうします。",
+        "translation": "Estudio en la biblioteca."
+      }
+    ]
+  },
+  {
+    "word": "起きる",
+    "reading": "おきる",
+    "meanings": ["Levantarse / Despertarse", "To wake up / To get up"],
+    "pos": "verb-ichidan",
+    "level": "n5",
+    "tags": ["verb", "daily-life"],
+    "examples": [
+      {
+        "text": "毎朝六時に起きます。",
+        "reading": "まいあさろくじにおきます。",
+        "translation": "Me levanto a las seis cada mañana."
+      }
+    ]
+  },
+  {
+    "word": "寝る",
+    "reading": "ねる",
+    "meanings": ["Dormir / Acostarse", "To sleep / To go to bed"],
+    "pos": "verb-ichidan",
+    "level": "n5",
+    "tags": ["verb", "daily-life"],
+    "examples": [
+      {
+        "text": "十一時に寝ます。",
+        "reading": "じゅういちじにねます。",
+        "translation": "Me acuesto a las once."
+      }
+    ]
+  },
+  {
+    "word": "歩く",
+    "reading": "あるく",
+    "meanings": ["Caminar", "To walk"],
+    "pos": "verb-godan",
+    "level": "n5",
+    "tags": ["verb", "movement"],
+    "examples": [
+      {
+        "text": "駅まで歩きます。",
+        "reading": "えきまであるきます。",
+        "translation": "Camino hasta la estación."
+      }
+    ]
+  },
+  {
+    "word": "走る",
+    "reading": "はしる",
+    "meanings": ["Correr", "To run"],
+    "pos": "verb-godan",
+    "level": "n5",
+    "tags": ["verb", "movement", "sport"],
+    "examples": [
+      {
+        "text": "公園で走ります。",
+        "reading": "こうえんではしります。",
+        "translation": "Corro en el parque."
+      }
+    ]
+  },
+  {
+    "word": "乗る",
+    "reading": "のる",
+    "meanings": ["Subirse / Montar", "To ride / To get on"],
+    "pos": "verb-godan",
+    "level": "n5",
+    "tags": ["verb", "transport"],
+    "examples": [
+      {
+        "text": "電車に乗ります。",
+        "reading": "でんしゃにのります。",
+        "translation": "Me subo al tren."
+      }
+    ]
+  },
+  {
+    "word": "降りる",
+    "reading": "おりる",
+    "meanings": ["Bajarse", "To get off / To descend"],
+    "pos": "verb-ichidan",
+    "level": "n5",
+    "tags": ["verb", "transport"],
+    "examples": [
+      {
+        "text": "次の駅で降ります。",
+        "reading": "つぎのえきでおります。",
+        "translation": "Me bajo en la siguiente estación."
+      }
+    ]
+  },
+  {
+    "word": "分かる",
+    "reading": "わかる",
+    "meanings": ["Entender / Comprender", "To understand"],
+    "pos": "verb-godan",
+    "level": "n5",
+    "tags": ["verb", "cognition"],
+    "examples": [
+      {
+        "text": "日本語が分かりますか。",
+        "reading": "にほんごがわかりますか。",
+        "translation": "¿Entiendes japonés?"
+      }
+    ]
+  },
+  {
+    "word": "教える",
+    "reading": "おしえる",
+    "meanings": ["Enseñar", "To teach / To tell"],
+    "pos": "verb-ichidan",
+    "level": "n5",
+    "tags": ["verb", "communication", "study"],
+    "examples": [
+      {
+        "text": "英語を教えます。",
+        "reading": "えいごをおしえます。",
+        "translation": "Enseño inglés."
+      }
+    ]
+  },
+  {
+    "word": "習う",
+    "reading": "ならう",
+    "meanings": ["Aprender (de alguien)", "To learn (from someone)"],
+    "pos": "verb-godan",
+    "level": "n5",
+    "tags": ["verb", "study"],
+    "examples": [
+      {
+        "text": "ピアノを習っています。",
+        "reading": "ぴあのをならっています。",
+        "translation": "Estoy aprendiendo piano."
+      }
+    ]
+  },
+  {
+    "word": "待つ",
+    "reading": "まつ",
+    "meanings": ["Esperar", "To wait"],
+    "pos": "verb-godan",
+    "level": "n5",
+    "tags": ["verb", "daily-life"],
+    "examples": [
+      {
+        "text": "ここで待ってください。",
+        "reading": "ここでまってください。",
+        "translation": "Espere aquí, por favor."
+      }
+    ]
+  },
+  {
+    "word": "会う",
+    "reading": "あう",
+    "meanings": ["Encontrarse / Reunirse", "To meet"],
+    "pos": "verb-godan",
+    "level": "n5",
+    "tags": ["verb", "social"],
+    "examples": [
+      {
+        "text": "友達に会います。",
+        "reading": "ともだちにあいます。",
+        "translation": "Me encuentro con un amigo."
+      }
+    ]
+  },
+  {
+    "word": "大きい",
+    "reading": "おおきい",
+    "meanings": ["Grande", "Big / Large"],
+    "pos": "adjective-i",
+    "level": "n5",
+    "tags": ["adjective", "size"],
+    "examples": [
+      {
+        "text": "大きい犬がいます。",
+        "reading": "おおきいいぬがいます。",
+        "translation": "Hay un perro grande."
+      }
+    ]
+  },
+  {
+    "word": "小さい",
+    "reading": "ちいさい",
+    "meanings": ["Pequeño", "Small / Little"],
+    "pos": "adjective-i",
+    "level": "n5",
+    "tags": ["adjective", "size"],
+    "examples": [
+      {
+        "text": "小さい猫がいます。",
+        "reading": "ちいさいねこがいます。",
+        "translation": "Hay un gato pequeño."
+      }
+    ]
+  },
+  {
+    "word": "高い",
+    "reading": "たかい",
+    "meanings": ["Alto / Caro", "Tall / Expensive"],
+    "pos": "adjective-i",
+    "level": "n5",
+    "tags": ["adjective", "size", "price"],
+    "examples": [
+      {
+        "text": "この建物は高いです。",
+        "reading": "このたてものはたかいです。",
+        "translation": "Este edificio es alto."
+      }
+    ]
+  },
+  {
+    "word": "安い",
+    "reading": "やすい",
+    "meanings": ["Barato", "Cheap / Inexpensive"],
+    "pos": "adjective-i",
+    "level": "n5",
+    "tags": ["adjective", "price", "shopping"],
+    "examples": [
+      {
+        "text": "このかばんは安いです。",
+        "reading": "このかばんはやすいです。",
+        "translation": "Este bolso es barato."
+      }
+    ]
+  },
+  {
+    "word": "新しい",
+    "reading": "あたらしい",
+    "meanings": ["Nuevo", "New"],
+    "pos": "adjective-i",
+    "level": "n5",
+    "tags": ["adjective"],
+    "examples": [
+      {
+        "text": "新しい靴を買いました。",
+        "reading": "あたらしいくつをかいました。",
+        "translation": "Compré zapatos nuevos."
+      }
+    ]
+  },
+  {
+    "word": "古い",
+    "reading": "ふるい",
+    "meanings": ["Viejo (cosas)", "Old (things)"],
+    "pos": "adjective-i",
+    "level": "n5",
+    "tags": ["adjective"],
+    "examples": [
+      {
+        "text": "古い写真を見ました。",
+        "reading": "ふるいしゃしんをみました。",
+        "translation": "Vi fotos viejas."
+      }
+    ]
+  },
+  {
+    "word": "いい",
+    "reading": "いい",
+    "meanings": ["Bueno", "Good"],
+    "pos": "adjective-i",
+    "level": "n5",
+    "tags": ["adjective", "basic"],
+    "examples": [
+      {
+        "text": "いい天気ですね。",
+        "reading": "いいてんきですね。",
+        "translation": "Hace buen tiempo, ¿verdad?"
+      }
+    ]
+  },
+  {
+    "word": "悪い",
+    "reading": "わるい",
+    "meanings": ["Malo", "Bad"],
+    "pos": "adjective-i",
+    "level": "n5",
+    "tags": ["adjective", "basic"],
+    "examples": [
+      {
+        "text": "天気が悪いです。",
+        "reading": "てんきがわるいです。",
+        "translation": "El tiempo es malo."
+      }
+    ]
+  },
+  {
+    "word": "おいしい",
+    "reading": "おいしい",
+    "meanings": ["Delicioso / Rico", "Delicious / Tasty"],
+    "pos": "adjective-i",
+    "level": "n5",
+    "tags": ["adjective", "food"],
+    "examples": [
+      {
+        "text": "このラーメンはおいしいです。",
+        "reading": "このらーめんはおいしいです。",
+        "translation": "Este ramen es delicioso."
+      }
+    ]
+  },
+  {
+    "word": "楽しい",
+    "reading": "たのしい",
+    "meanings": ["Divertido / Agradable", "Fun / Enjoyable"],
+    "pos": "adjective-i",
+    "level": "n5",
+    "tags": ["adjective", "emotion"],
+    "examples": [
+      {
+        "text": "旅行は楽しいです。",
+        "reading": "りょこうはたのしいです。",
+        "translation": "Los viajes son divertidos."
+      }
+    ]
+  },
+  {
+    "word": "難しい",
+    "reading": "むずかしい",
+    "meanings": ["Difícil", "Difficult"],
+    "pos": "adjective-i",
+    "level": "n5",
+    "tags": ["adjective", "study"],
+    "examples": [
+      {
+        "text": "漢字は難しいです。",
+        "reading": "かんじはむずかしいです。",
+        "translation": "Los kanji son difíciles."
+      }
+    ]
+  },
+  {
+    "word": "優しい",
+    "reading": "やさしい",
+    "meanings": ["Amable / Gentil", "Kind / Gentle"],
+    "pos": "adjective-i",
+    "level": "n5",
+    "tags": ["adjective", "personality"],
+    "examples": [
+      {
+        "text": "先生は優しいです。",
+        "reading": "せんせいはやさしいです。",
+        "translation": "El profesor es amable."
+      }
+    ]
+  },
+  {
+    "word": "暑い",
+    "reading": "あつい",
+    "meanings": ["Caluroso (clima)", "Hot (weather)"],
+    "pos": "adjective-i",
+    "level": "n5",
+    "tags": ["adjective", "weather"],
+    "examples": [
+      {
+        "text": "今日は暑いです。",
+        "reading": "きょうはあついです。",
+        "translation": "Hoy hace calor."
+      }
+    ]
+  },
+  {
+    "word": "寒い",
+    "reading": "さむい",
+    "meanings": ["Frío (clima)", "Cold (weather)"],
+    "pos": "adjective-i",
+    "level": "n5",
+    "tags": ["adjective", "weather"],
+    "examples": [
+      {
+        "text": "冬は寒いです。",
+        "reading": "ふゆはさむいです。",
+        "translation": "El invierno es frío."
+      }
+    ]
+  },
+  {
+    "word": "好き",
+    "reading": "すき",
+    "meanings": ["Gustar / Favorito", "Like / Favorite"],
+    "pos": "adjective-na",
+    "level": "n5",
+    "tags": ["adjective", "emotion"],
+    "examples": [
+      {
+        "text": "寿司が好きです。",
+        "reading": "すしがすきです。",
+        "translation": "Me gusta el sushi."
+      }
+    ]
+  },
+  {
+    "word": "水",
+    "reading": "みず",
+    "meanings": ["Agua", "Water"],
+    "pos": "noun",
+    "level": "n5",
+    "tags": ["noun", "food", "basic"],
+    "examples": [
+      {
+        "text": "水をください。",
+        "reading": "みずをください。",
+        "translation": "Agua, por favor."
+      }
+    ]
+  },
+  {
+    "word": "ご飯",
+    "reading": "ごはん",
+    "meanings": ["Arroz / Comida", "Rice / Meal"],
+    "pos": "noun",
+    "level": "n5",
+    "tags": ["noun", "food"],
+    "examples": [
+      {
+        "text": "ご飯を食べましたか。",
+        "reading": "ごはんをたべましたか。",
+        "translation": "¿Ya comiste?"
+      }
+    ]
+  },
+  {
+    "word": "パン",
+    "reading": "ぱん",
+    "meanings": ["Pan", "Bread"],
+    "pos": "noun",
+    "level": "n5",
+    "tags": ["noun", "food"],
+    "examples": [
+      {
+        "text": "朝、パンを食べます。",
+        "reading": "あさ、ぱんをたべます。",
+        "translation": "Por la mañana como pan."
+      }
+    ]
+  },
+  {
+    "word": "肉",
+    "reading": "にく",
+    "meanings": ["Carne", "Meat"],
+    "pos": "noun",
+    "level": "n5",
+    "tags": ["noun", "food"],
+    "examples": [
+      {
+        "text": "肉が好きです。",
+        "reading": "にくがすきです。",
+        "translation": "Me gusta la carne."
+      }
+    ]
+  },
+  {
+    "word": "魚",
+    "reading": "さかな",
+    "meanings": ["Pescado / Pez", "Fish"],
+    "pos": "noun",
+    "level": "n5",
+    "tags": ["noun", "food"],
+    "examples": [
+      {
+        "text": "日本人は魚をよく食べます。",
+        "reading": "にほんじんはさかなをよくたべます。",
+        "translation": "Los japoneses comen mucho pescado."
+      }
+    ]
+  },
+  {
+    "word": "果物",
+    "reading": "くだもの",
+    "meanings": ["Fruta", "Fruit"],
+    "pos": "noun",
+    "level": "n5",
+    "tags": ["noun", "food"],
+    "examples": [
+      {
+        "text": "果物を買いました。",
+        "reading": "くだものをかいました。",
+        "translation": "Compré fruta."
+      }
+    ]
+  },
+  {
+    "word": "電車",
+    "reading": "でんしゃ",
+    "meanings": ["Tren", "Train"],
+    "pos": "noun",
+    "level": "n5",
+    "tags": ["noun", "transport"],
+    "examples": [
+      {
+        "text": "電車で会社に行きます。",
+        "reading": "でんしゃでかいしゃにいきます。",
+        "translation": "Voy a la empresa en tren."
+      }
+    ]
+  },
+  {
+    "word": "車",
+    "reading": "くるま",
+    "meanings": ["Coche / Auto", "Car"],
+    "pos": "noun",
+    "level": "n5",
+    "tags": ["noun", "transport"],
+    "examples": [
+      {
+        "text": "新しい車を買いたいです。",
+        "reading": "あたらしいくるまをかいたいです。",
+        "translation": "Quiero comprar un coche nuevo."
+      }
+    ]
+  },
+  {
+    "word": "駅",
+    "reading": "えき",
+    "meanings": ["Estación (de tren)", "Station"],
+    "pos": "noun",
+    "level": "n5",
+    "tags": ["noun", "transport", "place"],
+    "examples": [
+      {
+        "text": "駅はどこですか。",
+        "reading": "えきはどこですか。",
+        "translation": "¿Dónde está la estación?"
+      }
+    ]
+  },
+  {
+    "word": "学校",
+    "reading": "がっこう",
+    "meanings": ["Escuela", "School"],
+    "pos": "noun",
+    "level": "n5",
+    "tags": ["noun", "place", "study"],
+    "examples": [
+      {
+        "text": "学校は九時に始まります。",
+        "reading": "がっこうはくじにはじまります。",
+        "translation": "La escuela empieza a las nueve."
+      }
+    ]
+  },
+  {
+    "word": "病院",
+    "reading": "びょういん",
+    "meanings": ["Hospital", "Hospital"],
+    "pos": "noun",
+    "level": "n5",
+    "tags": ["noun", "place", "health"],
+    "examples": [
+      {
+        "text": "病院に行きました。",
+        "reading": "びょういんにいきました。",
+        "translation": "Fui al hospital."
+      }
+    ]
+  },
+  {
+    "word": "図書館",
+    "reading": "としょかん",
+    "meanings": ["Biblioteca", "Library"],
+    "pos": "noun",
+    "level": "n5",
+    "tags": ["noun", "place", "study"],
+    "examples": [
+      {
+        "text": "図書館で本を借ります。",
+        "reading": "としょかんでほんをかります。",
+        "translation": "Pido prestado un libro en la biblioteca."
+      }
+    ]
+  },
+  {
+    "word": "本",
+    "reading": "ほん",
+    "meanings": ["Libro", "Book"],
+    "pos": "noun",
+    "level": "n5",
+    "tags": ["noun", "study"],
+    "examples": [
+      {
+        "text": "この本はおもしろいです。",
+        "reading": "このほんはおもしろいです。",
+        "translation": "Este libro es interesante."
+      }
+    ]
+  },
+  {
+    "word": "新聞",
+    "reading": "しんぶん",
+    "meanings": ["Periódico", "Newspaper"],
+    "pos": "noun",
+    "level": "n5",
+    "tags": ["noun", "media"],
+    "examples": [
+      {
+        "text": "毎朝、新聞を読みます。",
+        "reading": "まいあさ、しんぶんをよみます。",
+        "translation": "Cada mañana leo el periódico."
+      }
+    ]
+  },
+  {
+    "word": "テレビ",
+    "reading": "てれび",
+    "meanings": ["Televisión", "Television / TV"],
+    "pos": "noun",
+    "level": "n5",
+    "tags": ["noun", "media", "home"],
+    "examples": [
+      {
+        "text": "夜、テレビを見ます。",
+        "reading": "よる、てれびをみます。",
+        "translation": "Por la noche veo la televisión."
+      }
+    ]
+  },
+  {
+    "word": "電話",
+    "reading": "でんわ",
+    "meanings": ["Teléfono", "Telephone"],
+    "pos": "noun",
+    "level": "n5",
+    "tags": ["noun", "communication"],
+    "examples": [
+      {
+        "text": "電話をかけます。",
+        "reading": "でんわをかけます。",
+        "translation": "Hago una llamada telefónica."
+      }
+    ]
+  },
+  {
+    "word": "家",
+    "reading": "いえ",
+    "meanings": ["Casa", "House / Home"],
+    "pos": "noun",
+    "level": "n5",
+    "tags": ["noun", "place", "home"],
+    "examples": [
+      {
+        "text": "家に帰ります。",
+        "reading": "いえにかえります。",
+        "translation": "Vuelvo a casa."
+      }
+    ]
+  },
+  {
+    "word": "部屋",
+    "reading": "へや",
+    "meanings": ["Habitación / Cuarto", "Room"],
+    "pos": "noun",
+    "level": "n5",
+    "tags": ["noun", "home"],
+    "examples": [
+      {
+        "text": "部屋を掃除します。",
+        "reading": "へやをそうじします。",
+        "translation": "Limpio la habitación."
+      }
+    ]
+  },
+  {
+    "word": "窓",
+    "reading": "まど",
+    "meanings": ["Ventana", "Window"],
+    "pos": "noun",
+    "level": "n5",
+    "tags": ["noun", "home"],
+    "examples": [
+      {
+        "text": "窓を開けてください。",
+        "reading": "まどをあけてください。",
+        "translation": "Abra la ventana, por favor."
+      }
+    ]
+  },
+  {
+    "word": "ドア",
+    "reading": "どあ",
+    "meanings": ["Puerta", "Door"],
+    "pos": "noun",
+    "level": "n5",
+    "tags": ["noun", "home"],
+    "examples": [
+      {
+        "text": "ドアを閉めてください。",
+        "reading": "どあをしめてください。",
+        "translation": "Cierre la puerta, por favor."
+      }
+    ]
+  },
+  {
+    "word": "とても",
+    "reading": "とても",
+    "meanings": ["Muy", "Very"],
+    "pos": "adverb",
+    "level": "n5",
+    "tags": ["adverb", "degree"],
+    "examples": [
+      {
+        "text": "この映画はとてもおもしろいです。",
+        "reading": "このえいがはとてもおもしろいです。",
+        "translation": "Esta película es muy interesante."
+      }
+    ]
+  },
+  {
+    "word": "少し",
+    "reading": "すこし",
+    "meanings": ["Un poco", "A little"],
+    "pos": "adverb",
+    "level": "n5",
+    "tags": ["adverb", "degree"],
+    "examples": [
+      {
+        "text": "日本語が少し分かります。",
+        "reading": "にほんごがすこしわかります。",
+        "translation": "Entiendo un poco de japonés."
+      }
+    ]
+  },
+  {
+    "word": "もう",
+    "reading": "もう",
+    "meanings": ["Ya", "Already"],
+    "pos": "adverb",
+    "level": "n5",
+    "tags": ["adverb", "time"],
+    "examples": [
+      {
+        "text": "もう食べましたか。",
+        "reading": "もうたべましたか。",
+        "translation": "¿Ya comiste?"
+      }
+    ]
+  },
+  {
+    "word": "まだ",
+    "reading": "まだ",
+    "meanings": ["Todavía / Aún", "Still / Not yet"],
+    "pos": "adverb",
+    "level": "n5",
+    "tags": ["adverb", "time"],
+    "examples": [
+      {
+        "text": "まだ終わっていません。",
+        "reading": "まだおわっていません。",
+        "translation": "Todavía no he terminado."
+      }
+    ]
+  },
+  {
+    "word": "いつも",
+    "reading": "いつも",
+    "meanings": ["Siempre", "Always"],
+    "pos": "adverb",
+    "level": "n5",
+    "tags": ["adverb", "frequency"],
+    "examples": [
+      {
+        "text": "いつもここで昼ごはんを食べます。",
+        "reading": "いつもここでひるごはんをたべます。",
+        "translation": "Siempre como el almuerzo aquí."
+      }
+    ]
+  },
+  {
+    "word": "時々",
+    "reading": "ときどき",
+    "meanings": ["A veces", "Sometimes"],
+    "pos": "adverb",
+    "level": "n5",
+    "tags": ["adverb", "frequency"],
+    "examples": [
+      {
+        "text": "時々、公園を散歩します。",
+        "reading": "ときどき、こうえんをさんぽします。",
+        "translation": "A veces paseo por el parque."
+      }
+    ]
+  },
+  {
+    "word": "たぶん",
+    "reading": "たぶん",
+    "meanings": ["Probablemente / Quizás", "Probably / Maybe"],
+    "pos": "adverb",
+    "level": "n5",
+    "tags": ["adverb", "certainty"],
+    "examples": [
+      {
+        "text": "たぶん明日は雨です。",
+        "reading": "たぶんあしたはあめです。",
+        "translation": "Probablemente mañana llueva."
+      }
+    ]
+  },
+  {
+    "word": "全然",
+    "reading": "ぜんぜん",
+    "meanings": ["Para nada / En absoluto", "Not at all"],
+    "pos": "adverb",
+    "level": "n5",
+    "tags": ["adverb", "degree", "negation"],
+    "examples": [
+      {
+        "text": "全然分かりません。",
+        "reading": "ぜんぜんわかりません。",
+        "translation": "No entiendo para nada."
+      }
+    ]
+  },
+  {
+    "word": "一緒に",
+    "reading": "いっしょに",
+    "meanings": ["Juntos", "Together"],
+    "pos": "adverb",
+    "level": "n5",
+    "tags": ["adverb", "social"],
+    "examples": [
+      {
+        "text": "一緒に映画を見ましょう。",
+        "reading": "いっしょにえいがをみましょう。",
+        "translation": "Veamos una película juntos."
+      }
+    ]
+  },
+  {
+    "word": "ゆっくり",
+    "reading": "ゆっくり",
+    "meanings": ["Despacio / Con calma", "Slowly"],
+    "pos": "adverb",
+    "level": "n5",
+    "tags": ["adverb", "manner"],
+    "examples": [
+      {
+        "text": "ゆっくり話してください。",
+        "reading": "ゆっくりはなしてください。",
+        "translation": "Hable despacio, por favor."
+      }
+    ]
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "intensive",
+    "name": "Ruta Intensiva",
+    "type": "intensive",
+    "description": "Para quienes dedican más de 3 horas diarias. Objetivo: alcanzar B1 en 6 meses.",
+    "phases": [
+      {
+        "name": "A1 Foundations",
+        "duration": "4 semanas",
+        "level": "a1",
+        "content": "Gramática esencial: to be, present simple, present continuous, articles. Vocabulario básico: 300+ palabras (saludos, familia, comida, colores, números). Lecturas y ejercicios de nivel A1.",
+        "dailyGoal": "3+ horas: 1h gramática, 1h vocabulario + SRS, 30min lectura, 30min escucha/pronunciación",
+        "milestones": [
+          "Presentarse y hacer preguntas básicas en inglés",
+          "Entender instrucciones simples",
+          "Leer textos cortos sin diccionario"
+        ]
+      },
+      {
+        "name": "A1 Complete + A2 Start",
+        "duration": "6 semanas",
+        "level": "a2",
+        "content": "Completar gramática A1 (past simple, going to, comparatives). Empezar A2: present perfect, will, conditionals. Vocabulario: 600+ palabras. Phrasal verbs básicos.",
+        "dailyGoal": "3+ horas: 1h gramática nueva, 1h vocabulario + SRS, 30min reading/writing, 30min speaking/listening",
+        "milestones": [
+          "Contar experiencias pasadas en inglés",
+          "Entender el 60% de una conversación cotidiana",
+          "Escribir emails simples"
+        ]
+      },
+      {
+        "name": "A2 Complete",
+        "duration": "8 semanas",
+        "level": "a2",
+        "content": "Gramática A2 completa: passive voice, relative clauses, reported speech, second conditional. Vocabulario: 1000+ palabras. Inmersión con podcasts y videos.",
+        "dailyGoal": "3+ horas: 1h gramática, 1h inmersión (podcasts, videos), 30min writing, 30min conversation practice",
+        "milestones": [
+          "Entender podcasts para learners (6 Minute English)",
+          "Mantener una conversación de 10+ minutos",
+          "Aprobar mock test A2 con >80%"
+        ]
+      },
+      {
+        "name": "B1 Transition",
+        "duration": "8 semanas",
+        "level": "b1",
+        "content": "Gramática B1: past perfect, third conditional, modal perfects. Vocabulario: 1500+ palabras. Lectura de artículos reales. Práctica de writing estructurado.",
+        "dailyGoal": "3+ horas: balance 50/50 entre estudio formal e inmersión real",
+        "milestones": [
+          "Leer artículos de BBC Learning English sin ayuda",
+          "Entender TED Talks con subtítulos en inglés",
+          "Escribir ensayos de 200+ palabras",
+          "Aprobar mock test B1"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "standard",
+    "name": "Ruta Estándar",
+    "type": "standard",
+    "description": "Para quienes dedican 1-2 horas diarias. Objetivo: alcanzar B1 en 12-18 meses.",
+    "phases": [
+      {
+        "name": "A1 Base",
+        "duration": "8 semanas",
+        "level": "a1",
+        "content": "Gramática A1 a ritmo sostenido. Vocabulario: primeras 200 palabras. Ejercicios diarios de SRS.",
+        "dailyGoal": "1-2 horas: 30min gramática, 30min vocabulario SRS, 30min lectura/escucha",
+        "milestones": [
+          "Presentarse en inglés con confianza",
+          "Entender textos graduados nivel A1",
+          "200+ palabras activas en SRS"
+        ]
+      },
+      {
+        "name": "A1 → A2 Transition",
+        "duration": "12 semanas",
+        "level": "a1",
+        "content": "Completar gramática A1. Empezar vocabulario A2. Lectura graduada. Primeros podcasts para beginners.",
+        "dailyGoal": "1.5 horas: 30min estudio nuevo, 30min SRS repaso, 30min escucha",
+        "milestones": [
+          "Gramática A1 sólida",
+          "400+ palabras activas",
+          "Entender instrucciones en inglés"
+        ]
+      },
+      {
+        "name": "A2 Gradual",
+        "duration": "20 semanas",
+        "level": "a2",
+        "content": "Gramática A2 completa. Vocabulario 800+ palabras. Phrasal verbs. Lectura de textos intermedios. Práctica de escritura.",
+        "dailyGoal": "1.5 horas: 30min gramática, 30min SRS, 30min inmersión variada",
+        "milestones": [
+          "Entender conversaciones cotidianas",
+          "Escribir textos de 100+ palabras",
+          "Aprobar mock test A2"
+        ]
+      },
+      {
+        "name": "B1 Sostenido",
+        "duration": "24 semanas",
+        "level": "b1",
+        "content": "Gramática B1. Vocabulario 1200+ palabras. Transición a contenido real (noticias, podcasts, series).",
+        "dailyGoal": "2 horas: 30min gramática, 30min SRS, 30min lectura real, 30min escucha",
+        "milestones": [
+          "Leer artículos de noticias con ayuda moderada",
+          "Entender series en inglés con subtítulos",
+          "Mantener conversaciones sobre temas variados"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "casual",
+    "name": "Ruta Casual",
+    "type": "casual",
+    "description": "Para quienes dedican 30 minutos diarios. Progreso gradual sin presión. Objetivo: A2-B1 a tu ritmo.",
+    "phases": [
+      {
+        "name": "Descubrimiento",
+        "duration": "12 semanas",
+        "level": "a1",
+        "content": "Aprender lo esencial: saludos, números, verbos básicos. Gramática mínima: to be, present simple.",
+        "dailyGoal": "30 minutos: 15min vocabulario nuevo + SRS, 15min gramática o lectura",
+        "milestones": [
+          "100+ palabras básicas aprendidas",
+          "Presentarse en inglés"
+        ]
+      },
+      {
+        "name": "Base A1",
+        "duration": "24 semanas",
+        "level": "a1",
+        "content": "Gramática A1 a ritmo relajado. 5-8 palabras nuevas por día. Lecturas cortas. Juegos y apps.",
+        "dailyGoal": "30 minutos: 15min items nuevos, 15min repaso + lectura ligera",
+        "milestones": [
+          "Gramática A1 básica internalizada",
+          "300+ palabras en SRS",
+          "Disfrutar textos graduados A1"
+        ]
+      },
+      {
+        "name": "Exploración A2",
+        "duration": "36 semanas",
+        "level": "a2",
+        "content": "Empezar A2 sin prisa. Intercalar contenido nuevo con repaso profundo de A1. Primeros podcasts simples.",
+        "dailyGoal": "30 minutos: lo que te motive ese día — vocabulario, gramática, escucha o lectura",
+        "milestones": [
+          "A1 sólido y maduro",
+          "200+ palabras A2 aprendidas",
+          "Entender canciones simples en inglés"
+        ]
+      },
+      {
+        "name": "Hacia B1",
+        "duration": "48+ semanas",
+        "level": "b1",
+        "content": "Continuar A2 y empezar B1 gradualmente. Sin fecha límite — disfrutar el proceso.",
+        "dailyGoal": "30 minutos: lo que te motive",
+        "milestones": [
+          "Vocabulario activo de 800+ palabras",
+          "Entender series simples en inglés",
+          "Poder comunicarse en situaciones básicas de viaje"
+        ]
+      }
+    ]
+  }
+]

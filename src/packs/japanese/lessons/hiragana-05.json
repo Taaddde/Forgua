@@ -1,0 +1,81 @@
+{
+  "id": "hiragana-05",
+  "title": "Hiragana: な行 (na, ni, nu, ne, no)",
+  "description": "Aprendé los cinco caracteres de la fila な: na, ni, nu, ne, no. Esta fila tiene lecturas regulares que siguen el patrón consonante + vocal.",
+  "level": "n5",
+  "category": "characters",
+  "items": [
+    {
+      "front": "な",
+      "back": "na",
+      "reading": "na",
+      "explanation": "な se pronuncia 'na'. Aparece en palabras como なまえ (namae, nombre) y なつ (natsu, verano).",
+      "mnemonic": "な has a kNot in the middle",
+      "cardRef": { "category": "characters", "front": "な" }
+    },
+    {
+      "front": "に",
+      "back": "ni",
+      "reading": "ni",
+      "explanation": "に se pronuncia 'ni'. Es también una partícula gramatical muy importante. Aparece en にほん (nihon, Japón) y にく (niku, carne).",
+      "mnemonic": "に looks like two NEedles",
+      "cardRef": { "category": "characters", "front": "に" }
+    },
+    {
+      "front": "ぬ",
+      "back": "nu",
+      "reading": "nu",
+      "explanation": "ぬ se pronuncia 'nu'. Aparece en ぬる (nuru, pintar) y いぬ (inu, perro).",
+      "mnemonic": "ぬ has NOOdles swirling",
+      "cardRef": { "category": "characters", "front": "ぬ" }
+    },
+    {
+      "front": "ね",
+      "back": "ne",
+      "reading": "ne",
+      "explanation": "ね se pronuncia 'ne'. También se usa como partícula de confirmación. Aparece en ねこ (neko, gato) y ねる (neru, dormir).",
+      "mnemonic": "ね looks like a cat (NEko)",
+      "cardRef": { "category": "characters", "front": "ね" }
+    },
+    {
+      "front": "の",
+      "back": "no",
+      "reading": "no",
+      "explanation": "の se pronuncia 'no'. Es la partícula posesiva más usada en japonés. Aparece en のむ (nomu, beber) y もの (mono, cosa).",
+      "mnemonic": "の curves like \"NO\" way around",
+      "cardRef": { "category": "characters", "front": "の" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Conocé la fila な",
+      "instruction": "Estos son los cinco caracteres de la fila な (n-). Varios de estos caracteres también funcionan como partículas gramaticales importantes.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es cuál?",
+      "instruction": "Elegí la lectura correcta para cada carácter.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "recall",
+      "title": "Ahora al revés",
+      "instruction": "Ves la lectura en romaji. Escribí o elegí el hiragana correcto.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "write",
+      "title": "Escribilo vos",
+      "instruction": "Escribí el hiragana que corresponde a cada sonido.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste な, に, ぬ, ね, の. Ahora van a aparecer en tus repasos diarios.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    }
+  ]
+}

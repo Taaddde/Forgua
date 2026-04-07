@@ -1,0 +1,182 @@
+{
+  "id": "hiragana-10",
+  "title": "Hiragana: Combinaciones (拗音)",
+  "description": "Aprendé las 21 combinaciones de hiragana (拗音). Se forman agregando un や, ゆ o よ pequeño a un carácter de la columna い para crear sonidos nuevos.",
+  "level": "n5",
+  "category": "characters",
+  "items": [
+    {
+      "front": "きゃ",
+      "back": "kya",
+      "reading": "kya",
+      "explanation": "きゃ combina き (ki) con un や pequeño. El sonido 'i' se reemplaza por 'ya', dando 'kya'. Aparece en きゃく (kyaku, cliente).",
+      "cardRef": { "category": "characters", "front": "きゃ" }
+    },
+    {
+      "front": "きゅ",
+      "back": "kyu",
+      "reading": "kyu",
+      "explanation": "きゅ combina き (ki) con un ゆ pequeño. Aparece en きゅう (kyuu, nueve) y きゅうり (kyuuri, pepino).",
+      "cardRef": { "category": "characters", "front": "きゅ" }
+    },
+    {
+      "front": "きょ",
+      "back": "kyo",
+      "reading": "kyo",
+      "explanation": "きょ combina き (ki) con un よ pequeño. Aparece en きょう (kyou, hoy) y とうきょう (toukyou, Tokio).",
+      "cardRef": { "category": "characters", "front": "きょ" }
+    },
+    {
+      "front": "しゃ",
+      "back": "sha",
+      "reading": "sha",
+      "explanation": "しゃ combina し (shi) con un や pequeño. Aparece en しゃしん (shashin, foto) y かいしゃ (kaisha, empresa).",
+      "cardRef": { "category": "characters", "front": "しゃ" }
+    },
+    {
+      "front": "しゅ",
+      "back": "shu",
+      "reading": "shu",
+      "explanation": "しゅ combina し (shi) con un ゆ pequeño. Aparece en しゅくだい (shukudai, tarea) y しゅみ (shumi, hobby).",
+      "cardRef": { "category": "characters", "front": "しゅ" }
+    },
+    {
+      "front": "しょ",
+      "back": "sho",
+      "reading": "sho",
+      "explanation": "しょ combina し (shi) con un よ pequeño. Aparece en しょくじ (shokuji, comida) y としょかん (toshokan, biblioteca).",
+      "cardRef": { "category": "characters", "front": "しょ" }
+    },
+    {
+      "front": "ちゃ",
+      "back": "cha",
+      "reading": "cha",
+      "explanation": "ちゃ combina ち (chi) con un や pequeño. Aparece en おちゃ (ocha, té) y ちゃいろ (chairo, marrón).",
+      "cardRef": { "category": "characters", "front": "ちゃ" }
+    },
+    {
+      "front": "ちゅ",
+      "back": "chu",
+      "reading": "chu",
+      "explanation": "ちゅ combina ち (chi) con un ゆ pequeño. Aparece en ちゅうごく (chuugoku, China) y ちゅうい (chuui, atención).",
+      "cardRef": { "category": "characters", "front": "ちゅ" }
+    },
+    {
+      "front": "ちょ",
+      "back": "cho",
+      "reading": "cho",
+      "explanation": "ちょ combina ち (chi) con un よ pequeño. Aparece en ちょっと (chotto, un poco) y ちょうど (choudo, justo).",
+      "cardRef": { "category": "characters", "front": "ちょ" }
+    },
+    {
+      "front": "にゃ",
+      "back": "nya",
+      "reading": "nya",
+      "explanation": "にゃ combina に (ni) con un や pequeño. Es el sonido que hacen los gatos en japonés: にゃー (nyaa).",
+      "cardRef": { "category": "characters", "front": "にゃ" }
+    },
+    {
+      "front": "にゅ",
+      "back": "nyu",
+      "reading": "nyu",
+      "explanation": "にゅ combina に (ni) con un ゆ pequeño. Aparece en にゅうがく (nyuugaku, ingreso escolar) y にゅうす (nyuusu, noticias).",
+      "cardRef": { "category": "characters", "front": "にゅ" }
+    },
+    {
+      "front": "にょ",
+      "back": "nyo",
+      "reading": "nyo",
+      "explanation": "にょ combina に (ni) con un よ pequeño. Es menos frecuente; aparece en にょうぼう (nyoubou, esposa - coloquial).",
+      "cardRef": { "category": "characters", "front": "にょ" }
+    },
+    {
+      "front": "ひゃ",
+      "back": "hya",
+      "reading": "hya",
+      "explanation": "ひゃ combina ひ (hi) con un や pequeño. Aparece en ひゃく (hyaku, cien).",
+      "cardRef": { "category": "characters", "front": "ひゃ" }
+    },
+    {
+      "front": "ひゅ",
+      "back": "hyu",
+      "reading": "hyu",
+      "explanation": "ひゅ combina ひ (hi) con un ゆ pequeño. Es poco frecuente en japonés nativo; aparece en onomatopeyas como ひゅーひゅー (hyuuhyuu, silbido del viento).",
+      "cardRef": { "category": "characters", "front": "ひゅ" }
+    },
+    {
+      "front": "ひょ",
+      "back": "hyo",
+      "reading": "hyo",
+      "explanation": "ひょ combina ひ (hi) con un よ pequeño. Aparece en ひょう (hyou, tabla/granizo).",
+      "cardRef": { "category": "characters", "front": "ひょ" }
+    },
+    {
+      "front": "みゃ",
+      "back": "mya",
+      "reading": "mya",
+      "explanation": "みゃ combina み (mi) con un や pequeño. Aparece en みゃく (myaku, pulso).",
+      "cardRef": { "category": "characters", "front": "みゃ" }
+    },
+    {
+      "front": "みゅ",
+      "back": "myu",
+      "reading": "myu",
+      "explanation": "みゅ combina み (mi) con un ゆ pequeño. Es poco frecuente; aparece en palabras prestadas como みゅーじかる (myuujikaru, musical).",
+      "cardRef": { "category": "characters", "front": "みゅ" }
+    },
+    {
+      "front": "みょ",
+      "back": "myo",
+      "reading": "myo",
+      "explanation": "みょ combina み (mi) con un よ pequeño. Aparece en みょうじ (myouji, apellido).",
+      "cardRef": { "category": "characters", "front": "みょ" }
+    },
+    {
+      "front": "りゃ",
+      "back": "rya",
+      "reading": "rya",
+      "explanation": "りゃ combina り (ri) con un や pequeño. Aparece en りゃく (ryaku, abreviación).",
+      "cardRef": { "category": "characters", "front": "りゃ" }
+    },
+    {
+      "front": "りゅ",
+      "back": "ryu",
+      "reading": "ryu",
+      "explanation": "りゅ combina り (ri) con un ゆ pequeño. Aparece en りゅうがく (ryuugaku, estudiar en el extranjero).",
+      "cardRef": { "category": "characters", "front": "りゅ" }
+    },
+    {
+      "front": "りょ",
+      "back": "ryo",
+      "reading": "ryo",
+      "explanation": "りょ combina り (ri) con un よ pequeño. Aparece en りょうり (ryouri, cocina) y りょこう (ryokou, viaje).",
+      "cardRef": { "category": "characters", "front": "りょ" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Combinaciones con や/ゆ/よ pequeño",
+      "instruction": "Las combinaciones (拗音) se forman agregando un や, ゆ o よ pequeño a un carácter de la columna い. El pequeño reemplaza el sonido 'i' por 'ya', 'yu' o 'yo'. Por ejemplo: き (ki) + ゃ = きゃ (kya). Observá cada combinación.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es cuál?",
+      "instruction": "Elegí la lectura correcta para cada combinación.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+    },
+    {
+      "type": "recall",
+      "title": "Ahora al revés",
+      "instruction": "Ves la lectura en romaji. Elegí la combinación de hiragana correcta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste las 21 combinaciones de hiragana (拗音). Con esto dominás todo el sistema hiragana. Ahora van a aparecer en tus repasos diarios.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+    }
+  ]
+}

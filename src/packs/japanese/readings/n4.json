@@ -1,0 +1,322 @@
+[
+  {
+    "id": "n4-reading-01",
+    "title": "日本での生活",
+    "level": "n4",
+    "text": "去年の四月から日本で生活しています。最初は日本語が全然わからなくて、とても大変でした。でも、毎日日本語を勉強したら、だんだんわかるようになりました。今は簡単な会話ができるようになって、買い物も一人でできます。日本の生活は便利で、電車がいつも時間通りに来るので驚きました。",
+    "reading": "きょねんのしがつからにほんでせいかつしています。さいしょはにほんごがぜんぜんわからなくて、とてもたいへんでした。でも、まいにちにほんごをべんきょうしたら、だんだんわかるようになりました。いまはかんたんなかいわができるようになって、かいものもひとりでできます。にほんのせいかつはべんりで、でんしゃがいつもじかんどおりにくるのでおどろきました。",
+    "translation": "Vivo en Japón desde abril del año pasado. Al principio no entendía nada de japonés y fue muy difícil. Pero cuando estudié japonés todos los días, gradualmente fui entendiendo. Ahora puedo mantener conversaciones sencillas y puedo hacer las compras solo. La vida en Japón es cómoda, y me sorprendió que los trenes siempre llegan a tiempo.",
+    "vocabulary": [
+      "生活 - vida/vivir",
+      "最初 - al principio",
+      "全然 - para nada",
+      "大変 - difícil/duro",
+      "だんだん - gradualmente",
+      "簡単な - sencillo",
+      "会話 - conversación",
+      "便利 - conveniente",
+      "時間通り - a tiempo",
+      "驚く - sorprenderse"
+    ],
+    "questions": [
+      {
+        "question": "いつから日本にいますか。",
+        "options": ["今年の四月から", "去年の四月から", "去年の三月から", "今年の三月から"],
+        "correctIndex": 1,
+        "explanation": "「去年の四月から」と書いてあります。(Dice 'desde abril del año pasado'.)"
+      },
+      {
+        "question": "最初、日本語はどうでしたか。",
+        "options": ["少しわかった", "全然わからなかった", "よくわかった", "まあまあわかった"],
+        "correctIndex": 1,
+        "explanation": "「日本語が全然わからなくて」と書いてあります。(Dice 'no entendía nada de japonés'.)"
+      },
+      {
+        "question": "日本の生活について何に驚きましたか。",
+        "options": ["食べ物が安いこと", "人が親切なこと", "電車が時間通りに来ること", "道がきれいなこと"],
+        "correctIndex": 2,
+        "explanation": "「電車がいつも時間通りに来るので驚きました」と書いてあります。(Dice 'me sorprendió que los trenes llegan a tiempo'.)"
+      }
+    ]
+  },
+  {
+    "id": "n4-reading-02",
+    "title": "京都への旅行",
+    "level": "n4",
+    "text": "先週の週末に友達と京都へ旅行に行ってきました。新幹線で二時間ぐらいかかりました。京都に着いたら、まず有名なお寺を見に行きました。紅葉がとてもきれいで、写真をたくさん撮ってしまいました。お昼は京都の伝統的な料理を食べました。高かったけれど、食べてみたらとてもおいしかったです。",
+    "reading": "せんしゅうのしゅうまつにともだちときょうとへりょこうにいってきました。しんかんせんでにじかんぐらいかかりました。きょうとについたら、まずゆうめいなおてらをみにいきました。こうようがとてもきれいで、しゃしんをたくさんとってしまいました。おひるはきょうとのでんとうてきなりょうりをたべました。たかかったけれど、たべてみたらとてもおいしかったです。",
+    "translation": "El fin de semana pasado fui de viaje a Kioto con amigos. Tardamos unas dos horas en el Shinkansen. Cuando llegamos a Kioto, primero fuimos a ver un templo famoso. Las hojas de otoño eran muy bonitas y terminé sacando muchas fotos. Para el almuerzo comimos comida tradicional de Kioto. Era cara, pero cuando la probé estaba muy deliciosa.",
+    "vocabulary": [
+      "旅行 - viaje",
+      "新幹線 - Shinkansen (tren bala)",
+      "着く - llegar",
+      "有名な - famoso",
+      "お寺 - templo",
+      "紅葉 - hojas de otoño",
+      "写真を撮る - sacar fotos",
+      "伝統的な - tradicional",
+      "料理 - comida/cocina",
+      "高い - caro"
+    ],
+    "questions": [
+      {
+        "question": "京都まで何で行きましたか。",
+        "options": ["バスで行った", "飛行機で行った", "新幹線で行った", "車で行った"],
+        "correctIndex": 2,
+        "explanation": "「新幹線で二時間ぐらいかかりました」と書いてあります。(Dice 'tardamos unas dos horas en el Shinkansen'.)"
+      },
+      {
+        "question": "京都で最初に何をしましたか。",
+        "options": ["料理を食べた", "お寺を見に行った", "写真を撮った", "買い物をした"],
+        "correctIndex": 1,
+        "explanation": "「まず有名なお寺を見に行きました」と書いてあります。(Dice 'primero fuimos a ver un templo famoso'.)"
+      },
+      {
+        "question": "京都の料理はどうでしたか。",
+        "options": ["安くておいしかった", "高くておいしくなかった", "高かったけどおいしかった", "安かったけどおいしくなかった"],
+        "correctIndex": 2,
+        "explanation": "「高かったけれど、食べてみたらとてもおいしかったです」と書いてあります。(Dice 'era cara, pero estaba muy deliciosa'.)"
+      }
+    ]
+  },
+  {
+    "id": "n4-reading-03",
+    "title": "私の仕事",
+    "level": "n4",
+    "text": "私はIT会社でプログラマーとして働いています。毎朝九時に出社しなければなりませんが、金曜日だけは家で仕事をすることができます。仕事ではチームで新しいアプリを作っています。難しい問題がある時は先輩に聞くようにしています。最近、英語の会議が増えたので、英語も勉強し始めました。大変ですが、やりがいがあります。",
+    "reading": "わたしはアイティーかいしゃでプログラマーとしてはたらいています。まいあさくじにしゅっしゃしなければなりませんが、きんようびだけはいえでしごとをすることができます。しごとではチームであたらしいアプリをつくっています。むずかしいもんだいがあるときはせんぱいにきくようにしています。さいきん、えいごのかいぎがふえたので、えいごもべんきょうしはじめました。たいへんですが、やりがいがあります。",
+    "translation": "Trabajo como programador en una empresa de TI. Tengo que ir a la oficina a las nueve cada mañana, pero solo los viernes puedo trabajar desde casa. En el trabajo estamos creando una nueva aplicación en equipo. Cuando hay problemas difíciles, procuro preguntarle a mi senpai. Últimamente, como aumentaron las reuniones en inglés, empecé a estudiar inglés también. Es difícil, pero tiene sentido.",
+    "vocabulary": [
+      "IT会社 - empresa de TI",
+      "出社する - ir a la oficina",
+      "金曜日 - viernes",
+      "チーム - equipo",
+      "アプリ - aplicación",
+      "問題 - problema",
+      "先輩 - senpai/superior",
+      "最近 - últimamente",
+      "会議 - reunión",
+      "やりがい - sentido/motivación"
+    ],
+    "questions": [
+      {
+        "question": "毎日会社に行かなければなりませんか。",
+        "options": ["はい、毎日行きます", "いいえ、金曜日は家で仕事をします", "いいえ、月曜日は家で仕事をします", "いいえ、毎日家で仕事をします"],
+        "correctIndex": 1,
+        "explanation": "「金曜日だけは家で仕事をすることができます」と書いてあります。(Dice 'solo los viernes puede trabajar desde casa'.)"
+      },
+      {
+        "question": "難しい問題がある時、どうしますか。",
+        "options": ["一人で考える", "インターネットで調べる", "先輩に聞く", "友達に聞く"],
+        "correctIndex": 2,
+        "explanation": "「先輩に聞くようにしています」と書いてあります。(Dice 'procuro preguntarle a mi senpai'.)"
+      },
+      {
+        "question": "なぜ英語を勉強し始めましたか。",
+        "options": ["旅行に行きたいから", "英語の会議が増えたから", "先輩に言われたから", "試験があるから"],
+        "correctIndex": 1,
+        "explanation": "「英語の会議が増えたので、英語も勉強し始めました」と書いてあります。(Dice 'como aumentaron las reuniones en inglés, empecé a estudiar inglés'.)"
+      }
+    ]
+  },
+  {
+    "id": "n4-reading-04",
+    "title": "カレーライスの作り方",
+    "level": "n4",
+    "text": "今日は日本のカレーライスの作り方を紹介します。まず、じゃがいもと人参と玉ねぎを切っておきます。次に、鍋に油を入れて、肉を炒めます。肉の色が変わったら、野菜を入れて一緒に炒めます。水を加えて二十分ぐらい煮ます。野菜が柔らかくなったら、カレーのルーを入れてかき混ぜます。とろみがつくまで煮続けたら完成です。ご飯にかけて食べてください。",
+    "reading": "きょうはにほんのカレーライスのつくりかたをしょうかいします。まず、じゃがいもとにんじんとたまねぎをきっておきます。つぎに、なべにあぶらをいれて、にくをいためます。にくのいろがかわったら、やさいをいれていっしょにいためます。みずをくわえてにじゅっぷんぐらいにます。やさいがやわらかくなったら、カレーのルーをいれてかきまぜます。とろみがつくまでにつづけたらかんせいです。ごはんにかけてたべてください。",
+    "translation": "Hoy voy a presentar cómo hacer curry japonés. Primero, corte de antemano las papas, las zanahorias y las cebollas. Luego, ponga aceite en la olla y saltee la carne. Cuando la carne cambie de color, agregue las verduras y saltéelas juntas. Agregue agua y cocine unos veinte minutos. Cuando las verduras estén blandas, agregue la pastilla de curry y mezcle. Siga cocinando hasta que espese y estará listo. Sírvalo sobre arroz y disfrute.",
+    "vocabulary": [
+      "作り方 - manera de hacer",
+      "紹介する - presentar",
+      "じゃがいも - papa",
+      "人参 - zanahoria",
+      "玉ねぎ - cebolla",
+      "鍋 - olla",
+      "炒める - saltear",
+      "加える - agregar",
+      "柔らかい - blando/suave",
+      "かき混ぜる - mezclar"
+    ],
+    "questions": [
+      {
+        "question": "野菜を切るのはいつですか。",
+        "options": ["肉を炒めた後", "水を入れた後", "最初に切っておく", "カレーのルーを入れた後"],
+        "correctIndex": 2,
+        "explanation": "「まず、じゃがいもと人参と玉ねぎを切っておきます」と書いてあります。(Dice 'primero, corte de antemano las papas, zanahorias y cebollas'.)"
+      },
+      {
+        "question": "水を入れた後、何分ぐらい煮ますか。",
+        "options": ["十分ぐらい", "十五分ぐらい", "二十分ぐらい", "三十分ぐらい"],
+        "correctIndex": 2,
+        "explanation": "「水を加えて二十分ぐらい煮ます」と書いてあります。(Dice 'cocine unos veinte minutos'.)"
+      },
+      {
+        "question": "カレーのルーをいつ入れますか。",
+        "options": ["最初に入れる", "肉を炒めた後", "野菜が柔らかくなったら", "ご飯にかける前"],
+        "correctIndex": 2,
+        "explanation": "「野菜が柔らかくなったら、カレーのルーを入れて」と書いてあります。(Dice 'cuando las verduras estén blandas, agregue el curry'.)"
+      }
+    ]
+  },
+  {
+    "id": "n4-reading-05",
+    "title": "先生へのメール",
+    "level": "n4",
+    "text": "山田先生、いつもお世話になっております。留学生のキムです。来週の月曜日の授業についてご連絡いたします。実は、その日は大使館でビザの手続きをしなければならないことになりました。そのため、授業に出席できない予定です。申し訳ございませんが、授業の資料をいただけないでしょうか。お忙しいところ恐れ入りますが、よろしくお願いいたします。",
+    "reading": "やまだせんせい、いつもおせわになっております。りゅうがくせいのキムです。らいしゅうのげつようびのじゅぎょうについてごれんらくいたします。じつは、そのひはたいしかんでビザのてつづきをしなければならないことになりました。そのため、じゅぎょうにしゅっせきできないよていです。もうしわけございませんが、じゅぎょうのしりょうをいただけないでしょうか。おいそがしいところおそれいりますが、よろしくおねがいいたします。",
+    "translation": "Profesor Yamada, siempre agradezco su apoyo. Soy Kim, estudiante de intercambio. Le escribo respecto a la clase del lunes de la semana que viene. En realidad, ese día resultó que tengo que hacer trámites de visa en la embajada. Por eso, no podré asistir a la clase. Disculpe las molestias, pero ¿podría darme los materiales de la clase? Lamento molestarlo estando ocupado, quedo a su disposición.",
+    "vocabulary": [
+      "お世話になる - recibir apoyo/ayuda",
+      "留学生 - estudiante de intercambio",
+      "授業 - clase",
+      "ご連絡する - contactar (humilde)",
+      "大使館 - embajada",
+      "手続き - trámite",
+      "出席する - asistir",
+      "資料 - materiales",
+      "申し訳ない - disculpe",
+      "恐れ入る - lamentar molestar"
+    ],
+    "questions": [
+      {
+        "question": "キムさんはなぜ授業に出られませんか。",
+        "options": ["病気だから", "旅行に行くから", "ビザの手続きがあるから", "アルバイトがあるから"],
+        "correctIndex": 2,
+        "explanation": "「大使館でビザの手続きをしなければならない」と書いてあります。(Dice 'tiene que hacer trámites de visa en la embajada'.)"
+      },
+      {
+        "question": "キムさんは先生に何をお願いしていますか。",
+        "options": ["授業を休むこと", "授業の資料をもらうこと", "テストの日を変えること", "宿題を出さないこと"],
+        "correctIndex": 1,
+        "explanation": "「授業の資料をいただけないでしょうか」と書いてあります。(Dice '¿podría darme los materiales de la clase?')"
+      },
+      {
+        "question": "このメールはどんな言葉で書かれていますか。",
+        "options": ["カジュアルな言葉", "丁寧な言葉", "友達への言葉", "子供の言葉"],
+        "correctIndex": 1,
+        "explanation": "「お世話になっております」「ご連絡いたします」「恐れ入りますが」など、丁寧な敬語が使われています。(Se usan expresiones formales y humildes.)"
+      }
+    ]
+  },
+  {
+    "id": "n4-reading-06",
+    "title": "地震のニュース",
+    "level": "n4",
+    "text": "昨日の午後三時ごろ、東北地方で大きな地震がありました。震度は五だったそうです。この地震のために、東北新幹線が一時間ほど止まってしまいました。けが人はいなかったらしいですが、一部の建物に被害が出たようです。気象庁によると、今後一週間は余震に注意しなければならないということです。地震が起きたら、まず机の下に隠れるようにしてください。",
+    "reading": "きのうのごごさんじごろ、とうほくちほうでおおきなじしんがありました。しんどはごだったそうです。このじしんのために、とうほくしんかんせんがいちじかんほどとまってしまいました。けがにんはいなかったらしいですが、いちぶのたてものにひがいがでたようです。きしょうちょうによると、こんごいっしゅうかんはよしんにちゅういしなければならないということです。じしんがおきたら、まずつくえのしたにかくれるようにしてください。",
+    "translation": "Ayer alrededor de las tres de la tarde hubo un gran terremoto en la región de Tohoku. Dicen que la intensidad fue de 5. Debido a este terremoto, el Shinkansen de Tohoku se detuvo por aproximadamente una hora. Aparentemente no hubo heridos, pero parece que algunos edificios sufrieron daños. Según la Agencia Meteorológica, hay que tener cuidado con las réplicas durante la próxima semana. Si ocurre un terremoto, procure esconderse primero debajo de una mesa.",
+    "vocabulary": [
+      "地震 - terremoto",
+      "震度 - intensidad sísmica",
+      "東北地方 - región de Tohoku",
+      "新幹線 - Shinkansen",
+      "けが人 - heridos",
+      "被害 - daño",
+      "気象庁 - Agencia Meteorológica",
+      "余震 - réplica (sísmica)",
+      "注意する - tener cuidado",
+      "隠れる - esconderse"
+    ],
+    "questions": [
+      {
+        "question": "地震はいつありましたか。",
+        "options": ["昨日の朝", "昨日の午後三時ごろ", "今日の午前中", "先週の週末"],
+        "correctIndex": 1,
+        "explanation": "「昨日の午後三時ごろ」と書いてあります。(Dice 'ayer alrededor de las tres de la tarde'.)"
+      },
+      {
+        "question": "地震のために何が起きましたか。",
+        "options": ["学校が休みになった", "新幹線が止まった", "たくさんの人がけがをした", "建物が全部壊れた"],
+        "correctIndex": 1,
+        "explanation": "「東北新幹線が一時間ほど止まってしまいました」と書いてあります。(Dice 'el Shinkansen se detuvo por una hora'.)"
+      },
+      {
+        "question": "地震が起きたら何をした方がいいですか。",
+        "options": ["外に逃げる", "机の下に隠れる", "電話をかける", "窓を開ける"],
+        "correctIndex": 1,
+        "explanation": "「机の下に隠れるようにしてください」と書いてあります。(Dice 'procure esconderse debajo de una mesa'.)"
+      }
+    ]
+  },
+  {
+    "id": "n4-reading-07",
+    "title": "夏休みの日記",
+    "level": "n4",
+    "text": "八月十五日、晴れ。今日は夏休みの最後の日だった。宿題を全部やってしまおうと思って、朝から頑張った。読書感想文を書かなければならなかったのに、本をまだ読み終わっていなかった。急いで読んだけれど、難しい本を選んでしまったので、時間がかかった。夜の十一時にやっと全部終わった。来年は早めに始めるようにしよう。もう絶対にこんなことはしないつもりだ。",
+    "reading": "はちがつじゅうごにち、はれ。きょうはなつやすみのさいごのひだった。しゅくだいをぜんぶやってしまおうとおもって、あさからがんばった。どくしょかんそうぶんをかかなければならなかったのに、ほんをまだよみおわっていなかった。いそいでよんだけれど、むずかしいほんをえらんでしまったので、じかんがかかった。よるのじゅういちじにやっとぜんぶおわった。らいねんははやめにはじめるようにしよう。もうぜったいにこんなことはしないつもりだ。",
+    "translation": "15 de agosto, soleado. Hoy fue el último día de las vacaciones de verano. Pensé en terminar toda la tarea y me esforcé desde la mañana. Tenía que escribir un ensayo sobre un libro, pero todavía no había terminado de leerlo. Lo leí apurado, pero como terminé eligiendo un libro difícil, tardé mucho. A las once de la noche por fin terminé todo. El año que viene voy a procurar empezar más temprano. Definitivamente no pienso volver a hacer algo así.",
+    "vocabulary": [
+      "夏休み - vacaciones de verano",
+      "最後 - último",
+      "宿題 - tarea",
+      "頑張る - esforzarse",
+      "読書感想文 - ensayo sobre lectura",
+      "読み終わる - terminar de leer",
+      "急ぐ - apurarse",
+      "選ぶ - elegir",
+      "やっと - por fin",
+      "絶対に - definitivamente"
+    ],
+    "questions": [
+      {
+        "question": "この人は何をしなければなりませんでしたか。",
+        "options": ["数学の宿題", "読書感想文", "絵を描くこと", "日記を書くこと"],
+        "correctIndex": 1,
+        "explanation": "「読書感想文を書かなければならなかった」と書いてあります。(Dice 'tenía que escribir un ensayo sobre un libro'.)"
+      },
+      {
+        "question": "なぜ時間がかかりましたか。",
+        "options": ["本が長かったから", "難しい本を選んでしまったから", "友達と遊んでいたから", "テレビを見ていたから"],
+        "correctIndex": 1,
+        "explanation": "「難しい本を選んでしまったので、時間がかかった」と書いてあります。(Dice 'como eligió un libro difícil, tardó mucho'.)"
+      },
+      {
+        "question": "来年はどうするつもりですか。",
+        "options": ["宿題をしないつもりだ", "簡単な本を選ぶつもりだ", "早めに始めるようにする", "友達に手伝ってもらう"],
+        "correctIndex": 2,
+        "explanation": "「来年は早めに始めるようにしよう」と書いてあります。(Dice 'el año que viene procuraré empezar más temprano'.)"
+      }
+    ]
+  },
+  {
+    "id": "n4-reading-08",
+    "title": "レストランの口コミ",
+    "level": "n4",
+    "text": "先日、駅前に新しくできたイタリアンレストラン「ベラ・ナポリ」に行ってきました。予約しておいたので、待たなくてもよかったです。パスタを注文したのですが、量が多すぎて食べきれませんでした。でも、味は今まで食べた中でいちばんおいしかったです。店員さんもとても親切で、日本語がわからない友達のために英語のメニューを持ってきてくれました。値段は少し高めですが、行く価値があると思います。",
+    "reading": "せんじつ、えきまえにあたらしくできたイタリアンレストラン「ベラ・ナポリ」にいってきました。よやくしておいたので、またなくてもよかったです。パスタをちゅうもんしたのですが、りょうがおおすぎてたべきれませんでした。でも、あじはいままでたべたなかでいちばんおいしかったです。てんいんさんもとてもしんせつで、にほんごがわからないともだちのためにえいごのメニューをもってきてくれました。ねだんはすこしたかめですが、いくかちがあるとおもいます。",
+    "translation": "El otro día fui al nuevo restaurante italiano 'Bella Napoli' frente a la estación. Como había reservado de antemano, no tuve que esperar. Pedí pasta, pero la porción era demasiado grande y no pude terminarla. Sin embargo, el sabor fue el más delicioso de todos los que he probado. Los empleados también fueron muy amables, y le trajeron un menú en inglés a mi amigo que no entiende japonés. El precio es un poco alto, pero creo que vale la pena ir.",
+    "vocabulary": [
+      "先日 - el otro día",
+      "予約する - reservar",
+      "注文する - pedir/ordenar",
+      "量 - cantidad/porción",
+      "食べきる - terminar de comer",
+      "味 - sabor",
+      "店員 - empleado de tienda",
+      "親切 - amable",
+      "値段 - precio",
+      "価値 - valor"
+    ],
+    "questions": [
+      {
+        "question": "レストランはどこにありますか。",
+        "options": ["公園の前", "駅前", "大学の近く", "デパートの中"],
+        "correctIndex": 1,
+        "explanation": "「駅前に新しくできたイタリアンレストラン」と書いてあります。(Dice 'restaurante italiano nuevo frente a la estación'.)"
+      },
+      {
+        "question": "パスタについてどう言っていますか。",
+        "options": ["量が少なかった", "おいしくなかった", "量が多すぎた", "値段が安かった"],
+        "correctIndex": 2,
+        "explanation": "「量が多すぎて食べきれませんでした」と書いてあります。(Dice 'la porción era demasiado grande y no pudo terminarla'.)"
+      },
+      {
+        "question": "店員さんは友達のために何をしてくれましたか。",
+        "options": ["日本語を教えてくれた", "英語のメニューを持ってきてくれた", "料理を説明してくれた", "タクシーを呼んでくれた"],
+        "correctIndex": 1,
+        "explanation": "「英語のメニューを持ってきてくれました」と書いてあります。(Dice 'le trajeron un menú en inglés'.)"
+      }
+    ]
+  }
+]

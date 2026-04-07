@@ -1,0 +1,81 @@
+{
+  "id": "hiragana-03",
+  "title": "Hiragana: さ行 (sa, shi, su, se, so)",
+  "description": "Aprendé los cinco caracteres de la fila さ: sa, shi, su, se, so. Notá que し se lee 'shi', no 'si'.",
+  "level": "n5",
+  "category": "characters",
+  "items": [
+    {
+      "front": "さ",
+      "back": "sa",
+      "reading": "sa",
+      "explanation": "さ se pronuncia 'sa'. Aparece en palabras como さくら (sakura, cerezo) y さかな (sakana, pez).",
+      "mnemonic": "さ looks like a SAil in the wind",
+      "cardRef": { "category": "characters", "front": "さ" }
+    },
+    {
+      "front": "し",
+      "back": "shi",
+      "reading": "shi",
+      "explanation": "し se pronuncia 'shi' (no 'si'). Aparece en しろ (shiro, blanco/castillo) y しんぶん (shinbun, periódico).",
+      "mnemonic": "し looks like a fiSHIng hook",
+      "cardRef": { "category": "characters", "front": "し" }
+    },
+    {
+      "front": "す",
+      "back": "su",
+      "reading": "su",
+      "explanation": "す se pronuncia 'su'. Aparece en すし (sushi) y すこし (sukoshi, un poco).",
+      "mnemonic": "す has a SUperloop",
+      "cardRef": { "category": "characters", "front": "す" }
+    },
+    {
+      "front": "せ",
+      "back": "se",
+      "reading": "se",
+      "explanation": "せ se pronuncia 'se'. Aparece en せんせい (sensei, maestro) y せかい (sekai, mundo).",
+      "mnemonic": "せ looks like a mouth SAYing something",
+      "cardRef": { "category": "characters", "front": "せ" }
+    },
+    {
+      "front": "そ",
+      "back": "so",
+      "reading": "so",
+      "explanation": "そ se pronuncia 'so'. Aparece en そら (sora, cielo) y そと (soto, afuera).",
+      "mnemonic": "そ has a SOccer ball at the end",
+      "cardRef": { "category": "characters", "front": "そ" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Conocé la fila さ",
+      "instruction": "Estos son los cinco caracteres de la fila さ (s-). Prestá atención especial a し, que se lee 'shi' en lugar de 'si'.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es cuál?",
+      "instruction": "Elegí la lectura correcta para cada carácter.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "recall",
+      "title": "Ahora al revés",
+      "instruction": "Ves la lectura en romaji. Escribí o elegí el hiragana correcto.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "write",
+      "title": "Escribilo vos",
+      "instruction": "Escribí el hiragana que corresponde a cada sonido.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste さ, し, す, せ, そ. Ahora van a aparecer en tus repasos diarios.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    }
+  ]
+}

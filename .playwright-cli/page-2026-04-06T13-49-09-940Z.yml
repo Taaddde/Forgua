@@ -1,0 +1,104 @@
+- generic [ref=e3]:
+  - complementary [ref=e4]:
+    - generic [ref=e6]:
+      - img [ref=e7]
+      - generic [ref=e11]: LinguaForge
+    - link "🇯🇵 Japonés 日本語" [ref=e12] [cursor=pointer]:
+      - /url: /pack-selector
+      - generic [ref=e13]: 🇯🇵
+      - generic [ref=e14]:
+        - generic [ref=e15]: Japonés
+        - generic [ref=e16]: 日本語
+    - navigation [ref=e17]:
+      - link "Panel" [ref=e18] [cursor=pointer]:
+        - /url: /
+        - img [ref=e19]
+        - generic [ref=e24]: Panel
+      - link "Estudiar" [ref=e25] [cursor=pointer]:
+        - /url: /study
+        - img [ref=e26]
+        - generic [ref=e29]: Estudiar
+      - link "Aprender" [ref=e30] [cursor=pointer]:
+        - /url: /learn
+        - img [ref=e31]
+        - generic [ref=e33]: Aprender
+      - link "Explorar" [ref=e34] [cursor=pointer]:
+        - /url: /browse
+        - img [ref=e35]
+        - generic [ref=e37]: Explorar
+      - link "Lectura" [ref=e38] [cursor=pointer]:
+        - /url: /reading
+        - img [ref=e39]
+        - generic [ref=e41]: Lectura
+      - link "Escucha" [ref=e42] [cursor=pointer]:
+        - /url: /listening
+        - img [ref=e43]
+        - generic [ref=e45]: Escucha
+      - link "Hablar" [ref=e46] [cursor=pointer]:
+        - /url: /speaking
+        - img [ref=e47]
+        - generic [ref=e50]: Hablar
+      - link "Escritura" [ref=e51] [cursor=pointer]:
+        - /url: /writing
+        - img [ref=e52]
+        - generic [ref=e57]: Escritura
+      - link "Ruta" [ref=e58] [cursor=pointer]:
+        - /url: /roadmap
+        - img [ref=e59]
+        - generic [ref=e61]: Ruta
+    - link "Ajustes" [ref=e63] [cursor=pointer]:
+      - /url: /settings
+      - img [ref=e64]
+      - generic [ref=e67]: Ajustes
+  - generic [ref=e68]:
+    - banner [ref=e69]:
+      - 'button "Theme: dark" [ref=e70]':
+        - img [ref=e71]
+    - main [ref=e73]:
+      - generic [ref=e74]:
+        - generic [ref=e97]:
+          - generic [ref=e98]:
+            - heading "Ruta Estándar" [level=1] [ref=e99]
+            - paragraph [ref=e100]: "Progreso: 0/11 hitos"
+          - button "Cambiar ruta" [ref=e101]
+        - generic [ref=e77]:
+          - button "1 Kana + Fundamentos 6 semanas N5 0/2" [ref=e104]:
+            - generic [ref=e105]:
+              - generic [ref=e106]: "1"
+              - generic [ref=e107]:
+                - text: Kana + Fundamentos
+                - generic [ref=e108]:
+                  - generic [ref=e109]: 6 semanas
+                  - generic [ref=e110]: N5
+                  - generic [ref=e111]: 0/2
+            - img [ref=e112]
+          - button "2 N5 Progresivo 16 semanas N5 0/3" [ref=e115]:
+            - generic [ref=e116]:
+              - generic [ref=e117]: "2"
+              - generic [ref=e118]:
+                - text: N5 Progresivo
+                - generic [ref=e119]:
+                  - generic [ref=e120]: 16 semanas
+                  - generic [ref=e121]: N5
+                  - generic [ref=e122]: 0/3
+            - img [ref=e123]
+          - button "3 N4 Gradual 24 semanas N4 0/3" [ref=e126]:
+            - generic [ref=e127]:
+              - generic [ref=e128]: "3"
+              - generic [ref=e129]:
+                - text: N4 Gradual
+                - generic [ref=e130]:
+                  - generic [ref=e131]: 24 semanas
+                  - generic [ref=e132]: N4
+                  - generic [ref=e133]: 0/3
+            - img [ref=e134]
+          - button "4 N3 Sostenido 32 semanas N3 0/3" [ref=e137]:
+            - generic [ref=e138]:
+              - generic [ref=e139]: "4"
+              - generic [ref=e140]:
+                - text: N3 Sostenido
+                - generic [ref=e141]:
+                  - generic [ref=e142]: 32 semanas
+                  - generic [ref=e143]: N3
+                  - generic [ref=e144]: 0/3
+            - img [ref=e145]

@@ -1,0 +1,346 @@
+{
+  "app": {
+    "name": "LinguaForge",
+    "tagline": "Motor de aprendizaje de idiomas"
+  },
+  "nav": {
+    "dashboard": "Panel",
+    "study": "Estudiar",
+    "learn": "Aprender",
+    "browse": "Explorar",
+    "reading": "Lectura",
+    "listening": "Escucha",
+    "speaking": "Hablar",
+    "writing": "Escritura",
+    "roadmap": "Ruta",
+    "lessons": "Lecciones",
+    "settings": "Ajustes"
+  },
+  "pack": {
+    "selector": {
+      "title": "Elegí tu idioma",
+      "subtitle": "Seleccioná un Language Pack para empezar a estudiar",
+      "noPacks": "No hay packs instalados",
+      "levels": "niveles",
+      "install": "Instalar pack",
+      "active": "Pack activo",
+      "change": "Cambiar pack"
+    },
+    "english": {
+      "name": "Inglés",
+      "description": "Aprendé inglés desde cero con vocabulario, gramática y lecturas graduadas."
+    },
+    "japanese": {
+      "description": "Aprendé japonés con el sistema JLPT: kanji, vocabulario, gramática y lecturas de N5 a N1."
+    },
+    "levelCount": "{{count}} niveles",
+    "multiPack": {
+      "switchPack": "Cambiar de idioma",
+      "currentPack": "Idioma actual"
+    }
+  },
+  "dashboard": {
+    "title": "Panel de control",
+    "welcome": "¡Bienvenido a LinguaForge!",
+    "selectPack": "Seleccioná un idioma para empezar",
+    "todayStats": "Hoy",
+    "reviewed": "Repasadas",
+    "newCards": "Nuevas",
+    "accuracy": "Precisión",
+    "streak": "Racha",
+    "days": "días",
+    "weeklyActivity": "Actividad semanal",
+    "totalProgress": "Progreso total",
+    "totalLearned": "Aprendidas",
+    "totalMature": "Maduras",
+    "overallAccuracy": "Precisión global",
+    "nextLesson": "Siguiente lección",
+    "reviewDue": "{{count}} tarjetas para repasar",
+    "reviewDescription": "Repasá lo que ya aprendiste",
+    "goToLessons": "Aprendé contenido nuevo en Lecciones",
+    "lessonProgress": "Progreso de lecciones",
+    "allCaughtUp": "¡Todo al día!"
+  },
+  "study": {
+    "title": "Sesión de estudio",
+    "noCards": "No hay tarjetas para repasar hoy",
+    "startReview": "Empezar repaso",
+    "noPack": "Seleccioná un pack primero",
+    "allCaughtUp": "¡Volvé más tarde para seguir repasando!",
+    "noReviewCards": "No hay tarjetas para repasar",
+    "goToLessons": "Todas tus tarjetas están al día. ¡Aprendé algo nuevo!",
+    "tapToReveal": "Tocá para revelar",
+    "showAnswer": "Mostrar respuesta",
+    "sessionComplete": "¡Sesión completada!",
+    "sessionSummary": "Resumen de tu sesión de estudio",
+    "cardsReviewed": "Repasadas",
+    "correctRate": "Aciertos",
+    "timeSpent": "Tiempo",
+    "studyMore": "Seguir estudiando",
+    "cardsRemaining": "tarjetas restantes",
+    "reviewNew": "Nuevas",
+    "reviewDue": "Pendientes",
+    "buttons": {
+      "again": "De nuevo",
+      "hard": "Difícil",
+      "good": "Bien",
+      "easy": "Fácil"
+    }
+  },
+  "exercise": {
+    "check": "Verificar",
+    "correct": "¡Correcto!",
+    "incorrect": "Incorrecto",
+    "expected": "Respuesta correcta",
+    "typeAnswer": "Escribí tu respuesta...",
+    "romajiHint": "Podés escribir en romaji (ej: 'a', 'ka', 'shi')",
+    "multipleChoice": "Opción múltiple",
+    "writeAnswer": "Escribí la respuesta",
+    "fillBlank": "Completá el espacio",
+    "dragReorder": {
+      "instruction": "Ordená los fragmentos correctamente",
+      "check": "Verificar orden",
+      "correct": "¡Orden correcto!",
+      "incorrect": "Orden incorrecto"
+    },
+    "sentenceBuild": {
+      "instruction": "Armá la oración en japonés",
+      "hint": "Traducción:",
+      "check": "Verificar",
+      "correct": "¡Oración correcta!",
+      "incorrect": "Casi — la oración correcta es:"
+    },
+    "matching": {
+      "instruction": "Emparejá cada elemento con su significado",
+      "errors": "{{count}} errores",
+      "perfect": "¡Perfecto, sin errores!",
+      "complete": "¡Completado!"
+    }
+  },
+  "lessons": {
+    "title": "Lecciones",
+    "subtitle": "Aprendé paso a paso",
+    "start": "Empezar",
+    "continue": "Continuar",
+    "replay": "Repetir",
+    "locked": "Bloqueada",
+    "completed": "Completada",
+    "available": "Disponible",
+    "prerequisite": "Primero completá: {{lessons}}",
+    "score": "Puntaje: {{score}}%",
+    "estimated": "~{{minutes}} min",
+    "newItems": "{{count}} items nuevos",
+    "step": "Paso {{current}} de {{total}}",
+    "next": "Siguiente",
+    "finish": "Finalizar lección",
+    "completeTitle": "¡Lección completada!",
+    "completeMessage": "Aprendiste {{count}} items nuevos. Ahora van a aparecer en tus repasos.",
+    "noLessons": "No hay lecciones disponibles para este pack.",
+    "allCompleted": "¡Completaste todas las lecciones disponibles!"
+  },
+  "backup": {
+    "export": "Exportar datos",
+    "import": "Importar datos",
+    "exportSuccess": "Datos exportados correctamente",
+    "importSuccess": "Datos importados: {{count}} registros",
+    "importConfirm": "Esto puede sobrescribir datos existentes. ¿Continuar?",
+    "importError": "Error al importar: {{error}}",
+    "invalidFile": "Archivo inválido"
+  },
+  "roadmap": {
+    "title": "Ruta de aprendizaje",
+    "selectTrack": "Elegí tu ritmo",
+    "intensive": {
+      "name": "Intensiva",
+      "tagline": "+3 horas/día",
+      "description": "Progreso agresivo en tiempo mínimo"
+    },
+    "standard": {
+      "name": "Estándar",
+      "tagline": "1-2 horas/día",
+      "description": "Progreso constante y sostenible"
+    },
+    "casual": {
+      "name": "Casual",
+      "tagline": "30 min/día",
+      "description": "Sin presión, a tu ritmo"
+    },
+    "phase": "Fase {{number}}",
+    "duration": "Duración",
+    "dailyGoal": "Meta diaria",
+    "milestones": "Hitos",
+    "content": "Contenido",
+    "progress": "Progreso: {{completed}}/{{total}} hitos",
+    "resources": "Recursos recomendados",
+    "changeTrack": "Cambiar ruta",
+    "noRoadmaps": "No hay rutas de aprendizaje disponibles para este pack."
+  },
+  "audio": {
+    "play": "Reproducir",
+    "stop": "Detener",
+    "speed": "Velocidad",
+    "replay": "Repetir",
+    "replaysLeft": "Reproducciones: {{current}}/{{max}}",
+    "listening": "Escuchando...",
+    "processing": "Procesando...",
+    "tapToSpeak": "Tocá para hablar",
+    "recording": "Grabando...",
+    "notSupported": "No disponible en este navegador",
+    "browserWarning": "La función de {{feature}} solo está disponible en Chrome y Edge.",
+    "understood": "Entendido",
+    "speakNow": "Hablá ahora",
+    "yourSpeech": "Lo que dijiste",
+    "expected": "Se esperaba",
+    "similarity": "Similitud",
+    "listenAndType": "Escuchá y escribí lo que oís",
+    "readAloud": "Leé en voz alta",
+    "listenExample": "Escuchar ejemplo",
+    "noVoices": "No hay voces disponibles para este idioma",
+    "features": {
+      "speech": "reconocimiento de voz",
+      "tts": "síntesis de voz",
+      "recording": "grabación de audio"
+    }
+  },
+  "listening": {
+    "title": "Escucha",
+    "dictation": "Dictado",
+    "freeListen": "Escucha libre",
+    "sessionComplete": "Dictado completado",
+    "score": "Resultado: {{correct}}/{{total}}"
+  },
+  "speaking": {
+    "title": "Hablar",
+    "sessionComplete": "Sesión completada",
+    "results": "Resultados",
+    "tryAgain": "Intentar de nuevo",
+    "score": "Puntuación: {{score}}%"
+  },
+  "learn": {
+    "title": "Aprender",
+    "addToReview": "Agregar a repaso",
+    "inReview": "En repaso",
+    "noContent": "No hay contenido para este nivel",
+    "categories": {
+      "vocabulary": "Vocabulario",
+      "characters": "Caracteres",
+      "grammar": "Gramática"
+    },
+    "expand": "Ver más",
+    "collapse": "Ver menos"
+  },
+  "browse": {
+    "title": "Explorar",
+    "search": "Buscar...",
+    "filters": "Filtros",
+    "allLevels": "Todos los niveles",
+    "allCategories": "Todas las categorías",
+    "showing": "Mostrando {{count}} de {{total}}",
+    "noResults": "Sin resultados",
+    "detail": {
+      "readings": "Lecturas",
+      "meanings": "Significados",
+      "examples": "Ejemplos",
+      "srsStatus": "Estado de repaso",
+      "notInReview": "No está en repaso"
+    }
+  },
+  "reading": {
+    "title": "Lectura",
+    "selectText": "Elegí un texto",
+    "showFurigana": "Furigana",
+    "showTranslation": "Traducción",
+    "comprehension": "Comprensión",
+    "score": "Resultado: {{correct}}/{{total}}",
+    "clickWord": "Tocá una palabra para ver su significado",
+    "backToList": "Volver a la lista"
+  },
+  "writing": {
+    "title": "Escritura",
+    "draw": "Dibujá el carácter",
+    "clear": "Borrar",
+    "showAnswer": "Mostrar",
+    "showStrokes": "Ver trazos",
+    "howDidYouDo": "¿Cómo te fue?",
+    "noSystems": "Este idioma no tiene sistemas de escritura con práctica de trazos.",
+    "systems": {
+      "hiragana": "Hiragana",
+      "katakana": "Katakana",
+      "kanji": "Kanji"
+    }
+  },
+  "characters": {
+    "strokeCount": "{{count}} trazos",
+    "radical": "Radical",
+    "onReading": "On'yomi",
+    "kunReading": "Kun'yomi"
+  },
+  "settings": {
+    "title": "Ajustes",
+    "language": "Idioma de la interfaz",
+    "theme": "Tema",
+    "themes": {
+      "light": "Claro",
+      "dark": "Oscuro",
+      "system": "Sistema"
+    },
+    "data": "Datos",
+    "exportData": "Exportar datos",
+    "importData": "Importar datos",
+    "resetData": "Reiniciar datos",
+    "about": "Acerca de",
+    "version": "Versión",
+    "platform": "Plataforma"
+  },
+  "pwa": {
+    "updateAvailable": "Actualización disponible",
+    "updateDescription": "Hay una nueva versión de LinguaForge.",
+    "update": "Actualizar",
+    "later": "Después"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "retry": "Reintentar",
+    "back": "Volver",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "close": "Cerrar",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "search": "Buscar",
+    "noData": "Sin datos",
+    "comingSoon": "Próximamente"
+  },
+  "pages": {
+    "learn": {
+      "title": "Aprender",
+      "description": "Explorá nuevo contenido y aprendé a tu ritmo"
+    },
+    "browse": {
+      "title": "Explorar",
+      "description": "Navegá todo el contenido del pack por nivel y categoría"
+    },
+    "reading": {
+      "title": "Lectura",
+      "description": "Practicá lectura con textos graduados"
+    },
+    "listening": {
+      "title": "Escucha",
+      "description": "Mejorá tu comprensión auditiva"
+    },
+    "speaking": {
+      "title": "Hablar",
+      "description": "Practicá pronunciación con reconocimiento de voz"
+    },
+    "writing": {
+      "title": "Escritura",
+      "description": "Aprendé a escribir caracteres con trazos guiados"
+    },
+    "roadmap": {
+      "title": "Ruta de aprendizaje",
+      "description": "Seguí un camino estructurado hacia tu meta"
+    }
+  }
+}

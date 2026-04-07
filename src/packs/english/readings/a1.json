@@ -1,0 +1,130 @@
+[
+  {
+    "id": "a1-reading-my-family",
+    "title": "My Family",
+    "level": "a1",
+    "text": "My name is Maria. I am twenty-five years old. I live with my family in a small house. My father is a teacher. My mother works in a hospital. I have one brother and one sister. My brother is older than me. He is twenty-eight. My sister is younger. She is twenty. We have a dog. His name is Max. We are a happy family.",
+    "translation": "Me llamo María. Tengo veinticinco años. Vivo con mi familia en una casa pequeña. Mi padre es profesor. Mi madre trabaja en un hospital. Tengo un hermano y una hermana. Mi hermano es mayor que yo. Tiene veintiocho años. Mi hermana es menor. Tiene veinte. Tenemos un perro. Se llama Max. Somos una familia feliz.",
+    "vocabulary": ["family - familia", "house - casa", "teacher - profesor", "hospital - hospital", "brother - hermano", "sister - hermana", "older - mayor", "younger - menor", "dog - perro", "happy - feliz"],
+    "questions": [
+      {
+        "question": "How old is Maria?",
+        "options": ["Twenty", "Twenty-five", "Twenty-eight", "Thirty"],
+        "correctIndex": 1,
+        "explanation": "The text says 'I am twenty-five years old.'"
+      },
+      {
+        "question": "What does Maria's father do?",
+        "options": ["He is a doctor.", "He is a teacher.", "He works in a hospital.", "He is a student."],
+        "correctIndex": 1,
+        "explanation": "The text says 'My father is a teacher.'"
+      },
+      {
+        "question": "What is the name of the dog?",
+        "options": ["Bob", "Rex", "Max", "Sam"],
+        "correctIndex": 2,
+        "explanation": "The text says 'His name is Max.'"
+      }
+    ]
+  },
+  {
+    "id": "a1-reading-school-day",
+    "title": "A Day at School",
+    "level": "a1",
+    "text": "I go to school every day. School starts at eight o'clock. First, I have English class. I like English because the teacher is very nice. Then I have math. Math is difficult but interesting. At twelve o'clock, I eat lunch with my friends. After lunch, I have science and history. School finishes at three o'clock. After school, I play soccer with my friends.",
+    "translation": "Voy a la escuela todos los días. La escuela empieza a las ocho. Primero, tengo clase de inglés. Me gusta inglés porque la profesora es muy simpática. Después tengo matemáticas. Las matemáticas son difíciles pero interesantes. A las doce, almuerzo con mis amigos. Después del almuerzo, tengo ciencias e historia. La escuela termina a las tres. Después de la escuela, juego al fútbol con mis amigos.",
+    "vocabulary": ["school - escuela", "starts - empieza", "class - clase", "nice - simpático/a", "math - matemáticas", "difficult - difícil", "interesting - interesante", "lunch - almuerzo", "friends - amigos", "finishes - termina", "soccer - fútbol"],
+    "questions": [
+      {
+        "question": "What time does school start?",
+        "options": ["At seven o'clock.", "At eight o'clock.", "At nine o'clock.", "At ten o'clock."],
+        "correctIndex": 1,
+        "explanation": "The text says 'School starts at eight o'clock.'"
+      },
+      {
+        "question": "Why does the student like English?",
+        "options": ["It is easy.", "The teacher is nice.", "It is fun.", "The friends like it."],
+        "correctIndex": 1,
+        "explanation": "The text says 'I like English because the teacher is very nice.'"
+      },
+      {
+        "question": "What does the student do after school?",
+        "options": ["Studies math.", "Watches TV.", "Plays soccer.", "Goes home."],
+        "correctIndex": 2,
+        "explanation": "The text says 'After school, I play soccer with my friends.'"
+      }
+    ]
+  },
+  {
+    "id": "a1-reading-restaurant",
+    "title": "At the Restaurant",
+    "level": "a1",
+    "text": "Today I am at a restaurant with my friend Ana. The restaurant is small but very nice. I look at the menu. There are many options. I want pasta and a salad. Ana wants fish and rice. We order our food. The waiter brings our drinks. I have water and Ana has orange juice. The food is delicious. After dinner, we have chocolate cake. It is a very good evening.",
+    "translation": "Hoy estoy en un restaurante con mi amiga Ana. El restaurante es pequeño pero muy lindo. Miro el menú. Hay muchas opciones. Quiero pasta y una ensalada. Ana quiere pescado y arroz. Pedimos nuestra comida. El mozo trae nuestras bebidas. Yo tomo agua y Ana toma jugo de naranja. La comida está deliciosa. Después de la cena, comemos torta de chocolate. Es una muy buena noche.",
+    "vocabulary": ["restaurant - restaurante", "menu - menú", "pasta - pasta", "salad - ensalada", "fish - pescado", "rice - arroz", "waiter - mozo", "drinks - bebidas", "water - agua", "juice - jugo", "delicious - delicioso", "cake - torta"],
+    "questions": [
+      {
+        "question": "What does the narrator want to eat?",
+        "options": ["Fish and rice.", "Pasta and salad.", "Pizza and salad.", "Chicken and rice."],
+        "correctIndex": 1,
+        "explanation": "The text says 'I want pasta and a salad.'"
+      },
+      {
+        "question": "What does Ana drink?",
+        "options": ["Water.", "Coffee.", "Orange juice.", "Tea."],
+        "correctIndex": 2,
+        "explanation": "The text says 'Ana has orange juice.'"
+      }
+    ]
+  },
+  {
+    "id": "a1-reading-weekend",
+    "title": "My Weekend",
+    "level": "a1",
+    "text": "On Saturday morning, I usually wake up late. I have breakfast at ten o'clock. I eat toast and drink coffee. In the afternoon, I go to the park with my family. My children play in the playground. In the evening, we watch a movie at home. On Sunday, I clean the house in the morning. In the afternoon, I visit my parents. We have lunch together. I love weekends because I can relax.",
+    "translation": "Los sábados a la mañana, generalmente me levanto tarde. Desayuno a las diez. Como tostadas y tomo café. A la tarde, voy al parque con mi familia. Mis hijos juegan en los juegos. A la noche, vemos una película en casa. El domingo, limpio la casa a la mañana. A la tarde, visito a mis padres. Almorzamos juntos. Me encantan los fines de semana porque puedo relajarme.",
+    "vocabulary": ["weekend - fin de semana", "wake up - despertarse", "late - tarde", "breakfast - desayuno", "toast - tostadas", "coffee - café", "park - parque", "children - hijos/niños", "playground - juegos", "movie - película", "clean - limpiar", "visit - visitar", "relax - relajarse"],
+    "questions": [
+      {
+        "question": "What time does the narrator have breakfast on Saturday?",
+        "options": ["At eight o'clock.", "At nine o'clock.", "At ten o'clock.", "At eleven o'clock."],
+        "correctIndex": 2,
+        "explanation": "The text says 'I have breakfast at ten o'clock.'"
+      },
+      {
+        "question": "What does the narrator do on Sunday afternoon?",
+        "options": ["Goes to the park.", "Watches a movie.", "Visits parents.", "Cleans the house."],
+        "correctIndex": 2,
+        "explanation": "The text says 'In the afternoon, I visit my parents.'"
+      }
+    ]
+  },
+  {
+    "id": "a1-reading-weather",
+    "title": "The Weather Today",
+    "level": "a1",
+    "text": "Today the weather is very nice. It is sunny and warm. The temperature is twenty-five degrees. I am wearing a T-shirt and shorts. Yesterday it was cold and rainy. I wore a jacket and carried an umbrella. Tomorrow the weather will be cloudy. Maybe it will rain in the afternoon. I prefer sunny days because I can go outside and play. When it rains, I stay home and read books.",
+    "translation": "Hoy el clima está muy lindo. Está soleado y cálido. La temperatura es de veinticinco grados. Estoy usando una remera y shorts. Ayer estuvo frío y lluvioso. Usé una campera y llevé un paraguas. Mañana el clima va a estar nublado. Quizás llueva a la tarde. Prefiero los días soleados porque puedo salir y jugar. Cuando llueve, me quedo en casa y leo libros.",
+    "vocabulary": ["weather - clima", "sunny - soleado", "warm - cálido", "temperature - temperatura", "degrees - grados", "T-shirt - remera", "shorts - shorts", "cold - frío", "rainy - lluvioso", "jacket - campera", "umbrella - paraguas", "cloudy - nublado", "outside - afuera"],
+    "questions": [
+      {
+        "question": "What is the weather like today?",
+        "options": ["Cold and rainy.", "Sunny and warm.", "Cloudy.", "Windy."],
+        "correctIndex": 1,
+        "explanation": "The text says 'It is sunny and warm.'"
+      },
+      {
+        "question": "What does the narrator prefer?",
+        "options": ["Rainy days.", "Cloudy days.", "Sunny days.", "Cold days."],
+        "correctIndex": 2,
+        "explanation": "The text says 'I prefer sunny days.'"
+      },
+      {
+        "question": "What was the weather like yesterday?",
+        "options": ["Sunny and warm.", "Cold and rainy.", "Cloudy.", "Hot."],
+        "correctIndex": 1,
+        "explanation": "The text says 'Yesterday it was cold and rainy.'"
+      }
+    ]
+  }
+]

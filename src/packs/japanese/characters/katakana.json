@@ -1,0 +1,940 @@
+[
+  {
+    "character": "ア",
+    "readings": [{ "type": "romaji", "value": "a" }],
+    "meanings": ["a (vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["vowel", "basic"],
+    "examples": [{ "word": "アメリカ", "reading": "amerika", "meaning": "América" }]
+  },
+  {
+    "character": "イ",
+    "readings": [{ "type": "romaji", "value": "i" }],
+    "meanings": ["i (vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["vowel", "basic"],
+    "examples": [{ "word": "イギリス", "reading": "igirisu", "meaning": "Inglaterra" }]
+  },
+  {
+    "character": "ウ",
+    "readings": [{ "type": "romaji", "value": "u" }],
+    "meanings": ["u (vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["vowel", "basic"],
+    "examples": [{ "word": "ウイスキー", "reading": "uisukii", "meaning": "whisky" }]
+  },
+  {
+    "character": "エ",
+    "readings": [{ "type": "romaji", "value": "e" }],
+    "meanings": ["e (vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["vowel", "basic"],
+    "examples": [{ "word": "エレベーター", "reading": "erebeetaa", "meaning": "ascensor" }]
+  },
+  {
+    "character": "オ",
+    "readings": [{ "type": "romaji", "value": "o" }],
+    "meanings": ["o (vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["vowel", "basic"],
+    "examples": [{ "word": "オレンジ", "reading": "orenji", "meaning": "naranja" }]
+  },
+  {
+    "character": "カ",
+    "readings": [{ "type": "romaji", "value": "ka" }],
+    "meanings": ["ka (consonante+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "basic", "k-row"],
+    "examples": [{ "word": "カメラ", "reading": "kamera", "meaning": "cámara" }]
+  },
+  {
+    "character": "キ",
+    "readings": [{ "type": "romaji", "value": "ki" }],
+    "meanings": ["ki (consonante+vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "basic", "k-row"],
+    "examples": [{ "word": "キロ", "reading": "kiro", "meaning": "kilo" }]
+  },
+  {
+    "character": "ク",
+    "readings": [{ "type": "romaji", "value": "ku" }],
+    "meanings": ["ku (consonante+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "basic", "k-row"],
+    "examples": [{ "word": "クラス", "reading": "kurasu", "meaning": "clase" }]
+  },
+  {
+    "character": "ケ",
+    "readings": [{ "type": "romaji", "value": "ke" }],
+    "meanings": ["ke (consonante+vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "basic", "k-row"],
+    "examples": [{ "word": "ケーキ", "reading": "keeki", "meaning": "pastel" }]
+  },
+  {
+    "character": "コ",
+    "readings": [{ "type": "romaji", "value": "ko" }],
+    "meanings": ["ko (consonante+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "basic", "k-row"],
+    "examples": [{ "word": "コーヒー", "reading": "koohii", "meaning": "café" }]
+  },
+  {
+    "character": "サ",
+    "readings": [{ "type": "romaji", "value": "sa" }],
+    "meanings": ["sa (consonante+vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "basic", "s-row"],
+    "examples": [{ "word": "サラダ", "reading": "sarada", "meaning": "ensalada" }]
+  },
+  {
+    "character": "シ",
+    "readings": [{ "type": "romaji", "value": "shi" }],
+    "meanings": ["shi (consonante+vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "basic", "s-row"],
+    "examples": [{ "word": "シャツ", "reading": "shatsu", "meaning": "camisa" }]
+  },
+  {
+    "character": "ス",
+    "readings": [{ "type": "romaji", "value": "su" }],
+    "meanings": ["su (consonante+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "basic", "s-row"],
+    "examples": [{ "word": "スポーツ", "reading": "supootsu", "meaning": "deporte" }]
+  },
+  {
+    "character": "セ",
+    "readings": [{ "type": "romaji", "value": "se" }],
+    "meanings": ["se (consonante+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "basic", "s-row"],
+    "examples": [{ "word": "セーター", "reading": "seetaa", "meaning": "suéter" }]
+  },
+  {
+    "character": "ソ",
+    "readings": [{ "type": "romaji", "value": "so" }],
+    "meanings": ["so (consonante+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "basic", "s-row"],
+    "examples": [{ "word": "ソファー", "reading": "sofaa", "meaning": "sofá" }]
+  },
+  {
+    "character": "タ",
+    "readings": [{ "type": "romaji", "value": "ta" }],
+    "meanings": ["ta (consonante+vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "basic", "t-row"],
+    "examples": [{ "word": "タクシー", "reading": "takushii", "meaning": "taxi" }]
+  },
+  {
+    "character": "チ",
+    "readings": [{ "type": "romaji", "value": "chi" }],
+    "meanings": ["chi (consonante+vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "basic", "t-row"],
+    "examples": [{ "word": "チーズ", "reading": "chiizu", "meaning": "queso" }]
+  },
+  {
+    "character": "ツ",
+    "readings": [{ "type": "romaji", "value": "tsu" }],
+    "meanings": ["tsu (consonante+vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "basic", "t-row"],
+    "examples": [{ "word": "ツアー", "reading": "tsuaa", "meaning": "tour" }]
+  },
+  {
+    "character": "テ",
+    "readings": [{ "type": "romaji", "value": "te" }],
+    "meanings": ["te (consonante+vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "basic", "t-row"],
+    "examples": [{ "word": "テスト", "reading": "tesuto", "meaning": "examen" }]
+  },
+  {
+    "character": "ト",
+    "readings": [{ "type": "romaji", "value": "to" }],
+    "meanings": ["to (consonante+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "basic", "t-row"],
+    "examples": [{ "word": "トイレ", "reading": "toire", "meaning": "baño" }]
+  },
+  {
+    "character": "ナ",
+    "readings": [{ "type": "romaji", "value": "na" }],
+    "meanings": ["na (consonante+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "basic", "n-row"],
+    "examples": [{ "word": "ナイフ", "reading": "naifu", "meaning": "cuchillo" }]
+  },
+  {
+    "character": "ニ",
+    "readings": [{ "type": "romaji", "value": "ni" }],
+    "meanings": ["ni (consonante+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "basic", "n-row"],
+    "examples": [{ "word": "ニュース", "reading": "nyuusu", "meaning": "noticias" }]
+  },
+  {
+    "character": "ヌ",
+    "readings": [{ "type": "romaji", "value": "nu" }],
+    "meanings": ["nu (consonante+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "basic", "n-row"],
+    "examples": [{ "word": "カヌー", "reading": "kanuu", "meaning": "canoa" }]
+  },
+  {
+    "character": "ネ",
+    "readings": [{ "type": "romaji", "value": "ne" }],
+    "meanings": ["ne (consonante+vocal)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "basic", "n-row"],
+    "examples": [{ "word": "ネクタイ", "reading": "nekutai", "meaning": "corbata" }]
+  },
+  {
+    "character": "ノ",
+    "readings": [{ "type": "romaji", "value": "no" }],
+    "meanings": ["no (consonante+vocal)"],
+    "strokeCount": 1,
+    "level": "n5",
+    "tags": ["consonant", "basic", "n-row"],
+    "examples": [{ "word": "ノート", "reading": "nooto", "meaning": "cuaderno" }]
+  },
+  {
+    "character": "ハ",
+    "readings": [{ "type": "romaji", "value": "ha" }],
+    "meanings": ["ha (consonante+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "basic", "h-row"],
+    "examples": [{ "word": "ハンバーガー", "reading": "hanbaagaa", "meaning": "hamburguesa" }]
+  },
+  {
+    "character": "ヒ",
+    "readings": [{ "type": "romaji", "value": "hi" }],
+    "meanings": ["hi (consonante+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "basic", "h-row"],
+    "examples": [{ "word": "ヒーター", "reading": "hiitaa", "meaning": "calefactor" }]
+  },
+  {
+    "character": "フ",
+    "readings": [{ "type": "romaji", "value": "fu" }],
+    "meanings": ["fu (consonante+vocal)"],
+    "strokeCount": 1,
+    "level": "n5",
+    "tags": ["consonant", "basic", "h-row"],
+    "examples": [{ "word": "フランス", "reading": "furansu", "meaning": "Francia" }]
+  },
+  {
+    "character": "ヘ",
+    "readings": [{ "type": "romaji", "value": "he" }],
+    "meanings": ["he (consonante+vocal)"],
+    "strokeCount": 1,
+    "level": "n5",
+    "tags": ["consonant", "basic", "h-row"],
+    "examples": [{ "word": "ヘリコプター", "reading": "herikoputaa", "meaning": "helicóptero" }]
+  },
+  {
+    "character": "ホ",
+    "readings": [{ "type": "romaji", "value": "ho" }],
+    "meanings": ["ho (consonante+vocal)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "basic", "h-row"],
+    "examples": [{ "word": "ホテル", "reading": "hoteru", "meaning": "hotel" }]
+  },
+  {
+    "character": "マ",
+    "readings": [{ "type": "romaji", "value": "ma" }],
+    "meanings": ["ma (consonante+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "basic", "m-row"],
+    "examples": [{ "word": "マンガ", "reading": "manga", "meaning": "manga" }]
+  },
+  {
+    "character": "ミ",
+    "readings": [{ "type": "romaji", "value": "mi" }],
+    "meanings": ["mi (consonante+vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "basic", "m-row"],
+    "examples": [{ "word": "ミルク", "reading": "miruku", "meaning": "leche" }]
+  },
+  {
+    "character": "ム",
+    "readings": [{ "type": "romaji", "value": "mu" }],
+    "meanings": ["mu (consonante+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "basic", "m-row"],
+    "examples": [{ "word": "ゲーム", "reading": "geemu", "meaning": "juego" }]
+  },
+  {
+    "character": "メ",
+    "readings": [{ "type": "romaji", "value": "me" }],
+    "meanings": ["me (consonante+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "basic", "m-row"],
+    "examples": [{ "word": "メニュー", "reading": "menyuu", "meaning": "menú" }]
+  },
+  {
+    "character": "モ",
+    "readings": [{ "type": "romaji", "value": "mo" }],
+    "meanings": ["mo (consonante+vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "basic", "m-row"],
+    "examples": [{ "word": "モデル", "reading": "moderu", "meaning": "modelo" }]
+  },
+  {
+    "character": "ヤ",
+    "readings": [{ "type": "romaji", "value": "ya" }],
+    "meanings": ["ya (consonante+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "basic", "y-row"],
+    "examples": [{ "word": "タイヤ", "reading": "taiya", "meaning": "neumático" }]
+  },
+  {
+    "character": "ユ",
+    "readings": [{ "type": "romaji", "value": "yu" }],
+    "meanings": ["yu (consonante+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "basic", "y-row"],
+    "examples": [{ "word": "ユニフォーム", "reading": "yunifoomu", "meaning": "uniforme" }]
+  },
+  {
+    "character": "ヨ",
+    "readings": [{ "type": "romaji", "value": "yo" }],
+    "meanings": ["yo (consonante+vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "basic", "y-row"],
+    "examples": [{ "word": "ヨーロッパ", "reading": "yooroppa", "meaning": "Europa" }]
+  },
+  {
+    "character": "ラ",
+    "readings": [{ "type": "romaji", "value": "ra" }],
+    "meanings": ["ra (consonante+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "basic", "r-row"],
+    "examples": [{ "word": "ラーメン", "reading": "raamen", "meaning": "ramen" }]
+  },
+  {
+    "character": "リ",
+    "readings": [{ "type": "romaji", "value": "ri" }],
+    "meanings": ["ri (consonante+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "basic", "r-row"],
+    "examples": [{ "word": "リモコン", "reading": "rimokon", "meaning": "control remoto" }]
+  },
+  {
+    "character": "ル",
+    "readings": [{ "type": "romaji", "value": "ru" }],
+    "meanings": ["ru (consonante+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "basic", "r-row"],
+    "examples": [{ "word": "ルール", "reading": "ruuru", "meaning": "regla" }]
+  },
+  {
+    "character": "レ",
+    "readings": [{ "type": "romaji", "value": "re" }],
+    "meanings": ["re (consonante+vocal)"],
+    "strokeCount": 1,
+    "level": "n5",
+    "tags": ["consonant", "basic", "r-row"],
+    "examples": [{ "word": "レストラン", "reading": "resutoran", "meaning": "restaurante" }]
+  },
+  {
+    "character": "ロ",
+    "readings": [{ "type": "romaji", "value": "ro" }],
+    "meanings": ["ro (consonante+vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "basic", "r-row"],
+    "examples": [{ "word": "ロボット", "reading": "robotto", "meaning": "robot" }]
+  },
+  {
+    "character": "ワ",
+    "readings": [{ "type": "romaji", "value": "wa" }],
+    "meanings": ["wa (consonante+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "basic", "w-row"],
+    "examples": [{ "word": "ワイン", "reading": "wain", "meaning": "vino" }]
+  },
+  {
+    "character": "ヲ",
+    "readings": [{ "type": "romaji", "value": "wo" }],
+    "meanings": ["wo (partícula, raro en katakana)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "basic", "w-row"],
+    "examples": [{ "word": "ヲタク", "reading": "wotaku", "meaning": "otaku (variante)" }]
+  },
+  {
+    "character": "ン",
+    "readings": [{ "type": "romaji", "value": "n" }],
+    "meanings": ["n (nasal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["nasal", "basic"],
+    "examples": [{ "word": "パン", "reading": "pan", "meaning": "pan" }]
+  },
+
+  {
+    "character": "ガ",
+    "readings": [{ "type": "romaji", "value": "ga" }],
+    "meanings": ["ga (consonante sonora+vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "k-row"],
+    "examples": [{ "word": "ガス", "reading": "gasu", "meaning": "gas" }]
+  },
+  {
+    "character": "ギ",
+    "readings": [{ "type": "romaji", "value": "gi" }],
+    "meanings": ["gi (consonante sonora+vocal)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "k-row"],
+    "examples": [{ "word": "ギター", "reading": "gitaa", "meaning": "guitarra" }]
+  },
+  {
+    "character": "グ",
+    "readings": [{ "type": "romaji", "value": "gu" }],
+    "meanings": ["gu (consonante sonora+vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "k-row"],
+    "examples": [{ "word": "グループ", "reading": "guruupu", "meaning": "grupo" }]
+  },
+  {
+    "character": "ゲ",
+    "readings": [{ "type": "romaji", "value": "ge" }],
+    "meanings": ["ge (consonante sonora+vocal)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "k-row"],
+    "examples": [{ "word": "ゲーム", "reading": "geemu", "meaning": "juego" }]
+  },
+  {
+    "character": "ゴ",
+    "readings": [{ "type": "romaji", "value": "go" }],
+    "meanings": ["go (consonante sonora+vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "k-row"],
+    "examples": [{ "word": "ゴルフ", "reading": "gorufu", "meaning": "golf" }]
+  },
+  {
+    "character": "ザ",
+    "readings": [{ "type": "romaji", "value": "za" }],
+    "meanings": ["za (consonante sonora+vocal)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "s-row"],
+    "examples": [{ "word": "デザート", "reading": "dezaato", "meaning": "postre" }]
+  },
+  {
+    "character": "ジ",
+    "readings": [{ "type": "romaji", "value": "ji" }],
+    "meanings": ["ji (consonante sonora+vocal)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "s-row"],
+    "examples": [{ "word": "ジュース", "reading": "juusu", "meaning": "jugo" }]
+  },
+  {
+    "character": "ズ",
+    "readings": [{ "type": "romaji", "value": "zu" }],
+    "meanings": ["zu (consonante sonora+vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "s-row"],
+    "examples": [{ "word": "チーズ", "reading": "chiizu", "meaning": "queso" }]
+  },
+  {
+    "character": "ゼ",
+    "readings": [{ "type": "romaji", "value": "ze" }],
+    "meanings": ["ze (consonante sonora+vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "s-row"],
+    "examples": [{ "word": "ゼロ", "reading": "zero", "meaning": "cero" }]
+  },
+  {
+    "character": "ゾ",
+    "readings": [{ "type": "romaji", "value": "zo" }],
+    "meanings": ["zo (consonante sonora+vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "s-row"],
+    "examples": [{ "word": "ゾーン", "reading": "zoon", "meaning": "zona" }]
+  },
+  {
+    "character": "ダ",
+    "readings": [{ "type": "romaji", "value": "da" }],
+    "meanings": ["da (consonante sonora+vocal)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "t-row"],
+    "examples": [{ "word": "ダンス", "reading": "dansu", "meaning": "danza" }]
+  },
+  {
+    "character": "ヂ",
+    "readings": [{ "type": "romaji", "value": "di" }],
+    "meanings": ["di (consonante sonora+vocal, poco frecuente)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "t-row"],
+    "examples": [{ "word": "ヂーゼル", "reading": "diizeru", "meaning": "diésel (variante)" }]
+  },
+  {
+    "character": "ヅ",
+    "readings": [{ "type": "romaji", "value": "du" }],
+    "meanings": ["du (consonante sonora+vocal, poco frecuente)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "t-row"],
+    "examples": [{ "word": "ミカヅキ", "reading": "mikazuki", "meaning": "luna creciente" }]
+  },
+  {
+    "character": "デ",
+    "readings": [{ "type": "romaji", "value": "de" }],
+    "meanings": ["de (consonante sonora+vocal)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "t-row"],
+    "examples": [{ "word": "デパート", "reading": "depaato", "meaning": "tienda departamental" }]
+  },
+  {
+    "character": "ド",
+    "readings": [{ "type": "romaji", "value": "do" }],
+    "meanings": ["do (consonante sonora+vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "t-row"],
+    "examples": [{ "word": "ドア", "reading": "doa", "meaning": "puerta" }]
+  },
+  {
+    "character": "バ",
+    "readings": [{ "type": "romaji", "value": "ba" }],
+    "meanings": ["ba (consonante sonora+vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "h-row"],
+    "examples": [{ "word": "バス", "reading": "basu", "meaning": "autobús" }]
+  },
+  {
+    "character": "ビ",
+    "readings": [{ "type": "romaji", "value": "bi" }],
+    "meanings": ["bi (consonante sonora+vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "h-row"],
+    "examples": [{ "word": "ビール", "reading": "biiru", "meaning": "cerveza" }]
+  },
+  {
+    "character": "ブ",
+    "readings": [{ "type": "romaji", "value": "bu" }],
+    "meanings": ["bu (consonante sonora+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "h-row"],
+    "examples": [{ "word": "クラブ", "reading": "kurabu", "meaning": "club" }]
+  },
+  {
+    "character": "ベ",
+    "readings": [{ "type": "romaji", "value": "be" }],
+    "meanings": ["be (consonante sonora+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "h-row"],
+    "examples": [{ "word": "ベッド", "reading": "beddo", "meaning": "cama" }]
+  },
+  {
+    "character": "ボ",
+    "readings": [{ "type": "romaji", "value": "bo" }],
+    "meanings": ["bo (consonante sonora+vocal)"],
+    "strokeCount": 5,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "h-row"],
+    "examples": [{ "word": "ボール", "reading": "booru", "meaning": "pelota" }]
+  },
+  {
+    "character": "パ",
+    "readings": [{ "type": "romaji", "value": "pa" }],
+    "meanings": ["pa (consonante sorda+vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "handakuten", "h-row"],
+    "examples": [{ "word": "パーティー", "reading": "paatii", "meaning": "fiesta" }]
+  },
+  {
+    "character": "ピ",
+    "readings": [{ "type": "romaji", "value": "pi" }],
+    "meanings": ["pi (consonante sorda+vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "handakuten", "h-row"],
+    "examples": [{ "word": "ピアノ", "reading": "piano", "meaning": "piano" }]
+  },
+  {
+    "character": "プ",
+    "readings": [{ "type": "romaji", "value": "pu" }],
+    "meanings": ["pu (consonante sorda+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "handakuten", "h-row"],
+    "examples": [{ "word": "プール", "reading": "puuru", "meaning": "piscina" }]
+  },
+  {
+    "character": "ペ",
+    "readings": [{ "type": "romaji", "value": "pe" }],
+    "meanings": ["pe (consonante sorda+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "handakuten", "h-row"],
+    "examples": [{ "word": "ペン", "reading": "pen", "meaning": "bolígrafo" }]
+  },
+  {
+    "character": "ポ",
+    "readings": [{ "type": "romaji", "value": "po" }],
+    "meanings": ["po (consonante sorda+vocal)"],
+    "strokeCount": 5,
+    "level": "n5",
+    "tags": ["consonant", "handakuten", "h-row"],
+    "examples": [{ "word": "ポスト", "reading": "posuto", "meaning": "buzón" }]
+  },
+
+  {
+    "character": "キャ",
+    "readings": [{ "type": "romaji", "value": "kya" }],
+    "meanings": ["kya (combinación yōon)"],
+    "strokeCount": 5,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "k-row"],
+    "examples": [{ "word": "キャンプ", "reading": "kyanpu", "meaning": "campamento" }]
+  },
+  {
+    "character": "キュ",
+    "readings": [{ "type": "romaji", "value": "kyu" }],
+    "meanings": ["kyu (combinación yōon)"],
+    "strokeCount": 5,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "k-row"],
+    "examples": [{ "word": "キュート", "reading": "kyuuto", "meaning": "lindo" }]
+  },
+  {
+    "character": "キョ",
+    "readings": [{ "type": "romaji", "value": "kyo" }],
+    "meanings": ["kyo (combinación yōon)"],
+    "strokeCount": 6,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "k-row"],
+    "examples": [{ "word": "トーキョー", "reading": "tookyoo", "meaning": "Tokio" }]
+  },
+  {
+    "character": "シャ",
+    "readings": [{ "type": "romaji", "value": "sha" }],
+    "meanings": ["sha (combinación yōon)"],
+    "strokeCount": 5,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "s-row"],
+    "examples": [{ "word": "シャワー", "reading": "shawaa", "meaning": "ducha" }]
+  },
+  {
+    "character": "シュ",
+    "readings": [{ "type": "romaji", "value": "shu" }],
+    "meanings": ["shu (combinación yōon)"],
+    "strokeCount": 5,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "s-row"],
+    "examples": [{ "word": "シュート", "reading": "shuuto", "meaning": "disparo / tiro" }]
+  },
+  {
+    "character": "ショ",
+    "readings": [{ "type": "romaji", "value": "sho" }],
+    "meanings": ["sho (combinación yōon)"],
+    "strokeCount": 6,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "s-row"],
+    "examples": [{ "word": "ショッピング", "reading": "shoppingu", "meaning": "compras" }]
+  },
+  {
+    "character": "チャ",
+    "readings": [{ "type": "romaji", "value": "cha" }],
+    "meanings": ["cha (combinación yōon)"],
+    "strokeCount": 5,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "t-row"],
+    "examples": [{ "word": "チャンス", "reading": "chansu", "meaning": "oportunidad" }]
+  },
+  {
+    "character": "チュ",
+    "readings": [{ "type": "romaji", "value": "chu" }],
+    "meanings": ["chu (combinación yōon)"],
+    "strokeCount": 5,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "t-row"],
+    "examples": [{ "word": "チューリップ", "reading": "chuurippu", "meaning": "tulipán" }]
+  },
+  {
+    "character": "チョ",
+    "readings": [{ "type": "romaji", "value": "cho" }],
+    "meanings": ["cho (combinación yōon)"],
+    "strokeCount": 6,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "t-row"],
+    "examples": [{ "word": "チョコレート", "reading": "chokoreeto", "meaning": "chocolate" }]
+  },
+  {
+    "character": "ニャ",
+    "readings": [{ "type": "romaji", "value": "nya" }],
+    "meanings": ["nya (combinación yōon)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "n-row"],
+    "examples": [{ "word": "ニャー", "reading": "nyaa", "meaning": "miau" }]
+  },
+  {
+    "character": "ニュ",
+    "readings": [{ "type": "romaji", "value": "nyu" }],
+    "meanings": ["nyu (combinación yōon)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "n-row"],
+    "examples": [{ "word": "ニュース", "reading": "nyuusu", "meaning": "noticias" }]
+  },
+  {
+    "character": "ニョ",
+    "readings": [{ "type": "romaji", "value": "nyo" }],
+    "meanings": ["nyo (combinación yōon)"],
+    "strokeCount": 5,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "n-row"],
+    "examples": [{ "word": "ニョッキ", "reading": "nyokki", "meaning": "ñoquis" }]
+  },
+  {
+    "character": "ヒャ",
+    "readings": [{ "type": "romaji", "value": "hya" }],
+    "meanings": ["hya (combinación yōon)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "h-row"],
+    "examples": [{ "word": "ヒャッキン", "reading": "hyakkin", "meaning": "tienda de 100 yenes" }]
+  },
+  {
+    "character": "ヒュ",
+    "readings": [{ "type": "romaji", "value": "hyu" }],
+    "meanings": ["hyu (combinación yōon)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "h-row"],
+    "examples": [{ "word": "ヒューズ", "reading": "hyuuzu", "meaning": "fusible" }]
+  },
+  {
+    "character": "ヒョ",
+    "readings": [{ "type": "romaji", "value": "hyo" }],
+    "meanings": ["hyo (combinación yōon)"],
+    "strokeCount": 5,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "h-row"],
+    "examples": [{ "word": "ヒョウ", "reading": "hyou", "meaning": "leopardo" }]
+  },
+  {
+    "character": "ミャ",
+    "readings": [{ "type": "romaji", "value": "mya" }],
+    "meanings": ["mya (combinación yōon)"],
+    "strokeCount": 5,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "m-row"],
+    "examples": [{ "word": "ミャンマー", "reading": "myanmaa", "meaning": "Myanmar" }]
+  },
+  {
+    "character": "ミュ",
+    "readings": [{ "type": "romaji", "value": "myu" }],
+    "meanings": ["myu (combinación yōon)"],
+    "strokeCount": 5,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "m-row"],
+    "examples": [{ "word": "ミュージック", "reading": "myuujikku", "meaning": "música" }]
+  },
+  {
+    "character": "ミョ",
+    "readings": [{ "type": "romaji", "value": "myo" }],
+    "meanings": ["myo (combinación yōon)"],
+    "strokeCount": 6,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "m-row"],
+    "examples": [{ "word": "ミョウバン", "reading": "myouban", "meaning": "alumbre" }]
+  },
+  {
+    "character": "リャ",
+    "readings": [{ "type": "romaji", "value": "rya" }],
+    "meanings": ["rya (combinación yōon)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "r-row"],
+    "examples": [{ "word": "リャク", "reading": "ryaku", "meaning": "abreviación" }]
+  },
+  {
+    "character": "リュ",
+    "readings": [{ "type": "romaji", "value": "ryu" }],
+    "meanings": ["ryu (combinación yōon)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "r-row"],
+    "examples": [{ "word": "リュック", "reading": "ryukku", "meaning": "mochila" }]
+  },
+  {
+    "character": "リョ",
+    "readings": [{ "type": "romaji", "value": "ryo" }],
+    "meanings": ["ryo (combinación yōon)"],
+    "strokeCount": 5,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "r-row"],
+    "examples": [{ "word": "リョカン", "reading": "ryokan", "meaning": "posada japonesa" }]
+  },
+  {
+    "character": "ギャ",
+    "readings": [{ "type": "romaji", "value": "gya" }],
+    "meanings": ["gya (combinación yōon sonora)"],
+    "strokeCount": 6,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "dakuten", "k-row"],
+    "examples": [{ "word": "ギャラリー", "reading": "gyararii", "meaning": "galería" }]
+  },
+  {
+    "character": "ギュ",
+    "readings": [{ "type": "romaji", "value": "gyu" }],
+    "meanings": ["gyu (combinación yōon sonora)"],
+    "strokeCount": 6,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "dakuten", "k-row"],
+    "examples": [{ "word": "ギュウドン", "reading": "gyuudon", "meaning": "bol de carne" }]
+  },
+  {
+    "character": "ギョ",
+    "readings": [{ "type": "romaji", "value": "gyo" }],
+    "meanings": ["gyo (combinación yōon sonora)"],
+    "strokeCount": 7,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "dakuten", "k-row"],
+    "examples": [{ "word": "ギョウザ", "reading": "gyouza", "meaning": "gyoza" }]
+  },
+  {
+    "character": "ジャ",
+    "readings": [{ "type": "romaji", "value": "ja" }],
+    "meanings": ["ja (combinación yōon sonora)"],
+    "strokeCount": 6,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "dakuten", "s-row"],
+    "examples": [{ "word": "ジャケット", "reading": "jaketto", "meaning": "chaqueta" }]
+  },
+  {
+    "character": "ジュ",
+    "readings": [{ "type": "romaji", "value": "ju" }],
+    "meanings": ["ju (combinación yōon sonora)"],
+    "strokeCount": 6,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "dakuten", "s-row"],
+    "examples": [{ "word": "ジュース", "reading": "juusu", "meaning": "jugo" }]
+  },
+  {
+    "character": "ジョ",
+    "readings": [{ "type": "romaji", "value": "jo" }],
+    "meanings": ["jo (combinación yōon sonora)"],
+    "strokeCount": 7,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "dakuten", "s-row"],
+    "examples": [{ "word": "ジョギング", "reading": "jogingu", "meaning": "jogging" }]
+  },
+  {
+    "character": "ビャ",
+    "readings": [{ "type": "romaji", "value": "bya" }],
+    "meanings": ["bya (combinación yōon sonora)"],
+    "strokeCount": 5,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "dakuten", "h-row"],
+    "examples": [{ "word": "サンビャク", "reading": "sanbyaku", "meaning": "trescientos" }]
+  },
+  {
+    "character": "ビュ",
+    "readings": [{ "type": "romaji", "value": "byu" }],
+    "meanings": ["byu (combinación yōon sonora)"],
+    "strokeCount": 5,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "dakuten", "h-row"],
+    "examples": [{ "word": "ビュッフェ", "reading": "byuffe", "meaning": "buffet" }]
+  },
+  {
+    "character": "ビョ",
+    "readings": [{ "type": "romaji", "value": "byo" }],
+    "meanings": ["byo (combinación yōon sonora)"],
+    "strokeCount": 6,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "dakuten", "h-row"],
+    "examples": [{ "word": "ビョウイン", "reading": "byouin", "meaning": "hospital" }]
+  },
+  {
+    "character": "ピャ",
+    "readings": [{ "type": "romaji", "value": "pya" }],
+    "meanings": ["pya (combinación yōon sorda)"],
+    "strokeCount": 5,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "handakuten", "h-row"],
+    "examples": [{ "word": "ロッピャク", "reading": "roppyaku", "meaning": "seiscientos" }]
+  },
+  {
+    "character": "ピュ",
+    "readings": [{ "type": "romaji", "value": "pyu" }],
+    "meanings": ["pyu (combinación yōon sorda)"],
+    "strokeCount": 5,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "handakuten", "h-row"],
+    "examples": [{ "word": "コンピューター", "reading": "konpyuutaa", "meaning": "computadora" }]
+  },
+  {
+    "character": "ピョ",
+    "readings": [{ "type": "romaji", "value": "pyo" }],
+    "meanings": ["pyo (combinación yōon sorda)"],
+    "strokeCount": 6,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "handakuten", "h-row"],
+    "examples": [{ "word": "ピョンヤン", "reading": "pyonyan", "meaning": "Pyongyang" }]
+  }
+]

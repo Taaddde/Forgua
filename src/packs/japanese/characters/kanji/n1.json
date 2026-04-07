@@ -1,0 +1,3068 @@
+[
+  {
+    "character": "奨",
+    "readings": [
+      { "type": "on", "value": "ショウ" },
+      { "type": "kun", "value": "すす.める" }
+    ],
+    "meanings": ["encourage", "recommend"],
+    "strokeCount": 13,
+    "radical": "大",
+    "radicalMeaning": "big",
+    "level": "n1",
+    "tags": ["encouragement"],
+    "examples": [
+      { "word": "奨学金", "reading": "しょうがくきん", "meaning": "scholarship" },
+      { "word": "推奨", "reading": "すいしょう", "meaning": "recommendation" }
+    ]
+  },
+  {
+    "character": "励",
+    "readings": [
+      { "type": "on", "value": "レイ" },
+      { "type": "kun", "value": "はげ.む" },
+      { "type": "kun", "value": "はげ.ます" }
+    ],
+    "meanings": ["encourage", "diligent", "strive"],
+    "strokeCount": 7,
+    "radical": "力",
+    "radicalMeaning": "power",
+    "level": "n1",
+    "tags": ["encouragement", "effort"],
+    "examples": [
+      { "word": "激励", "reading": "げきれい", "meaning": "encouragement" },
+      { "word": "奮励", "reading": "ふんれい", "meaning": "strenuous effort" },
+      { "word": "励行", "reading": "れいこう", "meaning": "strict observance" }
+    ]
+  },
+  {
+    "character": "促",
+    "readings": [
+      { "type": "on", "value": "ソク" },
+      { "type": "kun", "value": "うなが.す" }
+    ],
+    "meanings": ["stimulate", "urge", "press", "demand"],
+    "strokeCount": 9,
+    "radical": "人",
+    "radicalMeaning": "person",
+    "level": "n1",
+    "tags": ["urging", "action"],
+    "examples": [
+      { "word": "促進", "reading": "そくしん", "meaning": "promotion, acceleration" },
+      { "word": "催促", "reading": "さいそく", "meaning": "urging, pressing" }
+    ]
+  },
+  {
+    "character": "催",
+    "readings": [
+      { "type": "on", "value": "サイ" },
+      { "type": "kun", "value": "もよお.す" }
+    ],
+    "meanings": ["sponsor", "hold (event)", "催す"],
+    "strokeCount": 13,
+    "radical": "人",
+    "radicalMeaning": "person",
+    "level": "n1",
+    "tags": ["events", "action"],
+    "examples": [
+      { "word": "開催", "reading": "かいさい", "meaning": "holding (an event)" },
+      { "word": "主催", "reading": "しゅさい", "meaning": "sponsorship, organization" },
+      { "word": "催促", "reading": "さいそく", "meaning": "urging" }
+    ]
+  },
+  {
+    "character": "欲",
+    "readings": [
+      { "type": "on", "value": "ヨク" },
+      { "type": "kun", "value": "ほっ.する" },
+      { "type": "kun", "value": "ほ.しい" }
+    ],
+    "meanings": ["longing", "covetousness", "greed", "desire"],
+    "strokeCount": 11,
+    "radical": "欠",
+    "radicalMeaning": "lack",
+    "level": "n1",
+    "tags": ["desire", "emotion"],
+    "examples": [
+      { "word": "欲望", "reading": "よくぼう", "meaning": "desire, ambition" },
+      { "word": "食欲", "reading": "しょくよく", "meaning": "appetite" },
+      { "word": "意欲", "reading": "いよく", "meaning": "will, motivation" }
+    ]
+  },
+  {
+    "character": "衝",
+    "readings": [
+      { "type": "on", "value": "ショウ" }
+    ],
+    "meanings": ["collide", "rush", "impulse"],
+    "strokeCount": 15,
+    "radical": "行",
+    "radicalMeaning": "go",
+    "level": "n1",
+    "tags": ["impact", "force"],
+    "examples": [
+      { "word": "衝突", "reading": "しょうとつ", "meaning": "collision, conflict" },
+      { "word": "衝撃", "reading": "しょうげき", "meaning": "shock, impact" },
+      { "word": "衝動", "reading": "しょうどう", "meaning": "impulse" }
+    ]
+  },
+  {
+    "character": "撃",
+    "readings": [
+      { "type": "on", "value": "ゲキ" },
+      { "type": "kun", "value": "う.つ" }
+    ],
+    "meanings": ["beat", "attack", "strike"],
+    "strokeCount": 15,
+    "radical": "手",
+    "radicalMeaning": "hand",
+    "level": "n1",
+    "tags": ["attack", "military"],
+    "examples": [
+      { "word": "攻撃", "reading": "こうげき", "meaning": "attack" },
+      { "word": "衝撃", "reading": "しょうげき", "meaning": "shock, impact" },
+      { "word": "目撃", "reading": "もくげき", "meaning": "witnessing" }
+    ]
+  },
+  {
+    "character": "抑",
+    "readings": [
+      { "type": "on", "value": "ヨク" },
+      { "type": "kun", "value": "おさ.える" }
+    ],
+    "meanings": ["repress", "suppress", "restrain"],
+    "strokeCount": 7,
+    "radical": "手",
+    "radicalMeaning": "hand",
+    "level": "n1",
+    "tags": ["control", "restraint"],
+    "examples": [
+      { "word": "抑制", "reading": "よくせい", "meaning": "suppression, restraint" },
+      { "word": "抑圧", "reading": "よくあつ", "meaning": "oppression" }
+    ]
+  },
+  {
+    "character": "搾",
+    "readings": [
+      { "type": "on", "value": "サク" },
+      { "type": "kun", "value": "しぼ.る" }
+    ],
+    "meanings": ["squeeze", "press", "extract"],
+    "strokeCount": 13,
+    "radical": "手",
+    "radicalMeaning": "hand",
+    "level": "n1",
+    "tags": ["extraction"],
+    "examples": [
+      { "word": "搾取", "reading": "さくしゅ", "meaning": "exploitation" },
+      { "word": "圧搾", "reading": "あっさく", "meaning": "compression, squeezing" }
+    ]
+  },
+  {
+    "character": "拘",
+    "readings": [
+      { "type": "on", "value": "コウ" },
+      { "type": "kun", "value": "かか.わる" }
+    ],
+    "meanings": ["arrest", "seize", "adhere to", "be concerned with"],
+    "strokeCount": 8,
+    "radical": "手",
+    "radicalMeaning": "hand",
+    "level": "n1",
+    "tags": ["law", "restriction"],
+    "examples": [
+      { "word": "拘束", "reading": "こうそく", "meaning": "restraint, binding" },
+      { "word": "拘留", "reading": "こうりゅう", "meaning": "detention" },
+      { "word": "拘置", "reading": "こうち", "meaning": "custody, confinement" }
+    ]
+  },
+  {
+    "character": "束",
+    "readings": [
+      { "type": "on", "value": "ソク" },
+      { "type": "kun", "value": "たば" },
+      { "type": "kun", "value": "つか" }
+    ],
+    "meanings": ["bundle", "sheaf", "ream", "tie", "restrain"],
+    "strokeCount": 7,
+    "radical": "木",
+    "radicalMeaning": "tree",
+    "level": "n1",
+    "tags": ["binding", "group"],
+    "examples": [
+      { "word": "約束", "reading": "やくそく", "meaning": "promise, appointment" },
+      { "word": "束縛", "reading": "そくばく", "meaning": "restraint, bondage" },
+      { "word": "花束", "reading": "はなたば", "meaning": "bouquet" }
+    ]
+  },
+  {
+    "character": "拠",
+    "readings": [
+      { "type": "on", "value": "キョ" },
+      { "type": "on", "value": "コ" },
+      { "type": "kun", "value": "よ.る" }
+    ],
+    "meanings": ["foothold", "based on", "evidence"],
+    "strokeCount": 8,
+    "radical": "手",
+    "radicalMeaning": "hand",
+    "level": "n1",
+    "tags": ["basis", "evidence"],
+    "examples": [
+      { "word": "根拠", "reading": "こんきょ", "meaning": "basis, grounds" },
+      { "word": "拠点", "reading": "きょてん", "meaning": "base, stronghold" },
+      { "word": "証拠", "reading": "しょうこ", "meaning": "evidence, proof" }
+    ]
+  },
+  {
+    "character": "措",
+    "readings": [
+      { "type": "on", "value": "ソ" },
+      { "type": "kun", "value": "お.く" }
+    ],
+    "meanings": ["set aside", "dispose", "take measures"],
+    "strokeCount": 11,
+    "radical": "手",
+    "radicalMeaning": "hand",
+    "level": "n1",
+    "tags": ["action", "policy"],
+    "examples": [
+      { "word": "措置", "reading": "そち", "meaning": "measure, step" },
+      { "word": "措定", "reading": "そてい", "meaning": "positing" }
+    ]
+  },
+  {
+    "character": "施",
+    "readings": [
+      { "type": "on", "value": "シ" },
+      { "type": "on", "value": "セ" },
+      { "type": "kun", "value": "ほどこ.す" }
+    ],
+    "meanings": ["carry out", "administer", "give alms"],
+    "strokeCount": 9,
+    "radical": "方",
+    "radicalMeaning": "direction",
+    "level": "n1",
+    "tags": ["administration", "action"],
+    "examples": [
+      { "word": "施設", "reading": "しせつ", "meaning": "facility, institution" },
+      { "word": "実施", "reading": "じっし", "meaning": "enforcement, implementation" },
+      { "word": "施行", "reading": "しこう", "meaning": "enforcement, enactment" }
+    ]
+  },
+  {
+    "character": "策",
+    "readings": [
+      { "type": "on", "value": "サク" }
+    ],
+    "meanings": ["scheme", "plan", "policy", "measure"],
+    "strokeCount": 12,
+    "radical": "竹",
+    "radicalMeaning": "bamboo",
+    "level": "n1",
+    "tags": ["planning", "policy"],
+    "examples": [
+      { "word": "政策", "reading": "せいさく", "meaning": "political measures, policy" },
+      { "word": "対策", "reading": "たいさく", "meaning": "countermeasure" },
+      { "word": "策略", "reading": "さくりゃく", "meaning": "strategy, tactic" }
+    ]
+  },
+  {
+    "character": "企",
+    "readings": [
+      { "type": "on", "value": "キ" },
+      { "type": "kun", "value": "くわだ.てる" }
+    ],
+    "meanings": ["undertake", "scheme", "plan", "attempt"],
+    "strokeCount": 6,
+    "radical": "人",
+    "radicalMeaning": "person",
+    "level": "n1",
+    "tags": ["business", "planning"],
+    "examples": [
+      { "word": "企業", "reading": "きぎょう", "meaning": "enterprise, company" },
+      { "word": "企画", "reading": "きかく", "meaning": "planning, project" },
+      { "word": "企図", "reading": "きと", "meaning": "plan, attempt" }
+    ]
+  },
+  {
+    "character": "謀",
+    "readings": [
+      { "type": "on", "value": "ボウ" },
+      { "type": "on", "value": "ム" },
+      { "type": "kun", "value": "はか.る" }
+    ],
+    "meanings": ["conspire", "plot", "scheme"],
+    "strokeCount": 16,
+    "radical": "言",
+    "radicalMeaning": "speech",
+    "level": "n1",
+    "tags": ["conspiracy", "planning"],
+    "examples": [
+      { "word": "陰謀", "reading": "いんぼう", "meaning": "conspiracy, plot" },
+      { "word": "謀反", "reading": "むほん", "meaning": "rebellion, treason" },
+      { "word": "謀略", "reading": "ぼうりゃく", "meaning": "strategy, scheme" }
+    ]
+  },
+  {
+    "character": "諮",
+    "readings": [
+      { "type": "on", "value": "シ" },
+      { "type": "kun", "value": "はか.る" }
+    ],
+    "meanings": ["consult", "confer"],
+    "strokeCount": 16,
+    "radical": "言",
+    "radicalMeaning": "speech",
+    "level": "n1",
+    "tags": ["consultation", "formal"],
+    "examples": [
+      { "word": "諮問", "reading": "しもん", "meaning": "consultation, inquiry" },
+      { "word": "諮問機関", "reading": "しもんきかん", "meaning": "advisory body" }
+    ]
+  },
+  {
+    "character": "諭",
+    "readings": [
+      { "type": "on", "value": "ユ" },
+      { "type": "kun", "value": "さと.す" }
+    ],
+    "meanings": ["admonish", "instruct", "persuade"],
+    "strokeCount": 16,
+    "radical": "言",
+    "radicalMeaning": "speech",
+    "level": "n1",
+    "tags": ["instruction", "guidance"],
+    "examples": [
+      { "word": "諭吉", "reading": "ゆきち", "meaning": "Yukichi (name)" },
+      { "word": "訓諭", "reading": "くんゆ", "meaning": "admonition" },
+      { "word": "教諭", "reading": "きょうゆ", "meaning": "teacher (official title)" }
+    ]
+  },
+  {
+    "character": "勧",
+    "readings": [
+      { "type": "on", "value": "カン" },
+      { "type": "kun", "value": "すす.める" }
+    ],
+    "meanings": ["persuade", "recommend", "advise"],
+    "strokeCount": 13,
+    "radical": "力",
+    "radicalMeaning": "power",
+    "level": "n1",
+    "tags": ["recommendation", "advice"],
+    "examples": [
+      { "word": "勧誘", "reading": "かんゆう", "meaning": "invitation, solicitation" },
+      { "word": "勧告", "reading": "かんこく", "meaning": "advice, recommendation" }
+    ]
+  },
+  {
+    "character": "督",
+    "readings": [
+      { "type": "on", "value": "トク" }
+    ],
+    "meanings": ["supervise", "oversee", "coach"],
+    "strokeCount": 13,
+    "radical": "目",
+    "radicalMeaning": "eye",
+    "level": "n1",
+    "tags": ["supervision", "authority"],
+    "examples": [
+      { "word": "監督", "reading": "かんとく", "meaning": "supervision, director" },
+      { "word": "督促", "reading": "とくそく", "meaning": "urging, pressing" }
+    ]
+  },
+  {
+    "character": "監",
+    "readings": [
+      { "type": "on", "value": "カン" }
+    ],
+    "meanings": ["oversee", "supervise", "watch over"],
+    "strokeCount": 15,
+    "radical": "皿",
+    "radicalMeaning": "dish",
+    "level": "n1",
+    "tags": ["supervision", "authority"],
+    "examples": [
+      { "word": "監督", "reading": "かんとく", "meaning": "supervision, director" },
+      { "word": "監視", "reading": "かんし", "meaning": "surveillance, monitoring" },
+      { "word": "監査", "reading": "かんさ", "meaning": "audit, inspection" }
+    ]
+  },
+  {
+    "character": "潤",
+    "readings": [
+      { "type": "on", "value": "ジュン" },
+      { "type": "kun", "value": "うるお.う" },
+      { "type": "kun", "value": "うるお.す" }
+    ],
+    "meanings": ["moist", "wet", "enrich", "profit"],
+    "strokeCount": 15,
+    "radical": "水",
+    "radicalMeaning": "water",
+    "level": "n1",
+    "tags": ["moisture", "profit"],
+    "examples": [
+      { "word": "利潤", "reading": "りじゅん", "meaning": "profit, returns" },
+      { "word": "潤滑", "reading": "じゅんかつ", "meaning": "lubrication" }
+    ]
+  },
+  {
+    "character": "滑",
+    "readings": [
+      { "type": "on", "value": "カツ" },
+      { "type": "on", "value": "コツ" },
+      { "type": "kun", "value": "すべ.る" },
+      { "type": "kun", "value": "なめ.らか" }
+    ],
+    "meanings": ["slippery", "slide", "smooth"],
+    "strokeCount": 13,
+    "radical": "水",
+    "radicalMeaning": "water",
+    "level": "n1",
+    "tags": ["movement", "texture"],
+    "examples": [
+      { "word": "潤滑", "reading": "じゅんかつ", "meaning": "lubrication" },
+      { "word": "滑走", "reading": "かっそう", "meaning": "gliding, taxiing" },
+      { "word": "滑稽", "reading": "こっけい", "meaning": "funny, comical" }
+    ]
+  },
+  {
+    "character": "渋",
+    "readings": [
+      { "type": "on", "value": "ジュウ" },
+      { "type": "on", "value": "シュウ" },
+      { "type": "kun", "value": "しぶ" },
+      { "type": "kun", "value": "しぶ.い" }
+    ],
+    "meanings": ["astringent", "hesitate", "reluctant", "austere"],
+    "strokeCount": 11,
+    "radical": "水",
+    "radicalMeaning": "water",
+    "level": "n1",
+    "tags": ["taste", "reluctance"],
+    "examples": [
+      { "word": "渋滞", "reading": "じゅうたい", "meaning": "traffic jam, congestion" },
+      { "word": "渋谷", "reading": "しぶや", "meaning": "Shibuya" }
+    ]
+  },
+  {
+    "character": "滞",
+    "readings": [
+      { "type": "on", "value": "タイ" },
+      { "type": "kun", "value": "とどこお.る" }
+    ],
+    "meanings": ["stagnate", "be delayed", "linger"],
+    "strokeCount": 13,
+    "radical": "水",
+    "radicalMeaning": "water",
+    "level": "n1",
+    "tags": ["delay", "stagnation"],
+    "examples": [
+      { "word": "渋滞", "reading": "じゅうたい", "meaning": "traffic jam" },
+      { "word": "滞在", "reading": "たいざい", "meaning": "stay, sojourn" },
+      { "word": "停滞", "reading": "ていたい", "meaning": "stagnation" }
+    ]
+  },
+  {
+    "character": "沸",
+    "readings": [
+      { "type": "on", "value": "フツ" },
+      { "type": "kun", "value": "わ.く" },
+      { "type": "kun", "value": "わ.かす" }
+    ],
+    "meanings": ["seethe", "boil", "ferment"],
+    "strokeCount": 8,
+    "radical": "水",
+    "radicalMeaning": "water",
+    "level": "n1",
+    "tags": ["temperature", "liquid"],
+    "examples": [
+      { "word": "沸騰", "reading": "ふっとう", "meaning": "boiling" },
+      { "word": "沸点", "reading": "ふってん", "meaning": "boiling point" }
+    ]
+  },
+  {
+    "character": "溶",
+    "readings": [
+      { "type": "on", "value": "ヨウ" },
+      { "type": "kun", "value": "と.ける" },
+      { "type": "kun", "value": "と.かす" }
+    ],
+    "meanings": ["melt", "dissolve"],
+    "strokeCount": 13,
+    "radical": "水",
+    "radicalMeaning": "water",
+    "level": "n1",
+    "tags": ["chemistry", "liquid"],
+    "examples": [
+      { "word": "溶液", "reading": "ようえき", "meaning": "solution (chemistry)" },
+      { "word": "溶岩", "reading": "ようがん", "meaning": "lava" },
+      { "word": "溶接", "reading": "ようせつ", "meaning": "welding" }
+    ]
+  },
+  {
+    "character": "凝",
+    "readings": [
+      { "type": "on", "value": "ギョウ" },
+      { "type": "kun", "value": "こ.る" },
+      { "type": "kun", "value": "こ.らす" }
+    ],
+    "meanings": ["congeal", "freeze", "stiff", "be absorbed in"],
+    "strokeCount": 16,
+    "radical": "冫",
+    "radicalMeaning": "ice",
+    "level": "n1",
+    "tags": ["concentration", "solidification"],
+    "examples": [
+      { "word": "凝固", "reading": "ぎょうこ", "meaning": "solidification, coagulation" },
+      { "word": "凝縮", "reading": "ぎょうしゅく", "meaning": "condensation" },
+      { "word": "凝視", "reading": "ぎょうし", "meaning": "staring, gazing" }
+    ]
+  },
+  {
+    "character": "蒸",
+    "readings": [
+      { "type": "on", "value": "ジョウ" },
+      { "type": "kun", "value": "む.す" },
+      { "type": "kun", "value": "む.れる" }
+    ],
+    "meanings": ["steam", "heat", "sultry", "evaporate"],
+    "strokeCount": 13,
+    "radical": "艸",
+    "radicalMeaning": "grass",
+    "level": "n1",
+    "tags": ["heat", "cooking"],
+    "examples": [
+      { "word": "蒸気", "reading": "じょうき", "meaning": "steam, vapor" },
+      { "word": "蒸発", "reading": "じょうはつ", "meaning": "evaporation" },
+      { "word": "蒸留", "reading": "じょうりゅう", "meaning": "distillation" }
+    ]
+  },
+  {
+    "character": "醸",
+    "readings": [
+      { "type": "on", "value": "ジョウ" },
+      { "type": "kun", "value": "かも.す" }
+    ],
+    "meanings": ["brew", "cause", "bring about"],
+    "strokeCount": 20,
+    "radical": "酉",
+    "radicalMeaning": "sake",
+    "level": "n1",
+    "tags": ["brewing", "creation"],
+    "examples": [
+      { "word": "醸造", "reading": "じょうぞう", "meaning": "brewing, fermentation" },
+      { "word": "醸成", "reading": "じょうせい", "meaning": "bringing about, creating" }
+    ]
+  },
+  {
+    "character": "悟",
+    "readings": [
+      { "type": "on", "value": "ゴ" },
+      { "type": "kun", "value": "さと.る" }
+    ],
+    "meanings": ["enlightenment", "perceive", "realize"],
+    "strokeCount": 10,
+    "radical": "心",
+    "radicalMeaning": "heart",
+    "level": "n1",
+    "tags": ["wisdom", "realization"],
+    "examples": [
+      { "word": "覚悟", "reading": "かくご", "meaning": "resolution, readiness" },
+      { "word": "悟り", "reading": "さとり", "meaning": "enlightenment (Buddhism)" }
+    ]
+  },
+  {
+    "character": "怠",
+    "readings": [
+      { "type": "on", "value": "タイ" },
+      { "type": "kun", "value": "おこた.る" },
+      { "type": "kun", "value": "なま.ける" }
+    ],
+    "meanings": ["neglect", "laziness", "idle"],
+    "strokeCount": 9,
+    "radical": "心",
+    "radicalMeaning": "heart",
+    "level": "n1",
+    "tags": ["laziness", "negligence"],
+    "examples": [
+      { "word": "怠慢", "reading": "たいまん", "meaning": "negligence, laziness" },
+      { "word": "怠惰", "reading": "たいだ", "meaning": "laziness, sloth" },
+      { "word": "倦怠", "reading": "けんたい", "meaning": "languor, fatigue" }
+    ]
+  },
+  {
+    "character": "慢",
+    "readings": [
+      { "type": "on", "value": "マン" }
+    ],
+    "meanings": ["ridicule", "laziness", "arrogance"],
+    "strokeCount": 14,
+    "radical": "心",
+    "radicalMeaning": "heart",
+    "level": "n1",
+    "tags": ["arrogance", "negligence"],
+    "examples": [
+      { "word": "自慢", "reading": "じまん", "meaning": "pride, boasting" },
+      { "word": "怠慢", "reading": "たいまん", "meaning": "negligence" },
+      { "word": "慢性", "reading": "まんせい", "meaning": "chronic" }
+    ]
+  },
+  {
+    "character": "慎",
+    "readings": [
+      { "type": "on", "value": "シン" },
+      { "type": "kun", "value": "つつし.む" }
+    ],
+    "meanings": ["humility", "discretion", "caution"],
+    "strokeCount": 13,
+    "radical": "心",
+    "radicalMeaning": "heart",
+    "level": "n1",
+    "tags": ["caution", "virtue"],
+    "examples": [
+      { "word": "慎重", "reading": "しんちょう", "meaning": "prudence, caution" },
+      { "word": "謹慎", "reading": "きんしん", "meaning": "confinement, self-discipline" }
+    ]
+  },
+  {
+    "character": "謙",
+    "readings": [
+      { "type": "on", "value": "ケン" }
+    ],
+    "meanings": ["modesty", "humility"],
+    "strokeCount": 17,
+    "radical": "言",
+    "radicalMeaning": "speech",
+    "level": "n1",
+    "tags": ["virtue", "modesty"],
+    "examples": [
+      { "word": "謙虚", "reading": "けんきょ", "meaning": "modesty, humility" },
+      { "word": "謙遜", "reading": "けんそん", "meaning": "modesty, self-deprecation" },
+      { "word": "謙譲", "reading": "けんじょう", "meaning": "modesty, humility" }
+    ]
+  },
+  {
+    "character": "卑",
+    "readings": [
+      { "type": "on", "value": "ヒ" },
+      { "type": "kun", "value": "いや.しい" },
+      { "type": "kun", "value": "いや.しむ" }
+    ],
+    "meanings": ["lowly", "base", "vile", "vulgar"],
+    "strokeCount": 9,
+    "radical": "十",
+    "radicalMeaning": "ten",
+    "level": "n1",
+    "tags": ["contempt", "status"],
+    "examples": [
+      { "word": "卑怯", "reading": "ひきょう", "meaning": "cowardly, mean" },
+      { "word": "卑劣", "reading": "ひれつ", "meaning": "mean, despicable" }
+    ]
+  },
+  {
+    "character": "尊",
+    "readings": [
+      { "type": "on", "value": "ソン" },
+      { "type": "kun", "value": "たっと.い" },
+      { "type": "kun", "value": "とうと.い" },
+      { "type": "kun", "value": "たっと.ぶ" }
+    ],
+    "meanings": ["revered", "valuable", "precious", "noble"],
+    "strokeCount": 12,
+    "radical": "寸",
+    "radicalMeaning": "inch",
+    "level": "n1",
+    "tags": ["respect", "value"],
+    "examples": [
+      { "word": "尊敬", "reading": "そんけい", "meaning": "respect, esteem" },
+      { "word": "尊重", "reading": "そんちょう", "meaning": "respect, regard" },
+      { "word": "自尊心", "reading": "じそんしん", "meaning": "self-respect, pride" }
+    ]
+  },
+  {
+    "character": "崇",
+    "readings": [
+      { "type": "on", "value": "スウ" },
+      { "type": "kun", "value": "あが.める" }
+    ],
+    "meanings": ["adore", "respect", "revere", "worship"],
+    "strokeCount": 11,
+    "radical": "山",
+    "radicalMeaning": "mountain",
+    "level": "n1",
+    "tags": ["worship", "respect"],
+    "examples": [
+      { "word": "崇拝", "reading": "すうはい", "meaning": "worship, adoration" },
+      { "word": "崇高", "reading": "すうこう", "meaning": "lofty, sublime" }
+    ]
+  },
+  {
+    "character": "畏",
+    "readings": [
+      { "type": "on", "value": "イ" },
+      { "type": "kun", "value": "おそ.れる" },
+      { "type": "kun", "value": "かしこ.い" }
+    ],
+    "meanings": ["fear", "awe", "reverence"],
+    "strokeCount": 9,
+    "radical": "田",
+    "radicalMeaning": "field",
+    "level": "n1",
+    "tags": ["fear", "respect"],
+    "examples": [
+      { "word": "畏敬", "reading": "いけい", "meaning": "reverence, awe" },
+      { "word": "畏怖", "reading": "いふ", "meaning": "awe, fear" }
+    ]
+  },
+  {
+    "character": "恐",
+    "readings": [
+      { "type": "on", "value": "キョウ" },
+      { "type": "kun", "value": "おそ.れる" },
+      { "type": "kun", "value": "おそ.ろしい" }
+    ],
+    "meanings": ["fear", "dread", "awe"],
+    "strokeCount": 10,
+    "radical": "心",
+    "radicalMeaning": "heart",
+    "level": "n1",
+    "tags": ["fear", "emotion"],
+    "examples": [
+      { "word": "恐怖", "reading": "きょうふ", "meaning": "fear, terror" },
+      { "word": "恐竜", "reading": "きょうりゅう", "meaning": "dinosaur" },
+      { "word": "恐慌", "reading": "きょうこう", "meaning": "panic, financial crisis" }
+    ]
+  },
+  {
+    "character": "憤",
+    "readings": [
+      { "type": "on", "value": "フン" },
+      { "type": "kun", "value": "いきどお.る" }
+    ],
+    "meanings": ["aroused", "resent", "be indignant"],
+    "strokeCount": 15,
+    "radical": "心",
+    "radicalMeaning": "heart",
+    "level": "n1",
+    "tags": ["anger", "emotion"],
+    "examples": [
+      { "word": "憤慨", "reading": "ふんがい", "meaning": "indignation, resentment" },
+      { "word": "憤怒", "reading": "ふんど", "meaning": "anger, rage" },
+      { "word": "憤激", "reading": "ふんげき", "meaning": "fury, indignation" }
+    ]
+  },
+  {
+    "character": "嘆",
+    "readings": [
+      { "type": "on", "value": "タン" },
+      { "type": "kun", "value": "なげ.く" },
+      { "type": "kun", "value": "なげ.かわしい" }
+    ],
+    "meanings": ["sigh", "lament", "grieve"],
+    "strokeCount": 13,
+    "radical": "口",
+    "radicalMeaning": "mouth",
+    "level": "n1",
+    "tags": ["emotion", "sorrow"],
+    "examples": [
+      { "word": "嘆願", "reading": "たんがん", "meaning": "petition, appeal" },
+      { "word": "感嘆", "reading": "かんたん", "meaning": "admiration, wonder" }
+    ]
+  },
+  {
+    "character": "悼",
+    "readings": [
+      { "type": "on", "value": "トウ" },
+      { "type": "kun", "value": "いた.む" }
+    ],
+    "meanings": ["lament", "grieve", "mourn"],
+    "strokeCount": 11,
+    "radical": "心",
+    "radicalMeaning": "heart",
+    "level": "n1",
+    "tags": ["mourning", "emotion"],
+    "examples": [
+      { "word": "追悼", "reading": "ついとう", "meaning": "mourning, memorial" },
+      { "word": "哀悼", "reading": "あいとう", "meaning": "condolence, mourning" }
+    ]
+  },
+  {
+    "character": "哀",
+    "readings": [
+      { "type": "on", "value": "アイ" },
+      { "type": "kun", "value": "あわ.れ" },
+      { "type": "kun", "value": "あわ.れむ" }
+    ],
+    "meanings": ["pathetic", "grief", "sorrow", "pity"],
+    "strokeCount": 9,
+    "radical": "口",
+    "radicalMeaning": "mouth",
+    "level": "n1",
+    "tags": ["sorrow", "emotion"],
+    "examples": [
+      { "word": "哀悼", "reading": "あいとう", "meaning": "condolence" },
+      { "word": "悲哀", "reading": "ひあい", "meaning": "sorrow, grief" },
+      { "word": "哀願", "reading": "あいがん", "meaning": "supplication, entreaty" }
+    ]
+  },
+  {
+    "character": "惜",
+    "readings": [
+      { "type": "on", "value": "セキ" },
+      { "type": "kun", "value": "お.しい" },
+      { "type": "kun", "value": "お.しむ" }
+    ],
+    "meanings": ["pity", "be sparing of", "frugal", "regret"],
+    "strokeCount": 11,
+    "radical": "心",
+    "radicalMeaning": "heart",
+    "level": "n1",
+    "tags": ["regret", "emotion"],
+    "examples": [
+      { "word": "惜敗", "reading": "せきはい", "meaning": "narrow defeat" },
+      { "word": "愛惜", "reading": "あいせき", "meaning": "regret, reluctance to part" }
+    ]
+  },
+  {
+    "character": "慕",
+    "readings": [
+      { "type": "on", "value": "ボ" },
+      { "type": "kun", "value": "した.う" }
+    ],
+    "meanings": ["pining", "yearn for", "love dearly", "adore"],
+    "strokeCount": 14,
+    "radical": "心",
+    "radicalMeaning": "heart",
+    "level": "n1",
+    "tags": ["longing", "emotion"],
+    "examples": [
+      { "word": "慕情", "reading": "ぼじょう", "meaning": "longing, yearning" },
+      { "word": "思慕", "reading": "しぼ", "meaning": "yearning, longing" }
+    ]
+  },
+  {
+    "character": "侮",
+    "readings": [
+      { "type": "on", "value": "ブ" },
+      { "type": "kun", "value": "あなど.る" }
+    ],
+    "meanings": ["scorn", "despise", "insult"],
+    "strokeCount": 8,
+    "radical": "人",
+    "radicalMeaning": "person",
+    "level": "n1",
+    "tags": ["contempt", "insult"],
+    "examples": [
+      { "word": "侮辱", "reading": "ぶじょく", "meaning": "insult, contempt" },
+      { "word": "侮蔑", "reading": "ぶべつ", "meaning": "scorn, disdain" }
+    ]
+  },
+  {
+    "character": "蔑",
+    "readings": [
+      { "type": "on", "value": "ベツ" },
+      { "type": "kun", "value": "さげす.む" },
+      { "type": "kun", "value": "ないがしろ" }
+    ],
+    "meanings": ["scorn", "despise", "contempt"],
+    "strokeCount": 14,
+    "radical": "艸",
+    "radicalMeaning": "grass",
+    "level": "n1",
+    "tags": ["contempt", "disdain"],
+    "examples": [
+      { "word": "侮蔑", "reading": "ぶべつ", "meaning": "scorn, disdain" },
+      { "word": "蔑視", "reading": "べっし", "meaning": "contempt, scorn" }
+    ]
+  },
+  {
+    "character": "嘲",
+    "readings": [
+      { "type": "on", "value": "チョウ" },
+      { "type": "kun", "value": "あざけ.る" }
+    ],
+    "meanings": ["ridicule", "mock", "jeer"],
+    "strokeCount": 15,
+    "radical": "口",
+    "radicalMeaning": "mouth",
+    "level": "n1",
+    "tags": ["mockery", "contempt"],
+    "examples": [
+      { "word": "嘲笑", "reading": "ちょうしょう", "meaning": "derision, scorn" },
+      { "word": "嘲弄", "reading": "ちょうろう", "meaning": "mockery, ridicule" }
+    ]
+  },
+  {
+    "character": "翻",
+    "readings": [
+      { "type": "on", "value": "ホン" },
+      { "type": "kun", "value": "ひるがえ.る" },
+      { "type": "kun", "value": "ひるがえ.す" }
+    ],
+    "meanings": ["flip", "turn over", "wave", "flutter", "change (mind)"],
+    "strokeCount": 18,
+    "radical": "羽",
+    "radicalMeaning": "feathers",
+    "level": "n1",
+    "tags": ["change", "translation"],
+    "examples": [
+      { "word": "翻訳", "reading": "ほんやく", "meaning": "translation" },
+      { "word": "翻弄", "reading": "ほんろう", "meaning": "trifling with, toying" }
+    ]
+  },
+  {
+    "character": "覆",
+    "readings": [
+      { "type": "on", "value": "フク" },
+      { "type": "kun", "value": "おお.う" },
+      { "type": "kun", "value": "くつがえ.す" },
+      { "type": "kun", "value": "くつがえ.る" }
+    ],
+    "meanings": ["capsize", "cover", "shade", "overturn"],
+    "strokeCount": 18,
+    "radical": "襾",
+    "radicalMeaning": "cover",
+    "level": "n1",
+    "tags": ["reversal", "covering"],
+    "examples": [
+      { "word": "転覆", "reading": "てんぷく", "meaning": "capsizing, overturning" },
+      { "word": "覆面", "reading": "ふくめん", "meaning": "mask, disguise" }
+    ]
+  },
+  {
+    "character": "顛",
+    "readings": [
+      { "type": "on", "value": "テン" },
+      { "type": "kun", "value": "いただき" }
+    ],
+    "meanings": ["summit", "top", "upset", "overturn"],
+    "strokeCount": 19,
+    "radical": "頁",
+    "radicalMeaning": "page",
+    "level": "n1",
+    "tags": ["reversal", "disorder"],
+    "examples": [
+      { "word": "顛末", "reading": "てんまつ", "meaning": "circumstances, details" },
+      { "word": "顛倒", "reading": "てんとう", "meaning": "falling down, reversal" }
+    ]
+  },
+  {
+    "character": "崩",
+    "readings": [
+      { "type": "on", "value": "ホウ" },
+      { "type": "kun", "value": "くず.れる" },
+      { "type": "kun", "value": "くず.す" }
+    ],
+    "meanings": ["crumble", "collapse", "demolish"],
+    "strokeCount": 11,
+    "radical": "山",
+    "radicalMeaning": "mountain",
+    "level": "n1",
+    "tags": ["destruction", "collapse"],
+    "examples": [
+      { "word": "崩壊", "reading": "ほうかい", "meaning": "collapse, destruction" },
+      { "word": "崩落", "reading": "ほうらく", "meaning": "collapse, cave-in" }
+    ]
+  },
+  {
+    "character": "壊",
+    "readings": [
+      { "type": "on", "value": "カイ" },
+      { "type": "kun", "value": "こわ.す" },
+      { "type": "kun", "value": "こわ.れる" }
+    ],
+    "meanings": ["demolition", "break", "destroy"],
+    "strokeCount": 16,
+    "radical": "土",
+    "radicalMeaning": "earth",
+    "level": "n1",
+    "tags": ["destruction"],
+    "examples": [
+      { "word": "破壊", "reading": "はかい", "meaning": "destruction, demolition" },
+      { "word": "崩壊", "reading": "ほうかい", "meaning": "collapse" },
+      { "word": "壊滅", "reading": "かいめつ", "meaning": "annihilation" }
+    ]
+  },
+  {
+    "character": "滅",
+    "readings": [
+      { "type": "on", "value": "メツ" },
+      { "type": "kun", "value": "ほろ.びる" },
+      { "type": "kun", "value": "ほろ.ぼす" }
+    ],
+    "meanings": ["destroy", "ruin", "perish"],
+    "strokeCount": 13,
+    "radical": "水",
+    "radicalMeaning": "water",
+    "level": "n1",
+    "tags": ["destruction", "extinction"],
+    "examples": [
+      { "word": "壊滅", "reading": "かいめつ", "meaning": "annihilation" },
+      { "word": "滅亡", "reading": "めつぼう", "meaning": "downfall, ruin" },
+      { "word": "消滅", "reading": "しょうめつ", "meaning": "extinction, disappearance" }
+    ]
+  },
+  {
+    "character": "廃",
+    "readings": [
+      { "type": "on", "value": "ハイ" },
+      { "type": "kun", "value": "すた.れる" },
+      { "type": "kun", "value": "すた.る" }
+    ],
+    "meanings": ["abolish", "obsolete", "cessation", "discarding"],
+    "strokeCount": 12,
+    "radical": "广",
+    "radicalMeaning": "cliff",
+    "level": "n1",
+    "tags": ["abolition", "disuse"],
+    "examples": [
+      { "word": "廃止", "reading": "はいし", "meaning": "abolition, repeal" },
+      { "word": "廃棄", "reading": "はいき", "meaning": "disposal, scrapping" },
+      { "word": "廃墟", "reading": "はいきょ", "meaning": "ruins" }
+    ]
+  },
+  {
+    "character": "棄",
+    "readings": [
+      { "type": "on", "value": "キ" }
+    ],
+    "meanings": ["abandon", "throw away", "discard"],
+    "strokeCount": 12,
+    "radical": "木",
+    "radicalMeaning": "tree",
+    "level": "n1",
+    "tags": ["abandonment"],
+    "examples": [
+      { "word": "廃棄", "reading": "はいき", "meaning": "disposal, scrapping" },
+      { "word": "放棄", "reading": "ほうき", "meaning": "abandonment, renunciation" },
+      { "word": "棄権", "reading": "きけん", "meaning": "abstention" }
+    ]
+  },
+  {
+    "character": "却",
+    "readings": [
+      { "type": "on", "value": "キャク" },
+      { "type": "kun", "value": "かえ.って" }
+    ],
+    "meanings": ["instead", "on the contrary", "rather", "reject"],
+    "strokeCount": 7,
+    "radical": "卩",
+    "radicalMeaning": "seal",
+    "level": "n1",
+    "tags": ["rejection", "contrast"],
+    "examples": [
+      { "word": "却下", "reading": "きゃっか", "meaning": "rejection, dismissal" },
+      { "word": "退却", "reading": "たいきゃく", "meaning": "retreat, withdrawal" },
+      { "word": "売却", "reading": "ばいきゃく", "meaning": "selling off" }
+    ]
+  },
+  {
+    "character": "損",
+    "readings": [
+      { "type": "on", "value": "ソン" },
+      { "type": "kun", "value": "そこ.なう" },
+      { "type": "kun", "value": "そこ.ねる" }
+    ],
+    "meanings": ["damage", "loss", "disadvantage"],
+    "strokeCount": 13,
+    "radical": "手",
+    "radicalMeaning": "hand",
+    "level": "n1",
+    "tags": ["damage", "loss"],
+    "examples": [
+      { "word": "損害", "reading": "そんがい", "meaning": "damage, harm" },
+      { "word": "損失", "reading": "そんしつ", "meaning": "loss" },
+      { "word": "破損", "reading": "はそん", "meaning": "damage, breakage" }
+    ]
+  },
+  {
+    "character": "汚",
+    "readings": [
+      { "type": "on", "value": "オ" },
+      { "type": "kun", "value": "けが.す" },
+      { "type": "kun", "value": "よご.す" },
+      { "type": "kun", "value": "きたな.い" }
+    ],
+    "meanings": ["dirty", "pollute", "disgrace"],
+    "strokeCount": 6,
+    "radical": "水",
+    "radicalMeaning": "water",
+    "level": "n1",
+    "tags": ["pollution", "uncleanliness"],
+    "examples": [
+      { "word": "汚染", "reading": "おせん", "meaning": "pollution, contamination" },
+      { "word": "汚職", "reading": "おしょく", "meaning": "corruption" },
+      { "word": "汚濁", "reading": "おだく", "meaning": "pollution, corruption" }
+    ]
+  },
+  {
+    "character": "染",
+    "readings": [
+      { "type": "on", "value": "セン" },
+      { "type": "kun", "value": "そ.める" },
+      { "type": "kun", "value": "し.みる" }
+    ],
+    "meanings": ["dye", "color", "stain", "infect"],
+    "strokeCount": 9,
+    "radical": "木",
+    "radicalMeaning": "tree",
+    "level": "n1",
+    "tags": ["color", "infection"],
+    "examples": [
+      { "word": "汚染", "reading": "おせん", "meaning": "pollution, contamination" },
+      { "word": "感染", "reading": "かんせん", "meaning": "infection" },
+      { "word": "染色", "reading": "せんしょく", "meaning": "dyeing, staining" }
+    ]
+  },
+  {
+    "character": "濁",
+    "readings": [
+      { "type": "on", "value": "ダク" },
+      { "type": "on", "value": "ジョク" },
+      { "type": "kun", "value": "にご.る" },
+      { "type": "kun", "value": "にご.す" }
+    ],
+    "meanings": ["turbid", "muddy", "impure"],
+    "strokeCount": 16,
+    "radical": "水",
+    "radicalMeaning": "water",
+    "level": "n1",
+    "tags": ["impurity", "liquid"],
+    "examples": [
+      { "word": "汚濁", "reading": "おだく", "meaning": "pollution, contamination" },
+      { "word": "濁流", "reading": "だくりゅう", "meaning": "muddy stream" },
+      { "word": "濁音", "reading": "だくおん", "meaning": "voiced consonant" }
+    ]
+  },
+  {
+    "character": "腐",
+    "readings": [
+      { "type": "on", "value": "フ" },
+      { "type": "kun", "value": "くさ.る" },
+      { "type": "kun", "value": "くさ.れる" }
+    ],
+    "meanings": ["rot", "decay", "corrode"],
+    "strokeCount": 14,
+    "radical": "肉",
+    "radicalMeaning": "meat",
+    "level": "n1",
+    "tags": ["decay", "corruption"],
+    "examples": [
+      { "word": "腐敗", "reading": "ふはい", "meaning": "decay, corruption" },
+      { "word": "豆腐", "reading": "とうふ", "meaning": "tofu" },
+      { "word": "腐食", "reading": "ふしょく", "meaning": "corrosion" }
+    ]
+  },
+  {
+    "character": "朽",
+    "readings": [
+      { "type": "on", "value": "キュウ" },
+      { "type": "kun", "value": "く.ちる" }
+    ],
+    "meanings": ["decay", "rot", "remain in seclusion"],
+    "strokeCount": 6,
+    "radical": "木",
+    "radicalMeaning": "tree",
+    "level": "n1",
+    "tags": ["decay", "aging"],
+    "examples": [
+      { "word": "不朽", "reading": "ふきゅう", "meaning": "immortal, imperishable" },
+      { "word": "朽木", "reading": "くちき", "meaning": "rotten tree" }
+    ]
+  },
+  {
+    "character": "衰",
+    "readings": [
+      { "type": "on", "value": "スイ" },
+      { "type": "kun", "value": "おとろ.える" }
+    ],
+    "meanings": ["decline", "wane", "weaken"],
+    "strokeCount": 10,
+    "radical": "衣",
+    "radicalMeaning": "clothes",
+    "level": "n1",
+    "tags": ["decline", "weakening"],
+    "examples": [
+      { "word": "衰退", "reading": "すいたい", "meaning": "decline, degeneration" },
+      { "word": "衰弱", "reading": "すいじゃく", "meaning": "weakness, debility" },
+      { "word": "老衰", "reading": "ろうすい", "meaning": "senility, infirmity of old age" }
+    ]
+  },
+  {
+    "character": "微",
+    "readings": [
+      { "type": "on", "value": "ビ" },
+      { "type": "kun", "value": "かす.か" }
+    ],
+    "meanings": ["delicate", "minute", "slight"],
+    "strokeCount": 13,
+    "radical": "彳",
+    "radicalMeaning": "step",
+    "level": "n1",
+    "tags": ["subtlety", "smallness"],
+    "examples": [
+      { "word": "微妙", "reading": "びみょう", "meaning": "delicate, subtle" },
+      { "word": "微笑", "reading": "びしょう", "meaning": "smile" },
+      { "word": "微生物", "reading": "びせいぶつ", "meaning": "microorganism" }
+    ]
+  },
+  {
+    "character": "僅",
+    "readings": [
+      { "type": "on", "value": "キン" },
+      { "type": "kun", "value": "わず.か" }
+    ],
+    "meanings": ["merely", "only", "slightly"],
+    "strokeCount": 13,
+    "radical": "人",
+    "radicalMeaning": "person",
+    "level": "n1",
+    "tags": ["quantity", "smallness"],
+    "examples": [
+      { "word": "僅差", "reading": "きんさ", "meaning": "narrow margin" },
+      { "word": "僅少", "reading": "きんしょう", "meaning": "trifling, negligible" }
+    ]
+  },
+  {
+    "character": "稀",
+    "readings": [
+      { "type": "on", "value": "キ" },
+      { "type": "kun", "value": "まれ" }
+    ],
+    "meanings": ["rare", "unusual", "dilute"],
+    "strokeCount": 12,
+    "radical": "禾",
+    "radicalMeaning": "grain",
+    "level": "n1",
+    "tags": ["rarity", "scarcity"],
+    "examples": [
+      { "word": "稀少", "reading": "きしょう", "meaning": "scarce, rare" },
+      { "word": "稀有", "reading": "けう", "meaning": "rare, uncommon" }
+    ]
+  },
+  {
+    "character": "疎",
+    "readings": [
+      { "type": "on", "value": "ソ" },
+      { "type": "kun", "value": "うと.い" },
+      { "type": "kun", "value": "まば.ら" }
+    ],
+    "meanings": ["alienate", "sparse", "estranged", "neglect"],
+    "strokeCount": 12,
+    "radical": "疋",
+    "radicalMeaning": "bolt of cloth",
+    "level": "n1",
+    "tags": ["distance", "neglect"],
+    "examples": [
+      { "word": "疎外", "reading": "そがい", "meaning": "alienation, estrangement" },
+      { "word": "過疎", "reading": "かそ", "meaning": "depopulation" },
+      { "word": "疎遠", "reading": "そえん", "meaning": "estrangement" }
+    ]
+  },
+  {
+    "character": "孤",
+    "readings": [
+      { "type": "on", "value": "コ" }
+    ],
+    "meanings": ["orphan", "alone", "isolated"],
+    "strokeCount": 8,
+    "radical": "子",
+    "radicalMeaning": "child",
+    "level": "n1",
+    "tags": ["isolation", "loneliness"],
+    "examples": [
+      { "word": "孤独", "reading": "こどく", "meaning": "solitude, loneliness" },
+      { "word": "孤立", "reading": "こりつ", "meaning": "isolation" },
+      { "word": "孤児", "reading": "こじ", "meaning": "orphan" }
+    ]
+  },
+  {
+    "character": "隔",
+    "readings": [
+      { "type": "on", "value": "カク" },
+      { "type": "kun", "value": "へだ.てる" },
+      { "type": "kun", "value": "へだ.たる" }
+    ],
+    "meanings": ["isolate", "separate", "distance"],
+    "strokeCount": 13,
+    "radical": "阜",
+    "radicalMeaning": "mound",
+    "level": "n1",
+    "tags": ["separation", "distance"],
+    "examples": [
+      { "word": "隔離", "reading": "かくり", "meaning": "isolation, quarantine" },
+      { "word": "間隔", "reading": "かんかく", "meaning": "interval, distance" }
+    ]
+  },
+  {
+    "character": "脱",
+    "readings": [
+      { "type": "on", "value": "ダツ" },
+      { "type": "kun", "value": "ぬ.ぐ" },
+      { "type": "kun", "value": "ぬ.げる" }
+    ],
+    "meanings": ["undress", "remove", "escape"],
+    "strokeCount": 11,
+    "radical": "肉",
+    "radicalMeaning": "meat",
+    "level": "n1",
+    "tags": ["removal", "escape"],
+    "examples": [
+      { "word": "脱出", "reading": "だっしゅつ", "meaning": "escape" },
+      { "word": "脱退", "reading": "だったい", "meaning": "withdrawal, secession" },
+      { "word": "脱税", "reading": "だつぜい", "meaning": "tax evasion" }
+    ]
+  },
+  {
+    "character": "逸",
+    "readings": [
+      { "type": "on", "value": "イツ" },
+      { "type": "kun", "value": "そ.れる" },
+      { "type": "kun", "value": "はぐ.れる" }
+    ],
+    "meanings": ["deviate", "idleness", "leisure", "miss"],
+    "strokeCount": 11,
+    "radical": "辵",
+    "radicalMeaning": "walk",
+    "level": "n1",
+    "tags": ["deviation", "leisure"],
+    "examples": [
+      { "word": "逸話", "reading": "いつわ", "meaning": "anecdote" },
+      { "word": "逸脱", "reading": "いつだつ", "meaning": "deviation, departure" },
+      { "word": "秀逸", "reading": "しゅういつ", "meaning": "excellence" }
+    ]
+  },
+  {
+    "character": "避",
+    "readings": [
+      { "type": "on", "value": "ヒ" },
+      { "type": "kun", "value": "さ.ける" },
+      { "type": "kun", "value": "よ.ける" }
+    ],
+    "meanings": ["evade", "avoid", "avert"],
+    "strokeCount": 16,
+    "radical": "辵",
+    "radicalMeaning": "walk",
+    "level": "n1",
+    "tags": ["avoidance", "evasion"],
+    "examples": [
+      { "word": "避難", "reading": "ひなん", "meaning": "refuge, evacuation" },
+      { "word": "回避", "reading": "かいひ", "meaning": "avoidance, evasion" },
+      { "word": "避妊", "reading": "ひにん", "meaning": "contraception" }
+    ]
+  },
+  {
+    "character": "忌",
+    "readings": [
+      { "type": "on", "value": "キ" },
+      { "type": "kun", "value": "い.む" },
+      { "type": "kun", "value": "い.まわしい" }
+    ],
+    "meanings": ["mourning", "abhor", "taboo"],
+    "strokeCount": 7,
+    "radical": "心",
+    "radicalMeaning": "heart",
+    "level": "n1",
+    "tags": ["taboo", "mourning"],
+    "examples": [
+      { "word": "忌避", "reading": "きひ", "meaning": "avoidance, evasion" },
+      { "word": "禁忌", "reading": "きんき", "meaning": "taboo" }
+    ]
+  },
+  {
+    "character": "嫌",
+    "readings": [
+      { "type": "on", "value": "ケン" },
+      { "type": "on", "value": "ゲン" },
+      { "type": "kun", "value": "きら.う" },
+      { "type": "kun", "value": "いや" }
+    ],
+    "meanings": ["dislike", "detest", "reluctance"],
+    "strokeCount": 13,
+    "radical": "女",
+    "radicalMeaning": "woman",
+    "level": "n1",
+    "tags": ["dislike", "emotion"],
+    "examples": [
+      { "word": "嫌悪", "reading": "けんお", "meaning": "disgust, hatred" },
+      { "word": "嫌疑", "reading": "けんぎ", "meaning": "suspicion" },
+      { "word": "機嫌", "reading": "きげん", "meaning": "mood, humor" }
+    ]
+  },
+  {
+    "character": "厭",
+    "readings": [
+      { "type": "on", "value": "エン" },
+      { "type": "kun", "value": "いと.う" },
+      { "type": "kun", "value": "あ.きる" }
+    ],
+    "meanings": ["dislike", "tire of", "satiate"],
+    "strokeCount": 14,
+    "radical": "厂",
+    "radicalMeaning": "cliff",
+    "level": "n1",
+    "tags": ["dislike", "weariness"],
+    "examples": [
+      { "word": "厭世", "reading": "えんせい", "meaning": "pessimism, world-weariness" },
+      { "word": "厭悪", "reading": "えんお", "meaning": "disgust, revulsion" }
+    ]
+  },
+  {
+    "character": "疑",
+    "readings": [
+      { "type": "on", "value": "ギ" },
+      { "type": "kun", "value": "うたが.う" }
+    ],
+    "meanings": ["doubt", "distrust", "suspect"],
+    "strokeCount": 14,
+    "radical": "疋",
+    "radicalMeaning": "bolt of cloth",
+    "level": "n1",
+    "tags": ["doubt", "suspicion"],
+    "examples": [
+      { "word": "疑問", "reading": "ぎもん", "meaning": "question, doubt" },
+      { "word": "疑惑", "reading": "ぎわく", "meaning": "suspicion, distrust" },
+      { "word": "容疑", "reading": "ようぎ", "meaning": "suspicion (of a crime)" }
+    ]
+  },
+  {
+    "character": "懸",
+    "readings": [
+      { "type": "on", "value": "ケン" },
+      { "type": "on", "value": "ケ" },
+      { "type": "kun", "value": "か.ける" },
+      { "type": "kun", "value": "か.かる" }
+    ],
+    "meanings": ["suspend", "hang", "concern", "risk"],
+    "strokeCount": 20,
+    "radical": "心",
+    "radicalMeaning": "heart",
+    "level": "n1",
+    "tags": ["concern", "suspension"],
+    "examples": [
+      { "word": "懸念", "reading": "けねん", "meaning": "concern, worry" },
+      { "word": "懸命", "reading": "けんめい", "meaning": "eagerness, desperation" },
+      { "word": "懸賞", "reading": "けんしょう", "meaning": "prize, reward" }
+    ]
+  },
+  {
+    "character": "慮",
+    "readings": [
+      { "type": "on", "value": "リョ" }
+    ],
+    "meanings": ["deliberation", "concern", "anxiety"],
+    "strokeCount": 15,
+    "radical": "心",
+    "radicalMeaning": "heart",
+    "level": "n1",
+    "tags": ["thought", "concern"],
+    "examples": [
+      { "word": "配慮", "reading": "はいりょ", "meaning": "consideration, concern" },
+      { "word": "憂慮", "reading": "ゆうりょ", "meaning": "anxiety, concern" },
+      { "word": "思慮", "reading": "しりょ", "meaning": "prudence, thought" }
+    ]
+  },
+  {
+    "character": "憂",
+    "readings": [
+      { "type": "on", "value": "ユウ" },
+      { "type": "kun", "value": "うれ.える" },
+      { "type": "kun", "value": "うれ.い" },
+      { "type": "kun", "value": "う.い" }
+    ],
+    "meanings": ["melancholy", "grieve", "lament", "worry"],
+    "strokeCount": 15,
+    "radical": "心",
+    "radicalMeaning": "heart",
+    "level": "n1",
+    "tags": ["sorrow", "worry"],
+    "examples": [
+      { "word": "憂鬱", "reading": "ゆううつ", "meaning": "depression, melancholy" },
+      { "word": "憂慮", "reading": "ゆうりょ", "meaning": "anxiety, concern" }
+    ]
+  },
+  {
+    "character": "脅",
+    "readings": [
+      { "type": "on", "value": "キョウ" },
+      { "type": "kun", "value": "おびや.かす" },
+      { "type": "kun", "value": "おど.す" }
+    ],
+    "meanings": ["threaten", "coerce"],
+    "strokeCount": 10,
+    "radical": "肉",
+    "radicalMeaning": "meat",
+    "level": "n1",
+    "tags": ["threat", "coercion"],
+    "examples": [
+      { "word": "脅威", "reading": "きょうい", "meaning": "threat, menace" },
+      { "word": "脅迫", "reading": "きょうはく", "meaning": "threat, intimidation" },
+      { "word": "脅かす", "reading": "おびやかす", "meaning": "to threaten" }
+    ]
+  },
+  {
+    "character": "威",
+    "readings": [
+      { "type": "on", "value": "イ" },
+      { "type": "kun", "value": "おど.す" }
+    ],
+    "meanings": ["intimidate", "dignity", "majesty"],
+    "strokeCount": 9,
+    "radical": "女",
+    "radicalMeaning": "woman",
+    "level": "n1",
+    "tags": ["authority", "dignity"],
+    "examples": [
+      { "word": "威力", "reading": "いりょく", "meaning": "power, might" },
+      { "word": "脅威", "reading": "きょうい", "meaning": "threat, menace" },
+      { "word": "威厳", "reading": "いげん", "meaning": "dignity, majesty" }
+    ]
+  },
+  {
+    "character": "迫",
+    "readings": [
+      { "type": "on", "value": "ハク" },
+      { "type": "kun", "value": "せま.る" }
+    ],
+    "meanings": ["urge", "force", "imminent", "press upon"],
+    "strokeCount": 8,
+    "radical": "辵",
+    "radicalMeaning": "walk",
+    "level": "n1",
+    "tags": ["urgency", "pressure"],
+    "examples": [
+      { "word": "迫力", "reading": "はくりょく", "meaning": "force, intensity" },
+      { "word": "圧迫", "reading": "あっぱく", "meaning": "pressure, oppression" },
+      { "word": "脅迫", "reading": "きょうはく", "meaning": "threat, intimidation" }
+    ]
+  },
+  {
+    "character": "窮",
+    "readings": [
+      { "type": "on", "value": "キュウ" },
+      { "type": "kun", "value": "きわ.める" },
+      { "type": "kun", "value": "きわ.まる" }
+    ],
+    "meanings": ["hard up", "destitute", "at the end"],
+    "strokeCount": 15,
+    "radical": "穴",
+    "radicalMeaning": "hole",
+    "level": "n1",
+    "tags": ["difficulty", "extremity"],
+    "examples": [
+      { "word": "窮地", "reading": "きゅうち", "meaning": "predicament" },
+      { "word": "困窮", "reading": "こんきゅう", "meaning": "poverty, destitution" },
+      { "word": "窮屈", "reading": "きゅうくつ", "meaning": "cramped, formal" }
+    ]
+  },
+  {
+    "character": "苦",
+    "readings": [
+      { "type": "on", "value": "ク" },
+      { "type": "kun", "value": "くる.しい" },
+      { "type": "kun", "value": "くる.しむ" },
+      { "type": "kun", "value": "にが.い" }
+    ],
+    "meanings": ["suffering", "trial", "bitter"],
+    "strokeCount": 8,
+    "radical": "艸",
+    "radicalMeaning": "grass",
+    "level": "n1",
+    "tags": ["suffering", "difficulty"],
+    "examples": [
+      { "word": "苦痛", "reading": "くつう", "meaning": "pain, suffering" },
+      { "word": "苦労", "reading": "くろう", "meaning": "hardship, trouble" },
+      { "word": "苦悩", "reading": "くのう", "meaning": "anguish, distress" }
+    ]
+  },
+  {
+    "character": "悩",
+    "readings": [
+      { "type": "on", "value": "ノウ" },
+      { "type": "kun", "value": "なや.む" },
+      { "type": "kun", "value": "なや.ます" }
+    ],
+    "meanings": ["trouble", "worry", "distress"],
+    "strokeCount": 10,
+    "radical": "心",
+    "radicalMeaning": "heart",
+    "level": "n1",
+    "tags": ["worry", "distress"],
+    "examples": [
+      { "word": "苦悩", "reading": "くのう", "meaning": "anguish" },
+      { "word": "悩殺", "reading": "のうさつ", "meaning": "fascination, captivation" },
+      { "word": "煩悩", "reading": "ぼんのう", "meaning": "worldly desires (Buddhism)" }
+    ]
+  },
+  {
+    "character": "煩",
+    "readings": [
+      { "type": "on", "value": "ハン" },
+      { "type": "on", "value": "ボン" },
+      { "type": "kun", "value": "わずら.う" },
+      { "type": "kun", "value": "わずら.わす" }
+    ],
+    "meanings": ["anxiety", "trouble", "worry", "nuisance"],
+    "strokeCount": 13,
+    "radical": "火",
+    "radicalMeaning": "fire",
+    "level": "n1",
+    "tags": ["annoyance", "trouble"],
+    "examples": [
+      { "word": "煩悩", "reading": "ぼんのう", "meaning": "worldly desires" },
+      { "word": "煩雑", "reading": "はんざつ", "meaning": "complex, troublesome" },
+      { "word": "煩わしい", "reading": "わずらわしい", "meaning": "bothersome" }
+    ]
+  },
+  {
+    "character": "陰",
+    "readings": [
+      { "type": "on", "value": "イン" },
+      { "type": "kun", "value": "かげ" },
+      { "type": "kun", "value": "かげ.る" }
+    ],
+    "meanings": ["shade", "shadow", "negative", "secret"],
+    "strokeCount": 11,
+    "radical": "阜",
+    "radicalMeaning": "mound",
+    "level": "n1",
+    "tags": ["darkness", "concealment"],
+    "examples": [
+      { "word": "陰謀", "reading": "いんぼう", "meaning": "conspiracy" },
+      { "word": "陰気", "reading": "いんき", "meaning": "gloomy, melancholy" },
+      { "word": "陰影", "reading": "いんえい", "meaning": "shadow, shading" }
+    ]
+  },
+  {
+    "character": "暗",
+    "readings": [
+      { "type": "on", "value": "アン" },
+      { "type": "kun", "value": "くら.い" }
+    ],
+    "meanings": ["darkness", "disappear", "gloom"],
+    "strokeCount": 13,
+    "radical": "日",
+    "radicalMeaning": "sun",
+    "level": "n1",
+    "tags": ["darkness", "concealment"],
+    "examples": [
+      { "word": "暗記", "reading": "あんき", "meaning": "memorization" },
+      { "word": "暗示", "reading": "あんじ", "meaning": "hint, suggestion" },
+      { "word": "暗殺", "reading": "あんさつ", "meaning": "assassination" }
+    ]
+  },
+  {
+    "character": "晴",
+    "readings": [
+      { "type": "on", "value": "セイ" },
+      { "type": "kun", "value": "は.れる" },
+      { "type": "kun", "value": "は.らす" }
+    ],
+    "meanings": ["clear up", "fine weather"],
+    "strokeCount": 12,
+    "radical": "日",
+    "radicalMeaning": "sun",
+    "level": "n1",
+    "tags": ["weather", "clarity"],
+    "examples": [
+      { "word": "晴天", "reading": "せいてん", "meaning": "fine weather" },
+      { "word": "快晴", "reading": "かいせい", "meaning": "clear weather" }
+    ]
+  },
+  {
+    "character": "澄",
+    "readings": [
+      { "type": "on", "value": "チョウ" },
+      { "type": "kun", "value": "す.む" },
+      { "type": "kun", "value": "す.ます" }
+    ],
+    "meanings": ["lucidity", "clear", "settle"],
+    "strokeCount": 15,
+    "radical": "水",
+    "radicalMeaning": "water",
+    "level": "n1",
+    "tags": ["clarity", "purity"],
+    "examples": [
+      { "word": "清澄", "reading": "せいちょう", "meaning": "clear, serene" },
+      { "word": "澄み切る", "reading": "すみきる", "meaning": "to be perfectly clear" }
+    ]
+  },
+  {
+    "character": "清",
+    "readings": [
+      { "type": "on", "value": "セイ" },
+      { "type": "on", "value": "ショウ" },
+      { "type": "kun", "value": "きよ.い" },
+      { "type": "kun", "value": "きよ.める" }
+    ],
+    "meanings": ["pure", "purify", "cleanse"],
+    "strokeCount": 11,
+    "radical": "水",
+    "radicalMeaning": "water",
+    "level": "n1",
+    "tags": ["purity", "cleanliness"],
+    "examples": [
+      { "word": "清潔", "reading": "せいけつ", "meaning": "clean, hygienic" },
+      { "word": "清掃", "reading": "せいそう", "meaning": "cleaning, sweeping" },
+      { "word": "清浄", "reading": "せいじょう", "meaning": "purity, clean" }
+    ]
+  },
+  {
+    "character": "浄",
+    "readings": [
+      { "type": "on", "value": "ジョウ" },
+      { "type": "kun", "value": "きよ.める" }
+    ],
+    "meanings": ["clean", "purify", "Buddhist term"],
+    "strokeCount": 9,
+    "radical": "水",
+    "radicalMeaning": "water",
+    "level": "n1",
+    "tags": ["purity", "religion"],
+    "examples": [
+      { "word": "浄化", "reading": "じょうか", "meaning": "purification" },
+      { "word": "清浄", "reading": "せいじょう", "meaning": "purity" },
+      { "word": "浄水", "reading": "じょうすい", "meaning": "purified water" }
+    ]
+  },
+  {
+    "character": "繕",
+    "readings": [
+      { "type": "on", "value": "ゼン" },
+      { "type": "kun", "value": "つくろ.う" }
+    ],
+    "meanings": ["repair", "mend", "trim"],
+    "strokeCount": 18,
+    "radical": "糸",
+    "radicalMeaning": "thread",
+    "level": "n1",
+    "tags": ["repair", "maintenance"],
+    "examples": [
+      { "word": "修繕", "reading": "しゅうぜん", "meaning": "repair, mending" },
+      { "word": "取り繕う", "reading": "とりつくろう", "meaning": "to keep up appearances" }
+    ]
+  },
+  {
+    "character": "償",
+    "readings": [
+      { "type": "on", "value": "ショウ" },
+      { "type": "kun", "value": "つぐな.う" }
+    ],
+    "meanings": ["reparation", "make up for", "recompense"],
+    "strokeCount": 17,
+    "radical": "人",
+    "radicalMeaning": "person",
+    "level": "n1",
+    "tags": ["compensation", "repayment"],
+    "examples": [
+      { "word": "賠償", "reading": "ばいしょう", "meaning": "reparation, compensation" },
+      { "word": "補償", "reading": "ほしょう", "meaning": "compensation, indemnity" },
+      { "word": "弁償", "reading": "べんしょう", "meaning": "reimbursement" }
+    ]
+  },
+  {
+    "character": "賠",
+    "readings": [
+      { "type": "on", "value": "バイ" }
+    ],
+    "meanings": ["compensation", "indemnify"],
+    "strokeCount": 15,
+    "radical": "貝",
+    "radicalMeaning": "shell",
+    "level": "n1",
+    "tags": ["compensation", "law"],
+    "examples": [
+      { "word": "賠償", "reading": "ばいしょう", "meaning": "reparation, compensation" },
+      { "word": "損害賠償", "reading": "そんがいばいしょう", "meaning": "damages, indemnity" }
+    ]
+  },
+  {
+    "character": "弁",
+    "readings": [
+      { "type": "on", "value": "ベン" }
+    ],
+    "meanings": ["valve", "petal", "speech", "dialect", "distinguish"],
+    "strokeCount": 5,
+    "radical": "廾",
+    "radicalMeaning": "two hands",
+    "level": "n1",
+    "tags": ["speech", "law"],
+    "examples": [
+      { "word": "弁護士", "reading": "べんごし", "meaning": "lawyer" },
+      { "word": "弁償", "reading": "べんしょう", "meaning": "reimbursement" },
+      { "word": "弁当", "reading": "べんとう", "meaning": "boxed lunch" }
+    ]
+  },
+  {
+    "character": "訴",
+    "readings": [
+      { "type": "on", "value": "ソ" },
+      { "type": "kun", "value": "うった.える" }
+    ],
+    "meanings": ["accusation", "sue", "complain", "appeal"],
+    "strokeCount": 12,
+    "radical": "言",
+    "radicalMeaning": "speech",
+    "level": "n1",
+    "tags": ["law", "complaint"],
+    "examples": [
+      { "word": "訴訟", "reading": "そしょう", "meaning": "litigation, lawsuit" },
+      { "word": "告訴", "reading": "こくそ", "meaning": "accusation, prosecution" },
+      { "word": "訴求", "reading": "そきゅう", "meaning": "appeal" }
+    ]
+  },
+  {
+    "character": "控",
+    "readings": [
+      { "type": "on", "value": "コウ" },
+      { "type": "kun", "value": "ひか.える" }
+    ],
+    "meanings": ["withdraw", "refrain", "reserve", "deduct"],
+    "strokeCount": 11,
+    "radical": "手",
+    "radicalMeaning": "hand",
+    "level": "n1",
+    "tags": ["restraint", "law"],
+    "examples": [
+      { "word": "控訴", "reading": "こうそ", "meaning": "appeal (legal)" },
+      { "word": "控除", "reading": "こうじょ", "meaning": "deduction, exemption" },
+      { "word": "控室", "reading": "ひかえしつ", "meaning": "waiting room" }
+    ]
+  },
+  {
+    "character": "裁",
+    "readings": [
+      { "type": "on", "value": "サイ" },
+      { "type": "kun", "value": "た.つ" },
+      { "type": "kun", "value": "さば.く" }
+    ],
+    "meanings": ["tailor", "judge", "decide", "cut out"],
+    "strokeCount": 12,
+    "radical": "衣",
+    "radicalMeaning": "clothes",
+    "level": "n1",
+    "tags": ["judgment", "law"],
+    "examples": [
+      { "word": "裁判", "reading": "さいばん", "meaning": "trial, judgment" },
+      { "word": "裁判所", "reading": "さいばんしょ", "meaning": "court of law" },
+      { "word": "裁量", "reading": "さいりょう", "meaning": "discretion" }
+    ]
+  },
+  {
+    "character": "審",
+    "readings": [
+      { "type": "on", "value": "シン" }
+    ],
+    "meanings": ["hearing", "judge", "trial"],
+    "strokeCount": 15,
+    "radical": "宀",
+    "radicalMeaning": "roof",
+    "level": "n1",
+    "tags": ["judgment", "examination"],
+    "examples": [
+      { "word": "審査", "reading": "しんさ", "meaning": "examination, investigation" },
+      { "word": "審判", "reading": "しんぱん", "meaning": "referee, judgment" },
+      { "word": "審議", "reading": "しんぎ", "meaning": "deliberation" }
+    ]
+  },
+  {
+    "character": "罰",
+    "readings": [
+      { "type": "on", "value": "バツ" },
+      { "type": "on", "value": "バチ" }
+    ],
+    "meanings": ["penalty", "punishment"],
+    "strokeCount": 14,
+    "radical": "网",
+    "radicalMeaning": "net",
+    "level": "n1",
+    "tags": ["punishment", "law"],
+    "examples": [
+      { "word": "罰金", "reading": "ばっきん", "meaning": "fine, penalty" },
+      { "word": "処罰", "reading": "しょばつ", "meaning": "punishment" },
+      { "word": "罰則", "reading": "ばっそく", "meaning": "penal regulations" }
+    ]
+  },
+  {
+    "character": "罪",
+    "readings": [
+      { "type": "on", "value": "ザイ" },
+      { "type": "kun", "value": "つみ" }
+    ],
+    "meanings": ["guilt", "sin", "crime", "fault"],
+    "strokeCount": 13,
+    "radical": "网",
+    "radicalMeaning": "net",
+    "level": "n1",
+    "tags": ["crime", "law"],
+    "examples": [
+      { "word": "犯罪", "reading": "はんざい", "meaning": "crime" },
+      { "word": "罪悪", "reading": "ざいあく", "meaning": "sin, vice" },
+      { "word": "無罪", "reading": "むざい", "meaning": "innocence" }
+    ]
+  },
+  {
+    "character": "拒",
+    "readings": [
+      { "type": "on", "value": "キョ" },
+      { "type": "kun", "value": "こば.む" }
+    ],
+    "meanings": ["refuse", "reject", "decline"],
+    "strokeCount": 7,
+    "radical": "手",
+    "radicalMeaning": "hand",
+    "level": "n1",
+    "tags": ["refusal", "rejection"],
+    "examples": [
+      { "word": "拒否", "reading": "きょひ", "meaning": "refusal, rejection" },
+      { "word": "拒絶", "reading": "きょぜつ", "meaning": "refusal, rejection" }
+    ]
+  },
+  {
+    "character": "抗",
+    "readings": [
+      { "type": "on", "value": "コウ" }
+    ],
+    "meanings": ["confront", "resist", "oppose"],
+    "strokeCount": 7,
+    "radical": "手",
+    "radicalMeaning": "hand",
+    "level": "n1",
+    "tags": ["resistance", "opposition"],
+    "examples": [
+      { "word": "抵抗", "reading": "ていこう", "meaning": "resistance, opposition" },
+      { "word": "抗議", "reading": "こうぎ", "meaning": "protest, objection" },
+      { "word": "抗争", "reading": "こうそう", "meaning": "dispute, conflict" }
+    ]
+  },
+  {
+    "character": "挑",
+    "readings": [
+      { "type": "on", "value": "チョウ" },
+      { "type": "kun", "value": "いど.む" }
+    ],
+    "meanings": ["challenge", "contend for", "provoke"],
+    "strokeCount": 9,
+    "radical": "手",
+    "radicalMeaning": "hand",
+    "level": "n1",
+    "tags": ["challenge", "confrontation"],
+    "examples": [
+      { "word": "挑戦", "reading": "ちょうせん", "meaning": "challenge" },
+      { "word": "挑発", "reading": "ちょうはつ", "meaning": "provocation" }
+    ]
+  },
+  {
+    "character": "克",
+    "readings": [
+      { "type": "on", "value": "コク" }
+    ],
+    "meanings": ["overcome", "endure", "capable"],
+    "strokeCount": 7,
+    "radical": "儿",
+    "radicalMeaning": "legs",
+    "level": "n1",
+    "tags": ["overcoming", "strength"],
+    "examples": [
+      { "word": "克服", "reading": "こくふく", "meaning": "conquest, overcoming" },
+      { "word": "克明", "reading": "こくめい", "meaning": "detailed, meticulous" }
+    ]
+  },
+  {
+    "character": "征",
+    "readings": [
+      { "type": "on", "value": "セイ" }
+    ],
+    "meanings": ["subjugate", "expedition", "levy"],
+    "strokeCount": 8,
+    "radical": "彳",
+    "radicalMeaning": "step",
+    "level": "n1",
+    "tags": ["military", "conquest"],
+    "examples": [
+      { "word": "征服", "reading": "せいふく", "meaning": "conquest, subjugation" },
+      { "word": "遠征", "reading": "えんせい", "meaning": "expedition" },
+      { "word": "出征", "reading": "しゅっせい", "meaning": "going to war" }
+    ]
+  },
+  {
+    "character": "討",
+    "readings": [
+      { "type": "on", "value": "トウ" },
+      { "type": "kun", "value": "う.つ" }
+    ],
+    "meanings": ["chastise", "attack", "defeat", "discuss"],
+    "strokeCount": 10,
+    "radical": "言",
+    "radicalMeaning": "speech",
+    "level": "n1",
+    "tags": ["attack", "discussion"],
+    "examples": [
+      { "word": "討論", "reading": "とうろん", "meaning": "debate, discussion" },
+      { "word": "検討", "reading": "けんとう", "meaning": "consideration, examination" },
+      { "word": "討伐", "reading": "とうばつ", "meaning": "subjugation" }
+    ]
+  },
+  {
+    "character": "伐",
+    "readings": [
+      { "type": "on", "value": "バツ" },
+      { "type": "kun", "value": "き.る" }
+    ],
+    "meanings": ["fell", "strike", "attack", "cut down"],
+    "strokeCount": 6,
+    "radical": "人",
+    "radicalMeaning": "person",
+    "level": "n1",
+    "tags": ["cutting", "military"],
+    "examples": [
+      { "word": "伐採", "reading": "ばっさい", "meaning": "felling (trees), logging" },
+      { "word": "討伐", "reading": "とうばつ", "meaning": "subjugation" }
+    ]
+  },
+  {
+    "character": "攻",
+    "readings": [
+      { "type": "on", "value": "コウ" },
+      { "type": "kun", "value": "せ.める" }
+    ],
+    "meanings": ["aggression", "attack"],
+    "strokeCount": 7,
+    "radical": "攵",
+    "radicalMeaning": "strike",
+    "level": "n1",
+    "tags": ["attack", "military"],
+    "examples": [
+      { "word": "攻撃", "reading": "こうげき", "meaning": "attack" },
+      { "word": "攻略", "reading": "こうりゃく", "meaning": "capture, strategy" },
+      { "word": "専攻", "reading": "せんこう", "meaning": "major (academic)" }
+    ]
+  },
+  {
+    "character": "守",
+    "readings": [
+      { "type": "on", "value": "シュ" },
+      { "type": "on", "value": "ス" },
+      { "type": "kun", "value": "まも.る" },
+      { "type": "kun", "value": "も.り" }
+    ],
+    "meanings": ["guard", "protect", "defend", "obey"],
+    "strokeCount": 6,
+    "radical": "宀",
+    "radicalMeaning": "roof",
+    "level": "n1",
+    "tags": ["protection", "defense"],
+    "examples": [
+      { "word": "守備", "reading": "しゅび", "meaning": "defense" },
+      { "word": "保守", "reading": "ほしゅ", "meaning": "conservatism, maintenance" },
+      { "word": "遵守", "reading": "じゅんしゅ", "meaning": "compliance, observance" }
+    ]
+  },
+  {
+    "character": "陣",
+    "readings": [
+      { "type": "on", "value": "ジン" }
+    ],
+    "meanings": ["camp", "battle array", "position"],
+    "strokeCount": 10,
+    "radical": "阜",
+    "radicalMeaning": "mound",
+    "level": "n1",
+    "tags": ["military", "formation"],
+    "examples": [
+      { "word": "陣営", "reading": "じんえい", "meaning": "camp, faction" },
+      { "word": "陣地", "reading": "じんち", "meaning": "encampment, position" },
+      { "word": "布陣", "reading": "ふじん", "meaning": "battle formation" }
+    ]
+  },
+  {
+    "character": "撤",
+    "readings": [
+      { "type": "on", "value": "テツ" }
+    ],
+    "meanings": ["withdraw", "remove", "repeal"],
+    "strokeCount": 15,
+    "radical": "手",
+    "radicalMeaning": "hand",
+    "level": "n1",
+    "tags": ["withdrawal", "removal"],
+    "examples": [
+      { "word": "撤退", "reading": "てったい", "meaning": "withdrawal, retreat" },
+      { "word": "撤回", "reading": "てっかい", "meaning": "withdrawal, retraction" },
+      { "word": "撤去", "reading": "てっきょ", "meaning": "removal, demolition" }
+    ]
+  },
+  {
+    "character": "耐",
+    "readings": [
+      { "type": "on", "value": "タイ" },
+      { "type": "kun", "value": "た.える" }
+    ],
+    "meanings": ["resist", "endure", "withstand"],
+    "strokeCount": 9,
+    "radical": "而",
+    "radicalMeaning": "rake",
+    "level": "n1",
+    "tags": ["endurance", "resistance"],
+    "examples": [
+      { "word": "耐久", "reading": "たいきゅう", "meaning": "endurance, durability" },
+      { "word": "忍耐", "reading": "にんたい", "meaning": "patience, endurance" },
+      { "word": "耐震", "reading": "たいしん", "meaning": "earthquake-resistant" }
+    ]
+  },
+  {
+    "character": "忍",
+    "readings": [
+      { "type": "on", "value": "ニン" },
+      { "type": "kun", "value": "しの.ぶ" },
+      { "type": "kun", "value": "しの.ばせる" }
+    ],
+    "meanings": ["endure", "bear", "stealth", "ninja"],
+    "strokeCount": 7,
+    "radical": "心",
+    "radicalMeaning": "heart",
+    "level": "n1",
+    "tags": ["endurance", "stealth"],
+    "examples": [
+      { "word": "忍耐", "reading": "にんたい", "meaning": "patience, endurance" },
+      { "word": "忍者", "reading": "にんじゃ", "meaning": "ninja" },
+      { "word": "残忍", "reading": "ざんにん", "meaning": "cruelty, brutality" }
+    ]
+  },
+  {
+    "character": "堪",
+    "readings": [
+      { "type": "on", "value": "カン" },
+      { "type": "kun", "value": "た.える" },
+      { "type": "kun", "value": "たま.らない" }
+    ],
+    "meanings": ["withstand", "endure", "be fit for"],
+    "strokeCount": 12,
+    "radical": "土",
+    "radicalMeaning": "earth",
+    "level": "n1",
+    "tags": ["endurance", "tolerance"],
+    "examples": [
+      { "word": "堪能", "reading": "たんのう", "meaning": "proficiency, satisfaction" },
+      { "word": "堪忍", "reading": "かんにん", "meaning": "patience, forgiveness" }
+    ]
+  },
+  {
+    "character": "募",
+    "readings": [
+      { "type": "on", "value": "ボ" },
+      { "type": "kun", "value": "つの.る" }
+    ],
+    "meanings": ["recruit", "collect", "campaign"],
+    "strokeCount": 12,
+    "radical": "力",
+    "radicalMeaning": "power",
+    "level": "n1",
+    "tags": ["recruitment", "collection"],
+    "examples": [
+      { "word": "募集", "reading": "ぼしゅう", "meaning": "recruitment, solicitation" },
+      { "word": "募金", "reading": "ぼきん", "meaning": "fundraising" },
+      { "word": "応募", "reading": "おうぼ", "meaning": "application, subscription" }
+    ]
+  },
+  {
+    "character": "献",
+    "readings": [
+      { "type": "on", "value": "ケン" },
+      { "type": "on", "value": "コン" }
+    ],
+    "meanings": ["offering", "dedicate", "present"],
+    "strokeCount": 13,
+    "radical": "犬",
+    "radicalMeaning": "dog",
+    "level": "n1",
+    "tags": ["offering", "dedication"],
+    "examples": [
+      { "word": "献血", "reading": "けんけつ", "meaning": "blood donation" },
+      { "word": "貢献", "reading": "こうけん", "meaning": "contribution" },
+      { "word": "文献", "reading": "ぶんけん", "meaning": "literature, documents" }
+    ]
+  },
+  {
+    "character": "貢",
+    "readings": [
+      { "type": "on", "value": "コウ" },
+      { "type": "on", "value": "ク" },
+      { "type": "kun", "value": "みつ.ぐ" }
+    ],
+    "meanings": ["tribute", "support", "finance"],
+    "strokeCount": 10,
+    "radical": "貝",
+    "radicalMeaning": "shell",
+    "level": "n1",
+    "tags": ["contribution", "tribute"],
+    "examples": [
+      { "word": "貢献", "reading": "こうけん", "meaning": "contribution" },
+      { "word": "年貢", "reading": "ねんぐ", "meaning": "annual tribute, land tax" }
+    ]
+  },
+  {
+    "character": "寄",
+    "readings": [
+      { "type": "on", "value": "キ" },
+      { "type": "kun", "value": "よ.る" },
+      { "type": "kun", "value": "よ.せる" }
+    ],
+    "meanings": ["draw near", "approach", "contribute"],
+    "strokeCount": 11,
+    "radical": "宀",
+    "radicalMeaning": "roof",
+    "level": "n1",
+    "tags": ["approach", "contribution"],
+    "examples": [
+      { "word": "寄付", "reading": "きふ", "meaning": "donation, contribution" },
+      { "word": "寄与", "reading": "きよ", "meaning": "contribution" },
+      { "word": "寄稿", "reading": "きこう", "meaning": "contribution (to a publication)" }
+    ]
+  },
+  {
+    "character": "贈",
+    "readings": [
+      { "type": "on", "value": "ゾウ" },
+      { "type": "on", "value": "ソウ" },
+      { "type": "kun", "value": "おく.る" }
+    ],
+    "meanings": ["presents", "send", "give to"],
+    "strokeCount": 18,
+    "radical": "貝",
+    "radicalMeaning": "shell",
+    "level": "n1",
+    "tags": ["gift", "giving"],
+    "examples": [
+      { "word": "贈与", "reading": "ぞうよ", "meaning": "donation, gift" },
+      { "word": "贈呈", "reading": "ぞうてい", "meaning": "presentation" },
+      { "word": "贈賄", "reading": "ぞうわい", "meaning": "bribery" }
+    ]
+  },
+  {
+    "character": "賄",
+    "readings": [
+      { "type": "on", "value": "ワイ" },
+      { "type": "kun", "value": "まかな.う" }
+    ],
+    "meanings": ["bribe", "board", "supply"],
+    "strokeCount": 13,
+    "radical": "貝",
+    "radicalMeaning": "shell",
+    "level": "n1",
+    "tags": ["bribery", "corruption"],
+    "examples": [
+      { "word": "賄賂", "reading": "わいろ", "meaning": "bribe" },
+      { "word": "収賄", "reading": "しゅうわい", "meaning": "accepting a bribe" },
+      { "word": "贈賄", "reading": "ぞうわい", "meaning": "offering a bribe" }
+    ]
+  },
+  {
+    "character": "紛",
+    "readings": [
+      { "type": "on", "value": "フン" },
+      { "type": "kun", "value": "まぎ.れる" },
+      { "type": "kun", "value": "まぎ.らす" }
+    ],
+    "meanings": ["distract", "be mistaken for", "confusion"],
+    "strokeCount": 10,
+    "radical": "糸",
+    "radicalMeaning": "thread",
+    "level": "n1",
+    "tags": ["confusion", "dispute"],
+    "examples": [
+      { "word": "紛争", "reading": "ふんそう", "meaning": "dispute, conflict" },
+      { "word": "紛失", "reading": "ふんしつ", "meaning": "loss (of something)" },
+      { "word": "紛らわしい", "reading": "まぎらわしい", "meaning": "confusing, misleading" }
+    ]
+  },
+  {
+    "character": "紳",
+    "readings": [
+      { "type": "on", "value": "シン" }
+    ],
+    "meanings": ["sash", "gentleman"],
+    "strokeCount": 11,
+    "radical": "糸",
+    "radicalMeaning": "thread",
+    "level": "n1",
+    "tags": ["gentleman", "formality"],
+    "examples": [
+      { "word": "紳士", "reading": "しんし", "meaning": "gentleman" },
+      { "word": "紳士服", "reading": "しんしふく", "meaning": "men's clothing" }
+    ]
+  },
+  {
+    "character": "縫",
+    "readings": [
+      { "type": "on", "value": "ホウ" },
+      { "type": "kun", "value": "ぬ.う" }
+    ],
+    "meanings": ["sew", "stitch"],
+    "strokeCount": 16,
+    "radical": "糸",
+    "radicalMeaning": "thread",
+    "level": "n1",
+    "tags": ["sewing", "craft"],
+    "examples": [
+      { "word": "縫製", "reading": "ほうせい", "meaning": "sewing, tailoring" },
+      { "word": "裁縫", "reading": "さいほう", "meaning": "sewing, needlework" },
+      { "word": "縫合", "reading": "ほうごう", "meaning": "suturing, stitching" }
+    ]
+  },
+  {
+    "character": "繊",
+    "readings": [
+      { "type": "on", "value": "セン" }
+    ],
+    "meanings": ["slender", "fine", "fiber"],
+    "strokeCount": 17,
+    "radical": "糸",
+    "radicalMeaning": "thread",
+    "level": "n1",
+    "tags": ["fiber", "delicacy"],
+    "examples": [
+      { "word": "繊維", "reading": "せんい", "meaning": "fiber, textile" },
+      { "word": "繊細", "reading": "せんさい", "meaning": "delicate, sensitive" },
+      { "word": "化学繊維", "reading": "かがくせんい", "meaning": "synthetic fiber" }
+    ]
+  },
+  {
+    "character": "絹",
+    "readings": [
+      { "type": "on", "value": "ケン" },
+      { "type": "kun", "value": "きぬ" }
+    ],
+    "meanings": ["silk"],
+    "strokeCount": 13,
+    "radical": "糸",
+    "radicalMeaning": "thread",
+    "level": "n1",
+    "tags": ["material", "textile"],
+    "examples": [
+      { "word": "絹織物", "reading": "きぬおりもの", "meaning": "silk fabric" },
+      { "word": "絹糸", "reading": "きぬいと", "meaning": "silk thread" }
+    ]
+  },
+  {
+    "character": "綿",
+    "readings": [
+      { "type": "on", "value": "メン" },
+      { "type": "kun", "value": "わた" }
+    ],
+    "meanings": ["cotton", "batting"],
+    "strokeCount": 14,
+    "radical": "糸",
+    "radicalMeaning": "thread",
+    "level": "n1",
+    "tags": ["material", "textile"],
+    "examples": [
+      { "word": "綿密", "reading": "めんみつ", "meaning": "meticulous, thorough" },
+      { "word": "木綿", "reading": "もめん", "meaning": "cotton" },
+      { "word": "綿花", "reading": "めんか", "meaning": "cotton plant" }
+    ]
+  },
+  {
+    "character": "麻",
+    "readings": [
+      { "type": "on", "value": "マ" },
+      { "type": "kun", "value": "あさ" }
+    ],
+    "meanings": ["hemp", "flax", "numb"],
+    "strokeCount": 11,
+    "radical": "麻",
+    "radicalMeaning": "hemp",
+    "level": "n1",
+    "tags": ["material", "plant"],
+    "examples": [
+      { "word": "麻酔", "reading": "ますい", "meaning": "anesthesia" },
+      { "word": "麻痺", "reading": "まひ", "meaning": "paralysis" },
+      { "word": "大麻", "reading": "たいま", "meaning": "hemp, cannabis" }
+    ]
+  },
+  {
+    "character": "漆",
+    "readings": [
+      { "type": "on", "value": "シツ" },
+      { "type": "kun", "value": "うるし" }
+    ],
+    "meanings": ["lacquer", "varnish"],
+    "strokeCount": 14,
+    "radical": "水",
+    "radicalMeaning": "water",
+    "level": "n1",
+    "tags": ["craft", "material"],
+    "examples": [
+      { "word": "漆器", "reading": "しっき", "meaning": "lacquerware" },
+      { "word": "漆黒", "reading": "しっこく", "meaning": "jet black" }
+    ]
+  },
+  {
+    "character": "磁",
+    "readings": [
+      { "type": "on", "value": "ジ" }
+    ],
+    "meanings": ["magnet", "porcelain"],
+    "strokeCount": 14,
+    "radical": "石",
+    "radicalMeaning": "stone",
+    "level": "n1",
+    "tags": ["physics", "material"],
+    "examples": [
+      { "word": "磁石", "reading": "じしゃく", "meaning": "magnet" },
+      { "word": "磁気", "reading": "じき", "meaning": "magnetism" },
+      { "word": "磁器", "reading": "じき", "meaning": "porcelain" }
+    ]
+  },
+  {
+    "character": "銅",
+    "readings": [
+      { "type": "on", "value": "ドウ" }
+    ],
+    "meanings": ["copper"],
+    "strokeCount": 14,
+    "radical": "金",
+    "radicalMeaning": "metal",
+    "level": "n1",
+    "tags": ["metal", "material"],
+    "examples": [
+      { "word": "銅メダル", "reading": "どうメダル", "meaning": "bronze medal" },
+      { "word": "青銅", "reading": "せいどう", "meaning": "bronze" },
+      { "word": "銅像", "reading": "どうぞう", "meaning": "bronze statue" }
+    ]
+  },
+  {
+    "character": "鋼",
+    "readings": [
+      { "type": "on", "value": "コウ" },
+      { "type": "kun", "value": "はがね" }
+    ],
+    "meanings": ["steel"],
+    "strokeCount": 16,
+    "radical": "金",
+    "radicalMeaning": "metal",
+    "level": "n1",
+    "tags": ["metal", "material"],
+    "examples": [
+      { "word": "鋼鉄", "reading": "こうてつ", "meaning": "steel" },
+      { "word": "鉄鋼", "reading": "てっこう", "meaning": "iron and steel" }
+    ]
+  },
+  {
+    "character": "錬",
+    "readings": [
+      { "type": "on", "value": "レン" },
+      { "type": "kun", "value": "ね.る" }
+    ],
+    "meanings": ["tempering", "refine", "drill"],
+    "strokeCount": 16,
+    "radical": "金",
+    "radicalMeaning": "metal",
+    "level": "n1",
+    "tags": ["refinement", "training"],
+    "examples": [
+      { "word": "錬金術", "reading": "れんきんじゅつ", "meaning": "alchemy" },
+      { "word": "訓練", "reading": "くんれん", "meaning": "training" },
+      { "word": "精錬", "reading": "せいれん", "meaning": "smelting, refining" }
+    ]
+  },
+  {
+    "character": "鍛",
+    "readings": [
+      { "type": "on", "value": "タン" },
+      { "type": "kun", "value": "きた.える" }
+    ],
+    "meanings": ["forge", "discipline", "train"],
+    "strokeCount": 17,
+    "radical": "金",
+    "radicalMeaning": "metal",
+    "level": "n1",
+    "tags": ["training", "metalwork"],
+    "examples": [
+      { "word": "鍛錬", "reading": "たんれん", "meaning": "tempering, training" },
+      { "word": "鍛冶", "reading": "かじ", "meaning": "blacksmith" },
+      { "word": "鍛造", "reading": "たんぞう", "meaning": "forging" }
+    ]
+  },
+  {
+    "character": "鋳",
+    "readings": [
+      { "type": "on", "value": "チュウ" },
+      { "type": "kun", "value": "い.る" }
+    ],
+    "meanings": ["casting", "mint"],
+    "strokeCount": 15,
+    "radical": "金",
+    "radicalMeaning": "metal",
+    "level": "n1",
+    "tags": ["metalwork", "manufacturing"],
+    "examples": [
+      { "word": "鋳造", "reading": "ちゅうぞう", "meaning": "casting, minting" },
+      { "word": "鋳鉄", "reading": "ちゅうてつ", "meaning": "cast iron" },
+      { "word": "鋳型", "reading": "いがた", "meaning": "mold, casting mold" }
+    ]
+  },
+  {
+    "character": "彫",
+    "readings": [
+      { "type": "on", "value": "チョウ" },
+      { "type": "kun", "value": "ほ.る" }
+    ],
+    "meanings": ["carve", "engrave", "sculpt"],
+    "strokeCount": 11,
+    "radical": "彡",
+    "radicalMeaning": "bristle",
+    "level": "n1",
+    "tags": ["art", "craft"],
+    "examples": [
+      { "word": "彫刻", "reading": "ちょうこく", "meaning": "sculpture, carving" },
+      { "word": "彫像", "reading": "ちょうぞう", "meaning": "sculpture, carved figure" }
+    ]
+  },
+  {
+    "character": "塑",
+    "readings": [
+      { "type": "on", "value": "ソ" }
+    ],
+    "meanings": ["model", "mold", "plaster"],
+    "strokeCount": 13,
+    "radical": "土",
+    "radicalMeaning": "earth",
+    "level": "n1",
+    "tags": ["art", "modeling"],
+    "examples": [
+      { "word": "塑像", "reading": "そぞう", "meaning": "statue, figure" },
+      { "word": "彫塑", "reading": "ちょうそ", "meaning": "sculpture and modeling" },
+      { "word": "可塑性", "reading": "かそせい", "meaning": "plasticity" }
+    ]
+  },
+  {
+    "character": "釉",
+    "readings": [
+      { "type": "on", "value": "ユウ" }
+    ],
+    "meanings": ["glaze", "enamel"],
+    "strokeCount": 12,
+    "radical": "釆",
+    "radicalMeaning": "distinguish",
+    "level": "n1",
+    "tags": ["ceramics", "craft"],
+    "examples": [
+      { "word": "釉薬", "reading": "ゆうやく", "meaning": "glaze (ceramics)" },
+      { "word": "上釉", "reading": "うわぐすり", "meaning": "glaze (applied to pottery)" }
+    ]
+  },
+  {
+    "character": "窯",
+    "readings": [
+      { "type": "on", "value": "ヨウ" },
+      { "type": "kun", "value": "かま" }
+    ],
+    "meanings": ["kiln", "oven", "furnace"],
+    "strokeCount": 15,
+    "radical": "穴",
+    "radicalMeaning": "hole",
+    "level": "n1",
+    "tags": ["ceramics", "craft"],
+    "examples": [
+      { "word": "窯元", "reading": "かまもと", "meaning": "pottery (workshop)" },
+      { "word": "陶窯", "reading": "とうよう", "meaning": "pottery kiln" }
+    ]
+  },
+  {
+    "character": "践",
+    "readings": [
+      { "type": "on", "value": "セン" },
+      { "type": "kun", "value": "ふ.む" }
+    ],
+    "meanings": ["tread", "step on", "put into practice"],
+    "strokeCount": 13,
+    "radical": "足",
+    "radicalMeaning": "foot",
+    "level": "n1",
+    "tags": ["action", "practice"],
+    "examples": [
+      { "word": "実践", "reading": "じっせん", "meaning": "practice, implementation" },
+      { "word": "踏践", "reading": "とうせん", "meaning": "trampling" }
+    ]
+  },
+  {
+    "character": "遂",
+    "readings": [
+      { "type": "on", "value": "スイ" },
+      { "type": "kun", "value": "と.げる" }
+    ],
+    "meanings": ["accomplish", "attain", "commit (suicide)"],
+    "strokeCount": 12,
+    "radical": "辵",
+    "radicalMeaning": "walk",
+    "level": "n1",
+    "tags": ["accomplishment"],
+    "examples": [
+      { "word": "遂行", "reading": "すいこう", "meaning": "accomplishment, execution" },
+      { "word": "未遂", "reading": "みすい", "meaning": "attempt (failure)" }
+    ]
+  },
+  {
+    "character": "遮",
+    "readings": [
+      { "type": "on", "value": "シャ" },
+      { "type": "kun", "value": "さえぎ.る" }
+    ],
+    "meanings": ["intercept", "block", "obstruct"],
+    "strokeCount": 14,
+    "radical": "辵",
+    "radicalMeaning": "walk",
+    "level": "n1",
+    "tags": ["obstruction", "blocking"],
+    "examples": [
+      { "word": "遮断", "reading": "しゃだん", "meaning": "interruption, blocking" },
+      { "word": "遮光", "reading": "しゃこう", "meaning": "light blocking" }
+    ]
+  },
+  {
+    "character": "遡",
+    "readings": [
+      { "type": "on", "value": "ソ" },
+      { "type": "kun", "value": "さかのぼ.る" }
+    ],
+    "meanings": ["go upstream", "trace back"],
+    "strokeCount": 13,
+    "radical": "辵",
+    "radicalMeaning": "walk",
+    "level": "n1",
+    "tags": ["time", "tracing"],
+    "examples": [
+      { "word": "遡及", "reading": "そきゅう", "meaning": "retroactive" },
+      { "word": "遡上", "reading": "そじょう", "meaning": "going upstream" }
+    ]
+  },
+  {
+    "character": "遷",
+    "readings": [
+      { "type": "on", "value": "セン" },
+      { "type": "kun", "value": "うつ.る" }
+    ],
+    "meanings": ["transition", "move", "change"],
+    "strokeCount": 15,
+    "radical": "辵",
+    "radicalMeaning": "walk",
+    "level": "n1",
+    "tags": ["change", "transition"],
+    "examples": [
+      { "word": "変遷", "reading": "へんせん", "meaning": "transition, change" },
+      { "word": "遷都", "reading": "せんと", "meaning": "relocation of the capital" },
+      { "word": "左遷", "reading": "させん", "meaning": "demotion" }
+    ]
+  },
+  {
+    "character": "還",
+    "readings": [
+      { "type": "on", "value": "カン" }
+    ],
+    "meanings": ["return", "restore"],
+    "strokeCount": 16,
+    "radical": "辵",
+    "radicalMeaning": "walk",
+    "level": "n1",
+    "tags": ["return", "restoration"],
+    "examples": [
+      { "word": "還元", "reading": "かんげん", "meaning": "return, reduction" },
+      { "word": "返還", "reading": "へんかん", "meaning": "return, restitution" },
+      { "word": "生還", "reading": "せいかん", "meaning": "survival, returning alive" }
+    ]
+  },
+  {
+    "character": "邪",
+    "readings": [
+      { "type": "on", "value": "ジャ" }
+    ],
+    "meanings": ["wicked", "injustice", "wrong"],
+    "strokeCount": 8,
+    "radical": "邑",
+    "radicalMeaning": "city",
+    "level": "n1",
+    "tags": ["evil", "negativity"],
+    "examples": [
+      { "word": "邪魔", "reading": "じゃま", "meaning": "hindrance, nuisance" },
+      { "word": "風邪", "reading": "かぜ", "meaning": "common cold" },
+      { "word": "邪悪", "reading": "じゃあく", "meaning": "wicked, evil" }
+    ]
+  },
+  {
+    "character": "殊",
+    "readings": [
+      { "type": "on", "value": "シュ" },
+      { "type": "kun", "value": "こと" }
+    ],
+    "meanings": ["particularly", "especially", "exceptional"],
+    "strokeCount": 10,
+    "radical": "歹",
+    "radicalMeaning": "death",
+    "level": "n1",
+    "tags": ["special", "distinction"],
+    "examples": [
+      { "word": "特殊", "reading": "とくしゅ", "meaning": "special, unique" },
+      { "word": "殊勲", "reading": "しゅくん", "meaning": "distinguished service" }
+    ]
+  },
+  {
+    "character": "殿",
+    "readings": [
+      { "type": "on", "value": "テン" },
+      { "type": "on", "value": "デン" },
+      { "type": "kun", "value": "との" },
+      { "type": "kun", "value": "どの" }
+    ],
+    "meanings": ["palace", "lord", "Mr."],
+    "strokeCount": 13,
+    "radical": "殳",
+    "radicalMeaning": "weapon",
+    "level": "n1",
+    "tags": ["building", "honorific"],
+    "examples": [
+      { "word": "宮殿", "reading": "きゅうでん", "meaning": "palace" },
+      { "word": "殿堂", "reading": "でんどう", "meaning": "hall, palace" },
+      { "word": "殿様", "reading": "とのさま", "meaning": "feudal lord" }
+    ]
+  },
+  {
+    "character": "漂",
+    "readings": [
+      { "type": "on", "value": "ヒョウ" },
+      { "type": "kun", "value": "ただよ.う" }
+    ],
+    "meanings": ["drift", "float", "bleach"],
+    "strokeCount": 14,
+    "radical": "水",
+    "radicalMeaning": "water",
+    "level": "n1",
+    "tags": ["movement", "drifting"],
+    "examples": [
+      { "word": "漂流", "reading": "ひょうりゅう", "meaning": "drifting, floating" },
+      { "word": "漂白", "reading": "ひょうはく", "meaning": "bleaching" },
+      { "word": "漂着", "reading": "ひょうちゃく", "meaning": "drifting ashore" }
+    ]
+  },
+  {
+    "character": "漠",
+    "readings": [
+      { "type": "on", "value": "バク" }
+    ],
+    "meanings": ["vague", "obscure", "desert"],
+    "strokeCount": 13,
+    "radical": "水",
+    "radicalMeaning": "water",
+    "level": "n1",
+    "tags": ["vagueness", "desert"],
+    "examples": [
+      { "word": "漠然", "reading": "ばくぜん", "meaning": "vague, obscure" },
+      { "word": "砂漠", "reading": "さばく", "meaning": "desert" }
+    ]
+  },
+  {
+    "character": "膨",
+    "readings": [
+      { "type": "on", "value": "ボウ" },
+      { "type": "kun", "value": "ふく.らむ" },
+      { "type": "kun", "value": "ふく.れる" }
+    ],
+    "meanings": ["swell", "expand", "inflate"],
+    "strokeCount": 16,
+    "radical": "肉",
+    "radicalMeaning": "meat",
+    "level": "n1",
+    "tags": ["expansion", "swelling"],
+    "examples": [
+      { "word": "膨張", "reading": "ぼうちょう", "meaning": "expansion, inflation" },
+      { "word": "膨大", "reading": "ぼうだい", "meaning": "enormous, vast" }
+    ]
+  },
+  {
+    "character": "謎",
+    "readings": [
+      { "type": "on", "value": "メイ" },
+      { "type": "kun", "value": "なぞ" }
+    ],
+    "meanings": ["riddle", "puzzle", "enigma"],
+    "strokeCount": 17,
+    "radical": "言",
+    "radicalMeaning": "speech",
+    "level": "n1",
+    "tags": ["mystery", "puzzle"],
+    "examples": [
+      { "word": "謎解き", "reading": "なぞとき", "meaning": "solving a riddle" },
+      { "word": "謎めく", "reading": "なぞめく", "meaning": "to be enigmatic" }
+    ]
+  },
+  {
+    "character": "嗅",
+    "readings": [
+      { "type": "on", "value": "キュウ" },
+      { "type": "kun", "value": "か.ぐ" }
+    ],
+    "meanings": ["smell", "sniff"],
+    "strokeCount": 13,
+    "radical": "口",
+    "radicalMeaning": "mouth",
+    "level": "n1",
+    "tags": ["sense", "smell"],
+    "examples": [
+      { "word": "嗅覚", "reading": "きゅうかく", "meaning": "sense of smell" },
+      { "word": "嗅ぎ分ける", "reading": "かぎわける", "meaning": "to sniff out, distinguish by smell" }
+    ]
+  },
+  {
+    "character": "頑",
+    "readings": [
+      { "type": "on", "value": "ガン" },
+      { "type": "kun", "value": "かたく" }
+    ],
+    "meanings": ["stubborn", "foolish", "naughty"],
+    "strokeCount": 13,
+    "radical": "頁",
+    "radicalMeaning": "page",
+    "level": "n1",
+    "tags": ["stubbornness", "persistence"],
+    "examples": [
+      { "word": "頑固", "reading": "がんこ", "meaning": "stubborn, obstinate" },
+      { "word": "頑丈", "reading": "がんじょう", "meaning": "solid, sturdy" },
+      { "word": "頑張る", "reading": "がんばる", "meaning": "to do one's best" }
+    ]
+  },
+  {
+    "character": "披",
+    "readings": [
+      { "type": "on", "value": "ヒ" }
+    ],
+    "meanings": ["expose", "open"],
+    "strokeCount": 8,
+    "radical": "手",
+    "radicalMeaning": "hand",
+    "level": "n1",
+    "tags": ["revelation", "opening"],
+    "examples": [
+      { "word": "披露", "reading": "ひろう", "meaning": "announcement, unveiling" },
+      { "word": "披露宴", "reading": "ひろうえん", "meaning": "wedding reception" }
+    ]
+  },
+  {
+    "character": "霧",
+    "readings": [
+      { "type": "on", "value": "ム" },
+      { "type": "kun", "value": "きり" }
+    ],
+    "meanings": ["fog", "mist"],
+    "strokeCount": 19,
+    "radical": "雨",
+    "radicalMeaning": "rain",
+    "level": "n1",
+    "tags": ["weather", "nature"],
+    "examples": [
+      { "word": "濃霧", "reading": "のうむ", "meaning": "dense fog" },
+      { "word": "霧雨", "reading": "きりさめ", "meaning": "drizzle" }
+    ]
+  },
+  {
+    "character": "霜",
+    "readings": [
+      { "type": "on", "value": "ソウ" },
+      { "type": "kun", "value": "しも" }
+    ],
+    "meanings": ["frost"],
+    "strokeCount": 17,
+    "radical": "雨",
+    "radicalMeaning": "rain",
+    "level": "n1",
+    "tags": ["weather", "nature"],
+    "examples": [
+      { "word": "霜柱", "reading": "しもばしら", "meaning": "frost columns" },
+      { "word": "降霜", "reading": "こうそう", "meaning": "frost fall" }
+    ]
+  },
+  {
+    "character": "飢",
+    "readings": [
+      { "type": "on", "value": "キ" },
+      { "type": "kun", "value": "う.える" }
+    ],
+    "meanings": ["starve", "hungry", "thirst"],
+    "strokeCount": 10,
+    "radical": "食",
+    "radicalMeaning": "eat",
+    "level": "n1",
+    "tags": ["hunger", "scarcity"],
+    "examples": [
+      { "word": "飢餓", "reading": "きが", "meaning": "starvation, famine" },
+      { "word": "飢饉", "reading": "ききん", "meaning": "famine" }
+    ]
+  },
+  {
+    "character": "渇",
+    "readings": [
+      { "type": "on", "value": "カツ" },
+      { "type": "kun", "value": "かわ.く" }
+    ],
+    "meanings": ["thirst", "dry up", "parch"],
+    "strokeCount": 11,
+    "radical": "水",
+    "radicalMeaning": "water",
+    "level": "n1",
+    "tags": ["thirst", "desire"],
+    "examples": [
+      { "word": "渇望", "reading": "かつぼう", "meaning": "craving, longing" },
+      { "word": "枯渇", "reading": "こかつ", "meaning": "depletion, drying up" }
+    ]
+  },
+  {
+    "character": "慈",
+    "readings": [
+      { "type": "on", "value": "ジ" },
+      { "type": "kun", "value": "いつく.しむ" }
+    ],
+    "meanings": ["mercy", "compassion", "love"],
+    "strokeCount": 13,
+    "radical": "心",
+    "radicalMeaning": "heart",
+    "level": "n1",
+    "tags": ["compassion", "religion"],
+    "examples": [
+      { "word": "慈悲", "reading": "じひ", "meaning": "mercy, compassion" },
+      { "word": "慈善", "reading": "じぜん", "meaning": "charity, philanthropy" }
+    ]
+  },
+  {
+    "character": "赦",
+    "readings": [
+      { "type": "on", "value": "シャ" }
+    ],
+    "meanings": ["pardon", "forgive"],
+    "strokeCount": 11,
+    "radical": "赤",
+    "radicalMeaning": "red",
+    "level": "n1",
+    "tags": ["forgiveness", "law"],
+    "examples": [
+      { "word": "恩赦", "reading": "おんしゃ", "meaning": "amnesty, pardon" },
+      { "word": "容赦", "reading": "ようしゃ", "meaning": "pardon, forgiveness" }
+    ]
+  },
+  {
+    "character": "穏",
+    "readings": [
+      { "type": "on", "value": "オン" },
+      { "type": "kun", "value": "おだ.やか" }
+    ],
+    "meanings": ["calm", "quiet", "moderation"],
+    "strokeCount": 16,
+    "radical": "禾",
+    "radicalMeaning": "grain",
+    "level": "n1",
+    "tags": ["calmness", "peace"],
+    "examples": [
+      { "word": "穏健", "reading": "おんけん", "meaning": "moderate, mild" },
+      { "word": "穏便", "reading": "おんびん", "meaning": "gentle, amicable" },
+      { "word": "穏やか", "reading": "おだやか", "meaning": "calm, peaceful" }
+    ]
+  },
+  {
+    "character": "鬱",
+    "readings": [
+      { "type": "on", "value": "ウツ" }
+    ],
+    "meanings": ["gloom", "depression", "melancholy"],
+    "strokeCount": 29,
+    "radical": "鬯",
+    "radicalMeaning": "sacrificial wine",
+    "level": "n1",
+    "tags": ["emotion", "mental health"],
+    "examples": [
+      { "word": "憂鬱", "reading": "ゆううつ", "meaning": "depression, melancholy" },
+      { "word": "鬱病", "reading": "うつびょう", "meaning": "depression (illness)" }
+    ]
+  },
+  {
+    "character": "傲",
+    "readings": [
+      { "type": "on", "value": "ゴウ" },
+      { "type": "kun", "value": "おご.る" }
+    ],
+    "meanings": ["arrogance", "pride", "haughtiness"],
+    "strokeCount": 13,
+    "radical": "人",
+    "radicalMeaning": "person",
+    "level": "n1",
+    "tags": ["arrogance", "character"],
+    "examples": [
+      { "word": "傲慢", "reading": "ごうまん", "meaning": "arrogance, haughtiness" },
+      { "word": "傲岸", "reading": "ごうがん", "meaning": "arrogance, pride" }
+    ]
+  },
+  {
+    "character": "擁",
+    "readings": [
+      { "type": "on", "value": "ヨウ" }
+    ],
+    "meanings": ["embrace", "hug", "hold in arms", "support"],
+    "strokeCount": 16,
+    "radical": "手",
+    "radicalMeaning": "hand",
+    "level": "n1",
+    "tags": ["support", "protection"],
+    "examples": [
+      { "word": "擁護", "reading": "ようご", "meaning": "protection, advocacy" },
+      { "word": "擁立", "reading": "ようりつ", "meaning": "backing, supporting (a candidate)" }
+    ]
+  },
+  {
+    "character": "轄",
+    "readings": [
+      { "type": "on", "value": "カツ" }
+    ],
+    "meanings": ["control", "jurisdiction"],
+    "strokeCount": 17,
+    "radical": "車",
+    "radicalMeaning": "vehicle",
+    "level": "n1",
+    "tags": ["authority", "control"],
+    "examples": [
+      { "word": "管轄", "reading": "かんかつ", "meaning": "jurisdiction" },
+      { "word": "直轄", "reading": "ちょっかつ", "meaning": "direct control" }
+    ]
+  },
+  {
+    "character": "匠",
+    "readings": [
+      { "type": "on", "value": "ショウ" }
+    ],
+    "meanings": ["artisan", "craftsman", "workman"],
+    "strokeCount": 6,
+    "radical": "匚",
+    "radicalMeaning": "box",
+    "level": "n1",
+    "tags": ["craft", "skill"],
+    "examples": [
+      { "word": "匠", "reading": "たくみ", "meaning": "artisan, craftsman" },
+      { "word": "師匠", "reading": "ししょう", "meaning": "master, teacher" },
+      { "word": "巨匠", "reading": "きょしょう", "meaning": "master, maestro" }
+    ]
+  },
+  {
+    "character": "亮",
+    "readings": [
+      { "type": "on", "value": "リョウ" }
+    ],
+    "meanings": ["clear", "bright", "help"],
+    "strokeCount": 9,
+    "radical": "亠",
+    "radicalMeaning": "lid",
+    "level": "n1",
+    "tags": ["brightness", "name"],
+    "examples": [
+      { "word": "明亮", "reading": "めいりょう", "meaning": "bright, clear" },
+      { "word": "亮太", "reading": "りょうた", "meaning": "Ryouta (name)" }
+    ]
+  }
+]

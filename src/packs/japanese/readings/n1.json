@@ -1,0 +1,462 @@
+[
+  {
+    "id": "n1-reading-identity",
+    "title": "日本人のアイデンティティ",
+    "level": "n1",
+    "text": "日本人のアイデンティティとは何かという問いは、近代以降繰り返し議論されてきた。明治維新を皮切りに、西洋文明との接触が本格化し、日本人は自らの文化的立場を再定義する必要に迫られた。和魂洋才という理念のもと、西洋の技術を取り入れつつも、精神的な核は保持するという姿勢が採られた。しかし、グローバル化が加速する現代にあっては、こうした二項対立的な思考そのものが問い直されている。アイデンティティとは固定的なものではなく、他者との関係性の中で絶えず再構築されるものだという見方が主流になりつつある。日本人であるということは、過去の伝統を墨守することではなく、変化し続ける世界の中で自らの位置づけを模索し続けることにほかならないのではないだろうか。",
+    "reading": "にほんじんのアイデンティティとはなにかというといは、きんだいいこうくりかえしぎろんされてきた。めいじいしんをかわきりに、せいようぶんめいとのせっしょくがほんかくかし、にほんじんはみずからのぶんかてきたちばをさいていぎするひつようにせまられた。わこんようさいというりねんのもと、せいようのぎじゅつをとりいれつつも、せいしんてきなかくはほじするというしせいがとられた。しかし、グローバルかがかそくするげんだいにあっては、こうしたにこうたいりつてきなしこうそのものがといなおされている。アイデンティティとはこていてきなものではなく、たしゃとのかんけいせいのなかでたえずさいこうちくされるものだというみかたがしゅりゅうになりつつある。にほんじんであるということは、かこのでんとうをぼくしゅすることではなく、へんかしつづけるせかいのなかでみずからのいちづけをもさくしつづけることにほかならないのではないだろうか。",
+    "translation": "La pregunta de qué constituye la identidad japonesa ha sido debatida repetidamente desde la era moderna. A partir de la Restauración Meiji, el contacto con la civilización occidental se intensificó, y los japoneses se vieron obligados a redefinir su posición cultural. Bajo el ideal de 'espíritu japonés, técnica occidental', se adoptó la postura de incorporar la tecnología occidental mientras se preservaba el núcleo espiritual. Sin embargo, en la actualidad, donde la globalización se acelera, este pensamiento dicotómico en sí mismo está siendo cuestionado. La visión de que la identidad no es algo fijo, sino algo que se reconstruye constantemente en relación con los demás, se está convirtiendo en la corriente principal. Ser japonés no consiste en aferrarse a las tradiciones del pasado, sino en continuar buscando la propia posición en un mundo que no deja de cambiar.",
+    "vocabulary": [
+      "アイデンティティ - identidad",
+      "近代以降 - desde la era moderna",
+      "明治維新 - Restauración Meiji",
+      "和魂洋才 - espíritu japonés, técnica occidental",
+      "理念 - ideal/filosofía",
+      "保持 - preservación/mantenimiento",
+      "二項対立 - dicotomía/oposición binaria",
+      "再構築 - reconstrucción",
+      "墨守 - adherencia rígida",
+      "模索 - búsqueda/tanteo"
+    ],
+    "questions": [
+      {
+        "question": "筆者によると、明治維新以降の日本人はどのような必要に迫られたか。",
+        "options": ["西洋文明を完全に受け入れる必要", "自らの文化的立場を再定義する必要", "伝統文化を廃止する必要", "西洋との交流を断つ必要"],
+        "correctIndex": 1,
+        "explanation": "テキストに「日本人は自らの文化的立場を再定義する必要に迫られた」とあります。"
+      },
+      {
+        "question": "和魂洋才とはどのような姿勢か。",
+        "options": ["西洋の精神を取り入れること", "日本の技術で西洋に対抗すること", "西洋の技術を取り入れつつ精神的な核は保持すること", "日本と西洋を完全に融合させること"],
+        "correctIndex": 2,
+        "explanation": "テキストに「西洋の技術を取り入れつつも、精神的な核は保持するという姿勢」と説明されています。"
+      },
+      {
+        "question": "現代においてアイデンティティはどのように捉えられつつあるか。",
+        "options": ["固定的で不変のもの", "国籍によって決まるもの", "他者との関係性の中で再構築されるもの", "政府が定義するもの"],
+        "correctIndex": 2,
+        "explanation": "テキストに「他者との関係性の中で絶えず再構築されるものだという見方が主流になりつつある」とあります。"
+      },
+      {
+        "question": "筆者が最終的に主張していることは何か。",
+        "options": ["伝統を守ることが最も重要だ", "グローバル化を拒否すべきだ", "変化する世界で自らの位置づけを模索し続けることが日本人であることだ", "二項対立的思考を維持すべきだ"],
+        "correctIndex": 2,
+        "explanation": "筆者は「変化し続ける世界の中で自らの位置づけを模索し続けることにほかならない」と結論づけています。"
+      }
+    ]
+  },
+  {
+    "id": "n1-reading-linguistics",
+    "title": "言語の比較と認知の枠組み",
+    "level": "n1",
+    "text": "言語が思考を規定するというサピア＝ウォーフの仮説は、比較言語学において長年議論の的となってきた。日本語と英語を例にとれば、主語の省略が常態化している日本語と、主語を明示しなければ文が成立しない英語では、話者の認知の枠組みが根本から異なるのではないかと推察される。実際、日本語話者は状況や文脈から主体を推測する傾向が強く、これは対人関係における察しの文化と無関係ではあるまい。一方、強い言語決定論に対しては批判も根強い。言語が思考の枠組みを完全に支配するのではなく、むしろ緩やかに影響を与えるにすぎないという弱い仮説が、現在では多くの研究者に支持されている。言語と認知の関係は、一方が他方を決定するという単純なものではなく、相互に影響し合う動的な過程と捉えるべきだろう。",
+    "reading": "げんごがしこうをきていするというサピア＝ウォーフのかせつは、ひかくげんごがくにおいてながねんぎろんのまととなってきた。にほんごとえいごをれいにとれば、しゅごのしょうりゃくがじょうたいかしているにほんごと、しゅごをめいじしなければぶんがせいりつしないえいごでは、わしゃのにんちのわくぐみがこんぽんからことなるのではないかとすいさつされる。じっさい、にほんごわしゃはじょうきょうやぶんみゃくからしゅたいをすいそくするけいこうがつよく、これはたいじんかんけいにおけるさっしのぶんかとむかんけいではあるまい。いっぽう、つよいげんごけっていろんにたいしてはひはんもねづよい。げんごがしこうのわくぐみをかんぜんにしはいするのではなく、むしろゆるやかにえいきょうをあたえるにすぎないというよわいかせつが、げんざいではおおくのけんきゅうしゃにしじされている。げんごとにんちのかんけいは、いっぽうがたほうをけっていするというたんじゅんなものではなく、そうごにえいきょうしあうどうてきなかていととらえるべきだろう。",
+    "translation": "La hipótesis de Sapir-Whorf, que sostiene que el lenguaje determina el pensamiento, ha sido objeto de debate durante años en la lingüística comparada. Tomando como ejemplo el japonés y el inglés, se puede inferir que los marcos cognitivos de los hablantes difieren fundamentalmente entre el japonés, donde la omisión del sujeto es habitual, y el inglés, donde una oración no puede existir sin un sujeto explícito. De hecho, los hablantes de japonés tienen una fuerte tendencia a inferir el agente a partir de la situación y el contexto, lo cual no es ajeno a la cultura del 'sasshi' (lectura implícita) en las relaciones interpersonales. Por otro lado, las críticas al determinismo lingüístico fuerte son persistentes. La hipótesis débil, que sostiene que el lenguaje no domina completamente el marco del pensamiento sino que solo lo influye de manera gradual, cuenta actualmente con el apoyo de muchos investigadores. La relación entre lenguaje y cognición no es algo simple en que uno determine al otro, sino que debería entenderse como un proceso dinámico de influencia mutua.",
+    "vocabulary": [
+      "サピア＝ウォーフの仮説 - hipótesis de Sapir-Whorf",
+      "比較言語学 - lingüística comparada",
+      "主語の省略 - omisión del sujeto",
+      "常態化 - normalización",
+      "認知 - cognición",
+      "枠組み - marco/estructura",
+      "推察 - inferencia/conjetura",
+      "察し - lectura implícita/empatía tácita",
+      "言語決定論 - determinismo lingüístico",
+      "動的 - dinámico"
+    ],
+    "questions": [
+      {
+        "question": "サピア＝ウォーフの仮説とは何か。",
+        "options": ["言語は思考に影響しないという説", "言語が思考を規定するという説", "すべての言語は同じ構造を持つという説", "思考が言語を決定するという説"],
+        "correctIndex": 1,
+        "explanation": "テキストの冒頭に「言語が思考を規定するというサピア＝ウォーフの仮説」と説明されています。"
+      },
+      {
+        "question": "日本語話者の認知の特徴として何が挙げられているか。",
+        "options": ["論理的に主張する傾向", "状況や文脈から主体を推測する傾向", "主語を常に明示する傾向", "英語的な思考パターンを持つ傾向"],
+        "correctIndex": 1,
+        "explanation": "テキストに「日本語話者は状況や文脈から主体を推測する傾向が強く」とあります。"
+      },
+      {
+        "question": "現在多くの研究者に支持されているのはどのような仮説か。",
+        "options": ["強い言語決定論", "言語と思考は無関係という説", "言語が思考に緩やかに影響を与えるという弱い仮説", "認知が言語を完全に決定するという説"],
+        "correctIndex": 2,
+        "explanation": "テキストに「緩やかに影響を与えるにすぎないという弱い仮説が、現在では多くの研究者に支持されている」とあります。"
+      },
+      {
+        "question": "筆者は言語と認知の関係をどのように捉えるべきだと述べているか。",
+        "options": ["言語が認知を一方的に決定する", "認知が言語を一方的に決定する", "相互に影響し合う動的な過程として捉えるべき", "両者は完全に独立している"],
+        "correctIndex": 2,
+        "explanation": "テキストの最後に「相互に影響し合う動的な過程と捉えるべきだろう」と結論づけています。"
+      }
+    ]
+  },
+  {
+    "id": "n1-reading-literary-criticism",
+    "title": "近代文学における「私」の問題",
+    "level": "n1",
+    "text": "日本の近代文学において、私小説というジャンルは独自の地位を占めてきた。作者の実体験を素材とし、告白的な語りを特徴とするこの形式は、西洋の自然主義文学の影響を受けつつも、日本独自の展開を遂げた。しかし、私小説における「私」は果たして作者そのものなのか、それとも虚構の産物なのかという問題は、文学批評において長く論じられてきた。小林秀雄はかつて、私小説の限界を指摘しつつも、そこに日本人特有の誠実さを見出した。一方、テクスト論の立場からは、いかなる文学作品においても語り手と作者を同一視することは誤りであるとの批判がなされた。現代においては、私小説的な要素はオートフィクションという世界的潮流と合流し、新たな可能性を模索している。「私」を語ることの意味は、時代とともに変容し続けている。",
+    "reading": "にほんのきんだいぶんがくにおいて、ししょうせつというジャンルはどくじのちいをしめてきた。さくしゃのじったいけんをそざいとし、こくはくてきなかたりをとくちょうとするこのけいしきは、せいようのしぜんしゅぎぶんがくのえいきょうをうけつつも、にほんどくじのてんかいをとげた。しかし、ししょうせつにおける「わたし」ははたしてさくしゃそのものなのか、それともきょこうのさんぶつなのかというもんだいは、ぶんがくひひょうにおいてながくろんじられてきた。こばやしひでおはかつて、ししょうせつのげんかいをしてきしつつも、そこににほんじんとくゆうのせいじつさをみいだした。いっぽう、テクストろんのたちばからは、いかなるぶんがくさくひんにおいてもかたりてとさくしゃをどういつしすることはあやまりであるとのひはんがなされた。げんだいにおいては、ししょうせつてきなようそはオートフィクションというせかいてきちょうりゅうとごうりゅうし、あらたなかのうせいをもさくしている。「わたし」をかたることのいみは、じだいとともにへんようしつづけている。",
+    "translation": "En la literatura moderna japonesa, el género del shishōsetsu (novela del yo) ha ocupado una posición singular. Esta forma, que toma como materia prima las experiencias reales del autor y se caracteriza por una narración confesional, logró un desarrollo propio japonés aun recibiendo la influencia del naturalismo literario occidental. Sin embargo, el problema de si el 'yo' en el shishōsetsu es realmente el autor mismo o un producto de la ficción ha sido discutido extensamente en la crítica literaria. Kobayashi Hideo señaló en su momento las limitaciones del shishōsetsu, pero también encontró en él una sinceridad característica de los japoneses. Por otro lado, desde la perspectiva del análisis textual, se criticó que en cualquier obra literaria es un error identificar al narrador con el autor. En la actualidad, los elementos del shishōsetsu confluyen con la corriente mundial de la autoficción, explorando nuevas posibilidades. El significado de narrar el 'yo' continúa transformándose con los tiempos.",
+    "vocabulary": [
+      "私小説 - shishōsetsu (novela del yo)",
+      "告白的 - confesional",
+      "自然主義 - naturalismo",
+      "虚構 - ficción",
+      "文学批評 - crítica literaria",
+      "誠実さ - sinceridad",
+      "テクスト論 - análisis textual",
+      "同一視 - identificación/equiparación",
+      "オートフィクション - autoficción",
+      "変容 - transformación"
+    ],
+    "questions": [
+      {
+        "question": "私小説の特徴として正しいものはどれか。",
+        "options": ["完全なフィクションを素材とする", "作者の実体験を素材とし告白的な語りを特徴とする", "西洋文学の翻訳を基にする", "社会問題のみを扱う"],
+        "correctIndex": 1,
+        "explanation": "テキストに「作者の実体験を素材とし、告白的な語りを特徴とする」とあります。"
+      },
+      {
+        "question": "小林秀雄は私小説についてどのような見解を持っていたか。",
+        "options": ["全面的に否定した", "限界を指摘しつつも日本人特有の誠実さを見出した", "西洋文学より優れていると主張した", "テクスト論の立場から批判した"],
+        "correctIndex": 1,
+        "explanation": "テキストに「私小説の限界を指摘しつつも、そこに日本人特有の誠実さを見出した」とあります。"
+      },
+      {
+        "question": "テクスト論の立場からの批判は何か。",
+        "options": ["私小説は文学ではないということ", "語り手と作者を同一視することは誤りであるということ", "日本文学は西洋より劣るということ", "告白的な語りは不誠実だということ"],
+        "correctIndex": 1,
+        "explanation": "テキストに「語り手と作者を同一視することは誤りであるとの批判がなされた」とあります。"
+      }
+    ]
+  },
+  {
+    "id": "n1-reading-legal",
+    "title": "個人情報保護と表現の自由",
+    "level": "n1",
+    "text": "個人情報保護法の施行以来、プライバシーの権利と表現の自由との間の緊張関係はますます顕在化している。報道機関が公共の利益に資する情報を公開する権利は、民主主義社会において不可欠なものである。しかし、個人の名誉やプライバシーを侵害するような報道がなされた場合、被害者の救済も等しく重要となる。この両者の調和を図るにあたっては、公人と私人の区別、報道の公共性の程度、および侵害の態様と程度を総合的に考量する必要がある。判例においても、表現の自由が優先されるべき場面と、プライバシーが保護されるべき場面の線引きは一律ではなく、個別の事案に即して判断がなされている。技術の発達に伴い、デジタル空間における個人情報の流通が容易になった現代にあっては、従来の法的枠組みでは対応しきれない新たな課題が生じていることもまた事実である。",
+    "reading": "こじんじょうほうほごほうのしこういらい、プライバシーのけんりとひょうげんのじゆうとのあいだのきんちょうかんけいはますますけんざいかしている。ほうどうきかんがこうきょうのりえきにしするじょうほうをこうかいするけんりは、みんしゅしゅぎしゃかいにおいてふかけつなものである。しかし、こじんのめいよやプライバシーをしんがいするようなほうどうがなされたばあい、ひがいしゃのきゅうさいもひとしくじゅうようとなる。このりょうしゃのちょうわをはかるにあたっては、こうじんとしじんのくべつ、ほうどうのこうきょうせいのていど、およびしんがいのたいようとていどをそうごうてきにこうりょうするひつようがある。はんれいにおいても、ひょうげんのじゆうがゆうせんされるべきばめんと、プライバシーがほごされるべきばめんのせんびきはいちりつではなく、こべつのじあんにそくしてはんだんがなされている。ぎじゅつのはったつにともない、デジタルくうかんにおけるこじんじょうほうのりゅうつうがよういになったげんだいにあっては、じゅうらいのほうてきわくぐみではたいおうしきれないあらたなかだいがしょうじていることもまたじじつである。",
+    "translation": "Desde la implementación de la Ley de Protección de Datos Personales, la tensión entre el derecho a la privacidad y la libertad de expresión se ha hecho cada vez más evidente. El derecho de los medios de comunicación a publicar información que sirva al interés público es indispensable en una sociedad democrática. Sin embargo, cuando se realizan reportajes que vulneran el honor o la privacidad de un individuo, la reparación de la víctima es igualmente importante. Para lograr la armonía entre ambos, es necesario considerar de manera integral la distinción entre personas públicas y privadas, el grado de interés público del reportaje, y la naturaleza y grado de la vulneración. También en la jurisprudencia, la línea entre las situaciones donde la libertad de expresión debe prevalecer y aquellas donde la privacidad debe ser protegida no es uniforme, sino que se juzga según cada caso particular. Con el avance de la tecnología, en la actualidad donde la circulación de información personal en el espacio digital se ha facilitado, es también un hecho que surgen nuevos desafíos que el marco legal tradicional no puede abordar completamente.",
+    "vocabulary": [
+      "個人情報保護法 - Ley de Protección de Datos Personales",
+      "顕在化 - hacerse evidente/manifestarse",
+      "報道機関 - medios de comunicación",
+      "公共の利益 - interés público",
+      "侵害 - vulneración/infracción",
+      "救済 - reparación/remedio",
+      "考量 - consideración/ponderación",
+      "判例 - jurisprudencia/precedente judicial",
+      "一律 - uniforme/de manera uniforme",
+      "枠組み - marco/estructura"
+    ],
+    "questions": [
+      {
+        "question": "個人情報保護法の施行以来、何が顕在化しているか。",
+        "options": ["報道機関の衰退", "プライバシーの権利と表現の自由の緊張関係", "デジタル技術の進歩", "法律の簡素化"],
+        "correctIndex": 1,
+        "explanation": "テキストに「プライバシーの権利と表現の自由との間の緊張関係はますます顕在化している」とあります。"
+      },
+      {
+        "question": "両者の調和を図るために考慮すべき要素として挙げられていないものはどれか。",
+        "options": ["公人と私人の区別", "報道の公共性の程度", "報道機関の経営状況", "侵害の態様と程度"],
+        "correctIndex": 2,
+        "explanation": "テキストでは公人と私人の区別、報道の公共性の程度、侵害の態様と程度が挙げられていますが、経営状況には触れられていません。"
+      },
+      {
+        "question": "判例における判断はどのようになされているか。",
+        "options": ["常に表現の自由が優先される", "一律の基準で判断される", "個別の事案に即して判断される", "常にプライバシーが保護される"],
+        "correctIndex": 2,
+        "explanation": "テキストに「個別の事案に即して判断がなされている」とあります。"
+      },
+      {
+        "question": "現代における新たな課題とは何か。",
+        "options": ["報道機関の増加", "デジタル空間での個人情報流通に従来の法的枠組みが対応しきれないこと", "表現の自由の制限", "個人情報保護法の廃止"],
+        "correctIndex": 1,
+        "explanation": "テキストに「従来の法的枠組みでは対応しきれない新たな課題が生じている」と述べられています。"
+      }
+    ]
+  },
+  {
+    "id": "n1-reading-ethics-tech",
+    "title": "人工知能と倫理的課題",
+    "level": "n1",
+    "text": "人工知能技術の飛躍的な発展は、我々に根源的な倫理的問いを突きつけている。自律型AIが医療診断や司法判断に関与するようになった現在、その判断の透明性と説明可能性は喫緊の課題である。AIが特定の人種や性別に対して偏見を持った判断を下す事例が報告されており、アルゴリズムの公平性をいかに担保するかという問題は看過できない。さらに、AIによる創作物の著作権帰属、自動運転車の事故における責任の所在、さらには意識を持つAIの権利という将来的な問題まで、従来の倫理的枠組みでは対処しきれない領域が拡大している。技術の進歩をものともせず突き進むのではなく、人間の尊厳と自律性を核に据えた新たな倫理的枠組みの構築が、今まさに求められているのである。",
+    "reading": "じんこうちのうぎじゅつのひやくてきなはってんは、われわれにこんげんてきなりんりてきといをつきつけている。じりつがたエーアイがいりょうしんだんやしほうはんだんにかんよするようになったげんざい、そのはんだんのとうめいせいとせつめいかのうせいはきっきんのかだいである。エーアイがとくていのじんしゅやせいべつにたいしてへんけんをもったはんだんをくだすじれいがほうこくされており、アルゴリズムのこうへいせいをいかにたんぽするかというもんだいはかんかできない。さらに、エーアイによるそうさくぶつのちょさくけんきぞく、じどううんてんしゃのじこにおけるせきにんのしょざい、さらにはいしきをもつエーアイのけんりというしょうらいてきなもんだいまで、じゅうらいのりんりてきわくぐみではたいしょしきれないりょういきがかくだいしている。ぎじゅつのしんぽをものともせずつきすすむのではなく、にんげんのそんげんとじりつせいをかくにすえたあらたなりんりてきわくぐみのこうちくが、いままさにもとめられているのである。",
+    "translation": "El desarrollo vertiginoso de la tecnología de inteligencia artificial nos plantea cuestiones éticas fundamentales. En la actualidad, cuando la IA autónoma participa en diagnósticos médicos y decisiones judiciales, la transparencia y explicabilidad de sus juicios son desafíos urgentes. Se han reportado casos en que la IA emite juicios sesgados contra determinadas razas o géneros, y el problema de cómo garantizar la imparcialidad de los algoritmos no puede ser ignorado. Además, desde la atribución de derechos de autor de las creaciones de la IA, pasando por la responsabilidad en accidentes de vehículos autónomos, hasta el problema futuro de los derechos de una IA consciente, se están expandiendo áreas que los marcos éticos convencionales no pueden abordar. En lugar de avanzar sin detenerse ante el progreso tecnológico, lo que se necesita ahora mismo es la construcción de un nuevo marco ético que tenga como núcleo la dignidad humana y la autonomía.",
+    "vocabulary": [
+      "飛躍的 - vertiginoso/exponencial",
+      "根源的 - fundamental/radical",
+      "自律型 - autónomo (tipo)",
+      "喫緊 - urgente/apremiante",
+      "偏見 - prejuicio/sesgo",
+      "担保 - garantizar/asegurar",
+      "看過 - pasar por alto/ignorar",
+      "著作権帰属 - atribución de derechos de autor",
+      "責任の所在 - ubicación de la responsabilidad",
+      "尊厳 - dignidad"
+    ],
+    "questions": [
+      {
+        "question": "AIの判断について喫緊の課題として挙げられているのは何か。",
+        "options": ["処理速度の向上", "判断の透明性と説明可能性", "コストの削減", "AIの小型化"],
+        "correctIndex": 1,
+        "explanation": "テキストに「その判断の透明性と説明可能性は喫緊の課題である」とあります。"
+      },
+      {
+        "question": "アルゴリズムの公平性に関して報告されている問題は何か。",
+        "options": ["計算速度が遅いこと", "特定の人種や性別に対する偏見を持った判断", "エネルギー消費が大きいこと", "ハッキングに弱いこと"],
+        "correctIndex": 1,
+        "explanation": "テキストに「AIが特定の人種や性別に対して偏見を持った判断を下す事例が報告されており」とあります。"
+      },
+      {
+        "question": "筆者が主張する新たな倫理的枠組みの核とは何か。",
+        "options": ["技術の進歩", "経済的利益", "人間の尊厳と自律性", "国際的な協調"],
+        "correctIndex": 2,
+        "explanation": "テキストに「人間の尊厳と自律性を核に据えた新たな倫理的枠組みの構築が求められている」とあります。"
+      },
+      {
+        "question": "将来的な倫理的問題として言及されていないものはどれか。",
+        "options": ["AIによる創作物の著作権帰属", "自動運転車の事故における責任", "意識を持つAIの権利", "AIの選挙権"],
+        "correctIndex": 3,
+        "explanation": "テキストではAIの選挙権については言及されていません。"
+      }
+    ]
+  },
+  {
+    "id": "n1-reading-political",
+    "title": "地方分権と民主主義の再構築",
+    "level": "n1",
+    "text": "中央集権的な統治機構のもとで画一的な政策が全国に適用される現状に対し、地方分権の推進を求める声は根強い。地域ごとの実情に即した施策を展開するためには、権限と財源の地方への移譲が不可欠である。しかし、分権化を余儀なくされた自治体の中には、行財政能力の不足から十分な住民サービスを提供できないケースも散見される。地方分権は住民自治の理念に基づくものであるが、その実現にあたっては、住民の政治参加意識の向上なくしては成り立たない。投票率の低迷が常態化している現状にひきかえ、SNSを通じた政治的議論は活発化しており、新たな参加の形態が模索されている。形式的な制度改革はおろか、住民一人ひとりの当事者意識こそが、真の地方自治を支える基盤であると言わねばならない。",
+    "reading": "ちゅうおうしゅうけんてきなとうちきこうのもとでかくいつてきなせいさくがぜんこくにてきようされるげんじょうにたいし、ちほうぶんけんのすいしんをもとめるこえはねづよい。ちいきごとのじつじょうにそくしたしさくをてんかいするためには、けんげんとざいげんのちほうへのいじょうがふかけつである。しかし、ぶんけんかをよぎなくされたじちたいのなかには、ぎょうざいせいのうりょくのふそくからじゅうぶんなじゅうみんサービスをていきょうできないケースもさんけんされる。ちほうぶんけんはじゅうみんじちのりねんにもとづくものであるが、そのじつげんにあたっては、じゅうみんのせいじさんかいしきのこうじょうなくしてはなりたたない。とうひょうりつのていめいがじょうたいかしているげんじょうにひきかえ、エスエヌエスをつうじたせいじてきぎろんはかっぱつかしており、あらたなさんかのけいたいがもさくされている。けいしきてきなせいどかいかくはおろか、じゅうみんひとりひとりのとうじしゃいしきこそが、しんのちほうじちをささえるきばんであるといわねばならない。",
+    "translation": "Frente a la situación actual en que políticas uniformes se aplican a nivel nacional bajo una estructura de gobierno centralizada, las voces que piden la promoción de la descentralización son persistentes. Para implementar políticas adecuadas a la realidad de cada región, la transferencia de competencias y recursos financieros a las regiones es indispensable. Sin embargo, entre los gobiernos locales que se vieron forzados a la descentralización, se observan casos en que no pueden proporcionar servicios suficientes a los residentes debido a la falta de capacidad administrativa y financiera. La descentralización se basa en el principio de autogobierno local, pero su realización no puede lograrse sin la mejora de la conciencia de participación política de los residentes. En contraste con la situación actual donde la baja participación electoral se ha normalizado, el debate político a través de las redes sociales se ha activado y se exploran nuevas formas de participación. No solo las reformas institucionales formales, sino la conciencia de cada residente como parte involucrada es lo que debe ser la base que sostenga el verdadero autogobierno local.",
+    "vocabulary": [
+      "中央集権 - centralización",
+      "画一的 - uniforme/homogéneo",
+      "分権化 - descentralización",
+      "移譲 - transferencia/delegación",
+      "行財政 - administración y finanzas públicas",
+      "散見 - observarse esporádicamente",
+      "住民自治 - autogobierno local",
+      "低迷 - estancamiento/caída",
+      "当事者意識 - conciencia de ser parte involucrada",
+      "基盤 - base/fundamento"
+    ],
+    "questions": [
+      {
+        "question": "地方分権の推進のために不可欠なものとして何が挙げられているか。",
+        "options": ["中央政府の強化", "権限と財源の地方への移譲", "全国一律の政策", "地方議会の廃止"],
+        "correctIndex": 1,
+        "explanation": "テキストに「権限と財源の地方への移譲が不可欠である」とあります。"
+      },
+      {
+        "question": "分権化された自治体が直面している問題は何か。",
+        "options": ["人口の急増", "行財政能力の不足から十分なサービスを提供できないこと", "中央政府からの過度な干渉", "住民の過度な政治参加"],
+        "correctIndex": 1,
+        "explanation": "テキストに「行財政能力の不足から十分な住民サービスを提供できないケースも散見される」とあります。"
+      },
+      {
+        "question": "投票率の低迷にひきかえ活発化しているものは何か。",
+        "options": ["地域の祭り", "SNSを通じた政治的議論", "新聞の購読", "デモ活動"],
+        "correctIndex": 1,
+        "explanation": "テキストに「SNSを通じた政治的議論は活発化しており」とあります。"
+      },
+      {
+        "question": "筆者が真の地方自治の基盤として主張しているものは何か。",
+        "options": ["制度改革", "財源の確保", "住民一人ひとりの当事者意識", "専門家による統治"],
+        "correctIndex": 2,
+        "explanation": "テキストに「住民一人ひとりの当事者意識こそが、真の地方自治を支える基盤である」とあります。"
+      }
+    ]
+  },
+  {
+    "id": "n1-reading-japanese-thought",
+    "title": "日本思想史における「無」の系譜",
+    "level": "n1",
+    "text": "日本思想史を貫く一つの軸として、「無」の概念がある。仏教の空の思想が日本に伝来して以来、この概念は日本の精神世界において独自の展開を遂げてきた。禅宗においては、言語を超えた直接的な体験としての悟りが追求され、「無」は単なる否定ではなく、あらゆるものを包含する根源的な場として理解された。西田幾多郎はこの伝統を受け継ぎ、「絶対無の場所」という概念を哲学的に定式化した。西田にとって、自己とは固定的な実体ではなく、絶対無の場所において自己を否定しつつ自己を見出すという逆説的な運動そのものであった。この思想は、西洋の存在論とは根本的に異なる地平を切り開いたとして、京都学派の哲学者たちに継承された。今日においても、西田哲学は東西の思想的対話において重要な参照点であり続けている。",
+    "reading": "にほんしそうしをつらぬくひとつのじくとして、「む」のがいねんがある。ぶっきょうのくうのしそうがにほんにでんらいしていらい、このがいねんはにほんのせいしんせかいにおいてどくじのてんかいをとげてきた。ぜんしゅうにおいては、げんごをこえたちょくせつてきなたいけんとしてのさとりがついきゅうされ、「む」はたんなるひていではなく、あらゆるものをほうがんするこんげんてきなばとしてりかいされた。にしだきたろうはこのでんとうをうけつぎ、「ぜったいむのばしょ」というがいねんをてつがくてきにていしきかした。にしだにとって、じことはこていてきなじったいではなく、ぜったいむのばしょにおいてじこをひていしつつじこをみいだすというぎゃくせつてきなうんどうそのものであった。このしそうは、せいようのそんざいろんとはこんぽんてきにことなるちへいをきりひらいたとして、きょうとがくはのてつがくしゃたちにけいしょうされた。こんにちにおいても、にしだてつがくはとうざいのしそうてきたいわにおいてじゅうようなさんしょうてんでありつづけている。",
+    "translation": "Como uno de los ejes que atraviesa la historia del pensamiento japonés, existe el concepto de 'mu' (la nada). Desde que la idea budista del vacío fue transmitida a Japón, este concepto ha logrado un desarrollo propio en el mundo espiritual japonés. En el budismo zen, se persiguió la iluminación como experiencia directa que trasciende el lenguaje, y 'mu' no fue entendido como mera negación, sino como un lugar fundamental que abarca todo. Nishida Kitarō heredó esta tradición y formuló filosóficamente el concepto de 'el lugar de la nada absoluta'. Para Nishida, el yo no era una entidad fija, sino el movimiento paradójico mismo de negarse a sí mismo mientras se encuentra a sí mismo en el lugar de la nada absoluta. Este pensamiento fue heredado por los filósofos de la Escuela de Kioto por haber abierto un horizonte fundamentalmente diferente al de la ontología occidental. Aún hoy, la filosofía de Nishida continúa siendo un punto de referencia importante en el diálogo intelectual entre Oriente y Occidente.",
+    "vocabulary": [
+      "系譜 - genealogía/linaje",
+      "空 - vacío (concepto budista)",
+      "伝来 - transmisión/llegada",
+      "禅宗 - budismo zen",
+      "悟り - iluminación (satori)",
+      "包含 - abarcar/contener",
+      "西田幾多郎 - Nishida Kitarō (filósofo)",
+      "定式化 - formulación/sistematización",
+      "逆説的 - paradójico",
+      "存在論 - ontología"
+    ],
+    "questions": [
+      {
+        "question": "禅宗において「無」はどのように理解されたか。",
+        "options": ["単なる否定として", "あらゆるものを包含する根源的な場として", "西洋哲学の概念として", "科学的な概念として"],
+        "correctIndex": 1,
+        "explanation": "テキストに「単なる否定ではなく、あらゆるものを包含する根源的な場として理解された」とあります。"
+      },
+      {
+        "question": "西田幾多郎にとって「自己」とは何であったか。",
+        "options": ["固定的な実体", "絶対無の場所で自己を否定しつつ見出す逆説的な運動", "西洋の存在論に基づく概念", "言語によって定義されるもの"],
+        "correctIndex": 1,
+        "explanation": "テキストに「自己を否定しつつ自己を見出すという逆説的な運動そのもの」と説明されています。"
+      },
+      {
+        "question": "京都学派がこの思想を継承した理由は何か。",
+        "options": ["西洋の存在論を忠実に再現したから", "西洋の存在論とは根本的に異なる地平を切り開いたから", "仏教を否定したから", "科学的な証明に成功したから"],
+        "correctIndex": 1,
+        "explanation": "テキストに「西洋の存在論とは根本的に異なる地平を切り開いたとして継承された」とあります。"
+      },
+      {
+        "question": "今日における西田哲学の位置づけはどのようなものか。",
+        "options": ["完全に忘れ去られた思想", "東西の思想的対話において重要な参照点", "西洋哲学に取って代わった思想", "日本でのみ研究される思想"],
+        "correctIndex": 1,
+        "explanation": "テキストに「東西の思想的対話において重要な参照点であり続けている」とあります。"
+      }
+    ]
+  },
+  {
+    "id": "n1-reading-science",
+    "title": "量子コンピュータと情報科学の未来",
+    "level": "n1",
+    "text": "量子コンピュータの実用化は、情報科学のみならず、社会全体に計り知れない影響を及ぼすと予想されている。従来のコンピュータがビットを基本単位とするのに対し、量子コンピュータは量子ビットを用いることで、重ね合わせと量子もつれという量子力学的性質を活用する。これにより、特定の種類の計算において古典的コンピュータとは比較にならない速度での処理が可能となる。暗号解読や分子シミュレーション、最適化問題などの分野で革命的な進歩が見込まれている。一方で、現在の暗号技術の根幹を揺るがしかねないという懸念も指摘されており、量子耐性暗号の開発が急がれている。量子コンピュータの開発競争は、もはや純粋な科学の領域にとどまらず、国家安全保障にかかわる戦略的課題と相まって、国際的な技術覇権をめぐる熾烈な競争の様相を呈している。",
+    "reading": "りょうしコンピュータのじつようかは、じょうほうかがくのみならず、しゃかいぜんたいにはかりしれないえいきょうをおよぼすとよそうされている。じゅうらいのコンピュータがビットをきほんたんいとするのにたいし、りょうしコンピュータはりょうしビットをもちいることで、かさねあわせとりょうしもつれというりょうしりきがくてきせいしつをかつようする。これにより、とくていのしゅるいのけいさんにおいてこてんてきコンピュータとはひかくにならないそくどでのしょりがかのうとなる。あんごうかいどくやぶんしシミュレーション、さいてきかもんだいなどのぶんやでかくめいてきなしんぽがみこまれている。いっぽうで、げんざいのあんごうぎじゅつのこんかんをゆるがしかねないというけねんもしてきされており、りょうしたいせいあんごうのかいはつがいそがれている。りょうしコンピュータのかいはつきょうそうは、もはやじゅんすいなかがくのりょういきにとどまらず、こっかあんぜんほしょうにかかわるせんりゃくてきかだいとあいまって、こくさいてきなぎじゅつはけんをめぐるしれつなきょうそうのようそうをていしている。",
+    "translation": "Se prevé que la implementación práctica de las computadoras cuánticas tendrá un impacto inconmensurable no solo en la ciencia de la información, sino en la sociedad en su conjunto. Mientras las computadoras convencionales utilizan bits como unidad básica, las computadoras cuánticas emplean qubits, aprovechando propiedades de la mecánica cuántica como la superposición y el entrelazamiento cuántico. Esto permite el procesamiento a velocidades incomparables con las computadoras clásicas en ciertos tipos de cálculos. Se anticipan avances revolucionarios en campos como la criptoanálisis, la simulación molecular y los problemas de optimización. Por otro lado, se señala la preocupación de que podría socavar los cimientos de la tecnología criptográfica actual, y se acelera el desarrollo de criptografía resistente a la computación cuántica. La carrera por el desarrollo de computadoras cuánticas ya no se limita al ámbito de la ciencia pura, sino que, combinada con desafíos estratégicos relacionados con la seguridad nacional, presenta el aspecto de una feroz competencia por la hegemonía tecnológica internacional.",
+    "vocabulary": [
+      "量子コンピュータ - computadora cuántica",
+      "量子ビット - qubit (bit cuántico)",
+      "重ね合わせ - superposición",
+      "量子もつれ - entrelazamiento cuántico",
+      "暗号解読 - criptoanálisis/descifrado",
+      "分子シミュレーション - simulación molecular",
+      "根幹 - cimiento/fundamento",
+      "量子耐性暗号 - criptografía post-cuántica",
+      "技術覇権 - hegemonía tecnológica",
+      "熾烈 - feroz/encarnizado"
+    ],
+    "questions": [
+      {
+        "question": "量子コンピュータが古典的コンピュータと異なる点は何か。",
+        "options": ["サイズが小さいこと", "量子ビットを用いて重ね合わせと量子もつれを活用すること", "電力消費が少ないこと", "プログラミング言語が異なること"],
+        "correctIndex": 1,
+        "explanation": "テキストに「量子ビットを用いることで、重ね合わせと量子もつれという量子力学的性質を活用する」とあります。"
+      },
+      {
+        "question": "量子コンピュータの実用化で懸念されていることは何か。",
+        "options": ["計算速度が遅くなること", "現在の暗号技術の根幹を揺るがしかねないこと", "古典的コンピュータが不要になること", "エネルギー問題が深刻化すること"],
+        "correctIndex": 1,
+        "explanation": "テキストに「現在の暗号技術の根幹を揺るがしかねないという懸念」とあります。"
+      },
+      {
+        "question": "革命的な進歩が見込まれている分野として挙げられていないものはどれか。",
+        "options": ["暗号解読", "分子シミュレーション", "自然言語処理", "最適化問題"],
+        "correctIndex": 2,
+        "explanation": "テキストでは暗号解読、分子シミュレーション、最適化問題が挙げられていますが、自然言語処理は言及されていません。"
+      },
+      {
+        "question": "量子コンピュータの開発競争はどのような様相を呈しているか。",
+        "options": ["純粋な科学的探求にとどまっている", "企業間の小規模な競争", "国際的な技術覇権をめぐる熾烈な競争", "学術界のみの関心事"],
+        "correctIndex": 2,
+        "explanation": "テキストに「国際的な技術覇権をめぐる熾烈な競争の様相を呈している」とあります。"
+      },
+      {
+        "question": "量子コンピュータの開発競争が科学の領域を超えた理由として述べられているのは何か。",
+        "options": ["企業の利益が関わるため", "環境問題に関連するため", "国家安全保障にかかわる戦略的課題と相まっているため", "教育改革が必要なため"],
+        "correctIndex": 2,
+        "explanation": "テキストに「国家安全保障にかかわる戦略的課題と相まって」と述べられています。"
+      }
+    ]
+  },
+  {
+    "id": "n1-reading-environment",
+    "title": "持続可能な社会と世代間の責任",
+    "level": "n1",
+    "text": "環境問題は、もはや一国の問題にとどまらず、人類全体が直面する存亡の危機である。気候変動がもたらす影響は、海面上昇や異常気象にとどまらず、食糧安全保障や生態系の崩壊にまで及んでいる。国際社会はパリ協定を皮切りに様々な取り組みを進めてきたが、各国の利害対立もあって、十分な成果を上げているとは言い難い。ここで問われるべきは、世代間の公平性という倫理的課題である。現世代の経済活動によって将来世代が環境的負債を背負わされるという構図は、正義の観点から到底看過できるものではない。持続可能な社会の実現は、技術革新のみに頼るきらいがあるが、消費行動の変革や社会制度の根本的な見直しなくしては達成しえない。我々は将来世代に対する受託者としての自覚を持ち、短期的利益を超えた長期的視座に立つことが、今ほど求められている時代はないのではないだろうか。",
+    "reading": "かんきょうもんだいは、もはやいっこくのもんだいにとどまらず、じんるいぜんたいがちょくめんするそんぼうのききである。きこうへんどうがもたらすえいきょうは、かいめんじょうしょうやいじょうきしょうにとどまらず、しょくりょうあんぜんほしょうやせいたいけいのほうかいにまでおよんでいる。こくさいしゃかいはパリきょうていをかわきりにさまざまなとりくみをすすめてきたが、かっこくのりがいたいりつもあって、じゅうぶんなせいかをあげているとはいいがたい。ここでとわれるべきは、せだいかんのこうへいせいというりんりてきかだいである。げんせだいのけいざいかつどうによってしょうらいせだいがかんきょうてきさいむをせおわされるというこうずは、せいぎのかんてんからとうていかんかできるものではない。じぞくかのうなしゃかいのじつげんは、ぎじゅつかくしんのみにたよるきらいがあるが、しょうひこうどうのへんかくやしゃかいせいどのこんぽんてきなみなおしなくしてはたっせいしえない。われわれはしょうらいせだいにたいするじゅたくしゃとしてのじかくをもち、たんきてきりえきをこえたちょうきてきしざにたつことが、いまほどもとめられているじだいはないのではないだろうか。",
+    "translation": "Los problemas ambientales ya no se limitan a ser cuestión de un solo país, sino que representan una crisis existencial que enfrenta toda la humanidad. Los efectos del cambio climático no se limitan al aumento del nivel del mar y los fenómenos meteorológicos extremos, sino que se extienden hasta la seguridad alimentaria y el colapso de los ecosistemas. La comunidad internacional ha impulsado diversas iniciativas comenzando por el Acuerdo de París, pero debido a los conflictos de intereses entre países, es difícil decir que se han logrado resultados suficientes. Lo que debe cuestionarse aquí es el desafío ético de la equidad intergeneracional. La estructura en la que las generaciones futuras cargan con la deuda ambiental producida por las actividades económicas de la generación actual es algo que no puede ignorarse desde la perspectiva de la justicia. La realización de una sociedad sostenible tiende a depender solo de la innovación tecnológica, pero no puede lograrse sin la transformación del comportamiento de consumo y una revisión fundamental de los sistemas sociales. Nunca como ahora se nos ha exigido tener conciencia como custodios de las generaciones futuras y adoptar una perspectiva a largo plazo que trascienda los beneficios a corto plazo.",
+    "vocabulary": [
+      "存亡の危機 - crisis existencial",
+      "海面上昇 - aumento del nivel del mar",
+      "食糧安全保障 - seguridad alimentaria",
+      "生態系 - ecosistema",
+      "パリ協定 - Acuerdo de París",
+      "利害対立 - conflicto de intereses",
+      "世代間 - intergeneracional",
+      "負債 - deuda",
+      "受託者 - custodio/fideicomisario",
+      "視座 - perspectiva/punto de vista"
+    ],
+    "questions": [
+      {
+        "question": "気候変動の影響として挙げられていないものはどれか。",
+        "options": ["海面上昇", "異常気象", "人口減少", "食糧安全保障の問題"],
+        "correctIndex": 2,
+        "explanation": "テキストでは人口減少は気候変動の影響として言及されていません。"
+      },
+      {
+        "question": "筆者が問うべきだとする倫理的課題は何か。",
+        "options": ["国際協力の方法", "世代間の公平性", "技術革新の速度", "経済成長の必要性"],
+        "correctIndex": 1,
+        "explanation": "テキストに「世代間の公平性という倫理的課題である」とあります。"
+      },
+      {
+        "question": "持続可能な社会の実現について筆者が指摘している問題点は何か。",
+        "options": ["資金が不足していること", "技術革新のみに頼るきらいがあること", "国際協力が不要だということ", "環境問題は解決不可能だということ"],
+        "correctIndex": 1,
+        "explanation": "テキストに「技術革新のみに頼るきらいがあるが」と指摘されています。"
+      },
+      {
+        "question": "筆者が最終的に主張していることは何か。",
+        "options": ["経済成長を最優先すべきだ", "技術革新だけで問題を解決できる", "将来世代の受託者として長期的視座に立つべきだ", "環境問題は各国が個別に対処すべきだ"],
+        "correctIndex": 2,
+        "explanation": "テキストに「将来世代に対する受託者としての自覚を持ち、短期的利益を超えた長期的視座に立つこと」が求められていると述べています。"
+      },
+      {
+        "question": "持続可能な社会の達成に不可欠なものとして述べられていることは何か。",
+        "options": ["軍事力の強化", "消費行動の変革と社会制度の見直し", "国際貿易の拡大", "人口の増加"],
+        "correctIndex": 1,
+        "explanation": "テキストに「消費行動の変革や社会制度の根本的な見直しなくしては達成しえない」とあります。"
+      }
+    ]
+  },
+  {
+    "id": "n1-reading-media",
+    "title": "メディアリテラシーと情報の真偽",
+    "level": "n1",
+    "text": "情報技術の急速な発展と相まって、我々が日常的に接する情報の量は飛躍的に増大した。しかし、情報の量的拡大が質の向上を伴うとは限らない。フェイクニュースやディープフェイクといった虚偽情報の拡散は、民主主義の根幹を脅かしかねない深刻な問題である。SNS上では、アルゴリズムによるフィルターバブルが形成され、利用者は自らの既存の信念を強化する情報にばかり接触するきらいがある。こうした状況下にあって、メディアリテラシーの涵養は教育における喫緊の課題と言わざるを得ない。情報の出所を確認し、複数の情報源を比較検討する習慣なくしては、偽情報に翻弄されることを免れない。報道の自由はおろか、情報を批判的に評価する市民の能力こそが、健全な言論空間を支える礎石であることを、我々は改めて認識すべきであろう。",
+    "reading": "じょうほうぎじゅつのきゅうそくなはってんとあいまって、われわれがにちじょうてきにせっするじょうほうのりょうはひやくてきにぞうだいした。しかし、じょうほうのりょうてきかくだいがしつのこうじょうをともなうとはかぎらない。フェイクニュースやディープフェイクといったきょぎじょうほうのかくさんは、みんしゅしゅぎのこんかんをおびやかしかねないしんこくなもんだいである。エスエヌエスじょうでは、アルゴリズムによるフィルターバブルがけいせいされ、りようしゃはみずからのきそんのしんねんをきょうかするじょうほうにばかりせっしょくするきらいがある。こうしたじょうきょうかにあって、メディアリテラシーのかんようはきょういくにおけるきっきんのかだいといわざるをえない。じょうほうのでどころをかくにんし、ふくすうのじょうほうげんをひかくけんとうするしゅうかんなくしては、にせじょうほうにほんろうされることをまぬがれない。ほうどうのじゆうはおろか、じょうほうをひはんてきにひょうかするしみんののうりょくこそが、けんぜんなげんろんくうかんをささえるそせきであることを、われわれはあらためてにんしきすべきであろう。",
+    "translation": "Combinado con el rápido desarrollo de la tecnología de la información, la cantidad de información con la que interactuamos diariamente ha aumentado exponencialmente. Sin embargo, la expansión cuantitativa de la información no necesariamente viene acompañada de una mejora en su calidad. La difusión de información falsa como las noticias falsas y los deepfakes es un problema grave que puede amenazar los cimientos de la democracia. En las redes sociales, las burbujas de filtro creadas por algoritmos hacen que los usuarios tiendan a exponerse únicamente a información que refuerza sus creencias preexistentes. En estas circunstancias, el fomento de la alfabetización mediática es una tarea urgente en la educación. Sin el hábito de verificar la fuente de la información y comparar múltiples fuentes, no se puede evitar ser manipulado por la desinformación. No solo la libertad de prensa, sino la capacidad de los ciudadanos de evaluar críticamente la información es la piedra angular que sostiene un espacio de discurso saludable, algo que debemos reconocer nuevamente.",
+    "vocabulary": [
+      "飛躍的 - exponencial/vertiginoso",
+      "虚偽情報 - información falsa/desinformación",
+      "拡散 - difusión/propagación",
+      "フィルターバブル - burbuja de filtro",
+      "涵養 - fomento/cultivo",
+      "喫緊 - urgente/apremiante",
+      "翻弄 - ser manipulado/zarandeado",
+      "免れない - no poder evitar",
+      "礎石 - piedra angular",
+      "言論空間 - espacio de discurso"
+    ],
+    "questions": [
+      {
+        "question": "フィルターバブルとはどのような問題か。",
+        "options": ["情報が少なすぎること", "利用者が既存の信念を強化する情報にばかり接触すること", "インターネットの速度が遅いこと", "情報のコストが高いこと"],
+        "correctIndex": 1,
+        "explanation": "テキストに「利用者は自らの既存の信念を強化する情報にばかり接触するきらいがある」とあります。"
+      },
+      {
+        "question": "偽情報に翻弄されないために必要なこととして挙げられているのは何か。",
+        "options": ["SNSを使わないこと", "政府の検閲を受けること", "情報の出所を確認し複数の情報源を比較検討する習慣", "新聞だけを読むこと"],
+        "correctIndex": 2,
+        "explanation": "テキストに「情報の出所を確認し、複数の情報源を比較検討する習慣なくしては」とあります。"
+      },
+      {
+        "question": "筆者が健全な言論空間の礎石としているものは何か。",
+        "options": ["報道の自由のみ", "政府の規制", "情報を批判的に評価する市民の能力", "テクノロジー企業の自主規制"],
+        "correctIndex": 2,
+        "explanation": "テキストに「情報を批判的に評価する市民の能力こそが、健全な言論空間を支える礎石である」とあります。"
+      }
+    ]
+  }
+]

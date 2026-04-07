@@ -1,0 +1,81 @@
+{
+  "id": "hiragana-02",
+  "title": "Hiragana: か行 (ka, ki, ku, ke, ko)",
+  "description": "Aprendé los cinco caracteres de la fila か: ka, ki, ku, ke, ko. Estas consonantes con 'k' son las primeras después de las vocales.",
+  "level": "n5",
+  "category": "characters",
+  "items": [
+    {
+      "front": "か",
+      "back": "ka",
+      "reading": "ka",
+      "explanation": "か se pronuncia 'ka'. Es una de las sílabas más frecuentes en japonés, presente en palabras como かわ (kawa, río) y かみ (kami, papel/dios).",
+      "mnemonic": "か looks like a blade cutting — \"KA-t!\"",
+      "cardRef": { "category": "characters", "front": "か" }
+    },
+    {
+      "front": "き",
+      "back": "ki",
+      "reading": "ki",
+      "explanation": "き se pronuncia 'ki'. Aparece en palabras como きく (kiku, escuchar) y きもの (kimono).",
+      "mnemonic": "き looks like a key — \"KEY\"",
+      "cardRef": { "category": "characters", "front": "き" }
+    },
+    {
+      "front": "く",
+      "back": "ku",
+      "reading": "ku",
+      "explanation": "く se pronuncia 'ku'. Es el hiragana con menos trazos (solo 1). Aparece en くるま (kuruma, auto) y くち (kuchi, boca).",
+      "mnemonic": "く looks like a beak cuckoo — \"KU-ckoo\"",
+      "cardRef": { "category": "characters", "front": "く" }
+    },
+    {
+      "front": "け",
+      "back": "ke",
+      "reading": "ke",
+      "explanation": "け se pronuncia 'ke'. Aparece en けんか (kenka, pelea) y けさ (kesa, esta mañana).",
+      "mnemonic": "け looks like a keg on its side — \"KEg\"",
+      "cardRef": { "category": "characters", "front": "け" }
+    },
+    {
+      "front": "こ",
+      "back": "ko",
+      "reading": "ko",
+      "explanation": "こ se pronuncia 'ko'. Aparece en こども (kodomo, niño) y ここ (koko, aquí).",
+      "mnemonic": "こ looks like two corners — \"KOrner\"",
+      "cardRef": { "category": "characters", "front": "こ" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Conocé la fila か",
+      "instruction": "Estos son los cinco caracteres de la fila か (k-). Observá cada uno junto con su lectura y mnemotécnico.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es cuál?",
+      "instruction": "Elegí la lectura correcta para cada carácter.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "recall",
+      "title": "Ahora al revés",
+      "instruction": "Ves la lectura en romaji. Escribí o elegí el hiragana correcto.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "write",
+      "title": "Escribilo vos",
+      "instruction": "Escribí el hiragana que corresponde a cada sonido.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste か, き, く, け, こ. Ahora van a aparecer en tus repasos diarios.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    }
+  ]
+}

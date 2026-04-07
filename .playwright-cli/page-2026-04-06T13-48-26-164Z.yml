@@ -1,0 +1,218 @@
+- generic [ref=e3]:
+  - complementary [ref=e4]:
+    - generic [ref=e6]:
+      - img [ref=e7]
+      - generic [ref=e11]: LinguaForge
+    - link "🇯🇵 Japonés 日本語" [ref=e12] [cursor=pointer]:
+      - /url: /pack-selector
+      - generic [ref=e13]: 🇯🇵
+      - generic [ref=e14]:
+        - generic [ref=e15]: Japonés
+        - generic [ref=e16]: 日本語
+    - navigation [ref=e17]:
+      - link "Panel" [ref=e18] [cursor=pointer]:
+        - /url: /
+        - img [ref=e19]
+        - generic [ref=e24]: Panel
+      - link "Estudiar" [ref=e25] [cursor=pointer]:
+        - /url: /study
+        - img [ref=e26]
+        - generic [ref=e29]: Estudiar
+      - link "Aprender" [ref=e30] [cursor=pointer]:
+        - /url: /learn
+        - img [ref=e31]
+        - generic [ref=e33]: Aprender
+      - link "Explorar" [ref=e34] [cursor=pointer]:
+        - /url: /browse
+        - img [ref=e35]
+        - generic [ref=e37]: Explorar
+      - link "Lectura" [ref=e38] [cursor=pointer]:
+        - /url: /reading
+        - img [ref=e39]
+        - generic [ref=e41]: Lectura
+      - link "Escucha" [ref=e42] [cursor=pointer]:
+        - /url: /listening
+        - img [ref=e43]
+        - generic [ref=e45]: Escucha
+      - link "Hablar" [ref=e46] [cursor=pointer]:
+        - /url: /speaking
+        - img [ref=e47]
+        - generic [ref=e50]: Hablar
+      - link "Escritura" [ref=e51] [cursor=pointer]:
+        - /url: /writing
+        - img [ref=e52]
+        - generic [ref=e57]: Escritura
+      - link "Ruta" [ref=e58] [cursor=pointer]:
+        - /url: /roadmap
+        - img [ref=e59]
+        - generic [ref=e61]: Ruta
+    - link "Ajustes" [ref=e63] [cursor=pointer]:
+      - /url: /settings
+      - img [ref=e64]
+      - generic [ref=e67]: Ajustes
+  - generic [ref=e68]:
+    - banner [ref=e69]:
+      - 'button "Theme: dark" [ref=e70]':
+        - img [ref=e71]
+    - main [ref=e73]:
+      - generic [ref=e74]:
+        - heading "Aprender" [level=1] [ref=e75]
+        - generic [ref=e76]:
+          - button "Vocabulario" [ref=e77]
+          - button "Caracteres" [ref=e78]
+          - button "Gramática" [active] [ref=e79]
+        - generic [ref=e80]:
+          - button "です ([名詞] + です) ser / estar (formal)" [ref=e626]:
+            - generic [ref=e627]:
+              - generic [ref=e628]: です ([名詞] + です)
+              - generic [ref=e629]: ser / estar (formal)
+            - img [ref=e631]
+          - button "だ ([名詞] + だ) ser / estar (informal)" [ref=e634]:
+            - generic [ref=e635]:
+              - generic [ref=e636]: だ ([名詞] + だ)
+              - generic [ref=e637]: ser / estar (informal)
+            - img [ref=e639]
+          - button "じゃありません / ではありません ([名詞] + じゃありません / ではありません) no es / no estar (negación formal)" [ref=e642]:
+            - generic [ref=e643]:
+              - generic [ref=e644]: じゃありません / ではありません ([名詞] + じゃありません / ではありません)
+              - generic [ref=e645]: no es / no estar (negación formal)
+            - img [ref=e647]
+          - button "は（partícula） ([tema] + は + [comentario]) partícula de tema (en cuanto a...)" [ref=e650]:
+            - generic [ref=e651]:
+              - generic [ref=e652]: は（partícula） ([tema] + は + [comentario])
+              - generic [ref=e653]: partícula de tema (en cuanto a...)
+            - img [ref=e655]
+          - button "が（partícula） ([sujeto] + が + [predicado]) partícula de sujeto" [ref=e658]:
+            - generic [ref=e659]:
+              - generic [ref=e660]: が（partícula） ([sujeto] + が + [predicado])
+              - generic [ref=e661]: partícula de sujeto
+            - img [ref=e663]
+          - button "を（partícula） ([objeto directo] + を + [verbo]) partícula de objeto directo" [ref=e666]:
+            - generic [ref=e667]:
+              - generic [ref=e668]: を（partícula） ([objeto directo] + を + [verbo])
+              - generic [ref=e669]: partícula de objeto directo
+            - img [ref=e671]
+          - button "に（partícula） ([destino/tiempo/lugar] + に) partícula de destino, tiempo o ubicación" [ref=e674]:
+            - generic [ref=e675]:
+              - generic [ref=e676]: に（partícula） ([destino/tiempo/lugar] + に)
+              - generic [ref=e677]: partícula de destino, tiempo o ubicación
+            - img [ref=e679]
+          - button "で（partícula） ([lugar] + で + [acción] / [medio] + で) partícula de lugar de acción o medio" [ref=e682]:
+            - generic [ref=e683]:
+              - generic [ref=e684]: で（partícula） ([lugar] + で + [acción] / [medio] + で)
+              - generic [ref=e685]: partícula de lugar de acción o medio
+            - img [ref=e687]
+          - button "へ（partícula） ([dirección] + へ + [verbo de movimiento]) partícula de dirección (hacia)" [ref=e690]:
+            - generic [ref=e691]:
+              - generic [ref=e692]: へ（partícula） ([dirección] + へ + [verbo de movimiento])
+              - generic [ref=e693]: partícula de dirección (hacia)
+            - img [ref=e695]
+          - button "の（partícula） ([sustantivo A] + の + [sustantivo B]) partícula posesiva / de conexión entre sustantivos" [ref=e698]:
+            - generic [ref=e699]:
+              - generic [ref=e700]: の（partícula） ([sustantivo A] + の + [sustantivo B])
+              - generic [ref=e701]: partícula posesiva / de conexión entre sustantivos
+            - img [ref=e703]
+          - button "と（partícula） ([A] + と + [B] / [persona] + と + [verbo]) y (enumeración completa) / con (compañía)" [ref=e706]:
+            - generic [ref=e707]:
+              - generic [ref=e708]: と（partícula） ([A] + と + [B] / [persona] + と + [verbo])
+              - generic [ref=e709]: y (enumeración completa) / con (compañía)
+            - img [ref=e711]
+          - button "も（partícula） ([sustantivo] + も) también / tampoco" [ref=e714]:
+            - generic [ref=e715]:
+              - generic [ref=e716]: も（partícula） ([sustantivo] + も)
+              - generic [ref=e717]: también / tampoco
+            - img [ref=e719]
+          - button "か（partícula） ([oración] + か) partícula interrogativa" [ref=e722]:
+            - generic [ref=e723]:
+              - generic [ref=e724]: か（partícula） ([oración] + か)
+              - generic [ref=e725]: partícula interrogativa
+            - img [ref=e727]
+          - button "や（partícula） ([A] + や + [B] + （など）) y (enumeración parcial, entre otros)" [ref=e730]:
+            - generic [ref=e731]:
+              - generic [ref=e732]: や（partícula） ([A] + や + [B] + （など）)
+              - generic [ref=e733]: y (enumeración parcial, entre otros)
+            - img [ref=e735]
+          - button "から ([punto de inicio] + から) desde / porque" [ref=e738]:
+            - generic [ref=e739]:
+              - generic [ref=e740]: から ([punto de inicio] + から)
+              - generic [ref=e741]: desde / porque
+            - img [ref=e743]
+          - button "まで ([punto final] + まで) hasta" [ref=e746]:
+            - generic [ref=e747]:
+              - generic [ref=e748]: まで ([punto final] + まで)
+              - generic [ref=e749]: hasta
+            - img [ref=e751]
+          - button "ね（partícula） ([oración] + ね) partícula de confirmación (¿verdad?)" [ref=e754]:
+            - generic [ref=e755]:
+              - generic [ref=e756]: ね（partícula） ([oración] + ね)
+              - generic [ref=e757]: partícula de confirmación (¿verdad?)
+            - img [ref=e759]
+          - button "よ（partícula） ([oración] + よ) partícula de énfasis / información nueva" [ref=e762]:
+            - generic [ref=e763]:
+              - generic [ref=e764]: よ（partícula） ([oración] + よ)
+              - generic [ref=e765]: partícula de énfasis / información nueva
+            - img [ref=e767]
+          - button "ます形（forma ます） ([raíz verbal] + ます) forma verbal formal / educada" [ref=e770]:
+            - generic [ref=e771]:
+              - generic [ref=e772]: ます形（forma ます） ([raíz verbal] + ます)
+              - generic [ref=e773]: forma verbal formal / educada
+            - img [ref=e775]
+          - button "ません ([raíz verbal] + ません) forma verbal negativa formal" [ref=e778]:
+            - generic [ref=e779]:
+              - generic [ref=e780]: ません ([raíz verbal] + ません)
+              - generic [ref=e781]: forma verbal negativa formal
+            - img [ref=e783]
+          - button "ました ([raíz verbal] + ました) forma verbal pasada formal" [ref=e786]:
+            - generic [ref=e787]:
+              - generic [ref=e788]: ました ([raíz verbal] + ました)
+              - generic [ref=e789]: forma verbal pasada formal
+            - img [ref=e791]
+          - button "ませんでした ([raíz verbal] + ませんでした) forma verbal pasada negativa formal" [ref=e794]:
+            - generic [ref=e795]:
+              - generic [ref=e796]: ませんでした ([raíz verbal] + ませんでした)
+              - generic [ref=e797]: forma verbal pasada negativa formal
+            - img [ref=e799]
+          - button "て形（forma -te） ([verbo en forma -te]) forma conectiva del verbo" [ref=e802]:
+            - generic [ref=e803]:
+              - generic [ref=e804]: て形（forma -te） ([verbo en forma -te])
+              - generic [ref=e805]: forma conectiva del verbo
+            - img [ref=e807]
+          - button "ている ([verbo forma -te] + いる / います) estar haciendo / estado resultante" [ref=e810]:
+            - generic [ref=e811]:
+              - generic [ref=e812]: ている ([verbo forma -te] + いる / います)
+              - generic [ref=e813]: estar haciendo / estado resultante
+            - img [ref=e815]
+          - button "たい ([raíz verbal] + たい) querer hacer (algo)" [ref=e818]:
+            - generic [ref=e819]:
+              - generic [ref=e820]: たい ([raíz verbal] + たい)
+              - generic [ref=e821]: querer hacer (algo)
+            - img [ref=e823]
+          - button "ないで / なくて ([verbo negativo] + で / [verbo negativo] + くて) sin hacer / no hacer y..." [ref=e826]:
+            - generic [ref=e827]:
+              - generic [ref=e828]: ないで / なくて ([verbo negativo] + で / [verbo negativo] + くて)
+              - generic [ref=e829]: sin hacer / no hacer y...
+            - img [ref=e831]
+          - button "い形容詞の活用 (い-adj → negativo/pasado) conjugación de adjetivos -i" [ref=e834]:
+            - generic [ref=e835]:
+              - generic [ref=e836]: い形容詞の活用 (い-adj → negativo/pasado)
+              - generic [ref=e837]: conjugación de adjetivos -i
+            - img [ref=e839]
+          - 'button "な形容詞 + です/な (な-adj + です / な-adj + な + [sustantivo]) adjetivos na: uso predicativo y atributivo" [ref=e842]':
+            - generic [ref=e843]:
+              - generic [ref=e844]: な形容詞 + です/な (な-adj + です / な-adj + な + [sustantivo])
+              - generic [ref=e845]: "adjetivos na: uso predicativo y atributivo"
+            - img [ref=e847]
+          - button "ある ([lugar] + に + [cosa inanimada] + が + ある/あります) existir / haber (objetos inanimados)" [ref=e850]:
+            - generic [ref=e851]:
+              - generic [ref=e852]: ある ([lugar] + に + [cosa inanimada] + が + ある/あります)
+              - generic [ref=e853]: existir / haber (objetos inanimados)
+            - img [ref=e855]
+          - button "いる ([lugar] + に + [ser vivo] + が + いる/います) existir / haber (seres vivos)" [ref=e858]:
+            - generic [ref=e859]:
+              - generic [ref=e860]: いる ([lugar] + に + [ser vivo] + が + いる/います)
+              - generic [ref=e861]: existir / haber (seres vivos)
+            - img [ref=e863]
+        - generic [ref=e351]:
+          - button "Anterior" [disabled] [ref=e352]
+          - generic [ref=e353]: 1 / 5
+          - button "Siguiente" [ref=e354]

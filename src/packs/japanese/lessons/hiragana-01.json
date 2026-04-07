@@ -1,0 +1,81 @@
+{
+  "id": "hiragana-01",
+  "title": "Hiragana: あ行 (a, i, u, e, o)",
+  "description": "Las 5 vocales japonesas — la base de todo el hiragana",
+  "level": "n5",
+  "category": "characters",
+  "items": [
+    {
+      "front": "あ",
+      "back": "a",
+      "reading": "a",
+      "explanation": "La vocal 'a', como en 'casa'. Es la primera letra del hiragana.",
+      "mnemonic": "Parece una persona con los brazos extendidos diciendo '¡Ahhh!'",
+      "cardRef": { "category": "characters", "front": "あ" }
+    },
+    {
+      "front": "い",
+      "back": "i",
+      "reading": "i",
+      "explanation": "La vocal 'i', como en 'iglesia'. Dos trazos paralelos.",
+      "mnemonic": "Dos personas paradas una al lado de la otra — 'ii' (bueno en japonés)",
+      "cardRef": { "category": "characters", "front": "い" }
+    },
+    {
+      "front": "う",
+      "back": "u",
+      "reading": "u",
+      "explanation": "La vocal 'u', entre la 'u' española y una 'u' sin redondear los labios.",
+      "mnemonic": "Parece un anzuelo — 'Uuu, mordió el pez!'",
+      "cardRef": { "category": "characters", "front": "う" }
+    },
+    {
+      "front": "え",
+      "back": "e",
+      "reading": "e",
+      "explanation": "La vocal 'e', como en 'mesa'.",
+      "mnemonic": "Parece una persona haciendo ejercicio — 'Eh, a entrenar!'",
+      "cardRef": { "category": "characters", "front": "え" }
+    },
+    {
+      "front": "お",
+      "back": "o",
+      "reading": "o",
+      "explanation": "La vocal 'o', como en 'oso'.",
+      "mnemonic": "Un golfista viendo la pelota volar — '¡Oh!'",
+      "cardRef": { "category": "characters", "front": "お" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Conocé las 5 vocales",
+      "instruction": "Estas son las 5 vocales del japonés. Todas las sílabas japonesas terminan en una de estas vocales (excepto ん). Mirá cada una, escuchá cómo suena, y leé el truco para recordarla.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es cuál?",
+      "instruction": "Elegí la lectura correcta para cada carácter.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "recall",
+      "title": "Ahora al revés",
+      "instruction": "Ves la lectura en romaji. Escribí o elegí el hiragana correcto.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "write",
+      "title": "Escribilo vos",
+      "instruction": "Escribí el hiragana que corresponde a cada sonido.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste las 5 vocales del japonés. Ahora van a aparecer en tus repasos diarios.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    }
+  ]
+}

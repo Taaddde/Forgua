@@ -1,0 +1,281 @@
+[
+  {
+    "id": "n5-reading-my-day",
+    "title": "わたしのいちにち",
+    "level": "n5",
+    "text": "わたしは まいにち しちじに おきます。かおを あらって、あさごはんを たべます。あさごはんは いつも パンと たまごです。はちじに いえを でて、でんしゃで かいしゃに いきます。かいしゃで ごじまで はたらきます。しごとの あとで、スーパーで かいものを します。いえに かえって、ばんごはんを つくります。じゅういちじごろ ねます。",
+    "reading": "わたしは まいにち しちじに おきます。かおを あらって、あさごはんを たべます。あさごはんは いつも パンと たまごです。はちじに いえを でて、でんしゃで かいしゃに いきます。かいしゃで ごじまで はたらきます。しごとの あとで、スーパーで かいものを します。いえに かえって、ばんごはんを つくります。じゅういちじごろ ねます。",
+    "translation": "Me levanto todos los días a las siete. Me lavo la cara y desayuno. El desayuno siempre es pan y huevo. A las ocho salgo de casa y voy a la empresa en tren. Trabajo en la empresa hasta las cinco. Después del trabajo, hago las compras en el supermercado. Vuelvo a casa y preparo la cena. Me acuesto alrededor de las once.",
+    "vocabulary": [
+      "まいにち - todos los días",
+      "しちじ - las siete",
+      "おきます - levantarse",
+      "かお - cara",
+      "あらう - lavar",
+      "あさごはん - desayuno",
+      "いつも - siempre",
+      "たまご - huevo",
+      "いえ - casa",
+      "でる - salir",
+      "でんしゃ - tren",
+      "かいしゃ - empresa",
+      "はたらく - trabajar",
+      "しごと - trabajo",
+      "あとで - después",
+      "かいもの - compras",
+      "かえる - volver",
+      "ばんごはん - cena",
+      "つくる - preparar/hacer",
+      "ねる - acostarse/dormir"
+    ],
+    "questions": [
+      {
+        "question": "この ひとは なんじに おきますか。",
+        "options": ["ろくじに おきます。", "しちじに おきます。", "はちじに おきます。", "くじに おきます。"],
+        "correctIndex": 1,
+        "explanation": "テキストに「しちじに おきます」とあります。(En el texto dice 'se levanta a las siete'.)"
+      },
+      {
+        "question": "かいしゃに なにで いきますか。",
+        "options": ["バスで いきます。", "くるまで いきます。", "でんしゃで いきます。", "あるいて いきます。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「でんしゃで かいしゃに いきます」とあります。(En el texto dice 'va a la empresa en tren'.)"
+      },
+      {
+        "question": "しごとの あとで なにを しますか。",
+        "options": ["えいがを みます。", "ともだちに あいます。", "スーパーで かいものを します。", "こうえんを さんぽします。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「スーパーで かいものを します」とあります。(En el texto dice 'hace compras en el supermercado'.)"
+      }
+    ]
+  },
+  {
+    "id": "n5-reading-my-family",
+    "title": "わたしのかぞく",
+    "level": "n5",
+    "text": "わたしの かぞくは ごにんです。ちちと ははと あにと いもうとと わたしです。ちちは ごじゅっさいで、かいしゃいんです。ははは よんじゅうはっさいで、びょういんで はたらいています。あには にじゅうごさいの だいがくいんせいです。いもうとは じゅうろくさいの こうこうせいです。わたしたちは とうきょうに すんでいます。しゅうまつは よく いっしょに しょくじを します。",
+    "reading": "わたしの かぞくは ごにんです。ちちと ははと あにと いもうとと わたしです。ちちは ごじゅっさいで、かいしゃいんです。ははは よんじゅうはっさいで、びょういんで はたらいています。あには にじゅうごさいの だいがくいんせいです。いもうとは じゅうろくさいの こうこうせいです。わたしたちは とうきょうに すんでいます。しゅうまつは よく いっしょに しょくじを します。",
+    "translation": "Mi familia tiene cinco personas. Somos mi padre, mi madre, mi hermano mayor, mi hermana menor y yo. Mi padre tiene cincuenta años y es empleado de empresa. Mi madre tiene cuarenta y ocho años y trabaja en un hospital. Mi hermano mayor tiene veinticinco años y es estudiante de posgrado. Mi hermana menor tiene dieciséis años y es estudiante de preparatoria. Vivimos en Tokio. Los fines de semana, frecuentemente comemos juntos.",
+    "vocabulary": [
+      "かぞく - familia",
+      "ごにん - cinco personas",
+      "ちち - mi padre",
+      "はは - mi madre",
+      "あに - mi hermano mayor",
+      "いもうと - mi hermana menor",
+      "かいしゃいん - empleado de empresa",
+      "びょういん - hospital",
+      "はたらく - trabajar",
+      "だいがくいんせい - estudiante de posgrado",
+      "こうこうせい - estudiante de preparatoria",
+      "すんでいる - vivir (estar viviendo)",
+      "しゅうまつ - fin de semana",
+      "よく - frecuentemente",
+      "いっしょに - juntos",
+      "しょくじ - comida/meal"
+    ],
+    "questions": [
+      {
+        "question": "かぞくは なんにんですか。",
+        "options": ["さんにんです。", "よにんです。", "ごにんです。", "ろくにんです。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「かぞくは ごにんです」とあります。(En el texto dice 'la familia tiene cinco personas'.)"
+      },
+      {
+        "question": "おかあさんは どこで はたらいていますか。",
+        "options": ["がっこうで はたらいています。", "びょういんで はたらいています。", "かいしゃで はたらいています。", "レストランで はたらいています。"],
+        "correctIndex": 1,
+        "explanation": "テキストに「びょういんで はたらいています」とあります。(En el texto dice 'trabaja en un hospital'.)"
+      },
+      {
+        "question": "どこに すんでいますか。",
+        "options": ["おおさかに すんでいます。", "きょうとに すんでいます。", "よこはまに すんでいます。", "とうきょうに すんでいます。"],
+        "correctIndex": 3,
+        "explanation": "テキストに「とうきょうに すんでいます」とあります。(En el texto dice 'viven en Tokio'.)"
+      }
+    ]
+  },
+  {
+    "id": "n5-reading-school",
+    "title": "がっこう",
+    "level": "n5",
+    "text": "わたしは だいがくせいです。まいにち くじから さんじまで じゅぎょうが あります。にほんごと すうがくと れきしを べんきょうしています。にほんごの じゅぎょうが いちばん すきです。ひるやすみに しょくどうで ともだちと ひるごはんを たべます。ごごは としょかんで しゅくだいを します。ときどき ともだちと いっしょに べんきょうします。",
+    "reading": "わたしは だいがくせいです。まいにち くじから さんじまで じゅぎょうが あります。にほんごと すうがくと れきしを べんきょうしています。にほんごの じゅぎょうが いちばん すきです。ひるやすみに しょくどうで ともだちと ひるごはんを たべます。ごごは としょかんで しゅくだいを します。ときどき ともだちと いっしょに べんきょうします。",
+    "translation": "Soy estudiante universitario. Todos los días tengo clases de las nueve a las tres. Estudio japonés, matemáticas e historia. La clase de japonés es la que más me gusta. En el descanso del mediodía, almuerzo con amigos en la cafetería. Por la tarde, hago la tarea en la biblioteca. A veces estudio junto con amigos.",
+    "vocabulary": [
+      "だいがくせい - estudiante universitario",
+      "じゅぎょう - clase",
+      "すうがく - matemáticas",
+      "れきし - historia",
+      "べんきょうする - estudiar",
+      "いちばん - el más / el mejor",
+      "すき - gustar",
+      "ひるやすみ - descanso del mediodía",
+      "しょくどう - cafetería/comedor",
+      "ともだち - amigo",
+      "ひるごはん - almuerzo",
+      "ごご - tarde",
+      "としょかん - biblioteca",
+      "しゅくだい - tarea",
+      "ときどき - a veces"
+    ],
+    "questions": [
+      {
+        "question": "じゅぎょうは なんじから なんじまでですか。",
+        "options": ["はちじから にじまでです。", "くじから さんじまでです。", "じゅうじから よじまでです。", "くじから ごじまでです。"],
+        "correctIndex": 1,
+        "explanation": "テキストに「くじから さんじまで じゅぎょうが あります」とあります。(En el texto dice 'tiene clases de las 9 a las 3'.)"
+      },
+      {
+        "question": "どの じゅぎょうが いちばん すきですか。",
+        "options": ["すうがくが いちばん すきです。", "れきしが いちばん すきです。", "にほんごが いちばん すきです。", "えいごが いちばん すきです。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「にほんごの じゅぎょうが いちばん すきです」とあります。(En el texto dice 'la clase de japonés es la que más le gusta'.)"
+      },
+      {
+        "question": "ごご どこで しゅくだいを しますか。",
+        "options": ["しょくどうで します。", "いえで します。", "きょうしつで します。", "としょかんで します。"],
+        "correctIndex": 3,
+        "explanation": "テキストに「としょかんで しゅくだいを します」とあります。(En el texto dice 'hace la tarea en la biblioteca'.)"
+      }
+    ]
+  },
+  {
+    "id": "n5-reading-shopping",
+    "title": "かいもの",
+    "level": "n5",
+    "text": "きょう、デパートに かいものに いきました。あたらしい ふくが ほしかったです。まず、にかいで シャツを みました。あおい シャツが きれいでしたが、すこし たかかったです。さんぜんえんでした。つぎに、さんがいで くつを みました。くろい くつを かいました。にせんごひゃくえんでした。さいごに、いっかいで ともだちの たんじょうびプレゼントを かいました。たのしい かいものでした。",
+    "reading": "きょう、デパートに かいものに いきました。あたらしい ふくが ほしかったです。まず、にかいで シャツを みました。あおい シャツが きれいでしたが、すこし たかかったです。さんぜんえんでした。つぎに、さんがいで くつを みました。くろい くつを かいました。にせんごひゃくえんでした。さいごに、いっかいで ともだちの たんじょうびプレゼントを かいました。たのしい かいものでした。",
+    "translation": "Hoy fui de compras al centro comercial. Quería ropa nueva. Primero, miré camisas en el segundo piso. La camisa azul era bonita, pero era un poco cara. Costaba tres mil yenes. Después, miré zapatos en el tercer piso. Compré zapatos negros. Costaban dos mil quinientos yenes. Por último, en el primer piso compré un regalo de cumpleaños para un amigo. Fueron unas compras divertidas.",
+    "vocabulary": [
+      "デパート - centro comercial",
+      "かいもの - compras",
+      "あたらしい - nuevo",
+      "ふく - ropa",
+      "ほしい - querer/desear",
+      "にかい - segundo piso",
+      "シャツ - camisa",
+      "あおい - azul",
+      "きれい - bonito",
+      "すこし - un poco",
+      "たかい - caro",
+      "さんぜんえん - 3000 yenes",
+      "くつ - zapatos",
+      "くろい - negro",
+      "にせんごひゃくえん - 2500 yenes",
+      "プレゼント - regalo",
+      "たのしい - divertido"
+    ],
+    "questions": [
+      {
+        "question": "あおい シャツは いくらでしたか。",
+        "options": ["にせんえんでした。", "にせんごひゃくえんでした。", "さんぜんえんでした。", "よんせんえんでした。"],
+        "correctIndex": 2,
+        "explanation": "テキストに あおいシャツは「さんぜんえんでした」とあります。(En el texto dice que la camisa azul 'costaba 3000 yenes'.)"
+      },
+      {
+        "question": "なにを かいましたか。",
+        "options": ["シャツと くつを かいました。", "くろい くつと プレゼントを かいました。", "あおい シャツを かいました。", "ふくだけ かいました。"],
+        "correctIndex": 1,
+        "explanation": "テキストによると、くろいくつと ともだちのプレゼントを かいました。シャツは たかくて かいませんでした。(Compró zapatos negros y un regalo. No compró la camisa porque era cara.)"
+      },
+      {
+        "question": "プレゼントは だれに あげますか。",
+        "options": ["おかあさんに あげます。", "せんせいに あげます。", "ともだちに あげます。", "いもうとに あげます。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「ともだちの たんじょうびプレゼント」とあります。(En el texto dice 'regalo de cumpleaños para un amigo'.)"
+      }
+    ]
+  },
+  {
+    "id": "n5-reading-restaurant",
+    "title": "レストランで",
+    "level": "n5",
+    "text": "きのう、ともだちと にほんの レストランに いきました。わたしは てんぷらと ごはんを ちゅうもんしました。ともだちは ラーメンを ちゅうもんしました。てんぷらは とても おいしかったです。ともだちの ラーメンも おいしそうでした。のみものは おちゃを のみました。しょくじの あとで、デザートも たべました。ケーキが とても あまくて、おいしかったです。ぜんぶで にせんはっぴゃくえんでした。",
+    "reading": "きのう、ともだちと にほんの レストランに いきました。わたしは てんぷらと ごはんを ちゅうもんしました。ともだちは ラーメンを ちゅうもんしました。てんぷらは とても おいしかったです。ともだちの ラーメンも おいしそうでした。のみものは おちゃを のみました。しょくじの あとで、デザートも たべました。ケーキが とても あまくて、おいしかったです。ぜんぶで にせんはっぴゃくえんでした。",
+    "translation": "Ayer fui a un restaurante japonés con un amigo. Yo pedí tempura y arroz. Mi amigo pidió ramen. La tempura estaba muy deliciosa. El ramen de mi amigo también se veía delicioso. De bebida, tomé té. Después de la comida, también comimos postre. El pastel estaba muy dulce y delicioso. En total fueron dos mil ochocientos yenes.",
+    "vocabulary": [
+      "レストラン - restaurante",
+      "てんぷら - tempura",
+      "ごはん - arroz/comida",
+      "ちゅうもんする - pedir/ordenar",
+      "ラーメン - ramen",
+      "おいしい - delicioso",
+      "おいしそう - que se ve delicioso",
+      "のみもの - bebida",
+      "おちゃ - té",
+      "しょくじ - comida/meal",
+      "デザート - postre",
+      "ケーキ - pastel",
+      "あまい - dulce",
+      "ぜんぶで - en total",
+      "にせんはっぴゃくえん - 2800 yenes"
+    ],
+    "questions": [
+      {
+        "question": "わたしは なにを ちゅうもんしましたか。",
+        "options": ["ラーメンを ちゅうもんしました。", "てんぷらと ごはんを ちゅうもんしました。", "すしを ちゅうもんしました。", "カレーを ちゅうもんしました。"],
+        "correctIndex": 1,
+        "explanation": "テキストに「てんぷらと ごはんを ちゅうもんしました」とあります。(En el texto dice 'pedí tempura y arroz'.)"
+      },
+      {
+        "question": "なにを のみましたか。",
+        "options": ["みずを のみました。", "コーヒーを のみました。", "おちゃを のみました。", "ジュースを のみました。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「おちゃを のみました」とあります。(En el texto dice 'tomé té'.)"
+      },
+      {
+        "question": "ぜんぶで いくらでしたか。",
+        "options": ["せんえんでした。", "にせんえんでした。", "にせんごひゃくえんでした。", "にせんはっぴゃくえんでした。"],
+        "correctIndex": 3,
+        "explanation": "テキストに「ぜんぶで にせんはっぴゃくえんでした」とあります。(En el texto dice 'en total fueron 2800 yenes'.)"
+      }
+    ]
+  },
+  {
+    "id": "n5-reading-weekend",
+    "title": "しゅうまつ",
+    "level": "n5",
+    "text": "せんしゅうの しゅうまつは とても たのしかったです。どようびの あさ、こうえんで ジョギングを しました。それから、うちに かえって シャワーを あびました。ごごは ともだちと カフェで あいました。いっしょに コーヒーを のみながら、たくさん はなしました。にちようびは いえで ゆっくり しました。あさ おそく おきて、えいがを みました。よるは すこし にほんごを べんきょうして、はやく ねました。いい しゅうまつでした。",
+    "reading": "せんしゅうの しゅうまつは とても たのしかったです。どようびの あさ、こうえんで ジョギングを しました。それから、うちに かえって シャワーを あびました。ごごは ともだちと カフェで あいました。いっしょに コーヒーを のみながら、たくさん はなしました。にちようびは いえで ゆっくり しました。あさ おそく おきて、えいがを みました。よるは すこし にほんごを べんきょうして、はやく ねました。いい しゅうまつでした。",
+    "translation": "El fin de semana pasado fue muy divertido. El sábado por la mañana hice jogging en el parque. Después, volví a casa y me duché. Por la tarde me encontré con un amigo en un café. Hablamos mucho mientras tomábamos café juntos. El domingo descansé tranquilamente en casa. Me levanté tarde y vi una película. Por la noche estudié un poco de japonés y me acosté temprano. Fue un buen fin de semana.",
+    "vocabulary": [
+      "せんしゅう - la semana pasada",
+      "しゅうまつ - fin de semana",
+      "たのしい - divertido",
+      "どようび - sábado",
+      "こうえん - parque",
+      "ジョギング - jogging",
+      "シャワーをあびる - ducharse",
+      "カフェ - café (lugar)",
+      "あう - encontrarse",
+      "たくさん - mucho",
+      "はなす - hablar",
+      "にちようび - domingo",
+      "ゆっくり - tranquilamente",
+      "おそく - tarde",
+      "よる - noche",
+      "はやく - temprano"
+    ],
+    "questions": [
+      {
+        "question": "どようびの あさ なにを しましたか。",
+        "options": ["えいがを みました。", "べんきょうしました。", "こうえんで ジョギングを しました。", "カフェに いきました。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「どようびの あさ、こうえんで ジョギングを しました」とあります。(En el texto dice 'el sábado por la mañana hizo jogging en el parque'.)"
+      },
+      {
+        "question": "にちようびに なにを しましたか。",
+        "options": ["ともだちと あいました。", "いえで ゆっくり しました。", "かいものに いきました。", "ジョギングを しました。"],
+        "correctIndex": 1,
+        "explanation": "テキストに「にちようびは いえで ゆっくり しました」とあります。(En el texto dice 'el domingo descansó tranquilamente en casa'.)"
+      },
+      {
+        "question": "にちようびの よる なにを しましたか。",
+        "options": ["えいがを みました。", "ともだちと はなしました。", "にほんごを べんきょうしました。", "ジョギングを しました。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「よるは すこし にほんごを べんきょうして」とあります。(En el texto dice 'por la noche estudió un poco de japonés'.)"
+      }
+    ]
+  }
+]

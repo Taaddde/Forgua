@@ -1,0 +1,62 @@
+{
+  "id": "grammar-n5-01",
+  "title": "Gramática N5: X は Y です",
+  "description": "Aprendé la estructura más básica del japonés: X は Y です (X wa Y desu = X es Y). Con esta fórmula podés hacer oraciones simples como 'Yo soy estudiante'.",
+  "level": "n5",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "は",
+      "back": "partícula de tema (wa)",
+      "reading": "wa",
+      "explanation": "は es la partícula de tema. Se escribe は (ha) pero se pronuncia 'wa' cuando funciona como partícula. Marca el tema de la oración: lo que estás describiendo o de lo que hablás.",
+      "cardRef": { "category": "grammar", "front": "は" }
+    },
+    {
+      "front": "です",
+      "back": "es / ser (cópula formal)",
+      "reading": "desu",
+      "explanation": "です (desu) es la cópula formal — equivale a 'es' o 'soy'. Va al final de la oración. Es la forma educada; la forma informal es だ (da).",
+      "cardRef": { "category": "grammar", "front": "です" }
+    },
+    {
+      "front": "私は学生です",
+      "back": "Yo soy estudiante",
+      "reading": "watashi wa gakusei desu",
+      "explanation": "私は学生です (watashi wa gakusei desu) = 'Yo soy estudiante'. 私 (watashi) = yo, は (wa) = partícula de tema, 学生 (gakusei) = estudiante, です (desu) = soy/es. Esta es la estructura base: [tema] は [predicado] です.",
+      "cardRef": { "category": "grammar", "front": "私は学生です" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Las piezas: は y です",
+      "instruction": "Antes de armar oraciones, conocé las dos piezas clave. は (wa) marca el tema y です (desu) significa 'es/soy'. Juntas forman la estructura X は Y です.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Tu primera oración",
+      "instruction": "Ahora combinamos todo: 私は学生です (watashi wa gakusei desu) = 'Yo soy estudiante'. Observá cómo el tema (私) va primero, después は, después lo que es (学生) y finalmente です.",
+      "itemIndices": [2]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa cada parte?",
+      "instruction": "Elegí el significado correcto para cada elemento gramatical.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "recall",
+      "title": "Armá la oración",
+      "instruction": "Ves el significado en español. Recordá la estructura japonesa correspondiente.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste la estructura X は Y です. Con esta fórmula podés decir quién sos, qué es algo y describir cosas. Ahora van a aparecer en tus repasos diarios.",
+      "itemIndices": [0, 1, 2]
+    }
+  ]
+}

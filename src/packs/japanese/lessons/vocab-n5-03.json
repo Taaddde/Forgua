@@ -1,0 +1,97 @@
+{
+  "id": "vocab-n5-03",
+  "title": "Vocabulario N5: Personas y familia",
+  "description": "Aprendé las palabras básicas para referirte a personas y miembros de la familia. Son esenciales para presentarte y hablar de tu entorno.",
+  "level": "n5",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "わたし",
+      "back": "yo",
+      "reading": "watashi",
+      "explanation": "わたし (watashi) significa 'yo'. Es la forma estándar y educada de referirse a uno mismo. Funciona para cualquier género.",
+      "cardRef": { "category": "vocabulary", "front": "わたし" }
+    },
+    {
+      "front": "あなた",
+      "back": "tú",
+      "reading": "anata",
+      "explanation": "あなた (anata) significa 'tú/usted'. En japonés se evita usar あなた directamente; es más común usar el nombre de la persona + さん.",
+      "cardRef": { "category": "vocabulary", "front": "あなた" }
+    },
+    {
+      "front": "せんせい",
+      "back": "profesor",
+      "reading": "sensei",
+      "explanation": "せんせい (sensei) significa 'profesor' o 'maestro'. También se usa para doctores y expertos. Se escribe 先生 en kanji.",
+      "cardRef": { "category": "vocabulary", "front": "せんせい" }
+    },
+    {
+      "front": "がくせい",
+      "back": "estudiante",
+      "reading": "gakusei",
+      "explanation": "がくせい (gakusei) significa 'estudiante'. Se escribe 学生 en kanji. がく (gaku) = estudio, せい (sei) = persona/vida.",
+      "cardRef": { "category": "vocabulary", "front": "がくせい" }
+    },
+    {
+      "front": "ともだち",
+      "back": "amigo",
+      "reading": "tomodachi",
+      "explanation": "ともだち (tomodachi) significa 'amigo'. Se escribe 友達 en kanji. Es una de las primeras palabras que se aprende en japonés.",
+      "cardRef": { "category": "vocabulary", "front": "ともだち" }
+    },
+    {
+      "front": "かぞく",
+      "back": "familia",
+      "reading": "kazoku",
+      "explanation": "かぞく (kazoku) significa 'familia'. Se escribe 家族 en kanji. Se usa para hablar de la propia familia.",
+      "cardRef": { "category": "vocabulary", "front": "かぞく" }
+    },
+    {
+      "front": "おかあさん",
+      "back": "mamá",
+      "reading": "okaasan",
+      "explanation": "おかあさん (okaasan) significa 'mamá' o 'madre'. Es la forma respetuosa. Para referirse a la propia madre ante otros se dice はは (haha).",
+      "cardRef": { "category": "vocabulary", "front": "おかあさん" }
+    },
+    {
+      "front": "おとうさん",
+      "back": "papá",
+      "reading": "otousan",
+      "explanation": "おとうさん (otousan) significa 'papá' o 'padre'. Es la forma respetuosa. Para referirse al propio padre ante otros se dice ちち (chichi).",
+      "cardRef": { "category": "vocabulary", "front": "おとうさん" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Personas y familia",
+      "instruction": "Estas son palabras fundamentales para hablar de personas. Incluyen pronombres (yo, tú), roles (profesor, estudiante, amigo) y miembros de la familia.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Ves la palabra en hiragana. Elegí el significado correcto en español.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "listen-identify",
+      "title": "Identificá por sonido",
+      "instruction": "Escuchá la palabra y elegí cuál es entre las opciones.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "recall",
+      "title": "Del español al japonés",
+      "instruction": "Ves la palabra en español. Recordá la palabra en japonés.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste わたし, あなた, せんせい, がくせい, ともだち, かぞく, おかあさん, おとうさん. Ahora van a aparecer en tus repasos diarios.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

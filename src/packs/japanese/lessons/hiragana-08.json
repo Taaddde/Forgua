@@ -1,0 +1,129 @@
+{
+  "id": "hiragana-08",
+  "title": "Hiragana: や行・ら行・わ行 + ん",
+  "description": "Aprendé las filas や (ya, yu, yo), ら (ra, ri, ru, re, ro), わ (wa, wo) y el carácter especial ん (n). Con estos completás el hiragana básico.",
+  "level": "n5",
+  "category": "characters",
+  "items": [
+    {
+      "front": "や",
+      "back": "ya",
+      "reading": "ya",
+      "explanation": "や se pronuncia 'ya'. Aparece en palabras como やま (yama, montaña) y やすい (yasui, barato).",
+      "mnemonic": "や looks like a YAk with horns",
+      "cardRef": { "category": "characters", "front": "や" }
+    },
+    {
+      "front": "ゆ",
+      "back": "yu",
+      "reading": "yu",
+      "explanation": "ゆ se pronuncia 'yu'. Aparece en palabras como ゆき (yuki, nieve) y ゆめ (yume, sueño).",
+      "mnemonic": "ゆ looks like a fish on a hook — \"YUmmy\"",
+      "cardRef": { "category": "characters", "front": "ゆ" }
+    },
+    {
+      "front": "よ",
+      "back": "yo",
+      "reading": "yo",
+      "explanation": "よ se pronuncia 'yo'. Aparece en palabras como よる (yoru, noche) y よむ (yomu, leer).",
+      "mnemonic": "よ looks like a YO-yo hanging from a string",
+      "cardRef": { "category": "characters", "front": "よ" }
+    },
+    {
+      "front": "ら",
+      "back": "ra",
+      "reading": "ra",
+      "explanation": "ら se pronuncia 'ra' (entre r y l). Aparece en palabras como らいねん (rainen, el año que viene) y さくら (sakura, cerezo).",
+      "mnemonic": "ら looks like a RAbbit ear sticking up",
+      "cardRef": { "category": "characters", "front": "ら" }
+    },
+    {
+      "front": "り",
+      "back": "ri",
+      "reading": "ri",
+      "explanation": "り se pronuncia 'ri'. Aparece en palabras como りんご (ringo, manzana) y きり (kiri, niebla).",
+      "mnemonic": "り has two strokes like a RIver flowing down",
+      "cardRef": { "category": "characters", "front": "り" }
+    },
+    {
+      "front": "る",
+      "back": "ru",
+      "reading": "ru",
+      "explanation": "る se pronuncia 'ru'. Es la terminación del diccionario de muchos verbos, como たべる (taberu, comer) y みる (miru, ver).",
+      "mnemonic": "る loops around like a RUle curling at the end",
+      "cardRef": { "category": "characters", "front": "る" }
+    },
+    {
+      "front": "れ",
+      "back": "re",
+      "reading": "re",
+      "explanation": "れ se pronuncia 're'. Aparece en palabras como れいぞうこ (reizouko, heladera) y きれい (kirei, bonito).",
+      "mnemonic": "れ curves like a runner in a RElay race",
+      "cardRef": { "category": "characters", "front": "れ" }
+    },
+    {
+      "front": "ろ",
+      "back": "ro",
+      "reading": "ro",
+      "explanation": "ろ se pronuncia 'ro'. Aparece en palabras como ろく (roku, seis) y しろ (shiro, blanco/castillo).",
+      "mnemonic": "ろ is simple and straight like a ROad",
+      "cardRef": { "category": "characters", "front": "ろ" }
+    },
+    {
+      "front": "わ",
+      "back": "wa",
+      "reading": "wa",
+      "explanation": "わ se pronuncia 'wa'. Aparece en la partícula は (pronunciada 'wa' como tema) y en わたし (watashi, yo).",
+      "mnemonic": "わ waves like WAter rippling",
+      "cardRef": { "category": "characters", "front": "わ" }
+    },
+    {
+      "front": "を",
+      "back": "wo",
+      "reading": "wo",
+      "explanation": "を se pronuncia 'wo' (o 'o'). Se usa casi exclusivamente como partícula de objeto directo: みずをのむ (mizu wo nomu, beber agua).",
+      "mnemonic": "を looks like two crosses stacked — \"WO!\"",
+      "cardRef": { "category": "characters", "front": "を" }
+    },
+    {
+      "front": "ん",
+      "back": "n",
+      "reading": "n",
+      "explanation": "ん se pronuncia 'n'. Es el único carácter que no forma sílaba con vocal. Aparece en にほん (nihon, Japón) y せんせい (sensei, profesor).",
+      "mnemonic": "ん looks like the letter N tilted to the side",
+      "cardRef": { "category": "characters", "front": "ん" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Conocé や行・ら行・わ行 + ん",
+      "instruction": "Estos son los últimos 11 caracteres del hiragana básico. Incluyen las filas や (y-), ら (r-), わ (w-) y el especial ん. Observá cada uno junto con su lectura y mnemotécnico.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es cuál?",
+      "instruction": "Elegí la lectura correcta para cada carácter.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    {
+      "type": "recall",
+      "title": "Ahora al revés",
+      "instruction": "Ves la lectura en romaji. Escribí o elegí el hiragana correcto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    {
+      "type": "write",
+      "title": "Escribilo vos",
+      "instruction": "Escribí el hiragana que corresponde a cada sonido.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste や, ゆ, よ, ら, り, る, れ, ろ, わ, を, ん. ¡Completaste el hiragana básico! Ahora van a aparecer en tus repasos diarios.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+- generic [ref=e3]:
+  - complementary [ref=e4]:
+    - generic [ref=e6]:
+      - img [ref=e7]
+      - generic [ref=e11]: LinguaForge
+    - link "🇯🇵 Japonés 日本語" [ref=e12] [cursor=pointer]:
+      - /url: /pack-selector
+      - generic [ref=e13]: 🇯🇵
+      - generic [ref=e14]:
+        - generic [ref=e15]: Japonés
+        - generic [ref=e16]: 日本語
+    - navigation [ref=e17]:
+      - link "Panel" [ref=e18] [cursor=pointer]:
+        - /url: /
+        - img [ref=e19]
+        - generic [ref=e24]: Panel
+      - link "Estudiar" [ref=e25] [cursor=pointer]:
+        - /url: /study
+        - img [ref=e26]
+        - generic [ref=e29]: Estudiar
+      - link "Aprender" [ref=e30] [cursor=pointer]:
+        - /url: /learn
+        - img [ref=e31]
+        - generic [ref=e33]: Aprender
+      - link "Explorar" [ref=e34] [cursor=pointer]:
+        - /url: /browse
+        - img [ref=e35]
+        - generic [ref=e37]: Explorar
+      - link "Lectura" [ref=e38] [cursor=pointer]:
+        - /url: /reading
+        - img [ref=e39]
+        - generic [ref=e41]: Lectura
+      - link "Escucha" [ref=e42] [cursor=pointer]:
+        - /url: /listening
+        - img [ref=e43]
+        - generic [ref=e45]: Escucha
+      - link "Hablar" [ref=e46] [cursor=pointer]:
+        - /url: /speaking
+        - img [ref=e47]
+        - generic [ref=e50]: Hablar
+      - link "Escritura" [ref=e51] [cursor=pointer]:
+        - /url: /writing
+        - img [ref=e52]
+        - generic [ref=e57]: Escritura
+      - link "Ruta" [ref=e58] [cursor=pointer]:
+        - /url: /roadmap
+        - img [ref=e59]
+        - generic [ref=e61]: Ruta
+    - link "Ajustes" [ref=e63] [cursor=pointer]:
+      - /url: /settings
+      - img [ref=e64]
+      - generic [ref=e67]: Ajustes
+  - generic [ref=e68]:
+    - banner [ref=e69]:
+      - 'button "Theme: dark" [ref=e70]':
+        - img [ref=e71]
+    - main [ref=e73]:
+      - generic [ref=e74]:
+        - heading "Explorar" [level=1] [ref=e75]
+        - generic [ref=e76]:
+          - generic [ref=e77]:
+            - img [ref=e78]
+            - textbox "Buscar..." [ref=e81]: 水
+            - button [ref=e810]:
+              - img [ref=e811]
+          - generic [ref=e82]:
+            - button "Todas las categorías" [ref=e83]
+            - button "Vocabulario" [ref=e84]
+            - button "Caracteres" [ref=e85]
+            - button "Gramática" [ref=e86]
+        - paragraph [ref=e87]: Mostrando 2 de 448
+        - generic [ref=e89]:
+          - button "水 スイ, みず agua characters n5" [active] [ref=e814]:
+            - generic [ref=e816]: 水
+            - generic [ref=e817]: スイ, みず
+            - generic [ref=e818]: agua
+            - generic [ref=e819]:
+              - generic [ref=e820]: characters
+              - generic [ref=e821]: n5
+          - button "水 みず Agua vocabulary n5" [ref=e822]:
+            - generic [ref=e824]: 水
+            - generic [ref=e825]: みず
+            - generic [ref=e826]: Agua
+            - generic [ref=e827]:
+              - generic [ref=e828]: vocabulary
+              - generic [ref=e829]: n5
+        - generic [ref=e831]:
+          - generic [ref=e832]:
+            - generic [ref=e833]:
+              - heading "水" [level=2] [ref=e834]
+              - paragraph [ref=e835]: スイ, みず
+            - button [ref=e836]:
+              - img [ref=e837]
+          - paragraph [ref=e840]: agua
+          - generic [ref=e841]:
+            - generic [ref=e842]:
+              - text: Significados
+              - paragraph [ref=e843]: agua
+            - generic [ref=e844]:
+              - generic [ref=e845]:
+                - text: On'yomi
+                - paragraph [ref=e846]: スイ
+              - generic [ref=e847]:
+                - text: Kun'yomi
+                - paragraph [ref=e848]: みず
+            - paragraph [ref=e849]: 4 trazos
+            - generic [ref=e850]:
+              - text: Ejemplos
+              - generic [ref=e851]:
+                - generic [ref=e852]:
+                  - text: 水曜日
+                  - generic [ref=e853]: (すいようび)
+                  - paragraph [ref=e854]: miercoles
+                - generic [ref=e855]:
+                  - text: お水
+                  - generic [ref=e856]: (おみず)
+                  - paragraph [ref=e857]: agua (cortesia)
+          - button "Agregar a repaso" [ref=e859]:
+            - img [ref=e860]
+            - text: Agregar a repaso

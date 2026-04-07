@@ -1,0 +1,95 @@
+- generic [ref=e3]:
+  - complementary [ref=e4]:
+    - generic [ref=e6]:
+      - img [ref=e7]
+      - generic [ref=e11]: LinguaForge
+    - link "🇯🇵 Japonés 日本語" [ref=e12] [cursor=pointer]:
+      - /url: /pack-selector
+      - generic [ref=e13]: 🇯🇵
+      - generic [ref=e14]:
+        - generic [ref=e15]: Japonés
+        - generic [ref=e16]: 日本語
+    - navigation [ref=e17]:
+      - link "Panel" [ref=e18] [cursor=pointer]:
+        - /url: /
+        - img [ref=e19]
+        - generic [ref=e24]: Panel
+      - link "Estudiar" [ref=e25] [cursor=pointer]:
+        - /url: /study
+        - img [ref=e26]
+        - generic [ref=e29]: Estudiar
+      - link "Aprender" [ref=e30] [cursor=pointer]:
+        - /url: /learn
+        - img [ref=e31]
+        - generic [ref=e33]: Aprender
+      - link "Explorar" [ref=e34] [cursor=pointer]:
+        - /url: /browse
+        - img [ref=e35]
+        - generic [ref=e37]: Explorar
+      - link "Lectura" [ref=e38] [cursor=pointer]:
+        - /url: /reading
+        - img [ref=e39]
+        - generic [ref=e41]: Lectura
+      - link "Escucha" [ref=e42] [cursor=pointer]:
+        - /url: /listening
+        - img [ref=e43]
+        - generic [ref=e45]: Escucha
+      - link "Hablar" [ref=e46] [cursor=pointer]:
+        - /url: /speaking
+        - img [ref=e47]
+        - generic [ref=e50]: Hablar
+      - link "Escritura" [ref=e51] [cursor=pointer]:
+        - /url: /writing
+        - img [ref=e52]
+        - generic [ref=e57]: Escritura
+      - link "Ruta" [ref=e58] [cursor=pointer]:
+        - /url: /roadmap
+        - img [ref=e59]
+        - generic [ref=e61]: Ruta
+    - link "Ajustes" [ref=e63] [cursor=pointer]:
+      - /url: /settings
+      - img [ref=e64]
+      - generic [ref=e67]: Ajustes
+  - generic [ref=e68]:
+    - banner [ref=e69]:
+      - 'button "Theme: dark" [ref=e70]':
+        - img [ref=e71]
+    - main [ref=e73]:
+      - generic [ref=e74]:
+        - generic [ref=e120]:
+          - button "Volver a la lista" [ref=e121]:
+            - img [ref=e122]
+            - text: Volver a la lista
+          - generic [ref=e124]:
+            - button "Furigana" [ref=e125]:
+              - img [ref=e126]
+              - text: Furigana
+            - button "Traducción" [ref=e130]:
+              - img [ref=e131]
+              - text: Traducción
+        - heading "わたしのいちにち" [level=2] [ref=e134]
+        - paragraph [ref=e135]: わたしは まいにち しちじに おきます。かおを あらって、あさごはんを たべます。あさごはんは いつも パンと たまごです。はちじに いえを でて、でんしゃで かいしゃに いきます。かいしゃで ごじまで はたらきます。しごとの あとで、スーパーで かいものを します。いえに かえって、ばんごはんを つくります。じゅういちじごろ ねます。
+        - generic [ref=e136]:
+          - heading "Comprensión" [level=3] [ref=e137]
+          - generic [ref=e138]:
+            - generic [ref=e139]:
+              - paragraph [ref=e140]: 1. この ひとは なんじに おきますか。
+              - generic [ref=e141]:
+                - button "ろくじに おきます。" [ref=e142] [cursor=pointer]
+                - button "しちじに おきます。" [ref=e143] [cursor=pointer]
+                - button "はちじに おきます。" [ref=e144] [cursor=pointer]
+                - button "くじに おきます。" [ref=e145] [cursor=pointer]
+            - generic [ref=e146]:
+              - paragraph [ref=e147]: 2. かいしゃに なにで いきますか。
+              - generic [ref=e148]:
+                - button "バスで いきます。" [ref=e149] [cursor=pointer]
+                - button "くるまで いきます。" [ref=e150] [cursor=pointer]
+                - button "でんしゃで いきます。" [ref=e151] [cursor=pointer]
+                - button "あるいて いきます。" [ref=e152] [cursor=pointer]
+            - generic [ref=e153]:
+              - paragraph [ref=e154]: 3. しごとの あとで なにを しますか。
+              - generic [ref=e155]:
+                - button "えいがを みます。" [ref=e156] [cursor=pointer]
+                - button "ともだちに あいます。" [ref=e157] [cursor=pointer]
+                - button "スーパーで かいものを します。" [ref=e158] [cursor=pointer]
+                - button "こうえんを さんぽします。" [ref=e159] [cursor=pointer]

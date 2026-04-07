@@ -1,0 +1,81 @@
+{
+  "id": "hiragana-07",
+  "title": "Hiragana: ま行 (ma, mi, mu, me, mo)",
+  "description": "Aprendé los cinco caracteres de la fila ま: ma, mi, mu, me, mo. Esta fila tiene lecturas completamente regulares.",
+  "level": "n5",
+  "category": "characters",
+  "items": [
+    {
+      "front": "ま",
+      "back": "ma",
+      "reading": "ma",
+      "explanation": "ま se pronuncia 'ma'. Aparece en palabras como まち (machi, ciudad) y まど (mado, ventana).",
+      "mnemonic": "ま looks like a MAmá with a cross",
+      "cardRef": { "category": "characters", "front": "ま" }
+    },
+    {
+      "front": "み",
+      "back": "mi",
+      "reading": "mi",
+      "explanation": "み se pronuncia 'mi'. Aparece en みず (mizu, agua) y みみ (mimi, oreja).",
+      "mnemonic": "み has three strokes like the number 3 (MI-tres in Spanish)",
+      "cardRef": { "category": "characters", "front": "み" }
+    },
+    {
+      "front": "む",
+      "back": "mu",
+      "reading": "mu",
+      "explanation": "む se pronuncia 'mu'. Aparece en むし (mushi, insecto) y むすめ (musume, hija).",
+      "mnemonic": "む looks like a MOO-ing cow",
+      "cardRef": { "category": "characters", "front": "む" }
+    },
+    {
+      "front": "め",
+      "back": "me",
+      "reading": "me",
+      "explanation": "め se pronuncia 'me'. Significa 'ojo' en japonés. Aparece en めがね (megane, lentes) y あめ (ame, lluvia).",
+      "mnemonic": "め looks like an eye (ME = eye in Japanese)",
+      "cardRef": { "category": "characters", "front": "め" }
+    },
+    {
+      "front": "も",
+      "back": "mo",
+      "reading": "mo",
+      "explanation": "も se pronuncia 'mo'. También es una partícula que significa 'también'. Aparece en もの (mono, cosa) y もり (mori, bosque).",
+      "mnemonic": "も looks like a fish hook — \"MOre fish\"",
+      "cardRef": { "category": "characters", "front": "も" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Conocé la fila ま",
+      "instruction": "Estos son los cinco caracteres de la fila ま (m-). Todas las lecturas son regulares: ma, mi, mu, me, mo.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es cuál?",
+      "instruction": "Elegí la lectura correcta para cada carácter.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "recall",
+      "title": "Ahora al revés",
+      "instruction": "Ves la lectura en romaji. Escribí o elegí el hiragana correcto.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "write",
+      "title": "Escribilo vos",
+      "instruction": "Escribí el hiragana que corresponde a cada sonido.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste ま, み, む, め, も. Ahora van a aparecer en tus repasos diarios.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    }
+  ]
+}

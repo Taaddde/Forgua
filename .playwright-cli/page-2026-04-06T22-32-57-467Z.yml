@@ -1,0 +1,54 @@
+- generic [ref=e3]:
+  - link "Skip to content" [ref=e4] [cursor=pointer]:
+    - /url: "#main-content"
+  - navigation "Main navigation" [ref=e5]:
+    - generic [ref=e7]:
+      - img [ref=e8]
+      - generic [ref=e12]: LinguaForge
+    - navigation [ref=e13]:
+      - link "Panel" [ref=e14] [cursor=pointer]:
+        - /url: /
+        - img [ref=e15]
+        - generic [ref=e20]: Panel
+      - link "Estudiar" [ref=e21] [cursor=pointer]:
+        - /url: /study
+        - img [ref=e22]
+        - generic [ref=e25]: Estudiar
+      - link "Aprender" [ref=e26] [cursor=pointer]:
+        - /url: /learn
+        - img [ref=e27]
+        - generic [ref=e29]: Aprender
+      - link "Explorar" [ref=e30] [cursor=pointer]:
+        - /url: /browse
+        - img [ref=e31]
+        - generic [ref=e33]: Explorar
+      - link "Lectura" [ref=e34] [cursor=pointer]:
+        - /url: /reading
+        - img [ref=e35]
+        - generic [ref=e37]: Lectura
+      - link "Escucha" [ref=e38] [cursor=pointer]:
+        - /url: /listening
+        - img [ref=e39]
+        - generic [ref=e41]: Escucha
+      - link "Hablar" [ref=e42] [cursor=pointer]:
+        - /url: /speaking
+        - img [ref=e43]
+        - generic [ref=e46]: Hablar
+      - link "Escritura" [ref=e47] [cursor=pointer]:
+        - /url: /writing
+        - img [ref=e48]
+        - generic [ref=e53]: Escritura
+      - link "Ruta" [ref=e54] [cursor=pointer]:
+        - /url: /roadmap
+        - img [ref=e55]
+        - generic [ref=e57]: Ruta
+    - link "Ajustes" [ref=e59] [cursor=pointer]:
+      - /url: /settings
+      - img [ref=e60]
+      - generic [ref=e63]: Ajustes
+  - generic [ref=e64]:
+    - banner [ref=e65]:
+      - 'button "Theme: dark" [ref=e66]':
+        - img [ref=e67]
+    - main [ref=e69]:
+      - img [ref=e71]

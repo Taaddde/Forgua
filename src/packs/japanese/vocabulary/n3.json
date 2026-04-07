@@ -1,0 +1,3002 @@
+[
+  {
+    "word": "影響",
+    "reading": "えいきょう",
+    "meanings": ["influencia", "influence"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["academic"],
+    "examples": [
+      {
+        "text": "環境に影響を与える。",
+        "reading": "かんきょうにえいきょうをあたえる。",
+        "translation": "Influir en el medio ambiente."
+      }
+    ]
+  },
+  {
+    "word": "原因",
+    "reading": "げんいん",
+    "meanings": ["causa", "cause"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["academic"],
+    "examples": [
+      {
+        "text": "事故の原因を調べる。",
+        "reading": "じこのげんいんをしらべる。",
+        "translation": "Investigar la causa del accidente."
+      }
+    ]
+  },
+  {
+    "word": "結果",
+    "reading": "けっか",
+    "meanings": ["resultado", "result"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["academic"],
+    "examples": [
+      {
+        "text": "試験の結果が発表された。",
+        "reading": "しけんのけっかがはっぴょうされた。",
+        "translation": "Se anunciaron los resultados del examen."
+      }
+    ]
+  },
+  {
+    "word": "環境",
+    "reading": "かんきょう",
+    "meanings": ["ambiente / medio ambiente", "environment"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["academic", "society"],
+    "examples": [
+      {
+        "text": "環境を守ることは大切だ。",
+        "reading": "かんきょうをまもることはたいせつだ。",
+        "translation": "Es importante proteger el medio ambiente."
+      }
+    ]
+  },
+  {
+    "word": "経済",
+    "reading": "けいざい",
+    "meanings": ["economía", "economy"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["academic", "society"],
+    "examples": [
+      {
+        "text": "日本の経済は成長している。",
+        "reading": "にほんのけいざいはせいちょうしている。",
+        "translation": "La economía japonesa está creciendo."
+      }
+    ]
+  },
+  {
+    "word": "政治",
+    "reading": "せいじ",
+    "meanings": ["política", "politics"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["academic", "society"],
+    "examples": [
+      {
+        "text": "若者はもっと政治に関心を持つべきだ。",
+        "reading": "わかものはもっとせいじにかんしんをもつべきだ。",
+        "translation": "Los jóvenes deberían tener más interés en la política."
+      }
+    ]
+  },
+  {
+    "word": "制度",
+    "reading": "せいど",
+    "meanings": ["sistema / régimen", "system / institution"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["academic", "society"],
+    "examples": [
+      {
+        "text": "新しい制度が導入された。",
+        "reading": "あたらしいせいどがどうにゅうされた。",
+        "translation": "Se introdujo un nuevo sistema."
+      }
+    ]
+  },
+  {
+    "word": "状況",
+    "reading": "じょうきょう",
+    "meanings": ["situación / circunstancia", "situation / circumstances"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["academic"],
+    "examples": [
+      {
+        "text": "現在の状況を説明してください。",
+        "reading": "げんざいのじょうきょうをせつめいしてください。",
+        "translation": "Por favor, explique la situación actual."
+      }
+    ]
+  },
+  {
+    "word": "条件",
+    "reading": "じょうけん",
+    "meanings": ["condición / requisito", "condition / requirement"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["academic", "business"],
+    "examples": [
+      {
+        "text": "この仕事の条件を教えてください。",
+        "reading": "このしごとのじょうけんをおしえてください。",
+        "translation": "Por favor, dígame las condiciones de este trabajo."
+      }
+    ]
+  },
+  {
+    "word": "可能性",
+    "reading": "かのうせい",
+    "meanings": ["posibilidad", "possibility"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["academic"],
+    "examples": [
+      {
+        "text": "成功する可能性は高い。",
+        "reading": "せいこうするかのうせいはたかい。",
+        "translation": "La posibilidad de éxito es alta."
+      }
+    ]
+  },
+  {
+    "word": "立場",
+    "reading": "たちば",
+    "meanings": ["posición / punto de vista", "position / standpoint"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["academic"],
+    "examples": [
+      {
+        "text": "相手の立場を考えるべきだ。",
+        "reading": "あいてのたちばをかんがえるべきだ。",
+        "translation": "Deberías considerar el punto de vista del otro."
+      }
+    ]
+  },
+  {
+    "word": "価値",
+    "reading": "かち",
+    "meanings": ["valor", "value / worth"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["academic", "abstract"],
+    "examples": [
+      {
+        "text": "この絵には高い価値がある。",
+        "reading": "このえにはたかいかちがある。",
+        "translation": "Esta pintura tiene un alto valor."
+      }
+    ]
+  },
+  {
+    "word": "目的",
+    "reading": "もくてき",
+    "meanings": ["objetivo / propósito", "purpose / goal"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["academic"],
+    "examples": [
+      {
+        "text": "旅行の目的は何ですか。",
+        "reading": "りょこうのもくてきはなんですか。",
+        "translation": "¿Cuál es el propósito de tu viaje?"
+      }
+    ]
+  },
+  {
+    "word": "効果",
+    "reading": "こうか",
+    "meanings": ["efecto / eficacia", "effect / effectiveness"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["academic"],
+    "examples": [
+      {
+        "text": "この薬は効果がある。",
+        "reading": "このくすりはこうかがある。",
+        "translation": "Este medicamento es efectivo."
+      }
+    ]
+  },
+  {
+    "word": "対象",
+    "reading": "たいしょう",
+    "meanings": ["objetivo / objeto / sujeto", "target / subject / object"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["academic"],
+    "examples": [
+      {
+        "text": "この講座は初心者を対象としている。",
+        "reading": "このこうざはしょしんしゃをたいしょうとしている。",
+        "translation": "Este curso está dirigido a principiantes."
+      }
+    ]
+  },
+  {
+    "word": "傾向",
+    "reading": "けいこう",
+    "meanings": ["tendencia", "tendency / trend"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["academic"],
+    "examples": [
+      {
+        "text": "最近、若者の間でこの傾向が見られる。",
+        "reading": "さいきん、わかもののあいだでこのけいこうがみられる。",
+        "translation": "Recientemente se ve esta tendencia entre los jóvenes."
+      }
+    ]
+  },
+  {
+    "word": "分野",
+    "reading": "ぶんや",
+    "meanings": ["campo / área / ámbito", "field / area / domain"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["academic"],
+    "examples": [
+      {
+        "text": "彼女はIT分野の専門家だ。",
+        "reading": "かのじょはアイティーぶんやのせんもんかだ。",
+        "translation": "Ella es una experta en el campo de IT."
+      }
+    ]
+  },
+  {
+    "word": "現象",
+    "reading": "げんしょう",
+    "meanings": ["fenómeno", "phenomenon"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["academic"],
+    "examples": [
+      {
+        "text": "この自然現象を研究する。",
+        "reading": "このしぜんげんしょうをけんきゅうする。",
+        "translation": "Investigar este fenómeno natural."
+      }
+    ]
+  },
+  {
+    "word": "基準",
+    "reading": "きじゅん",
+    "meanings": ["estándar / criterio", "standard / criterion"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["academic"],
+    "examples": [
+      {
+        "text": "安全基準を満たす必要がある。",
+        "reading": "あんぜんきじゅんをみたすひつようがある。",
+        "translation": "Es necesario cumplir con los estándares de seguridad."
+      }
+    ]
+  },
+  {
+    "word": "方針",
+    "reading": "ほうしん",
+    "meanings": ["política / directriz", "policy / principle"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["academic", "business"],
+    "examples": [
+      {
+        "text": "会社の方針に従う。",
+        "reading": "かいしゃのほうしんにしたがう。",
+        "translation": "Seguir la política de la empresa."
+      }
+    ]
+  },
+  {
+    "word": "対策",
+    "reading": "たいさく",
+    "meanings": ["contramedida / medida", "countermeasure / measure"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["academic"],
+    "examples": [
+      {
+        "text": "地震の対策を考える。",
+        "reading": "じしんのたいさくをかんがえる。",
+        "translation": "Pensar en medidas contra terremotos."
+      }
+    ]
+  },
+  {
+    "word": "過程",
+    "reading": "かてい",
+    "meanings": ["proceso", "process"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["academic"],
+    "examples": [
+      {
+        "text": "学習の過程で多くのことを学んだ。",
+        "reading": "がくしゅうのかていでおおくのことをまなんだ。",
+        "translation": "Aprendí muchas cosas en el proceso de aprendizaje."
+      }
+    ]
+  },
+  {
+    "word": "割合",
+    "reading": "わりあい",
+    "meanings": ["proporción / tasa", "proportion / ratio"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["academic"],
+    "examples": [
+      {
+        "text": "女性の割合が増えている。",
+        "reading": "じょせいのわりあいがふえている。",
+        "translation": "La proporción de mujeres está aumentando."
+      }
+    ]
+  },
+  {
+    "word": "要素",
+    "reading": "ようそ",
+    "meanings": ["elemento / factor", "element / factor"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["academic"],
+    "examples": [
+      {
+        "text": "成功には多くの要素がある。",
+        "reading": "せいこうにはおおくのようそがある。",
+        "translation": "El éxito tiene muchos factores."
+      }
+    ]
+  },
+  {
+    "word": "根拠",
+    "reading": "こんきょ",
+    "meanings": ["fundamento / base", "basis / grounds"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["academic"],
+    "examples": [
+      {
+        "text": "科学的な根拠に基づいて判断する。",
+        "reading": "かがくてきなこんきょにもとづいてはんだんする。",
+        "translation": "Juzgar basándose en fundamentos científicos."
+      }
+    ]
+  },
+  {
+    "word": "背景",
+    "reading": "はいけい",
+    "meanings": ["trasfondo / contexto", "background / context"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["academic"],
+    "examples": [
+      {
+        "text": "この問題の背景を理解する。",
+        "reading": "このもんだいのはいけいをりかいする。",
+        "translation": "Comprender el trasfondo de este problema."
+      }
+    ]
+  },
+  {
+    "word": "特徴",
+    "reading": "とくちょう",
+    "meanings": ["característica / rasgo", "characteristic / feature"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["academic"],
+    "examples": [
+      {
+        "text": "日本文化の特徴について話す。",
+        "reading": "にほんぶんかのとくちょうについてはなす。",
+        "translation": "Hablar sobre las características de la cultura japonesa."
+      }
+    ]
+  },
+  {
+    "word": "実現",
+    "reading": "じつげん",
+    "meanings": ["realización", "realization / achievement"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["academic", "abstract"],
+    "examples": [
+      {
+        "text": "夢の実現に向けて努力する。",
+        "reading": "ゆめのじつげんにむけてどりょくする。",
+        "translation": "Esforzarse para la realización de un sueño."
+      }
+    ]
+  },
+  {
+    "word": "構造",
+    "reading": "こうぞう",
+    "meanings": ["estructura", "structure"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["academic"],
+    "examples": [
+      {
+        "text": "建物の構造を調べる。",
+        "reading": "たてもののこうぞうをしらべる。",
+        "translation": "Examinar la estructura del edificio."
+      }
+    ]
+  },
+  {
+    "word": "評価",
+    "reading": "ひょうか",
+    "meanings": ["evaluación / valoración", "evaluation / assessment"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["academic", "business"],
+    "examples": [
+      {
+        "text": "社員の仕事を公平に評価する。",
+        "reading": "しゃいんのしごとをこうへいにひょうかする。",
+        "translation": "Evaluar el trabajo de los empleados de manera justa."
+      }
+    ]
+  },
+  {
+    "word": "契約",
+    "reading": "けいやく",
+    "meanings": ["contrato", "contract"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["business"],
+    "examples": [
+      {
+        "text": "新しい契約を結ぶ。",
+        "reading": "あたらしいけいやくをむすぶ。",
+        "translation": "Firmar un nuevo contrato."
+      }
+    ]
+  },
+  {
+    "word": "営業",
+    "reading": "えいぎょう",
+    "meanings": ["ventas / operación comercial", "sales / business operation"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["business"],
+    "examples": [
+      {
+        "text": "営業時間は九時から五時までです。",
+        "reading": "えいぎょうじかんはくじからごじまでです。",
+        "translation": "El horario de atención es de nueve a cinco."
+      }
+    ]
+  },
+  {
+    "word": "取引",
+    "reading": "とりひき",
+    "meanings": ["transacción / negocio", "transaction / deal"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["business"],
+    "examples": [
+      {
+        "text": "海外との取引が増えている。",
+        "reading": "かいがいとのとりひきがふえている。",
+        "translation": "Las transacciones con el extranjero están aumentando."
+      }
+    ]
+  },
+  {
+    "word": "売上",
+    "reading": "うりあげ",
+    "meanings": ["ventas / facturación", "sales / revenue"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["business"],
+    "examples": [
+      {
+        "text": "今月の売上は先月より多い。",
+        "reading": "こんげつのうりあげはせんげつよりおおい。",
+        "translation": "Las ventas de este mes son mayores que las del mes pasado."
+      }
+    ]
+  },
+  {
+    "word": "予算",
+    "reading": "よさん",
+    "meanings": ["presupuesto", "budget"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["business"],
+    "examples": [
+      {
+        "text": "来年度の予算を決める。",
+        "reading": "らいねんどのよさんをきめる。",
+        "translation": "Decidir el presupuesto del próximo año fiscal."
+      }
+    ]
+  },
+  {
+    "word": "人事",
+    "reading": "じんじ",
+    "meanings": ["recursos humanos / asuntos de personal", "human resources / personnel"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["business"],
+    "examples": [
+      {
+        "text": "人事部に書類を提出する。",
+        "reading": "じんじぶにしょるいをていしゅつする。",
+        "translation": "Presentar documentos al departamento de recursos humanos."
+      }
+    ]
+  },
+  {
+    "word": "方法",
+    "reading": "ほうほう",
+    "meanings": ["método / manera", "method / way"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["business"],
+    "examples": [
+      {
+        "text": "新しい方法を試してみましょう。",
+        "reading": "あたらしいほうほうをためしてみましょう。",
+        "translation": "Probemos un nuevo método."
+      }
+    ]
+  },
+  {
+    "word": "担当",
+    "reading": "たんとう",
+    "meanings": ["encargado / responsable", "person in charge"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["business"],
+    "examples": [
+      {
+        "text": "このプロジェクトの担当は田中さんです。",
+        "reading": "このプロジェクトのたんとうはたなかさんです。",
+        "translation": "El encargado de este proyecto es el Sr. Tanaka."
+      }
+    ]
+  },
+  {
+    "word": "報告",
+    "reading": "ほうこく",
+    "meanings": ["informe / reporte", "report"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["business"],
+    "examples": [
+      {
+        "text": "結果を上司に報告する。",
+        "reading": "けっかをじょうしにほうこくする。",
+        "translation": "Reportar los resultados al jefe."
+      }
+    ]
+  },
+  {
+    "word": "提案",
+    "reading": "ていあん",
+    "meanings": ["propuesta / sugerencia", "proposal / suggestion"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["business"],
+    "examples": [
+      {
+        "text": "新しい提案をまとめる。",
+        "reading": "あたらしいていあんをまとめる。",
+        "translation": "Elaborar una nueva propuesta."
+      }
+    ]
+  },
+  {
+    "word": "交渉",
+    "reading": "こうしょう",
+    "meanings": ["negociación", "negotiation"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["business"],
+    "examples": [
+      {
+        "text": "価格について交渉する。",
+        "reading": "かかくについてこうしょうする。",
+        "translation": "Negociar sobre el precio."
+      }
+    ]
+  },
+  {
+    "word": "管理",
+    "reading": "かんり",
+    "meanings": ["administración / gestión", "management / administration"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["business"],
+    "examples": [
+      {
+        "text": "データの管理は重要だ。",
+        "reading": "データのかんりはじゅうようだ。",
+        "translation": "La gestión de datos es importante."
+      }
+    ]
+  },
+  {
+    "word": "会議",
+    "reading": "かいぎ",
+    "meanings": ["reunión / conferencia", "meeting / conference"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["business"],
+    "examples": [
+      {
+        "text": "午後三時から会議がある。",
+        "reading": "ごごさんじからかいぎがある。",
+        "translation": "Hay una reunión a las tres de la tarde."
+      }
+    ]
+  },
+  {
+    "word": "出張",
+    "reading": "しゅっちょう",
+    "meanings": ["viaje de negocios", "business trip"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["business"],
+    "examples": [
+      {
+        "text": "来週、大阪に出張する予定だ。",
+        "reading": "らいしゅう、おおさかにしゅっちょうするよていだ。",
+        "translation": "Tengo planeado un viaje de negocios a Osaka la semana que viene."
+      }
+    ]
+  },
+  {
+    "word": "業績",
+    "reading": "ぎょうせき",
+    "meanings": ["rendimiento / logros", "performance / achievements"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["business"],
+    "examples": [
+      {
+        "text": "今年の業績は良かった。",
+        "reading": "ことしのぎょうせきはよかった。",
+        "translation": "El rendimiento de este año fue bueno."
+      }
+    ]
+  },
+  {
+    "word": "就職",
+    "reading": "しゅうしょく",
+    "meanings": ["conseguir empleo", "getting a job / employment"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["business"],
+    "examples": [
+      {
+        "text": "大学卒業後に就職する。",
+        "reading": "だいがくそつぎょうごにしゅうしょくする。",
+        "translation": "Conseguir empleo después de graduarse de la universidad."
+      }
+    ]
+  },
+  {
+    "word": "採用",
+    "reading": "さいよう",
+    "meanings": ["contratación / adopción", "hiring / adoption"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["business"],
+    "examples": [
+      {
+        "text": "新しい技術を採用する。",
+        "reading": "あたらしいぎじゅつをさいようする。",
+        "translation": "Adoptar nueva tecnología."
+      }
+    ]
+  },
+  {
+    "word": "給料",
+    "reading": "きゅうりょう",
+    "meanings": ["salario / sueldo", "salary / pay"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["business"],
+    "examples": [
+      {
+        "text": "給料が上がった。",
+        "reading": "きゅうりょうがあがった。",
+        "translation": "El salario subió."
+      }
+    ]
+  },
+  {
+    "word": "退職",
+    "reading": "たいしょく",
+    "meanings": ["renuncia / jubilación", "resignation / retirement"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["business"],
+    "examples": [
+      {
+        "text": "定年で退職する。",
+        "reading": "ていねんでたいしょくする。",
+        "translation": "Jubilarse al llegar a la edad de retiro."
+      }
+    ]
+  },
+  {
+    "word": "研修",
+    "reading": "けんしゅう",
+    "meanings": ["capacitación / formación", "training / workshop"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["business"],
+    "examples": [
+      {
+        "text": "新入社員の研修が始まった。",
+        "reading": "しんにゅうしゃいんのけんしゅうがはじまった。",
+        "translation": "Comenzó la capacitación de los nuevos empleados."
+      }
+    ]
+  },
+  {
+    "word": "資料",
+    "reading": "しりょう",
+    "meanings": ["material / documento / datos", "material / document / data"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["business"],
+    "examples": [
+      {
+        "text": "会議の資料を準備する。",
+        "reading": "かいぎのしりょうをじゅんびする。",
+        "translation": "Preparar los materiales para la reunión."
+      }
+    ]
+  },
+  {
+    "word": "印象",
+    "reading": "いんしょう",
+    "meanings": ["impresión", "impression"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["emotion"],
+    "examples": [
+      {
+        "text": "彼女は良い印象を与えた。",
+        "reading": "かのじょはよいいんしょうをあたえた。",
+        "translation": "Ella dejó una buena impresión."
+      }
+    ]
+  },
+  {
+    "word": "感動",
+    "reading": "かんどう",
+    "meanings": ["conmoción / emoción profunda", "being deeply moved / emotion"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["emotion"],
+    "examples": [
+      {
+        "text": "映画に感動した。",
+        "reading": "えいがにかんどうした。",
+        "translation": "Me conmoví con la película."
+      }
+    ]
+  },
+  {
+    "word": "不安",
+    "reading": "ふあん",
+    "meanings": ["ansiedad / inquietud", "anxiety / uneasiness"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["emotion"],
+    "examples": [
+      {
+        "text": "将来に不安を感じる。",
+        "reading": "しょうらいにふあんをかんじる。",
+        "translation": "Sentir ansiedad por el futuro."
+      }
+    ]
+  },
+  {
+    "word": "満足",
+    "reading": "まんぞく",
+    "meanings": ["satisfacción", "satisfaction"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["emotion"],
+    "examples": [
+      {
+        "text": "結果に満足している。",
+        "reading": "けっかにまんぞくしている。",
+        "translation": "Estoy satisfecho con el resultado."
+      }
+    ]
+  },
+  {
+    "word": "後悔",
+    "reading": "こうかい",
+    "meanings": ["arrepentimiento", "regret"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["emotion"],
+    "examples": [
+      {
+        "text": "あの時の決断を後悔している。",
+        "reading": "あのときのけつだんをこうかいしている。",
+        "translation": "Me arrepiento de la decisión de aquel entonces."
+      }
+    ]
+  },
+  {
+    "word": "緊張",
+    "reading": "きんちょう",
+    "meanings": ["tensión / nerviosismo", "tension / nervousness"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["emotion"],
+    "examples": [
+      {
+        "text": "面接の前は緊張する。",
+        "reading": "めんせつのまえはきんちょうする。",
+        "translation": "Me pongo nervioso antes de una entrevista."
+      }
+    ]
+  },
+  {
+    "word": "退屈",
+    "reading": "たいくつ",
+    "meanings": ["aburrimiento", "boredom"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["emotion"],
+    "examples": [
+      {
+        "text": "長い会議は退屈だ。",
+        "reading": "ながいかいぎはたいくつだ。",
+        "translation": "Las reuniones largas son aburridas."
+      }
+    ]
+  },
+  {
+    "word": "感謝",
+    "reading": "かんしゃ",
+    "meanings": ["agradecimiento / gratitud", "gratitude / appreciation"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["emotion"],
+    "examples": [
+      {
+        "text": "皆さんに感謝しています。",
+        "reading": "みなさんにかんしゃしています。",
+        "translation": "Les estoy agradecido a todos."
+      }
+    ]
+  },
+  {
+    "word": "期待",
+    "reading": "きたい",
+    "meanings": ["expectativa / esperanza", "expectation / hope"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["emotion"],
+    "examples": [
+      {
+        "text": "新しいプロジェクトに期待している。",
+        "reading": "あたらしいプロジェクトにきたいしている。",
+        "translation": "Tengo expectativas sobre el nuevo proyecto."
+      }
+    ]
+  },
+  {
+    "word": "怒り",
+    "reading": "いかり",
+    "meanings": ["ira / enojo", "anger / rage"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["emotion"],
+    "examples": [
+      {
+        "text": "怒りを抑えることが大切だ。",
+        "reading": "いかりをおさえることがたいせつだ。",
+        "translation": "Es importante controlar la ira."
+      }
+    ]
+  },
+  {
+    "word": "悲しみ",
+    "reading": "かなしみ",
+    "meanings": ["tristeza / pena", "sadness / sorrow"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["emotion"],
+    "examples": [
+      {
+        "text": "深い悲しみを感じた。",
+        "reading": "ふかいかなしみをかんじた。",
+        "translation": "Sentí una profunda tristeza."
+      }
+    ]
+  },
+  {
+    "word": "喜び",
+    "reading": "よろこび",
+    "meanings": ["alegría / gozo", "joy / delight"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["emotion"],
+    "examples": [
+      {
+        "text": "合格の喜びを分かち合う。",
+        "reading": "ごうかくのよろこびをわかちあう。",
+        "translation": "Compartir la alegría de haber aprobado."
+      }
+    ]
+  },
+  {
+    "word": "恥ずかしい",
+    "reading": "はずかしい",
+    "meanings": ["vergonzoso / da vergüenza", "embarrassing / ashamed"],
+    "pos": "adjective-i",
+    "level": "n3",
+    "tags": ["emotion"],
+    "examples": [
+      {
+        "text": "間違えて恥ずかしかった。",
+        "reading": "まちがえてはずかしかった。",
+        "translation": "Me equivoqué y me dio vergüenza."
+      }
+    ]
+  },
+  {
+    "word": "寂しい",
+    "reading": "さびしい",
+    "meanings": ["solitario / triste", "lonely / sad"],
+    "pos": "adjective-i",
+    "level": "n3",
+    "tags": ["emotion"],
+    "examples": [
+      {
+        "text": "友達がいなくて寂しい。",
+        "reading": "ともだちがいなくてさびしい。",
+        "translation": "Estoy triste porque no tengo amigos."
+      }
+    ]
+  },
+  {
+    "word": "悔しい",
+    "reading": "くやしい",
+    "meanings": ["frustrante / da rabia", "frustrating / vexing"],
+    "pos": "adjective-i",
+    "level": "n3",
+    "tags": ["emotion"],
+    "examples": [
+      {
+        "text": "試合に負けて悔しい。",
+        "reading": "しあいにまけてくやしい。",
+        "translation": "Es frustrante haber perdido el partido."
+      }
+    ]
+  },
+  {
+    "word": "羨ましい",
+    "reading": "うらやましい",
+    "meanings": ["envidiable / da envidia", "envious / jealous"],
+    "pos": "adjective-i",
+    "level": "n3",
+    "tags": ["emotion"],
+    "examples": [
+      {
+        "text": "海外旅行に行けるなんて羨ましい。",
+        "reading": "かいがいりょこうにいけるなんてうらやましい。",
+        "translation": "Qué envidia que puedas viajar al extranjero."
+      }
+    ]
+  },
+  {
+    "word": "懐かしい",
+    "reading": "なつかしい",
+    "meanings": ["nostálgico", "nostalgic / dear"],
+    "pos": "adjective-i",
+    "level": "n3",
+    "tags": ["emotion"],
+    "examples": [
+      {
+        "text": "子供の頃の写真を見て懐かしい。",
+        "reading": "こどものころのしゃしんをみてなつかしい。",
+        "translation": "Veo fotos de mi infancia y siento nostalgia."
+      }
+    ]
+  },
+  {
+    "word": "憧れ",
+    "reading": "あこがれ",
+    "meanings": ["admiración / anhelo", "admiration / longing"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["emotion"],
+    "examples": [
+      {
+        "text": "彼は私の憧れの人だ。",
+        "reading": "かれはわたしのあこがれのひとだ。",
+        "translation": "Él es la persona que admiro."
+      }
+    ]
+  },
+  {
+    "word": "社会",
+    "reading": "しゃかい",
+    "meanings": ["sociedad", "society"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["society"],
+    "examples": [
+      {
+        "text": "現代社会の問題について考える。",
+        "reading": "げんだいしゃかいのもんだいについてかんがえる。",
+        "translation": "Pensar sobre los problemas de la sociedad moderna."
+      }
+    ]
+  },
+  {
+    "word": "文化",
+    "reading": "ぶんか",
+    "meanings": ["cultura", "culture"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["society"],
+    "examples": [
+      {
+        "text": "日本の文化に興味がある。",
+        "reading": "にほんのぶんかにきょうみがある。",
+        "translation": "Tengo interés en la cultura japonesa."
+      }
+    ]
+  },
+  {
+    "word": "伝統",
+    "reading": "でんとう",
+    "meanings": ["tradición", "tradition"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["society"],
+    "examples": [
+      {
+        "text": "伝統を守ることは大切だ。",
+        "reading": "でんとうをまもることはたいせつだ。",
+        "translation": "Es importante preservar las tradiciones."
+      }
+    ]
+  },
+  {
+    "word": "国際",
+    "reading": "こくさい",
+    "meanings": ["internacional", "international"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["society"],
+    "examples": [
+      {
+        "text": "国際交流が盛んになっている。",
+        "reading": "こくさいこうりゅうがさかんになっている。",
+        "translation": "El intercambio internacional se está volviendo activo."
+      }
+    ]
+  },
+  {
+    "word": "人口",
+    "reading": "じんこう",
+    "meanings": ["población", "population"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["society"],
+    "examples": [
+      {
+        "text": "日本の人口は減少している。",
+        "reading": "にほんのじんこうはげんしょうしている。",
+        "translation": "La población de Japón está disminuyendo."
+      }
+    ]
+  },
+  {
+    "word": "権利",
+    "reading": "けんり",
+    "meanings": ["derecho", "right / privilege"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["society"],
+    "examples": [
+      {
+        "text": "すべての人に平等な権利がある。",
+        "reading": "すべてのひとにびょうどうなけんりがある。",
+        "translation": "Todas las personas tienen derechos iguales."
+      }
+    ]
+  },
+  {
+    "word": "義務",
+    "reading": "ぎむ",
+    "meanings": ["obligación / deber", "duty / obligation"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["society"],
+    "examples": [
+      {
+        "text": "納税は国民の義務だ。",
+        "reading": "のうぜいはこくみんのぎむだ。",
+        "translation": "Pagar impuestos es una obligación del ciudadano."
+      }
+    ]
+  },
+  {
+    "word": "法律",
+    "reading": "ほうりつ",
+    "meanings": ["ley", "law"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["society"],
+    "examples": [
+      {
+        "text": "新しい法律が施行された。",
+        "reading": "あたらしいほうりつがしこうされた。",
+        "translation": "Se promulgó una nueva ley."
+      }
+    ]
+  },
+  {
+    "word": "犯罪",
+    "reading": "はんざい",
+    "meanings": ["crimen / delito", "crime"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["society"],
+    "examples": [
+      {
+        "text": "犯罪を防ぐための対策を考える。",
+        "reading": "はんざいをふせぐためのたいさくをかんがえる。",
+        "translation": "Pensar en medidas para prevenir el crimen."
+      }
+    ]
+  },
+  {
+    "word": "選挙",
+    "reading": "せんきょ",
+    "meanings": ["elección", "election"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["society"],
+    "examples": [
+      {
+        "text": "来月、選挙が行われる。",
+        "reading": "らいげつ、せんきょがおこなわれる。",
+        "translation": "El mes que viene se celebrarán elecciones."
+      }
+    ]
+  },
+  {
+    "word": "世論",
+    "reading": "せろん",
+    "meanings": ["opinión pública", "public opinion"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["society"],
+    "examples": [
+      {
+        "text": "世論調査の結果が発表された。",
+        "reading": "せろんちょうさのけっかがはっぴょうされた。",
+        "translation": "Se publicaron los resultados de la encuesta de opinión pública."
+      }
+    ]
+  },
+  {
+    "word": "福祉",
+    "reading": "ふくし",
+    "meanings": ["bienestar social", "welfare"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["society"],
+    "examples": [
+      {
+        "text": "高齢者の福祉を充実させる。",
+        "reading": "こうれいしゃのふくしをじゅうじつさせる。",
+        "translation": "Mejorar el bienestar social de los ancianos."
+      }
+    ]
+  },
+  {
+    "word": "差別",
+    "reading": "さべつ",
+    "meanings": ["discriminación", "discrimination"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["society"],
+    "examples": [
+      {
+        "text": "差別のない社会を目指す。",
+        "reading": "さべつのないしゃかいをめざす。",
+        "translation": "Aspirar a una sociedad sin discriminación."
+      }
+    ]
+  },
+  {
+    "word": "平和",
+    "reading": "へいわ",
+    "meanings": ["paz", "peace"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["society"],
+    "examples": [
+      {
+        "text": "世界の平和を願う。",
+        "reading": "せかいのへいわをねがう。",
+        "translation": "Desear la paz mundial."
+      }
+    ]
+  },
+  {
+    "word": "事件",
+    "reading": "じけん",
+    "meanings": ["incidente / caso", "incident / case"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["society"],
+    "examples": [
+      {
+        "text": "大きな事件が起きた。",
+        "reading": "おおきなじけんがおきた。",
+        "translation": "Ocurrió un gran incidente."
+      }
+    ]
+  },
+  {
+    "word": "被害",
+    "reading": "ひがい",
+    "meanings": ["daño / perjuicio", "damage / harm"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["society"],
+    "examples": [
+      {
+        "text": "台風による被害が広がった。",
+        "reading": "たいふうによるひがいがひろがった。",
+        "translation": "Los daños causados por el tifón se extendieron."
+      }
+    ]
+  },
+  {
+    "word": "災害",
+    "reading": "さいがい",
+    "meanings": ["desastre", "disaster"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["society"],
+    "examples": [
+      {
+        "text": "災害に備えることが重要だ。",
+        "reading": "さいがいにそなえることがじゅうようだ。",
+        "translation": "Es importante prepararse para los desastres."
+      }
+    ]
+  },
+  {
+    "word": "含める",
+    "reading": "ふくめる",
+    "meanings": ["incluir", "to include"],
+    "pos": "verb-ichidan",
+    "level": "n3",
+    "tags": ["verb"],
+    "examples": [
+      {
+        "text": "税金を含めると高くなる。",
+        "reading": "ぜいきんをふくめるとたかくなる。",
+        "translation": "Si se incluyen los impuestos, se vuelve caro."
+      }
+    ]
+  },
+  {
+    "word": "示す",
+    "reading": "しめす",
+    "meanings": ["mostrar / indicar", "to show / to indicate"],
+    "pos": "verb-godan",
+    "level": "n3",
+    "tags": ["verb"],
+    "examples": [
+      {
+        "text": "データが事実を示している。",
+        "reading": "データがじじつをしめしている。",
+        "translation": "Los datos muestran los hechos."
+      }
+    ]
+  },
+  {
+    "word": "認める",
+    "reading": "みとめる",
+    "meanings": ["reconocer / admitir", "to recognize / to admit"],
+    "pos": "verb-ichidan",
+    "level": "n3",
+    "tags": ["verb"],
+    "examples": [
+      {
+        "text": "自分の間違いを認める。",
+        "reading": "じぶんのまちがいをみとめる。",
+        "translation": "Reconocer los propios errores."
+      }
+    ]
+  },
+  {
+    "word": "求める",
+    "reading": "もとめる",
+    "meanings": ["buscar / solicitar / exigir", "to seek / to request / to demand"],
+    "pos": "verb-ichidan",
+    "level": "n3",
+    "tags": ["verb"],
+    "examples": [
+      {
+        "text": "高い品質を求める。",
+        "reading": "たかいひんしつをもとめる。",
+        "translation": "Exigir alta calidad."
+      }
+    ]
+  },
+  {
+    "word": "得る",
+    "reading": "える",
+    "meanings": ["obtener / conseguir", "to obtain / to gain"],
+    "pos": "verb-ichidan",
+    "level": "n3",
+    "tags": ["verb"],
+    "examples": [
+      {
+        "text": "経験から知識を得る。",
+        "reading": "けいけんからちしきをえる。",
+        "translation": "Obtener conocimiento a partir de la experiencia."
+      }
+    ]
+  },
+  {
+    "word": "与える",
+    "reading": "あたえる",
+    "meanings": ["dar / otorgar", "to give / to grant"],
+    "pos": "verb-ichidan",
+    "level": "n3",
+    "tags": ["verb"],
+    "examples": [
+      {
+        "text": "子供に良い教育を与える。",
+        "reading": "こどもによいきょういくをあたえる。",
+        "translation": "Dar una buena educación a los niños."
+      }
+    ]
+  },
+  {
+    "word": "述べる",
+    "reading": "のべる",
+    "meanings": ["expresar / exponer", "to state / to express"],
+    "pos": "verb-ichidan",
+    "level": "n3",
+    "tags": ["verb", "formal"],
+    "examples": [
+      {
+        "text": "自分の意見を述べる。",
+        "reading": "じぶんのいけんをのべる。",
+        "translation": "Expresar la propia opinión."
+      }
+    ]
+  },
+  {
+    "word": "応じる",
+    "reading": "おうじる",
+    "meanings": ["responder / acceder", "to respond / to comply"],
+    "pos": "verb-ichidan",
+    "level": "n3",
+    "tags": ["verb", "formal"],
+    "examples": [
+      {
+        "text": "要求に応じる。",
+        "reading": "ようきゅうにおうじる。",
+        "translation": "Responder a las demandas."
+      }
+    ]
+  },
+  {
+    "word": "保つ",
+    "reading": "たもつ",
+    "meanings": ["mantener / conservar", "to maintain / to keep"],
+    "pos": "verb-godan",
+    "level": "n3",
+    "tags": ["verb"],
+    "examples": [
+      {
+        "text": "健康を保つために運動する。",
+        "reading": "けんこうをたもつためにうんどうする。",
+        "translation": "Hacer ejercicio para mantener la salud."
+      }
+    ]
+  },
+  {
+    "word": "防ぐ",
+    "reading": "ふせぐ",
+    "meanings": ["prevenir / proteger", "to prevent / to defend"],
+    "pos": "verb-godan",
+    "level": "n3",
+    "tags": ["verb"],
+    "examples": [
+      {
+        "text": "病気を防ぐ方法を学ぶ。",
+        "reading": "びょうきをふせぐほうほうをまなぶ。",
+        "translation": "Aprender métodos para prevenir enfermedades."
+      }
+    ]
+  },
+  {
+    "word": "伸びる",
+    "reading": "のびる",
+    "meanings": ["crecer / extenderse", "to grow / to extend"],
+    "pos": "verb-ichidan",
+    "level": "n3",
+    "tags": ["verb"],
+    "examples": [
+      {
+        "text": "売上が大きく伸びた。",
+        "reading": "うりあげがおおきくのびた。",
+        "translation": "Las ventas crecieron significativamente."
+      }
+    ]
+  },
+  {
+    "word": "減る",
+    "reading": "へる",
+    "meanings": ["disminuir / reducirse", "to decrease / to reduce"],
+    "pos": "verb-godan",
+    "level": "n3",
+    "tags": ["verb"],
+    "examples": [
+      {
+        "text": "人口が減っている。",
+        "reading": "じんこうがへっている。",
+        "translation": "La población está disminuyendo."
+      }
+    ]
+  },
+  {
+    "word": "増える",
+    "reading": "ふえる",
+    "meanings": ["aumentar / incrementarse", "to increase"],
+    "pos": "verb-ichidan",
+    "level": "n3",
+    "tags": ["verb"],
+    "examples": [
+      {
+        "text": "外国人観光客が増えている。",
+        "reading": "がいこくじんかんこうきゃくがふえている。",
+        "translation": "Los turistas extranjeros están aumentando."
+      }
+    ]
+  },
+  {
+    "word": "広がる",
+    "reading": "ひろがる",
+    "meanings": ["expandirse / extenderse", "to spread / to expand"],
+    "pos": "verb-godan",
+    "level": "n3",
+    "tags": ["verb"],
+    "examples": [
+      {
+        "text": "噂が広がった。",
+        "reading": "うわさがひろがった。",
+        "translation": "El rumor se extendió."
+      }
+    ]
+  },
+  {
+    "word": "届く",
+    "reading": "とどく",
+    "meanings": ["llegar / alcanzar", "to reach / to arrive"],
+    "pos": "verb-godan",
+    "level": "n3",
+    "tags": ["verb"],
+    "examples": [
+      {
+        "text": "荷物がまだ届いていない。",
+        "reading": "にもつがまだとどいていない。",
+        "translation": "El paquete todavía no ha llegado."
+      }
+    ]
+  },
+  {
+    "word": "届ける",
+    "reading": "とどける",
+    "meanings": ["entregar / enviar", "to deliver / to send"],
+    "pos": "verb-ichidan",
+    "level": "n3",
+    "tags": ["verb"],
+    "examples": [
+      {
+        "text": "書類を役所に届ける。",
+        "reading": "しょるいをやくしょにとどける。",
+        "translation": "Entregar los documentos a la oficina pública."
+      }
+    ]
+  },
+  {
+    "word": "抱える",
+    "reading": "かかえる",
+    "meanings": ["cargar / tener (un problema)", "to hold / to carry / to have (a problem)"],
+    "pos": "verb-ichidan",
+    "level": "n3",
+    "tags": ["verb"],
+    "examples": [
+      {
+        "text": "多くの問題を抱えている。",
+        "reading": "おおくのもんだいをかかえている。",
+        "translation": "Tiene muchos problemas."
+      }
+    ]
+  },
+  {
+    "word": "越える",
+    "reading": "こえる",
+    "meanings": ["superar / cruzar", "to exceed / to cross"],
+    "pos": "verb-ichidan",
+    "level": "n3",
+    "tags": ["verb"],
+    "examples": [
+      {
+        "text": "売上が百万円を越えた。",
+        "reading": "うりあげがひゃくまんえんをこえた。",
+        "translation": "Las ventas superaron el millón de yenes."
+      }
+    ]
+  },
+  {
+    "word": "支える",
+    "reading": "ささえる",
+    "meanings": ["sostener / apoyar", "to support"],
+    "pos": "verb-ichidan",
+    "level": "n3",
+    "tags": ["verb"],
+    "examples": [
+      {
+        "text": "家族が私を支えてくれた。",
+        "reading": "かぞくがわたしをささえてくれた。",
+        "translation": "Mi familia me apoyó."
+      }
+    ]
+  },
+  {
+    "word": "果たす",
+    "reading": "はたす",
+    "meanings": ["cumplir / desempeñar", "to fulfill / to accomplish"],
+    "pos": "verb-godan",
+    "level": "n3",
+    "tags": ["verb"],
+    "examples": [
+      {
+        "text": "重要な役割を果たす。",
+        "reading": "じゅうようなやくわりをはたす。",
+        "translation": "Desempeñar un papel importante."
+      }
+    ]
+  },
+  {
+    "word": "生じる",
+    "reading": "しょうじる",
+    "meanings": ["surgir / producirse", "to arise / to occur"],
+    "pos": "verb-ichidan",
+    "level": "n3",
+    "tags": ["verb", "formal"],
+    "examples": [
+      {
+        "text": "問題が生じた。",
+        "reading": "もんだいがしょうじた。",
+        "translation": "Surgió un problema."
+      }
+    ]
+  },
+  {
+    "word": "占める",
+    "reading": "しめる",
+    "meanings": ["ocupar / representar", "to occupy / to account for"],
+    "pos": "verb-ichidan",
+    "level": "n3",
+    "tags": ["verb"],
+    "examples": [
+      {
+        "text": "女性が全体の半分を占める。",
+        "reading": "じょせいがぜんたいのはんぶんをしめる。",
+        "translation": "Las mujeres representan la mitad del total."
+      }
+    ]
+  },
+  {
+    "word": "基づく",
+    "reading": "もとづく",
+    "meanings": ["basarse en", "to be based on"],
+    "pos": "verb-godan",
+    "level": "n3",
+    "tags": ["verb", "formal"],
+    "examples": [
+      {
+        "text": "事実に基づいて判断する。",
+        "reading": "じじつにもとづいてはんだんする。",
+        "translation": "Juzgar basándose en los hechos."
+      }
+    ]
+  },
+  {
+    "word": "及ぶ",
+    "reading": "およぶ",
+    "meanings": ["alcanzar / llegar a", "to reach / to extend to"],
+    "pos": "verb-godan",
+    "level": "n3",
+    "tags": ["verb", "formal"],
+    "examples": [
+      {
+        "text": "被害は広い範囲に及んだ。",
+        "reading": "ひがいはひろいはんいにおよんだ。",
+        "translation": "Los daños se extendieron a una amplia zona."
+      }
+    ]
+  },
+  {
+    "word": "確認",
+    "reading": "かくにん",
+    "meanings": ["confirmación / verificación", "confirmation / verification"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["verb", "business"],
+    "examples": [
+      {
+        "text": "内容を確認してください。",
+        "reading": "ないようをかくにんしてください。",
+        "translation": "Por favor, verifique el contenido."
+      }
+    ]
+  },
+  {
+    "word": "実施",
+    "reading": "じっし",
+    "meanings": ["implementación / ejecución", "implementation / execution"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["verb", "formal"],
+    "examples": [
+      {
+        "text": "アンケートを実施する。",
+        "reading": "アンケートをじっしする。",
+        "translation": "Realizar una encuesta."
+      }
+    ]
+  },
+  {
+    "word": "確か",
+    "reading": "たしか",
+    "meanings": ["seguro / cierto / si no me equivoco", "certain / sure / if I recall correctly"],
+    "pos": "adverb",
+    "level": "n3",
+    "tags": ["adverb"],
+    "examples": [
+      {
+        "text": "確か、彼は三十歳だったと思う。",
+        "reading": "たしか、かれはさんじゅっさいだったとおもう。",
+        "translation": "Si no me equivoco, creo que él tenía treinta años."
+      }
+    ]
+  },
+  {
+    "word": "明らか",
+    "reading": "あきらか",
+    "meanings": ["evidente / claro", "obvious / clear"],
+    "pos": "na-adjective",
+    "level": "n3",
+    "tags": ["adjective"],
+    "examples": [
+      {
+        "text": "彼の間違いは明らかだ。",
+        "reading": "かれのまちがいはあきらかだ。",
+        "translation": "Su error es evidente."
+      }
+    ]
+  },
+  {
+    "word": "十分",
+    "reading": "じゅうぶん",
+    "meanings": ["suficiente / bastante", "sufficient / enough"],
+    "pos": "na-adjective",
+    "level": "n3",
+    "tags": ["adjective"],
+    "examples": [
+      {
+        "text": "準備は十分ですか。",
+        "reading": "じゅんびはじゅうぶんですか。",
+        "translation": "¿La preparación es suficiente?"
+      }
+    ]
+  },
+  {
+    "word": "重要",
+    "reading": "じゅうよう",
+    "meanings": ["importante", "important"],
+    "pos": "na-adjective",
+    "level": "n3",
+    "tags": ["adjective"],
+    "examples": [
+      {
+        "text": "健康は最も重要だ。",
+        "reading": "けんこうはもっともじゅうようだ。",
+        "translation": "La salud es lo más importante."
+      }
+    ]
+  },
+  {
+    "word": "必要",
+    "reading": "ひつよう",
+    "meanings": ["necesario", "necessary"],
+    "pos": "na-adjective",
+    "level": "n3",
+    "tags": ["adjective"],
+    "examples": [
+      {
+        "text": "もっと努力が必要だ。",
+        "reading": "もっとどりょくがひつようだ。",
+        "translation": "Es necesario más esfuerzo."
+      }
+    ]
+  },
+  {
+    "word": "豊か",
+    "reading": "ゆたか",
+    "meanings": ["abundante / rico", "abundant / rich"],
+    "pos": "na-adjective",
+    "level": "n3",
+    "tags": ["adjective"],
+    "examples": [
+      {
+        "text": "自然が豊かな地域に住みたい。",
+        "reading": "しぜんがゆたかなちいきにすみたい。",
+        "translation": "Quiero vivir en una región rica en naturaleza."
+      }
+    ]
+  },
+  {
+    "word": "適切",
+    "reading": "てきせつ",
+    "meanings": ["apropiado / adecuado", "appropriate / proper"],
+    "pos": "na-adjective",
+    "level": "n3",
+    "tags": ["adjective"],
+    "examples": [
+      {
+        "text": "適切な対応をとる。",
+        "reading": "てきせつなたいおうをとる。",
+        "translation": "Tomar una respuesta apropiada."
+      }
+    ]
+  },
+  {
+    "word": "複雑",
+    "reading": "ふくざつ",
+    "meanings": ["complicado / complejo", "complicated / complex"],
+    "pos": "na-adjective",
+    "level": "n3",
+    "tags": ["adjective"],
+    "examples": [
+      {
+        "text": "この問題は複雑だ。",
+        "reading": "このもんだいはふくざつだ。",
+        "translation": "Este problema es complicado."
+      }
+    ]
+  },
+  {
+    "word": "正確",
+    "reading": "せいかく",
+    "meanings": ["preciso / exacto", "accurate / precise"],
+    "pos": "na-adjective",
+    "level": "n3",
+    "tags": ["adjective"],
+    "examples": [
+      {
+        "text": "正確な情報を伝える。",
+        "reading": "せいかくなじょうほうをつたえる。",
+        "translation": "Transmitir información precisa."
+      }
+    ]
+  },
+  {
+    "word": "深刻",
+    "reading": "しんこく",
+    "meanings": ["grave / serio", "serious / grave"],
+    "pos": "na-adjective",
+    "level": "n3",
+    "tags": ["adjective"],
+    "examples": [
+      {
+        "text": "環境問題は深刻だ。",
+        "reading": "かんきょうもんだいはしんこくだ。",
+        "translation": "El problema ambiental es grave."
+      }
+    ]
+  },
+  {
+    "word": "急激",
+    "reading": "きゅうげき",
+    "meanings": ["drástico / repentino", "drastic / rapid"],
+    "pos": "na-adjective",
+    "level": "n3",
+    "tags": ["adjective"],
+    "examples": [
+      {
+        "text": "気温が急激に下がった。",
+        "reading": "きおんがきゅうげきにさがった。",
+        "translation": "La temperatura bajó drásticamente."
+      }
+    ]
+  },
+  {
+    "word": "具体的",
+    "reading": "ぐたいてき",
+    "meanings": ["concreto / específico", "concrete / specific"],
+    "pos": "na-adjective",
+    "level": "n3",
+    "tags": ["adjective"],
+    "examples": [
+      {
+        "text": "具体的な例を挙げてください。",
+        "reading": "ぐたいてきなれいをあげてください。",
+        "translation": "Por favor, dé un ejemplo concreto."
+      }
+    ]
+  },
+  {
+    "word": "積極的",
+    "reading": "せっきょくてき",
+    "meanings": ["activo / proactivo", "active / proactive"],
+    "pos": "na-adjective",
+    "level": "n3",
+    "tags": ["adjective"],
+    "examples": [
+      {
+        "text": "積極的に意見を述べる。",
+        "reading": "せっきょくてきにいけんをのべる。",
+        "translation": "Expresar opiniones de manera proactiva."
+      }
+    ]
+  },
+  {
+    "word": "効率的",
+    "reading": "こうりつてき",
+    "meanings": ["eficiente", "efficient"],
+    "pos": "na-adjective",
+    "level": "n3",
+    "tags": ["adjective", "business"],
+    "examples": [
+      {
+        "text": "効率的に仕事をする。",
+        "reading": "こうりつてきにしごとをする。",
+        "translation": "Trabajar de manera eficiente."
+      }
+    ]
+  },
+  {
+    "word": "一般的",
+    "reading": "いっぱんてき",
+    "meanings": ["general / común", "general / common"],
+    "pos": "na-adjective",
+    "level": "n3",
+    "tags": ["adjective"],
+    "examples": [
+      {
+        "text": "一般的に日本人は礼儀正しい。",
+        "reading": "いっぱんてきににほんじんはれいぎただしい。",
+        "translation": "En general, los japoneses son corteses."
+      }
+    ]
+  },
+  {
+    "word": "厳しい",
+    "reading": "きびしい",
+    "meanings": ["estricto / severo / duro", "strict / severe / harsh"],
+    "pos": "adjective-i",
+    "level": "n3",
+    "tags": ["adjective"],
+    "examples": [
+      {
+        "text": "今年の冬は寒さが厳しい。",
+        "reading": "ことしのふゆはさむさがきびしい。",
+        "translation": "El frío de este invierno es severo."
+      }
+    ]
+  },
+  {
+    "word": "激しい",
+    "reading": "はげしい",
+    "meanings": ["intenso / violento", "intense / violent"],
+    "pos": "adjective-i",
+    "level": "n3",
+    "tags": ["adjective"],
+    "examples": [
+      {
+        "text": "激しい雨が降っている。",
+        "reading": "はげしいあめがふっている。",
+        "translation": "Está lloviendo intensamente."
+      }
+    ]
+  },
+  {
+    "word": "鋭い",
+    "reading": "するどい",
+    "meanings": ["agudo / afilado", "sharp / keen"],
+    "pos": "adjective-i",
+    "level": "n3",
+    "tags": ["adjective"],
+    "examples": [
+      {
+        "text": "彼女は鋭い質問をした。",
+        "reading": "かのじょはするどいしつもんをした。",
+        "translation": "Ella hizo una pregunta aguda."
+      }
+    ]
+  },
+  {
+    "word": "著しい",
+    "reading": "いちじるしい",
+    "meanings": ["notable / marcado", "remarkable / notable"],
+    "pos": "adjective-i",
+    "level": "n3",
+    "tags": ["adjective", "formal"],
+    "examples": [
+      {
+        "text": "技術の著しい進歩が見られる。",
+        "reading": "ぎじゅつのいちじるしいしんぽがみられる。",
+        "translation": "Se observa un progreso notable en la tecnología."
+      }
+    ]
+  },
+  {
+    "word": "なるべく",
+    "reading": "なるべく",
+    "meanings": ["en la medida de lo posible", "as much as possible"],
+    "pos": "adverb",
+    "level": "n3",
+    "tags": ["adverb"],
+    "examples": [
+      {
+        "text": "なるべく早く返事してください。",
+        "reading": "なるべくはやくへんじしてください。",
+        "translation": "Por favor, responda lo antes posible."
+      }
+    ]
+  },
+  {
+    "word": "つまり",
+    "reading": "つまり",
+    "meanings": ["es decir / en resumen", "in other words / that is to say"],
+    "pos": "adverb",
+    "level": "n3",
+    "tags": ["adverb"],
+    "examples": [
+      {
+        "text": "つまり、あなたは賛成ですか。",
+        "reading": "つまり、あなたはさんせいですか。",
+        "translation": "Es decir, ¿usted está de acuerdo?"
+      }
+    ]
+  },
+  {
+    "word": "実は",
+    "reading": "じつは",
+    "meanings": ["en realidad / de hecho", "actually / in fact"],
+    "pos": "adverb",
+    "level": "n3",
+    "tags": ["adverb"],
+    "examples": [
+      {
+        "text": "実は、私は日本語を勉強しています。",
+        "reading": "じつは、わたしはにほんごをべんきょうしています。",
+        "translation": "En realidad, estoy estudiando japonés."
+      }
+    ]
+  },
+  {
+    "word": "ほとんど",
+    "reading": "ほとんど",
+    "meanings": ["casi / la mayor parte", "almost / mostly"],
+    "pos": "adverb",
+    "level": "n3",
+    "tags": ["adverb"],
+    "examples": [
+      {
+        "text": "宿題はほとんど終わった。",
+        "reading": "しゅくだいはほとんどおわった。",
+        "translation": "La tarea está casi terminada."
+      }
+    ]
+  },
+  {
+    "word": "ますます",
+    "reading": "ますます",
+    "meanings": ["cada vez más", "more and more / increasingly"],
+    "pos": "adverb",
+    "level": "n3",
+    "tags": ["adverb"],
+    "examples": [
+      {
+        "text": "問題はますます深刻になっている。",
+        "reading": "もんだいはますますしんこくになっている。",
+        "translation": "El problema se está volviendo cada vez más grave."
+      }
+    ]
+  },
+  {
+    "word": "一方",
+    "reading": "いっぽう",
+    "meanings": ["por otro lado / mientras que", "on the other hand / while"],
+    "pos": "adverb",
+    "level": "n3",
+    "tags": ["adverb", "formal"],
+    "examples": [
+      {
+        "text": "経済は成長している。一方、格差も広がっている。",
+        "reading": "けいざいはせいちょうしている。いっぽう、かくさもひろがっている。",
+        "translation": "La economía está creciendo. Por otro lado, la desigualdad también se está extendiendo."
+      }
+    ]
+  },
+  {
+    "word": "そもそも",
+    "reading": "そもそも",
+    "meanings": ["en primer lugar / para empezar", "in the first place / to begin with"],
+    "pos": "adverb",
+    "level": "n3",
+    "tags": ["adverb"],
+    "examples": [
+      {
+        "text": "そもそも、この計画には無理がある。",
+        "reading": "そもそも、このけいかくにはむりがある。",
+        "translation": "Para empezar, este plan es inviable."
+      }
+    ]
+  },
+  {
+    "word": "やはり",
+    "reading": "やはり",
+    "meanings": ["como era de esperar / al fin y al cabo", "as expected / after all"],
+    "pos": "adverb",
+    "level": "n3",
+    "tags": ["adverb"],
+    "examples": [
+      {
+        "text": "やはり、勉強は大切だ。",
+        "reading": "やはり、べんきょうはたいせつだ。",
+        "translation": "Como era de esperar, estudiar es importante."
+      }
+    ]
+  },
+  {
+    "word": "むしろ",
+    "reading": "むしろ",
+    "meanings": ["más bien / mejor dicho", "rather / instead"],
+    "pos": "adverb",
+    "level": "n3",
+    "tags": ["adverb"],
+    "examples": [
+      {
+        "text": "嫌ではない。むしろ、嬉しい。",
+        "reading": "いやではない。むしろ、うれしい。",
+        "translation": "No me molesta. Más bien, estoy contento."
+      }
+    ]
+  },
+  {
+    "word": "少なくとも",
+    "reading": "すくなくとも",
+    "meanings": ["al menos / como mínimo", "at least"],
+    "pos": "adverb",
+    "level": "n3",
+    "tags": ["adverb"],
+    "examples": [
+      {
+        "text": "少なくとも三日はかかる。",
+        "reading": "すくなくともみっかはかかる。",
+        "translation": "Tardará al menos tres días."
+      }
+    ]
+  },
+  {
+    "word": "つい",
+    "reading": "つい",
+    "meanings": ["sin querer / involuntariamente", "unintentionally / accidentally"],
+    "pos": "adverb",
+    "level": "n3",
+    "tags": ["adverb"],
+    "examples": [
+      {
+        "text": "つい食べ過ぎてしまった。",
+        "reading": "ついたべすぎてしまった。",
+        "translation": "Sin querer comí demasiado."
+      }
+    ]
+  },
+  {
+    "word": "従う",
+    "reading": "したがう",
+    "meanings": ["obedecer / seguir", "to obey / to follow"],
+    "pos": "verb-godan",
+    "level": "n3",
+    "tags": ["formal"],
+    "examples": [
+      {
+        "text": "ルールに従ってください。",
+        "reading": "ルールにしたがってください。",
+        "translation": "Por favor, siga las reglas."
+      }
+    ]
+  },
+  {
+    "word": "申し上げる",
+    "reading": "もうしあげる",
+    "meanings": ["decir (humilde)", "to say (humble)"],
+    "pos": "verb-ichidan",
+    "level": "n3",
+    "tags": ["formal", "keigo"],
+    "examples": [
+      {
+        "text": "一つ申し上げたいことがございます。",
+        "reading": "ひとつもうしあげたいことがございます。",
+        "translation": "Hay algo que quisiera decirle."
+      }
+    ]
+  },
+  {
+    "word": "存じる",
+    "reading": "ぞんじる",
+    "meanings": ["saber / conocer (humilde)", "to know (humble)"],
+    "pos": "verb-ichidan",
+    "level": "n3",
+    "tags": ["formal", "keigo"],
+    "examples": [
+      {
+        "text": "そのことは存じております。",
+        "reading": "そのことはぞんじております。",
+        "translation": "Estoy al tanto de eso."
+      }
+    ]
+  },
+  {
+    "word": "いたす",
+    "reading": "いたす",
+    "meanings": ["hacer (humilde)", "to do (humble)"],
+    "pos": "verb-godan",
+    "level": "n3",
+    "tags": ["formal", "keigo"],
+    "examples": [
+      {
+        "text": "私がご案内いたします。",
+        "reading": "わたくしがごあんないいたします。",
+        "translation": "Yo le guiaré."
+      }
+    ]
+  },
+  {
+    "word": "おっしゃる",
+    "reading": "おっしゃる",
+    "meanings": ["decir (honorífico)", "to say (honorific)"],
+    "pos": "verb-godan",
+    "level": "n3",
+    "tags": ["formal", "keigo"],
+    "examples": [
+      {
+        "text": "先生がおっしゃった通りにする。",
+        "reading": "せんせいがおっしゃったとおりにする。",
+        "translation": "Haré como dijo el profesor."
+      }
+    ]
+  },
+  {
+    "word": "いらっしゃる",
+    "reading": "いらっしゃる",
+    "meanings": ["estar / ir / venir (honorífico)", "to be / to go / to come (honorific)"],
+    "pos": "verb-godan",
+    "level": "n3",
+    "tags": ["formal", "keigo"],
+    "examples": [
+      {
+        "text": "社長はいらっしゃいますか。",
+        "reading": "しゃちょうはいらっしゃいますか。",
+        "translation": "¿Está el presidente de la empresa?"
+      }
+    ]
+  },
+  {
+    "word": "ご覧になる",
+    "reading": "ごらんになる",
+    "meanings": ["ver / mirar (honorífico)", "to see / to look (honorific)"],
+    "pos": "verb-godan",
+    "level": "n3",
+    "tags": ["formal", "keigo"],
+    "examples": [
+      {
+        "text": "こちらの資料をご覧になってください。",
+        "reading": "こちらのしりょうをごらんになってください。",
+        "translation": "Por favor, vea estos materiales."
+      }
+    ]
+  },
+  {
+    "word": "拝見する",
+    "reading": "はいけんする",
+    "meanings": ["ver / mirar (humilde)", "to see / to look (humble)"],
+    "pos": "verb-suru",
+    "level": "n3",
+    "tags": ["formal", "keigo"],
+    "examples": [
+      {
+        "text": "お写真を拝見しました。",
+        "reading": "おしゃしんをはいけんしました。",
+        "translation": "Vi su fotografía."
+      }
+    ]
+  },
+  {
+    "word": "参る",
+    "reading": "まいる",
+    "meanings": ["ir / venir (humilde)", "to go / to come (humble)"],
+    "pos": "verb-godan",
+    "level": "n3",
+    "tags": ["formal", "keigo"],
+    "examples": [
+      {
+        "text": "ただ今参ります。",
+        "reading": "ただいままいります。",
+        "translation": "Voy enseguida."
+      }
+    ]
+  },
+  {
+    "word": "承知する",
+    "reading": "しょうちする",
+    "meanings": ["entender / aceptar (formal)", "to understand / to accept (formal)"],
+    "pos": "verb-suru",
+    "level": "n3",
+    "tags": ["formal", "keigo"],
+    "examples": [
+      {
+        "text": "承知しました。すぐに対応いたします。",
+        "reading": "しょうちしました。すぐにたいおういたします。",
+        "translation": "Entendido. Me encargaré de inmediato."
+      }
+    ]
+  },
+  {
+    "word": "お詫び",
+    "reading": "おわび",
+    "meanings": ["disculpa (formal)", "apology (formal)"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["formal", "keigo"],
+    "examples": [
+      {
+        "text": "ご迷惑をおかけしたことをお詫び申し上げます。",
+        "reading": "ごめいわくをおかけしたことをおわびもうしあげます。",
+        "translation": "Le pido disculpas por las molestias causadas."
+      }
+    ]
+  },
+  {
+    "word": "お手数",
+    "reading": "おてすう",
+    "meanings": ["molestia (formal)", "trouble / inconvenience (formal)"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["formal"],
+    "examples": [
+      {
+        "text": "お手数ですが、もう一度お願いします。",
+        "reading": "おてすうですが、もういちどおねがいします。",
+        "translation": "Lamento la molestia, pero se lo pido una vez más."
+      }
+    ]
+  },
+  {
+    "word": "ご遠慮",
+    "reading": "ごえんりょ",
+    "meanings": ["abstenerse (formal)", "refraining (formal)"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["formal"],
+    "examples": [
+      {
+        "text": "館内での飲食はご遠慮ください。",
+        "reading": "かんないでのいんしょくはごえんりょください。",
+        "translation": "Por favor, absténgase de comer y beber dentro del edificio."
+      }
+    ]
+  },
+  {
+    "word": "お陰様で",
+    "reading": "おかげさまで",
+    "meanings": ["gracias a usted / afortunadamente", "thanks to you / fortunately"],
+    "pos": "expression",
+    "level": "n3",
+    "tags": ["formal"],
+    "examples": [
+      {
+        "text": "お陰様で、プロジェクトは成功しました。",
+        "reading": "おかげさまで、プロジェクトはせいこうしました。",
+        "translation": "Gracias a usted, el proyecto fue un éxito."
+      }
+    ]
+  },
+  {
+    "word": "ご了承",
+    "reading": "ごりょうしょう",
+    "meanings": ["comprensión / aceptación (formal)", "understanding / consent (formal)"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["formal"],
+    "examples": [
+      {
+        "text": "あらかじめご了承ください。",
+        "reading": "あらかじめごりょうしょうください。",
+        "translation": "Le rogamos su comprensión de antemano."
+      }
+    ]
+  },
+  {
+    "word": "恐れ入りますが",
+    "reading": "おそれいりますが",
+    "meanings": ["disculpe pero... / lamento molestarle pero...", "I'm sorry to trouble you but..."],
+    "pos": "expression",
+    "level": "n3",
+    "tags": ["formal"],
+    "examples": [
+      {
+        "text": "恐れ入りますが、お名前をお聞かせいただけますか。",
+        "reading": "おそれいりますが、おなまえをおきかせいただけますか。",
+        "translation": "Disculpe, ¿podría decirme su nombre?"
+      }
+    ]
+  },
+  {
+    "word": "お差し支えなければ",
+    "reading": "おさしつかえなければ",
+    "meanings": ["si no es inconveniente", "if it's not too much trouble"],
+    "pos": "expression",
+    "level": "n3",
+    "tags": ["formal"],
+    "examples": [
+      {
+        "text": "お差し支えなければ、ご住所を教えていただけますか。",
+        "reading": "おさしつかえなければ、ごじゅうしょをおしえていただけますか。",
+        "translation": "Si no es inconveniente, ¿podría darme su dirección?"
+      }
+    ]
+  },
+  {
+    "word": "何卒",
+    "reading": "なにとぞ",
+    "meanings": ["por favor (muy formal)", "please (very formal)"],
+    "pos": "adverb",
+    "level": "n3",
+    "tags": ["formal"],
+    "examples": [
+      {
+        "text": "何卒よろしくお願いいたします。",
+        "reading": "なにとぞよろしくおねがいいたします。",
+        "translation": "Le ruego encarecidamente su cooperación."
+      }
+    ]
+  },
+  {
+    "word": "ご検討",
+    "reading": "ごけんとう",
+    "meanings": ["consideración (formal)", "consideration (formal)"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["formal", "business"],
+    "examples": [
+      {
+        "text": "ご検討のほど、よろしくお願いいたします。",
+        "reading": "ごけんとうのほど、よろしくおねがいいたします。",
+        "translation": "Le agradecería que lo considere."
+      }
+    ]
+  },
+  {
+    "word": "意義",
+    "reading": "いぎ",
+    "meanings": ["significado / sentido", "significance / meaning"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["abstract"],
+    "examples": [
+      {
+        "text": "この研究の意義は大きい。",
+        "reading": "このけんきゅうのいぎはおおきい。",
+        "translation": "El significado de esta investigación es grande."
+      }
+    ]
+  },
+  {
+    "word": "意識",
+    "reading": "いしき",
+    "meanings": ["conciencia / consciencia", "consciousness / awareness"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["abstract"],
+    "examples": [
+      {
+        "text": "環境に対する意識が高まっている。",
+        "reading": "かんきょうにたいするいしきがたかまっている。",
+        "translation": "La conciencia ambiental está aumentando."
+      }
+    ]
+  },
+  {
+    "word": "概念",
+    "reading": "がいねん",
+    "meanings": ["concepto / noción", "concept / notion"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["abstract"],
+    "examples": [
+      {
+        "text": "時間の概念は文化によって異なる。",
+        "reading": "じかんのがいねんはぶんかによってことなる。",
+        "translation": "El concepto de tiempo difiere según la cultura."
+      }
+    ]
+  },
+  {
+    "word": "本質",
+    "reading": "ほんしつ",
+    "meanings": ["esencia / naturaleza", "essence / nature"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["abstract"],
+    "examples": [
+      {
+        "text": "問題の本質を理解する。",
+        "reading": "もんだいのほんしつをりかいする。",
+        "translation": "Comprender la esencia del problema."
+      }
+    ]
+  },
+  {
+    "word": "役割",
+    "reading": "やくわり",
+    "meanings": ["papel / función / rol", "role / function"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["abstract"],
+    "examples": [
+      {
+        "text": "教育は重要な役割を果たす。",
+        "reading": "きょういくはじゅうようなやくわりをはたす。",
+        "translation": "La educación desempeña un papel importante."
+      }
+    ]
+  },
+  {
+    "word": "関係",
+    "reading": "かんけい",
+    "meanings": ["relación / conexión", "relationship / connection"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["abstract"],
+    "examples": [
+      {
+        "text": "二つの出来事の間には関係がある。",
+        "reading": "ふたつのできごとのあいだにはかんけいがある。",
+        "translation": "Hay una relación entre los dos sucesos."
+      }
+    ]
+  },
+  {
+    "word": "判断",
+    "reading": "はんだん",
+    "meanings": ["juicio / decisión", "judgment / decision"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["abstract"],
+    "examples": [
+      {
+        "text": "冷静に判断することが大切だ。",
+        "reading": "れいせいにはんだんすることがたいせつだ。",
+        "translation": "Es importante juzgar con calma."
+      }
+    ]
+  },
+  {
+    "word": "影響力",
+    "reading": "えいきょうりょく",
+    "meanings": ["influencia / poder de influencia", "influence / clout"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["abstract"],
+    "examples": [
+      {
+        "text": "SNSの影響力は大きい。",
+        "reading": "エスエヌエスのえいきょうりょくはおおきい。",
+        "translation": "La influencia de las redes sociales es grande."
+      }
+    ]
+  },
+  {
+    "word": "責任",
+    "reading": "せきにん",
+    "meanings": ["responsabilidad", "responsibility"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["abstract"],
+    "examples": [
+      {
+        "text": "自分の行動に責任を持つ。",
+        "reading": "じぶんのこうどうにせきにんをもつ。",
+        "translation": "Asumir la responsabilidad de las propias acciones."
+      }
+    ]
+  },
+  {
+    "word": "自由",
+    "reading": "じゆう",
+    "meanings": ["libertad", "freedom / liberty"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["abstract"],
+    "examples": [
+      {
+        "text": "表現の自由は大切だ。",
+        "reading": "ひょうげんのじゆうはたいせつだ。",
+        "translation": "La libertad de expresión es importante."
+      }
+    ]
+  },
+  {
+    "word": "常識",
+    "reading": "じょうしき",
+    "meanings": ["sentido común", "common sense"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["abstract"],
+    "examples": [
+      {
+        "text": "それは常識だと思う。",
+        "reading": "それはじょうしきだとおもう。",
+        "translation": "Creo que eso es sentido común."
+      }
+    ]
+  },
+  {
+    "word": "矛盾",
+    "reading": "むじゅん",
+    "meanings": ["contradicción", "contradiction"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["abstract"],
+    "examples": [
+      {
+        "text": "彼の話には矛盾がある。",
+        "reading": "かれのはなしにはむじゅんがある。",
+        "translation": "Su historia tiene contradicciones."
+      }
+    ]
+  },
+  {
+    "word": "前提",
+    "reading": "ぜんてい",
+    "meanings": ["premisa / supuesto", "premise / assumption"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["abstract"],
+    "examples": [
+      {
+        "text": "この計画は全員の参加を前提としている。",
+        "reading": "このけいかくはぜんいんのさんかをぜんていとしている。",
+        "translation": "Este plan se basa en la premisa de la participación de todos."
+      }
+    ]
+  },
+  {
+    "word": "見解",
+    "reading": "けんかい",
+    "meanings": ["punto de vista / opinión", "view / opinion"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["abstract"],
+    "examples": [
+      {
+        "text": "専門家の見解を聞きたい。",
+        "reading": "せんもんかのけんかいをききたい。",
+        "translation": "Quiero escuchar la opinión de un experto."
+      }
+    ]
+  },
+  {
+    "word": "根本",
+    "reading": "こんぽん",
+    "meanings": ["raíz / fundamento", "root / foundation"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["abstract"],
+    "examples": [
+      {
+        "text": "根本的な解決策を見つける。",
+        "reading": "こんぽんてきなかいけつさくをみつける。",
+        "translation": "Encontrar una solución fundamental."
+      }
+    ]
+  },
+  {
+    "word": "存在",
+    "reading": "そんざい",
+    "meanings": ["existencia", "existence"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["abstract"],
+    "examples": [
+      {
+        "text": "その問題の存在を認識する。",
+        "reading": "そのもんだいのそんざいをにんしきする。",
+        "translation": "Reconocer la existencia de ese problema."
+      }
+    ]
+  },
+  {
+    "word": "原則",
+    "reading": "げんそく",
+    "meanings": ["principio / regla general", "principle / general rule"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["abstract"],
+    "examples": [
+      {
+        "text": "原則として、返品はできません。",
+        "reading": "げんそくとして、へんぴんはできません。",
+        "translation": "Como regla general, no se aceptan devoluciones."
+      }
+    ]
+  },
+  {
+    "word": "仕組み",
+    "reading": "しくみ",
+    "meanings": ["mecanismo / estructura / sistema", "mechanism / structure / system"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["abstract"],
+    "examples": [
+      {
+        "text": "この仕組みを理解するのは難しい。",
+        "reading": "このしくみをりかいするのはむずかしい。",
+        "translation": "Es difícil entender este mecanismo."
+      }
+    ]
+  },
+  {
+    "word": "工夫",
+    "reading": "くふう",
+    "meanings": ["ingenio / invención / idea", "ingenuity / device / idea"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["abstract"],
+    "examples": [
+      {
+        "text": "料理には工夫が必要だ。",
+        "reading": "りょうりにはくふうがひつようだ。",
+        "translation": "La cocina requiere ingenio."
+      }
+    ]
+  },
+  {
+    "word": "努力",
+    "reading": "どりょく",
+    "meanings": ["esfuerzo", "effort"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["abstract"],
+    "examples": [
+      {
+        "text": "目標を達成するために努力する。",
+        "reading": "もくひょうをたっせいするためにどりょくする。",
+        "translation": "Esforzarse para alcanzar la meta."
+      }
+    ]
+  },
+  {
+    "word": "信頼",
+    "reading": "しんらい",
+    "meanings": ["confianza", "trust / confidence"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["abstract"],
+    "examples": [
+      {
+        "text": "信頼関係を築くことが大切だ。",
+        "reading": "しんらいかんけいをきずくことがたいせつだ。",
+        "translation": "Es importante construir una relación de confianza."
+      }
+    ]
+  },
+  {
+    "word": "実態",
+    "reading": "じったい",
+    "meanings": ["realidad / situación real", "actual situation / reality"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["abstract"],
+    "examples": [
+      {
+        "text": "問題の実態を調査する。",
+        "reading": "もんだいのじったいをちょうさする。",
+        "translation": "Investigar la realidad del problema."
+      }
+    ]
+  },
+  {
+    "word": "理念",
+    "reading": "りねん",
+    "meanings": ["ideal / filosofía / principio", "ideal / philosophy / principle"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["abstract"],
+    "examples": [
+      {
+        "text": "会社の理念に共感する。",
+        "reading": "かいしゃのりねんにきょうかんする。",
+        "translation": "Simpatizar con la filosofía de la empresa."
+      }
+    ]
+  },
+  {
+    "word": "発展",
+    "reading": "はってん",
+    "meanings": ["desarrollo / progreso", "development / progress"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["abstract"],
+    "examples": [
+      {
+        "text": "経済の発展に貢献する。",
+        "reading": "けいざいのはってんにこうけんする。",
+        "translation": "Contribuir al desarrollo económico."
+      }
+    ]
+  },
+  {
+    "word": "変化",
+    "reading": "へんか",
+    "meanings": ["cambio / transformación", "change / transformation"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["abstract"],
+    "examples": [
+      {
+        "text": "社会の変化に対応する。",
+        "reading": "しゃかいのへんかにたいおうする。",
+        "translation": "Adaptarse a los cambios de la sociedad."
+      }
+    ]
+  },
+  {
+    "word": "共通",
+    "reading": "きょうつう",
+    "meanings": ["común / compartido", "common / shared"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["abstract"],
+    "examples": [
+      {
+        "text": "二人には共通の趣味がある。",
+        "reading": "ふたりにはきょうつうのしゅみがある。",
+        "translation": "Los dos tienen un hobby en común."
+      }
+    ]
+  },
+  {
+    "word": "範囲",
+    "reading": "はんい",
+    "meanings": ["rango / alcance / ámbito", "range / scope / extent"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["abstract"],
+    "examples": [
+      {
+        "text": "試験の範囲が発表された。",
+        "reading": "しけんのはんいがはっぴょうされた。",
+        "translation": "Se anunció el alcance del examen."
+      }
+    ]
+  },
+  {
+    "word": "主張",
+    "reading": "しゅちょう",
+    "meanings": ["afirmación / argumento", "claim / assertion"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["abstract"],
+    "examples": [
+      {
+        "text": "自分の主張を明確にする。",
+        "reading": "じぶんのしゅちょうをめいかくにする。",
+        "translation": "Dejar clara la propia afirmación."
+      }
+    ]
+  },
+  {
+    "word": "維持",
+    "reading": "いじ",
+    "meanings": ["mantenimiento / conservación", "maintenance / preservation"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["abstract"],
+    "examples": [
+      {
+        "text": "健康を維持するために運動する。",
+        "reading": "けんこうをいじするためにうんどうする。",
+        "translation": "Hacer ejercicio para mantener la salud."
+      }
+    ]
+  },
+  {
+    "word": "把握",
+    "reading": "はあく",
+    "meanings": ["comprensión / captación", "grasp / understanding"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["abstract"],
+    "examples": [
+      {
+        "text": "状況を把握することが先決だ。",
+        "reading": "じょうきょうをはあくすることがせんけつだ。",
+        "translation": "Lo primero es comprender la situación."
+      }
+    ]
+  },
+  {
+    "word": "展開",
+    "reading": "てんかい",
+    "meanings": ["desarrollo / despliegue", "development / deployment"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["abstract"],
+    "examples": [
+      {
+        "text": "事業を海外に展開する。",
+        "reading": "じぎょうをかいがいにてんかいする。",
+        "translation": "Expandir el negocio al extranjero."
+      }
+    ]
+  },
+  {
+    "word": "対応",
+    "reading": "たいおう",
+    "meanings": ["respuesta / correspondencia / adaptación", "response / correspondence / adaptation"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["business"],
+    "examples": [
+      {
+        "text": "問題に迅速に対応する。",
+        "reading": "もんだいにじんそくにたいおうする。",
+        "translation": "Responder rápidamente al problema."
+      }
+    ]
+  },
+  {
+    "word": "実績",
+    "reading": "じっせき",
+    "meanings": ["logros / resultados", "achievements / track record"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["business"],
+    "examples": [
+      {
+        "text": "彼は営業で素晴らしい実績を残した。",
+        "reading": "かれはえいぎょうですばらしいじっせきをのこした。",
+        "translation": "Él dejó resultados excelentes en ventas."
+      }
+    ]
+  },
+  {
+    "word": "偏る",
+    "reading": "かたよる",
+    "meanings": ["sesgarse / inclinarse / ser parcial", "to be biased / to lean / to be unbalanced"],
+    "pos": "verb-godan",
+    "level": "n3",
+    "tags": ["verb"],
+    "examples": [
+      {
+        "text": "食事が肉に偏っている。",
+        "reading": "しょくじがにくにかたよっている。",
+        "translation": "La dieta está desbalanceada hacia la carne."
+      }
+    ]
+  },
+  {
+    "word": "補う",
+    "reading": "おぎなう",
+    "meanings": ["complementar / compensar", "to supplement / to compensate"],
+    "pos": "verb-godan",
+    "level": "n3",
+    "tags": ["verb"],
+    "examples": [
+      {
+        "text": "不足分を補うために残業した。",
+        "reading": "ふそくぶんをおぎなうためにざんぎょうした。",
+        "translation": "Trabajé horas extra para compensar la falta."
+      }
+    ]
+  },
+  {
+    "word": "柔軟",
+    "reading": "じゅうなん",
+    "meanings": ["flexible", "flexible / supple"],
+    "pos": "na-adjective",
+    "level": "n3",
+    "tags": ["adjective"],
+    "examples": [
+      {
+        "text": "柔軟な考え方が大切だ。",
+        "reading": "じゅうなんなかんがえかたがたいせつだ。",
+        "translation": "Una forma de pensar flexible es importante."
+      }
+    ]
+  },
+  {
+    "word": "微妙",
+    "reading": "びみょう",
+    "meanings": ["sutil / delicado / dudoso", "subtle / delicate / questionable"],
+    "pos": "na-adjective",
+    "level": "n3",
+    "tags": ["adjective"],
+    "examples": [
+      {
+        "text": "二つの色の違いは微妙だ。",
+        "reading": "ふたつのいろのちがいはびみょうだ。",
+        "translation": "La diferencia entre los dos colores es sutil."
+      }
+    ]
+  },
+  {
+    "word": "誇り",
+    "reading": "ほこり",
+    "meanings": ["orgullo", "pride"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["emotion"],
+    "examples": [
+      {
+        "text": "自分の仕事に誇りを持っている。",
+        "reading": "じぶんのしごとにほこりをもっている。",
+        "translation": "Estoy orgulloso de mi trabajo."
+      }
+    ]
+  },
+  {
+    "word": "途中",
+    "reading": "とちゅう",
+    "meanings": ["en el camino / a mitad de", "on the way / midway"],
+    "pos": "noun",
+    "level": "n3",
+    "tags": ["abstract"],
+    "examples": [
+      {
+        "text": "仕事の途中で電話が来た。",
+        "reading": "しごとのとちゅうででんわがきた。",
+        "translation": "Recibí una llamada a mitad del trabajo."
+      }
+    ]
+  }
+]

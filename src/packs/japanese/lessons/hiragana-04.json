@@ -1,0 +1,81 @@
+{
+  "id": "hiragana-04",
+  "title": "Hiragana: た行 (ta, chi, tsu, te, to)",
+  "description": "Aprendé los cinco caracteres de la fila た: ta, chi, tsu, te, to. Cuidado: ち se lee 'chi' y つ se lee 'tsu'.",
+  "level": "n5",
+  "category": "characters",
+  "items": [
+    {
+      "front": "た",
+      "back": "ta",
+      "reading": "ta",
+      "explanation": "た se pronuncia 'ta'. Aparece en palabras como たべる (taberu, comer) y たかい (takai, alto/caro).",
+      "mnemonic": "た looks like \"ta-da!\"",
+      "cardRef": { "category": "characters", "front": "た" }
+    },
+    {
+      "front": "ち",
+      "back": "chi",
+      "reading": "chi",
+      "explanation": "ち se pronuncia 'chi' (no 'ti'). Aparece en ちいさい (chiisai, pequeño) y ちかてつ (chikatetsu, metro).",
+      "mnemonic": "ち looks like a CHIcken leg",
+      "cardRef": { "category": "characters", "front": "ち" }
+    },
+    {
+      "front": "つ",
+      "back": "tsu",
+      "reading": "tsu",
+      "explanation": "つ se pronuncia 'tsu' (no 'tu'). Aparece en つくえ (tsukue, escritorio) y つき (tsuki, luna).",
+      "mnemonic": "つ looks like a TSUnami wave",
+      "cardRef": { "category": "characters", "front": "つ" }
+    },
+    {
+      "front": "て",
+      "back": "te",
+      "reading": "te",
+      "explanation": "て se pronuncia 'te'. Aparece en てがみ (tegami, carta) y てんき (tenki, clima).",
+      "mnemonic": "て looks like a TElephone pole with wire",
+      "cardRef": { "category": "characters", "front": "て" }
+    },
+    {
+      "front": "と",
+      "back": "to",
+      "reading": "to",
+      "explanation": "と se pronuncia 'to'. Aparece en ともだち (tomodachi, amigo) y とり (tori, pájaro).",
+      "mnemonic": "と looks like a TOe with a nail",
+      "cardRef": { "category": "characters", "front": "と" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Conocé la fila た",
+      "instruction": "Estos son los cinco caracteres de la fila た (t-). Prestá atención a ち ('chi') y つ ('tsu'), que tienen lecturas irregulares.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es cuál?",
+      "instruction": "Elegí la lectura correcta para cada carácter.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "recall",
+      "title": "Ahora al revés",
+      "instruction": "Ves la lectura en romaji. Escribí o elegí el hiragana correcto.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "write",
+      "title": "Escribilo vos",
+      "instruction": "Escribí el hiragana que corresponde a cada sonido.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste た, ち, つ, て, と. Ahora van a aparecer en tus repasos diarios.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    }
+  ]
+}

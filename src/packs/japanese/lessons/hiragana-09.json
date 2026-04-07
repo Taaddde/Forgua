@@ -1,0 +1,210 @@
+{
+  "id": "hiragana-09",
+  "title": "Hiragana: Dakuten (゛) y Handakuten (゜)",
+  "description": "Aprendé los 25 caracteres con dakuten y handakuten. El dakuten (゛) sonoriza la consonante (k→g, s→z, t→d, h→b) y el handakuten (゜) convierte la fila h en p.",
+  "level": "n5",
+  "category": "characters",
+  "items": [
+    {
+      "front": "が",
+      "back": "ga",
+      "reading": "ga",
+      "explanation": "が es か con dakuten. El sonido k se sonoriza a g. Aparece en がっこう (gakkou, escuela) y también como partícula de sujeto.",
+      "cardRef": { "category": "characters", "front": "が" }
+    },
+    {
+      "front": "ぎ",
+      "back": "gi",
+      "reading": "gi",
+      "explanation": "ぎ es き con dakuten. El sonido ki se sonoriza a gi. Aparece en ぎんこう (ginkou, banco).",
+      "cardRef": { "category": "characters", "front": "ぎ" }
+    },
+    {
+      "front": "ぐ",
+      "back": "gu",
+      "reading": "gu",
+      "explanation": "ぐ es く con dakuten. El sonido ku se sonoriza a gu. Aparece en ぐうぜん (guuzen, casualidad).",
+      "cardRef": { "category": "characters", "front": "ぐ" }
+    },
+    {
+      "front": "げ",
+      "back": "ge",
+      "reading": "ge",
+      "explanation": "げ es け con dakuten. El sonido ke se sonoriza a ge. Aparece en げんき (genki, energía/bien).",
+      "cardRef": { "category": "characters", "front": "げ" }
+    },
+    {
+      "front": "ご",
+      "back": "go",
+      "reading": "go",
+      "explanation": "ご es こ con dakuten. El sonido ko se sonoriza a go. Aparece en ごご (gogo, tarde/PM).",
+      "cardRef": { "category": "characters", "front": "ご" }
+    },
+    {
+      "front": "ざ",
+      "back": "za",
+      "reading": "za",
+      "explanation": "ざ es さ con dakuten. El sonido sa se sonoriza a za. Aparece en ざっし (zasshi, revista).",
+      "cardRef": { "category": "characters", "front": "ざ" }
+    },
+    {
+      "front": "じ",
+      "back": "ji",
+      "reading": "ji",
+      "explanation": "じ es し con dakuten. El sonido shi se sonoriza a ji. Aparece en じかん (jikan, tiempo) y じてんしゃ (jitensha, bicicleta).",
+      "cardRef": { "category": "characters", "front": "じ" }
+    },
+    {
+      "front": "ず",
+      "back": "zu",
+      "reading": "zu",
+      "explanation": "ず es す con dakuten. El sonido su se sonoriza a zu. Aparece en かず (kazu, número).",
+      "cardRef": { "category": "characters", "front": "ず" }
+    },
+    {
+      "front": "ぜ",
+      "back": "ze",
+      "reading": "ze",
+      "explanation": "ぜ es せ con dakuten. El sonido se se sonoriza a ze. Aparece en ぜんぶ (zenbu, todo).",
+      "cardRef": { "category": "characters", "front": "ぜ" }
+    },
+    {
+      "front": "ぞ",
+      "back": "zo",
+      "reading": "zo",
+      "explanation": "ぞ es そ con dakuten. El sonido so se sonoriza a zo. Aparece en かぞく (kazoku, familia).",
+      "cardRef": { "category": "characters", "front": "ぞ" }
+    },
+    {
+      "front": "だ",
+      "back": "da",
+      "reading": "da",
+      "explanation": "だ es た con dakuten. El sonido ta se sonoriza a da. Aparece en だいがく (daigaku, universidad) y como cópula informal.",
+      "cardRef": { "category": "characters", "front": "だ" }
+    },
+    {
+      "front": "ぢ",
+      "back": "di/ji",
+      "reading": "di",
+      "explanation": "ぢ es ち con dakuten. Se pronuncia igual que じ (ji) en japonés moderno. Es poco frecuente; aparece en はなぢ (hanaji, sangrado nasal).",
+      "cardRef": { "category": "characters", "front": "ぢ" }
+    },
+    {
+      "front": "づ",
+      "back": "du/zu",
+      "reading": "du",
+      "explanation": "づ es つ con dakuten. Se pronuncia igual que ず (zu) en japonés moderno. Aparece en つづく (tsuzuku, continuar).",
+      "cardRef": { "category": "characters", "front": "づ" }
+    },
+    {
+      "front": "で",
+      "back": "de",
+      "reading": "de",
+      "explanation": "で es て con dakuten. El sonido te se sonoriza a de. Aparece en でんわ (denwa, teléfono) y como partícula de lugar/medio.",
+      "cardRef": { "category": "characters", "front": "で" }
+    },
+    {
+      "front": "ど",
+      "back": "do",
+      "reading": "do",
+      "explanation": "ど es と con dakuten. El sonido to se sonoriza a do. Aparece en どこ (doko, dónde) y どうぞ (douzo, por favor).",
+      "cardRef": { "category": "characters", "front": "ど" }
+    },
+    {
+      "front": "ば",
+      "back": "ba",
+      "reading": "ba",
+      "explanation": "ば es は con dakuten. El sonido ha se sonoriza a ba. Aparece en ばんごう (bangou, número) y ばん (ban, noche).",
+      "cardRef": { "category": "characters", "front": "ば" }
+    },
+    {
+      "front": "び",
+      "back": "bi",
+      "reading": "bi",
+      "explanation": "び es ひ con dakuten. El sonido hi se sonoriza a bi. Aparece en びょういん (byouin, hospital).",
+      "cardRef": { "category": "characters", "front": "び" }
+    },
+    {
+      "front": "ぶ",
+      "back": "bu",
+      "reading": "bu",
+      "explanation": "ぶ es ふ con dakuten. El sonido fu/hu se sonoriza a bu. Aparece en ぶんか (bunka, cultura).",
+      "cardRef": { "category": "characters", "front": "ぶ" }
+    },
+    {
+      "front": "べ",
+      "back": "be",
+      "reading": "be",
+      "explanation": "べ es へ con dakuten. El sonido he se sonoriza a be. Aparece en べんきょう (benkyou, estudio).",
+      "cardRef": { "category": "characters", "front": "べ" }
+    },
+    {
+      "front": "ぼ",
+      "back": "bo",
+      "reading": "bo",
+      "explanation": "ぼ es ほ con dakuten. El sonido ho se sonoriza a bo. Aparece en ぼく (boku, yo - masculino).",
+      "cardRef": { "category": "characters", "front": "ぼ" }
+    },
+    {
+      "front": "ぱ",
+      "back": "pa",
+      "reading": "pa",
+      "explanation": "ぱ es は con handakuten (゜). El handakuten convierte la fila h en sonidos p. Aparece en ぱん (pan, pan).",
+      "cardRef": { "category": "characters", "front": "ぱ" }
+    },
+    {
+      "front": "ぴ",
+      "back": "pi",
+      "reading": "pi",
+      "explanation": "ぴ es ひ con handakuten. Aparece en えんぴつ (enpitsu, lápiz).",
+      "cardRef": { "category": "characters", "front": "ぴ" }
+    },
+    {
+      "front": "ぷ",
+      "back": "pu",
+      "reading": "pu",
+      "explanation": "ぷ es ふ con handakuten. Aparece en palabras de origen extranjero como プール → ぷーる (puuru, piscina).",
+      "cardRef": { "category": "characters", "front": "ぷ" }
+    },
+    {
+      "front": "ぺ",
+      "back": "pe",
+      "reading": "pe",
+      "explanation": "ぺ es へ con handakuten. Aparece en ぺん (pen, bolígrafo) y ぺーじ (peeji, página).",
+      "cardRef": { "category": "characters", "front": "ぺ" }
+    },
+    {
+      "front": "ぽ",
+      "back": "po",
+      "reading": "po",
+      "explanation": "ぽ es ほ con handakuten. Aparece en にっぽん (nippon, Japón) y たんぽぽ (tanpopo, diente de león).",
+      "cardRef": { "category": "characters", "front": "ぽ" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Dakuten: sonorizando consonantes",
+      "instruction": "El dakuten (゛) se agrega a caracteres base para sonorizar la consonante: k→g, s→z, t→d, h→b. El handakuten (゜) convierte la fila h en p. No necesitás memorizar formas nuevas — solo reconocer las marcas sobre caracteres que ya conocés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es cuál?",
+      "instruction": "Elegí la lectura correcta para cada carácter con dakuten o handakuten.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
+    },
+    {
+      "type": "recall",
+      "title": "Ahora al revés",
+      "instruction": "Ves la lectura en romaji. Elegí el hiragana con dakuten o handakuten correcto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste los 20 caracteres con dakuten (が〜ど, ば〜ぼ) y los 5 con handakuten (ぱ〜ぽ). Ahora van a aparecer en tus repasos diarios.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
+    }
+  ]
+}

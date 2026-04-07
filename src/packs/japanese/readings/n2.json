@@ -1,0 +1,519 @@
+[
+  {
+    "id": "n2-reading-technology",
+    "title": "テクノロジーと社会の変容",
+    "level": "n2",
+    "text": "人工知能の急速な発展は、社会のあり方を根本から変えつつある。自動翻訳や画像認識といった技術はすでに日常に浸透しており、かつては専門家にしかできなかった作業を誰もが行えるようになった。一方で、AIの普及に伴い、雇用の喪失や個人情報の悪用といった懸念も高まっている。特に、判断の根拠が不透明な「ブラックボックス」型のAIに重要な決定を委ねることへの批判は根強い。技術の恩恵を最大限に享受しつつ、そのリスクを最小限に抑えるためには、倫理的な枠組みと法的な規制の整備が不可欠である。テクノロジーと人間の共存は、単なる技術的課題ではなく、社会全体で取り組むべき問題なのだ。",
+    "reading": "じんこうちのうのきゅうそくなはってんは、しゃかいのありかたをこんぽんからかえつつある。じどうほんやくやがぞうにんしきといったぎじゅつはすでににちじょうにしんとうしており、かつてはせんもんかにしかできなかったさぎょうをだれもがおこなえるようになった。いっぽうで、エーアイのふきゅうにともない、こようのそうしつやこじんじょうほうのあくようといったけねんもたかまっている。とくに、はんだんのこんきょがふとうめいな「ブラックボックス」がたのエーアイにじゅうようなけっていをゆだねることへのひはんはねづよい。ぎじゅつのおんけいをさいだいげんにきょうじゅしつつ、そのリスクをさいしょうげんにおさえるためには、りんりてきなわくぐみとほうてきなきせいのせいびがふかけつである。テクノロジーとにんげんのきょうぞんは、たんなるぎじゅつてきかだいではなく、しゃかいぜんたいでとりくむべきもんだいなのだ。",
+    "translation": "El rápido desarrollo de la inteligencia artificial está cambiando fundamentalmente la estructura de la sociedad. Tecnologías como la traducción automática y el reconocimiento de imágenes ya se han integrado en la vida cotidiana, permitiendo que cualquier persona realice tareas que antes solo podían hacer los especialistas. Por otro lado, con la difusión de la IA, también aumentan las preocupaciones sobre la pérdida de empleos y el uso indebido de información personal. En particular, persisten fuertes críticas hacia delegar decisiones importantes a una IA de tipo 'caja negra', cuyas bases de juicio son opacas. Para disfrutar al máximo de los beneficios de la tecnología y minimizar sus riesgos, es indispensable establecer marcos éticos y regulaciones legales. La coexistencia entre la tecnología y los seres humanos no es simplemente un desafío técnico, sino un problema que debe abordar la sociedad en su conjunto.",
+    "vocabulary": [
+      "人工知能 - inteligencia artificial",
+      "浸透 - penetración/integración",
+      "雇用 - empleo",
+      "喪失 - pérdida",
+      "懸念 - preocupación/inquietud",
+      "不透明 - opaco/no transparente",
+      "委ねる - delegar/confiar",
+      "恩恵 - beneficio/gracia",
+      "享受 - disfrutar/gozar de",
+      "倫理的 - ético",
+      "規制 - regulación",
+      "不可欠 - indispensable",
+      "共存 - coexistencia"
+    ],
+    "questions": [
+      {
+        "question": "AIの普及に伴い、どのような懸念が高まっていますか。",
+        "options": ["技術が発展しないこと。", "雇用の喪失や個人情報の悪用。", "専門家が不要になること。", "翻訳の質が下がること。"],
+        "correctIndex": 1,
+        "explanation": "テキストに「雇用の喪失や個人情報の悪用といった懸念も高まっている」とあります。"
+      },
+      {
+        "question": "「ブラックボックス」型のAIの問題点は何ですか。",
+        "options": ["動作が遅いこと。", "コストが高いこと。", "判断の根拠が不透明なこと。", "使い方が難しいこと。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「判断の根拠が不透明な『ブラックボックス』型のAI」と説明されています。"
+      },
+      {
+        "question": "筆者はテクノロジーのリスクを抑えるために何が必要だと考えていますか。",
+        "options": ["AIの開発を中止すること。", "専門家だけがAIを使うこと。", "倫理的な枠組みと法的な規制の整備。", "テクノロジーの使用を制限すること。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「倫理的な枠組みと法的な規制の整備が不可欠である」とあります。"
+      },
+      {
+        "question": "筆者の主張として最も適切なものはどれですか。",
+        "options": ["テクノロジーの発展を止めるべきだ。", "テクノロジーと人間の共存は社会全体の課題だ。", "AIは専門家に任せるべきだ。", "個人情報の保護が最も重要だ。"],
+        "correctIndex": 1,
+        "explanation": "テキストの結論で「社会全体で取り組むべき問題なのだ」と述べています。"
+      }
+    ]
+  },
+  {
+    "id": "n2-reading-job-market",
+    "title": "変化する労働市場",
+    "level": "n2",
+    "text": "日本の労働市場は大きな転換期を迎えている。終身雇用や年功序列といった従来の雇用慣行が見直され、成果主義を導入する企業が増加している。また、リモートワークの定着により、働く場所や時間に対する考え方も変化した。フリーランスや副業を選ぶ人も増え、一つの会社に一生勤めるという価値観は薄れつつある。しかし、こうした変化は新たな課題ももたらしている。非正規雇用の拡大による収入格差や、社会保障の適用範囲の問題が浮上している。労働者が安心して働ける環境を維持しながら、柔軟な働き方を推進するには、企業と政府の双方が制度を見直す必要がある。多様な働き方を認める社会こそが、持続可能な経済成長につながるのではないだろうか。",
+    "reading": "にほんのろうどうしじょうはおおきなてんかんきをむかえている。しゅうしんこようやねんこうじょれつといったじゅうらいのこようかんこうがみなおされ、せいかしゅぎをどうにゅうするきぎょうがぞうかしている。また、リモートワークのていちゃくにより、はたらくばしょやじかんにたいするかんがえかたもへんかした。フリーランスやふくぎょうをえらぶひともふえ、ひとつのかいしゃにいっしょうつとめるというかちかんはうすれつつある。しかし、こうしたへんかはあらたなかだいももたらしている。ひせいきこようのかくだいによるしゅうにゅうかくさや、しゃかいほしょうのてきようはんいのもんだいがふじょうしている。ろうどうしゃがあんしんしてはたらけるかんきょうをいじしながら、じゅうなんなはたらきかたをすいしんするには、きぎょうとせいふのそうほうがせいどをみなおすひつようがある。たようなはたらきかたをみとめるしゃかいこそが、じぞくかのうなけいざいせいちょうにつながるのではないだろうか。",
+    "translation": "El mercado laboral japonés se encuentra en un gran período de transición. Las prácticas de empleo tradicionales como el empleo vitalicio y la antigüedad están siendo revisadas, y aumentan las empresas que introducen sistemas basados en resultados. Además, con la consolidación del trabajo remoto, la forma de pensar sobre el lugar y horario de trabajo también ha cambiado. Cada vez más personas eligen ser freelance o tener trabajos secundarios, y el valor de trabajar toda la vida en una sola empresa se está desvaneciendo. Sin embargo, estos cambios también traen nuevos desafíos. Han surgido problemas como la brecha de ingresos debido a la expansión del empleo no regular y el alcance de la cobertura de seguridad social. Para promover formas de trabajo flexibles manteniendo un entorno donde los trabajadores puedan trabajar con tranquilidad, tanto las empresas como el gobierno necesitan revisar sus sistemas. Una sociedad que reconozca diversas formas de trabajo es la que conducirá a un crecimiento económico sostenible.",
+    "vocabulary": [
+      "転換期 - período de transición",
+      "終身雇用 - empleo vitalicio",
+      "年功序列 - sistema de antigüedad",
+      "雇用慣行 - prácticas de empleo",
+      "成果主義 - sistema basado en resultados",
+      "定着 - consolidación/arraigo",
+      "副業 - trabajo secundario",
+      "薄れる - desvanecerse/debilitarse",
+      "非正規雇用 - empleo no regular",
+      "収入格差 - brecha de ingresos",
+      "社会保障 - seguridad social",
+      "柔軟 - flexible",
+      "持続可能 - sostenible"
+    ],
+    "questions": [
+      {
+        "question": "日本の従来の雇用慣行として挙げられているものはどれですか。",
+        "options": ["成果主義とリモートワーク。", "終身雇用と年功序列。", "フリーランスと副業。", "柔軟な働き方と多様性。"],
+        "correctIndex": 1,
+        "explanation": "テキストに「終身雇用や年功序列といった従来の雇用慣行」とあります。"
+      },
+      {
+        "question": "労働市場の変化がもたらした新たな課題は何ですか。",
+        "options": ["企業の利益が減少したこと。", "リモートワークが定着しないこと。", "非正規雇用の拡大による収入格差。", "フリーランスが減少したこと。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「非正規雇用の拡大による収入格差」が課題として挙げられています。"
+      },
+      {
+        "question": "筆者は持続可能な経済成長のために何が必要だと考えていますか。",
+        "options": ["終身雇用に戻ること。", "多様な働き方を認める社会。", "副業を禁止すること。", "リモートワークを廃止すること。"],
+        "correctIndex": 1,
+        "explanation": "テキストの結論で「多様な働き方を認める社会こそが、持続可能な経済成長につながる」と述べています。"
+      }
+    ]
+  },
+  {
+    "id": "n2-reading-communication",
+    "title": "異文化コミュニケーションの壁",
+    "level": "n2",
+    "text": "異文化間のコミュニケーションにおいて、言語の違い以上に厄介なのが、非言語的なメッセージの解釈の差異である。例えば、日本では沈黙が同意や敬意を表す場合があるが、欧米では不快や無関心と受け取られることが多い。同様に、視線の合わせ方や身体的な距離感も文化によって大きく異なる。ビジネスの場では、こうした認識のずれが誤解や摩擦の原因となりうる。ある調査によると、国際的なプロジェクトの失敗の約三割が、文化的な相違に起因するコミュニケーション不全によるものだという。異文化理解を深めるためには、相手の行動の背後にある文化的な文脈を理解しようとする姿勢が重要である。自分の常識が普遍的なものではないと認識することが、円滑な異文化交流の第一歩と言えるだろう。",
+    "reading": "いぶんかかんのコミュニケーションにおいて、げんごのちがいいじょうにやっかいなのが、ひげんごてきなメッセージのかいしゃくのさいである。たとえば、にほんではちんもくがどういやけいいをあらわすばあいがあるが、おうべいではふかいやむかんしんとうけとられることがおおい。どうように、しせんのあわせかたやしんたいてきなきょりかんもぶんかによっておおきくことなる。ビジネスのばでは、こうしたにんしきのずれがごかいやまさつのげんいんとなりうる。あるちょうさによると、こくさいてきなプロジェクトのしっぱいのやくさんわりが、ぶんかてきなそういにきいんするコミュニケーションふぜんによるものだという。いぶんかりかいをふかめるためには、あいてのこうどうのはいごにあるぶんかてきなぶんみゃくをりかいしようとするしせいがじゅうようである。じぶんのじょうしきがふへんてきなものではないとにんしきすることが、えんかつないぶんかこうりゅうのだいいっぽといえるだろう。",
+    "translation": "En la comunicación intercultural, más problemático que las diferencias lingüísticas es la diferencia en la interpretación de los mensajes no verbales. Por ejemplo, en Japón el silencio puede expresar acuerdo o respeto, pero en Occidente a menudo se interpreta como incomodidad o desinterés. De igual manera, la forma de mantener el contacto visual y la distancia física también varían mucho según la cultura. En el ámbito empresarial, estas discrepancias de percepción pueden ser causa de malentendidos y fricciones. Según una investigación, aproximadamente el treinta por ciento de los fracasos en proyectos internacionales se deben a fallos de comunicación originados por diferencias culturales. Para profundizar en la comprensión intercultural, es importante tener la disposición de intentar comprender el contexto cultural detrás del comportamiento del otro. Reconocer que nuestro sentido común no es universal puede considerarse el primer paso hacia un intercambio intercultural fluido.",
+    "vocabulary": [
+      "異文化 - intercultural",
+      "厄介 - problemático/complicado",
+      "非言語的 - no verbal",
+      "差異 - diferencia/discrepancia",
+      "沈黙 - silencio",
+      "敬意 - respeto",
+      "摩擦 - fricción",
+      "相違 - diferencia/divergencia",
+      "起因する - originarse en",
+      "普遍的 - universal",
+      "円滑 - fluido/armonioso"
+    ],
+    "questions": [
+      {
+        "question": "日本における沈黙は何を表すことがありますか。",
+        "options": ["不快や怒り。", "同意や敬意。", "無関心や退屈。", "拒否や反対。"],
+        "correctIndex": 1,
+        "explanation": "テキストに「日本では沈黙が同意や敬意を表す場合がある」とあります。"
+      },
+      {
+        "question": "国際的なプロジェクトの失敗のうち、文化的な相違に起因するものはどのくらいですか。",
+        "options": ["約一割。", "約二割。", "約三割。", "約半数。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「約三割が、文化的な相違に起因するコミュニケーション不全によるもの」とあります。"
+      },
+      {
+        "question": "筆者が異文化交流の第一歩だと考えていることは何ですか。",
+        "options": ["外国語を完璧に話すこと。", "相手の文化の歴史を学ぶこと。", "自分の常識が普遍的ではないと認識すること。", "非言語コミュニケーションを避けること。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「自分の常識が普遍的なものではないと認識することが、円滑な異文化交流の第一歩」とあります。"
+      }
+    ]
+  },
+  {
+    "id": "n2-reading-environment",
+    "title": "持続可能な社会に向けて",
+    "level": "n2",
+    "text": "気候変動への対策として、再生可能エネルギーへの転換が世界的に加速している。日本においても、二〇五〇年までにカーボンニュートラルを達成するという目標が掲げられた。太陽光発電や風力発電の導入は進んでいるものの、地理的制約や安定供給の課題が残されている。一方、企業レベルでは、環境負荷を考慮した製品開発やサプライチェーンの見直しが進められている。消費者の意識も変化しており、環境に配慮した商品を優先的に選ぶ人が増えている。しかし、環境対策にはコストが伴い、短期的には経済的な負担が増大する場合もある。持続可能な社会の実現には、環境保全と経済発展のバランスを取りながら、長期的な視点で政策を立案することが求められている。",
+    "reading": "きこうへんどうへのたいさくとして、さいせいかのうエネルギーへのてんかんがせかいてきにかそくしている。にほんにおいても、にせんごじゅうねんまでにカーボンニュートラルをたっせいするというもくひょうがかかげられた。たいようこうはつでんやふうりょくはつでんのどうにゅうはすすんでいるものの、ちりてきせいやくやあんていきょうきゅうのかだいがのこされている。いっぽう、きぎょうレベルでは、かんきょうふかをこうりょしたせいひんかいはつやサプライチェーンのみなおしがすすめられている。しょうひしゃのいしきもへんかしており、かんきょうにはいりょしたしょうひんをゆうせんてきにえらぶひとがふえている。しかし、かんきょうたいさくにはコストがともない、たんきてきにはけいざいてきなふたんがぞうだいするばあいもある。じぞくかのうなしゃかいのじつげんには、かんきょうほぜんとけいざいはってんのバランスをとりながら、ちょうきてきなしてんでせいさくをりつあんすることがもとめられている。",
+    "translation": "Como medida contra el cambio climático, la transición hacia energías renovables se está acelerando a nivel mundial. En Japón también se ha establecido el objetivo de lograr la neutralidad de carbono para el año 2050. Aunque la introducción de la energía solar y eólica está avanzando, quedan desafíos como las limitaciones geográficas y el suministro estable. Por otro lado, a nivel empresarial, se está avanzando en el desarrollo de productos que consideren el impacto ambiental y la revisión de las cadenas de suministro. La conciencia de los consumidores también está cambiando, y aumentan las personas que eligen prioritariamente productos respetuosos con el medio ambiente. Sin embargo, las medidas ambientales conllevan costos, y a corto plazo la carga económica puede aumentar. Para lograr una sociedad sostenible, se requiere formular políticas con una perspectiva a largo plazo, equilibrando la conservación ambiental y el desarrollo económico.",
+    "vocabulary": [
+      "気候変動 - cambio climático",
+      "再生可能エネルギー - energía renovable",
+      "カーボンニュートラル - neutralidad de carbono",
+      "太陽光発電 - energía solar",
+      "風力発電 - energía eólica",
+      "地理的制約 - limitaciones geográficas",
+      "安定供給 - suministro estable",
+      "環境負荷 - impacto ambiental",
+      "サプライチェーン - cadena de suministro",
+      "配慮 - consideración/atención",
+      "負担 - carga",
+      "増大 - aumento/incremento",
+      "立案 - formulación/planificación"
+    ],
+    "questions": [
+      {
+        "question": "日本のカーボンニュートラルの目標年はいつですか。",
+        "options": ["二〇三〇年。", "二〇四〇年。", "二〇五〇年。", "二〇六〇年。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「二〇五〇年までにカーボンニュートラルを達成する」とあります。"
+      },
+      {
+        "question": "再生可能エネルギーの導入における課題は何ですか。",
+        "options": ["技術が存在しないこと。", "消費者の関心がないこと。", "地理的制約や安定供給の問題。", "企業が反対していること。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「地理的制約や安定供給の課題が残されている」とあります。"
+      },
+      {
+        "question": "環境対策の短期的なデメリットとして挙げられているものは何ですか。",
+        "options": ["技術の遅れ。", "経済的な負担の増大。", "消費者離れ。", "国際的な孤立。"],
+        "correctIndex": 1,
+        "explanation": "テキストに「短期的には経済的な負担が増大する場合もある」とあります。"
+      },
+      {
+        "question": "持続可能な社会の実現に必要なこととして筆者が述べていることは何ですか。",
+        "options": ["環境保全を経済発展より優先すること。", "経済発展を環境保全より優先すること。", "環境保全と経済発展のバランスを取ること。", "海外の政策をそのまま導入すること。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「環境保全と経済発展のバランスを取りながら、長期的な視点で政策を立案すること」とあります。"
+      }
+    ]
+  },
+  {
+    "id": "n2-reading-interview",
+    "title": "プロフェッショナルの仕事観",
+    "level": "n2",
+    "text": "ある建築家へのインタビューで、仕事に対する考え方を聞いた。「建築とは、単に建物を設計することではありません。そこに暮らす人々の人生に寄り添うことです」と彼女は語った。大学卒業後、大手設計事務所に就職したが、効率重視の設計に疑問を感じ、三年で独立した。現在は主に高齢者向けの住宅設計を手掛けており、住む人の身体的な変化に対応できる柔軟な空間づくりを追求している。「設計の段階で、十年後、二十年後の暮らしを想像することが大切です。使い勝手の良さだけでなく、心地よさや安心感を提供できる住まいを目指しています」。彼女の作品は、機能性と美しさを兼ね備えていると評価され、昨年は国内の建築賞を受賞した。",
+    "reading": "あるけんちくかへのインタビューで、しごとにたいするかんがえかたをきいた。「けんちくとは、たんにたてものをせっけいすることではありません。そこにくらすひとびとのじんせいによりそうことです」とかのじょはかたった。だいがくそつぎょうご、おおてせっけいじむしょにしゅうしょくしたが、こうりつじゅうしのせっけいにぎもんをかんじ、さんねんでどくりつした。げんざいはおもにこうれいしゃむけのじゅうたくせっけいをてがけており、すむひとのしんたいてきなへんかにたいおうできるじゅうなんなくうかんづくりをついきゅうしている。「せっけいのだんかいで、じゅうねんご、にじゅうねんごのくらしをそうぞうすることがたいせつです。つかいがってのよさだけでなく、ここちよさやあんしんかんをていきょうできるすまいをめざしています」。かのじょのさくひんは、きのうせいとうつくしさをかねそなえていると ひょうかされ、さくねんはこくないのけんちくしょうをじゅしょうした。",
+    "translation": "En una entrevista con una arquitecta, le preguntamos sobre su visión del trabajo. 'La arquitectura no es simplemente diseñar edificios. Es acompañar la vida de las personas que habitan en ellos', dijo ella. Después de graduarse de la universidad, trabajó en una firma de diseño importante, pero al sentir dudas sobre el diseño centrado en la eficiencia, se independizó a los tres años. Actualmente se dedica principalmente al diseño de viviendas para personas mayores, buscando crear espacios flexibles que puedan adaptarse a los cambios físicos de los residentes. 'Es importante imaginar, en la etapa de diseño, cómo será la vida dentro de diez o veinte años. No busco solo la funcionalidad, sino crear hogares que brinden comodidad y sensación de seguridad'. Sus obras han sido valoradas por combinar funcionalidad y belleza, y el año pasado recibió un premio nacional de arquitectura.",
+    "vocabulary": [
+      "建築家 - arquitecto/a",
+      "寄り添う - acompañar/estar al lado",
+      "設計事務所 - firma de diseño",
+      "効率重視 - centrado en la eficiencia",
+      "独立 - independizarse",
+      "高齢者 - personas mayores",
+      "手掛ける - dedicarse a/encargarse de",
+      "追求 - búsqueda/persecución",
+      "使い勝手 - funcionalidad/facilidad de uso",
+      "心地よさ - comodidad/bienestar",
+      "兼ね備える - combinar/poseer ambos",
+      "受賞 - recibir un premio"
+    ],
+    "questions": [
+      {
+        "question": "この建築家はなぜ大手設計事務所を辞めましたか。",
+        "options": ["給料が低かったから。", "効率重視の設計に疑問を感じたから。", "海外で働きたかったから。", "高齢者住宅に興味があったから。"],
+        "correctIndex": 1,
+        "explanation": "テキストに「効率重視の設計に疑問を感じ、三年で独立した」とあります。"
+      },
+      {
+        "question": "彼女が現在追求していることは何ですか。",
+        "options": ["大規模な商業施設の設計。", "効率的な建物の設計。", "身体的な変化に対応できる柔軟な空間づくり。", "最新技術を使った建築。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「住む人の身体的な変化に対応できる柔軟な空間づくりを追求している」とあります。"
+      },
+      {
+        "question": "彼女が設計で大切にしていることは何ですか。",
+        "options": ["コストを最小限に抑えること。", "十年後、二十年後の暮らしを想像すること。", "最新のデザインを取り入れること。", "できるだけ広い空間を作ること。"],
+        "correctIndex": 1,
+        "explanation": "テキストに「設計の段階で、十年後、二十年後の暮らしを想像することが大切です」とあります。"
+      },
+      {
+        "question": "彼女の作品はどのように評価されていますか。",
+        "options": ["革新的だと評価されている。", "機能性と美しさを兼ね備えていると評価されている。", "コストパフォーマンスが高いと評価されている。", "環境に優しいと評価されている。"],
+        "correctIndex": 1,
+        "explanation": "テキストに「機能性と美しさを兼ね備えていると評価され」とあります。"
+      }
+    ]
+  },
+  {
+    "id": "n2-reading-education",
+    "title": "教育と世代間の意識の変化",
+    "level": "n2",
+    "text": "日本の教育現場では、世代間の価値観の違いが顕著になっている。かつては知識の暗記と一斉授業が中心であったが、現在ではアクティブラーニングや探究型学習が推奨されている。この背景には、社会が求める人材像の変化がある。画一的な能力よりも、批判的思考力や創造性、協働する力が重視されるようになった。しかし、教育改革に対しては世代間で温度差がある。親世代の中には、基礎学力の低下を懸念し、従来の教育手法を支持する声も少なくない。一方で、若い教員は新たな指導法に積極的だが、評価基準の曖昧さに悩むことも多い。教育の目的とは何かという根本的な問いに立ち返りながら、各世代の知見を活かした議論を進めることが、より良い教育の実現に不可欠であろう。",
+    "reading": "にほんのきょういくげんばでは、せだいかんのかちかんのちがいがけんちょになっている。かつてはちしきのあんきといっせいじゅぎょうがちゅうしんであったが、げんざいではアクティブラーニングやたんきゅうがたがくしゅうがすいしょうされている。このはいけいには、しゃかいがもとめるじんざいぞうのへんかがある。かくいつてきなのうりょくよりも、ひはんてきしこうりょくやそうぞうせい、きょうどうするちからがじゅうしされるようになった。しかし、きょういくかいかくにたいしてはせだいかんでおんどさがある。おやせだいのなかには、きそがくりょくのていかをけねんし、じゅうらいのきょういくしゅほうをしじするこえもすくなくない。いっぽうで、わかいきょういんはあらたなしどうほうにせっきょくてきだが、ひょうかきじゅんのあいまいさになやむこともおおい。きょういくのもくてきとはなにかというこんぽんてきなといにたちかえりながら、かくせだいのちけんをいかしたぎろんをすすめることが、よりよいきょういくのじつげんにふかけつであろう。",
+    "translation": "En el ámbito educativo japonés, las diferencias de valores entre generaciones se han vuelto notables. Antes, la memorización de conocimientos y las clases magistrales eran lo central, pero actualmente se recomienda el aprendizaje activo y el aprendizaje basado en la investigación. Detrás de esto está el cambio en el perfil de talento que demanda la sociedad. Se ha comenzado a valorar más el pensamiento crítico, la creatividad y la capacidad de colaboración que las habilidades uniformes. Sin embargo, respecto a la reforma educativa existe una diferencia de temperatura entre generaciones. No son pocos los padres que, preocupados por la disminución del nivel académico básico, apoyan los métodos educativos tradicionales. Por otro lado, los docentes jóvenes son proactivos con los nuevos métodos de enseñanza, pero a menudo se ven afectados por la ambigüedad de los criterios de evaluación. Volviendo a la pregunta fundamental de cuál es el propósito de la educación, avanzar en el debate aprovechando los conocimientos de cada generación será indispensable para lograr una mejor educación.",
+    "vocabulary": [
+      "顕著 - notable/prominente",
+      "暗記 - memorización",
+      "一斉授業 - clase magistral/simultánea",
+      "探究型学習 - aprendizaje basado en investigación",
+      "画一的 - uniforme/estandarizado",
+      "批判的思考力 - pensamiento crítico",
+      "創造性 - creatividad",
+      "協働 - colaboración",
+      "温度差 - diferencia de actitud/temperatura",
+      "指導法 - método de enseñanza",
+      "曖昧 - ambiguo/vago",
+      "知見 - conocimiento/perspectiva"
+    ],
+    "questions": [
+      {
+        "question": "現在の日本の教育で推奨されている学習方法はどれですか。",
+        "options": ["知識の暗記と一斉授業。", "アクティブラーニングや探究型学習。", "個人学習と自主勉強。", "オンライン学習のみ。"],
+        "correctIndex": 1,
+        "explanation": "テキストに「アクティブラーニングや探究型学習が推奨されている」とあります。"
+      },
+      {
+        "question": "親世代が懸念していることは何ですか。",
+        "options": ["教員の質の低下。", "学校の設備不足。", "基礎学力の低下。", "子どもの社交性の低下。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「親世代の中には、基礎学力の低下を懸念し」とあります。"
+      },
+      {
+        "question": "若い教員が悩んでいることは何ですか。",
+        "options": ["給料が低いこと。", "生徒の数が多いこと。", "評価基準の曖昧さ。", "親との関係。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「評価基準の曖昧さに悩むことも多い」とあります。"
+      },
+      {
+        "question": "筆者がより良い教育の実現に必要だと考えていることは何ですか。",
+        "options": ["若い世代の意見だけを尊重すること。", "従来の教育に戻ること。", "各世代の知見を活かした議論を進めること。", "海外の教育制度を導入すること。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「各世代の知見を活かした議論を進めることが、より良い教育の実現に不可欠」とあります。"
+      }
+    ]
+  },
+  {
+    "id": "n2-reading-traditions",
+    "title": "日本の伝統文化と現代社会",
+    "level": "n2",
+    "text": "日本の伝統文化は、長い歴史の中で独自の発展を遂げてきた。茶道や華道、能や歌舞伎といった伝統芸能は、単なる技術ではなく、精神性や美意識を体現するものとして受け継がれてきた。しかし、現代社会において、これらの伝統文化は後継者不足という深刻な問題に直面している。若者の関心が薄く、伝統を学ぶことに時間と費用がかかることが主な要因とされている。一方で、伝統文化をデジタル技術で記録・保存する取り組みや、現代的なアレンジを加えて若い世代に訴求する試みも増えている。例えば、バーチャルリアリティを用いた能の体験や、ポップカルチャーと融合した新しい書道のスタイルなどが注目を集めている。伝統を守ることと革新することは矛盾しない。両者のバランスを保つことが、伝統文化の未来を切り開く鍵となるだろう。",
+    "reading": "にほんのでんとうぶんかは、ながいれきしのなかでどくじのはってんをとげてきた。さどうやかどう、のうやかぶきといったでんとうげいのうは、たんなるぎじゅつではなく、せいしんせいやびいしきをたいげんするものとしてうけつがれてきた。しかし、げんだいしゃかいにおいて、これらのでんとうぶんかはこうけいしゃぶそくというしんこくなもんだいにちょくめんしている。わかもののかんしんがうすく、でんとうをまなぶことにじかんとひようがかかることがおもなよういんとされている。いっぽうで、でんとうぶんかをデジタルぎじゅつできろく・ほぞんするとりくみや、げんだいてきなアレンジをくわえてわかいせだいにそきゅうするこころみもふえている。たとえば、バーチャルリアリティをもちいたのうのたいけんや、ポップカルチャーとゆうごうしたあたらしいしょどうのスタイルなどがちゅうもくをあつめている。でんとうをまもることとかくしんすることはむじゅんしない。りょうしゃのバランスをたもつことが、でんとうぶんかのみらいをきりひらくかぎとなるだろう。",
+    "translation": "La cultura tradicional japonesa ha experimentado un desarrollo único a lo largo de su larga historia. Las artes tradicionales como la ceremonia del té, el arreglo floral, el teatro noh y el kabuki se han transmitido no como meras técnicas, sino como manifestaciones de espiritualidad y sentido estético. Sin embargo, en la sociedad actual, estas culturas tradicionales enfrentan el grave problema de la falta de sucesores. Se considera que las principales causas son el escaso interés de los jóvenes y el tiempo y costo que requiere aprender las tradiciones. Por otro lado, aumentan las iniciativas para registrar y preservar la cultura tradicional con tecnología digital, así como los intentos de atraer a las generaciones jóvenes añadiendo arreglos modernos. Por ejemplo, experiencias de noh mediante realidad virtual y nuevos estilos de caligrafía fusionados con la cultura pop están atrayendo atención. Proteger la tradición e innovar no son contradictorios. Mantener el equilibrio entre ambos será la clave para abrir el futuro de la cultura tradicional.",
+    "vocabulary": [
+      "伝統芸能 - artes tradicionales",
+      "精神性 - espiritualidad",
+      "美意識 - sentido estético",
+      "体現 - manifestar/encarnar",
+      "後継者 - sucesor",
+      "直面 - enfrentar",
+      "訴求 - apelar/atraer",
+      "バーチャルリアリティ - realidad virtual",
+      "融合 - fusión",
+      "矛盾 - contradicción",
+      "革新 - innovación",
+      "切り開く - abrir camino"
+    ],
+    "questions": [
+      {
+        "question": "伝統文化が直面している深刻な問題は何ですか。",
+        "options": ["資金不足。", "後継者不足。", "海外からの批判。", "政府の規制。"],
+        "correctIndex": 1,
+        "explanation": "テキストに「後継者不足という深刻な問題に直面している」とあります。"
+      },
+      {
+        "question": "若者が伝統文化を学ばない主な理由として挙げられているものはどれですか。",
+        "options": ["伝統文化が退屈だから。", "学ぶ場所がないから。", "関心が薄く、時間と費用がかかるから。", "親に反対されるから。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「若者の関心が薄く、伝統を学ぶことに時間と費用がかかる」とあります。"
+      },
+      {
+        "question": "伝統文化を若い世代に広めるための試みとして挙げられていないものはどれですか。",
+        "options": ["バーチャルリアリティを用いた能の体験。", "ポップカルチャーと融合した書道。", "デジタル技術での記録・保存。", "伝統文化の授業の義務化。"],
+        "correctIndex": 3,
+        "explanation": "テキストでは授業の義務化については触れられていません。"
+      }
+    ]
+  },
+  {
+    "id": "n2-reading-science",
+    "title": "科学と医療の進歩",
+    "level": "n2",
+    "text": "近年の医療技術の進歩は目覚ましく、かつては不治とされていた疾患の治療法が次々と開発されている。特に遺伝子治療や再生医療の分野では、画期的な成果が報告されている。iPS細胞を用いた研究は日本が世界をリードしており、将来的には臓器の再生や難病の根本的な治療が可能になると期待されている。一方で、先端医療の普及には倫理的な議論が欠かせない。遺伝子操作がどこまで許容されるべきか、高額な治療費による医療格差をどう解消するかなど、解決すべき課題は山積している。また、医療のデジタル化に伴い、患者の個人情報の保護も重要な論点となっている。科学の進歩がすべての人に恩恵をもたらすためには、技術の発展と同時に、社会的・倫理的な基盤の整備が不可欠である。",
+    "reading": "きんねんのいりょうぎじゅつのしんぽはめざましく、かつてはふじとされていたしっかんのちりょうほうがつぎつぎとかいはつされている。とくにいでんしちりょうやさいせいいりょうのぶんやでは、かっきてきなせいかがほうこくされている。アイピーエスさいぼうをもちいたけんきゅうはにほんがせかいをリードしており、しょうらいてきにはぞうきのさいせいやなんびょうのこんぽんてきなちりょうがかのうになるときたいされている。いっぽうで、せんたんいりょうのふきゅうにはりんりてきなぎろんがかかせない。いでんしそうさがどこまできょようされるべきか、こうがくなちりょうひによるいりょうかくさをどうかいしょうするかなど、かいけつすべきかだいはさんせきしている。また、いりょうのデジタルかにともない、かんじゃのこじんじょうほうのほごもじゅうようなろんてんとなっている。かがくのしんぽがすべてのひとにおんけいをもたらすためには、ぎじゅつのはってんとどうじに、しゃかいてき・りんりてきなきばんのせいびがふかけつである。",
+    "translation": "Los avances en la tecnología médica de los últimos años son extraordinarios, y se están desarrollando tratamientos uno tras otro para enfermedades que antes se consideraban incurables. En particular, en los campos de la terapia génica y la medicina regenerativa se han reportado logros revolucionarios. La investigación con células iPS es liderada por Japón a nivel mundial, y se espera que en el futuro sea posible la regeneración de órganos y el tratamiento fundamental de enfermedades difíciles. Por otro lado, la difusión de la medicina avanzada requiere un debate ético indispensable. Los desafíos por resolver se acumulan, como hasta dónde debe permitirse la manipulación genética y cómo resolver la brecha médica causada por los altos costos de tratamiento. Además, con la digitalización de la medicina, la protección de la información personal de los pacientes se ha convertido en un punto importante de discusión. Para que el progreso científico beneficie a todas las personas, es indispensable, junto con el desarrollo tecnológico, establecer bases sociales y éticas.",
+    "vocabulary": [
+      "不治 - incurable",
+      "疾患 - enfermedad/dolencia",
+      "遺伝子治療 - terapia génica",
+      "再生医療 - medicina regenerativa",
+      "画期的 - revolucionario/innovador",
+      "iPS細胞 - células iPS",
+      "臓器 - órgano (corporal)",
+      "難病 - enfermedad difícil/rara",
+      "倫理的 - ético",
+      "遺伝子操作 - manipulación genética",
+      "許容 - tolerancia/permisión",
+      "医療格差 - brecha médica",
+      "山積 - acumulación (de problemas)",
+      "基盤 - base/fundamento"
+    ],
+    "questions": [
+      {
+        "question": "iPS細胞の研究で世界をリードしている国はどこですか。",
+        "options": ["アメリカ。", "中国。", "日本。", "ドイツ。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「iPS細胞を用いた研究は日本が世界をリードしており」とあります。"
+      },
+      {
+        "question": "先端医療の普及に関する課題として挙げられていないものはどれですか。",
+        "options": ["遺伝子操作の許容範囲。", "高額な治療費による医療格差。", "医療従事者の不足。", "患者の個人情報の保護。"],
+        "correctIndex": 2,
+        "explanation": "テキストでは医療従事者の不足については触れられていません。"
+      },
+      {
+        "question": "筆者はiPS細胞の研究に何を期待していますか。",
+        "options": ["新薬の開発。", "臓器の再生や難病の根本的な治療。", "医療費の削減。", "遺伝子操作の規制。"],
+        "correctIndex": 1,
+        "explanation": "テキストに「臓器の再生や難病の根本的な治療が可能になると期待されている」とあります。"
+      },
+      {
+        "question": "科学の進歩がすべての人に恩恵をもたらすために必要なことは何ですか。",
+        "options": ["技術開発に集中すること。", "先端医療を一部の人に限定すること。", "技術の発展と社会的・倫理的な基盤の整備。", "医療のデジタル化を中止すること。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「技術の発展と同時に、社会的・倫理的な基盤の整備が不可欠」とあります。"
+      }
+    ]
+  },
+  {
+    "id": "n2-reading-aging",
+    "title": "高齢化社会と地域の取り組み",
+    "level": "n2",
+    "text": "日本は世界で最も高齢化が進んだ国の一つであり、六十五歳以上の人口が全体の約三割を占めている。特に地方では、若者の都市部への流出により、高齢者だけが残された「限界集落」が増加している。こうした地域では、買い物や通院といった日常生活の基本的な活動さえも困難になるケースが多い。この状況に対して、各地で独自の取り組みが始まっている。移動販売車の運行や、住民同士の助け合いネットワークの構築、さらにはICTを活用した遠隔医療の導入などが実施されている。ある山間部の自治体では、ドローンを用いた物資の配送実験が行われ、全国的に注目を集めた。高齢化への対応は待ったなしの課題であり、行政だけでなく、地域住民や民間企業を巻き込んだ包括的な取り組みが求められている。",
+    "reading": "にほんはせかいでもっともこうれいかがすすんだくにのひとつであり、ろくじゅうごさいいじょうのじんこうがぜんたいのやくさんわりをしめている。とくにちほうでは、わかもののとしぶへのりゅうしゅつにより、こうれいしゃだけがのこされた「げんかいしゅうらく」がぞうかしている。こうしたちいきでは、かいものやつういんといったにちじょうせいかつのきほんてきなかつどうさえもこんなんになるケースがおおい。このじょうきょうにたいして、かくちでどくじのとりくみがはじまっている。いどうはんばいしゃのうんこうや、じゅうみんどうしのたすけあいネットワークのこうちく、さらにはアイシーティーをかつようしたえんかくいりょうのどうにゅうなどがじっしされている。あるさんかんぶのじちたいでは、ドローンをもちいたぶっしのはいそうじっけんがおこなわれ、ぜんこくてきにちゅうもくをあつめた。こうれいかへのたいおうはまったなしのかだいであり、ぎょうせいだけでなく、ちいきじゅうみんやみんかんきぎょうをまきこんだほうかつてきなとりくみがもとめられている。",
+    "translation": "Japón es uno de los países más envejecidos del mundo, con la población mayor de sesenta y cinco años representando aproximadamente el treinta por ciento del total. Especialmente en las zonas rurales, debido al éxodo de jóvenes hacia las ciudades, están aumentando las 'comunidades al límite' donde solo quedan personas mayores. En estas regiones, son frecuentes los casos donde incluso actividades básicas de la vida diaria como las compras o las visitas al médico se vuelven difíciles. Ante esta situación, se están iniciando iniciativas propias en diversas localidades. Se implementan servicios de venta ambulante, redes de ayuda mutua entre residentes, y también la introducción de telemedicina utilizando las TIC. En un municipio de zona montañosa se realizó un experimento de entrega de suministros mediante drones, que atrajo atención a nivel nacional. La respuesta al envejecimiento es un desafío urgente, y se requieren iniciativas integrales que involucren no solo a la administración pública, sino también a los residentes locales y las empresas privadas.",
+    "vocabulary": [
+      "高齢化 - envejecimiento (poblacional)",
+      "限界集落 - comunidad al límite",
+      "流出 - éxodo/salida",
+      "通院 - visitas al hospital/médico",
+      "移動販売車 - vehículo de venta ambulante",
+      "助け合い - ayuda mutua",
+      "遠隔医療 - telemedicina",
+      "山間部 - zona montañosa",
+      "自治体 - municipio/gobierno local",
+      "配送 - entrega/distribución",
+      "待ったなし - urgente/inaplazable",
+      "包括的 - integral/comprehensivo",
+      "巻き込む - involucrar"
+    ],
+    "questions": [
+      {
+        "question": "日本の六十五歳以上の人口は全体のどのくらいですか。",
+        "options": ["約一割。", "約二割。", "約三割。", "約四割。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「六十五歳以上の人口が全体の約三割を占めている」とあります。"
+      },
+      {
+        "question": "「限界集落」とはどのような地域ですか。",
+        "options": ["人口が急増している地域。", "若者の流出で高齢者だけが残された地域。", "外国人が多く住む地域。", "都市部の過密地域。"],
+        "correctIndex": 1,
+        "explanation": "テキストに「若者の都市部への流出により、高齢者だけが残された『限界集落』」と説明されています。"
+      },
+      {
+        "question": "高齢化対策として実施されていないものはどれですか。",
+        "options": ["移動販売車の運行。", "遠隔医療の導入。", "高齢者の都市部への移住支援。", "ドローンによる物資の配送実験。"],
+        "correctIndex": 2,
+        "explanation": "テキストでは都市部への移住支援については触れられていません。"
+      },
+      {
+        "question": "筆者が高齢化対策に必要だと考えていることは何ですか。",
+        "options": ["行政が単独で対策を進めること。", "高齢者が自力で問題を解決すること。", "行政、地域住民、民間企業を巻き込んだ包括的な取り組み。", "地方の住民を都市部に移住させること。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「行政だけでなく、地域住民や民間企業を巻き込んだ包括的な取り組みが求められている」とあります。"
+      }
+    ]
+  },
+  {
+    "id": "n2-reading-food-culture",
+    "title": "食文化の変遷と食の安全",
+    "level": "n2",
+    "text": "日本の食文化は時代とともに大きく変遷してきた。和食がユネスコの無形文化遺産に登録された一方で、日常の食卓は多様化が進んでいる。コンビニ弁当やファストフードの利用が増え、家庭での調理時間は減少傾向にある。こうした食生活の変化に伴い、生活習慣病の増加が社会問題となっている。特に、過剰な塩分や糖分の摂取、栄養の偏りが指摘されている。一方で、食の安全に対する消費者の意識は高まっており、有機農産物や添加物を使用しない食品への需要が拡大している。また、フードロスの削減も重要な課題として認識されるようになった。日本では年間約六百万トンの食品が廃棄されているとされ、その削減に向けた取り組みが官民一体で進められている。健全な食文化を次世代に継承するためには、食に対する教育と意識改革が不可欠だろう。",
+    "reading": "にほんのしょくぶんかはじだいとともにおおきくへんせんしてきた。わしょくがユネスコのむけいぶんかいさんにとうろくされたいっぽうで、にちじょうのしょくたくはたようかがすすんでいる。コンビニべんとうやファストフードのりようがふえ、かていでのちょうりじかんはげんしょうけいこうにある。こうしたしょくせいかつのへんかにともない、せいかつしゅうかんびょうのぞうかがしゃかいもんだいとなっている。とくに、かじょうなえんぶんやとうぶんのせっしゅ、えいようのかたよりがしてきされている。いっぽうで、しょくのあんぜんにたいするしょうひしゃのいしきはたかまっており、ゆうきのうさんぶつやてんかぶつをしようしないしょくひんへのじゅようがかくだいしている。また、フードロスのさくげんもじゅうようなかだいとしてにんしきされるようになった。にほんではねんかんやくろっぴゃくまんトンのしょくひんがはいきされているとされ、そのさくげんにむけたとりくみがかんみんいったいですすめられている。けんぜんなしょくぶんかをじせだいにけいしょうするためには、しょくにたいするきょういくといしきかいかくがふかけつだろう。",
+    "translation": "La cultura alimentaria japonesa ha experimentado grandes cambios con el paso del tiempo. Mientras que la cocina japonesa fue registrada como Patrimonio Cultural Inmaterial de la UNESCO, la mesa cotidiana se ha diversificado cada vez más. Ha aumentado el uso de bentō de conveniencia y comida rápida, y el tiempo de cocina en casa tiende a disminuir. Con estos cambios en la alimentación, el aumento de enfermedades relacionadas con el estilo de vida se ha convertido en un problema social. Se señala especialmente el consumo excesivo de sal y azúcar, y el desequilibrio nutricional. Por otro lado, la conciencia de los consumidores sobre la seguridad alimentaria está aumentando, y se expande la demanda de productos agrícolas orgánicos y alimentos sin aditivos. Además, la reducción del desperdicio alimentario también se ha reconocido como un desafío importante. Se estima que en Japón se desechan aproximadamente seis millones de toneladas de alimentos al año, y se están llevando a cabo iniciativas público-privadas para reducirlo. Para transmitir una cultura alimentaria saludable a la próxima generación, será indispensable la educación y la reforma de conciencia respecto a la alimentación.",
+    "vocabulary": [
+      "変遷 - cambios/transición",
+      "無形文化遺産 - Patrimonio Cultural Inmaterial",
+      "多様化 - diversificación",
+      "生活習慣病 - enfermedades del estilo de vida",
+      "塩分 - sal/contenido de sal",
+      "摂取 - ingesta/consumo",
+      "偏り - desequilibrio/sesgo",
+      "有機農産物 - productos agrícolas orgánicos",
+      "添加物 - aditivos",
+      "フードロス - desperdicio alimentario",
+      "廃棄 - desecho/descarte",
+      "官民一体 - unión público-privada",
+      "継承 - transmisión/herencia"
+    ],
+    "questions": [
+      {
+        "question": "日本で年間に廃棄される食品の量はどのくらいですか。",
+        "options": ["約百万トン。", "約三百万トン。", "約六百万トン。", "約一千万トン。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「年間約六百万トンの食品が廃棄されている」とあります。"
+      },
+      {
+        "question": "食生活の変化がもたらした社会問題は何ですか。",
+        "options": ["食料不足の深刻化。", "生活習慣病の増加。", "農業従事者の減少。", "輸入食品の増加。"],
+        "correctIndex": 1,
+        "explanation": "テキストに「生活習慣病の増加が社会問題となっている」とあります。"
+      },
+      {
+        "question": "消費者の食に対する意識の変化として述べられていることは何ですか。",
+        "options": ["安い食品を求める人が増えた。", "外食が減少した。", "有機農産物や無添加食品への需要が拡大している。", "和食しか食べない人が増えた。"],
+        "correctIndex": 2,
+        "explanation": "テキストに「有機農産物や添加物を使用しない食品への需要が拡大している」とあります。"
+      },
+      {
+        "question": "健全な食文化を次世代に継承するために必要なことは何ですか。",
+        "options": ["ファストフードを禁止すること。", "食に対する教育と意識改革。", "すべての食品を国産にすること。", "コンビニの営業時間を短縮すること。"],
+        "correctIndex": 1,
+        "explanation": "テキストに「食に対する教育と意識改革が不可欠だろう」とあります。"
+      }
+    ]
+  },
+  {
+    "id": "n2-reading-mental-health",
+    "title": "現代社会とメンタルヘルス",
+    "level": "n2",
+    "text": "現代社会において、メンタルヘルスの問題はかつてないほど注目されている。厚生労働省の調査によれば、精神疾患で医療機関を受診する患者数は年々増加しており、特にうつ病や不安障害の割合が高い。職場におけるストレスや長時間労働、人間関係の悩みが主な要因とされている。近年、企業ではストレスチェック制度の導入や、カウンセリング体制の充実が図られている。しかし、日本社会にはいまだに精神的な問題を相談することへの抵抗感が根強く、早期の受診をためらう人も少なくない。「弱さを見せてはいけない」という風潮が、問題の深刻化を招いている面がある。メンタルヘルスの課題に取り組むには、制度の整備だけでなく、心の不調を抱えることは誰にでも起こりうるという社会全体の意識変革が不可欠である。",
+    "reading": "げんだいしゃかいにおいて、メンタルヘルスのもんだいはかつてないほどちゅうもくされている。こうせいろうどうしょうのちょうさによれば、せいしんしっかんでいりょうきかんをじゅしんするかんじゃすうはねんねんぞうかしており、とくにうつびょうやふあんしょうがいのわりあいがたかい。しょくばにおけるストレスやちょうじかんろうどう、にんげんかんけいのなやみがおもなよういんとされている。きんねん、きぎょうではストレスチェックせいどのどうにゅうや、カウンセリングたいせいのじゅうじつがはかられている。しかし、にほんしゃかいにはいまだにせいしんてきなもんだいをそうだんすることへのていこうかんがねづよく、そうきのじゅしんをためらうひともすくなくない。「よわさをみせてはいけない」というふうちょうが、もんだいのしんこくかをまねいているめんがある。メンタルヘルスのかだいにとりくむには、せいどのせいびだけでなく、こころのふちょうをかかえることはだれにでもおこりうるというしゃかいぜんたいのいしきへんかくがふかけつである。",
+    "translation": "En la sociedad actual, los problemas de salud mental están recibiendo más atención que nunca. Según una encuesta del Ministerio de Salud, Trabajo y Bienestar, el número de pacientes que acuden a instituciones médicas por trastornos mentales aumenta año tras año, siendo particularmente altas las tasas de depresión y trastornos de ansiedad. Las principales causas son el estrés laboral, las largas jornadas de trabajo y los problemas en las relaciones interpersonales. En los últimos años, las empresas están implementando sistemas de chequeo de estrés y reforzando los servicios de asesoramiento psicológico. Sin embargo, en la sociedad japonesa persiste una fuerte resistencia a consultar sobre problemas mentales, y no son pocos los que dudan en acudir a consulta temprana. La tendencia de 'no se debe mostrar debilidad' está provocando que los problemas se agraven. Para abordar los desafíos de la salud mental, no basta con desarrollar sistemas; es indispensable un cambio de conciencia en toda la sociedad que reconozca que los problemas emocionales pueden ocurrirle a cualquiera.",
+    "vocabulary": [
+      "メンタルヘルス - salud mental",
+      "厚生労働省 - Ministerio de Salud, Trabajo y Bienestar",
+      "精神疾患 - trastorno mental",
+      "受診 - consulta médica/acudir al médico",
+      "うつ病 - depresión",
+      "不安障害 - trastorno de ansiedad",
+      "ストレスチェック - chequeo de estrés",
+      "抵抗感 - resistencia/reticencia",
+      "ためらう - dudar/vacilar",
+      "風潮 - tendencia/clima social",
+      "深刻化 - agravamiento",
+      "不調 - malestar/indisposición",
+      "意識変革 - cambio de conciencia"
+    ],
+    "questions": [
+      {
+        "question": "精神疾患で特に割合が高いものは何ですか。",
+        "options": ["統合失調症と認知症。", "うつ病と不安障害。", "パニック障害と摂食障害。", "睡眠障害と依存症。"],
+        "correctIndex": 1,
+        "explanation": "テキストに「特にうつ病や不安障害の割合が高い」とあります。"
+      },
+      {
+        "question": "日本社会でメンタルヘルスの問題が深刻化する要因は何ですか。",
+        "options": ["医療機関が少ないこと。", "「弱さを見せてはいけない」という風潮。", "カウンセリングの費用が高いこと。", "ストレスチェック制度がないこと。"],
+        "correctIndex": 1,
+        "explanation": "テキストに「『弱さを見せてはいけない』という風潮が、問題の深刻化を招いている」とあります。"
+      },
+      {
+        "question": "企業が取り組んでいるメンタルヘルス対策として挙げられているものはどれですか。",
+        "options": ["労働時間の短縮と給料の増加。", "ストレスチェック制度の導入とカウンセリング体制の充実。", "社員旅行の実施とレクリエーション。", "在宅勤務の義務化。"],
+        "correctIndex": 1,
+        "explanation": "テキストに「ストレスチェック制度の導入や、カウンセリング体制の充実が図られている」とあります。"
+      },
+      {
+        "question": "筆者がメンタルヘルスの課題に最も必要だと考えていることは何ですか。",
+        "options": ["医療機関の数を増やすこと。", "制度の整備だけでなく社会全体の意識変革。", "企業への罰則を強化すること。", "精神科の受診を義務化すること。"],
+        "correctIndex": 1,
+        "explanation": "テキストに「制度の整備だけでなく、心の不調を抱えることは誰にでも起こりうるという社会全体の意識変革が不可欠」とあります。"
+      }
+    ]
+  }
+]

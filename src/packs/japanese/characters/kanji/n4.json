@@ -1,0 +1,2892 @@
+[
+  {
+    "character": "会",
+    "readings": [
+      { "type": "on", "value": "カイ, エ" },
+      { "type": "kun", "value": "あ-う" }
+    ],
+    "meanings": ["reunión", "encontrarse"],
+    "strokeCount": 6,
+    "radical": "人",
+    "radicalMeaning": "persona",
+    "level": "n4",
+    "tags": ["social"],
+    "examples": [
+      { "word": "会議", "reading": "かいぎ", "meaning": "reunión / conferencia" },
+      { "word": "社会", "reading": "しゃかい", "meaning": "sociedad" }
+    ]
+  },
+  {
+    "character": "同",
+    "readings": [
+      { "type": "on", "value": "ドウ" },
+      { "type": "kun", "value": "おな-じ" }
+    ],
+    "meanings": ["mismo", "igual"],
+    "strokeCount": 6,
+    "radical": "口",
+    "radicalMeaning": "boca",
+    "level": "n4",
+    "tags": ["abstract"],
+    "examples": [
+      { "word": "同じ", "reading": "おなじ", "meaning": "mismo / igual" },
+      { "word": "同時", "reading": "どうじ", "meaning": "al mismo tiempo" }
+    ]
+  },
+  {
+    "character": "事",
+    "readings": [
+      { "type": "on", "value": "ジ, ズ" },
+      { "type": "kun", "value": "こと" }
+    ],
+    "meanings": ["asunto", "cosa"],
+    "strokeCount": 8,
+    "radical": "亅",
+    "radicalMeaning": "gancho",
+    "level": "n4",
+    "tags": ["abstract"],
+    "examples": [
+      { "word": "仕事", "reading": "しごと", "meaning": "trabajo" },
+      { "word": "事故", "reading": "じこ", "meaning": "accidente" }
+    ]
+  },
+  {
+    "character": "自",
+    "readings": [
+      { "type": "on", "value": "ジ, シ" },
+      { "type": "kun", "value": "みずか-ら" }
+    ],
+    "meanings": ["uno mismo", "propio"],
+    "strokeCount": 6,
+    "radical": "自",
+    "radicalMeaning": "uno mismo",
+    "level": "n4",
+    "tags": ["abstract"],
+    "examples": [
+      { "word": "自分", "reading": "じぶん", "meaning": "uno mismo" },
+      { "word": "自然", "reading": "しぜん", "meaning": "naturaleza" }
+    ]
+  },
+  {
+    "character": "社",
+    "readings": [
+      { "type": "on", "value": "シャ" },
+      { "type": "kun", "value": "やしろ" }
+    ],
+    "meanings": ["empresa", "santuario"],
+    "strokeCount": 7,
+    "radical": "示",
+    "radicalMeaning": "altar",
+    "level": "n4",
+    "tags": ["work"],
+    "examples": [
+      { "word": "会社", "reading": "かいしゃ", "meaning": "empresa" },
+      { "word": "社長", "reading": "しゃちょう", "meaning": "presidente de empresa" }
+    ]
+  },
+  {
+    "character": "発",
+    "readings": [
+      { "type": "on", "value": "ハツ, ホツ" },
+      { "type": "kun", "value": "" }
+    ],
+    "meanings": ["partir", "emitir", "disparar"],
+    "strokeCount": 9,
+    "radical": "癶",
+    "radicalMeaning": "piernas abiertas",
+    "level": "n4",
+    "tags": ["action"],
+    "examples": [
+      { "word": "出発", "reading": "しゅっぱつ", "meaning": "salida / partida" },
+      { "word": "発表", "reading": "はっぴょう", "meaning": "presentación / anuncio" }
+    ]
+  },
+  {
+    "character": "者",
+    "readings": [
+      { "type": "on", "value": "シャ" },
+      { "type": "kun", "value": "もの" }
+    ],
+    "meanings": ["persona", "sujeto"],
+    "strokeCount": 8,
+    "radical": "老",
+    "radicalMeaning": "viejo",
+    "level": "n4",
+    "tags": ["people"],
+    "examples": [
+      { "word": "医者", "reading": "いしゃ", "meaning": "médico" },
+      { "word": "若者", "reading": "わかもの", "meaning": "joven" }
+    ]
+  },
+  {
+    "character": "地",
+    "readings": [
+      { "type": "on", "value": "チ, ジ" },
+      { "type": "kun", "value": "" }
+    ],
+    "meanings": ["tierra", "suelo", "lugar"],
+    "strokeCount": 6,
+    "radical": "土",
+    "radicalMeaning": "tierra",
+    "level": "n4",
+    "tags": ["place", "nature"],
+    "examples": [
+      { "word": "地図", "reading": "ちず", "meaning": "mapa" },
+      { "word": "地下鉄", "reading": "ちかてつ", "meaning": "metro / subterráneo" }
+    ]
+  },
+  {
+    "character": "業",
+    "readings": [
+      { "type": "on", "value": "ギョウ, ゴウ" },
+      { "type": "kun", "value": "わざ" }
+    ],
+    "meanings": ["negocio", "industria", "oficio"],
+    "strokeCount": 13,
+    "radical": "木",
+    "radicalMeaning": "árbol",
+    "level": "n4",
+    "tags": ["work"],
+    "examples": [
+      { "word": "授業", "reading": "じゅぎょう", "meaning": "clase / lección" },
+      { "word": "卒業", "reading": "そつぎょう", "meaning": "graduación" }
+    ]
+  },
+  {
+    "character": "方",
+    "readings": [
+      { "type": "on", "value": "ホウ" },
+      { "type": "kun", "value": "かた" }
+    ],
+    "meanings": ["dirección", "persona (honorífico)", "manera"],
+    "strokeCount": 4,
+    "radical": "方",
+    "radicalMeaning": "dirección",
+    "level": "n4",
+    "tags": ["abstract"],
+    "examples": [
+      { "word": "方法", "reading": "ほうほう", "meaning": "método" },
+      { "word": "夕方", "reading": "ゆうがた", "meaning": "atardecer" }
+    ]
+  },
+  {
+    "character": "問",
+    "readings": [
+      { "type": "on", "value": "モン" },
+      { "type": "kun", "value": "と-う, と-い" }
+    ],
+    "meanings": ["pregunta", "problema"],
+    "strokeCount": 11,
+    "radical": "口",
+    "radicalMeaning": "boca",
+    "level": "n4",
+    "tags": ["education"],
+    "examples": [
+      { "word": "問題", "reading": "もんだい", "meaning": "problema / pregunta" },
+      { "word": "質問", "reading": "しつもん", "meaning": "pregunta" }
+    ]
+  },
+  {
+    "character": "代",
+    "readings": [
+      { "type": "on", "value": "ダイ, タイ" },
+      { "type": "kun", "value": "か-わる, か-える, よ, しろ" }
+    ],
+    "meanings": ["generación", "sustituir", "era"],
+    "strokeCount": 5,
+    "radical": "人",
+    "radicalMeaning": "persona",
+    "level": "n4",
+    "tags": ["abstract", "time"],
+    "examples": [
+      { "word": "時代", "reading": "じだい", "meaning": "era / época" },
+      { "word": "代わり", "reading": "かわり", "meaning": "sustituto / reemplazo" }
+    ]
+  },
+  {
+    "character": "動",
+    "readings": [
+      { "type": "on", "value": "ドウ" },
+      { "type": "kun", "value": "うご-く, うご-かす" }
+    ],
+    "meanings": ["mover", "movimiento"],
+    "strokeCount": 11,
+    "radical": "力",
+    "radicalMeaning": "fuerza",
+    "level": "n4",
+    "tags": ["action"],
+    "examples": [
+      { "word": "動物", "reading": "どうぶつ", "meaning": "animal" },
+      { "word": "運動", "reading": "うんどう", "meaning": "ejercicio / deporte" }
+    ]
+  },
+  {
+    "character": "力",
+    "readings": [
+      { "type": "on", "value": "リョク, リキ" },
+      { "type": "kun", "value": "ちから" }
+    ],
+    "meanings": ["fuerza", "poder"],
+    "strokeCount": 2,
+    "radical": "力",
+    "radicalMeaning": "fuerza",
+    "level": "n4",
+    "tags": ["abstract"],
+    "examples": [
+      { "word": "力", "reading": "ちから", "meaning": "fuerza" },
+      { "word": "努力", "reading": "どりょく", "meaning": "esfuerzo" }
+    ]
+  },
+  {
+    "character": "工",
+    "readings": [
+      { "type": "on", "value": "コウ, ク" },
+      { "type": "kun", "value": "" }
+    ],
+    "meanings": ["construcción", "industria", "artesanía"],
+    "strokeCount": 3,
+    "radical": "工",
+    "radicalMeaning": "trabajo",
+    "level": "n4",
+    "tags": ["work"],
+    "examples": [
+      { "word": "工場", "reading": "こうじょう", "meaning": "fábrica" },
+      { "word": "工事", "reading": "こうじ", "meaning": "obra / construcción" }
+    ]
+  },
+  {
+    "character": "開",
+    "readings": [
+      { "type": "on", "value": "カイ" },
+      { "type": "kun", "value": "あ-く, あ-ける, ひら-く, ひら-ける" }
+    ],
+    "meanings": ["abrir"],
+    "strokeCount": 12,
+    "radical": "門",
+    "radicalMeaning": "puerta",
+    "level": "n4",
+    "tags": ["action"],
+    "examples": [
+      { "word": "開く", "reading": "あく", "meaning": "abrir (intransitivo)" },
+      { "word": "開ける", "reading": "あける", "meaning": "abrir (transitivo)" }
+    ]
+  },
+  {
+    "character": "手",
+    "readings": [
+      { "type": "on", "value": "シュ" },
+      { "type": "kun", "value": "て, た" }
+    ],
+    "meanings": ["mano"],
+    "strokeCount": 4,
+    "radical": "手",
+    "radicalMeaning": "mano",
+    "level": "n4",
+    "tags": ["body"],
+    "examples": [
+      { "word": "手紙", "reading": "てがみ", "meaning": "carta" },
+      { "word": "上手", "reading": "じょうず", "meaning": "hábil / bueno en" }
+    ]
+  },
+  {
+    "character": "作",
+    "readings": [
+      { "type": "on", "value": "サク, サ" },
+      { "type": "kun", "value": "つく-る" }
+    ],
+    "meanings": ["hacer", "crear", "fabricar"],
+    "strokeCount": 7,
+    "radical": "人",
+    "radicalMeaning": "persona",
+    "level": "n4",
+    "tags": ["action"],
+    "examples": [
+      { "word": "作る", "reading": "つくる", "meaning": "hacer / crear" },
+      { "word": "作文", "reading": "さくぶん", "meaning": "composición / redacción" }
+    ]
+  },
+  {
+    "character": "体",
+    "readings": [
+      { "type": "on", "value": "タイ, テイ" },
+      { "type": "kun", "value": "からだ" }
+    ],
+    "meanings": ["cuerpo"],
+    "strokeCount": 7,
+    "radical": "人",
+    "radicalMeaning": "persona",
+    "level": "n4",
+    "tags": ["body"],
+    "examples": [
+      { "word": "体", "reading": "からだ", "meaning": "cuerpo" },
+      { "word": "体育", "reading": "たいいく", "meaning": "educación física" }
+    ]
+  },
+  {
+    "character": "理",
+    "readings": [
+      { "type": "on", "value": "リ" },
+      { "type": "kun", "value": "" }
+    ],
+    "meanings": ["razón", "lógica", "administrar"],
+    "strokeCount": 11,
+    "radical": "玉",
+    "radicalMeaning": "jade",
+    "level": "n4",
+    "tags": ["abstract"],
+    "examples": [
+      { "word": "料理", "reading": "りょうり", "meaning": "cocina / comida" },
+      { "word": "理由", "reading": "りゆう", "meaning": "razón / motivo" }
+    ]
+  },
+  {
+    "character": "特",
+    "readings": [
+      { "type": "on", "value": "トク" },
+      { "type": "kun", "value": "" }
+    ],
+    "meanings": ["especial"],
+    "strokeCount": 10,
+    "radical": "牛",
+    "radicalMeaning": "vaca",
+    "level": "n4",
+    "tags": ["abstract"],
+    "examples": [
+      { "word": "特別", "reading": "とくべつ", "meaning": "especial" },
+      { "word": "特に", "reading": "とくに", "meaning": "especialmente" }
+    ]
+  },
+  {
+    "character": "通",
+    "readings": [
+      { "type": "on", "value": "ツウ" },
+      { "type": "kun", "value": "とお-る, とお-す, かよ-う" }
+    ],
+    "meanings": ["pasar", "transitar", "comunicar"],
+    "strokeCount": 10,
+    "radical": "辶",
+    "radicalMeaning": "caminar",
+    "level": "n4",
+    "tags": ["action", "transport"],
+    "examples": [
+      { "word": "通る", "reading": "とおる", "meaning": "pasar / transitar" },
+      { "word": "交通", "reading": "こうつう", "meaning": "tráfico / transporte" }
+    ]
+  },
+  {
+    "character": "転",
+    "readings": [
+      { "type": "on", "value": "テン" },
+      { "type": "kun", "value": "ころ-ぶ, ころ-がる, ころ-がす" }
+    ],
+    "meanings": ["rodar", "girar", "caer"],
+    "strokeCount": 11,
+    "radical": "車",
+    "radicalMeaning": "carro",
+    "level": "n4",
+    "tags": ["action", "transport"],
+    "examples": [
+      { "word": "自転車", "reading": "じてんしゃ", "meaning": "bicicleta" },
+      { "word": "運転", "reading": "うんてん", "meaning": "conducir" }
+    ]
+  },
+  {
+    "character": "教",
+    "readings": [
+      { "type": "on", "value": "キョウ" },
+      { "type": "kun", "value": "おし-える, おそ-わる" }
+    ],
+    "meanings": ["enseñar", "religión"],
+    "strokeCount": 11,
+    "radical": "攵",
+    "radicalMeaning": "golpear",
+    "level": "n4",
+    "tags": ["education"],
+    "examples": [
+      { "word": "教える", "reading": "おしえる", "meaning": "enseñar" },
+      { "word": "教室", "reading": "きょうしつ", "meaning": "aula" }
+    ]
+  },
+  {
+    "character": "集",
+    "readings": [
+      { "type": "on", "value": "シュウ" },
+      { "type": "kun", "value": "あつ-まる, あつ-める" }
+    ],
+    "meanings": ["reunir", "juntar"],
+    "strokeCount": 12,
+    "radical": "隹",
+    "radicalMeaning": "ave de cola corta",
+    "level": "n4",
+    "tags": ["action"],
+    "examples": [
+      { "word": "集める", "reading": "あつめる", "meaning": "reunir / juntar" },
+      { "word": "集合", "reading": "しゅうごう", "meaning": "reunión / punto de encuentro" }
+    ]
+  },
+  {
+    "character": "思",
+    "readings": [
+      { "type": "on", "value": "シ" },
+      { "type": "kun", "value": "おも-う" }
+    ],
+    "meanings": ["pensar", "creer"],
+    "strokeCount": 9,
+    "radical": "心",
+    "radicalMeaning": "corazón",
+    "level": "n4",
+    "tags": ["mental"],
+    "examples": [
+      { "word": "思う", "reading": "おもう", "meaning": "pensar / creer" },
+      { "word": "思い出", "reading": "おもいで", "meaning": "recuerdo" }
+    ]
+  },
+  {
+    "character": "場",
+    "readings": [
+      { "type": "on", "value": "ジョウ" },
+      { "type": "kun", "value": "ば" }
+    ],
+    "meanings": ["lugar", "sitio"],
+    "strokeCount": 12,
+    "radical": "土",
+    "radicalMeaning": "tierra",
+    "level": "n4",
+    "tags": ["place"],
+    "examples": [
+      { "word": "場所", "reading": "ばしょ", "meaning": "lugar" },
+      { "word": "駐車場", "reading": "ちゅうしゃじょう", "meaning": "estacionamiento" }
+    ]
+  },
+  {
+    "character": "意",
+    "readings": [
+      { "type": "on", "value": "イ" },
+      { "type": "kun", "value": "" }
+    ],
+    "meanings": ["significado", "intención", "voluntad"],
+    "strokeCount": 13,
+    "radical": "心",
+    "radicalMeaning": "corazón",
+    "level": "n4",
+    "tags": ["mental"],
+    "examples": [
+      { "word": "意味", "reading": "いみ", "meaning": "significado" },
+      { "word": "注意", "reading": "ちゅうい", "meaning": "atención / precaución" }
+    ]
+  },
+  {
+    "character": "世",
+    "readings": [
+      { "type": "on", "value": "セ, セイ" },
+      { "type": "kun", "value": "よ" }
+    ],
+    "meanings": ["mundo", "generación", "era"],
+    "strokeCount": 5,
+    "radical": "一",
+    "radicalMeaning": "uno",
+    "level": "n4",
+    "tags": ["abstract"],
+    "examples": [
+      { "word": "世界", "reading": "せかい", "meaning": "mundo" },
+      { "word": "世話", "reading": "せわ", "meaning": "cuidado / atención" }
+    ]
+  },
+  {
+    "character": "正",
+    "readings": [
+      { "type": "on", "value": "セイ, ショウ" },
+      { "type": "kun", "value": "ただ-しい, まさ" }
+    ],
+    "meanings": ["correcto", "justo"],
+    "strokeCount": 5,
+    "radical": "止",
+    "radicalMeaning": "parar",
+    "level": "n4",
+    "tags": ["abstract"],
+    "examples": [
+      { "word": "正しい", "reading": "ただしい", "meaning": "correcto" },
+      { "word": "正月", "reading": "しょうがつ", "meaning": "Año Nuevo" }
+    ]
+  },
+  {
+    "character": "知",
+    "readings": [
+      { "type": "on", "value": "チ" },
+      { "type": "kun", "value": "し-る" }
+    ],
+    "meanings": ["saber", "conocer"],
+    "strokeCount": 8,
+    "radical": "矢",
+    "radicalMeaning": "flecha",
+    "level": "n4",
+    "tags": ["mental"],
+    "examples": [
+      { "word": "知る", "reading": "しる", "meaning": "saber / conocer" },
+      { "word": "知識", "reading": "ちしき", "meaning": "conocimiento" }
+    ]
+  },
+  {
+    "character": "文",
+    "readings": [
+      { "type": "on", "value": "ブン, モン" },
+      { "type": "kun", "value": "ふみ" }
+    ],
+    "meanings": ["frase", "escritura", "literatura"],
+    "strokeCount": 4,
+    "radical": "文",
+    "radicalMeaning": "escritura",
+    "level": "n4",
+    "tags": ["education"],
+    "examples": [
+      { "word": "文化", "reading": "ぶんか", "meaning": "cultura" },
+      { "word": "文章", "reading": "ぶんしょう", "meaning": "texto / escrito" }
+    ]
+  },
+  {
+    "character": "切",
+    "readings": [
+      { "type": "on", "value": "セツ, サイ" },
+      { "type": "kun", "value": "き-る, き-れる" }
+    ],
+    "meanings": ["cortar", "importante"],
+    "strokeCount": 4,
+    "radical": "刀",
+    "radicalMeaning": "espada",
+    "level": "n4",
+    "tags": ["action"],
+    "examples": [
+      { "word": "大切", "reading": "たいせつ", "meaning": "importante / valioso" },
+      { "word": "切る", "reading": "きる", "meaning": "cortar" }
+    ]
+  },
+  {
+    "character": "度",
+    "readings": [
+      { "type": "on", "value": "ド, タク" },
+      { "type": "kun", "value": "たび" }
+    ],
+    "meanings": ["grado", "vez"],
+    "strokeCount": 9,
+    "radical": "广",
+    "radicalMeaning": "techo",
+    "level": "n4",
+    "tags": ["abstract"],
+    "examples": [
+      { "word": "温度", "reading": "おんど", "meaning": "temperatura" },
+      { "word": "今度", "reading": "こんど", "meaning": "esta vez / próxima vez" }
+    ]
+  },
+  {
+    "character": "家",
+    "readings": [
+      { "type": "on", "value": "カ, ケ" },
+      { "type": "kun", "value": "いえ, や" }
+    ],
+    "meanings": ["casa", "hogar", "familia"],
+    "strokeCount": 10,
+    "radical": "宀",
+    "radicalMeaning": "techo",
+    "level": "n4",
+    "tags": ["place", "family"],
+    "examples": [
+      { "word": "家族", "reading": "かぞく", "meaning": "familia" },
+      { "word": "家賃", "reading": "やちん", "meaning": "alquiler" }
+    ]
+  },
+  {
+    "character": "主",
+    "readings": [
+      { "type": "on", "value": "シュ" },
+      { "type": "kun", "value": "ぬし, おも" }
+    ],
+    "meanings": ["principal", "dueño", "señor"],
+    "strokeCount": 5,
+    "radical": "丶",
+    "radicalMeaning": "punto",
+    "level": "n4",
+    "tags": ["abstract"],
+    "examples": [
+      { "word": "主人", "reading": "しゅじん", "meaning": "esposo / dueño" },
+      { "word": "主に", "reading": "おもに", "meaning": "principalmente" }
+    ]
+  },
+  {
+    "character": "計",
+    "readings": [
+      { "type": "on", "value": "ケイ" },
+      { "type": "kun", "value": "はか-る, はか-らう" }
+    ],
+    "meanings": ["medir", "plan", "contar"],
+    "strokeCount": 9,
+    "radical": "言",
+    "radicalMeaning": "palabra",
+    "level": "n4",
+    "tags": ["abstract"],
+    "examples": [
+      { "word": "時計", "reading": "とけい", "meaning": "reloj" },
+      { "word": "計画", "reading": "けいかく", "meaning": "plan" }
+    ]
+  },
+  {
+    "character": "起",
+    "readings": [
+      { "type": "on", "value": "キ" },
+      { "type": "kun", "value": "お-きる, お-こる, お-こす" }
+    ],
+    "meanings": ["levantarse", "ocurrir"],
+    "strokeCount": 10,
+    "radical": "走",
+    "radicalMeaning": "correr",
+    "level": "n4",
+    "tags": ["action"],
+    "examples": [
+      { "word": "起きる", "reading": "おきる", "meaning": "levantarse / ocurrir" },
+      { "word": "起こす", "reading": "おこす", "meaning": "despertar a alguien / causar" }
+    ]
+  },
+  {
+    "character": "考",
+    "readings": [
+      { "type": "on", "value": "コウ" },
+      { "type": "kun", "value": "かんが-える" }
+    ],
+    "meanings": ["pensar", "considerar"],
+    "strokeCount": 6,
+    "radical": "老",
+    "radicalMeaning": "viejo",
+    "level": "n4",
+    "tags": ["mental"],
+    "examples": [
+      { "word": "考える", "reading": "かんがえる", "meaning": "pensar / considerar" },
+      { "word": "参考", "reading": "さんこう", "meaning": "referencia" }
+    ]
+  },
+  {
+    "character": "近",
+    "readings": [
+      { "type": "on", "value": "キン" },
+      { "type": "kun", "value": "ちか-い" }
+    ],
+    "meanings": ["cerca", "cercano"],
+    "strokeCount": 7,
+    "radical": "辶",
+    "radicalMeaning": "caminar",
+    "level": "n4",
+    "tags": ["position"],
+    "examples": [
+      { "word": "近い", "reading": "ちかい", "meaning": "cercano" },
+      { "word": "近所", "reading": "きんじょ", "meaning": "vecindario" }
+    ]
+  },
+  {
+    "character": "急",
+    "readings": [
+      { "type": "on", "value": "キュウ" },
+      { "type": "kun", "value": "いそ-ぐ" }
+    ],
+    "meanings": ["apresurarse", "urgente"],
+    "strokeCount": 9,
+    "radical": "心",
+    "radicalMeaning": "corazón",
+    "level": "n4",
+    "tags": ["action"],
+    "examples": [
+      { "word": "急ぐ", "reading": "いそぐ", "meaning": "apresurarse" },
+      { "word": "急に", "reading": "きゅうに", "meaning": "de repente" }
+    ]
+  },
+  {
+    "character": "引",
+    "readings": [
+      { "type": "on", "value": "イン" },
+      { "type": "kun", "value": "ひ-く, ひ-ける" }
+    ],
+    "meanings": ["tirar", "jalar", "citar"],
+    "strokeCount": 4,
+    "radical": "弓",
+    "radicalMeaning": "arco",
+    "level": "n4",
+    "tags": ["action"],
+    "examples": [
+      { "word": "引く", "reading": "ひく", "meaning": "tirar / jalar" },
+      { "word": "引っ越し", "reading": "ひっこし", "meaning": "mudanza" }
+    ]
+  },
+  {
+    "character": "質",
+    "readings": [
+      { "type": "on", "value": "シツ, シチ" },
+      { "type": "kun", "value": "" }
+    ],
+    "meanings": ["calidad", "naturaleza", "pregunta"],
+    "strokeCount": 15,
+    "radical": "貝",
+    "radicalMeaning": "concha",
+    "level": "n4",
+    "tags": ["abstract"],
+    "examples": [
+      { "word": "質問", "reading": "しつもん", "meaning": "pregunta" },
+      { "word": "品質", "reading": "ひんしつ", "meaning": "calidad" }
+    ]
+  },
+  {
+    "character": "合",
+    "readings": [
+      { "type": "on", "value": "ゴウ, ガッ, カッ" },
+      { "type": "kun", "value": "あ-う, あ-わせる" }
+    ],
+    "meanings": ["unir", "coincidir", "juntar"],
+    "strokeCount": 6,
+    "radical": "口",
+    "radicalMeaning": "boca",
+    "level": "n4",
+    "tags": ["action"],
+    "examples": [
+      { "word": "合う", "reading": "あう", "meaning": "coincidir / encajar" },
+      { "word": "場合", "reading": "ばあい", "meaning": "caso / situación" }
+    ]
+  },
+  {
+    "character": "待",
+    "readings": [
+      { "type": "on", "value": "タイ" },
+      { "type": "kun", "value": "ま-つ" }
+    ],
+    "meanings": ["esperar"],
+    "strokeCount": 9,
+    "radical": "彳",
+    "radicalMeaning": "paso",
+    "level": "n4",
+    "tags": ["action"],
+    "examples": [
+      { "word": "待つ", "reading": "まつ", "meaning": "esperar" },
+      { "word": "招待", "reading": "しょうたい", "meaning": "invitación" }
+    ]
+  },
+  {
+    "character": "売",
+    "readings": [
+      { "type": "on", "value": "バイ" },
+      { "type": "kun", "value": "う-る, う-れる" }
+    ],
+    "meanings": ["vender"],
+    "strokeCount": 7,
+    "radical": "士",
+    "radicalMeaning": "erudito",
+    "level": "n4",
+    "tags": ["commerce"],
+    "examples": [
+      { "word": "売る", "reading": "うる", "meaning": "vender" },
+      { "word": "売り場", "reading": "うりば", "meaning": "sección de ventas" }
+    ]
+  },
+  {
+    "character": "届",
+    "readings": [
+      { "type": "on", "value": "" },
+      { "type": "kun", "value": "とど-く, とど-ける" }
+    ],
+    "meanings": ["entregar", "alcanzar", "notificar"],
+    "strokeCount": 8,
+    "radical": "尸",
+    "radicalMeaning": "cuerpo",
+    "level": "n4",
+    "tags": ["action"],
+    "examples": [
+      { "word": "届ける", "reading": "とどける", "meaning": "entregar" },
+      { "word": "届く", "reading": "とどく", "meaning": "llegar / alcanzar" }
+    ]
+  },
+  {
+    "character": "送",
+    "readings": [
+      { "type": "on", "value": "ソウ" },
+      { "type": "kun", "value": "おく-る" }
+    ],
+    "meanings": ["enviar", "acompañar"],
+    "strokeCount": 9,
+    "radical": "辶",
+    "radicalMeaning": "caminar",
+    "level": "n4",
+    "tags": ["action"],
+    "examples": [
+      { "word": "送る", "reading": "おくる", "meaning": "enviar" },
+      { "word": "送料", "reading": "そうりょう", "meaning": "costo de envío" }
+    ]
+  },
+  {
+    "character": "運",
+    "readings": [
+      { "type": "on", "value": "ウン" },
+      { "type": "kun", "value": "はこ-ぶ" }
+    ],
+    "meanings": ["transportar", "suerte", "destino"],
+    "strokeCount": 12,
+    "radical": "辶",
+    "radicalMeaning": "caminar",
+    "level": "n4",
+    "tags": ["action", "transport"],
+    "examples": [
+      { "word": "運動", "reading": "うんどう", "meaning": "ejercicio / deporte" },
+      { "word": "運転", "reading": "うんてん", "meaning": "conducir" }
+    ]
+  },
+  {
+    "character": "使",
+    "readings": [
+      { "type": "on", "value": "シ" },
+      { "type": "kun", "value": "つか-う" }
+    ],
+    "meanings": ["usar", "emplear"],
+    "strokeCount": 8,
+    "radical": "人",
+    "radicalMeaning": "persona",
+    "level": "n4",
+    "tags": ["action"],
+    "examples": [
+      { "word": "使う", "reading": "つかう", "meaning": "usar" },
+      { "word": "大使館", "reading": "たいしかん", "meaning": "embajada" }
+    ]
+  },
+  {
+    "character": "持",
+    "readings": [
+      { "type": "on", "value": "ジ" },
+      { "type": "kun", "value": "も-つ" }
+    ],
+    "meanings": ["tener", "sostener"],
+    "strokeCount": 9,
+    "radical": "手",
+    "radicalMeaning": "mano",
+    "level": "n4",
+    "tags": ["action"],
+    "examples": [
+      { "word": "持つ", "reading": "もつ", "meaning": "tener / sostener" },
+      { "word": "気持ち", "reading": "きもち", "meaning": "sentimiento" }
+    ]
+  },
+  {
+    "character": "写",
+    "readings": [
+      { "type": "on", "value": "シャ" },
+      { "type": "kun", "value": "うつ-す, うつ-る" }
+    ],
+    "meanings": ["copiar", "fotografiar"],
+    "strokeCount": 5,
+    "radical": "冖",
+    "radicalMeaning": "cubierta",
+    "level": "n4",
+    "tags": ["action"],
+    "examples": [
+      { "word": "写真", "reading": "しゃしん", "meaning": "fotografía" },
+      { "word": "写す", "reading": "うつす", "meaning": "copiar / fotografiar" }
+    ]
+  },
+  {
+    "character": "真",
+    "readings": [
+      { "type": "on", "value": "シン" },
+      { "type": "kun", "value": "ま" }
+    ],
+    "meanings": ["verdad", "real"],
+    "strokeCount": 10,
+    "radical": "目",
+    "radicalMeaning": "ojo",
+    "level": "n4",
+    "tags": ["abstract"],
+    "examples": [
+      { "word": "写真", "reading": "しゃしん", "meaning": "fotografía" },
+      { "word": "真ん中", "reading": "まんなか", "meaning": "centro / medio" }
+    ]
+  },
+  {
+    "character": "別",
+    "readings": [
+      { "type": "on", "value": "ベツ" },
+      { "type": "kun", "value": "わか-れる" }
+    ],
+    "meanings": ["separar", "diferente", "otro"],
+    "strokeCount": 7,
+    "radical": "刀",
+    "radicalMeaning": "espada",
+    "level": "n4",
+    "tags": ["abstract"],
+    "examples": [
+      { "word": "特別", "reading": "とくべつ", "meaning": "especial" },
+      { "word": "別に", "reading": "べつに", "meaning": "en particular (no)" }
+    ]
+  },
+  {
+    "character": "所",
+    "readings": [
+      { "type": "on", "value": "ショ" },
+      { "type": "kun", "value": "ところ" }
+    ],
+    "meanings": ["lugar", "sitio"],
+    "strokeCount": 8,
+    "radical": "戸",
+    "radicalMeaning": "puerta",
+    "level": "n4",
+    "tags": ["place"],
+    "examples": [
+      { "word": "場所", "reading": "ばしょ", "meaning": "lugar" },
+      { "word": "台所", "reading": "だいどころ", "meaning": "cocina" }
+    ]
+  },
+  {
+    "character": "物",
+    "readings": [
+      { "type": "on", "value": "ブツ, モツ" },
+      { "type": "kun", "value": "もの" }
+    ],
+    "meanings": ["cosa", "objeto"],
+    "strokeCount": 8,
+    "radical": "牛",
+    "radicalMeaning": "vaca",
+    "level": "n4",
+    "tags": ["abstract"],
+    "examples": [
+      { "word": "動物", "reading": "どうぶつ", "meaning": "animal" },
+      { "word": "買い物", "reading": "かいもの", "meaning": "compras" }
+    ]
+  },
+  {
+    "character": "以",
+    "readings": [
+      { "type": "on", "value": "イ" },
+      { "type": "kun", "value": "" }
+    ],
+    "meanings": ["por medio de", "a partir de"],
+    "strokeCount": 5,
+    "radical": "人",
+    "radicalMeaning": "persona",
+    "level": "n4",
+    "tags": ["abstract"],
+    "examples": [
+      { "word": "以上", "reading": "いじょう", "meaning": "más de / arriba" },
+      { "word": "以下", "reading": "いか", "meaning": "menos de / abajo" }
+    ]
+  },
+  {
+    "character": "注",
+    "readings": [
+      { "type": "on", "value": "チュウ" },
+      { "type": "kun", "value": "そそ-ぐ" }
+    ],
+    "meanings": ["verter", "atención", "nota"],
+    "strokeCount": 8,
+    "radical": "水",
+    "radicalMeaning": "agua",
+    "level": "n4",
+    "tags": ["action"],
+    "examples": [
+      { "word": "注意", "reading": "ちゅうい", "meaning": "atención / precaución" },
+      { "word": "注文", "reading": "ちゅうもん", "meaning": "pedido / orden" }
+    ]
+  },
+  {
+    "character": "味",
+    "readings": [
+      { "type": "on", "value": "ミ" },
+      { "type": "kun", "value": "あじ, あじ-わう" }
+    ],
+    "meanings": ["sabor", "gusto"],
+    "strokeCount": 8,
+    "radical": "口",
+    "radicalMeaning": "boca",
+    "level": "n4",
+    "tags": ["food"],
+    "examples": [
+      { "word": "意味", "reading": "いみ", "meaning": "significado" },
+      { "word": "味", "reading": "あじ", "meaning": "sabor" }
+    ]
+  },
+  {
+    "character": "答",
+    "readings": [
+      { "type": "on", "value": "トウ" },
+      { "type": "kun", "value": "こた-える, こた-え" }
+    ],
+    "meanings": ["responder", "respuesta"],
+    "strokeCount": 12,
+    "radical": "竹",
+    "radicalMeaning": "bambú",
+    "level": "n4",
+    "tags": ["education"],
+    "examples": [
+      { "word": "答える", "reading": "こたえる", "meaning": "responder" },
+      { "word": "答え", "reading": "こたえ", "meaning": "respuesta" }
+    ]
+  },
+  {
+    "character": "屋",
+    "readings": [
+      { "type": "on", "value": "オク" },
+      { "type": "kun", "value": "や" }
+    ],
+    "meanings": ["tienda", "habitación", "techo"],
+    "strokeCount": 9,
+    "radical": "尸",
+    "radicalMeaning": "cuerpo",
+    "level": "n4",
+    "tags": ["place"],
+    "examples": [
+      { "word": "部屋", "reading": "へや", "meaning": "habitación" },
+      { "word": "本屋", "reading": "ほんや", "meaning": "librería" }
+    ]
+  },
+  {
+    "character": "病",
+    "readings": [
+      { "type": "on", "value": "ビョウ" },
+      { "type": "kun", "value": "や-む, やまい" }
+    ],
+    "meanings": ["enfermedad"],
+    "strokeCount": 10,
+    "radical": "疒",
+    "radicalMeaning": "enfermedad",
+    "level": "n4",
+    "tags": ["health"],
+    "examples": [
+      { "word": "病気", "reading": "びょうき", "meaning": "enfermedad" },
+      { "word": "病院", "reading": "びょういん", "meaning": "hospital" }
+    ]
+  },
+  {
+    "character": "院",
+    "readings": [
+      { "type": "on", "value": "イン" },
+      { "type": "kun", "value": "" }
+    ],
+    "meanings": ["institución", "templo"],
+    "strokeCount": 10,
+    "radical": "阝",
+    "radicalMeaning": "colina",
+    "level": "n4",
+    "tags": ["place"],
+    "examples": [
+      { "word": "病院", "reading": "びょういん", "meaning": "hospital" },
+      { "word": "大学院", "reading": "だいがくいん", "meaning": "posgrado" }
+    ]
+  },
+  {
+    "character": "回",
+    "readings": [
+      { "type": "on", "value": "カイ" },
+      { "type": "kun", "value": "まわ-る, まわ-す" }
+    ],
+    "meanings": ["vez", "girar", "volver"],
+    "strokeCount": 6,
+    "radical": "囗",
+    "radicalMeaning": "recinto",
+    "level": "n4",
+    "tags": ["abstract"],
+    "examples": [
+      { "word": "一回", "reading": "いっかい", "meaning": "una vez" },
+      { "word": "回る", "reading": "まわる", "meaning": "girar" }
+    ]
+  },
+  {
+    "character": "始",
+    "readings": [
+      { "type": "on", "value": "シ" },
+      { "type": "kun", "value": "はじ-める, はじ-まる" }
+    ],
+    "meanings": ["comenzar", "empezar"],
+    "strokeCount": 8,
+    "radical": "女",
+    "radicalMeaning": "mujer",
+    "level": "n4",
+    "tags": ["action"],
+    "examples": [
+      { "word": "始める", "reading": "はじめる", "meaning": "comenzar (transitivo)" },
+      { "word": "始まる", "reading": "はじまる", "meaning": "comenzar (intransitivo)" }
+    ]
+  },
+  {
+    "character": "終",
+    "readings": [
+      { "type": "on", "value": "シュウ" },
+      { "type": "kun", "value": "お-わる, お-える" }
+    ],
+    "meanings": ["terminar", "fin"],
+    "strokeCount": 11,
+    "radical": "糸",
+    "radicalMeaning": "hilo",
+    "level": "n4",
+    "tags": ["action"],
+    "examples": [
+      { "word": "終わる", "reading": "おわる", "meaning": "terminar" },
+      { "word": "最終", "reading": "さいしゅう", "meaning": "último / final" }
+    ]
+  },
+  {
+    "character": "習",
+    "readings": [
+      { "type": "on", "value": "シュウ" },
+      { "type": "kun", "value": "なら-う" }
+    ],
+    "meanings": ["aprender", "practicar"],
+    "strokeCount": 11,
+    "radical": "羽",
+    "radicalMeaning": "pluma",
+    "level": "n4",
+    "tags": ["education"],
+    "examples": [
+      { "word": "習う", "reading": "ならう", "meaning": "aprender" },
+      { "word": "練習", "reading": "れんしゅう", "meaning": "práctica" }
+    ]
+  },
+  {
+    "character": "験",
+    "readings": [
+      { "type": "on", "value": "ケン, ゲン" },
+      { "type": "kun", "value": "" }
+    ],
+    "meanings": ["examen", "prueba", "experiencia"],
+    "strokeCount": 18,
+    "radical": "馬",
+    "radicalMeaning": "caballo",
+    "level": "n4",
+    "tags": ["education"],
+    "examples": [
+      { "word": "試験", "reading": "しけん", "meaning": "examen" },
+      { "word": "経験", "reading": "けいけん", "meaning": "experiencia" }
+    ]
+  },
+  {
+    "character": "研",
+    "readings": [
+      { "type": "on", "value": "ケン" },
+      { "type": "kun", "value": "と-ぐ" }
+    ],
+    "meanings": ["pulir", "investigar"],
+    "strokeCount": 9,
+    "radical": "石",
+    "radicalMeaning": "piedra",
+    "level": "n4",
+    "tags": ["education"],
+    "examples": [
+      { "word": "研究", "reading": "けんきゅう", "meaning": "investigación" },
+      { "word": "研究室", "reading": "けんきゅうしつ", "meaning": "laboratorio" }
+    ]
+  },
+  {
+    "character": "究",
+    "readings": [
+      { "type": "on", "value": "キュウ" },
+      { "type": "kun", "value": "きわ-める" }
+    ],
+    "meanings": ["investigar", "profundizar"],
+    "strokeCount": 7,
+    "radical": "穴",
+    "radicalMeaning": "cueva",
+    "level": "n4",
+    "tags": ["education"],
+    "examples": [
+      { "word": "研究", "reading": "けんきゅう", "meaning": "investigación" },
+      { "word": "究極", "reading": "きゅうきょく", "meaning": "definitivo / extremo" }
+    ]
+  },
+  {
+    "character": "試",
+    "readings": [
+      { "type": "on", "value": "シ" },
+      { "type": "kun", "value": "こころ-みる, ため-す" }
+    ],
+    "meanings": ["intentar", "probar", "examen"],
+    "strokeCount": 13,
+    "radical": "言",
+    "radicalMeaning": "palabra",
+    "level": "n4",
+    "tags": ["action", "education"],
+    "examples": [
+      { "word": "試験", "reading": "しけん", "meaning": "examen" },
+      { "word": "試合", "reading": "しあい", "meaning": "partido / competencia" }
+    ]
+  },
+  {
+    "character": "産",
+    "readings": [
+      { "type": "on", "value": "サン" },
+      { "type": "kun", "value": "う-む, う-まれる, うぶ" }
+    ],
+    "meanings": ["producir", "nacer", "producto"],
+    "strokeCount": 11,
+    "radical": "生",
+    "radicalMeaning": "vida",
+    "level": "n4",
+    "tags": ["work", "nature"],
+    "examples": [
+      { "word": "産業", "reading": "さんぎょう", "meaning": "industria" },
+      { "word": "お土産", "reading": "おみやげ", "meaning": "souvenir / recuerdo" }
+    ]
+  },
+  {
+    "character": "経",
+    "readings": [
+      { "type": "on", "value": "ケイ, キョウ" },
+      { "type": "kun", "value": "へ-る, た-つ" }
+    ],
+    "meanings": ["pasar por", "experiencia", "sutra"],
+    "strokeCount": 11,
+    "radical": "糸",
+    "radicalMeaning": "hilo",
+    "level": "n4",
+    "tags": ["abstract"],
+    "examples": [
+      { "word": "経験", "reading": "けいけん", "meaning": "experiencia" },
+      { "word": "経済", "reading": "けいざい", "meaning": "economía" }
+    ]
+  },
+  {
+    "character": "際",
+    "readings": [
+      { "type": "on", "value": "サイ" },
+      { "type": "kun", "value": "きわ" }
+    ],
+    "meanings": ["ocasión", "borde", "internacional"],
+    "strokeCount": 14,
+    "radical": "阝",
+    "radicalMeaning": "colina",
+    "level": "n4",
+    "tags": ["abstract"],
+    "examples": [
+      { "word": "国際", "reading": "こくさい", "meaning": "internacional" },
+      { "word": "実際", "reading": "じっさい", "meaning": "en realidad" }
+    ]
+  },
+  {
+    "character": "政",
+    "readings": [
+      { "type": "on", "value": "セイ, ショウ" },
+      { "type": "kun", "value": "まつりごと" }
+    ],
+    "meanings": ["política", "gobierno"],
+    "strokeCount": 9,
+    "radical": "攵",
+    "radicalMeaning": "golpear",
+    "level": "n4",
+    "tags": ["society"],
+    "examples": [
+      { "word": "政治", "reading": "せいじ", "meaning": "política" },
+      { "word": "政府", "reading": "せいふ", "meaning": "gobierno" }
+    ]
+  },
+  {
+    "character": "治",
+    "readings": [
+      { "type": "on", "value": "チ, ジ" },
+      { "type": "kun", "value": "おさ-める, なお-る, なお-す" }
+    ],
+    "meanings": ["gobernar", "curar"],
+    "strokeCount": 8,
+    "radical": "水",
+    "radicalMeaning": "agua",
+    "level": "n4",
+    "tags": ["society", "health"],
+    "examples": [
+      { "word": "政治", "reading": "せいじ", "meaning": "política" },
+      { "word": "治る", "reading": "なおる", "meaning": "curarse" }
+    ]
+  },
+  {
+    "character": "親",
+    "readings": [
+      { "type": "on", "value": "シン" },
+      { "type": "kun", "value": "おや, した-しい" }
+    ],
+    "meanings": ["padre", "íntimo", "cercano"],
+    "strokeCount": 16,
+    "radical": "見",
+    "radicalMeaning": "ver",
+    "level": "n4",
+    "tags": ["family"],
+    "examples": [
+      { "word": "親", "reading": "おや", "meaning": "padre / madre" },
+      { "word": "親切", "reading": "しんせつ", "meaning": "amable" }
+    ]
+  },
+  {
+    "character": "心",
+    "readings": [
+      { "type": "on", "value": "シン" },
+      { "type": "kun", "value": "こころ" }
+    ],
+    "meanings": ["corazón", "mente", "espíritu"],
+    "strokeCount": 4,
+    "radical": "心",
+    "radicalMeaning": "corazón",
+    "level": "n4",
+    "tags": ["body", "mental"],
+    "examples": [
+      { "word": "安心", "reading": "あんしん", "meaning": "tranquilidad" },
+      { "word": "心配", "reading": "しんぱい", "meaning": "preocupación" }
+    ]
+  },
+  {
+    "character": "配",
+    "readings": [
+      { "type": "on", "value": "ハイ" },
+      { "type": "kun", "value": "くば-る" }
+    ],
+    "meanings": ["distribuir", "preocuparse"],
+    "strokeCount": 10,
+    "radical": "酉",
+    "radicalMeaning": "jarra de vino",
+    "level": "n4",
+    "tags": ["action"],
+    "examples": [
+      { "word": "心配", "reading": "しんぱい", "meaning": "preocupación" },
+      { "word": "配達", "reading": "はいたつ", "meaning": "entrega / reparto" }
+    ]
+  },
+  {
+    "character": "色",
+    "readings": [
+      { "type": "on", "value": "ショク, シキ" },
+      { "type": "kun", "value": "いろ" }
+    ],
+    "meanings": ["color"],
+    "strokeCount": 6,
+    "radical": "色",
+    "radicalMeaning": "color",
+    "level": "n4",
+    "tags": ["daily"],
+    "examples": [
+      { "word": "色", "reading": "いろ", "meaning": "color" },
+      { "word": "茶色", "reading": "ちゃいろ", "meaning": "marrón" }
+    ]
+  },
+  {
+    "character": "音",
+    "readings": [
+      { "type": "on", "value": "オン, イン" },
+      { "type": "kun", "value": "おと, ね" }
+    ],
+    "meanings": ["sonido", "ruido"],
+    "strokeCount": 9,
+    "radical": "音",
+    "radicalMeaning": "sonido",
+    "level": "n4",
+    "tags": ["abstract"],
+    "examples": [
+      { "word": "音楽", "reading": "おんがく", "meaning": "música" },
+      { "word": "音", "reading": "おと", "meaning": "sonido" }
+    ]
+  },
+  {
+    "character": "楽",
+    "readings": [
+      { "type": "on", "value": "ガク, ラク" },
+      { "type": "kun", "value": "たの-しい" }
+    ],
+    "meanings": ["música", "diversión", "cómodo"],
+    "strokeCount": 13,
+    "radical": "木",
+    "radicalMeaning": "árbol",
+    "level": "n4",
+    "tags": ["emotion"],
+    "examples": [
+      { "word": "音楽", "reading": "おんがく", "meaning": "música" },
+      { "word": "楽しい", "reading": "たのしい", "meaning": "divertido" }
+    ]
+  },
+  {
+    "character": "医",
+    "readings": [
+      { "type": "on", "value": "イ" },
+      { "type": "kun", "value": "" }
+    ],
+    "meanings": ["medicina", "médico"],
+    "strokeCount": 7,
+    "radical": "匸",
+    "radicalMeaning": "caja",
+    "level": "n4",
+    "tags": ["health"],
+    "examples": [
+      { "word": "医者", "reading": "いしゃ", "meaning": "médico" },
+      { "word": "医学", "reading": "いがく", "meaning": "medicina (ciencia)" }
+    ]
+  },
+  {
+    "character": "仕",
+    "readings": [
+      { "type": "on", "value": "シ, ジ" },
+      { "type": "kun", "value": "つか-える" }
+    ],
+    "meanings": ["servir", "hacer"],
+    "strokeCount": 5,
+    "radical": "人",
+    "radicalMeaning": "persona",
+    "level": "n4",
+    "tags": ["work"],
+    "examples": [
+      { "word": "仕事", "reading": "しごと", "meaning": "trabajo" },
+      { "word": "仕方", "reading": "しかた", "meaning": "manera / modo" }
+    ]
+  },
+  {
+    "character": "去",
+    "readings": [
+      { "type": "on", "value": "キョ, コ" },
+      { "type": "kun", "value": "さ-る" }
+    ],
+    "meanings": ["ir", "pasado", "irse"],
+    "strokeCount": 5,
+    "radical": "厶",
+    "radicalMeaning": "privado",
+    "level": "n4",
+    "tags": ["time", "action"],
+    "examples": [
+      { "word": "去年", "reading": "きょねん", "meaning": "año pasado" },
+      { "word": "過去", "reading": "かこ", "meaning": "pasado" }
+    ]
+  },
+  {
+    "character": "有",
+    "readings": [
+      { "type": "on", "value": "ユウ, ウ" },
+      { "type": "kun", "value": "あ-る" }
+    ],
+    "meanings": ["haber", "existir", "poseer"],
+    "strokeCount": 6,
+    "radical": "月",
+    "radicalMeaning": "luna",
+    "level": "n4",
+    "tags": ["abstract"],
+    "examples": [
+      { "word": "有名", "reading": "ゆうめい", "meaning": "famoso" },
+      { "word": "有る", "reading": "ある", "meaning": "haber / existir" }
+    ]
+  },
+  {
+    "character": "無",
+    "readings": [
+      { "type": "on", "value": "ム, ブ" },
+      { "type": "kun", "value": "な-い" }
+    ],
+    "meanings": ["nada", "sin", "no haber"],
+    "strokeCount": 12,
+    "radical": "火",
+    "radicalMeaning": "fuego",
+    "level": "n4",
+    "tags": ["abstract"],
+    "examples": [
+      { "word": "無理", "reading": "むり", "meaning": "imposible / excesivo" },
+      { "word": "無料", "reading": "むりょう", "meaning": "gratis" }
+    ]
+  },
+  {
+    "character": "言",
+    "readings": [
+      { "type": "on", "value": "ゲン, ゴン" },
+      { "type": "kun", "value": "い-う, こと" }
+    ],
+    "meanings": ["decir", "palabra"],
+    "strokeCount": 7,
+    "radical": "言",
+    "radicalMeaning": "palabra",
+    "level": "n4",
+    "tags": ["action"],
+    "examples": [
+      { "word": "言う", "reading": "いう", "meaning": "decir" },
+      { "word": "言葉", "reading": "ことば", "meaning": "palabra / idioma" }
+    ]
+  },
+  {
+    "character": "葉",
+    "readings": [
+      { "type": "on", "value": "ヨウ" },
+      { "type": "kun", "value": "は" }
+    ],
+    "meanings": ["hoja"],
+    "strokeCount": 12,
+    "radical": "艸",
+    "radicalMeaning": "hierba",
+    "level": "n4",
+    "tags": ["nature"],
+    "examples": [
+      { "word": "言葉", "reading": "ことば", "meaning": "palabra" },
+      { "word": "葉", "reading": "は", "meaning": "hoja" }
+    ]
+  },
+  {
+    "character": "犬",
+    "readings": [
+      { "type": "on", "value": "ケン" },
+      { "type": "kun", "value": "いぬ" }
+    ],
+    "meanings": ["perro"],
+    "strokeCount": 4,
+    "radical": "犬",
+    "radicalMeaning": "perro",
+    "level": "n4",
+    "tags": ["animal"],
+    "examples": [
+      { "word": "犬", "reading": "いぬ", "meaning": "perro" },
+      { "word": "子犬", "reading": "こいぬ", "meaning": "cachorro" }
+    ]
+  },
+  {
+    "character": "鳥",
+    "readings": [
+      { "type": "on", "value": "チョウ" },
+      { "type": "kun", "value": "とり" }
+    ],
+    "meanings": ["pájaro"],
+    "strokeCount": 11,
+    "radical": "鳥",
+    "radicalMeaning": "pájaro",
+    "level": "n4",
+    "tags": ["animal"],
+    "examples": [
+      { "word": "鳥", "reading": "とり", "meaning": "pájaro" },
+      { "word": "小鳥", "reading": "ことり", "meaning": "pajarito" }
+    ]
+  },
+  {
+    "character": "魚",
+    "readings": [
+      { "type": "on", "value": "ギョ" },
+      { "type": "kun", "value": "うお, さかな" }
+    ],
+    "meanings": ["pez", "pescado"],
+    "strokeCount": 11,
+    "radical": "魚",
+    "radicalMeaning": "pez",
+    "level": "n4",
+    "tags": ["animal", "food"],
+    "examples": [
+      { "word": "魚", "reading": "さかな", "meaning": "pez / pescado" },
+      { "word": "金魚", "reading": "きんぎょ", "meaning": "pez dorado" }
+    ]
+  },
+  {
+    "character": "黒",
+    "readings": [
+      { "type": "on", "value": "コク" },
+      { "type": "kun", "value": "くろ, くろ-い" }
+    ],
+    "meanings": ["negro"],
+    "strokeCount": 11,
+    "radical": "黒",
+    "radicalMeaning": "negro",
+    "level": "n4",
+    "tags": ["color"],
+    "examples": [
+      { "word": "黒い", "reading": "くろい", "meaning": "negro" },
+      { "word": "黒板", "reading": "こくばん", "meaning": "pizarra" }
+    ]
+  },
+  {
+    "character": "赤",
+    "readings": [
+      { "type": "on", "value": "セキ, シャク" },
+      { "type": "kun", "value": "あか, あか-い" }
+    ],
+    "meanings": ["rojo"],
+    "strokeCount": 7,
+    "radical": "赤",
+    "radicalMeaning": "rojo",
+    "level": "n4",
+    "tags": ["color"],
+    "examples": [
+      { "word": "赤い", "reading": "あかい", "meaning": "rojo" },
+      { "word": "赤ちゃん", "reading": "あかちゃん", "meaning": "bebé" }
+    ]
+  },
+  {
+    "character": "青",
+    "readings": [
+      { "type": "on", "value": "セイ, ショウ" },
+      { "type": "kun", "value": "あお, あお-い" }
+    ],
+    "meanings": ["azul", "verde (semáforo)"],
+    "strokeCount": 8,
+    "radical": "青",
+    "radicalMeaning": "azul",
+    "level": "n4",
+    "tags": ["color"],
+    "examples": [
+      { "word": "青い", "reading": "あおい", "meaning": "azul" },
+      { "word": "青年", "reading": "せいねん", "meaning": "joven / juventud" }
+    ]
+  },
+  {
+    "character": "春",
+    "readings": [
+      { "type": "on", "value": "シュン" },
+      { "type": "kun", "value": "はる" }
+    ],
+    "meanings": ["primavera"],
+    "strokeCount": 9,
+    "radical": "日",
+    "radicalMeaning": "sol",
+    "level": "n4",
+    "tags": ["season", "nature"],
+    "examples": [
+      { "word": "春", "reading": "はる", "meaning": "primavera" },
+      { "word": "春休み", "reading": "はるやすみ", "meaning": "vacaciones de primavera" }
+    ]
+  },
+  {
+    "character": "夏",
+    "readings": [
+      { "type": "on", "value": "カ, ゲ" },
+      { "type": "kun", "value": "なつ" }
+    ],
+    "meanings": ["verano"],
+    "strokeCount": 10,
+    "radical": "夂",
+    "radicalMeaning": "ir despacio",
+    "level": "n4",
+    "tags": ["season", "nature"],
+    "examples": [
+      { "word": "夏", "reading": "なつ", "meaning": "verano" },
+      { "word": "夏休み", "reading": "なつやすみ", "meaning": "vacaciones de verano" }
+    ]
+  },
+  {
+    "character": "秋",
+    "readings": [
+      { "type": "on", "value": "シュウ" },
+      { "type": "kun", "value": "あき" }
+    ],
+    "meanings": ["otoño"],
+    "strokeCount": 9,
+    "radical": "禾",
+    "radicalMeaning": "cereal",
+    "level": "n4",
+    "tags": ["season", "nature"],
+    "examples": [
+      { "word": "秋", "reading": "あき", "meaning": "otoño" },
+      { "word": "秋分", "reading": "しゅうぶん", "meaning": "equinoccio de otoño" }
+    ]
+  },
+  {
+    "character": "冬",
+    "readings": [
+      { "type": "on", "value": "トウ" },
+      { "type": "kun", "value": "ふゆ" }
+    ],
+    "meanings": ["invierno"],
+    "strokeCount": 5,
+    "radical": "冫",
+    "radicalMeaning": "hielo",
+    "level": "n4",
+    "tags": ["season", "nature"],
+    "examples": [
+      { "word": "冬", "reading": "ふゆ", "meaning": "invierno" },
+      { "word": "冬休み", "reading": "ふゆやすみ", "meaning": "vacaciones de invierno" }
+    ]
+  },
+  {
+    "character": "朝",
+    "readings": [
+      { "type": "on", "value": "チョウ" },
+      { "type": "kun", "value": "あさ" }
+    ],
+    "meanings": ["mañana"],
+    "strokeCount": 12,
+    "radical": "月",
+    "radicalMeaning": "luna",
+    "level": "n4",
+    "tags": ["time"],
+    "examples": [
+      { "word": "朝", "reading": "あさ", "meaning": "mañana" },
+      { "word": "今朝", "reading": "けさ", "meaning": "esta mañana" }
+    ]
+  },
+  {
+    "character": "昼",
+    "readings": [
+      { "type": "on", "value": "チュウ" },
+      { "type": "kun", "value": "ひる" }
+    ],
+    "meanings": ["mediodía", "día"],
+    "strokeCount": 9,
+    "radical": "日",
+    "radicalMeaning": "sol",
+    "level": "n4",
+    "tags": ["time"],
+    "examples": [
+      { "word": "昼", "reading": "ひる", "meaning": "mediodía" },
+      { "word": "昼ご飯", "reading": "ひるごはん", "meaning": "almuerzo" }
+    ]
+  },
+  {
+    "character": "夜",
+    "readings": [
+      { "type": "on", "value": "ヤ" },
+      { "type": "kun", "value": "よ, よる" }
+    ],
+    "meanings": ["noche"],
+    "strokeCount": 8,
+    "radical": "夕",
+    "radicalMeaning": "atardecer",
+    "level": "n4",
+    "tags": ["time"],
+    "examples": [
+      { "word": "夜", "reading": "よる", "meaning": "noche" },
+      { "word": "今夜", "reading": "こんや", "meaning": "esta noche" }
+    ]
+  },
+  {
+    "character": "走",
+    "readings": [
+      { "type": "on", "value": "ソウ" },
+      { "type": "kun", "value": "はし-る" }
+    ],
+    "meanings": ["correr"],
+    "strokeCount": 7,
+    "radical": "走",
+    "radicalMeaning": "correr",
+    "level": "n4",
+    "tags": ["action"],
+    "examples": [
+      { "word": "走る", "reading": "はしる", "meaning": "correr" },
+      { "word": "走行", "reading": "そうこう", "meaning": "circulación / marcha" }
+    ]
+  },
+  {
+    "character": "止",
+    "readings": [
+      { "type": "on", "value": "シ" },
+      { "type": "kun", "value": "と-まる, と-める" }
+    ],
+    "meanings": ["parar", "detener"],
+    "strokeCount": 4,
+    "radical": "止",
+    "radicalMeaning": "parar",
+    "level": "n4",
+    "tags": ["action"],
+    "examples": [
+      { "word": "止まる", "reading": "とまる", "meaning": "pararse / detenerse" },
+      { "word": "中止", "reading": "ちゅうし", "meaning": "cancelación" }
+    ]
+  },
+  {
+    "character": "歩",
+    "readings": [
+      { "type": "on", "value": "ホ, ブ, フ" },
+      { "type": "kun", "value": "ある-く, あゆ-む" }
+    ],
+    "meanings": ["caminar", "paso"],
+    "strokeCount": 8,
+    "radical": "止",
+    "radicalMeaning": "parar",
+    "level": "n4",
+    "tags": ["action"],
+    "examples": [
+      { "word": "歩く", "reading": "あるく", "meaning": "caminar" },
+      { "word": "散歩", "reading": "さんぽ", "meaning": "paseo" }
+    ]
+  },
+  {
+    "character": "乗",
+    "readings": [
+      { "type": "on", "value": "ジョウ" },
+      { "type": "kun", "value": "の-る, の-せる" }
+    ],
+    "meanings": ["montar", "subir"],
+    "strokeCount": 9,
+    "radical": "丿",
+    "radicalMeaning": "trazo diagonal",
+    "level": "n4",
+    "tags": ["action", "transport"],
+    "examples": [
+      { "word": "乗る", "reading": "のる", "meaning": "subir / montar" },
+      { "word": "乗り物", "reading": "のりもの", "meaning": "vehículo" }
+    ]
+  },
+  {
+    "character": "降",
+    "readings": [
+      { "type": "on", "value": "コウ" },
+      { "type": "kun", "value": "お-りる, ふ-る" }
+    ],
+    "meanings": ["bajar", "caer (lluvia/nieve)"],
+    "strokeCount": 10,
+    "radical": "阝",
+    "radicalMeaning": "colina",
+    "level": "n4",
+    "tags": ["action", "nature"],
+    "examples": [
+      { "word": "降りる", "reading": "おりる", "meaning": "bajar / apearse" },
+      { "word": "降る", "reading": "ふる", "meaning": "caer (lluvia/nieve)" }
+    ]
+  },
+  {
+    "character": "立",
+    "readings": [
+      { "type": "on", "value": "リツ, リュウ" },
+      { "type": "kun", "value": "た-つ, た-てる" }
+    ],
+    "meanings": ["ponerse de pie", "establecer"],
+    "strokeCount": 5,
+    "radical": "立",
+    "radicalMeaning": "ponerse de pie",
+    "level": "n4",
+    "tags": ["action"],
+    "examples": [
+      { "word": "立つ", "reading": "たつ", "meaning": "ponerse de pie" },
+      { "word": "役に立つ", "reading": "やくにたつ", "meaning": "ser útil" }
+    ]
+  },
+  {
+    "character": "座",
+    "readings": [
+      { "type": "on", "value": "ザ" },
+      { "type": "kun", "value": "すわ-る" }
+    ],
+    "meanings": ["sentarse", "asiento"],
+    "strokeCount": 10,
+    "radical": "广",
+    "radicalMeaning": "techo",
+    "level": "n4",
+    "tags": ["action"],
+    "examples": [
+      { "word": "座る", "reading": "すわる", "meaning": "sentarse" },
+      { "word": "座席", "reading": "ざせき", "meaning": "asiento" }
+    ]
+  },
+  {
+    "character": "届",
+    "readings": [
+      { "type": "on", "value": "" },
+      { "type": "kun", "value": "とど-く, とど-ける" }
+    ],
+    "meanings": ["alcanzar", "entregar"],
+    "strokeCount": 8,
+    "radical": "尸",
+    "radicalMeaning": "cuerpo",
+    "level": "n4",
+    "tags": ["action"],
+    "examples": [
+      { "word": "届く", "reading": "とどく", "meaning": "llegar / alcanzar" },
+      { "word": "届ける", "reading": "とどける", "meaning": "entregar" }
+    ]
+  },
+  {
+    "character": "住",
+    "readings": [
+      { "type": "on", "value": "ジュウ" },
+      { "type": "kun", "value": "す-む, す-まう" }
+    ],
+    "meanings": ["vivir", "residir"],
+    "strokeCount": 7,
+    "radical": "人",
+    "radicalMeaning": "persona",
+    "level": "n4",
+    "tags": ["daily"],
+    "examples": [
+      { "word": "住む", "reading": "すむ", "meaning": "vivir / residir" },
+      { "word": "住所", "reading": "じゅうしょ", "meaning": "dirección" }
+    ]
+  },
+  {
+    "character": "届",
+    "readings": [
+      { "type": "on", "value": "" },
+      { "type": "kun", "value": "とど-く, とど-ける" }
+    ],
+    "meanings": ["entregar", "alcanzar"],
+    "strokeCount": 8,
+    "radical": "尸",
+    "radicalMeaning": "cuerpo",
+    "level": "n4",
+    "tags": ["action"],
+    "examples": [
+      { "word": "届ける", "reading": "とどける", "meaning": "entregar" },
+      { "word": "届く", "reading": "とどく", "meaning": "llegar" }
+    ]
+  },
+  {
+    "character": "頭",
+    "readings": [
+      { "type": "on", "value": "トウ, ズ" },
+      { "type": "kun", "value": "あたま, かしら" }
+    ],
+    "meanings": ["cabeza"],
+    "strokeCount": 16,
+    "radical": "頁",
+    "radicalMeaning": "cabeza",
+    "level": "n4",
+    "tags": ["body"],
+    "examples": [
+      { "word": "頭", "reading": "あたま", "meaning": "cabeza" },
+      { "word": "頭痛", "reading": "ずつう", "meaning": "dolor de cabeza" }
+    ]
+  },
+  {
+    "character": "顔",
+    "readings": [
+      { "type": "on", "value": "ガン" },
+      { "type": "kun", "value": "かお" }
+    ],
+    "meanings": ["cara", "rostro"],
+    "strokeCount": 18,
+    "radical": "頁",
+    "radicalMeaning": "cabeza",
+    "level": "n4",
+    "tags": ["body"],
+    "examples": [
+      { "word": "顔", "reading": "かお", "meaning": "cara" },
+      { "word": "笑顔", "reading": "えがお", "meaning": "sonrisa" }
+    ]
+  },
+  {
+    "character": "声",
+    "readings": [
+      { "type": "on", "value": "セイ, ショウ" },
+      { "type": "kun", "value": "こえ" }
+    ],
+    "meanings": ["voz"],
+    "strokeCount": 7,
+    "radical": "士",
+    "radicalMeaning": "erudito",
+    "level": "n4",
+    "tags": ["body"],
+    "examples": [
+      { "word": "声", "reading": "こえ", "meaning": "voz" },
+      { "word": "大声", "reading": "おおごえ", "meaning": "voz alta" }
+    ]
+  },
+  {
+    "character": "足",
+    "readings": [
+      { "type": "on", "value": "ソク" },
+      { "type": "kun", "value": "あし, た-りる, た-す" }
+    ],
+    "meanings": ["pie", "pierna", "bastar"],
+    "strokeCount": 7,
+    "radical": "足",
+    "radicalMeaning": "pie",
+    "level": "n4",
+    "tags": ["body"],
+    "examples": [
+      { "word": "足", "reading": "あし", "meaning": "pie / pierna" },
+      { "word": "不足", "reading": "ふそく", "meaning": "insuficiencia" }
+    ]
+  },
+  {
+    "character": "目",
+    "readings": [
+      { "type": "on", "value": "モク, ボク" },
+      { "type": "kun", "value": "め" }
+    ],
+    "meanings": ["ojo"],
+    "strokeCount": 5,
+    "radical": "目",
+    "radicalMeaning": "ojo",
+    "level": "n4",
+    "tags": ["body"],
+    "examples": [
+      { "word": "目", "reading": "め", "meaning": "ojo" },
+      { "word": "目的", "reading": "もくてき", "meaning": "propósito / objetivo" }
+    ]
+  },
+  {
+    "character": "口",
+    "readings": [
+      { "type": "on", "value": "コウ, ク" },
+      { "type": "kun", "value": "くち" }
+    ],
+    "meanings": ["boca", "entrada"],
+    "strokeCount": 3,
+    "radical": "口",
+    "radicalMeaning": "boca",
+    "level": "n4",
+    "tags": ["body"],
+    "examples": [
+      { "word": "口", "reading": "くち", "meaning": "boca" },
+      { "word": "入口", "reading": "いりぐち", "meaning": "entrada" }
+    ]
+  },
+  {
+    "character": "耳",
+    "readings": [
+      { "type": "on", "value": "ジ" },
+      { "type": "kun", "value": "みみ" }
+    ],
+    "meanings": ["oreja", "oído"],
+    "strokeCount": 6,
+    "radical": "耳",
+    "radicalMeaning": "oreja",
+    "level": "n4",
+    "tags": ["body"],
+    "examples": [
+      { "word": "耳", "reading": "みみ", "meaning": "oreja / oído" },
+      { "word": "耳鼻科", "reading": "じびか", "meaning": "otorrinolaringología" }
+    ]
+  },
+  {
+    "character": "字",
+    "readings": [
+      { "type": "on", "value": "ジ" },
+      { "type": "kun", "value": "あざ" }
+    ],
+    "meanings": ["carácter", "letra"],
+    "strokeCount": 6,
+    "radical": "子",
+    "radicalMeaning": "niño",
+    "level": "n4",
+    "tags": ["education"],
+    "examples": [
+      { "word": "漢字", "reading": "かんじ", "meaning": "kanji" },
+      { "word": "文字", "reading": "もじ", "meaning": "carácter / letra" }
+    ]
+  },
+  {
+    "character": "紙",
+    "readings": [
+      { "type": "on", "value": "シ" },
+      { "type": "kun", "value": "かみ" }
+    ],
+    "meanings": ["papel"],
+    "strokeCount": 10,
+    "radical": "糸",
+    "radicalMeaning": "hilo",
+    "level": "n4",
+    "tags": ["daily"],
+    "examples": [
+      { "word": "紙", "reading": "かみ", "meaning": "papel" },
+      { "word": "手紙", "reading": "てがみ", "meaning": "carta" }
+    ]
+  },
+  {
+    "character": "料",
+    "readings": [
+      { "type": "on", "value": "リョウ" },
+      { "type": "kun", "value": "" }
+    ],
+    "meanings": ["material", "tarifa", "ingrediente"],
+    "strokeCount": 10,
+    "radical": "米",
+    "radicalMeaning": "arroz",
+    "level": "n4",
+    "tags": ["abstract"],
+    "examples": [
+      { "word": "料理", "reading": "りょうり", "meaning": "cocina / comida" },
+      { "word": "材料", "reading": "ざいりょう", "meaning": "material / ingrediente" }
+    ]
+  },
+  {
+    "character": "着",
+    "readings": [
+      { "type": "on", "value": "チャク, ジャク" },
+      { "type": "kun", "value": "き-る, つ-く, つ-ける" }
+    ],
+    "meanings": ["llegar", "vestir"],
+    "strokeCount": 12,
+    "radical": "目",
+    "radicalMeaning": "ojo",
+    "level": "n4",
+    "tags": ["action", "daily"],
+    "examples": [
+      { "word": "着る", "reading": "きる", "meaning": "vestir / ponerse" },
+      { "word": "到着", "reading": "とうちゃく", "meaning": "llegada" }
+    ]
+  },
+  {
+    "character": "洗",
+    "readings": [
+      { "type": "on", "value": "セン" },
+      { "type": "kun", "value": "あら-う" }
+    ],
+    "meanings": ["lavar"],
+    "strokeCount": 9,
+    "radical": "水",
+    "radicalMeaning": "agua",
+    "level": "n4",
+    "tags": ["daily"],
+    "examples": [
+      { "word": "洗う", "reading": "あらう", "meaning": "lavar" },
+      { "word": "洗濯", "reading": "せんたく", "meaning": "lavado de ropa" }
+    ]
+  },
+  {
+    "character": "台",
+    "readings": [
+      { "type": "on", "value": "ダイ, タイ" },
+      { "type": "kun", "value": "" }
+    ],
+    "meanings": ["plataforma", "contador de máquinas"],
+    "strokeCount": 5,
+    "radical": "口",
+    "radicalMeaning": "boca",
+    "level": "n4",
+    "tags": ["daily"],
+    "examples": [
+      { "word": "台所", "reading": "だいどころ", "meaning": "cocina" },
+      { "word": "台風", "reading": "たいふう", "meaning": "tifón" }
+    ]
+  },
+  {
+    "character": "風",
+    "readings": [
+      { "type": "on", "value": "フウ, フ" },
+      { "type": "kun", "value": "かぜ, かざ" }
+    ],
+    "meanings": ["viento", "estilo"],
+    "strokeCount": 9,
+    "radical": "風",
+    "radicalMeaning": "viento",
+    "level": "n4",
+    "tags": ["nature"],
+    "examples": [
+      { "word": "風", "reading": "かぜ", "meaning": "viento" },
+      { "word": "台風", "reading": "たいふう", "meaning": "tifón" }
+    ]
+  },
+  {
+    "character": "雪",
+    "readings": [
+      { "type": "on", "value": "セツ" },
+      { "type": "kun", "value": "ゆき" }
+    ],
+    "meanings": ["nieve"],
+    "strokeCount": 11,
+    "radical": "雨",
+    "radicalMeaning": "lluvia",
+    "level": "n4",
+    "tags": ["nature"],
+    "examples": [
+      { "word": "雪", "reading": "ゆき", "meaning": "nieve" },
+      { "word": "雪国", "reading": "ゆきぐに", "meaning": "país de nieve" }
+    ]
+  },
+  {
+    "character": "海",
+    "readings": [
+      { "type": "on", "value": "カイ" },
+      { "type": "kun", "value": "うみ" }
+    ],
+    "meanings": ["mar", "océano"],
+    "strokeCount": 9,
+    "radical": "水",
+    "radicalMeaning": "agua",
+    "level": "n4",
+    "tags": ["nature"],
+    "examples": [
+      { "word": "海", "reading": "うみ", "meaning": "mar" },
+      { "word": "海外", "reading": "かいがい", "meaning": "extranjero / exterior" }
+    ]
+  },
+  {
+    "character": "池",
+    "readings": [
+      { "type": "on", "value": "チ" },
+      { "type": "kun", "value": "いけ" }
+    ],
+    "meanings": ["estanque", "lago"],
+    "strokeCount": 6,
+    "radical": "水",
+    "radicalMeaning": "agua",
+    "level": "n4",
+    "tags": ["nature"],
+    "examples": [
+      { "word": "池", "reading": "いけ", "meaning": "estanque" },
+      { "word": "電池", "reading": "でんち", "meaning": "batería / pila" }
+    ]
+  },
+  {
+    "character": "広",
+    "readings": [
+      { "type": "on", "value": "コウ" },
+      { "type": "kun", "value": "ひろ-い, ひろ-げる, ひろ-まる" }
+    ],
+    "meanings": ["amplio", "ancho", "espacioso"],
+    "strokeCount": 5,
+    "radical": "广",
+    "radicalMeaning": "techo",
+    "level": "n4",
+    "tags": ["adjective"],
+    "examples": [
+      { "word": "広い", "reading": "ひろい", "meaning": "amplio / ancho" },
+      { "word": "広場", "reading": "ひろば", "meaning": "plaza" }
+    ]
+  },
+  {
+    "character": "狭",
+    "readings": [
+      { "type": "on", "value": "キョウ" },
+      { "type": "kun", "value": "せま-い" }
+    ],
+    "meanings": ["estrecho", "angosto"],
+    "strokeCount": 9,
+    "radical": "犬",
+    "radicalMeaning": "perro",
+    "level": "n4",
+    "tags": ["adjective"],
+    "examples": [
+      { "word": "狭い", "reading": "せまい", "meaning": "estrecho / angosto" },
+      { "word": "狭さ", "reading": "せまさ", "meaning": "estrechez" }
+    ]
+  },
+  {
+    "character": "重",
+    "readings": [
+      { "type": "on", "value": "ジュウ, チョウ" },
+      { "type": "kun", "value": "おも-い, かさ-ねる, え" }
+    ],
+    "meanings": ["pesado", "importante", "apilar"],
+    "strokeCount": 9,
+    "radical": "里",
+    "radicalMeaning": "aldea",
+    "level": "n4",
+    "tags": ["adjective"],
+    "examples": [
+      { "word": "重い", "reading": "おもい", "meaning": "pesado" },
+      { "word": "重要", "reading": "じゅうよう", "meaning": "importante" }
+    ]
+  },
+  {
+    "character": "軽",
+    "readings": [
+      { "type": "on", "value": "ケイ" },
+      { "type": "kun", "value": "かる-い, かろ-やか" }
+    ],
+    "meanings": ["ligero", "liviano"],
+    "strokeCount": 12,
+    "radical": "車",
+    "radicalMeaning": "carro",
+    "level": "n4",
+    "tags": ["adjective"],
+    "examples": [
+      { "word": "軽い", "reading": "かるい", "meaning": "ligero" },
+      { "word": "軽食", "reading": "けいしょく", "meaning": "refrigerio / snack" }
+    ]
+  },
+  {
+    "character": "強",
+    "readings": [
+      { "type": "on", "value": "キョウ, ゴウ" },
+      { "type": "kun", "value": "つよ-い, し-いる" }
+    ],
+    "meanings": ["fuerte"],
+    "strokeCount": 11,
+    "radical": "弓",
+    "radicalMeaning": "arco",
+    "level": "n4",
+    "tags": ["adjective"],
+    "examples": [
+      { "word": "強い", "reading": "つよい", "meaning": "fuerte" },
+      { "word": "勉強", "reading": "べんきょう", "meaning": "estudio" }
+    ]
+  },
+  {
+    "character": "弱",
+    "readings": [
+      { "type": "on", "value": "ジャク" },
+      { "type": "kun", "value": "よわ-い, よわ-る" }
+    ],
+    "meanings": ["débil"],
+    "strokeCount": 10,
+    "radical": "弓",
+    "radicalMeaning": "arco",
+    "level": "n4",
+    "tags": ["adjective"],
+    "examples": [
+      { "word": "弱い", "reading": "よわい", "meaning": "débil" },
+      { "word": "弱点", "reading": "じゃくてん", "meaning": "punto débil" }
+    ]
+  },
+  {
+    "character": "悪",
+    "readings": [
+      { "type": "on", "value": "アク, オ" },
+      { "type": "kun", "value": "わる-い" }
+    ],
+    "meanings": ["malo", "malvado"],
+    "strokeCount": 11,
+    "radical": "心",
+    "radicalMeaning": "corazón",
+    "level": "n4",
+    "tags": ["adjective"],
+    "examples": [
+      { "word": "悪い", "reading": "わるい", "meaning": "malo" },
+      { "word": "最悪", "reading": "さいあく", "meaning": "el peor" }
+    ]
+  },
+  {
+    "character": "好",
+    "readings": [
+      { "type": "on", "value": "コウ" },
+      { "type": "kun", "value": "す-く, この-む, よ-い" }
+    ],
+    "meanings": ["gustar", "favorable"],
+    "strokeCount": 6,
+    "radical": "女",
+    "radicalMeaning": "mujer",
+    "level": "n4",
+    "tags": ["emotion"],
+    "examples": [
+      { "word": "好き", "reading": "すき", "meaning": "gustar / favorito" },
+      { "word": "好み", "reading": "このみ", "meaning": "preferencia" }
+    ]
+  },
+  {
+    "character": "明",
+    "readings": [
+      { "type": "on", "value": "メイ, ミョウ" },
+      { "type": "kun", "value": "あか-るい, あ-ける, あき-らか" }
+    ],
+    "meanings": ["claro", "brillante", "siguiente"],
+    "strokeCount": 8,
+    "radical": "日",
+    "radicalMeaning": "sol",
+    "level": "n4",
+    "tags": ["abstract", "time"],
+    "examples": [
+      { "word": "明るい", "reading": "あかるい", "meaning": "claro / brillante" },
+      { "word": "明日", "reading": "あした", "meaning": "mañana" }
+    ]
+  },
+  {
+    "character": "暗",
+    "readings": [
+      { "type": "on", "value": "アン" },
+      { "type": "kun", "value": "くら-い" }
+    ],
+    "meanings": ["oscuro"],
+    "strokeCount": 13,
+    "radical": "日",
+    "radicalMeaning": "sol",
+    "level": "n4",
+    "tags": ["adjective"],
+    "examples": [
+      { "word": "暗い", "reading": "くらい", "meaning": "oscuro" },
+      { "word": "暗記", "reading": "あんき", "meaning": "memorización" }
+    ]
+  },
+  {
+    "character": "町",
+    "readings": [
+      { "type": "on", "value": "チョウ" },
+      { "type": "kun", "value": "まち" }
+    ],
+    "meanings": ["pueblo", "ciudad pequeña"],
+    "strokeCount": 7,
+    "radical": "田",
+    "radicalMeaning": "arrozal",
+    "level": "n4",
+    "tags": ["place"],
+    "examples": [
+      { "word": "町", "reading": "まち", "meaning": "pueblo / ciudad" },
+      { "word": "町中", "reading": "まちなか", "meaning": "centro del pueblo" }
+    ]
+  },
+  {
+    "character": "村",
+    "readings": [
+      { "type": "on", "value": "ソン" },
+      { "type": "kun", "value": "むら" }
+    ],
+    "meanings": ["aldea"],
+    "strokeCount": 7,
+    "radical": "木",
+    "radicalMeaning": "árbol",
+    "level": "n4",
+    "tags": ["place"],
+    "examples": [
+      { "word": "村", "reading": "むら", "meaning": "aldea" },
+      { "word": "村人", "reading": "むらびと", "meaning": "aldeano" }
+    ]
+  },
+  {
+    "character": "林",
+    "readings": [
+      { "type": "on", "value": "リン" },
+      { "type": "kun", "value": "はやし" }
+    ],
+    "meanings": ["bosque", "arboleda"],
+    "strokeCount": 8,
+    "radical": "木",
+    "radicalMeaning": "árbol",
+    "level": "n4",
+    "tags": ["nature"],
+    "examples": [
+      { "word": "林", "reading": "はやし", "meaning": "bosque / arboleda" },
+      { "word": "森林", "reading": "しんりん", "meaning": "bosque denso" }
+    ]
+  },
+  {
+    "character": "森",
+    "readings": [
+      { "type": "on", "value": "シン" },
+      { "type": "kun", "value": "もり" }
+    ],
+    "meanings": ["bosque denso"],
+    "strokeCount": 12,
+    "radical": "木",
+    "radicalMeaning": "árbol",
+    "level": "n4",
+    "tags": ["nature"],
+    "examples": [
+      { "word": "森", "reading": "もり", "meaning": "bosque" },
+      { "word": "森林", "reading": "しんりん", "meaning": "bosque denso" }
+    ]
+  },
+  {
+    "character": "石",
+    "readings": [
+      { "type": "on", "value": "セキ, シャク" },
+      { "type": "kun", "value": "いし" }
+    ],
+    "meanings": ["piedra"],
+    "strokeCount": 5,
+    "radical": "石",
+    "radicalMeaning": "piedra",
+    "level": "n4",
+    "tags": ["nature"],
+    "examples": [
+      { "word": "石", "reading": "いし", "meaning": "piedra" },
+      { "word": "宝石", "reading": "ほうせき", "meaning": "joya" }
+    ]
+  },
+  {
+    "character": "竹",
+    "readings": [
+      { "type": "on", "value": "チク" },
+      { "type": "kun", "value": "たけ" }
+    ],
+    "meanings": ["bambú"],
+    "strokeCount": 6,
+    "radical": "竹",
+    "radicalMeaning": "bambú",
+    "level": "n4",
+    "tags": ["nature"],
+    "examples": [
+      { "word": "竹", "reading": "たけ", "meaning": "bambú" },
+      { "word": "竹林", "reading": "ちくりん", "meaning": "bosque de bambú" }
+    ]
+  },
+  {
+    "character": "米",
+    "readings": [
+      { "type": "on", "value": "ベイ, マイ" },
+      { "type": "kun", "value": "こめ" }
+    ],
+    "meanings": ["arroz", "América"],
+    "strokeCount": 6,
+    "radical": "米",
+    "radicalMeaning": "arroz",
+    "level": "n4",
+    "tags": ["food"],
+    "examples": [
+      { "word": "米", "reading": "こめ", "meaning": "arroz (crudo)" },
+      { "word": "米国", "reading": "べいこく", "meaning": "Estados Unidos" }
+    ]
+  },
+  {
+    "character": "茶",
+    "readings": [
+      { "type": "on", "value": "チャ, サ" },
+      { "type": "kun", "value": "" }
+    ],
+    "meanings": ["té"],
+    "strokeCount": 9,
+    "radical": "艸",
+    "radicalMeaning": "hierba",
+    "level": "n4",
+    "tags": ["food"],
+    "examples": [
+      { "word": "お茶", "reading": "おちゃ", "meaning": "té" },
+      { "word": "茶色", "reading": "ちゃいろ", "meaning": "marrón" }
+    ]
+  },
+  {
+    "character": "肉",
+    "readings": [
+      { "type": "on", "value": "ニク" },
+      { "type": "kun", "value": "" }
+    ],
+    "meanings": ["carne"],
+    "strokeCount": 6,
+    "radical": "肉",
+    "radicalMeaning": "carne",
+    "level": "n4",
+    "tags": ["food"],
+    "examples": [
+      { "word": "肉", "reading": "にく", "meaning": "carne" },
+      { "word": "牛肉", "reading": "ぎゅうにく", "meaning": "carne de res" }
+    ]
+  },
+  {
+    "character": "野",
+    "readings": [
+      { "type": "on", "value": "ヤ" },
+      { "type": "kun", "value": "の" }
+    ],
+    "meanings": ["campo", "pradera", "silvestre"],
+    "strokeCount": 11,
+    "radical": "里",
+    "radicalMeaning": "aldea",
+    "level": "n4",
+    "tags": ["nature", "food"],
+    "examples": [
+      { "word": "野菜", "reading": "やさい", "meaning": "verdura" },
+      { "word": "野球", "reading": "やきゅう", "meaning": "béisbol" }
+    ]
+  },
+  {
+    "character": "菜",
+    "readings": [
+      { "type": "on", "value": "サイ" },
+      { "type": "kun", "value": "な" }
+    ],
+    "meanings": ["verdura", "hortaliza"],
+    "strokeCount": 11,
+    "radical": "艸",
+    "radicalMeaning": "hierba",
+    "level": "n4",
+    "tags": ["food"],
+    "examples": [
+      { "word": "野菜", "reading": "やさい", "meaning": "verdura" },
+      { "word": "菜食", "reading": "さいしょく", "meaning": "vegetarianismo" }
+    ]
+  },
+  {
+    "character": "堂",
+    "readings": [
+      { "type": "on", "value": "ドウ" },
+      { "type": "kun", "value": "" }
+    ],
+    "meanings": ["salón", "templo"],
+    "strokeCount": 11,
+    "radical": "土",
+    "radicalMeaning": "tierra",
+    "level": "n4",
+    "tags": ["place"],
+    "examples": [
+      { "word": "食堂", "reading": "しょくどう", "meaning": "comedor / cafetería" },
+      { "word": "堂々", "reading": "どうどう", "meaning": "majestuoso / imponente" }
+    ]
+  },
+  {
+    "character": "図",
+    "readings": [
+      { "type": "on", "value": "ズ, ト" },
+      { "type": "kun", "value": "はか-る" }
+    ],
+    "meanings": ["mapa", "diagrama", "plano"],
+    "strokeCount": 7,
+    "radical": "囗",
+    "radicalMeaning": "recinto",
+    "level": "n4",
+    "tags": ["education"],
+    "examples": [
+      { "word": "地図", "reading": "ちず", "meaning": "mapa" },
+      { "word": "図書館", "reading": "としょかん", "meaning": "biblioteca" }
+    ]
+  },
+  {
+    "character": "館",
+    "readings": [
+      { "type": "on", "value": "カン" },
+      { "type": "kun", "value": "やかた" }
+    ],
+    "meanings": ["edificio", "mansión"],
+    "strokeCount": 16,
+    "radical": "食",
+    "radicalMeaning": "comer",
+    "level": "n4",
+    "tags": ["place"],
+    "examples": [
+      { "word": "図書館", "reading": "としょかん", "meaning": "biblioteca" },
+      { "word": "映画館", "reading": "えいがかん", "meaning": "cine" }
+    ]
+  },
+  {
+    "character": "映",
+    "readings": [
+      { "type": "on", "value": "エイ" },
+      { "type": "kun", "value": "うつ-る, うつ-す, は-える" }
+    ],
+    "meanings": ["reflejar", "proyectar"],
+    "strokeCount": 9,
+    "radical": "日",
+    "radicalMeaning": "sol",
+    "level": "n4",
+    "tags": ["entertainment"],
+    "examples": [
+      { "word": "映画", "reading": "えいが", "meaning": "película" },
+      { "word": "映る", "reading": "うつる", "meaning": "reflejarse" }
+    ]
+  },
+  {
+    "character": "画",
+    "readings": [
+      { "type": "on", "value": "ガ, カク" },
+      { "type": "kun", "value": "" }
+    ],
+    "meanings": ["imagen", "dibujo", "trazo"],
+    "strokeCount": 8,
+    "radical": "田",
+    "radicalMeaning": "arrozal",
+    "level": "n4",
+    "tags": ["entertainment"],
+    "examples": [
+      { "word": "映画", "reading": "えいが", "meaning": "película" },
+      { "word": "計画", "reading": "けいかく", "meaning": "plan" }
+    ]
+  },
+  {
+    "character": "歌",
+    "readings": [
+      { "type": "on", "value": "カ" },
+      { "type": "kun", "value": "うた, うた-う" }
+    ],
+    "meanings": ["canción", "cantar"],
+    "strokeCount": 14,
+    "radical": "欠",
+    "radicalMeaning": "bostezar",
+    "level": "n4",
+    "tags": ["entertainment"],
+    "examples": [
+      { "word": "歌", "reading": "うた", "meaning": "canción" },
+      { "word": "歌う", "reading": "うたう", "meaning": "cantar" }
+    ]
+  },
+  {
+    "character": "飯",
+    "readings": [
+      { "type": "on", "value": "ハン" },
+      { "type": "kun", "value": "めし" }
+    ],
+    "meanings": ["arroz cocido", "comida"],
+    "strokeCount": 12,
+    "radical": "食",
+    "radicalMeaning": "comer",
+    "level": "n4",
+    "tags": ["food"],
+    "examples": [
+      { "word": "ご飯", "reading": "ごはん", "meaning": "arroz / comida" },
+      { "word": "朝飯", "reading": "あさめし", "meaning": "desayuno (informal)" }
+    ]
+  },
+  {
+    "character": "店",
+    "readings": [
+      { "type": "on", "value": "テン" },
+      { "type": "kun", "value": "みせ" }
+    ],
+    "meanings": ["tienda"],
+    "strokeCount": 8,
+    "radical": "广",
+    "radicalMeaning": "techo",
+    "level": "n4",
+    "tags": ["place", "commerce"],
+    "examples": [
+      { "word": "店", "reading": "みせ", "meaning": "tienda" },
+      { "word": "喫茶店", "reading": "きっさてん", "meaning": "cafetería" }
+    ]
+  },
+  {
+    "character": "室",
+    "readings": [
+      { "type": "on", "value": "シツ" },
+      { "type": "kun", "value": "むろ" }
+    ],
+    "meanings": ["habitación", "sala"],
+    "strokeCount": 9,
+    "radical": "宀",
+    "radicalMeaning": "techo",
+    "level": "n4",
+    "tags": ["place"],
+    "examples": [
+      { "word": "教室", "reading": "きょうしつ", "meaning": "aula" },
+      { "word": "部屋", "reading": "へや", "meaning": "habitación" }
+    ]
+  },
+  {
+    "character": "門",
+    "readings": [
+      { "type": "on", "value": "モン" },
+      { "type": "kun", "value": "かど" }
+    ],
+    "meanings": ["puerta", "portón"],
+    "strokeCount": 8,
+    "radical": "門",
+    "radicalMeaning": "puerta",
+    "level": "n4",
+    "tags": ["place"],
+    "examples": [
+      { "word": "門", "reading": "もん", "meaning": "puerta / portón" },
+      { "word": "専門", "reading": "せんもん", "meaning": "especialidad" }
+    ]
+  },
+  {
+    "character": "道",
+    "readings": [
+      { "type": "on", "value": "ドウ, トウ" },
+      { "type": "kun", "value": "みち" }
+    ],
+    "meanings": ["camino", "vía"],
+    "strokeCount": 12,
+    "radical": "辶",
+    "radicalMeaning": "caminar",
+    "level": "n4",
+    "tags": ["place"],
+    "examples": [
+      { "word": "道", "reading": "みち", "meaning": "camino" },
+      { "word": "道具", "reading": "どうぐ", "meaning": "herramienta" }
+    ]
+  },
+  {
+    "character": "電",
+    "readings": [
+      { "type": "on", "value": "デン" },
+      { "type": "kun", "value": "" }
+    ],
+    "meanings": ["electricidad"],
+    "strokeCount": 13,
+    "radical": "雨",
+    "radicalMeaning": "lluvia",
+    "level": "n4",
+    "tags": ["daily"],
+    "examples": [
+      { "word": "電話", "reading": "でんわ", "meaning": "teléfono" },
+      { "word": "電車", "reading": "でんしゃ", "meaning": "tren eléctrico" }
+    ]
+  },
+  {
+    "character": "車",
+    "readings": [
+      { "type": "on", "value": "シャ" },
+      { "type": "kun", "value": "くるま" }
+    ],
+    "meanings": ["carro", "vehículo"],
+    "strokeCount": 7,
+    "radical": "車",
+    "radicalMeaning": "carro",
+    "level": "n4",
+    "tags": ["transport"],
+    "examples": [
+      { "word": "車", "reading": "くるま", "meaning": "carro / auto" },
+      { "word": "自動車", "reading": "じどうしゃ", "meaning": "automóvil" }
+    ]
+  },
+  {
+    "character": "駅",
+    "readings": [
+      { "type": "on", "value": "エキ" },
+      { "type": "kun", "value": "" }
+    ],
+    "meanings": ["estación (tren)"],
+    "strokeCount": 14,
+    "radical": "馬",
+    "radicalMeaning": "caballo",
+    "level": "n4",
+    "tags": ["transport", "place"],
+    "examples": [
+      { "word": "駅", "reading": "えき", "meaning": "estación" },
+      { "word": "駅前", "reading": "えきまえ", "meaning": "frente a la estación" }
+    ]
+  },
+  {
+    "character": "橋",
+    "readings": [
+      { "type": "on", "value": "キョウ" },
+      { "type": "kun", "value": "はし" }
+    ],
+    "meanings": ["puente"],
+    "strokeCount": 16,
+    "radical": "木",
+    "radicalMeaning": "árbol",
+    "level": "n4",
+    "tags": ["place"],
+    "examples": [
+      { "word": "橋", "reading": "はし", "meaning": "puente" },
+      { "word": "歩道橋", "reading": "ほどうきょう", "meaning": "puente peatonal" }
+    ]
+  },
+  {
+    "character": "公",
+    "readings": [
+      { "type": "on", "value": "コウ" },
+      { "type": "kun", "value": "おおやけ" }
+    ],
+    "meanings": ["público"],
+    "strokeCount": 4,
+    "radical": "八",
+    "radicalMeaning": "ocho",
+    "level": "n4",
+    "tags": ["society"],
+    "examples": [
+      { "word": "公園", "reading": "こうえん", "meaning": "parque" },
+      { "word": "公共", "reading": "こうきょう", "meaning": "público" }
+    ]
+  },
+  {
+    "character": "園",
+    "readings": [
+      { "type": "on", "value": "エン" },
+      { "type": "kun", "value": "その" }
+    ],
+    "meanings": ["jardín", "parque"],
+    "strokeCount": 13,
+    "radical": "囗",
+    "radicalMeaning": "recinto",
+    "level": "n4",
+    "tags": ["place"],
+    "examples": [
+      { "word": "公園", "reading": "こうえん", "meaning": "parque" },
+      { "word": "動物園", "reading": "どうぶつえん", "meaning": "zoológico" }
+    ]
+  },
+  {
+    "character": "都",
+    "readings": [
+      { "type": "on", "value": "ト, ツ" },
+      { "type": "kun", "value": "みやこ" }
+    ],
+    "meanings": ["capital", "metrópoli"],
+    "strokeCount": 11,
+    "radical": "阝",
+    "radicalMeaning": "colina",
+    "level": "n4",
+    "tags": ["place"],
+    "examples": [
+      { "word": "東京都", "reading": "とうきょうと", "meaning": "Metrópoli de Tokio" },
+      { "word": "都合", "reading": "つごう", "meaning": "conveniencia" }
+    ]
+  },
+  {
+    "character": "市",
+    "readings": [
+      { "type": "on", "value": "シ" },
+      { "type": "kun", "value": "いち" }
+    ],
+    "meanings": ["ciudad", "mercado"],
+    "strokeCount": 5,
+    "radical": "巾",
+    "radicalMeaning": "pañuelo",
+    "level": "n4",
+    "tags": ["place"],
+    "examples": [
+      { "word": "市場", "reading": "いちば", "meaning": "mercado" },
+      { "word": "都市", "reading": "とし", "meaning": "ciudad" }
+    ]
+  },
+  {
+    "character": "区",
+    "readings": [
+      { "type": "on", "value": "ク" },
+      { "type": "kun", "value": "" }
+    ],
+    "meanings": ["distrito", "barrio"],
+    "strokeCount": 4,
+    "radical": "匸",
+    "radicalMeaning": "caja",
+    "level": "n4",
+    "tags": ["place"],
+    "examples": [
+      { "word": "区", "reading": "く", "meaning": "distrito / barrio" },
+      { "word": "地区", "reading": "ちく", "meaning": "zona / distrito" }
+    ]
+  }
+]

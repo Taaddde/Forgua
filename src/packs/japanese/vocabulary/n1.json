@@ -1,0 +1,3272 @@
+[
+  {
+    "word": "施行",
+    "reading": "しこう",
+    "meanings": ["enforcement", "implementation"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["legal", "formal"],
+    "examples": [
+      {
+        "text": "新しい法律が来月から施行される。",
+        "reading": "あたらしいほうりつがらいげつからしこうされる。",
+        "translation": "The new law will be enforced starting next month."
+      }
+    ]
+  },
+  {
+    "word": "遂行",
+    "reading": "すいこう",
+    "meanings": ["execution", "accomplishment", "carrying out"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["formal", "business"],
+    "examples": [
+      {
+        "text": "任務を遂行するために全力を尽くした。",
+        "reading": "にんむをすいこうするためにぜんりょくをつくした。",
+        "translation": "I gave my all to carry out the mission."
+      }
+    ]
+  },
+  {
+    "word": "履行",
+    "reading": "りこう",
+    "meanings": ["fulfillment", "performance", "discharge of duty"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["legal", "formal"],
+    "examples": [
+      {
+        "text": "契約の履行を求める訴訟が起こされた。",
+        "reading": "けいやくのりこうをもとめるそしょうがおこされた。",
+        "translation": "A lawsuit was filed demanding fulfillment of the contract."
+      }
+    ]
+  },
+  {
+    "word": "遵守",
+    "reading": "じゅんしゅ",
+    "meanings": ["compliance", "observance", "adherence"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["legal", "formal"],
+    "examples": [
+      {
+        "text": "法律を遵守することは市民の義務である。",
+        "reading": "ほうりつをじゅんしゅすることはしみんのぎむである。",
+        "translation": "Observing the law is a citizen's duty."
+      }
+    ]
+  },
+  {
+    "word": "逸脱",
+    "reading": "いつだつ",
+    "meanings": ["deviation", "departure", "digression"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["formal", "written"],
+    "examples": [
+      {
+        "text": "規範から逸脱した行為は許されない。",
+        "reading": "きはんからいつだつしたこういはゆるされない。",
+        "translation": "Actions that deviate from the norm are not permissible."
+      }
+    ]
+  },
+  {
+    "word": "怠慢",
+    "reading": "たいまん",
+    "meanings": ["negligence", "laziness", "dereliction"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["formal", "negative"],
+    "examples": [
+      {
+        "text": "職務怠慢で処分を受けた。",
+        "reading": "しょくむたいまんでしょぶんをうけた。",
+        "translation": "He was disciplined for dereliction of duty."
+      }
+    ]
+  },
+  {
+    "word": "堅持",
+    "reading": "けんじ",
+    "meanings": ["firm adherence", "holding firmly", "maintaining steadfastly"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["formal", "written"],
+    "examples": [
+      {
+        "text": "彼は自分の立場を堅持した。",
+        "reading": "かれはじぶんのたちばをけんじした。",
+        "translation": "He firmly maintained his position."
+      }
+    ]
+  },
+  {
+    "word": "貫徹",
+    "reading": "かんてつ",
+    "meanings": ["accomplishment", "carrying through", "perseverance to the end"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["formal", "written"],
+    "examples": [
+      {
+        "text": "初志貫徹の精神で最後までやり遂げた。",
+        "reading": "しょしかんてつのせいしんでさいごまでやりとげた。",
+        "translation": "I saw it through to the end with the spirit of perseverance."
+      }
+    ]
+  },
+  {
+    "word": "徹底",
+    "reading": "てってい",
+    "meanings": ["thoroughness", "completeness", "being exhaustive"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["formal", "business"],
+    "examples": [
+      {
+        "text": "安全管理を徹底してください。",
+        "reading": "あんぜんかんりをてっていしてください。",
+        "translation": "Please be thorough with safety management."
+      }
+    ]
+  },
+  {
+    "word": "充実",
+    "reading": "じゅうじつ",
+    "meanings": ["fulfillment", "enrichment", "substantiality"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["formal", "positive"],
+    "examples": [
+      {
+        "text": "充実した日々を送っている。",
+        "reading": "じゅうじつしたひびをおくっている。",
+        "translation": "I am spending fulfilling days."
+      }
+    ]
+  },
+  {
+    "word": "脆弱",
+    "reading": "ぜいじゃく",
+    "meanings": ["fragility", "vulnerability", "weakness"],
+    "pos": "adjective-na",
+    "level": "n1",
+    "tags": ["formal", "technical"],
+    "examples": [
+      {
+        "text": "このシステムにはセキュリティ上の脆弱な部分がある。",
+        "reading": "このしすてむにはせきゅりてぃじょうのぜいじゃくなぶぶんがある。",
+        "translation": "This system has security vulnerabilities."
+      }
+    ]
+  },
+  {
+    "word": "頑固",
+    "reading": "がんこ",
+    "meanings": ["stubbornness", "obstinacy"],
+    "pos": "adjective-na",
+    "level": "n1",
+    "tags": ["personality", "negative"],
+    "examples": [
+      {
+        "text": "祖父は頑固な性格で知られている。",
+        "reading": "そふはがんこなせいかくでしられている。",
+        "translation": "My grandfather is known for his stubborn personality."
+      }
+    ]
+  },
+  {
+    "word": "柔軟",
+    "reading": "じゅうなん",
+    "meanings": ["flexibility", "pliability", "adaptability"],
+    "pos": "adjective-na",
+    "level": "n1",
+    "tags": ["formal", "positive"],
+    "examples": [
+      {
+        "text": "柔軟な対応が求められている。",
+        "reading": "じゅうなんなたいおうがもとめられている。",
+        "translation": "A flexible response is being called for."
+      }
+    ]
+  },
+  {
+    "word": "潔白",
+    "reading": "けっぱく",
+    "meanings": ["innocence", "purity", "being without guilt"],
+    "pos": "adjective-na",
+    "level": "n1",
+    "tags": ["legal", "formal"],
+    "examples": [
+      {
+        "text": "彼は自分の潔白を証明しようとした。",
+        "reading": "かれはじぶんのけっぱくをしょうめいしようとした。",
+        "translation": "He tried to prove his innocence."
+      }
+    ]
+  },
+  {
+    "word": "寛大",
+    "reading": "かんだい",
+    "meanings": ["generosity", "magnanimity", "leniency"],
+    "pos": "adjective-na",
+    "level": "n1",
+    "tags": ["formal", "positive"],
+    "examples": [
+      {
+        "text": "裁判官は被告に寛大な判決を下した。",
+        "reading": "さいばんかんはひこくにかんだいなはんけつをくだした。",
+        "translation": "The judge handed down a lenient sentence to the defendant."
+      }
+    ]
+  },
+  {
+    "word": "厳格",
+    "reading": "げんかく",
+    "meanings": ["strictness", "severity", "rigor"],
+    "pos": "adjective-na",
+    "level": "n1",
+    "tags": ["formal", "personality"],
+    "examples": [
+      {
+        "text": "厳格な規則のもとで生活している。",
+        "reading": "げんかくなきそくのもとでせいかつしている。",
+        "translation": "They live under strict rules."
+      }
+    ]
+  },
+  {
+    "word": "謙虚",
+    "reading": "けんきょ",
+    "meanings": ["humility", "modesty"],
+    "pos": "adjective-na",
+    "level": "n1",
+    "tags": ["personality", "positive"],
+    "examples": [
+      {
+        "text": "成功しても謙虚な姿勢を忘れてはいけない。",
+        "reading": "せいこうしてもけんきょなしせいをわすれてはいけない。",
+        "translation": "Even when successful, one must not forget a humble attitude."
+      }
+    ]
+  },
+  {
+    "word": "傲慢",
+    "reading": "ごうまん",
+    "meanings": ["arrogance", "haughtiness", "insolence"],
+    "pos": "adjective-na",
+    "level": "n1",
+    "tags": ["personality", "negative"],
+    "examples": [
+      {
+        "text": "傲慢な態度は人を遠ざける。",
+        "reading": "ごうまんなたいどはひとをとおざける。",
+        "translation": "An arrogant attitude pushes people away."
+      }
+    ]
+  },
+  {
+    "word": "慎重",
+    "reading": "しんちょう",
+    "meanings": ["caution", "prudence", "discretion"],
+    "pos": "adjective-na",
+    "level": "n1",
+    "tags": ["formal", "personality"],
+    "examples": [
+      {
+        "text": "慎重に検討した上で決定を下した。",
+        "reading": "しんちょうにけんとうしたうえでけっていをくだした。",
+        "translation": "The decision was made after careful consideration."
+      }
+    ]
+  },
+  {
+    "word": "軽率",
+    "reading": "けいそつ",
+    "meanings": ["rashness", "carelessness", "thoughtlessness"],
+    "pos": "adjective-na",
+    "level": "n1",
+    "tags": ["personality", "negative"],
+    "examples": [
+      {
+        "text": "軽率な発言が問題を引き起こした。",
+        "reading": "けいそつなはつげんがもんだいをひきおこした。",
+        "translation": "A thoughtless remark caused a problem."
+      }
+    ]
+  },
+  {
+    "word": "誠実",
+    "reading": "せいじつ",
+    "meanings": ["sincerity", "honesty", "integrity"],
+    "pos": "adjective-na",
+    "level": "n1",
+    "tags": ["personality", "positive"],
+    "examples": [
+      {
+        "text": "誠実な人柄が信頼を集めている。",
+        "reading": "せいじつなひとがらがしんらいをあつめている。",
+        "translation": "His sincere character earns trust."
+      }
+    ]
+  },
+  {
+    "word": "卑劣",
+    "reading": "ひれつ",
+    "meanings": ["meanness", "baseness", "despicableness"],
+    "pos": "adjective-na",
+    "level": "n1",
+    "tags": ["formal", "negative"],
+    "examples": [
+      {
+        "text": "卑劣な手段に訴えるべきではない。",
+        "reading": "ひれつなしゅだんにうったえるべきではない。",
+        "translation": "One should not resort to despicable means."
+      }
+    ]
+  },
+  {
+    "word": "崇高",
+    "reading": "すうこう",
+    "meanings": ["sublimity", "loftiness", "nobility"],
+    "pos": "adjective-na",
+    "level": "n1",
+    "tags": ["formal", "literary"],
+    "examples": [
+      {
+        "text": "崇高な理想を掲げて活動している。",
+        "reading": "すうこうなりそうをかかげてかつどうしている。",
+        "translation": "They carry out their activities under lofty ideals."
+      }
+    ]
+  },
+  {
+    "word": "壮大",
+    "reading": "そうだい",
+    "meanings": ["grandeur", "magnificence", "grandness"],
+    "pos": "adjective-na",
+    "level": "n1",
+    "tags": ["formal", "literary"],
+    "examples": [
+      {
+        "text": "壮大な計画が発表された。",
+        "reading": "そうだいなけいかくがはっぴょうされた。",
+        "translation": "A grand plan was announced."
+      }
+    ]
+  },
+  {
+    "word": "微妙",
+    "reading": "びみょう",
+    "meanings": ["subtle", "delicate", "questionable"],
+    "pos": "adjective-na",
+    "level": "n1",
+    "tags": ["common", "nuance"],
+    "examples": [
+      {
+        "text": "両者の間には微妙な違いがある。",
+        "reading": "りょうしゃのあいだにはびみょうなちがいがある。",
+        "translation": "There is a subtle difference between the two."
+      }
+    ]
+  },
+  {
+    "word": "繊細",
+    "reading": "せんさい",
+    "meanings": ["delicacy", "sensitivity", "fineness"],
+    "pos": "adjective-na",
+    "level": "n1",
+    "tags": ["personality", "art"],
+    "examples": [
+      {
+        "text": "繊細な感性を持つ芸術家だ。",
+        "reading": "せんさいなかんせいをもつげいじゅつかだ。",
+        "translation": "She is an artist with a delicate sensibility."
+      }
+    ]
+  },
+  {
+    "word": "過酷",
+    "reading": "かこく",
+    "meanings": ["harsh", "severe", "rigorous"],
+    "pos": "adjective-na",
+    "level": "n1",
+    "tags": ["formal", "negative"],
+    "examples": [
+      {
+        "text": "過酷な労働条件に耐えている。",
+        "reading": "かこくなろうどうじょうけんにたえている。",
+        "translation": "They endure harsh working conditions."
+      }
+    ]
+  },
+  {
+    "word": "残酷",
+    "reading": "ざんこく",
+    "meanings": ["cruelty", "brutality", "atrocity"],
+    "pos": "adjective-na",
+    "level": "n1",
+    "tags": ["formal", "negative"],
+    "examples": [
+      {
+        "text": "残酷な現実に直面しなければならなかった。",
+        "reading": "ざんこくなげんじつにちょくめんしなければならなかった。",
+        "translation": "They had to face a cruel reality."
+      }
+    ]
+  },
+  {
+    "word": "温厚",
+    "reading": "おんこう",
+    "meanings": ["gentle", "mild-mannered", "warm-hearted"],
+    "pos": "adjective-na",
+    "level": "n1",
+    "tags": ["personality", "positive"],
+    "examples": [
+      {
+        "text": "温厚な性格の持ち主だ。",
+        "reading": "おんこうなせいかくのもちぬしだ。",
+        "translation": "He has a gentle personality."
+      }
+    ]
+  },
+  {
+    "word": "朗らか",
+    "reading": "ほがらか",
+    "meanings": ["cheerful", "bright", "jovial"],
+    "pos": "adjective-na",
+    "level": "n1",
+    "tags": ["personality", "positive"],
+    "examples": [
+      {
+        "text": "彼女の朗らかな笑顔に元気をもらった。",
+        "reading": "かのじょのほがらかなえがおにげんきをもらった。",
+        "translation": "Her cheerful smile gave me energy."
+      }
+    ]
+  },
+  {
+    "word": "赴く",
+    "reading": "おもむく",
+    "meanings": ["to go", "to proceed to", "to repair to"],
+    "pos": "verb-godan",
+    "level": "n1",
+    "tags": ["literary", "formal"],
+    "examples": [
+      {
+        "text": "大使が現地に赴いた。",
+        "reading": "たいしがげんちにおもむいた。",
+        "translation": "The ambassador proceeded to the site."
+      }
+    ]
+  },
+  {
+    "word": "携わる",
+    "reading": "たずさわる",
+    "meanings": ["to be engaged in", "to participate in", "to take part"],
+    "pos": "verb-godan",
+    "level": "n1",
+    "tags": ["formal", "business"],
+    "examples": [
+      {
+        "text": "長年、教育に携わってきた。",
+        "reading": "ながねん、きょういくにたずさわってきた。",
+        "translation": "I have been engaged in education for many years."
+      }
+    ]
+  },
+  {
+    "word": "司る",
+    "reading": "つかさどる",
+    "meanings": ["to govern", "to administer", "to be in charge of"],
+    "pos": "verb-godan",
+    "level": "n1",
+    "tags": ["literary", "formal"],
+    "examples": [
+      {
+        "text": "この部署は財務を司っている。",
+        "reading": "このぶしょはざいむをつかさどっている。",
+        "translation": "This department is in charge of finances."
+      }
+    ]
+  },
+  {
+    "word": "率いる",
+    "reading": "ひきいる",
+    "meanings": ["to lead", "to command", "to head"],
+    "pos": "verb-ichidan",
+    "level": "n1",
+    "tags": ["literary", "leadership"],
+    "examples": [
+      {
+        "text": "彼はチームを率いて優勝した。",
+        "reading": "かれはちーむをひきいてゆうしょうした。",
+        "translation": "He led the team to victory."
+      }
+    ]
+  },
+  {
+    "word": "培う",
+    "reading": "つちかう",
+    "meanings": ["to cultivate", "to foster", "to nurture"],
+    "pos": "verb-godan",
+    "level": "n1",
+    "tags": ["literary", "positive"],
+    "examples": [
+      {
+        "text": "長年の経験で培った技術を活かす。",
+        "reading": "ながねんのけいけんでつちかったぎじゅつをいかす。",
+        "translation": "I put to use the skills cultivated through years of experience."
+      }
+    ]
+  },
+  {
+    "word": "育む",
+    "reading": "はぐくむ",
+    "meanings": ["to nurture", "to foster", "to bring up"],
+    "pos": "verb-godan",
+    "level": "n1",
+    "tags": ["literary", "positive"],
+    "examples": [
+      {
+        "text": "子供たちの創造力を育むことが大切だ。",
+        "reading": "こどもたちのそうぞうりょくをはぐくむことがたいせつだ。",
+        "translation": "It is important to nurture children's creativity."
+      }
+    ]
+  },
+  {
+    "word": "挑む",
+    "reading": "いどむ",
+    "meanings": ["to challenge", "to take on", "to attempt"],
+    "pos": "verb-godan",
+    "level": "n1",
+    "tags": ["literary", "action"],
+    "examples": [
+      {
+        "text": "困難に挑む姿勢が評価された。",
+        "reading": "こんなんにいどむしせいがひょうかされた。",
+        "translation": "The attitude of taking on challenges was highly regarded."
+      }
+    ]
+  },
+  {
+    "word": "臨む",
+    "reading": "のぞむ",
+    "meanings": ["to face", "to confront", "to attend"],
+    "pos": "verb-godan",
+    "level": "n1",
+    "tags": ["literary", "formal"],
+    "examples": [
+      {
+        "text": "覚悟を持って試験に臨んだ。",
+        "reading": "かくごをもってしけんにのぞんだ。",
+        "translation": "I faced the exam with determination."
+      }
+    ]
+  },
+  {
+    "word": "覆す",
+    "reading": "くつがえす",
+    "meanings": ["to overturn", "to reverse", "to upset"],
+    "pos": "verb-godan",
+    "level": "n1",
+    "tags": ["literary", "action"],
+    "examples": [
+      {
+        "text": "判決を覆すことは容易ではない。",
+        "reading": "はんけつをくつがえすことはよういではない。",
+        "translation": "Overturning a verdict is not easy."
+      }
+    ]
+  },
+  {
+    "word": "遮る",
+    "reading": "さえぎる",
+    "meanings": ["to block", "to interrupt", "to obstruct"],
+    "pos": "verb-godan",
+    "level": "n1",
+    "tags": ["literary", "action"],
+    "examples": [
+      {
+        "text": "話を遮らないでください。",
+        "reading": "はなしをさえぎらないでください。",
+        "translation": "Please don't interrupt the conversation."
+      }
+    ]
+  },
+  {
+    "word": "妨げる",
+    "reading": "さまたげる",
+    "meanings": ["to hinder", "to obstruct", "to prevent"],
+    "pos": "verb-ichidan",
+    "level": "n1",
+    "tags": ["formal", "action"],
+    "examples": [
+      {
+        "text": "騒音が集中を妨げている。",
+        "reading": "そうおんがしゅうちゅうをさまたげている。",
+        "translation": "The noise is hindering concentration."
+      }
+    ]
+  },
+  {
+    "word": "脅かす",
+    "reading": "おびやかす",
+    "meanings": ["to threaten", "to menace", "to endanger"],
+    "pos": "verb-godan",
+    "level": "n1",
+    "tags": ["formal", "negative"],
+    "examples": [
+      {
+        "text": "環境破壊が生態系を脅かしている。",
+        "reading": "かんきょうはかいがせいたいけいをおびやかしている。",
+        "translation": "Environmental destruction is threatening ecosystems."
+      }
+    ]
+  },
+  {
+    "word": "侮る",
+    "reading": "あなどる",
+    "meanings": ["to despise", "to underestimate", "to look down on"],
+    "pos": "verb-godan",
+    "level": "n1",
+    "tags": ["literary", "negative"],
+    "examples": [
+      {
+        "text": "敵を侮ってはいけない。",
+        "reading": "てきをあなどってはいけない。",
+        "translation": "You must not underestimate the enemy."
+      }
+    ]
+  },
+  {
+    "word": "慕う",
+    "reading": "したう",
+    "meanings": ["to adore", "to long for", "to yearn for"],
+    "pos": "verb-godan",
+    "level": "n1",
+    "tags": ["literary", "emotion"],
+    "examples": [
+      {
+        "text": "多くの生徒に慕われている先生だ。",
+        "reading": "おおくのせいとにしたわれているせんせいだ。",
+        "translation": "He is a teacher adored by many students."
+      }
+    ]
+  },
+  {
+    "word": "偲ぶ",
+    "reading": "しのぶ",
+    "meanings": ["to reminisce", "to remember fondly", "to commemorate"],
+    "pos": "verb-godan",
+    "level": "n1",
+    "tags": ["literary", "emotion"],
+    "examples": [
+      {
+        "text": "故人を偲ぶ会が開かれた。",
+        "reading": "こじんをしのぶかいがひらかれた。",
+        "translation": "A memorial gathering was held to remember the deceased."
+      }
+    ]
+  },
+  {
+    "word": "惜しむ",
+    "reading": "おしむ",
+    "meanings": ["to regret", "to be reluctant", "to begrudge"],
+    "pos": "verb-godan",
+    "level": "n1",
+    "tags": ["literary", "emotion"],
+    "examples": [
+      {
+        "text": "別れを惜しむ声が聞こえた。",
+        "reading": "わかれをおしむこえがきこえた。",
+        "translation": "Voices reluctant to part were heard."
+      }
+    ]
+  },
+  {
+    "word": "悔やむ",
+    "reading": "くやむ",
+    "meanings": ["to regret", "to rue", "to repent"],
+    "pos": "verb-godan",
+    "level": "n1",
+    "tags": ["literary", "emotion"],
+    "examples": [
+      {
+        "text": "あの時の決断を今も悔やんでいる。",
+        "reading": "あのときのけつだんをいまもくやんでいる。",
+        "translation": "I still regret the decision I made back then."
+      }
+    ]
+  },
+  {
+    "word": "嘆く",
+    "reading": "なげく",
+    "meanings": ["to lament", "to grieve", "to deplore"],
+    "pos": "verb-godan",
+    "level": "n1",
+    "tags": ["literary", "emotion"],
+    "examples": [
+      {
+        "text": "世の中の不条理を嘆く声が多い。",
+        "reading": "よのなかのふじょうりをなげくこえがおおい。",
+        "translation": "Many voices lament the absurdities of the world."
+      }
+    ]
+  },
+  {
+    "word": "憂う",
+    "reading": "うれう",
+    "meanings": ["to worry about", "to be anxious about", "to grieve over"],
+    "pos": "verb-godan",
+    "level": "n1",
+    "tags": ["literary", "emotion"],
+    "examples": [
+      {
+        "text": "国の将来を憂う声が高まっている。",
+        "reading": "くにのしょうらいをうれうこえがたかまっている。",
+        "translation": "Voices worrying about the country's future are growing louder."
+      }
+    ]
+  },
+  {
+    "word": "恐れる",
+    "reading": "おそれる",
+    "meanings": ["to fear", "to be afraid of", "to dread"],
+    "pos": "verb-ichidan",
+    "level": "n1",
+    "tags": ["literary", "emotion"],
+    "examples": [
+      {
+        "text": "失敗を恐れずに挑戦するべきだ。",
+        "reading": "しっぱいをおそれずにちょうせんするべきだ。",
+        "translation": "You should challenge yourself without fearing failure."
+      }
+    ]
+  },
+  {
+    "word": "畏れる",
+    "reading": "おそれる",
+    "meanings": ["to feel awe", "to revere", "to hold in reverence"],
+    "pos": "verb-ichidan",
+    "level": "n1",
+    "tags": ["literary", "formal"],
+    "examples": [
+      {
+        "text": "自然の力を畏れる気持ちを持つべきだ。",
+        "reading": "しぜんのちからをおそれるきもちをもつべきだ。",
+        "translation": "We should have a sense of awe for the power of nature."
+      }
+    ]
+  },
+  {
+    "word": "慈しむ",
+    "reading": "いつくしむ",
+    "meanings": ["to love tenderly", "to cherish", "to be affectionate"],
+    "pos": "verb-godan",
+    "level": "n1",
+    "tags": ["literary", "positive"],
+    "examples": [
+      {
+        "text": "母は我が子を慈しむように育てた。",
+        "reading": "はははわがこをいつくしむようにそだてた。",
+        "translation": "The mother raised her child with tender love."
+      }
+    ]
+  },
+  {
+    "word": "労わる",
+    "reading": "いたわる",
+    "meanings": ["to take care of", "to show compassion", "to be considerate"],
+    "pos": "verb-godan",
+    "level": "n1",
+    "tags": ["literary", "positive"],
+    "examples": [
+      {
+        "text": "お年寄りを労わる気持ちが大切だ。",
+        "reading": "おとしよりをいたわるきもちがたいせつだ。",
+        "translation": "It is important to have compassion for the elderly."
+      }
+    ]
+  },
+  {
+    "word": "報いる",
+    "reading": "むくいる",
+    "meanings": ["to reward", "to repay", "to reciprocate"],
+    "pos": "verb-ichidan",
+    "level": "n1",
+    "tags": ["literary", "formal"],
+    "examples": [
+      {
+        "text": "恩に報いるために全力を尽くした。",
+        "reading": "おんにむくいるためにぜんりょくをつくした。",
+        "translation": "I did my best to repay the kindness."
+      }
+    ]
+  },
+  {
+    "word": "戒める",
+    "reading": "いましめる",
+    "meanings": ["to admonish", "to warn", "to caution"],
+    "pos": "verb-ichidan",
+    "level": "n1",
+    "tags": ["literary", "formal"],
+    "examples": [
+      {
+        "text": "師は弟子の慢心を戒めた。",
+        "reading": "しはでしのまんしんをいましめた。",
+        "translation": "The master admonished the disciple's complacency."
+      }
+    ]
+  },
+  {
+    "word": "一石二鳥",
+    "reading": "いっせきにちょう",
+    "meanings": ["killing two birds with one stone"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["yojijukugo", "idiom"],
+    "examples": [
+      {
+        "text": "自転車通勤は健康にもよく節約にもなり、一石二鳥だ。",
+        "reading": "じてんしゃつうきんはけんこうにもよくせつやくにもなり、いっせきにちょうだ。",
+        "translation": "Commuting by bicycle is good for health and saves money — killing two birds with one stone."
+      }
+    ]
+  },
+  {
+    "word": "試行錯誤",
+    "reading": "しこうさくご",
+    "meanings": ["trial and error"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["yojijukugo", "common"],
+    "examples": [
+      {
+        "text": "試行錯誤を重ねて、ようやく成功した。",
+        "reading": "しこうさくごをかさねて、ようやくせいこうした。",
+        "translation": "After repeated trial and error, we finally succeeded."
+      }
+    ]
+  },
+  {
+    "word": "自業自得",
+    "reading": "じごうじとく",
+    "meanings": ["reaping what one sows", "getting one's just deserts"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["yojijukugo", "idiom"],
+    "examples": [
+      {
+        "text": "勉強しなかったのだから不合格は自業自得だ。",
+        "reading": "べんきょうしなかったのだからふごうかくはじごうじとくだ。",
+        "translation": "Since you didn't study, failing is your own doing."
+      }
+    ]
+  },
+  {
+    "word": "前代未聞",
+    "reading": "ぜんだいみもん",
+    "meanings": ["unprecedented", "unheard of"],
+    "pos": "adjective-na",
+    "level": "n1",
+    "tags": ["yojijukugo", "formal"],
+    "examples": [
+      {
+        "text": "前代未聞の事件が発生した。",
+        "reading": "ぜんだいみもんのじけんがはっせいした。",
+        "translation": "An unprecedented incident occurred."
+      }
+    ]
+  },
+  {
+    "word": "以心伝心",
+    "reading": "いしんでんしん",
+    "meanings": ["telepathy", "tacit understanding", "heart-to-heart communication"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["yojijukugo", "idiom"],
+    "examples": [
+      {
+        "text": "長年の夫婦だから以心伝心で通じ合える。",
+        "reading": "ながねんのふうふだからいしんでんしんでつうじあえる。",
+        "translation": "As a long-married couple, they understand each other without words."
+      }
+    ]
+  },
+  {
+    "word": "一期一会",
+    "reading": "いちごいちえ",
+    "meanings": ["once-in-a-lifetime encounter", "treasuring every meeting"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["yojijukugo", "culture"],
+    "examples": [
+      {
+        "text": "茶道の精神は一期一会にある。",
+        "reading": "さどうのせいしんはいちごいちえにある。",
+        "translation": "The spirit of the tea ceremony lies in treasuring each encounter."
+      }
+    ]
+  },
+  {
+    "word": "因果応報",
+    "reading": "いんがおうほう",
+    "meanings": ["karmic retribution", "poetic justice", "what goes around comes around"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["yojijukugo", "buddhism"],
+    "examples": [
+      {
+        "text": "因果応報という言葉を信じている。",
+        "reading": "いんがおうほうということばをしんじている。",
+        "translation": "I believe in the concept of karmic retribution."
+      }
+    ]
+  },
+  {
+    "word": "起死回生",
+    "reading": "きしかいせい",
+    "meanings": ["revival from a hopeless situation", "snatching victory from the jaws of defeat"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["yojijukugo", "formal"],
+    "examples": [
+      {
+        "text": "起死回生の一手で試合に勝った。",
+        "reading": "きしかいせいのいってでしあいにかった。",
+        "translation": "They won the game with a miraculous comeback move."
+      }
+    ]
+  },
+  {
+    "word": "臨機応変",
+    "reading": "りんきおうへん",
+    "meanings": ["adapting to circumstances", "flexibility", "playing it by ear"],
+    "pos": "adjective-na",
+    "level": "n1",
+    "tags": ["yojijukugo", "common"],
+    "examples": [
+      {
+        "text": "臨機応変な対応ができる人材が求められている。",
+        "reading": "りんきおうへんなたいおうができるじんざいがもとめられている。",
+        "translation": "People who can respond flexibly to circumstances are in demand."
+      }
+    ]
+  },
+  {
+    "word": "五里霧中",
+    "reading": "ごりむちゅう",
+    "meanings": ["completely lost", "totally in the dark", "bewildered"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["yojijukugo", "idiom"],
+    "examples": [
+      {
+        "text": "事件の真相は五里霧中のままだ。",
+        "reading": "じけんのしんそうはごりむちゅうのままだ。",
+        "translation": "The truth behind the case remains completely unclear."
+      }
+    ]
+  },
+  {
+    "word": "四面楚歌",
+    "reading": "しめんそか",
+    "meanings": ["being surrounded by enemies", "being under attack from all sides"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["yojijukugo", "literary"],
+    "examples": [
+      {
+        "text": "四面楚歌の状況に追い込まれた。",
+        "reading": "しめんそかのじょうきょうにおいこまれた。",
+        "translation": "He was driven into a situation of being surrounded by enemies."
+      }
+    ]
+  },
+  {
+    "word": "七転八起",
+    "reading": "しちてんはっき",
+    "meanings": ["falling seven times and getting up eight", "perseverance"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["yojijukugo", "positive"],
+    "examples": [
+      {
+        "text": "七転八起の精神で何度でも立ち上がる。",
+        "reading": "しちてんはっきのせいしんでなんどでもたちあがる。",
+        "translation": "With the spirit of perseverance, I will get back up no matter how many times I fall."
+      }
+    ]
+  },
+  {
+    "word": "千差万別",
+    "reading": "せんさばんべつ",
+    "meanings": ["infinite variety", "multifarious", "all sorts and kinds"],
+    "pos": "adjective-na",
+    "level": "n1",
+    "tags": ["yojijukugo", "formal"],
+    "examples": [
+      {
+        "text": "人の価値観は千差万別だ。",
+        "reading": "ひとのかちかんはせんさばんべつだ。",
+        "translation": "People's values are infinitely varied."
+      }
+    ]
+  },
+  {
+    "word": "大器晩成",
+    "reading": "たいきばんせい",
+    "meanings": ["great talents mature late", "late bloomer"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["yojijukugo", "positive"],
+    "examples": [
+      {
+        "text": "彼は大器晩成型の人物だ。",
+        "reading": "かれはたいきばんせいがたのじんぶつだ。",
+        "translation": "He is the kind of person whose talents bloom late."
+      }
+    ]
+  },
+  {
+    "word": "我田引水",
+    "reading": "がでんいんすい",
+    "meanings": ["self-serving", "drawing water to one's own field"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["yojijukugo", "negative"],
+    "examples": [
+      {
+        "text": "我田引水の議論は説得力がない。",
+        "reading": "がでんいんすいのぎろんはせっとくりょくがない。",
+        "translation": "A self-serving argument lacks persuasiveness."
+      }
+    ]
+  },
+  {
+    "word": "付和雷同",
+    "reading": "ふわらいどう",
+    "meanings": ["following blindly", "going along with the crowd"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["yojijukugo", "negative"],
+    "examples": [
+      {
+        "text": "付和雷同せず、自分の意見を持つべきだ。",
+        "reading": "ふわらいどうせず、じぶんのいけんをもつべきだ。",
+        "translation": "You should have your own opinion instead of blindly following others."
+      }
+    ]
+  },
+  {
+    "word": "針小棒大",
+    "reading": "しんしょうぼうだい",
+    "meanings": ["making a mountain out of a molehill", "exaggeration"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["yojijukugo", "negative"],
+    "examples": [
+      {
+        "text": "針小棒大に話を膨らませるのはやめてほしい。",
+        "reading": "しんしょうぼうだいにはなしをふくらませるのはやめてほしい。",
+        "translation": "I wish you'd stop blowing things out of proportion."
+      }
+    ]
+  },
+  {
+    "word": "朝令暮改",
+    "reading": "ちょうれいぼかい",
+    "meanings": ["inconsistency", "changing orders frequently", "flip-flopping"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["yojijukugo", "negative"],
+    "examples": [
+      {
+        "text": "朝令暮改の政策に国民は混乱している。",
+        "reading": "ちょうれいぼかいのせいさくにこくみんはこんらんしている。",
+        "translation": "The public is confused by the frequently changing policies."
+      }
+    ]
+  },
+  {
+    "word": "温故知新",
+    "reading": "おんこちしん",
+    "meanings": ["learning from the past", "discovering new things by studying the old"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["yojijukugo", "culture"],
+    "examples": [
+      {
+        "text": "温故知新の精神で古典文学を研究する。",
+        "reading": "おんこちしんのせいしんでこてんぶんがくをけんきゅうする。",
+        "translation": "I study classical literature with the spirit of learning from the past."
+      }
+    ]
+  },
+  {
+    "word": "不言実行",
+    "reading": "ふげんじっこう",
+    "meanings": ["action before words", "doing without talking"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["yojijukugo", "positive"],
+    "examples": [
+      {
+        "text": "不言実行の姿勢が周囲の尊敬を集めている。",
+        "reading": "ふげんじっこうのしせいがしゅういのそんけいをあつめている。",
+        "translation": "His attitude of acting without boasting earns the respect of those around him."
+      }
+    ]
+  },
+  {
+    "word": "概念",
+    "reading": "がいねん",
+    "meanings": ["concept", "notion", "idea"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["abstract", "academic"],
+    "examples": [
+      {
+        "text": "自由という概念は文化によって異なる。",
+        "reading": "じゆうというがいねんはぶんかによってことなる。",
+        "translation": "The concept of freedom differs across cultures."
+      }
+    ]
+  },
+  {
+    "word": "抽象",
+    "reading": "ちゅうしょう",
+    "meanings": ["abstraction", "abstract"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["abstract", "academic"],
+    "examples": [
+      {
+        "text": "抽象的な議論よりも具体例を示してほしい。",
+        "reading": "ちゅうしょうてきなぎろんよりもぐたいれいをしめしてほしい。",
+        "translation": "I'd prefer concrete examples over abstract discussion."
+      }
+    ]
+  },
+  {
+    "word": "本質",
+    "reading": "ほんしつ",
+    "meanings": ["essence", "true nature", "substance"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["abstract", "philosophy"],
+    "examples": [
+      {
+        "text": "問題の本質を見極める必要がある。",
+        "reading": "もんだいのほんしつをみきわめるひつようがある。",
+        "translation": "We need to discern the essence of the problem."
+      }
+    ]
+  },
+  {
+    "word": "理念",
+    "reading": "りねん",
+    "meanings": ["philosophy", "principle", "ideal"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["abstract", "formal"],
+    "examples": [
+      {
+        "text": "会社の経営理念に共感した。",
+        "reading": "かいしゃのけいえいりねんにきょうかんした。",
+        "translation": "I resonated with the company's management philosophy."
+      }
+    ]
+  },
+  {
+    "word": "信念",
+    "reading": "しんねん",
+    "meanings": ["belief", "conviction", "faith"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["abstract", "philosophy"],
+    "examples": [
+      {
+        "text": "自分の信念を貫く勇気が必要だ。",
+        "reading": "じぶんのしんねんをつらぬくゆうきがひつようだ。",
+        "translation": "It takes courage to stand by one's convictions."
+      }
+    ]
+  },
+  {
+    "word": "道理",
+    "reading": "どうり",
+    "meanings": ["reason", "logic", "natural law"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["abstract", "philosophy"],
+    "examples": [
+      {
+        "text": "道理に反することは長続きしない。",
+        "reading": "どうりにはんすることはながつづきしない。",
+        "translation": "Things that go against reason do not last."
+      }
+    ]
+  },
+  {
+    "word": "倫理",
+    "reading": "りんり",
+    "meanings": ["ethics", "morals"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["abstract", "academic"],
+    "examples": [
+      {
+        "text": "医療倫理に関する議論が活発化している。",
+        "reading": "いりょうりんりにかんするぎろんがかっぱつかしている。",
+        "translation": "Discussions regarding medical ethics are becoming more active."
+      }
+    ]
+  },
+  {
+    "word": "哲学",
+    "reading": "てつがく",
+    "meanings": ["philosophy"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["abstract", "academic"],
+    "examples": [
+      {
+        "text": "人生の哲学について深く考えることがある。",
+        "reading": "じんせいのてつがくについてふかくかんがえることがある。",
+        "translation": "Sometimes I think deeply about the philosophy of life."
+      }
+    ]
+  },
+  {
+    "word": "思想",
+    "reading": "しそう",
+    "meanings": ["thought", "ideology", "ideas"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["abstract", "academic"],
+    "examples": [
+      {
+        "text": "彼の思想は多くの人に影響を与えた。",
+        "reading": "かれのしそうはおおくのひとにえいきょうをあたえた。",
+        "translation": "His ideas influenced many people."
+      }
+    ]
+  },
+  {
+    "word": "観念",
+    "reading": "かんねん",
+    "meanings": ["concept", "idea", "resignation"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["abstract", "philosophy"],
+    "examples": [
+      {
+        "text": "固定観念にとらわれてはいけない。",
+        "reading": "こていかんねんにとらわれてはいけない。",
+        "translation": "You must not be trapped by preconceptions."
+      }
+    ]
+  },
+  {
+    "word": "意義",
+    "reading": "いぎ",
+    "meanings": ["significance", "meaning", "importance"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["abstract", "academic"],
+    "examples": [
+      {
+        "text": "この研究の意義は大きい。",
+        "reading": "このけんきゅうのいぎはおおきい。",
+        "translation": "The significance of this research is great."
+      }
+    ]
+  },
+  {
+    "word": "趣旨",
+    "reading": "しゅし",
+    "meanings": ["purpose", "gist", "intent"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["formal", "business"],
+    "examples": [
+      {
+        "text": "提案の趣旨を説明していただけますか。",
+        "reading": "ていあんのしゅしをせつめいしていただけますか。",
+        "translation": "Could you explain the purpose of the proposal?"
+      }
+    ]
+  },
+  {
+    "word": "見解",
+    "reading": "けんかい",
+    "meanings": ["opinion", "view", "perspective"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["formal", "academic"],
+    "examples": [
+      {
+        "text": "政府は公式見解を発表した。",
+        "reading": "せいふはこうしきけんかいをはっぴょうした。",
+        "translation": "The government issued an official statement of its views."
+      }
+    ]
+  },
+  {
+    "word": "主張",
+    "reading": "しゅちょう",
+    "meanings": ["assertion", "claim", "argument"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["formal", "debate"],
+    "examples": [
+      {
+        "text": "自分の権利を主張することは大切だ。",
+        "reading": "じぶんのけんりをしゅちょうすることはたいせつだ。",
+        "translation": "It is important to assert one's rights."
+      }
+    ]
+  },
+  {
+    "word": "論点",
+    "reading": "ろんてん",
+    "meanings": ["issue", "point of argument", "point at issue"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["academic", "debate"],
+    "examples": [
+      {
+        "text": "議論の論点を整理しましょう。",
+        "reading": "ぎろんのろんてんをせいりしましょう。",
+        "translation": "Let's organize the points at issue in the discussion."
+      }
+    ]
+  },
+  {
+    "word": "争点",
+    "reading": "そうてん",
+    "meanings": ["point of contention", "issue in dispute"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["legal", "formal"],
+    "examples": [
+      {
+        "text": "選挙の争点は経済政策だった。",
+        "reading": "せんきょのそうてんはけいざいせいさくだった。",
+        "translation": "The main issue in the election was economic policy."
+      }
+    ]
+  },
+  {
+    "word": "矛盾",
+    "reading": "むじゅん",
+    "meanings": ["contradiction", "inconsistency"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["abstract", "common"],
+    "examples": [
+      {
+        "text": "彼の発言には矛盾がある。",
+        "reading": "かれのはつげんにはむじゅんがある。",
+        "translation": "There is a contradiction in his statements."
+      }
+    ]
+  },
+  {
+    "word": "葛藤",
+    "reading": "かっとう",
+    "meanings": ["conflict", "inner struggle", "discord"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["abstract", "psychology"],
+    "examples": [
+      {
+        "text": "理想と現実の間で葛藤している。",
+        "reading": "りそうとげんじつのあいだでかっとうしている。",
+        "translation": "I am struggling between ideals and reality."
+      }
+    ]
+  },
+  {
+    "word": "苦悩",
+    "reading": "くのう",
+    "meanings": ["anguish", "suffering", "distress"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["abstract", "literary"],
+    "examples": [
+      {
+        "text": "人生の苦悩を乗り越えてきた。",
+        "reading": "じんせいのくのうをのりこえてきた。",
+        "translation": "I have overcome the sufferings of life."
+      }
+    ]
+  },
+  {
+    "word": "恩恵",
+    "reading": "おんけい",
+    "meanings": ["blessing", "benefit", "grace"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["formal", "positive"],
+    "examples": [
+      {
+        "text": "科学技術の恩恵を享受している。",
+        "reading": "かがくぎじゅつのおんけいをきょうじゅしている。",
+        "translation": "We enjoy the benefits of science and technology."
+      }
+    ]
+  },
+  {
+    "word": "弊害",
+    "reading": "へいがい",
+    "meanings": ["harmful effect", "evil", "abuse"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["formal", "negative"],
+    "examples": [
+      {
+        "text": "過度な競争がもたらす弊害は大きい。",
+        "reading": "かどなきょうそうがもたらすへいがいはおおきい。",
+        "translation": "The harmful effects brought about by excessive competition are significant."
+      }
+    ]
+  },
+  {
+    "word": "功罪",
+    "reading": "こうざい",
+    "meanings": ["merits and demerits", "pros and cons"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["formal", "written"],
+    "examples": [
+      {
+        "text": "インターネットの功罪について論じる。",
+        "reading": "いんたーねっとのこうざいについてろんじる。",
+        "translation": "We discuss the merits and demerits of the internet."
+      }
+    ]
+  },
+  {
+    "word": "得失",
+    "reading": "とくしつ",
+    "meanings": ["gains and losses", "advantages and disadvantages"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["formal", "written"],
+    "examples": [
+      {
+        "text": "政策の得失を冷静に分析する必要がある。",
+        "reading": "せいさくのとくしつをれいせいにぶんせきするひつようがある。",
+        "translation": "It is necessary to calmly analyze the pros and cons of the policy."
+      }
+    ]
+  },
+  {
+    "word": "盛衰",
+    "reading": "せいすい",
+    "meanings": ["rise and fall", "prosperity and decline"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["formal", "literary"],
+    "examples": [
+      {
+        "text": "帝国の盛衰を描いた歴史書を読んだ。",
+        "reading": "ていこくのせいすいをえがいたれきししょをよんだ。",
+        "translation": "I read a history book depicting the rise and fall of the empire."
+      }
+    ]
+  },
+  {
+    "word": "帰結",
+    "reading": "きけつ",
+    "meanings": ["conclusion", "consequence", "outcome"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["academic", "formal"],
+    "examples": [
+      {
+        "text": "論理的な帰結として、この仮説は成り立たない。",
+        "reading": "ろんりてきなきけつとして、このかせつはなりたたない。",
+        "translation": "As a logical conclusion, this hypothesis does not hold."
+      }
+    ]
+  },
+  {
+    "word": "拝見する",
+    "reading": "はいけんする",
+    "meanings": ["to look at (humble)", "to see (humble)"],
+    "pos": "verb-ichidan",
+    "level": "n1",
+    "tags": ["keigo", "humble"],
+    "examples": [
+      {
+        "text": "書類を拝見してもよろしいでしょうか。",
+        "reading": "しょるいをはいけんしてもよろしいでしょうか。",
+        "translation": "May I take a look at the documents?"
+      }
+    ]
+  },
+  {
+    "word": "申し上げる",
+    "reading": "もうしあげる",
+    "meanings": ["to say (humble)", "to tell (humble)"],
+    "pos": "verb-ichidan",
+    "level": "n1",
+    "tags": ["keigo", "humble"],
+    "examples": [
+      {
+        "text": "一言申し上げたいことがございます。",
+        "reading": "ひとこともうしあげたいことがございます。",
+        "translation": "There is one thing I would like to say."
+      }
+    ]
+  },
+  {
+    "word": "存じ上げる",
+    "reading": "ぞんじあげる",
+    "meanings": ["to know (humble)", "to be acquainted with (humble)"],
+    "pos": "verb-ichidan",
+    "level": "n1",
+    "tags": ["keigo", "humble"],
+    "examples": [
+      {
+        "text": "お名前は存じ上げております。",
+        "reading": "おなまえはぞんじあげております。",
+        "translation": "I am aware of your name."
+      }
+    ]
+  },
+  {
+    "word": "おっしゃる",
+    "reading": "おっしゃる",
+    "meanings": ["to say (honorific)", "to speak (honorific)"],
+    "pos": "verb-godan",
+    "level": "n1",
+    "tags": ["keigo", "honorific"],
+    "examples": [
+      {
+        "text": "先生がおっしゃったとおりにいたします。",
+        "reading": "せんせいがおっしゃったとおりにいたします。",
+        "translation": "I will do as the teacher said."
+      }
+    ]
+  },
+  {
+    "word": "召し上がる",
+    "reading": "めしあがる",
+    "meanings": ["to eat (honorific)", "to drink (honorific)"],
+    "pos": "verb-godan",
+    "level": "n1",
+    "tags": ["keigo", "honorific"],
+    "examples": [
+      {
+        "text": "どうぞ召し上がってください。",
+        "reading": "どうぞめしあがってください。",
+        "translation": "Please help yourself to eat."
+      }
+    ]
+  },
+  {
+    "word": "いらっしゃる",
+    "reading": "いらっしゃる",
+    "meanings": ["to be (honorific)", "to go (honorific)", "to come (honorific)"],
+    "pos": "verb-godan",
+    "level": "n1",
+    "tags": ["keigo", "honorific"],
+    "examples": [
+      {
+        "text": "社長はただいま外出していらっしゃいます。",
+        "reading": "しゃちょうはただいまがいしゅつしていらっしゃいます。",
+        "translation": "The president is currently out."
+      }
+    ]
+  },
+  {
+    "word": "くださる",
+    "reading": "くださる",
+    "meanings": ["to give (honorific)", "to bestow"],
+    "pos": "verb-godan",
+    "level": "n1",
+    "tags": ["keigo", "honorific"],
+    "examples": [
+      {
+        "text": "先生が推薦状を書いてくださった。",
+        "reading": "せんせいがすいせんじょうをかいてくださった。",
+        "translation": "The teacher kindly wrote a recommendation letter."
+      }
+    ]
+  },
+  {
+    "word": "なさる",
+    "reading": "なさる",
+    "meanings": ["to do (honorific)"],
+    "pos": "verb-godan",
+    "level": "n1",
+    "tags": ["keigo", "honorific"],
+    "examples": [
+      {
+        "text": "何をなさっているのですか。",
+        "reading": "なにをなさっているのですか。",
+        "translation": "What are you doing? (polite)"
+      }
+    ]
+  },
+  {
+    "word": "伺う",
+    "reading": "うかがう",
+    "meanings": ["to visit (humble)", "to ask (humble)", "to hear (humble)"],
+    "pos": "verb-godan",
+    "level": "n1",
+    "tags": ["keigo", "humble"],
+    "examples": [
+      {
+        "text": "明日、お宅に伺ってもよろしいですか。",
+        "reading": "あした、おたくにうかがってもよろしいですか。",
+        "translation": "May I visit your home tomorrow?"
+      }
+    ]
+  },
+  {
+    "word": "参る",
+    "reading": "まいる",
+    "meanings": ["to go (humble)", "to come (humble)"],
+    "pos": "verb-godan",
+    "level": "n1",
+    "tags": ["keigo", "humble"],
+    "examples": [
+      {
+        "text": "すぐにそちらに参ります。",
+        "reading": "すぐにそちらにまいります。",
+        "translation": "I will come there right away."
+      }
+    ]
+  },
+  {
+    "word": "差し上げる",
+    "reading": "さしあげる",
+    "meanings": ["to give (humble)", "to offer (humble)"],
+    "pos": "verb-ichidan",
+    "level": "n1",
+    "tags": ["keigo", "humble"],
+    "examples": [
+      {
+        "text": "お土産を差し上げたいのですが。",
+        "reading": "おみやげをさしあげたいのですが。",
+        "translation": "I would like to give you a souvenir."
+      }
+    ]
+  },
+  {
+    "word": "お目にかかる",
+    "reading": "おめにかかる",
+    "meanings": ["to meet (humble)", "to see someone (humble)"],
+    "pos": "expression",
+    "level": "n1",
+    "tags": ["keigo", "humble"],
+    "examples": [
+      {
+        "text": "お目にかかれて光栄です。",
+        "reading": "おめにかかれてこうえいです。",
+        "translation": "It is an honor to meet you."
+      }
+    ]
+  },
+  {
+    "word": "ご覧になる",
+    "reading": "ごらんになる",
+    "meanings": ["to see (honorific)", "to look at (honorific)"],
+    "pos": "expression",
+    "level": "n1",
+    "tags": ["keigo", "honorific"],
+    "examples": [
+      {
+        "text": "こちらの資料をご覧になってください。",
+        "reading": "こちらのしりょうをごらんになってください。",
+        "translation": "Please take a look at these materials."
+      }
+    ]
+  },
+  {
+    "word": "お越しになる",
+    "reading": "おこしになる",
+    "meanings": ["to come (honorific)", "to visit (honorific)"],
+    "pos": "expression",
+    "level": "n1",
+    "tags": ["keigo", "honorific"],
+    "examples": [
+      {
+        "text": "本日はお越しいただきありがとうございます。",
+        "reading": "ほんじつはおこしいただきありがとうございます。",
+        "translation": "Thank you for coming today."
+      }
+    ]
+  },
+  {
+    "word": "ご存じ",
+    "reading": "ごぞんじ",
+    "meanings": ["to know (honorific)", "awareness (honorific)"],
+    "pos": "expression",
+    "level": "n1",
+    "tags": ["keigo", "honorific"],
+    "examples": [
+      {
+        "text": "この件についてご存じですか。",
+        "reading": "このけんについてごぞんじですか。",
+        "translation": "Are you aware of this matter?"
+      }
+    ]
+  },
+  {
+    "word": "仮説",
+    "reading": "かせつ",
+    "meanings": ["hypothesis", "supposition"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["academic", "science"],
+    "examples": [
+      {
+        "text": "仮説を立てて実験で検証する。",
+        "reading": "かせつをたてじっけんでけんしょうする。",
+        "translation": "We formulate a hypothesis and verify it through experiments."
+      }
+    ]
+  },
+  {
+    "word": "検証",
+    "reading": "けんしょう",
+    "meanings": ["verification", "validation", "inspection"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["academic", "science"],
+    "examples": [
+      {
+        "text": "データの検証作業に時間がかかった。",
+        "reading": "でーたのけんしょうさぎょうにじかんがかかった。",
+        "translation": "The data verification process took time."
+      }
+    ]
+  },
+  {
+    "word": "考察",
+    "reading": "こうさつ",
+    "meanings": ["consideration", "examination", "analysis"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["academic", "research"],
+    "examples": [
+      {
+        "text": "実験結果に基づいた考察を行った。",
+        "reading": "じっけんけっかにもとづいたこうさつをおこなった。",
+        "translation": "I conducted an analysis based on the experimental results."
+      }
+    ]
+  },
+  {
+    "word": "結論",
+    "reading": "けつろん",
+    "meanings": ["conclusion"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["academic", "common"],
+    "examples": [
+      {
+        "text": "最終的な結論を出すのはまだ早い。",
+        "reading": "さいしゅうてきなけつろんをだすのはまだはやい。",
+        "translation": "It is still too early to reach a final conclusion."
+      }
+    ]
+  },
+  {
+    "word": "論証",
+    "reading": "ろんしょう",
+    "meanings": ["demonstration", "proof", "argumentation"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["academic", "philosophy"],
+    "examples": [
+      {
+        "text": "厳密な論証が求められる。",
+        "reading": "げんみつなろんしょうがもとめられる。",
+        "translation": "Rigorous argumentation is required."
+      }
+    ]
+  },
+  {
+    "word": "前提",
+    "reading": "ぜんてい",
+    "meanings": ["premise", "prerequisite", "assumption"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["academic", "logic"],
+    "examples": [
+      {
+        "text": "その前提が正しいかどうか再検討すべきだ。",
+        "reading": "そのぜんていがただしいかどうかさいけんとうすべきだ。",
+        "translation": "We should re-examine whether that premise is correct."
+      }
+    ]
+  },
+  {
+    "word": "命題",
+    "reading": "めいだい",
+    "meanings": ["proposition", "thesis"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["academic", "logic"],
+    "examples": [
+      {
+        "text": "この命題は論理的に証明できる。",
+        "reading": "このめいだいはろんりてきにしょうめいできる。",
+        "translation": "This proposition can be logically proven."
+      }
+    ]
+  },
+  {
+    "word": "定義",
+    "reading": "ていぎ",
+    "meanings": ["definition"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["academic", "common"],
+    "examples": [
+      {
+        "text": "まず用語の定義を明確にしよう。",
+        "reading": "まずようごのていぎをめいかくにしよう。",
+        "translation": "First, let's clarify the definitions of the terms."
+      }
+    ]
+  },
+  {
+    "word": "概要",
+    "reading": "がいよう",
+    "meanings": ["outline", "summary", "overview"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["academic", "business"],
+    "examples": [
+      {
+        "text": "プロジェクトの概要を説明します。",
+        "reading": "ぷろじぇくとのがいようをせつめいします。",
+        "translation": "I will explain the overview of the project."
+      }
+    ]
+  },
+  {
+    "word": "要旨",
+    "reading": "ようし",
+    "meanings": ["gist", "summary", "abstract"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["academic", "research"],
+    "examples": [
+      {
+        "text": "論文の要旨を提出してください。",
+        "reading": "ろんぶんのようしをていしゅつしてください。",
+        "translation": "Please submit the abstract of your paper."
+      }
+    ]
+  },
+  {
+    "word": "論旨",
+    "reading": "ろんし",
+    "meanings": ["gist of an argument", "line of reasoning"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["academic", "debate"],
+    "examples": [
+      {
+        "text": "論旨が明確で分かりやすい論文だ。",
+        "reading": "ろんしがめいかくでわかりやすいろんぶんだ。",
+        "translation": "It is a paper with a clear and easy-to-understand argument."
+      }
+    ]
+  },
+  {
+    "word": "根拠",
+    "reading": "こんきょ",
+    "meanings": ["basis", "grounds", "evidence"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["academic", "legal"],
+    "examples": [
+      {
+        "text": "科学的根拠に基づいた主張をすべきだ。",
+        "reading": "かがくてきこんきょにもとづいたしゅちょうをすべきだ。",
+        "translation": "One should make claims based on scientific evidence."
+      }
+    ]
+  },
+  {
+    "word": "典拠",
+    "reading": "てんきょ",
+    "meanings": ["authority", "source", "reference"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["academic", "research"],
+    "examples": [
+      {
+        "text": "すべての主張には典拠を示す必要がある。",
+        "reading": "すべてのしゅちょうにはてんきょをしめすひつようがある。",
+        "translation": "All claims need to cite their sources."
+      }
+    ]
+  },
+  {
+    "word": "文献",
+    "reading": "ぶんけん",
+    "meanings": ["literature", "documents", "bibliography"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["academic", "research"],
+    "examples": [
+      {
+        "text": "関連文献を調査した。",
+        "reading": "かんれんぶんけんをちょうさした。",
+        "translation": "I surveyed the relevant literature."
+      }
+    ]
+  },
+  {
+    "word": "引用",
+    "reading": "いんよう",
+    "meanings": ["quotation", "citation"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["academic", "research"],
+    "examples": [
+      {
+        "text": "出典を明記して引用してください。",
+        "reading": "しゅってんをめいきしていんようしてください。",
+        "translation": "Please cite with the source clearly indicated."
+      }
+    ]
+  },
+  {
+    "word": "参照",
+    "reading": "さんしょう",
+    "meanings": ["reference", "consultation"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["academic", "common"],
+    "examples": [
+      {
+        "text": "詳しくは付録を参照してください。",
+        "reading": "くわしくはふろくをさんしょうしてください。",
+        "translation": "Please refer to the appendix for details."
+      }
+    ]
+  },
+  {
+    "word": "注釈",
+    "reading": "ちゅうしゃく",
+    "meanings": ["annotation", "commentary", "footnote"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["academic", "research"],
+    "examples": [
+      {
+        "text": "古典のテキストに注釈を付けた。",
+        "reading": "こてんのてきすとにちゅうしゃくをつけた。",
+        "translation": "I added annotations to the classical text."
+      }
+    ]
+  },
+  {
+    "word": "索引",
+    "reading": "さくいん",
+    "meanings": ["index"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["academic", "publishing"],
+    "examples": [
+      {
+        "text": "巻末の索引から調べると早い。",
+        "reading": "かんまつのさくいんからしらべるとはやい。",
+        "translation": "It is faster to look things up from the index at the end of the volume."
+      }
+    ]
+  },
+  {
+    "word": "抄録",
+    "reading": "しょうろく",
+    "meanings": ["abstract", "excerpt", "summary"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["academic", "research"],
+    "examples": [
+      {
+        "text": "論文の抄録を英語で書いた。",
+        "reading": "ろんぶんのしょうろくをえいごでかいた。",
+        "translation": "I wrote the abstract of the paper in English."
+      }
+    ]
+  },
+  {
+    "word": "～ともなると",
+    "reading": "ともなると",
+    "meanings": ["when it comes to", "at the level of"],
+    "pos": "expression",
+    "level": "n1",
+    "tags": ["grammar", "n1-expression"],
+    "examples": [
+      {
+        "text": "大学教授ともなると、研究だけでなく教育も求められる。",
+        "reading": "だいがくきょうじゅともなると、けんきゅうだけでなくきょういくももとめられる。",
+        "translation": "When it comes to being a university professor, not only research but also teaching is expected."
+      }
+    ]
+  },
+  {
+    "word": "～たりとも",
+    "reading": "たりとも",
+    "meanings": ["not even (one)", "even a single"],
+    "pos": "expression",
+    "level": "n1",
+    "tags": ["grammar", "n1-expression"],
+    "examples": [
+      {
+        "text": "一秒たりとも無駄にしたくない。",
+        "reading": "いちびょうたりともむだにしたくない。",
+        "translation": "I don't want to waste even a single second."
+      }
+    ]
+  },
+  {
+    "word": "～ならでは",
+    "reading": "ならでは",
+    "meanings": ["unique to", "only possible with", "peculiar to"],
+    "pos": "expression",
+    "level": "n1",
+    "tags": ["grammar", "n1-expression"],
+    "examples": [
+      {
+        "text": "京都ならではの風情を楽しんだ。",
+        "reading": "きょうとならではのふぜいをたのしんだ。",
+        "translation": "I enjoyed the charm unique to Kyoto."
+      }
+    ]
+  },
+  {
+    "word": "～をものともせず",
+    "reading": "をものともせず",
+    "meanings": ["in defiance of", "not deterred by", "undaunted by"],
+    "pos": "expression",
+    "level": "n1",
+    "tags": ["grammar", "n1-expression"],
+    "examples": [
+      {
+        "text": "悪天候をものともせず、登山を続けた。",
+        "reading": "あくてんこうをものともせず、とざんをつづけた。",
+        "translation": "Undaunted by the bad weather, they continued climbing."
+      }
+    ]
+  },
+  {
+    "word": "～が最後",
+    "reading": "がさいご",
+    "meanings": ["once ... there's no going back", "if ... then it's the end"],
+    "pos": "expression",
+    "level": "n1",
+    "tags": ["grammar", "n1-expression"],
+    "examples": [
+      {
+        "text": "あの人は話し始めたが最後、止まらない。",
+        "reading": "あのひとははなしはじめたがさいご、とまらない。",
+        "translation": "Once that person starts talking, there's no stopping them."
+      }
+    ]
+  },
+  {
+    "word": "～といえども",
+    "reading": "といえども",
+    "meanings": ["even though", "although", "even if"],
+    "pos": "expression",
+    "level": "n1",
+    "tags": ["grammar", "n1-expression"],
+    "examples": [
+      {
+        "text": "専門家といえども、間違えることはある。",
+        "reading": "せんもんかといえども、まちがえることはある。",
+        "translation": "Even experts can make mistakes."
+      }
+    ]
+  },
+  {
+    "word": "～をもって",
+    "reading": "をもって",
+    "meanings": ["with", "by means of", "as of"],
+    "pos": "expression",
+    "level": "n1",
+    "tags": ["grammar", "n1-expression"],
+    "examples": [
+      {
+        "text": "本日をもって閉店いたします。",
+        "reading": "ほんじつをもってへいてんいたします。",
+        "translation": "We will close the store as of today."
+      }
+    ]
+  },
+  {
+    "word": "～ずにはおかない",
+    "reading": "ずにはおかない",
+    "meanings": ["cannot help but", "inevitably", "never fails to"],
+    "pos": "expression",
+    "level": "n1",
+    "tags": ["grammar", "n1-expression"],
+    "examples": [
+      {
+        "text": "彼の演技は観客を感動させずにはおかない。",
+        "reading": "かれのえんぎはかんきゃくをかんどうさせずにはおかない。",
+        "translation": "His performance never fails to move the audience."
+      }
+    ]
+  },
+  {
+    "word": "～に即して",
+    "reading": "にそくして",
+    "meanings": ["in accordance with", "in line with", "based on"],
+    "pos": "expression",
+    "level": "n1",
+    "tags": ["grammar", "n1-expression"],
+    "examples": [
+      {
+        "text": "現実に即した対策を講じる必要がある。",
+        "reading": "げんじつにそくしたたいさくをこうじるひつようがある。",
+        "translation": "Measures in line with reality need to be taken."
+      }
+    ]
+  },
+  {
+    "word": "～を余儀なくされる",
+    "reading": "をよぎなくされる",
+    "meanings": ["to be forced to", "to have no choice but to"],
+    "pos": "expression",
+    "level": "n1",
+    "tags": ["grammar", "n1-expression"],
+    "examples": [
+      {
+        "text": "台風で避難を余儀なくされた。",
+        "reading": "たいふうでひなんをよぎなくされた。",
+        "translation": "We were forced to evacuate due to the typhoon."
+      }
+    ]
+  },
+  {
+    "word": "～に堪えない",
+    "reading": "にたえない",
+    "meanings": ["cannot bear", "unbearable", "deeply moved"],
+    "pos": "expression",
+    "level": "n1",
+    "tags": ["grammar", "n1-expression"],
+    "examples": [
+      {
+        "text": "感謝の念に堪えない。",
+        "reading": "かんしゃのねんにたえない。",
+        "translation": "I am deeply grateful beyond words."
+      }
+    ]
+  },
+  {
+    "word": "～極まりない",
+    "reading": "きわまりない",
+    "meanings": ["extremely", "to the utmost", "in the extreme"],
+    "pos": "expression",
+    "level": "n1",
+    "tags": ["grammar", "n1-expression"],
+    "examples": [
+      {
+        "text": "彼の行動は危険極まりない。",
+        "reading": "かれのこうどうはきけんきわまりない。",
+        "translation": "His behavior is extremely dangerous."
+      }
+    ]
+  },
+  {
+    "word": "～まじき",
+    "reading": "まじき",
+    "meanings": ["should not", "unbecoming of", "unworthy of"],
+    "pos": "expression",
+    "level": "n1",
+    "tags": ["grammar", "n1-expression"],
+    "examples": [
+      {
+        "text": "教師にあるまじき行為だ。",
+        "reading": "きょうしにあるまじきこういだ。",
+        "translation": "It is conduct unbecoming of a teacher."
+      }
+    ]
+  },
+  {
+    "word": "～べからず",
+    "reading": "べからず",
+    "meanings": ["must not", "should not", "do not"],
+    "pos": "expression",
+    "level": "n1",
+    "tags": ["grammar", "n1-expression"],
+    "examples": [
+      {
+        "text": "芝生に入るべからず。",
+        "reading": "しばふにはいるべからず。",
+        "translation": "Do not enter the lawn."
+      }
+    ]
+  },
+  {
+    "word": "～にはあたらない",
+    "reading": "にはあたらない",
+    "meanings": ["not worth", "no need to", "does not warrant"],
+    "pos": "expression",
+    "level": "n1",
+    "tags": ["grammar", "n1-expression"],
+    "examples": [
+      {
+        "text": "驚くにはあたらない結果だ。",
+        "reading": "おどろくにはあたらないけっかだ。",
+        "translation": "It is a result not worth being surprised about."
+      }
+    ]
+  },
+  {
+    "word": "～ないものでもない",
+    "reading": "ないものでもない",
+    "meanings": ["it's not that ... can't", "it's not impossible to"],
+    "pos": "expression",
+    "level": "n1",
+    "tags": ["grammar", "n1-expression"],
+    "examples": [
+      {
+        "text": "条件次第では、引き受けないものでもない。",
+        "reading": "じょうけんしだいでは、ひきうけないものでもない。",
+        "translation": "Depending on the conditions, it's not that I couldn't accept."
+      }
+    ]
+  },
+  {
+    "word": "～てやまない",
+    "reading": "てやまない",
+    "meanings": ["sincerely", "earnestly", "from the bottom of one's heart"],
+    "pos": "expression",
+    "level": "n1",
+    "tags": ["grammar", "n1-expression"],
+    "examples": [
+      {
+        "text": "皆様のご成功を願ってやまない。",
+        "reading": "みなさまのごせいこうをねがってやまない。",
+        "translation": "I sincerely wish for everyone's success."
+      }
+    ]
+  },
+  {
+    "word": "～たら最後",
+    "reading": "たらさいご",
+    "meanings": ["once ... happens, it's over", "if ... then that's the end"],
+    "pos": "expression",
+    "level": "n1",
+    "tags": ["grammar", "n1-expression"],
+    "examples": [
+      {
+        "text": "彼に貸したら最後、二度と戻ってこない。",
+        "reading": "かれにかしたらさいご、にどともどってこない。",
+        "translation": "Once you lend it to him, it will never come back."
+      }
+    ]
+  },
+  {
+    "word": "～ことなしに",
+    "reading": "ことなしに",
+    "meanings": ["without doing", "without"],
+    "pos": "expression",
+    "level": "n1",
+    "tags": ["grammar", "n1-expression"],
+    "examples": [
+      {
+        "text": "努力することなしに成功はありえない。",
+        "reading": "どりょくすることなしにせいこうはありえない。",
+        "translation": "Success is impossible without effort."
+      }
+    ]
+  },
+  {
+    "word": "～とあって",
+    "reading": "とあって",
+    "meanings": ["because", "since", "given that"],
+    "pos": "expression",
+    "level": "n1",
+    "tags": ["grammar", "n1-expression"],
+    "examples": [
+      {
+        "text": "連休とあって、観光地はどこも混んでいた。",
+        "reading": "れんきゅうとあって、かんこうちはどこもこんでいた。",
+        "translation": "Since it was a long weekend, tourist spots were crowded everywhere."
+      }
+    ]
+  },
+  {
+    "word": "～を皮切りに",
+    "reading": "をかわきりに",
+    "meanings": ["starting with", "beginning with"],
+    "pos": "expression",
+    "level": "n1",
+    "tags": ["grammar", "n1-expression"],
+    "examples": [
+      {
+        "text": "東京を皮切りに全国ツアーが始まった。",
+        "reading": "とうきょうをかわきりにぜんこくつあーがはじまった。",
+        "translation": "The nationwide tour started with Tokyo."
+      }
+    ]
+  },
+  {
+    "word": "～ずじまい",
+    "reading": "ずじまい",
+    "meanings": ["ended up not doing", "never got around to"],
+    "pos": "expression",
+    "level": "n1",
+    "tags": ["grammar", "n1-expression"],
+    "examples": [
+      {
+        "text": "結局、本音を言わずじまいだった。",
+        "reading": "けっきょく、ほんねをいわずじまいだった。",
+        "translation": "In the end, I never got around to saying how I really felt."
+      }
+    ]
+  },
+  {
+    "word": "～ならいざしらず",
+    "reading": "ならいざしらず",
+    "meanings": ["maybe if it were ... but", "I can understand if ... but"],
+    "pos": "expression",
+    "level": "n1",
+    "tags": ["grammar", "n1-expression"],
+    "examples": [
+      {
+        "text": "子供ならいざしらず、大人がそんなことをするとは。",
+        "reading": "こどもならいざしらず、おとながそんなことをするとは。",
+        "translation": "I could understand if it were a child, but for an adult to do such a thing..."
+      }
+    ]
+  },
+  {
+    "word": "～の至り",
+    "reading": "のいたり",
+    "meanings": ["the height of", "the utmost"],
+    "pos": "expression",
+    "level": "n1",
+    "tags": ["grammar", "n1-expression"],
+    "examples": [
+      {
+        "text": "若気の至りで失敗してしまった。",
+        "reading": "わかげのいたりでしっぱいしてしまった。",
+        "translation": "I failed due to the folly of youth."
+      }
+    ]
+  },
+  {
+    "word": "～きらいがある",
+    "reading": "きらいがある",
+    "meanings": ["there is a tendency to", "apt to"],
+    "pos": "expression",
+    "level": "n1",
+    "tags": ["grammar", "n1-expression"],
+    "examples": [
+      {
+        "text": "彼は物事を悲観的に考えるきらいがある。",
+        "reading": "かれはものごとをひかんてきにかんがえるきらいがある。",
+        "translation": "He has a tendency to think about things pessimistically."
+      }
+    ]
+  },
+  {
+    "word": "鬱陶しい",
+    "reading": "うっとうしい",
+    "meanings": ["gloomy", "depressing", "annoying"],
+    "pos": "adjective-i",
+    "level": "n1",
+    "tags": ["emotion", "weather"],
+    "examples": [
+      {
+        "text": "梅雨の鬱陶しい天気が続いている。",
+        "reading": "つゆのうっとうしいてんきがつづいている。",
+        "translation": "The gloomy rainy season weather continues."
+      }
+    ]
+  },
+  {
+    "word": "甚だしい",
+    "reading": "はなはだしい",
+    "meanings": ["extreme", "excessive", "tremendous"],
+    "pos": "adjective-i",
+    "level": "n1",
+    "tags": ["formal", "literary"],
+    "examples": [
+      {
+        "text": "誤解も甚だしい。",
+        "reading": "ごかいもはなはだしい。",
+        "translation": "That is a gross misunderstanding."
+      }
+    ]
+  },
+  {
+    "word": "著しい",
+    "reading": "いちじるしい",
+    "meanings": ["remarkable", "notable", "striking"],
+    "pos": "adjective-i",
+    "level": "n1",
+    "tags": ["formal", "written"],
+    "examples": [
+      {
+        "text": "技術の著しい進歩が見られる。",
+        "reading": "ぎじゅつのいちじるしいしんぽがみられる。",
+        "translation": "Remarkable technological progress can be observed."
+      }
+    ]
+  },
+  {
+    "word": "煩わしい",
+    "reading": "わずらわしい",
+    "meanings": ["troublesome", "annoying", "bothersome"],
+    "pos": "adjective-i",
+    "level": "n1",
+    "tags": ["emotion", "negative"],
+    "examples": [
+      {
+        "text": "煩わしい手続きを省略できないだろうか。",
+        "reading": "わずらわしいてつづきをしょうりゃくできないだろうか。",
+        "translation": "Can't we skip the troublesome procedures?"
+      }
+    ]
+  },
+  {
+    "word": "空しい",
+    "reading": "むなしい",
+    "meanings": ["empty", "futile", "vain"],
+    "pos": "adjective-i",
+    "level": "n1",
+    "tags": ["emotion", "literary"],
+    "examples": [
+      {
+        "text": "努力が空しく終わった。",
+        "reading": "どりょくがむなしくおわった。",
+        "translation": "The effort ended in vain."
+      }
+    ]
+  },
+  {
+    "word": "疎い",
+    "reading": "うとい",
+    "meanings": ["unfamiliar with", "ignorant of", "estranged"],
+    "pos": "adjective-i",
+    "level": "n1",
+    "tags": ["common", "personality"],
+    "examples": [
+      {
+        "text": "私は機械に疎いので助けてほしい。",
+        "reading": "わたしはきかいにうといのでたすけてほしい。",
+        "translation": "I'm not good with machines, so I'd like help."
+      }
+    ]
+  },
+  {
+    "word": "紛らわしい",
+    "reading": "まぎらわしい",
+    "meanings": ["confusing", "misleading", "ambiguous"],
+    "pos": "adjective-i",
+    "level": "n1",
+    "tags": ["common", "negative"],
+    "examples": [
+      {
+        "text": "紛らわしい表現は避けるべきだ。",
+        "reading": "まぎらわしいひょうげんはさけるべきだ。",
+        "translation": "Confusing expressions should be avoided."
+      }
+    ]
+  },
+  {
+    "word": "目覚ましい",
+    "reading": "めざましい",
+    "meanings": ["remarkable", "spectacular", "brilliant"],
+    "pos": "adjective-i",
+    "level": "n1",
+    "tags": ["formal", "positive"],
+    "examples": [
+      {
+        "text": "彼女は目覚ましい活躍を見せた。",
+        "reading": "かのじょはめざましいかつやくをみせた。",
+        "translation": "She showed a remarkable performance."
+      }
+    ]
+  },
+  {
+    "word": "裁量",
+    "reading": "さいりょう",
+    "meanings": ["discretion", "judgment", "latitude"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["legal", "business"],
+    "examples": [
+      {
+        "text": "部長の裁量に任されている。",
+        "reading": "ぶちょうのさいりょうにまかされている。",
+        "translation": "It is left to the department head's discretion."
+      }
+    ]
+  },
+  {
+    "word": "隔たり",
+    "reading": "へだたり",
+    "meanings": ["gap", "distance", "difference"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["abstract", "formal"],
+    "examples": [
+      {
+        "text": "理想と現実の隔たりは大きい。",
+        "reading": "りそうとげんじつのへだたりはおおきい。",
+        "translation": "The gap between ideals and reality is large."
+      }
+    ]
+  },
+  {
+    "word": "憂慮",
+    "reading": "ゆうりょ",
+    "meanings": ["concern", "anxiety", "apprehension"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["formal", "emotion"],
+    "examples": [
+      {
+        "text": "経済情勢を憂慮する声が高まっている。",
+        "reading": "けいざいじょうせいをゆうりょするこえがたかまっている。",
+        "translation": "Voices of concern about the economic situation are growing."
+      }
+    ]
+  },
+  {
+    "word": "顕著",
+    "reading": "けんちょ",
+    "meanings": ["remarkable", "conspicuous", "prominent"],
+    "pos": "adjective-na",
+    "level": "n1",
+    "tags": ["formal", "academic"],
+    "examples": [
+      {
+        "text": "その傾向は特に若者の間で顕著だ。",
+        "reading": "そのけいこうはとくにわかもののあいだでけんちょだ。",
+        "translation": "That trend is particularly conspicuous among young people."
+      }
+    ]
+  },
+  {
+    "word": "暫定",
+    "reading": "ざんてい",
+    "meanings": ["provisional", "temporary", "interim"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["formal", "legal"],
+    "examples": [
+      {
+        "text": "暫定的な措置として規制が設けられた。",
+        "reading": "ざんていてきなそちとしてきせいがもうけられた。",
+        "translation": "Regulations were established as a provisional measure."
+      }
+    ]
+  },
+  {
+    "word": "措置",
+    "reading": "そち",
+    "meanings": ["measure", "step", "action"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["formal", "legal"],
+    "examples": [
+      {
+        "text": "緊急措置を講じる必要がある。",
+        "reading": "きんきゅうそちをこうじるひつようがある。",
+        "translation": "Emergency measures need to be taken."
+      }
+    ]
+  },
+  {
+    "word": "遡る",
+    "reading": "さかのぼる",
+    "meanings": ["to go back to", "to trace back", "to date back"],
+    "pos": "verb-godan",
+    "level": "n1",
+    "tags": ["formal", "time"],
+    "examples": [
+      {
+        "text": "この伝統は江戸時代に遡る。",
+        "reading": "このでんとうはえどじだいにさかのぼる。",
+        "translation": "This tradition dates back to the Edo period."
+      }
+    ]
+  },
+  {
+    "word": "凌ぐ",
+    "reading": "しのぐ",
+    "meanings": ["to surpass", "to endure", "to outdo"],
+    "pos": "verb-godan",
+    "level": "n1",
+    "tags": ["literary", "action"],
+    "examples": [
+      {
+        "text": "彼の才能は師匠を凌ぐほどだ。",
+        "reading": "かれのさいのうはししょうをしのぐほどだ。",
+        "translation": "His talent surpasses even that of his master."
+      }
+    ]
+  },
+  {
+    "word": "委ねる",
+    "reading": "ゆだねる",
+    "meanings": ["to entrust", "to leave to", "to delegate"],
+    "pos": "verb-ichidan",
+    "level": "n1",
+    "tags": ["formal", "action"],
+    "examples": [
+      {
+        "text": "最終判断は委員会に委ねられた。",
+        "reading": "さいしゅうはんだんはいいんかいにゆだねられた。",
+        "translation": "The final decision was entrusted to the committee."
+      }
+    ]
+  },
+  {
+    "word": "覆る",
+    "reading": "くつがえる",
+    "meanings": ["to be overturned", "to be reversed"],
+    "pos": "verb-godan",
+    "level": "n1",
+    "tags": ["formal", "action"],
+    "examples": [
+      {
+        "text": "長年の定説が覆った。",
+        "reading": "ながねんのていせつがくつがえった。",
+        "translation": "A long-held established theory was overturned."
+      }
+    ]
+  },
+  {
+    "word": "翻す",
+    "reading": "ひるがえす",
+    "meanings": ["to reverse", "to wave", "to flutter"],
+    "pos": "verb-godan",
+    "level": "n1",
+    "tags": ["literary", "action"],
+    "examples": [
+      {
+        "text": "彼は突然態度を翻した。",
+        "reading": "かれはとつぜんたいどをひるがえした。",
+        "translation": "He suddenly reversed his attitude."
+      }
+    ]
+  },
+  {
+    "word": "蔑む",
+    "reading": "さげすむ",
+    "meanings": ["to scorn", "to despise", "to look down upon"],
+    "pos": "verb-godan",
+    "level": "n1",
+    "tags": ["literary", "negative"],
+    "examples": [
+      {
+        "text": "他人を蔑むような態度は改めるべきだ。",
+        "reading": "たにんをさげすむようなたいどはあらためるべきだ。",
+        "translation": "One should change an attitude that looks down on others."
+      }
+    ]
+  },
+  {
+    "word": "促す",
+    "reading": "うながす",
+    "meanings": ["to urge", "to encourage", "to prompt"],
+    "pos": "verb-godan",
+    "level": "n1",
+    "tags": ["formal", "action"],
+    "examples": [
+      {
+        "text": "政府は企業に改革を促した。",
+        "reading": "せいふはきぎょうにかいかくをうながした。",
+        "translation": "The government urged companies to reform."
+      }
+    ]
+  },
+  {
+    "word": "享受",
+    "reading": "きょうじゅ",
+    "meanings": ["enjoyment", "benefit", "reaping"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["formal", "written"],
+    "examples": [
+      {
+        "text": "平和の恩恵を享受している。",
+        "reading": "へいわのおんけいをきょうじゅしている。",
+        "translation": "We are enjoying the benefits of peace."
+      }
+    ]
+  },
+  {
+    "word": "逆境",
+    "reading": "ぎゃっきょう",
+    "meanings": ["adversity", "hardship"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["abstract", "literary"],
+    "examples": [
+      {
+        "text": "逆境に負けずに頑張ってきた。",
+        "reading": "ぎゃっきょうにまけずにがんばってきた。",
+        "translation": "I have persevered without yielding to adversity."
+      }
+    ]
+  },
+  {
+    "word": "焦燥",
+    "reading": "しょうそう",
+    "meanings": ["impatience", "irritation", "restlessness"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["emotion", "literary"],
+    "examples": [
+      {
+        "text": "締め切りが近づき焦燥感に駆られている。",
+        "reading": "しめきりがちかづきしょうそうかんにかられている。",
+        "translation": "As the deadline approaches, I am driven by a sense of impatience."
+      }
+    ]
+  },
+  {
+    "word": "迫害",
+    "reading": "はくがい",
+    "meanings": ["persecution", "oppression"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["formal", "history"],
+    "examples": [
+      {
+        "text": "宗教的迫害から逃れてきた人々がいる。",
+        "reading": "しゅうきょうてきはくがいからのがれてきたひとびとがいる。",
+        "translation": "There are people who have fled from religious persecution."
+      }
+    ]
+  },
+  {
+    "word": "排斥",
+    "reading": "はいせき",
+    "meanings": ["exclusion", "rejection", "boycott"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["formal", "social"],
+    "examples": [
+      {
+        "text": "異質なものを排斥する風潮は危険だ。",
+        "reading": "いしつなものをはいせきするふうちょうはきけんだ。",
+        "translation": "The tendency to exclude things that are different is dangerous."
+      }
+    ]
+  },
+  {
+    "word": "懐疑",
+    "reading": "かいぎ",
+    "meanings": ["skepticism", "doubt"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["abstract", "philosophy"],
+    "examples": [
+      {
+        "text": "その理論に対する懐疑的な見方もある。",
+        "reading": "そのりろんにたいするかいぎてきなみかたもある。",
+        "translation": "There are also skeptical views toward that theory."
+      }
+    ]
+  },
+  {
+    "word": "乖離",
+    "reading": "かいり",
+    "meanings": ["divergence", "discrepancy", "gap"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["formal", "academic"],
+    "examples": [
+      {
+        "text": "理論と実践の乖離が問題視されている。",
+        "reading": "りろんとじっせんのかいりがもんだいしされている。",
+        "translation": "The gap between theory and practice is being viewed as a problem."
+      }
+    ]
+  },
+  {
+    "word": "醸成",
+    "reading": "じょうせい",
+    "meanings": ["brewing", "fostering", "cultivating an atmosphere"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["formal", "written"],
+    "examples": [
+      {
+        "text": "対話を通じて信頼関係を醸成する。",
+        "reading": "たいわをつうじてしんらいかんけいをじょうせいする。",
+        "translation": "We foster a relationship of trust through dialogue."
+      }
+    ]
+  },
+  {
+    "word": "網羅",
+    "reading": "もうら",
+    "meanings": ["encompassing", "covering comprehensively"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["formal", "academic"],
+    "examples": [
+      {
+        "text": "この辞書は専門用語を網羅している。",
+        "reading": "このじしょはせんもんようごをもうらしている。",
+        "translation": "This dictionary comprehensively covers technical terms."
+      }
+    ]
+  },
+  {
+    "word": "踏襲",
+    "reading": "とうしゅう",
+    "meanings": ["following precedent", "inheriting", "carrying on"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["formal", "politics"],
+    "examples": [
+      {
+        "text": "前任者の方針を踏襲した。",
+        "reading": "ぜんにんしゃのほうしんをとうしゅうした。",
+        "translation": "I followed the policies of my predecessor."
+      }
+    ]
+  },
+  {
+    "word": "台頭",
+    "reading": "たいとう",
+    "meanings": ["rise", "emergence", "coming to the fore"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["formal", "history"],
+    "examples": [
+      {
+        "text": "新しい政治勢力が台頭してきた。",
+        "reading": "あたらしいせいじせいりょくがたいとうしてきた。",
+        "translation": "A new political force has emerged."
+      }
+    ]
+  },
+  {
+    "word": "瓦解",
+    "reading": "がかい",
+    "meanings": ["collapse", "disintegration", "crumbling"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["formal", "literary"],
+    "examples": [
+      {
+        "text": "帝国は内部から瓦解した。",
+        "reading": "ていこくはないぶからがかいした。",
+        "translation": "The empire disintegrated from within."
+      }
+    ]
+  },
+  {
+    "word": "汎用",
+    "reading": "はんよう",
+    "meanings": ["general-purpose", "versatile", "universal"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["technical", "business"],
+    "examples": [
+      {
+        "text": "汎用性の高いソフトウェアを開発した。",
+        "reading": "はんようせいのたかいそふとうぇあをかいはつした。",
+        "translation": "We developed highly versatile software."
+      }
+    ]
+  },
+  {
+    "word": "恣意",
+    "reading": "しい",
+    "meanings": ["arbitrariness", "whim"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["formal", "legal"],
+    "examples": [
+      {
+        "text": "恣意的な判断は避けるべきだ。",
+        "reading": "しいてきなはんだんはさけるべきだ。",
+        "translation": "Arbitrary judgments should be avoided."
+      }
+    ]
+  },
+  {
+    "word": "庇護",
+    "reading": "ひご",
+    "meanings": ["protection", "patronage", "shelter"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["formal", "legal"],
+    "examples": [
+      {
+        "text": "難民は国際法の庇護を受ける権利がある。",
+        "reading": "なんみんはこくさいほうのひごをうけるけんりがある。",
+        "translation": "Refugees have the right to protection under international law."
+      }
+    ]
+  },
+  {
+    "word": "凄まじい",
+    "reading": "すさまじい",
+    "meanings": ["terrific", "fierce", "tremendous"],
+    "pos": "adjective-i",
+    "level": "n1",
+    "tags": ["literary", "intensity"],
+    "examples": [
+      {
+        "text": "凄まじい勢いで風が吹いている。",
+        "reading": "すさまじいいきおいでかぜがふいている。",
+        "translation": "The wind is blowing with tremendous force."
+      }
+    ]
+  },
+  {
+    "word": "忌まわしい",
+    "reading": "いまわしい",
+    "meanings": ["abominable", "detestable", "ominous"],
+    "pos": "adjective-i",
+    "level": "n1",
+    "tags": ["literary", "negative"],
+    "examples": [
+      {
+        "text": "忌まわしい記憶を忘れたい。",
+        "reading": "いまわしいきおくをわすれたい。",
+        "translation": "I want to forget the detestable memories."
+      }
+    ]
+  },
+  {
+    "word": "疎外",
+    "reading": "そがい",
+    "meanings": ["alienation", "estrangement", "exclusion"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["sociology", "psychology"],
+    "examples": [
+      {
+        "text": "社会から疎外されていると感じる人が増えている。",
+        "reading": "しゃかいからそがいされているとかんじるひとがふえている。",
+        "translation": "More people feel alienated from society."
+      }
+    ]
+  },
+  {
+    "word": "克服",
+    "reading": "こくふく",
+    "meanings": ["overcoming", "conquest", "surmounting"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["formal", "positive"],
+    "examples": [
+      {
+        "text": "困難を克服して目標を達成した。",
+        "reading": "こんなんをこくふくしてもくひょうをたっせいした。",
+        "translation": "I overcame difficulties and achieved my goal."
+      }
+    ]
+  },
+  {
+    "word": "把握",
+    "reading": "はあく",
+    "meanings": ["grasp", "comprehension", "understanding"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["formal", "business"],
+    "examples": [
+      {
+        "text": "状況を正確に把握する必要がある。",
+        "reading": "じょうきょうをせいかくにはあくするひつようがある。",
+        "translation": "It is necessary to accurately grasp the situation."
+      }
+    ]
+  },
+  {
+    "word": "逼迫",
+    "reading": "ひっぱく",
+    "meanings": ["tension", "strain", "tightness"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["formal", "economics"],
+    "examples": [
+      {
+        "text": "財政が逼迫している自治体が多い。",
+        "reading": "ざいせいがひっぱくしているじちたいがおおい。",
+        "translation": "Many local governments have strained finances."
+      }
+    ]
+  },
+  {
+    "word": "峻別",
+    "reading": "しゅんべつ",
+    "meanings": ["strict distinction", "clear differentiation"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["formal", "academic"],
+    "examples": [
+      {
+        "text": "公私を峻別することが求められる。",
+        "reading": "こうしをしゅんべつすることがもとめられる。",
+        "translation": "A strict distinction between public and private matters is required."
+      }
+    ]
+  },
+  {
+    "word": "淘汰",
+    "reading": "とうた",
+    "meanings": ["selection", "weeding out", "natural selection"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["formal", "science"],
+    "examples": [
+      {
+        "text": "競争力のない企業は市場から淘汰される。",
+        "reading": "きょうそうりょくのないきぎょうはしじょうからとうたされる。",
+        "translation": "Companies without competitiveness are weeded out by the market."
+      }
+    ]
+  },
+  {
+    "word": "刷新",
+    "reading": "さっしん",
+    "meanings": ["reform", "renovation", "overhaul"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["formal", "business"],
+    "examples": [
+      {
+        "text": "組織の刷新が急務だ。",
+        "reading": "そしきのさっしんがきゅうむだ。",
+        "translation": "Organizational reform is an urgent matter."
+      }
+    ]
+  },
+  {
+    "word": "是正",
+    "reading": "ぜせい",
+    "meanings": ["correction", "rectification", "redress"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["formal", "legal"],
+    "examples": [
+      {
+        "text": "格差の是正に取り組む必要がある。",
+        "reading": "かくさのぜせいにとりくむひつようがある。",
+        "translation": "It is necessary to work on correcting the disparity."
+      }
+    ]
+  },
+  {
+    "word": "糾弾",
+    "reading": "きゅうだん",
+    "meanings": ["denunciation", "condemnation", "censure"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["formal", "politics"],
+    "examples": [
+      {
+        "text": "不正行為を糾弾する声明を発表した。",
+        "reading": "ふせいこういをきゅうだんするせいめいをはっぴょうした。",
+        "translation": "A statement denouncing the misconduct was issued."
+      }
+    ]
+  },
+  {
+    "word": "抑制",
+    "reading": "よくせい",
+    "meanings": ["restraint", "suppression", "control"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["formal", "medical"],
+    "examples": [
+      {
+        "text": "インフレを抑制するための政策が打ち出された。",
+        "reading": "いんふれをよくせいするためのせいさくがうちだされた。",
+        "translation": "Policies to curb inflation were put forward."
+      }
+    ]
+  },
+  {
+    "word": "稀有",
+    "reading": "けう",
+    "meanings": ["rare", "exceptional", "uncommon"],
+    "pos": "adjective-na",
+    "level": "n1",
+    "tags": ["formal", "literary"],
+    "examples": [
+      {
+        "text": "稀有な才能の持ち主だ。",
+        "reading": "けうなさいのうのもちぬしだ。",
+        "translation": "He is a person of exceptional talent."
+      }
+    ]
+  },
+  {
+    "word": "怒涛",
+    "reading": "どとう",
+    "meanings": ["raging waves", "fury", "overwhelming force"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["literary", "metaphor"],
+    "examples": [
+      {
+        "text": "怒涛の勢いで仕事をこなした。",
+        "reading": "どとうのいきおいでしごとをこなした。",
+        "translation": "I plowed through the work with overwhelming force."
+      }
+    ]
+  },
+  {
+    "word": "邁進",
+    "reading": "まいしん",
+    "meanings": ["striving forward", "pushing ahead", "forging ahead"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["formal", "positive"],
+    "examples": [
+      {
+        "text": "目標に向かって邁進する所存です。",
+        "reading": "もくひょうにむかってまいしんするしょぞんです。",
+        "translation": "I intend to forge ahead toward the goal."
+      }
+    ]
+  },
+  {
+    "word": "威厳",
+    "reading": "いげん",
+    "meanings": ["dignity", "majesty", "authority"],
+    "pos": "noun",
+    "level": "n1",
+    "tags": ["formal", "positive"],
+    "examples": [
+      {
+        "text": "威厳のある態度で会議に臨んだ。",
+        "reading": "いげんのあるたいどでかいぎにのぞんだ。",
+        "translation": "He attended the meeting with a dignified attitude."
+      }
+    ]
+  },
+  {
+    "word": "翻弄",
+    "reading": "ほんろう",
+    "meanings": ["being tossed about", "being at the mercy of"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["literary", "emotion"],
+    "examples": [
+      {
+        "text": "運命に翻弄された人生だった。",
+        "reading": "うんめいにほんろうされたじんせいだった。",
+        "translation": "It was a life tossed about by fate."
+      }
+    ]
+  },
+  {
+    "word": "跋扈",
+    "reading": "ばっこ",
+    "meanings": ["rampancy", "running rampant", "being unchecked"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["literary", "negative"],
+    "examples": [
+      {
+        "text": "悪徳業者が跋扈している。",
+        "reading": "あくとくぎょうしゃがばっこしている。",
+        "translation": "Unscrupulous businesses are running rampant."
+      }
+    ]
+  },
+  {
+    "word": "破綻",
+    "reading": "はたん",
+    "meanings": ["breakdown", "collapse", "bankruptcy"],
+    "pos": "noun-suru",
+    "level": "n1",
+    "tags": ["formal", "economics"],
+    "examples": [
+      {
+        "text": "その会社は経営破綻に陥った。",
+        "reading": "そのかいしゃはけいえいはたんにおちいった。",
+        "translation": "That company fell into business collapse."
+      }
+    ]
+  },
+  {
+    "word": "露骨",
+    "reading": "ろこつ",
+    "meanings": ["blatant", "open", "undisguised"],
+    "pos": "adjective-na",
+    "level": "n1",
+    "tags": ["common", "negative"],
+    "examples": [
+      {
+        "text": "露骨な差別発言は許されない。",
+        "reading": "ろこつなさべつはつげんはゆるされない。",
+        "translation": "Blatant discriminatory remarks are unacceptable."
+      }
+    ]
+  },
+  {
+    "word": "辛辣",
+    "reading": "しんらつ",
+    "meanings": ["biting", "scathing", "harsh"],
+    "pos": "adjective-na",
+    "level": "n1",
+    "tags": ["literary", "negative"],
+    "examples": [
+      {
+        "text": "辛辣な批評に傷ついた。",
+        "reading": "しんらつなひひょうにきずついた。",
+        "translation": "I was hurt by the scathing critique."
+      }
+    ]
+  },
+  {
+    "word": "凛とした",
+    "reading": "りんとした",
+    "meanings": ["dignified", "imposing", "awe-inspiring"],
+    "pos": "expression",
+    "level": "n1",
+    "tags": ["literary", "positive"],
+    "examples": [
+      {
+        "text": "凛とした態度で困難に立ち向かった。",
+        "reading": "りんとしたたいどでこんなんにたちむかった。",
+        "translation": "She faced the difficulty with a dignified attitude."
+      }
+    ]
+  },
+  {
+    "word": "斬新",
+    "reading": "ざんしん",
+    "meanings": ["novel", "innovative", "original"],
+    "pos": "adjective-na",
+    "level": "n1",
+    "tags": ["positive", "art"],
+    "examples": [
+      {
+        "text": "斬新なアイデアが高く評価された。",
+        "reading": "ざんしんなあいであがたかくひょうかされた。",
+        "translation": "The novel idea was highly evaluated."
+      }
+    ]
+  }
+]

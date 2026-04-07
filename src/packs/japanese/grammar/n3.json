@@ -1,0 +1,1427 @@
+[
+  {
+    "id": "n3-ni-oite",
+    "title": "〜において",
+    "pattern": "Noun + において / における",
+    "meaning": "en / en el ámbito de",
+    "level": "n3",
+    "explanation": "Indica el lugar, tiempo o ámbito donde algo ocurre. Es más formal que la partícula で. La forma における se usa como modificador de un sustantivo.",
+    "examples": [
+      {
+        "sentence": "この分野において、日本は世界一です。",
+        "reading": "このぶんやにおいて、にほんはせかいいちです。",
+        "translation": "En este campo, Japón es el número uno del mundo.",
+        "breakdown": ["分野 = campo", "において = en", "世界一 = número uno del mundo"]
+      },
+      {
+        "sentence": "現代社会における問題について話し合う。",
+        "reading": "げんだいしゃかいにおけるもんだいについてはなしあう。",
+        "translation": "Discutir sobre los problemas en la sociedad moderna.",
+        "breakdown": ["現代社会 = sociedad moderna", "における = en (modificador)", "問題 = problemas"]
+      }
+    ],
+    "notes": "における es la forma atributiva que modifica sustantivos. においては añade contraste con は.",
+    "related": ["n3-ni-okeru"],
+    "tags": ["formal", "location", "scope"]
+  },
+  {
+    "id": "n3-ni-taishite",
+    "title": "〜に対して",
+    "pattern": "Noun + に対して / に対する",
+    "meaning": "hacia / contra / en contraste con",
+    "level": "n3",
+    "explanation": "Indica la dirección de una acción o sentimiento hacia alguien/algo. También se usa para expresar contraste entre dos elementos. に対する es la forma que modifica sustantivos.",
+    "examples": [
+      {
+        "sentence": "先生に対して失礼なことを言ってはいけない。",
+        "reading": "せんせいにたいしてしつれいなことをいってはいけない。",
+        "translation": "No se debe decir cosas irrespetuosas hacia el profesor.",
+        "breakdown": ["先生 = profesor", "に対して = hacia", "失礼な = irrespetuoso"]
+      },
+      {
+        "sentence": "兄は背が高いのに対して、弟は低い。",
+        "reading": "あにはせがたかいのにたいして、おとうとはひくい。",
+        "translation": "El hermano mayor es alto, mientras que el menor es bajo.",
+        "breakdown": ["兄 = hermano mayor", "に対して = en contraste con", "弟 = hermano menor"]
+      }
+    ],
+    "notes": "Cuando se usa para contraste, se puede sustituir por 一方. に対する modifica sustantivos directamente.",
+    "related": ["n3-ippou-de"],
+    "tags": ["direction", "contrast"]
+  },
+  {
+    "id": "n3-ni-totte",
+    "title": "〜にとって",
+    "pattern": "Noun + にとって",
+    "meaning": "para (alguien) / desde la perspectiva de",
+    "level": "n3",
+    "explanation": "Expresa el punto de vista o la perspectiva de alguien. Indica cómo algo es percibido o valorado por una persona o grupo específico.",
+    "examples": [
+      {
+        "sentence": "私にとって、家族が一番大切です。",
+        "reading": "わたしにとって、かぞくがいちばんたいせつです。",
+        "translation": "Para mí, la familia es lo más importante.",
+        "breakdown": ["私にとって = para mí", "家族 = familia", "一番大切 = lo más importante"]
+      },
+      {
+        "sentence": "子供にとって、遊びは学びだ。",
+        "reading": "こどもにとって、あそびはまなびだ。",
+        "translation": "Para los niños, el juego es aprendizaje.",
+        "breakdown": ["子供にとって = para los niños", "遊び = juego", "学び = aprendizaje"]
+      }
+    ],
+    "notes": "No se confunda con に対して (dirección de una acción). にとって expresa perspectiva subjetiva.",
+    "related": ["n3-ni-taishite"],
+    "tags": ["perspective", "evaluation"]
+  },
+  {
+    "id": "n3-toshite",
+    "title": "〜として",
+    "pattern": "Noun + として",
+    "meaning": "como / en calidad de",
+    "level": "n3",
+    "explanation": "Indica el rol, la función o la capacidad en la que alguien actúa o algo es considerado.",
+    "examples": [
+      {
+        "sentence": "彼は医者として働いている。",
+        "reading": "かれはいしゃとしてはたらいている。",
+        "translation": "Él trabaja como médico.",
+        "breakdown": ["彼 = él", "医者 = médico", "として = como", "働いている = está trabajando"]
+      },
+      {
+        "sentence": "日本は安全な国として知られている。",
+        "reading": "にほんはあんぜんなくにとしてしられている。",
+        "translation": "Japón es conocido como un país seguro.",
+        "breakdown": ["安全な国 = país seguro", "として = como", "知られている = es conocido"]
+      }
+    ],
+    "notes": "としては añade énfasis de contraste: '(considerando que es) un...'.",
+    "related": [],
+    "tags": ["role", "capacity"]
+  },
+  {
+    "id": "n3-ni-kanshite",
+    "title": "〜に関して",
+    "pattern": "Noun + に関して / に関する",
+    "meaning": "respecto a / en relación con",
+    "level": "n3",
+    "explanation": "Indica el tema o asunto sobre el cual se habla, se piensa o se actúa. Es más formal que について. に関する es la forma que modifica sustantivos.",
+    "examples": [
+      {
+        "sentence": "この件に関して、ご質問はありますか。",
+        "reading": "このけんにかんして、ごしつもんはありますか。",
+        "translation": "¿Tiene alguna pregunta respecto a este asunto?",
+        "breakdown": ["この件 = este asunto", "に関して = respecto a", "ご質問 = pregunta (formal)"]
+      },
+      {
+        "sentence": "環境に関する問題が増えている。",
+        "reading": "かんきょうにかんするもんだいがふえている。",
+        "translation": "Los problemas relacionados con el medio ambiente están aumentando.",
+        "breakdown": ["環境 = medio ambiente", "に関する = relacionado con", "問題 = problemas"]
+      }
+    ],
+    "notes": "に関しては es la forma con contraste. Sinónimos: について (menos formal), に関連して (relacionado con).",
+    "related": ["n3-ni-oite"],
+    "tags": ["formal", "topic"]
+  },
+  {
+    "id": "n3-bakari-de-naku",
+    "title": "〜ばかりでなく",
+    "pattern": "Noun/Verb/Adj + ばかりでなく + も",
+    "meaning": "no solo... sino también",
+    "level": "n3",
+    "explanation": "Expresa que algo no se limita a un aspecto, sino que incluye otro más. Se usa para añadir información. La segunda parte frecuentemente lleva も.",
+    "examples": [
+      {
+        "sentence": "彼は英語ばかりでなく、フランス語も話せる。",
+        "reading": "かれはえいごばかりでなく、フランスごもはなせる。",
+        "translation": "Él no solo habla inglés, sino también francés.",
+        "breakdown": ["英語 = inglés", "ばかりでなく = no solo", "フランス語も = francés también"]
+      },
+      {
+        "sentence": "この料理は見た目がいいばかりでなく、味もいい。",
+        "reading": "このりょうりはみためがいいばかりでなく、あじもいい。",
+        "translation": "Esta comida no solo se ve bien, sino que también sabe bien.",
+        "breakdown": ["見た目 = apariencia", "ばかりでなく = no solo", "味も = el sabor también"]
+      }
+    ],
+    "notes": "Variaciones: ばかりか, のみならず (más formal). だけでなく es la forma más coloquial.",
+    "related": ["n3-dake-de-naku"],
+    "tags": ["addition", "emphasis"]
+  },
+  {
+    "id": "n3-wake-ni-wa-ikanai",
+    "title": "〜わけにはいかない",
+    "pattern": "Verb (diccionario) + わけにはいかない",
+    "meaning": "no puedo / no es posible (por razones morales o sociales)",
+    "level": "n3",
+    "explanation": "Expresa que, aunque quizás se desee hacer algo, no se puede por razones sociales, morales o de circunstancia. Implica que hay un impedimento externo o de conciencia.",
+    "examples": [
+      {
+        "sentence": "約束したから、行かないわけにはいかない。",
+        "reading": "やくそくしたから、いかないわけにはいかない。",
+        "translation": "Como lo prometí, no puedo no ir.",
+        "breakdown": ["約束した = prometí", "行かない = no ir", "わけにはいかない = no puedo"]
+      },
+      {
+        "sentence": "まだ仕事があるから、帰るわけにはいかない。",
+        "reading": "まだしごとがあるから、かえるわけにはいかない。",
+        "translation": "Todavía tengo trabajo, así que no me puedo ir.",
+        "breakdown": ["まだ = todavía", "仕事がある = hay trabajo", "帰る = volver", "わけにはいかない = no puedo"]
+      }
+    ],
+    "notes": "Con la forma negativa ないわけにはいかない significa 'no puedo dejar de / tengo que'. Es diferente de できない (imposibilidad física).",
+    "related": ["n3-zaru-wo-enai", "n3-wake-ga-nai"],
+    "tags": ["obligation", "impossibility"]
+  },
+  {
+    "id": "n3-zaru-wo-enai",
+    "title": "〜ざるを得ない",
+    "pattern": "Verb (negativa sin ない) + ざるを得ない",
+    "meaning": "no tener más remedio que / verse obligado a",
+    "level": "n3",
+    "explanation": "Expresa que no hay otra opción más que hacer algo, aunque no se quiera. Es una expresión formal que indica obligación inevitable. する se convierte en せざるを得ない.",
+    "examples": [
+      {
+        "sentence": "電車が止まったので、タクシーに乗らざるを得なかった。",
+        "reading": "でんしゃがとまったので、タクシーにのらざるをえなかった。",
+        "translation": "Como el tren se detuvo, no tuve más remedio que tomar un taxi.",
+        "breakdown": ["電車が止まった = el tren se detuvo", "タクシーに乗る = tomar taxi", "ざるを得なかった = no tuve más remedio que"]
+      },
+      {
+        "sentence": "事実を認めざるを得ない。",
+        "reading": "じじつをみとめざるをえない。",
+        "translation": "No tengo más remedio que reconocer los hechos.",
+        "breakdown": ["事実 = hechos", "認める = reconocer", "ざるを得ない = no queda más que"]
+      }
+    ],
+    "notes": "Formación: Quitar ない de la forma negativa y añadir ざるを得ない. Excepción: する → せざるを得ない.",
+    "related": ["n3-wake-ni-wa-ikanai"],
+    "tags": ["obligation", "formal"]
+  },
+  {
+    "id": "n3-koto-ni-naru",
+    "title": "〜ことになる / ことにする",
+    "pattern": "Verb (diccionario/ない) + ことになる / ことにする",
+    "meaning": "se decide que / decidir",
+    "level": "n3",
+    "explanation": "ことになる indica una decisión tomada por otros o por circunstancias externas. ことにする indica una decisión tomada por uno mismo.",
+    "examples": [
+      {
+        "sentence": "来月、東京に転勤することになった。",
+        "reading": "らいげつ、とうきょうにてんきんすることになった。",
+        "translation": "Se decidió que me transfieran a Tokio el mes que viene.",
+        "breakdown": ["来月 = el mes que viene", "転勤する = ser transferido", "ことになった = se decidió que"]
+      },
+      {
+        "sentence": "毎日三十分運動することにした。",
+        "reading": "まいにちさんじゅっぷんうんどうすることにした。",
+        "translation": "Decidí hacer ejercicio treinta minutos todos los días.",
+        "breakdown": ["毎日 = todos los días", "三十分 = treinta minutos", "運動する = hacer ejercicio", "ことにした = decidí"]
+      }
+    ],
+    "notes": "ことになっている expresa una regla o costumbre establecida. ことにしている expresa un hábito personal.",
+    "related": [],
+    "tags": ["decision", "result"]
+  },
+  {
+    "id": "n3-ni-chigai-nai",
+    "title": "〜にちがいない",
+    "pattern": "Verb/Adj/Noun + にちがいない",
+    "meaning": "sin duda / seguramente / debe de ser",
+    "level": "n3",
+    "explanation": "Expresa una fuerte convicción o certeza del hablante sobre algo. Equivale a 'estoy seguro de que...'.",
+    "examples": [
+      {
+        "sentence": "彼女はきっと成功するにちがいない。",
+        "reading": "かのじょはきっとせいこうするにちがいない。",
+        "translation": "Sin duda ella tendrá éxito.",
+        "breakdown": ["彼女 = ella", "きっと = seguramente", "成功する = tener éxito", "にちがいない = sin duda"]
+      },
+      {
+        "sentence": "あの音は猫にちがいない。",
+        "reading": "あのおとはねこにちがいない。",
+        "translation": "Ese sonido debe ser un gato.",
+        "breakdown": ["あの音 = ese sonido", "猫 = gato", "にちがいない = debe de ser"]
+      }
+    ],
+    "notes": "Más fuerte en certeza que だろう o かもしれない. Se usa para expresar la convicción personal del hablante.",
+    "related": ["n3-hazu-ga-nai", "n3-wake-ga-nai"],
+    "tags": ["certainty", "conjecture"]
+  },
+  {
+    "id": "n3-hazu-ga-nai",
+    "title": "〜はずがない",
+    "pattern": "Verb/Adj/Noun + はずがない",
+    "meaning": "es imposible que / no puede ser que",
+    "level": "n3",
+    "explanation": "Expresa la fuerte convicción del hablante de que algo es imposible o no tiene sentido que sea así, basándose en lógica o conocimiento previo.",
+    "examples": [
+      {
+        "sentence": "彼がそんなことを言うはずがない。",
+        "reading": "かれがそんなことをいうはずがない。",
+        "translation": "Es imposible que él diga algo así.",
+        "breakdown": ["彼が = él", "そんなこと = algo así", "言う = decir", "はずがない = es imposible que"]
+      },
+      {
+        "sentence": "あんなに勉強したのに、落ちるはずがない。",
+        "reading": "あんなにべんきょうしたのに、おちるはずがない。",
+        "translation": "Habiendo estudiado tanto, es imposible que repruebe.",
+        "breakdown": ["あんなに = tanto", "勉強した = estudié", "落ちる = reprobar", "はずがない = es imposible que"]
+      }
+    ],
+    "notes": "Contraste: はずだ expresa expectativa ('debería ser'). はずがない la niega rotundamente.",
+    "related": ["n3-ni-chigai-nai", "n3-wake-ga-nai"],
+    "tags": ["certainty", "negation"]
+  },
+  {
+    "id": "n3-wake-ga-nai",
+    "title": "〜わけがない",
+    "pattern": "Verb/Adj + わけがない",
+    "meaning": "es imposible que / no hay manera de que",
+    "level": "n3",
+    "explanation": "Similar a はずがない pero más coloquial y enfático. Expresa que algo es absolutamente imposible según el juicio del hablante.",
+    "examples": [
+      {
+        "sentence": "一日で日本語が上手になるわけがない。",
+        "reading": "いちにちでにほんごがじょうずになるわけがない。",
+        "translation": "Es imposible que mejores en japonés en un día.",
+        "breakdown": ["一日で = en un día", "日本語が上手になる = mejorar en japonés", "わけがない = es imposible"]
+      },
+      {
+        "sentence": "そんな安い値段で買えるわけがない。",
+        "reading": "そんなやすいねだんでかえるわけがない。",
+        "translation": "No hay manera de que lo compres a un precio tan barato.",
+        "breakdown": ["安い値段 = precio barato", "買える = poder comprar", "わけがない = no hay manera"]
+      }
+    ],
+    "notes": "Más informal que はずがない. A veces se escucha como わけない en el habla casual.",
+    "related": ["n3-hazu-ga-nai", "n3-ni-chigai-nai"],
+    "tags": ["impossibility", "emphasis"]
+  },
+  {
+    "id": "n3-ippou-de",
+    "title": "〜一方（で）",
+    "pattern": "Verb (diccionario) / Noun + の + 一方で",
+    "meaning": "por un lado... por otro / mientras que",
+    "level": "n3",
+    "explanation": "Presenta dos situaciones contrastantes o dos aspectos diferentes de algo. Se usa para mostrar que dos cosas coexisten simultáneamente.",
+    "examples": [
+      {
+        "sentence": "都市の人口が増える一方で、地方は減っている。",
+        "reading": "としのじんこうがふえるいっぽうで、ちほうはへっている。",
+        "translation": "Mientras la población urbana aumenta, la rural está disminuyendo.",
+        "breakdown": ["都市 = ciudad", "増える = aumentar", "一方で = mientras que", "地方 = zonas rurales", "減っている = está disminuyendo"]
+      },
+      {
+        "sentence": "この薬は効果がある一方で、副作用もある。",
+        "reading": "このくすりはこうかがあるいっぽうで、ふくさようもある。",
+        "translation": "Este medicamento es efectivo, pero por otro lado tiene efectos secundarios.",
+        "breakdown": ["薬 = medicamento", "効果がある = es efectivo", "一方で = por otro lado", "副作用 = efectos secundarios"]
+      }
+    ],
+    "notes": "一方 solo (sin で) al inicio de una oración funciona como 'por otro lado'. Verb+一方だ significa 'solo sigue (verbo)-ando'.",
+    "related": ["n3-ni-taishite", "n3-hanmen"],
+    "tags": ["contrast", "simultaneous"]
+  },
+  {
+    "id": "n3-hanmen",
+    "title": "〜反面",
+    "pattern": "Verb/Adj + 反面",
+    "meaning": "por otro lado / al mismo tiempo (aspecto opuesto)",
+    "level": "n3",
+    "explanation": "Presenta el lado opuesto o negativo de algo que tiene un aspecto positivo, o viceversa. Enfatiza que algo tiene dos caras.",
+    "examples": [
+      {
+        "sentence": "彼は優しい反面、厳しいところもある。",
+        "reading": "かれはやさしいはんめん、きびしいところもある。",
+        "translation": "Él es amable, pero por otro lado también tiene un lado estricto.",
+        "breakdown": ["優しい = amable", "反面 = por otro lado", "厳しい = estricto", "ところ = aspecto"]
+      },
+      {
+        "sentence": "この仕事は給料がいい反面、残業が多い。",
+        "reading": "このしごとはきゅうりょうがいいはんめん、ざんぎょうがおおい。",
+        "translation": "Este trabajo paga bien, pero por otro lado hay muchas horas extra.",
+        "breakdown": ["給料がいい = paga bien", "反面 = por otro lado", "残業 = horas extra", "多い = muchas"]
+      }
+    ],
+    "notes": "Muy similar a 一方で, pero 反面 enfatiza más la contradicción entre los dos aspectos.",
+    "related": ["n3-ippou-de"],
+    "tags": ["contrast"]
+  },
+  {
+    "id": "n3-muke-ni",
+    "title": "〜向けに / 向けの",
+    "pattern": "Noun + 向けに / 向けの",
+    "meaning": "dirigido a / para (un público específico)",
+    "level": "n3",
+    "explanation": "Indica que algo está diseñado, creado o destinado a un grupo o público específico.",
+    "examples": [
+      {
+        "sentence": "この本は子供向けに書かれた。",
+        "reading": "このほんはこどもむけにかかれた。",
+        "translation": "Este libro fue escrito para niños.",
+        "breakdown": ["この本 = este libro", "子供向けに = dirigido a niños", "書かれた = fue escrito"]
+      },
+      {
+        "sentence": "外国人向けの日本語教材を探している。",
+        "reading": "がいこくじんむけのにほんごきょうざいをさがしている。",
+        "translation": "Estoy buscando material de japonés dirigido a extranjeros.",
+        "breakdown": ["外国人向けの = para extranjeros", "日本語教材 = material de japonés", "探している = estoy buscando"]
+      }
+    ],
+    "notes": "向け indica 'destinado a'. No confundir con 向き (adecuado para / que da hacia).",
+    "related": [],
+    "tags": ["target", "audience"]
+  },
+  {
+    "id": "n3-ni-motozuite",
+    "title": "〜に基づいて",
+    "pattern": "Noun + に基づいて / に基づく / に基づいた",
+    "meaning": "basándose en / sobre la base de",
+    "level": "n3",
+    "explanation": "Indica que algo se realiza usando cierta información, regla o principio como base o fundamento.",
+    "examples": [
+      {
+        "sentence": "データに基づいて判断する。",
+        "reading": "データにもとづいてはんだんする。",
+        "translation": "Juzgar basándose en los datos.",
+        "breakdown": ["データ = datos", "に基づいて = basándose en", "判断する = juzgar"]
+      },
+      {
+        "sentence": "法律に基づいた対応をとる。",
+        "reading": "ほうりつにもとづいたたいおうをとる。",
+        "translation": "Tomar medidas basadas en la ley.",
+        "breakdown": ["法律 = ley", "に基づいた = basado en", "対応 = medidas"]
+      }
+    ],
+    "notes": "に基づく es la forma que modifica sustantivos directamente. Sinónimo formal: を踏まえて.",
+    "related": [],
+    "tags": ["formal", "basis"]
+  },
+  {
+    "id": "n3-ni-shitagatte",
+    "title": "〜に従って",
+    "pattern": "Noun + に従って / Verb (diccionario) + に従って",
+    "meaning": "siguiendo / conforme a / a medida que",
+    "level": "n3",
+    "explanation": "Tiene dos usos: 1) Seguir reglas, instrucciones o a alguien. 2) Expresar que algo cambia proporcionalmente a otra cosa.",
+    "examples": [
+      {
+        "sentence": "説明書に従って組み立ててください。",
+        "reading": "せつめいしょにしたがってくみたててください。",
+        "translation": "Por favor, ensamble siguiendo el manual.",
+        "breakdown": ["説明書 = manual", "に従って = siguiendo", "組み立てる = ensamblar"]
+      },
+      {
+        "sentence": "年齢が上がるに従って、体力は落ちる。",
+        "reading": "ねんれいがあがるにしたがって、たいりょくはおちる。",
+        "translation": "A medida que aumenta la edad, la fuerza física disminuye.",
+        "breakdown": ["年齢が上がる = la edad aumenta", "に従って = a medida que", "体力 = fuerza física", "落ちる = disminuir"]
+      }
+    ],
+    "notes": "El segundo uso (proporcional) es similar a につれて. に従い es la forma más formal.",
+    "related": ["n3-ni-tsurete"],
+    "tags": ["following", "proportional"]
+  },
+  {
+    "id": "n3-ni-tsurete",
+    "title": "〜につれて",
+    "pattern": "Verb (diccionario) / Noun + につれて",
+    "meaning": "a medida que / conforme",
+    "level": "n3",
+    "explanation": "Expresa que cuando algo cambia gradualmente, otra cosa cambia también de manera proporcional.",
+    "examples": [
+      {
+        "sentence": "時間が経つにつれて、痛みが和らいだ。",
+        "reading": "じかんがたつにつれて、いたみがやわらいだ。",
+        "translation": "A medida que pasó el tiempo, el dolor se alivió.",
+        "breakdown": ["時間が経つ = pasa el tiempo", "につれて = a medida que", "痛み = dolor", "和らいだ = se alivió"]
+      },
+      {
+        "sentence": "技術の発展につれて、生活が便利になった。",
+        "reading": "ぎじゅつのはってんにつれて、せいかつがべんりになった。",
+        "translation": "Conforme avanzó la tecnología, la vida se volvió más cómoda.",
+        "breakdown": ["技術の発展 = avance tecnológico", "につれて = conforme", "生活 = vida", "便利になった = se volvió cómoda"]
+      }
+    ],
+    "notes": "Muy similar a に従って en su uso proporcional. につれ es la forma más corta.",
+    "related": ["n3-ni-shitagatte"],
+    "tags": ["proportional", "change"]
+  },
+  {
+    "id": "n3-kawari-ni",
+    "title": "〜かわりに",
+    "pattern": "Verb/Adj/Noun + かわりに",
+    "meaning": "en vez de / a cambio de / en lugar de",
+    "level": "n3",
+    "explanation": "Tiene dos usos principales: 1) Sustitución — algo reemplaza a otra cosa. 2) Compensación — algo bueno compensa algo malo, o viceversa.",
+    "examples": [
+      {
+        "sentence": "バスのかわりに、自転車で行った。",
+        "reading": "バスのかわりに、じてんしゃでいった。",
+        "translation": "Fui en bicicleta en vez de en autobús.",
+        "breakdown": ["バスの = del autobús", "かわりに = en vez de", "自転車で = en bicicleta"]
+      },
+      {
+        "sentence": "料理を作ってくれるかわりに、掃除は私がする。",
+        "reading": "りょうりをつくってくれるかわりに、そうじはわたしがする。",
+        "translation": "A cambio de que cocines, yo haré la limpieza.",
+        "breakdown": ["料理を作ってくれる = cocinar (por mí)", "かわりに = a cambio de", "掃除 = limpieza"]
+      }
+    ],
+    "notes": "代わりに también se puede escribir en kanji. Con sustantivos se usa の entre el sustantivo y かわりに.",
+    "related": [],
+    "tags": ["substitution", "compensation"]
+  },
+  {
+    "id": "n3-ppanashi",
+    "title": "〜っぱなし",
+    "pattern": "Verb (連用形 / masu stem) + っぱなし",
+    "meaning": "dejar (algo) hecho / seguir en un estado",
+    "level": "n3",
+    "explanation": "Indica que algo se deja en un estado sin corregirlo o que una acción continúa sin parar. Generalmente tiene una connotación negativa (descuido o exceso).",
+    "examples": [
+      {
+        "sentence": "電気をつけっぱなしにしないでください。",
+        "reading": "でんきをつけっぱなしにしないでください。",
+        "translation": "Por favor, no dejes la luz encendida.",
+        "breakdown": ["電気 = luz", "つけっぱなし = dejada encendida", "しないで = no hagas"]
+      },
+      {
+        "sentence": "三時間も立ちっぱなしで疲れた。",
+        "reading": "さんじかんもたちっぱなしでつかれた。",
+        "translation": "Me cansé de estar de pie tres horas seguidas.",
+        "breakdown": ["三時間 = tres horas", "立ちっぱなし = estar de pie sin parar", "疲れた = me cansé"]
+      }
+    ],
+    "notes": "Se forma con la raíz masu del verbo + っぱなし. Ej: 開ける → 開けっぱなし, 出す → 出しっぱなし.",
+    "related": [],
+    "tags": ["continuation", "negative-nuance"]
+  },
+  {
+    "id": "n3-ue-de",
+    "title": "〜上で",
+    "pattern": "Verb (た形/diccionario) + 上で / Noun + の上で",
+    "meaning": "después de / al momento de / en cuanto a",
+    "level": "n3",
+    "explanation": "Con verbo en た形: indica que se hace algo después de completar otra acción. Con verbo en forma de diccionario o sustantivo: indica 'en cuanto a' o 'al momento de'.",
+    "examples": [
+      {
+        "sentence": "よく考えた上で、決めてください。",
+        "reading": "よくかんがえたうえで、きめてください。",
+        "translation": "Por favor, decida después de pensarlo bien.",
+        "breakdown": ["よく考えた = pensé bien", "上で = después de", "決めてください = por favor decida"]
+      },
+      {
+        "sentence": "契約する上で、注意すべき点がある。",
+        "reading": "けいやくするうえで、ちゅういすべきてんがある。",
+        "translation": "Al firmar un contrato, hay puntos a tener en cuenta.",
+        "breakdown": ["契約する = firmar contrato", "上で = al momento de", "注意すべき = que se debe tener en cuenta"]
+      }
+    ],
+    "notes": "た形 + 上で = 'después de hacer'. 辞書形/名詞 + 上で = 'al hacer / en cuanto a'.",
+    "related": [],
+    "tags": ["sequence", "condition"]
+  },
+  {
+    "id": "n3-ni-kakete",
+    "title": "〜にかけて",
+    "pattern": "Noun + から + Noun + にかけて",
+    "meaning": "desde... hasta (período/zona continua)",
+    "level": "n3",
+    "explanation": "Indica un rango continuo de tiempo o espacio, desde un punto hasta otro. Implica que algo ocurre o se extiende a lo largo de ese rango.",
+    "examples": [
+      {
+        "sentence": "三月から五月にかけて、桜が咲く。",
+        "reading": "さんがつからごがつにかけて、さくらがさく。",
+        "translation": "Desde marzo hasta mayo florecen los cerezos.",
+        "breakdown": ["三月 = marzo", "から = desde", "五月 = mayo", "にかけて = hasta", "桜が咲く = florecen los cerezos"]
+      },
+      {
+        "sentence": "関東から東北にかけて大雨が降った。",
+        "reading": "かんとうからとうほくにかけておおあめがふった。",
+        "translation": "Llovió fuerte desde Kanto hasta Tohoku.",
+        "breakdown": ["関東 = Kanto", "東北 = Tohoku", "にかけて = hasta", "大雨 = lluvia fuerte"]
+      }
+    ],
+    "notes": "A diferencia de から〜まで (que marca los extremos exactos), にかけて implica un rango difuso.",
+    "related": ["n3-ni-watatte"],
+    "tags": ["range", "time", "space"]
+  },
+  {
+    "id": "n3-ni-watatte",
+    "title": "〜にわたって",
+    "pattern": "Noun + にわたって / にわたる",
+    "meaning": "a lo largo de / durante / abarcando",
+    "level": "n3",
+    "explanation": "Indica que algo se extiende a lo largo de un período de tiempo, un área o una cantidad. Enfatiza la amplitud o extensión.",
+    "examples": [
+      {
+        "sentence": "三年にわたって研究を続けた。",
+        "reading": "さんねんにわたってけんきゅうをつづけた。",
+        "translation": "Continué la investigación a lo largo de tres años.",
+        "breakdown": ["三年 = tres años", "にわたって = a lo largo de", "研究 = investigación", "続けた = continué"]
+      },
+      {
+        "sentence": "広い範囲にわたる被害が出た。",
+        "reading": "ひろいはんいにわたるひがいがでた。",
+        "translation": "Se produjeron daños que abarcaron una amplia zona.",
+        "breakdown": ["広い範囲 = amplia zona", "にわたる = que abarca", "被害 = daños"]
+      }
+    ],
+    "notes": "にわたる modifica sustantivos directamente. Enfatiza la extensión más que にかけて.",
+    "related": ["n3-ni-kakete"],
+    "tags": ["duration", "extent"]
+  },
+  {
+    "id": "n3-mono-da",
+    "title": "〜ものだ",
+    "pattern": "Verb/Adj + ものだ",
+    "meaning": "así es como / es natural que / solía",
+    "level": "n3",
+    "explanation": "Tiene tres usos: 1) Expresar una verdad general o algo que es natural. 2) Emoción o nostalgia (pasado). 3) Consejo o reproche suave.",
+    "examples": [
+      {
+        "sentence": "人は誰でも間違えるものだ。",
+        "reading": "ひとはだれでもまちがえるものだ。",
+        "translation": "Es natural que cualquier persona se equivoque.",
+        "breakdown": ["人は = las personas", "誰でも = cualquiera", "間違える = equivocarse", "ものだ = es natural"]
+      },
+      {
+        "sentence": "子供の頃はよくこの公園で遊んだものだ。",
+        "reading": "こどものころはよくこのこうえんであそんだものだ。",
+        "translation": "Cuando era niño, solía jugar mucho en este parque.",
+        "breakdown": ["子供の頃 = cuando era niño", "よく = frecuentemente", "遊んだ = jugué", "ものだ = solía"]
+      }
+    ],
+    "notes": "Con pasado + ものだ = nostalgia. Con presente + ものだ = verdad general o consejo.",
+    "related": ["n3-mono-no"],
+    "tags": ["general-truth", "nostalgia", "advice"]
+  },
+  {
+    "id": "n3-mono-no",
+    "title": "〜ものの",
+    "pattern": "Verb/Adj + ものの",
+    "meaning": "aunque / a pesar de que",
+    "level": "n3",
+    "explanation": "Expresa concesión. Reconoce un hecho pero presenta un resultado que va en contra de lo que se esperaría. Es más formal que けど.",
+    "examples": [
+      {
+        "sentence": "買ったものの、一度も使っていない。",
+        "reading": "かったものの、いちどもつかっていない。",
+        "translation": "Aunque lo compré, no lo he usado ni una vez.",
+        "breakdown": ["買った = compré", "ものの = aunque", "一度も = ni una vez", "使っていない = no he usado"]
+      },
+      {
+        "sentence": "理解はしたものの、納得はできない。",
+        "reading": "りかいはしたものの、なっとくはできない。",
+        "translation": "Aunque lo entendí, no puedo aceptarlo.",
+        "breakdown": ["理解はした = entendí", "ものの = aunque", "納得はできない = no puedo aceptar"]
+      }
+    ],
+    "notes": "Similar a が o けど pero más formal y literario. Se usa frecuentemente en escritura.",
+    "related": ["n3-mono-da"],
+    "tags": ["concession", "formal"]
+  },
+  {
+    "id": "n3-kara-to-itte",
+    "title": "〜からといって",
+    "pattern": "Verb/Adj/Noun だ + からといって",
+    "meaning": "solo porque / no es razón para",
+    "level": "n3",
+    "explanation": "Se usa para argumentar que una razón dada no es suficiente para justificar algo. Frecuentemente seguido de una oración negativa o de advertencia.",
+    "examples": [
+      {
+        "sentence": "安いからといって、買いすぎてはいけない。",
+        "reading": "やすいからといって、かいすぎてはいけない。",
+        "translation": "Solo porque es barato, no debes comprar demasiado.",
+        "breakdown": ["安い = barato", "からといって = solo porque", "買いすぎ = comprar demasiado", "いけない = no debes"]
+      },
+      {
+        "sentence": "日本語が話せるからといって、翻訳ができるわけではない。",
+        "reading": "にほんごがはなせるからといって、ほんやくができるわけではない。",
+        "translation": "Solo porque puedas hablar japonés no significa que puedas traducir.",
+        "breakdown": ["話せる = poder hablar", "からといって = solo porque", "翻訳 = traducción", "わけではない = no significa que"]
+      }
+    ],
+    "notes": "Frecuentemente combinado con わけではない o とは限らない.",
+    "related": [],
+    "tags": ["reasoning", "counter-argument"]
+  },
+  {
+    "id": "n3-sae-ba",
+    "title": "〜さえ〜ば",
+    "pattern": "Noun + さえ + Verb (条件形) / Verb (masu stem) + さえすれば",
+    "meaning": "con solo / basta con que",
+    "level": "n3",
+    "explanation": "Expresa que una sola condición es suficiente para un resultado. Enfatiza que lo único necesario es esa condición mínima.",
+    "examples": [
+      {
+        "sentence": "薬さえ飲めば、すぐ治る。",
+        "reading": "くすりさえのめば、すぐなおる。",
+        "translation": "Con solo tomar la medicina, te curarás rápido.",
+        "breakdown": ["薬 = medicina", "さえ = con solo", "飲めば = si tomas", "治る = curarse"]
+      },
+      {
+        "sentence": "努力さえすれば、誰でもできる。",
+        "reading": "どりょくさえすれば、だれでもできる。",
+        "translation": "Basta con esforzarse y cualquiera puede lograrlo.",
+        "breakdown": ["努力 = esfuerzo", "さえすれば = basta con", "誰でも = cualquiera", "できる = poder"]
+      }
+    ],
+    "notes": "さえ por sí solo significa 'incluso'. Con ば forma la estructura condicional mínima.",
+    "related": [],
+    "tags": ["condition", "minimum"]
+  },
+  {
+    "id": "n3-tsuide-ni",
+    "title": "〜ついでに",
+    "pattern": "Verb (た形/辞書形) + ついでに / Noun + の + ついでに",
+    "meaning": "aprovechando que / de paso",
+    "level": "n3",
+    "explanation": "Indica que se aprovecha una acción o situación para hacer algo adicional. La acción principal ya estaba planeada; la segunda se agrega por conveniencia.",
+    "examples": [
+      {
+        "sentence": "買い物に行ったついでに、本屋にも寄った。",
+        "reading": "かいものにいったついでに、ほんやにもよった。",
+        "translation": "Aprovechando que fui de compras, pasé también por la librería.",
+        "breakdown": ["買い物に行った = fui de compras", "ついでに = de paso", "本屋 = librería", "寄った = pasé por"]
+      },
+      {
+        "sentence": "散歩のついでに、郵便局で手紙を出した。",
+        "reading": "さんぽのついでに、ゆうびんきょくでてがみをだした。",
+        "translation": "De paso durante mi paseo, envié una carta en la oficina de correos.",
+        "breakdown": ["散歩 = paseo", "ついでに = de paso", "郵便局 = correo", "手紙を出した = envié una carta"]
+      }
+    ],
+    "notes": "La acción principal va antes de ついでに. La acción secundaria es la que se agrega por conveniencia.",
+    "related": [],
+    "tags": ["opportunity", "additional-action"]
+  },
+  {
+    "id": "n3-kuse-ni",
+    "title": "〜くせに",
+    "pattern": "Verb/Adj/Noun + くせに",
+    "meaning": "a pesar de que / aunque (con reproche)",
+    "level": "n3",
+    "explanation": "Similar a のに pero con una fuerte connotación de reproche, crítica o desprecio. Se usa cuando el hablante siente que algo es inaceptable o contradictorio.",
+    "examples": [
+      {
+        "sentence": "知らないくせに、知ったふりをする。",
+        "reading": "しらないくせに、しったふりをする。",
+        "translation": "Aunque no sabe, finge que sí.",
+        "breakdown": ["知らない = no saber", "くせに = aunque (reproche)", "知ったふり = fingir saber"]
+      },
+      {
+        "sentence": "自分で作ったくせに、文句を言っている。",
+        "reading": "じぶんでつくったくせに、もんくをいっている。",
+        "translation": "Aunque lo hizo él mismo, se está quejando.",
+        "breakdown": ["自分で作った = lo hizo él mismo", "くせに = a pesar de que", "文句を言う = quejarse"]
+      }
+    ],
+    "notes": "Tiene connotación negativa. No usar en contextos formales ni con personas de rango superior.",
+    "related": [],
+    "tags": ["reproach", "contradiction", "informal"]
+  },
+  {
+    "id": "n3-darake",
+    "title": "〜だらけ",
+    "pattern": "Noun + だらけ",
+    "meaning": "lleno de / cubierto de (negativo)",
+    "level": "n3",
+    "explanation": "Indica que algo está lleno de o cubierto de algo, generalmente con connotación negativa (suciedad, errores, problemas, etc.).",
+    "examples": [
+      {
+        "sentence": "この作文は間違いだらけだ。",
+        "reading": "このさくぶんはまちがいだらけだ。",
+        "translation": "Esta redacción está llena de errores.",
+        "breakdown": ["作文 = redacción", "間違い = errores", "だらけ = lleno de"]
+      },
+      {
+        "sentence": "泥だらけの服を洗った。",
+        "reading": "どろだらけのふくをあらった。",
+        "translation": "Lavé la ropa cubierta de barro.",
+        "breakdown": ["泥 = barro", "だらけの = cubierto de", "服 = ropa", "洗った = lavé"]
+      }
+    ],
+    "notes": "Casi siempre tiene connotación negativa. Para cosas positivas, se usa いっぱい o に満ちている.",
+    "related": [],
+    "tags": ["abundance", "negative-nuance"]
+  },
+  {
+    "id": "n3-okage-de",
+    "title": "〜おかげで",
+    "pattern": "Verb/Adj/Noun + おかげで",
+    "meaning": "gracias a",
+    "level": "n3",
+    "explanation": "Expresa que un resultado positivo se debe a cierta causa o persona. Indica gratitud o reconocimiento hacia la causa.",
+    "examples": [
+      {
+        "sentence": "先生のおかげで、日本語が上手になった。",
+        "reading": "せんせいのおかげで、にほんごがじょうずになった。",
+        "translation": "Gracias al profesor, mejoré en japonés.",
+        "breakdown": ["先生の = del profesor", "おかげで = gracias a", "上手になった = mejoré"]
+      },
+      {
+        "sentence": "毎日練習したおかげで、試験に合格できた。",
+        "reading": "まいにちれんしゅうしたおかげで、しけんにごうかくできた。",
+        "translation": "Gracias a que practiqué todos los días, pude aprobar el examen.",
+        "breakdown": ["毎日練習した = practiqué todos los días", "おかげで = gracias a", "合格できた = pude aprobar"]
+      }
+    ],
+    "notes": "おかげで es para resultados positivos. Para resultados negativos con ironía, se dice おかげで con tono irónico.",
+    "related": ["n3-sei-de"],
+    "tags": ["cause", "positive"]
+  },
+  {
+    "id": "n3-sei-de",
+    "title": "〜せいで",
+    "pattern": "Verb/Adj/Noun + せいで",
+    "meaning": "por culpa de / debido a (negativo)",
+    "level": "n3",
+    "explanation": "Expresa que un resultado negativo se debe a cierta causa. Implica culpa o responsabilidad por algo malo.",
+    "examples": [
+      {
+        "sentence": "雨のせいで、試合が中止になった。",
+        "reading": "あめのせいで、しあいがちゅうしになった。",
+        "translation": "Por culpa de la lluvia, el partido se canceló.",
+        "breakdown": ["雨の = de la lluvia", "せいで = por culpa de", "試合 = partido", "中止 = cancelación"]
+      },
+      {
+        "sentence": "寝坊したせいで、遅刻した。",
+        "reading": "ねぼうしたせいで、ちこくした。",
+        "translation": "Por haberme quedado dormido, llegué tarde.",
+        "breakdown": ["寝坊した = me quedé dormido", "せいで = por culpa de", "遅刻した = llegué tarde"]
+      }
+    ],
+    "notes": "せいで siempre es negativo. Para positivo, usar おかげで. せいか indica incertidumbre: 'quizás por...'.",
+    "related": ["n3-okage-de"],
+    "tags": ["cause", "negative", "blame"]
+  },
+  {
+    "id": "n3-toori",
+    "title": "〜とおり（に）",
+    "pattern": "Verb (た形/辞書形) + とおり(に) / Noun + の + とおり(に)",
+    "meaning": "tal como / de la misma manera que",
+    "level": "n3",
+    "explanation": "Indica que algo se hace exactamente como otra cosa. Muestra que una acción sigue un modelo, instrucción o ejemplo previo.",
+    "examples": [
+      {
+        "sentence": "先生が言ったとおりにやってみた。",
+        "reading": "せんせいがいったとおりにやってみた。",
+        "translation": "Lo intenté tal como dijo el profesor.",
+        "breakdown": ["先生が言った = el profesor dijo", "とおりに = tal como", "やってみた = lo intenté"]
+      },
+      {
+        "sentence": "予想どおり、彼は遅刻した。",
+        "reading": "よそうどおり、かれはちこくした。",
+        "translation": "Tal como se esperaba, él llegó tarde.",
+        "breakdown": ["予想 = expectativa", "どおり = tal como", "遅刻した = llegó tarde"]
+      }
+    ],
+    "notes": "どおり (sin の) se usa cuando se combina directamente con un sustantivo: 予想どおり, 計画どおり.",
+    "related": [],
+    "tags": ["manner", "conformity"]
+  },
+  {
+    "id": "n3-saichuu-ni",
+    "title": "〜最中に",
+    "pattern": "Verb (ている) + 最中に / Noun + の + 最中に",
+    "meaning": "en pleno / justo en medio de",
+    "level": "n3",
+    "explanation": "Indica que algo ocurre justo en el momento en que se está haciendo otra cosa. Frecuentemente implica una interrupción inesperada.",
+    "examples": [
+      {
+        "sentence": "食事の最中に電話が鳴った。",
+        "reading": "しょくじのさいちゅうにでんわがなった。",
+        "translation": "Justo en medio de la comida sonó el teléfono.",
+        "breakdown": ["食事 = comida", "最中に = en pleno", "電話が鳴った = sonó el teléfono"]
+      },
+      {
+        "sentence": "寝ている最中に地震が起きた。",
+        "reading": "ねているさいちゅうにじしんがおきた。",
+        "translation": "Hubo un terremoto justo cuando estaba durmiendo.",
+        "breakdown": ["寝ている = durmiendo", "最中に = en pleno", "地震 = terremoto", "起きた = ocurrió"]
+      }
+    ],
+    "notes": "Implica que la interrupción fue inesperada o inconveniente. Similar a ところに pero más enfático.",
+    "related": ["n3-tokoro"],
+    "tags": ["timing", "interruption"]
+  },
+  {
+    "id": "n3-tokoro",
+    "title": "〜ところ",
+    "pattern": "Verb (辞書/ている/た) + ところ",
+    "meaning": "justo cuando (antes/durante/después)",
+    "level": "n3",
+    "explanation": "Expresa un punto preciso en el tiempo relativo a una acción. La forma del verbo determina si es antes, durante o después: 辞書形 = a punto de, ている = en medio de, た形 = justo después de.",
+    "examples": [
+      {
+        "sentence": "今から出かけるところです。",
+        "reading": "いまからでかけるところです。",
+        "translation": "Estoy a punto de salir.",
+        "breakdown": ["今から = a partir de ahora", "出かける = salir", "ところ = a punto de"]
+      },
+      {
+        "sentence": "ちょうど食べたところです。",
+        "reading": "ちょうどたべたところです。",
+        "translation": "Justo acabo de comer.",
+        "breakdown": ["ちょうど = justo", "食べた = comí", "ところ = acabar de"]
+      }
+    ],
+    "notes": "辞書形ところ = a punto de hacer. ているところ = haciendo ahora mismo. た形ところ = acaba de hacer.",
+    "related": ["n3-saichuu-ni"],
+    "tags": ["timing", "aspect"]
+  },
+  {
+    "id": "n3-bakari",
+    "title": "〜ばかり",
+    "pattern": "Verb (た形) + ばかり / Verb (て形) + ばかりいる",
+    "meaning": "acaba de / solo / no hace más que",
+    "level": "n3",
+    "explanation": "Tiene varios usos: 1) た形+ばかり = acaba de hacer. 2) て形+ばかりいる = no hace más que (reproche). 3) Noun+ばかり = solo, nada más que.",
+    "examples": [
+      {
+        "sentence": "日本に来たばかりで、まだ何も分からない。",
+        "reading": "にほんにきたばかりで、まだなにもわからない。",
+        "translation": "Acabo de llegar a Japón y todavía no entiendo nada.",
+        "breakdown": ["日本に来た = vine a Japón", "ばかりで = acabo de", "まだ = todavía", "分からない = no entiendo"]
+      },
+      {
+        "sentence": "彼はゲームをしてばかりいる。",
+        "reading": "かれはゲームをしてばかりいる。",
+        "translation": "Él no hace más que jugar videojuegos.",
+        "breakdown": ["ゲームをして = jugar videojuegos", "ばかりいる = no hace más que"]
+      }
+    ],
+    "notes": "たばかり = acción reciente. てばかりいる = exceso (negativo). ばかり con cantidad = aproximadamente.",
+    "related": [],
+    "tags": ["recent-action", "excess", "limitation"]
+  },
+  {
+    "id": "n3-kiri",
+    "title": "〜きり",
+    "pattern": "Verb (た形) + きり / Number + きり",
+    "meaning": "solo / desde que (y no más) / nada más que",
+    "level": "n3",
+    "explanation": "Tiene dos usos principales: 1) た形+きり = desde que hizo algo, no ha vuelto. 2) Con número = solo esa cantidad.",
+    "examples": [
+      {
+        "sentence": "彼は出かけたきり、帰ってこない。",
+        "reading": "かれはでかけたきり、かえってこない。",
+        "translation": "Desde que salió, no ha vuelto.",
+        "breakdown": ["出かけた = salió", "きり = desde que", "帰ってこない = no vuelve"]
+      },
+      {
+        "sentence": "二人きりで話したい。",
+        "reading": "ふたりきりではなしたい。",
+        "translation": "Quiero hablar a solas, solo nosotros dos.",
+        "breakdown": ["二人 = dos personas", "きり = solamente", "話したい = quiero hablar"]
+      }
+    ],
+    "notes": "っきり es una variante más enfática. たきり seguido de negativo enfatiza que algo no sucedió después.",
+    "related": [],
+    "tags": ["limitation", "since"]
+  },
+  {
+    "id": "n3-kanenai",
+    "title": "〜かねない",
+    "pattern": "Verb (masu stem) + かねない",
+    "meaning": "podría / es capaz de (algo negativo)",
+    "level": "n3",
+    "explanation": "Expresa la posibilidad de que algo malo o indeseable pueda ocurrir. Se usa como advertencia o preocupación.",
+    "examples": [
+      {
+        "sentence": "このまま放置すると、大きな問題になりかねない。",
+        "reading": "このままほうちすると、おおきなもんだいになりかねない。",
+        "translation": "Si lo dejamos así, podría convertirse en un gran problema.",
+        "breakdown": ["放置する = dejar desatendido", "大きな問題 = gran problema", "なりかねない = podría convertirse en"]
+      },
+      {
+        "sentence": "急いでいると、事故を起こしかねない。",
+        "reading": "いそいでいると、じこをおこしかねない。",
+        "translation": "Si vas con prisa, podrías causar un accidente.",
+        "breakdown": ["急いでいる = tener prisa", "事故 = accidente", "起こしかねない = podría causar"]
+      }
+    ],
+    "notes": "Siempre implica una posibilidad negativa. かねる por sí solo significa 'no poder / ser difícil de hacer'.",
+    "related": [],
+    "tags": ["warning", "possibility", "negative"]
+  },
+  {
+    "id": "n3-kagiri",
+    "title": "〜限り",
+    "pattern": "Verb/Adj/Noun + 限り",
+    "meaning": "mientras / en la medida que / hasta donde",
+    "level": "n3",
+    "explanation": "Tiene varios usos: 1) Condición: 'mientras (se cumpla)'. 2) Alcance: 'hasta donde (sé/puedo)'. 3) Límite: 'al máximo'.",
+    "examples": [
+      {
+        "sentence": "私が知っている限り、彼は独身です。",
+        "reading": "わたしがしっているかぎり、かれはどくしんです。",
+        "translation": "Hasta donde yo sé, él es soltero.",
+        "breakdown": ["知っている = sé", "限り = hasta donde", "独身 = soltero"]
+      },
+      {
+        "sentence": "努力する限り、希望はある。",
+        "reading": "どりょくするかぎり、きぼうはある。",
+        "translation": "Mientras te esfuerces, hay esperanza.",
+        "breakdown": ["努力する = esforzarse", "限り = mientras", "希望 = esperanza"]
+      }
+    ],
+    "notes": "ない限り = 'a menos que'. できる限り = 'en la medida de lo posible'.",
+    "related": [],
+    "tags": ["condition", "scope", "limit"]
+  },
+  {
+    "id": "n3-shidai",
+    "title": "〜次第",
+    "pattern": "Verb (masu stem) + 次第 / Noun + 次第",
+    "meaning": "en cuanto / tan pronto como / depende de",
+    "level": "n3",
+    "explanation": "Tiene dos usos: 1) Verb+次第 = 'tan pronto como termine de...'. 2) Noun+次第 = 'depende de...'.",
+    "examples": [
+      {
+        "sentence": "届き次第、ご連絡します。",
+        "reading": "とどきしだい、ごれんらくします。",
+        "translation": "Le contactaremos tan pronto como llegue.",
+        "breakdown": ["届き = llegar", "次第 = tan pronto como", "ご連絡します = le contactaré"]
+      },
+      {
+        "sentence": "結果はあなたの努力次第だ。",
+        "reading": "けっかはあなたのどりょくしだいだ。",
+        "translation": "El resultado depende de tu esfuerzo.",
+        "breakdown": ["結果 = resultado", "努力 = esfuerzo", "次第 = depende de"]
+      }
+    ],
+    "notes": "Verb+次第 es muy formal y se usa frecuentemente en contextos de negocios y correspondencia.",
+    "related": [],
+    "tags": ["timing", "dependency", "formal"]
+  },
+  {
+    "id": "n3-you-ni-naru",
+    "title": "〜ようになる",
+    "pattern": "Verb (diccionario/ない) + ようになる",
+    "meaning": "llegar a / empezar a (cambio gradual)",
+    "level": "n3",
+    "explanation": "Expresa un cambio gradual en habilidad, hábito o estado. Indica que algo que antes no se podía o no se hacía, ahora sí.",
+    "examples": [
+      {
+        "sentence": "日本語が話せるようになった。",
+        "reading": "にほんごがはなせるようになった。",
+        "translation": "Llegué a poder hablar japonés.",
+        "breakdown": ["日本語 = japonés", "話せる = poder hablar", "ようになった = llegué a"]
+      },
+      {
+        "sentence": "最近、肉を食べないようになった。",
+        "reading": "さいきん、にくをたべないようになった。",
+        "translation": "Últimamente, dejé de comer carne.",
+        "breakdown": ["最近 = últimamente", "肉 = carne", "食べない = no comer", "ようになった = dejé de"]
+      }
+    ],
+    "notes": "ようになる = cambio gradual/natural. ようにする = hacer un esfuerzo consciente para cambiar.",
+    "related": ["n3-you-ni-suru"],
+    "tags": ["change", "gradual"]
+  },
+  {
+    "id": "n3-you-ni-suru",
+    "title": "〜ようにする",
+    "pattern": "Verb (diccionario/ない) + ようにする",
+    "meaning": "tratar de / procurar / asegurarse de",
+    "level": "n3",
+    "explanation": "Expresa un esfuerzo consciente y continuo por hacer o dejar de hacer algo. Indica un hábito que se intenta mantener.",
+    "examples": [
+      {
+        "sentence": "毎日野菜を食べるようにしている。",
+        "reading": "まいにちやさいをたべるようにしている。",
+        "translation": "Procuro comer verduras todos los días.",
+        "breakdown": ["毎日 = todos los días", "野菜 = verduras", "食べる = comer", "ようにしている = procuro"]
+      },
+      {
+        "sentence": "遅刻しないようにしてください。",
+        "reading": "ちこくしないようにしてください。",
+        "translation": "Procure no llegar tarde.",
+        "breakdown": ["遅刻しない = no llegar tarde", "ようにしてください = procure por favor"]
+      }
+    ],
+    "notes": "ようにしている = hábito que se mantiene conscientemente. ようにする = empezar a hacer ese esfuerzo.",
+    "related": ["n3-you-ni-naru"],
+    "tags": ["effort", "habit"]
+  },
+  {
+    "id": "n3-to-wa-kagiranai",
+    "title": "〜とは限らない",
+    "pattern": "Verb/Adj/Noun + とは限らない",
+    "meaning": "no necesariamente / no siempre es cierto que",
+    "level": "n3",
+    "explanation": "Se usa para negar una generalización o suposición. Indica que lo que parece ser verdad no siempre lo es.",
+    "examples": [
+      {
+        "sentence": "高いものが良いとは限らない。",
+        "reading": "たかいものがいいとはかぎらない。",
+        "translation": "Lo caro no es necesariamente bueno.",
+        "breakdown": ["高いもの = algo caro", "良い = bueno", "とは限らない = no necesariamente"]
+      },
+      {
+        "sentence": "努力すれば成功するとは限らない。",
+        "reading": "どりょくすればせいこうするとはかぎらない。",
+        "translation": "No necesariamente tendrás éxito solo por esforzarte.",
+        "breakdown": ["努力すれば = si te esfuerzas", "成功する = tener éxito", "とは限らない = no necesariamente"]
+      }
+    ],
+    "notes": "Se usa mucho en argumentos y ensayos para matizar afirmaciones absolutas.",
+    "related": ["n3-kara-to-itte"],
+    "tags": ["nuance", "limitation"]
+  },
+  {
+    "id": "n3-wake-da",
+    "title": "〜わけだ",
+    "pattern": "Verb/Adj/Noun + わけだ",
+    "meaning": "es por eso que / con razón / quiere decir que",
+    "level": "n3",
+    "explanation": "Expresa que el hablante llega a una conclusión lógica o entiende la razón de algo. Se usa para confirmar un entendimiento.",
+    "examples": [
+      {
+        "sentence": "毎日十時間も勉強しているのか。道理で成績がいいわけだ。",
+        "reading": "まいにちじゅうじかんもべんきょうしているのか。どうりでせいせきがいいわけだ。",
+        "translation": "¿Estudias diez horas al día? Con razón tienes buenas notas.",
+        "breakdown": ["十時間 = diez horas", "道理で = con razón", "成績がいい = buenas notas", "わけだ = es por eso"]
+      },
+      {
+        "sentence": "つまり、明日は休みというわけですね。",
+        "reading": "つまり、あしたはやすみというわけですね。",
+        "translation": "Es decir, quiere decir que mañana es día libre, ¿verdad?",
+        "breakdown": ["つまり = es decir", "明日 = mañana", "休み = día libre", "というわけ = quiere decir que"]
+      }
+    ],
+    "notes": "わけではない = 'no es que...'. わけがない = 'es imposible que...'. わけにはいかない = 'no puedo...'.",
+    "related": ["n3-wake-ga-nai", "n3-wake-ni-wa-ikanai"],
+    "tags": ["reasoning", "conclusion"]
+  },
+  {
+    "id": "n3-beki",
+    "title": "〜べき",
+    "pattern": "Verb (diccionario) + べき / するべき・すべき",
+    "meaning": "debería / se debe",
+    "level": "n3",
+    "explanation": "Expresa obligación moral o lo que es correcto hacer. Indica lo que el hablante considera que es la acción apropiada.",
+    "examples": [
+      {
+        "sentence": "学生は勉強すべきだ。",
+        "reading": "がくせいはべんきょうすべきだ。",
+        "translation": "Los estudiantes deberían estudiar.",
+        "breakdown": ["学生 = estudiantes", "勉強する = estudiar", "べきだ = deberían"]
+      },
+      {
+        "sentence": "この問題について真剣に考えるべきだ。",
+        "reading": "このもんだいについてしんけんにかんがえるべきだ。",
+        "translation": "Se debería pensar seriamente sobre este problema.",
+        "breakdown": ["この問題 = este problema", "真剣に = seriamente", "考える = pensar", "べきだ = se debería"]
+      }
+    ],
+    "notes": "するべき y すべき son ambos correctos. べきではない = 'no se debería'. Más fuerte que ほうがいい.",
+    "related": [],
+    "tags": ["obligation", "moral", "advice"]
+  },
+  {
+    "id": "n3-to-iu-koto-da",
+    "title": "〜ということだ",
+    "pattern": "Sentence + ということだ",
+    "meaning": "quiere decir que / se dice que / significa que",
+    "level": "n3",
+    "explanation": "Tiene dos usos: 1) Transmitir información de oídas (se dice que). 2) Reformular o explicar el significado de algo (quiere decir que).",
+    "examples": [
+      {
+        "sentence": "来月から値段が上がるということだ。",
+        "reading": "らいげつからねだんがあがるということだ。",
+        "translation": "Se dice que los precios subirán a partir del mes que viene.",
+        "breakdown": ["来月から = a partir del mes que viene", "値段 = precios", "上がる = subir", "ということだ = se dice que"]
+      },
+      {
+        "sentence": "返事がないということは、賛成だということだ。",
+        "reading": "へんじがないということは、さんせいだということだ。",
+        "translation": "El hecho de que no haya respuesta significa que está de acuerdo.",
+        "breakdown": ["返事がない = no hay respuesta", "ということは = el hecho de que", "賛成 = acuerdo", "ということだ = significa que"]
+      }
+    ],
+    "notes": "ということは = 'eso quiere decir que...' (introduce una conclusión lógica).",
+    "related": [],
+    "tags": ["hearsay", "meaning", "explanation"]
+  },
+  {
+    "id": "n3-te-hajimete",
+    "title": "〜てはじめて",
+    "pattern": "Verb (て形) + はじめて",
+    "meaning": "solo después de / no fue hasta que",
+    "level": "n3",
+    "explanation": "Expresa que uno se da cuenta de algo o experimenta algo por primera vez solo después de haber hecho otra cosa.",
+    "examples": [
+      {
+        "sentence": "病気になってはじめて、健康の大切さが分かった。",
+        "reading": "びょうきになってはじめて、けんこうのたいせつさがわかった。",
+        "translation": "No fue hasta que me enfermé que comprendí la importancia de la salud.",
+        "breakdown": ["病気になって = al enfermarse", "はじめて = por primera vez", "健康の大切さ = importancia de la salud", "分かった = comprendí"]
+      },
+      {
+        "sentence": "日本に来てはじめて、納豆を食べた。",
+        "reading": "にほんにきてはじめて、なっとうをたべた。",
+        "translation": "Comí natto por primera vez al venir a Japón.",
+        "breakdown": ["日本に来て = al venir a Japón", "はじめて = por primera vez", "納豆 = natto", "食べた = comí"]
+      }
+    ],
+    "notes": "Enfatiza que la experiencia o comprensión fue posible SOLO gracias a la acción previa.",
+    "related": [],
+    "tags": ["realization", "experience"]
+  },
+  {
+    "id": "n3-tabi-ni",
+    "title": "〜たびに",
+    "pattern": "Verb (diccionario) + たびに / Noun + の + たびに",
+    "meaning": "cada vez que",
+    "level": "n3",
+    "explanation": "Expresa que algo ocurre repetidamente cada vez que se da cierta situación o acción.",
+    "examples": [
+      {
+        "sentence": "この歌を聞くたびに、故郷を思い出す。",
+        "reading": "このうたをきくたびに、こきょうをおもいだす。",
+        "translation": "Cada vez que escucho esta canción, recuerdo mi tierra natal.",
+        "breakdown": ["この歌 = esta canción", "聞く = escuchar", "たびに = cada vez que", "故郷 = tierra natal", "思い出す = recordar"]
+      },
+      {
+        "sentence": "旅行のたびに、お土産を買う。",
+        "reading": "りょこうのたびに、おみやげをかう。",
+        "translation": "Cada vez que viajo, compro recuerdos.",
+        "breakdown": ["旅行 = viaje", "たびに = cada vez que", "お土産 = recuerdo/souvenir", "買う = comprar"]
+      }
+    ],
+    "notes": "Similar a 〜するといつも, pero たびに es más literario y enfatiza la repetición.",
+    "related": [],
+    "tags": ["repetition", "frequency"]
+  },
+  {
+    "id": "n3-you-na-you-ni",
+    "title": "〜ような / ように",
+    "pattern": "Verb/Noun + ような + Noun / ように + Verb",
+    "meaning": "como / tal como / de manera que",
+    "level": "n3",
+    "explanation": "Expresa similitud, ejemplo o manera. ような modifica sustantivos, ように modifica verbos.",
+    "examples": [
+      {
+        "sentence": "彼女は花のような笑顔を持っている。",
+        "reading": "かのじょははなのようなえがおをもっている。",
+        "translation": "Ella tiene una sonrisa como una flor.",
+        "breakdown": ["花 = flor", "ような = como", "笑顔 = sonrisa", "持っている = tiene"]
+      },
+      {
+        "sentence": "忘れないように、メモを取った。",
+        "reading": "わすれないように、メモをとった。",
+        "translation": "Tomé notas para no olvidar.",
+        "breakdown": ["忘れない = no olvidar", "ように = de manera que", "メモを取った = tomé notas"]
+      }
+    ],
+    "notes": "ようだ al final de la oración expresa impresión: 'parece que'. ように en medio puede indicar propósito o similitud.",
+    "related": [],
+    "tags": ["simile", "manner", "purpose"]
+  },
+  {
+    "id": "n3-wake-de-wa-nai",
+    "title": "〜わけではない",
+    "pattern": "Verb/Adj + わけではない",
+    "meaning": "no es que / no quiere decir que",
+    "level": "n3",
+    "explanation": "Se usa para negar parcialmente algo, matizando que no es del todo cierto o no se aplica completamente. Suaviza una negación.",
+    "examples": [
+      {
+        "sentence": "嫌いなわけではないが、あまり好きでもない。",
+        "reading": "きらいなわけではないが、あまりすきでもない。",
+        "translation": "No es que me disguste, pero tampoco me gusta mucho.",
+        "breakdown": ["嫌い = disgustar", "わけではない = no es que", "好き = gustar", "でもない = tampoco"]
+      },
+      {
+        "sentence": "忙しいわけではないが、手伝えない。",
+        "reading": "いそがしいわけではないが、てつだえない。",
+        "translation": "No es que esté ocupado, pero no puedo ayudar.",
+        "breakdown": ["忙しい = ocupado", "わけではない = no es que", "手伝えない = no puedo ayudar"]
+      }
+    ],
+    "notes": "Matiza y suaviza. ないわけではない = 'no es que no...' (doble negación = afirmación suave).",
+    "related": ["n3-wake-da", "n3-wake-ga-nai"],
+    "tags": ["partial-negation", "nuance"]
+  },
+  {
+    "id": "n3-te-shikata-ga-nai",
+    "title": "〜てしかたがない / てしょうがない",
+    "pattern": "Verb (て形) / Adj-i (くて) / Adj-na (で) + しかたがない / しょうがない",
+    "meaning": "no puedo evitar / es insoportable / no puedo más de",
+    "level": "n3",
+    "explanation": "Expresa un sentimiento o sensación tan intenso que no se puede controlar. Indica que algo es insoportable o irremediable.",
+    "examples": [
+      {
+        "sentence": "おなかがすいてしかたがない。",
+        "reading": "おなかがすいてしかたがない。",
+        "translation": "Tengo un hambre insoportable.",
+        "breakdown": ["おなかがすいて = tener hambre", "しかたがない = insoportable"]
+      },
+      {
+        "sentence": "彼女のことが心配でしょうがない。",
+        "reading": "かのじょのことがしんぱいでしょうがない。",
+        "translation": "No puedo dejar de preocuparme por ella.",
+        "breakdown": ["彼女のこと = sobre ella", "心配で = preocupado", "しょうがない = no puedo evitar"]
+      }
+    ],
+    "notes": "しょうがない es más coloquial que しかたがない. たまらない es un sinónimo: 寒くてたまらない.",
+    "related": [],
+    "tags": ["emotion", "intensity", "uncontrollable"]
+  },
+  {
+    "id": "n3-koto-wa-nai",
+    "title": "〜ことはない",
+    "pattern": "Verb (diccionario) + ことはない",
+    "meaning": "no es necesario que / no hay necesidad de",
+    "level": "n3",
+    "explanation": "Se usa para decirle a alguien que no necesita hacer algo, que no hay razón para ello. Tiene un tono tranquilizador.",
+    "examples": [
+      {
+        "sentence": "そんなに心配することはない。",
+        "reading": "そんなにしんぱいすることはない。",
+        "translation": "No hay necesidad de preocuparse tanto.",
+        "breakdown": ["そんなに = tanto", "心配する = preocuparse", "ことはない = no hay necesidad de"]
+      },
+      {
+        "sentence": "急ぐことはないよ。ゆっくりでいい。",
+        "reading": "いそぐことはないよ。ゆっくりでいい。",
+        "translation": "No hace falta apurarse. Con calma está bien.",
+        "breakdown": ["急ぐ = apurarse", "ことはない = no hace falta", "ゆっくり = con calma"]
+      }
+    ],
+    "notes": "Diferente de ことがない (nunca haber hecho). ことはない = no es necesario. ことがない = no tener experiencia.",
+    "related": [],
+    "tags": ["unnecessary", "reassurance"]
+  },
+  {
+    "id": "n3-ni-yotte",
+    "title": "〜によって / により",
+    "pattern": "Noun + によって / による / により",
+    "meaning": "según / por medio de / dependiendo de / por (agente pasivo)",
+    "level": "n3",
+    "explanation": "Tiene múltiples usos: 1) Causa/medio: 'por medio de'. 2) Agente en pasiva: 'por'. 3) Variación: 'dependiendo de'. 4) Autoría: 'por (autor)'.",
+    "examples": [
+      {
+        "sentence": "この小説は村上春樹によって書かれた。",
+        "reading": "このしょうせつはむらかみはるきによってかかれた。",
+        "translation": "Esta novela fue escrita por Murakami Haruki.",
+        "breakdown": ["小説 = novela", "によって = por", "書かれた = fue escrita"]
+      },
+      {
+        "sentence": "国によって文化が違う。",
+        "reading": "くににによってぶんかがちがう。",
+        "translation": "La cultura difiere dependiendo del país.",
+        "breakdown": ["国 = país", "によって = dependiendo de", "文化 = cultura", "違う = diferir"]
+      }
+    ],
+    "notes": "による es la forma que modifica sustantivos. により es más formal que によって.",
+    "related": [],
+    "tags": ["means", "agent", "variation"]
+  },
+  {
+    "id": "n3-to-shitemo",
+    "title": "〜としても",
+    "pattern": "Verb/Adj/Noun + としても",
+    "meaning": "aunque / incluso si",
+    "level": "n3",
+    "explanation": "Expresa una condición hipotética cuyo resultado no cambiará. Indica que incluso si se cumple esa condición, la conclusión sigue siendo la misma.",
+    "examples": [
+      {
+        "sentence": "たとえ失敗したとしても、後悔はしない。",
+        "reading": "たとえしっぱいしたとしても、こうかいはしない。",
+        "translation": "Incluso si fracaso, no me arrepentiré.",
+        "breakdown": ["たとえ = incluso si", "失敗した = fracasar", "としても = aunque", "後悔はしない = no me arrepentiré"]
+      },
+      {
+        "sentence": "仮に時間があったとしても、行きたくない。",
+        "reading": "かりにじかんがあったとしても、いきたくない。",
+        "translation": "Aunque hipotéticamente tuviera tiempo, no querría ir.",
+        "breakdown": ["仮に = hipotéticamente", "時間があった = tuviera tiempo", "としても = aunque", "行きたくない = no quiero ir"]
+      }
+    ],
+    "notes": "Frecuentemente usado con たとえ o 仮に para enfatizar lo hipotético.",
+    "related": [],
+    "tags": ["hypothetical", "concession"]
+  },
+  {
+    "id": "n3-ni-chigai-nai-2",
+    "title": "〜に違いない",
+    "pattern": "Verb/Adj/Noun + に違いない",
+    "meaning": "sin duda / seguro que",
+    "level": "n3",
+    "explanation": "Versión en kanji de にちがいない. Expresa una fuerte convicción basada en evidencia o razonamiento.",
+    "examples": [
+      {
+        "sentence": "この計画は成功するに違いない。",
+        "reading": "このけいかくはせいこうするにちがいない。",
+        "translation": "Este plan sin duda tendrá éxito.",
+        "breakdown": ["計画 = plan", "成功する = tener éxito", "に違いない = sin duda"]
+      },
+      {
+        "sentence": "彼女が犯人に違いない。",
+        "reading": "かのじょがはんにんにちがいない。",
+        "translation": "Ella es sin duda la culpable.",
+        "breakdown": ["彼女 = ella", "犯人 = culpable", "に違いない = sin duda"]
+      }
+    ],
+    "notes": "Intercambiable con にちがいない. La versión en kanji es ligeramente más formal.",
+    "related": ["n3-ni-chigai-nai"],
+    "tags": ["certainty", "conviction"]
+  },
+  {
+    "id": "n3-koto-ni",
+    "title": "〜ことに",
+    "pattern": "Adj-i / Adj-na な / Verb た + ことに",
+    "meaning": "lo que es (adjetivo) es que...",
+    "level": "n3",
+    "explanation": "Se usa al principio de una oración para expresar el sentimiento del hablante sobre lo que va a decir. Enfatiza la emoción antes de dar el contenido.",
+    "examples": [
+      {
+        "sentence": "驚いたことに、彼は試験に合格した。",
+        "reading": "おどろいたことに、かれはしけんにごうかくした。",
+        "translation": "Lo sorprendente es que él aprobó el examen.",
+        "breakdown": ["驚いた = sorprendente", "ことに = lo que es", "合格した = aprobó"]
+      },
+      {
+        "sentence": "嬉しいことに、来月から給料が上がる。",
+        "reading": "うれしいことに、らいげつからきゅうりょうがあがる。",
+        "translation": "Lo que me alegra es que desde el mes que viene me suben el sueldo.",
+        "breakdown": ["嬉しい = feliz/contento", "ことに = lo que me alegra", "給料が上がる = sube el sueldo"]
+      }
+    ],
+    "notes": "Patrones comunes: 残念なことに (lamentablemente), 幸いなことに (afortunadamente), 困ったことに (para mi problema).",
+    "related": [],
+    "tags": ["emotion", "emphasis"]
+  },
+  {
+    "id": "n3-dake-atte",
+    "title": "〜だけあって",
+    "pattern": "Verb/Adj/Noun + だけあって",
+    "meaning": "como era de esperar de / justamente porque",
+    "level": "n3",
+    "explanation": "Expresa que un resultado positivo o una cualidad es natural dada cierta circunstancia o característica. Implica admiración o reconocimiento.",
+    "examples": [
+      {
+        "sentence": "さすが十年も住んでいただけあって、日本語がペラペラだ。",
+        "reading": "さすがじゅうねんもすんでいただけあって、にほんごがペラペラだ。",
+        "translation": "Como era de esperar de alguien que vivió diez años, habla japonés con fluidez.",
+        "breakdown": ["十年 = diez años", "住んでいた = vivió", "だけあって = como era de esperar", "ペラペラ = con fluidez"]
+      },
+      {
+        "sentence": "有名なレストランだけあって、料理がおいしい。",
+        "reading": "ゆうめいなレストランだけあって、りょうりがおいしい。",
+        "translation": "Como es un restaurante famoso, la comida es deliciosa.",
+        "breakdown": ["有名な = famoso", "レストラン = restaurante", "だけあって = como era de esperar", "おいしい = delicioso"]
+      }
+    ],
+    "notes": "Siempre expresa un resultado esperado y positivo. No se usa con resultados negativos.",
+    "related": [],
+    "tags": ["expectation", "admiration"]
+  }
+]

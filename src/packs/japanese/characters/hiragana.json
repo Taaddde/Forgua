@@ -1,0 +1,940 @@
+[
+  {
+    "character": "あ",
+    "readings": [{ "type": "romaji", "value": "a" }],
+    "meanings": ["a (vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["vowel", "basic"],
+    "examples": [{ "word": "あめ", "reading": "ame", "meaning": "lluvia" }]
+  },
+  {
+    "character": "い",
+    "readings": [{ "type": "romaji", "value": "i" }],
+    "meanings": ["i (vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["vowel", "basic"],
+    "examples": [{ "word": "いぬ", "reading": "inu", "meaning": "perro" }]
+  },
+  {
+    "character": "う",
+    "readings": [{ "type": "romaji", "value": "u" }],
+    "meanings": ["u (vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["vowel", "basic"],
+    "examples": [{ "word": "うみ", "reading": "umi", "meaning": "mar" }]
+  },
+  {
+    "character": "え",
+    "readings": [{ "type": "romaji", "value": "e" }],
+    "meanings": ["e (vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["vowel", "basic"],
+    "examples": [{ "word": "えき", "reading": "eki", "meaning": "estación" }]
+  },
+  {
+    "character": "お",
+    "readings": [{ "type": "romaji", "value": "o" }],
+    "meanings": ["o (vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["vowel", "basic"],
+    "examples": [{ "word": "おかね", "reading": "okane", "meaning": "dinero" }]
+  },
+  {
+    "character": "か",
+    "readings": [{ "type": "romaji", "value": "ka" }],
+    "meanings": ["ka (consonante+vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "basic", "k-row"],
+    "examples": [{ "word": "かわ", "reading": "kawa", "meaning": "río" }]
+  },
+  {
+    "character": "き",
+    "readings": [{ "type": "romaji", "value": "ki" }],
+    "meanings": ["ki (consonante+vocal)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "basic", "k-row"],
+    "examples": [{ "word": "きく", "reading": "kiku", "meaning": "escuchar" }]
+  },
+  {
+    "character": "く",
+    "readings": [{ "type": "romaji", "value": "ku" }],
+    "meanings": ["ku (consonante+vocal)"],
+    "strokeCount": 1,
+    "level": "n5",
+    "tags": ["consonant", "basic", "k-row"],
+    "examples": [{ "word": "くるま", "reading": "kuruma", "meaning": "auto" }]
+  },
+  {
+    "character": "け",
+    "readings": [{ "type": "romaji", "value": "ke" }],
+    "meanings": ["ke (consonante+vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "basic", "k-row"],
+    "examples": [{ "word": "けさ", "reading": "kesa", "meaning": "esta mañana" }]
+  },
+  {
+    "character": "こ",
+    "readings": [{ "type": "romaji", "value": "ko" }],
+    "meanings": ["ko (consonante+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "basic", "k-row"],
+    "examples": [{ "word": "ここ", "reading": "koko", "meaning": "aquí" }]
+  },
+  {
+    "character": "さ",
+    "readings": [{ "type": "romaji", "value": "sa" }],
+    "meanings": ["sa (consonante+vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "basic", "s-row"],
+    "examples": [{ "word": "さかな", "reading": "sakana", "meaning": "pescado" }]
+  },
+  {
+    "character": "し",
+    "readings": [{ "type": "romaji", "value": "shi" }],
+    "meanings": ["shi (consonante+vocal)"],
+    "strokeCount": 1,
+    "level": "n5",
+    "tags": ["consonant", "basic", "s-row"],
+    "examples": [{ "word": "しろ", "reading": "shiro", "meaning": "blanco" }]
+  },
+  {
+    "character": "す",
+    "readings": [{ "type": "romaji", "value": "su" }],
+    "meanings": ["su (consonante+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "basic", "s-row"],
+    "examples": [{ "word": "すし", "reading": "sushi", "meaning": "sushi" }]
+  },
+  {
+    "character": "せ",
+    "readings": [{ "type": "romaji", "value": "se" }],
+    "meanings": ["se (consonante+vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "basic", "s-row"],
+    "examples": [{ "word": "せんせい", "reading": "sensei", "meaning": "maestro" }]
+  },
+  {
+    "character": "そ",
+    "readings": [{ "type": "romaji", "value": "so" }],
+    "meanings": ["so (consonante+vocal)"],
+    "strokeCount": 1,
+    "level": "n5",
+    "tags": ["consonant", "basic", "s-row"],
+    "examples": [{ "word": "そと", "reading": "soto", "meaning": "afuera" }]
+  },
+  {
+    "character": "た",
+    "readings": [{ "type": "romaji", "value": "ta" }],
+    "meanings": ["ta (consonante+vocal)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "basic", "t-row"],
+    "examples": [{ "word": "たべる", "reading": "taberu", "meaning": "comer" }]
+  },
+  {
+    "character": "ち",
+    "readings": [{ "type": "romaji", "value": "chi" }],
+    "meanings": ["chi (consonante+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "basic", "t-row"],
+    "examples": [{ "word": "ちず", "reading": "chizu", "meaning": "mapa" }]
+  },
+  {
+    "character": "つ",
+    "readings": [{ "type": "romaji", "value": "tsu" }],
+    "meanings": ["tsu (consonante+vocal)"],
+    "strokeCount": 1,
+    "level": "n5",
+    "tags": ["consonant", "basic", "t-row"],
+    "examples": [{ "word": "つくえ", "reading": "tsukue", "meaning": "escritorio" }]
+  },
+  {
+    "character": "て",
+    "readings": [{ "type": "romaji", "value": "te" }],
+    "meanings": ["te (consonante+vocal)"],
+    "strokeCount": 1,
+    "level": "n5",
+    "tags": ["consonant", "basic", "t-row"],
+    "examples": [{ "word": "てがみ", "reading": "tegami", "meaning": "carta" }]
+  },
+  {
+    "character": "と",
+    "readings": [{ "type": "romaji", "value": "to" }],
+    "meanings": ["to (consonante+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "basic", "t-row"],
+    "examples": [{ "word": "とり", "reading": "tori", "meaning": "pájaro" }]
+  },
+  {
+    "character": "な",
+    "readings": [{ "type": "romaji", "value": "na" }],
+    "meanings": ["na (consonante+vocal)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "basic", "n-row"],
+    "examples": [{ "word": "なつ", "reading": "natsu", "meaning": "verano" }]
+  },
+  {
+    "character": "に",
+    "readings": [{ "type": "romaji", "value": "ni" }],
+    "meanings": ["ni (consonante+vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "basic", "n-row"],
+    "examples": [{ "word": "にく", "reading": "niku", "meaning": "carne" }]
+  },
+  {
+    "character": "ぬ",
+    "readings": [{ "type": "romaji", "value": "nu" }],
+    "meanings": ["nu (consonante+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "basic", "n-row"],
+    "examples": [{ "word": "いぬ", "reading": "inu", "meaning": "perro" }]
+  },
+  {
+    "character": "ね",
+    "readings": [{ "type": "romaji", "value": "ne" }],
+    "meanings": ["ne (consonante+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "basic", "n-row"],
+    "examples": [{ "word": "ねこ", "reading": "neko", "meaning": "gato" }]
+  },
+  {
+    "character": "の",
+    "readings": [{ "type": "romaji", "value": "no" }],
+    "meanings": ["no (consonante+vocal)"],
+    "strokeCount": 1,
+    "level": "n5",
+    "tags": ["consonant", "basic", "n-row"],
+    "examples": [{ "word": "のむ", "reading": "nomu", "meaning": "beber" }]
+  },
+  {
+    "character": "は",
+    "readings": [{ "type": "romaji", "value": "ha" }],
+    "meanings": ["ha (consonante+vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "basic", "h-row"],
+    "examples": [{ "word": "はな", "reading": "hana", "meaning": "flor" }]
+  },
+  {
+    "character": "ひ",
+    "readings": [{ "type": "romaji", "value": "hi" }],
+    "meanings": ["hi (consonante+vocal)"],
+    "strokeCount": 1,
+    "level": "n5",
+    "tags": ["consonant", "basic", "h-row"],
+    "examples": [{ "word": "ひと", "reading": "hito", "meaning": "persona" }]
+  },
+  {
+    "character": "ふ",
+    "readings": [{ "type": "romaji", "value": "fu" }],
+    "meanings": ["fu (consonante+vocal)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "basic", "h-row"],
+    "examples": [{ "word": "ふゆ", "reading": "fuyu", "meaning": "invierno" }]
+  },
+  {
+    "character": "へ",
+    "readings": [{ "type": "romaji", "value": "he" }],
+    "meanings": ["he (consonante+vocal)"],
+    "strokeCount": 1,
+    "level": "n5",
+    "tags": ["consonant", "basic", "h-row"],
+    "examples": [{ "word": "へや", "reading": "heya", "meaning": "habitación" }]
+  },
+  {
+    "character": "ほ",
+    "readings": [{ "type": "romaji", "value": "ho" }],
+    "meanings": ["ho (consonante+vocal)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "basic", "h-row"],
+    "examples": [{ "word": "ほん", "reading": "hon", "meaning": "libro" }]
+  },
+  {
+    "character": "ま",
+    "readings": [{ "type": "romaji", "value": "ma" }],
+    "meanings": ["ma (consonante+vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "basic", "m-row"],
+    "examples": [{ "word": "まど", "reading": "mado", "meaning": "ventana" }]
+  },
+  {
+    "character": "み",
+    "readings": [{ "type": "romaji", "value": "mi" }],
+    "meanings": ["mi (consonante+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "basic", "m-row"],
+    "examples": [{ "word": "みず", "reading": "mizu", "meaning": "agua" }]
+  },
+  {
+    "character": "む",
+    "readings": [{ "type": "romaji", "value": "mu" }],
+    "meanings": ["mu (consonante+vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "basic", "m-row"],
+    "examples": [{ "word": "むし", "reading": "mushi", "meaning": "insecto" }]
+  },
+  {
+    "character": "め",
+    "readings": [{ "type": "romaji", "value": "me" }],
+    "meanings": ["me (consonante+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "basic", "m-row"],
+    "examples": [{ "word": "め", "reading": "me", "meaning": "ojo" }]
+  },
+  {
+    "character": "も",
+    "readings": [{ "type": "romaji", "value": "mo" }],
+    "meanings": ["mo (consonante+vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "basic", "m-row"],
+    "examples": [{ "word": "もの", "reading": "mono", "meaning": "cosa" }]
+  },
+  {
+    "character": "や",
+    "readings": [{ "type": "romaji", "value": "ya" }],
+    "meanings": ["ya (consonante+vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "basic", "y-row"],
+    "examples": [{ "word": "やま", "reading": "yama", "meaning": "montaña" }]
+  },
+  {
+    "character": "ゆ",
+    "readings": [{ "type": "romaji", "value": "yu" }],
+    "meanings": ["yu (consonante+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "basic", "y-row"],
+    "examples": [{ "word": "ゆき", "reading": "yuki", "meaning": "nieve" }]
+  },
+  {
+    "character": "よ",
+    "readings": [{ "type": "romaji", "value": "yo" }],
+    "meanings": ["yo (consonante+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "basic", "y-row"],
+    "examples": [{ "word": "よる", "reading": "yoru", "meaning": "noche" }]
+  },
+  {
+    "character": "ら",
+    "readings": [{ "type": "romaji", "value": "ra" }],
+    "meanings": ["ra (consonante+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "basic", "r-row"],
+    "examples": [{ "word": "らいねん", "reading": "rainen", "meaning": "año próximo" }]
+  },
+  {
+    "character": "り",
+    "readings": [{ "type": "romaji", "value": "ri" }],
+    "meanings": ["ri (consonante+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "basic", "r-row"],
+    "examples": [{ "word": "りんご", "reading": "ringo", "meaning": "manzana" }]
+  },
+  {
+    "character": "る",
+    "readings": [{ "type": "romaji", "value": "ru" }],
+    "meanings": ["ru (consonante+vocal)"],
+    "strokeCount": 1,
+    "level": "n5",
+    "tags": ["consonant", "basic", "r-row"],
+    "examples": [{ "word": "みる", "reading": "miru", "meaning": "ver" }]
+  },
+  {
+    "character": "れ",
+    "readings": [{ "type": "romaji", "value": "re" }],
+    "meanings": ["re (consonante+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "basic", "r-row"],
+    "examples": [{ "word": "れい", "reading": "rei", "meaning": "cero" }]
+  },
+  {
+    "character": "ろ",
+    "readings": [{ "type": "romaji", "value": "ro" }],
+    "meanings": ["ro (consonante+vocal)"],
+    "strokeCount": 1,
+    "level": "n5",
+    "tags": ["consonant", "basic", "r-row"],
+    "examples": [{ "word": "ろく", "reading": "roku", "meaning": "seis" }]
+  },
+  {
+    "character": "わ",
+    "readings": [{ "type": "romaji", "value": "wa" }],
+    "meanings": ["wa (consonante+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "basic", "w-row"],
+    "examples": [{ "word": "わたし", "reading": "watashi", "meaning": "yo" }]
+  },
+  {
+    "character": "を",
+    "readings": [{ "type": "romaji", "value": "wo" }],
+    "meanings": ["wo (partícula de objeto directo)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "basic", "w-row"],
+    "examples": [{ "word": "みずをのむ", "reading": "mizu wo nomu", "meaning": "beber agua" }]
+  },
+  {
+    "character": "ん",
+    "readings": [{ "type": "romaji", "value": "n" }],
+    "meanings": ["n (nasal)"],
+    "strokeCount": 1,
+    "level": "n5",
+    "tags": ["nasal", "basic"],
+    "examples": [{ "word": "にほん", "reading": "nihon", "meaning": "Japón" }]
+  },
+
+  {
+    "character": "が",
+    "readings": [{ "type": "romaji", "value": "ga" }],
+    "meanings": ["ga (consonante sonora+vocal)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "k-row"],
+    "examples": [{ "word": "がっこう", "reading": "gakkou", "meaning": "escuela" }]
+  },
+  {
+    "character": "ぎ",
+    "readings": [{ "type": "romaji", "value": "gi" }],
+    "meanings": ["gi (consonante sonora+vocal)"],
+    "strokeCount": 5,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "k-row"],
+    "examples": [{ "word": "ぎんこう", "reading": "ginkou", "meaning": "banco" }]
+  },
+  {
+    "character": "ぐ",
+    "readings": [{ "type": "romaji", "value": "gu" }],
+    "meanings": ["gu (consonante sonora+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "k-row"],
+    "examples": [{ "word": "ぐあい", "reading": "guai", "meaning": "condición" }]
+  },
+  {
+    "character": "げ",
+    "readings": [{ "type": "romaji", "value": "ge" }],
+    "meanings": ["ge (consonante sonora+vocal)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "k-row"],
+    "examples": [{ "word": "げんき", "reading": "genki", "meaning": "energía / estar bien" }]
+  },
+  {
+    "character": "ご",
+    "readings": [{ "type": "romaji", "value": "go" }],
+    "meanings": ["go (consonante sonora+vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "k-row"],
+    "examples": [{ "word": "ごご", "reading": "gogo", "meaning": "tarde (p.m.)" }]
+  },
+  {
+    "character": "ざ",
+    "readings": [{ "type": "romaji", "value": "za" }],
+    "meanings": ["za (consonante sonora+vocal)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "s-row"],
+    "examples": [{ "word": "ざっし", "reading": "zasshi", "meaning": "revista" }]
+  },
+  {
+    "character": "じ",
+    "readings": [{ "type": "romaji", "value": "ji" }],
+    "meanings": ["ji (consonante sonora+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "s-row"],
+    "examples": [{ "word": "じかん", "reading": "jikan", "meaning": "tiempo / hora" }]
+  },
+  {
+    "character": "ず",
+    "readings": [{ "type": "romaji", "value": "zu" }],
+    "meanings": ["zu (consonante sonora+vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "s-row"],
+    "examples": [{ "word": "みず", "reading": "mizu", "meaning": "agua" }]
+  },
+  {
+    "character": "ぜ",
+    "readings": [{ "type": "romaji", "value": "ze" }],
+    "meanings": ["ze (consonante sonora+vocal)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "s-row"],
+    "examples": [{ "word": "ぜんぶ", "reading": "zenbu", "meaning": "todo / completo" }]
+  },
+  {
+    "character": "ぞ",
+    "readings": [{ "type": "romaji", "value": "zo" }],
+    "meanings": ["zo (consonante sonora+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "s-row"],
+    "examples": [{ "word": "かぞく", "reading": "kazoku", "meaning": "familia" }]
+  },
+  {
+    "character": "だ",
+    "readings": [{ "type": "romaji", "value": "da" }],
+    "meanings": ["da (consonante sonora+vocal)"],
+    "strokeCount": 5,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "t-row"],
+    "examples": [{ "word": "だいがく", "reading": "daigaku", "meaning": "universidad" }]
+  },
+  {
+    "character": "ぢ",
+    "readings": [{ "type": "romaji", "value": "di" }],
+    "meanings": ["di (consonante sonora+vocal, poco frecuente)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "t-row"],
+    "examples": [{ "word": "はなぢ", "reading": "hanadi", "meaning": "hemorragia nasal" }]
+  },
+  {
+    "character": "づ",
+    "readings": [{ "type": "romaji", "value": "du" }],
+    "meanings": ["du (consonante sonora+vocal, poco frecuente)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "t-row"],
+    "examples": [{ "word": "つづく", "reading": "tsuduku", "meaning": "continuar" }]
+  },
+  {
+    "character": "で",
+    "readings": [{ "type": "romaji", "value": "de" }],
+    "meanings": ["de (consonante sonora+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "t-row"],
+    "examples": [{ "word": "でんわ", "reading": "denwa", "meaning": "teléfono" }]
+  },
+  {
+    "character": "ど",
+    "readings": [{ "type": "romaji", "value": "do" }],
+    "meanings": ["do (consonante sonora+vocal)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "t-row"],
+    "examples": [{ "word": "どこ", "reading": "doko", "meaning": "dónde" }]
+  },
+  {
+    "character": "ば",
+    "readings": [{ "type": "romaji", "value": "ba" }],
+    "meanings": ["ba (consonante sonora+vocal)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "h-row"],
+    "examples": [{ "word": "ばん", "reading": "ban", "meaning": "noche / turno" }]
+  },
+  {
+    "character": "び",
+    "readings": [{ "type": "romaji", "value": "bi" }],
+    "meanings": ["bi (consonante sonora+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "h-row"],
+    "examples": [{ "word": "びょういん", "reading": "byouin", "meaning": "hospital" }]
+  },
+  {
+    "character": "ぶ",
+    "readings": [{ "type": "romaji", "value": "bu" }],
+    "meanings": ["bu (consonante sonora+vocal)"],
+    "strokeCount": 5,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "h-row"],
+    "examples": [{ "word": "ぶんか", "reading": "bunka", "meaning": "cultura" }]
+  },
+  {
+    "character": "べ",
+    "readings": [{ "type": "romaji", "value": "be" }],
+    "meanings": ["be (consonante sonora+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "h-row"],
+    "examples": [{ "word": "べんきょう", "reading": "benkyou", "meaning": "estudio" }]
+  },
+  {
+    "character": "ぼ",
+    "readings": [{ "type": "romaji", "value": "bo" }],
+    "meanings": ["bo (consonante sonora+vocal)"],
+    "strokeCount": 5,
+    "level": "n5",
+    "tags": ["consonant", "dakuten", "h-row"],
+    "examples": [{ "word": "ぼく", "reading": "boku", "meaning": "yo (masculino)" }]
+  },
+  {
+    "character": "ぱ",
+    "readings": [{ "type": "romaji", "value": "pa" }],
+    "meanings": ["pa (consonante sorda+vocal)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "handakuten", "h-row"],
+    "examples": [{ "word": "ぱん", "reading": "pan", "meaning": "pan" }]
+  },
+  {
+    "character": "ぴ",
+    "readings": [{ "type": "romaji", "value": "pi" }],
+    "meanings": ["pi (consonante sorda+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "handakuten", "h-row"],
+    "examples": [{ "word": "えんぴつ", "reading": "enpitsu", "meaning": "lápiz" }]
+  },
+  {
+    "character": "ぷ",
+    "readings": [{ "type": "romaji", "value": "pu" }],
+    "meanings": ["pu (consonante sorda+vocal)"],
+    "strokeCount": 5,
+    "level": "n5",
+    "tags": ["consonant", "handakuten", "h-row"],
+    "examples": [{ "word": "てんぷら", "reading": "tenpura", "meaning": "tempura" }]
+  },
+  {
+    "character": "ぺ",
+    "readings": [{ "type": "romaji", "value": "pe" }],
+    "meanings": ["pe (consonante sorda+vocal)"],
+    "strokeCount": 2,
+    "level": "n5",
+    "tags": ["consonant", "handakuten", "h-row"],
+    "examples": [{ "word": "ぺーじ", "reading": "peeji", "meaning": "página" }]
+  },
+  {
+    "character": "ぽ",
+    "readings": [{ "type": "romaji", "value": "po" }],
+    "meanings": ["po (consonante sorda+vocal)"],
+    "strokeCount": 5,
+    "level": "n5",
+    "tags": ["consonant", "handakuten", "h-row"],
+    "examples": [{ "word": "にっぽん", "reading": "nippon", "meaning": "Japón" }]
+  },
+
+  {
+    "character": "きゃ",
+    "readings": [{ "type": "romaji", "value": "kya" }],
+    "meanings": ["kya (combinación yōon)"],
+    "strokeCount": 7,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "k-row"],
+    "examples": [{ "word": "きゃく", "reading": "kyaku", "meaning": "invitado / cliente" }]
+  },
+  {
+    "character": "きゅ",
+    "readings": [{ "type": "romaji", "value": "kyu" }],
+    "meanings": ["kyu (combinación yōon)"],
+    "strokeCount": 6,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "k-row"],
+    "examples": [{ "word": "きゅう", "reading": "kyuu", "meaning": "nueve" }]
+  },
+  {
+    "character": "きょ",
+    "readings": [{ "type": "romaji", "value": "kyo" }],
+    "meanings": ["kyo (combinación yōon)"],
+    "strokeCount": 6,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "k-row"],
+    "examples": [{ "word": "きょう", "reading": "kyou", "meaning": "hoy" }]
+  },
+  {
+    "character": "しゃ",
+    "readings": [{ "type": "romaji", "value": "sha" }],
+    "meanings": ["sha (combinación yōon)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "s-row"],
+    "examples": [{ "word": "しゃしん", "reading": "shashin", "meaning": "foto" }]
+  },
+  {
+    "character": "しゅ",
+    "readings": [{ "type": "romaji", "value": "shu" }],
+    "meanings": ["shu (combinación yōon)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "s-row"],
+    "examples": [{ "word": "しゅくだい", "reading": "shukudai", "meaning": "tarea" }]
+  },
+  {
+    "character": "しょ",
+    "readings": [{ "type": "romaji", "value": "sho" }],
+    "meanings": ["sho (combinación yōon)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "s-row"],
+    "examples": [{ "word": "しょくどう", "reading": "shokudou", "meaning": "comedor" }]
+  },
+  {
+    "character": "ちゃ",
+    "readings": [{ "type": "romaji", "value": "cha" }],
+    "meanings": ["cha (combinación yōon)"],
+    "strokeCount": 5,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "t-row"],
+    "examples": [{ "word": "おちゃ", "reading": "ocha", "meaning": "té" }]
+  },
+  {
+    "character": "ちゅ",
+    "readings": [{ "type": "romaji", "value": "chu" }],
+    "meanings": ["chu (combinación yōon)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "t-row"],
+    "examples": [{ "word": "ちゅうごく", "reading": "chuugoku", "meaning": "China" }]
+  },
+  {
+    "character": "ちょ",
+    "readings": [{ "type": "romaji", "value": "cho" }],
+    "meanings": ["cho (combinación yōon)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "t-row"],
+    "examples": [{ "word": "ちょっと", "reading": "chotto", "meaning": "un poco" }]
+  },
+  {
+    "character": "にゃ",
+    "readings": [{ "type": "romaji", "value": "nya" }],
+    "meanings": ["nya (combinación yōon)"],
+    "strokeCount": 6,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "n-row"],
+    "examples": [{ "word": "にゃあ", "reading": "nyaa", "meaning": "miau" }]
+  },
+  {
+    "character": "にゅ",
+    "readings": [{ "type": "romaji", "value": "nyu" }],
+    "meanings": ["nyu (combinación yōon)"],
+    "strokeCount": 5,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "n-row"],
+    "examples": [{ "word": "にゅういん", "reading": "nyuuin", "meaning": "hospitalización" }]
+  },
+  {
+    "character": "にょ",
+    "readings": [{ "type": "romaji", "value": "nyo" }],
+    "meanings": ["nyo (combinación yōon)"],
+    "strokeCount": 5,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "n-row"],
+    "examples": [{ "word": "にょう", "reading": "nyou", "meaning": "orina" }]
+  },
+  {
+    "character": "ひゃ",
+    "readings": [{ "type": "romaji", "value": "hya" }],
+    "meanings": ["hya (combinación yōon)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "h-row"],
+    "examples": [{ "word": "ひゃく", "reading": "hyaku", "meaning": "cien" }]
+  },
+  {
+    "character": "ひゅ",
+    "readings": [{ "type": "romaji", "value": "hyu" }],
+    "meanings": ["hyu (combinación yōon)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "h-row"],
+    "examples": [{ "word": "ひゅうが", "reading": "hyuuga", "meaning": "Hyūga (lugar)" }]
+  },
+  {
+    "character": "ひょ",
+    "readings": [{ "type": "romaji", "value": "hyo" }],
+    "meanings": ["hyo (combinación yōon)"],
+    "strokeCount": 3,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "h-row"],
+    "examples": [{ "word": "ひょう", "reading": "hyou", "meaning": "tabla / lista" }]
+  },
+  {
+    "character": "みゃ",
+    "readings": [{ "type": "romaji", "value": "mya" }],
+    "meanings": ["mya (combinación yōon)"],
+    "strokeCount": 5,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "m-row"],
+    "examples": [{ "word": "みゃく", "reading": "myaku", "meaning": "pulso" }]
+  },
+  {
+    "character": "みゅ",
+    "readings": [{ "type": "romaji", "value": "myu" }],
+    "meanings": ["myu (combinación yōon)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "m-row"],
+    "examples": [{ "word": "みゅーじっく", "reading": "myuujikku", "meaning": "música" }]
+  },
+  {
+    "character": "みょ",
+    "readings": [{ "type": "romaji", "value": "myo" }],
+    "meanings": ["myo (combinación yōon)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "m-row"],
+    "examples": [{ "word": "みょうじ", "reading": "myouji", "meaning": "apellido" }]
+  },
+  {
+    "character": "りゃ",
+    "readings": [{ "type": "romaji", "value": "rya" }],
+    "meanings": ["rya (combinación yōon)"],
+    "strokeCount": 5,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "r-row"],
+    "examples": [{ "word": "りゃく", "reading": "ryaku", "meaning": "abreviación" }]
+  },
+  {
+    "character": "りゅ",
+    "readings": [{ "type": "romaji", "value": "ryu" }],
+    "meanings": ["ryu (combinación yōon)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "r-row"],
+    "examples": [{ "word": "りゅう", "reading": "ryuu", "meaning": "dragón" }]
+  },
+  {
+    "character": "りょ",
+    "readings": [{ "type": "romaji", "value": "ryo" }],
+    "meanings": ["ryo (combinación yōon)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "r-row"],
+    "examples": [{ "word": "りょうり", "reading": "ryouri", "meaning": "cocina / plato" }]
+  },
+  {
+    "character": "ぎゃ",
+    "readings": [{ "type": "romaji", "value": "gya" }],
+    "meanings": ["gya (combinación yōon sonora)"],
+    "strokeCount": 8,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "dakuten", "k-row"],
+    "examples": [{ "word": "ぎゃく", "reading": "gyaku", "meaning": "inverso / opuesto" }]
+  },
+  {
+    "character": "ぎゅ",
+    "readings": [{ "type": "romaji", "value": "gyu" }],
+    "meanings": ["gyu (combinación yōon sonora)"],
+    "strokeCount": 7,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "dakuten", "k-row"],
+    "examples": [{ "word": "ぎゅうにく", "reading": "gyuuniku", "meaning": "carne de res" }]
+  },
+  {
+    "character": "ぎょ",
+    "readings": [{ "type": "romaji", "value": "gyo" }],
+    "meanings": ["gyo (combinación yōon sonora)"],
+    "strokeCount": 7,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "dakuten", "k-row"],
+    "examples": [{ "word": "ぎょうれつ", "reading": "gyouretsu", "meaning": "fila / cola" }]
+  },
+  {
+    "character": "じゃ",
+    "readings": [{ "type": "romaji", "value": "ja" }],
+    "meanings": ["ja (combinación yōon sonora)"],
+    "strokeCount": 5,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "dakuten", "s-row"],
+    "examples": [{ "word": "じゃあ", "reading": "jaa", "meaning": "entonces / bueno" }]
+  },
+  {
+    "character": "じゅ",
+    "readings": [{ "type": "romaji", "value": "ju" }],
+    "meanings": ["ju (combinación yōon sonora)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "dakuten", "s-row"],
+    "examples": [{ "word": "じゅう", "reading": "juu", "meaning": "diez" }]
+  },
+  {
+    "character": "じょ",
+    "readings": [{ "type": "romaji", "value": "jo" }],
+    "meanings": ["jo (combinación yōon sonora)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "dakuten", "s-row"],
+    "examples": [{ "word": "じょうず", "reading": "jouzu", "meaning": "hábil / bueno en" }]
+  },
+  {
+    "character": "びゃ",
+    "readings": [{ "type": "romaji", "value": "bya" }],
+    "meanings": ["bya (combinación yōon sonora)"],
+    "strokeCount": 5,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "dakuten", "h-row"],
+    "examples": [{ "word": "さんびゃく", "reading": "sanbyaku", "meaning": "trescientos" }]
+  },
+  {
+    "character": "びゅ",
+    "readings": [{ "type": "romaji", "value": "byu" }],
+    "meanings": ["byu (combinación yōon sonora)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "dakuten", "h-row"],
+    "examples": [{ "word": "びゅう", "reading": "byuu", "meaning": "sonido del viento" }]
+  },
+  {
+    "character": "びょ",
+    "readings": [{ "type": "romaji", "value": "byo" }],
+    "meanings": ["byo (combinación yōon sonora)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "dakuten", "h-row"],
+    "examples": [{ "word": "びょういん", "reading": "byouin", "meaning": "hospital" }]
+  },
+  {
+    "character": "ぴゃ",
+    "readings": [{ "type": "romaji", "value": "pya" }],
+    "meanings": ["pya (combinación yōon sorda)"],
+    "strokeCount": 5,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "handakuten", "h-row"],
+    "examples": [{ "word": "ろっぴゃく", "reading": "roppyaku", "meaning": "seiscientos" }]
+  },
+  {
+    "character": "ぴゅ",
+    "readings": [{ "type": "romaji", "value": "pyu" }],
+    "meanings": ["pyu (combinación yōon sorda)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "handakuten", "h-row"],
+    "examples": [{ "word": "ぴゅうぴゅう", "reading": "pyuupyuu", "meaning": "silbido del viento" }]
+  },
+  {
+    "character": "ぴょ",
+    "readings": [{ "type": "romaji", "value": "pyo" }],
+    "meanings": ["pyo (combinación yōon sorda)"],
+    "strokeCount": 4,
+    "level": "n5",
+    "tags": ["consonant", "yoon", "handakuten", "h-row"],
+    "examples": [{ "word": "ぴょん", "reading": "pyon", "meaning": "salto (onomatopeya)" }]
+  }
+]

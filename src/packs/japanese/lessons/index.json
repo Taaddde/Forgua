@@ -1,0 +1,180 @@
+{
+  "lessons": [
+    {
+      "id": "hiragana-01",
+      "title": "Hiragana: あ行 (a, i, u, e, o)",
+      "description": "Las 5 vocales japonesas — la base de todo",
+      "level": "n5",
+      "category": "characters",
+      "order": 1,
+      "prerequisites": [],
+      "estimatedMinutes": 10,
+      "newItemCount": 5
+    },
+    {
+      "id": "hiragana-02",
+      "title": "Hiragana: か行 (ka, ki, ku, ke, ko)",
+      "description": "Consonante K + vocales",
+      "level": "n5",
+      "category": "characters",
+      "order": 2,
+      "prerequisites": ["hiragana-01"],
+      "estimatedMinutes": 10,
+      "newItemCount": 5
+    },
+    {
+      "id": "hiragana-03",
+      "title": "Hiragana: さ行 (sa, shi, su, se, so)",
+      "description": "Consonante S + vocales",
+      "level": "n5",
+      "category": "characters",
+      "order": 3,
+      "prerequisites": ["hiragana-02"],
+      "estimatedMinutes": 10,
+      "newItemCount": 5
+    },
+    {
+      "id": "hiragana-04",
+      "title": "Hiragana: た行 (ta, chi, tsu, te, to)",
+      "description": "Consonante T + vocales (con irregulares chi y tsu)",
+      "level": "n5",
+      "category": "characters",
+      "order": 4,
+      "prerequisites": ["hiragana-03"],
+      "estimatedMinutes": 10,
+      "newItemCount": 5
+    },
+    {
+      "id": "hiragana-05",
+      "title": "Hiragana: な行 (na, ni, nu, ne, no)",
+      "description": "Consonante N + vocales",
+      "level": "n5",
+      "category": "characters",
+      "order": 5,
+      "prerequisites": ["hiragana-04"],
+      "estimatedMinutes": 10,
+      "newItemCount": 5
+    },
+    {
+      "id": "hiragana-06",
+      "title": "Hiragana: は行 (ha, hi, fu, he, ho)",
+      "description": "Consonante H + vocales (fu en vez de hu)",
+      "level": "n5",
+      "category": "characters",
+      "order": 6,
+      "prerequisites": ["hiragana-05"],
+      "estimatedMinutes": 10,
+      "newItemCount": 5
+    },
+    {
+      "id": "hiragana-07",
+      "title": "Hiragana: ま行 (ma, mi, mu, me, mo)",
+      "description": "Consonante M + vocales",
+      "level": "n5",
+      "category": "characters",
+      "order": 7,
+      "prerequisites": ["hiragana-06"],
+      "estimatedMinutes": 10,
+      "newItemCount": 5
+    },
+    {
+      "id": "hiragana-08",
+      "title": "Hiragana: や行・ら行・わ行 (ya, yu, yo, ra~ro, wa, wo, n)",
+      "description": "Las últimas filas del hiragana + ん",
+      "level": "n5",
+      "category": "characters",
+      "order": 8,
+      "prerequisites": ["hiragana-07"],
+      "estimatedMinutes": 15,
+      "newItemCount": 11
+    },
+    {
+      "id": "hiragana-09",
+      "title": "Hiragana: Dakuten y Handakuten (が, ぱ, etc.)",
+      "description": "Variantes con ゛ y ゜ — ga, za, da, ba, pa",
+      "level": "n5",
+      "category": "characters",
+      "order": 9,
+      "prerequisites": ["hiragana-08"],
+      "estimatedMinutes": 15,
+      "newItemCount": 25
+    },
+    {
+      "id": "hiragana-10",
+      "title": "Hiragana: Combinaciones (きゃ, しゅ, ちょ, etc.)",
+      "description": "Sílabas combinadas con や, ゆ, よ pequeñas",
+      "level": "n5",
+      "category": "characters",
+      "order": 10,
+      "prerequisites": ["hiragana-09"],
+      "estimatedMinutes": 15,
+      "newItemCount": 21
+    },
+    {
+      "id": "vocab-n5-01",
+      "title": "Primeras palabras: Saludos",
+      "description": "こんにちは、ありがとう、すみません — sobrevivir en japonés",
+      "level": "n5",
+      "category": "vocabulary",
+      "order": 11,
+      "prerequisites": ["hiragana-08"],
+      "estimatedMinutes": 12,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-n5-02",
+      "title": "Números 1-10",
+      "description": "いち、に、さん… Contar del 1 al 10",
+      "level": "n5",
+      "category": "vocabulary",
+      "order": 12,
+      "prerequisites": ["vocab-n5-01"],
+      "estimatedMinutes": 10,
+      "newItemCount": 10
+    },
+    {
+      "id": "grammar-n5-01",
+      "title": "Tu primera oración: XはYです",
+      "description": "La estructura más básica del japonés: 'X es Y'",
+      "level": "n5",
+      "category": "grammar",
+      "order": 13,
+      "prerequisites": ["vocab-n5-01"],
+      "estimatedMinutes": 15,
+      "newItemCount": 3
+    },
+    {
+      "id": "grammar-n5-02",
+      "title": "Preguntas: ～ですか？",
+      "description": "Convertir oraciones en preguntas con か",
+      "level": "n5",
+      "category": "grammar",
+      "order": 14,
+      "prerequisites": ["grammar-n5-01"],
+      "estimatedMinutes": 12,
+      "newItemCount": 3
+    },
+    {
+      "id": "vocab-n5-03",
+      "title": "Personas y familia",
+      "description": "わたし、せんせい、ともだち — las personas a tu alrededor",
+      "level": "n5",
+      "category": "vocabulary",
+      "order": 15,
+      "prerequisites": ["grammar-n5-01"],
+      "estimatedMinutes": 12,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-n5-03",
+      "title": "Construir oraciones: SOV + partículas は・を・に",
+      "description": "Sujeto は Objeto を Verbo — la columna vertebral del japonés",
+      "level": "n5",
+      "category": "grammar",
+      "order": 16,
+      "prerequisites": ["grammar-n5-02", "vocab-n5-03"],
+      "estimatedMinutes": 20,
+      "newItemCount": 5
+    }
+  ]
+}

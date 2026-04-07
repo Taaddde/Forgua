@@ -1,0 +1,105 @@
+{
+  "id": "vocab-n5-02",
+  "title": "Vocabulario N5: Números 1-10",
+  "description": "Aprendé los números del 1 al 10 en japonés. Cada número tiene su kanji y lectura en hiragana. Son esenciales para contar, decir la hora, precios y más.",
+  "level": "n5",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "一（いち）",
+      "back": "1 — uno",
+      "reading": "ichi",
+      "explanation": "一 es el kanji para 'uno'. Es un solo trazo horizontal. Se lee いち (ichi). Es el número más simple.",
+      "cardRef": { "category": "vocabulary", "front": "一（いち）" }
+    },
+    {
+      "front": "二（に）",
+      "back": "2 — dos",
+      "reading": "ni",
+      "explanation": "二 es el kanji para 'dos'. Son dos trazos horizontales. Se lee に (ni). Aparece en にほん (nihon, Japón).",
+      "cardRef": { "category": "vocabulary", "front": "二（に）" }
+    },
+    {
+      "front": "三（さん）",
+      "back": "3 — tres",
+      "reading": "san",
+      "explanation": "三 es el kanji para 'tres'. Son tres trazos horizontales. Se lee さん (san). También es el sufijo honorífico (Sr./Sra.).",
+      "cardRef": { "category": "vocabulary", "front": "三（さん）" }
+    },
+    {
+      "front": "四（よん）",
+      "back": "4 — cuatro",
+      "reading": "yon",
+      "explanation": "四 es el kanji para 'cuatro'. Se lee よん (yon) o し (shi). Se prefiere よん porque し suena igual que 'muerte' (死).",
+      "cardRef": { "category": "vocabulary", "front": "四（よん）" }
+    },
+    {
+      "front": "五（ご）",
+      "back": "5 — cinco",
+      "reading": "go",
+      "explanation": "五 es el kanji para 'cinco'. Se lee ご (go). Aparece en ごがつ (gogatsu, mayo — el quinto mes).",
+      "cardRef": { "category": "vocabulary", "front": "五（ご）" }
+    },
+    {
+      "front": "六（ろく）",
+      "back": "6 — seis",
+      "reading": "roku",
+      "explanation": "六 es el kanji para 'seis'. Se lee ろく (roku). Aparece en ろくがつ (rokugatsu, junio).",
+      "cardRef": { "category": "vocabulary", "front": "六（ろく）" }
+    },
+    {
+      "front": "七（なな）",
+      "back": "7 — siete",
+      "reading": "nana",
+      "explanation": "七 es el kanji para 'siete'. Se lee なな (nana) o しち (shichi). Se prefiere なな en la mayoría de contextos.",
+      "cardRef": { "category": "vocabulary", "front": "七（なな）" }
+    },
+    {
+      "front": "八（はち）",
+      "back": "8 — ocho",
+      "reading": "hachi",
+      "explanation": "八 es el kanji para 'ocho'. Se lee はち (hachi). Los trazos se abren hacia abajo, simbolizando expansión y prosperidad.",
+      "cardRef": { "category": "vocabulary", "front": "八（はち）" }
+    },
+    {
+      "front": "九（きゅう）",
+      "back": "9 — nueve",
+      "reading": "kyuu",
+      "explanation": "九 es el kanji para 'nueve'. Se lee きゅう (kyuu) o く (ku). Aparece en きゅうがつ (kuugatsu, septiembre).",
+      "cardRef": { "category": "vocabulary", "front": "九（きゅう）" }
+    },
+    {
+      "front": "十（じゅう）",
+      "back": "10 — diez",
+      "reading": "juu",
+      "explanation": "十 es el kanji para 'diez'. Es una cruz: un trazo horizontal y uno vertical. Se lee じゅう (juu). Con él se forman 11-99.",
+      "cardRef": { "category": "vocabulary", "front": "十（じゅう）" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Los números del 1 al 10",
+      "instruction": "Estos son los números básicos en japonés. Cada uno tiene un kanji simple y una lectura en hiragana. Los kanji de 一, 二 y 三 son intuitivos: uno, dos y tres trazos horizontales.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué número es?",
+      "instruction": "Ves el kanji con su lectura. Elegí el número correcto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "Del número al japonés",
+      "instruction": "Ves el número en español. Recordá el kanji y la lectura japonesa.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste los números del 1 al 10: 一、二、三、四、五、六、七、八、九、十. Ahora van a aparecer en tus repasos diarios.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "hiragana-06",
+  "title": "Hiragana: は行 (ha, hi, fu, he, ho)",
+  "description": "Aprendé los cinco caracteres de la fila は: ha, hi, fu, he, ho. Notá que ふ se lee 'fu' (no 'hu') y は como partícula se lee 'wa'.",
+  "level": "n5",
+  "category": "characters",
+  "items": [
+    {
+      "front": "は",
+      "back": "ha",
+      "reading": "ha",
+      "explanation": "は se pronuncia 'ha'. Como partícula de tema se lee 'wa'. Aparece en はな (hana, flor) y はし (hashi, puente/palillos).",
+      "mnemonic": "は looks like \"HA!\" with arms raised",
+      "cardRef": { "category": "characters", "front": "は" }
+    },
+    {
+      "front": "ひ",
+      "back": "hi",
+      "reading": "hi",
+      "explanation": "ひ se pronuncia 'hi'. Aparece en ひと (hito, persona) y ひる (hiru, mediodía).",
+      "mnemonic": "ひ is a person saying \"HEE hee\"",
+      "cardRef": { "category": "characters", "front": "ひ" }
+    },
+    {
+      "front": "ふ",
+      "back": "fu",
+      "reading": "fu",
+      "explanation": "ふ se pronuncia 'fu' (un sonido entre 'f' y 'h'). Aparece en ふゆ (fuyu, invierno) y ふね (fune, barco).",
+      "mnemonic": "ふ looks like Mount FUji",
+      "cardRef": { "category": "characters", "front": "ふ" }
+    },
+    {
+      "front": "へ",
+      "back": "he",
+      "reading": "he",
+      "explanation": "へ se pronuncia 'he'. Como partícula de dirección se lee 'e'. Aparece en へや (heya, habitación) y へいわ (heiwa, paz).",
+      "mnemonic": "へ is a small HEap/hill",
+      "cardRef": { "category": "characters", "front": "へ" }
+    },
+    {
+      "front": "ほ",
+      "back": "ho",
+      "reading": "ho",
+      "explanation": "ほ se pronuncia 'ho'. Aparece en ほん (hon, libro) y ほし (hoshi, estrella).",
+      "mnemonic": "ほ has a HOle in the belly",
+      "cardRef": { "category": "characters", "front": "ほ" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Conocé la fila は",
+      "instruction": "Estos son los cinco caracteres de la fila は (h-). Recordá que ふ se lee 'fu' y que は y へ cambian de lectura cuando se usan como partículas.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es cuál?",
+      "instruction": "Elegí la lectura correcta para cada carácter.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "recall",
+      "title": "Ahora al revés",
+      "instruction": "Ves la lectura en romaji. Escribí o elegí el hiragana correcto.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "write",
+      "title": "Escribilo vos",
+      "instruction": "Escribí el hiragana que corresponde a cada sonido.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste は, ひ, ふ, へ, ほ. Ahora van a aparecer en tus repasos diarios.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    }
+  ]
+}

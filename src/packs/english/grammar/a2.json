@@ -1,0 +1,325 @@
+[
+  {
+    "id": "a2-present-perfect",
+    "title": "Present Perfect",
+    "pattern": "Subject + have/has + past participle",
+    "meaning": "presente perfecto",
+    "level": "a2",
+    "explanation": "Se usa para experiencias de vida, acciones pasadas con resultado presente, y con 'already', 'yet', 'just', 'ever', 'never'. Se forma con have/has + participio pasado.",
+    "examples": [
+      { "sentence": "I have visited Paris.", "reading": "", "translation": "He visitado París." },
+      { "sentence": "She has already finished.", "reading": "", "translation": "Ella ya terminó." },
+      { "sentence": "Have you ever eaten sushi?", "reading": "", "translation": "¿Alguna vez comiste sushi?" }
+    ],
+    "notes": "Contracciones: I've, you've, he's, she's, we've, they've. Negación: haven't/hasn't.",
+    "tags": ["tense", "perfect"]
+  },
+  {
+    "id": "a2-present-perfect-vs-past",
+    "title": "Present Perfect vs Past Simple",
+    "pattern": "have done (no time) vs did (specific time)",
+    "meaning": "presente perfecto vs pasado simple",
+    "level": "a2",
+    "explanation": "Present Perfect: sin tiempo específico, experiencias, resultado presente (I have lost my keys). Past Simple: tiempo específico mencionado (I lost my keys yesterday). Clave: si hay 'yesterday', 'last week', 'in 2020' → Past Simple.",
+    "examples": [
+      { "sentence": "I have been to London. / I went to London in 2019.", "reading": "", "translation": "He estado en Londres. / Fui a Londres en 2019." },
+      { "sentence": "She has just arrived. / She arrived ten minutes ago.", "reading": "", "translation": "Ella acaba de llegar. / Ella llegó hace diez minutos." }
+    ],
+    "tags": ["tense", "comparison"]
+  },
+  {
+    "id": "a2-will-future",
+    "title": "Will (Future)",
+    "pattern": "Subject + will + base verb",
+    "meaning": "futuro con 'will'",
+    "level": "a2",
+    "explanation": "Se usa para predicciones, decisiones espontáneas, promesas y ofrecimientos. Contracción: I'll. Negación: won't.",
+    "examples": [
+      { "sentence": "It will rain tomorrow.", "reading": "", "translation": "Va a llover mañana." },
+      { "sentence": "I'll help you.", "reading": "", "translation": "Te voy a ayudar." },
+      { "sentence": "She won't come to the party.", "reading": "", "translation": "Ella no va a venir a la fiesta." }
+    ],
+    "notes": "Going to = planes decididos de antemano. Will = decisiones del momento, predicciones, promesas.",
+    "tags": ["tense", "future", "modal"]
+  },
+  {
+    "id": "a2-first-conditional",
+    "title": "First Conditional",
+    "pattern": "If + present simple, will + base verb",
+    "meaning": "primer condicional (situaciones posibles)",
+    "level": "a2",
+    "explanation": "Se usa para situaciones futuras posibles y sus consecuencias. La condición va en presente simple, el resultado en will + verbo.",
+    "examples": [
+      { "sentence": "If it rains, I will stay home.", "reading": "", "translation": "Si llueve, me quedo en casa." },
+      { "sentence": "If you study hard, you will pass the exam.", "reading": "", "translation": "Si estudiás mucho, vas a aprobar el examen." }
+    ],
+    "notes": "El orden puede invertirse: I will stay home if it rains. (sin coma)",
+    "tags": ["conditional", "future"]
+  },
+  {
+    "id": "a2-should",
+    "title": "Should / Shouldn't",
+    "pattern": "Subject + should/shouldn't + base verb",
+    "meaning": "debería / no debería (consejo)",
+    "level": "a2",
+    "explanation": "Se usa para dar consejos y recomendaciones. Es menos fuerte que 'must'. No cambia con la persona.",
+    "examples": [
+      { "sentence": "You should see a doctor.", "reading": "", "translation": "Deberías ir al médico." },
+      { "sentence": "She shouldn't eat so much sugar.", "reading": "", "translation": "No debería comer tanta azúcar." },
+      { "sentence": "Should I call him?", "reading": "", "translation": "¿Debería llamarlo?" }
+    ],
+    "tags": ["modal", "advice"]
+  },
+  {
+    "id": "a2-must-mustn't",
+    "title": "Must / Mustn't",
+    "pattern": "Subject + must/mustn't + base verb",
+    "meaning": "deber / no deber (obligación)",
+    "level": "a2",
+    "explanation": "'Must' expresa obligación fuerte o necesidad. 'Mustn't' expresa prohibición. Es más fuerte que 'should'.",
+    "examples": [
+      { "sentence": "You must wear a seatbelt.", "reading": "", "translation": "Debés usar cinturón de seguridad." },
+      { "sentence": "You mustn't smoke here.", "reading": "", "translation": "No debés fumar acá." },
+      { "sentence": "I must finish this today.", "reading": "", "translation": "Debo terminar esto hoy." }
+    ],
+    "tags": ["modal", "obligation"]
+  },
+  {
+    "id": "a2-have-to",
+    "title": "Have to / Don't have to",
+    "pattern": "Subject + have to/don't have to + base verb",
+    "meaning": "tener que / no tener que",
+    "level": "a2",
+    "explanation": "'Have to' expresa obligación externa (reglas, leyes). 'Don't have to' significa que no es necesario (diferente de mustn't que es prohibición). He/she usa 'has to'.",
+    "examples": [
+      { "sentence": "I have to wake up early.", "reading": "", "translation": "Tengo que levantarme temprano." },
+      { "sentence": "You don't have to come.", "reading": "", "translation": "No tenés que venir (no es necesario)." },
+      { "sentence": "Does she have to work on Sundays?", "reading": "", "translation": "¿Tiene que trabajar los domingos?" }
+    ],
+    "tags": ["modal", "obligation"]
+  },
+  {
+    "id": "a2-too-enough",
+    "title": "Too / Enough",
+    "pattern": "too + adjective | adjective + enough | enough + noun",
+    "meaning": "demasiado / suficiente",
+    "level": "a2",
+    "explanation": "'Too' va antes del adjetivo e indica exceso. 'Enough' va después del adjetivo o antes del sustantivo e indica suficiencia.",
+    "examples": [
+      { "sentence": "This coffee is too hot.", "reading": "", "translation": "Este café está demasiado caliente." },
+      { "sentence": "She is old enough to drive.", "reading": "", "translation": "Ella tiene edad suficiente para manejar." },
+      { "sentence": "We don't have enough time.", "reading": "", "translation": "No tenemos suficiente tiempo." }
+    ],
+    "tags": ["degree", "adjectives"]
+  },
+  {
+    "id": "a2-gerund-infinitive",
+    "title": "Gerund vs Infinitive",
+    "pattern": "verb + -ing (gerund) | to + verb (infinitive)",
+    "meaning": "gerundio vs infinitivo",
+    "level": "a2",
+    "explanation": "Algunos verbos van seguidos de gerundio (-ing): enjoy, finish, avoid, mind, suggest. Otros van seguidos de infinitivo (to): want, need, decide, plan, hope, learn. Algunos aceptan ambos: like, love, hate, start, begin.",
+    "examples": [
+      { "sentence": "I enjoy reading books.", "reading": "", "translation": "Disfruto leer libros." },
+      { "sentence": "She decided to study abroad.", "reading": "", "translation": "Ella decidió estudiar afuera." },
+      { "sentence": "I like swimming. / I like to swim.", "reading": "", "translation": "Me gusta nadar." }
+    ],
+    "tags": ["verb-patterns"]
+  },
+  {
+    "id": "a2-passive-present",
+    "title": "Passive Voice (Present Simple)",
+    "pattern": "Subject + am/is/are + past participle",
+    "meaning": "voz pasiva (presente)",
+    "level": "a2",
+    "explanation": "Se usa cuando el foco está en la acción o el objeto, no en quién la realiza. Se forma con to be + participio pasado. Se puede agregar 'by + agent'.",
+    "examples": [
+      { "sentence": "English is spoken worldwide.", "reading": "", "translation": "El inglés se habla en todo el mundo." },
+      { "sentence": "The car is made in Japan.", "reading": "", "translation": "El auto es fabricado en Japón." },
+      { "sentence": "These books are written by her.", "reading": "", "translation": "Estos libros son escritos por ella." }
+    ],
+    "tags": ["passive", "tense"]
+  },
+  {
+    "id": "a2-relative-clauses",
+    "title": "Relative Clauses",
+    "pattern": "noun + who/which/that + verb",
+    "meaning": "cláusulas relativas (que, quien, cual)",
+    "level": "a2",
+    "explanation": "'Who' para personas, 'which' para cosas, 'that' para ambos. Se usan para dar más información sobre un sustantivo.",
+    "examples": [
+      { "sentence": "The man who lives next door is a teacher.", "reading": "", "translation": "El hombre que vive al lado es profesor." },
+      { "sentence": "The book which I bought is interesting.", "reading": "", "translation": "El libro que compré es interesante." },
+      { "sentence": "That's the restaurant that we like.", "reading": "", "translation": "Ese es el restaurante que nos gusta." }
+    ],
+    "tags": ["clauses", "pronouns"]
+  },
+  {
+    "id": "a2-used-to",
+    "title": "Used to",
+    "pattern": "Subject + used to + base verb",
+    "meaning": "solía (hábitos pasados)",
+    "level": "a2",
+    "explanation": "Se usa para hablar de hábitos o estados del pasado que ya no existen. Solo existe en pasado. Negación: didn't use to. Pregunta: Did you use to...?",
+    "examples": [
+      { "sentence": "I used to play soccer every day.", "reading": "", "translation": "Solía jugar al fútbol todos los días." },
+      { "sentence": "She didn't use to like vegetables.", "reading": "", "translation": "A ella no le solían gustar las verduras." },
+      { "sentence": "Did you use to live here?", "reading": "", "translation": "¿Solías vivir acá?" }
+    ],
+    "tags": ["past", "habits"]
+  },
+  {
+    "id": "a2-so-neither",
+    "title": "So / Neither",
+    "pattern": "So + auxiliary + subject | Neither + auxiliary + subject",
+    "meaning": "también / tampoco",
+    "level": "a2",
+    "explanation": "'So do I' = yo también (oraciones afirmativas). 'Neither do I' = yo tampoco (oraciones negativas). El auxiliar debe coincidir con la oración original.",
+    "examples": [
+      { "sentence": "I like pizza. — So do I.", "reading": "", "translation": "Me gusta la pizza. — A mí también." },
+      { "sentence": "She can't swim. — Neither can I.", "reading": "", "translation": "Ella no sabe nadar. — Yo tampoco." },
+      { "sentence": "He is tired. — So am I.", "reading": "", "translation": "Él está cansado. — Yo también." }
+    ],
+    "tags": ["agreement", "auxiliaries"]
+  },
+  {
+    "id": "a2-phrasal-verbs",
+    "title": "Phrasal Verbs",
+    "pattern": "verb + preposition/adverb",
+    "meaning": "verbos frasales",
+    "level": "a2",
+    "explanation": "Un phrasal verb es un verbo + partícula que juntos tienen un significado diferente. Pueden ser separables (look it up) o inseparables (look after). Son muy comunes en inglés cotidiano.",
+    "examples": [
+      { "sentence": "I need to look up this word.", "reading": "", "translation": "Necesito buscar esta palabra." },
+      { "sentence": "She takes after her mother.", "reading": "", "translation": "Ella se parece a su madre." },
+      { "sentence": "Please turn off the light.", "reading": "", "translation": "Por favor, apagá la luz." }
+    ],
+    "notes": "Separables: turn off the TV / turn the TV off. Inseparables: look after the children (NO look the children after).",
+    "tags": ["phrasal-verbs", "vocabulary"]
+  },
+  {
+    "id": "a2-second-conditional",
+    "title": "Second Conditional",
+    "pattern": "If + past simple, would + base verb",
+    "meaning": "segundo condicional (situaciones hipotéticas)",
+    "level": "a2",
+    "explanation": "Se usa para situaciones imaginarias o improbables en el presente/futuro. La condición va en pasado simple, el resultado con would.",
+    "examples": [
+      { "sentence": "If I had money, I would travel the world.", "reading": "", "translation": "Si tuviera dinero, viajaría por el mundo." },
+      { "sentence": "If she were taller, she would play basketball.", "reading": "", "translation": "Si ella fuera más alta, jugaría al básquet." }
+    ],
+    "notes": "Con 'to be' se puede usar 'were' para todas las personas en contextos formales: If I were you...",
+    "tags": ["conditional", "hypothetical"]
+  },
+  {
+    "id": "a2-past-continuous",
+    "title": "Past Continuous",
+    "pattern": "Subject + was/were + verb-ing",
+    "meaning": "pasado continuo",
+    "level": "a2",
+    "explanation": "Se usa para acciones en progreso en un momento del pasado, o para acciones interrumpidas. También para describir el contexto de una historia.",
+    "examples": [
+      { "sentence": "I was sleeping when you called.", "reading": "", "translation": "Estaba durmiendo cuando llamaste." },
+      { "sentence": "They were playing in the park.", "reading": "", "translation": "Estaban jugando en el parque." },
+      { "sentence": "What were you doing at 8 pm?", "reading": "", "translation": "¿Qué estabas haciendo a las 8?" }
+    ],
+    "tags": ["tense", "past", "continuous"]
+  },
+  {
+    "id": "a2-past-perfect-intro",
+    "title": "Past Perfect (Introduction)",
+    "pattern": "Subject + had + past participle",
+    "meaning": "pasado perfecto (introducción)",
+    "level": "a2",
+    "explanation": "Se usa para hablar de una acción que ocurrió ANTES de otra acción en el pasado. 'Had' + participio pasado para todas las personas.",
+    "examples": [
+      { "sentence": "When I arrived, she had already left.", "reading": "", "translation": "Cuando llegué, ella ya se había ido." },
+      { "sentence": "He had never seen snow before.", "reading": "", "translation": "Él nunca había visto nieve antes." }
+    ],
+    "tags": ["tense", "past", "perfect"]
+  },
+  {
+    "id": "a2-reported-speech-intro",
+    "title": "Reported Speech (Introduction)",
+    "pattern": "He said (that) + subject + past verb",
+    "meaning": "discurso indirecto (introducción)",
+    "level": "a2",
+    "explanation": "Para reportar lo que alguien dijo, los tiempos verbales retroceden un paso: present→past, past→past perfect, will→would. 'That' es opcional.",
+    "examples": [
+      { "sentence": "She said she was tired.", "reading": "", "translation": "Ella dijo que estaba cansada." },
+      { "sentence": "He told me he would come.", "reading": "", "translation": "Él me dijo que vendría." }
+    ],
+    "notes": "say = decir (sin persona). tell = decir a alguien (tell me, tell her).",
+    "tags": ["reported-speech"]
+  },
+  {
+    "id": "a2-make-let",
+    "title": "Make / Let / Allow",
+    "pattern": "make/let + object + base verb | allow + object + to verb",
+    "meaning": "hacer que / dejar / permitir",
+    "level": "a2",
+    "explanation": "'Make' = obligar/causar. 'Let' = permitir (informal). 'Allow' = permitir (formal). Make y let van seguidos de verbo base. Allow va seguido de to + verbo.",
+    "examples": [
+      { "sentence": "The teacher made us study.", "reading": "", "translation": "El profesor nos hizo estudiar." },
+      { "sentence": "Let me help you.", "reading": "", "translation": "Dejame ayudarte." },
+      { "sentence": "They don't allow smoking here.", "reading": "", "translation": "No permiten fumar acá." }
+    ],
+    "tags": ["causative", "permission"]
+  },
+  {
+    "id": "a2-both-either-neither",
+    "title": "Both / Either / Neither",
+    "pattern": "both...and / either...or / neither...nor",
+    "meaning": "ambos / cualquiera de / ninguno de",
+    "level": "a2",
+    "explanation": "'Both...and' = ambos (afirmativo). 'Either...or' = uno u otro (elección). 'Neither...nor' = ni uno ni otro (negación doble).",
+    "examples": [
+      { "sentence": "Both tea and coffee are fine.", "reading": "", "translation": "Tanto té como café están bien." },
+      { "sentence": "Either you come or I go.", "reading": "", "translation": "O venís vos o voy yo." },
+      { "sentence": "Neither option is good.", "reading": "", "translation": "Ninguna opción es buena." }
+    ],
+    "tags": ["conjunctions", "correlation"]
+  },
+  {
+    "id": "a2-quantifiers",
+    "title": "Quantifiers",
+    "pattern": "much/many/a lot of/few/little/several",
+    "meaning": "cuantificadores",
+    "level": "a2",
+    "explanation": "'Many/few' con contables. 'Much/little' con incontables. 'A lot of' con ambos. 'Several' = varios (contables). 'A few' = algunos (positivo). 'Few' = pocos (negativo).",
+    "examples": [
+      { "sentence": "There are many people here.", "reading": "", "translation": "Hay mucha gente acá." },
+      { "sentence": "I have little time.", "reading": "", "translation": "Tengo poco tiempo." },
+      { "sentence": "A few students passed the exam.", "reading": "", "translation": "Algunos estudiantes aprobaron el examen." }
+    ],
+    "tags": ["quantifiers", "countable"]
+  },
+  {
+    "id": "a2-tag-questions",
+    "title": "Tag Questions",
+    "pattern": "Statement, + opposite auxiliary + pronoun?",
+    "meaning": "preguntas coletilla (¿no?, ¿verdad?)",
+    "level": "a2",
+    "explanation": "Se agregan al final de una oración para confirmar información. Si la oración es afirmativa, el tag es negativo y viceversa.",
+    "examples": [
+      { "sentence": "You are from Argentina, aren't you?", "reading": "", "translation": "Sos de Argentina, ¿no?" },
+      { "sentence": "She doesn't like fish, does she?", "reading": "", "translation": "A ella no le gusta el pescado, ¿verdad?" },
+      { "sentence": "They can swim, can't they?", "reading": "", "translation": "Saben nadar, ¿no?" }
+    ],
+    "tags": ["questions", "confirmation"]
+  },
+  {
+    "id": "a2-prepositions-movement",
+    "title": "Prepositions of Movement",
+    "pattern": "to / from / into / out of / through / across / along / towards",
+    "meaning": "preposiciones de movimiento",
+    "level": "a2",
+    "explanation": "to = hacia/a, from = desde/de, into = dentro de, out of = fuera de, through = a través de, across = cruzando, along = a lo largo de, towards = hacia.",
+    "examples": [
+      { "sentence": "She walked across the street.", "reading": "", "translation": "Ella cruzó la calle caminando." },
+      { "sentence": "The cat jumped into the box.", "reading": "", "translation": "El gato saltó dentro de la caja." },
+      { "sentence": "We drove through the tunnel.", "reading": "", "translation": "Manejamos a través del túnel." }
+    ],
+    "tags": ["prepositions", "movement"]
+  }
+]

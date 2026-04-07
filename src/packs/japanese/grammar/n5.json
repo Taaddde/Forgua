@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "n5-desu",
+    "title": "です",
+    "pattern": "[名詞] + です",
+    "meaning": "ser / estar (formal)",
+    "level": "n5",
+    "explanation": "です es la cópula formal del japonés. Se usa al final de una oración para afirmar que algo es o equivale a algo. Es la forma educada y se utiliza en la mayoría de situaciones cotidianas.",
+    "examples": [
+      {
+        "sentence": "わたしは がくせい です。",
+        "reading": "わたしは がくせい です。",
+        "translation": "Yo soy estudiante.",
+        "breakdown": ["わたし = yo", "は = partícula de tema", "がくせい = estudiante", "です = ser (formal)"]
+      },
+      {
+        "sentence": "これは ほん です。",
+        "reading": "これは ほん です。",
+        "translation": "Esto es un libro.",
+        "breakdown": ["これ = esto", "は = partícula de tema", "ほん = libro", "です = ser (formal)"]
+      }
+    ],
+    "notes": "です no se conjuga como un verbo regular. Su forma pasada es でした y su forma negativa es じゃありません o ではありません.",
+    "related": ["n5-da", "n5-ja-arimasen"],
+    "tags": ["cópula", "formal", "básico"]
+  },
+  {
+    "id": "n5-da",
+    "title": "だ",
+    "pattern": "[名詞] + だ",
+    "meaning": "ser / estar (informal)",
+    "level": "n5",
+    "explanation": "だ es la cópula informal del japonés. Cumple la misma función que です pero se usa en contextos casuales, con amigos o familiares. No se usa en preguntas directas.",
+    "examples": [
+      {
+        "sentence": "これは ねこ だ。",
+        "reading": "これは ねこ だ。",
+        "translation": "Esto es un gato.",
+        "breakdown": ["これ = esto", "は = partícula de tema", "ねこ = gato", "だ = ser (informal)"]
+      },
+      {
+        "sentence": "あしたは にちようび だ。",
+        "reading": "あしたは にちようび だ。",
+        "translation": "Mañana es domingo.",
+        "breakdown": ["あした = mañana", "は = partícula de tema", "にちようび = domingo", "だ = ser (informal)"]
+      }
+    ],
+    "notes": "En preguntas informales se omite だ y se usa solo entonación ascendente o la partícula の. だ no se usa con adjetivos-i.",
+    "related": ["n5-desu", "n5-ka-particle"],
+    "tags": ["cópula", "informal", "básico"]
+  },
+  {
+    "id": "n5-ja-arimasen",
+    "title": "じゃありません / ではありません",
+    "pattern": "[名詞] + じゃありません / ではありません",
+    "meaning": "no es / no estar (negación formal)",
+    "level": "n5",
+    "explanation": "じゃありません y ではありません son las formas negativas formales de です. じゃありません es más coloquial, mientras que ではありません es más formal y escrita. Ambas significan lo mismo.",
+    "examples": [
+      {
+        "sentence": "わたしは せんせい じゃありません。",
+        "reading": "わたしは せんせい じゃありません。",
+        "translation": "Yo no soy profesor.",
+        "breakdown": ["わたし = yo", "は = partícula de tema", "せんせい = profesor", "じゃありません = no ser (formal)"]
+      },
+      {
+        "sentence": "あれは びょういん ではありません。",
+        "reading": "あれは びょういん ではありません。",
+        "translation": "Aquello no es un hospital.",
+        "breakdown": ["あれ = aquello", "は = partícula de tema", "びょういん = hospital", "ではありません = no ser (formal)"]
+      }
+    ],
+    "notes": "La forma informal negativa es じゃない. La forma pasada negativa formal es じゃありませんでした.",
+    "related": ["n5-desu", "n5-da"],
+    "tags": ["cópula", "negación", "formal", "básico"]
+  },
+  {
+    "id": "n5-wa-particle",
+    "title": "は（partícula）",
+    "pattern": "[tema] + は + [comentario]",
+    "meaning": "partícula de tema (en cuanto a...)",
+    "level": "n5",
+    "explanation": "は marca el tema de la oración, es decir, aquello de lo que se está hablando. Se pronuncia 'wa' cuando funciona como partícula. Establece el contexto sobre el cual se hace un comentario.",
+    "examples": [
+      {
+        "sentence": "やまださんは にほんじん です。",
+        "reading": "やまださんは にほんじん です。",
+        "translation": "El señor Yamada es japonés.",
+        "breakdown": ["やまださん = señor Yamada", "は = partícula de tema", "にほんじん = japonés (persona)", "です = ser"]
+      },
+      {
+        "sentence": "きょうは あつい です。",
+        "reading": "きょうは あつい です。",
+        "translation": "Hoy hace calor.",
+        "breakdown": ["きょう = hoy", "は = partícula de tema", "あつい = caluroso", "です = ser (formal)"]
+      }
+    ],
+    "notes": "は se escribe con el hiragana は pero se pronuncia 'wa' cuando es partícula. No confundir con が, que marca el sujeto gramatical.",
+    "related": ["n5-ga-particle", "n5-mo-particle"],
+    "tags": ["partícula", "tema", "básico"]
+  },
+  {
+    "id": "n5-ga-particle",
+    "title": "が（partícula）",
+    "pattern": "[sujeto] + が + [predicado]",
+    "meaning": "partícula de sujeto",
+    "level": "n5",
+    "explanation": "が marca el sujeto gramatical de la oración. Se usa para introducir información nueva, con verbos de existencia (ある/いる), y con palabras interrogativas como だれが o なにが. También expresa preferencias y habilidades.",
+    "examples": [
+      {
+        "sentence": "ねこが います。",
+        "reading": "ねこが います。",
+        "translation": "Hay un gato.",
+        "breakdown": ["ねこ = gato", "が = partícula de sujeto", "います = existir (animado)"]
+      },
+      {
+        "sentence": "だれが きましたか。",
+        "reading": "だれが きましたか。",
+        "translation": "¿Quién vino?",
+        "breakdown": ["だれ = quién", "が = partícula de sujeto", "きました = vino", "か = partícula interrogativa"]
+      }
+    ],
+    "notes": "La diferencia entre は y が es sutil. は presenta información ya conocida como tema, mientras que が introduce información nueva o enfatiza el sujeto.",
+    "related": ["n5-wa-particle", "n5-iru", "n5-aru"],
+    "tags": ["partícula", "sujeto", "básico"]
+  },
+  {
+    "id": "n5-wo-particle",
+    "title": "を（partícula）",
+    "pattern": "[objeto directo] + を + [verbo]",
+    "meaning": "partícula de objeto directo",
+    "level": "n5",
+    "explanation": "を marca el objeto directo de un verbo transitivo, es decir, la cosa que recibe la acción. Se pronuncia 'o'. También se usa con verbos de movimiento para indicar el lugar que se atraviesa o recorre.",
+    "examples": [
+      {
+        "sentence": "パンを たべます。",
+        "reading": "パンを たべます。",
+        "translation": "Como pan.",
+        "breakdown": ["パン = pan", "を = partícula de objeto directo", "たべます = comer (formal)"]
+      },
+      {
+        "sentence": "にほんごを べんきょうします。",
+        "reading": "にほんごを べんきょうします。",
+        "translation": "Estudio japonés.",
+        "breakdown": ["にほんご = idioma japonés", "を = partícula de objeto directo", "べんきょうします = estudiar (formal)"]
+      }
+    ],
+    "notes": "を se escribe con el hiragana を pero se pronuncia 'o'. Solo se usa como partícula, nunca aparece en palabras comunes.",
+    "related": ["n5-wa-particle", "n5-ga-particle"],
+    "tags": ["partícula", "objeto directo", "básico"]
+  },
+  {
+    "id": "n5-ni-particle",
+    "title": "に（partícula）",
+    "pattern": "[destino/tiempo/lugar] + に",
+    "meaning": "partícula de destino, tiempo o ubicación",
+    "level": "n5",
+    "explanation": "に es una partícula versátil con múltiples usos. Indica el destino de movimiento, el punto en el tiempo, la ubicación donde algo existe, y el receptor de una acción. Es una de las partículas más importantes del japonés.",
+    "examples": [
+      {
+        "sentence": "がっこうに いきます。",
+        "reading": "がっこうに いきます。",
+        "translation": "Voy a la escuela.",
+        "breakdown": ["がっこう = escuela", "に = partícula de destino", "いきます = ir (formal)"]
+      },
+      {
+        "sentence": "しちじに おきます。",
+        "reading": "しちじに おきます。",
+        "translation": "Me levanto a las siete.",
+        "breakdown": ["しちじ = las siete", "に = partícula de tiempo", "おきます = levantarse (formal)"]
+      }
+    ],
+    "notes": "に no se usa con los días de la semana ni con きょう, あした, etc. Se usa con horas específicas, fechas y meses.",
+    "related": ["n5-de-particle", "n5-e-particle"],
+    "tags": ["partícula", "destino", "tiempo", "ubicación", "básico"]
+  },
+  {
+    "id": "n5-de-particle",
+    "title": "で（partícula）",
+    "pattern": "[lugar] + で + [acción] / [medio] + で",
+    "meaning": "partícula de lugar de acción o medio",
+    "level": "n5",
+    "explanation": "で indica el lugar donde ocurre una acción y el medio o instrumento con el que se realiza. A diferencia de に, que indica ubicación estática, で implica que una actividad se lleva a cabo en ese lugar.",
+    "examples": [
+      {
+        "sentence": "としょかんで べんきょうします。",
+        "reading": "としょかんで べんきょうします。",
+        "translation": "Estudio en la biblioteca.",
+        "breakdown": ["としょかん = biblioteca", "で = partícula de lugar de acción", "べんきょうします = estudiar (formal)"]
+      },
+      {
+        "sentence": "はしで たべます。",
+        "reading": "はしで たべます。",
+        "translation": "Como con palillos.",
+        "breakdown": ["はし = palillos", "で = partícula de medio", "たべます = comer (formal)"]
+      }
+    ],
+    "notes": "Comparar: としょかんに います (Estoy en la biblioteca — ubicación) vs としょかんで べんきょうします (Estudio en la biblioteca — acción en lugar).",
+    "related": ["n5-ni-particle", "n5-e-particle"],
+    "tags": ["partícula", "lugar", "medio", "básico"]
+  },
+  {
+    "id": "n5-e-particle",
+    "title": "へ（partícula）",
+    "pattern": "[dirección] + へ + [verbo de movimiento]",
+    "meaning": "partícula de dirección (hacia)",
+    "level": "n5",
+    "explanation": "へ indica la dirección hacia la cual uno se mueve. Se pronuncia 'e' cuando funciona como partícula. Es intercambiable con に en muchos casos de movimiento, pero へ enfatiza más la dirección que el destino final.",
+    "examples": [
+      {
+        "sentence": "にほんへ いきます。",
+        "reading": "にほんへ いきます。",
+        "translation": "Voy hacia Japón.",
+        "breakdown": ["にほん = Japón", "へ = partícula de dirección", "いきます = ir (formal)"]
+      },
+      {
+        "sentence": "みぎへ まがってください。",
+        "reading": "みぎへ まがってください。",
+        "translation": "Por favor, gire a la derecha.",
+        "breakdown": ["みぎ = derecha", "へ = partícula de dirección", "まがって = girar (forma -te)", "ください = por favor"]
+      }
+    ],
+    "notes": "へ se escribe con el hiragana へ pero se pronuncia 'e' cuando funciona como partícula. に y へ son a menudo intercambiables con verbos de movimiento.",
+    "related": ["n5-ni-particle", "n5-de-particle"],
+    "tags": ["partícula", "dirección", "básico"]
+  },
+  {
+    "id": "n5-no-particle",
+    "title": "の（partícula）",
+    "pattern": "[sustantivo A] + の + [sustantivo B]",
+    "meaning": "partícula posesiva / de conexión entre sustantivos",
+    "level": "n5",
+    "explanation": "の conecta dos sustantivos, indicando posesión, pertenencia, origen o relación. Funciona de manera similar a 'de' en español. El sustantivo antes de の modifica al sustantivo después.",
+    "examples": [
+      {
+        "sentence": "わたしの ほん です。",
+        "reading": "わたしの ほん です。",
+        "translation": "Es mi libro.",
+        "breakdown": ["わたし = yo", "の = partícula posesiva", "ほん = libro", "です = ser (formal)"]
+      },
+      {
+        "sentence": "にほんごの せんせい です。",
+        "reading": "にほんごの せんせい です。",
+        "translation": "Es profesor de japonés.",
+        "breakdown": ["にほんご = idioma japonés", "の = partícula de conexión", "せんせい = profesor", "です = ser (formal)"]
+      }
+    ],
+    "notes": "の también puede reemplazar un sustantivo ya mencionado: わたしのは あかい です (El mío es rojo).",
+    "related": ["n5-wa-particle", "n5-ga-particle"],
+    "tags": ["partícula", "posesión", "básico"]
+  },
+  {
+    "id": "n5-to-particle",
+    "title": "と（partícula）",
+    "pattern": "[A] + と + [B] / [persona] + と + [verbo]",
+    "meaning": "y (enumeración completa) / con (compañía)",
+    "level": "n5",
+    "explanation": "と tiene dos usos principales: conectar sustantivos de forma exhaustiva (A y B, y nada más) e indicar compañía (hacer algo con alguien). A diferencia de や, と implica que la lista es completa.",
+    "examples": [
+      {
+        "sentence": "パンと ぎゅうにゅうを かいます。",
+        "reading": "パンと ぎゅうにゅうを かいます。",
+        "translation": "Compro pan y leche.",
+        "breakdown": ["パン = pan", "と = y", "ぎゅうにゅう = leche", "を = partícula de objeto", "かいます = comprar (formal)"]
+      },
+      {
+        "sentence": "ともだちと えいがを みます。",
+        "reading": "ともだちと えいがを みます。",
+        "translation": "Veo una película con un amigo.",
+        "breakdown": ["ともだち = amigo", "と = con", "えいが = película", "を = partícula de objeto", "みます = ver (formal)"]
+      }
+    ],
+    "notes": "と como 'y' enumera todos los elementos. Si querés decir 'entre otras cosas', usá や.",
+    "related": ["n5-ya-particle", "n5-mo-particle"],
+    "tags": ["partícula", "enumeración", "compañía", "básico"]
+  },
+  {
+    "id": "n5-mo-particle",
+    "title": "も（partícula）",
+    "pattern": "[sustantivo] + も",
+    "meaning": "también / tampoco",
+    "level": "n5",
+    "explanation": "も reemplaza a は, が o を para indicar 'también'. Si se usa en oraciones negativas, significa 'tampoco'. Cuando se usa con interrogativos (なにも, だれも), indica 'nada' o 'nadie' en contextos negativos.",
+    "examples": [
+      {
+        "sentence": "わたしも がくせい です。",
+        "reading": "わたしも がくせい です。",
+        "translation": "Yo también soy estudiante.",
+        "breakdown": ["わたし = yo", "も = también", "がくせい = estudiante", "です = ser (formal)"]
+      },
+      {
+        "sentence": "コーヒーも おちゃも すきです。",
+        "reading": "コーヒーも おちゃも すきです。",
+        "translation": "Me gustan tanto el café como el té.",
+        "breakdown": ["コーヒー = café", "も = también", "おちゃ = té", "も = también", "すきです = gustar"]
+      }
+    ],
+    "notes": "も reemplaza a は, が y を, pero se añade después de otras partículas: にも, でも, etc.",
+    "related": ["n5-wa-particle", "n5-ga-particle"],
+    "tags": ["partícula", "también", "básico"]
+  },
+  {
+    "id": "n5-ka-particle",
+    "title": "か（partícula）",
+    "pattern": "[oración] + か",
+    "meaning": "partícula interrogativa",
+    "level": "n5",
+    "explanation": "か se agrega al final de una oración para convertirla en pregunta. En japonés formal no se necesita cambiar el orden de las palabras, basta con agregar か. La entonación ascendente es opcional con か.",
+    "examples": [
+      {
+        "sentence": "これは なん ですか。",
+        "reading": "これは なん ですか。",
+        "translation": "¿Qué es esto?",
+        "breakdown": ["これ = esto", "は = partícula de tema", "なん = qué", "です = ser", "か = partícula interrogativa"]
+      },
+      {
+        "sentence": "にほんじん ですか。",
+        "reading": "にほんじん ですか。",
+        "translation": "¿Es usted japonés?",
+        "breakdown": ["にほんじん = japonés (persona)", "です = ser", "か = partícula interrogativa"]
+      }
+    ],
+    "notes": "En japonés informal, か puede sonar brusco. Es más natural usar solo entonación ascendente o la partícula の en conversación casual.",
+    "related": ["n5-ne-particle", "n5-yo-particle"],
+    "tags": ["partícula", "interrogativa", "básico"]
+  },
+  {
+    "id": "n5-ya-particle",
+    "title": "や（partícula）",
+    "pattern": "[A] + や + [B] + （など）",
+    "meaning": "y (enumeración parcial, entre otros)",
+    "level": "n5",
+    "explanation": "や conecta sustantivos de forma no exhaustiva, indicando que hay más elementos además de los mencionados. Equivale a 'cosas como A y B' en español. Frecuentemente se acompaña de など (etcétera).",
+    "examples": [
+      {
+        "sentence": "りんごや バナナを かいました。",
+        "reading": "りんごや バナナを かいました。",
+        "translation": "Compré cosas como manzanas y bananas (entre otras).",
+        "breakdown": ["りんご = manzana", "や = y (parcial)", "バナナ = banana", "を = partícula de objeto", "かいました = compré"]
+      },
+      {
+        "sentence": "にほんごや えいごを はなします。",
+        "reading": "にほんごや えいごを はなします。",
+        "translation": "Hablo idiomas como japonés e inglés (entre otros).",
+        "breakdown": ["にほんご = japonés", "や = y (parcial)", "えいご = inglés", "を = partícula de objeto", "はなします = hablar (formal)"]
+      }
+    ],
+    "notes": "A diferencia de と, que enumera todos los elementos, や implica que la lista no es completa.",
+    "related": ["n5-to-particle", "n5-mo-particle"],
+    "tags": ["partícula", "enumeración parcial", "básico"]
+  },
+  {
+    "id": "n5-kara",
+    "title": "から",
+    "pattern": "[punto de inicio] + から",
+    "meaning": "desde / porque",
+    "level": "n5",
+    "explanation": "から tiene dos usos principales. Como partícula indica el punto de inicio en tiempo o espacio ('desde'). Como conjunción al final de una cláusula indica razón o causa ('porque').",
+    "examples": [
+      {
+        "sentence": "くじから じゅうにじまで はたらきます。",
+        "reading": "くじから じゅうにじまで はたらきます。",
+        "translation": "Trabajo desde las 9 hasta las 12.",
+        "breakdown": ["くじ = las 9", "から = desde", "じゅうにじ = las 12", "まで = hasta", "はたらきます = trabajar (formal)"]
+      },
+      {
+        "sentence": "あついですから、まどを あけてください。",
+        "reading": "あついですから、まどを あけてください。",
+        "translation": "Porque hace calor, por favor abra la ventana.",
+        "breakdown": ["あついです = hace calor", "から = porque", "まど = ventana", "を = partícula de objeto", "あけてください = por favor abra"]
+      }
+    ],
+    "notes": "から como 'desde' se usa frecuentemente junto con まで ('hasta'). Como 'porque', la razón va antes de から y el resultado después.",
+    "related": ["n5-made", "n5-de-particle"],
+    "tags": ["partícula", "desde", "porque", "básico"]
+  },
+  {
+    "id": "n5-made",
+    "title": "まで",
+    "pattern": "[punto final] + まで",
+    "meaning": "hasta",
+    "level": "n5",
+    "explanation": "まで indica el punto final de un rango de tiempo, espacio o cantidad. Se usa frecuentemente en combinación con から para indicar 'desde... hasta...'. También puede significar 'incluso' en algunos contextos.",
+    "examples": [
+      {
+        "sentence": "えきまで あるきます。",
+        "reading": "えきまで あるきます。",
+        "translation": "Camino hasta la estación.",
+        "breakdown": ["えき = estación", "まで = hasta", "あるきます = caminar (formal)"]
+      },
+      {
+        "sentence": "げつようびから きんようびまで しごとです。",
+        "reading": "げつようびから きんようびまで しごとです。",
+        "translation": "Trabajo de lunes a viernes.",
+        "breakdown": ["げつようび = lunes", "から = desde", "きんようび = viernes", "まで = hasta", "しごとです = es trabajo"]
+      }
+    ],
+    "notes": "まで puede combinarse con に: ごじまでに (antes de las 5 / para las 5), que indica una fecha límite.",
+    "related": ["n5-kara", "n5-ni-particle"],
+    "tags": ["partícula", "hasta", "rango", "básico"]
+  },
+  {
+    "id": "n5-ne-particle",
+    "title": "ね（partícula）",
+    "pattern": "[oración] + ね",
+    "meaning": "partícula de confirmación (¿verdad?)",
+    "level": "n5",
+    "explanation": "ね se agrega al final de una oración para buscar confirmación o acuerdo del oyente. Equivale a '¿verdad?', '¿no?' o '¿no es cierto?' en español. También se usa para suavizar una afirmación.",
+    "examples": [
+      {
+        "sentence": "いい てんき ですね。",
+        "reading": "いい てんき ですね。",
+        "translation": "Hace buen tiempo, ¿verdad?",
+        "breakdown": ["いい = bueno", "てんき = clima", "です = ser", "ね = ¿verdad?"]
+      },
+      {
+        "sentence": "この えいがは おもしろい ですね。",
+        "reading": "この えいがは おもしろい ですね。",
+        "translation": "Esta película es interesante, ¿no?",
+        "breakdown": ["この = este/esta", "えいが = película", "は = partícula de tema", "おもしろい = interesante", "ですね = ¿verdad?"]
+      }
+    ],
+    "notes": "ね se usa cuando el hablante cree que el oyente comparte la misma opinión o conocimiento. Usarlo cuando el oyente no tiene esa información puede sonar raro.",
+    "related": ["n5-yo-particle", "n5-ka-particle"],
+    "tags": ["partícula", "confirmación", "final de oración"]
+  },
+  {
+    "id": "n5-yo-particle",
+    "title": "よ（partícula）",
+    "pattern": "[oración] + よ",
+    "meaning": "partícula de énfasis / información nueva",
+    "level": "n5",
+    "explanation": "よ se agrega al final de una oración para enfatizar algo o informar al oyente de algo que no sabe. Equivale a un '¡te digo que...!' o 'fíjate que...' en español. Transmite seguridad en lo que se dice.",
+    "examples": [
+      {
+        "sentence": "この ケーキは おいしい ですよ。",
+        "reading": "この ケーキは おいしい ですよ。",
+        "translation": "¡Este pastel está delicioso, te digo!",
+        "breakdown": ["この = este", "ケーキ = pastel", "は = partícula de tema", "おいしい = delicioso", "ですよ = ¡te digo!"]
+      },
+      {
+        "sentence": "あしたは テスト ですよ。",
+        "reading": "あしたは テスト ですよ。",
+        "translation": "¡Mañana hay examen, eh!",
+        "breakdown": ["あした = mañana", "は = partícula de tema", "テスト = examen", "ですよ = (énfasis informativo)"]
+      }
+    ],
+    "notes": "Usar よ en exceso puede sonar agresivo o condescendiente. Se usa cuando realmente querés informar algo nuevo al oyente.",
+    "related": ["n5-ne-particle", "n5-ka-particle"],
+    "tags": ["partícula", "énfasis", "final de oración"]
+  },
+  {
+    "id": "n5-masu-form",
+    "title": "ます形（forma ます）",
+    "pattern": "[raíz verbal] + ます",
+    "meaning": "forma verbal formal / educada",
+    "level": "n5",
+    "explanation": "ます es el sufijo que convierte un verbo en su forma educada. Se agrega a la raíz del verbo (連用形). Es la forma estándar para hablar con desconocidos, superiores o en situaciones formales.",
+    "examples": [
+      {
+        "sentence": "まいにち にほんごを べんきょうします。",
+        "reading": "まいにち にほんごを べんきょうします。",
+        "translation": "Estudio japonés todos los días.",
+        "breakdown": ["まいにち = todos los días", "にほんご = japonés", "を = partícula de objeto", "べんきょうします = estudiar (formal)"]
+      },
+      {
+        "sentence": "あさ コーヒーを のみます。",
+        "reading": "あさ コーヒーを のみます。",
+        "translation": "Bebo café por la mañana.",
+        "breakdown": ["あさ = mañana (período)", "コーヒー = café", "を = partícula de objeto", "のみます = beber (formal)"]
+      }
+    ],
+    "notes": "Los verbos godan cambian su última sílaba a la columna い antes de ます: のむ→のみます, かく→かきます. Los verbos ichidan solo quitan る: たべる→たべます.",
+    "related": ["n5-masen", "n5-mashita", "n5-masen-deshita"],
+    "tags": ["verbo", "formal", "conjugación", "básico"]
+  },
+  {
+    "id": "n5-masen",
+    "title": "ません",
+    "pattern": "[raíz verbal] + ません",
+    "meaning": "forma verbal negativa formal",
+    "level": "n5",
+    "explanation": "ません es la forma negativa educada de los verbos. Se forma reemplazando ます por ません. Indica que una acción no se realiza en presente o futuro.",
+    "examples": [
+      {
+        "sentence": "おさけを のみません。",
+        "reading": "おさけを のみません。",
+        "translation": "No bebo alcohol.",
+        "breakdown": ["おさけ = alcohol", "を = partícula de objeto", "のみません = no beber (formal negativo)"]
+      },
+      {
+        "sentence": "にくを たべません。",
+        "reading": "にくを たべません。",
+        "translation": "No como carne.",
+        "breakdown": ["にく = carne", "を = partícula de objeto", "たべません = no comer (formal negativo)"]
+      }
+    ],
+    "notes": "La forma informal negativa se forma con ない: のまない, たべない. ません es simplemente más educado.",
+    "related": ["n5-masu-form", "n5-mashita", "n5-masen-deshita"],
+    "tags": ["verbo", "negación", "formal", "conjugación"]
+  },
+  {
+    "id": "n5-mashita",
+    "title": "ました",
+    "pattern": "[raíz verbal] + ました",
+    "meaning": "forma verbal pasada formal",
+    "level": "n5",
+    "explanation": "ました es la forma pasada educada de los verbos. Se forma reemplazando ます por ました. Indica que una acción se realizó en el pasado.",
+    "examples": [
+      {
+        "sentence": "きのう えいがを みました。",
+        "reading": "きのう えいがを みました。",
+        "translation": "Ayer vi una película.",
+        "breakdown": ["きのう = ayer", "えいが = película", "を = partícula de objeto", "みました = ver (pasado formal)"]
+      },
+      {
+        "sentence": "にほんに いきました。",
+        "reading": "にほんに いきました。",
+        "translation": "Fui a Japón.",
+        "breakdown": ["にほん = Japón", "に = partícula de destino", "いきました = ir (pasado formal)"]
+      }
+    ],
+    "notes": "ました se usa tanto para el pasado simple como para acciones completadas. No distingue entre 'fui' y 'he ido'.",
+    "related": ["n5-masu-form", "n5-masen", "n5-masen-deshita"],
+    "tags": ["verbo", "pasado", "formal", "conjugación"]
+  },
+  {
+    "id": "n5-masen-deshita",
+    "title": "ませんでした",
+    "pattern": "[raíz verbal] + ませんでした",
+    "meaning": "forma verbal pasada negativa formal",
+    "level": "n5",
+    "explanation": "ませんでした es la forma pasada negativa educada de los verbos. Se forma reemplazando ます por ませんでした. Indica que una acción no se realizó en el pasado.",
+    "examples": [
+      {
+        "sentence": "きのう べんきょうしませんでした。",
+        "reading": "きのう べんきょうしませんでした。",
+        "translation": "Ayer no estudié.",
+        "breakdown": ["きのう = ayer", "べんきょうしませんでした = no estudiar (pasado negativo formal)"]
+      },
+      {
+        "sentence": "あさごはんを たべませんでした。",
+        "reading": "あさごはんを たべませんでした。",
+        "translation": "No desayuné.",
+        "breakdown": ["あさごはん = desayuno", "を = partícula de objeto", "たべませんでした = no comer (pasado negativo formal)"]
+      }
+    ],
+    "notes": "La forma informal equivalente es なかった: たべなかった (no comí). ませんでした es la más educada.",
+    "related": ["n5-masu-form", "n5-masen", "n5-mashita"],
+    "tags": ["verbo", "pasado", "negación", "formal", "conjugación"]
+  },
+  {
+    "id": "n5-te-form",
+    "title": "て形（forma -te）",
+    "pattern": "[verbo en forma -te]",
+    "meaning": "forma conectiva del verbo",
+    "level": "n5",
+    "explanation": "La forma て es una de las conjugaciones más importantes del japonés. Se usa para conectar acciones en secuencia, hacer peticiones, dar permiso y formar tiempos compuestos como ている. Las reglas de formación dependen del grupo del verbo.",
+    "examples": [
+      {
+        "sentence": "あさ おきて、かおを あらって、あさごはんを たべます。",
+        "reading": "あさ おきて、かおを あらって、あさごはんを たべます。",
+        "translation": "Por la mañana me levanto, me lavo la cara y desayuno.",
+        "breakdown": ["あさ = mañana", "おきて = levantarse (forma -te)", "かお = cara", "を = partícula de objeto", "あらって = lavar (forma -te)", "あさごはん = desayuno", "たべます = comer"]
+      },
+      {
+        "sentence": "ここに すわって ください。",
+        "reading": "ここに すわって ください。",
+        "translation": "Por favor, siéntese aquí.",
+        "breakdown": ["ここ = aquí", "に = partícula de lugar", "すわって = sentarse (forma -te)", "ください = por favor"]
+      }
+    ],
+    "notes": "Reglas para godan: う/つ/る→って, む/ぶ/ぬ→んで, く→いて, ぐ→いで, す→して. Ichidan: る→て. Irregulares: する→して, くる→きて.",
+    "related": ["n5-te-iru", "n5-te-kudasai", "n5-te-mo-ii"],
+    "tags": ["verbo", "forma -te", "conjugación", "fundamental"]
+  },
+  {
+    "id": "n5-te-iru",
+    "title": "ている",
+    "pattern": "[verbo forma -te] + いる / います",
+    "meaning": "estar haciendo / estado resultante",
+    "level": "n5",
+    "explanation": "ている expresa una acción en progreso o un estado resultante de una acción completada. Con verbos de acción indica 'estar haciendo algo' y con verbos de cambio indica un estado actual. La forma formal es ています.",
+    "examples": [
+      {
+        "sentence": "いま ほんを よんでいます。",
+        "reading": "いま ほんを よんでいます。",
+        "translation": "Ahora estoy leyendo un libro.",
+        "breakdown": ["いま = ahora", "ほん = libro", "を = partícula de objeto", "よんでいます = estar leyendo (formal)"]
+      },
+      {
+        "sentence": "とうきょうに すんでいます。",
+        "reading": "とうきょうに すんでいます。",
+        "translation": "Vivo en Tokio.",
+        "breakdown": ["とうきょう = Tokio", "に = partícula de lugar", "すんでいます = estar viviendo / vivir (formal)"]
+      }
+    ],
+    "notes": "すんでいる (vivir), しっている (saber), もっている (tener) expresan estados, no acciones en progreso. En habla casual, ている se contrae a てる: たべてる.",
+    "related": ["n5-te-form", "n5-masu-form"],
+    "tags": ["verbo", "progresivo", "estado", "forma -te"]
+  },
+  {
+    "id": "n5-tai",
+    "title": "たい",
+    "pattern": "[raíz verbal] + たい",
+    "meaning": "querer hacer (algo)",
+    "level": "n5",
+    "explanation": "たい se agrega a la raíz del verbo (la misma que se usa con ます) para expresar el deseo de hacer algo. Se conjuga como un adjetivo -i. Solo se usa para los deseos del hablante o en preguntas directas.",
+    "examples": [
+      {
+        "sentence": "みずを のみたいです。",
+        "reading": "みずを のみたいです。",
+        "translation": "Quiero beber agua.",
+        "breakdown": ["みず = agua", "を = partícula de objeto", "のみたい = querer beber", "です = (cortesía)"]
+      },
+      {
+        "sentence": "にほんに いきたいです。",
+        "reading": "にほんに いきたいです。",
+        "translation": "Quiero ir a Japón.",
+        "breakdown": ["にほん = Japón", "に = partícula de destino", "いきたい = querer ir", "です = (cortesía)"]
+      }
+    ],
+    "notes": "たい no se usa para describir los deseos de terceros (usar たがっている). Negativo: たくない. Pasado: たかった.",
+    "related": ["n5-masu-form", "n5-i-adj-conjugation"],
+    "tags": ["verbo", "deseo", "querer", "conjugación"]
+  },
+  {
+    "id": "n5-naide-nakute",
+    "title": "ないで / なくて",
+    "pattern": "[verbo negativo] + で / [verbo negativo] + くて",
+    "meaning": "sin hacer / no hacer y...",
+    "level": "n5",
+    "explanation": "ないで indica 'sin hacer algo' y se usa para pedir que alguien no haga algo o para describir que una acción se hizo sin otra. なくて es la forma conectiva negativa que indica razón ('porque no...') o conecta oraciones negativas.",
+    "examples": [
+      {
+        "sentence": "あさごはんを たべないで がっこうに いきました。",
+        "reading": "あさごはんを たべないで がっこうに いきました。",
+        "translation": "Fui a la escuela sin desayunar.",
+        "breakdown": ["あさごはん = desayuno", "を = partícula de objeto", "たべないで = sin comer", "がっこう = escuela", "に = partícula de destino", "いきました = fui"]
+      },
+      {
+        "sentence": "じかんが なくて、いけませんでした。",
+        "reading": "じかんが なくて、いけませんでした。",
+        "translation": "Como no tenía tiempo, no pude ir.",
+        "breakdown": ["じかん = tiempo", "が = partícula de sujeto", "なくて = como no había", "いけませんでした = no pude ir"]
+      }
+    ],
+    "notes": "ないで se usa para peticiones negativas: みないで (no mires). なくて se usa más para dar razones negativas.",
+    "related": ["n5-te-form", "n5-masen"],
+    "tags": ["verbo", "negación", "forma conectiva"]
+  },
+  {
+    "id": "n5-i-adj-conjugation",
+    "title": "い形容詞の活用",
+    "pattern": "い-adj → negativo/pasado",
+    "meaning": "conjugación de adjetivos -i",
+    "level": "n5",
+    "explanation": "Los adjetivos -i se conjugan cambiando la terminación い. Negativo: い→くない. Pasado: い→かった. Pasado negativo: い→くなかった. Son los únicos adjetivos que se conjugan directamente sin necesidad de です para cambiar de tiempo.",
+    "examples": [
+      {
+        "sentence": "きのうは さむくなかったです。",
+        "reading": "きのうは さむくなかったです。",
+        "translation": "Ayer no hizo frío.",
+        "breakdown": ["きのう = ayer", "は = partícula de tema", "さむくなかった = no hizo frío (pasado negativo)", "です = (cortesía)"]
+      },
+      {
+        "sentence": "この りょうりは おいしくないです。",
+        "reading": "この りょうりは おいしくないです。",
+        "translation": "Esta comida no está deliciosa.",
+        "breakdown": ["この = esta", "りょうり = comida", "は = partícula de tema", "おいしくない = no delicioso", "です = (cortesía)"]
+      }
+    ],
+    "notes": "いい (bueno) es irregular: よくない, よかった, よくなかった. La forma て de adjetivos -i es くて: おおきくて たかい (grande y caro).",
+    "related": ["n5-na-adj", "n5-desu"],
+    "tags": ["adjetivo", "conjugación", "い形容詞"]
+  },
+  {
+    "id": "n5-na-adj",
+    "title": "な形容詞 + です/な",
+    "pattern": "な-adj + です / な-adj + な + [sustantivo]",
+    "meaning": "adjetivos na: uso predicativo y atributivo",
+    "level": "n5",
+    "explanation": "Los adjetivos na usan です para el predicado y agregan な antes de un sustantivo. No se conjugan directamente: el negativo se forma con じゃない(です), el pasado con でした y el pasado negativo con じゃなかった(です).",
+    "examples": [
+      {
+        "sentence": "この まちは しずか です。",
+        "reading": "この まちは しずか です。",
+        "translation": "Esta ciudad es tranquila.",
+        "breakdown": ["この = esta", "まち = ciudad", "は = partícula de tema", "しずか = tranquilo/a (adj-na)", "です = ser"]
+      },
+      {
+        "sentence": "きれいな はな ですね。",
+        "reading": "きれいな はな ですね。",
+        "translation": "Es una flor bonita, ¿verdad?",
+        "breakdown": ["きれいな = bonito/a (modificando sustantivo)", "はな = flor", "です = ser", "ね = ¿verdad?"]
+      }
+    ],
+    "notes": "Cuidado: きれい y きらい parecen adjetivos -i pero son adjetivos na. La forma て de adjetivos na es で: しずかで きれい (tranquilo y bonito).",
+    "related": ["n5-i-adj-conjugation", "n5-desu"],
+    "tags": ["adjetivo", "な形容詞", "conjugación"]
+  },
+  {
+    "id": "n5-aru",
+    "title": "ある",
+    "pattern": "[lugar] + に + [cosa inanimada] + が + ある/あります",
+    "meaning": "existir / haber (objetos inanimados)",
+    "level": "n5",
+    "explanation": "ある expresa la existencia de cosas inanimadas (objetos, plantas, conceptos). Se usa con に para indicar dónde está algo y con が para marcar lo que existe. La forma formal es あります. También significa 'tener' en algunos contextos.",
+    "examples": [
+      {
+        "sentence": "つくえの うえに ほんが あります。",
+        "reading": "つくえの うえに ほんが あります。",
+        "translation": "Hay un libro sobre el escritorio.",
+        "breakdown": ["つくえ = escritorio", "の = de", "うえ = encima", "に = en", "ほん = libro", "が = partícula de sujeto", "あります = existir (formal)"]
+      },
+      {
+        "sentence": "じかんが ありません。",
+        "reading": "じかんが ありません。",
+        "translation": "No tengo tiempo.",
+        "breakdown": ["じかん = tiempo", "が = partícula de sujeto", "ありません = no existir / no tener (formal)"]
+      }
+    ],
+    "notes": "ある se usa para cosas inanimadas. Para seres vivos (personas, animales) se usa いる. La forma negativa informal de ある es ない (irregular).",
+    "related": ["n5-iru", "n5-ga-particle", "n5-ni-particle"],
+    "tags": ["verbo", "existencia", "inanimado", "básico"]
+  },
+  {
+    "id": "n5-iru",
+    "title": "いる",
+    "pattern": "[lugar] + に + [ser vivo] + が + いる/います",
+    "meaning": "existir / haber (seres vivos)",
+    "level": "n5",
+    "explanation": "いる expresa la existencia de seres vivos (personas, animales). Funciona igual que ある pero se reserva para entidades animadas. La forma formal es います. También se usa en la estructura ている para el progresivo.",
+    "examples": [
+      {
+        "sentence": "にわに ねこが います。",
+        "reading": "にわに ねこが います。",
+        "translation": "Hay un gato en el jardín.",
+        "breakdown": ["にわ = jardín", "に = en", "ねこ = gato", "が = partícula de sujeto", "います = existir (animado, formal)"]
+      },
+      {
+        "sentence": "きょうしつに がくせいが さんにん います。",
+        "reading": "きょうしつに がくせいが さんにん います。",
+        "translation": "Hay tres estudiantes en el aula.",
+        "breakdown": ["きょうしつ = aula", "に = en", "がくせい = estudiante", "が = partícula de sujeto", "さんにん = tres personas", "います = existir (formal)"]
+      }
+    ],
+    "notes": "Robots y vehículos (cosas que se mueven por sí mismos) a veces usan いる en el lenguaje cotidiano, aunque estrictamente son inanimados.",
+    "related": ["n5-aru", "n5-te-iru", "n5-ga-particle"],
+    "tags": ["verbo", "existencia", "animado", "básico"]
+  },
+  {
+    "id": "n5-kore-sore-are-dore",
+    "title": "これ/それ/あれ/どれ",
+    "pattern": "これ / それ / あれ / どれ",
+    "meaning": "esto / eso / aquello / ¿cuál?",
+    "level": "n5",
+    "explanation": "Son pronombres demostrativos que se usan solos (sin sustantivo). これ se refiere a algo cerca del hablante, それ a algo cerca del oyente, あれ a algo lejos de ambos, y どれ pregunta '¿cuál?' entre tres o más opciones.",
+    "examples": [
+      {
+        "sentence": "これは わたしの かばん です。",
+        "reading": "これは わたしの かばん です。",
+        "translation": "Esto es mi bolso.",
+        "breakdown": ["これ = esto", "は = partícula de tema", "わたし = yo", "の = de", "かばん = bolso", "です = ser"]
+      },
+      {
+        "sentence": "あれは なん ですか。",
+        "reading": "あれは なん ですか。",
+        "translation": "¿Qué es aquello?",
+        "breakdown": ["あれ = aquello", "は = partícula de tema", "なん = qué", "です = ser", "か = partícula interrogativa"]
+      }
+    ],
+    "notes": "El sistema こそあど es fundamental en japonés. こ- = cerca del hablante, そ- = cerca del oyente, あ- = lejos de ambos, ど- = interrogativo.",
+    "related": ["n5-kono-sono-ano-dono", "n5-interrogatives"],
+    "tags": ["demostrativo", "pronombre", "こそあど", "básico"]
+  },
+  {
+    "id": "n5-kono-sono-ano-dono",
+    "title": "この/その/あの/どの",
+    "pattern": "この/その/あの/どの + [sustantivo]",
+    "meaning": "este/ese/aquel/¿qué? + sustantivo",
+    "level": "n5",
+    "explanation": "Son adjetivos demostrativos que siempre van seguidos de un sustantivo. この modifica algo cerca del hablante, その algo cerca del oyente, あの algo lejos de ambos, y どの pregunta '¿qué/cuál?' seguido de sustantivo.",
+    "examples": [
+      {
+        "sentence": "この ほんは おもしろいです。",
+        "reading": "この ほんは おもしろいです。",
+        "translation": "Este libro es interesante.",
+        "breakdown": ["この = este", "ほん = libro", "は = partícula de tema", "おもしろい = interesante", "です = ser (formal)"]
+      },
+      {
+        "sentence": "あの ひとは だれ ですか。",
+        "reading": "あの ひとは だれ ですか。",
+        "translation": "¿Quién es aquella persona?",
+        "breakdown": ["あの = aquel/aquella", "ひと = persona", "は = partícula de tema", "だれ = quién", "です = ser", "か = partícula interrogativa"]
+      }
+    ],
+    "notes": "A diferencia de これ/それ/あれ, estos siempre requieren un sustantivo después. No se puede decir 'このは...' (incorrecto).",
+    "related": ["n5-kore-sore-are-dore", "n5-interrogatives"],
+    "tags": ["demostrativo", "adjetivo", "こそあど", "básico"]
+  },
+  {
+    "id": "n5-interrogatives",
+    "title": "何/どこ/いつ/だれ",
+    "pattern": "なに/なん、どこ、いつ、だれ",
+    "meaning": "qué, dónde, cuándo, quién",
+    "level": "n5",
+    "explanation": "Son las palabras interrogativas básicas del japonés. なに/なん = qué (なん se usa antes de です, de contadores y de た/だ/な), どこ = dónde, いつ = cuándo, だれ = quién. Se combinan con partículas según su función en la oración.",
+    "examples": [
+      {
+        "sentence": "トイレは どこ ですか。",
+        "reading": "トイレは どこ ですか。",
+        "translation": "¿Dónde está el baño?",
+        "breakdown": ["トイレ = baño", "は = partícula de tema", "どこ = dónde", "です = ser", "か = partícula interrogativa"]
+      },
+      {
+        "sentence": "たんじょうびは いつ ですか。",
+        "reading": "たんじょうびは いつ ですか。",
+        "translation": "¿Cuándo es tu cumpleaños?",
+        "breakdown": ["たんじょうび = cumpleaños", "は = partícula de tema", "いつ = cuándo", "です = ser", "か = partícula interrogativa"]
+      }
+    ],
+    "notes": "Otros interrogativos útiles: いくら (cuánto cuesta), いくつ (cuántos / qué edad), どう (cómo), なぜ/どうして (por qué).",
+    "related": ["n5-ka-particle", "n5-kore-sore-are-dore"],
+    "tags": ["interrogativo", "pregunta", "básico"]
+  },
+  {
+    "id": "n5-mashou",
+    "title": "〜ましょう",
+    "pattern": "[raíz verbal] + ましょう",
+    "meaning": "vamos a... / hagamos...",
+    "level": "n5",
+    "explanation": "ましょう se agrega a la raíz del verbo para sugerir hacer algo juntos. Equivale a 'vamos a...' en español. Es una invitación o propuesta educada. También se puede usar para ofrecer ayuda.",
+    "examples": [
+      {
+        "sentence": "いっしょに ひるごはんを たべましょう。",
+        "reading": "いっしょに ひるごはんを たべましょう。",
+        "translation": "Almorcemos juntos.",
+        "breakdown": ["いっしょに = juntos", "ひるごはん = almuerzo", "を = partícula de objeto", "たべましょう = comamos (propuesta)"]
+      },
+      {
+        "sentence": "にほんごで はなしましょう。",
+        "reading": "にほんごで はなしましょう。",
+        "translation": "Hablemos en japonés.",
+        "breakdown": ["にほんご = japonés", "で = partícula de medio", "はなしましょう = hablemos (propuesta)"]
+      }
+    ],
+    "notes": "ましょうか con か es más tentativo y se usa para ofrecer ayuda: てつだいましょうか (¿Le ayudo?).",
+    "related": ["n5-masen-ka", "n5-masu-form"],
+    "tags": ["verbo", "propuesta", "volitivo", "formal"]
+  },
+  {
+    "id": "n5-masen-ka",
+    "title": "〜ませんか",
+    "pattern": "[raíz verbal] + ませんか",
+    "meaning": "¿no le gustaría...? / ¿no quiere...?",
+    "level": "n5",
+    "explanation": "ませんか es una forma educada de hacer una invitación o sugerencia. Literalmente es la forma negativa interrogativa, pero funciona como una invitación cortés. Es más educado que ましょう porque le da al oyente la opción de rechazar.",
+    "examples": [
+      {
+        "sentence": "いっしょに えいがを みませんか。",
+        "reading": "いっしょに えいがを みませんか。",
+        "translation": "¿No le gustaría ver una película juntos?",
+        "breakdown": ["いっしょに = juntos", "えいが = película", "を = partícula de objeto", "みませんか = ¿no le gustaría ver?"]
+      },
+      {
+        "sentence": "おちゃを のみませんか。",
+        "reading": "おちゃを のみませんか。",
+        "translation": "¿No quiere tomar un té?",
+        "breakdown": ["おちゃ = té", "を = partícula de objeto", "のみませんか = ¿no quiere beber?"]
+      }
+    ],
+    "notes": "ませんか es más cortés que ましょう. Para aceptar: ええ、ましょう. Para rechazar educadamente: すみません、ちょっと...",
+    "related": ["n5-mashou", "n5-masen"],
+    "tags": ["verbo", "invitación", "cortesía", "formal"]
+  },
+  {
+    "id": "n5-te-kudasai",
+    "title": "〜てください",
+    "pattern": "[verbo forma -te] + ください",
+    "meaning": "por favor haga...",
+    "level": "n5",
+    "explanation": "てください se usa para hacer peticiones educadas. Se forma con la forma て del verbo más ください. Es la forma estándar para pedir algo en japonés educado, equivalente a 'por favor + verbo' en español.",
+    "examples": [
+      {
+        "sentence": "ちょっと まってください。",
+        "reading": "ちょっと まってください。",
+        "translation": "Espere un momento, por favor.",
+        "breakdown": ["ちょっと = un momento", "まって = esperar (forma -te)", "ください = por favor"]
+      },
+      {
+        "sentence": "なまえを かいてください。",
+        "reading": "なまえを かいてください。",
+        "translation": "Por favor, escriba su nombre.",
+        "breakdown": ["なまえ = nombre", "を = partícula de objeto", "かいて = escribir (forma -te)", "ください = por favor"]
+      }
+    ],
+    "notes": "Para pedir que alguien NO haga algo: ないでください (forma negativa). Ejemplo: さわらないでください (Por favor, no toque).",
+    "related": ["n5-te-form", "n5-te-mo-ii"],
+    "tags": ["verbo", "petición", "forma -te", "cortesía"]
+  },
+  {
+    "id": "n5-te-mo-ii",
+    "title": "〜てもいい",
+    "pattern": "[verbo forma -te] + も + いい（です）",
+    "meaning": "está bien si... / se puede...",
+    "level": "n5",
+    "explanation": "てもいい se usa para dar o pedir permiso. Literalmente significa 'incluso si haces... está bien'. En forma de pregunta (てもいいですか), se pide permiso. La respuesta afirmativa es いいですよ y la negativa suele ser con てはいけません.",
+    "examples": [
+      {
+        "sentence": "しゃしんを とってもいいですか。",
+        "reading": "しゃしんを とってもいいですか。",
+        "translation": "¿Está bien si tomo una foto?",
+        "breakdown": ["しゃしん = foto", "を = partícula de objeto", "とって = tomar (forma -te)", "も = incluso si", "いいですか = ¿está bien?"]
+      },
+      {
+        "sentence": "ここに すわってもいいですよ。",
+        "reading": "ここに すわってもいいですよ。",
+        "translation": "Puede sentarse aquí.",
+        "breakdown": ["ここ = aquí", "に = en", "すわって = sentarse (forma -te)", "も = incluso si", "いいですよ = está bien (con énfasis)"]
+      }
+    ],
+    "notes": "Para rechazar un permiso: すみませんが、ちょっと... o la forma directa てはいけません (no se debe).",
+    "related": ["n5-te-wa-ikenai", "n5-te-kudasai", "n5-te-form"],
+    "tags": ["verbo", "permiso", "forma -te"]
+  },
+  {
+    "id": "n5-te-wa-ikenai",
+    "title": "〜てはいけない",
+    "pattern": "[verbo forma -te] + は + いけない/いけません",
+    "meaning": "no se debe... / está prohibido...",
+    "level": "n5",
+    "explanation": "てはいけない se usa para expresar prohibiciones o indicar que algo no está permitido. Es más fuerte que una simple negación. La forma formal es てはいけません. En habla casual se contrae a ちゃいけない o ちゃだめ.",
+    "examples": [
+      {
+        "sentence": "ここで たばこを すってはいけません。",
+        "reading": "ここで たばこを すってはいけません。",
+        "translation": "No se debe fumar aquí.",
+        "breakdown": ["ここ = aquí", "で = en", "たばこ = tabaco/cigarrillo", "を = partícula de objeto", "すって = fumar (forma -te)", "は = partícula", "いけません = no está permitido"]
+      },
+      {
+        "sentence": "しけんちゅう、はなしてはいけません。",
+        "reading": "しけんちゅう、はなしてはいけません。",
+        "translation": "Durante el examen, no se debe hablar.",
+        "breakdown": ["しけんちゅう = durante el examen", "はなして = hablar (forma -te)", "は = partícula", "いけません = no está permitido"]
+      }
+    ],
+    "notes": "てはだめです es una variante más casual con el mismo significado. En habla informal: たべちゃだめ (no debes comer).",
+    "related": ["n5-te-mo-ii", "n5-te-kudasai", "n5-te-form"],
+    "tags": ["verbo", "prohibición", "forma -te", "reglas"]
+  },
+  {
+    "id": "n5-demo-shikashi",
+    "title": "でも / しかし",
+    "pattern": "[oración A]。でも / しかし、[oración B]",
+    "meaning": "pero / sin embargo",
+    "level": "n5",
+    "explanation": "でも y しかし son conjunciones adversativas que conectan dos oraciones con significados opuestos. でも es más casual y coloquial, mientras que しかし es más formal y se usa en textos escritos. Ambos van al inicio de la segunda oración.",
+    "examples": [
+      {
+        "sentence": "にほんごは むずかしいです。でも、おもしろいです。",
+        "reading": "にほんごは むずかしいです。でも、おもしろいです。",
+        "translation": "El japonés es difícil. Pero es interesante.",
+        "breakdown": ["にほんご = japonés", "は = partícula de tema", "むずかしい = difícil", "です = ser", "でも = pero", "おもしろい = interesante"]
+      },
+      {
+        "sentence": "いきたいです。しかし、じかんが ありません。",
+        "reading": "いきたいです。しかし、じかんが ありません。",
+        "translation": "Quiero ir. Sin embargo, no tengo tiempo.",
+        "breakdown": ["いきたいです = quiero ir", "しかし = sin embargo", "じかん = tiempo", "が = partícula de sujeto", "ありません = no hay/tener"]
+      }
+    ],
+    "notes": "Otra forma de decir 'pero' dentro de una misma oración es が: いきたいですが、じかんがありません. けど/けれども son variantes de が.",
+    "related": ["n5-soshite-sorekara", "n5-kara"],
+    "tags": ["conjunción", "adversativa", "conectores"]
+  },
+  {
+    "id": "n5-soshite-sorekara",
+    "title": "そして / それから",
+    "pattern": "[oración A]。そして / それから、[oración B]",
+    "meaning": "y / y luego / después",
+    "level": "n5",
+    "explanation": "そして y それから conectan oraciones en secuencia. そして significa 'y' o 'y entonces', añadiendo información adicional. それから significa 'y después' o 'luego', enfatizando el orden temporal de los eventos.",
+    "examples": [
+      {
+        "sentence": "かいものに いきました。そして、えいがを みました。",
+        "reading": "かいものに いきました。そして、えいがを みました。",
+        "translation": "Fui de compras. Y vi una película.",
+        "breakdown": ["かいもの = compras", "に = a", "いきました = fui", "そして = y", "えいが = película", "を = partícula de objeto", "みました = vi"]
+      },
+      {
+        "sentence": "シャワーを あびます。それから、あさごはんを たべます。",
+        "reading": "シャワーを あびます。それから、あさごはんを たべます。",
+        "translation": "Me ducho. Luego, desayuno.",
+        "breakdown": ["シャワー = ducha", "を = partícula de objeto", "あびます = ducharse (formal)", "それから = luego", "あさごはん = desayuno", "たべます = comer"]
+      }
+    ],
+    "notes": "それから enfatiza más la secuencia temporal que そして. Para narrar una rutina o una serie de eventos, それから es más natural.",
+    "related": ["n5-demo-shikashi", "n5-te-form"],
+    "tags": ["conjunción", "secuencia", "conectores"]
+  }
+]

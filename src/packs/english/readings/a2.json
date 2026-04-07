@@ -1,0 +1,130 @@
+[
+  {
+    "id": "a2-reading-london",
+    "title": "A Trip to London",
+    "level": "a2",
+    "text": "Last summer, my friend Laura and I traveled to London. We stayed in a small hotel near the city center for five days. On the first day, we visited the British Museum. It was amazing and free! The next day, we took a boat ride on the River Thames. We could see Big Ben and the London Eye from the water. We also walked through Hyde Park and had a picnic. The food in London was more expensive than I expected, but the fish and chips were really good. On our last day, we went shopping at Oxford Street. I bought some souvenirs for my family. I would love to go back someday.",
+    "translation": "El verano pasado, mi amiga Laura y yo viajamos a Londres. Nos quedamos en un hotel pequeño cerca del centro de la ciudad por cinco días. El primer día visitamos el Museo Británico. ¡Fue increíble y gratis! Al día siguiente, hicimos un paseo en barco por el río Támesis. Podíamos ver el Big Ben y el London Eye desde el agua. También caminamos por Hyde Park e hicimos un picnic. La comida en Londres era más cara de lo que esperaba, pero el fish and chips estaba muy bueno. En nuestro último día, fuimos de compras a Oxford Street. Compré algunos recuerdos para mi familia. Me encantaría volver algún día.",
+    "vocabulary": ["traveled - viajé/viajamos", "stayed - nos quedamos", "hotel - hotel", "museum - museo", "amazing - increíble", "boat ride - paseo en barco", "expensive - caro", "expected - esperaba", "shopping - compras", "souvenirs - recuerdos"],
+    "questions": [
+      {
+        "question": "How long did they stay in London?",
+        "options": ["Three days.", "Five days.", "One week.", "Ten days."],
+        "correctIndex": 1,
+        "explanation": "The text says 'We stayed... for five days.'"
+      },
+      {
+        "question": "What was free?",
+        "options": ["The boat ride.", "The food.", "The British Museum.", "The hotel."],
+        "correctIndex": 2,
+        "explanation": "The text says the British Museum 'was amazing and free!'"
+      },
+      {
+        "question": "What did the narrator think about the food prices?",
+        "options": ["They were cheap.", "They were more expensive than expected.", "They were normal.", "They were the same as home."],
+        "correctIndex": 1,
+        "explanation": "The text says 'The food in London was more expensive than I expected.'"
+      }
+    ]
+  },
+  {
+    "id": "a2-reading-hobby",
+    "title": "My Favorite Hobby",
+    "level": "a2",
+    "text": "I have always loved cooking. I started learning when I was twelve years old. My grandmother taught me how to make traditional dishes from our country. Now I cook every day after work. It helps me relax after a long day. I usually follow recipes from the internet, but sometimes I create my own dishes. Last month, I took a cooking class to learn Italian cuisine. I learned how to make fresh pasta and risotto. My friends say that my food is better than some restaurants. I am thinking about starting a food blog to share my recipes. Maybe one day I will open my own restaurant.",
+    "translation": "Siempre me encantó cocinar. Empecé a aprender cuando tenía doce años. Mi abuela me enseñó a hacer platos tradicionales de nuestro país. Ahora cocino todos los días después del trabajo. Me ayuda a relajarme después de un día largo. Generalmente sigo recetas de internet, pero a veces creo mis propios platos. El mes pasado, tomé una clase de cocina para aprender cocina italiana. Aprendí a hacer pasta fresca y risotto. Mis amigos dicen que mi comida es mejor que la de algunos restaurantes. Estoy pensando en empezar un blog de comida para compartir mis recetas. Quizás algún día abra mi propio restaurante.",
+    "vocabulary": ["cooking - cocinar", "grandmother - abuela", "traditional - tradicional", "dishes - platos", "recipes - recetas", "internet - internet", "create - crear", "cooking class - clase de cocina", "cuisine - cocina/gastronomía", "blog - blog", "share - compartir"],
+    "questions": [
+      {
+        "question": "When did the narrator start learning to cook?",
+        "options": ["At age ten.", "At age twelve.", "At age fifteen.", "Last year."],
+        "correctIndex": 1,
+        "explanation": "The text says 'I started learning when I was twelve years old.'"
+      },
+      {
+        "question": "What did the narrator learn in the cooking class?",
+        "options": ["French cuisine.", "Japanese cuisine.", "Italian cuisine.", "Mexican cuisine."],
+        "correctIndex": 2,
+        "explanation": "The text says 'I took a cooking class to learn Italian cuisine.'"
+      }
+    ]
+  },
+  {
+    "id": "a2-reading-email",
+    "title": "An Email to a Friend",
+    "level": "a2",
+    "text": "Hi Carlos! How are you? I'm writing to tell you about my new job. I started working at a technology company two weeks ago. I work as a web designer. The office is near my apartment, so I walk to work every day. My colleagues are very friendly and helpful. The salary is better than my previous job, and I get four weeks of vacation per year. The only problem is that I have to wake up very early. My schedule is from 7:30 to 4:30. But I finish early, so I have free time in the afternoon. Would you like to meet for coffee this Saturday? I haven't seen you since your birthday party in March. Let me know! Best regards, Sofia",
+    "translation": "¡Hola Carlos! ¿Cómo estás? Te escribo para contarte sobre mi nuevo trabajo. Empecé a trabajar en una empresa de tecnología hace dos semanas. Trabajo como diseñadora web. La oficina está cerca de mi departamento, así que camino al trabajo todos los días. Mis compañeros son muy amables y serviciales. El sueldo es mejor que en mi trabajo anterior, y tengo cuatro semanas de vacaciones por año. El único problema es que tengo que levantarme muy temprano. Mi horario es de 7:30 a 4:30. Pero termino temprano, así que tengo tiempo libre a la tarde. ¿Querés encontrarnos para un café este sábado? No te veo desde tu fiesta de cumpleaños en marzo. ¡Avisame! Saludos, Sofía",
+    "vocabulary": ["job - trabajo", "technology - tecnología", "company - empresa", "web designer - diseñador/a web", "apartment - departamento", "colleagues - compañeros de trabajo", "friendly - amable", "salary - sueldo", "previous - anterior", "vacation - vacaciones", "schedule - horario"],
+    "questions": [
+      {
+        "question": "What is Sofia's new job?",
+        "options": ["Teacher.", "Web designer.", "Doctor.", "Manager."],
+        "correctIndex": 1,
+        "explanation": "The text says 'I work as a web designer.'"
+      },
+      {
+        "question": "How does Sofia get to work?",
+        "options": ["By car.", "By bus.", "By train.", "She walks."],
+        "correctIndex": 3,
+        "explanation": "The text says 'I walk to work every day.'"
+      },
+      {
+        "question": "When did Sofia last see Carlos?",
+        "options": ["Last week.", "In March.", "In January.", "Two weeks ago."],
+        "correctIndex": 1,
+        "explanation": "The text says 'I haven't seen you since your birthday party in March.'"
+      }
+    ]
+  },
+  {
+    "id": "a2-reading-job-interview",
+    "title": "A Job Interview",
+    "level": "a2",
+    "text": "Yesterday I had a job interview at a marketing company. I was very nervous because it was my first interview in English. I wore my best suit and arrived fifteen minutes early. The interviewer was a woman called Ms. Johnson. She asked me about my experience and education. I told her that I had studied business at university and worked at two different companies. She also asked me why I wanted to work there. I said that I was interested in digital marketing and wanted to learn from the best team in the city. The interview lasted about forty minutes. At the end, she said they would call me next week. I think it went well, but I'm still nervous about the result.",
+    "translation": "Ayer tuve una entrevista de trabajo en una empresa de marketing. Estaba muy nervioso porque era mi primera entrevista en inglés. Me puse mi mejor traje y llegué quince minutos antes. La entrevistadora era una mujer llamada Sra. Johnson. Me preguntó sobre mi experiencia y educación. Le dije que había estudiado negocios en la universidad y trabajado en dos empresas diferentes. También me preguntó por qué quería trabajar ahí. Dije que me interesaba el marketing digital y quería aprender del mejor equipo de la ciudad. La entrevista duró unos cuarenta minutos. Al final, dijo que me llamarían la semana que viene. Creo que fue bien, pero todavía estoy nervioso por el resultado.",
+    "vocabulary": ["job interview - entrevista de trabajo", "nervous - nervioso", "suit - traje", "arrived - llegué", "interviewer - entrevistador/a", "experience - experiencia", "education - educación", "university - universidad", "digital marketing - marketing digital", "lasted - duró", "result - resultado"],
+    "questions": [
+      {
+        "question": "Why was the narrator nervous?",
+        "options": ["He was late.", "It was his first interview in English.", "He forgot his suit.", "He didn't study."],
+        "correctIndex": 1,
+        "explanation": "The text says 'I was very nervous because it was my first interview in English.'"
+      },
+      {
+        "question": "How long did the interview last?",
+        "options": ["Twenty minutes.", "Thirty minutes.", "Forty minutes.", "One hour."],
+        "correctIndex": 2,
+        "explanation": "The text says 'The interview lasted about forty minutes.'"
+      }
+    ]
+  },
+  {
+    "id": "a2-reading-new-city",
+    "title": "Living in a New City",
+    "level": "a2",
+    "text": "Six months ago, I moved to Barcelona for work. At first, it was difficult because I didn't know anyone and I couldn't speak Spanish very well. I felt lonely during the first few weeks. However, things have changed a lot since then. I joined a language exchange group where I practice Spanish with local people, and they practice English with me. I have made several good friends there. I have also explored many neighborhoods. My favorite area is the Gothic Quarter because it has beautiful old buildings and great restaurants. The weather is much better than in my home city. I still miss my family sometimes, but I am happy here. Living abroad has taught me to be more independent and open-minded.",
+    "translation": "Hace seis meses, me mudé a Barcelona por trabajo. Al principio, fue difícil porque no conocía a nadie y no podía hablar español muy bien. Me sentía solo durante las primeras semanas. Sin embargo, las cosas cambiaron mucho desde entonces. Me uní a un grupo de intercambio de idiomas donde practico español con gente local, y ellos practican inglés conmigo. Hice varios buenos amigos ahí. También exploré muchos barrios. Mi zona favorita es el Barrio Gótico porque tiene edificios viejos hermosos y restaurantes geniales. El clima es mucho mejor que en mi ciudad de origen. Todavía extraño a mi familia a veces, pero soy feliz acá. Vivir en el extranjero me enseñó a ser más independiente y de mente abierta.",
+    "vocabulary": ["moved - me mudé", "difficult - difícil", "lonely - solo", "language exchange - intercambio de idiomas", "local - local", "explored - exploré", "neighborhoods - barrios", "favorite - favorito", "buildings - edificios", "weather - clima", "miss - extrañar", "independent - independiente", "open-minded - de mente abierta"],
+    "questions": [
+      {
+        "question": "Why did the narrator move to Barcelona?",
+        "options": ["For vacation.", "For work.", "To study.", "For the weather."],
+        "correctIndex": 1,
+        "explanation": "The text says 'I moved to Barcelona for work.'"
+      },
+      {
+        "question": "What is the narrator's favorite area?",
+        "options": ["The beach.", "The Gothic Quarter.", "The city center.", "The park."],
+        "correctIndex": 1,
+        "explanation": "The text says 'My favorite area is the Gothic Quarter.'"
+      },
+      {
+        "question": "How did the narrator make friends?",
+        "options": ["At work.", "Through a language exchange group.", "At a restaurant.", "Through social media."],
+        "correctIndex": 1,
+        "explanation": "The text says 'I joined a language exchange group' and 'I have made several good friends there.'"
+      }
+    ]
+  }
+]

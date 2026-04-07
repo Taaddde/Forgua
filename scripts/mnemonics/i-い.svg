@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <rect width="400" height="300" rx="16" fill="#0f172a"/>
+  <!-- Hiragana character - large, semi-transparent -->
+  <text x="200" y="160" text-anchor="middle" dominant-baseline="central"
+        font-family="serif" font-size="180" fill="#6366f1" opacity="0.2">い</text>
+  <!-- Mnemonic: two people standing side by side = "ii" (good!) -->
+  <!-- Person 1 -->
+  <circle cx="160" cy="80" r="18" stroke="#e2e8f0" stroke-width="3" fill="none"/>
+  <line x1="160" y1="98" x2="160" y2="170" stroke="#e2e8f0" stroke-width="3"/>
+  <line x1="160" y1="170" x2="140" y2="220" stroke="#e2e8f0" stroke-width="3"/>
+  <line x1="160" y1="170" x2="180" y2="220" stroke="#e2e8f0" stroke-width="3"/>
+  <!-- Person 2 -->
+  <circle cx="240" cy="80" r="18" stroke="#e2e8f0" stroke-width="3" fill="none"/>
+  <line x1="240" y1="98" x2="240" y2="170" stroke="#e2e8f0" stroke-width="3"/>
+  <line x1="240" y1="170" x2="220" y2="220" stroke="#e2e8f0" stroke-width="3"/>
+  <line x1="240" y1="170" x2="260" y2="220" stroke="#e2e8f0" stroke-width="3"/>
+  <!-- Thumbs up for both -->
+  <text x="130" y="135" font-family="sans-serif" font-size="24">👍</text>
+  <text x="250" y="135" font-family="sans-serif" font-size="24">👍</text>
+  <!-- Speech -->
+  <rect x="168" y="40" width="64" height="30" rx="10" fill="#10b981" opacity="0.9"/>
+  <text x="200" y="60" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#0f172a">いい!</text>
+  <!-- Label -->
+  <text x="200" y="280" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#94a3b8">い = "i" — dos personas: いい (ii = bueno!)</text>
+</svg>

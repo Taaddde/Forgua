@@ -11,6 +11,7 @@
       "reading": "a",
       "explanation": "La vocal 'a', como en 'casa'. Es la primera letra del hiragana.",
       "mnemonic": "Parece una persona con los brazos extendidos diciendo '¡Ahhh!'",
+      "imageUrl": "/images/mnemonics/hiragana/a-あ.svg",
       "cardRef": { "category": "characters", "front": "あ" }
     },
     {
@@ -19,6 +20,7 @@
       "reading": "i",
       "explanation": "La vocal 'i', como en 'iglesia'. Dos trazos paralelos.",
       "mnemonic": "Dos personas paradas una al lado de la otra — 'ii' (bueno en japonés)",
+      "imageUrl": "/images/mnemonics/hiragana/i-い.svg",
       "cardRef": { "category": "characters", "front": "い" }
     },
     {
@@ -27,6 +29,7 @@
       "reading": "u",
       "explanation": "La vocal 'u', entre la 'u' española y una 'u' sin redondear los labios.",
       "mnemonic": "Parece un anzuelo — 'Uuu, mordió el pez!'",
+      "imageUrl": "/images/mnemonics/hiragana/u-う.svg",
       "cardRef": { "category": "characters", "front": "う" }
     },
     {
@@ -35,6 +38,7 @@
       "reading": "e",
       "explanation": "La vocal 'e', como en 'mesa'.",
       "mnemonic": "Parece una persona haciendo ejercicio — 'Eh, a entrenar!'",
+      "imageUrl": "/images/mnemonics/hiragana/e-え.svg",
       "cardRef": { "category": "characters", "front": "え" }
     },
     {
@@ -43,6 +47,7 @@
       "reading": "o",
       "explanation": "La vocal 'o', como en 'oso'.",
       "mnemonic": "Un golfista viendo la pelota volar — '¡Oh!'",
+      "imageUrl": "/images/mnemonics/hiragana/o-お.svg",
       "cardRef": { "category": "characters", "front": "お" }
     }
   ],
@@ -61,8 +66,20 @@
     },
     {
       "type": "recall",
-      "title": "Ahora al revés",
-      "instruction": "Ves la lectura en romaji. Escribí o elegí el hiragana correcto.",
+      "title": "¿Cómo se lee?",
+      "instruction": "Ves el carácter. Escribí cómo se pronuncia.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "listen-transcribe",
+      "title": "Escuchá y escribí",
+      "instruction": "Escuchá el sonido y escribí qué carácter es.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "speak",
+      "title": "Decilo vos",
+      "instruction": "Escuchá el ejemplo y repetilo en voz alta.",
       "itemIndices": [0, 1, 2, 3, 4]
     },
     {

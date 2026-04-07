@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <rect width="400" height="300" rx="16" fill="#0f172a"/>
+  <!-- Hiragana character - large, semi-transparent -->
+  <text x="200" y="160" text-anchor="middle" dominant-baseline="central"
+        font-family="serif" font-size="180" fill="#6366f1" opacity="0.2">す</text>
+  <!-- Mnemonic: す has a super loop — "SUperloop" (roller coaster) -->
+  <!-- Track approach from left -->
+  <path d="M 70 200 Q 100 200 130 180 Q 150 165 165 130" stroke="#e2e8f0" stroke-width="3" fill="none"/>
+  <!-- The big loop (す loop) -->
+  <circle cx="210" cy="120" r="55" stroke="#f59e0b" stroke-width="3" fill="none"/>
+  <!-- Track exit going down (す tail going down) -->
+  <path d="M 255 150 Q 270 185 260 220 Q 255 240 240 245" stroke="#e2e8f0" stroke-width="3" fill="none"/>
+  <!-- Track supports (vertical pillars) -->
+  <line x1="130" y1="180" x2="130" y2="245" stroke="#e2e8f0" stroke-width="2" opacity="0.4"/>
+  <line x1="170" y1="175" x2="170" y2="245" stroke="#e2e8f0" stroke-width="2" opacity="0.4"/>
+  <line x1="250" y1="175" x2="250" y2="245" stroke="#e2e8f0" stroke-width="2" opacity="0.4"/>
+  <!-- Ground line -->
+  <line x1="70" y1="245" x2="330" y2="245" stroke="#e2e8f0" stroke-width="1.5" opacity="0.3"/>
+  <!-- Horizontal bar of す (cross beam) -->
+  <line x1="140" y1="85" x2="280" y2="85" stroke="#f59e0b" stroke-width="2.5" opacity="0.6"/>
+  <!-- Roller coaster cart at top of loop -->
+  <rect x="195" y="58" width="30" height="14" rx="4" fill="#f59e0b" opacity="0.8"/>
+  <!-- Person in cart (stick figure) -->
+  <circle cx="210" cy="50" r="7" stroke="#e2e8f0" stroke-width="2" fill="none"/>
+  <!-- Arms up (excited!) -->
+  <line x1="203" y1="45" x2="195" y2="32" stroke="#e2e8f0" stroke-width="2"/>
+  <line x1="217" y1="45" x2="225" y2="32" stroke="#e2e8f0" stroke-width="2"/>
+  <!-- Speed lines -->
+  <line x1="185" y1="62" x2="175" y2="58" stroke="#f59e0b" stroke-width="1.5" opacity="0.5"/>
+  <line x1="185" y1="68" x2="173" y2="68" stroke="#f59e0b" stroke-width="1.5" opacity="0.5"/>
+  <!-- Label -->
+  <text x="200" y="280" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#94a3b8">す = "su" — un loop de montaña rusa (SUperloop)</text>
+</svg>

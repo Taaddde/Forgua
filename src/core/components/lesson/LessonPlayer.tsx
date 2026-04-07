@@ -13,6 +13,8 @@ import { RecallStep } from './RecallStep';
 import { WriteStep } from './WriteStep';
 import { SentenceBuildStep } from './SentenceBuildStep';
 import { ListenIdentifyStep } from './ListenIdentifyStep';
+import { ListenTranscribeStep } from './ListenTranscribeStep';
+import { SpeakStep } from './SpeakStep';
 import { SummaryStep } from './SummaryStep';
 
 interface LessonPlayerProps {
@@ -133,6 +135,20 @@ export function LessonPlayer({ lesson, onComplete, onExit }: LessonPlayerProps) 
           key={currentStepIndex}
           items={stepItems}
           allItems={lesson.items}
+          onComplete={handleStepComplete}
+        />
+      )}
+      {currentStep.type === 'listen-transcribe' && (
+        <ListenTranscribeStep
+          key={currentStepIndex}
+          items={stepItems}
+          onComplete={handleStepComplete}
+        />
+      )}
+      {currentStep.type === 'speak' && (
+        <SpeakStep
+          key={currentStepIndex}
+          items={stepItems}
           onComplete={handleStepComplete}
         />
       )}

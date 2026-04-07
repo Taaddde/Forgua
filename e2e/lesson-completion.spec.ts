@@ -65,8 +65,13 @@ test.describe('Lesson completion persistence', () => {
       }
     }
 
-    // Write step (5 items — type romaji)
+    // Listen-Transcribe step (5 items — play audio, type answer)
     for (let i = 0; i < 5; i++) {
+      const playBtn = page.locator('button.rounded-full').first();
+      if (await playBtn.isVisible({ timeout: 3000 }).catch(() => false)) {
+        await playBtn.click();
+        await page.waitForTimeout(800);
+      }
       const input = page.locator('input[type="text"]');
       if (await input.isVisible({ timeout: 3000 }).catch(() => false)) {
         await input.fill(answers[i] ?? 'x');
@@ -80,6 +85,20 @@ test.describe('Lesson completion persistence', () => {
           await nextBtn.click();
           await page.waitForTimeout(300);
         }
+      }
+    }
+
+    // Speak step (5 items — skip through, no mic in headless)
+    for (let i = 0; i < 5; i++) {
+      const skipBtn = page.locator('text=/siguiente/i').last();
+      if (await skipBtn.isVisible({ timeout: 3000 }).catch(() => false)) {
+        await skipBtn.click();
+        await page.waitForTimeout(500);
+      }
+      const nextBtn = page.getByRole('button', { name: /next|siguiente/i });
+      if (await nextBtn.isVisible({ timeout: 2000 }).catch(() => false)) {
+        await nextBtn.click();
+        await page.waitForTimeout(300);
       }
     }
 

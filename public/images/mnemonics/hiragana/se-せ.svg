@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <rect width="400" height="300" rx="16" fill="#0f172a"/>
+  <!-- Hiragana character - large, semi-transparent -->
+  <text x="200" y="160" text-anchor="middle" dominant-baseline="central"
+        font-family="serif" font-size="180" fill="#6366f1" opacity="0.2">せ</text>
+  <!-- Mnemonic: せ looks like a mouth saying something — "SAYing" -->
+  <!-- Face outline (side profile) -->
+  <path d="M 220 60 Q 160 60 140 90 Q 120 120 120 150 Q 120 190 145 215 Q 170 240 220 240"
+        stroke="#e2e8f0" stroke-width="3" fill="none"/>
+  <!-- Back of head -->
+  <path d="M 220 60 Q 250 60 255 90 Q 260 130 255 160 Q 250 200 220 240"
+        stroke="#e2e8f0" stroke-width="3" fill="none"/>
+  <!-- Eye -->
+  <circle cx="195" cy="115" r="6" fill="#e2e8f0"/>
+  <circle cx="197" cy="113" r="2.5" fill="#0f172a"/>
+  <!-- Nose -->
+  <path d="M 165 130 Q 155 145 160 160" stroke="#e2e8f0" stroke-width="2" fill="none"/>
+  <!-- Open mouth (the せ horizontal opening) -->
+  <path d="M 145 175 Q 155 168 180 168" stroke="#f59e0b" stroke-width="3" fill="none"/>
+  <path d="M 145 175 Q 155 195 180 198" stroke="#f59e0b" stroke-width="3" fill="none"/>
+  <!-- Mouth interior -->
+  <ellipse cx="165" cy="183" rx="18" ry="14" fill="#f59e0b" opacity="0.15"/>
+  <!-- Speech coming out -->
+  <circle cx="110" cy="170" r="6" stroke="#f59e0b" stroke-width="2" fill="none" opacity="0.6"/>
+  <circle cx="85" cy="155" r="10" stroke="#f59e0b" stroke-width="2" fill="none" opacity="0.5"/>
+  <circle cx="55" cy="135" r="14" stroke="#f59e0b" stroke-width="2" fill="none" opacity="0.4"/>
+  <!-- Sound waves -->
+  <path d="M 100 180 Q 85 175 80 185" stroke="#f59e0b" stroke-width="1.5" fill="none" opacity="0.4"/>
+  <path d="M 95 160 Q 75 155 70 165" stroke="#f59e0b" stroke-width="1.5" fill="none" opacity="0.4"/>
+  <!-- Speech text -->
+  <text x="330" y="110" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#f59e0b">SAY!</text>
+  <!-- Label -->
+  <text x="200" y="280" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#94a3b8">せ = "se" — una boca hablando, diciendo algo (SAYing)</text>
+</svg>

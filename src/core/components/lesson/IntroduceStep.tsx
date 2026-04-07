@@ -44,6 +44,15 @@ export function IntroduceStep({ items, onComplete }: IntroduceStepProps) {
           <p className="text-sm text-slate-400 mb-4">{item.explanation}</p>
         )}
 
+        {item.imageUrl && (
+          <img
+            src={item.imageUrl}
+            alt={`${item.front} — ${item.back}`}
+            className="w-full max-w-xs mx-auto rounded-xl mb-4"
+            loading="lazy"
+          />
+        )}
+
         {item.mnemonic && (
           <div className="flex items-start gap-2 bg-amber-500/10 border border-amber-500/20 rounded-lg p-3 text-left">
             <Lightbulb className="w-4 h-4 text-amber-400 mt-0.5 shrink-0" />

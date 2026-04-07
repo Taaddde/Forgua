@@ -11,6 +11,7 @@
       "reading": "sa",
       "explanation": "さ se pronuncia 'sa'. Aparece en palabras como さくら (sakura, cerezo) y さかな (sakana, pez).",
       "mnemonic": "さ looks like a SAil in the wind",
+      "imageUrl": "/images/mnemonics/hiragana/sa-さ.svg",
       "cardRef": { "category": "characters", "front": "さ" }
     },
     {
@@ -19,6 +20,7 @@
       "reading": "shi",
       "explanation": "し se pronuncia 'shi' (no 'si'). Aparece en しろ (shiro, blanco/castillo) y しんぶん (shinbun, periódico).",
       "mnemonic": "し looks like a fiSHIng hook",
+      "imageUrl": "/images/mnemonics/hiragana/shi-し.svg",
       "cardRef": { "category": "characters", "front": "し" }
     },
     {
@@ -27,6 +29,7 @@
       "reading": "su",
       "explanation": "す se pronuncia 'su'. Aparece en すし (sushi) y すこし (sukoshi, un poco).",
       "mnemonic": "す has a SUperloop",
+      "imageUrl": "/images/mnemonics/hiragana/su-す.svg",
       "cardRef": { "category": "characters", "front": "す" }
     },
     {
@@ -35,6 +38,7 @@
       "reading": "se",
       "explanation": "せ se pronuncia 'se'. Aparece en せんせい (sensei, maestro) y せかい (sekai, mundo).",
       "mnemonic": "せ looks like a mouth SAYing something",
+      "imageUrl": "/images/mnemonics/hiragana/se-せ.svg",
       "cardRef": { "category": "characters", "front": "せ" }
     },
     {
@@ -43,6 +47,7 @@
       "reading": "so",
       "explanation": "そ se pronuncia 'so'. Aparece en そら (sora, cielo) y そと (soto, afuera).",
       "mnemonic": "そ has a SOccer ball at the end",
+      "imageUrl": "/images/mnemonics/hiragana/so-そ.svg",
       "cardRef": { "category": "characters", "front": "そ" }
     }
   ],
@@ -61,8 +66,20 @@
     },
     {
       "type": "recall",
-      "title": "Ahora al revés",
-      "instruction": "Ves la lectura en romaji. Escribí o elegí el hiragana correcto.",
+      "title": "¿Cómo se lee?",
+      "instruction": "Ves el carácter. Escribí cómo se pronuncia.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "listen-transcribe",
+      "title": "Escuchá y escribí",
+      "instruction": "Escuchá el sonido y escribí qué carácter es.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "speak",
+      "title": "Decilo vos",
+      "instruction": "Escuchá el ejemplo y repetilo en voz alta.",
       "itemIndices": [0, 1, 2, 3, 4]
     },
     {

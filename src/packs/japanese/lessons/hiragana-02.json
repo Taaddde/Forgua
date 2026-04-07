@@ -11,6 +11,7 @@
       "reading": "ka",
       "explanation": "か se pronuncia 'ka'. Es una de las sílabas más frecuentes en japonés, presente en palabras como かわ (kawa, río) y かみ (kami, papel/dios).",
       "mnemonic": "か looks like a blade cutting — \"KA-t!\"",
+      "imageUrl": "/images/mnemonics/hiragana/ka-か.svg",
       "cardRef": { "category": "characters", "front": "か" }
     },
     {
@@ -19,6 +20,7 @@
       "reading": "ki",
       "explanation": "き se pronuncia 'ki'. Aparece en palabras como きく (kiku, escuchar) y きもの (kimono).",
       "mnemonic": "き looks like a key — \"KEY\"",
+      "imageUrl": "/images/mnemonics/hiragana/ki-き.svg",
       "cardRef": { "category": "characters", "front": "き" }
     },
     {
@@ -27,6 +29,7 @@
       "reading": "ku",
       "explanation": "く se pronuncia 'ku'. Es el hiragana con menos trazos (solo 1). Aparece en くるま (kuruma, auto) y くち (kuchi, boca).",
       "mnemonic": "く looks like a beak cuckoo — \"KU-ckoo\"",
+      "imageUrl": "/images/mnemonics/hiragana/ku-く.svg",
       "cardRef": { "category": "characters", "front": "く" }
     },
     {
@@ -35,6 +38,7 @@
       "reading": "ke",
       "explanation": "け se pronuncia 'ke'. Aparece en けんか (kenka, pelea) y けさ (kesa, esta mañana).",
       "mnemonic": "け looks like a keg on its side — \"KEg\"",
+      "imageUrl": "/images/mnemonics/hiragana/ke-け.svg",
       "cardRef": { "category": "characters", "front": "け" }
     },
     {
@@ -43,6 +47,7 @@
       "reading": "ko",
       "explanation": "こ se pronuncia 'ko'. Aparece en こども (kodomo, niño) y ここ (koko, aquí).",
       "mnemonic": "こ looks like two corners — \"KOrner\"",
+      "imageUrl": "/images/mnemonics/hiragana/ko-こ.svg",
       "cardRef": { "category": "characters", "front": "こ" }
     }
   ],
@@ -61,8 +66,20 @@
     },
     {
       "type": "recall",
-      "title": "Ahora al revés",
-      "instruction": "Ves la lectura en romaji. Escribí o elegí el hiragana correcto.",
+      "title": "¿Cómo se lee?",
+      "instruction": "Ves el carácter. Escribí cómo se pronuncia.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "listen-transcribe",
+      "title": "Escuchá y escribí",
+      "instruction": "Escuchá el sonido y escribí qué carácter es.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "speak",
+      "title": "Decilo vos",
+      "instruction": "Escuchá el ejemplo y repetilo en voz alta.",
       "itemIndices": [0, 1, 2, 3, 4]
     },
     {

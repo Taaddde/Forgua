@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <rect width="400" height="300" rx="16" fill="#0f172a"/>
+  <!-- Hiragana character - large, semi-transparent -->
+  <text x="200" y="160" text-anchor="middle" dominant-baseline="central"
+        font-family="serif" font-size="180" fill="#6366f1" opacity="0.2">そ</text>
+  <!-- Mnemonic: そ has a zigzag kick path ending in a soccer ball — "SOccer" -->
+  <!-- Zigzag kick path (following そ shape) -->
+  <path d="M 120 70 L 230 70 Q 250 70 240 90 L 170 150 Q 155 170 175 185 L 260 195"
+        stroke="#e2e8f0" stroke-width="3" fill="none" stroke-dasharray="8,4"/>
+  <!-- Soccer ball -->
+  <circle cx="290" cy="195" r="22" stroke="#f59e0b" stroke-width="3" fill="none"/>
+  <!-- Ball pentagon pattern -->
+  <path d="M 290 175 L 280 185 L 284 197 L 296 197 L 300 185 Z"
+        stroke="#f59e0b" stroke-width="1.5" fill="#f59e0b" opacity="0.2"/>
+  <!-- Ball panel lines -->
+  <line x1="290" y1="175" x2="290" y2="173" stroke="#f59e0b" stroke-width="1.5"/>
+  <line x1="280" y1="185" x2="272" y2="182" stroke="#f59e0b" stroke-width="1.5"/>
+  <line x1="284" y1="197" x2="278" y2="206" stroke="#f59e0b" stroke-width="1.5"/>
+  <line x1="296" y1="197" x2="302" y2="206" stroke="#f59e0b" stroke-width="1.5"/>
+  <line x1="300" y1="185" x2="308" y2="182" stroke="#f59e0b" stroke-width="1.5"/>
+  <!-- Kicker (stick figure) -->
+  <!-- Head -->
+  <circle cx="100" cy="130" r="14" stroke="#e2e8f0" stroke-width="2.5" fill="none"/>
+  <!-- Body -->
+  <line x1="100" y1="144" x2="100" y2="195" stroke="#e2e8f0" stroke-width="2.5"/>
+  <!-- Arms (kicking pose) -->
+  <line x1="100" y1="160" x2="75" y2="145" stroke="#e2e8f0" stroke-width="2.5"/>
+  <line x1="100" y1="160" x2="125" y2="150" stroke="#e2e8f0" stroke-width="2.5"/>
+  <!-- Standing leg -->
+  <line x1="100" y1="195" x2="85" y2="235" stroke="#e2e8f0" stroke-width="2.5"/>
+  <!-- Kicking leg (extended toward ball path) -->
+  <line x1="100" y1="195" x2="140" y2="210" stroke="#f59e0b" stroke-width="3"/>
+  <!-- Foot -->
+  <line x1="140" y1="210" x2="155" y2="205" stroke="#f59e0b" stroke-width="3"/>
+  <!-- Motion lines behind ball -->
+  <line x1="260" y1="190" x2="248" y2="188" stroke="#f59e0b" stroke-width="2" opacity="0.5"/>
+  <line x1="260" y1="195" x2="245" y2="195" stroke="#f59e0b" stroke-width="2" opacity="0.4"/>
+  <line x1="260" y1="200" x2="248" y2="202" stroke="#f59e0b" stroke-width="2" opacity="0.5"/>
+  <!-- Ground -->
+  <line x1="60" y1="240" x2="340" y2="240" stroke="#e2e8f0" stroke-width="1.5" opacity="0.3"/>
+  <!-- Label -->
+  <text x="200" y="280" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#94a3b8">そ = "so" — una patada en zigzag hacia la pelota (SOccer)</text>
+</svg>

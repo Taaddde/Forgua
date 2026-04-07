@@ -91,6 +91,8 @@ export type LessonStepType =
   | 'write'
   | 'sentence-build'
   | 'listen-identify'
+  | 'listen-transcribe'
+  | 'speak'
   | 'summary';
 
 /** Progress tracking for lessons */

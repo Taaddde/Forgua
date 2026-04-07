@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <rect width="400" height="300" rx="16" fill="#0f172a"/>
+  <!-- Hiragana character - large, semi-transparent -->
+  <text x="200" y="160" text-anchor="middle" dominant-baseline="central"
+        font-family="serif" font-size="180" fill="#6366f1" opacity="0.2">お</text>
+  <!-- Mnemonic: お looks like a person bowing, saying "Oh!" respectfully -->
+  <!-- Person bowing -->
+  <!-- Head (bowed down) -->
+  <circle cx="230" cy="120" r="18" stroke="#e2e8f0" stroke-width="3" fill="none"/>
+  <!-- Body leaning forward -->
+  <line x1="215" y1="130" x2="180" y2="170" stroke="#e2e8f0" stroke-width="3"/>
+  <!-- Arms forward (bowing gesture) -->
+  <line x1="190" y1="145" x2="250" y2="135" stroke="#e2e8f0" stroke-width="3"/>
+  <!-- Legs -->
+  <line x1="180" y1="170" x2="165" y2="225" stroke="#e2e8f0" stroke-width="3"/>
+  <line x1="180" y1="170" x2="200" y2="225" stroke="#e2e8f0" stroke-width="3"/>
+  <!-- Cross stroke (the お horizontal) -->
+  <line x1="140" y1="100" x2="260" y2="100" stroke="#f59e0b" stroke-width="2" opacity="0.5"/>
+  <!-- Speech bubble -->
+  <rect x="250" y="85" width="80" height="35" rx="10" fill="#f59e0b" opacity="0.9"/>
+  <text x="290" y="108" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#0f172a">Oh!</text>
+  <!-- Small circle (the お dot) -->
+  <circle cx="155" cy="85" r="6" fill="#f59e0b" opacity="0.7"/>
+  <!-- Label -->
+  <text x="200" y="280" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#94a3b8">お = "o" — una persona haciendo una reverencia: "Oh!"</text>
+</svg>

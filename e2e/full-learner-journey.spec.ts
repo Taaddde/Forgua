@@ -91,11 +91,16 @@ test.describe('Full learner journey', () => {
       }
     }
 
-    // === WRITE STEP ===
+    // === LISTEN-TRANSCRIBE STEP ===
     await page.waitForTimeout(500);
-    await page.screenshot({ path: 'e2e/screenshots/10-write-step.png' });
+    await page.screenshot({ path: 'e2e/screenshots/10-listen-transcribe-step.png' });
 
     for (let i = 0; i < 5; i++) {
+      const playBtn = page.locator('button.rounded-full').first();
+      if (await playBtn.isVisible({ timeout: 3000 }).catch(() => false)) {
+        await playBtn.click();
+        await page.waitForTimeout(800);
+      }
       const input = page.locator('input[type="text"]');
       if (await input.isVisible({ timeout: 3000 }).catch(() => false)) {
         await input.fill(romajiAnswers[i] ?? 'test');
@@ -104,13 +109,29 @@ test.describe('Full learner journey', () => {
           await checkBtn.click();
           await page.waitForTimeout(500);
         }
-        await page.screenshot({ path: `e2e/screenshots/11-write-feedback-${i}.png` });
-
         const nextBtn = page.getByRole('button', { name: /next|siguiente/i });
         if (await nextBtn.isVisible({ timeout: 2000 }).catch(() => false)) {
           await nextBtn.click();
           await page.waitForTimeout(300);
         }
+      }
+    }
+
+    // === SPEAK STEP ===
+    await page.waitForTimeout(500);
+    await page.screenshot({ path: 'e2e/screenshots/11-speak-step.png' });
+
+    for (let i = 0; i < 5; i++) {
+      // Skip through — no mic available in headless browser
+      const skipBtn = page.locator('text=/siguiente/i').last();
+      if (await skipBtn.isVisible({ timeout: 3000 }).catch(() => false)) {
+        await skipBtn.click();
+        await page.waitForTimeout(500);
+      }
+      const nextBtn = page.getByRole('button', { name: /next|siguiente/i });
+      if (await nextBtn.isVisible({ timeout: 2000 }).catch(() => false)) {
+        await nextBtn.click();
+        await page.waitForTimeout(300);
       }
     }
 

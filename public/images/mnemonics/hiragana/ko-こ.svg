@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <rect width="400" height="300" rx="16" fill="#0f172a"/>
+  <!-- Hiragana character - large, semi-transparent -->
+  <text x="200" y="160" text-anchor="middle" dominant-baseline="central"
+        font-family="serif" font-size="180" fill="#6366f1" opacity="0.2">こ</text>
+  <!-- Mnemonic: こ looks like two corners — "KOrner" -->
+  <!-- Top corner (upper stroke of こ) -->
+  <line x1="140" y1="95" x2="260" y2="95" stroke="#f59e0b" stroke-width="3"/>
+  <line x1="260" y1="95" x2="260" y2="130" stroke="#f59e0b" stroke-width="3"/>
+  <!-- Corner angle marker top -->
+  <rect x="245" y="95" width="15" height="15" stroke="#f59e0b" stroke-width="1.5" fill="none" opacity="0.5"/>
+  <!-- Bottom corner (lower stroke of こ) -->
+  <line x1="140" y1="190" x2="260" y2="190" stroke="#f59e0b" stroke-width="3"/>
+  <line x1="260" y1="190" x2="260" y2="225" stroke="#f59e0b" stroke-width="3"/>
+  <!-- Corner angle marker bottom -->
+  <rect x="245" y="190" width="15" height="15" stroke="#f59e0b" stroke-width="1.5" fill="none" opacity="0.5"/>
+  <!-- Dashed lines showing the corner/wall structure -->
+  <line x1="140" y1="95" x2="140" y2="190" stroke="#e2e8f0" stroke-width="2" stroke-dasharray="6,4" opacity="0.4"/>
+  <line x1="260" y1="130" x2="260" y2="190" stroke="#e2e8f0" stroke-width="2" stroke-dasharray="6,4" opacity="0.4"/>
+  <!-- Room/floor indicator -->
+  <rect x="140" y="95" width="120" height="95" stroke="#e2e8f0" stroke-width="1" fill="#e2e8f0" opacity="0.05"/>
+  <!-- Person standing in corner -->
+  <circle cx="195" cy="140" r="12" stroke="#e2e8f0" stroke-width="2" fill="none"/>
+  <line x1="195" y1="152" x2="195" y2="185" stroke="#e2e8f0" stroke-width="2"/>
+  <line x1="195" y1="185" x2="182" y2="210" stroke="#e2e8f0" stroke-width="2"/>
+  <line x1="195" y1="185" x2="208" y2="210" stroke="#e2e8f0" stroke-width="2"/>
+  <!-- Arms pointing at corners -->
+  <line x1="195" y1="162" x2="252" y2="100" stroke="#e2e8f0" stroke-width="2"/>
+  <line x1="195" y1="162" x2="252" y2="195" stroke="#e2e8f0" stroke-width="2"/>
+  <!-- Text -->
+  <text x="320" y="150" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#f59e0b">KOrner</text>
+  <!-- Label -->
+  <text x="200" y="280" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#94a3b8">こ = "ko" — dos esquinas (KOrners) en ángulo recto</text>
+</svg>

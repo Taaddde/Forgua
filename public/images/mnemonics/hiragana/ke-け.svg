@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <rect width="400" height="300" rx="16" fill="#0f172a"/>
+  <!-- Hiragana character - large, semi-transparent -->
+  <text x="200" y="160" text-anchor="middle" dominant-baseline="central"
+        font-family="serif" font-size="180" fill="#6366f1" opacity="0.2">け</text>
+  <!-- Mnemonic: け looks like a keg — "KEg" -->
+  <!-- Barrel body (the main shape of け) -->
+  <ellipse cx="200" cy="150" rx="55" ry="80" stroke="#e2e8f0" stroke-width="3" fill="none"/>
+  <!-- Barrel staves - vertical lines like け strokes -->
+  <line x1="170" y1="75" x2="170" y2="225" stroke="#e2e8f0" stroke-width="2" opacity="0.5"/>
+  <line x1="230" y1="75" x2="230" y2="225" stroke="#e2e8f0" stroke-width="2" opacity="0.5"/>
+  <!-- Metal bands (horizontal hoops) -->
+  <ellipse cx="200" cy="105" rx="53" ry="8" stroke="#f59e0b" stroke-width="2.5" fill="none"/>
+  <ellipse cx="200" cy="150" rx="55" ry="9" stroke="#f59e0b" stroke-width="2.5" fill="none"/>
+  <ellipse cx="200" cy="195" rx="53" ry="8" stroke="#f59e0b" stroke-width="2.5" fill="none"/>
+  <!-- Tap/spigot on the right (け right stroke) -->
+  <line x1="255" y1="150" x2="290" y2="150" stroke="#e2e8f0" stroke-width="3"/>
+  <line x1="290" y1="140" x2="290" y2="160" stroke="#e2e8f0" stroke-width="3"/>
+  <circle cx="290" cy="150" r="6" stroke="#f59e0b" stroke-width="2" fill="none"/>
+  <!-- Drip from tap -->
+  <ellipse cx="290" cy="175" rx="4" ry="6" fill="#f59e0b" opacity="0.6"/>
+  <ellipse cx="290" cy="195" rx="3" ry="5" fill="#f59e0b" opacity="0.4"/>
+  <!-- Text label -->
+  <text x="330" y="105" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#f59e0b">KEg</text>
+  <!-- Label -->
+  <text x="200" y="280" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#94a3b8">け = "ke" — tiene forma de barril (KEg) con canilla</text>
+</svg>

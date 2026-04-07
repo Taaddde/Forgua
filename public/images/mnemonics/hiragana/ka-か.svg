@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <rect width="400" height="300" rx="16" fill="#0f172a"/>
+  <!-- Hiragana character - large, semi-transparent -->
+  <text x="200" y="160" text-anchor="middle" dominant-baseline="central"
+        font-family="serif" font-size="180" fill="#6366f1" opacity="0.2">か</text>
+  <!-- Mnemonic: か looks like a blade cutting — "KA-t!" -->
+  <!-- Knife blade (diagonal slash matching か strokes) -->
+  <line x1="160" y1="60" x2="220" y2="200" stroke="#e2e8f0" stroke-width="3"/>
+  <!-- Blade edge (the sharp side) -->
+  <path d="M 220 200 L 230 195 L 170 55 L 160 60 Z" fill="#e2e8f0" opacity="0.3"/>
+  <!-- Handle -->
+  <rect x="210" y="195" width="16" height="45" rx="3" stroke="#f59e0b" stroke-width="2" fill="#f59e0b" opacity="0.4"/>
+  <!-- Handle grip lines -->
+  <line x1="212" y1="207" x2="224" y2="207" stroke="#0f172a" stroke-width="1.5"/>
+  <line x1="212" y1="217" x2="224" y2="217" stroke="#0f172a" stroke-width="1.5"/>
+  <line x1="212" y1="227" x2="224" y2="227" stroke="#0f172a" stroke-width="1.5"/>
+  <!-- Horizontal cutting stroke (か cross stroke) -->
+  <line x1="140" y1="120" x2="280" y2="120" stroke="#f59e0b" stroke-width="3"/>
+  <!-- Cutting motion lines -->
+  <line x1="280" y1="115" x2="300" y2="110" stroke="#f59e0b" stroke-width="2" opacity="0.6"/>
+  <line x1="280" y1="120" x2="305" y2="120" stroke="#f59e0b" stroke-width="2" opacity="0.4"/>
+  <line x1="280" y1="125" x2="300" y2="130" stroke="#f59e0b" stroke-width="2" opacity="0.6"/>
+  <!-- Small hook (か right stroke) -->
+  <path d="M 255 90 Q 265 140 250 180" stroke="#e2e8f0" stroke-width="3" fill="none"/>
+  <!-- Sound effect -->
+  <text x="320" y="80" text-anchor="middle" font-family="sans-serif" font-size="22" font-weight="bold" fill="#f59e0b">KA-t!</text>
+  <!-- Label -->
+  <text x="200" y="280" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#94a3b8">か = "ka" — una cuchilla cortando: "KA-t!"</text>
+</svg>

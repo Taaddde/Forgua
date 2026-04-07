@@ -5,7 +5,7 @@
 import { useState, useCallback, useRef, useEffect } from 'react';
 import { isSpeechRecognitionSupported, createSpeechRecognition } from '../engine/speech';
 
-export function useSpeech(defaultLang?: string) {
+export function useSpeech(defaultLang?: string, continuous = false) {
   const [transcript, setTranscript] = useState('');
   const [interimTranscript, setInterimTranscript] = useState('');
   const [isListening, setIsListening] = useState(false);
@@ -27,7 +27,7 @@ export function useSpeech(defaultLang?: string) {
     try {
       const recognition = createSpeechRecognition({
         lang: lang ?? defaultLang ?? 'en-US',
-        continuous: false,
+        continuous,
         interimResults: true,
         onResult: (result) => {
           if (result.isFinal) {

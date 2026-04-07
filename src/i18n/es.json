@@ -212,10 +212,19 @@
   },
   "speaking": {
     "title": "Hablar",
+    "words": "Palabras",
+    "readAloud": "Lectura en voz alta",
     "sessionComplete": "Sesión completada",
     "results": "Resultados",
     "tryAgain": "Intentar de nuevo",
-    "score": "Puntuación: {{score}}%"
+    "score": "Puntuación: {{score}}%",
+    "chooseText": "Elegí un texto para leer en voz alta",
+    "noReadings": "No hay textos disponibles para este pack",
+    "backToList": "Volver a la lista",
+    "tapToRead": "Tocá para empezar a leer",
+    "tapToStop": "Tocá para terminar",
+    "youSaid": "Lo que dijiste",
+    "wordsCorrect": "palabras correctas"
   },
   "learn": {
     "title": "Aprender",

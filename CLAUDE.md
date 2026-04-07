@@ -74,9 +74,28 @@ src/
 └── validation/                  # pack-schema.ts (Zod)
 ```
 
+## REGLA DE ORO — Agnosticismo absoluto del core
+
+> **PRIORIDAD MÁXIMA. Aplicar SIEMPRE, en CADA decisión de diseño, componente, hook, tipo, engine y página dentro de `src/core/`.**
+
+El core de LinguaForge está diseñado para manejar **cualquier cantidad de packs de cualquier idioma del mundo**. Por lo tanto:
+
+1. **Cero referencias a idiomas concretos en el core.** Ningún archivo dentro de `src/core/` puede contener lógica, condiciones, strings, tipos, nombres de variables o comentarios que apunten a un idioma específico (japonés, chino, español, etc.). Si ves algo así, es un bug arquitectónico y hay que corregirlo.
+
+2. **Soluciones genéricas, siempre.** Si una feature parece requerir algo específico de un idioma (ej: kanji en japonés, tonos en chino, género gramatical en español), **encontrá la abstracción genérica** que resuelva ese caso pero que también sirva para otros idiomas. Ejemplos:
+   - En vez de "campo kanji": un campo genérico `characters` con un `writingSystem` declarado por el pack.
+   - En vez de "lectura furigana": un sistema genérico de `readings` o `annotations` que cada adaptador interpreta.
+   - En vez de "pitch accent japonés": un sistema genérico de `pronunciationFeatures` que cada pack define según sus necesidades.
+
+3. **La especificidad vive en los packs y adaptadores, nunca en el core.** Los packs declaran qué features usan vía su `manifest.json`. Los adaptadores implementan la lógica específica de cada familia de escritura. El core solo consume interfaces abstractas.
+
+4. **Test mental obligatorio.** Antes de escribir cualquier línea en el core, preguntate: *"¿Esto funcionaría igual si mañana alguien agrega un pack de árabe, hindi o suajili?"*. Si la respuesta es no, rediseñá la solución.
+
+---
+
 ## Reglas de desarrollo (NO NEGOCIABLES)
 
-1. **Core agnóstico.** Nunca importes lógica específica de un idioma en el core. Todo lo específico va en el adaptador o el pack.
+1. **Core agnóstico.** Nunca importes lógica específica de un idioma en el core. Todo lo específico va en el adaptador o el pack. (Ver REGLA DE ORO arriba para detalles completos.)
 2. **JSON puro para packs.** Los contribuidores no tocan TypeScript. Solo crean/editan JSONs.
 3. **TypeScript estricto.** No uses `any` excepto donde sea absolutamente necesario. Siempre tipá explícitamente.
 4. **Tailwind para estilado.** No uses CSS custom salvo el archivo base index.css. La UI debe verse profesional.

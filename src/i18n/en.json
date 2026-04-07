@@ -212,10 +212,19 @@
   },
   "speaking": {
     "title": "Speaking",
+    "words": "Words",
+    "readAloud": "Read aloud",
     "sessionComplete": "Session complete",
     "results": "Results",
     "tryAgain": "Try again",
-    "score": "Score: {{score}}%"
+    "score": "Score: {{score}}%",
+    "chooseText": "Choose a text to read aloud",
+    "noReadings": "No texts available for this pack",
+    "backToList": "Back to list",
+    "tapToRead": "Tap to start reading",
+    "tapToStop": "Tap to stop",
+    "youSaid": "You said",
+    "wordsCorrect": "words correct"
   },
   "learn": {
     "title": "Learn",

@@ -12,7 +12,6 @@ import {
   Map,
   Settings,
   X,
-  Languages,
   Lightbulb,
 } from 'lucide-react';
 import { useAppStore } from '../../store/useAppStore';
@@ -57,7 +56,7 @@ export function Sidebar() {
         {/* Logo */}
         <div className="flex items-center justify-between h-16 px-4 border-b border-slate-200 dark:border-slate-800">
           <div className="flex items-center gap-2">
-            <Languages className="w-6 h-6 text-indigo-400" />
+            <img src="/logo.svg" alt="LinguaForge" className="w-7 h-7" />
             <span className="text-lg font-bold text-slate-900 dark:text-slate-100">LinguaForge</span>
           </div>
           <button

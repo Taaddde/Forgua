@@ -1,0 +1,82 @@
+{
+  "id": "grammar-a2-09",
+  "title": "Adverbs & Adverbial Phrases",
+  "description": "quickly, carefully, at the moment, last week — cómo y cuándo agregar detalle a las oraciones.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Manner adverbs: adjective + -ly → quickly, carefully, easily, quietly",
+      "back": "Adverbios de modo: adjetivo + -mente → rápidamente, cuidadosamente, fácilmente, silenciosamente",
+      "reading": "/ˈkwɪkli/ /ˈkɛərfəli/ /ˈiːzɪli/",
+      "explanation": "La mayoría de adverbios de modo se forman agregando -ly al adjetivo. quick → quickly, careful → carefully, slow → slowly. Reglas de ortografía: si el adjetivo termina en -y, cambiá a -ily (easy → easily, happy → happily). Si termina en -le, cambiá a -ly (simple → simply, gentle → gently). Si termina en -ic, agregá -ally (basic → basically, automatic → automatically). POSICIÓN: generalmente van DESPUÉS del verbo o del objeto. 'She drives carefully.' ✓ 'She carefully drives.' (posible pero menos común). 'He speaks English fluently.' ✓",
+      "cardRef": { "category": "grammar", "front": "Manner adverbs: adjective + -ly → quickly, carefully, easily, quietly" }
+    },
+    {
+      "front": "Irregular adverbs: good → well, fast → fast, hard → hard (NOT hardly!)",
+      "back": "Adverbios irregulares: bueno → bien, rápido → rápido (sin cambio), duro/mucho → duro/mucho (sin cambio)",
+      "reading": "/wɛl/ /fæst/ /hɑːrd/",
+      "explanation": "No todos los adverbios siguen la regla del -ly. Los más importantes: (1) good → well. 'She sings well.' ✓ 'She sings good.' ✗ INCORRECTO. En español 'bueno' se usa informalmente como adverbio ('canta bueno'), pero en inglés 'good' NUNCA es adverbio — siempre 'well'. (2) fast → fast (NO 'fastly'). 'He runs fast.' ✓ (3) hard → hard (NO 'hardly'). 'I work hard.' = Trabajo mucho/duro. CUIDADO: 'I hardly work.' = Apenas trabajo (casi no trabajo). ¡Significado completamente opuesto! 'Hardly' = apenas, casi no.",
+      "cardRef": { "category": "grammar", "front": "Irregular adverbs: good → well, fast → fast, hard → hard (NOT hardly!)" }
+    },
+    {
+      "front": "Time adverbs: yesterday, last week, recently, at the moment, right now",
+      "back": "Adverbios de tiempo: ayer, la semana pasada, recientemente, en este momento, ahora mismo",
+      "reading": "/ˈjɛstərdeɪ/ /læst wiːk/ /ˈriːsəntli/ /æt ðə ˈmoʊmənt/",
+      "explanation": "Los adverbios y frases de tiempo dicen CUÁNDO pasa algo. POSICIÓN: generalmente van al FINAL de la oración o al PRINCIPIO (para dar énfasis). 'I saw her yesterday.' ✓ o 'Yesterday, I saw her.' ✓ (con coma). 'She called me last week.' 'At the moment, I'm studying English.' Algunos adverbios de tiempo te dicen qué TIEMPO VERBAL usar: yesterday/last week/ago → past simple. Now/at the moment → present continuous. Recently/just → present perfect. En español el orden es más flexible; en inglés ponerlos en el medio de la oración suena raro.",
+      "cardRef": { "category": "grammar", "front": "Time adverbs: yesterday, last week, recently, at the moment, right now" }
+    },
+    {
+      "front": "Place adverbs: here, there, everywhere, outside, upstairs, abroad",
+      "back": "Adverbios de lugar: aquí, ahí/allí, en todos lados, afuera, arriba, en el exterior",
+      "reading": "/hɪr/ /ðɛr/ /ˈɛvriwɛr/ /aʊtˈsaɪd/ /ʌpˈstɛrz/",
+      "explanation": "Los adverbios de lugar dicen DÓNDE pasa algo. POSICIÓN: generalmente van DESPUÉS del verbo (o del objeto si hay). 'Come here.' 'She lives there.' 'I looked everywhere.' 'The kids are playing outside.' 'He went upstairs.' Cuando hay adverbio de lugar Y de tiempo en la misma oración, el LUGAR va primero: 'She went abroad last year.' ✓ (lugar + tiempo). NO 'She went last year abroad.' ✗",
+      "cardRef": { "category": "grammar", "front": "Place adverbs: here, there, everywhere, outside, upstairs, abroad" }
+    },
+    {
+      "front": "Degree adverbs: very, really, quite, extremely, fairly + adjective/adverb",
+      "back": "Adverbios de grado: muy, realmente, bastante, extremadamente, bastante + adjetivo/adverbio",
+      "reading": "/ˈvɛri/ /ˈrɪəli/ /kwaɪt/ /ɪkˈstriːmli/ /ˈfɛrli/",
+      "explanation": "Los adverbios de grado modifican la INTENSIDAD de un adjetivo u otro adverbio. Van ANTES de lo que modifican. 'She is very tall.' 'He drives really fast.' 'The movie was quite good.' Escala de intensidad: fairly/quite (bastante) < very/really (muy) < extremely (extremadamente). ERROR COMÚN de hispanohablantes: decir 'very much tall' o 'much tall'. 'Very' modifica adjetivos: 'very tall' ✓. 'Much' modifica comparativos: 'much taller' ✓. 'Very taller' ✗ INCORRECTO. Recordá: 'very' + adjetivo base, 'much' + comparativo.",
+      "cardRef": { "category": "grammar", "front": "Degree adverbs: very, really, quite, extremely, fairly + adjective/adverb" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Adverbios de modo: cómo se hacen las cosas",
+      "instruction": "Ya conocés los adverbios de frecuencia (always, never, sometimes). Ahora vamos a expandir: ¿cómo decir que alguien hace algo rápidamente, cuidadosamente, bien? La mayoría se forman con -ly, pero algunos son irregulares. El más importante: good → well (NUNCA 'she sings good').",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Tiempo, lugar y grado: cuándo, dónde y cuánto",
+      "instruction": "Los adverbios de tiempo (yesterday, recently) te dicen cuándo. Los de lugar (here, there) te dicen dónde. Los de grado (very, really) te dicen cuánto. Lo clave es la POSICIÓN: tiempo y lugar van al final, grado va antes del adjetivo. Si hay lugar Y tiempo, el lugar va primero: 'She went abroad last year.'",
+      "itemIndices": [2, 3, 4]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué tipo de adverbio es?",
+      "instruction": "Clasificá cada adverbio: ¿es de modo (cómo), tiempo (cuándo), lugar (dónde) o grado (cuánto)? Pensá en qué pregunta responde.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "recall",
+      "title": "Formá el adverbio y ubicalo correctamente",
+      "instruction": "Transformá el adjetivo en adverbio (-ly o irregular) y poné cada adverbio en la posición correcta dentro de la oración. Cuidado con 'good → well' y 'hard ≠ hardly'.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá oraciones con adverbios",
+      "instruction": "Ordená las palabras para formar oraciones correctas. Prestá atención a la posición del adverbio: ¿va antes o después del verbo? ¿Antes o después del adjetivo?",
+      "itemIndices": [0, 1, 2, 4]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Resumen: (1) Modo: adjetivo + -ly (quickly, carefully). Irregulares: good→well, fast→fast, hard→hard. (2) Tiempo: al final o principio de la oración (yesterday, at the moment). (3) Lugar: después del verbo (here, there, outside). (4) Grado: antes del adjetivo/adverbio (very tall, really fast). (5) Orden: lugar antes de tiempo ('went abroad last year'). Errores clave: 'She sings well' (NO 'good'). 'I work hard' (NO 'hardly' = apenas). 'Very tall' (NO 'very taller' — con comparativos usá 'much').",
+      "itemIndices": [0, 1, 2, 3, 4]
+    }
+  ]
+}

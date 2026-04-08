@@ -1,0 +1,381 @@
+{
+  "passThreshold": 0.75,
+  "questionsPerLevel": 8,
+  "levels": [
+    {
+      "levelId": "a1",
+      "canDoStatements": [
+        "Entiendo saludos y presentaciones básicas.",
+        "Conozco los números, colores y días de la semana.",
+        "Puedo decir frases como 'My name is...' y 'I am...'."
+      ],
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "What is the opposite of 'hot'?",
+          "options": ["Cold", "Big", "Fast", "New"],
+          "correctIndex": 0
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "Choose the correct option: 'She ___ a teacher.'",
+          "options": ["are", "am", "is", "be"],
+          "correctIndex": 2
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "What color is the sky on a clear day?",
+          "options": ["Red", "Green", "Yellow", "Blue"],
+          "correctIndex": 3
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "Complete: 'I ___ to school every day.'",
+          "options": ["goes", "go", "going", "gone"],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "What number comes after twelve?",
+          "options": ["Thirteen", "Fourteen", "Eleven", "Ten"],
+          "correctIndex": 0
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "Choose the correct option: 'They ___ two children.'",
+          "options": ["has", "is", "are", "have"],
+          "correctIndex": 3
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "'Good morning' is used as a:",
+          "options": ["Question", "Warning", "Greeting", "Command"],
+          "correctIndex": 2
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "Choose: '___ you like coffee?'",
+          "options": ["Is", "Do", "Are", "Does"],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "Which animal says 'meow'?",
+          "options": ["Dog", "Bird", "Fish", "Cat"],
+          "correctIndex": 3
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "Complete: 'This is ___ book.'",
+          "options": ["is", "a", "the some", "an"],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "levelId": "a2",
+      "canDoStatements": [
+        "Hablo sobre mi rutina diaria en presente y pasado.",
+        "Puedo pedir comida, comprar cosas y pedir direcciones.",
+        "Entiendo oraciones con comparativos y preguntas indirectas."
+      ],
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "'I went to the store yesterday.' — What tense is this?",
+          "options": ["Present simple", "Present perfect", "Past simple", "Future"],
+          "correctIndex": 2
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "Choose: 'She is ___ than her sister.'",
+          "options": ["taller", "tall", "tallest", "more tall"],
+          "correctIndex": 0
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "What does 'purchase' mean?",
+          "options": ["To sell", "To give", "To break", "To buy"],
+          "correctIndex": 3
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "Complete: 'If it rains, I ___ an umbrella.'",
+          "options": ["take", "took", "will take", "taking"],
+          "correctIndex": 2
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "Choose: 'There ___ many people at the party last night.'",
+          "options": ["was", "were", "is", "are"],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "'He used to play football' means:",
+          "options": [
+            "He plays now",
+            "He will play soon",
+            "He never played",
+            "He played in the past but not anymore"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "Choose: 'I ___ never ___ to Japan.'",
+          "options": ["did / go", "have / been", "was / going", "has / been"],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "What does 'appointment' mean?",
+          "options": [
+            "A scheduled meeting",
+            "A type of food",
+            "A kind of furniture",
+            "A sport"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "'Could you tell me where the station is?' — This is:",
+          "options": ["A command", "An exclamation", "An indirect question", "A greeting"],
+          "correctIndex": 2
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "Complete: 'She ___ cooking when I arrived.'",
+          "options": ["is", "were", "has", "was"],
+          "correctIndex": 3
+        }
+      ]
+    },
+    {
+      "levelId": "b1",
+      "canDoStatements": [
+        "Me comunico en situaciones cotidianas sin dificultad.",
+        "Entiendo textos cortos y puedo expresar opiniones.",
+        "Uso present perfect, condicionales y voz pasiva."
+      ],
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "'Despite the rain, we went out.' — 'Despite' means:",
+          "options": ["Because of", "Although / Even though", "After", "Before"],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "Choose: 'By the time he arrived, we ___.'",
+          "options": ["had already left", "already left", "have left", "are leaving"],
+          "correctIndex": 0
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "What does the idiom 'break the ice' mean?",
+          "options": [
+            "To break something cold",
+            "To end a friendship",
+            "To solve a difficult problem",
+            "To start a conversation in a social setting"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "'The report was written by the manager.' — This is:",
+          "options": ["Passive voice", "Active voice", "Imperative", "Subjunctive"],
+          "correctIndex": 0
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "What does 'to look forward to' mean?",
+          "options": [
+            "To look ahead physically",
+            "To anticipate something with pleasure",
+            "To regret something",
+            "To forget about something"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "Complete: 'She suggested ___ a break.'",
+          "options": ["to take", "take", "took", "taking"],
+          "correctIndex": 3
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "'If she had studied, she would have passed.' — This is:",
+          "options": [
+            "Zero conditional",
+            "First conditional",
+            "Third conditional",
+            "Second conditional"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "'He tends to procrastinate' means he:",
+          "options": [
+            "Delays doing things",
+            "Works very hard",
+            "Finishes tasks early",
+            "Asks for help often"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "Choose: 'I wish I ___ more time.'",
+          "options": ["will have", "had", "having", "have"],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "What does 'reliable' mean?",
+          "options": ["Expensive", "Dangerous", "Dependable / Trustworthy", "Boring"],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "levelId": "b2",
+      "canDoStatements": [
+        "Discuto temas variados con fluidez y precisión.",
+        "Leo artículos de noticias y textos académicos sin dificultad.",
+        "Uso inversión, condicionales mixtos e idioms complejos."
+      ],
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "'The company's profits have dwindled.' — 'Dwindled' means:",
+          "options": ["Stayed the same", "Decreased gradually", "Increased rapidly", "Disappeared instantly"],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "Choose: 'Not only ___ the exam, but she also got the highest score.'",
+          "options": ["she passed", "she did pass", "did she pass", "passed she"],
+          "correctIndex": 2
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "What is a synonym for 'ubiquitous'?",
+          "options": ["Found everywhere", "Rare", "Invisible", "Expensive"],
+          "correctIndex": 0
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "Choose: 'It's high time we ___ this issue.'",
+          "options": ["address", "will address", "addressing", "addressed"],
+          "correctIndex": 3
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "'She's been burning the candle at both ends' means:",
+          "options": [
+            "She's been playing with fire",
+            "She's been overworking herself",
+            "She's been wasting money",
+            "She's been traveling a lot"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "'Were it not for your help, I would have failed.' — This uses:",
+          "options": [
+            "Formal inversion in a conditional",
+            "Normal conditional",
+            "Imperative mood",
+            "Passive voice"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "What does 'to undermine' mean?",
+          "options": [
+            "To support strongly",
+            "To build upon",
+            "To discover suddenly",
+            "To gradually weaken or damage"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "Choose: 'Hardly ___ the door when the phone rang.'",
+          "options": [
+            "I opened",
+            "did I open",
+            "I had opened",
+            "had I opened"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "'The news came as a bolt from the blue' means:",
+          "options": [
+            "It was sad news",
+            "It was completely unexpected",
+            "It was good news",
+            "It was old news"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "Choose: 'She demanded that he ___ immediately.'",
+          "options": ["left", "leaving", "leave", "leaves"],
+          "correctIndex": 2
+        }
+      ]
+    }
+  ]
+}

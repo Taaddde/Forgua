@@ -1,0 +1,82 @@
+{
+  "id": "grammar-a2-01",
+  "title": "Past Simple vs Past Continuous",
+  "description": "I was reading when the phone rang. El Past Continuous (was/were + -ing) describe acciones en progreso en el pasado; el Past Simple describe acciones completadas. Juntos, cuentan historias.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "was/were + verb-ing: I was sleeping. They were working.",
+      "back": "Estaba durmiendo. Estaban trabajando. (acción en progreso en el pasado)",
+      "reading": "/aɪ wɒz ˈsliːpɪŋ/ /ðeɪ wɜːr ˈwɜːrkɪŋ/",
+      "explanation": "Estructura del Past Continuous: sujeto + was/were + verbo-ing. 'Was' con I/he/she/it, 'were' con you/we/they. Describe una acción que ESTABA EN PROGRESO en un momento del pasado. En español es 'estaba + gerundio' o el pretérito imperfecto: 'dormía' o 'estaba durmiendo'. Ambas formas del español se traducen igual en inglés.",
+      "cardRef": { "category": "grammar", "front": "past continuous structure" }
+    },
+    {
+      "front": "Past Simple: The phone rang. I finished my homework. She left at 8.",
+      "back": "El teléfono sonó. Terminé mi tarea. Ella se fue a las 8. (acciones completadas)",
+      "reading": "/ðə foʊn ræŋ/ /aɪ ˈfɪnɪʃt/ /ʃiː lɛft/",
+      "explanation": "El Past Simple describe acciones COMPLETADAS y PUNTUALES en el pasado. 'The phone rang' = sonó una vez, acción terminada. 'She left' = se fue, hecho. Es el tiempo narrativo principal: cuenta lo que PASÓ. En español equivale al pretérito indefinido: 'sonó', 'terminé', 'se fue'.",
+      "cardRef": { "category": "grammar", "front": "past simple completed actions" }
+    },
+    {
+      "front": "I was reading when the phone rang. / She was cooking when the lights went out.",
+      "back": "Estaba leyendo cuando sonó el teléfono. / Estaba cocinando cuando se cortó la luz.",
+      "reading": "/aɪ wɒz ˈriːdɪŋ wɛn ðə foʊn ræŋ/",
+      "explanation": "La combinación más importante: Past Continuous (acción larga en progreso) + WHEN + Past Simple (acción corta que la interrumpe). 'I was reading' (acción en curso) 'when the phone rang' (la interrupción). Pensalo como una línea de tiempo: la acción continua es el fondo, la puntual es el evento. En español: 'Estaba leyendo cuando sonó el teléfono' — funciona igual.",
+      "cardRef": { "category": "grammar", "front": "past continuous + when + past simple" }
+    },
+    {
+      "front": "While she was cooking, he was cleaning the house.",
+      "back": "Mientras ella cocinaba, él limpiaba la casa. (dos acciones simultáneas en progreso)",
+      "reading": "/waɪl ʃiː wɒz ˈkʊkɪŋ hiː wɒz ˈkliːnɪŋ/",
+      "explanation": "WHILE + Past Continuous, Past Continuous = dos acciones en progreso AL MISMO TIEMPO. 'While she was cooking, he was cleaning.' Ambas acciones son largas y simultáneas. 'While' introduce la acción de fondo. En español: 'Mientras ella cocinaba, él limpiaba.' CLAVE: cuando las dos acciones son largas y simultáneas, ambas van en Past Continuous.",
+      "cardRef": { "category": "grammar", "front": "while + two past continuous" }
+    },
+    {
+      "front": "It was raining and people were walking fast. The streets were wet.",
+      "back": "Estaba lloviendo y la gente caminaba rápido. Las calles estaban mojadas.",
+      "reading": "/ɪt wɒz ˈreɪnɪŋ ænd ˈpiːpəl wɜːr ˈwɔːkɪŋ fæst/",
+      "explanation": "Past Continuous para AMBIENTAR una escena: 'It was raining, people were walking, birds were singing...' Esto crea el escenario de fondo de una historia. Luego, los EVENTOS que pasan se cuentan en Past Simple. Es como una película: Past Continuous = el escenario, Past Simple = la acción. En español usamos el imperfecto para lo mismo: 'Llovía y la gente caminaba rápido. De repente, un auto frenó.'",
+      "cardRef": { "category": "grammar", "front": "past continuous for setting a scene" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Past Continuous: acciones en progreso en el pasado",
+      "instruction": "El Past Continuous (was/were + -ing) describe lo que ESTABA PASANDO en un momento del pasado. 'I was sleeping at midnight' = A medianoche, estaba durmiendo. Es como el Present Continuous pero en pasado. En español puede ser 'dormía' (imperfecto) o 'estaba durmiendo' (perifrástico) — ambas formas se traducen con Past Continuous en inglés.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "When + Past Simple: la interrupción",
+      "instruction": "El uso más importante: combinar Past Continuous con Past Simple usando 'when' o 'while'. 'I was reading WHEN the phone rang' = acción larga interrumpida por acción corta. 'WHILE she was cooking, he was cleaning' = dos acciones largas al mismo tiempo. También se usa para ambientar escenas: 'It was raining and people were walking fast.'",
+      "itemIndices": [2, 3, 4]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Past Simple o Past Continuous?",
+      "instruction": "Elegí el tiempo verbal correcto para cada espacio. Preguntate: ¿es una acción en progreso (fondo) o un evento puntual (lo que pasó)?",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "recall",
+      "title": "Completá la oración",
+      "instruction": "Escribí la forma correcta del verbo en Past Simple o Past Continuous según el contexto.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "write",
+      "title": "Escribí una mini-escena",
+      "instruction": "Usá Past Continuous para el fondo y Past Simple para los eventos. Ejemplo: 'I was walking in the park when I saw a dog.'",
+      "itemIndices": [2, 3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Resumen: Past Continuous = was/were + -ing → acciones en progreso en el pasado. Past Simple = acción completada y puntual. Combinación clave: 'I was reading (fondo) when the phone rang (evento)'. While + dos acciones continuas = simultáneas. Para ambientar escenas: 'It was raining, people were walking...' Después de crear el escenario, los eventos van en Past Simple.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "grammar-a2-07",
+  "title": "Verb + -ing vs Verb + to-infinitive",
+  "description": "I enjoy swimming (no 'to swim'). I want to go (no 'going'). Patrones que hay que memorizar.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Verb + -ing: enjoy, finish, avoid, mind, suggest, keep, practice, consider",
+      "back": "Verbos que llevan gerundio (-ing): disfrutar, terminar, evitar, importar, sugerir, seguir, practicar, considerar",
+      "reading": "/ɪnˈdʒɔɪ ˈswɪmɪŋ/",
+      "explanation": "Estos verbos SIEMPRE van seguidos de -ing. 'I enjoy swimming.' ✓ 'I enjoy to swim.' ✗ INCORRECTO. 'She finished eating.' ✓ 'She finished to eat.' ✗ INCORRECTO. En español todos usan infinitivo: 'Disfruto nadar', 'Terminó de comer'. En inglés NO — estos verbos exigen -ing. No hay una regla lógica: hay que memorizarlos. Truco: muchos de estos verbos hablan de algo que YA estás haciendo (enjoy, finish, keep, avoid).",
+      "cardRef": { "category": "grammar", "front": "Verb + -ing: enjoy, finish, avoid, mind, suggest, keep, practice, consider" }
+    },
+    {
+      "front": "Verb + to-infinitive: want, need, decide, plan, hope, learn, agree, promise, refuse",
+      "back": "Verbos que llevan infinitivo con 'to': querer, necesitar, decidir, planear, esperar, aprender, acordar, prometer, rechazar",
+      "reading": "/wɒnt tuː ɡoʊ/",
+      "explanation": "Estos verbos SIEMPRE van seguidos de 'to' + verbo base. 'I want to go.' ✓ 'I want going.' ✗ INCORRECTO. 'She decided to leave.' ✓ 'She decided leaving.' ✗ INCORRECTO. En español también usan infinitivo: 'Quiero ir', 'Decidió irse' — así que esta regla se siente más natural. Truco: muchos de estos verbos hablan de algo FUTURO o que todavía no pasó (want, plan, hope, decide).",
+      "cardRef": { "category": "grammar", "front": "Verb + to-infinitive: want, need, decide, plan, hope, learn, agree, promise, refuse" }
+    },
+    {
+      "front": "Verb + -ing OR to-infinitive (no change): like, love, hate, start, begin, continue, prefer",
+      "back": "Verbos que aceptan ambos sin cambio de significado: gustar, amar, odiar, empezar, comenzar, continuar, preferir",
+      "reading": "/aɪ laɪk ˈswɪmɪŋ/ = /aɪ laɪk tuː swɪm/",
+      "explanation": "Buenas noticias: estos verbos aceptan AMBAS formas sin cambiar el significado. 'I like swimming.' = 'I like to swim.' (me gusta nadar). 'She started crying.' = 'She started to cry.' (empezó a llorar). Los dos son correctos. En inglés británico se prefiere -ing con like/love/hate para hablar de gustos generales, pero no es obligatorio.",
+      "cardRef": { "category": "grammar", "front": "Verb + -ing OR to-infinitive (no change): like, love, hate, start, begin, continue, prefer" }
+    },
+    {
+      "front": "stop + -ing = stop doing it. / stop + to = stop in order to do something else.",
+      "back": "stop + -ing = dejar de hacer algo. / stop + to = detenerse PARA hacer otra cosa.",
+      "reading": "/aɪ stɒpt ˈsmoʊkɪŋ/ vs /aɪ stɒpt tuː smoʊk/",
+      "explanation": "OJO: con 'stop', cambiar entre -ing y 'to' CAMBIA EL SIGNIFICADO completamente. 'I stopped smoking.' = Dejé de fumar (ya no fumo). 'I stopped to smoke.' = Me detuve PARA fumar (paré lo que hacía para encender un cigarrillo). Otro ejemplo: 'She stopped talking.' = Dejó de hablar (se calló). 'She stopped to talk.' = Se detuvo para hablar (con alguien). En español se distingue: 'Dejé de fumar' vs 'Paré para fumar'.",
+      "cardRef": { "category": "grammar", "front": "stop + -ing = stop doing it. / stop + to = stop in order to do something else." }
+    },
+    {
+      "front": "remember + -ing = recall a past action. / remember + to = don't forget to do it.",
+      "back": "remember + -ing = recordar algo que hiciste. / remember + to = acordarte de hacer algo.",
+      "reading": "/aɪ rɪˈmɛmbər ˈmiːtɪŋ hɜːr/ vs /aɪ rɪˈmɛmbər tuː kɔːl/",
+      "explanation": "Con 'remember', la forma cambia el TIEMPO de la acción. 'I remember meeting her.' = Recuerdo haberla conocido (la acción ya pasó, es un recuerdo). 'I remember to call my mom.' = Me acuerdo de llamar a mi mamá (la acción todavía no pasó, es una tarea pendiente). Lo mismo pasa con 'forget': 'I forgot meeting her' = No recuerdo haberla conocido. 'I forgot to call her' = Me olvidé de llamarla (no lo hice). Patrón: -ing = mirás al PASADO. To = mirás al FUTURO.",
+      "cardRef": { "category": "grammar", "front": "remember + -ing = recall a past action. / remember + to = don't forget to do it." }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Gerundio (-ing) vs infinitivo (to): el problema",
+      "instruction": "En español, después de cualquier verbo usamos infinitivo: 'Disfruto nadar', 'Quiero nadar', 'Empecé a nadar'. En inglés, algunos verbos exigen -ing (enjoy swimming), otros exigen 'to' (want to swim), y otros aceptan ambos (like swimming / like to swim). No hay una regla lógica — hay que memorizar qué pide cada verbo.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Cuando la forma cambia el significado: stop y remember",
+      "instruction": "Con la mayoría de verbos, elegís -ing O 'to' y listo. Pero con 'stop' y 'remember', la elección CAMBIA EL SIGNIFICADO. 'I stopped smoking' (dejé de fumar) vs 'I stopped to smoke' (paré para fumar). Prestá mucha atención a estos dos.",
+      "itemIndices": [3, 4]
+    },
+    {
+      "type": "recognize",
+      "title": "¿-ing o to-infinitive?",
+      "instruction": "Leé la oración y decidí: ¿este verbo necesita -ing, to-infinitive, o acepta ambos? Recordá los trucos: -ing = algo que ya estás haciendo; to = algo futuro o pendiente.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "recall",
+      "title": "Completá con la forma correcta",
+      "instruction": "Escribí la forma correcta del verbo: -ing o to + verbo base. Cuidado con 'stop' y 'remember' — pensá qué significado querés expresar.",
+      "itemIndices": [0, 1, 3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Resumen: (1) Verbos + -ing: enjoy, finish, avoid, mind, suggest, keep, practice, consider. (2) Verbos + to: want, need, decide, plan, hope, learn, agree, promise, refuse. (3) Ambos sin cambio: like, love, hate, start, begin, continue, prefer. (4) SIGNIFICADO CAMBIA: stop + -ing (dejar de) vs stop + to (parar para); remember + -ing (recordar el pasado) vs remember + to (acordarse de hacer algo). Truco: -ing mira al pasado, 'to' mira al futuro.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "grammar-a1-20",
+  "title": "Going to: Future Plans",
+  "description": "I'm going to travel. She's going to study. 'Going to' se usa para planes e intenciones futuras. En el habla informal, 'going to' se convierte en 'gonna'.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "I am going to travel next month. / She is going to study medicine.",
+      "back": "Voy a viajar el mes que viene. / Ella va a estudiar medicina.",
+      "reading": "/aɪ æm ˈɡoʊɪŋ tə ˈtrævəl/ /ʃiː ɪz ˈɡoʊɪŋ tə ˈstʌdi/",
+      "explanation": "Estructura afirmativa: sujeto + am/is/are + going to + verbo base. 'Am' con I, 'is' con he/she/it, 'are' con you/we/they. Se traduce directamente como 'ir a + infinitivo' en español: 'I'm going to travel' = 'Voy a viajar'. Contracciones comunes: I'm going to, he's going to, we're going to.",
+      "cardRef": { "category": "grammar", "front": "going to affirmative" }
+    },
+    {
+      "front": "I'm not going to work tomorrow. / She isn't going to come.",
+      "back": "No voy a trabajar mañana. / Ella no va a venir.",
+      "reading": "/aɪm nɑːt ˈɡoʊɪŋ tə wɜːrk/ /ʃiː ˈɪzənt ˈɡoʊɪŋ tə kʌm/",
+      "explanation": "Negativo: sujeto + am/is/are + not + going to + verbo base. Contracciones: I'm not going to, isn't going to, aren't going to. Funciona igual que en español: 'No voy a trabajar mañana'. ERROR COMÚN: decir 'I don't going to' — NO se usa 'do/does' con 'going to' porque ya tenés el auxiliar am/is/are.",
+      "cardRef": { "category": "grammar", "front": "going to negative" }
+    },
+    {
+      "front": "Are you going to come to the party? / Is she going to study tonight?",
+      "back": "¿Vas a venir a la fiesta? / ¿Ella va a estudiar esta noche?",
+      "reading": "/ɑːr juː ˈɡoʊɪŋ tə kʌm/ /ɪz ʃiː ˈɡoʊɪŋ tə ˈstʌdi/",
+      "explanation": "Preguntas: Am/Is/Are + sujeto + going to + verbo base? En español simplemente cambiamos la entonación: '¿Vas a venir?'. En inglés invertimos el auxiliar: 'Are you going to come?'. Respuestas cortas: 'Yes, I am.' / 'No, I'm not.' (no necesitás repetir 'going to').",
+      "cardRef": { "category": "grammar", "front": "going to questions" }
+    },
+    {
+      "front": "Look at those clouds! It's going to rain. / She's very tired — she's going to fall asleep.",
+      "back": "¡Mirá esas nubes! Va a llover. / Está muy cansada — se va a quedar dormida.",
+      "reading": "/lʊk æt ðoʊz klaʊdz ɪts ˈɡoʊɪŋ tə reɪn/",
+      "explanation": "Segundo uso de 'going to': predicciones basadas en EVIDENCIA presente. Ves las nubes → 'It's going to rain'. Ves que alguien se tambalea → 'He's going to fall'. Esto es diferente de 'will', que se usa para predicciones de opinión ('I think it will rain'). BONUS: en el habla informal, 'going to' se pronuncia 'gonna' /ˈɡɒnə/: 'I'm gonna travel', 'It's gonna rain'. Es MUY común pero solo en lenguaje oral/informal.",
+      "cardRef": { "category": "grammar", "front": "going to for predictions + gonna" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Going to: planes e intenciones",
+      "instruction": "Cuando querés hablar de algo que planeás hacer en el futuro, usás 'going to'. Es igual al español 'ir a + infinitivo': 'Voy a viajar' = 'I'm going to travel'. La estructura es: sujeto + am/is/are + going to + verbo base. Para negar: I'm not going to, she isn't going to.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Preguntas y predicciones con going to",
+      "instruction": "Para preguntar, invertí el auxiliar: 'Are you going to come?'. Y hay un segundo uso: predicciones basadas en lo que ves AHORA. '¡Mirá esas nubes! It's going to rain.' En la calle vas a escuchar 'gonna' en vez de 'going to' — es lo mismo pero informal.",
+      "itemIndices": [2, 3]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es la forma correcta?",
+      "instruction": "Elegí la opción correcta para cada oración con 'going to'. Prestá atención al auxiliar (am/is/are) y a la forma del verbo después de 'going to'.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "recall",
+      "title": "Completá con going to",
+      "instruction": "Ves una oración incompleta. Escribí la forma correcta usando 'going to' + el verbo indicado.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá oraciones con going to",
+      "instruction": "Ordená las palabras para formar oraciones correctas con 'going to'.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Resumen: 'Going to' = planes futuros e intenciones. Estructura: am/is/are + going to + verbo base. Negativo: am/is/are + not + going to. Preguntas: Am/Is/Are + sujeto + going to? Segundo uso: predicciones con evidencia visible ('Look! It's going to rain'). En el habla informal, 'going to' se pronuncia 'gonna'. NO uses 'do/does' con 'going to' — el auxiliar ya es am/is/are.",
+      "itemIndices": [0, 1, 2, 3]
+    }
+  ]
+}

@@ -34,6 +34,7 @@ export const PackFeaturesSchema = z.object({
   furigana: z.boolean(),
   inputConversion: z.string().nullable(),
   tokenization: z.boolean(),
+  placement: z.boolean(),
 });
 
 export const PackLevelSchema = z.object({
@@ -55,6 +56,7 @@ export const PackManifestSchema = z.object({
   id: z.string().min(1),
   name: z.string().min(1),
   nativeName: z.string().min(1),
+  sourceLanguage: z.string().min(2),
   icon: z.string(),
   version: z.string().regex(/^\d+\.\d+\.\d+$/),
   authors: z.array(z.string()).min(1),
@@ -218,6 +220,56 @@ export function validateRoadmaps(data: unknown) {
 /** Validate resources */
 export function validateResources(data: unknown) {
   return z.array(ResourceEntrySchema).safeParse(data);
+}
+
+// --- Placement schemas ---
+
+const PlacementQuestionBaseFields = {
+  category: PackCategorySchema,
+  prompt: z.string().min(1),
+  context: z.string().optional(),
+};
+
+export const PlacementMultipleChoiceSchema = z.object({
+  type: z.literal('multiple-choice'),
+  ...PlacementQuestionBaseFields,
+  options: z.array(z.string()).min(2),
+  correctIndex: z.number().int().min(0),
+});
+
+export const PlacementWriteAnswerSchema = z.object({
+  type: z.literal('write-answer'),
+  ...PlacementQuestionBaseFields,
+  acceptedAnswers: z.array(z.string()).min(1),
+});
+
+export const PlacementTrueFalseSchema = z.object({
+  type: z.literal('true-false'),
+  ...PlacementQuestionBaseFields,
+  correctAnswer: z.boolean(),
+});
+
+export const PlacementQuestionSchema = z.union([
+  PlacementMultipleChoiceSchema,
+  PlacementWriteAnswerSchema,
+  PlacementTrueFalseSchema,
+]);
+
+export const PlacementLevelConfigSchema = z.object({
+  levelId: z.string().min(1),
+  canDoStatements: z.array(z.string()).min(1),
+  questions: z.array(PlacementQuestionSchema).min(1),
+});
+
+export const PlacementConfigSchema = z.object({
+  passThreshold: z.number().min(0).max(1),
+  questionsPerLevel: z.number().int().positive(),
+  levels: z.array(PlacementLevelConfigSchema).min(1),
+});
+
+/** Validate placement config */
+export function validatePlacement(data: unknown) {
+  return PlacementConfigSchema.safeParse(data);
 }
 
 // --- Lesson schemas ---

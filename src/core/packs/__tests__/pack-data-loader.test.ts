@@ -16,15 +16,15 @@ describe('pack-data-loader utilities', () => {
     }
 
     it('should extract level from vocabulary path', () => {
-      expect(extractLevelFromPath('../../packs/japanese/vocabulary/n5.json')).toBe('n5');
+      expect(extractLevelFromPath('../../packs/japanese-from-es/vocabulary/n5.json')).toBe('n5');
     });
 
     it('should extract level from grammar path', () => {
-      expect(extractLevelFromPath('../../packs/english/grammar/a1.json')).toBe('a1');
+      expect(extractLevelFromPath('../../packs/english-from-es/grammar/a1.json')).toBe('a1');
     });
 
     it('should extract level from nested kanji path', () => {
-      expect(extractLevelFromPath('../../packs/japanese/characters/kanji/n3.json')).toBe('n3');
+      expect(extractLevelFromPath('../../packs/japanese-from-es/characters/kanji/n3.json')).toBe('n3');
     });
   });
 
@@ -39,15 +39,15 @@ describe('pack-data-loader utilities', () => {
     }
 
     it('should extract type from flat character file', () => {
-      expect(extractCharTypeFromPath('../../packs/japanese/characters/hiragana.json')).toBe('hiragana');
+      expect(extractCharTypeFromPath('../../packs/japanese-from-es/characters/hiragana.json')).toBe('hiragana');
     });
 
     it('should extract type from nested character file', () => {
-      expect(extractCharTypeFromPath('../../packs/japanese/characters/kanji/n5.json')).toBe('kanji');
+      expect(extractCharTypeFromPath('../../packs/japanese-from-es/characters/kanji/n5.json')).toBe('kanji');
     });
 
     it('should extract type from katakana file', () => {
-      expect(extractCharTypeFromPath('../../packs/japanese/characters/katakana.json')).toBe('katakana');
+      expect(extractCharTypeFromPath('../../packs/japanese-from-es/characters/katakana.json')).toBe('katakana');
     });
   });
 
@@ -68,20 +68,20 @@ describe('pack-data-loader utilities', () => {
 
     it('should filter modules by pack ID', () => {
       const modules = {
-        '../../packs/japanese/vocabulary/n5.json': () => Promise.resolve({ default: [] }),
-        '../../packs/english/vocabulary/a1.json': () => Promise.resolve({ default: [] }),
-        '../../packs/japanese/vocabulary/n4.json': () => Promise.resolve({ default: [] }),
+        '../../packs/japanese-from-es/vocabulary/n5.json': () => Promise.resolve({ default: [] }),
+        '../../packs/english-from-es/vocabulary/a1.json': () => Promise.resolve({ default: [] }),
+        '../../packs/japanese-from-es/vocabulary/n4.json': () => Promise.resolve({ default: [] }),
       };
 
-      const result = filterByPack(modules, 'japanese');
+      const result = filterByPack(modules, 'japanese-from-es');
       expect(Object.keys(result)).toHaveLength(2);
-      expect(Object.keys(result)).toContain('../../packs/japanese/vocabulary/n5.json');
-      expect(Object.keys(result)).toContain('../../packs/japanese/vocabulary/n4.json');
+      expect(Object.keys(result)).toContain('../../packs/japanese-from-es/vocabulary/n5.json');
+      expect(Object.keys(result)).toContain('../../packs/japanese-from-es/vocabulary/n4.json');
     });
 
     it('should return empty for non-existent pack', () => {
       const modules = {
-        '../../packs/japanese/vocabulary/n5.json': () => Promise.resolve({ default: [] }),
+        '../../packs/japanese-from-es/vocabulary/n5.json': () => Promise.resolve({ default: [] }),
       };
 
       const result = filterByPack(modules, 'chinese');

@@ -1,8 +1,35 @@
-import { defineConfig } from 'vitest/config';
+import { defineConfig, type Plugin } from 'vitest/config';
 import react from '@vitejs/plugin-react';
 import tailwindcss from '@tailwindcss/vite';
 import { VitePWA } from 'vite-plugin-pwa';
 import { viteStaticCopy } from 'vite-plugin-static-copy';
+import fs from 'node:fs';
+import path from 'node:path';
+
+/**
+ * Serve kuromoji dict files from node_modules during dev.
+ * vite-plugin-static-copy only works at build time, so in dev
+ * requests to /dict/*.dat.gz would 404. This plugin intercepts
+ * those requests and streams the file directly, without setting
+ * Content-Encoding: gzip (which would cause the browser to
+ * decompress, and then kuromoji's gunzipSync would fail on
+ * already-decompressed data).
+ */
+function kuromojiDictPlugin(): Plugin {
+  return {
+    name: 'kuromoji-dict-dev',
+    configureServer(server) {
+      server.middlewares.use((req, res, next) => {
+        if (!req.url?.startsWith('/dict/')) return next();
+        const filename = req.url.slice('/dict/'.length);
+        const filePath = path.resolve('node_modules/@sglkc/kuromoji/dict', filename);
+        if (!fs.existsSync(filePath)) return next();
+        res.setHeader('Content-Type', 'application/octet-stream');
+        fs.createReadStream(filePath).pipe(res);
+      });
+    },
+  };
+}
 
 const isTauri = !!process.env.TAURI_ENV_PLATFORM;
 const base = process.env.VITE_BASE_PATH ?? '/';
@@ -12,6 +39,7 @@ export default defineConfig({
   plugins: [
     react(),
     tailwindcss(),
+    kuromojiDictPlugin(),
     viteStaticCopy({
       targets: [{
         src: 'node_modules/@sglkc/kuromoji/dict/*',

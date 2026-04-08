@@ -1,0 +1,89 @@
+{
+  "id": "grammar-a1-21",
+  "title": "Comparatives & Superlatives",
+  "description": "bigger, more expensive, the best — cómo comparar cosas en inglés. Adjetivos cortos usan -er/-est, largos usan more/most, y hay irregulares que tenés que memorizar.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "short adjective + -er + than: She is taller than me. This is cheaper than that.",
+      "back": "más alto/a que — más barato/a que (adjetivos cortos: + -er + than)",
+      "reading": "/ʃiː ɪz ˈtɔːlər ðæn miː/ /ðɪs ɪz ˈtʃiːpər ðæn ðæt/",
+      "explanation": "Adjetivos cortos (1 sílaba o 2 terminados en -y): se agrega -er + than. 'tall→taller', 'cheap→cheaper', 'old→older'. En español siempre usamos 'más + adjetivo + que'. En inglés, con adjetivos cortos NO se dice 'more tall' — eso es un error. Reglas ortográficas: big→bigger (se duplica la consonante final tras vocal corta), happy→happier (y→ier).",
+      "cardRef": { "category": "grammar", "front": "comparative -er than" }
+    },
+    {
+      "front": "more + long adjective + than: This is more expensive than that. She is more intelligent than him.",
+      "back": "más caro/a que — más inteligente que (adjetivos largos: more + adj + than)",
+      "reading": "/ðɪs ɪz mɔːr ɪkˈspɛnsɪv ðæn ðæt/",
+      "explanation": "Adjetivos largos (2+ sílabas): se usa 'more + adjetivo + than'. 'More expensive than', 'more interesting than', 'more important than'. Este patrón es más parecido al español ('más caro que'). ERROR COMÚN: mezclar los sistemas — NO se dice 'more cheaper' ni 'expensiver'. Si el adjetivo es corto, -er. Si es largo, more.",
+      "cardRef": { "category": "grammar", "front": "comparative more...than" }
+    },
+    {
+      "front": "the + short adjective + -est: She is the tallest in the class. This is the cheapest option.",
+      "back": "el/la más alto/a — el/la más barato/a (superlativo: the + adj-est)",
+      "reading": "/ʃiː ɪz ðə ˈtɔːlɪst/ /ðɪs ɪz ðə ˈtʃiːpɪst/",
+      "explanation": "Superlativo de adjetivos cortos: 'the' + adjetivo-est. 'tall→the tallest', 'cheap→the cheapest', 'old→the oldest'. SIEMPRE lleva 'the' adelante — es obligatorio en inglés. Mismas reglas ortográficas que el comparativo: big→the biggest, happy→the happiest.",
+      "cardRef": { "category": "grammar", "front": "superlative the -est" }
+    },
+    {
+      "front": "the most + long adjective: This is the most expensive restaurant. She is the most intelligent student.",
+      "back": "el/la más caro/a — el/la más inteligente (superlativo: the most + adj)",
+      "reading": "/ðɪs ɪz ðə moʊst ɪkˈspɛnsɪv/",
+      "explanation": "Superlativo de adjetivos largos: 'the most' + adjetivo. 'The most expensive', 'the most interesting', 'the most beautiful'. Siempre con 'the'. NO se dice 'the most cheapest' ni 'the expensivest'. Acordate: corto = -est, largo = the most.",
+      "cardRef": { "category": "grammar", "front": "superlative the most" }
+    },
+    {
+      "front": "good → better (than) → the best / bad → worse (than) → the worst",
+      "back": "bueno → mejor (que) → el mejor / malo → peor (que) → el peor",
+      "reading": "/ˈbɛtər/ /ðə bɛst/ /wɜːrs/ /ðə wɜːrst/",
+      "explanation": "Irregulares comparativos: good→better (NO 'gooder' ni 'more good'), bad→worse (NO 'badder' ni 'more bad'). Igual que en español: bueno→mejor, malo→peor. NUNCA se dice 'more better' — 'better' ya es comparativo. 'She is better than me at English.' 'This is worse than I expected.'",
+      "cardRef": { "category": "grammar", "front": "irregular comparatives (better, worse)" }
+    },
+    {
+      "front": "good → the best / bad → the worst / far → the farthest",
+      "back": "bueno → el mejor / malo → el peor / lejos → el más lejano",
+      "reading": "/ðə bɛst/ /ðə wɜːrst/ /ðə ˈfɑːrðɪst/",
+      "explanation": "Irregulares superlativos: good→the best (NO 'the goodest'), bad→the worst, far→the farthest. 'She is the best student in the class.' 'That was the worst movie ever.' También: much/many→more→the most, little→less→the least. Estos hay que memorizarlos como vocabulario.",
+      "cardRef": { "category": "grammar", "front": "irregular superlatives (best, worst)" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Comparativos: -er vs more",
+      "instruction": "Para comparar dos cosas en inglés, tenés DOS sistemas según el largo del adjetivo. Adjetivos cortos (1 sílaba): adj + -er + than → 'taller than', 'cheaper than'. Adjetivos largos (2+ sílabas): more + adj + than → 'more expensive than'. Reglas de ortografía: big→bigger (se duplica), happy→happier (y→i). NUNCA mezcles: 'more taller' está MAL.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Superlativos e irregulares",
+      "instruction": "Para decir 'el más...', usás the + adj-est (cortos) o the most + adj (largos). 'The tallest', 'the most expensive'. Siempre con 'the'. Y hay irregulares que ya conocés del español: good→better→the best, bad→worse→the worst. NUNCA 'more better' ni 'most best'.",
+      "itemIndices": [2, 3, 4, 5]
+    },
+    {
+      "type": "recognize",
+      "title": "¿-er/est o more/most?",
+      "instruction": "Elegí la forma comparativa o superlativa correcta para cada adjetivo. Fijate si es corto o largo.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "Escribí el comparativo o superlativo",
+      "instruction": "Ves el adjetivo en su forma base. Escribí la forma comparativa o superlativa que se pide.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá comparaciones",
+      "instruction": "Ordená las palabras para formar oraciones comparativas o superlativas correctas.",
+      "itemIndices": [0, 1, 4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Resumen: Comparativos — cortos: adj-er + than (taller than). Largos: more + adj + than (more expensive than). Superlativos — cortos: the + adj-est (the tallest). Largos: the most + adj (the most expensive). Irregulares: good→better→the best, bad→worse→the worst. Ortografía: big→bigger, happy→happier. NUNCA mezclar: 'more taller' y 'most cheapest' están MAL.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

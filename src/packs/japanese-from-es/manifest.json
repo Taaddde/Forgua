@@ -1,7 +1,8 @@
 {
-  "id": "japanese",
-  "name": "Japonés",
+  "id": "japanese-from-es",
+  "name": "Japonés (desde español)",
   "nativeName": "日本語",
+  "sourceLanguage": "es",
   "icon": "🇯🇵",
   "version": "1.0.0",
   "authors": ["Forgua Team"],
@@ -24,7 +25,8 @@
     "toneMarks": false,
     "furigana": true,
     "inputConversion": "wanakana",
-    "tokenization": true
+    "tokenization": true,
+    "placement": true
   },
   "levels": [
     { "id": "n5", "name": "JLPT N5", "order": 1, "description": "Principiante" },

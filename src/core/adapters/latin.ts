@@ -14,7 +14,7 @@ export class LatinAdapter extends AbstractAdapter {
 
   private _ready = true;
 
-  async init(): Promise<void> {
+  async init(_onProgress?: import('../types/adapter').AdapterProgressCallback): Promise<void> {
     // No initialization needed for Latin script
     this._ready = true;
   }

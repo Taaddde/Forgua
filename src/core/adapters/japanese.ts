@@ -9,6 +9,7 @@
 
 import { AbstractAdapter } from './base';
 import type { Token, AnnotatedText, MatchResult, ConversionTarget } from './base';
+import type { AdapterProgressCallback } from '../types/adapter';
 import {
   toHiragana,
   toKatakana,
@@ -19,6 +20,9 @@ import {
   bind,
   unbind,
 } from 'wanakana';
+
+/** Known total size of kuromoji dictionary files (~17 MB) */
+const DICT_TOTAL_BYTES = 17_800_000;
 
 export class JapaneseAdapter extends AbstractAdapter {
   readonly family = 'cjk-japanese';
@@ -37,34 +41,72 @@ export class JapaneseAdapter extends AbstractAdapter {
   } | null = null;
   private _ready = false;
 
-  async init(): Promise<void> {
-    const [KuroshiroModule, KuromojiAnalyzerModule, kuromojiModule] = await Promise.all([
-      import('kuroshiro'),
-      import('kuroshiro-analyzer-kuromoji'),
-      import('@sglkc/kuromoji'),
-    ]);
+  async init(onProgress?: AdapterProgressCallback): Promise<void> {
+    onProgress?.('dictionaries', 0);
 
-    const Kuroshiro = KuroshiroModule.default;
-    const KuromojiAnalyzer = KuromojiAnalyzerModule.default;
-    const kuromoji = kuromojiModule.default;
-
-    // Init kuroshiro with kuromoji analyzer
-    this.kuroshiroInstance = new Kuroshiro();
-    const analyzer = new KuromojiAnalyzer({ dictPath: '/dict' });
-    await this.kuroshiroInstance.init(analyzer);
-
-    // Also build a raw kuromoji tokenizer for direct tokenization
-    await new Promise<void>((resolve, reject) => {
-      kuromoji.builder({ dicPath: '/dict' }).build((err, tokenizer) => {
-        if (err) {
-          reject(err);
-        } else {
-          this.kuromojiTokenizer = tokenizer;
-          resolve();
+    // Intercept fetch to track kuromoji dict download progress
+    let bytesLoaded = 0;
+    const originalFetch = globalThis.fetch;
+    if (onProgress) {
+      globalThis.fetch = async function (input: RequestInfo | URL, init?: RequestInit) {
+        const response = await originalFetch.call(globalThis, input, init);
+        const url = typeof input === 'string' ? input : input instanceof Request ? input.url : input.toString();
+        if (url.includes('/dict/')) {
+          const body = response.clone().body;
+          if (body) {
+            const reader = body.getReader();
+            (async () => {
+              for (;;) {
+                const { done, value } = await reader.read();
+                if (done) break;
+                bytesLoaded += value.byteLength;
+                onProgress('dictionaries', Math.min(bytesLoaded / DICT_TOTAL_BYTES, 0.95));
+              }
+            })();
+          }
         }
-      });
-    });
+        return response;
+      };
+    }
 
+    try {
+      const [KuroshiroModule, kuromojiModule] = await Promise.all([
+        import('kuroshiro'),
+        import('@sglkc/kuromoji'),
+      ]);
+      const { BrowserKuromojiAnalyzer } = await import('./kuromoji-analyzer');
+
+      const Kuroshiro = KuroshiroModule.default;
+      const kuromoji = kuromojiModule.default;
+
+      onProgress?.('dictionaries', 0.05);
+
+      // Init kuroshiro with our browser-compatible analyzer
+      this.kuroshiroInstance = new Kuroshiro();
+      const analyzer = new BrowserKuromojiAnalyzer({ dictPath: '/dict' });
+      await this.kuroshiroInstance.init(analyzer);
+
+      onProgress?.('tokenizer', 0.97);
+
+      // Also build a raw kuromoji tokenizer for direct tokenization
+      await new Promise<void>((resolve, reject) => {
+        kuromoji.builder({ dicPath: '/dict' }).build((err, tokenizer) => {
+          if (err) {
+            reject(err);
+          } else {
+            this.kuromojiTokenizer = tokenizer;
+            resolve();
+          }
+        });
+      });
+    } finally {
+      // Always restore original fetch
+      if (onProgress) {
+        globalThis.fetch = originalFetch;
+      }
+    }
+
+    onProgress?.('ready', 1);
     this._ready = true;
   }
 

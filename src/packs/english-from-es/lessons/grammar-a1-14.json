@@ -1,0 +1,69 @@
+{
+  "id": "grammar-a1-14",
+  "title": "Can / Can't: Ability & Permission",
+  "description": "I can swim. Can I go? She can't drive. 'Can' es un verbo modal: no cambia con la persona, no usa 'do/does' y va seguido del verbo base.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "I/You/He/She/We/They can swim.",
+      "back": "Yo sé nadar. / Él/Ella sabe nadar. / Nosotros sabemos nadar.",
+      "reading": "/aɪ kən swɪm/ — /ʃiː kən swɪm/",
+      "explanation": "'Can' expresa habilidad (saber/poder hacer algo). NO CAMBIA con la persona: 'I can', 'she can', 'they can' — nunca 'she cans' ❌. Después de 'can' siempre va el verbo en forma base (sin 'to'): 'I can swim' (no 'I can to swim' ❌). En español usamos 'poder' o 'saber' según el contexto; en inglés 'can' cubre ambos. Pronunciación: en oraciones, 'can' es débil /kən/, casi no se oye la vocal.",
+      "cardRef": { "category": "grammar", "front": "can + ability" }
+    },
+    {
+      "front": "Can I go to the bathroom? / Can you help me?",
+      "back": "¿Puedo ir al baño? / ¿Me podés ayudar?",
+      "reading": "/kæn aɪ ɡoʊ/ — /kæn juː hɛlp miː/",
+      "explanation": "'Can' también se usa para pedir PERMISO ('Can I...?') y para hacer pedidos ('Can you...?'). Para preguntas, 'can' va al principio: 'Can I open the window?' (¿Puedo abrir la ventana?). NO necesitás 'do': 'Do you can help?' ❌ → 'Can you help?' ✓. Más formal: 'Could I...?' / 'Could you...?'. En preguntas, 'can' se pronuncia más fuerte: /kæn/.",
+      "cardRef": { "category": "grammar", "front": "can + permission/requests" }
+    },
+    {
+      "front": "She can't drive. / I cannot understand.",
+      "back": "Ella no sabe manejar. / No puedo entender.",
+      "reading": "/ʃiː kænt draɪv/ — /aɪ ˈkænɑːt ˌʌndərˈstænd/",
+      "explanation": "Negativo: can't (contracción) o cannot (formal, una sola palabra). 'I can't cook' (no sé cocinar). PRONUNCIACIÓN CLAVE para hispanohablantes: 'can' /kən/ suena débil, 'can't' /kænt/ suena fuerte con la 'a' más abierta. La diferencia es sutil y es uno de los mayores problemas de comprensión. Truco: si escuchás la vocal fuerte /æ/, es negativo (can't).",
+      "cardRef": { "category": "grammar", "front": "can't / cannot" }
+    },
+    {
+      "front": "Can she speak French? — Yes, she can. / No, she can't.",
+      "back": "¿Ella sabe hablar francés? — Sí. / No.",
+      "reading": "/kæn ʃiː spiːk frɛntʃ/ — /jɛs ʃiː kæn/ — /noʊ ʃiː kænt/",
+      "explanation": "Preguntas de habilidad: 'Can + sujeto + verbo base?' Respuestas cortas: 'Yes, I/she/they can' o 'No, I/she/they can't'. NO se repite el verbo principal en la respuesta corta: '¿Can you swim?' → 'Yes, I can' (no 'Yes, I can swim' como respuesta corta). OJO: no se usa 'do/does' con 'can': 'Does she can swim?' ❌ → 'Can she swim?' ✓.",
+      "cardRef": { "category": "grammar", "front": "can questions + short answers" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Can: habilidad y permiso",
+      "instruction": "'Can' es un verbo modal — funciona distinto a los verbos normales. Tres reglas de oro: (1) NO cambia con la persona (nunca 'she cans'). (2) Después va el verbo BASE, sin 'to' ('I can swim', no 'I can to swim'). (3) NO usa do/does para preguntas ni negaciones ('Can you help?', no 'Do you can help?'). Se usa para habilidad ('I can cook') y permiso ('Can I go?').",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Can't: la negación y las preguntas",
+      "instruction": "Negativo: 'can't' o 'cannot'. ATENCIÓN a la pronunciación: 'can' /kən/ es débil (casi inaudible), pero 'can't' /kænt/ es fuerte. Muchos hispanohablantes no distinguen 'I can do it' de 'I can't do it' al escuchar. Truco: vocal fuerte = negativo. Para preguntas, 'can' va primero: 'Can she swim?' Respuesta corta: 'Yes, she can' / 'No, she can't'.",
+      "itemIndices": [2, 3]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Habilidad o permiso?",
+      "instruction": "Leé cada oración y decidí si 'can' expresa habilidad (saber hacer algo) o permiso (pedir/dar autorización).",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "recall",
+      "title": "Formá oraciones con can/can't",
+      "instruction": "Ves una situación en español. Escribí la oración correcta en inglés usando 'can' o 'can't'.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Resumen: CAN = habilidad ('I can swim') + permiso ('Can I go?'). NO cambia con la persona (nunca 'cans'). Después va verbo BASE sin 'to'. Negativo: can't / cannot. Preguntas: Can + sujeto + verbo base (sin do/does). Pronunciación clave: can /kən/ (débil) vs can't /kænt/ (fuerte, vocal abierta). Respuestas cortas: 'Yes, I can' / 'No, I can't'.",
+      "itemIndices": [0, 1, 2, 3]
+    }
+  ]
+}

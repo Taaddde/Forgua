@@ -5,7 +5,7 @@ const LONG_TIMEOUT = 15000;
 
 describe('pack-content-loader', () => {
   it('should load roadmaps for japanese pack', async () => {
-    const roadmaps = await loadRoadmaps('japanese');
+    const roadmaps = await loadRoadmaps('japanese-from-es');
     expect(roadmaps.length).toBeGreaterThan(0);
     expect(roadmaps[0]).toHaveProperty('id');
     expect(roadmaps[0]).toHaveProperty('name');
@@ -13,7 +13,7 @@ describe('pack-content-loader', () => {
   }, LONG_TIMEOUT);
 
   it('should load roadmaps for english pack', async () => {
-    const roadmaps = await loadRoadmaps('english');
+    const roadmaps = await loadRoadmaps('english-from-es');
     expect(roadmaps.length).toBeGreaterThan(0);
   }, LONG_TIMEOUT);
 
@@ -23,7 +23,7 @@ describe('pack-content-loader', () => {
   });
 
   it('should load readings for japanese pack', async () => {
-    const readings = await loadReadings('japanese');
+    const readings = await loadReadings('japanese-from-es');
     expect(readings.length).toBeGreaterThan(0);
     expect(readings[0]).toHaveProperty('id');
     expect(readings[0]).toHaveProperty('title');
@@ -31,7 +31,7 @@ describe('pack-content-loader', () => {
   }, LONG_TIMEOUT);
 
   it('should load readings for english pack', async () => {
-    const readings = await loadReadings('english');
+    const readings = await loadReadings('english-from-es');
     expect(readings.length).toBeGreaterThan(0);
   }, LONG_TIMEOUT);
 
@@ -41,7 +41,7 @@ describe('pack-content-loader', () => {
   });
 
   it('should load resources for japanese pack', async () => {
-    const resources = await loadResources('japanese');
+    const resources = await loadResources('japanese-from-es');
     expect(resources.length).toBeGreaterThan(0);
     expect(resources[0]).toHaveProperty('name');
     expect(resources[0]).toHaveProperty('type');

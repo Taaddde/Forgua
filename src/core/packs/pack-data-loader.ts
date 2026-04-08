@@ -126,7 +126,7 @@ async function loadLevelCards(
 
 /**
  * Match glob results that belong to a specific pack.
- * Glob keys look like: '../../packs/japanese/vocabulary/n5.json'
+ * Glob keys look like: '../../packs/japanese-from-es/vocabulary/n5.json'
  */
 function filterByPack<T>(
   modules: Record<string, () => Promise<{ default: T }>>,
@@ -144,7 +144,7 @@ function filterByPack<T>(
 
 /**
  * Extract level name from a file path.
- * '../../packs/japanese/vocabulary/n5.json' -> 'n5'
+ * '../../packs/japanese-from-es/vocabulary/n5.json' -> 'n5'
  */
 function extractLevelFromPath(path: string): string {
   const filename = path.split('/').pop() ?? '';
@@ -153,8 +153,8 @@ function extractLevelFromPath(path: string): string {
 
 /**
  * Extract character type from a file path.
- * '../../packs/japanese/characters/hiragana.json' -> 'hiragana'
- * '../../packs/japanese/characters/kanji/n5.json' -> 'kanji'
+ * '../../packs/japanese-from-es/characters/hiragana.json' -> 'hiragana'
+ * '../../packs/japanese-from-es/characters/kanji/n5.json' -> 'kanji'
  */
 function extractCharTypeFromPath(path: string): string {
   const afterChars = path.split('/characters/')[1] ?? '';

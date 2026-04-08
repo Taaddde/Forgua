@@ -17,9 +17,9 @@ function makeState(overrides: Partial<SRSState> = {}): SRSState {
 
 describe('SM-2 Algorithm', () => {
   it('creates initial state with ease 2.5 and interval 0', () => {
-    const state = createInitialSRSState(42, 'japanese');
+    const state = createInitialSRSState(42, 'japanese-from-es');
     expect(state.cardId).toBe(42);
-    expect(state.packId).toBe('japanese');
+    expect(state.packId).toBe('japanese-from-es');
     expect(state.easeFactor).toBe(2.5);
     expect(state.interval).toBe(0);
     expect(state.repetitions).toBe(0);

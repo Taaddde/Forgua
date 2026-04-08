@@ -6,6 +6,8 @@ import { useAppStore } from '../store/useAppStore';
 import { installPack } from '../db/seeds';
 import { getAvailablePacks } from '../packs/pack-registry';
 import type { PackManifest } from '../types/pack-spec';
+import { db } from '../db/database';
+import { PackInstallOverlay } from '../components/common/PackInstallOverlay';
 
 export function PackSelector() {
   const { t } = useTranslation();
@@ -28,6 +30,26 @@ export function PackSelector() {
   async function handleSelect(manifest: PackManifest) {
     await installPack(manifest);
     await selectPack(manifest);
+
+    // Check if placement test should be offered
+    if (manifest.features.placement) {
+      const hasResult = await db.placementResults
+        .where('packId').equals(manifest.id)
+        .first();
+      const hasSRS = await db.srsState
+        .where('packId').equals(manifest.id)
+        .count();
+      const hasLessons = await db.lessonProgress
+        .where('packId').equals(manifest.id)
+        .filter((lp) => lp.status === 'completed')
+        .count();
+
+      if (!hasResult && hasSRS === 0 && hasLessons === 0) {
+        navigate('/placement');
+        return;
+      }
+    }
+
     navigate('/');
   }
 
@@ -106,6 +128,8 @@ export function PackSelector() {
           {t('pack.selector.noPacks')}
         </div>
       )}
+
+      <PackInstallOverlay />
     </div>
   );
 }

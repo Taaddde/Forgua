@@ -27,13 +27,6 @@
       "active": "Pack activo",
       "change": "Cambiar pack"
     },
-    "english": {
-      "name": "Inglés",
-      "description": "Aprendé inglés desde cero con vocabulario, gramática y lecturas graduadas."
-    },
-    "japanese": {
-      "description": "Aprendé japonés con el sistema JLPT: kanji, vocabulario, gramática y lecturas de N5 a N1."
-    },
     "levelCount": "{{count}} niveles",
     "multiPack": {
       "switchPack": "Cambiar de idioma",
@@ -331,6 +324,31 @@
     "updateDescription": "Hay una nueva versión de Forgua.",
     "update": "Actualizar",
     "later": "Después"
+  },
+  "placement": {
+    "title": "¿Ya sabés algo de este idioma?",
+    "subtitle": "Elegí el nivel que mejor te describe para saltear lo que ya sabés.",
+    "fromScratch": "Empiezo desde cero",
+    "fromScratchDesc": "Nunca estudié este idioma, quiero arrancar desde el principio.",
+    "orSelectLevel": "O elegí tu nivel",
+    "testing": "Evaluando nivel: {{level}}",
+    "true": "Verdadero",
+    "false": "Falso",
+    "resultTitle": "¡Nivel confirmado!",
+    "resultSubtitle": "Tu punto de partida fue determinado.",
+    "yourLevel": "Tu nivel",
+    "accuracy": "Precisión",
+    "skippedLevels_one": "{{count}} nivel salteado",
+    "skippedLevels_other": "{{count}} niveles salteados",
+    "skippedExplanation": "El contenido de los niveles anteriores no aparecerá en tus repasos. Podés acceder manualmente desde Explorar.",
+    "startStudying": "Empezar a estudiar"
+  },
+  "packInstall": {
+    "title": "Preparando {{packName}}",
+    "dictionaries": "Descargando diccionarios...",
+    "tokenizer": "Inicializando procesador de texto...",
+    "ready": "¡Listo!",
+    "size": "~{{size}} MB"
   },
   "common": {
     "loading": "Cargando...",

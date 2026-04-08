@@ -34,6 +34,9 @@ export interface MatchResult {
 /** Conversion target for convert() */
 export type ConversionTarget = string; // e.g. 'hiragana', 'katakana', 'romaji', 'pinyin'
 
+/** Progress callback for adapter initialization (e.g. dictionary downloads) */
+export type AdapterProgressCallback = (phase: string, progress: number) => void;
+
 /**
  * Abstract base class for all writing-system adapters.
  * Each adapter implements language-family-specific text processing.
@@ -51,7 +54,7 @@ export abstract class AbstractAdapter {
   abstract readonly requiresInit: boolean;
 
   /** Initialize the adapter (load dictionaries, WASM modules, etc.) */
-  abstract init(): Promise<void>;
+  abstract init(onProgress?: AdapterProgressCallback): Promise<void>;
 
   /** Whether init() has been called successfully */
   abstract isReady(): boolean;

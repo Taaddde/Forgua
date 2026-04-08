@@ -1,7 +1,8 @@
 {
-  "id": "english",
-  "name": "Inglés",
+  "id": "english-from-es",
+  "name": "Inglés (desde español)",
   "nativeName": "English",
+  "sourceLanguage": "es",
   "icon": "🇺🇸",
   "version": "1.0.0",
   "authors": ["Forgua Team"],
@@ -22,7 +23,8 @@
     "toneMarks": false,
     "furigana": false,
     "inputConversion": null,
-    "tokenization": false
+    "tokenization": false,
+    "placement": true
   },
   "levels": [
     { "id": "a1", "name": "CEFR A1", "order": 1, "description": "Principiante — Supervivencia" },

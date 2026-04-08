@@ -6,6 +6,7 @@
 
 import type { ReadingText, Roadmap, ResourceEntry } from '../types/pack-spec';
 import type { LessonIndex, Lesson } from '../types/lesson';
+import type { PlacementConfig } from '../types/placement';
 
 // Glob all content files from all packs (lazy)
 const roadmapModules = import.meta.glob<{ default: Roadmap[] }>(
@@ -30,6 +31,11 @@ const lessonIndexModules = import.meta.glob<{ default: LessonIndex }>(
 
 const lessonModules = import.meta.glob<{ default: Lesson }>(
   '../../packs/*/lessons/*.json',
+  { eager: false },
+);
+
+const placementModules = import.meta.glob<{ default: PlacementConfig }>(
+  '../../packs/*/placement.json',
   { eager: false },
 );
 
@@ -110,6 +116,19 @@ export async function loadLesson(packId: string, lessonId: string): Promise<Less
       const mod = await loader();
       return mod.default as unknown as Lesson;
     }
+  }
+  return null;
+}
+
+/**
+ * Load placement configuration for a pack.
+ * Returns null if the pack doesn't have a placement.json file.
+ */
+export async function loadPlacement(packId: string): Promise<PlacementConfig | null> {
+  const packPlacement = filterByPack(placementModules, packId);
+  for (const [, loader] of Object.entries(packPlacement)) {
+    const mod = await loader();
+    return mod.default as unknown as PlacementConfig;
   }
   return null;
 }

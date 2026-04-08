@@ -39,6 +39,7 @@ export interface PackFeatures {
   furigana: boolean;
   inputConversion: string | null; // 'wanakana' | null
   tokenization: boolean;
+  placement: boolean;
 }
 
 /** Level definition inside a pack */
@@ -62,6 +63,7 @@ export interface PackManifest {
   id: string;
   name: string;
   nativeName: string;
+  sourceLanguage: string; // BCP-47 of the learner's L1, e.g. 'es', 'en', 'pt'
   icon: string;
   version: string;
   authors: string[];

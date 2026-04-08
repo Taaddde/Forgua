@@ -1,0 +1,286 @@
+{
+  "passThreshold": 0.75,
+  "questionsPerLevel": 8,
+  "levels": [
+    {
+      "levelId": "n5",
+      "canDoStatements": [
+        "Conozco hiragana y katakana.",
+        "Entiendo saludos básicos, números y colores.",
+        "Puedo presentarme con frases como 「私は…です」."
+      ],
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "「食べる」の意味は？",
+          "options": ["To drink", "To sleep", "To eat", "To walk"],
+          "correctIndex": 2
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "「大きい」の意味は？",
+          "options": ["Big", "Small", "Cheap", "Fast"],
+          "correctIndex": 0
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "「わたしは学生です」の意味は？",
+          "options": ["I am a teacher", "He is a student", "I am a student", "She is a teacher"],
+          "correctIndex": 2
+        },
+        {
+          "type": "multiple-choice",
+          "category": "characters",
+          "prompt": "「三」の読み方は？",
+          "options": ["いち", "さん", "に", "よん"],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "「行く」の意味は？",
+          "options": ["To come", "To return", "To run", "To go"],
+          "correctIndex": 3
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "「これはなんですか」の意味は？",
+          "options": ["What is this?", "Where is this?", "When is this?", "How is this?"],
+          "correctIndex": 0
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "「月曜日」の意味は？",
+          "options": ["Sunday", "Friday", "Tuesday", "Monday"],
+          "correctIndex": 3
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "「好き」の意味は？",
+          "options": ["To hate", "To like", "To want", "To know"],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "「りんごを食べました」— esta oración está en:",
+          "options": ["Presente", "Futuro", "Imperativo", "Pasado"],
+          "correctIndex": 3
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "「水」の意味は？",
+          "options": ["Water", "Fire", "Earth", "Air"],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "levelId": "n4",
+      "canDoStatements": [
+        "Entiendo conversaciones cotidianas simples.",
+        "Puedo usar formas gramaticales como ～たい, ～てもいい, ～なければならない.",
+        "Leo textos cortos y conozco ~300 kanji."
+      ],
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "「窓を開けてもいいですか」— 「～てもいい」 expresa:",
+          "options": ["Obligación", "Prohibición", "Permiso", "Sugerencia"],
+          "correctIndex": 2
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "「勉強しなければならない」— 「～なければならない」 significa:",
+          "options": ["Debe / Tiene que", "No debería", "Quiere", "Puede"],
+          "correctIndex": 0
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "「昨日買った本はおもしろかった」の意味は？",
+          "options": [
+            "The book I will buy is interesting",
+            "I want to buy an interesting book",
+            "Interesting books are expensive",
+            "The book I bought yesterday was interesting"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "「急に」の意味は？",
+          "options": ["Slowly", "Suddenly", "Carefully", "Quietly"],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "「天気がよければ、散歩しましょう」— 「～ば」 es:",
+          "options": ["Condicional (si)", "Pasado", "Imperativo", "Deseo"],
+          "correctIndex": 0
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "「経験」の意味は？",
+          "options": ["Experiment", "Explanation", "Expression", "Experience"],
+          "correctIndex": 3
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "「彼女は医者になりたがっている」— 「～たがる」 expresa:",
+          "options": [
+            "Obligación",
+            "Deseo de otra persona (tercera persona)",
+            "Deseo propio (primera persona)",
+            "Capacidad"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "「日本語を話すことができます」の意味は？",
+          "options": [
+            "I must speak Japanese",
+            "I want to speak Japanese",
+            "I can speak Japanese",
+            "I should speak Japanese"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "「残念」の意味は？",
+          "options": ["Exciting", "Happy", "Tired", "Unfortunate / Disappointing"],
+          "correctIndex": 3
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "「食べすぎた」— 「～すぎる」 significa:",
+          "options": ["Just right", "Too much / Excessively", "Not enough", "Too little"],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "levelId": "n3",
+      "canDoStatements": [
+        "Entiendo la mayoría de conversaciones cotidianas.",
+        "Leo artículos simples y textos de nivel intermedio.",
+        "Uso gramática como ～ようにする, ～ことにする, ～わけ, ～はず."
+      ],
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "「彼が来るはずだ」— 「～はず」 expresa:",
+          "options": ["Imposibilidad", "Deseo", "Expectativa / Debería ser así", "Duda"],
+          "correctIndex": 2
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "「毎日運動するようにしている」— 「～ようにする」 significa:",
+          "options": [
+            "Me esfuerzo por hacer / Trato de hacer",
+            "Resulta que hago ejercicio",
+            "Dejé de hacer ejercicio",
+            "Puedo hacer ejercicio"
+          ],
+          "correctIndex": 0
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "「影響」の意味は？",
+          "options": ["Shadow", "Image", "Reflection", "Influence / Effect"],
+          "correctIndex": 3
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "「日本に留学することにした」— 「～ことにする」 indica:",
+          "options": [
+            "Una habilidad",
+            "Una decisión tomada",
+            "Una regla existente",
+            "Un deseo no cumplido"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "「適当」の意味は？",
+          "options": ["Appropriate / Suitable", "Exact", "Expensive", "Difficult"],
+          "correctIndex": 0
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "「遅れたわけではない」— 「～わけではない」 significa:",
+          "options": [
+            "Definitivamente llegué tarde",
+            "Quiero llegar tarde",
+            "No es que haya llegado tarde",
+            "Siempre llego tarde"
+          ],
+          "correctIndex": 2
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "「彼女によると、会議は3時からだそうだ」— 「～そうだ」 (transmisión) indica:",
+          "options": [
+            "Apariencia",
+            "Deseo",
+            "Obligación",
+            "Información recibida (hearsay)"
+          ],
+          "correctIndex": 3
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "「比較」の意味は？",
+          "options": ["Cooperation", "Competition", "Comparison", "Conversation"],
+          "correctIndex": 2
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "「読めば読むほどおもしろい」— 「～ば～ほど」 significa:",
+          "options": [
+            "Although I read",
+            "The more I read, the more interesting it gets",
+            "I should read more",
+            "If I read, it won't be interesting"
+          ],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "「努力」の意味は？",
+          "options": ["Talent", "Power", "Luck", "Effort"],
+          "correctIndex": 3
+        }
+      ]
+    }
+  ]
+}

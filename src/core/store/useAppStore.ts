@@ -18,6 +18,7 @@ interface AppState {
   activeAdapter: AbstractAdapter | null;
   adapterLoading: boolean;
   adapterError: string | null;
+  adapterProgress: { phase: string; value: number } | null;
 
   // UI preferences
   uiLanguage: UILanguage;
@@ -41,21 +42,24 @@ export const useAppStore = create<AppState>()(
       activeAdapter: null,
       adapterLoading: false,
       adapterError: null,
+      adapterProgress: null,
       uiLanguage: 'es',
       theme: 'dark',
       sidebarOpen: true,
 
       selectPack: async (manifest: PackManifest) => {
-        set({ adapterLoading: true, adapterError: null, activePack: manifest });
+        set({ adapterLoading: true, adapterError: null, adapterProgress: null, activePack: manifest });
         try {
           const adapter = await getAdapter(manifest.family);
           if (adapter.requiresInit) {
-            await adapter.init();
+            await adapter.init((phase, value) => {
+              set({ adapterProgress: { phase, value } });
+            });
           }
-          set({ activeAdapter: adapter, adapterLoading: false });
+          set({ activeAdapter: adapter, adapterLoading: false, adapterProgress: null });
         } catch (err) {
           const message = err instanceof Error ? err.message : 'Failed to load adapter';
-          set({ adapterError: message, adapterLoading: false, activeAdapter: null });
+          set({ adapterError: message, adapterLoading: false, activeAdapter: null, adapterProgress: null });
         }
       },
 

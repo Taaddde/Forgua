@@ -16,6 +16,7 @@ import type {
   InstalledPack,
 } from '../types/models';
 import type { LessonProgress } from '../types/lesson';
+import type { PlacementResult } from '../types/placement';
 
 export class ForguaDB extends Dexie {
   packs!: Table<InstalledPack, string>;
@@ -27,6 +28,7 @@ export class ForguaDB extends Dexie {
   notes!: Table<Note, number>;
   mediaCache!: Table<MediaCacheEntry, number>;
   lessonProgress!: Table<LessonProgress, string>;
+  placementResults!: Table<PlacementResult, number>;
 
   constructor() {
     super('forgua');
@@ -53,6 +55,19 @@ export class ForguaDB extends Dexie {
       notes: '++id, cardId, createdAt',
       mediaCache: '++id, packId, key, [packId+key]',
       lessonProgress: '[packId+lessonId], packId, status, completedAt',
+    });
+
+    this.version(3).stores({
+      packs: 'id, family, name',
+      cards: '++id, packId, level, category, [packId+level], [packId+category], [packId+level+category], *tags',
+      srsState: 'cardId, packId, nextReview, [packId+nextReview]',
+      progress: '++id, packId, level, category, [packId+level], [packId+level+category]',
+      sessions: '++id, packId, date, [packId+date]',
+      settings: 'key',
+      notes: '++id, cardId, createdAt',
+      mediaCache: '++id, packId, key, [packId+key]',
+      lessonProgress: '[packId+lessonId], packId, status, completedAt',
+      placementResults: '++id, packId, completedAt, [packId+completedAt]',
     });
   }
 }

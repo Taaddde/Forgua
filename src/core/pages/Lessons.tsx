@@ -238,6 +238,11 @@ function LessonCard({
           <div className="flex-1 min-w-0">
             <h3 className="font-semibold text-slate-500 text-sm truncate">{meta.title}</h3>
             <p className="text-xs text-slate-600 truncate">{meta.description}</p>
+            <div className="flex items-center gap-2 mt-1">
+              <span className="text-[10px] font-medium px-1.5 py-0.5 rounded uppercase text-slate-500 bg-slate-800/60">
+                {meta.level}
+              </span>
+            </div>
           </div>
         </div>
       </div>
@@ -268,6 +273,9 @@ function LessonCard({
           <h3 className="font-semibold text-slate-100 text-sm truncate">{meta.title}</h3>
           <p className="text-xs text-slate-400 truncate">{meta.description}</p>
           <div className="flex items-center gap-3 mt-1.5">
+            <span className="text-[10px] font-medium px-1.5 py-0.5 rounded uppercase text-slate-300 bg-slate-700/50">
+              {meta.level}
+            </span>
             <span className={`text-[10px] font-medium px-1.5 py-0.5 rounded ${categoryColor}`}>
               {meta.category}
             </span>

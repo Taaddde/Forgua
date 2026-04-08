@@ -27,13 +27,6 @@
       "active": "Active pack",
       "change": "Change pack"
     },
-    "english": {
-      "name": "English",
-      "description": "Learn English from scratch with graded vocabulary, grammar, and readings."
-    },
-    "japanese": {
-      "description": "Learn Japanese with the JLPT system: kanji, vocabulary, grammar, and readings from N5 to N1."
-    },
     "levelCount": "{{count}} levels",
     "multiPack": {
       "switchPack": "Switch language",
@@ -331,6 +324,31 @@
     "updateDescription": "A new version of Forgua is available.",
     "update": "Update",
     "later": "Later"
+  },
+  "placement": {
+    "title": "Do you already know some of this language?",
+    "subtitle": "Pick the level that best describes you to skip what you already know.",
+    "fromScratch": "I'm starting from scratch",
+    "fromScratchDesc": "I've never studied this language, I want to start from the beginning.",
+    "orSelectLevel": "Or pick your level",
+    "testing": "Testing level: {{level}}",
+    "true": "True",
+    "false": "False",
+    "resultTitle": "Level confirmed!",
+    "resultSubtitle": "Your starting point has been determined.",
+    "yourLevel": "Your level",
+    "accuracy": "Accuracy",
+    "skippedLevels_one": "{{count}} level skipped",
+    "skippedLevels_other": "{{count}} levels skipped",
+    "skippedExplanation": "Content from previous levels won't appear in your reviews. You can access it manually from Explore.",
+    "startStudying": "Start studying"
+  },
+  "packInstall": {
+    "title": "Preparing {{packName}}",
+    "dictionaries": "Downloading dictionaries...",
+    "tokenizer": "Initializing text processor...",
+    "ready": "Ready!",
+    "size": "~{{size}} MB"
   },
   "common": {
     "loading": "Loading...",

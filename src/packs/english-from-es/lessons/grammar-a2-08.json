@@ -1,0 +1,82 @@
+{
+  "id": "grammar-a2-08",
+  "title": "Expanded Comparatives & Superlatives",
+  "description": "as...as, not as...as, less/least, (not) enough, too. Comparaciones avanzadas.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "as + adjective + as (equality): She is as tall as her brother.",
+      "back": "tan + adjetivo + como (igualdad): Ella es tan alta como su hermano.",
+      "reading": "/æz tɔːl æz/",
+      "explanation": "Para decir que dos cosas son IGUALES en algo. 'She is as tall as her brother.' = Es tan alta como su hermano. 'This book is as interesting as that one.' = Este libro es tan interesante como ese. Traducción directa del español: 'tan...como' = 'as...as'. También funciona con adverbios: 'She runs as fast as me.' En negativo es más natural decir 'not as...as' (ver siguiente item).",
+      "cardRef": { "category": "grammar", "front": "as + adjective + as (equality): She is as tall as her brother." }
+    },
+    {
+      "front": "not as + adjective + as (inequality): He's not as fast as his sister.",
+      "back": "no tan + adjetivo + como (desigualdad): Él no es tan rápido como su hermana.",
+      "reading": "/nɒt æz fæst æz/",
+      "explanation": "Para decir que algo es MENOS que otra cosa, sin usar 'less'. 'He's not as fast as his sister.' = No es tan rápido como su hermana. Es la forma más común y natural en inglés — más usada que 'less fast than'. En español: 'no tan...como' = 'not as...as'. Forma alternativa: 'not so...as' (más formal, menos común). 'He's not so fast as his sister.'",
+      "cardRef": { "category": "grammar", "front": "not as + adjective + as (inequality): He's not as fast as his sister." }
+    },
+    {
+      "front": "less + adjective + than / the least + adjective",
+      "back": "menos + adjetivo + que / el menos + adjetivo (el opuesto de more/the most)",
+      "reading": "/lɛs ɪkˈspɛnsɪv ðæn/ — /ðə liːst ɪkˈspɛnsɪv/",
+      "explanation": "'Less' es el opuesto de 'more'; 'the least' es el opuesto de 'the most'. 'This hotel is less expensive than that one.' = Este hotel es menos caro que ese. 'This is the least expensive option.' = Esta es la opción menos cara. IMPORTANTE: 'less' se usa con adjetivos largos (less expensive, less comfortable). Con adjetivos cortos, es más natural usar 'not as...as': 'not as cheap as' suena mejor que 'less cheap than'.",
+      "cardRef": { "category": "grammar", "front": "less + adjective + than / the least + adjective" }
+    },
+    {
+      "front": "too + adjective (excess): This coffee is too hot (to drink).",
+      "back": "demasiado + adjetivo (exceso): Este café está demasiado caliente (para tomar).",
+      "reading": "/tuː hɒt/",
+      "explanation": "'Too' = demasiado, indica EXCESO negativo. 'This coffee is too hot.' = Está demasiado caliente (no puedo tomarlo). 'He's too young to drive.' = Es demasiado joven para manejar. Se puede agregar 'to + verbo' para decir para qué es demasiado: 'too hot to drink', 'too tired to study'. ERROR COMÚN: confundir 'too' (demasiado) con 'very' (muy). 'Very hot' = muy caliente (puede ser bueno). 'Too hot' = demasiado caliente (es un problema).",
+      "cardRef": { "category": "grammar", "front": "too + adjective (excess): This coffee is too hot (to drink)." }
+    },
+    {
+      "front": "adjective + enough / enough + noun: She is old enough. / There is enough time.",
+      "back": "adjetivo + suficiente / suficiente + sustantivo: Ella es suficientemente grande. / Hay suficiente tiempo.",
+      "reading": "/oʊld ɪˈnʌf/ — /ɪˈnʌf taɪm/",
+      "explanation": "'Enough' = suficiente. OJO CON LA POSICIÓN — es la trampa para hispanohablantes. Con ADJETIVOS, 'enough' va DESPUÉS: 'old enough' ✓ ('enough old' ✗). Con SUSTANTIVOS, 'enough' va ANTES: 'enough time' ✓ ('time enough' ✗). En español 'suficiente' siempre va antes: 'suficientemente grande', 'suficiente tiempo'. Ejemplos: 'She's tall enough to reach.' (adjetivo + enough). 'We have enough money.' (enough + sustantivo). Se puede agregar 'to + verbo': 'old enough to vote'.",
+      "cardRef": { "category": "grammar", "front": "adjective + enough / enough + noun: She is old enough. / There is enough time." }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Comparaciones de igualdad: as...as",
+      "instruction": "Ya sabés comparar con '-er/more' (bigger, more expensive) y '-est/most' (the biggest, the most expensive). Ahora vamos a ampliar: ¿cómo decir que dos cosas son iguales? ¿O que una es MENOS que otra? Empezamos con 'as...as' y 'not as...as', que traducen directamente 'tan...como' y 'no tan...como'.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Less/least, too y enough",
+      "instruction": "'Less' y 'least' son lo opuesto de 'more' y 'most'. 'Too' indica exceso (demasiado). 'Enough' indica suficiencia. Ojo con 'enough': va DESPUÉS del adjetivo ('tall enough') pero ANTES del sustantivo ('enough time'). En español 'suficiente' siempre va antes — en inglés depende.",
+      "itemIndices": [2, 3, 4]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué estructura de comparación necesitás?",
+      "instruction": "Leé la situación y elegí la estructura correcta: as...as, not as...as, less/least, too, o enough. Pensá en qué querés expresar: igualdad, desigualdad, exceso o suficiencia.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "recall",
+      "title": "Completá la comparación",
+      "instruction": "Escribí la oración completa usando la estructura de comparación correcta. Prestá especial atención a la posición de 'enough'.",
+      "itemIndices": [0, 1, 3, 4]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá oraciones con comparaciones avanzadas",
+      "instruction": "Ordená las palabras para formar comparaciones correctas. Cuidado con el orden de 'as...as', 'too' y 'enough'.",
+      "itemIndices": [0, 2, 3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Resumen: (1) as + adj + as = tan...como (igualdad). (2) not as + adj + as = no tan...como (desigualdad, más natural que 'less'). (3) less/the least = menos/el menos (opuesto de more/most). (4) too + adj = demasiado (exceso, siempre negativo). (5) adj + enough = suficientemente (OJO: 'enough' va DESPUÉS del adjetivo pero ANTES del sustantivo). 'Very' ≠ 'too': 'very hot' puede ser bueno, 'too hot' es un problema.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    }
+  ]
+}

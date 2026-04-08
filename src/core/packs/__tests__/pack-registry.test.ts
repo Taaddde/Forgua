@@ -13,8 +13,8 @@ describe('pack-registry', () => {
     expect(packs.length).toBeGreaterThanOrEqual(2);
 
     const ids = packs.map((p) => p.id);
-    expect(ids).toContain('japanese');
-    expect(ids).toContain('english');
+    expect(ids).toContain('japanese-from-es');
+    expect(ids).toContain('english-from-es');
   }, LONG_TIMEOUT);
 
   it('should return manifests with required fields', async () => {

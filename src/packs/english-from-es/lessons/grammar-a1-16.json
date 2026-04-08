@@ -1,0 +1,69 @@
+{
+  "id": "grammar-a1-16",
+  "title": "Imperatives",
+  "description": "Go straight! Don't touch! Cómo dar instrucciones y órdenes. El imperativo en inglés es más simple que en español: solo usás la forma base del verbo, sin conjugar.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Open the door. / Sit down. / Listen!",
+      "back": "Abrí la puerta. / Sentate. / ¡Escuchá!",
+      "reading": "/ˈoʊpən ðə dɔːr/ /sɪt daʊn/ /ˈlɪsən/",
+      "explanation": "El imperativo afirmativo en inglés usa la forma BASE del verbo, sin sujeto. No hay conjugación: 'Open' sirve para vos, para ustedes, para todos. En español conjugamos distinto según la persona (abrí, abra, abran, abrid), pero en inglés es siempre igual: 'Open'. Es mucho más simple. Se usa para órdenes, instrucciones y consejos directos.",
+      "cardRef": { "category": "grammar", "front": "affirmative imperative" }
+    },
+    {
+      "front": "Don't touch that! / Don't run! / Don't worry.",
+      "back": "¡No toques eso! / ¡No corras! / No te preocupes.",
+      "reading": "/doʊnt tʌtʃ ðæt/ /doʊnt rʌn/ /doʊnt ˈwʌri/",
+      "explanation": "Imperativo negativo: 'Don't' + verbo base. 'Don't touch!' (¡no toques!), 'Don't run!' (¡no corras!). Siempre es 'don't', nunca 'doesn't' (no hay tercera persona en el imperativo). ERROR de hispanohablantes: 'No touch!' ❌ — en inglés necesitás 'Don't', no podés poner solo 'no' antes del verbo como en español. Forma completa: 'Do not touch' (más formal/enfático).",
+      "cardRef": { "category": "grammar", "front": "negative imperative (don't)" }
+    },
+    {
+      "front": "Please sit down. / Close the window, please.",
+      "back": "Por favor sentate. / Cerrá la ventana, por favor.",
+      "reading": "/pliːz sɪt daʊn/ /kloʊz ðə ˈwɪndoʊ pliːz/",
+      "explanation": "Para suavizar un imperativo, agregá 'please' al principio o al final: 'Please wait here' o 'Wait here, please'. Sin 'please', el imperativo puede sonar brusco o autoritario (como una orden militar). En situaciones formales o con desconocidos, SIEMPRE usá 'please'. También podés usar 'Could you...?' para ser aún más cortés: 'Could you close the window, please?'.",
+      "cardRef": { "category": "grammar", "front": "polite imperative (please)" }
+    },
+    {
+      "front": "Go straight, then turn left. / Take the second right.",
+      "back": "Andá derecho, después doblá a la izquierda. / Tomá la segunda a la derecha.",
+      "reading": "/ɡoʊ streɪt ðɛn tɜːrn lɛft/ /teɪk ðə ˈsɛkənd raɪt/",
+      "explanation": "Los imperativos son fundamentales para dar DIRECCIONES: 'Go straight' (andá derecho), 'Turn left/right' (doblá a la izquierda/derecha), 'Take the first/second street' (tomá la primera/segunda calle), 'Cross the street' (cruzá la calle), 'Stop at the corner' (pará en la esquina). Fijate que no hay sujeto ni conjugación — todo es verbo base directamente.",
+      "cardRef": { "category": "grammar", "front": "imperatives for directions" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Imperativo: órdenes e instrucciones",
+      "instruction": "El imperativo en inglés es MÁS FÁCIL que en español. En español tenés que conjugar según la persona: 'abrí' (vos), 'abra' (usted), 'abran' (ustedes). En inglés, siempre es la forma base del verbo: 'Open'. Para negar: 'Don't open' (nunca solo 'No open'). Así de simple.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Imperativos corteses y direcciones",
+      "instruction": "'Open the door' puede sonar brusco. Agregá 'please' para ser cortés: 'Please open the door' o 'Open the door, please'. Los imperativos son esenciales para dar direcciones: 'Go straight', 'Turn left', 'Cross the street'. Todo es verbo base, sin complicaciones.",
+      "itemIndices": [2, 3]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Afirmativo o negativo?",
+      "instruction": "Identificá si cada imperativo es una orden/instrucción afirmativa o una prohibición/negación.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "recall",
+      "title": "Dá la instrucción en inglés",
+      "instruction": "Ves una instrucción en español. Escribila en inglés usando el imperativo correcto.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Resumen: Imperativo afirmativo = verbo base sin sujeto ('Open the door', 'Sit down'). Imperativo negativo = Don't + verbo base ('Don't touch!', 'Don't run!'). NUNCA 'No + verbo' como en español. Para ser cortés: 'Please sit down' / 'Sit down, please'. Para direcciones: 'Go straight', 'Turn left/right', 'Take the second street'. Lo más fácil del inglés: sin conjugación, una sola forma para todos.",
+      "itemIndices": [0, 1, 2, 3]
+    }
+  ]
+}

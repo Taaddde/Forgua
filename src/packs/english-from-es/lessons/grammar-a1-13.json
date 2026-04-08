@@ -1,0 +1,69 @@
+{
+  "id": "grammar-a1-13",
+  "title": "Some / Any / Much / Many",
+  "description": "Cuantificadores: some para afirmativo, any para negativo/pregunta. Much + incontable, many + contable. En español 'algo/nada' no tienen esta distinción.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "some + plural/uncountable (affirmative): I have some friends. There is some milk.",
+      "back": "algunos / algo de (afirmativo): Tengo algunos amigos. Hay algo de leche.",
+      "reading": "/sʌm frɛndz/ /ðɛr ɪz sʌm mɪlk/",
+      "explanation": "'Some' se usa en oraciones AFIRMATIVAS con sustantivos contables en plural o incontables. 'I have some books' (tengo algunos libros), 'There is some water' (hay algo de agua). También se usa en ofrecimientos y pedidos: 'Would you like some coffee?' (¿Querés un café?). En español usamos 'algunos/algo de' o directamente nada ('Tengo amigos'), pero en inglés 'some' es mucho más frecuente.",
+      "cardRef": { "category": "grammar", "front": "some (affirmative)" }
+    },
+    {
+      "front": "any + plural/uncountable (negative/question): I don't have any friends. Do you have any milk?",
+      "back": "ningún / algún (negativo/pregunta): No tengo ningún amigo. ¿Tenés algo de leche?",
+      "reading": "/aɪ doʊnt hæv ˈɛni frɛndz/ /duː juː hæv ˈɛni mɪlk/",
+      "explanation": "'Any' se usa en oraciones NEGATIVAS y PREGUNTAS. 'I don't have any money' (no tengo nada de plata), 'Is there any water?' (¿hay agua?). ERROR de hispanohablantes: usar 'some' en negativas. 'I don't have some friends' ❌ → 'I don't have any friends' ✓. La regla es simple: afirmativo → some, negativo/pregunta → any.",
+      "cardRef": { "category": "grammar", "front": "any (negative/questions)" }
+    },
+    {
+      "front": "much + uncountable: How much water? I don't have much time.",
+      "back": "mucho + incontable: ¿Cuánta agua? No tengo mucho tiempo.",
+      "reading": "/haʊ mʌtʃ ˈwɔːtər/ /aɪ doʊnt hæv mʌtʃ taɪm/",
+      "explanation": "'Much' se usa con sustantivos INCONTABLES (water, money, time, information). 'How much money do you have?' (¿cuánta plata tenés?). 'There isn't much milk' (no hay mucha leche). OJO: en afirmativo se prefiere 'a lot of' en vez de 'much': 'I have a lot of time' suena más natural que 'I have much time'. 'Much' es más común en negativas y preguntas.",
+      "cardRef": { "category": "grammar", "front": "much + uncountable" }
+    },
+    {
+      "front": "many + countable plural: How many books? I don't have many friends.",
+      "back": "muchos + contable plural: ¿Cuántos libros? No tengo muchos amigos.",
+      "reading": "/haʊ ˈmɛni bʊks/ /aɪ doʊnt hæv ˈmɛni frɛndz/",
+      "explanation": "'Many' se usa con sustantivos CONTABLES en plural (books, friends, days). 'How many students are there?' (¿cuántos estudiantes hay?). TRUCO para hispanohablantes: si en español decís '¿cuánto/a?' (singular) → much. Si decís '¿cuántos/as?' (plural) → many. Y recordá: 'a lot of' funciona con AMBOS tipos y es más natural en afirmativo: 'I have a lot of friends' (mejor que 'I have many friends' en conversación).",
+      "cardRef": { "category": "grammar", "front": "many + countable" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Some vs Any: afirmativo vs negativo",
+      "instruction": "En español, 'algo' y 'nada' no cambian según el tipo de oración. En inglés sí: usás 'some' cuando la oración es afirmativa ('I have some money') y 'any' cuando es negativa o pregunta ('I don't have any money', 'Do you have any money?'). Esta distinción no existe en español, así que hay que prestarle mucha atención.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Much vs Many: incontable vs contable",
+      "instruction": "En español decimos 'mucho' para todo. En inglés tenés que elegir: 'much' para incontables (water, money, time) y 'many' para contables en plural (books, friends, days). Truco: si podés contar → many. Si no podés contar → much. Y si no querés pensar: 'a lot of' funciona con ambos.",
+      "itemIndices": [2, 3]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Some, any, much o many?",
+      "instruction": "Elegí el cuantificador correcto para cada oración. Fijate si la oración es afirmativa, negativa o pregunta, y si el sustantivo es contable o incontable.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "recall",
+      "title": "Completá con el cuantificador correcto",
+      "instruction": "Ves la oración incompleta. Escribí some, any, much o many según corresponda.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Resumen: SOME = afirmativo ('I have some books'). ANY = negativo/pregunta ('I don't have any books', 'Do you have any books?'). MUCH = incontables ('How much water?'). MANY = contables plurales ('How many books?'). A LOT OF = funciona con ambos y es más natural en afirmativo. Regla rápida: ¿cuánto? → much. ¿Cuántos? → many.",
+      "itemIndices": [0, 1, 2, 3]
+    }
+  ]
+}

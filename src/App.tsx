@@ -25,9 +25,10 @@ function Page({ children }: { children: React.ReactNode }) {
 }
 
 export default function App() {
+  const basename = import.meta.env.BASE_URL;
   return (
     <ErrorBoundary>
-      <BrowserRouter>
+      <BrowserRouter basename={basename}>
         <Routes>
           <Route element={<AppLayout />}>
             <Route path="/" element={<Page><Dashboard /></Page>} />

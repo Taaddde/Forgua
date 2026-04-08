@@ -7,6 +7,16 @@
     <meta name="theme-color" content="#6366f1" />
     <meta name="description" content="Forgua — Motor open source de aprendizaje de idiomas" />
     <title>Forgua</title>
+    <script>
+      // GitHub Pages SPA redirect handler
+      (function() {
+        var redirect = sessionStorage.redirect;
+        delete sessionStorage.redirect;
+        if (redirect && redirect !== location.href) {
+          history.replaceState(null, null, redirect);
+        }
+      })();
+    </script>
   </head>
   <body>
     <div id="root"></div>

@@ -46,7 +46,10 @@ export function useSpeech(defaultLang?: string, continuous = false) {
           }
         },
         onError: (err) => {
-          setError(err);
+          // 'network' means the browser has the API but can't reach Google's STT service.
+          // This happens in non-Chrome browsers (Día, Brave with shields, Firefox, etc.)
+          // Treat it the same as "not supported" so the UI shows the browser recommendation.
+          setError(err === 'network' ? 'stt-not-supported' : err);
           setIsListening(false);
         },
         onEnd: () => {

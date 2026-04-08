@@ -60,7 +60,7 @@ export function useSpeech(defaultLang?: string, continuous = false) {
     } catch (err) {
       setError(err instanceof Error ? err.message : 'stt-start-failed');
     }
-  }, [defaultLang]);
+  }, [defaultLang, continuous]);
 
   const stopListening = useCallback(() => {
     if (recognitionRef.current) {

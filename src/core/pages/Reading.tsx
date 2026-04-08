@@ -78,11 +78,8 @@ export function Reading() {
     ) ?? null;
   }, [selectedToken, packId]);
 
-  const handleTokenClick = useCallback(async () => {
-    if (!adapter || !adapter.isReady() || !selectedText) return;
-    // Tokenize full text and let user click individual tokens via annotated HTML
-    // For now, use the annotated text with click handlers
-  }, [adapter, selectedText]);
+  // TODO: Fase 3 — implement token click handler (tokenize text, show annotation popup)
+  // const handleTokenClick = useCallback(async () => { ... }, [adapter, selectedText]);
 
   const handleQuizAnswer = (questionIdx: number, optionIdx: number) => {
     if (quizSubmitted) return;

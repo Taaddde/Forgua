@@ -212,7 +212,7 @@ export function ReadAloudExercise({ text, title, lang, rate = 0.85 }: ReadAloudE
             {/* Spoken text */}
             <div className="bg-slate-900/50 border border-slate-800 rounded-lg p-3 text-left">
               <p className="text-xs text-slate-500 mb-1">{t('speaking.youSaid')}</p>
-              <p className="text-sm text-slate-300">{fullTranscriptRef.current || '(nada detectado)'}</p>
+              <p className="text-sm text-slate-300">{fullTranscript || '(nada detectado)'}</p>
             </div>
 
             <Button onClick={handleRetry} variant="secondary">

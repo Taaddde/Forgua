@@ -2,7 +2,7 @@
  * Listening page — dictation exercises and free listening mode.
  */
 
-import { useState, useMemo, useCallback } from 'react';
+import { useState, useCallback } from 'react';
 import { useTranslation } from 'react-i18next';
 import { Target } from 'lucide-react';
 import { useLiveQuery } from 'dexie-react-hooks';

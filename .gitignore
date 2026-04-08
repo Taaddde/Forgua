@@ -32,3 +32,6 @@ docs
 e2e/screenshots
 test-results
 .playwright-cli
+.playwright
+playwright-report
+linguaforge-temp

@@ -3,7 +3,7 @@ import { useTranslation } from 'react-i18next';
 import { Globe, Palette, Database, Info, Download, Upload, CheckCircle, XCircle } from 'lucide-react';
 import { useAppStore } from '../store/useAppStore';
 import { exportUserData, importUserData, downloadBackup } from '../db/backup';
-import { APP_VERSION, getPlatformLabel } from '../utils/platform';
+import { APP_VERSION, getPlatform } from '../utils/platform';
 import type { UILanguage, ThemeMode } from '../store/useAppStore';
 
 const languages: { value: UILanguage; label: string }[] = [
@@ -168,7 +168,7 @@ export function Settings() {
         </div>
         <div className="px-4 py-3 rounded-lg bg-slate-900 border border-slate-800 space-y-1">
           <p className="text-sm text-slate-300">LinguaForge v{APP_VERSION}</p>
-          <p className="text-xs text-slate-500">{t('settings.platform')}: {getPlatformLabel()}</p>
+          <p className="text-xs text-slate-500">{t('settings.platform')}: {getPlatform() === 'tauri' ? t('settings.desktopApp') : getPlatform() === 'pwa' ? t('settings.installedPwa') : t('settings.browserMode')}</p>
           <p className="text-xs text-slate-500">Open source language learning engine. MIT License.</p>
         </div>
       </section>

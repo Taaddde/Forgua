@@ -188,6 +188,17 @@
     "recording": "Recording...",
     "notSupported": "Not available in this browser",
     "browserWarning": "The {{feature}} feature is only available in Chrome and Edge.",
+    "desktopWarning": "The {{feature}} feature is not available in the desktop app. Use the web version (linguaforge.app) in Chrome for this feature.",
+    "errors": {
+      "mic-denied": "Microphone permission denied. Check your system settings.",
+      "mic-unavailable": "Could not access the microphone.",
+      "stt-not-supported": "Speech recognition not available.",
+      "stt-start-failed": "Could not start speech recognition.",
+      "not-allowed": "Microphone permission denied.",
+      "service-not-available": "Speech recognition service not available.",
+      "network": "Network error connecting to speech service.",
+      "no-speech": "No speech detected. Try again."
+    },
     "understood": "Got it",
     "speakNow": "Speak now",
     "yourSpeech": "What you said",
@@ -196,6 +207,7 @@
     "listenAndType": "Listen and type what you hear",
     "readAloud": "Read aloud",
     "listenExample": "Listen to example",
+    "openSettings": "Open system settings",
     "noVoices": "No voices available for this language",
     "features": {
       "speech": "speech recognition",
@@ -309,7 +321,10 @@
     "resetData": "Reset data",
     "about": "About",
     "version": "Version",
-    "platform": "Platform"
+    "platform": "Platform",
+    "desktopApp": "Desktop application",
+    "installedPwa": "Installed PWA",
+    "browserMode": "Browser mode"
   },
   "pwa": {
     "updateAvailable": "Update available",

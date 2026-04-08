@@ -14,11 +14,14 @@
     "test:e2e:headed": "playwright test --headed",
     "tauri": "tauri",
     "tauri:dev": "tauri dev",
-    "tauri:build": "tauri build"
+    "tauri:build": "tauri build",
+    "tauri:build:debug": "tauri build --debug",
+    "tauri:build:verbose": "tauri build --verbose"
   },
   "dependencies": {
     "@sglkc/kuromoji": "^1.1.0",
     "@tauri-apps/api": "^2.10.1",
+    "@tauri-apps/plugin-shell": "^2.3.5",
     "date-fns": "^4.1.0",
     "dexie": "^4.4.2",
     "dexie-react-hooks": "^4.4.0",

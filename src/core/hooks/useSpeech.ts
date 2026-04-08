@@ -3,7 +3,7 @@
  */
 
 import { useState, useCallback, useRef, useEffect } from 'react';
-import { isSpeechRecognitionSupported, createSpeechRecognition } from '../engine/speech';
+import { isSpeechRecognitionSupported, createSpeechRecognition, requestMicrophonePermission } from '../engine/speech';
 
 export function useSpeech(defaultLang?: string, continuous = false) {
   const [transcript, setTranscript] = useState('');
@@ -13,9 +13,16 @@ export function useSpeech(defaultLang?: string, continuous = false) {
   const [confidence, setConfidence] = useState(0);
   const recognitionRef = useRef<ReturnType<typeof createSpeechRecognition> | null>(null);
 
-  const startListening = useCallback((lang?: string) => {
+  const startListening = useCallback(async (lang?: string) => {
     if (!isSpeechRecognitionSupported()) {
-      setError('Speech recognition not supported in this browser');
+      setError('stt-not-supported');
+      return;
+    }
+
+    // Request microphone permission first — triggers the OS dialog if needed
+    const mic = await requestMicrophonePermission();
+    if (!mic.granted) {
+      setError(mic.error ?? 'mic-denied');
       return;
     }
 
@@ -51,7 +58,7 @@ export function useSpeech(defaultLang?: string, continuous = false) {
       recognition.start();
       setIsListening(true);
     } catch (err) {
-      setError(err instanceof Error ? err.message : 'Failed to start recognition');
+      setError(err instanceof Error ? err.message : 'stt-start-failed');
     }
   }, [defaultLang]);
 

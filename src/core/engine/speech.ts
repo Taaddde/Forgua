@@ -4,8 +4,29 @@
  */
 
 export function isSpeechRecognitionSupported(): boolean {
-  return typeof window !== 'undefined' &&
-    ('SpeechRecognition' in window || 'webkitSpeechRecognition' in window);
+  if (typeof window === 'undefined') return false;
+  // macOS TCC kills non-bundled binaries that access SpeechRecognition,
+  // even with NSSpeechRecognitionUsageDescription embedded in the Mach-O.
+  // Only a signed .app bundle satisfies TCC. Disable in Tauri to prevent crash.
+  if ('__TAURI_INTERNALS__' in window) return false;
+  return 'SpeechRecognition' in window || 'webkitSpeechRecognition' in window;
+}
+
+/** Request microphone permission via getUserMedia. Returns true if granted. */
+export async function requestMicrophonePermission(): Promise<{ granted: boolean; error?: string }> {
+  if (!navigator.mediaDevices?.getUserMedia) {
+    return { granted: false, error: 'mic-unavailable' };
+  }
+  try {
+    const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+    stream.getTracks().forEach(track => track.stop());
+    return { granted: true };
+  } catch (err) {
+    if (err instanceof DOMException && err.name === 'NotAllowedError') {
+      return { granted: false, error: 'mic-denied' };
+    }
+    return { granted: false, error: 'mic-unavailable' };
+  }
 }
 
 export interface SpeechRecognitionCallbackResult {

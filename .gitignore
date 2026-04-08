@@ -29,6 +29,10 @@ dist-ssr
 
 docs
 
+# Tauri
+src-tauri/target/
+src-tauri/gen/
+
 e2e/screenshots
 test-results
 .playwright-cli

@@ -10,7 +10,6 @@
     "beforeBuildCommand": "npm run build"
   },
   "app": {
-    "title": "LinguaForge",
     "windows": [
       {
         "title": "LinguaForge",
@@ -40,6 +39,25 @@
     "copyright": "MIT License",
     "category": "Education",
     "shortDescription": "Open source language learning engine",
-    "longDescription": "LinguaForge is what Anki should have been for CJK languages."
+    "longDescription": "LinguaForge is what Anki should have been for CJK languages. A free, offline, open-source language learning engine with spaced repetition, guided lessons, and CJK-first design.",
+    "resources": [],
+    "externalBin": [],
+    "windows": {
+      "certificateThumbprint": null,
+      "digestAlgorithm": "sha256",
+      "timestampUrl": ""
+    },
+    "linux": {
+      "deb": {
+        "depends": ["libwebkit2gtk-4.1-0", "libgtk-3-0"]
+      },
+      "appimage": {
+        "bundleMediaFramework": false
+      }
+    },
+    "macOS": {
+      "minimumSystemVersion": "10.15",
+      "signingIdentity": null
+    }
   }
 }

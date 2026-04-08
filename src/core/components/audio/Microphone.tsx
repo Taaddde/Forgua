@@ -4,8 +4,9 @@
 
 import { useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
-import { Mic } from 'lucide-react';
+import { Mic, Settings } from 'lucide-react';
 import { useSpeech } from '../../hooks/useSpeech';
+import { isTauri, openMicrophoneSettings } from '../../utils/platform';
 
 interface MicrophoneProps {
   lang?: string;
@@ -26,6 +27,8 @@ const iconSizes = {
   md: 'w-7 h-7',
   lg: 'w-9 h-9',
 } as const;
+
+const isMicError = (error: string) => error === 'mic-denied' || error === 'mic-unavailable' || error === 'not-allowed';
 
 export function Microphone({ lang, onTranscript, onError, size = 'md', className = '' }: MicrophoneProps) {
   const { t } = useTranslation();
@@ -89,11 +92,28 @@ export function Microphone({ lang, onTranscript, onError, size = 'md', className
         <Mic className={iconSizes[size]} />
       </button>
 
-      <span className="text-xs text-slate-400 h-4">
-        {isListening
-          ? interimTranscript || t('audio.listening')
-          : t('audio.tapToSpeak')}
-      </span>
+      {error ? (
+        <div className="flex flex-col items-center gap-1.5">
+          <span className="text-xs text-red-400 text-center max-w-56">
+            {t(`audio.errors.${error}`, { defaultValue: error })}
+          </span>
+          {isTauri() && isMicError(error) && (
+            <button
+              onClick={() => openMicrophoneSettings()}
+              className="flex items-center gap-1 text-xs text-indigo-400 hover:text-indigo-300 transition-colors"
+            >
+              <Settings className="w-3 h-3" />
+              {t('audio.openSettings')}
+            </button>
+          )}
+        </div>
+      ) : (
+        <span className="text-xs text-slate-400 h-4">
+          {isListening
+            ? interimTranscript || t('audio.listening')
+            : t('audio.tapToSpeak')}
+        </span>
+      )}
     </div>
   );
 }

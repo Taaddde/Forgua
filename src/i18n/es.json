@@ -188,6 +188,17 @@
     "recording": "Grabando...",
     "notSupported": "No disponible en este navegador",
     "browserWarning": "La función de {{feature}} solo está disponible en Chrome y Edge.",
+    "desktopWarning": "La función de {{feature}} no está disponible en la aplicación de escritorio. Usá la versión web (linguaforge.app) en Chrome para esta función.",
+    "errors": {
+      "mic-denied": "Permiso de micrófono denegado. Revisá los permisos del sistema.",
+      "mic-unavailable": "No se pudo acceder al micrófono.",
+      "stt-not-supported": "Reconocimiento de voz no disponible.",
+      "stt-start-failed": "No se pudo iniciar el reconocimiento de voz.",
+      "not-allowed": "Permiso de micrófono denegado.",
+      "service-not-available": "Servicio de reconocimiento de voz no disponible.",
+      "network": "Error de red al conectar con el servicio de voz.",
+      "no-speech": "No se detectó voz. Intentá de nuevo."
+    },
     "understood": "Entendido",
     "speakNow": "Hablá ahora",
     "yourSpeech": "Lo que dijiste",
@@ -196,6 +207,7 @@
     "listenAndType": "Escuchá y escribí lo que oís",
     "readAloud": "Leé en voz alta",
     "listenExample": "Escuchar ejemplo",
+    "openSettings": "Abrir ajustes del sistema",
     "noVoices": "No hay voces disponibles para este idioma",
     "features": {
       "speech": "reconocimiento de voz",
@@ -309,7 +321,10 @@
     "resetData": "Reiniciar datos",
     "about": "Acerca de",
     "version": "Versión",
-    "platform": "Plataforma"
+    "platform": "Plataforma",
+    "desktopApp": "Aplicación de escritorio",
+    "installedPwa": "PWA instalada",
+    "browserMode": "Modo navegador"
   },
   "pwa": {
     "updateAvailable": "Actualización disponible",

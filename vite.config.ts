@@ -22,7 +22,7 @@ export default defineConfig({
       manifest: {
         name: 'Forgua',
         short_name: 'Forgua',
-        description: 'Open source language learning engine — what Anki should have been for CJK languages',
+        description: 'Open source language learning engine built for serious learners of CJK and beyond',
         theme_color: '#6366f1',
         background_color: '#0f172a',
         display: 'standalone',

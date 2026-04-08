@@ -1,6 +1,6 @@
 # Forgua
 
-**What Anki should have been for CJK languages.**
+**The open source language learning engine built for serious learners.**
 
 Forgua is a free, open-source language learning engine built for serious learners. It combines spaced repetition (SM-2), 10+ exercise types, native furigana support, and community-driven Language Packs -- all running 100% offline as a PWA or desktop app.
 

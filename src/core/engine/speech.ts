@@ -7,8 +7,9 @@ export function isSpeechRecognitionSupported(): boolean {
   if (typeof window === 'undefined') return false;
   // macOS TCC kills non-bundled binaries that access SpeechRecognition,
   // even with NSSpeechRecognitionUsageDescription embedded in the Mach-O.
-  // Only a signed .app bundle satisfies TCC. Disable in Tauri to prevent crash.
-  if ('__TAURI_INTERNALS__' in window) return false;
+  // Only a signed .app bundle satisfies TCC. Disable in Tauri+macOS to prevent crash.
+  // Windows WebView2 (Chromium) supports Web Speech API normally.
+  if ('__TAURI_INTERNALS__' in window && navigator.userAgent.includes('Mac')) return false;
   return 'SpeechRecognition' in window || 'webkitSpeechRecognition' in window;
 }
 

@@ -195,13 +195,43 @@ export interface Roadmap {
   phases: RoadmapPhase[];
 }
 
+/** A concrete app action suggested for a phase */
+export interface RoadmapPhaseAction {
+  label: string;
+  route: string; // e.g. '/lessons' | '/study' | '/reading'
+  variant?: 'primary' | 'secondary';
+}
+
+/**
+ * A typed milestone that can be auto-detected from real progress data.
+ * Plain strings in the milestones array are treated as 'manual'.
+ *
+ * - manual: user-toggled checkbox, no auto-detection
+ * - srs_learned: shows counter (current/target) from db.progress.learned
+ * - srs_mature: shows counter from db.progress.mature
+ * - lessons_completed: auto-completes when all matching lessons are done
+ */
+export type MilestoneType = 'manual' | 'srs_learned' | 'srs_mature' | 'lessons_completed';
+
+export interface RoadmapMilestone {
+  text: string;
+  type?: MilestoneType;         // default 'manual'
+  target?: number;              // srs_*: minimum count required
+  level?: string;               // srs_*: filter by pack level id (e.g. 'n5')
+  category?: string;            // srs_*: filter by category (e.g. 'vocabulary')
+  lessonPrefix?: string;        // lessons_completed: single prefix (e.g. 'hiragana-')
+  lessonPrefixes?: string[];    // lessons_completed: multiple prefixes
+  total?: number;               // lessons_completed: expected total lesson count
+}
+
 export interface RoadmapPhase {
   name: string;
   duration: string;
   level: string;
   content: string;
   dailyGoal: string;
-  milestones: string[];
+  milestones: (string | RoadmapMilestone)[];
+  actions?: RoadmapPhaseAction[];
 }
 
 /** Resource entry in resources.json */

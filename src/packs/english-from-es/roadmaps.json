@@ -11,11 +11,14 @@
         "level": "a1",
         "content": "Gramática esencial: to be, present simple, present continuous, articles (a/an/the/zero), possessive adjectives, there is/are, can/can't, imperatives, prepositions (in/on/at). Vocabulario: 500 palabras (saludos, familia, comida, números, colores, ropa, casa). Pronunciación: las 5 vocales nuevas (/æ/, /ʌ/, /ɪ/, /ə/, /ɜː/), /v/ vs /b/, sonidos 'th'. Lectura: textos de 50-80 palabras (menús, señales, formularios).",
         "dailyGoal": "3-4 horas: 1h gramática, 1h vocabulario + SRS, 30min lectura, 30min pronunciación/escucha",
+        "actions": [
+          { "label": "Empezar lecciones", "route": "/lessons", "variant": "primary" }
+        ],
         "milestones": [
           "Presentarse y hacer preguntas básicas",
           "Distinguir /ɪ/ de /iː/ (ship vs sheep)",
           "Leer menús y señales sin diccionario",
-          "500 palabras activas en SRS"
+          { "text": "500 palabras activas en SRS", "type": "srs_learned", "target": 500, "level": "a1" }
         ]
       },
       {
@@ -24,6 +27,10 @@
         "level": "a2",
         "content": "Gramática: past simple (regular + irregular), going to, will, comparatives/superlatives, present perfect (intro), countable/uncountable, modals (have to, should), zero + 1st conditional, gerunds, common phrasal verbs. Vocabulario: 1000-1500 palabras acumuladas. Pronunciación: stress patterns, weak forms intro, connected speech básico. Lectura: emails, descripciones cortas, brochures.",
         "dailyGoal": "3-4 horas: 1h gramática nueva, 1h vocabulario + SRS, 30min reading/writing, 30min listening + pronunciation",
+        "actions": [
+          { "label": "Repasar tarjetas", "route": "/study", "variant": "primary" },
+          { "label": "Nuevas lecciones", "route": "/lessons", "variant": "secondary" }
+        ],
         "milestones": [
           "Contar experiencias pasadas",
           "Entender el 60% de conversaciones cotidianas",
@@ -38,6 +45,10 @@
         "level": "b1",
         "content": "Gramática: 2nd/3rd conditionals, past perfect, present perfect continuous, simple passive, reported speech, complex connectors (cause/contrast), modals for deduction (might/may). Vocabulario: 2000-3000 palabras acumuladas. Pronunciación: connected speech (linking, elision), weak forms completo, schwa en todas las posiciones. Lectura: artículos de BBC Learning English, emails profesionales.",
         "dailyGoal": "3-4 horas: 1h gramática, 1h inmersión (podcasts/videos), 30min writing, 30min conversation practice",
+        "actions": [
+          { "label": "Repasar tarjetas", "route": "/study", "variant": "primary" },
+          { "label": "Nuevas lecciones", "route": "/lessons", "variant": "secondary" }
+        ],
         "milestones": [
           "Leer artículos de BBC Learning English sin ayuda",
           "Entender 6 Minute English sin subtítulos",
@@ -52,6 +63,9 @@
         "level": "b2",
         "content": "Gramática: future perfect/continuous, mixed conditionals, narrative tenses, extended passives, relative clauses avanzadas, wish/would. Vocabulario: 4000-5000 palabras acumuladas (Oxford 5000). Pronunciación: intonation patterns, register awareness. Lectura: artículos con opiniones, prosa literaria, abstracts académicos. False friends intensivo.",
         "dailyGoal": "3-4 horas: balance 50/50 estudio formal e inmersión real (series, podcasts, libros)",
+        "actions": [
+          { "label": "Repasar tarjetas", "route": "/study", "variant": "primary" }
+        ],
         "milestones": [
           "Entender TED Talks sin subtítulos",
           "Leer artículos de The Guardian / NY Times",
@@ -66,6 +80,9 @@
         "level": "c1",
         "content": "Gramática: inversion with negative adverbials, advanced mixed conditionals, modals in the past, all passive forms, phrasal verb splitting. Vocabulario: 6000-8000 palabras acumuladas (incluye Academic Word List). Pronunciación: near-native intonation, register shifting. Lectura: textos académicos, literarios, técnicos extensos.",
         "dailyGoal": "3-4 horas: 80% inmersión real (lectura académica, podcasts nativos, writing avanzado), 20% refinamiento gramatical",
+        "actions": [
+          { "label": "Repasar tarjetas", "route": "/study", "variant": "primary" }
+        ],
         "milestones": [
           "Entender conferencias y presentaciones complejas",
           "Leer literatura en inglés sin diccionario",
@@ -80,6 +97,9 @@
         "level": "c2",
         "content": "Refinamiento de todos los sistemas. Vocabulario: 10000+ palabras (incluyendo expresiones idiomáticas, collocations avanzadas, register formal/informal). Lectura: textos abstractos, estructuralmente complejos, arcaicos. Producción near-native.",
         "dailyGoal": "3+ horas: inmersión total — leer, escuchar, escribir y hablar en inglés como rutina diaria",
+        "actions": [
+          { "label": "Repasar tarjetas", "route": "/study", "variant": "primary" }
+        ],
         "milestones": [
           "Entender virtualmente cualquier texto escrito u oral",
           "Escribir con estilo, precisión y matiz",
@@ -101,10 +121,13 @@
         "level": "a1",
         "content": "Gramática A1 a ritmo sostenido: to be, present simple, present continuous, articles, possessives, there is/are, can/can't. Vocabulario: 500 palabras. Pronunciación: vocales nuevas, /v/ vs /b/. Lecturas graduadas A1.",
         "dailyGoal": "1-2 horas: 30min gramática, 30min vocabulario SRS, 30min lectura/escucha",
+        "actions": [
+          { "label": "Empezar lecciones", "route": "/lessons", "variant": "primary" }
+        ],
         "milestones": [
           "Presentarse en inglés con confianza",
           "Entender textos graduados nivel A1",
-          "500 palabras activas en SRS"
+          { "text": "500 palabras activas en SRS", "type": "srs_learned", "target": 500, "level": "a1" }
         ]
       },
       {
@@ -113,6 +136,10 @@
         "level": "a2",
         "content": "Gramática A2 completa: past simple, going to, will, present perfect intro, comparatives, modals, conditionals, phrasal verbs comunes. Vocabulario: 1000-1500 palabras. Pronunciación: stress patterns, weak forms intro.",
         "dailyGoal": "1.5 horas: 30min gramática, 30min SRS + vocabulario, 30min lectura/escucha variada",
+        "actions": [
+          { "label": "Repasar tarjetas", "route": "/study", "variant": "primary" },
+          { "label": "Nuevas lecciones", "route": "/lessons", "variant": "secondary" }
+        ],
         "milestones": [
           "Entender conversaciones cotidianas simples",
           "Escribir textos de 100+ palabras",
@@ -126,6 +153,10 @@
         "level": "b1",
         "content": "Gramática B1: conditionals 2nd/3rd, past perfect, present perfect continuous, passive, reported speech, connectors. Vocabulario: 2000-3000 palabras. Pronunciación: connected speech, schwa. Inmersión con podcasts y artículos.",
         "dailyGoal": "1.5 horas: 30min gramática, 30min SRS, 30min inmersión variada (podcasts, lectura, writing)",
+        "actions": [
+          { "label": "Repasar tarjetas", "route": "/study", "variant": "primary" },
+          { "label": "Nuevas lecciones", "route": "/lessons", "variant": "secondary" }
+        ],
         "milestones": [
           "Leer artículos de noticias con ayuda moderada",
           "Entender series en inglés con subtítulos en inglés",
@@ -139,6 +170,9 @@
         "level": "b2",
         "content": "Gramática B2: future perfect, mixed conditionals, narrative tenses, passives avanzadas, relative clauses, wish. Vocabulario: 4000-5000 palabras (Oxford 5000). Lectura: artículos con opiniones, prosa literaria. Immersión intensiva.",
         "dailyGoal": "2 horas: 30min estudio formal, 30min SRS, 1h inmersión real (series, podcasts, lectura)",
+        "actions": [
+          { "label": "Repasar tarjetas", "route": "/study", "variant": "primary" }
+        ],
         "milestones": [
           "Entender TED Talks con subtítulos en inglés",
           "Leer artículos de opinión en inglés",
@@ -152,6 +186,9 @@
         "level": "c1",
         "content": "Gramática C1: inversion, modals in the past, all passives, phrasal verbs avanzados. Vocabulario: 6000-8000 palabras. Inmersión total: lectura académica, podcasts nativos, writing avanzado.",
         "dailyGoal": "2 horas: 20% estudio formal, 80% inmersión real",
+        "actions": [
+          { "label": "Repasar tarjetas", "route": "/study", "variant": "primary" }
+        ],
         "milestones": [
           "Entender conferencias y debates complejos",
           "Leer literatura sin diccionario",
@@ -165,6 +202,9 @@
         "level": "c2",
         "content": "Refinamiento completo. Vocabulario: 10000+ palabras. Collocations, idioms, register shifting. Producción near-native en todos los registros.",
         "dailyGoal": "2 horas: inmersión total como rutina diaria",
+        "actions": [
+          { "label": "Repasar tarjetas", "route": "/study", "variant": "primary" }
+        ],
         "milestones": [
           "Producción escrita y oral near-native",
           "Comprensión de humor, ironía y matices culturales",
@@ -185,10 +225,13 @@
         "level": "a1",
         "content": "Lo esencial: saludos, números, verbos básicos (to be, present simple). 5-8 palabras nuevas por día. Pronunciación: las vocales más importantes (/æ/, /ɪ/, /ə/). Lecturas cortas de 40-60 palabras.",
         "dailyGoal": "20-30 minutos: 10min vocabulario nuevo + SRS, 10min gramática o lectura, 10min escucha",
+        "actions": [
+          { "label": "Empezar lecciones", "route": "/lessons", "variant": "primary" }
+        ],
         "milestones": [
           "Presentarse en inglés",
           "Entender instrucciones muy simples",
-          "300+ palabras en SRS"
+          { "text": "300+ palabras en SRS", "type": "srs_learned", "target": 300, "level": "a1" }
         ]
       },
       {
@@ -197,10 +240,14 @@
         "level": "a2",
         "content": "Gramática A2 a ritmo relajado: past simple, going to, comparatives. 5-6 palabras nuevas por día. Intercalar contenido nuevo con repaso profundo de A1. Primeros podcasts simples (VOA Learning English).",
         "dailyGoal": "20-30 minutos: lo que te motive — vocabulario, gramática, escucha o lectura",
+        "actions": [
+          { "label": "Repasar tarjetas", "route": "/study", "variant": "primary" },
+          { "label": "Nuevas lecciones", "route": "/lessons", "variant": "secondary" }
+        ],
         "milestones": [
           "A1 sólido y maduro",
           "Entender canciones simples en inglés",
-          "700+ palabras en SRS",
+          { "text": "700+ palabras en SRS", "type": "srs_learned", "target": 700 },
           "Entender conversaciones muy básicas"
         ]
       },
@@ -210,6 +257,9 @@
         "level": "b1",
         "content": "Gramática B1 gradual. Vocabulario 1500+ palabras. Transición a contenido real: noticias simplificadas, podcasts para learners, series con subtítulos.",
         "dailyGoal": "30 minutos: 15min estudio (gramática o vocabulario), 15min inmersión (podcast, reading, serie)",
+        "actions": [
+          { "label": "Repasar tarjetas", "route": "/study", "variant": "primary" }
+        ],
         "milestones": [
           "Entender series simples con subtítulos en inglés",
           "Leer artículos adaptados",
@@ -223,6 +273,9 @@
         "level": "b2",
         "content": "Sin prisa hacia B2. Inmersión natural: series, podcasts, lectura por placer. Gramática como refinamiento, no como estudio principal.",
         "dailyGoal": "30 minutos: inmersión placentera — lo que disfrutes en inglés",
+        "actions": [
+          { "label": "Repasar tarjetas", "route": "/study", "variant": "primary" }
+        ],
         "milestones": [
           "Disfrutar contenido en inglés como entretenimiento",
           "Entender la mayoría de series/películas con subtítulos",

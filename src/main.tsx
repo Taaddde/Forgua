@@ -30,6 +30,13 @@ window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () 
   }
 });
 
+// When a new deploy changes chunk hashes, the old service worker may serve a stale
+// index.html that references chunks that no longer exist. Vite fires this event when
+// a dynamic import fails — reloading fetches the fresh index.html and correct chunks.
+window.addEventListener('vite:preloadError', () => {
+  window.location.reload();
+});
+
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <App />

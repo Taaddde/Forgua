@@ -81,17 +81,21 @@ export function ReadAloudExercise({ text, title, lang, rate = 0.85 }: ReadAloudE
 
   const [phase, setPhase] = useState<'ready' | 'recording' | 'done'>('ready');
   const [wordResults, setWordResults] = useState<{ word: string; matched: boolean }[]>([]);
+  const [fullTranscript, setFullTranscript] = useState('');
   const fullTranscriptRef = useRef('');
 
   // Accumulate transcript chunks (continuous mode sends multiple final results)
   useEffect(() => {
     if (transcript) {
-      fullTranscriptRef.current = (fullTranscriptRef.current + ' ' + transcript).trim();
+      const updated = (fullTranscriptRef.current + ' ' + transcript).trim();
+      fullTranscriptRef.current = updated;
+      setFullTranscript(updated);
     }
   }, [transcript]);
 
   const handleStart = useCallback(() => {
     fullTranscriptRef.current = '';
+    setFullTranscript('');
     resetTranscript();
     setWordResults([]);
     setPhase('recording');
@@ -110,6 +114,7 @@ export function ReadAloudExercise({ text, title, lang, rate = 0.85 }: ReadAloudE
 
   const handleRetry = useCallback(() => {
     fullTranscriptRef.current = '';
+    setFullTranscript('');
     resetTranscript();
     setWordResults([]);
     setPhase('ready');
@@ -154,11 +159,11 @@ export function ReadAloudExercise({ text, title, lang, rate = 0.85 }: ReadAloudE
         <div className="bg-slate-900/50 border border-slate-800 rounded-lg p-4 mb-4 min-h-[3rem]">
           <p className="text-sm text-slate-500 mb-1">{t('speaking.youSaid')}</p>
           <p className="text-slate-300 text-sm">
-            {fullTranscriptRef.current}
+            {fullTranscript}
             {interimTranscript && (
               <span className="text-slate-500 italic"> {interimTranscript}</span>
             )}
-            {!fullTranscriptRef.current && !interimTranscript && (
+            {!fullTranscript && !interimTranscript && (
               <span className="text-slate-600 italic">{t('audio.listening')}...</span>
             )}
           </p>

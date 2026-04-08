@@ -5,8 +5,10 @@ import { VitePWA } from 'vite-plugin-pwa';
 import { viteStaticCopy } from 'vite-plugin-static-copy';
 
 const isTauri = !!process.env.TAURI_ENV_PLATFORM;
+const base = process.env.VITE_BASE_PATH ?? '/';
 
 export default defineConfig({
+  base,
   plugins: [
     react(),
     tailwindcss(),
@@ -26,8 +28,8 @@ export default defineConfig({
         theme_color: '#6366f1',
         background_color: '#0f172a',
         display: 'standalone',
-        scope: '/',
-        start_url: '/',
+        scope: base,
+        start_url: base,
         icons: [
           { src: '/icons/icon-192.png', sizes: '192x192', type: 'image/png' },
           { src: '/icons/icon-512.png', sizes: '512x512', type: 'image/png' },

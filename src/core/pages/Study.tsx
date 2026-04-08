@@ -95,6 +95,7 @@ export function Study() {
     if (isLoading || sessionStarted) return;
     const combined = shuffle([...reviewQueue]);
     if (combined.length > 0) {
+      // eslint-disable-next-line react-hooks/set-state-in-effect
       setSessionQueue(combined);
     }
   }, [isLoading, reviewQueue, sessionStarted]);
@@ -115,6 +116,7 @@ export function Study() {
   // Auto-start if there are cards
   useEffect(() => {
     if (!isLoading && sessionQueue.length > 0 && !sessionStarted && !sessionComplete) {
+      // eslint-disable-next-line react-hooks/set-state-in-effect
       startSession();
     }
   }, [isLoading, sessionQueue.length, sessionStarted, sessionComplete, startSession]);

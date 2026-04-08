@@ -40,12 +40,12 @@ interface SpeechRecognition extends EventTarget {
   onstart: (() => void) | null;
 }
 
-declare var SpeechRecognition: {
+declare const SpeechRecognition: {
   new(): SpeechRecognition;
   prototype: SpeechRecognition;
 };
 
-declare var webkitSpeechRecognition: {
+declare const webkitSpeechRecognition: {
   new(): SpeechRecognition;
   prototype: SpeechRecognition;
 };

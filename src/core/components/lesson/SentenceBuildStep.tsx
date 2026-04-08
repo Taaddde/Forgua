@@ -80,13 +80,13 @@ export function SentenceBuildStep({ config, onComplete }: SentenceBuildStepProps
       {/* Translation target */}
       <div className="bg-indigo-600/10 border border-indigo-500/30 rounded-xl p-4 mb-6 w-full max-w-md text-center">
         <span className="text-xs text-indigo-400 block mb-1">{t('exercise.sentenceBuild.hint')}</span>
-        <span className="text-lg font-medium text-indigo-200">{sentence.translation}</span>
+        <span className="text-lg font-medium text-indigo-700 dark:text-indigo-200">{sentence.translation}</span>
       </div>
 
       <span className="text-xs text-slate-500 mb-4">{sentenceIdx + 1} / {sentences.length}</span>
 
       {/* Build zone */}
-      <div className="w-full max-w-md min-h-[56px] bg-slate-900 border border-slate-700 rounded-xl p-3 mb-4 flex flex-wrap gap-2">
+      <div className="w-full max-w-md min-h-[56px] bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-xl p-3 mb-4 flex flex-wrap gap-2">
         {selectedOrder.length === 0 && (
           <span className="text-sm text-slate-600">{t('exercise.sentenceBuild.instruction')}</span>
         )}
@@ -117,7 +117,7 @@ export function SentenceBuildStep({ config, onComplete }: SentenceBuildStepProps
               }
             }}
             disabled={showFeedback}
-            className="px-3 py-1.5 bg-slate-800 border border-slate-700 rounded-lg text-sm font-medium text-slate-300 hover:border-slate-600 hover:bg-slate-700 transition-colors"
+            className="px-3 py-1.5 bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-lg text-sm font-medium text-slate-700 dark:text-slate-300 hover:border-slate-300 dark:hover:border-slate-600 hover:bg-slate-200 dark:hover:bg-slate-700 transition-colors"
           >
             {sentence.fragments[fragIdx]}
           </button>
@@ -141,7 +141,7 @@ export function SentenceBuildStep({ config, onComplete }: SentenceBuildStepProps
               {isCorrect ? t('exercise.sentenceBuild.correct') : t('exercise.sentenceBuild.incorrect')}
             </span>
             {!isCorrect && (
-              <span className="text-lg text-slate-100 block mt-1">{correctSentence}</span>
+              <span className="text-lg text-slate-900 dark:text-slate-100 block mt-1">{correctSentence}</span>
             )}
           </div>
         </div>

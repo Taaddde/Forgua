@@ -52,11 +52,11 @@ export function DragReorder({ fragments, correctOrder, prompt, onAnswer }: DragR
         <span className="text-xs font-medium text-indigo-400 uppercase tracking-wider">
           {t('exercise.dragReorder.instruction')}
         </span>
-        {prompt && <p className="text-lg text-slate-200 mt-2">{prompt}</p>}
+        {prompt && <p className="text-lg text-slate-800 dark:text-slate-200 mt-2">{prompt}</p>}
       </div>
 
       {/* Answer zone */}
-      <div className="min-h-[3rem] flex flex-wrap gap-2 p-4 rounded-xl border-2 border-dashed border-slate-700 bg-slate-900/50 mb-4">
+      <div className="min-h-[3rem] flex flex-wrap gap-2 p-4 rounded-xl border-2 border-dashed border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-900/50 mb-4">
         {placed.length === 0 && (
           <span className="text-sm text-slate-600">{t('exercise.dragReorder.instruction')}</span>
         )}
@@ -85,7 +85,7 @@ export function DragReorder({ fragments, correctOrder, prompt, onAnswer }: DragR
             key={`avail-${fragIdx}`}
             onClick={() => handleAdd(fragIdx)}
             disabled={answered}
-            className="px-3 py-1.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 text-sm font-medium hover:bg-slate-700 hover:border-slate-600 transition-colors cursor-pointer"
+            className="px-3 py-1.5 rounded-lg bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-slate-700 dark:text-slate-300 text-sm font-medium hover:bg-slate-200 dark:hover:bg-slate-700 hover:border-slate-300 dark:hover:border-slate-600 transition-colors cursor-pointer"
           >
             {fragments[fragIdx]}
           </button>

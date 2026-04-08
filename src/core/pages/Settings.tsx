@@ -1,8 +1,9 @@
 import { useState, useRef } from 'react';
 import { useTranslation } from 'react-i18next';
-import { Globe, Palette, Database, Info, Download, Upload, CheckCircle, XCircle } from 'lucide-react';
+import { Globe, Palette, Database, Info, Download, Upload, CheckCircle, XCircle, AlertTriangle, Trash2 } from 'lucide-react';
 import { useAppStore } from '../store/useAppStore';
 import { exportUserData, importUserData, downloadBackup } from '../db/backup';
+import { db } from '../db/database';
 import { APP_VERSION, getPlatform } from '../utils/platform';
 import type { UILanguage, ThemeMode } from '../store/useAppStore';
 
@@ -26,6 +27,7 @@ export function Settings() {
   const setTheme = useAppStore((s) => s.setTheme);
 
   const [feedback, setFeedback] = useState<{ type: 'success' | 'error'; message: string } | null>(null);
+  const [resetConfirming, setResetConfirming] = useState(false);
   const fileInputRef = useRef<HTMLInputElement>(null);
 
   function handleLanguageChange(lang: UILanguage) {
@@ -68,9 +70,22 @@ export function Settings() {
     setTimeout(() => setFeedback(null), 4000);
   }
 
+  async function handleReset() {
+    try {
+      await db.delete();
+      localStorage.clear();
+      if ('caches' in window) {
+        const keys = await caches.keys();
+        await Promise.all(keys.map((k) => caches.delete(k)));
+      }
+    } finally {
+      window.location.replace('/');
+    }
+  }
+
   return (
     <div className="max-w-2xl mx-auto">
-      <h1 className="text-2xl font-bold text-slate-100 mb-8">{t('settings.title')}</h1>
+      <h1 className="text-2xl font-bold text-slate-900 dark:text-slate-100 mb-8">{t('settings.title')}</h1>
 
       {/* Feedback toast */}
       {feedback && (
@@ -100,7 +115,7 @@ export function Settings() {
               className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
                 uiLanguage === value
                   ? 'bg-indigo-600 text-white'
-                  : 'bg-slate-800 text-slate-400 hover:text-slate-200 hover:bg-slate-700'
+                  : 'bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-slate-200 hover:bg-slate-200 dark:hover:bg-slate-700'
               }`}
             >
               {label}
@@ -123,7 +138,7 @@ export function Settings() {
               className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
                 theme === value
                   ? 'bg-indigo-600 text-white'
-                  : 'bg-slate-800 text-slate-400 hover:text-slate-200 hover:bg-slate-700'
+                  : 'bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-slate-200 hover:bg-slate-200 dark:hover:bg-slate-700'
               }`}
             >
               {t(labelKey)}
@@ -141,12 +156,12 @@ export function Settings() {
         <div className="space-y-2">
           <button
             onClick={handleExport}
-            className="w-full flex items-center gap-3 px-4 py-3 rounded-lg bg-slate-900 border border-slate-800 text-slate-300 hover:bg-slate-800 transition-colors text-sm"
+            className="w-full flex items-center gap-3 px-4 py-3 rounded-lg bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors text-sm"
           >
             <Download className="w-4 h-4 text-slate-500" />
             {t('backup.export')}
           </button>
-          <label className="w-full flex items-center gap-3 px-4 py-3 rounded-lg bg-slate-900 border border-slate-800 text-slate-300 hover:bg-slate-800 transition-colors text-sm cursor-pointer">
+          <label className="w-full flex items-center gap-3 px-4 py-3 rounded-lg bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors text-sm cursor-pointer">
             <Upload className="w-4 h-4 text-slate-500" />
             {t('backup.import')}
             <input
@@ -160,14 +175,55 @@ export function Settings() {
         </div>
       </section>
 
+      {/* Danger Zone */}
+      <section className="mb-8">
+        <div className="flex items-center gap-2 mb-4">
+          <AlertTriangle className="w-5 h-5 text-red-400" />
+          <h2 className="text-sm font-semibold text-red-400 uppercase tracking-wider">{t('settings.dangerZone')}</h2>
+        </div>
+        <div className="rounded-lg border border-red-500/30 bg-red-600/5 p-4 space-y-3">
+          <div>
+            <p className="text-sm font-medium text-slate-800 dark:text-slate-200">{t('settings.resetApp')}</p>
+            <p className="text-xs text-slate-500 mt-0.5">{t('settings.resetAppDesc')}</p>
+          </div>
+          {!resetConfirming ? (
+            <button
+              onClick={() => setResetConfirming(true)}
+              className="flex items-center gap-2 px-4 py-2 rounded-lg bg-red-600/15 border border-red-500/40 text-red-400 hover:bg-red-600/25 hover:border-red-500/60 transition-colors text-sm font-medium"
+            >
+              <Trash2 className="w-4 h-4" />
+              {t('settings.resetApp')}
+            </button>
+          ) : (
+            <div className="space-y-2">
+              <p className="text-sm text-red-300 font-medium">{t('settings.resetAppConfirm')}</p>
+              <div className="flex gap-2">
+                <button
+                  onClick={handleReset}
+                  className="px-4 py-2 rounded-lg bg-red-600 hover:bg-red-700 text-white text-sm font-medium transition-colors"
+                >
+                  {t('settings.resetAppConfirmButton')}
+                </button>
+                <button
+                  onClick={() => setResetConfirming(false)}
+                  className="px-4 py-2 rounded-lg bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-300 text-sm font-medium transition-colors"
+                >
+                  {t('common.cancel')}
+                </button>
+              </div>
+            </div>
+          )}
+        </div>
+      </section>
+
       {/* About */}
       <section>
         <div className="flex items-center gap-2 mb-4">
           <Info className="w-5 h-5 text-slate-400" />
           <h2 className="text-sm font-semibold text-slate-400 uppercase tracking-wider">{t('settings.about')}</h2>
         </div>
-        <div className="px-4 py-3 rounded-lg bg-slate-900 border border-slate-800 space-y-1">
-          <p className="text-sm text-slate-300">Forgua v{APP_VERSION}</p>
+        <div className="px-4 py-3 rounded-lg bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 space-y-1">
+          <p className="text-sm text-slate-700 dark:text-slate-300">Forgua v{APP_VERSION}</p>
           <p className="text-xs text-slate-500">{t('settings.platform')}: {getPlatform() === 'tauri' ? t('settings.desktopApp') : getPlatform() === 'pwa' ? t('settings.installedPwa') : t('settings.browserMode')}</p>
           <p className="text-xs text-slate-500">Open source language learning engine. MIT License.</p>
         </div>

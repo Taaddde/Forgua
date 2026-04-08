@@ -59,7 +59,7 @@ export function PackSelector() {
         <div className="w-16 h-16 rounded-2xl bg-indigo-500/10 flex items-center justify-center mx-auto mb-6">
           <Languages className="w-8 h-8 text-indigo-400" />
         </div>
-        <h1 className="text-3xl font-bold text-slate-100 mb-2">
+        <h1 className="text-3xl font-bold text-slate-900 dark:text-slate-100 mb-2">
           {t('pack.selector.title')}
         </h1>
         <p className="text-slate-400">
@@ -90,13 +90,13 @@ export function PackSelector() {
                 className={`w-full flex items-center gap-4 p-4 rounded-xl border transition-all text-left ${
                   isActive
                     ? 'bg-indigo-600/10 border-indigo-500/30'
-                    : 'bg-slate-900 border-slate-800 hover:border-slate-700 hover:bg-slate-900/80'
+                    : 'bg-white dark:bg-slate-900 border-slate-200 dark:border-slate-800 hover:border-slate-300 dark:hover:border-slate-700 hover:bg-slate-50 dark:hover:bg-slate-900/80'
                 } disabled:opacity-50`}
               >
                 <span className="text-3xl">{pack.icon}</span>
                 <div className="flex-1 min-w-0">
                   <div className="flex items-center gap-2">
-                    <span className="text-lg font-semibold text-slate-100">{pack.name}</span>
+                    <span className="text-lg font-semibold text-slate-900 dark:text-slate-100">{pack.name}</span>
                     <span className="text-sm text-slate-500">{pack.nativeName}</span>
                   </div>
                   <div className="flex items-center gap-2 mt-1 text-xs text-slate-500">

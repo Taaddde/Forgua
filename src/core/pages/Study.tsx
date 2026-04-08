@@ -188,7 +188,7 @@ export function Study() {
     return (
       <div className="flex flex-col items-center justify-center min-h-[60vh] text-center px-4">
         <GraduationCap className="w-12 h-12 text-slate-600 mb-4" />
-        <h2 className="text-xl font-bold text-slate-100 mb-2">{t('study.noPack')}</h2>
+        <h2 className="text-xl font-bold text-slate-900 dark:text-slate-100 mb-2">{t('study.noPack')}</h2>
         <Button onClick={() => navigate('/pack-selector')} className="mt-4">
           {t('pack.selector.title')}
         </Button>
@@ -210,7 +210,7 @@ export function Study() {
     return (
       <div className="flex flex-col items-center justify-center min-h-[60vh] text-center px-4">
         <GraduationCap className="w-12 h-12 text-emerald-500 mb-4" />
-        <h2 className="text-xl font-bold text-slate-100 mb-2">{t('study.noReviewCards')}</h2>
+        <h2 className="text-xl font-bold text-slate-900 dark:text-slate-100 mb-2">{t('study.noReviewCards')}</h2>
         <p className="text-slate-400 mb-6">{t('study.goToLessons')}</p>
         <div className="flex gap-3">
           <Button onClick={() => navigate('/lessons')}>
@@ -236,25 +236,25 @@ export function Study() {
         <div className="w-16 h-16 rounded-2xl bg-emerald-500/10 flex items-center justify-center mx-auto mb-6">
           <Target className="w-8 h-8 text-emerald-400" />
         </div>
-        <h2 className="text-2xl font-bold text-slate-100 mb-2">
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-slate-100 mb-2">
           {t('study.sessionComplete')}
         </h2>
         <p className="text-slate-400 mb-8">{t('study.sessionSummary')}</p>
 
         <div className="grid grid-cols-3 gap-4 mb-8">
-          <div className="bg-slate-900 rounded-xl border border-slate-800 p-4">
+          <div className="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-4">
             <GraduationCap className="w-5 h-5 text-blue-400 mx-auto mb-1" />
-            <span className="text-2xl font-bold text-slate-100 block">{sessionStats.reviewed}</span>
+            <span className="text-2xl font-bold text-slate-900 dark:text-slate-100 block">{sessionStats.reviewed}</span>
             <span className="text-xs text-slate-500">{t('study.cardsReviewed')}</span>
           </div>
-          <div className="bg-slate-900 rounded-xl border border-slate-800 p-4">
+          <div className="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-4">
             <Target className="w-5 h-5 text-emerald-400 mx-auto mb-1" />
-            <span className="text-2xl font-bold text-slate-100 block">{accuracy}%</span>
+            <span className="text-2xl font-bold text-slate-900 dark:text-slate-100 block">{accuracy}%</span>
             <span className="text-xs text-slate-500">{t('study.correctRate')}</span>
           </div>
-          <div className="bg-slate-900 rounded-xl border border-slate-800 p-4">
+          <div className="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-4">
             <Clock className="w-5 h-5 text-amber-400 mx-auto mb-1" />
-            <span className="text-2xl font-bold text-slate-100 block">{formatTime(elapsedSeconds)}</span>
+            <span className="text-2xl font-bold text-slate-900 dark:text-slate-100 block">{formatTime(elapsedSeconds)}</span>
             <span className="text-xs text-slate-500">{t('study.timeSpent')}</span>
           </div>
         </div>
@@ -302,7 +302,7 @@ export function Study() {
       </div>
 
       {/* Progress bar */}
-      <div className="w-full h-1 bg-slate-800 rounded-full mb-8">
+      <div className="w-full h-1 bg-slate-200 dark:bg-slate-800 rounded-full mb-8">
         <div
           className="h-full bg-indigo-500 rounded-full transition-all duration-300"
           style={{ width: `${((currentIndex) / sessionQueue.length) * 100}%` }}

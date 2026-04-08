@@ -95,11 +95,11 @@ export function RecallStep({ items, onComplete }: RecallStepProps) {
   return (
     <div className="flex flex-col items-center">
       {/* Prompt card */}
-      <div className="bg-slate-900 border border-slate-700 rounded-2xl p-8 text-center mb-6 w-full max-w-md">
+      <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-2xl p-8 text-center mb-6 w-full max-w-md">
         <span className="text-sm text-slate-500 mb-2 block">
           {isReversed ? t('exercise.writeReading') : t('exercise.expected')}
         </span>
-        <span className={`font-bold ${isReversed ? 'text-5xl text-slate-100' : 'text-2xl text-indigo-300'}`}>
+        <span className={`font-bold ${isReversed ? 'text-5xl text-slate-900 dark:text-slate-100' : 'text-2xl text-indigo-600 dark:text-indigo-300'}`}>
           {promptText}
         </span>
       </div>
@@ -118,7 +118,7 @@ export function RecallStep({ items, onComplete }: RecallStepProps) {
           }}
           disabled={showFeedback}
           placeholder={t('exercise.typeAnswer')}
-          className="w-full bg-slate-800 border border-slate-700 rounded-xl px-4 py-3 text-slate-100 placeholder-slate-600 focus:outline-none focus:border-indigo-500 text-lg text-center"
+          className="w-full bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-xl px-4 py-3 text-slate-900 dark:text-slate-100 placeholder-slate-400 dark:placeholder-slate-600 focus:outline-none focus:border-indigo-500 text-lg text-center"
           autoFocus
         />
       </div>

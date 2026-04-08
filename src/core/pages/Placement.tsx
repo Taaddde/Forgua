@@ -50,7 +50,7 @@ export function Placement() {
           <div className="w-16 h-16 rounded-2xl bg-indigo-500/10 flex items-center justify-center mx-auto mb-6">
             <GraduationCap className="w-8 h-8 text-indigo-400" />
           </div>
-          <h1 className="text-3xl font-bold text-slate-100 mb-2">
+          <h1 className="text-3xl font-bold text-slate-900 dark:text-slate-100 mb-2">
             {t('placement.title')}
           </h1>
           <p className="text-slate-400">
@@ -82,9 +82,9 @@ export function Placement() {
 
           {/* Divider */}
           <div className="flex items-center gap-3 py-2">
-            <div className="flex-1 h-px bg-slate-800" />
+            <div className="flex-1 h-px bg-slate-200 dark:bg-slate-800" />
             <span className="text-xs text-slate-500 uppercase tracking-wider">{t('placement.orSelectLevel')}</span>
-            <div className="flex-1 h-px bg-slate-800" />
+            <div className="flex-1 h-px bg-slate-200 dark:bg-slate-800" />
           </div>
 
           {/* Level options */}
@@ -94,12 +94,12 @@ export function Placement() {
               <button
                 key={level.levelId}
                 onClick={() => submitSelfReport(level.levelId)}
-                className="w-full p-5 rounded-xl bg-slate-900 border border-slate-800 hover:border-indigo-500/40 hover:bg-slate-900/80 transition-all text-left"
+                className="w-full p-5 rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:border-indigo-500/40 hover:bg-slate-50 dark:hover:bg-slate-900/80 transition-all text-left"
               >
                 <div className="flex items-center gap-4">
                   <div className="flex-1 min-w-0">
                     <div className="flex items-center gap-2 mb-2">
-                      <span className="text-lg font-semibold text-slate-100">
+                      <span className="text-lg font-semibold text-slate-900 dark:text-slate-100">
                         {packLevel?.name ?? level.levelId}
                       </span>
                       {packLevel?.description && (
@@ -143,7 +143,7 @@ export function Placement() {
               {currentQuestionIndex + 1} / {currentQuestions.length}
             </span>
           </div>
-          <div className="w-full h-2 bg-slate-800 rounded-full overflow-hidden">
+          <div className="w-full h-2 bg-slate-200 dark:bg-slate-800 rounded-full overflow-hidden">
             <div
               className="h-full bg-indigo-500 rounded-full transition-all duration-300"
               style={{ width: `${progress}%` }}
@@ -152,11 +152,11 @@ export function Placement() {
         </div>
 
         {/* Question */}
-        <div className="bg-slate-900 rounded-2xl border border-slate-800 p-8 mb-6">
+        <div className="bg-white dark:bg-slate-900 rounded-2xl border border-slate-200 dark:border-slate-800 p-8 mb-6">
           {question.context && (
             <p className="text-sm text-slate-500 mb-4">{question.context}</p>
           )}
-          <h2 className="text-xl font-semibold text-slate-100 mb-8">
+          <h2 className="text-xl font-semibold text-slate-900 dark:text-slate-100 mb-8">
             {question.prompt}
           </h2>
 
@@ -167,10 +167,10 @@ export function Placement() {
                 <button
                   key={index}
                   onClick={() => submitAnswer(index)}
-                  className="w-full p-4 rounded-xl bg-slate-800/50 border border-slate-700 hover:border-indigo-500/40 hover:bg-slate-800 transition-all text-left text-slate-200"
+                  className="w-full p-4 rounded-xl bg-slate-100 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-700 hover:border-indigo-500/40 hover:bg-slate-200 dark:hover:bg-slate-800 transition-all text-left text-slate-800 dark:text-slate-200"
                 >
                   <div className="flex items-center gap-3">
-                    <span className="w-8 h-8 rounded-lg bg-slate-700 flex items-center justify-center text-sm font-medium text-slate-400 shrink-0">
+                    <span className="w-8 h-8 rounded-lg bg-slate-200 dark:bg-slate-700 flex items-center justify-center text-sm font-medium text-slate-400 shrink-0">
                       {String.fromCharCode(65 + index)}
                     </span>
                     {option}
@@ -219,7 +219,7 @@ export function Placement() {
           <div className="w-20 h-20 rounded-2xl bg-emerald-500/10 flex items-center justify-center mx-auto mb-6">
             <CheckCircle className="w-10 h-10 text-emerald-400" />
           </div>
-          <h1 className="text-3xl font-bold text-slate-100 mb-2">
+          <h1 className="text-3xl font-bold text-slate-900 dark:text-slate-100 mb-2">
             {t('placement.resultTitle')}
           </h1>
           <p className="text-slate-400">
@@ -227,7 +227,7 @@ export function Placement() {
           </p>
         </div>
 
-        <div className="bg-slate-900 rounded-2xl border border-slate-800 p-8 mb-8">
+        <div className="bg-white dark:bg-slate-900 rounded-2xl border border-slate-200 dark:border-slate-800 p-8 mb-8">
           {/* Confirmed level */}
           <div className="text-center mb-6">
             <span className="text-sm text-slate-500 uppercase tracking-wider">
@@ -242,9 +242,9 @@ export function Placement() {
           </div>
 
           {/* Accuracy */}
-          <div className="flex items-center justify-center gap-8 py-4 border-t border-slate-800">
+          <div className="flex items-center justify-center gap-8 py-4 border-t border-slate-200 dark:border-slate-800">
             <div className="text-center">
-              <span className="text-2xl font-bold text-slate-100">
+              <span className="text-2xl font-bold text-slate-900 dark:text-slate-100">
                 {Math.round(result.accuracy * 100)}%
               </span>
               <p className="text-xs text-slate-500">{t('placement.accuracy')}</p>
@@ -253,7 +253,7 @@ export function Placement() {
               <div className="text-center">
                 <div className="flex items-center gap-1 justify-center">
                   <SkipForward className="w-4 h-4 text-amber-400" />
-                  <span className="text-2xl font-bold text-slate-100">{skippedCount}</span>
+                  <span className="text-2xl font-bold text-slate-900 dark:text-slate-100">{skippedCount}</span>
                 </div>
                 <p className="text-xs text-slate-500">
                   {t('placement.skippedLevels', { count: skippedCount })}

@@ -111,7 +111,7 @@ export function Lessons() {
     return (
       <div className="flex flex-col items-center justify-center min-h-[60vh] text-center px-4">
         <Lightbulb className="w-12 h-12 text-slate-600 mb-4" />
-        <h2 className="text-xl font-bold text-slate-100 mb-2">{t('study.noPack')}</h2>
+        <h2 className="text-xl font-bold text-slate-900 dark:text-slate-100 mb-2">{t('study.noPack')}</h2>
         <Button onClick={() => navigate('/pack-selector')} className="mt-4">
           {t('pack.selector.title')}
         </Button>
@@ -132,7 +132,7 @@ export function Lessons() {
     return (
       <div className="flex flex-col items-center justify-center min-h-[60vh] text-center px-4">
         <Lightbulb className="w-12 h-12 text-slate-600 mb-4" />
-        <h2 className="text-xl font-bold text-slate-100 mb-2">{t('lessons.noLessons')}</h2>
+        <h2 className="text-xl font-bold text-slate-900 dark:text-slate-100 mb-2">{t('lessons.noLessons')}</h2>
       </div>
     );
   }
@@ -155,7 +155,7 @@ export function Lessons() {
     <div className="max-w-3xl mx-auto">
       <div className="flex items-center justify-between mb-6">
         <div>
-          <h1 className="text-2xl font-bold text-slate-100">{t('lessons.title')}</h1>
+          <h1 className="text-2xl font-bold text-slate-900 dark:text-slate-100">{t('lessons.title')}</h1>
           <p className="text-sm text-slate-400">{t('lessons.subtitle')}</p>
         </div>
         <span className="text-sm text-slate-500">
@@ -164,7 +164,7 @@ export function Lessons() {
       </div>
 
       {/* Progress bar */}
-      <div className="w-full h-2 bg-slate-800 rounded-full mb-8">
+      <div className="w-full h-2 bg-slate-200 dark:bg-slate-800 rounded-full mb-8">
         <div
           className="h-full bg-emerald-500 rounded-full transition-all duration-300"
           style={{ width: `${(completedCount / lessons.length) * 100}%` }}
@@ -230,16 +230,16 @@ function LessonCard({
 
   if (status === 'locked') {
     return (
-      <div className="bg-slate-900/50 border border-slate-800/50 rounded-xl p-4 opacity-60">
+      <div className="bg-slate-50 dark:bg-slate-900/50 border border-slate-200 dark:border-slate-800/50 rounded-xl p-4 opacity-60">
         <div className="flex items-center gap-4">
-          <div className="w-10 h-10 rounded-xl bg-slate-800 flex items-center justify-center shrink-0">
+          <div className="w-10 h-10 rounded-xl bg-slate-100 dark:bg-slate-800 flex items-center justify-center shrink-0">
             <Lock className="w-5 h-5 text-slate-600" />
           </div>
           <div className="flex-1 min-w-0">
             <h3 className="font-semibold text-slate-500 text-sm truncate">{meta.title}</h3>
             <p className="text-xs text-slate-600 truncate">{meta.description}</p>
             <div className="flex items-center gap-2 mt-1">
-              <span className="text-[10px] font-medium px-1.5 py-0.5 rounded uppercase text-slate-500 bg-slate-800/60">
+              <span className="text-[10px] font-medium px-1.5 py-0.5 rounded uppercase text-slate-500 bg-slate-200/80 dark:bg-slate-800/60">
                 {meta.level}
               </span>
             </div>
@@ -253,7 +253,7 @@ function LessonCard({
     <button
       onClick={onStart}
       disabled={isLoading}
-      className={`w-full text-left bg-slate-900 border rounded-xl p-4 transition-colors ${
+      className={`w-full text-left bg-white dark:bg-slate-900 border rounded-xl p-4 transition-colors ${
         status === 'completed'
           ? 'border-emerald-500/20 hover:border-emerald-500/40'
           : 'border-slate-700 hover:border-slate-600'
@@ -270,10 +270,10 @@ function LessonCard({
           )}
         </div>
         <div className="flex-1 min-w-0">
-          <h3 className="font-semibold text-slate-100 text-sm truncate">{meta.title}</h3>
+          <h3 className="font-semibold text-slate-900 dark:text-slate-100 text-sm truncate">{meta.title}</h3>
           <p className="text-xs text-slate-400 truncate">{meta.description}</p>
           <div className="flex items-center gap-3 mt-1.5">
-            <span className="text-[10px] font-medium px-1.5 py-0.5 rounded uppercase text-slate-300 bg-slate-700/50">
+            <span className="text-[10px] font-medium px-1.5 py-0.5 rounded uppercase text-slate-600 dark:text-slate-300 bg-slate-200/80 dark:bg-slate-700/50">
               {meta.level}
             </span>
             <span className={`text-[10px] font-medium px-1.5 py-0.5 rounded ${categoryColor}`}>

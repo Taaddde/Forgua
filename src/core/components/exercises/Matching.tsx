@@ -98,7 +98,7 @@ export function Matching({ pairs, onAnswer }: MatchingProps) {
                         : 'bg-red-600/20 border border-red-500/40 text-red-300'
                       : isSelected
                         ? 'bg-indigo-600/20 border border-indigo-500/40 text-indigo-300'
-                        : 'bg-slate-900 border border-slate-700 text-slate-200 hover:border-slate-600'
+                        : 'bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 text-slate-800 dark:text-slate-200 hover:border-slate-300 dark:hover:border-slate-600'
                 }`}
               >
                 {pair.left}

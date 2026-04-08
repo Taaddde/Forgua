@@ -68,7 +68,7 @@ export function FlashCard({ card, onGrade }: FlashCardProps) {
           }`}
         >
           {/* Front face */}
-          <div className="absolute inset-0 flex flex-col items-center justify-center rounded-2xl bg-slate-900 border border-slate-700 p-8 [backface-visibility:hidden]">
+          <div className="absolute inset-0 flex flex-col items-center justify-center rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 p-8 [backface-visibility:hidden]">
             <div className="absolute top-4 right-4">
               <AudioPlayer text={ttsText} lang={ttsLang} size="sm" />
             </div>
@@ -80,7 +80,7 @@ export function FlashCard({ card, onGrade }: FlashCardProps) {
                 loading="lazy"
               />
             )}
-            <span className="text-4xl font-bold text-slate-100 mb-3 text-center">
+            <span className="text-4xl font-bold text-slate-900 dark:text-slate-100 mb-3 text-center">
               {card.front}
             </span>
             {card.reading && (
@@ -93,12 +93,12 @@ export function FlashCard({ card, onGrade }: FlashCardProps) {
           </div>
 
           {/* Back face */}
-          <div className="absolute inset-0 flex flex-col items-center justify-center rounded-2xl bg-slate-900 border border-slate-700 p-8 [backface-visibility:hidden] [transform:rotateY(180deg)]">
+          <div className="absolute inset-0 flex flex-col items-center justify-center rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 p-8 [backface-visibility:hidden] [transform:rotateY(180deg)]">
             <span className="text-sm text-slate-500 mb-2">{card.front}</span>
             {card.reading && (
               <span className="text-xs text-slate-600 mb-3">{card.reading}</span>
             )}
-            <span className="text-3xl font-bold text-slate-100 text-center">
+            <span className="text-3xl font-bold text-slate-900 dark:text-slate-100 text-center">
               {card.back}
             </span>
             {(() => {
@@ -126,7 +126,7 @@ export function FlashCard({ card, onGrade }: FlashCardProps) {
       ) : (
         <button
           onClick={() => setFlipped(true)}
-          className="w-full flex items-center justify-center gap-2 py-3 rounded-xl bg-slate-800 hover:bg-slate-700 text-slate-300 font-medium transition-colors"
+          className="w-full flex items-center justify-center gap-2 py-3 rounded-xl bg-slate-100 hover:bg-slate-200 dark:bg-slate-800 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-300 font-medium transition-colors"
         >
           <RotateCcw className="w-4 h-4" />
           {t('study.showAnswer')}

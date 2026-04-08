@@ -66,7 +66,7 @@ export function LessonPlayer({ lesson, onComplete, onExit }: LessonPlayerProps) 
       <div className="flex items-center justify-between mb-4">
         <button
           onClick={onExit}
-          className="flex items-center gap-1.5 text-sm text-slate-400 hover:text-slate-200 transition-colors"
+          className="flex items-center gap-1.5 text-sm text-slate-500 dark:text-slate-400 hover:text-slate-900 dark:hover:text-slate-200 transition-colors"
         >
           <ArrowLeft className="w-4 h-4" />
           {t('common.back')}
@@ -77,7 +77,7 @@ export function LessonPlayer({ lesson, onComplete, onExit }: LessonPlayerProps) 
       </div>
 
       {/* Progress bar */}
-      <div className="w-full h-1.5 bg-slate-800 rounded-full mb-8">
+      <div className="w-full h-1.5 bg-slate-200 dark:bg-slate-800 rounded-full mb-8">
         <div
           className="h-full bg-emerald-500 rounded-full transition-all duration-500"
           style={{ width: `${progressPercent}%` }}
@@ -86,7 +86,7 @@ export function LessonPlayer({ lesson, onComplete, onExit }: LessonPlayerProps) 
 
       {/* Step title */}
       {currentStep.title && (
-        <h2 className="text-xl font-bold text-slate-100 mb-2">{currentStep.title}</h2>
+        <h2 className="text-xl font-bold text-slate-900 dark:text-slate-100 mb-2">{currentStep.title}</h2>
       )}
       {currentStep.instruction && (
         <p className="text-sm text-slate-400 mb-6">{currentStep.instruction}</p>

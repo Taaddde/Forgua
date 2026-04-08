@@ -67,7 +67,7 @@ export function Sidebar() {
           </div>
           <button
             onClick={() => setSidebarOpen(false)}
-            className="lg:hidden p-1.5 rounded-lg hover:bg-slate-800 text-slate-400"
+            className="lg:hidden p-1.5 rounded-lg hover:bg-slate-100 dark:hover:bg-slate-800 text-slate-500 dark:text-slate-400"
           >
             <X className="w-5 h-5" />
           </button>
@@ -77,11 +77,11 @@ export function Sidebar() {
         {activePack && (
           <NavLink
             to="/pack-selector"
-            className="mx-3 mt-3 flex items-center gap-2 px-3 py-2 rounded-lg bg-slate-800/50 hover:bg-slate-800 transition-colors"
+            className="mx-3 mt-3 flex items-center gap-2 px-3 py-2 rounded-lg bg-slate-100 dark:bg-slate-800/50 hover:bg-slate-200 dark:hover:bg-slate-800 transition-colors"
           >
             <span className="text-lg">{activePack.icon}</span>
             <div className="flex-1 min-w-0">
-              <div className="text-sm font-medium text-slate-200 truncate">{activePack.name}</div>
+              <div className="text-sm font-medium text-slate-800 dark:text-slate-200 truncate">{activePack.name}</div>
               <div className="text-xs text-slate-500">{activePack.nativeName}</div>
             </div>
           </NavLink>
@@ -91,7 +91,7 @@ export function Sidebar() {
         <nav className="flex-1 overflow-y-auto px-3 py-4 space-y-1">
           {navItems.map((item, idx) => {
             if (item.type === 'separator') {
-              return <div key={`sep-${idx}`} className="h-px bg-slate-800 my-2 mx-4" />;
+              return <div key={`sep-${idx}`} className="h-px bg-slate-200 dark:bg-slate-800 my-2 mx-4" />;
             }
             const { to, icon: Icon, labelKey } = item;
             return (
@@ -103,8 +103,8 @@ export function Sidebar() {
                 className={({ isActive }) =>
                   `flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium transition-colors ${
                     isActive
-                      ? 'bg-indigo-600/20 text-indigo-300'
-                      : 'text-slate-400 hover:text-slate-200 hover:bg-slate-800/50'
+                      ? 'bg-indigo-600/20 text-indigo-600 dark:text-indigo-300'
+                      : 'text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-800/50'
                   }`
                 }
               >
@@ -116,7 +116,7 @@ export function Sidebar() {
         </nav>
 
         {/* Settings link at bottom */}
-        <div className="px-3 pb-4 border-t border-slate-800 pt-3">
+        <div className="px-3 pb-4 border-t border-slate-200 dark:border-slate-800 pt-3">
           <NavLink
             to="/settings"
             onClick={() => setSidebarOpen(false)}

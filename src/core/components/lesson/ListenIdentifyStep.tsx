@@ -81,7 +81,7 @@ export function ListenIdentifyStep({ items, allItems, onComplete }: ListenIdenti
   return (
     <div className="flex flex-col items-center">
       {/* Audio prompt */}
-      <div className="bg-slate-900 border border-slate-700 rounded-2xl p-8 text-center mb-6 w-full max-w-md">
+      <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-2xl p-8 text-center mb-6 w-full max-w-md">
         <Volume2 className="w-8 h-8 text-indigo-400 mx-auto mb-3" />
         <AudioPlayer
           text={item.front}
@@ -95,14 +95,14 @@ export function ListenIdentifyStep({ items, allItems, onComplete }: ListenIdenti
       {/* Visual options */}
       <div className="w-full max-w-md grid grid-cols-2 gap-3 mb-6">
         {options.map((opt, idx) => {
-          let style = 'bg-slate-800 border-slate-700 text-slate-200 hover:border-slate-600 cursor-pointer';
+          let style = 'bg-slate-100 dark:bg-slate-800 border-slate-200 dark:border-slate-700 text-slate-800 dark:text-slate-200 hover:border-slate-300 dark:hover:border-slate-600 cursor-pointer';
           if (showFeedback) {
             if (idx === correctIndex) {
               style = 'bg-emerald-600/15 border-emerald-500/40 text-emerald-300';
             } else if (idx === selectedOption && idx !== correctIndex) {
               style = 'bg-red-600/15 border-red-500/40 text-red-300';
             } else {
-              style = 'bg-slate-900/50 border-slate-800 text-slate-600';
+              style = 'bg-slate-50 dark:bg-slate-900/50 border-slate-200 dark:border-slate-800 text-slate-400 dark:text-slate-600';
             }
           }
 

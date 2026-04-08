@@ -69,7 +69,7 @@ export function Dashboard() {
         <div className="w-20 h-20 rounded-2xl bg-indigo-500/10 flex items-center justify-center mb-6">
           <GraduationCap className="w-10 h-10 text-indigo-400" />
         </div>
-        <h1 className="text-3xl font-bold text-slate-100 mb-3">
+        <h1 className="text-3xl font-bold text-slate-900 dark:text-slate-100 mb-3">
           {t('dashboard.welcome')}
         </h1>
         <p className="text-slate-400 max-w-md mb-8">
@@ -112,7 +112,7 @@ export function Dashboard() {
       <div className="flex items-center gap-3 mb-8">
         <span className="text-3xl">{activePack.icon}</span>
         <div>
-          <h1 className="text-2xl font-bold text-slate-100">{activePack.name}</h1>
+          <h1 className="text-2xl font-bold text-slate-900 dark:text-slate-100">{activePack.name}</h1>
           <p className="text-sm text-slate-400">{activePack.nativeName} · v{activePack.version}</p>
         </div>
       </div>
@@ -129,7 +129,7 @@ export function Dashboard() {
                 <GraduationCap className="w-6 h-6 text-indigo-400" />
               </div>
               <div className="flex-1 min-w-0">
-                <h3 className="text-lg font-semibold text-slate-100">
+                <h3 className="text-lg font-semibold text-slate-900 dark:text-slate-100">
                   {t('dashboard.reviewDue', { count: dueCount ?? 0 })}
                 </h3>
                 <p className="text-sm text-slate-400">{t('dashboard.reviewDescription')}</p>
@@ -147,7 +147,7 @@ export function Dashboard() {
                 <Lightbulb className="w-6 h-6 text-emerald-400" />
               </div>
               <div className="flex-1 min-w-0">
-                <h3 className="text-lg font-semibold text-slate-100">
+                <h3 className="text-lg font-semibold text-slate-900 dark:text-slate-100">
                   {t('dashboard.nextLesson')}
                 </h3>
                 <p className="text-sm text-slate-400">{nextLesson.title}</p>
@@ -156,7 +156,7 @@ export function Dashboard() {
             </div>
           </button>
         ) : (
-          <div className="p-6 rounded-2xl bg-slate-800/50 border border-slate-700 text-center">
+          <div className="p-6 rounded-2xl bg-slate-100 dark:bg-slate-800/50 border border-slate-200 dark:border-slate-700 text-center">
             <p className="text-slate-400">{t('dashboard.allCaughtUp')}</p>
           </div>
         )}
@@ -171,7 +171,7 @@ export function Dashboard() {
             </h2>
             <span className="text-xs text-slate-500">{lessonStats.completed}/{lessonStats.total}</span>
           </div>
-          <div className="w-full h-2 bg-slate-800 rounded-full">
+          <div className="w-full h-2 bg-slate-200 dark:bg-slate-800 rounded-full">
             <div
               className="h-full bg-emerald-500 rounded-full transition-all duration-300"
               style={{ width: `${(lessonStats.completed / lessonStats.total) * 100}%` }}
@@ -186,12 +186,12 @@ export function Dashboard() {
       </h2>
       <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
         {stats.map(({ icon: Icon, label, value, color }) => (
-          <div key={label} className="bg-slate-900 rounded-xl border border-slate-800 p-4">
+          <div key={label} className="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-4">
             <div className="flex items-center gap-2 mb-2">
               <Icon className={`w-4 h-4 ${color}`} />
               <span className="text-xs text-slate-500 font-medium">{label}</span>
             </div>
-            <span className="text-2xl font-bold text-slate-100">{value}</span>
+            <span className="text-2xl font-bold text-slate-900 dark:text-slate-100">{value}</span>
           </div>
         ))}
       </div>
@@ -202,7 +202,7 @@ export function Dashboard() {
           <h2 className="text-sm font-semibold text-slate-400 uppercase tracking-wider mb-4">
             {t('dashboard.weeklyActivity')}
           </h2>
-          <div className="bg-slate-900 rounded-xl border border-slate-800 p-4 mb-8 h-48">
+          <div className="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-4 mb-8 h-48">
             <ResponsiveContainer width="100%" height="100%">
               <BarChart data={weekData}>
                 <XAxis
@@ -219,10 +219,10 @@ export function Dashboard() {
                 />
                 <Tooltip
                   contentStyle={{
-                    backgroundColor: '#1e293b',
-                    border: '1px solid #334155',
+                    backgroundColor: 'var(--chart-tooltip-bg, #f8fafc)',
+                    border: '1px solid var(--chart-tooltip-border, #e2e8f0)',
                     borderRadius: '8px',
-                    color: '#f1f5f9',
+                    color: 'var(--chart-tooltip-text, #0f172a)',
                   }}
                 />
                 <Bar dataKey="reviewed" fill="#6366f1" radius={[4, 4, 0, 0]} />
@@ -239,16 +239,16 @@ export function Dashboard() {
             {t('dashboard.totalProgress')}
           </h2>
           <div className="grid grid-cols-3 gap-4 mb-8">
-            <div className="bg-slate-900 rounded-xl border border-slate-800 p-4 text-center">
-              <span className="text-2xl font-bold text-slate-100 block">{totalStats.totalLearned}</span>
+            <div className="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-4 text-center">
+              <span className="text-2xl font-bold text-slate-900 dark:text-slate-100 block">{totalStats.totalLearned}</span>
               <span className="text-xs text-slate-500">{t('dashboard.totalLearned')}</span>
             </div>
-            <div className="bg-slate-900 rounded-xl border border-slate-800 p-4 text-center">
-              <span className="text-2xl font-bold text-slate-100 block">{totalStats.totalMature}</span>
+            <div className="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-4 text-center">
+              <span className="text-2xl font-bold text-slate-900 dark:text-slate-100 block">{totalStats.totalMature}</span>
               <span className="text-xs text-slate-500">{t('dashboard.totalMature')}</span>
             </div>
-            <div className="bg-slate-900 rounded-xl border border-slate-800 p-4 text-center">
-              <span className="text-2xl font-bold text-slate-100 block">
+            <div className="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-4 text-center">
+              <span className="text-2xl font-bold text-slate-900 dark:text-slate-100 block">
                 {totalStats.totalLearned > 0 ? `${Math.round(totalStats.overallAccuracy * 100)}%` : '—'}
               </span>
               <span className="text-xs text-slate-500">{t('dashboard.overallAccuracy')}</span>

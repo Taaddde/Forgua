@@ -93,8 +93,8 @@ export function SpeakStep({ items, onComplete }: SpeakStepProps) {
   return (
     <div className="flex flex-col items-center">
       {/* Character to pronounce */}
-      <div className="bg-slate-900 border border-slate-700 rounded-2xl p-8 text-center mb-4 w-full max-w-md">
-        <span className="text-5xl font-bold text-slate-100 block mb-3">{item.front}</span>
+      <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-2xl p-8 text-center mb-4 w-full max-w-md">
+        <span className="text-5xl font-bold text-slate-900 dark:text-slate-100 block mb-3">{item.front}</span>
         {item.reading && (
           <span className="text-lg text-slate-400">{item.reading}</span>
         )}
@@ -134,7 +134,7 @@ export function SpeakStep({ items, onComplete }: SpeakStepProps) {
           <div className="flex-1">
             <div className="flex justify-between text-sm">
               <span className="text-slate-500">{t('audio.yourSpeech')}</span>
-              <span className="text-slate-200">{result.transcript}</span>
+              <span className="text-slate-800 dark:text-slate-200">{result.transcript}</span>
             </div>
             <div className="flex justify-between text-sm">
               <span className="text-slate-500">{t('audio.similarity')}</span>

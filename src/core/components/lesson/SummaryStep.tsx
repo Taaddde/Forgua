@@ -39,7 +39,7 @@ export function SummaryStep({ items, stepResults, onComplete }: SummaryStepProps
 
       {totalQuestions > 0 && (
         <div className="text-center mb-6">
-          <span className="text-3xl font-bold text-slate-100">{score}%</span>
+          <span className="text-3xl font-bold text-slate-900 dark:text-slate-100">{score}%</span>
           <span className="text-sm text-slate-400 block mt-1">
             {totalCorrect}/{totalQuestions}
           </span>
@@ -55,9 +55,9 @@ export function SummaryStep({ items, stepResults, onComplete }: SummaryStepProps
         {items.map((item, idx) => (
           <div
             key={idx}
-            className="bg-slate-900 border border-slate-800 rounded-lg p-3 text-center"
+            className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-lg p-3 text-center"
           >
-            <span className="text-lg font-bold text-slate-100 block">{item.front}</span>
+            <span className="text-lg font-bold text-slate-900 dark:text-slate-100 block">{item.front}</span>
             <span className="text-xs text-slate-500">{item.back}</span>
           </div>
         ))}

@@ -106,7 +106,7 @@ export function Roadmap() {
   if (!selectedRoadmap) {
     return (
       <div className="max-w-3xl mx-auto">
-        <h1 className="text-2xl font-bold text-slate-100 mb-2">{t('roadmap.title')}</h1>
+        <h1 className="text-2xl font-bold text-slate-900 dark:text-slate-100 mb-2">{t('roadmap.title')}</h1>
         <p className="text-slate-400 text-sm mb-8">{t('roadmap.selectTrack')}</p>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
@@ -120,7 +120,7 @@ export function Roadmap() {
                 className={`p-6 rounded-xl border text-left transition-all hover:scale-[1.02] ${config.bg}`}
               >
                 <Icon className={`w-8 h-8 ${config.color} mb-3`} />
-                <h3 className="text-lg font-bold text-slate-100 mb-1">
+                <h3 className="text-lg font-bold text-slate-900 dark:text-slate-100 mb-1">
                   {t(`roadmap.${roadmap.type}.name`)}
                 </h3>
                 <p className={`text-sm font-medium ${config.color} mb-2`}>
@@ -145,21 +145,21 @@ export function Roadmap() {
     <div className="max-w-3xl mx-auto">
       <div className="flex items-center justify-between mb-6">
         <div>
-          <h1 className="text-2xl font-bold text-slate-100">{selectedRoadmap.name}</h1>
+          <h1 className="text-2xl font-bold text-slate-900 dark:text-slate-100">{selectedRoadmap.name}</h1>
           <p className="text-sm text-slate-400">
             {t('roadmap.progress', { completed: completedMilestones, total: totalMilestones })}
           </p>
         </div>
         <button
           onClick={() => { setSelectedTrack(null); setExpandedPhase(null); }}
-          className="text-xs text-slate-500 hover:text-slate-300 transition-colors"
+          className="text-xs text-slate-500 hover:text-slate-700 dark:hover:text-slate-300 transition-colors"
         >
           {t('roadmap.changeTrack')}
         </button>
       </div>
 
       {/* Progress bar */}
-      <div className="w-full h-2 bg-slate-800 rounded-full mb-8">
+      <div className="w-full h-2 bg-slate-200 dark:bg-slate-800 rounded-full mb-8">
         <div
           className={`h-full rounded-full transition-all duration-500 ${trackConfig[selectedRoadmap.type].activeBg}`}
           style={{ width: `${totalMilestones > 0 ? (completedMilestones / totalMilestones) * 100 : 0}%` }}
@@ -202,20 +202,20 @@ function PhaseCard({
   ).length;
 
   return (
-    <div className="bg-slate-900 border border-slate-800 rounded-xl overflow-hidden">
+    <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl overflow-hidden">
       <button
         onClick={onToggle}
-        className="w-full flex items-center justify-between p-4 text-left hover:bg-slate-800/50 transition-colors"
+        className="w-full flex items-center justify-between p-4 text-left hover:bg-slate-50 dark:hover:bg-slate-800/50 transition-colors"
       >
         <div className="flex items-center gap-3">
-          <div className="w-8 h-8 rounded-full bg-slate-800 flex items-center justify-center text-sm font-bold text-slate-400">
+          <div className="w-8 h-8 rounded-full bg-slate-100 dark:bg-slate-800 flex items-center justify-center text-sm font-bold text-slate-400">
             {phaseIdx + 1}
           </div>
           <div>
-            <span className="font-semibold text-slate-100">{phase.name}</span>
+            <span className="font-semibold text-slate-900 dark:text-slate-100">{phase.name}</span>
             <div className="flex items-center gap-2 mt-0.5">
               <span className="text-xs text-slate-500">{phase.duration}</span>
-              <span className="text-xs px-1.5 py-0.5 bg-indigo-600/20 text-indigo-300 rounded">{phase.level.toUpperCase()}</span>
+              <span className="text-xs px-1.5 py-0.5 bg-indigo-600/20 text-indigo-600 dark:text-indigo-300 rounded">{phase.level.toUpperCase()}</span>
               <span className="text-xs text-slate-500">{completedCount}/{phase.milestones.length}</span>
             </div>
           </div>
@@ -224,8 +224,8 @@ function PhaseCard({
       </button>
 
       {isExpanded && (
-        <div className="px-4 pb-4 border-t border-slate-800 pt-3 space-y-4">
-          <p className="text-sm text-slate-300">{phase.content}</p>
+        <div className="px-4 pb-4 border-t border-slate-200 dark:border-slate-800 pt-3 space-y-4">
+          <p className="text-sm text-slate-700 dark:text-slate-300">{phase.content}</p>
 
           <div>
             <span className="text-xs font-semibold text-slate-500 uppercase">{t('roadmap.dailyGoal')}</span>
@@ -252,7 +252,7 @@ function PhaseCard({
                       {isDone && <Check className="w-3 h-3 text-white" />}
                     </div>
                     <span className={`text-sm transition-colors ${
-                      isDone ? 'text-slate-500 line-through' : 'text-slate-300'
+                      isDone ? 'text-slate-500 line-through' : 'text-slate-700 dark:text-slate-300'
                     }`}>
                       {milestone}
                     </span>

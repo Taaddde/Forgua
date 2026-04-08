@@ -121,7 +121,7 @@ export function Explore() {
 
   return (
     <div className="max-w-4xl mx-auto">
-      <h1 className="text-2xl font-bold text-slate-100 mb-6">{t('explore.title')}</h1>
+      <h1 className="text-2xl font-bold text-slate-900 dark:text-slate-100 mb-6">{t('explore.title')}</h1>
 
       {/* Search bar */}
       <div className="flex flex-col sm:flex-row gap-3 mb-4">
@@ -132,7 +132,7 @@ export function Explore() {
             value={searchQuery}
             onChange={(e) => { setSearchQuery(e.target.value); setPage(0); }}
             placeholder={t('explore.searchPlaceholder')}
-            className="w-full pl-10 pr-8 py-2.5 rounded-lg bg-slate-900 border border-slate-700 text-slate-100 placeholder-slate-500 text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500"
+            className="w-full pl-10 pr-8 py-2.5 rounded-lg bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 text-slate-900 dark:text-slate-100 placeholder-slate-400 dark:placeholder-slate-500 text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500"
           />
           {searchQuery && (
             <button onClick={() => { setSearchQuery(''); setPage(0); }} className="absolute right-3 top-1/2 -translate-y-1/2">
@@ -142,17 +142,17 @@ export function Explore() {
         </div>
 
         {/* View toggle */}
-        <div className="flex gap-1 bg-slate-800 rounded-lg p-1 shrink-0">
+        <div className="flex gap-1 bg-slate-100 dark:bg-slate-800 rounded-lg p-1 shrink-0">
           <button
             onClick={() => toggleView('list')}
-            className={`p-2 rounded-md transition-colors ${viewMode === 'list' ? 'bg-slate-700 text-slate-100' : 'text-slate-500 hover:text-slate-300'}`}
+            className={`p-2 rounded-md transition-colors ${viewMode === 'list' ? 'bg-white dark:bg-slate-700 text-slate-900 dark:text-slate-100 shadow-sm' : 'text-slate-500 hover:text-slate-700 dark:hover:text-slate-300'}`}
             title={t('explore.listView')}
           >
             <LayoutList className="w-4 h-4" />
           </button>
           <button
             onClick={() => toggleView('grid')}
-            className={`p-2 rounded-md transition-colors ${viewMode === 'grid' ? 'bg-slate-700 text-slate-100' : 'text-slate-500 hover:text-slate-300'}`}
+            className={`p-2 rounded-md transition-colors ${viewMode === 'grid' ? 'bg-white dark:bg-slate-700 text-slate-900 dark:text-slate-100 shadow-sm' : 'text-slate-500 hover:text-slate-700 dark:hover:text-slate-300'}`}
             title={t('explore.gridView')}
           >
             <LayoutGrid className="w-4 h-4" />
@@ -170,7 +170,7 @@ export function Explore() {
             className={`px-3 py-1.5 rounded-lg text-xs font-medium transition-colors ${
               categoryFilter === cat
                 ? 'bg-indigo-600 text-white'
-                : 'bg-slate-800 text-slate-400 hover:bg-slate-700'
+                : 'bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400 hover:bg-slate-200 dark:hover:bg-slate-700'
             }`}
           >
             {cat === 'all' ? t('browse.allCategories') : t(`learn.categories.${cat}`)}
@@ -182,7 +182,7 @@ export function Explore() {
           <select
             value={levelFilter}
             onChange={(e) => { setLevelFilter(e.target.value); setPage(0); }}
-            className="px-3 py-1.5 rounded-lg text-xs font-medium bg-slate-800 text-slate-400 border-none focus:outline-none focus:ring-2 focus:ring-indigo-500"
+            className="px-3 py-1.5 rounded-lg text-xs font-medium bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400 border border-slate-200 dark:border-transparent focus:outline-none focus:ring-2 focus:ring-indigo-500"
           >
             <option value="all">{t('explore.allLevels')}</option>
             {levels.map((lvl) => (
@@ -220,14 +220,14 @@ export function Explore() {
             return (
               <div
                 key={card.id}
-                className="bg-slate-900 border border-slate-800 rounded-xl overflow-hidden"
+                className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl overflow-hidden"
               >
                 <button
                   onClick={() => setExpandedId(isExpanded ? null : card.id!)}
-                  className="w-full flex items-center justify-between p-4 text-left hover:bg-slate-800/50 transition-colors"
+                  className="w-full flex items-center justify-between p-4 text-left hover:bg-slate-50 dark:hover:bg-slate-800/50 transition-colors"
                 >
                   <div className="flex items-center gap-3 min-w-0">
-                    <span className="text-lg font-bold text-slate-100 shrink-0">{card.front}</span>
+                    <span className="text-lg font-bold text-slate-900 dark:text-slate-100 shrink-0">{card.front}</span>
                     {card.reading && (
                       <span className="text-sm text-slate-500">{card.reading}</span>
                     )}
@@ -271,14 +271,14 @@ export function Explore() {
                   className="w-full p-4 text-left hover:border-slate-700 transition-colors"
                 >
                   <div className="flex items-start justify-between">
-                    <span className="text-lg font-bold text-slate-100">{card.front}</span>
+                    <span className="text-lg font-bold text-slate-900 dark:text-slate-100">{card.front}</span>
                     {inReview && <Check className="w-4 h-4 text-emerald-400 shrink-0" />}
                   </div>
                   {card.reading && <span className="text-sm text-slate-500 block">{card.reading}</span>}
                   <span className="text-sm text-slate-400 block mt-1">{card.back}</span>
                   <div className="flex gap-1.5 mt-2 flex-wrap">
-                    <span className="text-[10px] px-1.5 py-0.5 bg-slate-800 text-slate-500 rounded">{card.category}</span>
-                    <span className="text-[10px] px-1.5 py-0.5 bg-slate-800 text-slate-500 rounded">{card.level}</span>
+                    <span className="text-[10px] px-1.5 py-0.5 bg-slate-100 dark:bg-slate-800 text-slate-500 rounded">{card.category}</span>
+                    <span className="text-[10px] px-1.5 py-0.5 bg-slate-100 dark:bg-slate-800 text-slate-500 rounded">{card.level}</span>
                   </div>
                 </button>
 
@@ -346,7 +346,7 @@ function CardDetail({ card, inReview, onAdd }: { card: Card; inReview: boolean; 
   if (card.category === 'characters') {
     const entry = cardToCharacterEntry(card);
     return (
-      <div className="px-4 pb-4 border-t border-slate-800 pt-3 space-y-3">
+      <div className="px-4 pb-4 border-t border-slate-200 dark:border-slate-800 pt-3 space-y-3">
         <CharacterDetail entry={entry} packId={card.packId} />
         {!inReview && (
           <Button size="sm" onClick={onAdd}>
@@ -368,7 +368,7 @@ function CardDetail({ card, inReview, onAdd }: { card: Card; inReview: boolean; 
       {extra.meanings && extra.meanings.length > 0 && (
         <div>
           <span className="text-xs font-semibold text-slate-500 uppercase">{t('browse.detail.meanings')}</span>
-          <p className="text-slate-200 text-sm mt-1">{extra.meanings.join(', ')}</p>
+          <p className="text-slate-800 dark:text-slate-200 text-sm mt-1">{extra.meanings.join(', ')}</p>
         </div>
       )}
 
@@ -385,7 +385,7 @@ function CardDetail({ card, inReview, onAdd }: { card: Card; inReview: boolean; 
               <span className="text-xs font-semibold text-slate-500 uppercase">
                 {r.type === 'on' ? t('characters.onReading') : r.type === 'kun' ? t('characters.kunReading') : r.type}
               </span>
-              <p className="text-slate-200 text-sm">{r.value}</p>
+              <p className="text-slate-800 dark:text-slate-200 text-sm">{r.value}</p>
             </div>
           ))}
         </div>
@@ -396,7 +396,7 @@ function CardDetail({ card, inReview, onAdd }: { card: Card; inReview: boolean; 
       )}
 
       {extra.explanation && (
-        <p className="text-sm text-slate-300 leading-relaxed">{extra.explanation}</p>
+        <p className="text-sm text-slate-700 dark:text-slate-300 leading-relaxed">{extra.explanation}</p>
       )}
 
       {extra.examples && extra.examples.length > 0 && (
@@ -404,8 +404,8 @@ function CardDetail({ card, inReview, onAdd }: { card: Card; inReview: boolean; 
           <span className="text-xs font-semibold text-slate-500 uppercase">{t('browse.detail.examples')}</span>
           <div className="mt-1 space-y-1.5">
             {extra.examples.slice(0, 5).map((ex, i) => (
-              <div key={i} className="text-sm bg-slate-800/50 rounded-lg p-2">
-                <span className="text-slate-200">{ex.word ?? ex.sentence ?? ex.text}</span>
+              <div key={i} className="text-sm bg-slate-100 dark:bg-slate-800/50 rounded-lg p-2">
+                <span className="text-slate-800 dark:text-slate-200">{ex.word ?? ex.sentence ?? ex.text}</span>
                 {ex.reading && <span className="text-slate-500 ml-2">({ex.reading})</span>}
                 {(ex.meaning ?? ex.translation) && (
                   <p className="text-slate-400 text-xs mt-0.5">{ex.meaning ?? ex.translation}</p>

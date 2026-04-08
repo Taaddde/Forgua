@@ -51,7 +51,7 @@ export function WriteAnswer({ prompt, expectedAnswer, adapter, onAnswer }: Write
         <span className="text-xs font-medium text-indigo-400 uppercase tracking-wider">
           {t('exercise.writeAnswer')}
         </span>
-        <h2 className="text-2xl font-bold text-slate-100 mt-2">{prompt}</h2>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-slate-100 mt-2">{prompt}</h2>
       </div>
 
       <div className="space-y-4">
@@ -62,7 +62,7 @@ export function WriteAnswer({ prompt, expectedAnswer, adapter, onAnswer }: Write
           onKeyDown={handleKeyDown}
           disabled={answered}
           placeholder={t('exercise.typeAnswer')}
-          className="w-full px-4 py-3 rounded-xl bg-slate-900 border border-slate-700 text-slate-100 placeholder-slate-500 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-transparent disabled:opacity-60"
+          className="w-full px-4 py-3 rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 text-slate-900 dark:text-slate-100 placeholder-slate-400 dark:placeholder-slate-500 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-transparent disabled:opacity-60"
           autoFocus
         />
 

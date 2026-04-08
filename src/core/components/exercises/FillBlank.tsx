@@ -39,7 +39,7 @@ export function FillBlank({ sentence, options, correctAnswer, onAnswer }: FillBl
   function getChipStyle(option: string): string {
     const base = 'px-4 py-2 rounded-lg font-medium text-sm transition-colors';
     if (!answered) {
-      return `${base} bg-slate-800 border border-slate-700 hover:border-indigo-500 hover:bg-slate-700 text-slate-200 cursor-pointer`;
+      return `${base} bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 hover:border-indigo-400 dark:hover:border-indigo-500 hover:bg-slate-200 dark:hover:bg-slate-700 text-slate-700 dark:text-slate-200 cursor-pointer`;
     }
     if (option === correctAnswer) {
       return `${base} bg-emerald-600/20 border border-emerald-500/40 text-emerald-300`;
@@ -47,7 +47,7 @@ export function FillBlank({ sentence, options, correctAnswer, onAnswer }: FillBl
     if (option === selected && option !== correctAnswer) {
       return `${base} bg-red-600/20 border border-red-500/40 text-red-300`;
     }
-    return `${base} bg-slate-900 border border-slate-800 text-slate-600`;
+    return `${base} bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-slate-400 dark:text-slate-600`;
   }
 
   return (
@@ -59,7 +59,7 @@ export function FillBlank({ sentence, options, correctAnswer, onAnswer }: FillBl
       </div>
 
       {/* Sentence with highlighted blank */}
-      <div className="text-xl text-slate-100 text-center mb-8 leading-relaxed">
+      <div className="text-xl text-slate-900 dark:text-slate-100 text-center mb-8 leading-relaxed">
         {parts[0]}
         <span className={`inline-block min-w-[4rem] mx-1 px-3 py-1 rounded-lg border-b-2 text-center ${
           answered && selected

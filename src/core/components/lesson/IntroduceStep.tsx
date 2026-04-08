@@ -28,17 +28,17 @@ export function IntroduceStep({ items, onComplete }: IntroduceStepProps) {
   return (
     <div className="flex flex-col items-center">
       {/* Card */}
-      <div className="w-full max-w-md bg-slate-900 border border-slate-700 rounded-2xl p-8 text-center mb-6">
+      <div className="w-full max-w-md bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-2xl p-8 text-center mb-6">
         <div className="flex justify-end mb-2">
           <AudioPlayer text={item.front} lang={ttsLang} size="sm" />
         </div>
-        <span className="text-6xl font-bold text-slate-100 block mb-4">
+        <span className="text-6xl font-bold text-slate-900 dark:text-slate-100 block mb-4">
           {item.front}
         </span>
         {item.reading && (
           <span className="text-lg text-slate-400 block mb-2">{item.reading}</span>
         )}
-        <span className="text-xl text-indigo-300 font-medium block mb-4">{item.back}</span>
+        <span className="text-xl text-indigo-600 dark:text-indigo-300 font-medium block mb-4">{item.back}</span>
 
         {item.explanation && (
           <p className="text-sm text-slate-400 mb-4">{item.explanation}</p>
@@ -56,7 +56,7 @@ export function IntroduceStep({ items, onComplete }: IntroduceStepProps) {
         {item.mnemonic && (
           <div className="flex items-start gap-2 bg-amber-500/10 border border-amber-500/20 rounded-lg p-3 text-left">
             <Lightbulb className="w-4 h-4 text-amber-400 mt-0.5 shrink-0" />
-            <p className="text-sm text-amber-200">{item.mnemonic}</p>
+            <p className="text-sm text-amber-800 dark:text-amber-200">{item.mnemonic}</p>
           </div>
         )}
       </div>
@@ -67,7 +67,7 @@ export function IntroduceStep({ items, onComplete }: IntroduceStepProps) {
           <div
             key={i}
             className={`w-2 h-2 rounded-full transition-colors ${
-              i === currentIdx ? 'bg-emerald-400' : i < currentIdx ? 'bg-emerald-700' : 'bg-slate-700'
+              i === currentIdx ? 'bg-emerald-500' : i < currentIdx ? 'bg-emerald-400 dark:bg-emerald-700' : 'bg-slate-300 dark:bg-slate-700'
             }`}
           />
         ))}

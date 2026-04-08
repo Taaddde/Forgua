@@ -107,7 +107,7 @@ export function ListenTranscribeStep({ items, onComplete }: ListenTranscribeStep
   return (
     <div className="flex flex-col items-center">
       {/* Play audio button */}
-      <div className="bg-slate-900 border border-slate-700 rounded-2xl p-8 text-center mb-4 w-full max-w-md">
+      <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-2xl p-8 text-center mb-4 w-full max-w-md">
         <button
           onClick={handlePlay}
           disabled={replays >= MAX_REPLAYS || isPlaying}
@@ -115,8 +115,8 @@ export function ListenTranscribeStep({ items, onComplete }: ListenTranscribeStep
             isPlaying
               ? 'bg-indigo-600 text-white animate-pulse'
               : replays >= MAX_REPLAYS
-                ? 'bg-slate-800 text-slate-600 cursor-not-allowed'
-                : 'bg-slate-800 hover:bg-indigo-600 text-slate-300 hover:text-white cursor-pointer'
+                ? 'bg-slate-100 dark:bg-slate-800 text-slate-400 dark:text-slate-600 cursor-not-allowed'
+                : 'bg-slate-100 dark:bg-slate-800 hover:bg-indigo-600 text-slate-700 dark:text-slate-300 hover:text-white cursor-pointer'
           }`}
         >
           <Volume2 className="w-8 h-8" />
@@ -141,7 +141,7 @@ export function ListenTranscribeStep({ items, onComplete }: ListenTranscribeStep
           }}
           disabled={showFeedback}
           placeholder={t('exercise.typeAnswer')}
-          className="w-full bg-slate-800 border border-slate-700 rounded-xl px-4 py-3 text-slate-100 placeholder-slate-600 focus:outline-none focus:border-indigo-500 text-lg text-center"
+          className="w-full bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 rounded-xl px-4 py-3 text-slate-900 dark:text-slate-100 placeholder-slate-400 dark:placeholder-slate-600 focus:outline-none focus:border-indigo-500 text-lg text-center"
           autoFocus={replays > 0}
         />
       </div>

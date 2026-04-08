@@ -167,7 +167,10 @@
     "progress": "Progreso: {{completed}}/{{total}} hitos",
     "resources": "Recursos recomendados",
     "changeTrack": "Cambiar ruta",
-    "noRoadmaps": "No hay rutas de aprendizaje disponibles para este pack."
+    "noRoadmaps": "No hay rutas de aprendizaje disponibles para este pack.",
+    "statsLearned": "aprendidas",
+    "statsMature": "maduras",
+    "statsStreak": "días de racha"
   },
   "audio": {
     "play": "Reproducir",

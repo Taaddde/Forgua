@@ -63,11 +63,11 @@ export class ErrorBoundary extends Component<ErrorBoundaryProps, ErrorBoundarySt
         <div className="w-16 h-16 rounded-full bg-red-950/50 flex items-center justify-center mb-6">
           <AlertTriangle className="w-8 h-8 text-red-400" />
         </div>
-        <h2 className="text-xl font-semibold text-slate-100 mb-2">Something went wrong</h2>
+        <h2 className="text-xl font-semibold text-slate-900 dark:text-slate-100 mb-2">Something went wrong</h2>
         <p className="text-sm text-slate-400 mb-1 max-w-md">An unexpected error occurred.</p>
         <p className="text-xs text-slate-500 mb-8 font-mono max-w-lg truncate">{this.state.error?.message}</p>
         <div className="flex gap-3">
-          <button onClick={this.handleReset} className="flex items-center gap-2 px-4 py-2.5 rounded-lg bg-slate-800 text-slate-200 hover:bg-slate-700 transition-colors text-sm font-medium">
+          <button onClick={this.handleReset} className="flex items-center gap-2 px-4 py-2.5 rounded-lg bg-slate-100 dark:bg-slate-800 text-slate-800 dark:text-slate-200 hover:bg-slate-200 dark:hover:bg-slate-700 transition-colors text-sm font-medium">
             <RotateCcw className="w-4 h-4" /> Try again
           </button>
           <button onClick={this.handleGoHome} className="flex items-center gap-2 px-4 py-2.5 rounded-lg bg-indigo-600 text-white hover:bg-indigo-500 transition-colors text-sm font-medium">
@@ -77,7 +77,7 @@ export class ErrorBoundary extends Component<ErrorBoundaryProps, ErrorBoundarySt
         {this.state.errorInfo && (
           <details className="mt-8 w-full max-w-2xl text-left">
             <summary className="text-xs text-slate-500 cursor-pointer hover:text-slate-400">Technical details</summary>
-            <pre className="mt-2 p-4 rounded-lg bg-slate-900 border border-slate-800 text-xs text-slate-400 overflow-x-auto max-h-48">
+            <pre className="mt-2 p-4 rounded-lg bg-slate-50 dark:bg-slate-900 border border-slate-200 dark:border-slate-800 text-xs text-slate-500 dark:text-slate-400 overflow-x-auto max-h-48">
               {this.state.error?.stack}{'\n\nComponent stack:'}{this.state.errorInfo.componentStack}
             </pre>
           </details>

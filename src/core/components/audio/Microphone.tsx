@@ -70,7 +70,7 @@ export function Microphone({ lang, onTranscript, onError, size = 'md', className
       <div className={`flex flex-col items-center gap-2 ${className}`}>
         <button
           disabled
-          className={`rounded-full flex items-center justify-center bg-slate-800 text-slate-600 cursor-not-allowed ${sizeClasses[size]}`}
+          className={`rounded-full flex items-center justify-center bg-slate-100 dark:bg-slate-800 text-slate-400 dark:text-slate-600 cursor-not-allowed ${sizeClasses[size]}`}
         >
           <Mic className={iconSizes[size]} />
         </button>
@@ -86,7 +86,7 @@ export function Microphone({ lang, onTranscript, onError, size = 'md', className
         className={`rounded-full flex items-center justify-center transition-all ${sizeClasses[size]} ${
           isListening
             ? 'bg-red-600 text-white animate-pulse shadow-lg shadow-red-600/30'
-            : 'bg-slate-800 hover:bg-slate-700 text-slate-300 hover:text-white'
+            : 'bg-slate-100 dark:bg-slate-800 hover:bg-slate-200 dark:hover:bg-slate-700 text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-white'
         }`}
       >
         <Mic className={iconSizes[size]} />

@@ -158,7 +158,7 @@ export function Writing() {
 
   return (
     <div className="max-w-lg mx-auto">
-      <h1 className="text-2xl font-bold text-slate-100 mb-6">{t('writing.title')}</h1>
+      <h1 className="text-2xl font-bold text-slate-900 dark:text-slate-100 mb-6">{t('writing.title')}</h1>
 
       {/* System tabs */}
       <div className="flex gap-2 mb-6">
@@ -167,7 +167,7 @@ export function Writing() {
             key={ws.id}
             onClick={() => { setSystemId(ws.id); setCurrentIndex(0); setShowAnswer(false); clearCanvas(); }}
             className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
-              systemId === ws.id ? 'bg-indigo-600 text-white' : 'bg-slate-800 text-slate-400 hover:bg-slate-700'
+              systemId === ws.id ? 'bg-indigo-600 text-white' : 'bg-slate-100 dark:bg-slate-800 text-slate-400 hover:bg-slate-200 dark:hover:bg-slate-700'
             }`}
           >
             {ws.name}
@@ -184,13 +184,13 @@ export function Writing() {
             <p className="text-sm text-slate-500 mb-1">
               {currentIndex + 1} / {cards.length}
             </p>
-            <p className="text-lg text-slate-200">
+            <p className="text-lg text-slate-800 dark:text-slate-200">
               {currentCard?.reading} — {currentCard?.back}
             </p>
           </div>
 
           {/* Canvas + answer */}
-          <div className="relative bg-slate-900 border border-slate-800 rounded-xl overflow-hidden mb-4 aspect-square">
+          <div className="relative bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl overflow-hidden mb-4 aspect-square">
             <canvas
               ref={canvasRef}
               className="w-full h-full cursor-crosshair touch-none"
@@ -203,8 +203,8 @@ export function Writing() {
               onTouchEnd={endDraw}
             />
             {showAnswer && (
-              <div className="absolute inset-0 flex items-center justify-center bg-slate-900/80 pointer-events-none">
-                <span className="text-8xl text-slate-100">{currentCard?.front}</span>
+              <div className="absolute inset-0 flex items-center justify-center bg-white/80 dark:bg-slate-900/80 pointer-events-none">
+                <span className="text-8xl text-slate-900 dark:text-slate-100">{currentCard?.front}</span>
               </div>
             )}
           </div>

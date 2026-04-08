@@ -17,13 +17,13 @@ export function PagePlaceholder({ icon: Icon, titleKey, descriptionKey, children
       <div className="w-16 h-16 rounded-2xl bg-indigo-500/10 flex items-center justify-center mb-6">
         <Icon className="w-8 h-8 text-indigo-400" />
       </div>
-      <h1 className="text-2xl font-bold text-slate-100 mb-2">
+      <h1 className="text-2xl font-bold text-slate-900 dark:text-slate-100 mb-2">
         {t(titleKey)}
       </h1>
       <p className="text-slate-400 max-w-md mb-8">
         {t(descriptionKey)}
       </p>
-      <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-slate-800 text-slate-400 text-sm">
+      <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-slate-100 dark:bg-slate-800 text-slate-500 dark:text-slate-400 text-sm">
         {t('common.comingSoon')}
       </div>
       {children}

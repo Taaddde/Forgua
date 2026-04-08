@@ -54,7 +54,7 @@ export function AudioPlayer({ text, src, lang, rate, size = 'md', className = ''
       className={`rounded-full flex items-center justify-center transition-colors ${sizeClasses[size]} ${
         isPlaying
           ? 'bg-indigo-600 text-white'
-          : 'bg-slate-800 hover:bg-slate-700 text-slate-400 hover:text-slate-200'
+          : 'bg-slate-100 dark:bg-slate-800 hover:bg-slate-200 dark:hover:bg-slate-700 text-slate-500 dark:text-slate-400 hover:text-slate-700 dark:hover:text-slate-200'
       } ${className}`}
     >
       {isPlaying ? (

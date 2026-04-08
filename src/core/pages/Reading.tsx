@@ -108,7 +108,7 @@ export function Reading() {
   if (!selectedText) {
     return (
       <div className="max-w-3xl mx-auto">
-        <h1 className="text-2xl font-bold text-slate-100 mb-2">{t('reading.title')}</h1>
+        <h1 className="text-2xl font-bold text-slate-900 dark:text-slate-100 mb-2">{t('reading.title')}</h1>
         <p className="text-slate-400 text-sm mb-6">{t('reading.selectText')}</p>
 
         <div className="space-y-3">
@@ -121,12 +121,12 @@ export function Reading() {
                 setQuizSubmitted(false);
                 setSelectedToken(null);
               }}
-              className="w-full bg-slate-900 border border-slate-800 rounded-xl p-4 text-left hover:border-slate-700 transition-colors"
+              className="w-full bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl p-4 text-left hover:border-slate-300 dark:hover:border-slate-700 transition-colors"
             >
               <div className="flex items-center gap-2 mb-2">
                 <BookText className="w-4 h-4 text-indigo-400" />
-                <h3 className="font-semibold text-slate-100">{text.title}</h3>
-                <span className="text-xs px-1.5 py-0.5 bg-indigo-600/20 text-indigo-300 rounded">{text.level.toUpperCase()}</span>
+                <h3 className="font-semibold text-slate-900 dark:text-slate-100">{text.title}</h3>
+                <span className="text-xs px-1.5 py-0.5 bg-indigo-600/20 text-indigo-600 dark:text-indigo-300 rounded">{text.level.toUpperCase()}</span>
               </div>
               <p className="text-sm text-slate-500 line-clamp-2">{text.text.slice(0, 100)}...</p>
             </button>
@@ -152,7 +152,7 @@ export function Reading() {
       <div className="flex items-center justify-between mb-6">
         <button
           onClick={() => setSelectedText(null)}
-          className="flex items-center gap-1.5 text-sm text-slate-400 hover:text-slate-200 transition-colors"
+          className="flex items-center gap-1.5 text-sm text-slate-400 hover:text-slate-900 dark:hover:text-slate-200 transition-colors"
         >
           <ArrowLeft className="w-4 h-4" />
           {t('reading.backToList')}
@@ -162,7 +162,7 @@ export function Reading() {
             <button
               onClick={() => setShowFurigana(!showFurigana)}
               className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-medium transition-colors ${
-                showFurigana ? 'bg-indigo-600 text-white' : 'bg-slate-800 text-slate-400'
+                showFurigana ? 'bg-indigo-600 text-white' : 'bg-slate-100 dark:bg-slate-800 text-slate-400'
               }`}
             >
               <Languages className="w-3.5 h-3.5" />
@@ -172,7 +172,7 @@ export function Reading() {
           <button
             onClick={() => setShowTranslation(!showTranslation)}
             className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-medium transition-colors ${
-              showTranslation ? 'bg-indigo-600 text-white' : 'bg-slate-800 text-slate-400'
+              showTranslation ? 'bg-indigo-600 text-white' : 'bg-slate-100 dark:bg-slate-800 text-slate-400'
             }`}
           >
             {showTranslation ? <EyeOff className="w-3.5 h-3.5" /> : <Eye className="w-3.5 h-3.5" />}
@@ -183,25 +183,25 @@ export function Reading() {
 
       {/* Title + listen button */}
       <div className="flex items-center gap-3 mb-4">
-        <h2 className="text-xl font-bold text-slate-100">{selectedText.title}</h2>
+        <h2 className="text-xl font-bold text-slate-900 dark:text-slate-100">{selectedText.title}</h2>
         {activePack?.speech.ttsLang && (
           <AudioPlayer text={selectedText.text} lang={activePack.speech.ttsLang} rate={activePack.speech.defaultRate ?? 0.8} size="sm" />
         )}
       </div>
 
       {/* Text body */}
-      <div className="bg-slate-900 border border-slate-800 rounded-xl p-6 mb-6">
+      <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl p-6 mb-6">
         {showFurigana && annotatedHtml ? (
           <div
-            className="text-lg text-slate-100 leading-loose reading-text"
+            className="text-lg text-slate-900 dark:text-slate-100 leading-loose reading-text"
             dangerouslySetInnerHTML={{ __html: annotatedHtml }}
           />
         ) : (
-          <p className="text-lg text-slate-100 leading-loose">{selectedText.text}</p>
+          <p className="text-lg text-slate-900 dark:text-slate-100 leading-loose">{selectedText.text}</p>
         )}
 
         {showTranslation && selectedText.translation && (
-          <p className="mt-4 pt-4 border-t border-slate-800 text-sm text-slate-400 leading-relaxed">
+          <p className="mt-4 pt-4 border-t border-slate-200 dark:border-slate-800 text-sm text-slate-400 leading-relaxed">
             {selectedText.translation}
           </p>
         )}
@@ -209,17 +209,17 @@ export function Reading() {
 
       {/* Token info tooltip */}
       {selectedToken && tokenCard && (
-        <div className="bg-slate-800 border border-slate-700 rounded-xl p-4 mb-6">
+        <div className="bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-xl p-4 mb-6">
           <div className="flex items-center justify-between">
             <div>
-              <span className="text-lg font-bold text-slate-100">{tokenCard.front}</span>
+              <span className="text-lg font-bold text-slate-900 dark:text-slate-100">{tokenCard.front}</span>
               {tokenCard.reading && <span className="text-sm text-slate-500 ml-2">{tokenCard.reading}</span>}
             </div>
             <button onClick={() => setSelectedToken(null)}>
               <span className="text-xs text-slate-500">✕</span>
             </button>
           </div>
-          <p className="text-sm text-slate-300 mt-1">{tokenCard.back}</p>
+          <p className="text-sm text-slate-700 dark:text-slate-300 mt-1">{tokenCard.back}</p>
         </div>
       )}
 
@@ -249,7 +249,7 @@ export function Reading() {
           )}
 
           {quizSubmitted && (
-            <p className="mt-4 text-sm font-medium text-slate-300">
+            <p className="mt-4 text-sm font-medium text-slate-700 dark:text-slate-300">
               {t('reading.score', { correct: correctCount, total: questions.length })}
             </p>
           )}
@@ -269,18 +269,18 @@ function QuestionCard({
   onSelect: (idx: number) => void;
 }) {
   return (
-    <div className="bg-slate-900 border border-slate-800 rounded-xl p-4">
-      <p className="text-sm font-medium text-slate-200 mb-3">{index + 1}. {question.question}</p>
+    <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl p-4">
+      <p className="text-sm font-medium text-slate-800 dark:text-slate-200 mb-3">{index + 1}. {question.question}</p>
       <div className="space-y-2">
         {question.options.map((opt, oIdx) => {
-          let style = 'bg-slate-800 border-slate-700 text-slate-300 hover:border-slate-600 cursor-pointer';
+          let style = 'bg-slate-100 dark:bg-slate-800 border-slate-200 dark:border-slate-700 text-slate-700 dark:text-slate-300 hover:border-slate-300 dark:hover:border-slate-600 cursor-pointer';
           if (submitted) {
             if (oIdx === question.correctIndex) {
               style = 'bg-emerald-600/15 border-emerald-500/40 text-emerald-300';
             } else if (oIdx === selectedAnswer && oIdx !== question.correctIndex) {
               style = 'bg-red-600/15 border-red-500/40 text-red-300';
             } else {
-              style = 'bg-slate-900/50 border-slate-800 text-slate-600';
+              style = 'bg-slate-50 dark:bg-slate-900/50 border-slate-200 dark:border-slate-800 text-slate-400 dark:text-slate-600';
             }
           } else if (oIdx === selectedAnswer) {
             style = 'bg-indigo-600/15 border-indigo-500/40 text-indigo-300';

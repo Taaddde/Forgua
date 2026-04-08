@@ -65,8 +65,8 @@ export function Dictation({ text, expected, lang, rate = 0.8, adapter, onAnswer 
             isPlaying
               ? 'bg-indigo-600 text-white animate-pulse'
               : replays >= MAX_REPLAYS
-                ? 'bg-slate-800 text-slate-600 cursor-not-allowed'
-                : 'bg-slate-800 hover:bg-indigo-600 text-slate-300 hover:text-white'
+                ? 'bg-slate-100 dark:bg-slate-800 text-slate-400 dark:text-slate-600 cursor-not-allowed'
+                : 'bg-slate-100 dark:bg-slate-800 hover:bg-indigo-600 text-slate-600 dark:text-slate-300 hover:text-white'
           }`}
         >
           <Volume2 className="w-8 h-8" />
@@ -86,7 +86,7 @@ export function Dictation({ text, expected, lang, rate = 0.8, adapter, onAnswer 
           onKeyDown={(e) => e.key === 'Enter' && handleSubmit()}
           disabled={answered}
           placeholder={t('exercise.typeAnswer')}
-          className="w-full px-4 py-3 rounded-xl bg-slate-900 border border-slate-700 text-slate-100 placeholder-slate-500 focus:outline-none focus:ring-2 focus:ring-indigo-500 disabled:opacity-60"
+          className="w-full px-4 py-3 rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 text-slate-900 dark:text-slate-100 placeholder-slate-400 dark:placeholder-slate-500 focus:outline-none focus:ring-2 focus:ring-indigo-500 disabled:opacity-60"
           autoFocus={replays > 0}
         />
 
@@ -113,7 +113,7 @@ export function Dictation({ text, expected, lang, rate = 0.8, adapter, onAnswer 
               </span>
               {!result.correct && (
                 <p className="text-xs text-slate-400 mt-1">
-                  {t('exercise.expected')}: <span className="text-slate-200">{expected}</span>
+                  {t('exercise.expected')}: <span className="text-slate-800 dark:text-slate-200">{expected}</span>
                 </p>
               )}
             </div>

@@ -13,7 +13,7 @@ interface InteractiveTextProps {
 
 export function InteractiveText({ tokens, onTokenClick, showFurigana = false }: InteractiveTextProps) {
   return (
-    <span className="text-lg text-slate-100 leading-loose">
+    <span className="text-lg text-slate-900 dark:text-slate-100 leading-loose">
       {tokens.map((token, idx) => {
         const isWord = token.pos && token.pos !== 'symbol' && token.pos !== 'punctuation';
 

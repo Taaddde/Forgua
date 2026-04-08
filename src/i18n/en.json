@@ -167,7 +167,10 @@
     "progress": "Progress: {{completed}}/{{total}} milestones",
     "resources": "Recommended resources",
     "changeTrack": "Change track",
-    "noRoadmaps": "No learning roadmaps available for this pack."
+    "noRoadmaps": "No learning roadmaps available for this pack.",
+    "statsLearned": "learned",
+    "statsMature": "mature",
+    "statsStreak": "day streak"
   },
   "audio": {
     "play": "Play",

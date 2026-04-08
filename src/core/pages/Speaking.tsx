@@ -101,7 +101,7 @@ export function Speaking() {
   if (!isSpeechRecognitionSupported()) {
     return (
       <div className="max-w-3xl mx-auto">
-        <h1 className="text-2xl font-bold text-slate-100 mb-6">{t('speaking.title')}</h1>
+        <h1 className="text-2xl font-bold text-slate-900 dark:text-slate-100 mb-6">{t('speaking.title')}</h1>
         <BrowserSupportBanner feature="speech" />
       </div>
     );
@@ -117,8 +117,8 @@ export function Speaking() {
     return (
       <div className="max-w-md mx-auto text-center py-12">
         <Target className="w-12 h-12 text-emerald-400 mx-auto mb-4" />
-        <h2 className="text-2xl font-bold text-slate-100 mb-2">{t('speaking.sessionComplete')}</h2>
-        <p className="text-lg text-slate-300 mb-6">{t('speaking.score', { score: pct })}</p>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-slate-100 mb-2">{t('speaking.sessionComplete')}</h2>
+        <p className="text-lg text-slate-700 dark:text-slate-300 mb-6">{t('speaking.score', { score: pct })}</p>
         <div className="flex gap-3 justify-center">
           <Button onClick={startSession}>{t('speaking.tryAgain')}</Button>
           <Button variant="secondary" onClick={() => { setScore({ correct: 0, total: 0 }); setMode('read-aloud'); }}>
@@ -132,14 +132,14 @@ export function Speaking() {
 
   return (
     <div className="max-w-2xl mx-auto">
-      <h1 className="text-2xl font-bold text-slate-100 mb-6">{t('speaking.title')}</h1>
+      <h1 className="text-2xl font-bold text-slate-900 dark:text-slate-100 mb-6">{t('speaking.title')}</h1>
 
       {/* Mode tabs */}
       <div className="flex gap-2 mb-6">
         <button
           onClick={() => { setMode('words'); setSessionStarted(false); setSelectedReading(null); }}
           className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
-            mode === 'words' ? 'bg-indigo-600 text-white' : 'bg-slate-800 text-slate-400 hover:bg-slate-700'
+            mode === 'words' ? 'bg-indigo-600 text-white' : 'bg-slate-100 dark:bg-slate-800 text-slate-400 hover:bg-slate-200 dark:hover:bg-slate-700'
           }`}
         >
           <Mic className="w-4 h-4 inline mr-1.5" />
@@ -148,7 +148,7 @@ export function Speaking() {
         <button
           onClick={() => { setMode('read-aloud'); setSessionStarted(false); }}
           className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
-            mode === 'read-aloud' ? 'bg-indigo-600 text-white' : 'bg-slate-800 text-slate-400 hover:bg-slate-700'
+            mode === 'read-aloud' ? 'bg-indigo-600 text-white' : 'bg-slate-100 dark:bg-slate-800 text-slate-400 hover:bg-slate-200 dark:hover:bg-slate-700'
           }`}
         >
           <BookOpen className="w-4 h-4 inline mr-1.5" />
@@ -173,7 +173,7 @@ export function Speaking() {
             <span>{currentIndex + 1} / {sessionCards.length}</span>
             <span className="text-emerald-400">{score.correct}/{score.total}</span>
           </div>
-          <div className="w-full h-1 bg-slate-800 rounded-full mb-6">
+          <div className="w-full h-1 bg-slate-200 dark:bg-slate-800 rounded-full mb-6">
             <div
               className="h-full bg-indigo-500 rounded-full transition-all duration-300"
               style={{ width: `${(currentIndex / sessionCards.length) * 100}%` }}
@@ -202,12 +202,12 @@ export function Speaking() {
                 <button
                   key={reading.id}
                   onClick={() => setSelectedReading(reading)}
-                  className="w-full text-left bg-slate-900 hover:bg-slate-800 border border-slate-800 rounded-xl p-4 transition-colors"
+                  className="w-full text-left bg-white dark:bg-slate-900 hover:bg-slate-50 dark:hover:bg-slate-800 border border-slate-200 dark:border-slate-800 rounded-xl p-4 transition-colors"
                 >
                   <div className="flex items-center gap-3 mb-1">
                     <BookOpen className="w-4 h-4 text-indigo-400 flex-shrink-0" />
-                    <h3 className="font-medium text-slate-100">{reading.title}</h3>
-                    <span className="text-xs px-2 py-0.5 rounded bg-slate-800 text-slate-400 uppercase">
+                    <h3 className="font-medium text-slate-900 dark:text-slate-100">{reading.title}</h3>
+                    <span className="text-xs px-2 py-0.5 rounded bg-slate-100 dark:bg-slate-800 text-slate-400 uppercase">
                       {reading.level}
                     </span>
                   </div>
@@ -225,7 +225,7 @@ export function Speaking() {
         <div>
           <button
             onClick={() => setSelectedReading(null)}
-            className="flex items-center gap-1.5 text-sm text-slate-400 hover:text-slate-200 transition-colors mb-4"
+            className="flex items-center gap-1.5 text-sm text-slate-400 hover:text-slate-900 dark:hover:text-slate-200 transition-colors mb-4"
           >
             <ArrowLeft className="w-4 h-4" />
             {t('speaking.backToList')}

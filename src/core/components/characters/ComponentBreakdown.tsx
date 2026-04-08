@@ -18,7 +18,7 @@ const typeColors: Record<string, string> = {
   jamo: 'text-sky-400 bg-sky-500/10 border-sky-500/20',
 };
 
-const defaultColor = 'text-slate-300 bg-slate-800 border-slate-700';
+const defaultColor = 'text-slate-700 dark:text-slate-300 bg-slate-100 dark:bg-slate-800 border-slate-200 dark:border-slate-700';
 
 export function ComponentBreakdown({ character, components, className = '' }: ComponentBreakdownProps) {
   if (components.length === 0) return null;
@@ -27,7 +27,7 @@ export function ComponentBreakdown({ character, components, className = '' }: Co
     <div className={className}>
       <div className="flex items-center gap-3 flex-wrap justify-center">
         {/* Original character */}
-        <span className="text-3xl text-slate-100">{character}</span>
+        <span className="text-3xl text-slate-900 dark:text-slate-100">{character}</span>
         <span className="text-slate-500 text-lg">=</span>
 
         {/* Component chips */}

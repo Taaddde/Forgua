@@ -80,7 +80,7 @@ export function SpeakExercise({ targetText, expectedReading, lang, adapter, onAn
 
       {/* Target text */}
       <div className="text-center mb-8">
-        <span className="text-4xl font-bold text-slate-100">{targetText}</span>
+        <span className="text-4xl font-bold text-slate-900 dark:text-slate-100">{targetText}</span>
         {expectedReading && (
           <p className="text-lg text-slate-400 mt-2">{expectedReading}</p>
         )}
@@ -102,11 +102,11 @@ export function SpeakExercise({ targetText, expectedReading, lang, adapter, onAn
           <div className="space-y-2">
             <div className="flex justify-between text-sm">
               <span className="text-slate-500">{t('audio.yourSpeech')}</span>
-              <span className="text-slate-200">{result.transcript}</span>
+              <span className="text-slate-800 dark:text-slate-200">{result.transcript}</span>
             </div>
             <div className="flex justify-between text-sm">
               <span className="text-slate-500">{t('audio.expected')}</span>
-              <span className="text-slate-200">{expected}</span>
+              <span className="text-slate-800 dark:text-slate-200">{expected}</span>
             </div>
             <div className="flex justify-between text-sm">
               <span className="text-slate-500">{t('audio.similarity')}</span>

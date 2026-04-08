@@ -4,11 +4,14 @@
 
 import { useState, useEffect, useCallback } from 'react';
 import { useTranslation } from 'react-i18next';
-import { Zap, Clock, Coffee, ChevronDown, ChevronUp, Check, Loader2 } from 'lucide-react';
+import { useNavigate } from 'react-router-dom';
+import { Zap, Clock, Coffee, ChevronDown, ChevronUp, Check, Loader2, BookOpen, GraduationCap } from 'lucide-react';
 import { useLiveQuery } from 'dexie-react-hooks';
 import { useAppStore } from '../store/useAppStore';
+import { useProgress } from '../hooks/useProgress';
 import { db } from '../db/database';
 import { loadRoadmaps } from '../packs';
+import { Button } from '../components/common/Button';
 import type { Roadmap as RoadmapType, RoadmapPhase } from '../types/pack-spec';
 
 const trackConfig = {
@@ -19,6 +22,7 @@ const trackConfig = {
 
 export function Roadmap() {
   const { t } = useTranslation();
+  const navigate = useNavigate();
   const activePack = useAppStore((s) => s.activePack);
   const packId = activePack?.id ?? null;
 
@@ -28,6 +32,8 @@ export function Roadmap() {
   const [expandedPhase, setExpandedPhase] = useState<number | null>(null);
 
   const loadingRoadmaps = packId !== null && packId !== loadedForPack;
+
+  const { totalStats } = useProgress(packId);
 
   // Load roadmaps dynamically for the active pack
   useEffect(() => {
@@ -50,6 +56,27 @@ export function Roadmap() {
         }
       });
     return () => { cancelled = true; };
+  }, [packId]);
+
+  // Persist and restore track selection per pack
+  const persistedTrack = useLiveQuery(async () => {
+    if (!packId) return null;
+    const setting = await db.settings.get(`roadmap-track-${packId}`);
+    return typeof setting?.value === 'string' ? setting.value : null;
+  }, [packId]);
+
+  useEffect(() => {
+    if (loadedForPack !== packId || roadmaps.length === 0 || persistedTrack === undefined) return;
+    if (persistedTrack && roadmaps.find((r) => r.id === persistedTrack)) {
+      setSelectedTrack(persistedTrack);
+    }
+  }, [loadedForPack, packId, roadmaps, persistedTrack]);
+
+  const selectTrack = useCallback(async (id: string) => {
+    setSelectedTrack(id);
+    if (packId) {
+      await db.settings.put({ key: `roadmap-track-${packId}`, value: id as unknown as string });
+    }
   }, [packId]);
 
   // Load milestone progress from settings
@@ -116,7 +143,7 @@ export function Roadmap() {
             return (
               <button
                 key={roadmap.id}
-                onClick={() => setSelectedTrack(roadmap.id)}
+                onClick={() => selectTrack(roadmap.id)}
                 className={`p-6 rounded-xl border text-left transition-all hover:scale-[1.02] ${config.bg}`}
               >
                 <Icon className={`w-8 h-8 ${config.color} mb-3`} />
@@ -150,20 +177,52 @@ export function Roadmap() {
             {t('roadmap.progress', { completed: completedMilestones, total: totalMilestones })}
           </p>
         </div>
-        <button
-          onClick={() => { setSelectedTrack(null); setExpandedPhase(null); }}
-          className="text-xs text-slate-500 hover:text-slate-700 dark:hover:text-slate-300 transition-colors"
-        >
-          {t('roadmap.changeTrack')}
-        </button>
+        <div className="flex items-center gap-2">
+          <Button variant="secondary" size="sm" onClick={() => navigate('/lessons')}>
+            <BookOpen className="w-3.5 h-3.5" />
+            {t('nav.lessons')}
+          </Button>
+          <Button size="sm" onClick={() => navigate('/study')}>
+            <GraduationCap className="w-3.5 h-3.5" />
+            {t('nav.study')}
+          </Button>
+          <button
+            onClick={() => { setSelectedTrack(null); setExpandedPhase(null); }}
+            className="text-xs text-slate-500 hover:text-slate-700 dark:hover:text-slate-300 transition-colors ml-1"
+          >
+            {t('roadmap.changeTrack')}
+          </button>
+        </div>
       </div>
 
       {/* Progress bar */}
-      <div className="w-full h-2 bg-slate-200 dark:bg-slate-800 rounded-full mb-8">
+      <div className="w-full h-2 bg-slate-200 dark:bg-slate-800 rounded-full mb-3">
         <div
           className={`h-full rounded-full transition-all duration-500 ${trackConfig[selectedRoadmap.type].activeBg}`}
           style={{ width: `${totalMilestones > 0 ? (completedMilestones / totalMilestones) * 100 : 0}%` }}
         />
+      </div>
+
+      {/* Real SRS stats context */}
+      <div className="flex items-center gap-4 text-xs text-slate-500 mb-6 min-h-[1rem]">
+        {totalStats.totalLearned > 0 && (
+          <span>
+            <span className="text-slate-300 font-medium">{totalStats.totalLearned}</span>
+            {' '}{t('roadmap.statsLearned')}
+          </span>
+        )}
+        {totalStats.totalMature > 0 && (
+          <span>
+            <span className="text-slate-300 font-medium">{totalStats.totalMature}</span>
+            {' '}{t('roadmap.statsMature')}
+          </span>
+        )}
+        {totalStats.currentStreak > 0 && (
+          <span>
+            <span className="text-slate-300 font-medium">{totalStats.currentStreak}</span>
+            {' '}{t('roadmap.statsStreak')}
+          </span>
+        )}
       </div>
 
       {/* Phases */}

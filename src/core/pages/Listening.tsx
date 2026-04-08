@@ -79,7 +79,7 @@ export function Listening() {
   if (!isTTSSupported()) {
     return (
       <div className="max-w-3xl mx-auto">
-        <h1 className="text-2xl font-bold text-slate-100 mb-6">{t('listening.title')}</h1>
+        <h1 className="text-2xl font-bold text-slate-900 dark:text-slate-100 mb-6">{t('listening.title')}</h1>
         <BrowserSupportBanner feature="tts" />
       </div>
     );
@@ -94,8 +94,8 @@ export function Listening() {
     return (
       <div className="max-w-md mx-auto text-center py-12">
         <Target className="w-12 h-12 text-emerald-400 mx-auto mb-4" />
-        <h2 className="text-2xl font-bold text-slate-100 mb-2">{t('listening.sessionComplete')}</h2>
-        <p className="text-lg text-slate-300 mb-6">
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-slate-100 mb-2">{t('listening.sessionComplete')}</h2>
+        <p className="text-lg text-slate-700 dark:text-slate-300 mb-6">
           {t('listening.score', { correct: score.correct, total: score.total })}
         </p>
         <Button onClick={startSession}>{t('study.studyMore')}</Button>
@@ -105,14 +105,14 @@ export function Listening() {
 
   return (
     <div className="max-w-3xl mx-auto">
-      <h1 className="text-2xl font-bold text-slate-100 mb-6">{t('listening.title')}</h1>
+      <h1 className="text-2xl font-bold text-slate-900 dark:text-slate-100 mb-6">{t('listening.title')}</h1>
 
       {/* Mode tabs */}
       <div className="flex gap-2 mb-6">
         <button
           onClick={() => { setMode('dictation'); setSessionStarted(false); }}
           className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
-            mode === 'dictation' ? 'bg-indigo-600 text-white' : 'bg-slate-800 text-slate-400 hover:bg-slate-700'
+            mode === 'dictation' ? 'bg-indigo-600 text-white' : 'bg-slate-100 dark:bg-slate-800 text-slate-400 hover:bg-slate-200 dark:hover:bg-slate-700'
           }`}
         >
           {t('listening.dictation')}
@@ -120,7 +120,7 @@ export function Listening() {
         <button
           onClick={() => { setMode('free-listen'); setSessionStarted(false); }}
           className={`px-4 py-2 rounded-lg text-sm font-medium transition-colors ${
-            mode === 'free-listen' ? 'bg-indigo-600 text-white' : 'bg-slate-800 text-slate-400 hover:bg-slate-700'
+            mode === 'free-listen' ? 'bg-indigo-600 text-white' : 'bg-slate-100 dark:bg-slate-800 text-slate-400 hover:bg-slate-200 dark:hover:bg-slate-700'
           }`}
         >
           {t('listening.freeListen')}
@@ -159,10 +159,10 @@ export function Listening() {
       {mode === 'free-listen' && (
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
           {(vocabCards ?? []).slice(0, 60).map((card) => (
-            <div key={card.id} className="flex items-center gap-3 bg-slate-900 border border-slate-800 rounded-xl p-3">
+            <div key={card.id} className="flex items-center gap-3 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl p-3">
               <AudioPlayer text={card.front} lang={ttsLang} rate={ttsRate} size="sm" />
               <div className="min-w-0">
-                <span className="text-sm font-medium text-slate-100">{card.front}</span>
+                <span className="text-sm font-medium text-slate-900 dark:text-slate-100">{card.front}</span>
                 {card.reading && <span className="text-xs text-slate-500 ml-2">{card.reading}</span>}
                 <p className="text-xs text-slate-400 truncate">{card.back}</p>
               </div>

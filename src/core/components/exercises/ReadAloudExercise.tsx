@@ -133,12 +133,12 @@ export function ReadAloudExercise({ text, title, lang, rate = 0.85 }: ReadAloudE
     <div className="w-full max-w-2xl mx-auto">
       {/* Title + listen */}
       <div className="flex items-center gap-3 mb-4">
-        <h3 className="text-lg font-semibold text-slate-100">{title}</h3>
+        <h3 className="text-lg font-semibold text-slate-900 dark:text-slate-100">{title}</h3>
         <AudioPlayer text={text} lang={lang} rate={rate} size="sm" />
       </div>
 
       {/* Text body with word highlighting */}
-      <div className="bg-slate-900 border border-slate-800 rounded-xl p-6 mb-6 leading-relaxed text-lg">
+      <div className="bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl p-6 mb-6 leading-relaxed text-lg">
         {phase === 'done' ? (
           <p className="whitespace-pre-wrap">
             {wordResults.map((wr, i) => (
@@ -151,15 +151,15 @@ export function ReadAloudExercise({ text, title, lang, rate = 0.85 }: ReadAloudE
             ))}
           </p>
         ) : (
-          <p className="text-slate-300 whitespace-pre-wrap">{text}</p>
+          <p className="text-slate-700 dark:text-slate-300 whitespace-pre-wrap">{text}</p>
         )}
       </div>
 
       {/* Live transcript while recording */}
       {phase === 'recording' && (
-        <div className="bg-slate-900/50 border border-slate-800 rounded-lg p-4 mb-4 min-h-[3rem]">
+        <div className="bg-slate-100/80 dark:bg-slate-900/50 border border-slate-200 dark:border-slate-800 rounded-lg p-4 mb-4 min-h-[3rem]">
           <p className="text-sm text-slate-500 mb-1">{t('speaking.youSaid')}</p>
-          <p className="text-slate-300 text-sm">
+          <p className="text-slate-700 dark:text-slate-300 text-sm">
             {fullTranscript}
             {interimTranscript && (
               <span className="text-slate-500 italic"> {interimTranscript}</span>
@@ -177,7 +177,7 @@ export function ReadAloudExercise({ text, title, lang, rate = 0.85 }: ReadAloudE
           <>
             <button
               onClick={handleStart}
-              className="w-20 h-20 rounded-full flex items-center justify-center bg-slate-800 hover:bg-indigo-600 text-slate-300 hover:text-white transition-all cursor-pointer"
+              className="w-20 h-20 rounded-full flex items-center justify-center bg-slate-100 dark:bg-slate-800 hover:bg-indigo-600 text-slate-600 dark:text-slate-300 hover:text-white transition-all cursor-pointer"
             >
               <Mic className="w-8 h-8" />
             </button>
@@ -203,7 +203,7 @@ export function ReadAloudExercise({ text, title, lang, rate = 0.85 }: ReadAloudE
             <div className="flex items-center justify-center gap-3">
               <CheckCircle className={`w-8 h-8 ${accuracy >= 70 ? 'text-emerald-400' : accuracy >= 40 ? 'text-amber-400' : 'text-red-400'}`} />
               <div>
-                <p className="text-2xl font-bold text-slate-100">{accuracy}%</p>
+                <p className="text-2xl font-bold text-slate-900 dark:text-slate-100">{accuracy}%</p>
                 <p className="text-sm text-slate-400">
                   {matchedCount}/{totalWords} {t('speaking.wordsCorrect')}
                 </p>
@@ -211,9 +211,9 @@ export function ReadAloudExercise({ text, title, lang, rate = 0.85 }: ReadAloudE
             </div>
 
             {/* Spoken text */}
-            <div className="bg-slate-900/50 border border-slate-800 rounded-lg p-3 text-left">
+            <div className="bg-slate-100/80 dark:bg-slate-900/50 border border-slate-200 dark:border-slate-800 rounded-lg p-3 text-left">
               <p className="text-xs text-slate-500 mb-1">{t('speaking.youSaid')}</p>
-              <p className="text-sm text-slate-300">{fullTranscript || '(nada detectado)'}</p>
+              <p className="text-sm text-slate-700 dark:text-slate-300">{fullTranscript || '(nada detectado)'}</p>
             </div>
 
             <Button onClick={handleRetry} variant="secondary">

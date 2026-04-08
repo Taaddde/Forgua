@@ -74,6 +74,7 @@ export function ReadAloudExercise({ text, title, lang, rate = 0.85 }: ReadAloudE
     transcript,
     interimTranscript,
     isSupported,
+    error,
     startListening,
     stopListening,
     resetTranscript,
@@ -120,7 +121,7 @@ export function ReadAloudExercise({ text, title, lang, rate = 0.85 }: ReadAloudE
     setPhase('ready');
   }, [resetTranscript]);
 
-  if (!isSupported || !isSpeechRecognitionSupported()) {
+  if (!isSupported || !isSpeechRecognitionSupported() || error === 'stt-not-supported') {
     return <BrowserSupportBanner feature="speech" />;
   }
 

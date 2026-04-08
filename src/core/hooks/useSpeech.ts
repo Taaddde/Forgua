@@ -12,6 +12,10 @@ export function useSpeech(defaultLang?: string, continuous = false) {
   const [error, setError] = useState<string | null>(null);
   const [confidence, setConfidence] = useState(0);
   const recognitionRef = useRef<ReturnType<typeof createSpeechRecognition> | null>(null);
+  // Tracks intent: true = user wants to keep listening, false = user stopped or error occurred.
+  // Used to auto-restart recognition in continuous mode — mobile Chrome fires onend after each
+  // utterance/pause even when continuous=true, which is a known browser bug.
+  const shouldContinueRef = useRef(false);
 
   const startListening = useCallback(async (lang?: string) => {
     if (!isSpeechRecognitionSupported()) {
@@ -30,6 +34,7 @@ export function useSpeech(defaultLang?: string, continuous = false) {
     setTranscript('');
     setInterimTranscript('');
     setConfidence(0);
+    shouldContinueRef.current = continuous;
 
     try {
       const recognition = createSpeechRecognition({
@@ -49,10 +54,21 @@ export function useSpeech(defaultLang?: string, continuous = false) {
           // 'network' means the browser has the API but can't reach Google's STT service.
           // This happens in non-Chrome browsers (Día, Brave with shields, Firefox, etc.)
           // Treat it the same as "not supported" so the UI shows the browser recommendation.
+          shouldContinueRef.current = false;
           setError(err === 'network' ? 'stt-not-supported' : err);
           setIsListening(false);
         },
         onEnd: () => {
+          // Mobile Chrome (and other mobile browsers) fire onend after each pause even
+          // with continuous=true. Auto-restart to keep listening until the user stops.
+          if (shouldContinueRef.current && recognitionRef.current) {
+            try {
+              recognitionRef.current.start();
+              return; // isListening stays true
+            } catch {
+              shouldContinueRef.current = false;
+            }
+          }
           setIsListening(false);
         },
       });
@@ -66,6 +82,7 @@ export function useSpeech(defaultLang?: string, continuous = false) {
   }, [defaultLang, continuous]);
 
   const stopListening = useCallback(() => {
+    shouldContinueRef.current = false;
     if (recognitionRef.current) {
       recognitionRef.current.stop();
       recognitionRef.current = null;

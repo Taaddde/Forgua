@@ -1,11 +1,11 @@
 ---
 name: component-creator
-description: "Generate React components following LinguaForge's patterns and conventions. Use when the user asks to create a new component, page, exercise type, hook, or any React UI element for the project. Also trigger on 'add a component', 'create a page', 'new exercise type', or 'build a UI for'."
+description: "Generate React components following Forgua's patterns and conventions. Use when the user asks to create a new component, page, exercise type, hook, or any React UI element for the project. Also trigger on 'add a component', 'create a page', 'new exercise type', or 'build a UI for'."
 ---
 
 # Component Creator
 
-Creates React components that follow LinguaForge's architecture and conventions.
+Creates React components that follow Forgua's architecture and conventions.
 
 ## Component types and where they go
 

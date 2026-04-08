@@ -22,4 +22,4 @@ You should receive a response within 72 hours. If the issue is confirmed, a fix 
 
 ## Scope
 
-LinguaForge runs entirely in the user's browser or as a local desktop app (Tauri). All data stays on the user's device via IndexedDB. There is no server, no user accounts, and no network requests beyond fetching the app itself. The attack surface is intentionally minimal.
+Forgua runs entirely in the user's browser or as a local desktop app (Tauri). All data stays on the user's device via IndexedDB. There is no server, no user accounts, and no network requests beyond fetching the app itself. The attack surface is intentionally minimal.

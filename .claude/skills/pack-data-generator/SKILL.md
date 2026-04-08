@@ -1,11 +1,11 @@
 ---
 name: pack-data-generator
-description: "Generate JSON data files for LinguaForge Language Packs. Use when the user asks to create vocabulary data, grammar points, character data, reading passages, or any content for a Language Pack. Also trigger on 'generate N5 vocabulary', 'create grammar data', 'add kanji data', 'fill in the pack', or 'create content for [language]'."
+description: "Generate JSON data files for Forgua Language Packs. Use when the user asks to create vocabulary data, grammar points, character data, reading passages, or any content for a Language Pack. Also trigger on 'generate N5 vocabulary', 'create grammar data', 'add kanji data', 'fill in the pack', or 'create content for [language]'."
 ---
 
 # Pack Data Generator
 
-Generates JSON data files that conform to the LinguaForge Pack Spec.
+Generates JSON data files that conform to the Forgua Pack Spec.
 
 ## Critical rules
 

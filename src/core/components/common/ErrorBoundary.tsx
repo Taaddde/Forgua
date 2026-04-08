@@ -26,7 +26,7 @@ export class ErrorBoundary extends Component<ErrorBoundaryProps, ErrorBoundarySt
 
   componentDidCatch(error: Error, errorInfo: ErrorInfo): void {
     this.setState({ errorInfo });
-    console.error('[LinguaForge] Uncaught error:', error, errorInfo);
+    console.error('[Forgua] Uncaught error:', error, errorInfo);
   }
 
   private handleReset = (): void => {

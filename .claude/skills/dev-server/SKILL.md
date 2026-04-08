@@ -1,11 +1,11 @@
 ---
 name: dev-server
-description: "Start, verify, and debug the LinguaForge development server. Use whenever the user asks to run the app, start the dev server, check if the app is working, debug a build error, or verify the app compiles. Also trigger on 'npm run dev', 'start the app', 'check if it builds', or 'fix build errors'."
+description: "Start, verify, and debug the Forgua development server. Use whenever the user asks to run the app, start the dev server, check if the app is working, debug a build error, or verify the app compiles. Also trigger on 'npm run dev', 'start the app', 'check if it builds', or 'fix build errors'."
 ---
 
 # Dev Server Management
 
-Manages the LinguaForge Vite development server — start, verify, and debug.
+Manages the Forgua Vite development server — start, verify, and debug.
 
 ## Starting the dev server
 
@@ -52,7 +52,7 @@ If there are errors, fix them before starting the dev server.
 npx vite build --outDir dist
 ```
 
-Note: In sandbox environments, you may need `--outDir /tmp/linguaforge-build` due to filesystem permissions.
+Note: In sandbox environments, you may need `--outDir /tmp/forgua-build` due to filesystem permissions.
 
 ## Port conflicts
 

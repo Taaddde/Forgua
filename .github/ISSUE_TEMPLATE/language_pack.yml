@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Interested in contributing a Language Pack? Check [PACK_SPEC.md](https://github.com/taaddde/LinguaForge/blob/master/docs/PACK_SPEC.md) first.
+        Interested in contributing a Language Pack? Check [PACK_SPEC.md](https://github.com/taaddde/Forgua/blob/master/docs/PACK_SPEC.md) first.
 
   - type: input
     id: language

@@ -1,5 +1,5 @@
 name: Bug Report
-description: Report a bug in LinguaForge
+description: Report a bug in Forgua
 labels: [bug]
 body:
   - type: markdown
@@ -50,7 +50,7 @@ body:
     id: browser
     attributes:
       label: Browser / App version
-      placeholder: e.g. Chrome 124, LinguaForge 0.1.0
+      placeholder: e.g. Chrome 124, Forgua 0.1.0
 
   - type: textarea
     id: context

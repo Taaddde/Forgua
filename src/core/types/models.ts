@@ -1,5 +1,5 @@
 /**
- * LinguaForge data models — maps to IndexedDB tables.
+ * Forgua data models — maps to IndexedDB tables.
  * These are the runtime types used by the SRS engine,
  * progress tracking, and study session management.
  */

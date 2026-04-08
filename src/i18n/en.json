@@ -1,6 +1,6 @@
 {
   "app": {
-    "name": "LinguaForge",
+    "name": "Forgua",
     "tagline": "Language learning engine"
   },
   "nav": {
@@ -42,7 +42,7 @@
   },
   "dashboard": {
     "title": "Dashboard",
-    "welcome": "Welcome to LinguaForge!",
+    "welcome": "Welcome to Forgua!",
     "selectPack": "Select a language to get started",
     "todayStats": "Today",
     "reviewed": "Reviewed",
@@ -188,7 +188,7 @@
     "recording": "Recording...",
     "notSupported": "Not available in this browser",
     "browserWarning": "The {{feature}} feature is only available in Chrome and Edge.",
-    "desktopWarning": "The {{feature}} feature is not available in the desktop app. Use the web version (linguaforge.app) in Chrome for this feature.",
+    "desktopWarning": "The {{feature}} feature is not available in the desktop app. Use the web version (forgua.app) in Chrome for this feature.",
     "errors": {
       "mic-denied": "Microphone permission denied. Check your system settings.",
       "mic-unavailable": "Could not access the microphone.",
@@ -328,7 +328,7 @@
   },
   "pwa": {
     "updateAvailable": "Update available",
-    "updateDescription": "A new version of LinguaForge is available.",
+    "updateDescription": "A new version of Forgua is available.",
     "update": "Update",
     "later": "Later"
   },

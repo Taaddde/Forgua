@@ -1,12 +1,12 @@
 [package]
-name = "linguaforge"
+name = "forgua"
 version = "0.1.0"
-description = "LinguaForge — Open source language learning engine"
-authors = ["LinguaForge Team"]
+description = "Forgua — Open source language learning engine"
+authors = ["Forgua Team"]
 edition = "2021"
 
 [lib]
-name = "linguaforge_lib"
+name = "forgua_lib"
 crate-type = ["lib", "cdylib", "staticlib"]
 
 [build-dependencies]

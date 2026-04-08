@@ -122,7 +122,7 @@ test.describe('Lesson completion persistence', () => {
     // Verify the database has the completion record
     const hasCompletion = await page.evaluate(async () => {
       const dbNames = await indexedDB.databases();
-      const db = dbNames.find((d) => d.name === 'linguaforge');
+      const db = dbNames.find((d) => d.name === 'forgua');
       if (!db?.name) return false;
       return new Promise<boolean>((resolve) => {
         const req = indexedDB.open(db.name!);

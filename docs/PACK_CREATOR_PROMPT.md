@@ -1,6 +1,6 @@
 # Language Pack Creator Prompt
 
-This file contains a ready-to-use prompt template for generating LinguaForge Language Pack data with LLMs (Claude, GPT-4, etc.). Copy the prompt below and adapt it to your target language and level.
+This file contains a ready-to-use prompt template for generating Forgua Language Pack data with LLMs (Claude, GPT-4, etc.). Copy the prompt below and adapt it to your target language and level.
 
 ## How to Use
 
@@ -16,7 +16,7 @@ This file contains a ready-to-use prompt template for generating LinguaForge Lan
 **Copy everything below this line:**
 
 ```
-You are a language education data specialist. Generate structured JSON data for a LinguaForge Language Pack.
+You are a language education data specialist. Generate structured JSON data for a Forgua Language Pack.
 
 TARGET LANGUAGE: [LANGUAGE]
 LEVEL: [LEVEL]

@@ -20,8 +20,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.svg', 'icons/*.png'],
       manifest: {
-        name: 'LinguaForge',
-        short_name: 'LinguaForge',
+        name: 'Forgua',
+        short_name: 'Forgua',
         description: 'Open source language learning engine — what Anki should have been for CJK languages',
         theme_color: '#6366f1',
         background_color: '#0f172a',

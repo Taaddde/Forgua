@@ -1,5 +1,5 @@
 /**
- * LinguaForge Adapter interfaces
+ * Forgua Adapter interfaces
  * Each writing-system family has an adapter in the core that implements
  * text processing operations. Packs never contain code; the adapter
  * is selected by the `family` field in the pack manifest.

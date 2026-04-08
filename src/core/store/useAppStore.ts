@@ -80,7 +80,7 @@ export const useAppStore = create<AppState>()(
       },
     }),
     {
-      name: 'linguaforge-settings',
+      name: 'forgua-settings',
       partialize: (state) => ({
         activePack: state.activePack,
         uiLanguage: state.uiLanguage,

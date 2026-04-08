@@ -23,14 +23,15 @@ dist-ssr
 *.sln
 *.sw?
 
-# Claude Code — keep skills in repo, but settings.json has local config
+# Claude Code — keep skills in repo, settings.json and CLAUDE.md are local only
+CLAUDE.md
 .claude/settings.json
 .claude/settings.local.json
 
 # Internal docs (prompts, design artifacts, planning files)
 docs/FASE-*.md
 docs/compass_artifact_*.md
-docs/linguaforge-v3-definitivo.docx
+docs/forgua-v3-definitivo.docx
 
 # Tauri
 src-tauri/target/
@@ -41,4 +42,4 @@ test-results
 .playwright-cli
 .playwright
 playwright-report
-linguaforge-temp
+forgua-temp

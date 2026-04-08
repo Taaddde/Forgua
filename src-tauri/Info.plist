@@ -3,8 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>NSMicrophoneUsageDescription</key>
-	<string>LinguaForge needs microphone access for speech recognition exercises.</string>
+	<string>Forgua needs microphone access for speech recognition exercises.</string>
 	<key>NSSpeechRecognitionUsageDescription</key>
-	<string>LinguaForge uses speech recognition to evaluate your pronunciation.</string>
+	<string>Forgua uses speech recognition to evaluate your pronunciation.</string>
 </dict>
 </plist>

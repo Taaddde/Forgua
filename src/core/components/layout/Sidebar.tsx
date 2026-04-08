@@ -61,8 +61,8 @@ export function Sidebar() {
         {/* Logo */}
         <div className="flex items-center justify-between h-16 px-4 border-b border-slate-200 dark:border-slate-800">
           <div className="flex items-center gap-2">
-            <img src="/logo.svg" alt="LinguaForge" className="w-7 h-7" />
-            <span className="text-lg font-bold text-slate-900 dark:text-slate-100">LinguaForge</span>
+            <img src="/logo.svg" alt="Forgua" className="w-7 h-7" />
+            <span className="text-lg font-bold text-slate-900 dark:text-slate-100">Forgua</span>
           </div>
           <button
             onClick={() => setSidebarOpen(false)}

@@ -1,11 +1,11 @@
 ---
 name: validate-pack
-description: "Validate a LinguaForge Language Pack against the Zod schema. Use whenever the user mentions validating a pack, checking pack JSON files, testing pack structure, or when creating/editing Language Pack data files. Also trigger when reviewing a PR that modifies files under src/packs/."
+description: "Validate a Forgua Language Pack against the Zod schema. Use whenever the user mentions validating a pack, checking pack JSON files, testing pack structure, or when creating/editing Language Pack data files. Also trigger when reviewing a PR that modifies files under src/packs/."
 ---
 
 # Validate Language Pack
 
-Validates a Language Pack's JSON files against LinguaForge's Zod schemas.
+Validates a Language Pack's JSON files against Forgua's Zod schemas.
 
 ## What this skill does
 

@@ -1,5 +1,5 @@
 /**
- * LinguaForge Pack Spec — TypeScript interfaces
+ * Forgua Pack Spec — TypeScript interfaces
  * These types define the contract between the core engine and any Language Pack.
  * A pack is a folder of JSON files that conforms to these types.
  */

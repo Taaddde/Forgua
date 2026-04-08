@@ -1,8 +1,8 @@
-# LinguaForge
+# Forgua
 
 **What Anki should have been for CJK languages.**
 
-LinguaForge is a free, open-source language learning engine built for serious learners. It combines spaced repetition (SM-2), 10+ exercise types, native furigana support, and community-driven Language Packs -- all running 100% offline as a PWA or desktop app.
+Forgua is a free, open-source language learning engine built for serious learners. It combines spaced repetition (SM-2), 10+ exercise types, native furigana support, and community-driven Language Packs -- all running 100% offline as a PWA or desktop app.
 
 ## Features
 
@@ -19,8 +19,8 @@ LinguaForge is a free, open-source language learning engine built for serious le
 ## Quick Start
 
 ```bash
-git clone https://github.com/taaddde/LinguaForge.git
-cd LinguaForge
+git clone https://github.com/taaddde/Forgua.git
+cd Forgua
 npm install
 npm run dev
 ```

@@ -29,7 +29,7 @@ jobs:
         run: npm ci
 
       - name: Validate Japanese pack
-        run: npm run validate-pack -- --pack src/packs/japanese
+        run: npm run validate-pack -- japanese
 
       - name: Validate English pack
-        run: npm run validate-pack -- --pack src/packs/english
+        run: npm run validate-pack -- english

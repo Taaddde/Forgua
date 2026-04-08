@@ -1,17 +1,17 @@
 {
-  "name": "linguaforge",
+  "name": "forgua",
   "version": "0.1.0",
   "description": "Open source language learning engine specialized in CJK. Spaced repetition, 10+ exercise types, Language Packs in pure JSON. PWA + desktop via Tauri.",
   "license": "MIT",
   "author": "Tadeo Rosochacki <taaddde@users.noreply.github.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/taaddde/LinguaForge.git"
+    "url": "https://github.com/taaddde/Forgua.git"
   },
   "bugs": {
-    "url": "https://github.com/taaddde/LinguaForge/issues"
+    "url": "https://github.com/taaddde/Forgua/issues"
   },
-  "homepage": "https://taaddde.github.io/LinguaForge",
+  "homepage": "https://taaddde.github.io/Forgua",
   "keywords": [
     "language-learning",
     "spaced-repetition",

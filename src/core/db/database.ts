@@ -1,5 +1,5 @@
 /**
- * LinguaForge IndexedDB schema — powered by Dexie.js
+ * Forgua IndexedDB schema — powered by Dexie.js
  * Agnostic: stores data for any language pack.
  * The `extra` field on cards holds language-specific data.
  */
@@ -17,7 +17,7 @@ import type {
 } from '../types/models';
 import type { LessonProgress } from '../types/lesson';
 
-export class LinguaForgeDB extends Dexie {
+export class ForguaDB extends Dexie {
   packs!: Table<InstalledPack, string>;
   cards!: Table<Card, number>;
   srsState!: Table<SRSState, number>;
@@ -29,7 +29,7 @@ export class LinguaForgeDB extends Dexie {
   lessonProgress!: Table<LessonProgress, string>;
 
   constructor() {
-    super('linguaforge');
+    super('forgua');
 
     this.version(1).stores({
       // Primary key + indexed fields
@@ -58,7 +58,7 @@ export class LinguaForgeDB extends Dexie {
 }
 
 /** Singleton database instance */
-export const db = new LinguaForgeDB();
+export const db = new ForguaDB();
 
 /**
  * Reset the entire database. Use with caution.

@@ -1,4 +1,4 @@
-// LinguaForge — Minimal Tauri backend.
+// Forgua — Minimal Tauri backend.
 // All logic lives in the frontend (React). This is a thin wrapper.
 
 #[tauri::command]
@@ -36,5 +36,5 @@ pub fn run() {
         // .plugin(tauri_plugin_updater::init())
         .invoke_handler(tauri::generate_handler![open_mic_settings])
         .run(tauri::generate_context!())
-        .expect("error while running LinguaForge");
+        .expect("error while running Forgua");
 }

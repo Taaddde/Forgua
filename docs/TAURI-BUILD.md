@@ -1,6 +1,6 @@
-# Building LinguaForge Desktop
+# Building Forgua Desktop
 
-LinguaForge ships as both a PWA and a native desktop app via [Tauri 2.0](https://v2.tauri.app/).
+Forgua ships as both a PWA and a native desktop app via [Tauri 2.0](https://v2.tauri.app/).
 
 ## Prerequisites
 

@@ -1,11 +1,11 @@
 ---
 name: phase-tracker
-description: "Track LinguaForge project progress across implementation phases. Use when the user asks about project status, what's done, what's next, phase progress, roadmap status, or 'where are we'. Also trigger on 'what phase are we in', 'what's left to do', 'next steps', or 'project status'."
+description: "Track Forgua project progress across implementation phases. Use when the user asks about project status, what's done, what's next, phase progress, roadmap status, or 'where are we'. Also trigger on 'what phase are we in', 'what's left to do', 'next steps', or 'project status'."
 ---
 
 # Phase Tracker
 
-Reports the current state of LinguaForge's implementation and identifies next steps.
+Reports the current state of Forgua's implementation and identifies next steps.
 
 ## How to assess current state
 
@@ -97,7 +97,7 @@ Read key files to determine what's implemented vs. stubbed:
 ## Report format
 
 ```
-📊 LinguaForge Project Status
+📊 Forgua Project Status
 
 Current Phase: Fase X — [Name]
 Overall Progress: XX%

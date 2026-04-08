@@ -63,9 +63,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tagName: ${{ github.ref_name }}
-          releaseName: LinguaForge ${{ github.ref_name }}
+          releaseName: Forgua ${{ github.ref_name }}
           releaseBody: |
-            See [CHANGELOG.md](https://github.com/taaddde/LinguaForge/blob/master/CHANGELOG.md) for release notes.
+            See [CHANGELOG.md](https://github.com/taaddde/Forgua/blob/master/CHANGELOG.md) for release notes.
 
             ### Downloads
             Pick the right file for your platform below.

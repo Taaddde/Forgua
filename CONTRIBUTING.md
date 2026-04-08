@@ -1,6 +1,6 @@
-# Contributing to LinguaForge
+# Contributing to Forgua
 
-Thank you for your interest in contributing to LinguaForge. This guide covers everything you need to get started.
+Thank you for your interest in contributing to Forgua. This guide covers everything you need to get started.
 
 ## Prerequisites
 
@@ -11,8 +11,8 @@ Thank you for your interest in contributing to LinguaForge. This guide covers ev
 ## Setup
 
 ```bash
-git clone https://github.com/taaddde/LinguaForge.git
-cd LinguaForge
+git clone https://github.com/taaddde/Forgua.git
+cd Forgua
 npm install
 npm run dev
 ```

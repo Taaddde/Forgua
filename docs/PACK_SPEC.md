@@ -1,6 +1,6 @@
 # Language Pack Specification
 
-This document defines the structure, schemas, and rules for LinguaForge Language Packs. A Language Pack is a collection of JSON files that provides all the content needed to learn a language -- vocabulary, grammar, characters, readings, roadmaps, and resources.
+This document defines the structure, schemas, and rules for Forgua Language Packs. A Language Pack is a collection of JSON files that provides all the content needed to learn a language -- vocabulary, grammar, characters, readings, roadmaps, and resources.
 
 **No code required.** Pack contributors only write JSON.
 
@@ -87,7 +87,7 @@ The `manifest.json` file is the heart of every pack. It declares the pack's iden
   "version": "1.0.0",
 
   // Required -- at least one author
-  "authors": ["LinguaForge Team"],
+  "authors": ["Forgua Team"],
 
   // Required -- license identifier
   "license": "MIT",

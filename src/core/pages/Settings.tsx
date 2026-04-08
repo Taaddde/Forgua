@@ -37,7 +37,7 @@ export function Settings() {
     try {
       const data = await exportUserData();
       const date = new Date().toISOString().split('T')[0];
-      downloadBackup(data, `linguaforge-backup-${date}.json`);
+      downloadBackup(data, `forgua-backup-${date}.json`);
       setFeedback({ type: 'success', message: t('backup.exportSuccess') });
     } catch {
       setFeedback({ type: 'error', message: 'Export failed' });
@@ -167,7 +167,7 @@ export function Settings() {
           <h2 className="text-sm font-semibold text-slate-400 uppercase tracking-wider">{t('settings.about')}</h2>
         </div>
         <div className="px-4 py-3 rounded-lg bg-slate-900 border border-slate-800 space-y-1">
-          <p className="text-sm text-slate-300">LinguaForge v{APP_VERSION}</p>
+          <p className="text-sm text-slate-300">Forgua v{APP_VERSION}</p>
           <p className="text-xs text-slate-500">{t('settings.platform')}: {getPlatform() === 'tauri' ? t('settings.desktopApp') : getPlatform() === 'pwa' ? t('settings.installedPwa') : t('settings.browserMode')}</p>
           <p className="text-xs text-slate-500">Open source language learning engine. MIT License.</p>
         </div>

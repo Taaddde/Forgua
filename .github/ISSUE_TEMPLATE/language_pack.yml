@@ -1,0 +1,49 @@
+name: New Language Pack
+description: Propose or submit a new Language Pack
+labels: [language-pack]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Interested in contributing a Language Pack? Check [PACK_SPEC.md](https://github.com/taaddde/LinguaForge/blob/master/docs/PACK_SPEC.md) first.
+
+  - type: input
+    id: language
+    attributes:
+      label: Language
+      placeholder: e.g. Mandarin Chinese, Korean, Spanish
+    validations:
+      required: true
+
+  - type: input
+    id: levels
+    attributes:
+      label: Levels or curriculum
+      placeholder: e.g. HSK 1-3, TOPIK I, CEFR A1-B1
+    validations:
+      required: true
+
+  - type: textarea
+    id: content
+    attributes:
+      label: Planned content
+      description: What vocabulary, grammar, characters, or readings will the pack include?
+    validations:
+      required: true
+
+  - type: dropdown
+    id: status
+    attributes:
+      label: Current status
+      options:
+        - Just an idea
+        - In progress
+        - Ready to submit
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Data sources, licensing information, or anything else relevant.

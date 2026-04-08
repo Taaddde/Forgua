@@ -1,7 +1,32 @@
 {
   "name": "linguaforge",
-  "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
+  "description": "Open source language learning engine specialized in CJK. Spaced repetition, 10+ exercise types, Language Packs in pure JSON. PWA + desktop via Tauri.",
+  "license": "MIT",
+  "author": "Tadeo Rosochacki <taaddde@users.noreply.github.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taaddde/LinguaForge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/taaddde/LinguaForge/issues"
+  },
+  "homepage": "https://taaddde.github.io/LinguaForge",
+  "keywords": [
+    "language-learning",
+    "spaced-repetition",
+    "japanese",
+    "cjk",
+    "react",
+    "tauri",
+    "pwa",
+    "open-source",
+    "education",
+    "flashcards",
+    "anki",
+    "srs"
+  ],
+  "private": false,
   "type": "module",
   "scripts": {
     "dev": "vite",

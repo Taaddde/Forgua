@@ -27,7 +27,10 @@ dist-ssr
 .claude/settings.json
 .claude/settings.local.json
 
-docs
+# Internal docs (prompts, design artifacts, planning files)
+docs/FASE-*.md
+docs/compass_artifact_*.md
+docs/linguaforge-v3-definitivo.docx
 
 # Tauri
 src-tauri/target/

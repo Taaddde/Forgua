@@ -52,7 +52,7 @@ public/              Static assets
 
 ### 1. Create a Language Pack
 
-The highest-impact contribution. You do not need to write any TypeScript -- Language Packs are pure JSON. See [PACK_SPEC.md](PACK_SPEC.md) for the full specification.
+The highest-impact contribution. You do not need to write any TypeScript -- Language Packs are pure JSON. See [PACK_SPEC.md](docs/PACK_SPEC.md) for the full specification.
 
 Example packs we would love to see: Mandarin Chinese, Korean, Spanish, French, German, Italian, Portuguese, Russian, Arabic, Hindi.
 
@@ -209,4 +209,4 @@ Be respectful, constructive, and inclusive. We are building a learning tool -- t
 
 ## License
 
-By contributing, you agree that your contributions will be licensed under the [MIT License](../LICENSE).
+By contributing, you agree that your contributions will be licensed under the [MIT License](LICENSE).

@@ -1,0 +1,1064 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="LinguaForge — Free, open-source language learning engine with spaced repetition, CJK first-class support, and Language Packs in pure JSON. 100% offline. PWA + desktop app." />
+  <meta property="og:title" content="LinguaForge — Open-Source Language Learning Engine" />
+  <meta property="og:description" content="What Anki should have been for CJK languages. Free, offline, extensible via Language Packs in JSON." />
+  <meta property="og:type" content="website" />
+  <title>LinguaForge — Open-Source Language Learning Engine</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:        #0d1117;
+      --surface:   #161b22;
+      --surface2:  #21262d;
+      --border:    #30363d;
+      --text:      #e6edf3;
+      --muted:     #8b949e;
+      --accent:    #58a6ff;
+      --accent-dim:#1a3558;
+      --green:     #3fb950;
+      --green-dim: #1a3a1e;
+      --orange:    #e3b341;
+      --purple:    #d2a8ff;
+      --purple-dim:#2d1a4a;
+      --red:       #f85149;
+      --radius:    10px;
+      --radius-sm: 6px;
+      --radius-lg: 14px;
+      --shadow:    0 1px 3px rgba(0,0,0,.5), 0 6px 20px rgba(0,0,0,.35);
+      --t:         0.18s ease;
+      --font: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+      --mono: 'SF Mono', 'Fira Code', 'Consolas', 'Liberation Mono', monospace;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font);
+      font-size: 16px;
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    /* ─── UTILITY ─────────────────────────────────────────── */
+    .container { max-width: 1100px; margin: 0 auto; padding: 0 1.5rem; }
+    .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; border: 0; }
+
+    .section-label {
+      display: inline-block;
+      font-size: .72rem;
+      font-weight: 700;
+      letter-spacing: .1em;
+      text-transform: uppercase;
+      color: var(--accent);
+      background: var(--accent-dim);
+      padding: .22rem .7rem;
+      border-radius: 20px;
+      margin-bottom: 1rem;
+    }
+    .section-title {
+      font-size: clamp(1.55rem, 4vw, 2.1rem);
+      font-weight: 700;
+      line-height: 1.25;
+      margin-bottom: .65rem;
+    }
+    .section-sub {
+      color: var(--muted);
+      font-size: 1rem;
+      max-width: 560px;
+      margin-bottom: 2.75rem;
+    }
+
+    /* ─── BUTTONS ─────────────────────────────────────────── */
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: .48rem;
+      padding: .62rem 1.35rem;
+      border-radius: var(--radius-sm);
+      font-size: .95rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all var(--t);
+      border: 1px solid transparent;
+      text-decoration: none;
+      white-space: nowrap;
+    }
+    .btn:hover { text-decoration: none; transform: translateY(-1px); }
+    .btn-primary { background: var(--accent); color: #0d1117; border-color: var(--accent); }
+    .btn-primary:hover { background: #79c0ff; border-color: #79c0ff; box-shadow: 0 0 0 3px rgba(88,166,255,.2); }
+    .btn-secondary { background: transparent; color: var(--text); border-color: var(--border); }
+    .btn-secondary:hover { background: var(--surface2); border-color: var(--muted); }
+    .btn-green { background: var(--green); color: #0d1117; border-color: var(--green); }
+    .btn-green:hover { background: #56d364; border-color: #56d364; }
+    .btn-red { background: #b91c1c; color: #fff; border-color: #b91c1c; }
+    .btn-red:hover { background: #dc2626; border-color: #dc2626; }
+    .btn-lg { padding: .78rem 1.75rem; font-size: 1rem; border-radius: var(--radius); }
+
+    /* ─── NAV ─────────────────────────────────────────────── */
+    nav {
+      position: sticky; top: 0; z-index: 100;
+      background: rgba(13,17,23,.92);
+      backdrop-filter: blur(14px);
+      border-bottom: 1px solid var(--border);
+      padding: 0 1.5rem;
+    }
+    .nav-inner {
+      max-width: 1100px; margin: 0 auto;
+      display: flex; align-items: center; justify-content: space-between;
+      height: 56px; gap: 1rem;
+    }
+    .nav-logo {
+      display: flex; align-items: center; gap: .55rem;
+      font-weight: 700; font-size: 1.05rem;
+      color: var(--text); text-decoration: none;
+    }
+    .nav-logo:hover { text-decoration: none; }
+    .nav-logo-mark {
+      width: 28px; height: 28px;
+      background: linear-gradient(135deg, var(--accent) 0%, #b569ff 100%);
+      border-radius: 7px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: .85rem; font-weight: 900; color: #fff;
+      flex-shrink: 0; line-height: 1;
+    }
+    .nav-links { display: flex; align-items: center; gap: .1rem; list-style: none; }
+    .nav-links a {
+      color: var(--muted); font-size: .875rem;
+      padding: .35rem .65rem; border-radius: var(--radius-sm);
+      transition: color var(--t), background var(--t);
+      text-decoration: none;
+    }
+    .nav-links a:hover { color: var(--text); background: var(--surface2); }
+    .nav-gh {
+      display: flex; align-items: center; gap: .4rem;
+      background: var(--surface2); border: 1px solid var(--border);
+      border-radius: var(--radius-sm); padding: .32rem .8rem;
+      color: var(--text) !important; font-size: .83rem; font-weight: 500;
+      transition: border-color var(--t), background var(--t);
+      text-decoration: none;
+    }
+    .nav-gh:hover { background: #2d333b; border-color: var(--muted); text-decoration: none !important; }
+
+    /* ─── HERO ────────────────────────────────────────────── */
+    .hero {
+      padding: 6rem 0 5rem;
+      position: relative; overflow: hidden;
+    }
+    .hero::before {
+      content: '';
+      position: absolute; inset: 0;
+      background:
+        radial-gradient(ellipse 65% 55% at 58% -5%, rgba(88,166,255,.1) 0%, transparent 65%),
+        radial-gradient(ellipse 40% 40% at 15% 90%, rgba(181,105,255,.07) 0%, transparent 60%);
+      pointer-events: none;
+    }
+    .hero-inner {
+      max-width: 1100px; margin: 0 auto; padding: 0 1.5rem;
+      display: grid; grid-template-columns: 1fr auto;
+      gap: 2.5rem; align-items: center;
+    }
+    .hero-badge {
+      display: inline-flex; align-items: center; gap: .5rem;
+      background: var(--surface); border: 1px solid var(--border);
+      border-radius: 20px; padding: .25rem .9rem;
+      font-size: .78rem; color: var(--muted); margin-bottom: 1.5rem;
+    }
+    .hero-badge .dot { display: inline-block; width: 7px; height: 7px; background: var(--green); border-radius: 50%; }
+    .hero-badge strong { color: var(--green); font-weight: 700; }
+    .hero-title {
+      font-size: clamp(2rem, 5.5vw, 3.35rem);
+      font-weight: 800; line-height: 1.15;
+      letter-spacing: -.025em;
+      margin-bottom: 1.2rem;
+    }
+    .hero-title .hl { color: var(--accent); }
+    .hero-desc {
+      font-size: 1.12rem; color: var(--muted);
+      max-width: 530px; margin-bottom: 2rem; line-height: 1.7;
+    }
+    .hero-cta { display: flex; gap: .85rem; flex-wrap: wrap; margin-bottom: 2.5rem; }
+    .hero-meta { display: flex; gap: 1.5rem; flex-wrap: wrap; }
+    .hero-meta-item {
+      display: flex; align-items: center; gap: .4rem;
+      font-size: .82rem; color: var(--muted);
+    }
+    .hero-meta-item .check { color: var(--green); }
+    .hero-kanji {
+      font-size: clamp(8rem, 14vw, 11rem);
+      font-weight: 900; line-height: 1;
+      color: transparent;
+      background: linear-gradient(160deg, rgba(88,166,255,.18), rgba(181,105,255,.12));
+      -webkit-background-clip: text; background-clip: text;
+      user-select: none; pointer-events: none;
+      letter-spacing: -.05em; flex-shrink: 0;
+    }
+    .hero-stats {
+      display: flex; gap: 2.5rem; flex-wrap: wrap;
+      margin-top: 3.5rem; padding-top: 2.5rem;
+      border-top: 1px solid var(--border);
+    }
+    .stat .stat-num { display: block; font-size: 1.75rem; font-weight: 800; }
+    .stat .stat-label { font-size: .75rem; color: var(--muted); text-transform: uppercase; letter-spacing: .07em; }
+
+    /* ─── SECTIONS ────────────────────────────────────────── */
+    section { padding: 5rem 0; }
+    section.alt { background: var(--surface); }
+
+    /* ─── FEATURES ────────────────────────────────────────── */
+    .features-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      gap: 1.15rem;
+    }
+    .feature-card {
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 1.5rem;
+      transition: border-color var(--t), box-shadow var(--t), transform var(--t);
+    }
+    .feature-card:hover {
+      border-color: var(--accent);
+      box-shadow: 0 0 0 1px var(--accent-dim), var(--shadow);
+      transform: translateY(-2px);
+    }
+    .feature-icon {
+      width: 42px; height: 42px;
+      border-radius: var(--radius-sm);
+      display: flex; align-items: center; justify-content: center;
+      margin-bottom: .95rem; flex-shrink: 0;
+    }
+    .fi-blue   { background: rgba(88,166,255,.14);  color: var(--accent); }
+    .fi-green  { background: rgba(63,185,80,.12);   color: var(--green); }
+    .fi-purple { background: rgba(210,168,255,.12); color: var(--purple); }
+    .fi-orange { background: rgba(227,179,65,.12);  color: var(--orange); }
+    .feature-title { font-size: .97rem; font-weight: 700; margin-bottom: .38rem; }
+    .feature-desc  { font-size: .875rem; color: var(--muted); line-height: 1.55; }
+
+    /* ─── DOWNLOADS ───────────────────────────────────────── */
+    .dl-meta { display: flex; align-items: center; gap: .85rem; margin-bottom: 2rem; flex-wrap: wrap; }
+    .dl-version {
+      display: inline-flex; align-items: center; gap: .35rem;
+      background: var(--green-dim); border: 1px solid rgba(63,185,80,.3);
+      border-radius: 20px; padding: .22rem .82rem;
+      font-size: .82rem; font-weight: 700; color: var(--green);
+    }
+    .dl-date { font-size: .82rem; color: var(--muted); }
+
+    .dl-spinner {
+      display: flex; align-items: center; gap: .75rem;
+      padding: 2.5rem 0; color: var(--muted); font-size: .9rem;
+    }
+    .spinner {
+      width: 20px; height: 20px;
+      border: 2.5px solid var(--border); border-top-color: var(--accent);
+      border-radius: 50%; animation: spin .7s linear infinite; flex-shrink: 0;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .dl-error {
+      display: none;
+      padding: 1.2rem 1.5rem;
+      background: rgba(248,81,73,.07); border: 1px solid rgba(248,81,73,.25);
+      border-radius: var(--radius); color: var(--red); font-size: .9rem;
+    }
+
+    .dl-grid {
+      display: none;
+      grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+      gap: 1rem;
+    }
+    .dl-card {
+      display: flex; align-items: center; gap: .9rem;
+      background: var(--bg); border: 1px solid var(--border);
+      border-radius: var(--radius); padding: 1.1rem 1.25rem;
+      color: var(--text); text-decoration: none;
+      transition: border-color var(--t), background var(--t);
+    }
+    .dl-card:hover { border-color: var(--accent); background: var(--surface2); text-decoration: none; }
+    .dl-card-icon {
+      width: 36px; height: 36px; flex-shrink: 0;
+      display: flex; align-items: center; justify-content: center;
+      background: var(--surface2); border-radius: var(--radius-sm);
+      color: var(--muted);
+    }
+    .dl-card-info { flex: 1; min-width: 0; }
+    .dl-card-label { font-size: .92rem; font-weight: 600; }
+    .dl-card-sub   { font-size: .78rem; color: var(--muted); margin-top: .1rem; }
+    .dl-card-size  { font-size: .75rem; font-weight: 700; color: var(--accent); white-space: nowrap; }
+    .dl-card-arrow { color: var(--border); flex-shrink: 0; transition: color var(--t); }
+    .dl-card:hover .dl-card-arrow { color: var(--accent); }
+
+    .dl-pwa-note {
+      margin-top: 1.75rem; padding-top: 1.5rem;
+      border-top: 1px solid var(--border);
+      font-size: .875rem; color: var(--muted);
+    }
+
+    /* ─── LANGUAGE PACKS ──────────────────────────────────── */
+    .packs-table {
+      width: 100%; border-collapse: collapse; font-size: .9rem;
+    }
+    .packs-table th {
+      text-align: left; padding: .75rem 1rem;
+      border-bottom: 1px solid var(--border);
+      color: var(--muted); font-size: .75rem;
+      text-transform: uppercase; letter-spacing: .07em;
+    }
+    .packs-table td { padding: .95rem 1rem; border-bottom: 1px solid var(--border); vertical-align: top; }
+    .packs-table tbody tr:last-child td { border-bottom: none; }
+    .packs-table tbody tr { transition: background var(--t); }
+    .packs-table tbody tr:hover { background: var(--surface2); }
+    .pack-name   { font-weight: 700; display: block; margin-bottom: .15rem; }
+    .pack-native { color: var(--muted); font-size: .85rem; }
+    .status-badge {
+      display: inline-block; padding: .18rem .6rem;
+      border-radius: 20px; font-size: .73rem; font-weight: 700;
+    }
+    .s-complete { background: rgba(63,185,80,.14); color: var(--green); border: 1px solid rgba(63,185,80,.25); }
+    .s-planned  { background: rgba(139,148,158,.12); color: var(--muted); border: 1px solid rgba(139,148,158,.2); }
+    .s-wanted   { background: rgba(227,179,65,.1); color: var(--orange); border: 1px solid rgba(227,179,65,.2); }
+    .pack-contribute {
+      margin-top: 1.75rem; padding: 1.75rem;
+      background: var(--surface2); border: 1px dashed var(--border);
+      border-radius: var(--radius); text-align: center;
+      color: var(--muted); font-size: .9rem;
+    }
+    .pack-contribute strong { color: var(--text); }
+
+    /* ─── HOW IT WORKS ────────────────────────────────────── */
+    .steps {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 2rem; position: relative;
+    }
+    .steps::before {
+      content: '';
+      position: absolute; top: 25px;
+      left: calc(100% / 6); right: calc(100% / 6);
+      height: 1px;
+      background: linear-gradient(90deg, transparent, var(--border), transparent);
+    }
+    .step { display: flex; flex-direction: column; align-items: center; text-align: center; padding: 0 1rem; }
+    .step-num {
+      width: 50px; height: 50px; border-radius: 50%;
+      background: var(--accent-dim); border: 2px solid var(--accent);
+      display: flex; align-items: center; justify-content: center;
+      font-size: 1.15rem; font-weight: 800; color: var(--accent);
+      margin-bottom: 1.25rem; position: relative; z-index: 1; flex-shrink: 0;
+    }
+    .step-title { font-size: .97rem; font-weight: 700; margin-bottom: .45rem; }
+    .step-desc  { font-size: .875rem; color: var(--muted); line-height: 1.55; }
+
+    /* ─── CONTRIBUTE ──────────────────────────────────────── */
+    .contribute-layout {
+      display: grid; grid-template-columns: 1fr 1.05fr;
+      gap: 3.5rem; align-items: start;
+    }
+    .contribute-cards {
+      display: grid; grid-template-columns: 1fr 1fr; gap: .85rem;
+    }
+    .c-card {
+      background: var(--surface2); border: 1px solid var(--border);
+      border-radius: var(--radius); padding: 1.25rem;
+      transition: border-color var(--t);
+    }
+    .c-card:hover { border-color: var(--accent); }
+    .c-num {
+      width: 30px; height: 30px;
+      background: var(--accent-dim); border: 1px solid rgba(88,166,255,.3);
+      border-radius: 50%; display: flex; align-items: center; justify-content: center;
+      font-weight: 800; font-size: .82rem; color: var(--accent);
+      margin-bottom: .8rem;
+    }
+    .c-title { font-weight: 700; font-size: .9rem; margin-bottom: .35rem; }
+    .c-desc  { color: var(--muted); font-size: .82rem; line-height: 1.5; }
+
+    .code-block {
+      background: var(--bg); border: 1px solid var(--border);
+      border-radius: var(--radius); overflow: hidden; box-shadow: var(--shadow);
+    }
+    .code-header {
+      background: var(--surface2); border-bottom: 1px solid var(--border);
+      padding: .55rem 1rem; display: flex; align-items: center; gap: .5rem;
+    }
+    .code-dots { display: flex; gap: .35rem; }
+    .code-dot { width: 10px; height: 10px; border-radius: 50%; }
+    .code-dot:nth-child(1) { background: #ff5f57; }
+    .code-dot:nth-child(2) { background: #febc2e; }
+    .code-dot:nth-child(3) { background: #28c840; }
+    .code-fname { font-size: .78rem; color: var(--muted); margin-left: .25rem; }
+    .code-body  { padding: 1.25rem 1.5rem; overflow-x: auto; }
+    .code-body code {
+      font-family: var(--mono); font-size: .8rem; line-height: 1.7;
+      white-space: pre; color: var(--text);
+    }
+    .tk  { color: #79c0ff; }  /* key */
+    .ts  { color: #a5d6ff; }  /* string */
+    .tn  { color: #f2cc60; }  /* number */
+    .tc  { color: var(--muted); font-style: italic; } /* comment */
+
+    .contribute-links { margin-top: 2rem; display: flex; flex-direction: column; gap: .65rem; }
+    .c-link {
+      display: flex; align-items: center; gap: .65rem;
+      padding: .75rem 1rem; background: var(--surface2);
+      border: 1px solid var(--border); border-radius: var(--radius-sm);
+      color: var(--text); font-size: .875rem; font-weight: 500;
+      transition: border-color var(--t), background var(--t); text-decoration: none;
+    }
+    .c-link:hover { border-color: var(--accent); background: var(--accent-dim); text-decoration: none; }
+    .c-link svg { color: var(--accent); flex-shrink: 0; }
+
+    /* ─── TECH STACK ──────────────────────────────────────── */
+    .stack-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(155px, 1fr));
+      gap: .75rem;
+    }
+    .stack-item {
+      background: var(--bg); border: 1px solid var(--border);
+      border-radius: var(--radius-sm); padding: .85rem 1rem;
+      transition: border-color var(--t);
+    }
+    .stack-item:hover { border-color: var(--accent); }
+    .stack-layer { font-size: .7rem; color: var(--muted); text-transform: uppercase; letter-spacing: .07em; margin-bottom: .18rem; }
+    .stack-name  { font-size: .88rem; font-weight: 600; }
+
+    /* ─── SUPPORT ─────────────────────────────────────────── */
+    .support-box {
+      max-width: 580px; margin: 0 auto; text-align: center;
+      padding: 3rem 2rem;
+      background: linear-gradient(135deg, rgba(88,166,255,.06), rgba(181,105,255,.06));
+      border: 1px solid rgba(88,166,255,.2); border-radius: var(--radius-lg);
+    }
+    .support-emoji { font-size: 2.5rem; display: block; margin-bottom: 1rem; line-height: 1; }
+    .support-title { font-size: 1.45rem; font-weight: 700; margin-bottom: .65rem; }
+    .support-desc  { color: var(--muted); font-size: .95rem; margin-bottom: 2rem; }
+    .support-btns  { display: flex; justify-content: center; gap: .85rem; flex-wrap: wrap; }
+
+    /* ─── FOOTER ──────────────────────────────────────────── */
+    footer { background: var(--surface); border-top: 1px solid var(--border); padding: 3rem 0 2rem; }
+    .footer-inner {
+      max-width: 1100px; margin: 0 auto; padding: 0 1.5rem;
+      display: grid; grid-template-columns: 1.5fr 1fr 1fr; gap: 2.5rem;
+    }
+    .footer-logo {
+      display: flex; align-items: center; gap: .5rem;
+      font-weight: 700; font-size: .97rem; color: var(--text);
+      margin-bottom: .85rem; text-decoration: none;
+    }
+    .footer-logo:hover { text-decoration: none; }
+    .footer-desc { font-size: .855rem; color: var(--muted); line-height: 1.6; margin-bottom: .9rem; }
+    .footer-badge {
+      display: inline-flex; align-items: center; gap: .35rem;
+      font-size: .75rem; color: var(--muted);
+      background: var(--surface2); border: 1px solid var(--border);
+      border-radius: 4px; padding: .18rem .6rem;
+    }
+    .footer-col-title { font-size: .75rem; font-weight: 700; text-transform: uppercase; letter-spacing: .09em; color: var(--muted); margin-bottom: .85rem; }
+    .footer-links { list-style: none; display: flex; flex-direction: column; gap: .45rem; }
+    .footer-links a { font-size: .855rem; color: var(--muted); transition: color var(--t); }
+    .footer-links a:hover { color: var(--text); text-decoration: none; }
+    .footer-bottom {
+      max-width: 1100px; margin: 2rem auto 0; padding: 1.25rem 1.5rem 0;
+      border-top: 1px solid var(--border);
+      display: flex; justify-content: space-between; align-items: center;
+      flex-wrap: wrap; gap: .75rem;
+      font-size: .8rem; color: var(--muted);
+    }
+    .footer-bottom a { color: var(--muted); }
+    .footer-bottom a:hover { color: var(--text); text-decoration: none; }
+
+    /* ─── RESPONSIVE ──────────────────────────────────────── */
+    @media (max-width: 900px) {
+      .contribute-layout { grid-template-columns: 1fr; }
+      .footer-inner { grid-template-columns: 1fr 1fr; }
+    }
+    @media (max-width: 768px) {
+      section { padding: 3.5rem 0; }
+      .hero { padding: 4rem 0 3rem; }
+      .hero-inner { grid-template-columns: 1fr; }
+      .hero-kanji { display: none; }
+      .steps { grid-template-columns: 1fr; }
+      .steps::before { display: none; }
+      .contribute-cards { grid-template-columns: 1fr; }
+      nav .nav-links { display: none; }
+      .packs-table thead th:nth-child(3) { display: none; }
+      .packs-table tbody td:nth-child(3) { display: none; }
+    }
+    @media (max-width: 640px) {
+      .hero-cta { flex-direction: column; }
+      .hero-cta .btn { width: 100%; }
+      .footer-inner { grid-template-columns: 1fr; gap: 1.75rem; }
+      .support-box { padding: 2rem 1.25rem; }
+      .hero-stats { gap: 1.5rem; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ─── NAV ──────────────────────────────────────────────── -->
+<nav aria-label="Main navigation">
+  <div class="nav-inner">
+    <a class="nav-logo" href="#">
+      <div class="nav-logo-mark" aria-hidden="true">学</div>
+      LinguaForge
+    </a>
+    <ul class="nav-links" role="list">
+      <li><a href="#features">Features</a></li>
+      <li><a href="#downloads">Downloads</a></li>
+      <li><a href="#packs">Language Packs</a></li>
+      <li><a href="#contribute">Contribute</a></li>
+    </ul>
+    <a class="nav-gh" href="https://github.com/taaddde/LinguaForge" target="_blank" rel="noopener noreferrer">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+        <path d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z"/>
+      </svg>
+      GitHub
+    </a>
+  </div>
+</nav>
+
+<!-- ─── HERO ──────────────────────────────────────────────── -->
+<header class="hero">
+  <div class="hero-inner">
+    <div>
+      <div class="hero-badge">
+        <span class="dot" aria-hidden="true"></span>
+        <strong>Open Source</strong>&nbsp;·&nbsp;Free forever&nbsp;·&nbsp;100% Offline
+      </div>
+      <h1 class="hero-title">
+        What Anki<br>should have been<br>for <span class="hl">CJK languages</span>.
+      </h1>
+      <p class="hero-desc">
+        LinguaForge is a free, open-source language learning engine with spaced repetition, furigana, pitch accent, kana input, and morphological tokenization — all built in. No account. No server. No subscription.
+      </p>
+      <div class="hero-cta">
+        <a class="btn btn-primary btn-lg" href="#downloads">
+          <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4M7 10l5 5 5-5M12 15V3"/>
+          </svg>
+          Download
+        </a>
+        <a class="btn btn-secondary btn-lg" href="https://github.com/taaddde/LinguaForge" target="_blank" rel="noopener noreferrer">
+          <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+            <path d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z"/>
+          </svg>
+          View on GitHub
+        </a>
+      </div>
+      <div class="hero-meta">
+        <div class="hero-meta-item">
+          <svg class="check" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg>
+          Spaced repetition (SM-2)
+        </div>
+        <div class="hero-meta-item">
+          <svg class="check" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg>
+          10+ exercise types
+        </div>
+        <div class="hero-meta-item">
+          <svg class="check" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg>
+          PWA + Desktop (Tauri)
+        </div>
+      </div>
+      <div class="hero-stats">
+        <div class="stat">
+          <span class="stat-num">10+</span>
+          <span class="stat-label">Exercise Types</span>
+        </div>
+        <div class="stat">
+          <span class="stat-num">N5–N3</span>
+          <span class="stat-label">JLPT Coverage</span>
+        </div>
+        <div class="stat">
+          <span class="stat-num">100%</span>
+          <span class="stat-label">Offline</span>
+        </div>
+        <div class="stat">
+          <span class="stat-num">Free</span>
+          <span class="stat-label">Forever</span>
+        </div>
+      </div>
+    </div>
+    <div class="hero-kanji" aria-hidden="true">学</div>
+  </div>
+</header>
+
+<!-- ─── FEATURES ──────────────────────────────────────────── -->
+<section id="features" class="alt">
+  <div class="container">
+    <div class="section-label">Features</div>
+    <h2 class="section-title">Built for serious language learners</h2>
+    <p class="section-sub">Every feature is designed for long-term retention, not gamification.</p>
+    <div class="features-grid">
+
+      <div class="feature-card">
+        <div class="feature-icon fi-blue">
+          <svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/>
+          </svg>
+        </div>
+        <div class="feature-title">Spaced Repetition (SM-2)</div>
+        <p class="feature-desc">Battle-tested SuperMemo 2 algorithm schedules reviews at the optimal moment. Four-button grading (Again / Hard / Good / Easy) matches how memory actually works.</p>
+      </div>
+
+      <div class="feature-card">
+        <div class="feature-icon fi-green">
+          <svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/>
+            <rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/>
+          </svg>
+        </div>
+        <div class="feature-title">10+ Exercise Types</div>
+        <p class="feature-desc">Flashcards, multiple choice, fill-in-the-blank, dictation, drag-to-reorder, matching, write answer, sentence build, read aloud, and speech recognition.</p>
+      </div>
+
+      <div class="feature-card">
+        <div class="feature-icon fi-purple">
+          <svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M4 7h16M4 12h10M4 17h12"/><circle cx="20" cy="17" r="2"/>
+          </svg>
+        </div>
+        <div class="feature-title">CJK First-Class Support</div>
+        <p class="feature-desc">Furigana annotations, pitch accent visualization, romaji-to-kana input conversion, morphological tokenization, and stroke order data — built in, not bolted on.</p>
+      </div>
+
+      <div class="feature-card">
+        <div class="feature-icon fi-orange">
+          <svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z"/>
+            <polyline points="14 2 14 8 20 8"/>
+            <line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/>
+          </svg>
+        </div>
+        <div class="feature-title">Language Packs in JSON</div>
+        <p class="feature-desc">Content is pure JSON — no TypeScript required. Community contributors create and share packs using a simple, well-documented schema validated with Zod.</p>
+      </div>
+
+      <div class="feature-card">
+        <div class="feature-icon fi-blue">
+          <svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <line x1="1" y1="1" x2="23" y2="23"/><path d="M16.72 11.06A10.94 10.94 0 0119 12.55M5 19a11 11 0 0114-14M10.71 5.05A16 16 0 0122.56 9M1.42 9a16 16 0 0121.15 5.08M5.53 17.27L2 22"/><path d="M10.45 18.12A5 5 0 0115 13.6M8.5 10.5A5 5 0 0112.6 9"/>
+          </svg>
+        </div>
+        <div class="feature-title">100% Offline</div>
+        <p class="feature-desc">All data lives in IndexedDB on your device. No account, no sync server, no tracking. Works on planes, in the mountains, or anywhere without internet.</p>
+      </div>
+
+      <div class="feature-card">
+        <div class="feature-icon fi-green">
+          <svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/>
+          </svg>
+        </div>
+        <div class="feature-title">PWA + Desktop App</div>
+        <p class="feature-desc">Install directly from your browser as a Progressive Web App, or download native binaries for macOS, Windows, and Linux via Tauri 2.0. One codebase, every platform.</p>
+      </div>
+
+      <div class="feature-card">
+        <div class="feature-icon fi-purple">
+          <svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/>
+          </svg>
+        </div>
+        <div class="feature-title">Progress Tracking</div>
+        <p class="feature-desc">Charts, daily streaks, accuracy per category, and full study session history. Know exactly where you stand and what needs more attention.</p>
+      </div>
+
+      <div class="feature-card">
+        <div class="feature-icon fi-orange">
+          <svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M12 1a3 3 0 00-3 3v8a3 3 0 006 0V4a3 3 0 00-3-3z"/><path d="M19 10v2a7 7 0 01-14 0v-2M12 19v4M8 23h8"/>
+          </svg>
+        </div>
+        <div class="feature-title">Audio &amp; Speech</div>
+        <p class="feature-desc">Text-to-speech playback and browser-based speech recognition for pronunciation practice. Works without any additional software.</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ─── DOWNLOADS ─────────────────────────────────────────── -->
+<section id="downloads">
+  <div class="container">
+    <div class="section-label">Downloads</div>
+    <h2 class="section-title">Get LinguaForge</h2>
+    <p class="section-sub">Native desktop app for macOS, Windows, and Linux — or install as a PWA right from your browser.</p>
+
+    <div class="dl-meta" id="dl-meta" style="display:none;">
+      <div class="dl-version">
+        <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg>
+        <span id="dl-version-text">v0.0.0</span>
+      </div>
+      <span class="dl-date" id="dl-date"></span>
+    </div>
+
+    <div class="dl-spinner" id="dl-spinner">
+      <div class="spinner" role="status" aria-label="Loading"></div>
+      Fetching latest release from GitHub…
+    </div>
+
+    <div class="dl-error" id="dl-error" role="alert">
+      <strong>Could not load release data.</strong><br>
+      <a href="https://github.com/taaddde/LinguaForge/releases" target="_blank" rel="noopener">View all releases on GitHub &rarr;</a>
+    </div>
+
+    <div class="dl-grid" id="dl-grid" aria-label="Platform download links"></div>
+
+    <p class="dl-pwa-note">
+      You can also
+      <a href="https://taaddde.github.io/LinguaForge" target="_blank" rel="noopener">open the app in your browser</a>
+      and click "Install" to add it as a Progressive Web App — no download required.
+      &nbsp;&middot;&nbsp;
+      <a href="https://github.com/taaddde/LinguaForge/releases" target="_blank" rel="noopener">All releases &rarr;</a>
+    </p>
+  </div>
+</section>
+
+<!-- ─── LANGUAGE PACKS ────────────────────────────────────── -->
+<section id="packs" class="alt">
+  <div class="container">
+    <div class="section-label">Language Packs</div>
+    <h2 class="section-title">Study any language, any level</h2>
+    <p class="section-sub">Community-driven content in pure JSON. No code needed to contribute a new pack.</p>
+    <table class="packs-table">
+      <thead>
+        <tr>
+          <th scope="col">Language</th>
+          <th scope="col">Curriculum</th>
+          <th scope="col">Included content</th>
+          <th scope="col">Status</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><span class="pack-name">Japanese</span><span class="pack-native">日本語</span></td>
+          <td>JLPT N5, N4, N3</td>
+          <td>Vocabulary, grammar, kanji, kana, readings, guided lessons</td>
+          <td><span class="status-badge s-complete">Complete</span></td>
+        </tr>
+        <tr>
+          <td><span class="pack-name">Japanese</span><span class="pack-native">日本語</span></td>
+          <td>JLPT N2, N1</td>
+          <td>Vocabulary, grammar, kanji, readings</td>
+          <td><span class="status-badge s-planned">Planned</span></td>
+        </tr>
+        <tr>
+          <td><span class="pack-name">Mandarin Chinese</span><span class="pack-native">中文</span></td>
+          <td>HSK 1–6</td>
+          <td>—</td>
+          <td><span class="status-badge s-wanted">Wanted</span></td>
+        </tr>
+        <tr>
+          <td><span class="pack-name">Korean</span><span class="pack-native">한국어</span></td>
+          <td>TOPIK I &amp; II</td>
+          <td>—</td>
+          <td><span class="status-badge s-wanted">Wanted</span></td>
+        </tr>
+        <tr>
+          <td><span class="pack-name">Spanish, French, German…</span><span class="pack-native">Other languages</span></td>
+          <td>CEFR A1–C2</td>
+          <td>—</td>
+          <td><span class="status-badge s-wanted">Wanted</span></td>
+        </tr>
+      </tbody>
+    </table>
+    <div class="pack-contribute">
+      <strong>Want to add a language?</strong> Language Packs are pure JSON — no TypeScript needed.
+      Read the <a href="https://github.com/taaddde/LinguaForge/blob/master/docs/PACK_SPEC.md">Pack Specification</a> and open an issue to discuss your pack.
+    </div>
+  </div>
+</section>
+
+<!-- ─── HOW IT WORKS ──────────────────────────────────────── -->
+<section id="how">
+  <div class="container">
+    <div style="text-align:center; margin-bottom:3rem;">
+      <div class="section-label" style="display:inline-block;">How it works</div>
+      <h2 class="section-title">Up and running in three steps</h2>
+    </div>
+    <div class="steps">
+      <div class="step">
+        <div class="step-num" aria-hidden="true">1</div>
+        <div class="step-title">Install the app</div>
+        <p class="step-desc">Download the native binary for your OS, or open the web app and click "Install" to add it as a PWA. No account or login required.</p>
+      </div>
+      <div class="step">
+        <div class="step-num" aria-hidden="true">2</div>
+        <div class="step-title">Pick a Language Pack</div>
+        <p class="step-desc">Browse available packs and select your target language and level. The pack loads into IndexedDB — no internet needed after that.</p>
+      </div>
+      <div class="step">
+        <div class="step-num" aria-hidden="true">3</div>
+        <div class="step-title">Study with SRS</div>
+        <p class="step-desc">LinguaForge schedules your reviews with SM-2. Study daily, grade each card honestly, and watch your retention grow over months and years.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ─── CONTRIBUTE ────────────────────────────────────────── -->
+<section id="contribute" class="alt">
+  <div class="container">
+    <div class="contribute-layout">
+      <div>
+        <div class="section-label">Contribute</div>
+        <h2 class="section-title">Language Packs<br>are just JSON</h2>
+        <p class="section-sub">You don't need to know TypeScript or React. If you can write JSON, you can build a Language Pack for any language.</p>
+        <div class="contribute-cards">
+          <div class="c-card">
+            <div class="c-num">1</div>
+            <div class="c-title">Create a Language Pack</div>
+            <p class="c-desc">The highest-impact contribution. Edit JSON files — any language, any curriculum.</p>
+          </div>
+          <div class="c-card">
+            <div class="c-num">2</div>
+            <div class="c-title">Fix bugs or add features</div>
+            <p class="c-desc">Browse open issues, tackle a bug, or improve an exercise type.</p>
+          </div>
+          <div class="c-card">
+            <div class="c-num">3</div>
+            <div class="c-title">Translate the UI</div>
+            <p class="c-desc">Copy <code style="font-size:.8rem;">en.json</code>, translate the strings, open a PR. Currently: EN + ES.</p>
+          </div>
+          <div class="c-card">
+            <div class="c-num">4</div>
+            <div class="c-title">Star &amp; spread the word</div>
+            <p class="c-desc">Star the repo, share with language learners, or write about it online.</p>
+          </div>
+        </div>
+        <div class="contribute-links">
+          <a class="c-link" href="https://github.com/taaddde/LinguaForge/blob/master/docs/PACK_SPEC.md" target="_blank" rel="noopener noreferrer">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z"/><polyline points="14 2 14 8 20 8"/>
+            </svg>
+            Read PACK_SPEC.md
+          </a>
+          <a class="c-link" href="https://github.com/taaddde/LinguaForge/blob/master/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M17 21v-2a4 4 0 00-4-4H5a4 4 0 00-4 4v2"/><circle cx="9" cy="7" r="4"/>
+              <path d="M23 21v-2a4 4 0 00-3-3.87M16 3.13a4 4 0 010 7.75"/>
+            </svg>
+            Contributing Guide
+          </a>
+          <a class="c-link" href="https://github.com/taaddde/LinguaForge/issues" target="_blank" rel="noopener noreferrer">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <circle cx="12" cy="12" r="10"/>
+              <line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/>
+            </svg>
+            Open an Issue on GitHub
+          </a>
+        </div>
+      </div>
+
+      <div class="code-block">
+        <div class="code-header">
+          <div class="code-dots" aria-hidden="true">
+            <div class="code-dot"></div><div class="code-dot"></div><div class="code-dot"></div>
+          </div>
+          <span class="code-fname">vocabulary.json</span>
+        </div>
+        <div class="code-body">
+          <code><span class="tc">// A single vocabulary entry — that's all you need.</span>
+<span>{</span>
+  <span class="tk">"id"</span><span>:</span> <span class="ts">"水"</span><span>,</span>
+  <span class="tk">"level"</span><span>:</span> <span class="ts">"N5"</span><span>,</span>
+  <span class="tk">"characters"</span><span>:</span> <span class="ts">"水"</span><span>,</span>
+  <span class="tk">"readings"</span><span>:</span> <span>[</span><span class="ts">"みず"</span><span>,</span> <span class="ts">"すい"</span><span>]</span><span>,</span>
+  <span class="tk">"meaning"</span><span>:</span> <span class="ts">"water"</span><span>,</span>
+  <span class="tk">"pitch"</span><span>:</span> <span class="tn">1</span><span>,</span>
+  <span class="tk">"tags"</span><span>:</span> <span>[</span><span class="ts">"noun"</span><span>,</span> <span class="ts">"nature"</span><span>]</span><span>,</span>
+  <span class="tk">"examples"</span><span>:</span> <span>[</span>
+    <span>{</span>
+      <span class="tk">"sentence"</span><span>:</span> <span class="ts">"水を飲む"</span><span>,</span>
+      <span class="tk">"translation"</span><span>:</span> <span class="ts">"to drink water"</span>
+    <span>}</span>
+  <span>]</span>
+<span>}</span></code>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ─── TECH STACK ─────────────────────────────────────────── -->
+<section id="stack">
+  <div class="container">
+    <div class="section-label">Tech Stack</div>
+    <h2 class="section-title">Built with modern, open-source tools</h2>
+    <p class="section-sub">100% TypeScript strict mode. Zero proprietary dependencies.</p>
+    <div class="stack-grid">
+      <div class="stack-item"><div class="stack-layer">Framework</div><div class="stack-name">React 19</div></div>
+      <div class="stack-item"><div class="stack-layer">Language</div><div class="stack-name">TypeScript (strict)</div></div>
+      <div class="stack-item"><div class="stack-layer">Bundler</div><div class="stack-name">Vite 8</div></div>
+      <div class="stack-item"><div class="stack-layer">Desktop</div><div class="stack-name">Tauri 2.0</div></div>
+      <div class="stack-item"><div class="stack-layer">Styling</div><div class="stack-name">Tailwind CSS 4</div></div>
+      <div class="stack-item"><div class="stack-layer">State</div><div class="stack-name">Zustand 5</div></div>
+      <div class="stack-item"><div class="stack-layer">Database</div><div class="stack-name">Dexie.js 4</div></div>
+      <div class="stack-item"><div class="stack-layer">Routing</div><div class="stack-name">React Router v7</div></div>
+      <div class="stack-item"><div class="stack-layer">Validation</div><div class="stack-name">Zod 4</div></div>
+      <div class="stack-item"><div class="stack-layer">i18n</div><div class="stack-name">i18next</div></div>
+      <div class="stack-item"><div class="stack-layer">PWA</div><div class="stack-name">Workbox</div></div>
+      <div class="stack-item"><div class="stack-layer">Testing</div><div class="stack-name">Vitest + Playwright</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ─── SUPPORT ────────────────────────────────────────────── -->
+<section id="support" class="alt">
+  <div class="container">
+    <div class="support-box">
+      <span class="support-emoji" role="img" aria-label="Heart">❤️</span>
+      <h2 class="support-title">Support LinguaForge</h2>
+      <p class="support-desc">LinguaForge is free and will always be free. If it helps your language learning journey, consider sponsoring development to keep the project growing.</p>
+      <div class="support-btns">
+        <a class="btn btn-red btn-lg" href="https://github.com/sponsors/taaddde" target="_blank" rel="noopener noreferrer">
+          <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+            <path d="M12 21.593c-.585-.96-11.5-8.4-11.5-12.58C.5 4.52 4.032 2 7.5 2c1.95 0 3.81.78 5.22 2.145C14.2 2.78 16.05 2 18 2c3.47 0 7 2.52 7 7.013 0 4.18-10.915 11.62-11.5 12.58z"/>
+          </svg>
+          Sponsor on GitHub
+        </a>
+        <a class="btn btn-secondary btn-lg" href="https://github.com/taaddde/LinguaForge" target="_blank" rel="noopener noreferrer">
+          <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/>
+          </svg>
+          Star on GitHub
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ─── FOOTER ─────────────────────────────────────────────── -->
+<footer>
+  <div class="footer-inner">
+    <div>
+      <a class="footer-logo" href="#">
+        <div class="nav-logo-mark" aria-hidden="true" style="width:24px;height:24px;font-size:.78rem;">学</div>
+        LinguaForge
+      </a>
+      <p class="footer-desc">Free, open-source language learning engine with CJK first-class support. Built for long-term retention, not streaks.</p>
+      <div class="footer-badge">
+        <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <rect x="3" y="11" width="18" height="11" rx="2"/><path d="M7 11V7a5 5 0 0110 0v4"/>
+        </svg>
+        MIT License
+      </div>
+    </div>
+    <div>
+      <div class="footer-col-title">Project</div>
+      <ul class="footer-links">
+        <li><a href="https://github.com/taaddde/LinguaForge" target="_blank" rel="noopener">GitHub Repository</a></li>
+        <li><a href="https://github.com/taaddde/LinguaForge/releases" target="_blank" rel="noopener">Releases</a></li>
+        <li><a href="https://github.com/taaddde/LinguaForge/blob/master/CHANGELOG.md" target="_blank" rel="noopener">Changelog</a></li>
+        <li><a href="https://github.com/taaddde/LinguaForge/issues" target="_blank" rel="noopener">Issues</a></li>
+        <li><a href="https://github.com/taaddde/LinguaForge/blob/master/LICENSE" target="_blank" rel="noopener">MIT License</a></li>
+      </ul>
+    </div>
+    <div>
+      <div class="footer-col-title">Contribute</div>
+      <ul class="footer-links">
+        <li><a href="https://github.com/taaddde/LinguaForge/blob/master/docs/PACK_SPEC.md" target="_blank" rel="noopener">Pack Specification</a></li>
+        <li><a href="https://github.com/taaddde/LinguaForge/blob/master/CONTRIBUTING.md" target="_blank" rel="noopener">Contributing Guide</a></li>
+        <li><a href="https://github.com/taaddde/LinguaForge/blob/master/CODE_OF_CONDUCT.md" target="_blank" rel="noopener">Code of Conduct</a></li>
+        <li><a href="https://github.com/taaddde/LinguaForge/blob/master/SECURITY.md" target="_blank" rel="noopener">Security Policy</a></li>
+        <li><a href="https://github.com/sponsors/taaddde" target="_blank" rel="noopener">Sponsor</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <span>&copy; 2025 LinguaForge. Released under the <a href="https://github.com/taaddde/LinguaForge/blob/master/LICENSE">MIT License</a>.</span>
+    <span>Made with ❤️ by <a href="https://github.com/taaddde" target="_blank" rel="noopener">Tadeo Rosochacki</a> &nbsp;&middot;&nbsp; <a href="https://github.com/taaddde/LinguaForge" target="_blank" rel="noopener">taaddde/LinguaForge</a></span>
+  </div>
+</footer>
+
+<!-- ─── DOWNLOADS SCRIPT ───────────────────────────────────── -->
+<script>
+(async function loadDownloads() {
+  const spinner  = document.getElementById('dl-spinner');
+  const grid     = document.getElementById('dl-grid');
+  const errorBox = document.getElementById('dl-error');
+  const metaEl   = document.getElementById('dl-meta');
+  const verEl    = document.getElementById('dl-version-text');
+  const dateEl   = document.getElementById('dl-date');
+
+  // SVG icons as strings
+  const ICON_MAC = `<svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.8-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/></svg>`;
+  const ICON_WIN = `<svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M3 5.557L10.025 4.5l.003 6.997-7.022.04L3 5.557zm0 12.886l7.028 1.035V12.96L3 12.997l.003 5.446zm7.971 1.17L21 21V12.99l-10.029-.02v6.643zM21 3L10.975 4.516l.017 6.505L21 11.007V3z"/></svg>`;
+  const ICON_LNX = `<svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12.504 0c-.155 0-.315.008-.48.021C7.309.358 4.656 3.474 4.01 6.95 3.516 9.487 4.48 12.337 6.03 14.66l.13.192.128.19.124.184c.04.057.077.112.115.168l.108.158c.073.107.145.214.216.32l.207.307.198.293.104.152c.2.295.392.574.57.834.368.536.697 1.01.962 1.373.14.193.267.362.376.505l.21.277.12.159.031.04.014.017.009.01.003.004a.4.4 0 00.65-.465l-.003-.004-.009-.01-.013-.017-.03-.04-.117-.156-.206-.272-.37-.498c-.261-.355-.584-.826-.943-1.354-.173-.255-.36-.528-.553-.815l-.1-.147-.196-.29-.203-.302-.21-.311c-.069-.103-.138-.207-.208-.312l-.106-.158c-.036-.053-.072-.107-.108-.16l-.116-.173-.12-.178-.122-.182-.126-.189-.129-.194c-1.415-2.133-2.31-4.756-1.876-7.036.58-3.046 2.842-5.744 6.617-5.994a8.69 8.69 0 01.567-.019c1.975 0 3.843.776 5.167 2.027 1.386 1.306 2.18 3.107 2.18 5.062 0 1.617-.546 3.16-1.56 4.443a8.08 8.08 0 01-.527.607c-.1.103-.203.2-.31.294l-.324.279c-.56.463-1.204.85-1.912 1.135-.7.281-1.46.443-2.255.443-.9 0-1.758-.204-2.517-.578C8.27 14.86 7.76 14.41 7.34 13.87a.4.4 0 00-.63.492c.47.604 1.05 1.11 1.73 1.497.9.497 1.917.752 2.976.752.916 0 1.79-.185 2.597-.518.797-.328 1.524-.796 2.15-1.326l.356-.308c.12-.108.235-.22.345-.336.221-.23.427-.471.616-.72C18.4 12.18 19 10.47 19 8.656c0-2.222-.896-4.263-2.463-5.744A8.308 8.308 0 0012.504 0z"/></svg>`;
+  const ICON_DL  = `<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15v4a2 2 0 01-2 2H5a2 2 0 01-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg>`;
+
+  const PLATFORMS = [
+    { match: n => n.includes('aarch64') && n.includes('apple') && n.endsWith('.dmg'), icon: ICON_MAC, label: 'macOS', sub: 'Apple Silicon (M1 / M2 / M3)' },
+    { match: n => n.includes('x86_64') && n.includes('apple') && n.endsWith('.dmg'), icon: ICON_MAC, label: 'macOS', sub: 'Intel (x86_64)' },
+    { match: n => n.endsWith('.msi'),                                                  icon: ICON_WIN, label: 'Windows', sub: 'Installer (.msi) — recommended' },
+    { match: n => n.includes('setup') && n.endsWith('.exe'),                           icon: ICON_WIN, label: 'Windows', sub: 'Setup (.exe)' },
+    { match: n => n.endsWith('.deb'),                                                  icon: ICON_LNX, label: 'Linux', sub: 'Debian / Ubuntu (.deb)' },
+    { match: n => n.endsWith('.AppImage'),                                             icon: ICON_LNX, label: 'Linux', sub: 'AppImage (Universal)' },
+  ];
+
+  function fmtBytes(b) {
+    if (!b) return '';
+    return b < 1024 * 1024 ? (b / 1024).toFixed(0) + ' KB' : (b / (1024 * 1024)).toFixed(1) + ' MB';
+  }
+  function fmtDate(iso) {
+    try { return new Date(iso).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }); }
+    catch { return iso; }
+  }
+
+  try {
+    const res = await fetch('https://api.github.com/repos/taaddde/LinguaForge/releases/latest');
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const release = await res.json();
+    if (!release.tag_name) throw new Error('No tag_name in response');
+
+    verEl.textContent = release.tag_name;
+    dateEl.textContent = 'Released ' + fmtDate(release.published_at);
+    metaEl.style.display = 'flex';
+
+    const assets = release.assets || [];
+    const cards = [];
+
+    for (const platform of PLATFORMS) {
+      const asset = assets.find(a => platform.match(a.name.toLowerCase()));
+      if (!asset) continue;
+      const size = fmtBytes(asset.size);
+      cards.push(`<a class="dl-card" href="${asset.browser_download_url}" rel="noopener" download>
+        <div class="dl-card-icon">${platform.icon}</div>
+        <div class="dl-card-info">
+          <div class="dl-card-label">${platform.label}</div>
+          <div class="dl-card-sub">${platform.sub}</div>
+        </div>
+        ${size ? `<div class="dl-card-size">${size}</div>` : ''}
+        <div class="dl-card-arrow">${ICON_DL}</div>
+      </a>`);
+    }
+
+    if (cards.length === 0) throw new Error('No matching assets');
+
+    grid.innerHTML = cards.join('');
+    spinner.style.display = 'none';
+    grid.style.display = 'grid';
+
+  } catch (err) {
+    spinner.style.display = 'none';
+    errorBox.style.display = 'block';
+    console.warn('[LinguaForge] Release fetch failed:', err);
+  }
+})();
+</script>
+
+</body>
+</html>

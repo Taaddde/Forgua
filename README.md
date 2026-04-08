@@ -74,7 +74,7 @@ Want to add a language? See the [Pack Specification](docs/PACK_SPEC.md) and [Cre
 
 ## Contributing
 
-We welcome contributions of all kinds -- Language Packs, translations, bug fixes, and new features. See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for setup instructions and guidelines.
+We welcome contributions of all kinds -- Language Packs, translations, bug fixes, and new features. See [CONTRIBUTING.md](CONTRIBUTING.md) for setup instructions and guidelines.
 
 ## Browser Support
 

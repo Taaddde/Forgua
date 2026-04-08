@@ -238,7 +238,7 @@ export const LessonItemSchema = z.object({
 });
 
 export const LessonStepSchema = z.object({
-  type: z.enum(['introduce', 'recognize', 'recall', 'write', 'sentence-build', 'listen-identify', 'summary']),
+  type: z.enum(['introduce', 'recognize', 'recall', 'write', 'sentence-build', 'listen-identify', 'listen-transcribe', 'speak', 'summary']),
   title: z.string().optional(),
   instruction: z.string().optional(),
   itemIndices: z.array(z.number()),

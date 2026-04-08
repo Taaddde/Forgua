@@ -1,105 +1,191 @@
 /**
- * Validate all pack JSON files against Zod schemas.
- * Run with: npm run validate-pack
+ * Validate Language Pack JSON files against Zod schemas.
+ *
+ * Usage:
+ *   npm run validate-pack              # validate all packs in src/packs/
+ *   npm run validate-pack -- japanese  # validate a specific pack
+ *
+ * Discovers packs automatically — no changes needed when adding a new pack.
  */
 
+import { readdirSync, readFileSync, statSync, existsSync } from 'node:fs';
+import { join, relative, basename, resolve } from 'node:path';
+import { fileURLToPath } from 'node:url';
 import {
   validateManifest, validateVocabulary, validateGrammar,
-  validateCharacters, validateReadings, validateRoadmaps, validateResources,
+  validateCharacters, validateReadings, validateRoadmaps,
+  validateResources, validateLessonIndex, validateLesson,
 } from '../src/validation/pack-schema';
 
-// Japanese pack
-import manifest from '../src/packs/japanese/manifest.json';
-import vocabN5 from '../src/packs/japanese/vocabulary/n5.json';
-import vocabN4 from '../src/packs/japanese/vocabulary/n4.json';
-import vocabN3 from '../src/packs/japanese/vocabulary/n3.json';
-import vocabN2 from '../src/packs/japanese/vocabulary/n2.json';
-import vocabN1 from '../src/packs/japanese/vocabulary/n1.json';
-import grammarN5 from '../src/packs/japanese/grammar/n5.json';
-import grammarN4 from '../src/packs/japanese/grammar/n4.json';
-import grammarN3 from '../src/packs/japanese/grammar/n3.json';
-import grammarN2 from '../src/packs/japanese/grammar/n2.json';
-import grammarN1 from '../src/packs/japanese/grammar/n1.json';
-import hiragana from '../src/packs/japanese/characters/hiragana.json';
-import katakana from '../src/packs/japanese/characters/katakana.json';
-import kanjiN5 from '../src/packs/japanese/characters/kanji/n5.json';
-import kanjiN4 from '../src/packs/japanese/characters/kanji/n4.json';
-import kanjiN3 from '../src/packs/japanese/characters/kanji/n3.json';
-import kanjiN2 from '../src/packs/japanese/characters/kanji/n2.json';
-import kanjiN1 from '../src/packs/japanese/characters/kanji/n1.json';
-import readingsN5 from '../src/packs/japanese/readings/n5.json';
-import readingsN4 from '../src/packs/japanese/readings/n4.json';
-import readingsN3 from '../src/packs/japanese/readings/n3.json';
-import readingsN2 from '../src/packs/japanese/readings/n2.json';
-import readingsN1 from '../src/packs/japanese/readings/n1.json';
-import roadmaps from '../src/packs/japanese/roadmaps.json';
-import resources from '../src/packs/japanese/resources.json';
-
-// English pack
-import englishManifest from '../src/packs/english/manifest.json';
-import englishVocabA1 from '../src/packs/english/vocabulary/a1.json';
-import englishVocabA2 from '../src/packs/english/vocabulary/a2.json';
-import englishGrammarA1 from '../src/packs/english/grammar/a1.json';
-import englishGrammarA2 from '../src/packs/english/grammar/a2.json';
-import englishReadingsA1 from '../src/packs/english/readings/a1.json';
-import englishReadingsA2 from '../src/packs/english/readings/a2.json';
-import englishRoadmaps from '../src/packs/english/roadmaps.json';
-import englishResources from '../src/packs/english/resources.json';
+const __dirname = fileURLToPath(new URL('.', import.meta.url));
+const PACKS_DIR = resolve(__dirname, '../src/packs');
 
 let hasErrors = false;
+let totalChecked = 0;
+let totalPacks = 0;
 
-function check(name: string, result: { success: boolean; error?: unknown }) {
+// ── Helpers ────────────────────────────────────────────────────────────────
+
+function loadJSON(filePath: string): unknown {
+  return JSON.parse(readFileSync(filePath, 'utf-8'));
+}
+
+function entryCount(data: unknown): string {
+  return Array.isArray(data) ? `${data.length} entries` : '1 object';
+}
+
+function check(label: string, result: { success: boolean; error?: unknown }) {
+  totalChecked++;
   if (result.success) {
-    console.log(`✅ ${name}`);
+    console.log(`  ✅ ${label}`);
+    return;
+  }
+
+  console.error(`  ❌ ${label}`);
+  hasErrors = true;
+
+  const err = result.error as { issues?: Array<{ path: (string | number)[]; message: string }> };
+  if (err?.issues) {
+    const shown = err.issues.slice(0, 5);
+    for (const issue of shown) {
+      const path = issue.path.length ? issue.path.join('.') : '(root)';
+      console.error(`     → [${path}] ${issue.message}`);
+    }
+    if (err.issues.length > 5) {
+      console.error(`     … and ${err.issues.length - 5} more issue(s)`);
+    }
   } else {
-    console.error(`❌ ${name}:`, JSON.stringify(result.error, null, 2));
-    hasErrors = true;
+    console.error(JSON.stringify(err, null, 2));
   }
 }
 
-console.log('Validating Japanese pack...\n');
+/** Return all JSON files directly inside a directory (non-recursive). */
+function jsonFiles(dir: string): string[] {
+  if (!existsSync(dir)) return [];
+  return readdirSync(dir)
+    .map((f: string) => join(dir, f))
+    .filter((f: string) => statSync(f).isFile() && f.endsWith('.json'));
+}
 
-check('manifest.json', validateManifest(manifest));
-check(`vocabulary/n5.json (${(vocabN5 as unknown[]).length} entries)`, validateVocabulary(vocabN5));
-check(`vocabulary/n4.json (${(vocabN4 as unknown[]).length} entries)`, validateVocabulary(vocabN4));
-check(`vocabulary/n3.json (${(vocabN3 as unknown[]).length} entries)`, validateVocabulary(vocabN3));
-check(`vocabulary/n2.json (${(vocabN2 as unknown[]).length} entries)`, validateVocabulary(vocabN2));
-check(`vocabulary/n1.json (${(vocabN1 as unknown[]).length} entries)`, validateVocabulary(vocabN1));
-check(`grammar/n5.json (${(grammarN5 as unknown[]).length} entries)`, validateGrammar(grammarN5));
-check(`grammar/n4.json (${(grammarN4 as unknown[]).length} entries)`, validateGrammar(grammarN4));
-check(`grammar/n3.json (${(grammarN3 as unknown[]).length} entries)`, validateGrammar(grammarN3));
-check(`grammar/n2.json (${(grammarN2 as unknown[]).length} entries)`, validateGrammar(grammarN2));
-check(`grammar/n1.json (${(grammarN1 as unknown[]).length} entries)`, validateGrammar(grammarN1));
-check(`characters/hiragana.json (${(hiragana as unknown[]).length} entries)`, validateCharacters(hiragana));
-check(`characters/katakana.json (${(katakana as unknown[]).length} entries)`, validateCharacters(katakana));
-check(`characters/kanji/n5.json (${(kanjiN5 as unknown[]).length} entries)`, validateCharacters(kanjiN5));
-check(`characters/kanji/n4.json (${(kanjiN4 as unknown[]).length} entries)`, validateCharacters(kanjiN4));
-check(`characters/kanji/n3.json (${(kanjiN3 as unknown[]).length} entries)`, validateCharacters(kanjiN3));
-check(`characters/kanji/n2.json (${(kanjiN2 as unknown[]).length} entries)`, validateCharacters(kanjiN2));
-check(`characters/kanji/n1.json (${(kanjiN1 as unknown[]).length} entries)`, validateCharacters(kanjiN1));
-check(`readings/n5.json (${(readingsN5 as unknown[]).length} entries)`, validateReadings(readingsN5));
-check(`readings/n4.json (${(readingsN4 as unknown[]).length} entries)`, validateReadings(readingsN4));
-check(`readings/n3.json (${(readingsN3 as unknown[]).length} entries)`, validateReadings(readingsN3));
-check(`readings/n2.json (${(readingsN2 as unknown[]).length} entries)`, validateReadings(readingsN2));
-check(`readings/n1.json (${(readingsN1 as unknown[]).length} entries)`, validateReadings(readingsN1));
-check(`roadmaps.json (${(roadmaps as unknown[]).length} entries)`, validateRoadmaps(roadmaps));
-check(`resources.json (${(resources as unknown[]).length} entries)`, validateResources(resources));
+/** Return all JSON files inside a directory tree (recursive). */
+function jsonFilesRecursive(dir: string): string[] {
+  if (!existsSync(dir)) return [];
+  const results: string[] = [];
+  for (const entry of readdirSync(dir)) {
+    const full = join(dir, entry);
+    if (statSync(full).isDirectory()) {
+      results.push(...jsonFilesRecursive(full));
+    } else if (entry.endsWith('.json')) {
+      results.push(full);
+    }
+  }
+  return results;
+}
 
-console.log('\nValidating English pack...\n');
+// ── Per-pack validation ────────────────────────────────────────────────────
 
-check('english/manifest.json', validateManifest(englishManifest));
-check(`english/vocabulary/a1.json (${(englishVocabA1 as unknown[]).length} entries)`, validateVocabulary(englishVocabA1));
-check(`english/vocabulary/a2.json (${(englishVocabA2 as unknown[]).length} entries)`, validateVocabulary(englishVocabA2));
-check(`english/grammar/a1.json (${(englishGrammarA1 as unknown[]).length} entries)`, validateGrammar(englishGrammarA1));
-check(`english/grammar/a2.json (${(englishGrammarA2 as unknown[]).length} entries)`, validateGrammar(englishGrammarA2));
-check(`english/readings/a1.json (${(englishReadingsA1 as unknown[]).length} entries)`, validateReadings(englishReadingsA1));
-check(`english/readings/a2.json (${(englishReadingsA2 as unknown[]).length} entries)`, validateReadings(englishReadingsA2));
-check(`english/roadmaps.json (${(englishRoadmaps as unknown[]).length} entries)`, validateRoadmaps(englishRoadmaps));
-check(`english/resources.json (${(englishResources as unknown[]).length} entries)`, validateResources(englishResources));
+function validatePack(packDir: string) {
+  const packName = basename(packDir);
+  console.log(`\n📦  ${packName}\n${'─'.repeat(50)}`);
+  totalPacks++;
+
+  // manifest.json — required
+  const manifestPath = join(packDir, 'manifest.json');
+  if (!existsSync(manifestPath)) {
+    console.error('  ❌ manifest.json not found — skipping pack');
+    hasErrors = true;
+    return;
+  }
+  check('manifest.json', validateManifest(loadJSON(manifestPath)));
+
+  // vocabulary/*.json
+  for (const file of jsonFiles(join(packDir, 'vocabulary'))) {
+    const data = loadJSON(file);
+    check(`${relative(packDir, file)} (${entryCount(data)})`, validateVocabulary(data));
+  }
+
+  // grammar/*.json
+  for (const file of jsonFiles(join(packDir, 'grammar'))) {
+    const data = loadJSON(file);
+    check(`${relative(packDir, file)} (${entryCount(data)})`, validateGrammar(data));
+  }
+
+  // characters/**/*.json  (recursive — covers subdirs like kanji/)
+  for (const file of jsonFilesRecursive(join(packDir, 'characters'))) {
+    const data = loadJSON(file);
+    check(`${relative(packDir, file)} (${entryCount(data)})`, validateCharacters(data));
+  }
+
+  // readings/*.json
+  for (const file of jsonFiles(join(packDir, 'readings'))) {
+    const data = loadJSON(file);
+    check(`${relative(packDir, file)} (${entryCount(data)})`, validateReadings(data));
+  }
+
+  // lessons/index.json + lessons/*.json
+  const lessonsDir = join(packDir, 'lessons');
+  const indexPath = join(lessonsDir, 'index.json');
+  if (existsSync(indexPath)) {
+    check('lessons/index.json', validateLessonIndex(loadJSON(indexPath)));
+  }
+  for (const file of jsonFiles(lessonsDir)) {
+    if (basename(file) === 'index.json') continue;
+    check(`${relative(packDir, file)}`, validateLesson(loadJSON(file)));
+  }
+
+  // roadmaps.json — optional
+  const roadmapsPath = join(packDir, 'roadmaps.json');
+  if (existsSync(roadmapsPath)) {
+    const data = loadJSON(roadmapsPath);
+    check(`roadmaps.json (${entryCount(data)})`, validateRoadmaps(data));
+  }
+
+  // resources.json — optional
+  const resourcesPath = join(packDir, 'resources.json');
+  if (existsSync(resourcesPath)) {
+    const data = loadJSON(resourcesPath);
+    check(`resources.json (${entryCount(data)})`, validateResources(data));
+  }
+}
+
+// ── Main ───────────────────────────────────────────────────────────────────
+
+const targetPack = process.argv[2];
+
+if (targetPack) {
+  const packDir = join(PACKS_DIR, targetPack);
+  if (!existsSync(packDir) || !statSync(packDir).isDirectory()) {
+    console.error(`❌ Pack not found: "${targetPack}" (looked in ${PACKS_DIR})`);
+    process.exit(1);
+  }
+  validatePack(packDir);
+} else {
+  if (!existsSync(PACKS_DIR)) {
+    console.error(`❌ Packs directory not found: ${PACKS_DIR}`);
+    process.exit(1);
+  }
+  const packs = readdirSync(PACKS_DIR)
+    .map((f: string) => join(PACKS_DIR, f))
+    .filter((f: string) => statSync(f).isDirectory());
+
+  if (packs.length === 0) {
+    console.error('No packs found in src/packs/');
+    process.exit(1);
+  }
+
+  for (const packDir of packs) {
+    validatePack(packDir);
+  }
+}
+
+// ── Summary ────────────────────────────────────────────────────────────────
+
+console.log(`\n${'═'.repeat(50)}`);
+console.log(`Checked ${totalChecked} file(s) across ${totalPacks} pack(s)`);
 
 if (hasErrors) {
-  console.log('\n❌ Validation failed!');
+  console.error('❌ Validation failed!\n');
   process.exit(1);
 } else {
-  console.log('\n✅ All pack data valid!');
+  console.log('✅ All pack data valid!\n');
 }

@@ -3,7 +3,7 @@
  * Shows front (question) and back (answer) with 4 grading buttons.
  */
 
-import { useState } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { useTranslation } from 'react-i18next';
 import { RotateCcw, Eye } from 'lucide-react';
 import { ReviewGrade } from '../../types/models';
@@ -21,9 +21,8 @@ interface FlashCardProps {
 
 const gradeButtons = [
   { grade: ReviewGrade.Again, labelKey: 'study.buttons.again', color: 'bg-red-600 hover:bg-red-700', shortcut: '1' },
-  { grade: ReviewGrade.Hard, labelKey: 'study.buttons.hard', color: 'bg-orange-600 hover:bg-orange-700', shortcut: '2' },
-  { grade: ReviewGrade.Good, labelKey: 'study.buttons.good', color: 'bg-emerald-600 hover:bg-emerald-700', shortcut: '3' },
-  { grade: ReviewGrade.Easy, labelKey: 'study.buttons.easy', color: 'bg-blue-600 hover:bg-blue-700', shortcut: '4' },
+  { grade: ReviewGrade.Good, labelKey: 'study.buttons.good', color: 'bg-emerald-600 hover:bg-emerald-700', shortcut: '2' },
+  { grade: ReviewGrade.Easy, labelKey: 'study.buttons.easy', color: 'bg-blue-600 hover:bg-blue-700', shortcut: '3' },
 ] as const;
 
 export function FlashCard({ card, onGrade }: FlashCardProps) {
@@ -32,6 +31,29 @@ export function FlashCard({ card, onGrade }: FlashCardProps) {
   const activePack = useAppStore((s) => s.activePack);
   const ttsLang = activePack?.speech.ttsLang;
   const ttsText = card.reading ?? card.front;
+
+  const handleKeyDown = useCallback(
+    (e: KeyboardEvent) => {
+      if (!flipped) {
+        if (e.key === ' ' || e.key === 'Enter') {
+          e.preventDefault();
+          setFlipped(true);
+        }
+        return;
+      }
+      const btn = gradeButtons.find((b) => b.shortcut === e.key);
+      if (btn) {
+        e.preventDefault();
+        onGrade(btn.grade);
+      }
+    },
+    [flipped, onGrade],
+  );
+
+  useEffect(() => {
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [handleKeyDown]);
 
   return (
     <div className="w-full max-w-lg mx-auto">
@@ -89,7 +111,7 @@ export function FlashCard({ card, onGrade }: FlashCardProps) {
 
       {/* Grade buttons — only visible after flip */}
       {flipped ? (
-        <div className="grid grid-cols-4 gap-2">
+        <div className="grid grid-cols-3 gap-2">
           {gradeButtons.map(({ grade, labelKey, color, shortcut }) => (
             <button
               key={grade}

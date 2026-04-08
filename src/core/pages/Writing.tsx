@@ -224,12 +224,9 @@ export function Writing() {
           {/* Grade buttons */}
           <div>
             <p className="text-xs text-slate-500 mb-2">{t('writing.howDidYouDo')}</p>
-            <div className="grid grid-cols-4 gap-2">
+            <div className="grid grid-cols-3 gap-2">
               <button onClick={() => handleGrade(ReviewGrade.Again)} className="py-2 rounded-xl bg-red-600 hover:bg-red-700 text-white text-sm font-medium transition-colors">
                 {t('study.buttons.again')}
-              </button>
-              <button onClick={() => handleGrade(ReviewGrade.Hard)} className="py-2 rounded-xl bg-orange-600 hover:bg-orange-700 text-white text-sm font-medium transition-colors">
-                {t('study.buttons.hard')}
               </button>
               <button onClick={() => handleGrade(ReviewGrade.Good)} className="py-2 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white text-sm font-medium transition-colors">
                 {t('study.buttons.good')}

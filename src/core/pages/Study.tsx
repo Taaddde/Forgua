@@ -342,7 +342,7 @@ export function Study() {
         <Dictation
           key={currentIndex}
           text={currentCard.front}
-          expected={currentCard.reading ?? currentCard.front}
+          expected={currentCard.front}
           lang={activePack?.speech.ttsLang}
           rate={activePack?.speech.defaultRate ?? 0.8}
           adapter={activeAdapter}

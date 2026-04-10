@@ -55,3 +55,20 @@ export async function openMicrophoneSettings(): Promise<boolean> {
     return false;
   }
 }
+
+/**
+ * Open the OS sound / audio device settings panel.
+ * Only works inside Tauri — calls a custom Rust command.
+ * On Linux, tries a list of common sound tools; returns false if none is available.
+ */
+export async function openSoundSettings(): Promise<boolean> {
+  if (!isTauri()) return false;
+
+  try {
+    const { invoke } = await import('@tauri-apps/api/core');
+    await invoke('open_sound_settings');
+    return true;
+  } catch {
+    return false;
+  }
+}

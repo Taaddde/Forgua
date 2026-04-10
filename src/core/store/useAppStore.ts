@@ -8,6 +8,7 @@ import { persist } from 'zustand/middleware';
 import type { PackManifest } from '../types/pack-spec';
 import type { AbstractAdapter } from '../types/adapter';
 import { getAdapter } from '../adapters/registry';
+import { installPack } from '../db/seeds';
 
 export type UILanguage = 'es' | 'en' | 'pt';
 export type ThemeMode = 'light' | 'dark' | 'system';
@@ -48,8 +49,18 @@ export const useAppStore = create<AppState>()(
       sidebarOpen: true,
 
       selectPack: async (manifest: PackManifest) => {
-        set({ adapterLoading: true, adapterError: null, adapterProgress: null, activePack: manifest });
+        // Flip loading on synchronously so the install overlay shows
+        // immediately — before any async work (pack data load, adapter init).
+        set({
+          adapterLoading: true,
+          adapterError: null,
+          adapterProgress: { phase: 'installing', value: 0 },
+          activePack: manifest,
+        });
         try {
+          // Step 1: install pack data into IndexedDB (cards, progress rows).
+          await installPack(manifest);
+          // Step 2: load and initialize the family adapter, if any.
           const adapter = await getAdapter(manifest.family);
           if (adapter.requiresInit) {
             await adapter.init((phase, value) => {

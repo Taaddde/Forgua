@@ -41,9 +41,15 @@ export default defineConfig({
     tailwindcss(),
     kuromojiDictPlugin(),
     viteStaticCopy({
+      // Copy kuromoji dict files flat into dist/dict/. In v4 of
+      // vite-plugin-static-copy, glob results preserve their full source
+      // path under `dest` by default — without `stripBase: true` the files
+      // would land at `dist/dict/node_modules/@sglkc/kuromoji/dict/*.dat.gz`
+      // and the runtime fetch would 404.
       targets: [{
-        src: 'node_modules/@sglkc/kuromoji/dict/*',
+        src: 'node_modules/@sglkc/kuromoji/dict/*.dat.gz',
         dest: 'dict',
+        rename: { stripBase: true },
       }],
     }),
     ...(!isTauri ? [VitePWA({

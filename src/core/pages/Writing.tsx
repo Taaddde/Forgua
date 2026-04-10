@@ -67,23 +67,39 @@ export function Writing() {
     ctx.lineWidth = 4;
   }, []);
 
-  // Init canvas
-  useEffect(() => {
-    const canvas = canvasRef.current;
-    if (!canvas) return;
-    const ctx = canvas.getContext('2d');
-    if (!ctx) return;
+  // Callback ref: initialises the 2D context the moment the canvas
+  // element mounts. A plain `useEffect` was unreliable here because the
+  // canvas is only rendered once `cards` resolves from useLiveQuery — by
+  // then the effect's deps haven't changed, so it never re-ran and
+  // ctxRef.current stayed null (mouse handlers were silently no-op'ing).
+  const setCanvasRef = useCallback(
+    (canvas: HTMLCanvasElement | null) => {
+      canvasRef.current = canvas;
+      if (!canvas) {
+        ctxRef.current = null;
+        return;
+      }
+      const ctx = canvas.getContext('2d');
+      if (!ctx) return;
 
-    const dpr = window.devicePixelRatio || 1;
-    const rect = canvas.getBoundingClientRect();
-    canvas.width = rect.width * dpr;
-    canvas.height = rect.height * dpr;
-    ctx.scale(dpr, dpr);
-    ctx.lineCap = 'round';
-    ctx.lineJoin = 'round';
-    ctx.lineWidth = 4;
-    ctx.strokeStyle = '#e2e8f0';
-    ctxRef.current = ctx;
+      const dpr = window.devicePixelRatio || 1;
+      const rect = canvas.getBoundingClientRect();
+      canvas.width = rect.width * dpr;
+      canvas.height = rect.height * dpr;
+      ctx.scale(dpr, dpr);
+      ctx.lineCap = 'round';
+      ctx.lineJoin = 'round';
+      ctx.lineWidth = 4;
+      ctx.strokeStyle = '#e2e8f0';
+      ctxRef.current = ctx;
+      clearCanvas();
+    },
+    [clearCanvas],
+  );
+
+  // Clear canvas when the user moves to a new character or switches system.
+  // The canvas itself doesn't need re-initialising — only its contents.
+  useEffect(() => {
     clearCanvas();
   }, [currentIndex, systemId, clearCanvas]);
 
@@ -192,7 +208,7 @@ export function Writing() {
           {/* Canvas + answer */}
           <div className="relative bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl overflow-hidden mb-4 aspect-square">
             <canvas
-              ref={canvasRef}
+              ref={setCanvasRef}
               className="w-full h-full cursor-crosshair touch-none"
               onMouseDown={startDraw}
               onMouseMove={draw}

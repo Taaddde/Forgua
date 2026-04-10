@@ -3,7 +3,6 @@ import { useNavigate } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 import { Languages, ChevronRight, Check, Loader2 } from 'lucide-react';
 import { useAppStore } from '../store/useAppStore';
-import { installPack } from '../db/seeds';
 import { getAvailablePacks } from '../packs/pack-registry';
 import type { PackManifest } from '../types/pack-spec';
 import { db } from '../db/database';
@@ -28,7 +27,8 @@ export function PackSelector() {
   }, []);
 
   async function handleSelect(manifest: PackManifest) {
-    await installPack(manifest);
+    // selectPack handles install + adapter init in one go,
+    // so the loading overlay shows for the entire flow.
     await selectPack(manifest);
 
     // Check if placement test should be offered

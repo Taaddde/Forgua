@@ -211,6 +211,68 @@
       "speech": "reconocimiento de voz",
       "tts": "síntesis de voz",
       "recording": "grabación de audio"
+    },
+    "voicePicker": {
+      "title": "Voz del idioma",
+      "openTitle": "Ajustes de voz",
+      "langLabel": "Voz para {{lang}}",
+      "auto": "Auto",
+      "useAuto": "Usar la voz automática (según calidad detectada)",
+      "remote": "Voz en red — requiere conexión",
+      "sample": "Hola. Esta es una prueba de la voz seleccionada.",
+      "tier": {
+        "premium": "Premium · calidad alta",
+        "neural": "Neural · calidad alta",
+        "enhanced": "Enhanced · calidad media-alta",
+        "standard": "Estándar",
+        "compact": "Compact · baja calidad"
+      },
+      "lowQualityHasAlt": "Estás usando una voz de baja calidad. Podés elegir una mejor de la lista.",
+      "lowQualityNoAlt": "Tu sistema solo tiene la voz compacta para este idioma. Sonará muy robótica hasta que instales una voz mejor.",
+      "install": {
+        "macos": "macOS: Ajustes → Accesibilidad → Contenido hablado → Voz del sistema → Gestionar voces… y descargá la variante 'Premium' o 'Enhanced' del idioma. Después reiniciá el navegador o la app.",
+        "windows": "Windows: Configuración → Hora e idioma → Idioma y región → Agregar un idioma → al descargar el paquete, activá 'Voz' para obtener voces neurales modernas. Después reiniciá el navegador.",
+        "linux": "Linux: Chrome usa espeak-ng por defecto, que suena muy básico. Instalá 'speech-dispatcher' con voces MBROLA o usá 'piper-tts' como alternativa. Reiniciá el navegador después.",
+        "unknown": "Descargá una voz de mejor calidad para este idioma desde los ajustes de accesibilidad de tu sistema operativo y reiniciá el navegador."
+      }
+    },
+    "lowQualityBanner": {
+      "title": "¿El audio suena raro?",
+      "body": "Detectamos que tu sistema está usando una voz de baja calidad para este idioma. Podés mejorarla desde Ajustes.",
+      "cta": "Abrir Ajustes",
+      "dismiss": "No mostrar más"
+    },
+    "micPicker": {
+      "title": "Micrófono",
+      "activeInput": "Entrada activa",
+      "preferredDevice": "Dispositivo preferido",
+      "preferredHelp": "Se usa al grabar tu voz para feedback de pronunciación. El reconocimiento de voz sigue usando el default del sistema (limitación del navegador).",
+      "systemDefault": "Default del sistema",
+      "permissionRequired": "Permiso requerido",
+      "unknown": "Desconocido",
+      "unnamed": "Dispositivo {{id}}",
+      "grantPermission": "Dar permiso al micrófono",
+      "refresh": "Refrescar",
+      "sttLimitation": "Para cambiar qué micrófono usa el reconocimiento de voz, tenés que cambiarlo a nivel sistema:",
+      "openSystemSound": "Abrir ajustes de sonido",
+      "browserStep": "1) En el navegador:",
+      "osStep": "2) En el sistema operativo:",
+      "instructions": {
+        "macos": "Ajustes del Sistema → Sonido → Entrada → elegí tu micrófono.",
+        "windows": "Configuración → Sistema → Sonido → Entrada → elegí el dispositivo.",
+        "linux": "Abrí el control de sonido de tu entorno (pavucontrol, GNOME Sound, KDE System Settings) y elegí el dispositivo de entrada.",
+        "unknown": "Abrí los ajustes de sonido de tu sistema y elegí el dispositivo de entrada."
+      },
+      "notSupported": "Este navegador no permite listar dispositivos de audio.",
+      "currentInputShort": "Usando: {{name}}",
+      "changeInput": "Cambiar micrófono",
+      "clickToChange": "Tocá para ver o cambiar el micrófono",
+      "checkDevice": "Ver micrófono activo",
+      "errors": {
+        "not-supported": "Tu navegador no soporta listado de dispositivos.",
+        "enumerate-failed": "No se pudo listar los dispositivos.",
+        "probe-failed": "No se pudo detectar el micrófono activo."
+      }
     }
   },
   "listening": {
@@ -313,6 +375,15 @@
       "dark": "Oscuro",
       "system": "Sistema"
     },
+    "audio": "Audio y micrófono",
+    "ttsVoice": "Voz de síntesis (TTS)",
+    "ttsVoiceHelp": "Elegí qué voz usa Forgua para reproducir audio. La calidad depende de las voces instaladas en tu sistema operativo; si no encontrás nada bueno, podés descargar mejores voces desde los ajustes del sistema.",
+    "voiceLanguage": "Idioma",
+    "playSample": "Reproducir prueba",
+    "noPackForVoice": "Seleccioná un pack para configurar su voz.",
+    "resetVoiceWarnings": "Restablecer avisos de voz de baja calidad",
+    "microphone": "Micrófono",
+    "microphoneHelp": "Verificá qué micrófono está usando Forgua y cambiá el dispositivo si es necesario. El reconocimiento de voz siempre usa el default del sistema — esta sección te ayuda a identificarlo y cambiarlo.",
     "data": "Datos",
     "exportData": "Exportar datos",
     "importData": "Importar datos",
@@ -355,6 +426,7 @@
   },
   "packInstall": {
     "title": "Preparando {{packName}}",
+    "installing": "Instalando contenido del pack...",
     "dictionaries": "Descargando diccionarios...",
     "tokenizer": "Inicializando procesador de texto...",
     "ready": "¡Listo!",

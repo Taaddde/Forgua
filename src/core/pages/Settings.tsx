@@ -5,6 +5,7 @@ import { useAppStore } from '../store/useAppStore';
 import { exportUserData, importUserData, downloadBackup } from '../db/backup';
 import { db } from '../db/database';
 import { APP_VERSION, getPlatform } from '../utils/platform';
+import { AudioSettingsSection } from '../components/audio/AudioSettingsSection';
 import type { UILanguage, ThemeMode } from '../store/useAppStore';
 
 const languages: { value: UILanguage; label: string }[] = [
@@ -146,6 +147,9 @@ export function Settings() {
           ))}
         </div>
       </section>
+
+      {/* Audio & Microphone */}
+      <AudioSettingsSection />
 
       {/* Data */}
       <section className="mb-8">

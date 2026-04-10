@@ -21,8 +21,14 @@ import {
   unbind,
 } from 'wanakana';
 
-/** Known total size of kuromoji dictionary files (~17 MB) */
-const DICT_TOTAL_BYTES = 17_800_000;
+/**
+ * Number of dictionary files kuromoji loads in parallel.
+ * Counted from @sglkc/kuromoji/dict — base, cc, check, tid, tid_pos, tid_map,
+ * unk, unk_char, unk_compat, unk_invoke, unk_map, unk_pos = 12 files.
+ * We use file-count progress (rather than byte progress) because the fetch
+ * interceptor's clone-body reader runs out-of-band and gives misleading values.
+ */
+const DICT_FILE_COUNT = 12;
 
 export class JapaneseAdapter extends AbstractAdapter {
   readonly family = 'cjk-japanese';
@@ -55,12 +61,18 @@ export class JapaneseAdapter extends AbstractAdapter {
     // Validation matters because a 404 on GitHub Pages returns an HTML page
     // with 200-ish semantics for the body — kuromoji then tries to gunzip
     // HTML and hangs indefinitely. We want to fail loudly instead.
-    let bytesLoaded = 0;
+    //
+    // Progress is tracked by counting files: each successful fetch advances
+    // the bar by 1/12. We can't use byte progress reliably because cloning
+    // the response body and reading it in parallel with kuromoji's consumer
+    // produces bursty, misleading numbers.
+    let filesLoaded = 0;
     const originalFetch = globalThis.fetch;
     globalThis.fetch = async function (input: RequestInfo | URL, init?: RequestInit) {
-      const response = await originalFetch.call(globalThis, input, init);
       const url = typeof input === 'string' ? input : input instanceof Request ? input.url : input.toString();
-      if (url.includes(`${dictPath}/`)) {
+      const isDictRequest = url.includes(`${dictPath}/`);
+      const response = await originalFetch.call(globalThis, input, init);
+      if (isDictRequest) {
         if (!response.ok) {
           throw new Error(
             `Failed to fetch kuromoji dictionary: ${url} returned ${response.status}. ` +
@@ -74,28 +86,10 @@ export class JapaneseAdapter extends AbstractAdapter {
             `This usually means the file is missing and the server is serving a 404 page.`,
           );
         }
-        if (onProgress) {
-          // Clone the response so we can read the body for progress
-          // without interfering with the consumer (kuromoji).
-          const body = response.clone().body;
-          if (body) {
-            const reader = body.getReader();
-            // Read in the background — no need to block the return,
-            // but we must not leave it as a dangling promise.
-            void (async () => {
-              try {
-                for (;;) {
-                  const { done, value } = await reader.read();
-                  if (done) break;
-                  bytesLoaded += value.byteLength;
-                  onProgress('dictionaries', Math.min(bytesLoaded / DICT_TOTAL_BYTES, 0.95));
-                }
-              } catch {
-                // Clone body read failed — progress stops but init continues fine.
-              }
-            })();
-          }
-        }
+        filesLoaded += 1;
+        // Reserve the last 5% for tokenizer build, so dict download caps at 95%.
+        const fraction = Math.min(filesLoaded / DICT_FILE_COUNT, 1) * 0.95;
+        onProgress?.('dictionaries', fraction);
       }
       return response;
     };
@@ -109,16 +103,15 @@ export class JapaneseAdapter extends AbstractAdapter {
 
       const Kuroshiro = KuroshiroModule.default;
 
-      onProgress?.('dictionaries', 0.05);
-
       // Init kuroshiro with our browser-compatible analyzer.
       // The analyzer builds kuromoji internally — we reuse its tokenizer
       // to avoid downloading and parsing the ~17 MB dictionaries twice.
+      // The fetch interceptor advances progress as each dict file completes.
       this.kuroshiroInstance = new Kuroshiro();
       const analyzer = new BrowserKuromojiAnalyzer({ dictPath });
       await this.kuroshiroInstance.init(analyzer);
 
-      onProgress?.('tokenizer', 0.97);
+      onProgress?.('tokenizer', 0.98);
 
       // Reuse the tokenizer that was already built during kuroshiro init
       this.kuromojiTokenizer = analyzer.tokenizer;

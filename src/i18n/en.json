@@ -211,6 +211,68 @@
       "speech": "speech recognition",
       "tts": "text-to-speech",
       "recording": "audio recording"
+    },
+    "voicePicker": {
+      "title": "Language voice",
+      "openTitle": "Voice settings",
+      "langLabel": "Voice for {{lang}}",
+      "auto": "Auto",
+      "useAuto": "Use automatic voice (based on detected quality)",
+      "remote": "Network voice — requires connection",
+      "sample": "Hello. This is a preview of the selected voice.",
+      "tier": {
+        "premium": "Premium · high quality",
+        "neural": "Neural · high quality",
+        "enhanced": "Enhanced · medium-high quality",
+        "standard": "Standard",
+        "compact": "Compact · low quality"
+      },
+      "lowQualityHasAlt": "You're using a low-quality voice. You can pick a better one from the list.",
+      "lowQualityNoAlt": "Your system only has the compact voice for this language. It will sound robotic until you install a better one.",
+      "install": {
+        "macos": "macOS: System Settings → Accessibility → Spoken Content → System Voice → Manage Voices… and download the 'Premium' or 'Enhanced' variant for the language. Restart the browser or app afterwards.",
+        "windows": "Windows: Settings → Time & Language → Language & Region → Add a language → when downloading the pack, enable 'Speech' to get modern neural voices. Restart the browser afterwards.",
+        "linux": "Linux: Chrome defaults to espeak-ng, which sounds very basic. Install 'speech-dispatcher' with MBROLA voices, or use 'piper-tts' as an alternative. Restart the browser afterwards.",
+        "unknown": "Download a higher-quality voice for this language from your operating system accessibility settings and restart the browser."
+      }
+    },
+    "lowQualityBanner": {
+      "title": "Does audio sound weird?",
+      "body": "We detected your system is using a low-quality voice for this language. You can improve it from Settings.",
+      "cta": "Open Settings",
+      "dismiss": "Don't show again"
+    },
+    "micPicker": {
+      "title": "Microphone",
+      "activeInput": "Active input",
+      "preferredDevice": "Preferred device",
+      "preferredHelp": "Used when recording your voice for pronunciation feedback. Speech recognition still uses the system default (browser limitation).",
+      "systemDefault": "System default",
+      "permissionRequired": "Permission required",
+      "unknown": "Unknown",
+      "unnamed": "Device {{id}}",
+      "grantPermission": "Grant microphone permission",
+      "refresh": "Refresh",
+      "sttLimitation": "To change which microphone speech recognition uses, change it at the system level:",
+      "openSystemSound": "Open sound settings",
+      "browserStep": "1) In the browser:",
+      "osStep": "2) In the operating system:",
+      "instructions": {
+        "macos": "System Settings → Sound → Input → pick your microphone.",
+        "windows": "Settings → System → Sound → Input → pick the device.",
+        "linux": "Open your desktop environment's sound control (pavucontrol, GNOME Sound, KDE System Settings) and pick the input device.",
+        "unknown": "Open your system sound settings and pick the input device."
+      },
+      "notSupported": "This browser doesn't allow enumerating audio devices.",
+      "currentInputShort": "Using: {{name}}",
+      "changeInput": "Change microphone",
+      "clickToChange": "Click to view or change the microphone",
+      "checkDevice": "Check active microphone",
+      "errors": {
+        "not-supported": "Your browser doesn't support device enumeration.",
+        "enumerate-failed": "Could not list devices.",
+        "probe-failed": "Could not detect the active microphone."
+      }
     }
   },
   "listening": {
@@ -313,6 +375,15 @@
       "dark": "Dark",
       "system": "System"
     },
+    "audio": "Audio & microphone",
+    "ttsVoice": "Text-to-speech voice",
+    "ttsVoiceHelp": "Choose which voice Forgua uses for audio playback. Quality depends on the voices installed in your operating system; if none sound good, you can download better ones from system settings.",
+    "voiceLanguage": "Language",
+    "playSample": "Play sample",
+    "noPackForVoice": "Select a pack to configure its voice.",
+    "resetVoiceWarnings": "Reset low-quality voice warnings",
+    "microphone": "Microphone",
+    "microphoneHelp": "Check which microphone Forgua is using and change it if needed. Speech recognition always uses the system default — this section helps you identify and change it.",
     "data": "Data",
     "exportData": "Export data",
     "importData": "Import data",
@@ -355,6 +426,7 @@
   },
   "packInstall": {
     "title": "Preparing {{packName}}",
+    "installing": "Installing pack content...",
     "dictionaries": "Downloading dictionaries...",
     "tokenizer": "Initializing text processor...",
     "ready": "Ready!",

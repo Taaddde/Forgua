@@ -59,8 +59,8 @@ export class LatinAdapter extends AbstractAdapter {
   }
 
   compareAnswer(input: string, expected: string): MatchResult {
-    const normalizedInput = input.trim().toLowerCase();
-    const normalizedExpected = expected.trim().toLowerCase();
+    const normalizedInput = normalizeText(input);
+    const normalizedExpected = normalizeText(expected);
 
     const isCorrect = normalizedInput === normalizedExpected;
 
@@ -82,6 +82,21 @@ export class LatinAdapter extends AbstractAdapter {
     // No input conversion needed for Latin script
     return () => {};
   }
+}
+
+/**
+ * Normalize text for comparison.
+ * Strips punctuation that STT engines inject automatically (capitalization,
+ * trailing period/comma/question mark) so "Father." matches "father".
+ * Apostrophes and hyphens are kept because they're part of words ("don't", "mother-in-law").
+ */
+function normalizeText(text: string): string {
+  return text
+    .trim()
+    .toLowerCase()
+    .replace(/[.,!?;:。、！？]/g, '') // strip STT-injected punctuation
+    .replace(/\s+/g, ' ')              // collapse whitespace
+    .trim();
 }
 
 /** Simple Levenshtein distance for answer comparison */

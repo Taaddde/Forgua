@@ -80,6 +80,25 @@ describe('LatinAdapter', () => {
     expect(result.isCorrect).toBe(true);
   });
 
+  it('should match STT transcript with trailing period', () => {
+    // STT engines add punctuation: "Father." should match "father"
+    const result = adapter.compareAnswer('Father.', 'father');
+    expect(result.isCorrect).toBe(true);
+    expect(result.similarity).toBe(1);
+  });
+
+  it('should match STT transcript with trailing question mark', () => {
+    const result = adapter.compareAnswer('Good morning?', 'good morning');
+    expect(result.isCorrect).toBe(true);
+    expect(result.similarity).toBe(1);
+  });
+
+  it('should match STT transcript with comma', () => {
+    const result = adapter.compareAnswer('Yes,', 'yes');
+    expect(result.isCorrect).toBe(true);
+    expect(result.similarity).toBe(1);
+  });
+
   it('should return no-op from bindInput', () => {
     // Skip in non-DOM environments (Node/Vitest without jsdom)
     if (typeof document === 'undefined') {

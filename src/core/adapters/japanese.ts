@@ -177,9 +177,10 @@ export class JapaneseAdapter extends AbstractAdapter {
   }
 
   compareAnswer(input: string, expected: string): MatchResult {
-    // Normalize both sides
-    let normalizedInput = input.trim().normalize('NFKC');
-    let normalizedExpected = expected.trim().normalize('NFKC');
+    // Normalize both sides — strip STT-injected punctuation (e.g. trailing 。or .)
+    // before any script conversion so the punctuation doesn't confuse kana detection.
+    let normalizedInput = stripSttPunctuation(input.trim()).normalize('NFKC');
+    let normalizedExpected = stripSttPunctuation(expected.trim()).normalize('NFKC');
 
     // If input is romaji and expected is kana, convert input to hiragana
     if (isRomaji(normalizedInput) && (isKana(normalizedExpected) || !isRomaji(normalizedExpected))) {
@@ -224,6 +225,11 @@ export class JapaneseAdapter extends AbstractAdapter {
     bind(element, { IMEMode: true });
     return () => unbind(element);
   }
+}
+
+/** Strip punctuation commonly injected by STT engines into transcripts. */
+function stripSttPunctuation(text: string): string {
+  return text.replace(/[.,!?;:。、！？]/g, '').replace(/\s+/g, ' ').trim();
 }
 
 function levenshteinDistance(a: string, b: string): number {

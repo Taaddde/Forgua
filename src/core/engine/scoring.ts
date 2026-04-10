@@ -9,6 +9,11 @@
 import { ReviewGrade } from '../types/models';
 import type { AbstractAdapter } from '../types/adapter';
 
+/** Strip punctuation that STT engines inject into transcripts (capital first word, trailing period, etc.) */
+function stripSttPunctuation(text: string): string {
+  return text.trim().toLowerCase().replace(/[.,!?;:。、！？]/g, '').replace(/\s+/g, ' ').trim();
+}
+
 type ReviewGradeValue = typeof ReviewGrade[keyof typeof ReviewGrade];
 
 export interface ScoreResult {
@@ -54,9 +59,9 @@ export function scoreWriteAnswer(
     return { correct: result.isCorrect, grade, similarity: result.similarity };
   }
 
-  // Fallback: simple comparison
-  const normalizedInput = input.trim().toLowerCase();
-  const normalizedExpected = expected.trim().toLowerCase();
+  // Fallback: simple comparison with STT punctuation stripped.
+  const normalizedInput = stripSttPunctuation(input);
+  const normalizedExpected = stripSttPunctuation(expected);
   const correct = normalizedInput === normalizedExpected;
   return {
     correct,

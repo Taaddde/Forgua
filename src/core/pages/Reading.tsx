@@ -2,7 +2,7 @@
  * Reading page — graded texts with furigana, click-to-define, and comprehension questions.
  */
 
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
 import { BookText, ArrowLeft, Eye, EyeOff, Languages, Loader2 } from 'lucide-react';
 import { useLiveQuery } from 'dexie-react-hooks';

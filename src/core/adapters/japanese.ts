@@ -52,15 +52,24 @@ export class JapaneseAdapter extends AbstractAdapter {
         const response = await originalFetch.call(globalThis, input, init);
         const url = typeof input === 'string' ? input : input instanceof Request ? input.url : input.toString();
         if (url.includes('/dict/')) {
-          const body = response.clone().body;
+          // Clone the response so we can read the body for progress
+          // without interfering with the consumer (kuromoji).
+          const clone = response.clone();
+          const body = clone.body;
           if (body) {
             const reader = body.getReader();
-            (async () => {
-              for (;;) {
-                const { done, value } = await reader.read();
-                if (done) break;
-                bytesLoaded += value.byteLength;
-                onProgress('dictionaries', Math.min(bytesLoaded / DICT_TOTAL_BYTES, 0.95));
+            // Read in the background — no need to block the return,
+            // but we must not leave it as a dangling promise.
+            void (async () => {
+              try {
+                for (;;) {
+                  const { done, value } = await reader.read();
+                  if (done) break;
+                  bytesLoaded += value.byteLength;
+                  onProgress('dictionaries', Math.min(bytesLoaded / DICT_TOTAL_BYTES, 0.95));
+                }
+              } catch {
+                // Clone body read failed — progress stops but init continues fine.
               }
             })();
           }
@@ -70,35 +79,27 @@ export class JapaneseAdapter extends AbstractAdapter {
     }
 
     try {
-      const [KuroshiroModule, kuromojiModule] = await Promise.all([
+      const [KuroshiroModule] = await Promise.all([
         import('kuroshiro'),
-        import('@sglkc/kuromoji'),
+        import('@sglkc/kuromoji'), // Pre-loaded so BrowserKuromojiAnalyzer has it ready
       ]);
       const { BrowserKuromojiAnalyzer } = await import('./kuromoji-analyzer');
 
       const Kuroshiro = KuroshiroModule.default;
-      const kuromoji = kuromojiModule.default;
 
       onProgress?.('dictionaries', 0.05);
 
-      // Init kuroshiro with our browser-compatible analyzer
+      // Init kuroshiro with our browser-compatible analyzer.
+      // The analyzer builds kuromoji internally — we reuse its tokenizer
+      // to avoid downloading and parsing the ~17 MB dictionaries twice.
       this.kuroshiroInstance = new Kuroshiro();
       const analyzer = new BrowserKuromojiAnalyzer({ dictPath: '/dict' });
       await this.kuroshiroInstance.init(analyzer);
 
       onProgress?.('tokenizer', 0.97);
 
-      // Also build a raw kuromoji tokenizer for direct tokenization
-      await new Promise<void>((resolve, reject) => {
-        kuromoji.builder({ dicPath: '/dict' }).build((err, tokenizer) => {
-          if (err) {
-            reject(err);
-          } else {
-            this.kuromojiTokenizer = tokenizer;
-            resolve();
-          }
-        });
-      });
+      // Reuse the tokenizer that was already built during kuroshiro init
+      this.kuromojiTokenizer = analyzer.tokenizer;
     } finally {
       // Always restore original fetch
       if (onProgress) {

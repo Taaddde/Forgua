@@ -177,13 +177,31 @@ export function validateReadings(data: unknown) {
   return z.array(ReadingTextSchema).safeParse(data);
 }
 
+export const RoadmapMilestoneSchema = z.object({
+  text: z.string(),
+  type: z.enum(['manual', 'srs_learned', 'srs_mature', 'lessons_completed']).optional(),
+  target: z.number().optional(),
+  level: z.string().optional(),
+  category: z.string().optional(),
+  lessonPrefix: z.string().optional(),
+  lessonPrefixes: z.array(z.string()).optional(),
+  total: z.number().optional(),
+});
+
+export const RoadmapPhaseActionSchema = z.object({
+  label: z.string(),
+  route: z.string(),
+  variant: z.enum(['primary', 'secondary']).optional(),
+});
+
 export const RoadmapPhaseSchema = z.object({
   name: z.string(),
   duration: z.string(),
   level: z.string(),
   content: z.string(),
   dailyGoal: z.string(),
-  milestones: z.array(z.string()).min(1),
+  milestones: z.array(z.union([z.string(), RoadmapMilestoneSchema])).min(1),
+  actions: z.array(RoadmapPhaseActionSchema).optional(),
 });
 
 export const RoadmapSchema = z.object({

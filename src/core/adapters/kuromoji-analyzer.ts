@@ -54,6 +54,11 @@ export class BrowserKuromojiAnalyzer {
   private _analyzer: Tokenizer | null = null;
   private _dictPath: string;
 
+  /** Expose the raw tokenizer so the adapter can reuse it (avoids double init). */
+  get tokenizer(): Tokenizer | null {
+    return this._analyzer;
+  }
+
   constructor({ dictPath }: { dictPath?: string } = {}) {
     this._dictPath = dictPath ?? '/dict';
   }

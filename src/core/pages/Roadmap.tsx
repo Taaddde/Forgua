@@ -113,7 +113,7 @@ export function Roadmap() {
 
   const [roadmaps, setRoadmaps] = useState<RoadmapType[]>([]);
   const [loadedForPack, setLoadedForPack] = useState<string | null>(null);
-  const [selectedTrack, setSelectedTrack] = useState<string | null>(null);
+  const [selectedTrack, setSelectedTrack] = useState<string | null | undefined>(undefined);
   const [expandedPhase, setExpandedPhase] = useState<number | null>(null);
   const [autoExpandedForTrack, setAutoExpandedForTrack] = useState<string | null>(null);
 
@@ -139,7 +139,7 @@ export function Roadmap() {
         if (!cancelled) {
           setRoadmaps(result);
           setLoadedForPack(packId);
-          setSelectedTrack(null);
+          setSelectedTrack(undefined);
           setExpandedPhase(null);
           setAutoExpandedForTrack(null);
         }
@@ -161,12 +161,13 @@ export function Roadmap() {
     return typeof setting?.value === 'string' ? setting.value : null;
   }, [packId]);
 
-  useEffect(() => {
-    if (loadedForPack !== packId || roadmaps.length === 0 || persistedTrack === undefined) return;
-    if (persistedTrack && roadmaps.find((r) => r.id === persistedTrack)) {
-      setSelectedTrack(persistedTrack);
+  const effectiveTrack = useMemo(() => {
+    if (selectedTrack !== undefined) return selectedTrack;
+    if (loadedForPack === packId && roadmaps.length > 0 && persistedTrack && roadmaps.find((r) => r.id === persistedTrack)) {
+      return persistedTrack;
     }
-  }, [loadedForPack, packId, roadmaps, persistedTrack]);
+    return null;
+  }, [selectedTrack, loadedForPack, packId, roadmaps, persistedTrack]);
 
   const selectTrack = useCallback(async (id: string) => {
     setSelectedTrack(id);
@@ -200,7 +201,7 @@ export function Roadmap() {
     });
   }, [packId, milestoneProgress]);
 
-  const selectedRoadmap = roadmaps.find((r) => r.id === selectedTrack);
+  const selectedRoadmap = roadmaps.find((r) => r.id === effectiveTrack);
 
   // Compute effective "done" state per milestone key
   const milestoneStates = useMemo(() => {
@@ -235,12 +236,11 @@ export function Roadmap() {
     return idx === -1 ? selectedRoadmap.phases.length - 1 : idx;
   }, [selectedRoadmap, milestoneStates]);
 
-  // Auto-expand current phase once per track selection
-  useEffect(() => {
-    if (!selectedTrack || milestoneProgress === undefined || autoExpandedForTrack === selectedTrack) return;
+  // Auto-expand current phase once per track selection (render-time adjustment)
+  if (effectiveTrack && milestoneProgress !== undefined && autoExpandedForTrack !== effectiveTrack) {
     setExpandedPhase(currentPhaseIdx);
-    setAutoExpandedForTrack(selectedTrack);
-  }, [selectedTrack, milestoneProgress, currentPhaseIdx, autoExpandedForTrack]);
+    setAutoExpandedForTrack(effectiveTrack);
+  }
 
   if (!activePack) {
     return (

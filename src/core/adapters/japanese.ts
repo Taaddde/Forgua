@@ -44,18 +44,40 @@ export class JapaneseAdapter extends AbstractAdapter {
   async init(onProgress?: AdapterProgressCallback): Promise<void> {
     onProgress?.('dictionaries', 0);
 
-    // Intercept fetch to track kuromoji dict download progress
+    // Resolve dict path relative to the app's base URL so it works both
+    // in dev ('/') and under a subpath in production (e.g. '/Forgua/').
+    // BASE_URL always ends with '/', so we strip the trailing slash from
+    // the join to get a clean '<base>/dict' (or '/dict' in dev).
+    const baseUrl = import.meta.env.BASE_URL;
+    const dictPath = `${baseUrl.replace(/\/$/, '')}/dict`;
+
+    // Intercept fetch to (a) validate dict responses and (b) track progress.
+    // Validation matters because a 404 on GitHub Pages returns an HTML page
+    // with 200-ish semantics for the body — kuromoji then tries to gunzip
+    // HTML and hangs indefinitely. We want to fail loudly instead.
     let bytesLoaded = 0;
     const originalFetch = globalThis.fetch;
-    if (onProgress) {
-      globalThis.fetch = async function (input: RequestInfo | URL, init?: RequestInit) {
-        const response = await originalFetch.call(globalThis, input, init);
-        const url = typeof input === 'string' ? input : input instanceof Request ? input.url : input.toString();
-        if (url.includes('/dict/')) {
+    globalThis.fetch = async function (input: RequestInfo | URL, init?: RequestInit) {
+      const response = await originalFetch.call(globalThis, input, init);
+      const url = typeof input === 'string' ? input : input instanceof Request ? input.url : input.toString();
+      if (url.includes(`${dictPath}/`)) {
+        if (!response.ok) {
+          throw new Error(
+            `Failed to fetch kuromoji dictionary: ${url} returned ${response.status}. ` +
+            `Check that the /dict/ files are deployed under the app base path.`,
+          );
+        }
+        const contentType = response.headers.get('content-type') ?? '';
+        if (contentType.includes('text/html')) {
+          throw new Error(
+            `Kuromoji dictionary URL returned HTML instead of binary: ${url}. ` +
+            `This usually means the file is missing and the server is serving a 404 page.`,
+          );
+        }
+        if (onProgress) {
           // Clone the response so we can read the body for progress
           // without interfering with the consumer (kuromoji).
-          const clone = response.clone();
-          const body = clone.body;
+          const body = response.clone().body;
           if (body) {
             const reader = body.getReader();
             // Read in the background — no need to block the return,
@@ -74,9 +96,9 @@ export class JapaneseAdapter extends AbstractAdapter {
             })();
           }
         }
-        return response;
-      };
-    }
+      }
+      return response;
+    };
 
     try {
       const [KuroshiroModule] = await Promise.all([
@@ -93,7 +115,7 @@ export class JapaneseAdapter extends AbstractAdapter {
       // The analyzer builds kuromoji internally — we reuse its tokenizer
       // to avoid downloading and parsing the ~17 MB dictionaries twice.
       this.kuroshiroInstance = new Kuroshiro();
-      const analyzer = new BrowserKuromojiAnalyzer({ dictPath: '/dict' });
+      const analyzer = new BrowserKuromojiAnalyzer({ dictPath });
       await this.kuroshiroInstance.init(analyzer);
 
       onProgress?.('tokenizer', 0.97);
@@ -102,9 +124,7 @@ export class JapaneseAdapter extends AbstractAdapter {
       this.kuromojiTokenizer = analyzer.tokenizer;
     } finally {
       // Always restore original fetch
-      if (onProgress) {
-        globalThis.fetch = originalFetch;
-      }
+      globalThis.fetch = originalFetch;
     }
 
     onProgress?.('ready', 1);

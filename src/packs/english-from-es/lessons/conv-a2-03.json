@@ -1,0 +1,161 @@
+{
+  "id": "conv-a2-03",
+  "title": "Conversation: At the Supermarket",
+  "description": "Compras en el supermercado. Preguntar por productos, ubicación, pagar, First Conditional.",
+  "level": "a2",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "enough",
+      "back": "suficiente, bastante",
+      "reading": "/ɪˈnʌf/",
+      "explanation": "'Enough' va DESPUÉS del adjetivo: 'big enough', 'old enough'. Va ANTES del sustantivo: 'enough money', 'enough time'.",
+      "cardRef": { "category": "vocabulary", "front": "enough" }
+    },
+    {
+      "front": "almost",
+      "back": "casi",
+      "reading": "/ˈɔːlˌmoʊst/",
+      "explanation": "'Almost' = casi. 'We're almost there' = Ya casi llegamos. 'Almost finished' = casi terminado.",
+      "cardRef": { "category": "vocabulary", "front": "almost" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario del supermercado",
+      "instruction": "Palabras útiles para hacer compras.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "conversation-script",
+      "title": "Conversación: At the Supermarket",
+      "instruction": "Hacés las compras de la semana. Pedí ayuda para encontrar productos y pagá.",
+      "itemIndices": [],
+      "config": {
+        "script": {
+          "id": "conv-a2-03-supermarket",
+          "scenario": "Haciendo las compras en el supermercado",
+          "level": "a2",
+          "turns": [
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                { "text": "Excuse me, could you tell me where the dairy products are?", "isCorrect": true, "feedback": "Perfecto y muy educado. 'Could you tell me where...?' es una forma educada y natural para pedir ayuda en una tienda." },
+                { "text": "Where is the milk?", "isCorrect": true, "feedback": "Más directo pero igualmente correcto. Ambas opciones funcionan; la primera es más formal." },
+                { "text": "I'm looking for milk, can you help to me?", "isCorrect": false, "feedback": "'Help' no necesita 'to': 'Can you help ME?' (no 'help to me'). 'Help + object (without to)'." }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "Of course! Dairy is in aisle 4, on the left. Milk, cheese, and yogurt are all there.",
+              "translation": "¡Por supuesto! Los lácteos están en el pasillo 4, a la izquierda. La leche, el queso y el yogur están todos ahí."
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                { "text": "Thank you! And do you know if you have organic milk?", "isCorrect": true, "feedback": "Pregunta adicional muy natural. 'Do you know if...?' es una forma más suave e indirecta de preguntar." },
+                { "text": "Thanks. Have you organic milk?", "isCorrect": false, "feedback": "El orden es incorrecto para esta pregunta: 'Do you HAVE organic milk?' o 'Do you carry organic milk?' — se necesita 'do' como auxiliar." },
+                { "text": "OK I go to aisle 4.", "isCorrect": false, "feedback": "'I go' no es natural para una acción inmediata. Mejor 'I'll go to aisle 4' (decisión espontánea → will) o 'I'm going to aisle 4'." }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "Yes, we do! It's on the top shelf, next to the regular milk. It's a bit more expensive, but it's very popular.",
+              "translation": "¡Sí! Está en el estante de arriba, al lado de la leche regular. Es un poco más cara, pero es muy popular."
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                { "text": "That's fine. I'll take it. I'm also looking for bread — is the bakery section nearby?", "isCorrect": true, "feedback": "Muy fluido. 'I'll take it' = lo llevo (decisión espontánea → will). Continúa la conversación de forma natural." },
+                { "text": "It's OK but is very expensive. I take cheap milk.", "isCorrect": false, "feedback": "Gramaticalmente: 'It's OK, but IT'S very expensive'. Sujeto obligatorio. 'I'll take the cheaper milk' sería más natural." },
+                { "text": "I don't care. Give me it.", "isCorrect": false, "feedback": "Muy brusco. 'Give me it' suena raro — mejor 'I'll take it' o 'I'll get it'." }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "The bakery is at the far end of the store, past the cereal aisle. You can't miss it — you'll smell it before you see it!",
+              "translation": "La panadería está al fondo de la tienda, más allá del pasillo de cereales. No te la vas a perder — ¡la vas a oler antes de verla!"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                { "text": "Ha, perfect! I love fresh bread. Thank you for your help.", "isCorrect": true, "feedback": "Natural y amigable. Agradecer al final de la interacción es siempre la opción correcta." },
+                { "text": "Good. Goodbye.", "isCorrect": false, "feedback": "Correcto pero frío. Agregar un agradecimiento hace la interacción más natural: 'Great, thanks a lot!'." },
+                { "text": "I go now to find bread. Bye!", "isCorrect": false, "feedback": "'I go now' → 'I'm going now' (presente continuo para acción inmediata). Pero lo más natural sería simplemente 'Great, thank you!'." }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "(at the checkout) Did you find everything you were looking for?",
+              "translation": "(en la caja) ¿Encontró todo lo que buscaba?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                { "text": "Yes, I did! Although I almost forgot the eggs.", "isCorrect": true, "feedback": "Muy natural. 'Yes, I did!' confirma la pregunta. 'Although I almost forgot' = aunque casi me olvidé — conecta con 'almost'." },
+                { "text": "Yes, I found all.", "isCorrect": false, "feedback": "Casi correcto pero poco natural. Mejor: 'Yes, I found everything' — 'all' sin objeto no es tan común. También: 'Yes, I did!' como respuesta corta." },
+                { "text": "Yes. I will pay now.", "isCorrect": false, "feedback": "Gramaticalmente correcto pero poco natural. La respuesta a esta pregunta suele ser breve: 'Yes, I did!' y luego el cajero procede." }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "Your total is twenty-three fifty. Cash or card?",
+              "translation": "Su total es veintitrés cincuenta. ¿Efectivo o tarjeta?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                { "text": "Card, please.", "isCorrect": true, "feedback": "Respuesta perfecta. Simple, directa y educada." },
+                { "text": "I pay with my card.", "isCorrect": false, "feedback": "Funciona pero 'I'll pay with my card' (decisión espontánea → will) es más natural en este contexto." },
+                { "text": "Do you accept credit card?", "isCorrect": true, "feedback": "También válido si no estás seguro si aceptan tarjeta de crédito. Muy práctico." }
+              ],
+              "correctOptionIndex": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Frases del supermercado",
+      "instruction": "Completá las frases con la palabra correcta.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "Excuse me, could you tell me {0} the milk is? I'm {1} for the dairy section.",
+            "blanks": [
+              { "answer": "where", "options": ["where", "what", "when", "which"] },
+              { "answer": "looking", "options": ["looking", "searching", "finding", "going"] }
+            ]
+          },
+          {
+            "template": "I {0} take the organic milk. The total is twenty {1} please.",
+            "blanks": [
+              { "answer": "will", "options": ["will", "would", "am going", "want to"] },
+              { "answer": "dollars", "options": ["dollars", "euros", "cents", "coins"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Conversación completa!",
+      "instruction": "Supermercado: 'Could you tell me where...?' (educado), 'Do you carry/have...?' (para preguntar por productos). Decisiones espontáneas: 'I'll take it' (will para resolver en el momento). 'Did you find everything?' = ¿Encontró todo? 'Cash or card?' = ¿Efectivo o tarjeta?",
+      "itemIndices": [0, 1]
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "id": "grammar-a2-14",
+  "title": "Tag Questions: ¿no?, ¿verdad?",
+  "description": "You're from Argentina, aren't you? Las preguntas coletilla para confirmar información. No tienen equivalente estructural en español.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Tag Questions",
+      "back": "Statement, + opposite auxiliary + pronoun?",
+      "reading": "",
+      "explanation": "Las tag questions van al final de una oración para pedir confirmación. Equivalen a '¿no?', '¿verdad?', '¿eh?' en español. Regla: oración afirmativa → tag negativo. Oración negativa → tag positivo. El pronombre del tag reemplaza al sujeto.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Tag Questions (Statement, + opposite auxiliary + pronoun?)"
+      }
+    },
+    {
+      "front": "You are from Argentina, aren't you?",
+      "back": "Sos de Argentina, ¿no?",
+      "reading": "",
+      "explanation": "Afirmativa 'you are' → tag negativo 'aren't you'. El auxiliar del tag ('aren't') es el opuesto del auxiliar de la oración ('are'). El pronombre 'you' repite el sujeto."
+    },
+    {
+      "front": "She doesn't like fish, does she?",
+      "back": "A ella no le gusta el pescado, ¿verdad?",
+      "reading": "",
+      "explanation": "Negativa 'doesn't' → tag positivo 'does she'. En el tag SIEMPRE se usa el pronombre (she, he, they), nunca el sustantivo: NOT 'does María?'"
+    },
+    {
+      "front": "They can swim, can't they?",
+      "back": "Saben nadar, ¿no?",
+      "reading": "",
+      "explanation": "Con modales: 'can' → tag 'can't'. 'will' → 'won't'. 'have to' es más complejo: 'You have to go, don't you?' — se usa 'do' como auxiliar del tag."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Tag questions: confirmando lo que decís",
+      "instruction": "En español decimos '¿no?', '¿verdad?' al final de una oración. En inglés es más complejo porque el tag cambia según el auxiliar de la oración. Regla fundamental: si la oración es afirmativa, el tag es negativo. Si la oración es negativa, el tag es positivo.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es el tag correcto?",
+      "instruction": "Elegí el tag question correcto para cada oración.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá el tag",
+      "instruction": "Escribí el tag question correcto.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "It's a beautiful day, {0} {1}?",
+            "blanks": [
+              {
+                "answer": "isn't",
+                "options": [
+                  "isn't",
+                  "is",
+                  "wasn't",
+                  "aren't"
+                ]
+              },
+              {
+                "answer": "it",
+                "options": [
+                  "it",
+                  "this",
+                  "that",
+                  "there"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "They haven't finished yet, {0} {1}?",
+            "blanks": [
+              {
+                "answer": "have",
+                "options": [
+                  "have",
+                  "haven't",
+                  "had",
+                  "did"
+                ]
+              },
+              {
+                "answer": "they",
+                "options": [
+                  "they",
+                  "it",
+                  "we",
+                  "them"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "Errores en tag questions",
+      "instruction": "Identificá si el tag question está formado correctamente.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "She works here, doesn't she?",
+            "isCorrect": true,
+            "explanation": "Correcta. 'She works' (afirmativa, present simple con she → 'does') → tag negativo: 'doesn't she?'.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "You went to the party, didn't you?",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Went' (past simple, afirmativo → 'did') → tag negativo: 'didn't you?'.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "He is very tall, isn't he?",
+            "isCorrect": true,
+            "explanation": "Correcta. 'He is' (afirmativa → 'is') → tag negativo: 'isn't he?'.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "They don't like coffee, do they?",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Don't like' (negativa → 'don't') → tag positivo: 'do they?'.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "You speak Spanish, don't he?",
+            "isCorrect": false,
+            "correction": "You speak Spanish, don't you?",
+            "explanation": "El pronombre del tag SIEMPRE coincide con el SUJETO de la oración. El sujeto es 'you' → el tag es 'don't YOU?', no 'don't he'.",
+            "errorType": "pronoun"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Tag questions: oración afirmativa → tag negativo (isn't it?, doesn't she?). Oración negativa → tag positivo (is it?, does she?). El pronombre del tag = el sujeto de la oración. El auxiliar del tag = el auxiliar de la oración en el tiempo contrario. Se usan para confirmar información o invitar a acordar.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ]
+}

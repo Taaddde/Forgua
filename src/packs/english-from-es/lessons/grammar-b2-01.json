@@ -1,0 +1,233 @@
+{
+  "id": "grammar-b2-01",
+  "title": "Mixed Conditionals: Mezclar Tiempos en Hipotéticas",
+  "description": "Los condicionales mixtos combinan condición y resultado de tiempos diferentes. Dominarlos es una marca clara del B2.",
+  "level": "b2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Mixed Conditionals (If + past perfect, would + infinitive | If + past simple, would have + past participle)",
+      "back": "condicionales mixtos (mezcla de tiempos)",
+      "reading": "",
+      "explanation": "Cuando la condición y el resultado pertenecen a tiempos diferentes, usamos mixed conditionals. Tipo A: condición pasada + resultado presente ('If I had studied medicine, I would be a doctor now'). Tipo B: condición presente + resultado pasado ('If she weren't so shy, she would have spoken to him'). Preguntate: ¿cuándo es la condición? ¿cuándo es el resultado?",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Mixed Conditionals (If + past perfect, would + infinitive | If + past simple, would have + past participle)"
+      }
+    },
+    {
+      "front": "Condición pasada → resultado presente",
+      "back": "If + past perfect, ... would + infinitive",
+      "reading": "",
+      "explanation": "Tipo A de mixed conditional: algo que NO pasó en el pasado tiene consecuencias en el presente. 'If I had studied medicine [en el pasado], I would be a doctor now [en el presente]'. El resultado con 'would be' muestra la situación actual irreal.",
+      "mnemonic": "Past mistake → present consequence"
+    },
+    {
+      "front": "Condición presente → resultado pasado",
+      "back": "If + past simple, ... would have + past participle",
+      "reading": "",
+      "explanation": "Tipo B de mixed conditional: una característica o situación actual irreal con un resultado que habría ocurrido en el pasado. 'If she weren't so shy [ahora], she would have spoken to him [en esa fiesta]'. El resultado con 'would have + pp' se ubica en el pasado.",
+      "mnemonic": "Present trait → past consequence"
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Mixed Conditionals: la llave del B2",
+      "instruction": "Ya conocés el 2do condicional (presente irreal) y el 3ro (pasado irreal). Los mixed conditionals los combinan: la condición y el resultado están en tiempos DIFERENTES. Hay dos tipos: (A) algo no pasó antes → consecuencia en el presente, (B) algo no es así ahora → consecuencia que no ocurrió en el pasado.",
+      "itemIndices": [
+        0
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Los dos patrones del mixed conditional",
+      "instruction": "Tipo A — If I had studied... (past perfect) → I would be... (would + infinitive): causa pasada, consecuencia presente. Tipo B — If she weren't... (past simple) → she would have spoken... (would have + pp): causa presente, consecuencia pasada. El truco: identificá si la condición es sobre ahora o sobre antes, y luego si el resultado es sobre ahora o sobre antes.",
+      "itemIndices": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué tipo de mixed conditional es?",
+      "instruction": "Elegí la descripción correcta para cada oración.",
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá los mixed conditionals",
+      "instruction": "Ordená las palabras para formar mixed conditionals correctos.",
+      "itemIndices": [
+        0,
+        1,
+        2
+      ],
+      "config": {
+        "sentences": [
+          {
+            "translation": "Si hubiera ahorrado más dinero, ahora no tendría deudas.",
+            "fragments": [
+              "If",
+              "I had saved",
+              "more money,",
+              "I would not have",
+              "any debts now."
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3,
+              4
+            ]
+          },
+          {
+            "translation": "Si fuera más organizada, habría terminado el proyecto a tiempo.",
+            "fragments": [
+              "If",
+              "she were more organized,",
+              "she would have finished",
+              "the project on time."
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá los mixed conditionals",
+      "instruction": "Completá los espacios con la forma verbal correcta.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "If I {0} to university, I {1} in a much better position in my career right now.",
+            "blanks": [
+              {
+                "answer": "had gone",
+                "options": [
+                  "had gone",
+                  "went",
+                  "would go",
+                  "would have gone"
+                ]
+              },
+              {
+                "answer": "would be",
+                "options": [
+                  "would be",
+                  "would have been",
+                  "was",
+                  "had been"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "If she {0} so risk-averse, she {1} the investment when she had the chance.",
+            "blanks": [
+              {
+                "answer": "weren't",
+                "options": [
+                  "weren't",
+                  "hadn't been",
+                  "wouldn't be",
+                  "didn't be"
+                ]
+              },
+              {
+                "answer": "would have made",
+                "options": [
+                  "would have made",
+                  "would make",
+                  "had made",
+                  "made"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "If he {0} the contract more carefully, we {1} dealing with all these legal complications now.",
+            "blanks": [
+              {
+                "answer": "had read",
+                "options": [
+                  "had read",
+                  "read",
+                  "would read",
+                  "would have read"
+                ]
+              },
+              {
+                "answer": "wouldn't be",
+                "options": [
+                  "wouldn't be",
+                  "wouldn't have been",
+                  "hadn't been",
+                  "weren't"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Identificá errores en el uso de mixed conditionals.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "If I had taken that course, I would speak better English now.",
+            "isCorrect": true,
+            "explanation": "Correcta. Mixed conditional tipo A clásico: condición pasada (had taken) + resultado presente (would speak now). Note 'now' que confirma que el resultado es presente.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "If she was more confident, she would have got the job.",
+            "isCorrect": false,
+            "correction": "If she were more confident, she would have got the job.",
+            "explanation": "En mixed conditionals tipo B (y en todo condicional irreal), el verbo 'to be' en la cláusula 'if' usa 'were' para todas las personas, no 'was'. Aunque 'was' se escucha en inglés coloquial, 'were' es la forma prescriptivamente correcta y la que se espera en B2.",
+            "errorType": "grammar"
+          },
+          {
+            "sentence": "If we had left earlier, we wouldn't be stuck in traffic right now.",
+            "isCorrect": true,
+            "explanation": "Correcta. Mixed conditional tipo A: acción pasada no realizada (hadn't left early) → consecuencia presente (stuck in traffic now). Note 'right now' como marcador del resultado presente.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "If I were richer, I had bought a bigger house last year.",
+            "isCorrect": false,
+            "correction": "If I were richer, I would have bought a bigger house last year.",
+            "explanation": "El resultado de un conditional requiere 'would have + past participle' cuando se refiere al pasado. 'Had bought' sonaría como el pluscuamperfecto, no como resultado condicional. La estructura correcta es: condición presente irreal (were) → resultado pasado (would have bought).",
+            "errorType": "grammar"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Mixed conditionals: Tipo A = If + past perfect, would + infinitive (pasado irreal → presente). Tipo B = If + past simple/were, would have + past participle (presente irreal → pasado). Clave: identificá el tiempo de la condición y el tiempo del resultado. Con 'be' siempre usá 'were' en las condiciones irreales. Marcadores de ayuda: 'now', 'right now' indican resultado presente; 'then', 'at that time', 'last year' indican resultado pasado.",
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
+    }
+  ]
+}

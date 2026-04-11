@@ -1,0 +1,163 @@
+{
+  "id": "vocab-b1-02",
+  "title": "Travel & Transport: Airports and Beyond",
+  "description": "flight, departure, boarding pass, accommodation, destination, luggage — todo lo que necesitás para viajar y no perderte en ningún aeropuerto.",
+  "level": "b1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "flight",
+      "back": "vuelo",
+      "reading": "/flaɪt/",
+      "explanation": "Colocaciones: CATCH a flight (tomar un vuelo), MISS a flight (perder el vuelo), a DIRECT flight (vuelo directo), a CONNECTING flight (vuelo de conexión). 'Our flight was delayed by two hours.'",
+      "cardRef": { "category": "vocabulary", "front": "flight" }
+    },
+    {
+      "front": "departure",
+      "back": "salida / partida",
+      "reading": "/dɪˈpɑːrtʃər/",
+      "explanation": "Salida (de avión, tren, bus). Opuesto: ARRIVAL. 'Departure gate' = puerta de embarque. 'Departure lounge' = sala de espera antes de embarcar. 'The departure has been delayed.'",
+      "cardRef": { "category": "vocabulary", "front": "departure" }
+    },
+    {
+      "front": "boarding pass",
+      "back": "tarjeta de embarque",
+      "reading": "/ˈbɔːrdɪŋ pæs/",
+      "explanation": "El documento (físico o digital) que te permite subir al avión. 'Please have your boarding pass ready.' Los aeropuertos modernos aceptan boarding passes en el teléfono.",
+      "cardRef": { "category": "vocabulary", "front": "boarding pass" }
+    },
+    {
+      "front": "accommodation",
+      "back": "alojamiento / hospedaje",
+      "reading": "/əˌkɑːməˈdeɪʃən/",
+      "explanation": "INCONTABLE en inglés: 'accommodation' (sin -s). Nunca decir 'accommodations' para el alojamiento en sí (aunque 'accommodations' existe en americano). 'We booked our accommodation online.'",
+      "cardRef": { "category": "vocabulary", "front": "accommodation" }
+    },
+    {
+      "front": "destination",
+      "back": "destino",
+      "reading": "/ˌdɛstɪˈneɪʃən/",
+      "explanation": "El lugar al que viajás. 'What is your final destination?' Colocaciones: a POPULAR destination, a TOURIST destination, the FINAL destination. La pronunciación difiere del español: énfasis en '-NA-tion'.",
+      "cardRef": { "category": "vocabulary", "front": "destination" }
+    },
+    {
+      "front": "luggage",
+      "back": "equipaje",
+      "reading": "/ˈlʌɡɪdʒ/",
+      "explanation": "INCONTABLE: 'luggage' sin -s (al igual que 'baggage' que es sinónimo). Para decir 'una maleta' se dice 'a piece of luggage' o simplemente 'a suitcase/bag'. 'My luggage didn't arrive.'",
+      "cardRef": { "category": "vocabulary", "front": "luggage" }
+    },
+    {
+      "front": "platform",
+      "back": "andén / plataforma",
+      "reading": "/ˈplætfɔːrm/",
+      "explanation": "Andén de tren. 'The train leaves from platform 3.' En tech también significa 'plataforma digital' (social media platform). Diferencia cultural: en UK los andenes se numeran, en otros lugares se usan letras.",
+      "cardRef": { "category": "vocabulary", "front": "platform" }
+    },
+    {
+      "front": "passenger",
+      "back": "pasajero",
+      "reading": "/ˈpæsəndʒər/",
+      "explanation": "La persona que viaja en un vehículo (sin conducirlo). 'All passengers must fasten their seatbelts.' Diferencia: PASSENGER (pasajero) vs DRIVER/PILOT (quien conduce).",
+      "cardRef": { "category": "vocabulary", "front": "passenger" }
+    },
+    {
+      "front": "round trip",
+      "back": "viaje de ida y vuelta",
+      "reading": "/raʊnd trɪp/",
+      "explanation": "Ida y vuelta. 'A round trip ticket to Boston.' En UK se dice 'a return ticket'. ONE-WAY ticket = solo ida. 'I'd like a round trip, please' — lo que decís en la taquilla.",
+      "cardRef": { "category": "vocabulary", "front": "round trip" }
+    },
+    {
+      "front": "customs",
+      "back": "aduana",
+      "reading": "/ˈkʌstəmz/",
+      "explanation": "La aduana del aeropuerto o frontera. 'We had to go through customs at the border.' Siempre plural en inglés. También significa 'costumbres' (traditions) — mismo contexto determina cuál es.",
+      "cardRef": { "category": "vocabulary", "front": "customs" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario del aeropuerto",
+      "instruction": "5 palabras esenciales para moverte en un aeropuerto. Fijate en las palabras incontables (luggage, accommodation) y las colocaciones clave.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "Vocabulario de viajes: trenes y más",
+      "instruction": "5 palabras más para todo tipo de viaje. 'Customs' es siempre plural. 'Round trip' = ida y vuelta (en UK: return).",
+      "itemIndices": [5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto de cada palabra.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "listen-identify",
+      "title": "Escuchá y elegí",
+      "instruction": "Escuchá la pronunciación y elegí la palabra correcta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Dónde se usa bien?",
+      "instruction": "Elegí la oración donde la palabra está usada correctamente.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "luggage",
+            "translation": "equipaje",
+            "options": [
+              "I have three luggages to check in.",
+              "My luggage is very heavy today.",
+              "Can I have a luggage, please?",
+              "These luggages belong to those passengers."
+            ],
+            "correctIndex": 1,
+            "feedback": "'Luggage' es incontable en inglés — NUNCA lleva -s. Correcto: 'My luggage is heavy.' Para referirse a una pieza: 'a piece of luggage' o 'a suitcase/bag'."
+          },
+          {
+            "targetWord": "customs",
+            "translation": "aduana",
+            "options": [
+              "We went through the custom at the airport.",
+              "We went through customs at the airport.",
+              "The customs was very long today.",
+              "I passed the custom quickly."
+            ],
+            "correctIndex": 1,
+            "feedback": "'Customs' siempre es plural cuando hablamos de la aduana. 'Go through customs' es la colocación estándar. El verbo también va en plural: 'Customs were strict'."
+          },
+          {
+            "targetWord": "boarding pass",
+            "translation": "tarjeta de embarque",
+            "options": [
+              "I need to show my boarding pass at the platform.",
+              "Please have your boarding pass ready at the gate.",
+              "My boarding pass arrived in the mail last week.",
+              "The boarding pass costs extra money."
+            ],
+            "correctIndex": 1,
+            "feedback": "Se muestra el boarding pass en la GATE (puerta de embarque), no en el andén (platform). La boarding pass es gratuita, viene con el ticket."
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice en inglés?",
+      "instruction": "Ves el significado en español. Escribí la palabra o frase en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "10 palabras de viaje: flight (catch/miss a flight), departure (≠ arrival), boarding pass (para embarcar), accommodation (incontable, sin -s), destination, luggage (incontable, sin -s), platform (andén), passenger, round trip (ida y vuelta, en UK: return), customs (siempre plural — la aduana).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

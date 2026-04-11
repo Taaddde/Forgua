@@ -1,0 +1,194 @@
+{
+  "id": "conv-b2-01",
+  "title": "Professional Meeting: Presenting Quarterly Results",
+  "description": "Dirigir y participar en una reunión profesional en inglés: presentar datos, responder preguntas y manejar objeciones.",
+  "level": "b2",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "I'd like to draw your attention to...",
+      "back": "Me gustaría llamar su atención sobre...",
+      "reading": "",
+      "explanation": "Fórmula formal para señalar algo importante en una presentación. Alternativas: 'If you could turn to page...', 'As you can see in the chart...'."
+    },
+    {
+      "front": "With all due respect...",
+      "back": "Con todo el respeto / Dicho esto con respeto...",
+      "reading": "",
+      "explanation": "Fórmula para introducir una objeción o desacuerdo con respeto. Cuidado: en inglés, si lo sobreusás puede sonar sarcástico. Es mejor 'I understand your point, but...' en la mayoría de los casos."
+    },
+    {
+      "front": "Going forward...",
+      "back": "De aquí en adelante / En el futuro...",
+      "reading": "",
+      "explanation": "Expresión muy usada en inglés de negocios para hablar de planes futuros o cambios. 'Going forward, we need to focus on...' = En adelante, necesitamos concentrarnos en..."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario para reuniones profesionales",
+      "instruction": "Estas expresiones son esenciales en reuniones de negocios en inglés. Notá el registro — 'I'd like to draw your attention to' es más formal que 'look at this'. 'Going forward' es una expresión típica del inglés corporativo americano que se usa constantemente.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "conversation-script",
+      "title": "Reunión trimestral: presentando resultados",
+      "instruction": "Sos el gerente de ventas presentando los resultados del trimestre al directorio. Elegí las respuestas más apropiadas para el contexto profesional. Las incorrectas reflejan errores típicos de hispanohablantes B2.",
+      "itemIndices": [],
+      "config": {
+        "script": {
+          "id": "conv-b2-quarterly-meeting",
+          "scenario": "Sala de directorio — reunión trimestral de resultados",
+          "level": "b2",
+          "turns": [
+            {
+              "speaker": "npc",
+              "text": "Good morning everyone. Thank you for joining us. I'd like to start by handing over to our Sales Manager to present the Q3 results. The floor is yours.",
+              "translation": "Buenos días a todos. Gracias por unirse. Me gustaría comenzar dándole la palabra a nuestra gerente de ventas para presentar los resultados del Q3. La palabra es suya."
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                {
+                  "text": "Thank you, James. Good morning, everyone. I'd like to draw your attention to the key highlights of our Q3 performance.",
+                  "isCorrect": true,
+                  "feedback": "Perfecto — respuesta profesional. 'Thank you' al chairperson + saludo al grupo + señalás el propósito claramente.",
+                  "translation": "Gracias, James. Buenos días a todos. Me gustaría llamar su atención sobre los puntos principales de nuestro desempeño del Q3."
+                },
+                {
+                  "text": "OK! So, I'm going to tell you now about the numbers and things we did.",
+                  "isCorrect": false,
+                  "feedback": "Demasiado informal para una presentación al directorio. 'Things we did' es vago. Un gerente de ventas diría 'key performance metrics' o 'highlights'.",
+                  "translation": "OK. Voy a contarles ahora sobre los números y las cosas que hicimos."
+                },
+                {
+                  "text": "With pleasure. As per the agenda circulated prior to this meeting, our Q3 revenue exceeded projections by 12%.",
+                  "isCorrect": true,
+                  "feedback": "Excelente — muy formal y profesional. 'As per the agenda' y 'exceeded projections' son expresiones de alto nivel B2.",
+                  "translation": "Con mucho gusto. Según el orden del día circulado antes de esta reunión, nuestros ingresos del Q3 superaron las proyecciones en un 12%."
+                },
+                {
+                  "text": "Of course! Thanks! We did very good this quarter. Revenue was big.",
+                  "isCorrect": false,
+                  "feedback": "'We did very good' → 'We performed very well'. 'Big' es demasiado informal para 'revenue' — se dice 'significant', 'substantial' o da un número específico.",
+                  "translation": "¡Por supuesto! ¡Gracias! Lo hicimos muy bien este trimestre. Los ingresos fueron grandes."
+                }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "Those are impressive numbers. However, I notice that customer acquisition costs have increased by 18% this quarter. Can you explain that?",
+              "translation": "Son cifras impresionantes. Sin embargo, noto que los costos de adquisición de clientes aumentaron un 18% este trimestre. ¿Puede explicar eso?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                {
+                  "text": "That's a valid concern. The increase reflects our investment in three new markets. Going forward, we expect these costs to normalize once the initial penetration phase is complete.",
+                  "isCorrect": true,
+                  "feedback": "Excelente manejo de una objeción. 'Valid concern' reconoce el punto, explicás la causa con precisión, y 'going forward' orienta al futuro con confianza.",
+                  "translation": "Es una preocupación válida. El aumento refleja nuestra inversión en tres mercados nuevos. De aquí en adelante, esperamos que estos costos se normalicen..."
+                },
+                {
+                  "text": "Yes, it's a problem. We spent too much money. We will try to spend less next quarter.",
+                  "isCorrect": false,
+                  "feedback": "'Yes, it's a problem' suena a derrota inmediata. Un gerente framing esto como una inversión estratégica, no como un problema. Además, 'spend less' es vago — se dice 'reduce customer acquisition costs' o 'optimize our marketing spend'.",
+                  "translation": "Sí, es un problema. Gastamos demasiado dinero. Vamos a tratar de gastar menos el próximo trimestre."
+                },
+                {
+                  "text": "With all due respect, this is actually a positive indicator. Higher acquisition costs reflect our aggressive expansion into premium segments, which will yield higher lifetime customer value.",
+                  "isCorrect": true,
+                  "feedback": "'With all due respect' usado aquí de forma apropiada para reencuadrar la preocupación. La explicación es sofisticada y utiliza vocabulario técnico correcto.",
+                  "translation": "Con todo el respeto, esto es en realidad un indicador positivo. Los mayores costos de adquisición reflejan nuestra expansión agresiva hacia segmentos premium..."
+                },
+                {
+                  "text": "Don't worry about that. It's normal.",
+                  "isCorrect": false,
+                  "feedback": "'Don't worry' es dismissive — nunca le digas a un director que no se preocupe. En inglés profesional, siempre reconocés la pregunta ('That's a fair point', 'I understand the concern') antes de responder.",
+                  "translation": "No se preocupe. Es normal."
+                }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "I see. And what are your projections for Q4?",
+              "translation": "Entiendo. ¿Y cuáles son sus proyecciones para el Q4?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                {
+                  "text": "Based on current trends and the pipeline we have built, we are projecting a 15% revenue increase, subject to market conditions remaining stable.",
+                  "isCorrect": true,
+                  "feedback": "Perfecto. 'Based on current trends' es el framing correcto. 'Subject to market conditions' es una calificación profesional importante — nunca das proyecciones sin calificadores en un directorio.",
+                  "translation": "Basado en las tendencias actuales y el pipeline que hemos construido, proyectamos un aumento de ingresos del 15%, sujeto a que las condiciones del mercado se mantengan estables."
+                },
+                {
+                  "text": "We think Q4 will be also good. Maybe 15% more, but it depends.",
+                  "isCorrect": false,
+                  "feedback": "'We think it will be good' y 'but it depends' son demasiado vagos. Las proyecciones profesionales usan: 'We are projecting', 'We anticipate', o 'Our forecast shows' + número + calificador.",
+                  "translation": "Creemos que el Q4 también será bueno. Tal vez un 15% más, pero depende."
+                },
+                {
+                  "text": "We are confident that we will meet or exceed our Q4 targets, provided we successfully implement the new campaign strategy we discussed.",
+                  "isCorrect": true,
+                  "feedback": "'Meet or exceed targets' es la expresión estándar. 'Provided we successfully implement' es una condición bien expresada con 'provided' (más formal que 'if').",
+                  "translation": "Confiamos en que cumpliremos o superaremos nuestros objetivos del Q4, siempre y cuando implementemos exitosamente la nueva estrategia de campaña."
+                },
+                {
+                  "text": "I'm not sure. We'll see what happens next quarter.",
+                  "isCorrect": false,
+                  "feedback": "Totalmente inapropiado en una presentación al directorio. Proyectar incertidumbre extrema frente al board puede costar el puesto. Siempre presentá proyecciones con base en datos, aunque incluyas calificadores de riesgo.",
+                  "translation": "No estoy seguro. Veremos qué pasa el próximo trimestre."
+                }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "Thank you. One last question — are there any risks we should be aware of?",
+              "translation": "Gracias. Una última pregunta: ¿hay algún riesgo que debamos tener en cuenta?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                {
+                  "text": "There are a few factors worth monitoring. The main risk is potential supply chain disruption, which could impact delivery timelines. We have contingency plans in place, but it is important to take this into account when reviewing the Q4 forecast.",
+                  "isCorrect": true,
+                  "feedback": "Respuesta B2 modelo: reconocés el riesgo con datos específicos, mencionás las medidas ya tomadas, y usás 'take into account' (vocabulario de esta lección) de forma natural.",
+                  "translation": "Hay algunos factores que vale la pena monitorear. El principal riesgo es la posible disrupción en la cadena de suministro..."
+                },
+                {
+                  "text": "No, everything is fine. We don't have any risks.",
+                  "isCorrect": false,
+                  "feedback": "Nunca digas que no hay riesgos en una presentación profesional — no es creíble. Los directores quieren que los gerentes sean honestos sobre los riesgos y tengan planes para mitigarlos.",
+                  "translation": "No, todo está bien. No tenemos ningún riesgo."
+                },
+                {
+                  "text": "There are significant risks. The market is very bad right now and we don't know what will happen.",
+                  "isCorrect": false,
+                  "feedback": "Excesivamente negativo y vago. Un gerente profesional no dice 'we don't know what will happen' — presenta los riesgos identificados con especificidad y las estrategias de mitigación.",
+                  "translation": "Hay riesgos significativos. El mercado está muy mal ahora mismo y no sabemos qué va a pasar."
+                }
+              ],
+              "correctOptionIndex": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "En una reunión profesional en inglés: (1) Reconocé siempre las objeciones antes de responder ('That's a valid concern'). (2) Usá vocabulario técnico apropiado ('exceed projections', 'customer acquisition cost', 'going forward'). (3) Presentá riesgos con honestidad y con planes de mitigación. (4) Nunca seas demasiado vago ('it depends') ni demasiado negativo ('we don't know'). (5) 'With all due respect' solo cuando realmente encuadras algo diferente — si lo sobreusás, suena sarcástico.",
+      "itemIndices": [0, 1, 2]
+    }
+  ]
+}

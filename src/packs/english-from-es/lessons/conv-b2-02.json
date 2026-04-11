@@ -1,0 +1,194 @@
+{
+  "id": "conv-b2-02",
+  "title": "Job Interview: Applying for a Professional Role",
+  "description": "Entrevista de trabajo en inglés: responder preguntas sobre experiencia, habilidades y motivación con naturalidad y precisión.",
+  "level": "b2",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "strength / weakness (in job interviews)",
+      "back": "fortaleza / debilidad (en entrevistas laborales)",
+      "reading": "",
+      "explanation": "'What's your greatest strength/weakness?' — preguntas clásicas de entrevista. Al hablar de debilidades, siempre termina con una nota positiva: 'I tend to be a perfectionist, which sometimes slows me down, but I've been working on prioritizing more effectively.'"
+    },
+    {
+      "front": "I'd be a great fit because...",
+      "back": "Sería una buena opción porque...",
+      "reading": "",
+      "explanation": "'Fit' en entrevistas = encajar con la cultura/requisitos del puesto. 'I'm a great fit for this role because...' = las razones por las que encajo perfectamente. Muy útil para la pregunta 'Why should we hire you?'"
+    },
+    {
+      "front": "track record",
+      "back": "historial / trayectoria demostrada",
+      "reading": "/træk ˈrɛkərd/",
+      "explanation": "Registro comprobado de logros pasados. 'A track record of success' = historial probado de éxito. Colocaciones: have a proven track record, strong track record, track record in leadership."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario de entrevistas de trabajo",
+      "instruction": "Estas expresiones son fundamentales en entrevistas en inglés. 'Track record' suena profesional y concreto. 'I'd be a great fit' es una frase de cierre efectiva. Prestá atención a cómo los errores incorrectos reflejan problemas típicos: ser demasiado modesto, usar registro incorrecto, o traducir literalmente del español.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "conversation-script",
+      "title": "Entrevista de trabajo: rol profesional",
+      "instruction": "Estás en una entrevista para un puesto de Marketing Manager en una empresa internacional. El entrevistador es un HR Manager nativo de inglés. Elegí las respuestas más efectivas y apropiadas.",
+      "itemIndices": [],
+      "config": {
+        "script": {
+          "id": "conv-b2-job-interview",
+          "scenario": "Oficina de HR — entrevista para Marketing Manager",
+          "level": "b2",
+          "turns": [
+            {
+              "speaker": "npc",
+              "text": "Thanks for coming in today. Could you start by telling me a little about yourself and why you're interested in this role?",
+              "translation": "Gracias por venir hoy. ¿Podría empezar contándome un poco sobre usted y por qué le interesa este puesto?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                {
+                  "text": "Certainly. I have over five years of experience in digital marketing, most recently as a Campaign Manager at a mid-sized tech company. I'm particularly drawn to this role because of the opportunity to work on international markets, which aligns with my long-term career goals.",
+                  "isCorrect": true,
+                  "feedback": "Excelente respuesta de apertura. Menciona experiencia relevante específica, el cargo anterior, y conecta tu interés con la oportunidad concreta. 'Aligns with' suena profesional.",
+                  "translation": "Por supuesto. Tengo más de cinco años de experiencia en marketing digital, más recientemente como Campaign Manager en una empresa de tecnología mediana..."
+                },
+                {
+                  "text": "I am very interested in this work because I like marketing and I think this company is very good and I want to work here.",
+                  "isCorrect": false,
+                  "feedback": "Demasiado vago e infantil para una entrevista profesional. No hay experiencia específica, no hay razón concreta para querer el puesto. Los entrevistadores quieren evidencia y especificidad.",
+                  "translation": "Estoy muy interesado en este trabajo porque me gusta el marketing y creo que esta empresa es muy buena y quiero trabajar aquí."
+                },
+                {
+                  "text": "I've spent the past five years building expertise in performance marketing and brand strategy. What excites me about this role specifically is the chance to lead a cross-functional team — something I've been actively developing in my current position.",
+                  "isCorrect": true,
+                  "feedback": "Muy buena respuesta. 'Building expertise' y 'cross-functional team' demuestran vocabulario profesional. Mencionás crecimiento profesional activo ('actively developing'), lo cual muestra iniciativa.",
+                  "translation": "He pasado los últimos cinco años desarrollando expertise en marketing de desempeño y estrategia de marca..."
+                },
+                {
+                  "text": "I am a person who works very hard and is very motivated. I have much experience in marketing things.",
+                  "isCorrect": false,
+                  "feedback": "'Much experience' — en inglés, para cosas contables en plural se dice 'a lot of experience' o 'extensive experience', no 'much'. 'Marketing things' es impreciso. Las respuestas de entrevista necesitan ejemplos concretos.",
+                  "translation": "Soy una persona que trabaja muy duro y está muy motivada. Tengo mucha experiencia en cosas de marketing."
+                }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "Impressive. Can you tell me about a time when you had to manage a project under significant time pressure?",
+              "translation": "Impresionante. ¿Puede contarme sobre una ocasión en la que tuvo que gestionar un proyecto bajo una presión de tiempo significativa?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                {
+                  "text": "Absolutely. Last year, we had to launch a product campaign two weeks earlier than planned due to a competitor's announcement. I restructured the team's workflow, prioritized the most critical deliverables, and we launched on time. The campaign exceeded our click-through rate targets by 25%.",
+                  "isCorrect": true,
+                  "feedback": "Respuesta STAR perfecta (Situation-Task-Action-Result). Situación clara, acciones específicas tomadas, resultado cuantificado. Así se responden las preguntas de competencia en inglés.",
+                  "translation": "Por supuesto. El año pasado, tuvimos que lanzar una campaña dos semanas antes de lo planeado debido al anuncio de un competidor..."
+                },
+                {
+                  "text": "Yes, I always work well under pressure. I had a deadline once and I finished it in time. My boss was happy.",
+                  "isCorrect": false,
+                  "feedback": "Vago y sin estructura. Las preguntas de 'tell me about a time when...' requieren la estructura STAR: Situación específica, Tarea, Acción concreta, Resultado medible. 'I finished it in time. My boss was happy' no da ninguna información útil al entrevistador.",
+                  "translation": "Sí, siempre trabajo bien bajo presión. Tuve un plazo una vez y lo terminé a tiempo. Mi jefe estaba contento."
+                },
+                {
+                  "text": "When I was at my previous company, we experienced an unexpected product recall that required us to pivot the entire marketing strategy within 72 hours. I coordinated across three departments and ensured all messaging was consistent. The crisis was resolved without significant brand damage.",
+                  "isCorrect": true,
+                  "feedback": "Excelente. 'Pivot the strategy', 'coordinated across departments', 'consistent messaging', 'brand damage' — vocabulario de marketing de alto nivel, y una situación más dramática que muestra capacidad de liderazgo.",
+                  "translation": "Cuando estaba en mi empresa anterior, experimentamos un retiro inesperado de producto que nos requirió pivotar toda la estrategia de marketing en 72 horas..."
+                }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "What would you say is your greatest weakness?",
+              "translation": "¿Cuál diría que es su mayor debilidad?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                {
+                  "text": "I tend to over-invest in detail at times, which can affect my pacing. However, I've been addressing this by delegating more effectively and setting clearer milestones for myself and my team.",
+                  "isCorrect": true,
+                  "feedback": "Respuesta modelo para 'greatest weakness': debilidad real pero profesional, + cómo la estás trabajando activamente. 'Addressing this by delegating' muestra autoconciencia y crecimiento.",
+                  "translation": "A veces tiendo a invertir demasiado en los detalles, lo que puede afectar mi ritmo. Sin embargo, he estado abordando esto delegando más efectivamente..."
+                },
+                {
+                  "text": "I have no weaknesses. I always do everything perfectly.",
+                  "isCorrect": false,
+                  "feedback": "Nunca digas que no tenés debilidades — los entrevistadores lo ven como falta de autoconciencia o deshonestidad. Esta respuesta es una red flag importante en inglés anglosajón.",
+                  "translation": "No tengo debilidades. Siempre hago todo perfectamente."
+                },
+                {
+                  "text": "I sometimes struggle to delegate because I have high standards and want to ensure quality. I've been working on this by developing trust in my team through clear briefings and regular check-ins.",
+                  "isCorrect": true,
+                  "feedback": "Muy buena. Debilidad real (difficulty delegating), razón comprensible (high standards), y acciones concretas para mejorar. 'Regular check-ins' es vocabulario profesional.",
+                  "translation": "A veces tengo dificultades para delegar porque tengo estándares altos y quiero asegurar la calidad..."
+                },
+                {
+                  "text": "My biggest weakness is that I work too much. I'm a workaholic and sometimes I forget to rest.",
+                  "isCorrect": false,
+                  "feedback": "'I work too much / I'm a workaholic' suena como una estrategia de debilidad-falsa. Los entrevistadores modernos lo ven con escepticismo — reconocen que es un intento de convertir una fortaleza en debilidad. Es mejor una debilidad genuina con plan de mejora.",
+                  "translation": "Mi mayor debilidad es que trabajo demasiado. Soy un workaholic y a veces me olvido de descansar."
+                }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "Thank you. Do you have any questions for us?",
+              "translation": "Gracias. ¿Tiene alguna pregunta para nosotros?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                {
+                  "text": "Yes, I do. Could you tell me more about the team I'd be working with, and what does success look like in this role in the first six months?",
+                  "isCorrect": true,
+                  "feedback": "Preguntas excelentes que muestran genuino interés. 'What does success look like' es una pregunta muy apreciada por entrevistadores anglosajones — demuestra que pensás en resultados desde el primer día.",
+                  "translation": "Sí. ¿Podría contarme más sobre el equipo con el que trabajaría y cómo se ve el éxito en este puesto en los primeros seis meses?"
+                },
+                {
+                  "text": "Yes — when will I know if I get the job? And how much is the salary?",
+                  "isCorrect": false,
+                  "feedback": "Preguntar sobre el salario al final de la primera entrevista es considerado prematuro en la cultura anglosajona, especialmente si no se ha introducido el tema antes. El cronograma es válido, pero la pregunta sobre el salario se deja para cuando hay una oferta concreta.",
+                  "translation": "Sí — ¿cuándo sabré si consigo el trabajo? ¿Y cuánto es el salario?"
+                },
+                {
+                  "text": "I have one question: what would be the main challenges someone in this role would face, and how does the company typically support new managers?",
+                  "isCorrect": true,
+                  "feedback": "Muy buena pregunta. Demuestra madurez profesional — te preparás para los desafíos en lugar de asumir que todo será fácil. 'How does the company typically support' muestra interés en el desarrollo profesional.",
+                  "translation": "Tengo una pregunta: ¿cuáles serían los principales desafíos para alguien en este puesto y cómo apoya la empresa típicamente a los nuevos gerentes?"
+                },
+                {
+                  "text": "No, I have no questions. I know everything about the company.",
+                  "isCorrect": false,
+                  "feedback": "No tener preguntas al final de una entrevista se interpreta en la cultura anglosajona como falta de interés o de preparación. SIEMPRE llevá 2-3 preguntas preparadas.",
+                  "translation": "No, no tengo preguntas. Sé todo sobre la empresa."
+                }
+              ],
+              "correctOptionIndex": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Entrevistas de trabajo en inglés: usa la estructura STAR (Situation, Task, Action, Result) para preguntas de competencia. Nunca digas que no tenés debilidades. Siempre llevá 2-3 preguntas para hacerle al entrevistador. Vocabulario clave: 'track record', 'aligns with', 'milestone', 'cross-functional', 'deliver results'. Y sobre el salario: espera a que te hagan una oferta, o a la segunda/tercera ronda.",
+      "itemIndices": [0, 1, 2]
+    }
+  ]
+}

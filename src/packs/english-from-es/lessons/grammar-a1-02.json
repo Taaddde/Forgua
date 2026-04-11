@@ -9,50 +9,43 @@
       "front": "I",
       "back": "yo",
       "reading": "/aɪ/",
-      "explanation": "Siempre en mayúscula, incluso en medio de oración. 'Yesterday I went to school' (no 'yesterday i went').",
-      "cardRef": { "category": "grammar", "front": "I (pronoun)" }
+      "explanation": "Siempre en mayúscula, incluso en medio de oración. 'Yesterday I went to school' (no 'yesterday i went')."
     },
     {
       "front": "you",
       "back": "vos / tú / usted / ustedes",
       "reading": "/juː/",
-      "explanation": "'You' es singular Y plural, formal E informal. Un solo pronombre para todo. No existe 'tú' vs 'usted' en inglés.",
-      "cardRef": { "category": "grammar", "front": "you (pronoun)" }
+      "explanation": "'You' es singular Y plural, formal E informal. Un solo pronombre para todo. No existe 'tú' vs 'usted' en inglés."
     },
     {
       "front": "he / she / it",
       "back": "él / ella / eso (cosas/animales)",
       "reading": "/hiː/ /ʃiː/ /ɪt/",
-      "explanation": "'It' se usa para cosas, animales y situaciones impersonales. 'It is raining' = Llueve (literalmente: 'eso está lloviendo'). En español no necesitás sujeto para 'llueve', pero en inglés SÍ.",
-      "cardRef": { "category": "grammar", "front": "he / she / it" }
+      "explanation": "'It' se usa para cosas, animales y situaciones impersonales. 'It is raining' = Llueve (literalmente: 'eso está lloviendo'). En español no necesitás sujeto para 'llueve', pero en inglés SÍ."
     },
     {
       "front": "we",
       "back": "nosotros / nosotras",
       "reading": "/wiː/",
-      "explanation": "'We' incluye al que habla + otros. 'We are happy' = Estamos contentos / Somos felices.",
-      "cardRef": { "category": "grammar", "front": "we (pronoun)" }
+      "explanation": "'We' incluye al que habla + otros. 'We are happy' = Estamos contentos / Somos felices."
     },
     {
       "front": "they",
       "back": "ellos / ellas",
       "reading": "/ðeɪ/",
-      "explanation": "Pronunciación: 'th' sonoro (/ð/) — la lengua entre los dientes, con vibración. Como en 'the', 'this', 'that'.",
-      "cardRef": { "category": "grammar", "front": "they (pronoun)" }
+      "explanation": "Pronunciación: 'th' sonoro (/ð/) — la lengua entre los dientes, con vibración. Como en 'the', 'this', 'that'."
     },
     {
       "front": "It is raining.",
       "back": "Está lloviendo. / Llueve.",
       "reading": "/ɪt ɪz ˈreɪnɪŋ/",
-      "explanation": "ERROR TÍPICO de hispanohablantes: decir 'Is raining' sin 'It'. En español decimos 'Llueve' sin sujeto (pro-drop). En inglés SIEMPRE necesitás 'It': 'It is raining', 'It is cold', 'It is 3 o'clock'.",
-      "cardRef": { "category": "grammar", "front": "It is raining." }
+      "explanation": "ERROR TÍPICO de hispanohablantes: decir 'Is raining' sin 'It'. En español decimos 'Llueve' sin sujeto (pro-drop). En inglés SIEMPRE necesitás 'It': 'It is raining', 'It is cold', 'It is 3 o'clock'."
     },
     {
       "front": "She is a doctor.",
       "back": "Ella es doctora.",
       "reading": "/ʃiː ɪz ə ˈdɑːktər/",
-      "explanation": "En español podés decir 'Es doctora' sin 'ella'. En inglés NO podés decir 'Is a doctor' — necesitás 'She is a doctor'. Siempre incluí el sujeto.",
-      "cardRef": { "category": "grammar", "front": "She is a doctor." }
+      "explanation": "En español podés decir 'Es doctora' sin 'ella'. En inglés NO podés decir 'Is a doctor' — necesitás 'She is a doctor'. Siempre incluí el sujeto."
     }
   ],
   "steps": [
@@ -60,31 +53,59 @@
       "type": "introduce",
       "title": "Los 7 pronombres sujeto",
       "instruction": "En español, podés decir 'Soy estudiante' sin decir 'yo'. Eso se llama 'pro-drop'. En inglés esto es IMPOSIBLE — siempre necesitás el sujeto. Estos son los 7 pronombres que vas a usar constantemente.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "introduce",
       "title": "El error #1 de los hispanohablantes",
       "instruction": "Mirá estos ejemplos. En español decimos 'Llueve' y 'Es doctora'. En inglés hay que decir 'IT is raining' y 'SHE is a doctor'. Nunca te olvides del sujeto.",
-      "itemIndices": [5, 6]
+      "itemIndices": [
+        5,
+        6
+      ]
     },
     {
       "type": "recognize",
       "title": "¿Qué pronombre va?",
       "instruction": "Elegí el pronombre correcto para cada situación.",
-      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
     },
     {
       "type": "recall",
       "title": "Completá con el pronombre",
       "instruction": "Ves la oración incompleta. Escribí el pronombre que falta.",
-      "itemIndices": [5, 6]
+      "itemIndices": [
+        5,
+        6
+      ]
     },
     {
       "type": "summary",
       "title": "¡Lección completa!",
       "instruction": "Regla de oro: en inglés SIEMPRE se necesita un sujeto explícito. Cuando en español decís 'Llueve', 'Hace frío', 'Es tarde' — en inglés usás 'It': 'It's raining', 'It's cold', 'It's late'. Nunca dejes la oración sin sujeto.",
-      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
     }
   ]
 }

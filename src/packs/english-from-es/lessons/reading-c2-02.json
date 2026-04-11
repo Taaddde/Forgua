@@ -1,0 +1,84 @@
+{
+  "id": "reading-c2-02",
+  "title": "Reading: The Unreliable Narrator",
+  "description": "Ensayo de crítica literaria sobre el narrador no confiable. Taxonomías, ejemplos canónicos y reflexión filosófica sobre la verdad narrativa.",
+  "level": "c2",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "The Unreliable Narrator",
+      "back": "El narrador no confiable — ensayo de crítica literaria.",
+      "explanation": "Ensayo que explora un concepto clave de la teoría narrativa: el narrador cuya credibilidad ha sido comprometida. Incluye taxonomía (deliberadamente engañoso, naivamente no confiable, autoengañado, psicológicamente fracturado), ejemplos canónicos (Christie, Twain, Ishiguro, Palahniuk, Faulkner), y conexión con teoría postmoderna."
+    },
+    {
+      "front": "Key concept: hermeneutic exercise",
+      "back": "Ejercicio hermenéutico — el lector debe interpretar activamente contra inconsistencias.",
+      "explanation": "El narrador no confiable transforma la lectura de recepción pasiva a interpretación activa. El lector debe evaluar el relato contra inconsistencias internas, pistas contextuales, y lo que el narrador omite conspicuamente. Vocabulario especializado: hermeneutic, epistemological, self-serving, continuum, historiography."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Preparación: crítica literaria C2",
+      "instruction": "Este ensayo es teoría literaria sofisticada. Prestá atención a la terminología especializada (unreliable narrator, hermeneutic, epistemological, free indirect speech) y a la estructura de argumentación que conecta casos específicos (Christie, Ishiguro, Faulkner) con una reflexión filosófica general.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Lectura con análisis",
+      "instruction": "Leé el ensayo y respondé las preguntas sobre su argumentación.",
+      "itemIndices": [],
+      "config": {
+        "passage": {
+          "id": "c2-reading-unreliable-narrator",
+          "title": "The Unreliable Narrator",
+          "level": "c2",
+          "text": "The concept of the unreliable narrator — a storyteller whose credibility has been compromised, whether through deliberate deception, psychological instability, naivety, or simple ignorance — is one of the most productive and enduring devices in literary fiction. While Wayne C. Booth coined the term in 'The Rhetoric of Fiction' in 1961, the technique itself is as old as narrative art.\n\nThe taxonomy of unreliable narration is more varied than casual readers might suppose. At one extreme stands the deliberately deceptive narrator, exemplified by Agatha Christie's controversial 'The Murder of Roger Ackroyd,' in which the first-person narrator is revealed to be the murderer. At the other extreme is the naively unreliable narrator, such as Huckleberry Finn, whose limited understanding leads him to interpret events in ways the reader can recognize as distorted. Between these poles lies a rich spectrum: the self-deceiving narrator of Ishiguro's 'The Remains of the Day,' whose controlled prose gradually reveals the emotional truths he cannot bring himself to articulate; and the multiply perspectived narration of Faulkner's 'The Sound and the Fury.'\n\nWhat makes unreliable narration so compelling is that it transforms reading from a passive reception of information into an active hermeneutic exercise. The reader must constantly evaluate the narrator's account against internal inconsistencies, contextual clues, and the implications of what is conspicuously omitted. In this sense, unreliable narration mirrors a fundamental aspect of human experience: we are all, to varying degrees, unreliable narrators of our own lives, constructing self-serving narratives that rationalize our choices.\n\nThe philosophical implications have not been lost on postmodern theorists. If all narration is, to some extent, a construction — if objectivity is an unattainable ideal rather than an achievable standard — then the distinction between 'reliable' and 'unreliable' narration becomes not a binary opposition but a continuum. Ultimately, the enduring power of unreliable narration lies in its capacity to enact, rather than merely describe, the epistemological condition of being human.",
+          "translation": "El concepto del narrador no confiable es uno de los recursos más productivos y perdurables de la ficción literaria. Wayne C. Booth acuñó el término en 1961, pero la técnica en sí es tan antigua como el arte narrativo.",
+          "vocabulary": ["credibility - credibilidad", "taxonomy - taxonomía", "hermeneutic - hermenéutico", "self-serving - autocomplaciente", "continuum - continuo", "epistemological - epistemológico"],
+          "questions": [
+            {
+              "question": "Why does the text describe unreliable narration as transforming reading into a 'hermeneutic exercise'?",
+              "options": [
+                "Because the reader must learn a new language to understand the text.",
+                "Because the reader must actively evaluate the narrator's account against inconsistencies and omissions rather than passively receiving information.",
+                "Because the reader must consult religious texts to interpret the story.",
+                "Because the reader must have a degree in literary criticism to understand the novel."
+              ],
+              "correctIndex": 1,
+              "explanation": "The text states that unreliable narration 'transforms reading from a passive reception of information into an active hermeneutic exercise' where 'The reader must constantly evaluate the narrator's account against internal inconsistencies, contextual clues, and the implications of what is conspicuously omitted.'"
+            },
+            {
+              "question": "What postmodern insight does the text connect to unreliable narration?",
+              "options": [
+                "That all narrators should be trusted equally.",
+                "That literary fiction is inferior to non-fiction.",
+                "That the distinction between reliable and unreliable narration is a continuum, not a binary, because all narration is to some extent a construction.",
+                "That postmodern novels are always better than classical ones."
+              ],
+              "correctIndex": 2,
+              "explanation": "The text argues that 'if all narration is, to some extent, a construction,' then 'the distinction between reliable and unreliable narration becomes not a binary opposition but a continuum.'"
+            },
+            {
+              "question": "How does the text connect unreliable narration to everyday human experience?",
+              "options": [
+                "It argues that people who read unreliable narrators become better liars.",
+                "It suggests we are all unreliable narrators of our own lives, constructing self-serving narratives about our choices.",
+                "It claims that only mentally ill people experience unreliable self-narration.",
+                "It proposes that unreliable narration only exists in fiction, not in real life."
+              ],
+              "correctIndex": 1,
+              "explanation": "The text states that 'unreliable narration mirrors a fundamental aspect of human experience: we are all, to varying degrees, unreliable narrators of our own lives, constructing self-serving narratives that rationalize our choices.'"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completada!",
+      "instruction": "Leíste un ensayo modelo de crítica literaria C2. Recursos clave: (1) definición inicial seguida de taxonomía, (2) ejemplos canónicos concretos para ilustrar cada tipo, (3) generalización teórica, (4) conexión con filosofía/teoría postmoderna, (5) reflexión sobre implicancias para la experiencia humana. Este patrón es el esqueleto del ensayo académico C2.",
+      "itemIndices": [0, 1]
+    }
+  ]
+}

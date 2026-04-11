@@ -63,8 +63,13 @@ export interface LessonItem {
   audio?: string;
   /** Extra context for display */
   extra?: Record<string, unknown>;
-  /** Reference to the card in the database (category + front to match) */
-  cardRef: {
+  /**
+   * Reference to the card in the database (category + front to match).
+   * Optional: teaching-only items (sub-concepts, examples, illustrations)
+   * can omit this. Only items with a cardRef get activated in the SRS when
+   * the lesson completes.
+   */
+  cardRef?: {
     category: string;
     front: string;
   };
@@ -93,6 +98,12 @@ export type LessonStepType =
   | 'listen-identify'
   | 'listen-transcribe'
   | 'speak'
+  | 'fill-blank-multi'
+  | 'word-in-context'
+  | 'error-correction'
+  | 'image-association'
+  | 'story-comprehension'
+  | 'conversation-script'
   | 'summary';
 
 /** Progress tracking for lessons */

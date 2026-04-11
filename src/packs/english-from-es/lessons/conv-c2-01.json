@@ -1,0 +1,133 @@
+{
+  "id": "conv-c2-01",
+  "title": "Conversation: Formal Disagreement in a Board Meeting",
+  "description": "Cómo discrepar en una reunión formal manteniendo cortesía y precisión. Maestría de hedging, concesión y disagreement diplomático.",
+  "level": "c2",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "Formal disagreement strategies",
+      "back": "Estrategias para discrepar formalmente sin ofender",
+      "explanation": "Cuatro estrategias C2 para discrepar en contextos profesionales: (1) CONCESIÓN-PIVOTE: 'While I appreciate X, I would argue...'. (2) HEDGED DISAGREEMENT: 'I'm not entirely convinced that...'. (3) PREGUNTA SUGESTIVA: 'Might I suggest we consider...'. (4) REFORMULACIÓN: 'If I understand you correctly, you're saying... Is that a fair characterization?'. Evita el 'no' directo a toda costa."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Discrepancia profesional sofisticada",
+      "instruction": "En reuniones formales C2, decir 'I disagree' directamente es un error de registro. Aprendé a discrepar usando concesión, hedging, y reformulación — sin perder claridad ni firmeza.",
+      "itemIndices": [0]
+    },
+    {
+      "type": "conversation-script",
+      "title": "Board meeting: desafiando una propuesta",
+      "instruction": "Estás en una reunión de directorio. Un colega propone una estrategia con la que no estás de acuerdo. Elegí la mejor respuesta en cada turno.",
+      "itemIndices": [],
+      "config": {
+        "script": {
+          "id": "conv-c2-board-disagreement",
+          "scenario": "Reunión de directorio — discrepancia formal sobre una propuesta estratégica",
+          "level": "c2",
+          "turns": [
+            {
+              "speaker": "npc",
+              "text": "Given the quarterly results, I strongly believe we should pivot toward the consumer market and abandon the enterprise segment entirely. The numbers speak for themselves.",
+              "translation": "Dados los resultados trimestrales, creo firmemente que deberíamos pivotar hacia el mercado de consumo y abandonar el segmento empresarial por completo. Los números hablan por sí mismos."
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                {
+                  "text": "While I appreciate the logic behind your proposal, I'm not entirely convinced the numbers tell the whole story. Could we perhaps consider the long-term strategic implications before committing to such a significant pivot?",
+                  "isCorrect": true,
+                  "feedback": "Perfecto. 'While I appreciate' concede primero, 'not entirely convinced' usa litotes diplomática, 'Could we perhaps consider' es sugerencia hedged. Maestría pragmática C2.",
+                  "translation": "Aunque aprecio la lógica de su propuesta, no estoy del todo convencido de que los números cuenten toda la historia. ¿Podríamos tal vez considerar las implicaciones estratégicas a largo plazo antes de comprometernos con un giro tan significativo?"
+                },
+                {
+                  "text": "I disagree. That's a bad idea and I don't think we should do it.",
+                  "isCorrect": false,
+                  "feedback": "Registro demasiado directo para un board meeting. 'I disagree' + 'bad idea' viola normas de cortesía corporativa. Los colegas C2 esperan concesión, hedging y razonamiento estructurado antes del disagreement.",
+                  "translation": "No estoy de acuerdo. Es una mala idea y no creo que debamos hacerlo."
+                },
+                {
+                  "text": "Whatever you think is best, I'll support it.",
+                  "isCorrect": false,
+                  "feedback": "Capitulación total. En un board meeting, los miembros tienen obligación fiduciaria de expresar sus preocupaciones reales. Esto no es ni cortés ni profesional — es abdicación.",
+                  "translation": "Lo que sea que pienses que es mejor, lo apoyaré."
+                }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "What long-term implications are you thinking of, exactly? The enterprise segment has been underperforming for six consecutive quarters.",
+              "translation": "¿Qué implicaciones a largo plazo estás considerando, exactamente? El segmento empresarial ha tenido bajo rendimiento durante seis trimestres consecutivos."
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                {
+                  "text": "That's a fair point, and I don't want to minimize the underperformance. However, our enterprise clients represent our highest-margin contracts and deepest technical relationships. Abandoning that segment might have ripple effects we haven't fully modeled — reputational damage, loss of institutional knowledge, impact on our R&D pipeline.",
+                  "isCorrect": true,
+                  "feedback": "Excelente. Concesión genuina ('fair point, don't want to minimize'), luego pivote con 'However', argumentación estructurada con múltiples puntos concretos. Marca de discusión corporativa sofisticada.",
+                  "translation": "Ese es un punto válido, y no quiero minimizar el bajo rendimiento. Sin embargo, nuestros clientes empresariales representan nuestros contratos de mayor margen y las relaciones técnicas más profundas. Abandonar ese segmento podría tener efectos en cadena que no hemos modelado completamente — daño reputacional, pérdida de conocimiento institucional, impacto en nuestro pipeline de I+D."
+                },
+                {
+                  "text": "Well, six quarters is not that long. I think you're overreacting.",
+                  "isCorrect": false,
+                  "feedback": "'Overreacting' es un ataque personal que no se tolera en contextos profesionales. Además, desestimar seis trimestres de datos sin argumento alternativo suena frívolo. Violas tanto el registro como la lógica del debate.",
+                  "translation": "Bueno, seis trimestres no es tanto tiempo. Creo que estás exagerando."
+                },
+                {
+                  "text": "Reputational damage, primarily. And the loss of our most technically demanding clients, which historically have driven our product innovation more than revenue alone would suggest.",
+                  "isCorrect": true,
+                  "feedback": "Alternativa también correcta: respuesta directa y sustantiva, con argumento concreto. Más breve pero igualmente válida en un board meeting donde la brevedad es valorada. Marca madurez y foco.",
+                  "translation": "Daño reputacional, principalmente. Y la pérdida de nuestros clientes técnicamente más exigentes, que históricamente han impulsado nuestra innovación de producto más de lo que los ingresos por sí solos sugerirían."
+                }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "Those are valid concerns. What would you propose instead?",
+              "translation": "Son preocupaciones válidas. ¿Qué propondrías en su lugar?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                {
+                  "text": "If I may suggest a middle path: rather than abandoning the enterprise segment outright, we could explore a restructuring — reducing our cost base there while accelerating consumer initiatives. That would preserve optionality and give us three quarters of data before making an irreversible decision.",
+                  "isCorrect": true,
+                  "feedback": "Perfecto. 'If I may suggest' es máxima cortesía propositiva. 'Middle path' muestra pensamiento diplomático. La propuesta es concreta, preserva 'optionality' (término estratégico elevado), y incluye un timeline específico. Masterclass de disagreement constructivo.",
+                  "translation": "Si me permite sugerir un camino intermedio: en lugar de abandonar el segmento empresarial por completo, podríamos explorar una reestructuración — reduciendo nuestra base de costos allí mientras aceleramos las iniciativas de consumo. Eso preservaría la opcionalidad y nos daría tres trimestres de datos antes de tomar una decisión irreversible."
+                },
+                {
+                  "text": "I don't know. You're the one with the proposal.",
+                  "isCorrect": false,
+                  "feedback": "Error fatal. Si estás objetando una propuesta, tenés la obligación implícita de ofrecer una alternativa o un siguiente paso. Sin eso, tu objeción es obstruccionismo sin valor agregado.",
+                  "translation": "No sé. Tú eres el que tiene la propuesta."
+                },
+                {
+                  "text": "Let's do nothing and see what happens next quarter.",
+                  "isCorrect": false,
+                  "feedback": "Pasividad inaceptable frente a seis trimestres de underperformance. Los miembros del directorio esperan acción o un plan concreto, no esperar más. Esta respuesta concede razón a tu oponente sin proponer alternativa.",
+                  "translation": "No hagamos nada y veamos qué pasa el próximo trimestre."
+                }
+              ],
+              "correctOptionIndex": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completada!",
+      "instruction": "DISCREPANCIA FORMAL C2: (1) CONCESIÓN PRIMERO — 'While I appreciate your point...'. (2) HEDGING — 'I'm not entirely convinced', 'might be worth considering'. (3) PREGUNTA CONSTRUCTIVA — 'Could we perhaps consider...'. (4) PROPUESTA ALTERNATIVA — 'If I may suggest a middle path...'. Nunca 'I disagree' directo ni 'That's wrong'. Cortesía + firmeza + razonamiento estructurado = disagreement profesional C2.",
+      "itemIndices": [0]
+    }
+  ]
+}

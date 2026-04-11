@@ -1,0 +1,79 @@
+{
+  "id": "reading-a1-03",
+  "title": "Reading: At the Restaurant",
+  "description": "Texto en un restaurante. Vocabulario de comida, want + noun, Present Continuous.",
+  "level": "a1",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "restaurant",
+      "back": "restaurante",
+      "reading": "/ˈrɛstərɑːnt/",
+      "explanation": "Lugar donde se va a comer. 'At the restaurant' = en el restaurante.",
+      "cardRef": { "category": "vocabulary", "front": "restaurant" }
+    },
+    {
+      "front": "water",
+      "back": "agua",
+      "reading": "/ˈwɔːtər/",
+      "explanation": "Incontable. 'A glass of water' = un vaso de agua. No se dice 'a water' (sin 'glass of').",
+      "cardRef": { "category": "vocabulary", "front": "water" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario de comida y restaurante",
+      "instruction": "Palabras esenciales para el texto.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Lectura: At the Restaurant",
+      "instruction": "Leé el texto. Fijate en cómo se piden cosas ('I want...', 'We order...').",
+      "itemIndices": [],
+      "config": {
+        "passage": {
+          "id": "a1-reading-restaurant",
+          "title": "At the Restaurant",
+          "level": "a1",
+          "text": "Today I am at a restaurant with my friend Ana. The restaurant is small but very nice. I look at the menu. There are many options. I want pasta and a salad. Ana wants fish and rice. We order our food. The waiter brings our drinks. I have water and Ana has orange juice. The food is delicious. After dinner, we have chocolate cake. It is a very good evening.",
+          "translation": "Hoy estoy en un restaurante con mi amiga Ana. El restaurante es pequeño pero muy lindo. Miro el menú. Hay muchas opciones. Quiero pasta y una ensalada. Ana quiere pescado y arroz. Pedimos nuestra comida. El mozo trae nuestras bebidas. Yo tomo agua y Ana toma jugo de naranja. La comida está deliciosa. Después de la cena, comemos torta de chocolate. Es una muy buena noche.",
+          "vocabulary": ["menu - menú", "pasta - pasta", "salad - ensalada", "fish - pescado", "rice - arroz", "waiter - mozo", "drinks - bebidas", "water - agua", "juice - jugo", "delicious - delicioso", "cake - torta"],
+          "questions": [
+            {
+              "question": "What does the narrator want to eat?",
+              "options": ["Fish and rice.", "Pasta and salad.", "Pizza and salad.", "Chicken and rice."],
+              "correctIndex": 1,
+              "explanation": "El texto dice 'I want pasta and a salad.'"
+            },
+            {
+              "question": "What does Ana drink?",
+              "options": ["Water.", "Coffee.", "Orange juice.", "Tea."],
+              "correctIndex": 2,
+              "explanation": "El texto dice 'Ana has orange juice.'"
+            },
+            {
+              "question": "What do they have after dinner?",
+              "options": ["Ice cream.", "Coffee.", "Chocolate cake.", "Fruit."],
+              "correctIndex": 2,
+              "explanation": "El texto dice 'After dinner, we have chocolate cake.'"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "recognize",
+      "title": "Vocabulario del texto",
+      "instruction": "Elegí el significado correcto.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lectura completa!",
+      "instruction": "Practicaste un texto de situación real: en el restaurante. Notaste: 'I want...' para pedir, 'there are many options' (hay muchas opciones), el uso de 'have' para decir lo que comés o tomás ('I have water').",
+      "itemIndices": [0, 1]
+    }
+  ]
+}

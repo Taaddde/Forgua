@@ -1,0 +1,188 @@
+{
+  "id": "grammar-c1-04",
+  "title": "All Passive Forms",
+  "description": "Todas las formas pasivas: being done, having been done, get + pp, pasiva impersonal con verbos de reporte (It is said that... / He is believed to have...)",
+  "level": "c1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "All Passive Forms (being done | having been done | to have been done | get + past participle | It is said/believed/thought that...)",
+      "back": "Pasiva avanzada: continua, perfecta de gerundio, perfecta de infinitivo, informal con get, e impersonal con verbos de reporte",
+      "reading": "",
+      "explanation": "Más allá de is/was done: BEING DONE = pasando ahora (She didn't like BEING TOLD). HAVING BEEN DONE = habiendo sido hecho (HAVING BEEN WARNED twice, he was fired). TO HAVE BEEN DONE = haber sido hecho (She appears TO HAVE BEEN GIVEN incorrect information). GET + pp = informal (He GOT fired. She GOT promoted). IMPERSONAL: It is said that... / He is said to be... — dos formas de la misma pasiva impersonal.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "All Passive Forms (being done | having been done | to have been done | get + past participle | It is said/believed/thought that...)"
+      }
+    },
+    {
+      "front": "Passive gerund: being done",
+      "back": "She hated being ignored. / He enjoyed being praised by his supervisor.",
+      "reading": "",
+      "explanation": "La pasiva de gerundio: BEING + past participle. Se usa cuando el gerundio es el complemento de un verbo de gusto/emoción (like, hate, enjoy, mind, resent, avoid). 'She didn't like being told what to do.' El sujeto de la acción pasiva coincide con el sujeto de la oración principal. Contraste activo: 'She didn't like people telling her what to do.'"
+    },
+    {
+      "front": "Impersonal passive with reporting verbs",
+      "back": "It is said that he is rich. = He is said to be rich. (Se dice que es rico.)",
+      "reading": "",
+      "explanation": "Dos formas equivalentes de la pasiva impersonal con verbos de reporte (say, believe, think, know, report, consider, claim, allege). Forma 1: 'It + passive + that + clause'. Forma 2: 'Subject + passive + to-infinitive'. Para el presente: 'is said to be'. Para el pasado: 'is said to have been'. Para el futuro: 'is expected to'. En español: 'se dice que', 'se cree que' — el inglés requiere una pasiva explícita."
+    },
+    {
+      "front": "Get + past participle (informal passive)",
+      "back": "He got fired. / She got promoted. / They got married.",
+      "reading": "",
+      "explanation": "La pasiva informal con 'get' es muy común en el habla cotidiana. 'He got fired' (lo echaron). 'She got promoted' (la ascendieron). 'They got married' (se casaron). Implica a veces que el evento fue inesperado o no deseado por el sujeto. NO se usa en contextos muy formales. 'Get' pasivo puede coexistir con pasiva normal: 'He was fired' (más neutro) vs 'He got fired' (más coloquial, a veces implica que fue inesperado o merecido)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El arsenal completo de la pasiva",
+      "instruction": "La pasiva básica (is/was done) es solo el comienzo. En C1, necesitás manejar: la pasiva de gerundio (being done), la pasiva de participio perfecto (having been done), la pasiva impersonal (It is said that...) y la pasiva informal con get. Cada una tiene un uso y registro distintos.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué tipo de pasiva es?",
+      "instruction": "Identificá el tipo de pasiva en cada ejemplo.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Pasiva correcta?",
+      "instruction": "Encontrá errores de forma o registro en estas pasivas avanzadas.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "Having been warned multiple times about lateness, the employee was finally dismissed.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Having been warned' = pasiva perfecta de participio (habiendo sido advertido). Implica que la advertencia ocurrió ANTES del despido. La construcción participial sin sujeto explícito funciona porque el sujeto implícito de 'having been warned' es el mismo que el de la oración principal ('the employee').",
+            "errorType": "none"
+          },
+          {
+            "sentence": "It is believed that the artifact dates to the 4th century BCE.",
+            "isCorrect": true,
+            "explanation": "Correcta. Pasiva impersonal: 'It is believed that + cláusula'. Típico de escritura académica y periodística para distanciar al autor de la afirmación (hedging) o para no atribuir la creencia a una persona específica.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "The CEO is said to have stepped down voluntarily.",
+            "isCorrect": true,
+            "explanation": "Correcta. Pasiva impersonal con infinitivo perfecto: 'is said to have + past participle'. El infinitivo perfecto indica que la acción (renunciar) ocurrió ANTES del momento presente. Equivale a: 'It is said that the CEO stepped down voluntarily.'",
+            "errorType": "none"
+          },
+          {
+            "sentence": "She got being selected for the award, which was unexpected.",
+            "isCorrect": false,
+            "correction": "She was selected for the award, which was unexpected. / She got selected for the award, which was unexpected.",
+            "explanation": "'Got being selected' combina dos pasivas incorrectamente. Con 'get', el patrón es 'get + past participle' directamente: 'she got selected'. 'Being selected' es la pasiva de gerundio, que no se combina con 'get'. Elegí una forma: 'was selected' (formal) o 'got selected' (informal).",
+            "errorType": "passive-combination"
+          },
+          {
+            "sentence": "He resented being overlooked for the promotion despite his excellent performance.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Resented + being + past participle' = pasiva de gerundio con verbo de emoción. Funciona como objeto del verbo 'resent'. El sujeto de 'being overlooked' es el mismo que el sujeto de 'resented' (he). Registro formal-neutral, natural en contextos laborales.",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con la forma pasiva correcta",
+      "instruction": "Elegí la pasiva apropiada para cada contexto.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "The medication {0} to cause serious side effects in a small percentage of patients.",
+            "blanks": [
+              {
+                "answer": "is known",
+                "options": [
+                  "is known",
+                  "knows",
+                  "it is known",
+                  "gets knowing"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "{0} twice for the same offense, the defendant faced the maximum sentence.",
+            "blanks": [
+              {
+                "answer": "Having been convicted",
+                "options": [
+                  "Having been convicted",
+                  "Being convicted",
+                  "To have been convicted",
+                  "Getting convicted"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "Nobody wants {0} criticized publicly in front of colleagues.",
+            "blanks": [
+              {
+                "answer": "to be",
+                "options": [
+                  "to be",
+                  "being",
+                  "to have been",
+                  "getting"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "It {0} that the negotiators {1} close to an agreement.",
+            "blanks": [
+              {
+                "answer": "is reported",
+                "options": [
+                  "is reported",
+                  "reported",
+                  "gets reported",
+                  "was reported"
+                ]
+              },
+              {
+                "answer": "are",
+                "options": [
+                  "are",
+                  "were",
+                  "have",
+                  "had"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completada!",
+      "instruction": "RESUMEN: BEING done (pasiva de gerundio: después de like/hate/enjoy/mind/avoid). HAVING BEEN done (participio perfecto pasivo: acción previa). GET + pp (informal: got fired, got promoted). IT IS said/believed/thought THAT... = He IS SAID TO BE (pasiva impersonal de reporte). Todos en tu SRS.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ]
+}

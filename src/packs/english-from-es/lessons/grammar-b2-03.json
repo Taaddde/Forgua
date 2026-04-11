@@ -1,0 +1,193 @@
+{
+  "id": "grammar-b2-03",
+  "title": "Narrative Tenses: Contar Historias en Inglés",
+  "description": "La combinación de past simple, past continuous, past perfect y past perfect continuous para narrar de forma natural.",
+  "level": "b2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Narrative Tenses (past simple + past continuous + past perfect (+ past perfect continuous))",
+      "back": "tiempos narrativos (combinación para contar historias)",
+      "reading": "",
+      "explanation": "Para narrar en inglés con fluidez se combinan cuatro tiempos: (1) Past simple: eventos principales de la historia. (2) Past continuous: contexto, acciones en progreso. (3) Past perfect: eventos anteriores a la historia principal (flashbacks). (4) Past perfect continuous: duración de acciones anteriores. El control de estos tiempos diferencia a un hablante B1 de un B2.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Narrative Tenses (past simple + past continuous + past perfect (+ past perfect continuous))"
+      }
+    },
+    {
+      "front": "Past simple en narrativa",
+      "back": "eventos principales de la historia en secuencia",
+      "reading": "",
+      "explanation": "El past simple es el 'hilo' principal de la narrativa. Cuenta los eventos en secuencia: 'She walked in, sat down, and opened her laptop'. Los conectores más comunes: then, suddenly, after that, when, as soon as, finally."
+    },
+    {
+      "front": "Past continuous en narrativa",
+      "back": "contexto y acciones en progreso cuando ocurrió el evento",
+      "reading": "",
+      "explanation": "El past continuous crea el 'telón de fondo'. Describe lo que estaba pasando cuando se interrumpió: 'I was reading when she called'. También se usa para describir ambiente: 'The sun was setting, birds were singing...'. La acción de fondo con 'while/when' + la interrupción en past simple."
+    },
+    {
+      "front": "Past Perfect Continuous (Subject + had been + verb-ing)",
+      "back": "pasado perfecto continuo (pluscuamperfecto continuo)",
+      "reading": "",
+      "explanation": "'Had been + verbo-ing' enfatiza la DURACIÓN de una acción que estuvo en progreso antes de otra acción pasada. 'She had been studying for three hours when the power went out'. Muy útil en narrativa para explicar causas: 'He was exhausted because he had been running all day'."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Tiempos narrativos: la combinación que hace la diferencia",
+      "instruction": "Para contar historias en inglés con naturalidad usás CUATRO tiempos combinados. Imaginalos así: Past Continuous = el escenario (qué estaba pasando), Past Simple = los eventos (qué pasó), Past Perfect = el flashback (qué había pasado antes), Past Perfect Continuous = la duración del flashback (cuánto tiempo llevaba pasando). Vamos a ver cómo funcionan juntos.",
+      "itemIndices": [
+        0
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Cada tiempo, su función",
+      "instruction": "Analizá este fragmento narrativo y notá qué hace cada tiempo: 'I was walking home [past continuous: contexto] when I noticed [past simple: evento] that someone had left [past perfect: anterior al evento] a wallet on the bench. I had been waiting [past perfect continuous: duración anterior] for this kind of lucky moment for years.'",
+      "itemIndices": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué función tiene cada tiempo?",
+      "instruction": "Identificá el tiempo verbal y su función narrativa.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá la narración",
+      "instruction": "Elegí el tiempo verbal correcto para completar esta historia.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "When María finally {0} the interview, she realised she {1} her portfolio at home.",
+            "blanks": [
+              {
+                "answer": "arrived at",
+                "options": [
+                  "arrived at",
+                  "was arriving at",
+                  "had arrived at",
+                  "had been arriving at"
+                ]
+              },
+              {
+                "answer": "had left",
+                "options": [
+                  "had left",
+                  "left",
+                  "was leaving",
+                  "had been leaving"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "The team {0} on the project for six months when the client suddenly {1} to cancel the contract.",
+            "blanks": [
+              {
+                "answer": "had been working",
+                "options": [
+                  "had been working",
+                  "had worked",
+                  "was working",
+                  "worked"
+                ]
+              },
+              {
+                "answer": "decided",
+                "options": [
+                  "decided",
+                  "had decided",
+                  "was deciding",
+                  "had been deciding"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "It {0} heavily outside. The streets {1} empty because everyone had gone home early.",
+            "blanks": [
+              {
+                "answer": "was raining",
+                "options": [
+                  "was raining",
+                  "rained",
+                  "had rained",
+                  "had been raining"
+                ]
+              },
+              {
+                "answer": "were",
+                "options": [
+                  "were",
+                  "had been",
+                  "was",
+                  "are"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Decidí si el uso de los tiempos narrativos es correcto.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "She was sitting in the waiting room when the doctor finally called her name.",
+            "isCorrect": true,
+            "explanation": "Correcta. Narración perfecta: past continuous (was sitting) = contexto/escenario, past simple (called) = el evento que interrumpió.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "I was recognizing him immediately — we went to school together.",
+            "isCorrect": false,
+            "correction": "I recognized him immediately — we had gone to school together.",
+            "explanation": "Dos errores: (1) 'Recognize' es un stative verb (verbo de estado/percepción) y NO se usa en continuous. 'I was recognizing' está mal — se dice 'I recognized'. (2) 'We went to school together' describe algo anterior al momento de reconocerle, así que necesita past perfect: 'we had gone to school together'.",
+            "errorType": "tense"
+          },
+          {
+            "sentence": "By the time the fire brigade arrived, the building had already been burning for two hours.",
+            "isCorrect": true,
+            "explanation": "Correcta. Past perfect continuous (had been burning for two hours) + past simple (arrived). El continuous enfatiza la duración del incendio antes de que llegaran los bomberos.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "He looked exhausted. He had been working all night to finish the report.",
+            "isCorrect": true,
+            "explanation": "Correcta. Narrativa natural: 'He looked exhausted' (past simple, estado observado) + 'had been working all night' (past perfect continuous, explicación/causa de ese estado).",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Tiempos narrativos combinados: Past Continuous (escenario: 'it was raining') + Past Simple (eventos: 'she arrived') + Past Perfect (antes: 'she had forgotten') + Past Perfect Continuous (duración anterior: 'she had been waiting for hours'). Conectores narrativos clave: 'suddenly', 'by the time', 'when', 'while', 'as soon as', 'after'. Nota especial: stative verbs (know, believe, see, recognize) NUNCA van en continuous.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ]
+}

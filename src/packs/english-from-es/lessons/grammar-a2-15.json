@@ -1,0 +1,157 @@
+{
+  "id": "grammar-a2-15",
+  "title": "Past Perfect: The Earlier Past",
+  "description": "When I arrived, she had already left. Hablar de algo que pasó ANTES de otro evento pasado.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Past Perfect (Introduction)",
+      "back": "Subject + had + past participle",
+      "reading": "",
+      "explanation": "El past perfect se usa para expresar una acción que ocurrió ANTES de otra acción en el pasado. Se forma con 'had + participio pasado' para TODAS las personas. En la línea de tiempo: acción 1 (past perfect) → acción 2 (past simple) → ahora.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Past Perfect (Introduction) (Subject + had + past participle)"
+      }
+    },
+    {
+      "front": "When I arrived, she had already left.",
+      "back": "Cuando llegué, ella ya se había ido.",
+      "reading": "",
+      "explanation": "Orden de eventos: (1) ella se fue → (2) yo llegué → ahora. El evento (1) es anterior → past perfect 'had left'. El evento (2) es más reciente → past simple 'arrived'. 'Already' refuerza que algo pasó antes."
+    },
+    {
+      "front": "He had never seen snow before.",
+      "back": "Él nunca había visto nieve antes.",
+      "reading": "",
+      "explanation": "Past perfect con 'never' y 'before' para indicar que algo nunca había ocurrido hasta ese momento. Luego (implicado): lo vio por primera vez."
+    },
+    {
+      "front": "I was hungry because I hadn't eaten breakfast.",
+      "back": "Tenía hambre porque no había desayunado.",
+      "reading": "",
+      "explanation": "Negativo: hadn't + participio pasado. Explicación causal: primero no comí (hadn't eaten) → después tenía hambre (was hungry). El past perfect explica el por qué."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El pasado del pasado",
+      "instruction": "¿Cómo contás algo que pasó ANTES de otro evento pasado? En español: 'ya se había ido', 'nunca había visto'. En inglés: 'had + participio pasado' para TODAS las personas. 'She had left', 'I had eaten', 'They had gone'. El past perfect es el 'pasado del pasado'.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál pasó primero?",
+      "instruction": "Elegí la traducción correcta e identificá el orden de los eventos.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Past perfect en contexto",
+      "instruction": "Completá con la forma correcta (past simple o past perfect).",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "By the time we {0} at the theater, the show {1} already started.",
+            "blanks": [
+              {
+                "answer": "arrived",
+                "options": [
+                  "arrived",
+                  "had arrived",
+                  "were arriving",
+                  "arrive"
+                ]
+              },
+              {
+                "answer": "had",
+                "options": [
+                  "had",
+                  "has",
+                  "was",
+                  "did"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "She {0} very tired because she {1} all night.",
+            "blanks": [
+              {
+                "answer": "was",
+                "options": [
+                  "was",
+                  "had been",
+                  "is",
+                  "were"
+                ]
+              },
+              {
+                "answer": "had worked",
+                "options": [
+                  "had worked",
+                  "worked",
+                  "was working",
+                  "has worked"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Past simple o past perfect?",
+      "instruction": "Identificá si la elección del tiempo verbal es correcta.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "When I got home, I realized I forgot my keys at the office.",
+            "isCorrect": false,
+            "correction": "When I got home, I realized I had forgotten my keys at the office.",
+            "explanation": "Olvidar las llaves (had forgotten) ocurrió ANTES de llegar a casa (got home). El evento anterior necesita past perfect.",
+            "errorType": "tense"
+          },
+          {
+            "sentence": "They had already eaten when we arrived.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Had eaten' = evento anterior (ya habían comido). 'Arrived' = evento posterior (llegamos). Orden correcto.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "I couldn't sleep because I had drunk too much coffee.",
+            "isCorrect": true,
+            "explanation": "Correcta. Tomar demasiado café (past perfect: had drunk) fue ANTES de no poder dormir (couldn't sleep). Causalidad clara.",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Past Perfect: had + participio pasado (todas las personas). Se usa cuando algo ocurrió ANTES de otro evento pasado. Marcadores: already, just, never, yet, by the time, before, after, when. Negativo: hadn't + participio. Pregunta: Had you...? Resumen visual: tiempo 1 (PP) → tiempo 2 (PS) → ahora.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ]
+}

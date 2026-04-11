@@ -1,0 +1,125 @@
+{
+  "id": "vocab-a1-17",
+  "title": "Feelings & Food : Sentimientos y comida",
+  "description": "Adjetivos básicos de calidad y emoción (good, bad, happy, sad) combinados con vocabulario de comida (food, meat, drink) y una parte del cuerpo (mouth).",
+  "level": "a1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "good",
+      "back": "bueno / bien",
+      "reading": "/ɡʊd/",
+      "explanation": "Bueno (adjetivo) o bien (en algunos contextos). ¡OJO! Para responder '¿cómo estás?', se dice 'I'm fine' o 'I'm good' (informal), NO 'I am well' (anticuado). El comparativo es irregular: 'better' (mejor), 'best' (el mejor).",
+      "cardRef": { "category": "vocabulary", "front": "good" }
+    },
+    {
+      "front": "bad",
+      "back": "malo / mal",
+      "reading": "/bæd/",
+      "explanation": "Malo. Comparativo irregular: 'worse' (peor), 'worst' (el peor). 'Not bad' literalmente 'no malo' = bastante bien (expresión muy común). ¡OJO! 'Bad' /bæd/ no es lo mismo que 'bed' /bɛd/ (cama) — vocales muy distintas.",
+      "cardRef": { "category": "vocabulary", "front": "bad" }
+    },
+    {
+      "front": "happy",
+      "back": "feliz / contento",
+      "reading": "/ˈhæpi/",
+      "explanation": "Feliz, contento. 'Happy birthday!' = ¡feliz cumpleaños! Expresión clave. Plural/comparativo: 'happier' (más feliz), 'happiest' (el más feliz). La 'y' cambia a 'i' en comparativos.",
+      "cardRef": { "category": "vocabulary", "front": "happy" }
+    },
+    {
+      "front": "sad",
+      "back": "triste",
+      "reading": "/sæd/",
+      "explanation": "Triste. Comparativo regular: 'sadder' (más triste), 'saddest' (el más triste). La 'd' se duplica por regla fonética. No confundir con 'said' /sɛd/ (dijo, pasado de 'say').",
+      "cardRef": { "category": "vocabulary", "front": "sad" }
+    },
+    {
+      "front": "food",
+      "back": "comida",
+      "reading": "/fuːd/",
+      "explanation": "Comida, alimento. Sustantivo INCONTABLE: no se dice 'a food' ni 'foods' normalmente. Se dice 'some food', 'a lot of food'. 'Foods' solo se usa para referirse a tipos de comida ('healthy foods' = comidas saludables).",
+      "cardRef": { "category": "vocabulary", "front": "food" }
+    },
+    {
+      "front": "meat",
+      "back": "carne",
+      "reading": "/miːt/",
+      "explanation": "Carne. Incontable: no 'a meat' ni 'meats'. Homófono de 'meet' /miːt/ (conocer, encontrarse) — suenan idénticos, el contexto te dice cuál es. 'I eat meat' vs 'I meet friends'.",
+      "cardRef": { "category": "vocabulary", "front": "meat" }
+    },
+    {
+      "front": "drink",
+      "back": "beber / bebida",
+      "reading": "/drɪŋk/",
+      "explanation": "Beber (verbo) y bebida (sustantivo). Verbo irregular: drank, drunk. En español usamos 'tomar' para bebidas, pero en inglés el verbo específico es 'drink' ('I drink water', no 'I take water').",
+      "cardRef": { "category": "vocabulary", "front": "drink" }
+    },
+    {
+      "front": "mouth",
+      "back": "boca",
+      "reading": "/maʊθ/",
+      "explanation": "Boca. Termina en el sonido /θ/ (sordo, sin vibración), lengua entre los dientes. Plural: 'mouths' /maʊðz/ (el sonido cambia al sonoro en plural — es raro pero común). Expresión: 'word of mouth' = boca a boca.",
+      "cardRef": { "category": "vocabulary", "front": "mouth" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Sentimientos, comida y la boca",
+      "instruction": "Mezclamos adjetivos de emoción con vocabulario de comida. Dato curioso: 'food', 'meat' y 'drink' (sustantivo) son incontables — no llevan plural ni artículo 'a'. Nunca digas 'a food' ni 'two meats'.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "listen-identify",
+      "title": "Escuchá y elegí",
+      "instruction": "Escuchá y elegí. Prestá atención a 'bad' /bæd/ vs 'bed' /bɛd/ — vocales distintas.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Escribí la palabra en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "image-association",
+      "title": "¿Qué ves?",
+      "instruction": "Mirá la imagen y elegí la palabra correcta.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Good_Food_Display_-_NCI_Visuals_Online.jpg/320px-Good_Food_Display_-_NCI_Visuals_Online.jpg",
+            "imageAlt": "Una mesa con mucha comida variada: frutas, verduras, pan y carne",
+            "options": ["food", "book", "house", "car"],
+            "correctIndex": 0
+          },
+          {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Meat_platter_%28Unsplash%29.jpg/320px-Meat_platter_%28Unsplash%29.jpg",
+            "imageAlt": "Un plato con diferentes cortes de carne cocida",
+            "options": ["meat", "fruit", "bread", "milk"],
+            "correctIndex": 0
+          },
+          {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Glass_of_Water_%2833657279___by_Greg_Riegler_Photography%29.jpg/320px-Glass_of_Water_%2833657279___by_Greg_Riegler_Photography%29.jpg",
+            "imageAlt": "Un vaso con agua — una bebida",
+            "options": ["drink", "food", "meat", "book"],
+            "correctIndex": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste 8 palabras: 4 adjetivos básicos (good/bad/happy/sad), 3 de comida/bebida (food/meat/drink) y 'mouth'. Claves: 'I'm good/fine' para responder cómo estás (NO 'I'm well'); food/meat/drink son incontables; meat y meet son homófonos; comparativos irregulares good→better, bad→worse.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

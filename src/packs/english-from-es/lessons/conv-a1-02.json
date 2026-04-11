@@ -1,0 +1,133 @@
+{
+  "id": "conv-a1-02",
+  "title": "Conversation: Ordering at a Café",
+  "description": "Pedir en un café: 'I'd like...', 'Can I have...', preguntar el precio, dar las gracias.",
+  "level": "a1",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "coffee",
+      "back": "café",
+      "reading": "/ˈkɔːfi/",
+      "explanation": "'A coffee' = un café. 'A cup of coffee' = una taza de café. 'Would you like coffee?' = ¿Querés café?",
+      "cardRef": { "category": "vocabulary", "front": "coffee" }
+    },
+    {
+      "front": "please",
+      "back": "por favor",
+      "reading": "/pliːz/",
+      "explanation": "Muy importante en inglés. Siempre al pedir: 'A coffee, please.' Al final de la frase o antes de la petición: 'Please bring me...'.",
+      "cardRef": { "category": "vocabulary", "front": "please" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario del café",
+      "instruction": "Palabras esenciales para pedir en un café.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "conversation-script",
+      "title": "Conversación: At the Café",
+      "instruction": "Estás en un café en inglés. Pedí algo de forma natural y cortés.",
+      "itemIndices": [],
+      "config": {
+        "script": {
+          "id": "conv-a1-02-cafe",
+          "scenario": "Pidiendo en un café",
+          "level": "a1",
+          "turns": [
+            {
+              "speaker": "npc",
+              "text": "Good morning! What can I get for you?",
+              "translation": "¡Buenos días! ¿Qué le puedo traer?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                { "text": "I want coffee.", "isCorrect": false, "feedback": "'I want' es correcto pero suena un poco directo. En inglés es más educado decir 'I'd like...' o 'Can I have...' en un negocio. 'I want' lo usás con amigos." },
+                { "text": "I'd like a large coffee, please.", "isCorrect": true, "feedback": "Perfecto. 'I'd like' (= I would like) es la forma más educada y natural para pedir. 'Please' al final siempre suma." },
+                { "text": "Give me a coffee.", "isCorrect": false, "feedback": "Muy directo, suena brusco en un contexto de negocio. Mejor 'Can I have...' o 'I'd like...'." }
+              ],
+              "correctOptionIndex": 1
+            },
+            {
+              "speaker": "npc",
+              "text": "Of course! Would you like milk with that?",
+              "translation": "¡Por supuesto! ¿Lo quiere con leche?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                { "text": "Yes, please. A little milk.", "isCorrect": true, "feedback": "Muy natural. 'A little' = un poco (para incontables como milk). Siempre añadí 'please' al responder." },
+                { "text": "Yes, I want little milk.", "isCorrect": false, "feedback": "Casi bien, pero falta el artículo: 'a little milk', no 'little milk' (sin artículo). 'A little' = un poco de." },
+                { "text": "No, I don't like milk never.", "isCorrect": false, "feedback": "Orden incorrecto. 'Never' va antes del verbo principal: 'I never drink milk' o simplemente 'No, thank you'." }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "And would you like anything to eat? We have croissants and muffins today.",
+              "translation": "¿Y le gustaría algo para comer? Hoy tenemos croissants y muffins."
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                { "text": "I'd like a croissant, please.", "isCorrect": true, "feedback": "Perfecto. Pedido claro, educado, con 'please'. Muy natural." },
+                { "text": "No thank you, nothing for eat.", "isCorrect": false, "feedback": "Casi bien el contenido, pero 'nothing for eat' es incorrecto. Se dice 'nothing to eat'. También: 'No, thank you' es suficiente." },
+                { "text": "I don't want nothing.", "isCorrect": false, "feedback": "Doble negativo — en inglés NO se usa. 'I don't want ANYTHING' o simplemente 'Nothing, thank you'." }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "That will be four dollars fifty, please.",
+              "translation": "Son cuatro dólares cincuenta, por favor."
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                { "text": "Here you are.", "isCorrect": true, "feedback": "Perfecto. 'Here you are' = acá tiene / tome. Se usa al entregar dinero o algo a alguien. También: 'Here you go'." },
+                { "text": "Take this money.", "isCorrect": false, "feedback": "Correcto gramaticalmente pero suena brusco. Mejor 'Here you are' o 'Here you go'." },
+                { "text": "This is for you the money.", "isCorrect": false, "feedback": "Orden incorrecto. En inglés el objeto va después del verbo: 'Here is the money' o 'Here you are'." }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "Thank you! Enjoy your coffee!",
+              "translation": "¡Gracias! ¡Que disfrute su café!"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                { "text": "Thank you! Have a nice day!", "isCorrect": true, "feedback": "Cierre perfecto y muy natural. 'Have a nice day!' es uno de los cierres más comunes en inglés." },
+                { "text": "Ok bye.", "isCorrect": false, "feedback": "Funciona pero es muy informal y brusco. Para un negocio, algo más cálido como 'Thank you, have a good day!' suena mejor." },
+                { "text": "Thanks you very much!", "isCorrect": false, "feedback": "'Thanks you' no existe. O 'Thank you' o 'Thanks', pero no mezclar los dos." }
+              ],
+              "correctOptionIndex": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "recall",
+      "title": "Vocabulario del café",
+      "instruction": "Escribí las palabras clave en inglés.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "summary",
+      "title": "¡Conversación completa!",
+      "instruction": "Para pedir en un negocio: 'I'd like...' (más educado), 'Can I have...' (informal pero correcto). 'Here you are' = tome/acá tiene. 'A little' (un poco) para incontables. Nunca doble negativo: 'I don't want anything' (NO 'I don't want nothing').",
+      "itemIndices": [0, 1]
+    }
+  ]
+}

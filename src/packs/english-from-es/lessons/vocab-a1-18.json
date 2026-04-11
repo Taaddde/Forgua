@@ -1,0 +1,181 @@
+{
+  "id": "vocab-a1-18",
+  "title": "Everyday Objects & Connectors : Objetos y conectores",
+  "description": "Objetos cotidianos (libro, auto, teléfono, dinero, perro, gato) y los conectores más frecuentes del inglés (and, or, but, very). Con esto podés armar oraciones completas.",
+  "level": "a1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "book",
+      "back": "libro",
+      "reading": "/bʊk/",
+      "explanation": "Libro. Plural regular: 'books'. También es verbo: 'to book' = reservar ('book a hotel' = reservar un hotel). Atención al sonido /ʊ/ corto — no alargues la 'u'.",
+      "cardRef": { "category": "vocabulary", "front": "book" }
+    },
+    {
+      "front": "car",
+      "back": "auto / coche",
+      "reading": "/kɑːr/",
+      "explanation": "Auto, coche. Plural: 'cars'. Preposición: 'BY car' = en auto ('I go to work by car'), NO 'in car' o 'with car'. 'In the car' se usa solo cuando estás dentro.",
+      "cardRef": { "category": "vocabulary", "front": "car" }
+    },
+    {
+      "front": "dog",
+      "back": "perro",
+      "reading": "/dɔːɡ/",
+      "explanation": "Perro. Plural: 'dogs'. En inglés, los animales domésticos suelen llevar 'it' como pronombre, pero si tenés relación afectiva usás 'he' o 'she'. 'Dog years' = años de perro (multiplica la edad).",
+      "cardRef": { "category": "vocabulary", "front": "dog" }
+    },
+    {
+      "front": "cat",
+      "back": "gato",
+      "reading": "/kæt/",
+      "explanation": "Gato. Plural: 'cats'. Expresión común: 'It's raining cats and dogs' = está lloviendo a cántaros (literalmente 'llueven gatos y perros'). La /æ/ es una vocal que no existe en español — entre la 'a' y la 'e'.",
+      "cardRef": { "category": "vocabulary", "front": "cat" }
+    },
+    {
+      "front": "money",
+      "back": "dinero",
+      "reading": "/ˈmʌni/",
+      "explanation": "Dinero. INCONTABLE: no 'a money' ni 'moneys'. Se dice 'some money', 'a lot of money', 'much money'. Para cantidades específicas: 'dollars', 'euros', etc. 'How much money?' (incontable), no 'how many money'.",
+      "cardRef": { "category": "vocabulary", "front": "money" }
+    },
+    {
+      "front": "phone",
+      "back": "teléfono / celular",
+      "reading": "/foʊn/",
+      "explanation": "Teléfono, celular. Abreviatura de 'telephone'. 'Cell phone' (US) o 'mobile phone' (UK) = celular. 'On the phone' = al teléfono ('She's on the phone'). Verbo: 'to phone someone' = llamar por teléfono.",
+      "cardRef": { "category": "vocabulary", "front": "phone" }
+    },
+    {
+      "front": "and",
+      "back": "y",
+      "reading": "/ænd/",
+      "explanation": "Y. Conector de adición. En habla rápida se reduce a /ən/ o incluso /n/: 'bread and butter' suena 'bread-n-butter'. No se ve escrito así, pero es importante entenderlo al escuchar.",
+      "cardRef": { "category": "vocabulary", "front": "and" }
+    },
+    {
+      "front": "or",
+      "back": "o",
+      "reading": "/ɔːr/",
+      "explanation": "O. Conector de alternativa. En inglés NO cambia a 'u' antes de palabras con 'o' (español cambia: 'siete u ocho'). En inglés siempre 'or': 'seven or eight'. Simple y constante.",
+      "cardRef": { "category": "vocabulary", "front": "or" }
+    },
+    {
+      "front": "but",
+      "back": "pero",
+      "reading": "/bʌt/",
+      "explanation": "Pero. Conector de contraste. No confundir con 'but' /bʌt/ y 'butt' /bʌt/ (trasero) — suenan igual pero se escriben distinto. El contexto lo aclara.",
+      "cardRef": { "category": "vocabulary", "front": "but" }
+    },
+    {
+      "front": "very",
+      "back": "muy",
+      "reading": "/ˈvɛri/",
+      "explanation": "Muy. Modifica adjetivos y adverbios: 'very good', 'very slowly'. ¡OJO! 'Very' NO se combina con adjetivos que ya son extremos: NO 'very excellent' ni 'very perfect'. Para esos se usa 'absolutely' o nada.",
+      "cardRef": { "category": "vocabulary", "front": "very" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Objetos del día a día + conectores esenciales",
+      "instruction": "Cerramos el A1 de vocabulario con objetos cotidianos y los 4 conectores más usados. Con 'and, or, but, very' ya podés armar oraciones compuestas y matizarlas. 'Money' es incontable — jamás digas 'a money'.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "listen-identify",
+      "title": "Escuchá y elegí",
+      "instruction": "Escuchá y elegí. Prestá atención a las vocales cortas de 'cat' /æ/ y 'but' /ʌ/.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Escribí la palabra en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "image-association",
+      "title": "¿Qué ves?",
+      "instruction": "Mirá la imagen y elegí la palabra correcta.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Golde33443.jpg/320px-Golde33443.jpg",
+            "imageAlt": "Un perro golden retriever dorado",
+            "options": ["dog", "cat", "baby", "friend"],
+            "correctIndex": 0
+          },
+          {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cat03.jpg/320px-Cat03.jpg",
+            "imageAlt": "Un gato atigrado",
+            "options": ["cat", "dog", "baby", "child"],
+            "correctIndex": 0
+          },
+          {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Reading_Room_Brussels.JPG/320px-Reading_Room_Brussels.JPG",
+            "imageAlt": "Una pila de libros en una biblioteca",
+            "options": ["book", "phone", "car", "money"],
+            "correctIndex": 0
+          },
+          {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/IPhone_13_Pro_vector.svg/240px-IPhone_13_Pro_vector.svg.png",
+            "imageAlt": "Un teléfono celular moderno",
+            "options": ["phone", "book", "car", "dog"],
+            "correctIndex": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Identificá errores en el uso de objetos y conectores.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "I have a lot of money.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Money' es incontable, por eso va con 'a lot of' (no 'many'). 'A lot of money' = mucho dinero.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "I have two moneys.",
+            "isCorrect": false,
+            "correction": "I have a lot of money.",
+            "explanation": "'Money' es un sustantivo INCONTABLE en inglés. No tiene plural ni se usa con números. Para cantidades específicas se usan monedas: 'two dollars', 'ten euros'.",
+            "errorType": "countability"
+          },
+          {
+            "sentence": "I go to work by car.",
+            "isCorrect": true,
+            "explanation": "Correcta. Medio de transporte: 'BY + vehículo' (by car, by bus, by train). Sin artículo y sin 'in' o 'with'.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "She is very perfect.",
+            "isCorrect": false,
+            "correction": "She is perfect.",
+            "explanation": "'Very' no se usa con adjetivos que ya son extremos o absolutos. 'Perfect' ya es el máximo — no puede haber algo 'muy perfecto'. Lo mismo con 'excellent', 'amazing', 'terrible'.",
+            "errorType": "collocation"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa! Fin del vocabulario A1",
+      "instruction": "¡Felicitaciones! Terminaste el vocabulario A1. Aprendiste 10 palabras finales: objetos cotidianos (book, car, dog, cat, money, phone) y los 4 conectores esenciales (and, or, but, very). Claves: 'money' es incontable; 'by car' para transporte; 'very' no va con adjetivos extremos. Ahora tenés las 150+ palabras del A1 completas en el SRS.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "id": "vocab-b1-04",
+  "title": "Emotions & Personality: Beyond Happy and Sad",
+  "description": "anxious, frustrated, grateful, disappointed, confident, jealous, relieved, stubborn, embarrassed — el vocabulario emocional que distingue a un usuario independiente del idioma.",
+  "level": "b1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "anxious",
+      "back": "ansioso / angustiado",
+      "reading": "/ˈæŋkʃəs/",
+      "explanation": "'Feel anxious about' = sentirse ansioso por algo. 'She felt anxious before the presentation.' Diferencia: ANXIOUS (ansiedad, preocupación) vs NERVOUS (nervioso antes de algo específico). ANXIETY es el sustantivo.",
+      "cardRef": { "category": "vocabulary", "front": "anxious" }
+    },
+    {
+      "front": "frustrated",
+      "back": "frustrado",
+      "reading": "/ˈfrʌstreɪtɪd/",
+      "explanation": "'Get/feel frustrated' = frustrarse. 'He was frustrated because the computer crashed.' FRUSTRATED (adjetivo sobre cómo te sentís) vs FRUSTRATING (adjetivo sobre lo que causa la frustración). 'The situation is frustrating. I feel frustrated.'",
+      "cardRef": { "category": "vocabulary", "front": "frustrated" }
+    },
+    {
+      "front": "grateful",
+      "back": "agradecido",
+      "reading": "/ˈɡreɪtfəl/",
+      "explanation": "'I'm very grateful FOR your help.' Preposición: GRATEFUL FOR. 'I'm grateful to you' también es posible (GRATEFUL TO + persona). Sinónimo: thankful. El sustantivo: gratitude.",
+      "cardRef": { "category": "vocabulary", "front": "grateful" }
+    },
+    {
+      "front": "disappointed",
+      "back": "decepcionado / desilusionado",
+      "reading": "/ˌdɪsəˈpɔɪntɪd/",
+      "explanation": "'Be disappointed WITH/IN/ABOUT something.' 'We were disappointed with the results.' DISAPPOINTED (adjetivo de quien se siente así) vs DISAPPOINTING (lo que causa la decepción). 'The results were disappointing. We felt disappointed.'",
+      "cardRef": { "category": "vocabulary", "front": "disappointed" }
+    },
+    {
+      "front": "confident",
+      "back": "seguro de sí mismo / confiado",
+      "reading": "/ˈkɑːnfɪdənt/",
+      "explanation": "'She is very confident when speaking in public.' CONFIDENT ABOUT/IN something = seguro de algo. 'I'm confident about the exam.' Diferencia: CONFIDENT (carácter, seguridad propia) vs SURE (certeza sobre un hecho).",
+      "cardRef": { "category": "vocabulary", "front": "confident" }
+    },
+    {
+      "front": "jealous",
+      "back": "celoso / envidioso",
+      "reading": "/ˈdʒɛləs/",
+      "explanation": "Dos usos: celos en una relación ('He gets jealous when she talks to other people') y envidia ('I'm jealous of your new car'). JEALOUS OF = envidiosos de. El sustantivo: jealousy.",
+      "cardRef": { "category": "vocabulary", "front": "jealous" }
+    },
+    {
+      "front": "relieved",
+      "back": "aliviado",
+      "reading": "/rɪˈliːvd/",
+      "explanation": "La sensación de alivio cuando algo malo no pasó o terminó. 'I was so relieved when I passed the exam.' RELIEVED TO + infinitivo: 'I was relieved to hear the news.' El sustantivo: relief.",
+      "cardRef": { "category": "vocabulary", "front": "relieved" }
+    },
+    {
+      "front": "stubborn",
+      "back": "terco / obstinado",
+      "reading": "/ˈstʌbərn/",
+      "explanation": "Alguien que no cambia de opinión fácilmente. Puede ser positivo (persistente) o negativo (cerrado). 'He's too stubborn to admit he was wrong.' Colocaciones: AS STUBBORN AS a mule (terco como una mula).",
+      "cardRef": { "category": "vocabulary", "front": "stubborn" }
+    },
+    {
+      "front": "embarrassed",
+      "back": "avergonzado",
+      "reading": "/ɪmˈbærəst/",
+      "explanation": "FALSO AMIGO MUY COMÚN: 'embarrassed' NO significa embarazada. 'I was embarrassed when I forgot her name.' EMBARRASSED (avergonzado por algo) vs ASHAMED (avergonzado de sí mismo). 'Pregnant' = embarazada.",
+      "cardRef": { "category": "vocabulary", "front": "embarrassed" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Emociones B1: más allá de happy y sad",
+      "instruction": "A nivel B1, el vocabulario emocional se vuelve más preciso. Fijate en las preposiciones (GRATEFUL FOR, JEALOUS OF, CONFIDENT ABOUT) y la diferencia -ED/-ING (frustrated vs frustrating).",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "Más emociones y personalidad",
+      "instruction": "¡Cuidado! 'Embarrassed' ≠ embarazada. Este es uno de los falsos amigos más famosos del inglés. 'Stubborn' puede ser positivo o negativo según el contexto.",
+      "itemIndices": [5, 6, 7, 8]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto de cada palabra.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "type": "listen-identify",
+      "title": "Escuchá y elegí",
+      "instruction": "Escuchá y elegí la palabra correcta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Dónde se usa bien?",
+      "instruction": "Elegí la oración donde la emoción está usada correctamente.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "embarrassed",
+            "translation": "avergonzado (NO 'embarazada')",
+            "options": [
+              "She is embarrassed — she is expecting a baby in June.",
+              "He felt embarrassed when he called his teacher 'mum' by accident.",
+              "The embarrassed woman showed us her baby photos.",
+              "She was embarrassed at the hospital to give birth."
+            ],
+            "correctIndex": 1,
+            "feedback": "'Embarrassed' = avergonzado/incómodo por una situación. Llamar 'mum' a tu maestra por error es una situación típicamente vergonzosa. 'Embarazada' en español = PREGNANT en inglés."
+          },
+          {
+            "targetWord": "relieved",
+            "translation": "aliviado",
+            "options": [
+              "I was so relieved after the operation was a success.",
+              "She was relieved to go to the dentist tomorrow.",
+              "They felt relieved because they were going to lose their jobs.",
+              "He was relieved when his team lost the final."
+            ],
+            "correctIndex": 0,
+            "feedback": "'Relieved' se siente cuando algo malo no ocurrió o cuando una situación difícil terminó bien. Una operación exitosa produce alivio. Las otras opciones contradicen el sentido de alivio."
+          },
+          {
+            "targetWord": "confident",
+            "translation": "seguro de sí mismo",
+            "options": [
+              "I'm confident that I left my keys on the table.",
+              "She's a very confident speaker — she never seems nervous.",
+              "He confident about going to the party.",
+              "They were confident the weather would be nice (but meaning 'sure')."
+            ],
+            "correctIndex": 1,
+            "feedback": "Aunque 'confident' puede significar 'seguro de algo' (opción 1 también es correcta), la opción 2 captura mejor el sentido de personalidad segura y confiada de sí misma que distingue a B1."
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Escribí la emoción en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "9 emociones/personalidad B1: anxious (ansioso), frustrated (frustrado — ≠ frustrating que es lo que frustra), grateful FOR (agradecido), disappointed WITH (decepcionado), confident ABOUT (seguro), jealous OF (celoso/envidioso), relieved (aliviado), stubborn (terco), embarrassed (avergonzado — ¡NO embarazada! Eso es PREGNANT).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    }
+  ]
+}

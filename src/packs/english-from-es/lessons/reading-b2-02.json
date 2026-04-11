@@ -1,0 +1,106 @@
+{
+  "id": "reading-b2-02",
+  "title": "Reading: Book Review — '1984' by George Orwell",
+  "description": "Lectura de una reseña literaria con vocabulario crítico y estructuras analíticas B2.",
+  "level": "b2",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "dystopian",
+      "back": "distópico",
+      "reading": "/dɪˈstoʊpiən/",
+      "explanation": "Que describe una sociedad imaginaria futura caracterizada por sufrimiento, control extremo y falta de libertades. Lo opuesto de 'utopian'. Relacionado: 'dystopia' (distopía)."
+    },
+    {
+      "front": "surveillance",
+      "back": "vigilancia",
+      "reading": "/sərˈveɪləns/",
+      "explanation": "Monitoreo o supervisión sistemática de individuos o grupos, especialmente por el gobierno. Colocaciones: government surveillance, mass surveillance, under surveillance. Muy relevante en debates contemporáneos sobre privacidad."
+    },
+    {
+      "front": "prophetic",
+      "back": "profético",
+      "reading": "/prəˈfɛtɪk/",
+      "explanation": "Que predice o anuncia eventos futuros con notable precisión. Cognado con 'profético'. 'Orwell's prophetic insights' = las visiones de Orwell que resultaron ser verdad décadas después de escritas."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario para reseñas literarias",
+      "instruction": "Las reseñas literarias en inglés usan vocabulario específico: 'dystopian', 'surveillance', 'prophetic'. Estas palabras también aparecen en debates actuales sobre privacidad y tecnología — 1984 es más relevante que nunca.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Book Review: '1984' by George Orwell",
+      "instruction": "Leé esta reseña literaria. Prestá atención a cómo el reseñador equilibra el elogio con la crítica — esa estructura es característica del análisis crítico en inglés.",
+      "itemIndices": [],
+      "config": {
+        "passage": {
+          "id": "b2-reading-1984-review",
+          "title": "Book Review: '1984' by George Orwell",
+          "level": "b2",
+          "text": "George Orwell's '1984', published in 1949, remains one of the most influential novels of the twentieth century. Set in a dystopian future where the totalitarian Party controls every aspect of life, the novel follows Winston Smith, a low-ranking Party member who secretly harbors rebellious thoughts against the regime led by the mysterious Big Brother.\n\nWhat makes '1984' so compelling is not its plot, which is relatively straightforward, but its terrifyingly detailed vision of a society built on surveillance, propaganda, and the manipulation of truth. Orwell introduces concepts that have entered everyday language: 'Big Brother' for omnipresent surveillance, 'doublethink' for the ability to hold two contradictory beliefs simultaneously, and 'Newspeak' for language deliberately designed to limit free thought.\n\nThe novel's exploration of power is remarkably sophisticated. Orwell understood that authoritarian regimes do not merely suppress dissent — they seek to control reality itself. The Party's slogan, 'Who controls the past controls the future; who controls the present controls the past,' reveals a chilling truth about how history can be weaponized.\n\nCritics have occasionally dismissed '1984' as overly pessimistic or heavy-handed in its political messaging. There is some validity to this criticism; the romantic subplot between Winston and Julia can feel underdeveloped, and the final third of the novel, while powerful, becomes almost unbearably bleak. However, these flaws seem minor when measured against the book's prophetic insights.\n\nIn an era of fake news, government surveillance programs, and the erosion of privacy, '1984' feels more relevant than ever. Orwell did not predict the future with precision, but he identified the mechanisms by which freedom can be gradually dismantled. For that reason alone, it deserves to be read — and reread — by every generation.",
+          "translation": "La novela '1984' de George Orwell sigue siendo una de las más influyentes del siglo XX...",
+          "vocabulary": ["dystopian - distópico", "totalitarian - totalitario", "harbors - alberga", "surveillance - vigilancia", "propaganda - propaganda", "contradictory - contradictorio", "dissent - disidencia", "weaponized - convertido en arma", "pessimistic - pesimista", "underdeveloped - poco desarrollado", "prophetic - profético", "dismantled - desmantelado"],
+          "questions": [
+            {
+              "question": "According to the review, what is the most compelling aspect of '1984'?",
+              "options": ["The exciting plot.", "The romantic subplot.", "Its detailed vision of a surveillance society.", "The surprise ending."],
+              "correctIndex": 2,
+              "explanation": "The review states that what makes the novel compelling is 'its terrifyingly detailed vision of a society built on surveillance, propaganda, and the manipulation of truth,' not the plot."
+            },
+            {
+              "question": "What criticism does the reviewer acknowledge about the novel?",
+              "options": ["It is too short.", "The writing style is outdated.", "It can be seen as overly pessimistic with an underdeveloped romantic subplot.", "The political message is not clear enough."],
+              "correctIndex": 2,
+              "explanation": "The reviewer acknowledges that critics have called it 'overly pessimistic' and that 'the romantic subplot between Winston and Julia can feel underdeveloped.'"
+            },
+            {
+              "question": "Why does the reviewer believe '1984' is still relevant today?",
+              "options": ["Because totalitarian governments still exist.", "Because of fake news, surveillance programs, and erosion of privacy.", "Because Orwell predicted the internet.", "Because the novel has been adapted into many films."],
+              "correctIndex": 1,
+              "explanation": "The review states 'In an era of fake news, government surveillance programs, and the erosion of privacy, 1984 feels more relevant than ever.'"
+            },
+            {
+              "question": "What does the reviewer mean by saying Orwell identified 'the mechanisms by which freedom can be gradually dismantled'?",
+              "options": ["Orwell predicted specific future events.", "Orwell showed the step-by-step processes that erode freedom over time.", "Orwell invented new machines in the novel.", "Orwell argued that freedom is impossible."],
+              "correctIndex": 1,
+              "explanation": "The reviewer means that while Orwell didn't predict specific events, he identified the underlying patterns and processes (propaganda, surveillance, manipulation of truth) through which freedom gets eroded — and these patterns are visible today."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "Vocabulario crítico en contexto",
+      "instruction": "Estas oraciones contienen errores típicos al usar vocabulario de análisis literario.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "The author's writing is very prophetic because he predicted the exact events of 2024.",
+            "isCorrect": false,
+            "correction": "The author's writing is remarkably prophetic in that he identified the mechanisms that would shape later decades, even if he did not predict specific events.",
+            "explanation": "El reseñador dice explícitamente que Orwell 'did not predict the future with precision'. 'Prophetic' se refiere a la identificación de tendencias y mecanismos, no a predicciones literales y exactas. La oración original contradice el argumento del texto.",
+            "errorType": "comprehension"
+          },
+          {
+            "sentence": "The novel is set in a dystopian society where the government controls information and suppresses free thought.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Set in a dystopian society' es exactamente la fraseología de la reseña. 'Controls information and suppresses free thought' resume con precisión los mecanismos del Partido.",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "La reseña de '1984' demuestra cómo escribir un análisis literario equilibrado en inglés: elogio + reconocimiento de debilidades + conclusión sobre relevancia. Vocabulario literario clave: 'dystopian', 'surveillance', 'prophetic', 'underdeveloped subplot', 'pessimistic'. Estructura retórica del texto: descripción → argumento central → crítica reconocida → respuesta a la crítica → conclusión. Esta es la estructura del ensayo B2 por excelencia.",
+      "itemIndices": [0, 1, 2]
+    }
+  ]
+}

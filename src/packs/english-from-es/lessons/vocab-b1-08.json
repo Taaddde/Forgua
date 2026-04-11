@@ -1,0 +1,137 @@
+{
+  "id": "vocab-b1-08",
+  "title": "Money & Shopping: Bargains, Budgets and Bills",
+  "description": "refund, receipt, bargain, afford, withdraw, debt, discount, loan — el vocabulario para manejar tu dinero y comprar con confianza en inglés.",
+  "level": "b1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "refund",
+      "back": "reembolso / devolución",
+      "reading": "/ˈriːfʌnd/",
+      "explanation": "El dinero que te devuelven. GET/RECEIVE/ASK FOR a refund. 'I'd like to get a refund for this product.' El verbo: REFUND. 'Can you refund my ticket?' Diferente de EXCHANGE (cambiar por otro producto).",
+      "cardRef": { "category": "vocabulary", "front": "refund" }
+    },
+    {
+      "front": "receipt",
+      "back": "recibo / comprobante",
+      "reading": "/rɪˈsiːt/",
+      "explanation": "El comprobante de una compra. KEEP the receipt. 'Keep the receipt in case you need to return it.' La 'p' es muda (pronunciación: /rɪˈsiːt/). Diferente de BILL (la cuenta del restaurante) e INVOICE (factura formal).",
+      "cardRef": { "category": "vocabulary", "front": "receipt" }
+    },
+    {
+      "front": "bargain",
+      "back": "ganga / oferta",
+      "reading": "/ˈbɑːrɡən/",
+      "explanation": "'I found a real bargain at the market.' Algo barato o con muy buen precio. FIND/GET a bargain. IT'S a bargain! Como verbo: BARGAIN (negociar precio) — 'You can bargain at street markets.' BARGAIN HUNTING = buscar gangas.",
+      "cardRef": { "category": "vocabulary", "front": "bargain" }
+    },
+    {
+      "front": "afford",
+      "back": "permitirse / costear",
+      "reading": "/əˈfɔːrd/",
+      "explanation": "AFFORD + sustantivo / AFFORD TO + infinitivo. 'We can't afford to buy a new car.' 'I can't afford the rent.' Tener el dinero suficiente para algo. AFFORDABLE = asequible, de buen precio. 'The hotel is affordable.'",
+      "cardRef": { "category": "vocabulary", "front": "afford" }
+    },
+    {
+      "front": "withdraw",
+      "back": "retirar dinero / retirarse",
+      "reading": "/wɪðˈdrɔː/",
+      "explanation": "WITHDRAW money FROM the bank/ATM. 'I need to withdraw some cash from the ATM.' WITHDRAWAL = el acto de retirar. También significa retirarse (de una competencia, un proyecto). Pasado: withdrew.",
+      "cardRef": { "category": "vocabulary", "front": "withdraw" }
+    },
+    {
+      "front": "debt",
+      "back": "deuda",
+      "reading": "/dɛt/",
+      "explanation": "Cuidado con la pronunciación: la 'b' es muda (dɛt, no dɛbt). IN DEBT = endeudado. PAY OFF a debt = pagar/saldar una deuda. GET INTO debt = endeudarse. 'He's working hard to pay off his debts.'",
+      "cardRef": { "category": "vocabulary", "front": "debt" }
+    },
+    {
+      "front": "discount",
+      "back": "descuento",
+      "reading": "/ˈdɪskaʊnt/",
+      "explanation": "GET/GIVE/OFFER a discount. 'Students get a 10% discount.' AT a discount = con descuento. A DISCOUNT STORE = tienda de descuentos. También como verbo: to discount = hacer un descuento / desestimar una idea.",
+      "cardRef": { "category": "vocabulary", "front": "discount" }
+    },
+    {
+      "front": "loan",
+      "back": "préstamo",
+      "reading": "/loʊn/",
+      "explanation": "'She took out a loan to start her business.' TAKE OUT a loan. PAY BACK/REPAY a loan. A BANK LOAN = préstamo bancario. STUDENT LOAN = crédito estudiantil. También como verbo: 'Can you loan me $10?' (americano, informal).",
+      "cardRef": { "category": "vocabulary", "front": "loan" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Comprando: devoluciones y gangas",
+      "instruction": "4 palabras para el shopping cotidiano. 'Receipt' — la 'p' es muda. 'Afford' va siempre en negativo cuando no podés costear algo: 'I can't afford...'",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Dinero: deudas y préstamos",
+      "instruction": "4 palabras de finanzas personales. 'Debt' — la 'b' es muda. 'TAKE OUT a loan' y 'PAY OFF a debt' son las colocaciones estándar.",
+      "itemIndices": [4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto de cada término financiero.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "listen-identify",
+      "title": "Escuchá y elegí",
+      "instruction": "Prestá atención a las pronunciaciones con letras mudas (receipt, debt).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Dónde se usa bien?",
+      "instruction": "Elegí la oración con la colocación correcta.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "afford",
+            "translation": "poder costear",
+            "options": [
+              "I can't afford going to the gym every day.",
+              "We can't afford to rent a bigger apartment right now.",
+              "She can afford of a new laptop this month.",
+              "They afford the vacation in Europe."
+            ],
+            "correctIndex": 1,
+            "feedback": "AFFORD + TO + infinitivo ('can't afford to rent') o AFFORD + noun phrase ('can't afford the rent'). Nunca 'afford of'. La forma más común es 'can/can't afford + noun' o 'can/can't afford to + verb'."
+          },
+          {
+            "targetWord": "withdraw",
+            "translation": "retirar dinero",
+            "options": [
+              "I need to withdraw money from the ATM.",
+              "She withdrew her money to the bank yesterday.",
+              "He withdrew from the ATM to his account.",
+              "Can I withdraw money with my credit card deposit?"
+            ],
+            "correctIndex": 0,
+            "feedback": "WITHDRAW + money + FROM the ATM/bank. La preposición es FROM (no 'to'). 'I need to withdraw some cash from the ATM' es la oración natural y correcta."
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Escribí la palabra financiera en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "8 palabras de dinero y compras: refund (reembolso — ask for/get a refund), receipt (recibo — 'p' muda), bargain (ganga), afford TO + verb (poder costear — I can't afford to...), withdraw FROM (retirar — 'b' muda en debt), debt (deuda — 'b' muda, pay off a debt), discount (GET a discount), loan (préstamo — take out a loan, pay back a loan).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

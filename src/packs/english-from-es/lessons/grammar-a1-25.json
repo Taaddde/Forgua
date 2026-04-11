@@ -1,0 +1,171 @@
+{
+  "id": "grammar-a1-25",
+  "title": "Superlatives: the biggest, the most expensive",
+  "description": "En español decís 'el más alto' o 'la más barata'. En inglés se usa -est para adjetivos cortos (the tallest) y 'the most' + adjetivo para los largos (the most expensive). Y hay irregulares que tenés que memorizar: the best, the worst.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "the + adjetivo + -est (adjetivos cortos)",
+      "back": "el/la más + adjetivo (adjetivos de 1-2 sílabas)",
+      "reading": "/ðə ˈtɔːlɪst/",
+      "explanation": "Para adjetivos cortos (1-2 sílabas) agregás -est: tall → the tallest, short → the shortest, fast → the fastest, old → the oldest. OJO: SIEMPRE con 'the' adelante. Reglas ortográficas: (1) Adjetivos que terminan en -e solo agregan -st: nice → the nicest. (2) Consonante + y cambia a -iest: happy → the happiest, easy → the easiest. (3) Vocal corta + consonante: se duplica la consonante: big → the biggest, hot → the hottest.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Superlatives (the + adjective + -est | the most + adjective)"
+      }
+    },
+    {
+      "front": "the most + adjetivo (adjetivos largos)",
+      "back": "el/la más + adjetivo (adjetivos de 3+ sílabas)",
+      "reading": "/ðə moʊst ɪkˈspɛnsɪv/",
+      "explanation": "Para adjetivos largos (3 o más sílabas) usás 'the most' + adjetivo: expensive → the most expensive, beautiful → the most beautiful, interesting → the most interesting, important → the most important. No se agrega -est a estos (NO 'the expensivest'). Regla general: si el adjetivo tiene más de dos sílabas, casi siempre va con 'the most'."
+    },
+    {
+      "front": "Irregulares: good → the best / bad → the worst",
+      "back": "bueno → el mejor / malo → el peor",
+      "reading": "/ðə bɛst/ /ðə wɜːrst/",
+      "explanation": "Dos superlativos irregulares cruciales que no siguen ninguna regla: good → the best (el mejor), bad → the worst (el peor). 'This is the best pizza in town' = 'Es la mejor pizza del barrio'. 'That was the worst movie ever' = 'Fue la peor película de todas'. Otros irregulares: far → the farthest/furthest, little → the least, much/many → the most."
+    },
+    {
+      "front": "She is the tallest in the class.",
+      "back": "Ella es la más alta de la clase.",
+      "reading": "/ʃiː ɪz ðə ˈtɔːlɪst ɪn ðə klæs/",
+      "explanation": "Estructura típica: sujeto + to be + the + superlativo + in/of + grupo. Usá 'in' con lugares o grupos cerrados (in the class, in the world, in my family). Usá 'of' con cantidades o grupos abiertos (of all, of them, of the three). En español decimos 'de la clase' — en inglés se dice 'in the class'."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Superlativos: el más... / la más...",
+      "instruction": "Regla básica: adjetivos cortos (1-2 sílabas) → the + adj + est. Adjetivos largos (3+ sílabas) → the most + adj. Siempre con 'the' adelante. 'The tallest', 'the most expensive'.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Irregulares y estructura completa",
+      "instruction": "Memorizá los irregulares: good → the best, bad → the worst. Y recordá la estructura: sujeto + to be + the + superlativo + in/of + grupo. 'She is the tallest in the class'.",
+      "itemIndices": [2, 3]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es el superlativo correcto?",
+      "instruction": "Elegí el superlativo que corresponde a cada adjetivo.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con el superlativo",
+      "instruction": "Poné el adjetivo en su forma superlativa. Elegí entre -est, the most, o los irregulares.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "Mount Everest is {0} mountain in the world.",
+            "blanks": [
+              { "answer": "the highest", "options": ["the highest", "the most high", "the higher", "highest"] }
+            ]
+          },
+          {
+            "template": "This is {0} restaurant in the neighborhood. The food is amazing.",
+            "blanks": [
+              { "answer": "the best", "options": ["the best", "the goodest", "the most good", "best"] }
+            ]
+          },
+          {
+            "template": "She thinks Italian is {0} language in Europe.",
+            "blanks": [
+              { "answer": "the most beautiful", "options": ["the most beautiful", "the beautifulest", "the more beautiful", "most beautiful"] }
+            ]
+          },
+          {
+            "template": "It was {0} day of my life — I lost my phone and my keys.",
+            "blanks": [
+              { "answer": "the worst", "options": ["the worst", "the baddest", "the most bad", "worst"] }
+            ]
+          },
+          {
+            "template": "July is {0} month of the year in my city.",
+            "blanks": [
+              { "answer": "the hottest", "options": ["the hottest", "the most hot", "the hotest", "hottest"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcto?",
+      "instruction": "Decidí si cada superlativo está bien formado.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "She is the most tall girl in the class.",
+            "isCorrect": false,
+            "correction": "She is the tallest girl in the class.",
+            "explanation": "'Tall' es corto (1 sílaba), así que va con -est: 'the tallest'. 'The most tall' es un error típico cuando se aplica la regla de los largos a un adjetivo corto.",
+            "errorType": "wrong-form"
+          },
+          {
+            "sentence": "This is the most interesting book I've ever read.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Interesting' tiene 4 sílabas (in-ter-est-ing), así que usa 'the most'. Regla: si tiene 3+ sílabas, casi siempre va con 'the most'.",
+            "errorType": "form"
+          },
+          {
+            "sentence": "He is the goodest player on the team.",
+            "isCorrect": false,
+            "correction": "He is the best player on the team.",
+            "explanation": "'Good' es irregular: su superlativo es 'the best'. NO existe 'goodest'. Igual que 'bad' → 'the worst'. Memorizalos, son los dos más importantes.",
+            "errorType": "irregular"
+          },
+          {
+            "sentence": "That's the biggest pizza I've ever seen!",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Big' termina en vocal corta + consonante, así que se duplica la g: biggest. Misma regla: hot → hottest, fat → fattest.",
+            "errorType": "spelling"
+          },
+          {
+            "sentence": "Paris is the most famous city of France.",
+            "isCorrect": false,
+            "correction": "Paris is the most famous city in France.",
+            "explanation": "Con lugares o grupos cerrados se usa 'in', no 'of'. 'In France', 'in the world', 'in my family'. 'Of' se reserva para cantidades/grupos abiertos ('the best of all').",
+            "errorType": "preposition"
+          }
+        ]
+      }
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá oraciones con superlativos",
+      "instruction": "Ordená las palabras para formar oraciones correctas con superlativos.",
+      "itemIndices": [0],
+      "config": {
+        "sentences": [
+          {
+            "translation": "Es el edificio más alto de la ciudad.",
+            "fragments": ["It is", "the tallest", "building", "in the city"],
+            "correctOrder": [0, 1, 2, 3]
+          },
+          {
+            "translation": "Fue el peor día de mi vida.",
+            "fragments": ["It was", "the worst", "day", "of my life"],
+            "correctOrder": [0, 1, 2, 3]
+          },
+          {
+            "translation": "Esta es la película más cara jamás hecha.",
+            "fragments": ["This is", "the most expensive", "movie", "ever made"],
+            "correctOrder": [0, 1, 2, 3]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Resumen: Superlativos cortos → the + adj + est (the tallest). Largos → the most + adj (the most expensive). Irregulares: the best, the worst. Estructura: the + superlativo + in/of + grupo. Reglas ortográficas: -e → +st (nice/nicest), consonante+y → -iest (happy/happiest), vocal corta + consonante → duplicar (big/biggest).",
+      "itemIndices": [0, 1, 2, 3]
+    }
+  ]
+}

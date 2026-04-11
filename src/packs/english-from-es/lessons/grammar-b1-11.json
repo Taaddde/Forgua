@@ -1,0 +1,168 @@
+{
+  "id": "grammar-b1-11",
+  "title": "Wish + Past Simple: Ojalá Tuviera...",
+  "description": "Para expresar deseos sobre el presente que no son realidad. 'I wish I spoke better English.' 'She wishes she didn't have to work on weekends.'",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "I wish I spoke better English.",
+      "back": "Ojalá hablara mejor inglés.",
+      "reading": "/aɪ wɪʃ aɪ spoʊk ˈbɛtər ˈɪŋɡlɪʃ/",
+      "explanation": "'Wish + past simple' para deseos sobre el PRESENTE que son irreales. Aunque usamos el pasado simple, NO es el pasado — es un presente irreal. Es igual al segundo condicional. En español: 'ojalá' + subjuntivo. 'I wish I knew' = ojalá supiera (ahora mismo).",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Wish + Past Simple (Subject + wish + subject + past simple)"
+      }
+    },
+    {
+      "front": "She wishes she didn't have to work on Saturdays.",
+      "back": "Ella desearía no tener que trabajar los sábados.",
+      "reading": "/ʃiː wɪʃɪz ʃiː ˈdɪdənt hæv tə wɜːrk ɑːn ˈsætərdeɪz/",
+      "explanation": "Wish + sujeto diferente: 'She wishes she...' El sujeto de 'wish' y el sujeto del deseo PUEDEN ser diferentes. Negativo: 'I wish I DIDN'T have to...' Nota: 'wish' en 3ra persona lleva -es: 'she wishes'."
+    },
+    {
+      "front": "I wish I were taller.",
+      "back": "Ojalá fuera más alto.",
+      "reading": "/aɪ wɪʃ aɪ wɜːr ˈtɔːlər/",
+      "explanation": "Con 'to be': la forma FORMAL correcta es 'were' para todas las personas. 'I wish I WERE rich' (formal). 'I wish I was rich' (cotidiano, muy común). Las dos son aceptadas, pero 'were' es más formal. Igual que en el segundo condicional: 'If I were you...'."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Wish: deseos sobre el presente irreal",
+      "instruction": "'Wish + past simple' = ojalá (sobre el presente). El pasado simple NO indica pasado aquí — indica algo irreal. 'I wish I knew' = ojalá supiera ahora. 'I wish I had a car' = ojalá tuviera un auto (ahora).",
+      "itemIndices": [
+        0,
+        1
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Wish + were: la forma formal con to be",
+      "instruction": "Con 'to be', la forma formal es 'were' para TODAS las personas. 'I wish I were...' = ojalá fuera... Igual que 'If I were you' del segundo condicional.",
+      "itemIndices": [
+        2
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es la forma correcta de wish?",
+      "instruction": "Elegí la forma correcta del past simple después de 'wish'.",
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con wish + pasado simple",
+      "instruction": "Completá los deseos usando la forma correcta.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "I wish I {0} how to cook. I always eat fast food.",
+            "blanks": [
+              {
+                "answer": "knew",
+                "options": [
+                  "knew",
+                  "know",
+                  "would know"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "She wishes she {0} more time to spend with her family.",
+            "blanks": [
+              {
+                "answer": "had",
+                "options": [
+                  "had",
+                  "has",
+                  "would have"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "I wish it {0} so hot in summer.",
+            "blanks": [
+              {
+                "answer": "weren't",
+                "options": [
+                  "weren't",
+                  "isn't",
+                  "would not be"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "They wish they {0} the lottery last week.",
+            "blanks": [
+              {
+                "answer": "had won",
+                "options": [
+                  "had won",
+                  "won",
+                  "would win"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Identificá errores en el uso de 'wish'.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "I wish I would speak better English.",
+            "isCorrect": false,
+            "correction": "I wish I spoke better English.",
+            "explanation": "INCORRECTO. 'Wish + past simple', no 'wish + would'. Error muy común. Con wish para el presente irreal: PAST SIMPLE (spoke, knew, had, were). 'Would' después de wish se usa en contexto diferente (para quejas o petidos).",
+            "errorType": "wish-tense"
+          },
+          {
+            "sentence": "She wishes she were more confident.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Wish + were' (forma formal con to be). 'She wishes she were...' = desearía ser... más segura de sí misma.",
+            "errorType": "wish-were"
+          },
+          {
+            "sentence": "I wish I have more free time.",
+            "isCorrect": false,
+            "correction": "I wish I had more free time.",
+            "explanation": "INCORRECTO. Después de 'wish' para el presente irreal, el verbo va en PASADO SIMPLE. 'Have' es presente simple — incorrecto aquí. Correcto: 'I wish I HAD more free time'.",
+            "errorType": "wish-present-simple"
+          },
+          {
+            "sentence": "He wishes he could drive.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Could' también puede usarse después de 'wish' (como pasado de 'can'). 'He wishes he could drive' = ojalá pudiera manejar.",
+            "errorType": "wish-could"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "WISH + past simple = deseos sobre el presente irreal. 'I wish I knew' = ojalá supiera (ahora). Con TO BE: 'I wish I were' (formal) / 'I wish I was' (cotidiano). NUNCA 'wish + would' para presente irreal. Tres estructuras con wish: 1) wish + past simple (presente irreal), 2) wish + past perfect (pasado irreal — B2), 3) wish + would (queja/pedido — B2).",
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
+    }
+  ]
+}

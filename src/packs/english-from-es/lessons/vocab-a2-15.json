@@ -1,0 +1,161 @@
+{
+  "id": "vocab-a2-15",
+  "title": "A2 Wrap-Up: Memory, Planning & Essentials",
+  "description": "Las últimas 6 palabras clave para cerrar el vocabulario A2: memoria (remember), disfrute (enjoy), planificación (reservation, resume), y cantidades (enough, almost).",
+  "level": "a2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "remember",
+      "back": "recordar / acordarse",
+      "reading": "/rɪˈmɛmbər/",
+      "explanation": "Recordar, acordarse. ¡OJO con la estructura! 'Remember to do something' = acordarse de hacer algo (antes de hacerlo). 'Remember doing something' = recordar haber hecho algo (memoria del pasado). Error común: 'remember me' significa 'recordame a mí', NO 'acordame' (eso es 'remind me').",
+      "cardRef": { "category": "vocabulary", "front": "remember" }
+    },
+    {
+      "front": "enjoy",
+      "back": "disfrutar",
+      "reading": "/ɪnˈdʒɔɪ/",
+      "explanation": "Disfrutar. Siempre va seguido de sustantivo o -ing: 'I enjoy music' / 'I enjoy reading' (NUNCA 'I enjoy to read'). 'Enjoy yourself!' = ¡divertite! Un error típico: 'I enjoy' solo no funciona — necesita un objeto.",
+      "cardRef": { "category": "vocabulary", "front": "enjoy" }
+    },
+    {
+      "front": "reservation",
+      "back": "reserva",
+      "reading": "/ˌrɛzərˈveɪʃən/",
+      "explanation": "Reserva (en un hotel, restaurante, vuelo). 'Make a reservation' = hacer una reserva. 'I have a reservation under the name Smith'. Sinónimo en UK: 'booking'. ¡OJO! En inglés también puede significar 'duda' en ciertos contextos: 'I have reservations about this plan' = tengo dudas sobre este plan.",
+      "cardRef": { "category": "vocabulary", "front": "reservation" }
+    },
+    {
+      "front": "resume",
+      "back": "currículum vitae (CV)",
+      "reading": "/ˈrɛzəmeɪ/",
+      "explanation": "¡Cuidado! Esta 'resume' /ˈrɛzəmeɪ/ es el CV (inglés americano). En UK se dice 'CV'. El verbo homógrafo 'to resume' /rɪˈzuːm/ significa 'retomar/continuar' — se escribe igual pero suena distinto. 'Send your resume to HR' = enviá tu CV a Recursos Humanos.",
+      "cardRef": { "category": "vocabulary", "front": "resume" }
+    },
+    {
+      "front": "enough",
+      "back": "suficiente / bastante",
+      "reading": "/ɪˈnʌf/",
+      "explanation": "¡Pronunciación muy rara! 'ough' = /ʌf/ (NO como se escribe). Posición clave: VA DESPUÉS del adjetivo pero ANTES del sustantivo. 'Old enough' (suficientemente viejo) ✓ / 'Enough old' ✗. 'Enough time' (suficiente tiempo) ✓. Error clásico: 'I have time enough' ✗ → 'I have enough time' ✓.",
+      "cardRef": { "category": "vocabulary", "front": "enough" }
+    },
+    {
+      "front": "almost",
+      "back": "casi",
+      "reading": "/ˈɔːlmoʊst/",
+      "explanation": "Casi, prácticamente. 'I'm almost ready' = estoy casi listo. 'Almost all' = casi todos. Se coloca ANTES del verbo principal o ANTES del adjetivo/sustantivo. Sinónimo más formal: 'nearly'. No confundir con 'at most' (como máximo), que es diferente.",
+      "cardRef": { "category": "vocabulary", "front": "almost" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Las últimas 6 palabras de A2",
+      "instruction": "Estas 6 palabras cierran el vocabulario A2. Prestá atención a la pronunciación de 'enough' /ɪˈnʌf/ — las letras 'ough' suenan /ʌf/, no como se escriben. Y recordá: 'enjoy' SIEMPRE va seguido de sustantivo o verbo en -ing, NUNCA de infinitivo.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto de cada palabra.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "listen-identify",
+      "title": "Escuchá y elegí",
+      "instruction": "Escuchá la palabra y elegí cuál es. Prestá atención especial a 'enough' /ɪˈnʌf/ — es engañoso al leer.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "En contexto",
+      "instruction": "Completá las oraciones con la palabra correcta.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "I made a {0} at the hotel for next Friday.",
+            "blanks": [
+              { "answer": "reservation", "options": ["reservation", "resume", "remember"] }
+            ]
+          },
+          {
+            "template": "Please {0} to bring your passport tomorrow.",
+            "blanks": [
+              { "answer": "remember", "options": ["remember", "enjoy", "almost"] }
+            ]
+          },
+          {
+            "template": "She sent her {0} to ten companies last week.",
+            "blanks": [
+              { "answer": "resume", "options": ["resume", "reservation", "enough"] }
+            ]
+          },
+          {
+            "template": "I {0} reading books before bed — it helps me relax.",
+            "blanks": [
+              { "answer": "enjoy", "options": ["enjoy", "remember", "almost"] }
+            ]
+          },
+          {
+            "template": "We don't have {0} time to finish the project today — we're {1} done, but not quite.",
+            "blanks": [
+              { "answer": "enough", "options": ["enough", "almost", "enjoy"] },
+              { "answer": "almost", "options": ["almost", "enough", "remember"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice en inglés?",
+      "instruction": "Ves el significado en español. Escribí la palabra en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Identificá errores comunes con estas palabras.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "I enjoy to swim in the ocean.",
+            "isCorrect": false,
+            "correction": "I enjoy swimming in the ocean.",
+            "explanation": "'Enjoy' SIEMPRE va seguido de -ing (gerundio), NUNCA de infinitivo con 'to'. Regla: enjoy + verb-ing. Error clásico del hispanohablante porque en español decimos 'disfruto nadar'.",
+            "errorType": "verb-form"
+          },
+          {
+            "sentence": "I have time enough to help you.",
+            "isCorrect": false,
+            "correction": "I have enough time to help you.",
+            "explanation": "'Enough' va ANTES del sustantivo: 'enough time' (tiempo suficiente), NO 'time enough'. Con adjetivos sí va DESPUÉS: 'old enough' (suficientemente viejo).",
+            "errorType": "word-order"
+          },
+          {
+            "sentence": "She is almost finished with her homework.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Almost' + adjetivo/participio: 'almost finished' = casi terminada. Posición perfecta.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "Please remember me to buy milk.",
+            "isCorrect": false,
+            "correction": "Please remind me to buy milk.",
+            "explanation": "'Remember' = recordar (yo me acuerdo). 'Remind' = recordarle a alguien (vos me hacés acordar). Si querés que otra persona te haga acordar algo, usás 'remind', NO 'remember'. Error muy común.",
+            "errorType": "vocabulary"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa! Vocabulario A2 terminado",
+      "instruction": "¡Cerraste el vocabulario A2! Aprendiste: remember (recordar), enjoy (disfrutar + -ing), reservation (reserva), resume (CV en US), enough (suficiente — antes del sustantivo), almost (casi). Claves: 'enjoy' + verb-ing (NUNCA + to-infinitive); 'remember' ≠ 'remind'; 'enough TIME' (no 'time enough'); 'enough' suena /ɪˈnʌf/.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

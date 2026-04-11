@@ -1,0 +1,211 @@
+{
+  "id": "vocab-a2-12",
+  "title": "Travel Essentials II",
+  "description": "Más vocabulario de viaje: map, tourist, guide, suitcase, boarding pass, delay, y los adjetivos main y common para describir lugares y situaciones.",
+  "level": "a2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "map",
+      "back": "mapa",
+      "reading": "/mæp/",
+      "explanation": "Sustantivo: 'a map of the city'. Verbo: 'to map' = cartografiar. Preposición: 'map OF' (mapa de). 'On the map' = en el mapa. Pronunciación: /mæp/ con vocal corta, no /map/ como en español.",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "map"
+      }
+    },
+    {
+      "front": "tourist",
+      "back": "turista",
+      "reading": "/ˈtʊrɪst/",
+      "explanation": "Cognado fácil. Plural: tourists. Relacionados: tourism (turismo), tour (gira/recorrido), touristy (demasiado turístico, ligeramente negativo: 'This area is too touristy'). Pronunciación: /ˈtʊrɪst/, con acento en la primera sílaba.",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "tourist"
+      }
+    },
+    {
+      "front": "guide",
+      "back": "guía",
+      "reading": "/ɡaɪd/",
+      "explanation": "Dos sentidos: (1) persona que guía turistas — 'a tour guide'; (2) libro o manual — 'a travel guide'. También verbo: 'to guide' = guiar. Pronunciación: /ɡaɪd/, la 'u' es muda. No confundir con 'guy' /ɡaɪ/ (tipo/chico).",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "guide"
+      }
+    },
+    {
+      "front": "suitcase",
+      "back": "maleta",
+      "reading": "/ˈsuːtˌkeɪs/",
+      "explanation": "Palabra compuesta: suit (traje) + case (estuche). ¡Ojo! Es CONTABLE ('a suitcase', 'two suitcases'), a diferencia de 'luggage' que es incontable. 'I need to pack my suitcase' (tengo que hacer la maleta). Pronunciación: SUIT-case, acento en la primera sílaba.",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "suitcase"
+      }
+    },
+    {
+      "front": "boarding pass",
+      "back": "tarjeta de embarque",
+      "reading": "/ˈbɔːrdɪŋ pæs/",
+      "explanation": "Frase fija de dos palabras (no se junta). La precisás para subir al avión. 'Please show your boarding pass at the gate'. Relacionado: 'to board' = embarcar, 'boarding' = embarque. Plural: boarding passes.",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "boarding pass"
+      }
+    },
+    {
+      "front": "delay",
+      "back": "demora",
+      "reading": "/dɪˈleɪ/",
+      "explanation": "Sustantivo Y verbo: 'a 2-hour delay' (una demora de 2 horas), 'the flight was delayed' (el vuelo se demoró). ¡Ojo al participio: DELAYED, no 'delaid'! 'Delayed' = demorado. Pronunciación: /dɪˈleɪ/, acento en la segunda sílaba.",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "delay"
+      }
+    },
+    {
+      "front": "main",
+      "back": "principal",
+      "reading": "/meɪn/",
+      "explanation": "Adjetivo muy común: 'the main reason' (la razón principal), 'the main street' (la calle principal). ¡Homófono con 'mane' (melena)! En menú: 'main course' = plato principal. Adverbio: 'mainly' = principalmente.",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "main"
+      }
+    },
+    {
+      "front": "common",
+      "back": "común",
+      "reading": "/ˈkɑːmən/",
+      "explanation": "(1) Frecuente: 'a common mistake' (un error común). (2) Compartido: 'we have a lot in common' (tenemos mucho en común). Ojo con la doble 'm'. Opuesto: rare (raro), uncommon. 'Common sense' = sentido común.",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "common"
+      }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "En el aeropuerto",
+      "instruction": "Más vocabulario para viajar: el mapa, los turistas, la guía, la maleta y la temida demora. Recordá: 'suitcase' es CONTABLE (podés tener dos suitcases), pero 'luggage' no.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "introduce",
+      "title": "Describiendo lugares y situaciones",
+      "instruction": "Dos adjetivos frecuentísimos: 'main' (principal — 'the main street') y 'common' (común — 'a common problem', 'we have a lot in common').",
+      "itemIndices": [6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "image-association",
+      "title": "¿Qué ves?",
+      "instruction": "Mirá la imagen y elegí la palabra correcta.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/World_map_with_the_Americas_on_the_right_and_Eurasia_and_Africa_on_the_left.jpg/320px-World_map_with_the_Americas_on_the_right_and_Eurasia_and_Africa_on_the_left.jpg",
+            "imageAlt": "A world map",
+            "options": ["map", "guide", "boarding pass", "suitcase"],
+            "correctIndex": 0
+          },
+          {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Suitcase_20050424.jpg/320px-Suitcase_20050424.jpg",
+            "imageAlt": "A brown leather suitcase",
+            "options": ["suitcase", "boarding pass", "map", "delay"],
+            "correctIndex": 0
+          },
+          {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Tourists_in_Venice%2C_Italy_%282016%29.jpg/320px-Tourists_in_Venice%2C_Italy_%282016%29.jpg",
+            "imageAlt": "A group of tourists visiting a city",
+            "options": ["tourist", "guide", "boarding pass", "map"],
+            "correctIndex": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Dónde se usa bien?",
+      "instruction": "Elegí la oración donde la palabra está usada correctamente.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "delay",
+            "translation": "demora",
+            "options": [
+              "Our flight had a two-hour delay because of the storm.",
+              "I delay my coffee every morning at eight.",
+              "The delay is a person who works at the airport.",
+              "I bought a new delay for my trip."
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "common",
+            "translation": "común",
+            "options": [
+              "Making small grammar mistakes is very common when you start learning a language.",
+              "I drink common every morning before work.",
+              "The common is at the end of the street.",
+              "She is a common of our department."
+            ],
+            "correctIndex": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Identificá errores o confirmá que la oración es correcta.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "I lost my boarding passes at the main entrance of the airport.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Boarding passes' es el plural regular (two-word phrase con -es al final). 'Main entrance' = entrada principal, uso normal de 'main'.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "The tourist guide showed us a map from the city.",
+            "isCorrect": false,
+            "correction": "The tourist guide showed us a map of the city.",
+            "explanation": "Se dice 'a map OF a place', no 'a map FROM a place'. La preposición 'of' indica contenido/referencia; 'from' indicaría origen (de dónde viene). Error muy común del hispanohablante por calco de 'mapa de'.",
+            "errorType": "preposition"
+          },
+          {
+            "sentence": "My suitcase was delaid at the airport.",
+            "isCorrect": false,
+            "correction": "My suitcase was delayed at the airport.",
+            "explanation": "El participio de 'delay' es 'delayed', con -ed regular. No existe 'delaid'. Es verbo regular aunque termine en 'y'.",
+            "errorType": "conjugation"
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice en inglés?",
+      "instruction": "Ves la palabra en español. Escribí la traducción en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste 8 palabras más de viaje. Recordá: (1) 'suitcase' es contable, 'luggage' no. (2) 'map OF', no 'map FROM'. (3) 'delayed' con -ed regular. (4) 'boarding pass' son dos palabras separadas. (5) 'main' = principal, 'common' = común o compartido ('to have in common'). Ya estás listo para viajar con más fluidez.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

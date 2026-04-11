@@ -1,0 +1,111 @@
+{
+  "id": "vocab-c2-02",
+  "title": "Legal & Formal Register",
+  "description": "Vocabulario legal y formal: jurisdiction, indemnify, stipulate, adjudicate, precedent, waive. Para contratos, documentos oficiales y discurso jurídico.",
+  "level": "c2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "jurisdiction",
+      "back": "jurisdicción",
+      "reading": "/ˌdʒʊərɪsˈdɪkʃən/",
+      "explanation": "La autoridad legal o territorial de una entidad. 'This court has no jurisdiction over that case'. También figurativo: 'That's outside my jurisdiction' = no es mi área de responsabilidad. Muy frecuente en noticias internacionales y contratos con cláusulas de 'governing jurisdiction'.",
+      "cardRef": { "category": "vocabulary", "front": "jurisdiction" }
+    },
+    {
+      "front": "indemnify",
+      "back": "indemnizar, proteger de pérdidas",
+      "reading": "/ɪnˈdɛmnɪfaɪ/",
+      "explanation": "Proteger a alguien de daños o pérdidas financieras, típicamente mediante compensación. 'The company agreed to indemnify the contractor against any third-party claims'. Verbo técnico de seguros y contratos. Sustantivo: 'indemnity' / 'indemnification'.",
+      "cardRef": { "category": "vocabulary", "front": "indemnify" }
+    },
+    {
+      "front": "pursuant",
+      "back": "conforme a, en virtud de",
+      "reading": "/pərˈsuːənt/",
+      "explanation": "Formal legal: 'pursuant to Section 5 of the Act', 'pursuant to our previous agreement'. Equivale a 'in accordance with' o 'following'. Marca registro jurídico — rara en speech informal. Común al inicio de cláusulas contractuales.",
+      "cardRef": { "category": "vocabulary", "front": "pursuant" }
+    },
+    {
+      "front": "stipulate",
+      "back": "estipular, establecer como condición",
+      "reading": "/ˈstɪpjəleɪt/",
+      "explanation": "Especificar una condición como parte de un acuerdo. 'The contract stipulates that payment must be received within 30 days'. Sustantivo: 'stipulation'. Formal — en conversación casual se usa 'specify' o 'require'.",
+      "cardRef": { "category": "vocabulary", "front": "stipulate" }
+    },
+    {
+      "front": "adjudicate",
+      "back": "adjudicar, arbitrar, juzgar",
+      "reading": "/əˈdʒuːdɪkeɪt/",
+      "explanation": "Decidir formalmente un caso o disputa, típicamente por una autoridad. 'The court will adjudicate the matter next month'. También en contextos no legales: 'adjudicate a competition', 'adjudicate a dispute'. Sustantivo: 'adjudication', 'adjudicator'.",
+      "cardRef": { "category": "vocabulary", "front": "adjudicate" }
+    },
+    {
+      "front": "precedent",
+      "back": "precedente, antecedente legal",
+      "reading": "/ˈprɛsɪdənt/",
+      "explanation": "Un caso o decisión previa que establece un modelo para el futuro. 'This ruling sets a dangerous precedent'. Common law se basa en precedentes. También figurado: 'There is no historical precedent for this situation'. NO confundir con 'president' (presidente).",
+      "cardRef": { "category": "vocabulary", "front": "precedent" }
+    },
+    {
+      "front": "waive",
+      "back": "renunciar a (un derecho), eximir",
+      "reading": "/weɪv/",
+      "explanation": "Abandonar voluntariamente un derecho, reclamo o requisito. 'The defendant waived his right to a lawyer'. 'The university waived the tuition fee'. NO confundir con 'wave' (homófono, significa ola/saludar). Sustantivo: 'waiver' (exención firmada).",
+      "cardRef": { "category": "vocabulary", "front": "waive" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El léxico legal y formal",
+      "instruction": "Estas palabras aparecen en contratos, fallos judiciales, periodismo político y discurso institucional. Son esenciales para leer documentos oficiales en inglés. Muchas son cognados del español pero con uso más restringido.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto de cada término legal.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "En contexto contractual",
+      "instruction": "Completá el párrafo con la terminología legal correcta.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "{0} to the terms of this agreement, the contractor shall {1} the client against any third-party claims arising from their services. The contract {2} that any disputes shall be {3} by the courts of the governing {4}.",
+            "blanks": [
+              { "answer": "Pursuant", "options": ["Pursuant", "According", "Concerning", "Regarding"] },
+              { "answer": "indemnify", "options": ["indemnify", "pay", "waive", "adjudicate"] },
+              { "answer": "stipulates", "options": ["stipulates", "suggests", "mentions", "talks about"] },
+              { "answer": "adjudicated", "options": ["adjudicated", "judged", "decided", "thought"] },
+              { "answer": "jurisdiction", "options": ["jurisdiction", "precedent", "waiver", "indemnity"] }
+            ]
+          },
+          {
+            "template": "The defendant chose to {0} his right to legal representation, which set an unusual {1} for future cases involving self-representation.",
+            "blanks": [
+              { "answer": "waive", "options": ["waive", "wave", "pursue", "stipulate"] },
+              { "answer": "precedent", "options": ["precedent", "president", "presence", "process"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Escribí cada término en inglés.",
+      "itemIndices": [0, 1, 3, 5, 6]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completada!",
+      "instruction": "LÉXICO LEGAL C2: jurisdiction (autoridad legal), indemnify (proteger de pérdidas), pursuant (conforme a), stipulate (establecer condición), adjudicate (juzgar), precedent (antecedente), waive (renunciar). Usar en contextos formales, contratos y discurso jurídico. Cuidado con homófonos: waive ≠ wave.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "id": "vocab-c2-05",
+  "title": "Polysemous Verbs: Register-Shifting Power",
+  "description": "Verbos que cambian de registro según el contexto: address, exercise, engage, craft, champion, harbor, spell, tender, table. Dominio de polisemia C2.",
+  "level": "c2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "address",
+      "back": "abordar (un tema) / dirigirse a (formal) / dirección",
+      "reading": "/əˈdrɛs/",
+      "explanation": "En registro formal, 'address' significa tratar un tema o hablar formalmente. 'The minister addressed the nation'. 'We need to address these concerns'. Mucho más formal que 'deal with' o 'talk to'. En informal también es 'dirección postal'.",
+      "cardRef": { "category": "vocabulary", "front": "address" }
+    },
+    {
+      "front": "exercise",
+      "back": "ejercer (poder/derecho) / hacer ejercicio",
+      "reading": "/ˈɛksərˌsaɪz/",
+      "explanation": "En contextos formales: ejercer poder, autoridad, derechos, cautela. 'Citizens must exercise their right to vote'. 'Exercise caution when handling chemicals'. El uso corporal ('hacer ejercicio') es el más común en speech casual, pero el uso formal es el que marca C2.",
+      "cardRef": { "category": "vocabulary", "front": "exercise" }
+    },
+    {
+      "front": "engage",
+      "back": "involucrar (formal) / comprometerse / atraer atención",
+      "reading": "/ɪnˈɡeɪdʒ/",
+      "explanation": "'Engage' es un verbo-herramienta del inglés corporativo y académico. 'Engage stakeholders' (involucrar partes interesadas), 'engage in dialogue', 'engaging presentation'. También: 'engaged' = comprometido/a para casarse. Sustantivo: 'engagement' (compromiso).",
+      "cardRef": { "category": "vocabulary", "front": "engage" }
+    },
+    {
+      "front": "craft",
+      "back": "elaborar cuidadosamente (formal) / oficio",
+      "reading": "/kræft/",
+      "explanation": "Como verbo formal: elaborar con cuidado y habilidad. 'Craft a response', 'craft a strategy', 'craft a narrative'. Más elegante que 'write' o 'make' — implica atención al detalle y elección deliberada. Como sustantivo: arte, oficio, artesanía.",
+      "cardRef": { "category": "vocabulary", "front": "craft" }
+    },
+    {
+      "front": "champion",
+      "back": "defender/promover una causa (formal) / campeón",
+      "reading": "/ˈtʃæmpiən/",
+      "explanation": "Como verbo formal: promover activamente una causa. 'She championed women's rights'. 'He has championed the cause for decades'. Más fuerte y comprometido que 'support'. Vocabulario de biografías, obituarios, discursos políticos. Sustantivo es el uso deportivo.",
+      "cardRef": { "category": "vocabulary", "front": "champion" }
+    },
+    {
+      "front": "harbor",
+      "back": "albergar (sentimientos) / dar refugio / puerto",
+      "reading": "/ˈhɑːrbər/",
+      "explanation": "Como verbo figurativo: retener secretamente sentimientos o pensamientos, típicamente negativos. 'Harbor resentment', 'harbor doubts', 'harbor suspicions'. También: 'harbor a fugitive' (dar refugio a un fugitivo). Como sustantivo: puerto marítimo. BrE: 'harbour'.",
+      "cardRef": { "category": "vocabulary", "front": "harbor" }
+    },
+    {
+      "front": "spell",
+      "back": "significar/implicar (formal) / deletrear / hechizo",
+      "reading": "/spɛl/",
+      "explanation": "En registro formal-periodístico: significar, augurar. 'This could spell disaster', 'The decision spelled the end of the company'. Casi siempre con connotaciones negativas. También: 'spell out' = explicar en detalle. El uso 'deletrear' es común pero menos interesante en C2.",
+      "cardRef": { "category": "vocabulary", "front": "spell" }
+    },
+    {
+      "front": "tender",
+      "back": "presentar formalmente (dimisión/oferta) / tierno",
+      "reading": "/ˈtɛndər/",
+      "explanation": "Como verbo formal-legal: presentar oficialmente. 'Tender one's resignation', 'tender an offer', 'tender an apology'. Muy formal — marca documentación oficial. Como adjetivo: tierno (comida, emoción). Sustantivo: licitación, oferta formal en inglés británico.",
+      "cardRef": { "category": "vocabulary", "front": "tender" }
+    },
+    {
+      "front": "table",
+      "back": "presentar (BrE) / posponer (AmE) / mesa",
+      "reading": "/ˈteɪbəl/",
+      "explanation": "CUIDADO: este verbo tiene significados OPUESTOS en inglés británico y americano. BrE: 'to table a motion' = presentar formalmente una moción para discusión. AmE: 'to table a motion' = posponer/archivar una moción. Fuente de confusión internacional constante. En duda, usar 'submit' o 'postpone' según el caso.",
+      "cardRef": { "category": "vocabulary", "front": "table" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Verbos que cambian de registro",
+      "instruction": "Estos verbos comunes adquieren significados formales que sorprenden al learner. Un C2 reconoce y usa 'address a concern', 'engage stakeholders', 'craft a response', 'harbor doubts'. Son la marca del discurso corporativo, académico y político en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "type": "recognize",
+      "title": "Significado formal",
+      "instruction": "Identificá el significado formal/C2 de cada verbo polisémico.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Uso en registro formal",
+      "instruction": "Elegí la oración donde el verbo está usado en su sentido formal C2.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "address",
+            "translation": "abordar formalmente un tema",
+            "options": [
+              "What's your address? I want to send you a letter.",
+              "The committee needs to address the growing concerns about data privacy.",
+              "He addressed the envelope with a blue pen.",
+              "Can you give me your address on Google Maps?"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "engage",
+            "translation": "involucrar, atraer (formal)",
+            "options": [
+              "We need to engage the community in this decision-making process.",
+              "She engaged the light switch before leaving.",
+              "I will engage a sandwich for lunch.",
+              "He engaged the dog on a walk."
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "spell",
+            "translation": "significar, augurar (formal)",
+            "options": [
+              "Please spell your name for me, S-A-R-A-H.",
+              "The prolonged drought could spell disaster for local farmers.",
+              "She put a spell on him with magic.",
+              "I will spell the word correctly in the dictation."
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "harbor",
+            "translation": "albergar sentimientos secretamente",
+            "options": [
+              "The ship docked in the harbor last night.",
+              "He still harbors a deep resentment toward his former business partner.",
+              "The harbor is full of fishing boats.",
+              "Let's go to the harbor for a walk."
+            ],
+            "correctIndex": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Uso apropiado?",
+      "instruction": "¿Está usando el verbo polisémico en un registro apropiado?",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "Before leaving, the CEO tendered her resignation to the board of directors.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Tender one's resignation' es la fórmula formal-corporativa estándar. Más elegante y formal que 'quit' o 'resign'. Marca de registro profesional C2.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "I need to address my keys — I lost them again.",
+            "isCorrect": false,
+            "correction": "I need to find my keys — I lost them again.",
+            "explanation": "'Address' como verbo formal se refiere a tratar un tema o problema abstracto, no a buscar objetos físicos. Registro incorrecto: este contexto casual pide 'find' o 'look for'. 'Address' requiere un tema, preocupación o audiencia.",
+            "errorType": "register-misuse"
+          },
+          {
+            "sentence": "The diplomat carefully crafted a response that would satisfy both parties without committing to specifics.",
+            "isCorrect": true,
+            "explanation": "Correcto. Uso ejemplar de 'craft' en registro diplomático-formal. Implica cuidado deliberado, elección de palabras estratégica. Mucho más sofisticado que 'wrote'. Colocaciones típicas: craft a response, craft a statement, craft a strategy.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "We should table this topic to discuss it in more depth next week, said the American manager.",
+            "isCorrect": true,
+            "explanation": "Correcto — en inglés AMERICANO. En AmE, 'table a topic' significa posponerlo para otra ocasión. CUIDADO: en inglés británico significaría lo opuesto (presentarlo para discusión inmediata). El manager americano usa el verbo correctamente en su dialecto.",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completada!",
+      "instruction": "VERBOS POLISÉMICOS C2: address (abordar), exercise (ejercer), engage (involucrar), craft (elaborar), champion (promover), harbor (albergar), spell (augurar), tender (presentar formalmente), table (presentar BrE / posponer AmE). Estos verbos en su sentido formal definen el discurso corporativo, académico y político. Reconocerlos es comprensión; usarlos naturalmente es dominio C2.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    }
+  ]
+}

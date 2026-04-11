@@ -1,0 +1,133 @@
+{
+  "id": "vocab-a1-12",
+  "title": "Essential Verbs I : Los verbos más importantes",
+  "description": "Los cinco verbos más usados del inglés: be, have, do, go, come. Sin ellos no se puede formar casi ninguna oración. Incluye yes/no para respuestas básicas.",
+  "level": "a1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "be",
+      "back": "ser / estar",
+      "reading": "/biː/",
+      "explanation": "El verbo más importante del inglés. Cubre 'ser' Y 'estar' del español. Irregular: I am, you are, he/she/it is, we/they are. ¡OJO! 'I am happy' = estoy feliz (NO 'I am happy' como permanente).",
+      "cardRef": { "category": "vocabulary", "front": "be" }
+    },
+    {
+      "front": "have",
+      "back": "tener",
+      "reading": "/hæv/",
+      "explanation": "Tener. Irregular en 3ra persona: 'he/she/it HAS' (no 'haves'). Se usa para posesión ('I have a car') y para formar tiempos perfectos ('I have eaten'). NO se usa para edad: 'I AM 25', no 'I have 25'.",
+      "cardRef": { "category": "vocabulary", "front": "have" }
+    },
+    {
+      "front": "do",
+      "back": "hacer",
+      "reading": "/duː/",
+      "explanation": "Hacer. ¡OJO! En 3ra persona: 'he/she/it DOES' /dʌz/ (no 'dos'). También se usa como auxiliar para hacer preguntas y negaciones: 'Do you like coffee?', 'I don't know'. Verbo esencial.",
+      "cardRef": { "category": "vocabulary", "front": "do" }
+    },
+    {
+      "front": "go",
+      "back": "ir",
+      "reading": "/ɡoʊ/",
+      "explanation": "Ir. Irregular: pasado es 'went', participio es 'gone'. Preposición: 'go TO' + lugar ('go to school'). Excepción: 'go home' (sin 'to'). Se usa también para 'going to' futuro: 'I'm going to study'.",
+      "cardRef": { "category": "vocabulary", "front": "go" }
+    },
+    {
+      "front": "come",
+      "back": "venir",
+      "reading": "/kʌm/",
+      "explanation": "Venir. Irregular: pasado 'came', participio 'come'. Diferencia con 'go': 'come' es hacia donde estás, 'go' es alejándose. 'Come here!' = ¡vení acá!",
+      "cardRef": { "category": "vocabulary", "front": "come" }
+    },
+    {
+      "front": "yes",
+      "back": "sí",
+      "reading": "/jɛs/",
+      "explanation": "Sí (afirmación). Formas más informales: 'yeah', 'yep', 'yup'. Recordá que 'yes' se pronuncia /jɛs/ con el sonido inicial de 'y' como en 'yoga', NO como la 'y' española.",
+      "cardRef": { "category": "vocabulary", "front": "yes" }
+    },
+    {
+      "front": "no",
+      "back": "no",
+      "reading": "/noʊ/",
+      "explanation": "No (negación). Igual en inglés y español, pero la pronunciación es diferente: /noʊ/ con un diptongo final, no 'nó'. Para negar verbos se usa 'don't/doesn't/isn't', no solo 'no'.",
+      "cardRef": { "category": "vocabulary", "front": "no" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Los 5 verbos fundamentales + yes/no",
+      "instruction": "Estos 5 verbos aparecen en casi toda oración del inglés. Todos son IRREGULARES. 'Be' es el más irregular (am/are/is). 'Have' y 'do' cambian en 3ra persona (has, does). 'Go' y 'come' tienen pasados raros (went, came).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto de cada verbo.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "listen-identify",
+      "title": "Escuchá y elegí",
+      "instruction": "Escuchá y elegí cuál es. Prestá atención a 'go' /ɡoʊ/ vs 'no' /noʊ/ (mismo diptongo).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Escribí el verbo en inglés. Forma base (infinitivo sin 'to').",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Dónde se usa bien?",
+      "instruction": "Elegí la oración donde el verbo está usado correctamente.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "have",
+            "translation": "tener",
+            "options": [
+              "I have a new car.",
+              "I have 30 years old.",
+              "She have a big house.",
+              "I have to the store."
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "go",
+            "translation": "ir",
+            "options": [
+              "I go to the school every day.",
+              "I go home at six.",
+              "She go to work by bus.",
+              "I go at the park."
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "be",
+            "translation": "ser / estar",
+            "options": [
+              "I am a student.",
+              "I be happy today.",
+              "She are my friend.",
+              "He am from Spain."
+            ],
+            "correctIndex": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste los 5 verbos más frecuentes del inglés + yes/no. Recordá: 'be' cubre ser Y estar; 'have' NO se usa para edad; 'do' también es auxiliar en preguntas; 'go TO' (excepto 'go home'); 3ras personas irregulares: has, does. Estos verbos van a aparecer CONSTANTEMENTE en tus repasos.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    }
+  ]
+}

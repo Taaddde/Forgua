@@ -1,0 +1,115 @@
+{
+  "id": "reading-b2-01",
+  "title": "Reading: The Ethics of Artificial Intelligence",
+  "description": "Lectura y comprensión de un texto argumentativo sobre la IA y su regulación. Vocabulario académico en contexto real.",
+  "level": "b2",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "embedded",
+      "back": "integrado / incorporado",
+      "reading": "/ɪmˈbɛdɪd/",
+      "explanation": "Profundamente integrado o incorporado en algo. 'Embedded in daily life' = integrado en la vida cotidiana. Nótese que es más fuerte que 'included' — implica que forma parte integral del sistema."
+    },
+    {
+      "front": "accountability",
+      "back": "responsabilidad / rendición de cuentas",
+      "reading": "/əˌkaʊntəˈbɪlɪti/",
+      "explanation": "La obligación de rendir cuentas por las propias acciones o decisiones. No es exactamente igual a 'responsibility' (responsabilidad moral) — 'accountability' implica que hay alguien a quien responder. Muy usado en contextos legales, corporativos y de gobierno."
+    },
+    {
+      "front": "oversight",
+      "back": "supervisión / error de descuido",
+      "reading": "/ˈoʊvərsaɪt/",
+      "explanation": "Dos significados opuestos: (1) Supervisión y control (government oversight). (2) Un error por descuido o negligencia ('an oversight in the contract'). El contexto siempre aclara el sentido."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario clave del texto",
+      "instruction": "Antes de leer, prestá atención a estas palabras que aparecen en el texto. 'Accountability' (quién responde por las consecuencias) es el concepto central del artículo. 'Oversight' puede significar supervisión O descuido — el contexto lo aclara.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "The Ethics of Artificial Intelligence",
+      "instruction": "Leé el texto con atención. El autor presenta argumentos a favor y en contra de la IA antes de llegar a una conclusión. Identificá la postura de cada párrafo.",
+      "itemIndices": [],
+      "config": {
+        "passage": {
+          "id": "b2-reading-ethics-of-ai",
+          "title": "The Ethics of Artificial Intelligence",
+          "level": "b2",
+          "text": "Artificial intelligence is no longer a concept from science fiction. It is already embedded in our daily lives, from the algorithms that recommend what we watch on streaming platforms to the facial recognition systems used in airports. As AI becomes more powerful, an urgent question arises: how should we regulate this technology to ensure it benefits humanity rather than harms it?\n\nProponents of AI argue that it has enormous potential to solve some of the world's most pressing problems. In medicine, AI algorithms can detect diseases like cancer at earlier stages than human doctors. In climate science, machine learning models can predict extreme weather events with increasing accuracy. In education, adaptive learning platforms can personalize instruction for each student. The possibilities, they claim, are virtually limitless.\n\nHowever, critics raise serious concerns. AI systems can perpetuate and even amplify existing biases. For example, facial recognition software has been shown to be significantly less accurate when identifying people with darker skin tones. Automated hiring tools have been found to discriminate against women and minorities. There is also the question of job displacement — as AI automates routine tasks, millions of workers could find themselves unemployed.\n\nPerhaps the most troubling issue is accountability. When an AI system makes a harmful decision — denying someone a loan, misdiagnosing a patient, or causing an accident in a self-driving car — who is responsible? The programmer? The company? The algorithm itself?\n\nMost experts agree that some form of regulation is necessary, but they disagree on what that regulation should look like. Some advocate for strict government oversight, while others prefer industry self-regulation. What is clear is that we cannot afford to ignore the ethical implications of a technology that is reshaping every aspect of our lives.",
+          "translation": "La inteligencia artificial ya no es un concepto de ciencia ficción. Ya está integrada en nuestra vida diaria, desde los algoritmos que recomiendan lo que vemos hasta los sistemas de reconocimiento facial en aeropuertos. A medida que la IA se vuelve más poderosa, surge una pregunta urgente: ¿cómo deberíamos regularla para asegurar que beneficie a la humanidad?",
+          "vocabulary": ["embedded - integrado", "algorithms - algoritmos", "regulate - regular", "proponents - defensores", "pressing - urgente", "perpetuate - perpetuar", "biases - sesgos", "discriminate - discriminar", "displacement - desplazamiento", "accountability - responsabilidad", "oversight - supervisión", "implications - implicaciones"],
+          "questions": [
+            {
+              "question": "According to the text, what is one example of AI bias?",
+              "options": ["AI recommends the wrong movies on streaming platforms.", "Facial recognition software is less accurate for people with darker skin tones.", "AI weather predictions are often wrong.", "Self-driving cars are too slow."],
+              "correctIndex": 1,
+              "explanation": "The text states that 'facial recognition software has been shown to be significantly less accurate when identifying people with darker skin tones.'"
+            },
+            {
+              "question": "What does the author describe as 'perhaps the most troubling issue' with AI?",
+              "options": ["Job displacement.", "The cost of developing AI.", "Determining who is responsible when AI causes harm.", "The speed at which AI is developing."],
+              "correctIndex": 2,
+              "explanation": "The text says 'Perhaps the most troubling issue is accountability' and asks who is responsible when AI systems make harmful decisions."
+            },
+            {
+              "question": "What is the general consensus among experts about AI regulation?",
+              "options": ["No regulation is needed.", "Strict government control is the only option.", "Some regulation is necessary, but they disagree on the specifics.", "AI should regulate itself."],
+              "correctIndex": 2,
+              "explanation": "The text states that 'Most experts agree that some form of regulation is necessary, but they disagree on what that regulation should look like.'"
+            },
+            {
+              "question": "What is the text's overall structure?",
+              "options": ["It only presents arguments in favor of AI.", "It presents arguments for and against AI, then raises the question of regulation.", "It argues that AI should be banned immediately.", "It tells the story of how AI was invented."],
+              "correctIndex": 1,
+              "explanation": "The text follows an argumentative structure: presents AI's benefits (paragraph 2), then its risks (paragraph 3), then the accountability problem (paragraph 4), and concludes with the regulation debate (paragraph 5)."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "word-in-context",
+      "title": "Vocabulario del texto en contexto",
+      "instruction": "Usá el contexto del artículo para elegir el significado correcto de estas palabras académicas.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "perpetuate",
+            "translation": "perpetuar",
+            "options": [
+              "AI systems can perpetuate existing biases, making discrimination worse over time.",
+              "AI systems can perpetuate new ideas, which is always a good thing.",
+              "AI systems will perpetuate by the end of the decade.",
+              "AI systems perpetuate when they are turned off."
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "accountability",
+            "translation": "responsabilidad / rendición de cuentas",
+            "options": [
+              "Accountability means no one is responsible for what happens.",
+              "Accountability refers to who must answer for the consequences of a decision.",
+              "Accountability is a positive feature of AI systems.",
+              "Accountability means the AI is always right."
+            ],
+            "correctIndex": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "El texto sobre ética de la IA usó un estructura argumentativa clásica: ventajas, desventajas, problema central (accountability), debate sobre soluciones. Vocabulario clave: 'embedded' (profundamente integrado), 'perpetuate biases' (perpetuar sesgos), 'accountability' (quién responde), 'oversight' (supervisión). En un texto B2, la postura del autor a menudo aparece en el último párrafo — aquí: no podemos ignorar las implicaciones éticas.",
+      "itemIndices": [0, 1, 2]
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "id": "grammar-a2-16",
+  "title": "So / Neither: Agreement",
+  "description": "'So do I' / 'Neither do I' — cómo decir 'yo también' y 'yo tampoco'. Un error clásico: decir 'Me too' en contextos formales.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "So / Neither (So + auxiliary + subject | Neither + auxiliary + subject)",
+      "back": "también / tampoco",
+      "reading": "",
+      "explanation": "'So + aux + subject' = yo también (respuesta afirmativa). 'Neither + aux + subject' = yo tampoco (respuesta negativa). El auxiliar debe coincidir con el tiempo verbal de la oración original.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "So / Neither (So + auxiliary + subject | Neither + auxiliary + subject)"
+      }
+    },
+    {
+      "front": "I like pizza. — So do I.",
+      "back": "Me gusta la pizza. — A mí también.",
+      "reading": "",
+      "explanation": "'I like pizza' usa present simple con 'do' como auxiliar → tag: 'So DO I'. La estructura es: So + DO (auxiliar de present simple) + I. 'Me too' también es válido en inglés informal, pero 'So do I' es más formal y más correcto."
+    },
+    {
+      "front": "She can't swim. — Neither can I.",
+      "back": "Ella no sabe nadar. — Yo tampoco.",
+      "reading": "",
+      "explanation": "Oración negativa con modal 'can' → respuesta con 'Neither + CAN + I'. No se usa 'so' con oraciones negativas — eso sería un error. 'Neither can I' = yo tampoco (puedo nadar)."
+    },
+    {
+      "front": "He is tired. — So am I.",
+      "back": "Él está cansado. — Yo también.",
+      "reading": "",
+      "explanation": "Verbo 'to be' → el auxiliar del acuerdo también es 'to be': 'So AM I'. Otros ejemplos: 'She was happy. — So was I.' / 'They have been here. — So have I.'"
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "'Yo también' y 'yo tampoco' en inglés",
+      "instruction": "En español decimos 'yo también' y 'yo tampoco'. En inglés hay dos estructuras según si la oración es afirmativa o negativa. Afirmativa → 'So + auxiliar + sujeto' (So do I). Negativa → 'Neither + auxiliar + sujeto' (Neither can I). El auxiliar SIEMPRE coincide con el de la oración original.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí la traducción correcta de cada respuesta de acuerdo.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá la respuesta",
+      "instruction": "Elegí el auxiliar correcto para completar 'So...' o 'Neither...'.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "I love chocolate. — So {0} my sister. And neither {1} we like vegetables.",
+            "blanks": [
+              {
+                "answer": "does",
+                "options": [
+                  "does",
+                  "do",
+                  "is",
+                  "has"
+                ]
+              },
+              {
+                "answer": "do",
+                "options": [
+                  "do",
+                  "does",
+                  "are",
+                  "have"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "She has been to France. — So {0} I. And neither {1} we visited Greece.",
+            "blanks": [
+              {
+                "answer": "have",
+                "options": [
+                  "have",
+                  "has",
+                  "did",
+                  "do"
+                ]
+              },
+              {
+                "answer": "have",
+                "options": [
+                  "have",
+                  "has",
+                  "did",
+                  "do"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "Errores con 'So' y 'Neither'",
+      "instruction": "Identificá si la respuesta de acuerdo está bien formada.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "I can speak French. — So can she.",
+            "isCorrect": true,
+            "explanation": "Correcta. Modal 'can' → 'So can she'. El auxiliar coincide con el de la oración original.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "He doesn't like meat. — Neither does she.",
+            "isCorrect": true,
+            "explanation": "Correcta. Negativa con 'doesn't' → 'Neither does she'. El auxiliar 'does' coincide con la 3a persona singular del present simple.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "I am tired. — So I am.",
+            "isCorrect": false,
+            "correction": "I am tired. — So am I.",
+            "explanation": "La estructura correcta invierte el orden: 'So + auxiliar + sujeto'. No se dice 'So I am' — eso cambia el significado. La inversión es obligatoria: 'So AM I'.",
+            "errorType": "word-order"
+          },
+          {
+            "sentence": "They went to the party. — So did we.",
+            "isCorrect": true,
+            "explanation": "Correcta. Past simple → auxiliar 'did': 'So did we'. Perfecto.",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "So / Neither para expresar acuerdo. Afirmativo → 'So + auxiliar + sujeto' (So do I, So did she, So can he). Negativo → 'Neither + auxiliar + sujeto' (Neither can I, Neither did we). Auxiliar debe coincidir con el tiempo verbal: present simple → do/does; past simple → did; to be → am/is/are/was/were; perfect → have/has; modales → can/will/would/should.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ]
+}

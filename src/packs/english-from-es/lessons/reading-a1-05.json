@@ -1,0 +1,85 @@
+{
+  "id": "reading-a1-05",
+  "title": "Reading: The Weather Today",
+  "description": "Texto sobre el clima. Tres tiempos (present, past, future), vocabulario meteorológico.",
+  "level": "a1",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "today",
+      "back": "hoy",
+      "reading": "/təˈdeɪ/",
+      "explanation": "'Today' = hoy. 'Yesterday' = ayer. 'Tomorrow' = mañana. Tres palabras esenciales para situar en el tiempo.",
+      "cardRef": { "category": "vocabulary", "front": "today" }
+    },
+    {
+      "front": "yesterday",
+      "back": "ayer",
+      "reading": "/ˈjɛstərdeɪ/",
+      "explanation": "'Yesterday' siempre va con Past Simple. 'Yesterday it was cold' (NO 'yesterday it has been cold').",
+      "cardRef": { "category": "vocabulary", "front": "yesterday" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Tiempo y clima",
+      "instruction": "Estas palabras de tiempo son clave para entender el texto.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Lectura: The Weather Today",
+      "instruction": "El texto habla del clima hoy, ayer y mañana. Fijate en los tres tiempos verbales.",
+      "itemIndices": [],
+      "config": {
+        "passage": {
+          "id": "a1-reading-weather",
+          "title": "The Weather Today",
+          "level": "a1",
+          "text": "Today the weather is very nice. It is sunny and warm. The temperature is twenty-five degrees. I am wearing a T-shirt and shorts. Yesterday it was cold and rainy. I wore a jacket and carried an umbrella. Tomorrow the weather will be cloudy. Maybe it will rain in the afternoon. I prefer sunny days because I can go outside and play. When it rains, I stay home and read books.",
+          "translation": "Hoy el clima está muy lindo. Está soleado y cálido. La temperatura es de veinticinco grados. Estoy usando una remera y shorts. Ayer estuvo frío y lluvioso. Usé una campera y llevé un paraguas. Mañana el clima va a estar nublado. Quizás llueva a la tarde. Prefiero los días soleados porque puedo salir y jugar. Cuando llueve, me quedo en casa y leo libros.",
+          "vocabulary": ["weather - clima", "sunny - soleado", "warm - cálido", "temperature - temperatura", "cold - frío", "rainy - lluvioso", "jacket - campera", "umbrella - paraguas", "cloudy - nublado", "outside - afuera"],
+          "questions": [
+            {
+              "question": "What is the weather like today?",
+              "options": ["Cold and rainy.", "Sunny and warm.", "Cloudy.", "Windy."],
+              "correctIndex": 1,
+              "explanation": "El texto dice 'It is sunny and warm.'"
+            },
+            {
+              "question": "What was the weather like yesterday?",
+              "options": ["Sunny and warm.", "Cold and rainy.", "Cloudy.", "Hot."],
+              "correctIndex": 1,
+              "explanation": "El texto dice 'Yesterday it was cold and rainy.'"
+            },
+            {
+              "question": "What does the narrator prefer?",
+              "options": ["Rainy days.", "Cloudy days.", "Sunny days.", "Cold days."],
+              "correctIndex": 2,
+              "explanation": "El texto dice 'I prefer sunny days.'"
+            },
+            {
+              "question": "What will the weather be like tomorrow?",
+              "options": ["Sunny.", "Rainy.", "Cloudy.", "Cold."],
+              "correctIndex": 2,
+              "explanation": "El texto dice 'Tomorrow the weather will be cloudy.'"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lectura completa!",
+      "instruction": "Practicaste los tres tiempos: presente (it IS sunny), pasado (it WAS cold — 'yesterday' pide Past Simple), futuro (it WILL BE cloudy). Vocabulario del clima: sunny, rainy, cloudy, warm, cold.",
+      "itemIndices": [0, 1]
+    }
+  ]
+}

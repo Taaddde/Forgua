@@ -1,0 +1,164 @@
+{
+  "id": "grammar-a2-11",
+  "title": "Passive Voice: Present Simple",
+  "description": "English is spoken worldwide. La voz pasiva: cuándo y cómo usarla. Muy común en textos formales, noticias y ciencia.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Passive Voice (Present Simple)",
+      "back": "Subject + am/is/are + past participle",
+      "reading": "",
+      "explanation": "La voz pasiva se usa cuando el foco está en la ACCIÓN o el OBJETO, no en quién la realiza. Se forma con: to be (am/is/are) + participio pasado. El agente (quien lo hace) puede omitirse o ir con 'by'.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Passive Voice (Present Simple) (Subject + am/is/are + past participle)"
+      }
+    },
+    {
+      "front": "English is spoken worldwide.",
+      "back": "El inglés se habla en todo el mundo.",
+      "reading": "",
+      "explanation": "Estructura: English (sujeto) + is (to be) + spoken (participio de speak). El agente ('by people everywhere') se omite porque es obvio."
+    },
+    {
+      "front": "Coffee is grown in Brazil.",
+      "back": "El café se cultiva en Brasil.",
+      "reading": "",
+      "explanation": "Estructura: Coffee (sujeto paciente) + is grown (to be + participio de grow). Activa equivalente: 'Farmers grow coffee in Brazil' — pero aquí el café es lo importante, no los agricultores."
+    },
+    {
+      "front": "These books are written by her.",
+      "back": "Estos libros son escritos por ella.",
+      "reading": "",
+      "explanation": "'By + agente' al final cuando importa quién lo hace. 'These books are written by J.K. Rowling' = agente importante. Si no importa: 'These books are sold everywhere'."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "La voz pasiva: el objeto como sujeto",
+      "instruction": "En español: 'Se habla inglés en todo el mundo' o 'El inglés se habla en todo el mundo'. En inglés: 'English IS SPOKEN worldwide'. La estructura es: sujeto (objeto de la acción) + to be + participio pasado. El agente (quien lo hace) va con 'by' o se omite.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí la traducción correcta de cada oración pasiva.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Formá la voz pasiva",
+      "instruction": "Completá con la forma pasiva correcta.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "Rice {0} in many Asian countries. It {1} to over 100 nations.",
+            "blanks": [
+              {
+                "answer": "is grown",
+                "options": [
+                  "is grown",
+                  "are grown",
+                  "grows",
+                  "is grow"
+                ]
+              },
+              {
+                "answer": "is exported",
+                "options": [
+                  "is exported",
+                  "are exported",
+                  "exports",
+                  "is export"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "Spanish {0} in many countries. In Spain, it {1} Castilian.",
+            "blanks": [
+              {
+                "answer": "is spoken",
+                "options": [
+                  "is spoken",
+                  "are spoken",
+                  "speaks",
+                  "is speak"
+                ]
+              },
+              {
+                "answer": "is called",
+                "options": [
+                  "is called",
+                  "are called",
+                  "calls",
+                  "called"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "Errores en voz pasiva",
+      "instruction": "Identificá si la oración pasiva está bien formada.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "The car is made in Germany.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'is made' = es fabricado. Sujeto (car) + is + participio (made).",
+            "errorType": "none"
+          },
+          {
+            "sentence": "These products are sell in supermarkets.",
+            "isCorrect": false,
+            "correction": "These products are sold in supermarkets.",
+            "explanation": "Después de 'are' necesitás el PARTICIPIO PASADO de 'sell', que es 'sold'. No la forma base del verbo.",
+            "errorType": "verb-form"
+          },
+          {
+            "sentence": "Football is played in over 200 countries.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'is played' = se juega. Presente pasivo con sujeto singular (football).",
+            "errorType": "none"
+          },
+          {
+            "sentence": "The meetings are holded on Mondays.",
+            "isCorrect": false,
+            "correction": "The meetings are held on Mondays.",
+            "explanation": "El participio de 'hold' es IRREGULAR: 'held', no 'holded'. Los verbos irregulares mantienen su participio irregular en la pasiva.",
+            "errorType": "irregular-verb"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Voz pasiva presente: sujeto + am/is/are + participio pasado. 'Coffee is grown', 'English is spoken', 'Cars are made'. El agente ('by + persona') es opcional — se omite cuando es obvio o no importa. Para verbos irregulares, recordá usar el participio: make→made, write→written, hold→held, sell→sold.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ]
+}

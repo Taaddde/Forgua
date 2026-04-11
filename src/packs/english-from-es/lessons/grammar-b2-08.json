@@ -1,0 +1,197 @@
+{
+  "id": "grammar-b2-08",
+  "title": "Discourse Markers: El Inglés Fluido",
+  "description": "Marcadores discursivos para organizar y conectar ideas con sofisticación: 'having said that', 'on the other hand', 'as a matter of fact'.",
+  "level": "b2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Discourse Markers (As a matter of fact / On the other hand / Having said that / In any case / etc.)",
+      "back": "marcadores discursivos",
+      "reading": "",
+      "explanation": "Los discourse markers organizan el discurso más allá de 'but' y 'because'. Categorías: Adición enfática ('What's more', 'Furthermore', 'On top of that'). Contraste ('On the other hand', 'Having said that', 'Then again'). Reformulación ('In other words', 'That is to say'). Conclusión ('All in all', 'In any case', 'At the end of the day'). Cambio de tema ('Anyway', 'By the way'). El uso de estos marcadores es lo que distingue el B1 del B2 en fluidez.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Discourse Markers (As a matter of fact / On the other hand / Having said that / In any case / etc.)"
+      }
+    },
+    {
+      "front": "Contraste y concesión: having said that, then again, even so",
+      "back": "dicho esto / aun así / sin embargo (para conceder y contrastar)",
+      "reading": "",
+      "explanation": "'Having said that' = dicho esto, aunque (concede lo anterior pero introduce contraste). 'Then again' = aunque también hay que decir (alternativa informal). 'Even so' = aun así (a pesar de lo dicho). Diferencia con 'however': estos son más conversacionales y fluidos. 'However' es más formal y más directo."
+    },
+    {
+      "front": "Adición y énfasis: what's more, furthermore, on top of that",
+      "back": "y además / por añadidura / encima de eso",
+      "reading": "",
+      "explanation": "'Furthermore' es formal/académico. 'What's more' es conversacional pero elegante. 'On top of that' es informal y añade algo que hace la situación aún más extrema (generalmente negativo: 'On top of all the problems, it rained too'). 'Moreover' es muy formal, muy usado en ensayos."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Discourse markers: los conectores que te dan fluidez",
+      "instruction": "¿Cuál es la diferencia entre un B1 y un B2 hablando? Los discourse markers. 'But' es elemental; 'Having said that' es sofisticado. 'Also' es básico; 'Furthermore' es académico. 'Anyway' es informal; 'In any case' es formal. Vamos a ver las principales categorías y cuándo usar cada una.",
+      "itemIndices": [
+        0
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Contraste, adición y registro",
+      "instruction": "Clave: el registro importa. En un email de trabajo, 'However' y 'Furthermore' son correctos. En conversación, 'Having said that', 'What's more', 'Then again' suenan más naturales. 'By the way' cambia de tema casualmente; no lo uses en un ensayo formal. 'In other words' reformula — úsalo cuando explicás algo complejo de otra manera.",
+      "itemIndices": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué función discursiva tiene?",
+      "instruction": "Clasificá el marcador discursivo según su función.",
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Elegí el marcador correcto",
+      "instruction": "Elegí el discourse marker más apropiado según el contexto.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "The project ran over budget. {0}, it was delivered three weeks late.",
+            "blanks": [
+              {
+                "answer": "On top of that",
+                "options": [
+                  "On top of that",
+                  "Having said that",
+                  "In other words",
+                  "By the way"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "The new policy will reduce costs significantly. {0}, there may be some impact on employee morale in the short term.",
+            "blanks": [
+              {
+                "answer": "Having said that",
+                "options": [
+                  "Having said that",
+                  "What's more",
+                  "As a matter of fact",
+                  "At the end of the day"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "The data is ambiguous. {0}, we cannot draw definitive conclusions at this stage.",
+            "blanks": [
+              {
+                "answer": "In other words",
+                "options": [
+                  "In other words",
+                  "On the other hand",
+                  "Furthermore",
+                  "By the way"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "{0}, I think the most important factor is the long-term sustainability of the approach, not the short-term cost savings.",
+            "blanks": [
+              {
+                "answer": "At the end of the day",
+                "options": [
+                  "At the end of the day",
+                  "By the way",
+                  "What's more",
+                  "Then again"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Dónde se usa bien?",
+      "instruction": "Elegí la oración donde el discourse marker está usado con la función y registro correctos.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "furthermore",
+            "translation": "además (formal)",
+            "options": [
+              "Furthermore, studies show that regular exercise reduces stress levels significantly.",
+              "Furthermore, I forgot to tell you — we're having lunch together tomorrow.",
+              "Furthermore, the film was great! I loved it.",
+              "Furthermore, how was your weekend?"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "as a matter of fact",
+            "translation": "de hecho / en realidad",
+            "options": [
+              "As a matter of fact, I've been studying English for years and feel very confident now.",
+              "As a matter of fact, the meeting was scheduled for three o'clock.",
+              "As a matter of fact: the population of Brazil is about 215 million.",
+              "As a matter of fact you should try harder."
+            ],
+            "correctIndex": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Identificá errores en el uso de los discourse markers.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "By the way, the company's revenue increased by 15% this year. In any case, this represents a significant achievement.",
+            "isCorrect": false,
+            "correction": "The company's revenue increased by 15% this year. This represents a significant achievement.",
+            "explanation": "'By the way' introduce un tema casual o digresión, no un dato importante del informe. 'In any case' se usa para concluir o resumir cuando hay opciones, no para añadir información. En un contexto formal, ni 'by the way' ni 'in any case' son apropiados aquí.",
+            "errorType": "register"
+          },
+          {
+            "sentence": "The proposal has merit. Having said that, several aspects need to be reconsidered before it can be approved.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Having said that' funciona perfectamente: reconoce el mérito de la propuesta pero introduce una reserva importante. Es exactamente el uso correcto de este marcador de contraste parcial.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "She is one of our most experienced employees. Furthermore, she speaks three languages fluently.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Furthermore' añade un punto adicional relevante en registro formal. Funciona perfectamente para acumular razones o argumentos.",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Discourse markers por función: ADICIÓN ENFÁTICA: Furthermore (formal), What's more, On top of that. CONTRASTE: On the other hand, Having said that, Then again, Even so. REFORMULACIÓN: In other words, That is to say. CONCLUSIÓN: All in all, At the end of the day, In any case. CAMBIO DE TEMA: By the way, Anyway, Speaking of which. Clave: registros — 'Furthermore' en ensayo; 'What's more' en conversación; 'By the way' solo en contextos informales.",
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
+    }
+  ]
+}

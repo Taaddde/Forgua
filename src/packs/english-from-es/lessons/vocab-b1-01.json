@@ -1,0 +1,163 @@
+{
+  "id": "vocab-b1-01",
+  "title": "Work & Office: The Vocabulary of Professional Life",
+  "description": "Las 10 palabras clave del mundo laboral: colleague, deadline, manager, salary... Las vas a necesitar en cualquier contexto profesional.",
+  "level": "b1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "colleague",
+      "back": "colega / compañero de trabajo",
+      "reading": "/ˈkɑːliːɡ/",
+      "explanation": "Compañero de trabajo. 'My colleague helped me with the report.' No confundir con 'friend' — un colleague es específicamente del trabajo. Colocaciones comunes: work with a colleague, a former colleague.",
+      "cardRef": { "category": "vocabulary", "front": "colleague" }
+    },
+    {
+      "front": "deadline",
+      "back": "fecha límite / plazo",
+      "reading": "/ˈdɛdlaɪn/",
+      "explanation": "Colocaciones clave: MEET a deadline (cumplir), MISS a deadline (no cumplir a tiempo), a tight deadline (un plazo ajustado). 'We need to meet the deadline by Friday.'",
+      "cardRef": { "category": "vocabulary", "front": "deadline" }
+    },
+    {
+      "front": "manager",
+      "back": "gerente / director",
+      "reading": "/ˈmænɪdʒər/",
+      "explanation": "'Manager' en inglés es más amplio que 'gerente' — puede ser el jefe de un departamento pequeño. 'Project manager' = jefe de proyecto. 'Store manager' = gerente de local.",
+      "cardRef": { "category": "vocabulary", "front": "manager" }
+    },
+    {
+      "front": "salary",
+      "back": "salario / sueldo",
+      "reading": "/ˈsæləri/",
+      "explanation": "Salario mensual o anual fijo. Diferencia: SALARY (sueldo mensual/anual fijo, profesionales) vs WAGE (pago por hora o semanal, trabajos manuales). 'She got a raise in her salary.'",
+      "cardRef": { "category": "vocabulary", "front": "salary" }
+    },
+    {
+      "front": "resign",
+      "back": "renunciar / dimitir",
+      "reading": "/rɪˈzaɪn/",
+      "explanation": "Renunciar voluntariamente a un trabajo. 'He decided to resign from his position.' Diferente de 'be fired/sacked' (ser despedido — no voluntario). 'Resignation' es el sustantivo.",
+      "cardRef": { "category": "vocabulary", "front": "resign" }
+    },
+    {
+      "front": "promote",
+      "back": "ascender / promover",
+      "reading": "/prəˈmoʊt/",
+      "explanation": "Ascender en el trabajo. 'They promoted her to team leader.' Sustantivo: promotion. 'She got a promotion' = la ascendieron. También puede significar 'publicitar' (They promoted the product on TV).",
+      "cardRef": { "category": "vocabulary", "front": "promote" }
+    },
+    {
+      "front": "interview",
+      "back": "entrevista",
+      "reading": "/ˈɪntərvjuː/",
+      "explanation": "Entrevista de trabajo. 'I have a job interview tomorrow.' Colocaciones: HAVE an interview, GO TO an interview. El verbo 'to interview' = entrevistar. 'The company interviewed 20 candidates.'",
+      "cardRef": { "category": "vocabulary", "front": "interview" }
+    },
+    {
+      "front": "apply",
+      "back": "postularse / solicitar",
+      "reading": "/əˈplaɪ/",
+      "explanation": "Postularse a un trabajo o beca. APPLY FOR a job/position/scholarship. 'She applied for three positions.' La solicitud = application. El que se postula = applicant.",
+      "cardRef": { "category": "vocabulary", "front": "apply" }
+    },
+    {
+      "front": "experience",
+      "back": "experiencia",
+      "reading": "/ɪkˈspɪriəns/",
+      "explanation": "Falso amigo parcial: pronunciación diferente al español. En el contexto laboral, 'experience' es incontable: 'I have two years of experience' (NO 'an experience' para el trabajo). Como verbo: 'I experienced problems' = tuve problemas.",
+      "cardRef": { "category": "vocabulary", "front": "experience" }
+    },
+    {
+      "front": "employee",
+      "back": "empleado",
+      "reading": "/ɪmˈplɔɪiː/",
+      "explanation": "La persona que trabaja para una empresa. Diferencia: EMPLOYEE (empleado) vs EMPLOYER (empleador, la empresa o jefe). 'The company has 500 employees.' 'I am an employee of this company.'",
+      "cardRef": { "category": "vocabulary", "front": "employee" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario laboral esencial",
+      "instruction": "Estas 10 palabras son fundamentales para hablar de trabajo en inglés. Prestá atención a las colocaciones (qué verbos van con cada sustantivo) y a las diferencias con el español.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "Verbos del trabajo: resign, promote, apply",
+      "instruction": "Tres verbos clave del mundo laboral. Fijate en las preposiciones: APPLY FOR, RESIGN FROM, PROMOTED TO.",
+      "itemIndices": [5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto de cada palabra.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "listen-identify",
+      "title": "Escuchá y elegí",
+      "instruction": "Escuchá la pronunciación y elegí la palabra correcta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Dónde se usa bien?",
+      "instruction": "Elegí la oración donde la palabra está usada correctamente.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "deadline",
+            "translation": "fecha límite",
+            "options": [
+              "I met a deadline at the park yesterday.",
+              "We need to meet the deadline by Friday.",
+              "The deadline is very tall and expensive.",
+              "She deadline her homework last night."
+            ],
+            "correctIndex": 1,
+            "feedback": "'Meet a deadline' = cumplir con la fecha límite. Es la colocación correcta. 'Deadline' es un sustantivo, no un verbo."
+          },
+          {
+            "targetWord": "apply",
+            "translation": "postularse",
+            "options": [
+              "She applied to three jobs.",
+              "She applied for three positions.",
+              "She applied three jobs.",
+              "She applied in the marketing company."
+            ],
+            "correctIndex": 1,
+            "feedback": "La preposición correcta es 'apply FOR' (no 'to', no nada). 'She applied for three positions' es la forma estándar y natural."
+          },
+          {
+            "targetWord": "colleague",
+            "translation": "colega de trabajo",
+            "options": [
+              "My colleague and I went to school together since we were kids.",
+              "My new colleague started working in our department this week.",
+              "My colleague helped me cook dinner at home.",
+              "I met my colleague at a party, not at work."
+            ],
+            "correctIndex": 1,
+            "feedback": "'Colleague' se refiere específicamente a compañeros de TRABAJO o del mismo campo profesional. Opción 1 describe un amigo de la infancia, no un colega."
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Ves el significado en español. Escribí la palabra en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "10 palabras clave del mundo laboral: colleague (compañero de trabajo), deadline (fecha límite — meet a deadline), manager (jefe/gerente), salary (sueldo fijo), resign (renunciar voluntariamente), promote (ascender — promotion), interview (entrevista), apply FOR a job (postularse), experience (incontable en contexto laboral), employee (empleado, ≠ employer que es el jefe).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

@@ -10,28 +10,28 @@
       "back": "¿Te gusta el café? / ¿Ellos viven acá?",
       "reading": "/duː juː laɪk ˈkɑːfi/ — /duː ðeɪ lɪv hɪr/",
       "explanation": "Preguntas con I/you/we/they: DO + sujeto + verbo BASE. 'Do you like coffee?' (¿Te gusta el café?). En español simplemente cambiás la entonación: '¿Te gusta el café?' En inglés NECESITÁS 'do' al principio. Sin 'do', no es pregunta correcta. ERROR: 'You like coffee?' es informal/oral pero gramaticalmente incompleto.",
-      "cardRef": { "category": "grammar", "front": "do + subject + base verb (questions)" }
+      "cardRef": {
+        "category": "grammar",
+        "front": "Present Simple (Subject + verb (+ -s/-es for he/she/it))"
+      }
     },
     {
       "front": "Does she speak English? / Does it work?",
       "back": "¿Ella habla inglés? / ¿Funciona?",
       "reading": "/dʌz ʃiː spiːk ˈɪŋɡlɪʃ/ — /dʌz ɪt wɜːrk/",
-      "explanation": "Preguntas con he/she/it: DOES + sujeto + verbo BASE. CLAVE: después de 'does', el verbo va SIN -s. 'Does she speak English?' (NO 'Does she speaks'). ¿Por qué? Porque la -s ya está 'absorbida' en 'does'. Pensalo así: la -s de tercera persona se mueve al auxiliar (do→does).",
-      "cardRef": { "category": "grammar", "front": "does + he/she/it + base verb (questions)" }
+      "explanation": "Preguntas con he/she/it: DOES + sujeto + verbo BASE. CLAVE: después de 'does', el verbo va SIN -s. 'Does she speak English?' (NO 'Does she speaks'). ¿Por qué? Porque la -s ya está 'absorbida' en 'does'. Pensalo así: la -s de tercera persona se mueve al auxiliar (do→does)."
     },
     {
       "front": "I don't eat meat. / We don't have a car.",
       "back": "No como carne. / No tenemos auto.",
       "reading": "/aɪ doʊnt iːt miːt/ — /wiː doʊnt hæv ə kɑːr/",
-      "explanation": "Negativo con I/you/we/they: sujeto + DON'T (do not) + verbo BASE. 'I don't eat meat' (No como carne). En español basta con poner 'no' antes del verbo: 'No como'. En inglés necesitás el auxiliar 'don't'. ERROR COMÚN: 'I no eat meat' o 'I not eat meat' — ambos están MAL. Siempre: don't + verbo.",
-      "cardRef": { "category": "grammar", "front": "subject + don't + base verb (negatives)" }
+      "explanation": "Negativo con I/you/we/they: sujeto + DON'T (do not) + verbo BASE. 'I don't eat meat' (No como carne). En español basta con poner 'no' antes del verbo: 'No como'. En inglés necesitás el auxiliar 'don't'. ERROR COMÚN: 'I no eat meat' o 'I not eat meat' — ambos están MAL. Siempre: don't + verbo."
     },
     {
       "front": "She doesn't like fish. / He doesn't work on Fridays.",
       "back": "A ella no le gusta el pescado. / Él no trabaja los viernes.",
       "reading": "/ʃiː ˈdʌzənt laɪk fɪʃ/ — /hiː ˈdʌzənt wɜːrk ɑːn ˈfraɪdeɪz/",
-      "explanation": "Negativo con he/she/it: sujeto + DOESN'T (does not) + verbo BASE. 'She doesn't like fish' (NO 'She doesn't likes'). Mismo principio: la -s ya está en 'doesn't', así que el verbo queda en forma base. ERROR MUY FRECUENTE: 'She don't like' — con he/she/it siempre es DOESN'T, nunca don't.",
-      "cardRef": { "category": "grammar", "front": "subject + doesn't + base verb (negatives)" }
+      "explanation": "Negativo con he/she/it: sujeto + DOESN'T (does not) + verbo BASE. 'She doesn't like fish' (NO 'She doesn't likes'). Mismo principio: la -s ya está en 'doesn't', así que el verbo queda en forma base. ERROR MUY FRECUENTE: 'She don't like' — con he/she/it siempre es DOESN'T, nunca don't."
     }
   ],
   "steps": [
@@ -39,37 +39,63 @@
       "type": "introduce",
       "title": "Preguntas con do/does: la regla que no existe en español",
       "instruction": "En español, para hacer una pregunta solo cambiás la entonación: 'Hablás inglés' → '¿Hablás inglés?' En inglés NO alcanza con eso. Necesitás agregar un auxiliar: 'Do you speak English?' (con I/you/we/they) o 'Does she speak English?' (con he/she/it). REGLA DE ORO: después de 'does', el verbo NUNCA lleva -s.",
-      "itemIndices": [0, 1]
+      "itemIndices": [
+        0,
+        1
+      ]
     },
     {
       "type": "introduce",
       "title": "Negaciones con don't/doesn't: no basta con 'no'",
       "instruction": "En español negás con 'no': 'No como carne'. En inglés necesitás el auxiliar: 'I don't eat meat' (con I/you/we/they) o 'She doesn't eat meat' (con he/she/it). Decir 'I no eat' o 'She not eat' es un error. Y acordate: después de 'doesn't', el verbo va en forma base SIN -s.",
-      "itemIndices": [2, 3]
+      "itemIndices": [
+        2,
+        3
+      ]
     },
     {
       "type": "recognize",
       "title": "¿Do o does? ¿Don't o doesn't?",
       "instruction": "Elegí la forma correcta para cada oración. Prestá atención al sujeto (he/she/it vs. I/you/we/they).",
-      "itemIndices": [0, 1, 2, 3]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
     },
     {
       "type": "recall",
       "title": "Formá la pregunta o la negación",
       "instruction": "Ves una oración afirmativa. Convertila en pregunta o negación usando do/does/don't/doesn't.",
-      "itemIndices": [0, 1, 2, 3]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
     },
     {
       "type": "sentence-build",
       "title": "Armá preguntas y negaciones",
       "instruction": "Ordená las palabras para formar preguntas o negaciones correctas en Present Simple.",
-      "itemIndices": [0, 1, 2, 3]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
     },
     {
       "type": "summary",
       "title": "¡Lección completa!",
       "instruction": "Resumen: Preguntas → Do/Does + sujeto + verbo base. Negaciones → sujeto + don't/doesn't + verbo base. Con he/she/it → does/doesn't. Con I/you/we/they → do/don't. REGLA CLAVE: después de does/doesn't, el verbo SIEMPRE va en forma base (sin -s). Y recordá: en inglés no podés hacer preguntas solo con entonación ni negar solo con 'no'.",
-      "itemIndices": [0, 1, 2, 3]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
     }
   ]
 }

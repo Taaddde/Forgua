@@ -1,0 +1,176 @@
+{
+  "id": "vocab-b2-01",
+  "title": "Business English: Negotiation & Projects",
+  "description": "Vocabulario esencial para el ámbito profesional: negociar, cumplir plazos, implementar estrategias y evaluar resultados.",
+  "level": "b2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "negotiate",
+      "back": "negociar",
+      "reading": "/nɪˈɡoʊʃieɪt/",
+      "explanation": "Verbo formal para llegar a un acuerdo mediante discusión. Colocaciones clave: negotiate a deal, negotiate terms, negotiate a contract. En inglés de negocios es indispensable.",
+      "cardRef": { "category": "vocabulary", "front": "negotiate" }
+    },
+    {
+      "front": "deadline",
+      "back": "fecha límite / plazo",
+      "reading": "/ˈdɛdlaɪn/",
+      "explanation": "Fecha o momento límite para completar una tarea. Colocación fundamental: meet a deadline (cumplir el plazo), miss a deadline (no cumplirlo), set a deadline (establecer un plazo). Nota: 'date limit' NO existe en inglés.",
+      "cardRef": { "category": "vocabulary", "front": "deadline" }
+    },
+    {
+      "front": "implement",
+      "back": "implementar / poner en práctica",
+      "reading": "/ˈɪmpləmɛnt/",
+      "explanation": "Verbo formal para llevar a la práctica un plan, política o sistema. Colocaciones: implement a strategy, implement changes, implement a solution. Más formal que 'put into practice' aunque significa lo mismo.",
+      "cardRef": { "category": "vocabulary", "front": "implement" }
+    },
+    {
+      "front": "feasible",
+      "back": "factible / viable",
+      "reading": "/ˈfiːzəbəl/",
+      "explanation": "Adjetivo que describe algo posible de lograr dadas las circunstancias. Sinónimos: viable, achievable, workable. Colocaciones: feasible option, feasible plan, technically feasible. Falso amigo parcial con 'fácil' — feasible solo significa 'que se puede hacer', no 'que es fácil'.",
+      "cardRef": { "category": "vocabulary", "front": "feasible" }
+    },
+    {
+      "front": "benchmark",
+      "back": "punto de referencia / estándar de comparación",
+      "reading": "/ˈbɛntʃmɑːrk/",
+      "explanation": "Estándar contra el cual se mide o compara algo. Como sustantivo: 'set a benchmark', 'industry benchmark'. También se usa como verbo: 'to benchmark performance against competitors'.",
+      "cardRef": { "category": "vocabulary", "front": "benchmark" }
+    },
+    {
+      "front": "outsource",
+      "back": "tercerizar / externalizar",
+      "reading": "/ˈaʊtsɔːrs/",
+      "explanation": "Contratar a una empresa o persona externa para realizar trabajo que normalmente se haría internamente. Colocaciones: outsource production, outsource customer service, outsource to another country.",
+      "cardRef": { "category": "vocabulary", "front": "outsource" }
+    },
+    {
+      "front": "quarterly",
+      "back": "trimestral / trimestralmente",
+      "reading": "/ˈkwɔːrtərli/",
+      "explanation": "Que ocurre o se produce cada trimestre (cada tres meses). Puede ser adjetivo ('quarterly report') o adverbio ('meet quarterly'). Relacionado: quarterly earnings, quarterly review.",
+      "cardRef": { "category": "vocabulary", "front": "quarterly" }
+    },
+    {
+      "front": "meet a deadline",
+      "back": "cumplir con un plazo",
+      "reading": "/miːt ə ˈdɛdlaɪn/",
+      "explanation": "Colocación fija: siempre 'meet' con 'deadline', no 'arrive at', 'reach' ni 'do'. Lo opuesto es 'miss a deadline' (no cumplir el plazo).",
+      "cardRef": { "category": "vocabulary", "front": "meet a deadline" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario profesional: negociación y proyectos",
+      "instruction": "Estas 8 palabras son esenciales en el inglés profesional. Prestá atención a las colocaciones — en inglés de negocios, hay combinaciones fijas que no se pueden traducir literalmente del español.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto. Atención a los matices — algunas opciones serán similares.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Dónde se usa bien?",
+      "instruction": "Elegí la oración donde la palabra está usada correctamente en contexto profesional.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "negotiate",
+            "translation": "negociar",
+            "options": [
+              "We need to negotiate the traffic before arriving.",
+              "Both parties agreed to negotiate the contract terms.",
+              "I negotiate my breakfast every morning.",
+              "The lawyer negotiated the weather forecast."
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "feasible",
+            "translation": "factible / viable",
+            "options": [
+              "The project is feasible if we get additional funding.",
+              "She is a very feasible person to talk to.",
+              "The weather was feasible for a picnic.",
+              "His English is feasible enough for a B2 exam."
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "outsource",
+            "translation": "tercerizar",
+            "options": [
+              "Let's outsource the pizza for the company lunch.",
+              "The company decided to outsource its IT support to a specialist firm.",
+              "She outsourced her opinion about the new policy.",
+              "They outsourced the traffic near the office."
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "meet a deadline",
+            "translation": "cumplir con un plazo",
+            "options": [
+              "We need to do the deadline before Friday.",
+              "I arrived to the deadline just in time.",
+              "The team worked through the weekend to meet the deadline.",
+              "She reached the deadline at the last moment."
+            ],
+            "correctIndex": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá el email profesional",
+      "instruction": "Completá los espacios con la palabra correcta del vocabulario de esta lección.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "We need to {0} the contract terms with the supplier before we can {1} the new pricing strategy.",
+            "blanks": [
+              { "answer": "negotiate", "options": ["negotiate", "outsource", "implement", "benchmark"] },
+              { "answer": "implement", "options": ["negotiate", "outsource", "implement", "benchmark"] }
+            ]
+          },
+          {
+            "template": "The team submitted a {0} report showing that the expansion plan is {1}, provided we secure additional investment.",
+            "blanks": [
+              { "answer": "quarterly", "options": ["quarterly", "feasible", "biased", "cutting-edge"] },
+              { "answer": "feasible", "options": ["quarterly", "feasible", "biased", "peer-reviewed"] }
+            ]
+          },
+          {
+            "template": "To {0} the project deadline, we may need to {1} some tasks to an external agency.",
+            "blanks": [
+              { "answer": "meet", "options": ["meet", "do", "arrive at", "reach"] },
+              { "answer": "outsource", "options": ["outsource", "negotiate", "implement", "benchmark"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Ves el significado en español. Escribí la palabra o expresión en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste 8 términos profesionales clave. Recordá las colocaciones: 'negotiate terms', 'meet a deadline', 'implement a strategy', 'set a benchmark'. En el inglés de negocios, usar la combinación correcta es tan importante como usar la palabra correcta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

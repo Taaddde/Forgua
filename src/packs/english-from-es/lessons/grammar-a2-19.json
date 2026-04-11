@@ -1,0 +1,164 @@
+{
+  "id": "grammar-a2-19",
+  "title": "Both / Either / Neither",
+  "description": "Both tea and coffee. Either option. Neither is good. Tres palabras para hablar de dos opciones — error clásico: confundirlas.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Both / Either / Neither (both...and / either...or / neither...nor)",
+      "back": "ambos / cualquiera de / ninguno de",
+      "reading": "",
+      "explanation": "'Both...and' = los dos (afirmativo). 'Either...or' = uno u otro (elección). 'Neither...nor' = ni uno ni otro (negación doble). 'Both' va con verbo plural. 'Neither' y 'either' pueden ir con singular o plural coloquialmente.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Both / Either / Neither (both...and / either...or / neither...nor)"
+      }
+    },
+    {
+      "front": "Both tea and coffee are fine.",
+      "back": "Tanto el té como el café están bien.",
+      "reading": "",
+      "explanation": "'Both...and' conecta dos elementos igualmente válidos. Con 'both', el verbo es PLURAL: 'Both options ARE fine' (no 'is'). En posición de sujeto sin 'and': 'Both of them are here.'"
+    },
+    {
+      "front": "Either you come or I leave.",
+      "back": "O venís vos o me voy yo.",
+      "reading": "",
+      "explanation": "'Either...or' = alternativa excluyente. También se usa solo: 'I'll take either' = cualquiera de los dos me va bien. En frases negativas: 'I don't like either' = no me gusta ninguno de los dos."
+    },
+    {
+      "front": "Neither option is good.",
+      "back": "Ninguna de las dos opciones es buena.",
+      "reading": "",
+      "explanation": "'Neither' = ninguno de los dos (negación de ambos). El verbo en singular: 'Neither option IS good'. 'Neither of them is/are correct' (ambas formas aceptadas). ATENCIÓN: 'Neither' ya incluye la negación — no se usa con 'not'."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Hablar de dos opciones: both, either, neither",
+      "instruction": "Cuando hablás de DOS cosas u opciones, usás palabras especiales. BOTH = las dos (ambas). EITHER = una u otra / cualquiera de las dos. NEITHER = ni una ni otra. Acordate: 'both...and', 'either...or', 'neither...nor'. Nunca digas 'neither...or' ni 'either...and'.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es la traducción?",
+      "instruction": "Elegí la traducción correcta de cada oración.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Both, either o neither",
+      "instruction": "Elegí la palabra correcta según el contexto.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "I've been to {0} Paris and London. {1} city was disappointing — they were both amazing.",
+            "blanks": [
+              {
+                "answer": "both",
+                "options": [
+                  "both",
+                  "either",
+                  "neither",
+                  "each"
+                ]
+              },
+              {
+                "answer": "Neither",
+                "options": [
+                  "Neither",
+                  "Either",
+                  "Both",
+                  "None"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "You can take {0} the bus or the train — {1} will get you there in about an hour.",
+            "blanks": [
+              {
+                "answer": "either",
+                "options": [
+                  "either",
+                  "both",
+                  "neither",
+                  "any"
+                ]
+              },
+              {
+                "answer": "either",
+                "options": [
+                  "either",
+                  "both",
+                  "neither",
+                  "any"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "Errores con both, either, neither",
+      "instruction": "Identificá el error en cada oración.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "Both of my parents is doctors.",
+            "isCorrect": false,
+            "correction": "Both of my parents are doctors.",
+            "explanation": "'Both' siempre usa verbo PLURAL: 'Both are', 'Both of them work', etc. Es uno de los errores más comunes.",
+            "errorType": "agreement"
+          },
+          {
+            "sentence": "Neither of the answers was correct.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Neither of + plural noun + singular verb' es la forma estándar. 'Was' (singular) es gramaticalmente correcto.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "I don't like neither option.",
+            "isCorrect": false,
+            "correction": "I don't like either option.",
+            "explanation": "Con 'don't/doesn't' ya hay negación → se usa 'either' (no 'neither'). 'Neither' ya incluye la negación. 'I don't like EITHER option' o 'I like NEITHER option' (sin don't).",
+            "errorType": "double-negative"
+          },
+          {
+            "sentence": "Either option works for me.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Either' = cualquiera de los dos. Con verbo singular ('works'). Equivale a 'ambas opciones me funcionan / cualquiera está bien'.",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "BOTH = los dos, verbo plural (Both ARE). EITHER = cualquiera de los dos, verbo singular (Either IS fine) o correlativo (Either...or). NEITHER = ninguno de los dos, verbo singular (Neither IS correct) o correlativo (Neither...nor). NUNCA doble negación: 'I don't like neither' → INCORRECTO. 'I don't like either' o 'I like neither' → CORRECTO.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ]
+}

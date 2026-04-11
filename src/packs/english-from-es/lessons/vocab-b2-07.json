@@ -1,0 +1,200 @@
+{
+  "id": "vocab-b2-07",
+  "title": "Abstract Concepts & Collocations",
+  "description": "Vocabulario abstracto y colocaciones clave para expresar ideas complejas con precisión en inglés.",
+  "level": "b2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "impact",
+      "back": "impacto / efecto",
+      "reading": "/ˈɪmpækt/",
+      "explanation": "Como sustantivo: 'have an impact on'. Como verbo (más formal/americano): 'this impacts the results'. Colocaciones: major/significant/positive/negative impact. Cuidado: 'impact' como verbo es criticado en inglés formal, pero es muy común en inglés de negocios.",
+      "cardRef": { "category": "vocabulary", "front": "impact" }
+    },
+    {
+      "front": "perspective",
+      "back": "perspectiva / punto de vista",
+      "reading": "/pərˈspɛktɪv/",
+      "explanation": "Punto de vista o manera de considerar algo. Colocaciones: from my perspective, different perspective, broader perspective, put something in perspective. Cognado con 'perspectiva'. No confundir con 'point of view' (igual de válido, pero 'perspective' suena más formal).",
+      "cardRef": { "category": "vocabulary", "front": "perspective" }
+    },
+    {
+      "front": "consequence",
+      "back": "consecuencia",
+      "reading": "/ˈkɑːnsɪkwɛns/",
+      "explanation": "Resultado o efecto de una acción. Colocaciones: as a consequence, the consequences of, face the consequences, unintended consequences. Adjetivo: consequential (importante). Atención: 'consequence' siempre implica causalidad — un resultado que se deriva directamente de una acción.",
+      "cardRef": { "category": "vocabulary", "front": "consequence" }
+    },
+    {
+      "front": "assumption",
+      "back": "suposición / presunción",
+      "reading": "/əˈsʌmpʃən/",
+      "explanation": "Algo que se acepta como verdadero sin prueba. Colocaciones: make an assumption, challenge an assumption, unfounded assumption, underlying assumptions. Verbo: assume. Error común: 'assumption' es más fuerte que 'guess' — implica que se trata de algo dado por sentado.",
+      "cardRef": { "category": "vocabulary", "front": "assumption" }
+    },
+    {
+      "front": "awareness",
+      "back": "conciencia / conocimiento",
+      "reading": "/əˈwɛrnəs/",
+      "explanation": "Conocimiento o percepción de una situación o hecho. Colocaciones: raise awareness (concientizar), grow in awareness, lack of awareness, self-awareness. 'Raise awareness' es una de las colocaciones más usadas en inglés sobre temas sociales.",
+      "cardRef": { "category": "vocabulary", "front": "awareness" }
+    },
+    {
+      "front": "dilemma",
+      "back": "dilema",
+      "reading": "/dɪˈlɛmə/",
+      "explanation": "Situación donde hay que elegir entre dos opciones igualmente difíciles o indeseables. Colocaciones: face a dilemma, moral/ethical dilemma, be in a dilemma. Cognado con 'dilema'. El 'dilemma' clásico tiene solo dos opciones difíciles (di = dos).",
+      "cardRef": { "category": "vocabulary", "front": "dilemma" }
+    },
+    {
+      "front": "underlying",
+      "back": "subyacente / fundamental",
+      "reading": "/ˌʌndərˈlaɪɪŋ/",
+      "explanation": "Que existe debajo de la superficie, que es la causa real aunque no sea obvio. Colocaciones: underlying cause, underlying issue, underlying assumption, underlying principle. Muy usado en análisis: 'address the underlying problem' (atacar la raíz del problema).",
+      "cardRef": { "category": "vocabulary", "front": "underlying" }
+    },
+    {
+      "front": "raise awareness",
+      "back": "crear conciencia / concientizar",
+      "reading": "/reɪz əˈwɛrnəs/",
+      "explanation": "Colocación fija: siempre 'RAISE' awareness, no 'create', 'increase', ni 'grow'. Seguido de 'about' + tema: 'raise awareness about mental health'. Muy usado en campañas sociales, ONG y comunicación corporativa responsable.",
+      "cardRef": { "category": "vocabulary", "front": "raise awareness" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario abstracto y colocaciones avanzadas",
+      "instruction": "Estas palabras te permiten discutir ideas complejas — causas, consecuencias, suposiciones, dilemas. Prestá atención a las colocaciones fijas: 'raise awareness' (no 'create'), 'face a dilemma', 'underlying cause'.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Dónde se usa bien?",
+      "instruction": "Elegí la oración donde la palabra se usa correctamente.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "underlying",
+            "translation": "subyacente",
+            "options": [
+              "The report failed to address the underlying causes of the financial crisis.",
+              "The table was underlying the books that fell on the floor.",
+              "Her underlying attitude was very positive and cheerful.",
+              "The underlying manager approved the project proposal."
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "assumption",
+            "translation": "suposición",
+            "options": [
+              "The team made several assumptions about user behavior that proved to be incorrect.",
+              "Her assumption was very loud and everyone heard it.",
+              "The assumption of the movie was clear from the beginning.",
+              "We assumption that the meeting would start on time."
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "raise awareness",
+            "translation": "crear conciencia",
+            "options": [
+              "The campaign was designed to raise awareness about the dangers of online misinformation.",
+              "They wanted to create awareness about the new policy.",
+              "The organization raised the awareness last month.",
+              "She increased awareness in people about climate change."
+            ],
+            "correctIndex": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Analizá estas oraciones sobre conceptos abstractos.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "The company must address the underlying issues before the situation gets worse.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Address underlying issues' es una colocación muy natural y formal. 'Before the situation gets worse' usa el present simple en cláusula temporal, lo cual es correcto.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "We need to create awareness about mental health in the workplace.",
+            "isCorrect": false,
+            "correction": "We need to raise awareness about mental health in the workplace.",
+            "explanation": "La colocación correcta es 'RAISE awareness', no 'create'. Este es uno de los errores de colocación más comunes entre hispanohablantes que traducen literalmente 'crear conciencia'.",
+            "errorType": "collocation"
+          },
+          {
+            "sentence": "She faced a moral dilemma: should she report her colleague or stay loyal to the team?",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Face a moral dilemma' es la colocación exacta. La segunda parte (should she... or...) presenta perfectamente las dos opciones del dilema.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "The program had significant consequences in the environment.",
+            "isCorrect": false,
+            "correction": "The program had significant consequences for the environment.",
+            "explanation": "'Consequences' se usa con la preposición 'FOR', no 'IN' ni 'ON'. 'Have consequences for someone/something'. Muchos hispanohablantes dicen 'consequences in' por influencia de 'consecuencias en', pero en inglés la preposición correcta es 'for'.",
+            "errorType": "preposition"
+          },
+          {
+            "sentence": "From my perspective, the proposed solution does not address the root cause of the problem.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'From my perspective' es una manera formal y natural de introducir una opinión. 'Root cause' (causa raíz) es sinónimo de 'underlying cause'.",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá el texto de análisis",
+      "instruction": "Completá este párrafo analítico con el vocabulario correcto.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "From a broader {0}, the policy reform has had a positive {1} the most vulnerable communities.",
+            "blanks": [
+              { "answer": "perspective", "options": ["perspective", "assumption", "dilemma", "implication"] },
+              { "answer": "impact on", "options": ["impact on", "impact in", "consequence for", "awareness about"] }
+            ]
+          },
+          {
+            "template": "The campaign aims to {0} about food waste. However, it is based on the {1} that consumers have sufficient disposable income to buy sustainably.",
+            "blanks": [
+              { "answer": "raise awareness", "options": ["raise awareness", "create awareness", "increase awareness", "grow awareness"] },
+              { "answer": "assumption", "options": ["assumption", "consequence", "perspective", "dilemma"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Escribí la palabra o expresión en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Conceptos abstractos B2: 'impact' (have an impact ON), 'perspective' (from my perspective), 'consequence' (have consequences FOR), 'assumption' (make/challenge an assumption), 'awareness' (RAISE awareness about), 'dilemma' (face a moral dilemma), 'underlying' (cause/issue/principle), 'raise awareness' (no 'create'). Con este vocabulario podés discutir temas complejos con precisión.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

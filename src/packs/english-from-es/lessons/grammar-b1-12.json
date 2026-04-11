@@ -1,0 +1,172 @@
+{
+  "id": "grammar-b1-12",
+  "title": "So / Such ... that & Too / Enough",
+  "description": "Intensificadores con resultado: 'The movie was so boring that I fell asleep.' 'She is old enough to decide.' 'It's too hot to go outside.'",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "The movie was so boring that I fell asleep. / It was such a beautiful day that we went to the beach.",
+      "back": "La película era tan aburrida que me quedé dormido. / Era un día tan lindo que fuimos a la playa.",
+      "reading": "",
+      "explanation": "SO + adjetivo o adverbio + that. SUCH + (a/an) + adjetivo + sustantivo + that. Ambos expresan intensidad con una consecuencia. REGLA: so + adj/adv (so tired, so quickly). SUCH + noun phrase (such a mess, such nice people). Con plurales/incontables no hay 'a': 'such nice people', 'such good weather'.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "So / Such ... that (so + adjective/adverb + that | such + (a/an) + adjective + noun + that)"
+      }
+    },
+    {
+      "front": "This suitcase is too heavy for me to carry. / She is old enough to make her own decisions.",
+      "back": "Esta maleta es demasiado pesada para que yo la cargue. / Es suficientemente grande para tomar sus propias decisiones.",
+      "reading": "",
+      "explanation": "TOO + adjetivo = exceso que IMPIDE algo. Tiene sentido negativo. ENOUGH va DESPUÉS de adjetivos/adverbios pero ANTES de sustantivos: 'big enough' pero 'enough chairs'. Se puede agregar 'for + persona': 'too heavy FOR ME to carry', 'old enough FOR HER to decide'."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "So... that y such... that",
+      "instruction": "Ambos expresan intensidad + resultado. SO + adj/adv + that. SUCH + (a/an) + adj + noun + that. Si hay un sustantivo en la frase, usá 'such'. Si es solo adjetivo/adverbio, usá 'so'.",
+      "itemIndices": [
+        0
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Too (demasiado) y enough (suficiente)",
+      "instruction": "TOO = exceso que impide: 'too tired TO sleep'. ENOUGH = suficiencia: 'old enough TO vote'. La posición de 'enough' cambia: AFTER adjective/adverb, BEFORE noun.",
+      "itemIndices": [
+        1
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿So, such, too o enough?",
+      "instruction": "Elegí el intensificador correcto.",
+      "itemIndices": [
+        0,
+        1
+      ]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con el intensificador correcto",
+      "instruction": "Elegí so, such, too o enough según la estructura.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "He spoke {0} quickly that I couldn't understand him.",
+            "blanks": [
+              {
+                "answer": "so",
+                "options": [
+                  "so",
+                  "such",
+                  "too"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "It was {0} a great performance that the audience stood up.",
+            "blanks": [
+              {
+                "answer": "such",
+                "options": [
+                  "such",
+                  "so",
+                  "too"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "The coffee is {0} hot to drink right now.",
+            "blanks": [
+              {
+                "answer": "too",
+                "options": [
+                  "too",
+                  "so",
+                  "such"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "She is not old {0} to vote in the election.",
+            "blanks": [
+              {
+                "answer": "enough",
+                "options": [
+                  "enough",
+                  "so",
+                  "too"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "There aren't {0} chairs for everyone.",
+            "blanks": [
+              {
+                "answer": "enough",
+                "options": [
+                  "enough",
+                  "so many",
+                  "too much"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Identificá errores en el uso de so/such/too/enough.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "It was a so good movie that I watched it twice.",
+            "isCorrect": false,
+            "correction": "It was such a good movie that I watched it twice.",
+            "explanation": "INCORRECTO. Cuando hay un SUSTANTIVO (movie) en la frase, usamos SUCH, no SO. Correcto: 'such a good movie'. Si no hubiera sustantivo: 'The movie was so good that...'",
+            "errorType": "so-vs-such"
+          },
+          {
+            "sentence": "The food was so delicious that we ordered more.",
+            "isCorrect": true,
+            "explanation": "Correcto. SO + adjetivo (delicious, sin sustantivo directo después) + that + resultado. Estructura perfecta.",
+            "errorType": "so-that"
+          },
+          {
+            "sentence": "He's too young for drive a car.",
+            "isCorrect": false,
+            "correction": "He's too young to drive a car.",
+            "explanation": "INCORRECTO. Con TOO: too + adj + TO + infinitivo (base verb). No 'for + infinitivo'. 'Too young TO drive', 'too hot TO drink'.",
+            "errorType": "too-to"
+          },
+          {
+            "sentence": "She has enough experience to apply for the promotion.",
+            "isCorrect": true,
+            "explanation": "Correcto. ENOUGH + sustantivo (enough experience). 'Enough' va ANTES del sustantivo. Y luego 'to + infinitivo' para el resultado.",
+            "errorType": "enough"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "SO + adj/adv + that (so tired that, so quickly that). SUCH + (a/an) + adj + noun + that (such a big problem, such nice weather). TOO + adj + TO + infinitivo (demasiado para — sentido negativo). adj/adv + ENOUGH + TO + infinitivo (suficientemente para). ENOUGH + noun (enough money, enough time — before noun). Regla de oro: sustantivo → such. Solo adj/adv → so.",
+      "itemIndices": [
+        0,
+        1
+      ]
+    }
+  ]
+}

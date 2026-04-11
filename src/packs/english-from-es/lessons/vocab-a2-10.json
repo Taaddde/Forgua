@@ -1,0 +1,200 @@
+{
+  "id": "vocab-a2-10",
+  "title": "Opinions & Thinking Verbs",
+  "description": "Verbos esenciales para dar opiniones, estar de acuerdo, sugerir y decidir: think, believe, agree, suggest. Claves para empezar a conversar de verdad.",
+  "level": "a2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "think",
+      "back": "pensar",
+      "reading": "/θɪŋk/",
+      "explanation": "Irregular: think / thought / thought. Para dar opinión: 'I think (that) it's a good idea'. El 'that' es opcional. Pronunciación del 'th': lengua entre los dientes, no 'tink' ni 'sink'. No se dice 'I am thinking that...' para opiniones — es 'I think...' en presente simple.",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "think"
+      }
+    },
+    {
+      "front": "believe",
+      "back": "creer",
+      "reading": "/bɪˈliːv/",
+      "explanation": "Más fuerte que 'think'. 'I believe in you' = creo en vos. 'I believe (that) she is right' = creo que tiene razón. Ojo: NO es estado progresivo, no se dice 'I am believing'. Ortografía: i antes de e (believe, no 'beleive').",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "believe"
+      }
+    },
+    {
+      "front": "agree",
+      "back": "estar de acuerdo",
+      "reading": "/əˈɡriː/",
+      "explanation": "¡Ojo! En inglés es un VERBO, no 'to be + adjetivo'. NO se dice 'I am agree' (error típico del hispanohablante). Es 'I agree'. Preposición: 'agree WITH someone' / 'agree ON something'. Ej: 'I agree with you', 'We agree on the price'.",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "agree"
+      }
+    },
+    {
+      "front": "disagree",
+      "back": "estar en desacuerdo",
+      "reading": "/ˌdɪsəˈɡriː/",
+      "explanation": "Opuesto de 'agree'. También verbo, no adjetivo: 'I disagree' (NO 'I am disagree'). 'I disagree with you on this point'. En conversación educada, se suaviza: 'I'm afraid I disagree' o 'I don't quite agree'.",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "disagree"
+      }
+    },
+    {
+      "front": "prefer",
+      "back": "preferir",
+      "reading": "/prɪˈfɜːr/",
+      "explanation": "Dos estructuras clave: 'prefer X to Y' (preferir X sobre Y) y 'prefer + -ing / prefer + infinitive'. Ej: 'I prefer tea to coffee', 'I prefer walking to driving'. Ojo con la doble 'r' cuando conjugás: preferred, preferring.",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "prefer"
+      }
+    },
+    {
+      "front": "suggest",
+      "back": "sugerir",
+      "reading": "/səˈdʒɛst/",
+      "explanation": "Estructura peculiar: 'suggest + -ing' o 'suggest (that) + oración', pero NUNCA 'suggest to do' (error muy común). Correcto: 'I suggest going now' o 'I suggest (that) we go now'. INCORRECTO: 'I suggest to go'. Tampoco lleva objeto indirecto sin 'to': 'He suggested a plan TO me', no 'He suggested me a plan'.",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "suggest"
+      }
+    },
+    {
+      "front": "decide",
+      "back": "decidir",
+      "reading": "/dɪˈsaɪd/",
+      "explanation": "Se sigue de infinitivo con 'to': 'I decided TO stay'. Sustantivo: decision. 'Make a decision' (no 'take a decision' — eso es British raro). Pronunciación: /dɪˈsaɪd/, con 'ai' como en 'side', no /de-ci-de/ como en español.",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "decide"
+      }
+    },
+    {
+      "front": "imagine",
+      "back": "imaginar",
+      "reading": "/ɪˈmædʒɪn/",
+      "explanation": "Va con -ing: 'Imagine living in Paris' (imaginá vivir en París). También: 'I can't imagine why' = no me imagino por qué. Pronunciación: el acento en la segunda sílaba (i-MA-gine), no en la primera como en español.",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "imagine"
+      }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Verbos para dar opinión",
+      "instruction": "Estos verbos son la base de cualquier conversación donde expresás lo que pensás. Claves: 'I think/believe/agree' — presente simple, sin -ing. Y MUY IMPORTANTE: 'I agree' no se dice 'I am agree'.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Sugerir, decidir, imaginar",
+      "instruction": "Ahora verbos para proponer y decidir. Ojo con la estructura: 'suggest + -ing' (NO 'suggest to'), 'decide + to + infinitive', 'prefer X to Y'. Son patrones que hay que memorizar.",
+      "itemIndices": [4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto de cada verbo.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Dónde se usa bien?",
+      "instruction": "Elegí la oración donde el verbo está usado correctamente según su estructura.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "suggest",
+            "translation": "sugerir",
+            "options": [
+              "I suggest going to the new restaurant on Main Street.",
+              "I suggest to go to the new restaurant on Main Street.",
+              "I suggest you to go to the new restaurant on Main Street.",
+              "I suggested me to go to the new restaurant."
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "agree",
+            "translation": "estar de acuerdo",
+            "options": [
+              "I agree with you about the new policy.",
+              "I am agree with you about the new policy.",
+              "I am agreeing with you about the new policy.",
+              "I agree to you about the new policy."
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "prefer",
+            "translation": "preferir",
+            "options": [
+              "I prefer coffee to tea in the morning.",
+              "I prefer coffee than tea in the morning.",
+              "I am prefer coffee to tea in the morning.",
+              "I prefer coffee from tea in the morning."
+            ],
+            "correctIndex": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Identificá los errores típicos del hispanohablante con estos verbos de opinión.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "I am agree with your proposal.",
+            "isCorrect": false,
+            "correction": "I agree with your proposal.",
+            "explanation": "'Agree' es un verbo, no un adjetivo. En español decimos 'estoy de acuerdo' (con verbo 'estar'), pero en inglés es simplemente 'I agree'. NUNCA 'I am agree'. Es uno de los errores más comunes del hispanohablante.",
+            "errorType": "wrong-structure"
+          },
+          {
+            "sentence": "She suggested me to take a break.",
+            "isCorrect": false,
+            "correction": "She suggested (that) I take a break. / She suggested taking a break.",
+            "explanation": "'Suggest' NO se construye con 'suggest + objeto + to + infinitive'. Correcto: 'suggest + -ing' o 'suggest that + oración'. Este es otro error clásico porque en español decimos 'me sugirió hacer algo'.",
+            "errorType": "wrong-structure"
+          },
+          {
+            "sentence": "I decided to stay home because of the rain.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Decide' se sigue de 'to + infinitive': 'decided TO stay'. Estructura perfecta.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "I think that she is right about this.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Think' en presente simple para opinión, con 'that' opcional. También valdría 'I think she is right'. NO uses 'I am thinking' para opiniones — eso solo para proceso mental activo.",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice en inglés?",
+      "instruction": "Ves la palabra en español. Escribí la traducción en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste 8 verbos de opinión. Claves: (1) 'I agree' / 'I disagree' son VERBOS, nunca 'I am agree'. (2) 'suggest + -ing' o 'suggest that', NUNCA 'suggest to'. (3) 'decide TO + infinitive'. (4) 'prefer X TO Y'. (5) Estos verbos NO van en -ing para opiniones: 'I think', no 'I am thinking'. Ya podés empezar a dar tu opinión en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": "grammar-c2-02",
+  "title": "Advanced Discourse Organization",
+  "description": "Fronting, dislocación y hedging. Herramientas C2 para organizar el discurso con propósito estilístico.",
+  "level": "c2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Advanced Discourse Organization (Fronting: Object/Complement + subject + verb | Right-dislocation: clause, + noun phrase | Hedging: It would seem that...)",
+      "back": "Organización avanzada del discurso: fronting (mover elemento al inicio), dislocación (aclaración al final) y hedging (suavizar afirmaciones)",
+      "reading": "",
+      "explanation": "Tres herramientas pragmáticas del C2. (1) FRONTING: mover un objeto/complemento al inicio para enfatizar — 'This we cannot accept' en lugar de 'We cannot accept this'. (2) RIGHT-DISLOCATION: aclaración tardía — 'She's clever, your sister'. (3) HEDGING: suavizar con estructuras tentativas — 'It would seem that...', 'One might argue that...'. El hedging académico inglés es mucho más elaborado que el español, que tiende a ser más directo. Los hispanohablantes suenan bruscos en inglés académico cuando traducen literalmente sin hedging.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Advanced Discourse Organization (Fronting: Object/Complement + subject + verb | Right-dislocation: clause, + noun phrase | Hedging: It would seem that...)"
+      }
+    },
+    {
+      "front": "Fronting for emphasis",
+      "back": "This kind of behaviour, we simply cannot tolerate.",
+      "explanation": "El fronting mueve un constituyente al inicio de la oración para enfatizarlo. Se usa con objetos directos, complementos, adverbiales y frases nominales completas. El sujeto y verbo mantienen su orden normal después. Común en inglés escrito formal y en argumentación retórica; en conversación informal suena literario."
+    },
+    {
+      "front": "Hedging in academic writing",
+      "back": "It would seem that the initial findings were somewhat misleading.",
+      "explanation": "El hedging suaviza afirmaciones con: condicionales ('would seem', 'might suggest'), verbos tentativos ('appear', 'tend to'), adverbios de intensidad reducida ('somewhat', 'rather', 'fairly'), modales epistémicos ('may', 'could'). En lugar de 'This proves...' (demasiado directo), usar 'This would seem to suggest that...'. Marca esencial del registro académico C2."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Organizar el discurso con intención",
+      "instruction": "En C2 no solo se trata de ser correcto, sino de elegir cómo presentar la información. Tres herramientas clave: fronting (énfasis), dislocación (aclaración) y hedging (suavizar). Dominar estas distingue al C2 del C1.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "recognize",
+      "title": "Identificá el recurso",
+      "instruction": "¿Qué recurso discursivo está usando cada oración?",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Registro apropiado?",
+      "instruction": "Decidí si cada oración usa el registro académico/formal correctamente.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "This proves definitively that the hypothesis is wrong.",
+            "isCorrect": false,
+            "correction": "This would seem to suggest that the hypothesis may be flawed.",
+            "explanation": "En escritura académica, afirmaciones categóricas como 'proves definitively' suenan excesivas y poco sofisticadas. El hedging académico requiere suavizar: 'would seem to suggest', 'may be flawed'. Los hispanohablantes tienden a ser demasiado directos porque el español académico tolera más la afirmación categórica.",
+            "errorType": "register-too-direct"
+          },
+          {
+            "sentence": "That we simply cannot accept under any circumstances.",
+            "isCorrect": true,
+            "explanation": "Correcto. Fronting del objeto ('that') al inicio para énfasis retórico. El sujeto ('we') y verbo ('cannot accept') mantienen su orden. Uso apropiado en contexto formal argumentativo.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "One might argue that the evidence, while compelling, is not entirely conclusive.",
+            "isCorrect": true,
+            "explanation": "Correcto. Hedging académico multi-capa: 'one might argue' (condicional impersonal), 'while compelling' (concesión), 'not entirely conclusive' (litotes). Marca de escritura C2 sofisticada.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "He's a total genius, that brother of yours.",
+            "isCorrect": true,
+            "explanation": "Correcto. Right-dislocation informal: se afirma algo y luego se agrega una frase nominal al final que identifica al referente. Común en conversación británica, transmite familiaridad y énfasis.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "It is absolutely certain that climate change will destroy everything.",
+            "isCorrect": false,
+            "correction": "The evidence suggests that climate change is likely to have severe consequences.",
+            "explanation": "'Absolutely certain' + 'destroy everything' es apocalíptico y poco académico. El hedging requiere reemplazar con estructuras moderadas: 'suggests', 'is likely to have severe consequences'. Nunca afirmaciones absolutas en contextos académicos.",
+            "errorType": "register-too-categorical"
+          }
+        ]
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Hedging en contexto",
+      "instruction": "Completá con la forma académica apropiada.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "The data {0} to suggest that the intervention {1} have had a modest positive effect, although further research {2} required.",
+            "blanks": [
+              { "answer": "would seem", "options": ["would seem", "definitely show", "will prove", "clearly demonstrate"] },
+              { "answer": "may", "options": ["may", "will certainly", "absolutely", "definitely"] },
+              { "answer": "is", "options": ["is", "will definitely be", "absolutely needs to be", "obviously is"] }
+            ]
+          },
+          {
+            "template": "{0} entirely untrue to say that the results are inconclusive, {1} the sample size remains a significant limitation.",
+            "blanks": [
+              { "answer": "It is not", "options": ["It is not", "It is completely", "There is no", "One cannot say"] },
+              { "answer": "though", "options": ["though", "therefore", "because", "so"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completada!",
+      "instruction": "DISCURSO AVANZADO: (1) FRONTING para énfasis: 'This we cannot accept'. (2) DISLOCATION para aclarar: 'She's brilliant, your daughter'. (3) HEDGING para registro académico: 'would seem', 'may', 'somewhat', 'one might argue'. El hedging es la marca más clara del C2 académico — evitá afirmaciones categóricas.",
+      "itemIndices": [0, 1, 2]
+    }
+  ]
+}

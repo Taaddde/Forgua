@@ -1,0 +1,165 @@
+{
+  "id": "grammar-b1-14",
+  "title": "Complex Question Tags",
+  "description": "Las coletillas interrogativas con tiempos complejos: 'You've been to Paris, haven't you?', 'She won't come, will she?'. Afirmativa → tag negativo; negativa → tag positivo.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Complex Question Tags (statement + auxiliary tag (doesn't she?, haven't they?, won't we?))",
+      "back": "Oración + tag con auxiliar. Afirmativa → negativo, negativa → positivo. El auxiliar debe coincidir.",
+      "reading": "/kəmˈplɛks ˈkwɛstʃən tæɡz/",
+      "explanation": "La regla general: oración afirmativa → tag negativo; oración negativa → tag positivo. El tag usa el MISMO auxiliar que la oración (have/has, will, can, would, etc.). Si la oración no tiene auxiliar, usamos 'do/does/did'. En español decimos simplemente '¿no?' o '¿verdad?', así que los tags son una estructura totalmente ajena al oído hispano.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Complex Question Tags (statement + auxiliary tag (doesn't she?, haven't they?, won't we?))"
+      }
+    },
+    {
+      "front": "You've been to London, haven't you?",
+      "back": "Present Perfect afirmativo → tag 'haven't you?' (negativo con el mismo auxiliar 'have').",
+      "reading": "/juːv bɪn tə ˈlʌndən ˈhævənt juː/",
+      "explanation": "'You HAVE been' → el auxiliar es 'have' → tag negativo con 'have': 'haven't you?'. No importa que sea Present Perfect o Past Perfect, la regla es la misma: repetir el auxiliar, cambiar la polaridad."
+    },
+    {
+      "front": "She won't be late, will she?",
+      "back": "Negativa con 'won't' → tag positivo 'will she?'. Mismo auxiliar, polaridad invertida.",
+      "reading": "/ʃiː woʊnt biː leɪt wɪl ʃiː/",
+      "explanation": "'She WON'T be' (won't = will not, negativo) → tag positivo con 'will': 'will she?'. Con modales (will, can, should, would, might), el tag usa el mismo modal."
+    },
+    {
+      "front": "I'm right, aren't I?",
+      "back": "Caso especial: 'I am' → 'aren't I?' (no 'amn't I').",
+      "reading": "/aɪm raɪt ˈɑːrnt aɪ/",
+      "explanation": "El inglés no tiene 'amn't', así que la forma estándar para 'I am' afirmativo es 'aren't I?'. Otras irregularidades: 'Let's go' → 'shall we?'; imperativo positivo 'Open the door' → 'will you?' o 'could you?'; imperativo negativo 'Don't forget' → 'will you?'."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Question tags: la regla general",
+      "instruction": "Oración afirmativa → tag NEGATIVO. Oración negativa → tag POSITIVO. El tag usa el MISMO auxiliar o modal que la oración. Si no hay auxiliar, usamos do/does/did.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Casos especiales: I am, Let's, imperativos",
+      "instruction": "'I am right' → 'aren't I?' (no 'amn't I'). 'Let's go' → 'shall we?'. 'Open the door' → 'will you?'. 'Don't forget' → 'will you?'.",
+      "itemIndices": [2, 3]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá el tag correcto",
+      "instruction": "Elegí el tag que corresponde. Cuidado con la polaridad (afirmativa → negativo, negativa → positivo) y el auxiliar.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "You've finished the report, {0}?",
+            "blanks": [
+              { "answer": "haven't you", "options": ["haven't you", "don't you", "didn't you"] }
+            ]
+          },
+          {
+            "template": "She doesn't speak German, {0}?",
+            "blanks": [
+              { "answer": "does she", "options": ["does she", "doesn't she", "is she"] }
+            ]
+          },
+          {
+            "template": "They'll be here by eight, {0}?",
+            "blanks": [
+              { "answer": "won't they", "options": ["won't they", "will they", "aren't they"] }
+            ]
+          },
+          {
+            "template": "I'm your best friend, {0}?",
+            "blanks": [
+              { "answer": "aren't I", "options": ["aren't I", "amn't I", "am I not"] }
+            ]
+          },
+          {
+            "template": "Let's watch a movie tonight, {0}?",
+            "blanks": [
+              { "answer": "shall we", "options": ["shall we", "will we", "don't we"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Decidí si el tag es el correcto para cada oración.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "You haven't seen my keys, have you?",
+            "isCorrect": true,
+            "explanation": "Correcto. Oración negativa ('haven't seen') → tag positivo con el mismo auxiliar: 'have you?'. Perfecta inversión de polaridad.",
+            "errorType": "tag-polarity"
+          },
+          {
+            "sentence": "She can swim, doesn't she?",
+            "isCorrect": false,
+            "correction": "She can swim, can't she?",
+            "explanation": "INCORRECTO. El tag debe usar el MISMO auxiliar que la oración. Si la oración tiene 'can', el tag debe tener 'can' (no 'does'). Afirmativa → tag negativo: 'can't she?'.",
+            "errorType": "wrong-auxiliary"
+          },
+          {
+            "sentence": "Nobody called while I was out, did they?",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Nobody' es negativo en significado, así que el tag va en positivo. Con 'nobody/everybody/somebody' se usa 'they' en el tag (aunque sean gramaticalmente singulares).",
+            "errorType": "negative-subject"
+          },
+          {
+            "sentence": "You're coming to the party, isn't it?",
+            "isCorrect": false,
+            "correction": "You're coming to the party, aren't you?",
+            "explanation": "INCORRECTO. 'Isn't it?' NO existe como tag universal en inglés (sí en francés: 'n'est-ce pas?'). El tag debe coincidir con el sujeto y el auxiliar de la oración: 'You are' → 'aren't you?'.",
+            "errorType": "wrong-pronoun"
+          }
+        ]
+      }
+    },
+    {
+      "type": "word-in-context",
+      "title": "Tag correcto en contexto",
+      "instruction": "Elegí la oración donde el question tag está bien formado y suena natural.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "won't you?",
+            "translation": "¿no? (futuro)",
+            "options": [
+              "You'll help me tomorrow, don't you?",
+              "You'll help me tomorrow, won't you?",
+              "You won't help me tomorrow, won't you?",
+              "You help me tomorrow, won't you?"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "aren't I?",
+            "translation": "¿no? (con 'I am')",
+            "options": [
+              "I'm late again, am not I?",
+              "I'm late again, amn't I?",
+              "I'm late again, aren't I?",
+              "I'm late again, isn't I?"
+            ],
+            "correctIndex": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Question tags: afirmativa → tag NEGATIVO; negativa → tag POSITIVO. El tag repite el auxiliar de la oración (have, will, can, does, etc.) con polaridad invertida. Excepciones: 'I am' → 'aren't I?', 'Let's' → 'shall we?', imperativos → 'will you?'. Con nobody/everybody, el tag usa 'they'.",
+      "itemIndices": [0, 1, 2, 3]
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "id": "grammar-a2-20",
+  "title": "Quantifiers: much, many, a lot of...",
+  "description": "Much time vs many people. Few vs a few. Cuándo usar cada cuantificador según si el sustantivo es contable o incontable.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Quantifiers (much/many/a lot of/few/little/several)",
+      "back": "cuantificadores: mucho/muchos/bastante/poco/varios",
+      "reading": "",
+      "explanation": "CONTABLES (cosas que se cuentan): many/few/several/a few. INCONTABLES (cosas que no se cuentan): much/little/a little. AMBOS: a lot of, plenty of, some, any. Error típico: 'many money', 'much people' — incorrecto.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Quantifiers (much/many/a lot of/few/little/several)"
+      }
+    },
+    {
+      "front": "There are many people here.",
+      "back": "Hay mucha gente acá.",
+      "reading": "",
+      "explanation": "'Many' = mucho/muchos con sustantivos CONTABLES en plural: many people, many cars, many books. En oraciones afirmativas es más formal — en el habla cotidiana se prefiere 'a lot of': 'There are a lot of people here'."
+    },
+    {
+      "front": "I have little time.",
+      "back": "Tengo poco tiempo.",
+      "reading": "",
+      "explanation": "'Little' = poco con incontables: little time, little money, little information. ATENCIÓN: 'a little' = un poco (positivo/suficiente). 'Little' (sin 'a') = muy poco (casi negativo). Igual para contables: 'a few' = algunos, 'few' = muy pocos."
+    },
+    {
+      "front": "A few students passed the exam.",
+      "back": "Algunos estudiantes aprobaron el examen.",
+      "reading": "",
+      "explanation": "'A few' = algunos (positivo, suficiente). 'Few' sin artículo = pocos (casi ninguno, negativo). Ej: 'A few people came' = vino algo de gente (positivo). 'Few people came' = casi nadie vino (negativo/pesimista). La 'a' cambia el significado."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "¿Cuánto? ¿Cuántos? Los cuantificadores",
+      "instruction": "Los cuantificadores dependen del tipo de sustantivo. ¿Es contable (podés decir 'uno, dos, tres')? → many/few. ¿Es incontable (no podés contarlo)? → much/little. ¿No sabés o es informal? → a lot of (funciona para ambos). Truco: 'How many?' (contable) vs 'How much?' (incontable).",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí la traducción correcta de cada oración.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Elegí el cuantificador correcto",
+      "instruction": "Completá con much, many, a lot of, few, little o a few.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "I don't have {0} money left, but I have {1} ideas for earning more.",
+            "blanks": [
+              {
+                "answer": "much",
+                "options": [
+                  "much",
+                  "many",
+                  "a few",
+                  "several"
+                ]
+              },
+              {
+                "answer": "a few",
+                "options": [
+                  "a few",
+                  "a little",
+                  "much",
+                  "several"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "There are {0} tourists in this city in summer. {1} tourists come in winter — it's much quieter.",
+            "blanks": [
+              {
+                "answer": "a lot of",
+                "options": [
+                  "a lot of",
+                  "much",
+                  "little",
+                  "a little"
+                ]
+              },
+              {
+                "answer": "Few",
+                "options": [
+                  "Few",
+                  "Little",
+                  "A little",
+                  "Much"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "Errores con cuantificadores",
+      "instruction": "Identificá el error en el uso del cuantificador.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "I have many homeworks to do tonight.",
+            "isCorrect": false,
+            "correction": "I have a lot of homework to do tonight.",
+            "explanation": "'Homework' es INCONTABLE — no se puede decir 'homeworks'. Con incontables: much/a lot of/little. Nunca 'many homeworks'.",
+            "errorType": "countability"
+          },
+          {
+            "sentence": "There isn't much traffic today.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Traffic' es incontable → 'much traffic' es correcto. Perfecta.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "I only have a little friends in this city.",
+            "isCorrect": false,
+            "correction": "I only have a few friends in this city.",
+            "explanation": "'Friends' es CONTABLE → 'a few friends' (no 'a little'). 'A little' va con incontables (a little time, a little money).",
+            "errorType": "countability"
+          },
+          {
+            "sentence": "We have several options to choose from.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Several' = varios (más de dos, contable). 'Options' es contable → perfecto.",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "CONTABLES: many (muchos), few (pocos/casi ninguno), a few (algunos), several (varios). INCONTABLES: much (mucho), little (poco/casi nada), a little (un poco). AMBOS: a lot of / lots of, some, any, plenty of. Truco mental: 'How MANY books?' vs 'How MUCH money?' La diferencia entre 'few' y 'a few' es la actitud: few = pesimista, a few = optimista.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ]
+}

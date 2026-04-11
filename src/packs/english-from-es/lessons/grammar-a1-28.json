@@ -1,0 +1,185 @@
+{
+  "id": "grammar-a1-28",
+  "title": "Would like: Polite Requests",
+  "description": "'I'd like a coffee, please' es mucho más educado que 'I want a coffee'. 'Would like' es la forma cortés de decir 'want' — se usa en restaurantes, tiendas, llamadas y en cualquier situación donde quieras sonar amable.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Subject + would like + noun / to + verb",
+      "back": "Sujeto + quisiera + sustantivo / verbo en infinitivo",
+      "reading": "/aɪ wʊd laɪk/",
+      "explanation": "'Would like' es la forma educada de 'want'. Estructura: sujeto + would like + sustantivo ('I would like a coffee') o sujeto + would like + to + verbo ('I would like to order'). Contracción muy común: I'd, you'd, he'd, she'd, we'd, they'd. 'I'd like' se pronuncia /aɪd laɪk/. Diferencia clave con 'want': 'I want' suena directo/infantil en situaciones formales; 'I'd like' suena cortés.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Would like (Subject + would like + noun / to + verb)"
+      }
+    },
+    {
+      "front": "I'd like a coffee, please. / I'd like to book a table.",
+      "back": "Quisiera un café, por favor. / Me gustaría reservar una mesa.",
+      "reading": "/aɪd laɪk ə ˈkɑːfi pliːz/ /aɪd laɪk tuː bʊk ə ˈteɪbəl/",
+      "explanation": "Dos usos principales: (1) pedir algo concreto: 'I'd like + sustantivo' ('I'd like a beer', 'I'd like the menu'). (2) expresar una acción deseada: 'I'd like + to + verbo' ('I'd like to reserve', 'I'd like to speak with John'). Siempre agregá 'please' al final para máxima cortesía."
+    },
+    {
+      "front": "Would you like some water? / Would you like to come?",
+      "back": "¿Querés un poco de agua? / ¿Querés venir?",
+      "reading": "/wʊd juː laɪk sʌm ˈwɔːtər/ /wʊd juː laɪk tuː kʌm/",
+      "explanation": "Para ofrecer o invitar usás 'Would you like...?'. Esta es LA forma educada de ofrecer algo. '¿Querés...?' en inglés NO es 'Do you want...?' (suena muy brusco) sino 'Would you like...?'. Respuestas: 'Yes, please' (sí, por favor) / 'No, thank you' (no, gracias). NUNCA respondas con solo 'yes' o 'no' — suena grosero."
+    },
+    {
+      "front": "Would like vs Like: different meanings!",
+      "back": "Would like vs Like: ¡significan cosas distintas!",
+      "reading": "/wʊd laɪk/ vs /laɪk/",
+      "explanation": "CUIDADO — no confundir: 'I like coffee' = ME GUSTA el café (en general, siempre). 'I'd like a coffee' = QUISIERA un café (ahora, específico). Dos verbos diferentes: 'like' es preferencia general, 'would like' es un deseo concreto en el momento. Error típico: 'Would you like coffee?' (¿querés café ahora?) vs 'Do you like coffee?' (¿te gusta el café en general?). Las respuestas también difieren: a 'Do you like coffee?' respondés 'Yes, I do' o 'Yes, I like it'. A 'Would you like coffee?' respondés 'Yes, please'."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "'Would like': la forma cortés de 'want'",
+      "instruction": "Estructura: 'would like' + sustantivo o 'would like' + to + verbo. Contracción súper común: I'd, you'd, he'd, she'd. 'I'd like a coffee' es mucho más educado que 'I want a coffee'.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Ofreciendo con 'Would you like...?'",
+      "instruction": "Para ofrecer algo, usá 'Would you like...?'. Nunca 'Do you want...?' — es brusco en situaciones sociales. Respondé con 'Yes, please' o 'No, thank you', nunca solo 'yes' o 'no'.",
+      "itemIndices": [2]
+    },
+    {
+      "type": "introduce",
+      "title": "'Would like' vs 'Like': no confundir",
+      "instruction": "'Like' = me gusta (preferencia general). 'Would like' = quisiera (deseo específico ahora). Son dos cosas muy distintas. 'Do you like tea?' (¿te gusta el té?) vs 'Would you like tea?' (¿querés té ahora?).",
+      "itemIndices": [3]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál encaja mejor?",
+      "instruction": "Elegí la traducción o la situación correcta para cada estructura.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá las frases educadas",
+      "instruction": "Completá cada oración con la forma correcta de 'would like'.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "I {0} a table for two, please.",
+            "blanks": [
+              { "answer": "would like", "options": ["would like", "want", "like", "am liking"] }
+            ]
+          },
+          {
+            "template": "{0} you {1} something to drink?",
+            "blanks": [
+              { "answer": "Would", "options": ["Would", "Do", "Are", "Will"] },
+              { "answer": "like", "options": ["like", "want", "liking", "liked"] }
+            ]
+          },
+          {
+            "template": "She'd like {0} speak with the manager, please.",
+            "blanks": [
+              { "answer": "to", "options": ["to", "for", "at", "with"] }
+            ]
+          },
+          {
+            "template": "— Would you like some cake? — Yes, {0}.",
+            "blanks": [
+              { "answer": "please", "options": ["please", "thanks", "okay", "sure"] }
+            ]
+          },
+          {
+            "template": "We'd {0} to book a room for two nights, {1} possible.",
+            "blanks": [
+              { "answer": "like", "options": ["like", "want", "liking", "be"] },
+              { "answer": "if", "options": ["if", "when", "or", "and"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Suena educado?",
+      "instruction": "Decidí si la frase es correcta y apropiada para una situación formal (restaurante, tienda, hotel).",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "I would like coffee, please.",
+            "isCorrect": true,
+            "explanation": "Perfecto para un restaurante o café. 'I would like' + sustantivo + 'please' es la fórmula estándar para pedir algo con educación.",
+            "errorType": "polite-request"
+          },
+          {
+            "sentence": "I would like coffee.",
+            "isCorrect": true,
+            "explanation": "También correcto gramaticalmente. Es educado. Aunque en situaciones reales siempre conviene agregar 'please' al final para sonar aún más amable.",
+            "errorType": "polite-request"
+          },
+          {
+            "sentence": "I want a beer, give me one.",
+            "isCorrect": false,
+            "correction": "I'd like a beer, please.",
+            "explanation": "'I want' + orden directa suena muy brusco en inglés, casi grosero. En cualquier situación social o de servicio se usa 'I'd like' + 'please'. Es cuestión de registro, no solo de gramática.",
+            "errorType": "register"
+          },
+          {
+            "sentence": "Would you like to come to my party?",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Would you like to + verbo' es la forma educada de invitar a hacer algo. Mucho mejor que 'Do you want to come?' en contextos donde querés sonar amable.",
+            "errorType": "offer"
+          },
+          {
+            "sentence": "Do you want some tea?",
+            "isCorrect": false,
+            "correction": "Would you like some tea?",
+            "explanation": "'Do you want...?' suena muy directo en situaciones sociales. Para ofrecer algo con educación, la norma es 'Would you like...?'. Es la diferencia entre '¿querés?' y '¿te gustaría?'.",
+            "errorType": "register"
+          },
+          {
+            "sentence": "She'd likes to travel next summer.",
+            "isCorrect": false,
+            "correction": "She'd like to travel next summer.",
+            "explanation": "Después de 'would' (incluso contraído), el verbo va en BASE siempre, sin -s ni otras conjugaciones. 'She'd like', no 'she'd likes'. Los modales (would, can, should) nunca cambian según la persona.",
+            "errorType": "conjugation"
+          }
+        ]
+      }
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá frases corteses",
+      "instruction": "Ordená las palabras para formar pedidos y ofrecimientos educados.",
+      "itemIndices": [0],
+      "config": {
+        "sentences": [
+          {
+            "translation": "Quisiera reservar una mesa para dos, por favor.",
+            "fragments": ["I would like", "to book", "a table", "for two,", "please"],
+            "correctOrder": [0, 1, 2, 3, 4]
+          },
+          {
+            "translation": "¿Te gustaría venir al cine esta noche?",
+            "fragments": ["Would you like", "to come", "to the cinema", "tonight?"],
+            "correctOrder": [0, 1, 2, 3]
+          },
+          {
+            "translation": "A ella le gustaría visitar Japón algún día.",
+            "fragments": ["She would like", "to visit", "Japan", "someday"],
+            "correctOrder": [0, 1, 2, 3]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Resumen: 'Would like' = forma cortés de 'want'. Estructura: would like + sustantivo / would like + to + verbo. Contracción: I'd, you'd, he'd, she'd. Para ofrecer: 'Would you like...?' (NO 'Do you want...?' en contextos formales). 'Would like' ≠ 'like': 'I like coffee' (en general) vs 'I'd like a coffee' (ahora). Siempre respondé con 'Yes, please' o 'No, thank you'.",
+      "itemIndices": [0, 1, 2, 3]
+    }
+  ]
+}

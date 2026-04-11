@@ -1,0 +1,189 @@
+{
+  "id": "vocab-a1-19",
+  "title": "People, Places & Everyday Expressions",
+  "description": "Cierra el vocabulario básico de A1: familia, gente del colegio, lugares de la ciudad y expresiones esenciales como 'excuse me' y 'name'.",
+  "level": "a1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "family",
+      "back": "familia",
+      "reading": "/ˈfæməli/",
+      "explanation": "Familia. Aunque se refiere a un grupo, en inglés americano se suele tratar como singular: 'My family IS big' (NO 'are'). En británico a veces se usa en plural. Plural: 'families'.",
+      "cardRef": { "category": "vocabulary", "front": "family" }
+    },
+    {
+      "front": "teacher",
+      "back": "profesor / profesora / maestro / maestra",
+      "reading": "/ˈtiːtʃər/",
+      "explanation": "Profesor/a (sin distinción de género). Viene de 'teach' (enseñar) + '-er' (persona que hace la acción). Plural: teachers. 'Professor' es distinto: solo para universidad.",
+      "cardRef": { "category": "vocabulary", "front": "teacher" }
+    },
+    {
+      "front": "student",
+      "back": "estudiante / alumno / alumna",
+      "reading": "/ˈstuːdənt/",
+      "explanation": "Estudiante. ¡OJO con la pronunciación! NO se dice 'es-tudent' (con 'e' al inicio como en español). Empieza directo con 'st-': /stuːdənt/. Plural: students.",
+      "cardRef": { "category": "vocabulary", "front": "student" }
+    },
+    {
+      "front": "school",
+      "back": "escuela / colegio",
+      "reading": "/skuːl/",
+      "explanation": "Escuela. ¡OJO pronunciación! NO 'es-cool' — empieza con /sk-/ directo: /skuːl/. Preposición: 'at school' (en la escuela, estudiando), 'to school' (hacia la escuela). 'Go to school' NO 'go to the school' (cuando vas como alumno).",
+      "cardRef": { "category": "vocabulary", "front": "school" }
+    },
+    {
+      "front": "park",
+      "back": "parque",
+      "reading": "/pɑːrk/",
+      "explanation": "Parque. Como verbo también significa 'estacionar/aparcar un auto': 'Where can I park my car?'. Preposición: 'in the park' (dentro del parque), 'at the park' (en el parque, más general).",
+      "cardRef": { "category": "vocabulary", "front": "park" }
+    },
+    {
+      "front": "restaurant",
+      "back": "restaurante",
+      "reading": "/ˈrɛstərɑːnt/",
+      "explanation": "Restaurante. Palabra de origen francés, la pronunciación es difícil: /ˈrɛs-tə-rɑːnt/. La 'au' NO suena como en español. Preposición: 'at a restaurant' (en un restaurante).",
+      "cardRef": { "category": "vocabulary", "front": "restaurant" }
+    },
+    {
+      "front": "bank",
+      "back": "banco",
+      "reading": "/bæŋk/",
+      "explanation": "Banco (la institución financiera). ¡OJO! 'Bank' NO es el asiento para sentarse — eso es 'bench' /bɛntʃ/. Preposición: 'at the bank' (en el banco), 'go to the bank' (ir al banco).",
+      "cardRef": { "category": "vocabulary", "front": "bank" }
+    },
+    {
+      "front": "eat",
+      "back": "comer",
+      "reading": "/iːt/",
+      "explanation": "Comer. Verbo irregular: eat → ate → eaten. 'I eat breakfast' (como el desayuno), 'I ate pizza' (comí pizza), 'I have eaten' (he comido). Rima con 'meat' y 'seat'.",
+      "cardRef": { "category": "vocabulary", "front": "eat" }
+    },
+    {
+      "front": "name",
+      "back": "nombre",
+      "reading": "/neɪm/",
+      "explanation": "Nombre. Pregunta clave: 'What's your name?' (¿Cómo te llamás?). Respuesta: 'My name is...' o 'I'm...'. También verbo: 'They named the baby Luna' (Le pusieron Luna al bebé).",
+      "cardRef": { "category": "vocabulary", "front": "name" }
+    },
+    {
+      "front": "excuse me",
+      "back": "disculpe / permiso",
+      "reading": "/ɪkˈskjuːz miː/",
+      "explanation": "Se usa para llamar la atención educadamente ('Excuse me, where is the bathroom?'), para pedir permiso al pasar, o para hacer repetir algo. NO es lo mismo que 'sorry' (que es para disculparse por un error).",
+      "cardRef": { "category": "vocabulary", "front": "excuse me" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Gente, lugares y expresiones",
+      "instruction": "Cerramos el vocabulario de A1 con palabras esenciales de la vida diaria: miembros del colegio, lugares de la ciudad y expresiones clave. Prestá atención a la pronunciación de 'school' y 'student' — NO empiezan con sonido /e/ como en español.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto de cada palabra.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "listen-identify",
+      "title": "Escuchá y elegí",
+      "instruction": "Escuchá la palabra y elegí cuál es. Prestá mucha atención a 'school' /skuːl/ y 'student' /ˈstuːdənt/ — NO tienen 'e' al principio.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "En contexto",
+      "instruction": "Completá cada oración con la palabra correcta de esta lección.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "My {0} is Anna and I'm from Spain.",
+            "blanks": [
+              { "answer": "name", "options": ["name", "family", "school"] }
+            ]
+          },
+          {
+            "template": "I go to {0} every morning to learn English.",
+            "blanks": [
+              { "answer": "school", "options": ["school", "park", "bank"] }
+            ]
+          },
+          {
+            "template": "The children want to {0} pizza for dinner.",
+            "blanks": [
+              { "answer": "eat", "options": ["eat", "name", "park"] }
+            ]
+          },
+          {
+            "template": "{0}, where is the train station?",
+            "blanks": [
+              { "answer": "Excuse me", "options": ["Excuse me", "Thank you", "Good night"] }
+            ]
+          },
+          {
+            "template": "My {0} is a good {1} — he works at a school.",
+            "blanks": [
+              { "answer": "father", "options": ["father", "student", "bank"] },
+              { "answer": "teacher", "options": ["teacher", "student", "family"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Ves el significado en español. Escribí la palabra en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Identificá errores comunes del hispanohablante.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "My family are very big.",
+            "isCorrect": false,
+            "correction": "My family is very big.",
+            "explanation": "En inglés americano, 'family' se trata como singular: 'My family IS big'. Los hispanohablantes lo confunden porque en español 'familia' parece plural en significado.",
+            "errorType": "agreement"
+          },
+          {
+            "sentence": "Sorry, where is the bathroom?",
+            "isCorrect": false,
+            "correction": "Excuse me, where is the bathroom?",
+            "explanation": "Para llamar la atención y preguntar algo se usa 'excuse me', NO 'sorry'. 'Sorry' es para disculparse por un error. 'Excuse me' = permiso/disculpe.",
+            "errorType": "register"
+          },
+          {
+            "sentence": "I am a student at the university.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'I am a student' + 'at the university' con 'the' porque hablás de una universidad específica.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "I go to the school every day.",
+            "isCorrect": false,
+            "correction": "I go to school every day.",
+            "explanation": "Cuando hablás de ir a estudiar, es 'go to school' SIN 'the'. Con 'the' significaría ir al edificio por otra razón (por ejemplo a buscar algo).",
+            "errorType": "article"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste 10 palabras clave que completan tu vocabulario A1: family, teacher, student, school, park, restaurant, bank, eat, name, excuse me. Claves: 'school' y 'student' empiezan con /sk/ y /st/ SIN 'e'; 'family' es singular en inglés; 'excuse me' (llamar atención) ≠ 'sorry' (disculparse).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

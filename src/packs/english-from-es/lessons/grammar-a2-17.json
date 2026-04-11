@@ -1,0 +1,146 @@
+{
+  "id": "grammar-a2-17",
+  "title": "Reported Speech: He said that...",
+  "description": "She said she was tired. Cómo reportar lo que alguien dijo. Los tiempos retroceden un paso — el error clásico es olvidar el backshift.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Reported Speech (Introduction) (He said (that) + subject + past verb)",
+      "back": "Él dijo que + verbo pasado",
+      "reading": "",
+      "explanation": "Para reportar lo que alguien dijo, los tiempos verbales retroceden: present simple → past simple, past simple → past perfect, will → would, can → could. 'That' es opcional después de 'said'.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Reported Speech (Introduction) (He said (that) + subject + past verb)"
+      }
+    },
+    {
+      "front": "\"I am tired.\" → She said she was tired.",
+      "back": "\"Estoy cansada.\" → Ella dijo que estaba cansada.",
+      "reading": "",
+      "explanation": "Backshift: present simple 'am' → past simple 'was'. El sujeto también cambia: 'I' → 'she'. 'That' es opcional: 'She said (that) she was tired.' Las comillas desaparecen en discurso indirecto."
+    },
+    {
+      "front": "\"I will come.\" → He told me he would come.",
+      "back": "\"Voy a venir.\" → Me dijo que vendría.",
+      "reading": "",
+      "explanation": "Backshift: 'will' → 'would'. 'Told' lleva complemento indirecto (told ME, told her). 'Said' NO lleva complemento directo sin 'to': 'He said to me he would come' o 'He told me he would come'."
+    },
+    {
+      "front": "\"I can drive.\" → She said she could drive.",
+      "back": "\"Sé manejar.\" → Ella dijo que sabía manejar.",
+      "reading": "",
+      "explanation": "Backshift: modal 'can' → 'could'. Otros modales: will→would, shall→should, may→might. 'Must' → 'must' o 'had to' dependiendo del contexto."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Reportar lo que alguien dijo",
+      "instruction": "Cuando repetís lo que alguien dijo, los tiempos verbales retroceden un paso. Directo: 'I AM tired' → Indirecto: She said she WAS tired. Es como si el pasado 'empujara' el tiempo un escalón atrás. Importante: 'say' no necesita complemento, 'tell' sí necesita persona: 'tell me', 'tell her'.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es la forma indirecta?",
+      "instruction": "Elegí la versión correcta de discurso indirecto.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Transformá a discurso indirecto",
+      "instruction": "Completá la oración en discurso indirecto.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "Direct: \"I work in a bank.\" → Reported: She said she {0} in a bank.",
+            "blanks": [
+              {
+                "answer": "worked",
+                "options": [
+                  "worked",
+                  "works",
+                  "had worked",
+                  "would work"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "Direct: \"I will call you.\" → Reported: He told me he {0} call me.",
+            "blanks": [
+              {
+                "answer": "would",
+                "options": [
+                  "would",
+                  "will",
+                  "could",
+                  "should"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "Errores en discurso indirecto",
+      "instruction": "Identificá si la oración en discurso indirecto está correcta.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "She said she is happy.",
+            "isCorrect": false,
+            "correction": "She said she was happy.",
+            "explanation": "Backshift obligatorio: present simple 'is' → past simple 'was'. En discurso indirecto los tiempos retroceden.",
+            "errorType": "tense"
+          },
+          {
+            "sentence": "He told me he was tired.",
+            "isCorrect": true,
+            "explanation": "Correcta. Backshift: 'is' → 'was'. Y 'told' con complemento indirecto 'me'. Todo correcto.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "She said to me she could help.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Said to me' con 'to' o 'told me' (sin to). Backshift: can → could. Perfecta.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "They said they will come tomorrow.",
+            "isCorrect": false,
+            "correction": "They said they would come the next day.",
+            "explanation": "Backshift: 'will' → 'would'. Además, 'tomorrow' cambia a 'the next day' (las referencias de tiempo también cambian en discurso indirecto).",
+            "errorType": "tense"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Discurso indirecto: los tiempos retroceden. am/is/are → was/were. was/were → had been. will → would. can → could. 'Said' (sin complemento) vs 'told' (con complemento: told me, told her). 'That' es opcional. Las referencias de tiempo también cambian: today→that day, tomorrow→the next day, yesterday→the day before.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ]
+}

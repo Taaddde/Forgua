@@ -1,0 +1,150 @@
+{
+  "id": "grammar-a2-12",
+  "title": "Relative Clauses: who, which, that",
+  "description": "The man who lives next door. Cómo agregar información con who (personas), which (cosas), that (ambos).",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Relative Clauses",
+      "back": "noun + who/which/that + verb",
+      "reading": "",
+      "explanation": "Las cláusulas relativas agregan información sobre un sustantivo. 'Who' para personas, 'which' para cosas, 'that' para ambos. En español corresponden a 'que', 'quien', 'el cual', etc.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Relative Clauses (noun + who/which/that + verb)"
+      }
+    },
+    {
+      "front": "The man who lives next door is a teacher.",
+      "back": "El hombre que vive al lado es profesor.",
+      "reading": "",
+      "explanation": "'Who' = que (para personas). La cláusula 'who lives next door' modifica 'the man'. Sin la cláusula: 'The man is a teacher' — añadir 'who lives next door' da información extra sobre cuál hombre."
+    },
+    {
+      "front": "The book which I bought is interesting.",
+      "back": "El libro que compré es interesante.",
+      "reading": "",
+      "explanation": "'Which' = que (para cosas). La cláusula 'which I bought' modifica 'the book'. En inglés informal, 'which' puede reemplazarse por 'that': 'The book THAT I bought'. En inglés formal, 'which' se prefiere para cosas."
+    },
+    {
+      "front": "That's the restaurant that/which we like.",
+      "back": "Ese es el restaurante que nos gusta.",
+      "reading": "",
+      "explanation": "'That' funciona para personas y cosas. Es más común en inglés informal. A veces el pronombre relativo puede omitirse cuando es objeto: 'That's the restaurant we like' (sin that)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Conectar información con pronombres relativos",
+      "instruction": "¿Cómo decís 'el hombre que trabaja aquí' o 'la película que vimos'? Con cláusulas relativas. En español se usa 'que' para casi todo. En inglés: 'WHO' para personas, 'WHICH' para cosas, 'THAT' para ambos (más informal).",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es la cláusula relativa correcta?",
+      "instruction": "Elegí el pronombre relativo correcto para cada oración.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con who, which o that",
+      "instruction": "Elegí el pronombre relativo correcto.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "She is the teacher {0} helped me learn English. The method {1} she used was very effective.",
+            "blanks": [
+              {
+                "answer": "who",
+                "options": [
+                  "who",
+                  "which",
+                  "what",
+                  "where"
+                ]
+              },
+              {
+                "answer": "that",
+                "options": [
+                  "that",
+                  "who",
+                  "what",
+                  "when"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "I found a wallet {0} had a lot of money inside. The person {1} lost it was very happy.",
+            "blanks": [
+              {
+                "answer": "that",
+                "options": [
+                  "that",
+                  "who",
+                  "what",
+                  "whom"
+                ]
+              },
+              {
+                "answer": "who",
+                "options": [
+                  "who",
+                  "which",
+                  "that",
+                  "what"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Cuál oración es correcta?",
+      "instruction": "Elegí la oración con la cláusula relativa bien usada.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "who",
+            "translation": "que (para personas)",
+            "options": [
+              "The dog who barked all night was annoying.",
+              "The student who passed the exam was very happy.",
+              "The car who my father bought is red.",
+              "The book who I read was great."
+            ],
+            "correctIndex": 1,
+            "explanation": "'Who' solo se usa para PERSONAS. 'The student who passed...' es correcto. Para animales y cosas se usa 'that' o 'which'. 'The dog THAT barked...', 'The car THAT my father bought...'."
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Pronombres relativos: WHO (personas), WHICH (cosas, más formal), THAT (personas y cosas, más informal). 'That' puede omitirse cuando es objeto: 'the book I bought' = 'the book that I bought'. En inglés NUNCA se dice 'the person what lives there' — 'what' no es relativo en inglés.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ]
+}

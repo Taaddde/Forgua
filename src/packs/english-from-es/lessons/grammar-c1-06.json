@@ -1,0 +1,191 @@
+{
+  "id": "grammar-c1-06",
+  "title": "Ellipsis and Substitution",
+  "description": "La elipsis y sustitución en inglés: So do I / Neither can she / I think so / I hope not / auxiliary stranding. Las omisiones que hacen sonar el inglés natural.",
+  "level": "c1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Ellipsis and Substitution (So do I / Neither can she / I think so / I hope not / auxiliary stranding)",
+      "back": "Omisión de elementos que se sobrentienden: acuerdo (So do I), negación (Neither have I), sustitución (I think so / I hope not), auxiliar huérfano (I haven't, but I'd like to)",
+      "reading": "",
+      "explanation": "El inglés omite con mucha frecuencia lo que ya se entiende del contexto. Cuatro patrones principales: (1) ACUERDO POSITIVO: So + auxiliar + sujeto ('So do I'). (2) ACUERDO NEGATIVO: Neither/Nor + auxiliar + sujeto ('Neither have I'). (3) SUSTITUCIÓN CON SO/NOT: 'I think so / I don't think so' (creo que sí/no). 'I hope so / I hope not'. (4) AUXILIAR HUÉRFANO: 'I haven't been to Paris, but I'd love to.' El auxiliar queda solo, el verbo se omite.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Ellipsis and Substitution (So do I / Neither can she / I think so / I hope not / auxiliary stranding)"
+      }
+    },
+    {
+      "front": "So/Neither + auxiliary + subject (agreement)",
+      "back": "A: I love jazz. B: So do I. (A mí también.) / A: I haven't seen it. B: Neither have I. (Yo tampoco.)",
+      "reading": "",
+      "explanation": "ACUERDO POSITIVO: So + auxiliar + sujeto. El auxiliar debe concordar con la oración original. 'I work here' → 'So do I' (do porque present simple). 'She's been there' → 'So have I' (have porque present perfect). ACUERDO NEGATIVO: Neither/Nor + auxiliar + sujeto. 'I haven't seen it' → 'Neither have I'. El auxiliar va ANTES del sujeto (inversión). Contraste con español: 'yo también'/'yo tampoco' no tienen esta inversión."
+    },
+    {
+      "front": "I think so / I don't think so / I hope not / I'm afraid so",
+      "back": "Sustitución con so/not: I think so (creo que sí), I don't think so (creo que no), I hope not (espero que no), I'm afraid so (me temo que sí)",
+      "reading": "",
+      "explanation": "CON THINK/BELIEVE/SUPPOSE: la negación va en el verbo principal: 'I don't think so' (NO 'I think not'). CON HOPE/FEAR/AFRAID: la negación va en el sustituto: 'I hope not' / 'I'm afraid not'. 'I'm afraid so' (me temo que sí — resignación). Patrones fijos: 'I hope so' (espero que sí), 'I hope not', 'I think so', 'I don't think so', 'I suppose so' (supongo que sí), 'I'm afraid so/not'."
+    },
+    {
+      "front": "Auxiliary stranding (leaving the auxiliary alone)",
+      "back": "I haven't been to Tokyo, but I'd love to. / She can speak Japanese — or at least she used to.",
+      "reading": "",
+      "explanation": "El auxiliar queda solo cuando el verbo principal se omite por ser obvio. 'I'd love to [go to Tokyo]' — se omite 'go to Tokyo'. 'She used to [speak Japanese]' — se omite el infinitivo. En preguntas-eco: 'Have you? / Did she? / Can he?' — el verbo se omite. 'She passed the exam.' 'Did she?' Esta técnica hace que el inglés suene muy natural. En español se hace menos frecuentemente."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Elipsis y sustitución — inglés como un nativo",
+      "instruction": "La elipsis es una de las marcas más claras del inglés fluido. Sin ella, sonás literal y torpe. 'I also have not been there' suena a traducción directa. 'Neither have I' es lo que dice un nativo. Estos cuatro patrones son los más frecuentes en conversación.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es la función?",
+      "instruction": "Identificá qué tipo de elipsis o sustitución se usa.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Sustitución y elipsis correctas?",
+      "instruction": "Encontrá errores en el uso de las estructuras de sustitución.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "A: I've never tried Ethiopian food. B: Neither have I, but I'd love to.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Neither have I' (auxiliar 'have' del present perfect). 'I'd love to [try it]' (auxiliar stranding — se omite 'try Ethiopian food'). Ambas elipsis son perfectas.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "A: Will it rain tomorrow? B: I think not.",
+            "isCorrect": false,
+            "correction": "A: Will it rain tomorrow? B: I don't think so.",
+            "explanation": "Con 'think/believe/suppose', la negación va en el VERBO PRINCIPAL, no en el sustituto. 'I think not' suena anticuado o demasiado formal/literario. Lo natural es 'I don't think so'. Contraste: 'I hope not' es correcto (con 'hope', la negación sí va en el sustituto).",
+            "errorType": "so-not-pattern"
+          },
+          {
+            "sentence": "She's already been to Japan. So have I. It's a wonderful country.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'She's been' (present perfect con have) → 'So have I' (auxiliar 'have' + sujeto 'I', invertidos). El orden de inversión es obligatorio en estas estructuras de acuerdo.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "A: I can't understand this grammar point. B: Neither I can.",
+            "isCorrect": false,
+            "correction": "A: I can't understand this grammar point. B: Neither can I.",
+            "explanation": "En 'Neither/Nor + auxiliar + sujeto', el auxiliar SIEMPRE va ANTES del sujeto (inversión obligatoria). 'Neither I can' es incorrecto — el orden debe ser 'Neither CAN I'.",
+            "errorType": "inversion-neither"
+          },
+          {
+            "sentence": "Is she going to accept the offer? I'm afraid so — she told me this morning.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'I'm afraid so' = me temo que sí (confirmación con resignación o preocupación). 'I'm afraid' + 'so' (sustituto positivo). 'She told me this morning' confirma el 'so'. Registro conversacional natural.",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "conversation-script",
+      "title": "Conversación con elipsis natural",
+      "instruction": "Elegí la respuesta que usa la elipsis y sustitución más natural para el contexto.",
+      "itemIndices": [],
+      "config": {
+        "script": {
+          "id": "ellipsis-c1",
+          "scenario": "Conversación informal entre colegas sobre planes de viaje",
+          "level": "c1",
+          "turns": [
+            {
+              "speaker": "npc",
+              "text": "Have you ever been to Portugal? I hear Lisbon is absolutely stunning.",
+              "translation": "¿Alguna vez fuiste a Portugal? Escuché que Lisboa es absolutamente impresionante."
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "translation": "Respondé que nunca fuiste, pero que te gustaría",
+              "options": [
+                {
+                  "text": "No, I haven't, but I'd love to. It's been on my list for ages.",
+                  "isCorrect": true,
+                  "feedback": "Perfecto. 'I haven't' (auxiliar huérfano, omitís 'been to Portugal') + 'I'd love to' (auxiliar stranding, omitís 'go there'). Esto es exactamente cómo suena un nativo.",
+                  "translation": "No, no he ido, pero me encantaría. Ha estado en mi lista por mucho tiempo."
+                },
+                {
+                  "text": "No, I have never been to Portugal, but I would love to go to Portugal.",
+                  "isCorrect": false,
+                  "feedback": "Gramaticalmente correcto pero suena torpe — repetís 'to Portugal' dos veces cuando la segunda vez es obvia. Un nativo usaría elipsis: 'I'd love to [go]'.",
+                  "translation": "No, nunca he ido a Portugal, pero me encantaría ir a Portugal."
+                },
+                {
+                  "text": "No, I don't go there.",
+                  "isCorrect": false,
+                  "feedback": "Error de tiempo verbal: 'don't go' (presente habitual) vs 'haven't been' (experiencia de vida — present perfect). La pregunta usa present perfect ('have you ever been'), la respuesta debe concordar.",
+                  "translation": "No, no voy ahí."
+                }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "Neither have I, actually. I keep planning to go but something always comes up. Is it expensive?",
+              "translation": "Yo tampoco, en realidad. Siempre planifico ir pero siempre surge algo. ¿Es caro?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "translation": "Expresá que creés que no es tan caro como otros destinos europeos",
+              "options": [
+                {
+                  "text": "I don't think so — it's supposed to be one of the more affordable options in Western Europe.",
+                  "isCorrect": true,
+                  "feedback": "'I don't think so' (sustitución correcta con 'think': negación en el verbo). 'It's supposed to be' + comparativo para expresar información recibida. Natural y preciso.",
+                  "translation": "Creo que no — se supone que es una de las opciones más asequibles en Europa Occidental."
+                },
+                {
+                  "text": "I think not — many people say it is cheap.",
+                  "isCorrect": false,
+                  "feedback": "'I think not' es arcaico. Con 'think', la negación va en el verbo: 'I don't think so'. 'I think not' suena como inglés del siglo XIX.",
+                  "translation": "Creo que no — mucha gente dice que es barato."
+                },
+                {
+                  "text": "I hope so, because I want to visit.",
+                  "isCorrect": false,
+                  "feedback": "'I hope so' significa que esperás que SÍ sea caro — lo contrario de lo que querés decir. Confusión entre 'I hope so' (espero que sí) y 'I hope not' (espero que no).",
+                  "translation": "Espero que sí, porque quiero visitar."
+                }
+              ],
+              "correctOptionIndex": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completada!",
+      "instruction": "ACUERDO POSITIVO: So + auxiliar + sujeto ('So do I'). ACUERDO NEGATIVO: Neither/Nor + auxiliar + sujeto ('Neither have I'). THINK/BELIEVE: 'I don't think so' (negación en el verbo). HOPE/AFRAID: 'I hope not', 'I'm afraid so' (negación en el sustituto). AUXILIAR HUÉRFANO: 'I'd love to', 'Neither can I'. Todos en tu SRS.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ]
+}

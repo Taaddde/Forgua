@@ -1,0 +1,103 @@
+{
+  "id": "reading-a2-02",
+  "title": "Reading: My Favorite Hobby",
+  "description": "Texto sobre cocina como hobby. Present Perfect, gerundio, vocabulario de actividades.",
+  "level": "a2",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "enjoy",
+      "back": "disfrutar",
+      "reading": "/ɪnˈdʒɔɪ/",
+      "explanation": "'Enjoy' siempre va seguido de gerundio (-ing): 'I enjoy cooking' (NOT 'I enjoy to cook').",
+      "cardRef": { "category": "vocabulary", "front": "enjoy" }
+    },
+    {
+      "front": "remember",
+      "back": "recordar, acordarse",
+      "reading": "/rɪˈmɛmbər/",
+      "explanation": "'I remember' puede ir con gerundio (acción pasada) o infinitivo (acción futura): 'I remember eating' vs 'Remember to eat'.",
+      "cardRef": { "category": "vocabulary", "front": "remember" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Verbos de opinión y gusto",
+      "instruction": "Estos verbos aparecen en el texto y tienen patrones importantes.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Lectura: My Favorite Hobby",
+      "instruction": "Leé sobre alguien que ama cocinar. Fijate en el Present Perfect con 'always' y 'have + past participle'.",
+      "itemIndices": [],
+      "config": {
+        "passage": {
+          "id": "a2-reading-hobby",
+          "title": "My Favorite Hobby",
+          "level": "a2",
+          "text": "I have always loved cooking. I started learning when I was twelve years old. My grandmother taught me how to make traditional dishes from our country. Now I cook every day after work. It helps me relax after a long day. I usually follow recipes from the internet, but sometimes I create my own dishes. Last month, I took a cooking class to learn Italian cuisine. I learned how to make fresh pasta and risotto. My friends say that my food is better than some restaurants. I am thinking about starting a food blog to share my recipes. Maybe one day I will open my own restaurant.",
+          "translation": "Siempre me encantó cocinar. Empecé a aprender cuando tenía doce años. Mi abuela me enseñó a hacer platos tradicionales de nuestro país. Ahora cocino todos los días después del trabajo. Me ayuda a relajarme después de un día largo. Generalmente sigo recetas de internet, pero a veces creo mis propios platos. El mes pasado, tomé una clase de cocina para aprender cocina italiana. Aprendí a hacer pasta fresca y risotto. Mis amigos dicen que mi comida es mejor que la de algunos restaurantes. Estoy pensando en empezar un blog de comida para compartir mis recetas. Quizás algún día abra mi propio restaurante.",
+          "vocabulary": ["cooking - cocinar", "grandmother - abuela", "traditional - tradicional", "dishes - platos", "recipes - recetas", "create - crear", "cooking class - clase de cocina", "cuisine - cocina/gastronomía", "blog - blog", "share - compartir"],
+          "questions": [
+            {
+              "question": "When did the narrator start learning to cook?",
+              "options": ["At age ten.", "At age twelve.", "At age fifteen.", "Last year."],
+              "correctIndex": 1,
+              "explanation": "El texto dice 'I started learning when I was twelve years old.'"
+            },
+            {
+              "question": "What did the narrator learn in the cooking class?",
+              "options": ["French cuisine.", "Japanese cuisine.", "Italian cuisine.", "Mexican cuisine."],
+              "correctIndex": 2,
+              "explanation": "El texto dice 'I took a cooking class to learn Italian cuisine.'"
+            },
+            {
+              "question": "What is the narrator thinking about doing?",
+              "options": ["Opening a restaurant now.", "Starting a food blog.", "Moving to Italy.", "Teaching cooking classes."],
+              "correctIndex": 1,
+              "explanation": "El texto dice 'I am thinking about starting a food blog.'"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "Gerundio vs. infinitivo",
+      "instruction": "Fijate si el verbo que sigue a 'enjoy' y similares está en la forma correcta.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "I enjoy to cook Italian food.",
+            "isCorrect": false,
+            "correction": "I enjoy cooking Italian food.",
+            "explanation": "'Enjoy' siempre va con gerundio (-ing), nunca con infinitivo (to + verbo). Lo mismo: avoid, finish, mind, suggest.",
+            "errorType": "verb-pattern"
+          },
+          {
+            "sentence": "She started learning English when she was ten.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Start' puede ir con gerundio o infinitivo: 'started learning' o 'started to learn' — ambas son correctas.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "I want cooking Italian food tonight.",
+            "isCorrect": false,
+            "correction": "I want to cook Italian food tonight.",
+            "explanation": "'Want' siempre va con infinitivo (to + verbo), nunca con gerundio. Lo mismo: need, decide, plan, hope, learn.",
+            "errorType": "verb-pattern"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lectura completa!",
+      "instruction": "Texto sobre un hobby. Present Perfect: 'I have always loved' (experiencia de toda la vida). Gerundio obligatorio: enjoy/avoid/mind + -ing. Infinitivo obligatorio: want/need/decide/plan + to. 'Start/begin/like/love/hate' pueden ir con ambos.",
+      "itemIndices": [0, 1]
+    }
+  ]
+}

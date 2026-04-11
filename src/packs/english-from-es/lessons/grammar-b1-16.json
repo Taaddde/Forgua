@@ -1,0 +1,181 @@
+{
+  "id": "grammar-b1-16",
+  "title": "Connectors of Purpose: to, in order to, so that, so as to",
+  "description": "Cómo decir 'para + infinitivo' y 'para que + subjuntivo' en inglés. 'I came to help', 'I came so that you could rest'. Diferentes niveles de formalidad.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Connectors of Purpose (to / in order to / so that / so as to + verb)",
+      "back": "Conectores de propósito. 'To', 'in order to', 'so as to' + infinitivo. 'So that' + cláusula con modal.",
+      "reading": "/kəˈnɛktərz əv ˈpɜːrpəs/",
+      "explanation": "Cuatro opciones con diferente formalidad: 'to' (neutro, el más común) → 'in order to' (formal) → 'so as to' (muy formal) — los tres con infinitivo. 'So that' + sujeto + can/could/will/would + verbo — se usa cuando querés diferente sujeto en la segunda cláusula. En español todos son 'para' o 'para que'.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Connectors of Purpose (to / in order to / so that / so as to + verb)"
+      }
+    },
+    {
+      "front": "I woke up early to catch the first train.",
+      "back": "'To + infinitivo' — la forma más común y natural de expresar propósito.",
+      "reading": "/aɪ woʊk ʌp ˈɜːrli tə kætʃ ðə fɜːrst treɪn/",
+      "explanation": "'To + infinitivo' es la forma más natural y frecuente. Mismo sujeto para las dos acciones (yo me desperté / yo agarro el tren). Error típico hispanohablante: 'I woke up early FOR to catch' — INCORRECTO. En inglés NUNCA se dice 'for to'."
+    },
+    {
+      "front": "She studied hard so that she could get a scholarship.",
+      "back": "'So that' + sujeto + modal. Útil cuando el sujeto de la segunda cláusula es diferente.",
+      "reading": "/ʃiː ˈstʌdid hɑːrd soʊ ðæt ʃiː kəd ɡɛt ə ˈskɒlərʃɪp/",
+      "explanation": "'So that' introduce una cláusula con un modal (can/could, will/would). Es la ÚNICA opción si querés expresar propósito con DIFERENTE sujeto: 'I left early so THAT SHE could sleep' (yo me fui para que ELLA durmiera). Las otras opciones (to, in order to) siempre comparten sujeto."
+    },
+    {
+      "front": "He left quietly so as not to wake the baby.",
+      "back": "Propósito negativo: 'so as not to' o 'in order not to'. Nunca 'to not'.",
+      "reading": "/hiː lɛft ˈkwaɪətli soʊ æz nɒt tə weɪk ðə ˈbeɪbi/",
+      "explanation": "Para propósito NEGATIVO ('para no hacer'), las formas correctas son 'so as not to + verb' o 'in order not to + verb'. NO se dice 'to not wake' — el 'not' va ANTES del 'to'. Excepción rara en habla informal, pero evitala en este nivel."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Las cuatro opciones de propósito",
+      "instruction": "'To' (común), 'in order to' (formal), 'so as to' (muy formal) — todos con infinitivo. 'So that' + cláusula con modal — el único que permite cambiar de sujeto.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "'So that' y propósito negativo",
+      "instruction": "'So that' + subject + can/could/will/would + verb. Para propósito negativo: 'so as not to' o 'in order not to' — nunca 'to not'.",
+      "itemIndices": [2, 3]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con el conector de propósito",
+      "instruction": "Elegí la forma correcta para expresar propósito. Atención a si los sujetos coinciden o no.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "I'm saving money {0} a new laptop.",
+            "blanks": [
+              { "answer": "to buy", "options": ["to buy", "for buy", "for to buy"] }
+            ]
+          },
+          {
+            "template": "She whispered {0} wake anyone up.",
+            "blanks": [
+              { "answer": "so as not to", "options": ["so as not to", "to not", "for not"] }
+            ]
+          },
+          {
+            "template": "I'll leave the key under the mat {0} you {1} get in.",
+            "blanks": [
+              { "answer": "so that", "options": ["so that", "to", "in order to"] },
+              { "answer": "can", "options": ["can", "could", "will"] }
+            ]
+          },
+          {
+            "template": "He went to Italy {0} Italian and {1} the culture.",
+            "blanks": [
+              { "answer": "to learn", "options": ["to learn", "for learning", "for to learn"] },
+              { "answer": "experience", "options": ["experience", "to experience", "experiencing"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Revisá si la estructura de propósito es gramaticalmente correcta.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "I came here for to help you.",
+            "isCorrect": false,
+            "correction": "I came here to help you.",
+            "explanation": "INCORRECTO. 'For to' NO existe en inglés. Es una traducción literal del español 'para' + infinitivo. En inglés basta con 'to + infinitivo' para expresar propósito.",
+            "errorType": "spanish-interference"
+          },
+          {
+            "sentence": "She took notes in order to remember the details.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'In order to + infinitivo' es válido y suena formal/cuidado. Mismo sujeto ('she' para las dos acciones): ella tomó notas, ella recuerda.",
+            "errorType": "connector-structure"
+          },
+          {
+            "sentence": "We spoke quietly to not wake the children.",
+            "isCorrect": false,
+            "correction": "We spoke quietly so as not to wake the children. / ...in order not to wake the children.",
+            "explanation": "INCORRECTO. 'To not + verbo' es gramaticalmente incorrecto en inglés estándar. Para propósito negativo, usá 'so as not to' o 'in order not to'. El 'not' va ANTES del 'to', no después.",
+            "errorType": "negative-purpose"
+          },
+          {
+            "sentence": "I turned down the music so that my parents could sleep.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'So that' introduce cláusula con modal ('could sleep') y permite diferente sujeto: yo bajé la música / mis padres duermen. Es la única estructura que permite cambio de sujeto en la cláusula de propósito.",
+            "errorType": "so-that-structure"
+          }
+        ]
+      }
+    },
+    {
+      "type": "word-in-context",
+      "title": "Propósito en contexto",
+      "instruction": "Elegí la oración donde el conector de propósito está bien usado.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "so that",
+            "translation": "para que",
+            "options": [
+              "I speak slowly so that you understand me better.",
+              "I speak slowly so that to understand me better.",
+              "I speak slowly so that for you understand me.",
+              "I speak slowly for that you understand."
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "in order to",
+            "translation": "a fin de / para",
+            "options": [
+              "She arrived early in order that catch a good seat.",
+              "She arrived early in order to catching a good seat.",
+              "She arrived early in order to catch a good seat.",
+              "She arrived early for in order to catch a seat."
+            ],
+            "correctIndex": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá la oración de propósito",
+      "instruction": "Ordená los fragmentos para formar oraciones con 'so that' y 'to'.",
+      "itemIndices": [1, 2],
+      "config": {
+        "sentences": [
+          {
+            "translation": "Cerré la puerta para que los perros no salieran.",
+            "fragments": ["I closed the door", "so that", "the dogs", "couldn't get out."],
+            "correctOrder": [0, 1, 2, 3]
+          },
+          {
+            "translation": "Te llamé para preguntarte algo.",
+            "fragments": ["I called you", "to ask", "you something."],
+            "correctOrder": [0, 1, 2]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Propósito: 'to + infinitivo' (común), 'in order to' (formal), 'so as to' (muy formal) — todos con mismo sujeto. 'So that + subject + can/could/will/would' → permite cambiar sujeto. NUNCA 'for to + verb'. Negativo: 'so as not to' / 'in order not to', nunca 'to not'.",
+      "itemIndices": [0, 1, 2, 3]
+    }
+  ]
+}

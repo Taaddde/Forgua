@@ -1,0 +1,164 @@
+{
+  "id": "vocab-c1-02",
+  "title": "Argumentation Language",
+  "description": "Las palabras que estructuran un argumento sofisticado: nevertheless, whereas, allegedly, arguably, notwithstanding, subtle, ambiguous, coherent, empirical.",
+  "level": "c1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "nevertheless",
+      "back": "sin embargo / no obstante / aun así",
+      "reading": "/ˌnɛvərðəˈlɛs/",
+      "explanation": "Conector de contraste formal. Más fuerte que 'however' — implica que el contraste es notable a pesar de lo dicho anteriormente. Posición: inicio de oración o después de punto y coma. 'The experiment failed; nevertheless, the findings were illuminating.' No confundir con 'nonetheless' (sinónimo) ni con el informal 'still'.",
+      "extra": { "register": "formal", "pos": "adverb", "usage": "sentence-connector" },
+      "cardRef": { "category": "vocabulary", "front": "nevertheless" }
+    },
+    {
+      "front": "whereas",
+      "back": "mientras que / en cambio",
+      "reading": "/wɛrˈæz/",
+      "explanation": "Introduce un contraste directo entre dos cláusulas. 'X is the case, whereas Y is different'. Más formal que 'but' o 'while'. Muy usado en ensayos académicos y textos comparativos. Siempre introduce la segunda parte del contraste: 'Some prefer X, whereas others prefer Y.'",
+      "extra": { "register": "academic", "pos": "conjunction", "usage": "contrast" },
+      "cardRef": { "category": "vocabulary", "front": "whereas" }
+    },
+    {
+      "front": "allegedly",
+      "back": "supuestamente / presuntamente",
+      "reading": "/əˈlɛdʒɪdli/",
+      "explanation": "Crucial en periodismo y discurso legal: marca que algo se afirma pero no está probado. Protege al escritor legalmente. 'The company allegedly dumped waste' ≠ 'The company dumped waste'. En español, 'supuestamente' o 'presuntamente'. Se usa ANTES del verbo o al inicio de la oración.",
+      "extra": { "register": "journalistic/legal", "pos": "adverb", "collocations": ["allegedly committed", "allegedly responsible", "allegedly involved"] },
+      "cardRef": { "category": "vocabulary", "front": "allegedly" }
+    },
+    {
+      "front": "arguably",
+      "back": "podría decirse que / posiblemente",
+      "reading": "/ˈɑːrɡjuəbli/",
+      "explanation": "Hedging device — suaviza una afirmación al señalar que es defendible pero debatible. 'She is arguably the best player of her generation' = puedo argumentarlo, pero reconozco que otros podrían disentir. Muy usado en crítica, periodismo de calidad y escritura académica. Diferente de 'obviously' o 'clearly' que son mucho más directos.",
+      "extra": { "register": "written/journalistic", "pos": "adverb", "usage": "hedging" },
+      "cardRef": { "category": "vocabulary", "front": "arguably" }
+    },
+    {
+      "front": "notwithstanding",
+      "back": "a pesar de / no obstante",
+      "reading": "/ˌnɑːtwɪθˈstændɪŋ/",
+      "explanation": "Muy formal. Puede usarse como preposición ('notwithstanding the difficulties') o como adverbio al final ('the challenges notwithstanding, they succeeded'). La segunda posición es más arcaica y literaria. En lenguaje legal es frecuente: 'Notwithstanding anything herein...'",
+      "extra": { "register": "formal/legal", "pos": "preposition/adverb" },
+      "cardRef": { "category": "vocabulary", "front": "notwithstanding" }
+    },
+    {
+      "front": "subtle",
+      "back": "sutil / tenue / imperceptible",
+      "reading": "/ˈsʌtəl/",
+      "explanation": "CUIDADO: la 'b' es MUDA. Se pronuncia /ˈsʌtəl/, nunca /ˈsʌbtəl/. Describe diferencias o matices que no son obvios a primera vista. 'A subtle distinction/difference/hint/flavor'. El adverbio 'subtly' y el sustantivo 'subtlety' siguen la misma pronunciación.",
+      "extra": { "register": "neutral/literary", "pos": "adjective", "pronunciation-trap": "silent b", "collocations": ["subtle difference", "subtle hint", "subtle irony"] },
+      "cardRef": { "category": "vocabulary", "front": "subtle" }
+    },
+    {
+      "front": "ambiguous",
+      "back": "ambiguo / equívoco",
+      "reading": "/æmˈbɪɡjuəs/",
+      "explanation": "Algo que admite dos o más interpretaciones. Distinto de 'vague' (vago, impreciso por falta de información) — lo ambiguo es específico pero interpretable de múltiples formas. 'Ambiguous language' puede ser deliberado (contratos, poesía) o un problema (instrucciones poco claras).",
+      "extra": { "register": "neutral/academic", "pos": "adjective", "vs": "vague (impreciso) vs ambiguous (múltiples lecturas)", "collocations": ["deliberately ambiguous", "morally ambiguous", "ambiguous language/wording"] },
+      "cardRef": { "category": "vocabulary", "front": "ambiguous" }
+    },
+    {
+      "front": "empirical",
+      "back": "empírico / basado en evidencia real",
+      "reading": "/ɛmˈpɪrɪkəl/",
+      "explanation": "Basado en observación y evidencia real, no en teoría o especulación. 'Empirical evidence/data/research/findings'. En oposición a 'theoretical' o 'speculative'. Esencial en escritura científica y académica. El sustantivo 'empiricism' (empirismo) es la corriente filosófica que prioriza la experiencia sobre la razón pura.",
+      "extra": { "register": "academic/scientific", "pos": "adjective", "collocations": ["empirical evidence", "empirical data", "empirical research", "empirical findings"] },
+      "cardRef": { "category": "vocabulary", "front": "empirical" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El lenguaje de la argumentación",
+      "instruction": "Estos conectores y adjetivos son lo que separa un argumento C1 de uno B2. Un B2 dice 'but' — un C1 dice 'nevertheless'. Un B2 dice 'based on facts' — un C1 dice 'empirically supported'. Notá la pronunciación de 'subtle' (/ˈsʌtəl/) — la 'b' es silenciosa.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "Reconocé los matices",
+      "instruction": "Algunos de estos parecen sinónimos pero no lo son. Elegí con cuidado.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con el conector correcto",
+      "instruction": "Completá estos textos como si fueran de The Economist o un ensayo universitario.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "The findings were {0}; {1}, they open new questions about causality.",
+            "blanks": [
+              { "answer": "inconclusive", "options": ["inconclusive", "perfect", "interesting", "false"] },
+              { "answer": "nevertheless", "options": ["nevertheless", "therefore", "because", "although"] }
+            ]
+          },
+          {
+            "template": "Western economies tend to prioritize individual choice, {0} East Asian economies often emphasize collective well-being.",
+            "blanks": [
+              { "answer": "whereas", "options": ["whereas", "because", "nevertheless", "despite"] }
+            ]
+          },
+          {
+            "template": "The theory lacks sufficient {0} support — it has not been tested with real-world data.",
+            "blanks": [
+              { "answer": "empirical", "options": ["empirical", "alleged", "subtle", "ambiguous"] }
+            ]
+          },
+          {
+            "template": "The suspect {0} fled the country hours before the arrest warrant was issued.",
+            "blanks": [
+              { "answer": "allegedly", "options": ["allegedly", "arguably", "nevertheless", "empirically"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Registro correcto?",
+      "instruction": "Encontrá el error de colocación o registro. En C1, el inglés debe sonar natural para un hablante nativo educado.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "Notwithstanding the rain, we decided to continue with the outdoor ceremony.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Notwithstanding + noun phrase' para introducir una concesión formal. Equivale a 'Despite the rain...' pero con registro más elevado. Natural en discurso formal y legal.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "She is arguably the most influential economist of our time, but many disagree.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Arguably' ya implica que es debatible, por lo que agregar 'but many disagree' es coherente aunque levemente redundante. En la práctica, este uso aparece para clarificar que no es una afirmación absoluta.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "There is a subtly difference between 'affect' and 'effect'.",
+            "isCorrect": false,
+            "correction": "There is a subtle difference between 'affect' and 'effect'.",
+            "explanation": "'Subtle' es adjetivo aquí, no adverbio. 'A subtly difference' mezcla partes de la oración. 'Subtly' modifica verbos o adjetivos ('subtly different', 'she subtly changed the subject'), no sustantivos.",
+            "errorType": "word-form"
+          },
+          {
+            "sentence": "The contract language was ambiguous, whereas both parties had different interpretations.",
+            "isCorrect": false,
+            "correction": "The contract language was ambiguous, leading both parties to have different interpretations. / The contract language was deliberately ambiguous.",
+            "explanation": "'Whereas' introduce un contraste entre dos cláusulas, no una consecuencia. 'The language was ambiguous' y 'both parties had different interpretations' son causa y efecto, no contraste. Usar 'which meant that' o 'leading to' en su lugar.",
+            "errorType": "connector-choice"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completada!",
+      "instruction": "Repaso rápido: nevertheless/notwithstanding = contraste formal. whereas = contraste comparativo. allegedly = afirmación sin probar. arguably = hedging. subtle (b muda!) = matiz imperceptible. empirical = basado en datos reales. Estos 8 ítems ahora están en tu SRS.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

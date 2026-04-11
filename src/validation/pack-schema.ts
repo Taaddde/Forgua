@@ -301,14 +301,32 @@ export const LessonItemSchema = z.object({
   imageUrl: z.string().optional(),
   audio: z.string().optional(),
   extra: z.record(z.string(), z.unknown()).optional(),
-  cardRef: z.object({
-    category: z.string(),
-    front: z.string(),
-  }),
+  cardRef: z
+    .object({
+      category: z.string(),
+      front: z.string(),
+    })
+    .optional(),
 });
 
 export const LessonStepSchema = z.object({
-  type: z.enum(['introduce', 'recognize', 'recall', 'write', 'sentence-build', 'listen-identify', 'listen-transcribe', 'speak', 'summary']),
+  type: z.enum([
+    'introduce',
+    'recognize',
+    'recall',
+    'write',
+    'sentence-build',
+    'listen-identify',
+    'listen-transcribe',
+    'speak',
+    'fill-blank-multi',
+    'word-in-context',
+    'error-correction',
+    'image-association',
+    'story-comprehension',
+    'conversation-script',
+    'summary',
+  ]),
   title: z.string().optional(),
   instruction: z.string().optional(),
   itemIndices: z.array(z.number()),

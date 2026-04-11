@@ -1,0 +1,126 @@
+{
+  "id": "vocab-a1-13",
+  "title": "Wants, Senses & Company : Querer, sentir y compañía",
+  "description": "Verbos para expresar deseos, necesidades y percepción (want, need, like, see, sleep). Incluye las preposiciones 'with' y 'without' para hablar de compañía.",
+  "level": "a1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "want",
+      "back": "querer",
+      "reading": "/wɑːnt/",
+      "explanation": "Querer, desear. Estructura: 'want + sustantivo' ('I want water') o 'want + to + verbo' ('I want to eat'). ¡OJO! NO se dice 'I want that you come' — se dice 'I want you to come'.",
+      "cardRef": { "category": "vocabulary", "front": "want" }
+    },
+    {
+      "front": "need",
+      "back": "necesitar",
+      "reading": "/niːd/",
+      "explanation": "Necesitar. Mismo patrón que 'want': 'need + sustantivo' o 'need + to + verbo'. 'I need to sleep' = necesito dormir. Más fuerte que 'want' — expresa necesidad real.",
+      "cardRef": { "category": "vocabulary", "front": "need" }
+    },
+    {
+      "front": "like",
+      "back": "gustar",
+      "reading": "/laɪk/",
+      "explanation": "Gustar. ¡MUY DIFERENTE del español! En español 'me gusta' (el sujeto es la cosa); en inglés 'I like it' (el sujeto soy yo). Estructura: 'I like + sustantivo/verbo+ing'. 'I like coffee', 'I like reading'. También significa 'como' (similar).",
+      "cardRef": { "category": "vocabulary", "front": "like" }
+    },
+    {
+      "front": "see",
+      "back": "ver",
+      "reading": "/siː/",
+      "explanation": "Ver (percepción visual pasiva). Irregular: pasado 'saw', participio 'seen'. Diferencia con 'watch' (mirar atentamente, ej. TV) y 'look at' (dirigir la mirada). Homófono de 'sea' (mar).",
+      "cardRef": { "category": "vocabulary", "front": "see" }
+    },
+    {
+      "front": "sleep",
+      "back": "dormir",
+      "reading": "/sliːp/",
+      "explanation": "Dormir. Irregular: pasado y participio 'slept'. 'Sleep well' = que duermas bien. Sustantivo 'sleep' = sueño (el acto de dormir). Diferente de 'dream' (sueño mental).",
+      "cardRef": { "category": "vocabulary", "front": "sleep" }
+    },
+    {
+      "front": "with",
+      "back": "con",
+      "reading": "/wɪð/",
+      "explanation": "Con. Preposición de compañía o instrumento: 'I live with my family', 'I eat with a spoon'. El sonido 'th' es /ð/ (sonoro, con vibración), poné la lengua entre los dientes.",
+      "cardRef": { "category": "vocabulary", "front": "with" }
+    },
+    {
+      "front": "without",
+      "back": "sin",
+      "reading": "/wɪˈðaʊt/",
+      "explanation": "Sin. Opuesto de 'with'. Literalmente 'with' + 'out' (fuera). 'Coffee without sugar' = café sin azúcar. Seguido de verbo, se usa -ing: 'without thinking' (sin pensar).",
+      "cardRef": { "category": "vocabulary", "front": "without" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Deseos, sentidos y compañía",
+      "instruction": "Verbos para expresar lo que querés, lo que ves y lo que necesitás. Clave: 'like' funciona AL REVÉS del español — el sujeto es la persona, no la cosa que gusta ('I like music', no 'me gusta la música' literal).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto de cada palabra.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "listen-identify",
+      "title": "Escuchá y elegí",
+      "instruction": "Escuchá y elegí la palabra correcta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Escribí la palabra en inglés según el significado en español.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Identificá errores comunes con estos verbos, especialmente con 'like'.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "Me like pizza.",
+            "isCorrect": false,
+            "correction": "I like pizza.",
+            "explanation": "En inglés 'like' funciona al revés que 'gustar'. El sujeto es la persona que siente el gusto: 'I like pizza' (yo gusto pizza, literalmente). NO existe 'me like' — es 'I like'.",
+            "errorType": "wrong-subject"
+          },
+          {
+            "sentence": "I want to sleep now.",
+            "isCorrect": true,
+            "explanation": "Correcta. Estructura perfecta: 'want + to + verbo en infinitivo'. 'I want to sleep' = quiero dormir.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "I need water without ice.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Without' + sustantivo funciona perfectamente. Perfecto para pedir en un restaurante.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "I want that you come to my house.",
+            "isCorrect": false,
+            "correction": "I want you to come to my house.",
+            "explanation": "En español decimos 'quiero que vengas'. En inglés NO se usa 'that' en esta estructura. Es 'want + persona + to + verbo': 'I want you to come'.",
+            "errorType": "word-order"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste 7 palabras clave. Lo más importante: 'I LIKE coffee' (el sujeto soy yo, no el café); 'want/need + to + verbo' para infinitivos; 'want + persona + to + verbo' (no 'that'); 'with/without' para compañía o ausencia. Estas estructuras son la base del A1.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    }
+  ]
+}

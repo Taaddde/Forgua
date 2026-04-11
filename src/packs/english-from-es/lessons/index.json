@@ -3,100 +3,311 @@
     {
       "id": "vocab-a1-01",
       "title": "Greetings & Basics",
-      "description": "Las palabras esenciales para empezar: hello, goodbye, please, thank you",
+      "description": "Las primeras palabras que necesitás para sobrevivir en inglés. Saludos, despedidas y cortesía básica.",
       "level": "a1",
       "category": "vocabulary",
       "order": 1,
       "prerequisites": [],
-      "estimatedMinutes": 10,
+      "estimatedMinutes": 15,
       "newItemCount": 8
+    },
+    {
+      "id": "vocab-a1-02",
+      "title": "Numbers 1-20",
+      "description": "Los números del 1 al 20 en inglés. Aprendé a contar y a decir tu edad correctamente (I am 25, NO 'I have 25').",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 2,
+      "prerequisites": [
+        "vocab-a1-01"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a1-03",
+      "title": "Family Members",
+      "description": "Madre, padre, hermano, hermana... Aprendé a hablar de tu familia en inglés. Ojo: 'parents' = padres, NO 'parientes'.",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 3,
+      "prerequisites": [
+        "vocab-a1-02"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a1-04",
+      "title": "Colors & Basic Adjectives",
+      "description": "Colores y adjetivos básicos. REGLA CLAVE: en inglés el adjetivo va ANTES del sustantivo ('red car', NO 'car red').",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 4,
+      "prerequisites": [
+        "vocab-a1-03"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a1-05",
+      "title": "Food & Drinks",
+      "description": "Vocabulario esencial de comida y bebida. Desde water hasta cheese — lo que necesitás para sobrevivir en un restaurante o supermercado.",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 5,
+      "prerequisites": [
+        "vocab-a1-04"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 12
+    },
+    {
+      "id": "vocab-a1-06",
+      "title": "Days, Months & Time",
+      "description": "Monday, January, three o'clock. Los días, meses y expresiones de tiempo. Recordá: en inglés los días y meses SIEMPRE van en mayúscula.",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 6,
+      "prerequisites": [
+        "vocab-a1-05"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 12
+    },
+    {
+      "id": "vocab-a1-07",
+      "title": "House & Furniture",
+      "description": "Las partes de la casa y los muebles principales. Aprendé también las preposiciones clave: 'in the kitchen', 'at home'.",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 7,
+      "prerequisites": [
+        "vocab-a1-06"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a1-08",
+      "title": "Body Parts & Health",
+      "description": "Partes del cuerpo y expresiones de salud. CLAVE: 'I have a headache' (NO 'I have pain of head'), 'I am hungry' (NO 'I have hunger').",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 8,
+      "prerequisites": [
+        "vocab-a1-07"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a1-09",
+      "title": "Clothes & Shopping",
+      "description": "shirt, shoes, how much — vocabulario esencial para ir de compras. Ojo: 'pants', 'shoes' y 'glasses' siempre van en PLURAL en inglés.",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 9,
+      "prerequisites": [
+        "vocab-a1-08"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a1-10",
+      "title": "Family & People : La familia y las personas",
+      "description": "Los miembros de la familia y las palabras para hablar de personas. Vocabulario esencial para presentar a tus seres queridos en inglés.",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 10,
+      "prerequisites": [
+        "vocab-a1-09"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 7
+    },
+    {
+      "id": "vocab-a1-11",
+      "title": "Numbers & Time : Más números y unidades de tiempo",
+      "description": "Completá los números del 1 al 10 y aprendé las unidades de tiempo básicas: día, semana, año. Incluye el saludo nocturno 'good night'.",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 11,
+      "prerequisites": [
+        "vocab-a1-10"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 9
+    },
+    {
+      "id": "vocab-a1-12",
+      "title": "Essential Verbs I : Los verbos más importantes",
+      "description": "Los cinco verbos más usados del inglés: be, have, do, go, come. Sin ellos no se puede formar casi ninguna oración. Incluye yes/no para respuestas básicas.",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 12,
+      "prerequisites": [
+        "vocab-a1-11"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 7
+    },
+    {
+      "id": "vocab-a1-13",
+      "title": "Wants, Senses & Company : Querer, sentir y compañía",
+      "description": "Verbos para expresar deseos, necesidades y percepción (want, need, like, see, sleep). Incluye las preposiciones 'with' y 'without' para hablar de compañía.",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 13,
+      "prerequisites": [
+        "vocab-a1-12"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 7
+    },
+    {
+      "id": "vocab-a1-14",
+      "title": "Action Verbs : Verbos de acción cotidianos",
+      "description": "Ocho verbos de acción esenciales: work, live, know, give, take, make, say, think. Con estos podés hablar de tu rutina y de tus opiniones.",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 14,
+      "prerequisites": [
+        "vocab-a1-13"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-a1-15",
+      "title": "Places in the City : Lugares y ubicación",
+      "description": "Lugares comunes de la ciudad (hospital, tienda, calle, ciudad, país) y los adverbios básicos de ubicación 'here' y 'there'. Para describir dónde estás.",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 15,
+      "prerequisites": [
+        "vocab-a1-14"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 7
+    },
+    {
+      "id": "vocab-a1-16",
+      "title": "Question Words & Time Adverbs : Preguntas y frecuencia",
+      "description": "Las cinco preguntas básicas (what, where, when, who, how) y dos adverbios clave de tiempo (now, always). Fundamentales para conversar y hacer preguntas.",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 16,
+      "prerequisites": [
+        "vocab-a1-15"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 7
+    },
+    {
+      "id": "vocab-a1-17",
+      "title": "Feelings & Food : Sentimientos y comida",
+      "description": "Adjetivos básicos de calidad y emoción (good, bad, happy, sad) combinados con vocabulario de comida (food, meat, drink) y una parte del cuerpo (mouth).",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 17,
+      "prerequisites": [
+        "vocab-a1-16"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-a1-18",
+      "title": "Everyday Objects & Connectors : Objetos y conectores",
+      "description": "Objetos cotidianos (libro, auto, teléfono, dinero, perro, gato) y los conectores más frecuentes del inglés (and, or, but, very). Con esto podés armar oraciones completas.",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 18,
+      "prerequisites": [
+        "vocab-a1-17"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a1-19",
+      "title": "People, Places & Everyday Expressions",
+      "description": "Cierra el vocabulario básico de A1: familia, gente del colegio, lugares de la ciudad y expresiones esenciales como 'excuse me' y 'name'.",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 19,
+      "prerequisites": [
+        "vocab-a1-18"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 10
     },
     {
       "id": "grammar-a1-01",
       "title": "To Be: I am, You are, He is...",
-      "description": "El verbo más importante del inglés: ser/estar. Aprendé a presentarte.",
+      "description": "El verbo más importante del inglés. Equivale a 'ser' Y 'estar'. Con esto podés presentarte y describir cosas.",
       "level": "a1",
       "category": "grammar",
-      "order": 2,
-      "prerequisites": ["vocab-a1-01"],
-      "estimatedMinutes": 12,
+      "order": 101,
+      "prerequisites": [
+        "vocab-a1-19"
+      ],
+      "estimatedMinutes": 16,
       "newItemCount": 6
     },
     {
       "id": "grammar-a1-02",
       "title": "Subject Pronouns: Don't Drop Them!",
-      "description": "I, you, he, she, it, we, they — en inglés SIEMPRE se dice el sujeto (no como en español).",
+      "description": "En español podés decir 'Llueve' o 'Soy estudiante' sin sujeto. En inglés SIEMPRE necesitás el sujeto: 'It rains', 'I am a student'.",
       "level": "a1",
       "category": "grammar",
-      "order": 3,
-      "prerequisites": ["grammar-a1-01"],
-      "estimatedMinutes": 10,
+      "order": 102,
+      "prerequisites": [
+        "grammar-a1-01"
+      ],
+      "estimatedMinutes": 17,
       "newItemCount": 7
-    },
-    {
-      "id": "vocab-a1-02",
-      "title": "Numbers 1-20",
-      "description": "Los números del 1 al 20: one, two, three... twenty",
-      "level": "a1",
-      "category": "vocabulary",
-      "order": 4,
-      "prerequisites": [],
-      "estimatedMinutes": 10,
-      "newItemCount": 10
     },
     {
       "id": "grammar-a1-03",
       "title": "Articles: a / an / the / (nothing)",
-      "description": "Cuándo usar a, an, the — y cuándo NO usar nada. Los hispanohablantes usamos artículos de más.",
+      "description": "En español decimos 'Me gusta EL chocolate'. En inglés: 'I like chocolate' (sin 'the'). Los hispanohablantes usamos artículos de más.",
       "level": "a1",
       "category": "grammar",
-      "order": 5,
-      "prerequisites": ["grammar-a1-01"],
-      "estimatedMinutes": 12,
+      "order": 103,
+      "prerequisites": [
+        "grammar-a1-02"
+      ],
+      "estimatedMinutes": 14,
       "newItemCount": 4
     },
     {
-      "id": "vocab-a1-03",
-      "title": "Family Members",
-      "description": "Madre, padre, hermano, hermana... Aprendé a hablar de tu familia.",
-      "level": "a1",
-      "category": "vocabulary",
-      "order": 6,
-      "prerequisites": ["grammar-a1-01"],
-      "estimatedMinutes": 10,
-      "newItemCount": 10
-    },
-    {
       "id": "grammar-a1-04",
-      "title": "Possessive Adjectives: my, your, his, her...",
-      "description": "En español 'su' puede ser his/her/its/their. En inglés cada uno es distinto.",
+      "title": "Possessive Adjectives: my, your, his, her, its, our, their",
+      "description": "En español, 'su' puede significar his, her, its o their. En inglés hay una palabra diferente para cada uno. Confundir 'his' y 'her' es el error #1 de hispanohablantes.",
       "level": "a1",
       "category": "grammar",
-      "order": 7,
-      "prerequisites": ["grammar-a1-02"],
-      "estimatedMinutes": 10,
+      "order": 104,
+      "prerequisites": [
+        "grammar-a1-03"
+      ],
+      "estimatedMinutes": 17,
       "newItemCount": 7
     },
     {
-      "id": "vocab-a1-04",
-      "title": "Colors & Adjectives",
-      "description": "Red, blue, big, small... ¡Ojo! En inglés el adjetivo va ANTES del sustantivo.",
-      "level": "a1",
-      "category": "vocabulary",
-      "order": 8,
-      "prerequisites": ["grammar-a1-03"],
-      "estimatedMinutes": 10,
-      "newItemCount": 10
-    },
-    {
       "id": "grammar-a1-05",
-      "title": "Plural Nouns: -s, -es & Irregulars",
-      "description": "cats, boxes, children, people — cómo formar plurales en inglés.",
+      "title": "Plural Nouns: Regular and Irregular",
+      "description": "La mayoría de los plurales en inglés se forman con -s, pero hay reglas especiales (-es, -ies) y plurales irregulares que hay que memorizar (man→men, child→children).",
       "level": "a1",
       "category": "grammar",
-      "order": 9,
-      "prerequisites": ["grammar-a1-03"],
-      "estimatedMinutes": 10,
+      "order": 105,
+      "prerequisites": [
+        "grammar-a1-04"
+      ],
+      "estimatedMinutes": 15,
       "newItemCount": 5
     },
     {
@@ -105,21 +316,12 @@
       "description": "Demostrativos: esto, eso, estos, esos. Distancia importa.",
       "level": "a1",
       "category": "grammar",
-      "order": 10,
-      "prerequisites": ["grammar-a1-05"],
-      "estimatedMinutes": 8,
+      "order": 106,
+      "prerequisites": [
+        "grammar-a1-05"
+      ],
+      "estimatedMinutes": 14,
       "newItemCount": 4
-    },
-    {
-      "id": "vocab-a1-05",
-      "title": "Food & Drinks",
-      "description": "Vocabulario esencial de comida y bebida: water, bread, coffee, chicken...",
-      "level": "a1",
-      "category": "vocabulary",
-      "order": 11,
-      "prerequisites": [],
-      "estimatedMinutes": 10,
-      "newItemCount": 12
     },
     {
       "id": "grammar-a1-07",
@@ -127,20 +329,24 @@
       "description": "Hay un gato = There is a cat. Hay tres gatos = There are three cats.",
       "level": "a1",
       "category": "grammar",
-      "order": 12,
-      "prerequisites": ["grammar-a1-05", "grammar-a1-03"],
-      "estimatedMinutes": 10,
+      "order": 107,
+      "prerequisites": [
+        "grammar-a1-06"
+      ],
+      "estimatedMinutes": 14,
       "newItemCount": 4
     },
     {
       "id": "grammar-a1-08",
       "title": "Present Simple: Habits & Routines",
-      "description": "I work, she works — para hablar de hábitos y rutinas. ¡Cuidado con la -s en tercera persona!",
+      "description": "El Present Simple se usa para hábitos y rutinas. Cuidado con la tercera persona: 'I work' pero 'She works'. Y las preguntas/negaciones usan do/does.",
       "level": "a1",
       "category": "grammar",
-      "order": 13,
-      "prerequisites": ["grammar-a1-02"],
-      "estimatedMinutes": 15,
+      "order": 108,
+      "prerequisites": [
+        "grammar-a1-07"
+      ],
+      "estimatedMinutes": 16,
       "newItemCount": 6
     },
     {
@@ -149,21 +355,12 @@
       "description": "Do you like coffee? She doesn't work. Cómo preguntar y negar con do/does.",
       "level": "a1",
       "category": "grammar",
-      "order": 14,
-      "prerequisites": ["grammar-a1-08"],
-      "estimatedMinutes": 12,
+      "order": 109,
+      "prerequisites": [
+        "grammar-a1-08"
+      ],
+      "estimatedMinutes": 14,
       "newItemCount": 4
-    },
-    {
-      "id": "vocab-a1-06",
-      "title": "Days, Months & Time",
-      "description": "Monday, January, three o'clock — el tiempo y el calendario en inglés.",
-      "level": "a1",
-      "category": "vocabulary",
-      "order": 15,
-      "prerequisites": ["vocab-a1-02"],
-      "estimatedMinutes": 12,
-      "newItemCount": 12
     },
     {
       "id": "grammar-a1-10",
@@ -171,263 +368,623 @@
       "description": "always, usually, sometimes, never — dónde van en la oración.",
       "level": "a1",
       "category": "grammar",
-      "order": 16,
-      "prerequisites": ["grammar-a1-08"],
-      "estimatedMinutes": 8,
+      "order": 110,
+      "prerequisites": [
+        "grammar-a1-09"
+      ],
+      "estimatedMinutes": 15,
       "newItemCount": 5
-    },
-    {
-      "id": "vocab-a1-07",
-      "title": "House & Furniture",
-      "description": "bedroom, kitchen, table, chair — las partes de la casa.",
-      "level": "a1",
-      "category": "vocabulary",
-      "order": 17,
-      "prerequisites": [],
-      "estimatedMinutes": 10,
-      "newItemCount": 10
     },
     {
       "id": "grammar-a1-11",
       "title": "Prepositions: in / on / at",
-      "description": "En español todo es 'en'. En inglés: in the box, on the table, at school — cada uno es diferente.",
+      "description": "En español todo es 'en'. En inglés hay 3 preposiciones distintas: in (dentro), on (sobre/encima), at (en un punto). El error más común de hispanohablantes.",
       "level": "a1",
       "category": "grammar",
-      "order": 18,
-      "prerequisites": ["grammar-a1-07"],
-      "estimatedMinutes": 12,
+      "order": 111,
+      "prerequisites": [
+        "grammar-a1-10"
+      ],
+      "estimatedMinutes": 15,
       "newItemCount": 5
     },
     {
       "id": "grammar-a1-12",
       "title": "Countable vs Uncountable Nouns",
-      "description": "an apple vs water — ¿por qué no se puede decir 'an information'? Porque information es incontable.",
+      "description": "En español podemos decir 'una información'. En inglés 'an information' es un ERROR. Muchos sustantivos comunes son incontables en inglés pero contables en español.",
       "level": "a1",
       "category": "grammar",
-      "order": 19,
-      "prerequisites": ["grammar-a1-03", "grammar-a1-05"],
-      "estimatedMinutes": 12,
+      "order": 112,
+      "prerequisites": [
+        "grammar-a1-11"
+      ],
+      "estimatedMinutes": 15,
       "newItemCount": 5
     },
     {
       "id": "grammar-a1-13",
       "title": "Some / Any / Much / Many",
-      "description": "Cuantificadores: some para afirmativo, any para negativo/pregunta. Much + incontable, many + contable.",
+      "description": "Cuantificadores: some para afirmativo, any para negativo/pregunta. Much + incontable, many + contable. En español 'algo/nada' no tienen esta distinción.",
       "level": "a1",
       "category": "grammar",
-      "order": 20,
-      "prerequisites": ["grammar-a1-12"],
-      "estimatedMinutes": 10,
+      "order": 113,
+      "prerequisites": [
+        "grammar-a1-12"
+      ],
+      "estimatedMinutes": 14,
       "newItemCount": 4
-    },
-    {
-      "id": "vocab-a1-08",
-      "title": "Body Parts & Health",
-      "description": "head, arm, stomach — y cómo decir 'me duele la cabeza' (I have a headache, NO 'I have pain of head').",
-      "level": "a1",
-      "category": "vocabulary",
-      "order": 21,
-      "prerequisites": [],
-      "estimatedMinutes": 10,
-      "newItemCount": 10
     },
     {
       "id": "grammar-a1-14",
       "title": "Can / Can't: Ability & Permission",
-      "description": "I can swim. Can I go? She can't drive. Habilidad y permiso.",
+      "description": "I can swim. Can I go? She can't drive. 'Can' es un verbo modal: no cambia con la persona, no usa 'do/does' y va seguido del verbo base.",
       "level": "a1",
       "category": "grammar",
-      "order": 22,
-      "prerequisites": ["grammar-a1-02"],
-      "estimatedMinutes": 10,
+      "order": 114,
+      "prerequisites": [
+        "grammar-a1-13"
+      ],
+      "estimatedMinutes": 14,
       "newItemCount": 4
     },
     {
       "id": "grammar-a1-15",
       "title": "Present Continuous: What's Happening Now",
-      "description": "I am reading. She is working. Para acciones que pasan AHORA MISMO.",
+      "description": "El Present Continuous (am/is/are + -ing) describe lo que pasa AHORA MISMO. Pero cuidado: hay verbos que NO pueden usarlo (know, want, like, love, need).",
       "level": "a1",
       "category": "grammar",
-      "order": 23,
-      "prerequisites": ["grammar-a1-01", "grammar-a1-08"],
-      "estimatedMinutes": 12,
+      "order": 115,
+      "prerequisites": [
+        "grammar-a1-14"
+      ],
+      "estimatedMinutes": 15,
       "newItemCount": 5
-    },
-    {
-      "id": "vocab-a1-09",
-      "title": "Clothes & Shopping",
-      "description": "shirt, shoes, how much — vocabulario para ir de compras.",
-      "level": "a1",
-      "category": "vocabulary",
-      "order": 24,
-      "prerequisites": [],
-      "estimatedMinutes": 10,
-      "newItemCount": 10
     },
     {
       "id": "grammar-a1-16",
       "title": "Imperatives",
-      "description": "Go straight! Don't touch! Cómo dar instrucciones y órdenes.",
+      "description": "Go straight! Don't touch! Cómo dar instrucciones y órdenes. El imperativo en inglés es más simple que en español: solo usás la forma base del verbo, sin conjugar.",
       "level": "a1",
       "category": "grammar",
-      "order": 25,
-      "prerequisites": [],
-      "estimatedMinutes": 8,
+      "order": 116,
+      "prerequisites": [
+        "grammar-a1-15"
+      ],
+      "estimatedMinutes": 14,
       "newItemCount": 4
     },
     {
       "id": "grammar-a1-17",
-      "title": "Past Simple: was/were",
-      "description": "I was tired. They were happy. El pasado del verbo to be.",
+      "title": "Past Simple: was / were",
+      "description": "El pasado de 'to be': was (I/he/she/it) y were (you/we/they). Negación con wasn't/weren't y preguntas invirtiendo el orden.",
       "level": "a1",
       "category": "grammar",
-      "order": 26,
-      "prerequisites": ["grammar-a1-01"],
-      "estimatedMinutes": 10,
+      "order": 117,
+      "prerequisites": [
+        "grammar-a1-16"
+      ],
+      "estimatedMinutes": 14,
       "newItemCount": 4
     },
     {
       "id": "grammar-a1-18",
       "title": "Past Simple: Regular Verbs (-ed)",
-      "description": "worked, played, studied — cómo formar el pasado regular. Ojo con la pronunciación de -ed (/t/, /d/, /ɪd/).",
+      "description": "El pasado regular se forma con -ed. Lo difícil no es la gramática sino la PRONUNCIACIÓN: -ed suena /t/, /d/ o /ɪd/ según el verbo. Esta distinción no existe en español.",
       "level": "a1",
       "category": "grammar",
-      "order": 27,
-      "prerequisites": ["grammar-a1-17"],
-      "estimatedMinutes": 12,
+      "order": 118,
+      "prerequisites": [
+        "grammar-a1-17"
+      ],
+      "estimatedMinutes": 16,
       "newItemCount": 6
     },
     {
       "id": "grammar-a1-19",
       "title": "Past Simple: Irregular Verbs",
-      "description": "go→went, see→saw, have→had — los verbos irregulares más comunes.",
+      "description": "Los 10 verbos irregulares más usados del inglés. No siguen ningún patrón — hay que memorizarlos. go→went, see→saw, have→had, do→did, get→got, make→made, come→came, take→took, say→said, know→knew.",
       "level": "a1",
       "category": "grammar",
-      "order": 28,
-      "prerequisites": ["grammar-a1-18"],
-      "estimatedMinutes": 12,
+      "order": 119,
+      "prerequisites": [
+        "grammar-a1-18"
+      ],
+      "estimatedMinutes": 18,
       "newItemCount": 10
     },
     {
       "id": "grammar-a1-20",
       "title": "Going to: Future Plans",
-      "description": "I'm going to travel. She's going to study. Para planes e intenciones futuras.",
+      "description": "I'm going to travel. She's going to study. 'Going to' se usa para planes e intenciones futuras. En el habla informal, 'going to' se convierte en 'gonna'.",
       "level": "a1",
       "category": "grammar",
-      "order": 29,
-      "prerequisites": ["grammar-a1-15"],
-      "estimatedMinutes": 10,
+      "order": 120,
+      "prerequisites": [
+        "grammar-a1-19"
+      ],
+      "estimatedMinutes": 14,
       "newItemCount": 4
     },
     {
       "id": "grammar-a1-21",
       "title": "Comparatives & Superlatives",
-      "description": "bigger, more expensive, the best — cómo comparar cosas en inglés.",
+      "description": "bigger, more expensive, the best — cómo comparar cosas en inglés. Adjetivos cortos usan -er/-est, largos usan more/most, y hay irregulares que tenés que memorizar.",
       "level": "a1",
       "category": "grammar",
-      "order": 30,
-      "prerequisites": ["grammar-a1-05"],
-      "estimatedMinutes": 12,
+      "order": 121,
+      "prerequisites": [
+        "grammar-a1-20"
+      ],
+      "estimatedMinutes": 16,
       "newItemCount": 6
+    },
+    {
+      "id": "grammar-a1-22",
+      "title": "Prepositions of Time: in / on / at",
+      "description": "En español usamos 'en' para casi todo, pero en inglés hay tres preposiciones de tiempo según el tamaño del período: 'in' para meses/años/estaciones, 'on' para días/fechas, 'at' para horas y momentos concretos.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 122,
+      "prerequisites": [
+        "grammar-a1-21"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-a1-23",
+      "title": "Question Words: What, Where, When, Who, Why, How",
+      "description": "En español preguntás con entonación: '¿Vivís acá?'. En inglés necesitás auxiliares (do/does/is/are/can) y además las wh-words: what, where, when, who, why, how. La estructura siempre es: wh-word + auxiliar + sujeto + verbo.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 123,
+      "prerequisites": [
+        "grammar-a1-22"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 5
+    },
+    {
+      "id": "grammar-a1-24",
+      "title": "Past Simple: Irregular Verbs (Part 2)",
+      "description": "Segunda tanda de los verbos irregulares más frecuentes: come, take, make, know, think, tell, give, find, feel, leave. No siguen ninguna regla — hay que memorizarlos. Extensión de la lección 19.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 124,
+      "prerequisites": [
+        "grammar-a1-23"
+      ],
+      "estimatedMinutes": 16,
+      "newItemCount": 6
+    },
+    {
+      "id": "grammar-a1-25",
+      "title": "Superlatives: the biggest, the most expensive",
+      "description": "En español decís 'el más alto' o 'la más barata'. En inglés se usa -est para adjetivos cortos (the tallest) y 'the most' + adjetivo para los largos (the most expensive). Y hay irregulares que tenés que memorizar: the best, the worst.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 125,
+      "prerequisites": [
+        "grammar-a1-24"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-a1-26",
+      "title": "Object Pronouns: me, you, him, her, it, us, them",
+      "description": "En inglés los pronombres cambian según sean sujeto u objeto. 'I' vs 'me', 'she' vs 'her', 'they' vs 'them'. Después del verbo o de una preposición se usan los de objeto. Error clásico: 'He gave it to I' → 'He gave it to me'.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 126,
+      "prerequisites": [
+        "grammar-a1-25"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-a1-27",
+      "title": "Possessive Pronouns: mine, yours, his, hers, ours, theirs",
+      "description": "'Mine' es el mío, 'yours' es el tuyo. A diferencia de 'my' y 'your' (que van antes del sustantivo), los possessive pronouns reemplazan al sustantivo completo. 'This is my book' vs 'This book is mine'.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 127,
+      "prerequisites": [
+        "grammar-a1-26"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-a1-28",
+      "title": "Would like: Polite Requests",
+      "description": "'I'd like a coffee, please' es mucho más educado que 'I want a coffee'. 'Would like' es la forma cortés de decir 'want' — se usa en restaurantes, tiendas, llamadas y en cualquier situación donde quieras sonar amable.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 128,
+      "prerequisites": [
+        "grammar-a1-27"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "reading-a1-01",
+      "title": "Reading: My Family",
+      "description": "Primer texto en inglés real. Vocabulario familiar, presente simple, adjetivos básicos.",
+      "level": "a1",
+      "category": "mixed",
+      "order": 201,
+      "prerequisites": [
+        "grammar-a1-28"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 2
+    },
+    {
+      "id": "reading-a1-02",
+      "title": "Reading: A Day at School",
+      "description": "Texto sobre la rutina escolar. Present Simple, horas, secuencia temporal.",
+      "level": "a1",
+      "category": "mixed",
+      "order": 202,
+      "prerequisites": [
+        "reading-a1-01"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 2
+    },
+    {
+      "id": "reading-a1-03",
+      "title": "Reading: At the Restaurant",
+      "description": "Texto en un restaurante. Vocabulario de comida, want + noun, Present Continuous.",
+      "level": "a1",
+      "category": "mixed",
+      "order": 203,
+      "prerequisites": [
+        "reading-a1-02"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 2
+    },
+    {
+      "id": "reading-a1-04",
+      "title": "Reading: My Weekend",
+      "description": "Texto sobre el fin de semana. Adverbios de frecuencia, rutinas del sábado y domingo.",
+      "level": "a1",
+      "category": "mixed",
+      "order": 204,
+      "prerequisites": [
+        "reading-a1-03"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 2
+    },
+    {
+      "id": "reading-a1-05",
+      "title": "Reading: The Weather Today",
+      "description": "Texto sobre el clima. Tres tiempos (present, past, future), vocabulario meteorológico.",
+      "level": "a1",
+      "category": "mixed",
+      "order": 205,
+      "prerequisites": [
+        "reading-a1-04"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 2
+    },
+    {
+      "id": "conv-a1-01",
+      "title": "Conversation: Introducing Yourself",
+      "description": "Presentarte en inglés: nombre, edad, origen, ocupación. Tus primeras frases reales.",
+      "level": "a1",
+      "category": "mixed",
+      "order": 251,
+      "prerequisites": [
+        "reading-a1-05"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 2
+    },
+    {
+      "id": "conv-a1-02",
+      "title": "Conversation: Ordering at a Café",
+      "description": "Pedir en un café: 'I'd like...', 'Can I have...', preguntar el precio, dar las gracias.",
+      "level": "a1",
+      "category": "mixed",
+      "order": 252,
+      "prerequisites": [
+        "conv-a1-01"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 2
+    },
+    {
+      "id": "conv-a1-03",
+      "title": "Conversation: Asking for Directions",
+      "description": "Pedir y dar indicaciones: Excuse me, turn left/right, go straight, it's on the corner.",
+      "level": "a1",
+      "category": "mixed",
+      "order": 253,
+      "prerequisites": [
+        "conv-a1-02"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 2
     },
     {
       "id": "vocab-a2-01",
       "title": "Travel & Transport",
-      "description": "airport, train, ticket — vocabulario para viajar.",
+      "description": "Vocabulario esencial para viajar: aeropuerto, vuelos, trenes y todo lo que necesitás para moverte en un país angloparlante.",
       "level": "a2",
       "category": "vocabulary",
-      "order": 31,
-      "prerequisites": [],
-      "estimatedMinutes": 10,
+      "order": 1001,
+      "prerequisites": [
+        "conv-a1-03"
+      ],
+      "estimatedMinutes": 15,
       "newItemCount": 10
+    },
+    {
+      "id": "vocab-a2-02",
+      "title": "Work & Jobs",
+      "description": "El mundo laboral en inglés: oficina, reuniones, salarios y todo lo que necesitás para hablar de trabajo.",
+      "level": "a2",
+      "category": "vocabulary",
+      "order": 1002,
+      "prerequisites": [
+        "vocab-a2-01"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a2-03",
+      "title": "Phrasal Verbs: The Basics",
+      "description": "Los phrasal verbs NO existen en español y son uno de los mayores desafíos del inglés. Un verbo + una partícula = significado completamente nuevo. Acá aprendés los 10 más comunes.",
+      "level": "a2",
+      "category": "vocabulary",
+      "order": 1003,
+      "prerequisites": [
+        "vocab-a2-02"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a2-04",
+      "title": "Emotions & Personality",
+      "description": "Más allá de 'happy' y 'sad': adjetivos para emociones y personalidad. Incluye la distinción entre adjetivos -ed (cómo te SENTÍS) y -ing (qué CAUSA el sentimiento).",
+      "level": "a2",
+      "category": "vocabulary",
+      "order": 1004,
+      "prerequisites": [
+        "vocab-a2-03"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a2-05",
+      "title": "Technology & Internet",
+      "description": "Vocabulario cotidiano de tecnología: desde passwords hasta downloads. Muchas de estas palabras se usan en español pero con pronunciación inglesa.",
+      "level": "a2",
+      "category": "vocabulary",
+      "order": 1005,
+      "prerequisites": [
+        "vocab-a2-04"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a2-06",
+      "title": "False Friends: ¡Cuidado!",
+      "description": "Palabras que PARECEN iguales en español e inglés pero significan cosas completamente distintas. Fuente: Wiktionary False Friends list (972+ pares documentados).",
+      "level": "a2",
+      "category": "vocabulary",
+      "order": 1006,
+      "prerequisites": [
+        "vocab-a2-05"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a2-07",
+      "title": "Health & Medical Vocabulary",
+      "description": "Doctor, medicine, headache, fever — vocabulario para hablar de salud. Ojo: 'I have a headache' (NO 'my head hurts me').",
+      "level": "a2",
+      "category": "vocabulary",
+      "order": 1007,
+      "prerequisites": [
+        "vocab-a2-06"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 9
+    },
+    {
+      "id": "vocab-a2-08",
+      "title": "Entertainment & Leisure",
+      "description": "Movie, music, sport, game, concert — vocabulario para hablar de entretenimiento y tiempo libre. Ojo: 'go to the movies', 'play sport', 'watch a TV show'.",
+      "level": "a2",
+      "category": "vocabulary",
+      "order": 1008,
+      "prerequisites": [
+        "vocab-a2-07"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 9
+    },
+    {
+      "id": "vocab-a2-09",
+      "title": "Connectors & Discourse Markers",
+      "description": "However, although, therefore, moreover — palabras que conectan ideas. La diferencia entre 'because' (subordinada) y 'therefore' (coordinada).",
+      "level": "a2",
+      "category": "vocabulary",
+      "order": 1009,
+      "prerequisites": [
+        "vocab-a2-08"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a2-10",
+      "title": "Opinions & Thinking Verbs",
+      "description": "Verbos esenciales para dar opiniones, estar de acuerdo, sugerir y decidir: think, believe, agree, suggest. Claves para empezar a conversar de verdad.",
+      "level": "a2",
+      "category": "vocabulary",
+      "order": 1010,
+      "prerequisites": [
+        "vocab-a2-09"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-a2-11",
+      "title": "Feelings, Hope & Nuances",
+      "description": "Verbos de emociones y expectativas (feel, hope, worry, forget, expect) más adverbios de matiz (already, quite, recent, similar) para hablar con precisión.",
+      "level": "a2",
+      "category": "vocabulary",
+      "order": 1011,
+      "prerequisites": [
+        "vocab-a2-10"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 9
+    },
+    {
+      "id": "vocab-a2-12",
+      "title": "Travel Essentials II",
+      "description": "Más vocabulario de viaje: map, tourist, guide, suitcase, boarding pass, delay, y los adjetivos main y common para describir lugares y situaciones.",
+      "level": "a2",
+      "category": "vocabulary",
+      "order": 1012,
+      "prerequisites": [
+        "vocab-a2-11"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-a2-13",
+      "title": "Work & Career",
+      "description": "Vocabulario esencial del mundo laboral: job, boss, project, promotion, company, schedule, más 'several' y 'available' para hablar de recursos y disponibilidad.",
+      "level": "a2",
+      "category": "vocabulary",
+      "order": 1013,
+      "prerequisites": [
+        "vocab-a2-12"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-a2-14",
+      "title": "Essential Phrasal Verbs",
+      "description": "Los phrasal verbs más comunes del A2: turn on/off, get along, set up, put off, go on, bring up, carry out. El gran dolor de cabeza del hispanohablante — pero con práctica se dominan.",
+      "level": "a2",
+      "category": "vocabulary",
+      "order": 1014,
+      "prerequisites": [
+        "vocab-a2-13"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-a2-15",
+      "title": "A2 Wrap-Up: Memory, Planning & Essentials",
+      "description": "Las últimas 6 palabras clave para cerrar el vocabulario A2: memoria (remember), disfrute (enjoy), planificación (reservation, resume), y cantidades (enough, almost).",
+      "level": "a2",
+      "category": "vocabulary",
+      "order": 1015,
+      "prerequisites": [
+        "vocab-a2-14"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 6
     },
     {
       "id": "grammar-a2-01",
       "title": "Past Simple vs Past Continuous",
-      "description": "I was reading when the phone rang. Dos tiempos pasados y cuándo usar cada uno.",
+      "description": "I was reading when the phone rang. El Past Continuous (was/were + -ing) describe acciones en progreso en el pasado; el Past Simple describe acciones completadas. Juntos, cuentan historias.",
       "level": "a2",
       "category": "grammar",
-      "order": 32,
-      "prerequisites": ["grammar-a1-18", "grammar-a1-15"],
-      "estimatedMinutes": 12,
+      "order": 1101,
+      "prerequisites": [
+        "vocab-a2-15"
+      ],
+      "estimatedMinutes": 15,
       "newItemCount": 5
     },
     {
       "id": "grammar-a2-02",
       "title": "Present Perfect: Have you ever...?",
-      "description": "I have visited Paris. Have you ever eaten sushi? Para experiencias y acciones con resultado presente.",
+      "description": "El present perfect (have/has + participio) se usa para experiencias, tiempo no terminado y resultados presentes. Los hispanohablantes tienden a confundirlo con el pretérito perfecto español, que tiene usos diferentes.",
       "level": "a2",
       "category": "grammar",
-      "order": 33,
-      "prerequisites": ["grammar-a1-19"],
-      "estimatedMinutes": 15,
+      "order": 1102,
+      "prerequisites": [
+        "grammar-a2-01"
+      ],
+      "estimatedMinutes": 16,
       "newItemCount": 6
     },
     {
       "id": "grammar-a2-03",
       "title": "Present Perfect vs Past Simple",
-      "description": "I have seen that movie (cuándo no importa) vs I saw it yesterday (tiempo específico). Hispanohablantes: ¡este es su error más común!",
+      "description": "El error gramatical #1 de los hispanohablantes según el Cambridge Learner Corpus. En español, 'he visto' y 'vi' son casi intercambiables. En inglés, present perfect y past simple tienen reglas estrictas y diferentes.",
       "level": "a2",
       "category": "grammar",
-      "order": 34,
-      "prerequisites": ["grammar-a2-02"],
+      "order": 1103,
+      "prerequisites": [
+        "grammar-a2-02"
+      ],
       "estimatedMinutes": 15,
       "newItemCount": 5
     },
     {
       "id": "grammar-a2-04",
       "title": "Will vs Going to",
-      "description": "I'll help you (decisión espontánea) vs I'm going to study (plan previo). Dos futuros, dos usos.",
+      "description": "Dos formas de hablar del futuro con usos distintos. 'Will' para decisiones espontáneas, predicciones y promesas. 'Going to' para planes previos y predicciones basadas en evidencia.",
       "level": "a2",
       "category": "grammar",
-      "order": 35,
-      "prerequisites": ["grammar-a1-20"],
-      "estimatedMinutes": 12,
+      "order": 1104,
+      "prerequisites": [
+        "grammar-a2-03"
+      ],
+      "estimatedMinutes": 14,
       "newItemCount": 4
-    },
-    {
-      "id": "vocab-a2-02",
-      "title": "Work & Jobs",
-      "description": "office, meeting, salary — el mundo laboral en inglés.",
-      "level": "a2",
-      "category": "vocabulary",
-      "order": 36,
-      "prerequisites": [],
-      "estimatedMinutes": 10,
-      "newItemCount": 10
     },
     {
       "id": "grammar-a2-05",
       "title": "Modals: have to / should / must",
-      "description": "You have to wear a helmet. You should rest. Must vs have to — obligación y consejo.",
+      "description": "You have to wear a helmet. You should rest. Must vs have to — obligación y consejo. OJO: 'don't have to' (no es necesario) NO es lo mismo que 'mustn't' (está prohibido).",
       "level": "a2",
       "category": "grammar",
-      "order": 37,
-      "prerequisites": ["grammar-a1-14"],
-      "estimatedMinutes": 12,
+      "order": 1105,
+      "prerequisites": [
+        "grammar-a2-04"
+      ],
+      "estimatedMinutes": 15,
       "newItemCount": 5
     },
     {
       "id": "grammar-a2-06",
       "title": "Zero & First Conditional",
-      "description": "If you heat water, it boils (siempre). If it rains, I'll take an umbrella (posible).",
+      "description": "Dos tipos de condicionales: el zero conditional para verdades generales ('Si calentás agua, hierve') y el first conditional para posibilidades reales ('Si llueve, voy a llevar paraguas').",
       "level": "a2",
       "category": "grammar",
-      "order": 38,
-      "prerequisites": ["grammar-a2-04"],
-      "estimatedMinutes": 12,
+      "order": 1106,
+      "prerequisites": [
+        "grammar-a2-05"
+      ],
+      "estimatedMinutes": 14,
       "newItemCount": 4
-    },
-    {
-      "id": "vocab-a2-03",
-      "title": "Phrasal Verbs: The Basics",
-      "description": "Los phrasal verbs NO existen en español y son el gran desafío: get up, look for, turn on, give up...",
-      "level": "a2",
-      "category": "vocabulary",
-      "order": 39,
-      "prerequisites": ["grammar-a1-08"],
-      "estimatedMinutes": 12,
-      "newItemCount": 10
     },
     {
       "id": "grammar-a2-07",
@@ -435,21 +992,12 @@
       "description": "I enjoy swimming (no 'to swim'). I want to go (no 'going'). Patrones que hay que memorizar.",
       "level": "a2",
       "category": "grammar",
-      "order": 40,
-      "prerequisites": ["grammar-a1-08"],
-      "estimatedMinutes": 12,
+      "order": 1107,
+      "prerequisites": [
+        "grammar-a2-06"
+      ],
+      "estimatedMinutes": 15,
       "newItemCount": 5
-    },
-    {
-      "id": "vocab-a2-04",
-      "title": "Emotions & Personality",
-      "description": "anxious, proud, stubborn, generous — más allá de happy y sad.",
-      "level": "a2",
-      "category": "vocabulary",
-      "order": 41,
-      "prerequisites": [],
-      "estimatedMinutes": 10,
-      "newItemCount": 10
     },
     {
       "id": "grammar-a2-08",
@@ -457,21 +1005,12 @@
       "description": "as...as, not as...as, less/least, (not) enough, too. Comparaciones avanzadas.",
       "level": "a2",
       "category": "grammar",
-      "order": 42,
-      "prerequisites": ["grammar-a1-21"],
-      "estimatedMinutes": 10,
+      "order": 1108,
+      "prerequisites": [
+        "grammar-a2-07"
+      ],
+      "estimatedMinutes": 15,
       "newItemCount": 5
-    },
-    {
-      "id": "vocab-a2-05",
-      "title": "Technology & Internet",
-      "description": "website, download, password, app — tecnología cotidiana.",
-      "level": "a2",
-      "category": "vocabulary",
-      "order": 43,
-      "prerequisites": [],
-      "estimatedMinutes": 10,
-      "newItemCount": 10
     },
     {
       "id": "grammar-a2-09",
@@ -479,21 +1018,1741 @@
       "description": "quickly, carefully, at the moment, last week — cómo y cuándo agregar detalle a las oraciones.",
       "level": "a2",
       "category": "grammar",
-      "order": 44,
-      "prerequisites": ["grammar-a1-10"],
-      "estimatedMinutes": 10,
+      "order": 1109,
+      "prerequisites": [
+        "grammar-a2-08"
+      ],
+      "estimatedMinutes": 15,
       "newItemCount": 5
     },
     {
-      "id": "vocab-a2-06",
-      "title": "False Friends: ¡Cuidado!",
-      "description": "actual ≠ actual, exit ≠ éxito, fabric ≠ fábrica — palabras que parecen iguales pero significan otra cosa.",
+      "id": "grammar-a2-10",
+      "title": "Used to: Past Habits",
+      "description": "'I used to play soccer' — para hablar de hábitos pasados que ya no existen. Muy común en inglés, no tiene equivalente exacto en español.",
       "level": "a2",
+      "category": "grammar",
+      "order": 1110,
+      "prerequisites": [
+        "grammar-a2-09"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-a2-11",
+      "title": "Passive Voice: Present Simple",
+      "description": "English is spoken worldwide. La voz pasiva: cuándo y cómo usarla. Muy común en textos formales, noticias y ciencia.",
+      "level": "a2",
+      "category": "grammar",
+      "order": 1111,
+      "prerequisites": [
+        "grammar-a2-10"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-a2-12",
+      "title": "Relative Clauses: who, which, that",
+      "description": "The man who lives next door. Cómo agregar información con who (personas), which (cosas), that (ambos).",
+      "level": "a2",
+      "category": "grammar",
+      "order": 1112,
+      "prerequisites": [
+        "grammar-a2-11"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-a2-13",
+      "title": "Second Conditional: If I had money...",
+      "description": "If I had money, I would travel. Para situaciones imaginarias o improbables. Error clásico: 'If I would have...'",
+      "level": "a2",
+      "category": "grammar",
+      "order": 1113,
+      "prerequisites": [
+        "grammar-a2-12"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-a2-14",
+      "title": "Tag Questions: ¿no?, ¿verdad?",
+      "description": "You're from Argentina, aren't you? Las preguntas coletilla para confirmar información. No tienen equivalente estructural en español.",
+      "level": "a2",
+      "category": "grammar",
+      "order": 1114,
+      "prerequisites": [
+        "grammar-a2-13"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-a2-15",
+      "title": "Past Perfect: The Earlier Past",
+      "description": "When I arrived, she had already left. Hablar de algo que pasó ANTES de otro evento pasado.",
+      "level": "a2",
+      "category": "grammar",
+      "order": 1115,
+      "prerequisites": [
+        "grammar-a2-14"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-a2-16",
+      "title": "So / Neither: Agreement",
+      "description": "'So do I' / 'Neither do I' — cómo decir 'yo también' y 'yo tampoco'. Un error clásico: decir 'Me too' en contextos formales.",
+      "level": "a2",
+      "category": "grammar",
+      "order": 1116,
+      "prerequisites": [
+        "grammar-a2-15"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-a2-17",
+      "title": "Reported Speech: He said that...",
+      "description": "She said she was tired. Cómo reportar lo que alguien dijo. Los tiempos retroceden un paso — el error clásico es olvidar el backshift.",
+      "level": "a2",
+      "category": "grammar",
+      "order": 1117,
+      "prerequisites": [
+        "grammar-a2-16"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-a2-18",
+      "title": "Make / Let / Allow",
+      "description": "The teacher made us study. Let me help you. Causativos y permisivos — distinción crucial que no existe así en español.",
+      "level": "a2",
+      "category": "grammar",
+      "order": 1118,
+      "prerequisites": [
+        "grammar-a2-17"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-a2-19",
+      "title": "Both / Either / Neither",
+      "description": "Both tea and coffee. Either option. Neither is good. Tres palabras para hablar de dos opciones — error clásico: confundirlas.",
+      "level": "a2",
+      "category": "grammar",
+      "order": 1119,
+      "prerequisites": [
+        "grammar-a2-18"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-a2-20",
+      "title": "Quantifiers: much, many, a lot of...",
+      "description": "Much time vs many people. Few vs a few. Cuándo usar cada cuantificador según si el sustantivo es contable o incontable.",
+      "level": "a2",
+      "category": "grammar",
+      "order": 1120,
+      "prerequisites": [
+        "grammar-a2-19"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-a2-21",
+      "title": "Prepositions of Movement",
+      "description": "She walked across the street. Into, out of, through, along... Las preposiciones de movimiento más allá del básico 'to' y 'from'.",
+      "level": "a2",
+      "category": "grammar",
+      "order": 1121,
+      "prerequisites": [
+        "grammar-a2-20"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-a2-22",
+      "title": "Should / Shouldn't: Giving Advice",
+      "description": "'You should see a doctor' — 'should' es el verbo modal para dar consejos. Más suave que 'must', más directo que 'could'. Estructura fija: should + verbo base, sin importar la persona.",
+      "level": "a2",
+      "category": "grammar",
+      "order": 1122,
+      "prerequisites": [
+        "grammar-a2-21"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-a2-23",
+      "title": "Must / Mustn't: Obligations and Prohibitions",
+      "description": "'Must' expresa obligación fuerte o necesidad absoluta. 'Mustn't' es prohibición total. Más fuerte que 'should', y NO es lo mismo que 'don't have to' — son dos cosas muy distintas que los hispanohablantes suelen confundir.",
+      "level": "a2",
+      "category": "grammar",
+      "order": 1123,
+      "prerequisites": [
+        "grammar-a2-22"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "reading-a2-01",
+      "title": "Reading: A Trip to London",
+      "description": "Texto sobre un viaje a Londres. Past Simple, comparativos, vocabulario de viaje.",
+      "level": "a2",
+      "category": "mixed",
+      "order": 1201,
+      "prerequisites": [
+        "grammar-a2-23"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 2
+    },
+    {
+      "id": "reading-a2-02",
+      "title": "Reading: My Favorite Hobby",
+      "description": "Texto sobre cocina como hobby. Present Perfect, gerundio, vocabulario de actividades.",
+      "level": "a2",
+      "category": "mixed",
+      "order": 1202,
+      "prerequisites": [
+        "reading-a2-01"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 2
+    },
+    {
+      "id": "reading-a2-03",
+      "title": "Reading: An Email to a Friend",
+      "description": "Email informal. Present Perfect con 'since', vocabulario laboral, registro informal.",
+      "level": "a2",
+      "category": "mixed",
+      "order": 1203,
+      "prerequisites": [
+        "reading-a2-02"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 2
+    },
+    {
+      "id": "reading-a2-04",
+      "title": "Reading: A Job Interview",
+      "description": "Texto sobre una entrevista de trabajo. Past Simple para narrar, vocabulario profesional.",
+      "level": "a2",
+      "category": "mixed",
+      "order": 1204,
+      "prerequisites": [
+        "reading-a2-03"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 2
+    },
+    {
+      "id": "reading-a2-05",
+      "title": "Reading: Living in a New City",
+      "description": "Texto sobre vivir en el extranjero. Present Perfect con cambio de estado, aunque/however.",
+      "level": "a2",
+      "category": "mixed",
+      "order": 1205,
+      "prerequisites": [
+        "reading-a2-04"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 2
+    },
+    {
+      "id": "conv-a2-01",
+      "title": "Conversation: Hotel Check-In",
+      "description": "Check-in en un hotel. Reservas, tipos de habitación, horarios, peticiones.",
+      "level": "a2",
+      "category": "mixed",
+      "order": 1251,
+      "prerequisites": [
+        "reading-a2-05"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 2
+    },
+    {
+      "id": "conv-a2-02",
+      "title": "Conversation: At the Doctor's",
+      "description": "Consulta médica. Describir síntomas, entender indicaciones, should/have to.",
+      "level": "a2",
+      "category": "mixed",
+      "order": 1252,
+      "prerequisites": [
+        "conv-a2-01"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 2
+    },
+    {
+      "id": "conv-a2-03",
+      "title": "Conversation: At the Supermarket",
+      "description": "Compras en el supermercado. Preguntar por productos, ubicación, pagar, First Conditional.",
+      "level": "a2",
+      "category": "mixed",
+      "order": 1253,
+      "prerequisites": [
+        "conv-a2-02"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 2
+    },
+    {
+      "id": "vocab-b1-01",
+      "title": "Work & Office: The Vocabulary of Professional Life",
+      "description": "Las 10 palabras clave del mundo laboral: colleague, deadline, manager, salary... Las vas a necesitar en cualquier contexto profesional.",
+      "level": "b1",
       "category": "vocabulary",
-      "order": 45,
-      "prerequisites": [],
-      "estimatedMinutes": 12,
+      "order": 2001,
+      "prerequisites": [
+        "conv-a2-03"
+      ],
+      "estimatedMinutes": 15,
       "newItemCount": 10
+    },
+    {
+      "id": "vocab-b1-02",
+      "title": "Travel & Transport: Airports and Beyond",
+      "description": "flight, departure, boarding pass, accommodation, destination, luggage — todo lo que necesitás para viajar y no perderte en ningún aeropuerto.",
+      "level": "b1",
+      "category": "vocabulary",
+      "order": 2002,
+      "prerequisites": [
+        "vocab-b1-01"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-b1-03",
+      "title": "Health & the Doctor: Symptoms, Treatments & Recovery",
+      "description": "symptom, prescription, appointment, injured, cure, treatment, fever, recover — para hablar de salud en inglés sin quedarte sin palabras.",
+      "level": "b1",
+      "category": "vocabulary",
+      "order": 2003,
+      "prerequisites": [
+        "vocab-b1-02"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-b1-04",
+      "title": "Emotions & Personality: Beyond Happy and Sad",
+      "description": "anxious, frustrated, grateful, disappointed, confident, jealous, relieved, stubborn, embarrassed — el vocabulario emocional que distingue a un usuario independiente del idioma.",
+      "level": "b1",
+      "category": "vocabulary",
+      "order": 2004,
+      "prerequisites": [
+        "vocab-b1-03"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 9
+    },
+    {
+      "id": "vocab-b1-05",
+      "title": "Technology & Digital Life",
+      "description": "download, upload, password, device, software, browser, update, network — las 8 palabras de tecnología que usás todos los días sin darte cuenta.",
+      "level": "b1",
+      "category": "vocabulary",
+      "order": 2005,
+      "prerequisites": [
+        "vocab-b1-04"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-b1-06",
+      "title": "Environment & Nature: Climate, Crisis and Action",
+      "description": "drought, flood, pollution, recycle, climate, endangered, landscape, renewable — vocabulario del medio ambiente que domina las noticias y conversaciones hoy en día.",
+      "level": "b1",
+      "category": "vocabulary",
+      "order": 2006,
+      "prerequisites": [
+        "vocab-b1-05"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-b1-07",
+      "title": "Education: Degrees, Research & Academic Life",
+      "description": "degree, research, scholarship, assignment, revise, lecture, graduate, tuition — el vocabulario de la vida académica.",
+      "level": "b1",
+      "category": "vocabulary",
+      "order": 2007,
+      "prerequisites": [
+        "vocab-b1-06"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-b1-08",
+      "title": "Money & Shopping: Bargains, Budgets and Bills",
+      "description": "refund, receipt, bargain, afford, withdraw, debt, discount, loan — el vocabulario para manejar tu dinero y comprar con confianza en inglés.",
+      "level": "b1",
+      "category": "vocabulary",
+      "order": 2008,
+      "prerequisites": [
+        "vocab-b1-07"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-b1-09",
+      "title": "Phrasal Verbs B1: The Advanced Set",
+      "description": "look up, give up, turn on, find out, carry on, put off, get along, run out of, break down, set up — los phrasal verbs que aparecen en todo texto B1.",
+      "level": "b1",
+      "category": "vocabulary",
+      "order": 2009,
+      "prerequisites": [
+        "vocab-b1-08"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-b1-10",
+      "title": "False Friends B1: Trampas para Hispanohablantes",
+      "description": "actual, realize, sensible, attend, success, fabric, argument, library, embarrassed, carpet — las trampas más comunes en inglés para hispanohablantes.",
+      "level": "b1",
+      "category": "vocabulary",
+      "order": 2010,
+      "prerequisites": [
+        "vocab-b1-09"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 10
+    },
+    {
+      "id": "grammar-b1-01",
+      "title": "Present Perfect Continuous: I've Been Doing...",
+      "description": "Para acciones que empezaron en el pasado y continúan ahora o acaban de terminar. 'I've been waiting for an hour.' Énfasis en la duración y el proceso.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 2101,
+      "prerequisites": [
+        "vocab-b1-10"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-b1-02",
+      "title": "Past Perfect: Había + Participio",
+      "description": "Para la acción que pasó ANTES de otra acción pasada. 'When I arrived, the film had already started.' El pluscuamperfecto del inglés.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 2102,
+      "prerequisites": [
+        "grammar-b1-01"
+      ],
+      "estimatedMinutes": 13,
+      "newItemCount": 3
+    },
+    {
+      "id": "grammar-b1-03",
+      "title": "Passive Voice: The Report Was Written",
+      "description": "La voz pasiva pone el foco en la acción, no en quien la hace. 'The window was broken.' Esencial para textos formales, noticias y descripciones.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 2103,
+      "prerequisites": [
+        "grammar-b1-02"
+      ],
+      "estimatedMinutes": 13,
+      "newItemCount": 3
+    },
+    {
+      "id": "grammar-b1-04",
+      "title": "Reported Speech: He Said That...",
+      "description": "Para contar lo que alguien dijo. Los tiempos verbales 'retroceden' (backshift). 'She said she was tired.' El discurso indirecto en inglés.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 2104,
+      "prerequisites": [
+        "grammar-b1-03"
+      ],
+      "estimatedMinutes": 13,
+      "newItemCount": 3
+    },
+    {
+      "id": "grammar-b1-05",
+      "title": "Modals for Deduction: Must / Might / Can't",
+      "description": "Para expresar qué tan seguros estamos de algo. 'She must be at home.' 'It might be true.' 'He can't be 60.' Deducción en inglés.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 2105,
+      "prerequisites": [
+        "grammar-b1-04"
+      ],
+      "estimatedMinutes": 13,
+      "newItemCount": 3
+    },
+    {
+      "id": "grammar-b1-06",
+      "title": "Second Conditional: If I Had..., I Would...",
+      "description": "Para situaciones imaginarias o improbables: 'If I had more time, I would learn Japanese.' El condicional de los sueños y las hipótesis.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 2106,
+      "prerequisites": [
+        "grammar-b1-05"
+      ],
+      "estimatedMinutes": 13,
+      "newItemCount": 3
+    },
+    {
+      "id": "grammar-b1-07",
+      "title": "Relative Clauses: Who, Which, That, Where",
+      "description": "Para conectar oraciones y dar información sobre personas, cosas y lugares. 'The woman who works at the bank is my aunt.' Defining vs Non-defining.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 2107,
+      "prerequisites": [
+        "grammar-b1-06"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-b1-08",
+      "title": "Used to & Would: Hábitos del Pasado",
+      "description": "Para hablar de lo que hacías antes y ya no. 'I used to live here.' 'We would go to the beach every summer.' La diferencia importa.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 2108,
+      "prerequisites": [
+        "grammar-b1-07"
+      ],
+      "estimatedMinutes": 13,
+      "newItemCount": 3
+    },
+    {
+      "id": "grammar-b1-09",
+      "title": "Connectors: Because of, Although, In Order to",
+      "description": "Los conectores de causa, contraste y propósito son el pegamento de los textos B1. 'Although she was tired, she continued.' 'Due to the rain, the match was cancelled.'",
+      "level": "b1",
+      "category": "grammar",
+      "order": 2109,
+      "prerequisites": [
+        "grammar-b1-08"
+      ],
+      "estimatedMinutes": 13,
+      "newItemCount": 3
+    },
+    {
+      "id": "grammar-b1-10",
+      "title": "Third Conditional: If I Had Known...",
+      "description": "Para situaciones hipotéticas en el PASADO que ya no se pueden cambiar. 'If I had studied harder, I would have passed.' El condicional del arrepentimiento.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 2110,
+      "prerequisites": [
+        "grammar-b1-09"
+      ],
+      "estimatedMinutes": 12,
+      "newItemCount": 2
+    },
+    {
+      "id": "grammar-b1-11",
+      "title": "Wish + Past Simple: Ojalá Tuviera...",
+      "description": "Para expresar deseos sobre el presente que no son realidad. 'I wish I spoke better English.' 'She wishes she didn't have to work on weekends.'",
+      "level": "b1",
+      "category": "grammar",
+      "order": 2111,
+      "prerequisites": [
+        "grammar-b1-10"
+      ],
+      "estimatedMinutes": 13,
+      "newItemCount": 3
+    },
+    {
+      "id": "grammar-b1-12",
+      "title": "So / Such ... that & Too / Enough",
+      "description": "Intensificadores con resultado: 'The movie was so boring that I fell asleep.' 'She is old enough to decide.' 'It's too hot to go outside.'",
+      "level": "b1",
+      "category": "grammar",
+      "order": 2112,
+      "prerequisites": [
+        "grammar-b1-11"
+      ],
+      "estimatedMinutes": 12,
+      "newItemCount": 2
+    },
+    {
+      "id": "grammar-b1-13",
+      "title": "Reported Speech: Questions",
+      "description": "Cómo reportar preguntas en inglés: 'She asked if I liked coffee', 'He asked where I lived'. El orden vuelve a afirmativo y los tiempos retroceden.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 2113,
+      "prerequisites": [
+        "grammar-b1-12"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-b1-14",
+      "title": "Complex Question Tags",
+      "description": "Las coletillas interrogativas con tiempos complejos: 'You've been to Paris, haven't you?', 'She won't come, will she?'. Afirmativa → tag negativo; negativa → tag positivo.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 2114,
+      "prerequisites": [
+        "grammar-b1-13"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-b1-15",
+      "title": "Connectors of Cause: because, since, as, due to, because of",
+      "description": "Expresar causa en inglés: 'because', 'since', 'as' van con cláusula (sujeto + verbo). 'Due to', 'because of' van con sustantivo. El error número uno: mezclarlos.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 2115,
+      "prerequisites": [
+        "grammar-b1-14"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-b1-16",
+      "title": "Connectors of Purpose: to, in order to, so that, so as to",
+      "description": "Cómo decir 'para + infinitivo' y 'para que + subjuntivo' en inglés. 'I came to help', 'I came so that you could rest'. Diferentes niveles de formalidad.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 2116,
+      "prerequisites": [
+        "grammar-b1-15"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-b1-17",
+      "title": "Would + Infinitive: Past Habits",
+      "description": "Otra forma de hablar de hábitos del pasado: 'When I was a kid, I would spend hours in the garden'. 'Would' funciona solo con acciones, no con estados.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 2117,
+      "prerequisites": [
+        "grammar-b1-16"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-b1-18",
+      "title": "Future Continuous: will be doing",
+      "description": "Acciones en progreso en un momento futuro: 'This time tomorrow, I'll be flying to London'. También para preguntas educadas sobre planes.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 2118,
+      "prerequisites": [
+        "grammar-b1-17"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-b1-19",
+      "title": "Relative Clauses (Non-defining)",
+      "description": "Cláusulas relativas que agregan información EXTRA entre comas: 'My brother, who lives in Canada, is visiting'. Nunca con 'that' y nunca omiten el pronombre.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 2119,
+      "prerequisites": [
+        "grammar-b1-18"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-b1-20",
+      "title": "Verb Patterns: Infinitive vs Gerund",
+      "description": "Verbos que van con -ing (enjoy, finish), verbos que van con to-infinitivo (want, decide), y verbos que aceptan los dos pero cambian de significado (stop, remember, try).",
+      "level": "b1",
+      "category": "grammar",
+      "order": 2120,
+      "prerequisites": [
+        "grammar-b1-19"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 5
+    },
+    {
+      "id": "grammar-b1-21",
+      "title": "Too / Enough with To-Infinitive",
+      "description": "'Too heavy to carry' (demasiado para), 'old enough to vote' (suficientemente para), 'enough time to finish'. Estructuras de exceso y suficiencia.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 2121,
+      "prerequisites": [
+        "grammar-b1-20"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-b1-22",
+      "title": "Have Something Done (Causative)",
+      "description": "Para cuando otra persona hace algo por nosotros: 'I'm having my hair cut', 'She got her car repaired'. Un punto que casi siempre se dice mal por influencia del español.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 2122,
+      "prerequisites": [
+        "grammar-b1-21"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "reading-b1-01",
+      "title": "Reading: Working from Home",
+      "description": "Un texto sobre el trabajo remoto, el modelo híbrido y la vida laboral moderna. Vocabulario de trabajo y conectores de contraste.",
+      "level": "b1",
+      "category": "mixed",
+      "order": 2201,
+      "prerequisites": [
+        "grammar-b1-22"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 3
+    },
+    {
+      "id": "reading-b1-02",
+      "title": "Reading: A Trip to New York",
+      "description": "Un relato de viaje en primera persona sobre Nueva York. Tiempo pasado, Past Perfect y vocabulario de viajes en contexto real.",
+      "level": "b1",
+      "category": "mixed",
+      "order": 2202,
+      "prerequisites": [
+        "reading-b1-01"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 3
+    },
+    {
+      "id": "reading-b1-03",
+      "title": "Reading: Social Media and Friendships",
+      "description": "Un texto argumentativo sobre redes sociales y relaciones. Conectores de contraste, opinión y vocabulario digital y social.",
+      "level": "b1",
+      "category": "mixed",
+      "order": 2203,
+      "prerequisites": [
+        "reading-b1-02"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 3
+    },
+    {
+      "id": "reading-b1-04",
+      "title": "Reading: The Job Interview",
+      "description": "El relato de una entrevista de trabajo exitosa. Past Perfect Continuous, vocabulario laboral en contexto narrativo real.",
+      "level": "b1",
+      "category": "mixed",
+      "order": 2204,
+      "prerequisites": [
+        "reading-b1-03"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 3
+    },
+    {
+      "id": "reading-b1-05",
+      "title": "Reading: Climate Change — What Can We Do?",
+      "description": "Un texto informativo y argumentativo sobre el cambio climático y las acciones individuales. Pasiva, conectores de propósito y vocabulario ambiental.",
+      "level": "b1",
+      "category": "mixed",
+      "order": 2205,
+      "prerequisites": [
+        "reading-b1-04"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 3
+    },
+    {
+      "id": "reading-b1-06",
+      "title": "Reading: Moving to Another Country",
+      "description": "El relato personal de mudarse de Argentina a Alemania. 'Used to', 'get used to', Past Perfect y vocabulario de experiencias culturales.",
+      "level": "b1",
+      "category": "mixed",
+      "order": 2206,
+      "prerequisites": [
+        "reading-b1-05"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 3
+    },
+    {
+      "id": "conv-b1-01",
+      "title": "Conversation: Job Interview in English",
+      "description": "Una entrevista de trabajo básica. Cómo presentarte, hablar de tu experiencia y responder preguntas difíciles. Vocabulario y frases clave de entrevistas.",
+      "level": "b1",
+      "category": "mixed",
+      "order": 2251,
+      "prerequisites": [
+        "reading-b1-06"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 3
+    },
+    {
+      "id": "conv-b1-02",
+      "title": "Conversation: Explaining a Medical Problem",
+      "description": "En el médico explicando síntomas y entendiendo el diagnóstico. Vocabulario de salud B1 en contexto real.",
+      "level": "b1",
+      "category": "mixed",
+      "order": 2252,
+      "prerequisites": [
+        "conv-b1-01"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 3
+    },
+    {
+      "id": "conv-b1-03",
+      "title": "Conversation: Making a Complaint at a Hotel",
+      "description": "Cómo reclamar educadamente en un hotel cuando algo sale mal. Modales de cortesía, condicional y vocabulario de servicios.",
+      "level": "b1",
+      "category": "mixed",
+      "order": 2253,
+      "prerequisites": [
+        "conv-b1-02"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 3
+    },
+    {
+      "id": "vocab-b2-01",
+      "title": "Business English: Negotiation & Projects",
+      "description": "Vocabulario esencial para el ámbito profesional: negociar, cumplir plazos, implementar estrategias y evaluar resultados.",
+      "level": "b2",
+      "category": "vocabulary",
+      "order": 3001,
+      "prerequisites": [
+        "conv-b1-03"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-b2-02",
+      "title": "Business English: Reports, Data & Strategy",
+      "description": "Vocabulario para presentar datos, analizar resultados y discutir estrategia empresarial con precisión.",
+      "level": "b2",
+      "category": "vocabulary",
+      "order": 3002,
+      "prerequisites": [
+        "vocab-b2-01"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-b2-03",
+      "title": "Academic English: Research & Evidence",
+      "description": "Vocabulario académico para hablar de investigación, metodología y evidencia con precisión y rigor.",
+      "level": "b2",
+      "category": "vocabulary",
+      "order": 3003,
+      "prerequisites": [
+        "vocab-b2-02"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-b2-04",
+      "title": "Media & Current Affairs",
+      "description": "Vocabulario para discutir los medios de comunicación, política y actualidad con madurez y precisión.",
+      "level": "b2",
+      "category": "vocabulary",
+      "order": 3004,
+      "prerequisites": [
+        "vocab-b2-03"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-b2-05",
+      "title": "Science & Technology Vocabulary",
+      "description": "Vocabulario para hablar de ciencia, tecnología e innovación: desde avances científicos hasta inteligencia artificial.",
+      "level": "b2",
+      "category": "vocabulary",
+      "order": 3005,
+      "prerequisites": [
+        "vocab-b2-04"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-b2-06",
+      "title": "Phrasal Verbs: Advanced Professional Use",
+      "description": "Phrasal verbs de nivel B2 para contextos profesionales y académicos: come across, carry out, figure out y más.",
+      "level": "b2",
+      "category": "vocabulary",
+      "order": 3006,
+      "prerequisites": [
+        "vocab-b2-05"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-b2-07",
+      "title": "Abstract Concepts & Collocations",
+      "description": "Vocabulario abstracto y colocaciones clave para expresar ideas complejas con precisión en inglés.",
+      "level": "b2",
+      "category": "vocabulary",
+      "order": 3007,
+      "prerequisites": [
+        "vocab-b2-06"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-b2-08",
+      "title": "False Friends & Nuanced Vocabulary",
+      "description": "Palabras que parecen fáciles por su similitud con el español, pero tienen trampas. Más vocabulario de registro y matiz.",
+      "level": "b2",
+      "category": "vocabulary",
+      "order": 3008,
+      "prerequisites": [
+        "vocab-b2-07"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-b2-09",
+      "title": "More Phrasal Verbs & the Get Along / Break Down Family",
+      "description": "Phrasal verbs adicionales de nivel B2: get along with, break down, y colocaciones clave para completar el repertorio.",
+      "level": "b2",
+      "category": "vocabulary",
+      "order": 3009,
+      "prerequisites": [
+        "vocab-b2-08"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-b2-01",
+      "title": "Mixed Conditionals: Mezclar Tiempos en Hipotéticas",
+      "description": "Los condicionales mixtos combinan condición y resultado de tiempos diferentes. Dominarlos es una marca clara del B2.",
+      "level": "b2",
+      "category": "grammar",
+      "order": 3101,
+      "prerequisites": [
+        "vocab-b2-09"
+      ],
+      "estimatedMinutes": 13,
+      "newItemCount": 3
+    },
+    {
+      "id": "grammar-b2-02",
+      "title": "Future Perfect & Future Perfect Continuous",
+      "description": "Hablar de acciones que estarán completas antes de un punto futuro, y de duraciones futuras en progreso.",
+      "level": "b2",
+      "category": "grammar",
+      "order": 3102,
+      "prerequisites": [
+        "grammar-b2-01"
+      ],
+      "estimatedMinutes": 13,
+      "newItemCount": 3
+    },
+    {
+      "id": "grammar-b2-03",
+      "title": "Narrative Tenses: Contar Historias en Inglés",
+      "description": "La combinación de past simple, past continuous, past perfect y past perfect continuous para narrar de forma natural.",
+      "level": "b2",
+      "category": "grammar",
+      "order": 3103,
+      "prerequisites": [
+        "grammar-b2-02"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-b2-04",
+      "title": "Extended Passives: Modal, Perfect & Get",
+      "description": "La pasiva avanzada con modales, tiempos perfectos y la pasiva informal con 'get'. Esencial en inglés formal y periodístico.",
+      "level": "b2",
+      "category": "grammar",
+      "order": 3104,
+      "prerequisites": [
+        "grammar-b2-03"
+      ],
+      "estimatedMinutes": 13,
+      "newItemCount": 3
+    },
+    {
+      "id": "grammar-b2-05",
+      "title": "Wish & Unreal Past: Arrepentimiento y Deseo",
+      "description": "Wish + past perfect para arrepentimientos del pasado, y estructuras de pasado irreal como 'as if', 'it's time', 'would rather'.",
+      "level": "b2",
+      "category": "grammar",
+      "order": 3105,
+      "prerequisites": [
+        "grammar-b2-04"
+      ],
+      "estimatedMinutes": 13,
+      "newItemCount": 3
+    },
+    {
+      "id": "grammar-b2-06",
+      "title": "Cleft Sentences & Emphasis",
+      "description": "Estructuras para dar énfasis específico a partes de la oración: 'What I need is...', 'It was John who...', y fronting avanzado.",
+      "level": "b2",
+      "category": "grammar",
+      "order": 3106,
+      "prerequisites": [
+        "grammar-b2-05"
+      ],
+      "estimatedMinutes": 13,
+      "newItemCount": 3
+    },
+    {
+      "id": "grammar-b2-07",
+      "title": "Advanced Relative Clauses & Participle Clauses",
+      "description": "Cláusulas relativas con preposición + which/whom y cuantificadores, más cláusulas participiales para oraciones más elegantes.",
+      "level": "b2",
+      "category": "grammar",
+      "order": 3107,
+      "prerequisites": [
+        "grammar-b2-06"
+      ],
+      "estimatedMinutes": 13,
+      "newItemCount": 3
+    },
+    {
+      "id": "grammar-b2-08",
+      "title": "Discourse Markers: El Inglés Fluido",
+      "description": "Marcadores discursivos para organizar y conectar ideas con sofisticación: 'having said that', 'on the other hand', 'as a matter of fact'.",
+      "level": "b2",
+      "category": "grammar",
+      "order": 3108,
+      "prerequisites": [
+        "grammar-b2-07"
+      ],
+      "estimatedMinutes": 13,
+      "newItemCount": 3
+    },
+    {
+      "id": "grammar-b2-09",
+      "title": "Future Perfect Continuous",
+      "description": "El futuro perfecto continuo se usa para destacar la duración de una acción que habrá estado en progreso hasta un punto en el futuro. Se forma con 'will have been + verbo-ing' y suele aparecer con 'for + duración'. No existe en español: se traduce como 'habré estado + gerundio'.",
+      "level": "b2",
+      "category": "grammar",
+      "order": 3109,
+      "prerequisites": [
+        "grammar-b2-08"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-b2-10",
+      "title": "Past Perfect Continuous",
+      "description": "El past perfect continuous se usa para hablar de una acción que estuvo en progreso durante un período antes de otro evento pasado. Enfatiza la duración de la acción anterior y es clave en narraciones para explicar causas. Se traduce como 'había estado + gerundio'.",
+      "level": "b2",
+      "category": "grammar",
+      "order": 3110,
+      "prerequisites": [
+        "grammar-b2-09"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-b2-11",
+      "title": "Would rather / Had better",
+      "description": "'Would rather' expresa preferencia ('preferiría') y 'had better' da un consejo fuerte con implicación de consecuencia negativa ('más vale que'). Ambas usan el verbo base. Con diferente sujeto, 'would rather' usa el pasado simple. Pese a tener 'had', 'had better' siempre se refiere al presente o futuro.",
+      "level": "b2",
+      "category": "grammar",
+      "order": 3111,
+      "prerequisites": [
+        "grammar-b2-10"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-b2-12",
+      "title": "Participle Clauses",
+      "description": "Cómo usar cláusulas participiales para hacer oraciones más concisas y formales: 'Having finished the report, she left'. Tres tipos: present participle (-ing), past participle (-ed) y perfect participle (having + pp).",
+      "level": "b2",
+      "category": "grammar",
+      "order": 3112,
+      "prerequisites": [
+        "grammar-b2-11"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-b2-13",
+      "title": "Inversion after Negative Adverbials",
+      "description": "Cuando adverbios negativos van al inicio de la oración, el auxiliar se invierte al frente: 'Never have I seen...', 'Not only did she win...'. Estructura formal y enfática, especialmente en discursos y escritura.",
+      "level": "b2",
+      "category": "grammar",
+      "order": 3113,
+      "prerequisites": [
+        "grammar-b2-12"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-b2-14",
+      "title": "Unreal Past (Subjunctive Uses)",
+      "description": "El inglés usa tiempos pasados para expresar situaciones irreales en el presente: 'It's time you left', 'He acts as if he were the boss', 'I'd rather you came tomorrow'. La misma lógica del segundo condicional aplicada a otras estructuras.",
+      "level": "b2",
+      "category": "grammar",
+      "order": 3114,
+      "prerequisites": [
+        "grammar-b2-13"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-b2-15",
+      "title": "Advanced Modal Meanings",
+      "description": "A nivel B2, los modales expresan significados sutiles sobre el pasado: 'should have done' (reproche/arrepentimiento), 'needn't have done' (innecesario pero lo hiciste), 'could have done' (posibilidad no realizada), 'must have done' (deducción), 'was/were to have done' (plan formal no cumplido).",
+      "level": "b2",
+      "category": "grammar",
+      "order": 3115,
+      "prerequisites": [
+        "grammar-b2-14"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-b2-16",
+      "title": "Emphasis & Fronting",
+      "description": "El fronting mueve un elemento al inicio de la oración para darle énfasis retórico. Incluye estructuras como 'What she did was...', 'Strange though it may seem...', 'Little did they know...'. Muy frecuente en escritura periodística, discursos y exámenes B2.",
+      "level": "b2",
+      "category": "grammar",
+      "order": 3116,
+      "prerequisites": [
+        "grammar-b2-15"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "reading-b2-01",
+      "title": "Reading: The Ethics of Artificial Intelligence",
+      "description": "Lectura y comprensión de un texto argumentativo sobre la IA y su regulación. Vocabulario académico en contexto real.",
+      "level": "b2",
+      "category": "mixed",
+      "order": 3201,
+      "prerequisites": [
+        "grammar-b2-16"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 3
+    },
+    {
+      "id": "reading-b2-02",
+      "title": "Reading: Book Review — '1984' by George Orwell",
+      "description": "Lectura de una reseña literaria con vocabulario crítico y estructuras analíticas B2.",
+      "level": "b2",
+      "category": "mixed",
+      "order": 3202,
+      "prerequisites": [
+        "reading-b2-01"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 3
+    },
+    {
+      "id": "reading-b2-03",
+      "title": "Reading: Why Do We Procrastinate?",
+      "description": "Texto de psicología sobre la procrastinación. Vocabulario científico popular y argumentación con evidencia.",
+      "level": "b2",
+      "category": "mixed",
+      "order": 3203,
+      "prerequisites": [
+        "reading-b2-02"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 3
+    },
+    {
+      "id": "reading-b2-04",
+      "title": "Reading: The Gig Economy — Freedom or Exploitation?",
+      "description": "Texto argumentativo sobre la economía gig: vocabulario laboral, estructura de debate y análisis de perspectivas opuestas.",
+      "level": "b2",
+      "category": "mixed",
+      "order": 3204,
+      "prerequisites": [
+        "reading-b2-03"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 3
+    },
+    {
+      "id": "reading-b2-05",
+      "title": "Reading: A Letter from Abroad",
+      "description": "Lectura de una carta formal/semi-formal de una estudiante de intercambio. Registro epistolar y vocabulario académico en contexto.",
+      "level": "b2",
+      "category": "mixed",
+      "order": 3205,
+      "prerequisites": [
+        "reading-b2-04"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 3
+    },
+    {
+      "id": "conv-b2-01",
+      "title": "Professional Meeting: Presenting Quarterly Results",
+      "description": "Dirigir y participar en una reunión profesional en inglés: presentar datos, responder preguntas y manejar objeciones.",
+      "level": "b2",
+      "category": "mixed",
+      "order": 3251,
+      "prerequisites": [
+        "reading-b2-05"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 3
+    },
+    {
+      "id": "conv-b2-02",
+      "title": "Job Interview: Applying for a Professional Role",
+      "description": "Entrevista de trabajo en inglés: responder preguntas sobre experiencia, habilidades y motivación con naturalidad y precisión.",
+      "level": "b2",
+      "category": "mixed",
+      "order": 3252,
+      "prerequisites": [
+        "conv-b2-01"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 3
+    },
+    {
+      "id": "conv-b2-03",
+      "title": "Debate: Should AI Be More Regulated?",
+      "description": "Debate académico/profesional sobre un tema de actualidad. Argumentar, refutar y llegar a conclusiones en inglés con sofisticación.",
+      "level": "b2",
+      "category": "mixed",
+      "order": 3253,
+      "prerequisites": [
+        "conv-b2-02"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 3
+    },
+    {
+      "id": "vocab-c1-01",
+      "title": "Academic Verbs: Argue, Analyse, Build",
+      "description": "Verbos de alto uso académico y formal: elaborate, implement, undermine, constitute, facilitate. Las bases del discurso analítico.",
+      "level": "c1",
+      "category": "vocabulary",
+      "order": 4001,
+      "prerequisites": [
+        "conv-b2-03"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-c1-02",
+      "title": "Argumentation Language",
+      "description": "Las palabras que estructuran un argumento sofisticado: nevertheless, whereas, allegedly, arguably, notwithstanding, subtle, ambiguous, coherent, empirical.",
+      "level": "c1",
+      "category": "vocabulary",
+      "order": 4002,
+      "prerequisites": [
+        "vocab-c1-01"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-c1-03",
+      "title": "Advanced Phrasal Verbs I",
+      "description": "Phrasal verbs sofisticados de uso académico y profesional: account for, boil down to, phase out, stem from, rule out, opt for.",
+      "level": "c1",
+      "category": "vocabulary",
+      "order": 4003,
+      "prerequisites": [
+        "vocab-c1-02"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 6
+    },
+    {
+      "id": "vocab-c1-04",
+      "title": "Advanced Phrasal Verbs II & Collocations",
+      "description": "Más phrasal verbs C1 de alta frecuencia y colocaciones esenciales: come up with, dawn on, pose a threat, reach a consensus, bridge the gap, meet a deadline.",
+      "level": "c1",
+      "category": "vocabulary",
+      "order": 4004,
+      "prerequisites": [
+        "vocab-c1-03"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 6
+    },
+    {
+      "id": "vocab-c1-05",
+      "title": "Idioms & Fixed Expressions I",
+      "description": "Idioms de alta frecuencia en inglés profesional e informal: shed light on, raise awareness, take into account, draw a conclusion, beat around the bush, hit the nail on the head.",
+      "level": "c1",
+      "category": "vocabulary",
+      "order": 4005,
+      "prerequisites": [
+        "vocab-c1-04"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 6
+    },
+    {
+      "id": "vocab-c1-06",
+      "title": "Idioms & Fixed Expressions II",
+      "description": "Expresiones idiomáticas de negocios y comunicación: get the ball rolling, be on the same page, cut corners, break new ground, once in a blue moon, the ball is in your court.",
+      "level": "c1",
+      "category": "vocabulary",
+      "order": 4006,
+      "prerequisites": [
+        "vocab-c1-05"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 6
+    },
+    {
+      "id": "vocab-c1-07",
+      "title": "Abstract Nouns: The Language of Ideas",
+      "description": "Sustantivos abstractos para el pensamiento complejo: perception, autonomy, paradigm, discourse, rationale, catalyst, dichotomy, trajectory, coherent.",
+      "level": "c1",
+      "category": "vocabulary",
+      "order": 4007,
+      "prerequisites": [
+        "vocab-c1-06"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-c1-01",
+      "title": "Inversion with Negative Adverbials",
+      "description": "La inversión sujeto-auxiliar con adverbios negativos: Never have I..., Not only did she..., Hardly had I... Un recurso formal y literario que marca el C1.",
+      "level": "c1",
+      "category": "grammar",
+      "order": 4101,
+      "prerequisites": [
+        "vocab-c1-07"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-c1-02",
+      "title": "Advanced Mixed Conditionals",
+      "description": "Los condicionales mixtos: If + past perfect, would + base verb (pasado irreal → presente) y If + past simple, would have + past participle (condición permanente → pasado irreal).",
+      "level": "c1",
+      "category": "grammar",
+      "order": 4102,
+      "prerequisites": [
+        "grammar-c1-01"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-c1-03",
+      "title": "Modals in the Past (All Forms)",
+      "description": "Todos los modales en pasado: should have, could have, must have, needn't have, might have been — deducciones, arrepentimientos y posibilidades no realizadas.",
+      "level": "c1",
+      "category": "grammar",
+      "order": 4103,
+      "prerequisites": [
+        "grammar-c1-02"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-c1-04",
+      "title": "All Passive Forms",
+      "description": "Todas las formas pasivas: being done, having been done, get + pp, pasiva impersonal con verbos de reporte (It is said that... / He is believed to have...)",
+      "level": "c1",
+      "category": "grammar",
+      "order": 4104,
+      "prerequisites": [
+        "grammar-c1-03"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-c1-05",
+      "title": "Wish / If Only (All Tenses)",
+      "description": "Wish e If only para expresar deseos y arrepentimientos: wish + past simple (presente), wish + past perfect (pasado), wish + would (futuro/irritación).",
+      "level": "c1",
+      "category": "grammar",
+      "order": 4105,
+      "prerequisites": [
+        "grammar-c1-04"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-c1-06",
+      "title": "Ellipsis and Substitution",
+      "description": "La elipsis y sustitución en inglés: So do I / Neither can she / I think so / I hope not / auxiliary stranding. Las omisiones que hacen sonar el inglés natural.",
+      "level": "c1",
+      "category": "grammar",
+      "order": 4106,
+      "prerequisites": [
+        "grammar-c1-05"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-c1-07",
+      "title": "Nominal Clauses and Complex Complementation",
+      "description": "Cláusulas nominales como sujeto y objeto: The fact that..., It struck me that..., There's no denying that..., Whether or not... Estructuras del discurso formal.",
+      "level": "c1",
+      "category": "grammar",
+      "order": 4107,
+      "prerequisites": [
+        "grammar-c1-06"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-c1-08",
+      "title": "Phrasal Verb Splitting & Complex Patterns",
+      "description": "Los phrasal verbs separables permiten colocar el objeto entre el verbo y la partícula ('turn it down') o después ('turn down the offer'). Con pronombres, la separación es obligatoria. Los phrasal verbs apilados y de tres palabras son inseparables. Considerada la dificultad número uno para hispanohablantes avanzados.",
+      "level": "c1",
+      "category": "grammar",
+      "order": 4108,
+      "prerequisites": [
+        "grammar-c1-07"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "reading-c1-01",
+      "title": "Reading: The Paradox of Choice",
+      "description": "Lectura C1: el psicólogo Barry Schwartz y por qué más opciones nos hacen menos felices. Comprensión con análisis crítico e inferencial.",
+      "level": "c1",
+      "category": "mixed",
+      "order": 4201,
+      "prerequisites": [
+        "grammar-c1-08"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 3
+    },
+    {
+      "id": "reading-c1-02",
+      "title": "Reading: Language and Thought (Sapir-Whorf)",
+      "description": "¿El idioma que hablamos moldea cómo pensamos? La hipótesis de Sapir-Whorf: determinismo lingüístico vs relatividad lingüística.",
+      "level": "c1",
+      "category": "mixed",
+      "order": 4202,
+      "prerequisites": [
+        "reading-c1-01"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 3
+    },
+    {
+      "id": "reading-c1-03",
+      "title": "Reading: The Economics of Inequality",
+      "description": "El debate sobre la desigualdad económica: Piketty, r>g, Wilkinson y Pickett, y las implicaciones políticas. Comprensión de argumento económico complejo.",
+      "level": "c1",
+      "category": "mixed",
+      "order": 4203,
+      "prerequisites": [
+        "reading-c1-02"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 3
+    },
+    {
+      "id": "reading-c1-04",
+      "title": "Reading: Digital Privacy in the Age of Surveillance",
+      "description": "Privacidad digital, GDPR, Snowden y el 'chilling effect'. Comprensión de texto argumentativo sobre derechos civiles y tecnología.",
+      "level": "c1",
+      "category": "mixed",
+      "order": 4204,
+      "prerequisites": [
+        "reading-c1-03"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 3
+    },
+    {
+      "id": "conv-c1-01",
+      "title": "Presenting a Project Proposal",
+      "description": "Presentá una propuesta de proyecto en inglés profesional. Practica el lenguaje de justificación, respuesta a preguntas difíciles y hedging académico.",
+      "level": "c1",
+      "category": "mixed",
+      "order": 4251,
+      "prerequisites": [
+        "reading-c1-04"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 3
+    },
+    {
+      "id": "conv-c1-02",
+      "title": "Academic Discussion & Polite Disagreement",
+      "description": "Debate académico en inglés: cómo disentir con elegancia, matizar una posición, hacer preguntas retóricas y manejar el turno en una conversación formal.",
+      "level": "c1",
+      "category": "mixed",
+      "order": 4252,
+      "prerequisites": [
+        "conv-c1-01"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 3
+    },
+    {
+      "id": "vocab-c2-01",
+      "title": "Literary & Poetic Vocabulary",
+      "description": "Palabras del registro literario y poético inglés: ephemeral, ineffable, ethereal, melancholy. Para escritura creativa, crítica literaria y discurso cultivado.",
+      "level": "c2",
+      "category": "vocabulary",
+      "order": 5001,
+      "prerequisites": [
+        "conv-c1-02"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 7
+    },
+    {
+      "id": "vocab-c2-02",
+      "title": "Legal & Formal Register",
+      "description": "Vocabulario legal y formal: jurisdiction, indemnify, stipulate, adjudicate, precedent, waive. Para contratos, documentos oficiales y discurso jurídico.",
+      "level": "c2",
+      "category": "vocabulary",
+      "order": 5002,
+      "prerequisites": [
+        "vocab-c2-01"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 7
+    },
+    {
+      "id": "vocab-c2-03",
+      "title": "Archaic & Formal Connectors",
+      "description": "Conectores arcaicos y formales: hitherto, whence, forthwith, albeit, lest, inasmuch. Para escritura académica y literaria de alto registro.",
+      "level": "c2",
+      "category": "vocabulary",
+      "order": 5003,
+      "prerequisites": [
+        "vocab-c2-02"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 6
+    },
+    {
+      "id": "vocab-c2-04",
+      "title": "Idiomatic Expressions Mastery",
+      "description": "Idioms de nivel C2: the writing is on the wall, turn a blind eye, a double-edged sword, tip of the iceberg. Reconocer y producir estas expresiones marca fluidez nativa.",
+      "level": "c2",
+      "category": "vocabulary",
+      "order": 5004,
+      "prerequisites": [
+        "vocab-c2-03"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-c2-05",
+      "title": "Polysemous Verbs: Register-Shifting Power",
+      "description": "Verbos que cambian de registro según el contexto: address, exercise, engage, craft, champion, harbor, spell, tender, table. Dominio de polisemia C2.",
+      "level": "c2",
+      "category": "vocabulary",
+      "order": 5005,
+      "prerequisites": [
+        "vocab-c2-04"
+      ],
+      "estimatedMinutes": 15,
+      "newItemCount": 9
+    },
+    {
+      "id": "vocab-c2-06",
+      "title": "Academic & Analytical Vocabulary",
+      "description": "Vocabulario académico y analítico: ubiquitous, juxtaposition, surreptitious. Para crítica cultural, ensayo académico y análisis sofisticado.",
+      "level": "c2",
+      "category": "vocabulary",
+      "order": 5006,
+      "prerequisites": [
+        "vocab-c2-05"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 3
+    },
+    {
+      "id": "grammar-c2-01",
+      "title": "Subjunctive in English",
+      "description": "El subjuntivo en inglés: vestigial, formulaico y mandativo. Cuándo usarlo, cuándo NO usarlo (el error de hispanohablantes), y sus expresiones fijas.",
+      "level": "c2",
+      "category": "grammar",
+      "order": 5101,
+      "prerequisites": [
+        "vocab-c2-06"
+      ],
+      "estimatedMinutes": 14,
+      "newItemCount": 4
+    },
+    {
+      "id": "grammar-c2-02",
+      "title": "Advanced Discourse Organization",
+      "description": "Fronting, dislocación y hedging. Herramientas C2 para organizar el discurso con propósito estilístico.",
+      "level": "c2",
+      "category": "grammar",
+      "order": 5102,
+      "prerequisites": [
+        "grammar-c2-01"
+      ],
+      "estimatedMinutes": 13,
+      "newItemCount": 3
+    },
+    {
+      "id": "grammar-c2-03",
+      "title": "Complex Tense Interactions in Narrative",
+      "description": "Futuro en el pasado, presente histórico, y discurso indirecto libre. Los tiempos verbales como herramienta narrativa avanzada.",
+      "level": "c2",
+      "category": "grammar",
+      "order": 5103,
+      "prerequisites": [
+        "grammar-c2-02"
+      ],
+      "estimatedMinutes": 13,
+      "newItemCount": 3
+    },
+    {
+      "id": "grammar-c2-04",
+      "title": "Idiomatic Conditionals and Fixed Expressions",
+      "description": "Condicionales que rompen las reglas: 'But for', 'Come what may', 'Be that as it may', 'What with...and...'. Fósiles gramaticales del inglés C2.",
+      "level": "c2",
+      "category": "grammar",
+      "order": 5104,
+      "prerequisites": [
+        "grammar-c2-03"
+      ],
+      "estimatedMinutes": 13,
+      "newItemCount": 3
+    },
+    {
+      "id": "grammar-c2-05",
+      "title": "Pragmatic Competence: Implicature and Indirectness",
+      "description": "Litotes, understatement, e indirección cortés. La pragmática británica en su máxima sofisticación — la marca final del C2.",
+      "level": "c2",
+      "category": "grammar",
+      "order": 5105,
+      "prerequisites": [
+        "grammar-c2-04"
+      ],
+      "estimatedMinutes": 13,
+      "newItemCount": 3
+    },
+    {
+      "id": "reading-c2-01",
+      "title": "Reading: On the Nature of Memory",
+      "description": "Ensayo filosófico-científico sobre la memoria como reconstrucción. Vocabulario académico C2 y argumentación sofisticada.",
+      "level": "c2",
+      "category": "mixed",
+      "order": 5201,
+      "prerequisites": [
+        "grammar-c2-05"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 2
+    },
+    {
+      "id": "reading-c2-02",
+      "title": "Reading: The Unreliable Narrator",
+      "description": "Ensayo de crítica literaria sobre el narrador no confiable. Taxonomías, ejemplos canónicos y reflexión filosófica sobre la verdad narrativa.",
+      "level": "c2",
+      "category": "mixed",
+      "order": 5202,
+      "prerequisites": [
+        "reading-c2-01"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 2
+    },
+    {
+      "id": "reading-c2-03",
+      "title": "Reading: Democracy and Its Discontents",
+      "description": "Ensayo de ciencia política sobre la crisis democrática del siglo XXI. Análisis causal, argumentación contrastada y propuesta conclusiva.",
+      "level": "c2",
+      "category": "mixed",
+      "order": 5203,
+      "prerequisites": [
+        "reading-c2-02"
+      ],
+      "estimatedMinutes": 11,
+      "newItemCount": 2
+    },
+    {
+      "id": "conv-c2-01",
+      "title": "Conversation: Formal Disagreement in a Board Meeting",
+      "description": "Cómo discrepar en una reunión formal manteniendo cortesía y precisión. Maestría de hedging, concesión y disagreement diplomático.",
+      "level": "c2",
+      "category": "mixed",
+      "order": 5251,
+      "prerequisites": [
+        "reading-c2-03"
+      ],
+      "estimatedMinutes": 10,
+      "newItemCount": 1
+    },
+    {
+      "id": "conv-c2-02",
+      "title": "Conversation: Academic Debate on Literature",
+      "description": "Debate académico sobre crítica literaria. Uso de hedging, concesiones matizadas y disagreement intelectual respetuoso en contexto universitario.",
+      "level": "c2",
+      "category": "mixed",
+      "order": 5252,
+      "prerequisites": [
+        "conv-c2-01"
+      ],
+      "estimatedMinutes": 10,
+      "newItemCount": 1
     }
   ]
 }

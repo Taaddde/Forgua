@@ -1,0 +1,182 @@
+{
+  "id": "grammar-b1-21",
+  "title": "Too / Enough with To-Infinitive",
+  "description": "'Too heavy to carry' (demasiado para), 'old enough to vote' (suficientemente para), 'enough time to finish'. Estructuras de exceso y suficiencia.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Too / Enough (too + adjective + to | adjective + enough + to | enough + noun)",
+      "back": "Too = exceso (demasiado para). Enough = suficiencia. Ambos combinan con to-infinitivo.",
+      "reading": "/tuː ɪˈnʌf/",
+      "explanation": "Tres patrones clave: (1) 'TOO + adjetivo + to + verbo' = demasiado X para hacer algo ('too tired to study'). (2) 'Adjetivo + ENOUGH + to + verbo' = suficientemente X para hacer algo ('old enough to vote'). (3) 'ENOUGH + sustantivo + to + verbo' = suficiente cantidad para hacer algo ('enough time to finish'). Se puede agregar 'for + persona' para especificar: 'too heavy for me to carry'.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Too / Enough (too + adjective + to | adjective + enough + to | enough + noun)"
+      }
+    },
+    {
+      "front": "This suitcase is too heavy for me to carry.",
+      "back": "'Too + adj + (for + persona) + to + verbo'. Exceso que impide algo.",
+      "reading": "/ðɪs ˈsuːtkeɪs ɪz tuː ˈhɛvi fɔːr miː tə ˈkæri/",
+      "explanation": "'Too' tiene sentido NEGATIVO: indica que algo es excesivo y eso IMPIDE la acción. 'Too heavy to carry' = tan pesada que no la puedo cargar. NO confundir con 'very': 'very heavy' = muy pesada (pero quizás sí puedo cargarla). Con 'for + persona', especificamos para quién: 'too expensive for students'."
+    },
+    {
+      "front": "She is old enough to make her own decisions.",
+      "back": "'Adjetivo + enough + to-inf'. ENOUGH va DESPUÉS del adjetivo, no antes.",
+      "reading": "/ʃiː ɪz oʊld ɪˈnʌf tə meɪk/",
+      "explanation": "Orden clave: adjetivo PRIMERO, 'enough' DESPUÉS. 'Old enough', 'tall enough', 'rich enough' — nunca 'enough old', 'enough tall'. Error típico del hispanohablante: 'suficientemente grande' → tentación de poner 'enough' antes. CORRECTO: 'big enough'. INCORRECTO: 'enough big'."
+    },
+    {
+      "front": "There aren't enough chairs for everyone to sit down.",
+      "back": "'Enough + sustantivo + to-inf'. Con sustantivos, ENOUGH va ANTES.",
+      "reading": "/ðɛər ɑːrnt ɪˈnʌf tʃɛərz/",
+      "explanation": "La regla cambia con sustantivos: 'enough' va ANTES del sustantivo. 'Enough chairs', 'enough money', 'enough time', 'enough people'. Resumen: enough DESPUÉS de adjetivos/adverbios, enough ANTES de sustantivos. También se puede agregar 'for + persona': 'enough time for me to study'."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "'Too' = exceso negativo",
+      "instruction": "'Too + adjetivo + to-infinitivo' significa que algo es demasiado y por eso NO se puede hacer algo. Implicación siempre negativa. Se puede agregar 'for + persona' para aclarar para quién.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "'Enough': posición según adjetivo o sustantivo",
+      "instruction": "Con adjetivos/adverbios: 'adj + ENOUGH + to-inf' (old enough to vote). Con sustantivos: 'ENOUGH + noun + to-inf' (enough money to buy). La posición cambia según qué palabra acompañe.",
+      "itemIndices": [2, 3]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con too o enough",
+      "instruction": "Prestá atención a la posición y elegí la forma correcta.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "The coffee is {0} hot {1} drink right now.",
+            "blanks": [
+              { "answer": "too", "options": ["too", "enough", "very"] },
+              { "answer": "to", "options": ["to", "for", "that"] }
+            ]
+          },
+          {
+            "template": "He isn't tall {0} to reach the top shelf.",
+            "blanks": [
+              { "answer": "enough", "options": ["enough", "too", "very"] }
+            ]
+          },
+          {
+            "template": "We don't have {0} time to finish the project this week.",
+            "blanks": [
+              { "answer": "enough", "options": ["enough", "too much", "too"] }
+            ]
+          },
+          {
+            "template": "This film is {0} scary {1} children {2} watch.",
+            "blanks": [
+              { "answer": "too", "options": ["too", "enough", "very"] },
+              { "answer": "for", "options": ["for", "to", "with"] },
+              { "answer": "to", "options": ["to", "for", "that"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Revisá la posición de 'enough' y la estructura con 'to-infinitivo'.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "I'm not strong enough to lift this box alone.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Enough' va DESPUÉS del adjetivo ('strong enough'), seguido de 'to + infinitivo'. Estructura impecable para expresar suficiencia con adjetivo.",
+            "errorType": "enough-position"
+          },
+          {
+            "sentence": "She is enough intelligent to solve the problem.",
+            "isCorrect": false,
+            "correction": "She is intelligent enough to solve the problem.",
+            "explanation": "INCORRECTO. 'Enough' va DESPUÉS de los adjetivos, nunca antes. Error típico de hispanohablantes que traducen literalmente 'suficientemente inteligente'. En inglés: 'intelligent enough'.",
+            "errorType": "enough-position"
+          },
+          {
+            "sentence": "The water was too cold for swim.",
+            "isCorrect": false,
+            "correction": "The water was too cold to swim. / The water was too cold for swimming.",
+            "explanation": "INCORRECTO. Después de 'too + adj' se usa 'to + infinitivo' ('to swim'), no 'for + infinitivo'. Si querés usar 'for', debe ir con gerundio ('for swimming'), pero la forma más natural con 'too' es con to-infinitivo.",
+            "errorType": "too-structure"
+          },
+          {
+            "sentence": "There weren't enough seats for everyone to sit down.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Enough' ANTES del sustantivo ('enough seats'), 'for + persona' ('for everyone'), 'to + infinitivo' ('to sit down'). Estructura completa y natural.",
+            "errorType": "enough-structure"
+          }
+        ]
+      }
+    },
+    {
+      "type": "word-in-context",
+      "title": "Too / Enough en contexto",
+      "instruction": "Elegí la oración donde la estructura está bien formada.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "too expensive to",
+            "translation": "demasiado caro para",
+            "options": [
+              "The car was too expensive for buy.",
+              "The car was too much expensive to buy.",
+              "The car was too expensive to buy.",
+              "The car was expensive too to buy."
+            ],
+            "correctIndex": 2
+          },
+          {
+            "targetWord": "enough money to",
+            "translation": "suficiente dinero para",
+            "options": [
+              "I don't have money enough to buy a new phone.",
+              "I don't have enough money to buy a new phone.",
+              "I don't have money enough for buy a new phone.",
+              "I don't have enough of money to buy a new phone."
+            ],
+            "correctIndex": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá oraciones con too y enough",
+      "instruction": "Ordená los fragmentos para formar oraciones correctas.",
+      "itemIndices": [1, 2],
+      "config": {
+        "sentences": [
+          {
+            "translation": "Estaba demasiado cansado para salir anoche.",
+            "fragments": ["I was", "too tired", "to go out", "last night."],
+            "correctOrder": [0, 1, 2, 3]
+          },
+          {
+            "translation": "Ella tiene la edad suficiente como para votar ahora.",
+            "fragments": ["She is", "old enough", "to vote", "now."],
+            "correctOrder": [0, 1, 2, 3]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "'TOO + adjetivo + to-inf' = exceso que impide (too heavy to carry). 'Adjetivo + ENOUGH + to-inf' = suficiencia (old enough to vote). 'ENOUGH + sustantivo + to-inf' = cantidad suficiente (enough time to finish). Regla de posición: 'enough' DESPUÉS de adjetivos, ANTES de sustantivos. Se puede agregar 'for + persona' para precisar.",
+      "itemIndices": [0, 1, 2, 3]
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "id": "grammar-b1-05",
+  "title": "Modals for Deduction: Must / Might / Can't",
+  "description": "Para expresar qué tan seguros estamos de algo. 'She must be at home.' 'It might be true.' 'He can't be 60.' Deducción en inglés.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "She must be at home. Her car is in the driveway.",
+      "back": "Debe estar en casa. Su auto está en la entrada.",
+      "reading": "/ʃiː mʌst biː ət hoʊm hɜːr kɑːr ɪz ɪn ðə ˈdraɪvweɪ/",
+      "explanation": "'Must be' = estamos casi seguros de que es verdad (95% de certeza). NO es obligación aquí — el contexto determina el significado. Es una deducción lógica basada en evidencia. En español: 'debe ser', 'debe de ser'.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Modals for Deduction (Present) (must be / might be / could be / can't be)"
+      }
+    },
+    {
+      "front": "That might be true, but I'm not sure. / She could be at the gym.",
+      "back": "Eso podría ser verdad, pero no estoy seguro. / Podría estar en el gym.",
+      "reading": "",
+      "explanation": "'Might be' y 'could be' expresan posibilidad (~50%). No estamos seguros. 'May be' también es posible y es ligeramente más formal. En español: 'podría ser', 'quizás'. Diferencia con 'must': must = casi seguro; might/could = posible pero incierto."
+    },
+    {
+      "front": "He can't be 60 years old. He looks so young!",
+      "back": "No puede tener 60 años. ¡Se ve tan joven!",
+      "reading": "/hiː kænt biː sɪksti ˈjɪrz oʊld hiː lʊks soʊ jʌŋ/",
+      "explanation": "'Can't be' = estamos casi seguros de que NO es verdad (~5% de certeza). Es la opuesta de 'must be'. En español: 'no puede ser', 'es imposible que'. Escala: must (95%) > could/might (50%) > can't (5%)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Deducción: ¿qué tan seguros estamos?",
+      "instruction": "Usamos modales para expresar certeza. 'Must be' = casi seguro que sí. 'Might/Could be' = posible pero incierto. 'Can't be' = casi seguro que no. Esto es diferente del 'must' de obligación.",
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es el nivel de certeza?",
+      "instruction": "Elegí el modal correcto según el contexto y nivel de certeza.",
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Dónde se usa bien?",
+      "instruction": "Elegí la oración donde el modal de deducción está usado correctamente.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "must be",
+            "translation": "debe ser (deducción de alta certeza)",
+            "options": [
+              "You must be tired after walking 20 kilometers.",
+              "You must be walked to the store.",
+              "She must be going to the store yesterday.",
+              "He must be a good player in the past."
+            ],
+            "correctIndex": 0,
+            "feedback": "'Must be' + adjetivo (tired) expresa deducción lógica: si caminaste 20 km, es muy probable que estés cansado. Las otras opciones tienen errores gramaticales."
+          },
+          {
+            "targetWord": "can't be",
+            "translation": "no puede ser (deducción negativa)",
+            "options": [
+              "That can't be right — I checked the numbers twice.",
+              "She can't be eaten any pizza tonight.",
+              "They can't be arrived late yesterday.",
+              "He can't be working hard in the past."
+            ],
+            "correctIndex": 0,
+            "feedback": "'Can't be right' expresa que estamos casi seguros de que algo es incorrecto, basado en evidencia (los números). Es una deducción negativa correcta."
+          },
+          {
+            "targetWord": "might be",
+            "translation": "podría ser (posibilidad)",
+            "options": [
+              "It might rain tomorrow, so take an umbrella.",
+              "She might be came from Brazil.",
+              "They might went to the cinema yesterday.",
+              "He might is working right now."
+            ],
+            "correctIndex": 0,
+            "feedback": "'Might + base verb' es correcto. 'It might rain' = es posible que llueva. Todos los modales van seguidos de la forma base del verbo, no del participio ni formas conjugadas."
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Identificá errores en el uso de modales de deducción.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "She must be very intelligent — she got 100% in every test.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Must be + adjetivo' para deducción lógica basada en evidencia. Alta certeza.",
+            "errorType": "modal"
+          },
+          {
+            "sentence": "That can't be your bag. Yours is blue.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Can't be' para deducción negativa: es casi imposible que sea tu bolso si el tuyo es azul.",
+            "errorType": "modal"
+          },
+          {
+            "sentence": "He must works in a hospital — he's always wearing scrubs.",
+            "isCorrect": false,
+            "correction": "He must work in a hospital.",
+            "explanation": "INCORRECTO. Después de un modal (must, might, can't, could), el verbo va en FORMA BASE, sin -s. Correcto: 'He must work' (no 'must works').",
+            "errorType": "modal-base-form"
+          },
+          {
+            "sentence": "They might not know the answer.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Might not + base verb' para posibilidad negativa. Es natural y frecuente.",
+            "errorType": "modal"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Modales de deducción: MUST BE (95% seguro que sí) → MIGHT/COULD BE (50% posible) → CAN'T BE (95% seguro que no). Todos van seguidos de la forma BASE del verbo. 'Must be' de deducción ≠ 'must' de obligación — el contexto determina cuál es.",
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
+    }
+  ]
+}

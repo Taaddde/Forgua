@@ -1,0 +1,126 @@
+{
+  "id": "vocab-a1-16",
+  "title": "Question Words & Time Adverbs : Preguntas y frecuencia",
+  "description": "Las cinco preguntas básicas (what, where, when, who, how) y dos adverbios clave de tiempo (now, always). Fundamentales para conversar y hacer preguntas.",
+  "level": "a1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "what",
+      "back": "qué",
+      "reading": "/wɑːt/",
+      "explanation": "Qué. Se usa para preguntar por cosas o información. 'What is your name?', 'What do you want?'. ¡OJO! 'What' NO se usa para 'qué + sustantivo' — para eso se usa 'which' a veces. El orden es siempre: 'What + auxiliar + sujeto + verbo'.",
+      "cardRef": { "category": "vocabulary", "front": "what" }
+    },
+    {
+      "front": "where",
+      "back": "dónde",
+      "reading": "/wɛr/",
+      "explanation": "Dónde. Para preguntar por lugar. 'Where are you?', 'Where do you live?'. Homófono de 'wear' (usar ropa). No confundir con 'were' /wɜːr/ (pasado de are).",
+      "cardRef": { "category": "vocabulary", "front": "where" }
+    },
+    {
+      "front": "when",
+      "back": "cuándo",
+      "reading": "/wɛn/",
+      "explanation": "Cuándo. Para preguntar por tiempo. 'When is your birthday?', 'When do you work?'. Atención: 'when' también funciona como conjunción ('when I was young' = cuando era joven).",
+      "cardRef": { "category": "vocabulary", "front": "when" }
+    },
+    {
+      "front": "who",
+      "back": "quién",
+      "reading": "/huː/",
+      "explanation": "Quién. Para preguntar por personas. 'Who is she?', 'Who do you like?'. La 'w' es MUDA — se pronuncia /huː/, como 'hoo'. Sorprendente, pero así es en inglés.",
+      "cardRef": { "category": "vocabulary", "front": "who" }
+    },
+    {
+      "front": "how",
+      "back": "cómo",
+      "reading": "/haʊ/",
+      "explanation": "Cómo. Para preguntar por la manera o el estado. 'How are you?' (¿cómo estás?), 'How do you say...?' (¿cómo se dice...?). También forma frases clave: 'how much' (cuánto), 'how many' (cuántos), 'how old' (qué edad).",
+      "cardRef": { "category": "vocabulary", "front": "how" }
+    },
+    {
+      "front": "now",
+      "back": "ahora",
+      "reading": "/naʊ/",
+      "explanation": "Ahora. Adverbio de tiempo presente. Posición flexible: 'Now I am working' o 'I am working now'. Común en frases como 'right now' (ahora mismo), 'for now' (por ahora).",
+      "cardRef": { "category": "vocabulary", "front": "now" }
+    },
+    {
+      "front": "always",
+      "back": "siempre",
+      "reading": "/ˈɔːlweɪz/",
+      "explanation": "Siempre. Adverbio de frecuencia. POSICIÓN IMPORTANTE: va ANTES del verbo principal ('I always eat rice') pero DESPUÉS del verbo 'to be' ('I am always happy'). Error clásico: 'I eat always' — el orden en inglés es distinto del español.",
+      "cardRef": { "category": "vocabulary", "front": "always" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Las preguntas básicas + adverbios de tiempo",
+      "instruction": "Las 5 'Wh-questions' del inglés. Todas empiezan con 'W' excepto 'how'. ¡OJO! En 'who', la W es muda (suena 'hoo'). Aprendé también la posición especial de 'always': antes del verbo principal, después del verbo to be.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "listen-identify",
+      "title": "Escuchá y elegí",
+      "instruction": "Escuchá y elegí. Recordá: 'who' se pronuncia /huː/ — la W es muda.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Escribí la palabra en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Identificá errores en preguntas y en la posición de 'always'.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "I eat always breakfast at seven.",
+            "isCorrect": false,
+            "correction": "I always eat breakfast at seven.",
+            "explanation": "'Always' va ANTES del verbo principal, no después. En español el orden es más flexible ('siempre desayuno' / 'desayuno siempre'), pero en inglés la posición es fija: adverbio + verbo.",
+            "errorType": "word-order"
+          },
+          {
+            "sentence": "Where do you live?",
+            "isCorrect": true,
+            "explanation": "Correcta. Estructura perfecta: Wh-word + auxiliar 'do' + sujeto + verbo. Recordá que 'where' no lleva acento, solo en español 'dónde' lo lleva.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "What is your name?",
+            "isCorrect": true,
+            "explanation": "Correcta. Con verbo 'to be' no hace falta auxiliar 'do': Wh-word + verbo to be + sujeto.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "Who you are?",
+            "isCorrect": false,
+            "correction": "Who are you?",
+            "explanation": "El orden en preguntas con 'to be' es: Wh-word + verbo + sujeto (are you). No se puede decir 'who you are' en una pregunta directa — eso es orden de oración afirmativa.",
+            "errorType": "word-order"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Las 5 Wh-questions + now/always. Estructura de preguntas: Wh-word + auxiliar (do/does/is/are) + sujeto + verbo. 'Who' la W es muda (/huː/). 'Always' va ANTES del verbo principal. 'Now' puede ir al principio o al final. Con estas 7 palabras ya podés hacer preguntas básicas en cualquier conversación.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    }
+  ]
+}

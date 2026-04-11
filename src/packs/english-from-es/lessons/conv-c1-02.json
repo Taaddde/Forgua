@@ -1,0 +1,149 @@
+{
+  "id": "conv-c1-02",
+  "title": "Academic Discussion & Polite Disagreement",
+  "description": "Debate académico en inglés: cómo disentir con elegancia, matizar una posición, hacer preguntas retóricas y manejar el turno en una conversación formal.",
+  "level": "c1",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "That's an interesting perspective, although...",
+      "back": "Es una perspectiva interesante, aunque... (fórmula de disentimiento respetuoso)",
+      "reading": "",
+      "explanation": "The academic way to disagree: acknowledge the other person's view as valid before presenting your counterargument. 'That's an interesting perspective / a valid point / a fair observation' + 'although/however/but I would argue that...' This is the standard in academic seminars, panel discussions, and formal debates."
+    },
+    {
+      "front": "It could be argued that...",
+      "back": "Podría argumentarse que... / Hay quienes argumentarían que... (hedging en debate académico)",
+      "reading": "",
+      "explanation": "Distancing yourself from an argument to present it more tentatively, or to voice a counterargument without claiming full personal ownership of it. 'It could be argued that the data is insufficient' is softer than 'The data is insufficient.' Useful when presenting a position you're not 100% committed to, or when being diplomatically critical."
+    },
+    {
+      "front": "That raises an important question about...",
+      "back": "Eso plantea una pregunta importante sobre... (transición académica elegante)",
+      "reading": "",
+      "explanation": "A sophisticated way to respond to something while redirecting the discussion. Rather than just answering, you elevate the conversation: 'That raises an important question about the methodology.' It signals that you're engaging analytically, not just reactively. Common in academic seminars and professional roundtables."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El arte del disentimiento académico",
+      "instruction": "En contextos académicos y profesionales anglofonos, la forma de expresar desacuerdo es tan importante como el contenido. Estos tres patrones son el núcleo del debate académico en inglés C1: reconocé, matizá, redirigí.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "conversation-script",
+      "title": "Seminario académico — debatiendo sobre tecnología y sociedad",
+      "instruction": "Estás en un seminario universitario. Participá con el lenguaje apropiado para un debate académico en inglés.",
+      "itemIndices": [],
+      "config": {
+        "script": {
+          "id": "academic-seminar-c1",
+          "scenario": "Seminario académico sobre el impacto de la inteligencia artificial en el mercado laboral — el moderador invita al debate y el NPC presenta una posición",
+          "level": "c1",
+          "turns": [
+            {
+              "speaker": "npc",
+              "text": "I'd like to put forward the argument that automation and AI represent an unambiguous net benefit for society. Yes, certain jobs will be displaced, but history shows that technological revolutions consistently create more jobs than they destroy.",
+              "translation": "Me gustaría presentar el argumento de que la automatización y la IA representan un beneficio neto inequívoco para la sociedad. Sí, ciertos trabajos serán desplazados, pero la historia muestra que las revoluciones tecnológicas consistentemente crean más empleos de los que destruyen."
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "translation": "Respondé con un matiz: no rechaces el argumento totalmente, pero señalá sus limitaciones",
+              "options": [
+                {
+                  "text": "That's a fair point, and the historical parallel is compelling. However, it could be argued that the pace and breadth of AI-driven displacement may be qualitatively different from previous technological transitions. The Industrial Revolution unfolded over decades; the current wave is operating on a much shorter timescale, which raises important questions about whether existing institutions can adapt quickly enough.",
+                  "isCorrect": true,
+                  "feedback": "Excelente estructura: concesión ('fair point, compelling') → 'however, it could be argued' (hedging) → argumento específico sobre la diferencia cualitativa → 'raises important questions about'. Registro académico auténtico, argumento matizado y defensible.",
+                  "translation": "Es un punto justo, y el paralelo histórico es convincente. Sin embargo, podría argumentarse que el ritmo y la amplitud del desplazamiento impulsado por la IA pueden ser cualitativamente diferentes de las transiciones tecnológicas anteriores. La Revolución Industrial se desarrolló durante décadas; la ola actual opera en un plazo mucho más corto, lo que plantea preguntas importantes sobre si las instituciones existentes pueden adaptarse con suficiente rapidez."
+                },
+                {
+                  "text": "No, that is completely wrong. AI will destroy many more jobs than it creates and you have no evidence for your claim.",
+                  "isCorrect": false,
+                  "feedback": "Directamente confrontacional y sin matiz. 'Completely wrong' sin evidencia + ataque personal ('you have no evidence') es exactamente lo que no se hace en un debate académico. Incluso si tenés razón, esta aproximación daña la discusión.",
+                  "translation": "No, eso está completamente equivocado. La IA destruirá muchos más empleos de los que crea y no tienes evidencia para tu afirmación."
+                },
+                {
+                  "text": "Yes, I agree, technology is always good for everyone in the end.",
+                  "isCorrect": false,
+                  "feedback": "Acuerdo total sin matiz no contribuye al debate académico. Además, 'technology is always good for everyone' es una generalización que ningún académico serio defendería — socava tu credibilidad.",
+                  "translation": "Sí, estoy de acuerdo, la tecnología siempre es buena para todos al final."
+                }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "That's an interesting point about the pace. But surely the education system and professional retraining programs can bridge that gap — governments just need the political will to invest.",
+              "translation": "Es un punto interesante sobre el ritmo. Pero seguramente el sistema educativo y los programas de reciclaje profesional pueden cerrar esa brecha — los gobiernos simplemente necesitan la voluntad política para invertir."
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "translation": "Señalá los límites de esa solución con evidencia o argumento concreto",
+              "options": [
+                {
+                  "text": "That raises an important question about the efficacy of retraining programs at scale. The empirical evidence on this is actually rather mixed — OECD data suggests that retraining programs for displaced workers have historically had disappointing success rates, particularly for workers over 45. I'd argue that political will, while necessary, is not sufficient without a fundamental rethinking of how we approach lifelong learning.",
+                  "isCorrect": true,
+                  "feedback": "'That raises an important question' (transición académica) + 'empirical evidence on this is actually rather mixed' (hedging preciso con 'rather') + cita de datos específicos (OECD) + 'while necessary, is not sufficient' (concesión parcial). Nivel académico genuino.",
+                  "translation": "Eso plantea una pregunta importante sobre la eficacia de los programas de reciclaje a escala. La evidencia empírica sobre esto es en realidad bastante mixta — los datos de la OCDE sugieren que los programas de reciclaje para trabajadores desplazados han tenido históricamente tasas de éxito decepcionantes, particularmente para trabajadores mayores de 45 años. Argumentaría que la voluntad política, aunque necesaria, no es suficiente sin un replanteamiento fundamental de cómo abordamos el aprendizaje a lo largo de la vida."
+                },
+                {
+                  "text": "I completely agree, governments just need to spend more money on education.",
+                  "isCorrect": false,
+                  "feedback": "Vago y sin argumento. 'Spend more money' no es un análisis — ¿cuánto? ¿en qué tipo de programa? ¿con qué evidencia de efectividad? Un académico C1 cita datos, no solo repite la solución propuesta.",
+                  "translation": "Estoy completamente de acuerdo, los gobiernos solo necesitan gastar más dinero en educación."
+                },
+                {
+                  "text": "That's a good idea but nobody can guarantee these programs will work.",
+                  "isCorrect": false,
+                  "feedback": "La primera parte concede, pero 'nobody can guarantee' es una pseudo-crítica sin sustancia. El punto es que la evidencia MUESTRA que los programas han funcionado mal — hay datos específicos que respaldan el escepticismo, no solo incertidumbre general.",
+                  "translation": "Es una buena idea pero nadie puede garantizar que estos programas funcionen."
+                }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "You make a valid critique of current retraining models. What would you propose as an alternative?",
+              "translation": "Hacés una crítica válida de los modelos actuales de reciclaje. ¿Qué propondrías como alternativa?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "translation": "Presentá una propuesta con el hedging apropiado para una afirmación especulativa",
+              "options": [
+                {
+                  "text": "It could be argued that what's needed is a shift from event-based retraining — one-off programs triggered by job loss — toward genuinely continuous learning embedded in the workplace itself. Some Nordic countries have piloted models along these lines with promising results. I wouldn't claim this is a complete solution, but it addresses the structural problem of waiting until displacement has occurred.",
+                  "isCorrect": true,
+                  "feedback": "'It could be argued' (hedging al presentar una propuesta) + especificidad ('event-based vs continuous learning') + evidencia geográfica ('Nordic countries') + 'I wouldn't claim this is a complete solution' (honestidad académica). Propuesta defensible sin over-claiming.",
+                  "translation": "Podría argumentarse que lo que se necesita es un cambio del reciclaje basado en eventos — programas únicos desencadenados por la pérdida de empleo — hacia un aprendizaje genuinamente continuo integrado en el lugar de trabajo mismo. Algunos países nórdicos han pilotado modelos en estas líneas con resultados prometedores. No afirmaría que esto es una solución completa, pero aborda el problema estructural de esperar hasta que el desplazamiento haya ocurrido."
+                },
+                {
+                  "text": "The government must create a completely new education system that teaches everyone how to use AI.",
+                  "isCorrect": false,
+                  "feedback": "'Must create a completely new system' es una afirmación absolutista sin hedging. En un debate académico, propuestas tan radicales sin evidencia ni reconocimiento de los desafíos de implementación son difíciles de sostener. 'Some Nordic countries have piloted' es mucho más creíble que 'must create completely new'.",
+                  "translation": "El gobierno debe crear un sistema educativo completamente nuevo que enseñe a todos a usar la IA."
+                },
+                {
+                  "text": "Honestly I don't know. This is a very complicated problem.",
+                  "isCorrect": false,
+                  "feedback": "Admitir incertidumbre puede ser valioso, pero rendirse completamente en un debate académico cuando se te pide una propuesta específica no refleja el rigor esperado en C1. Lo correcto es proponer tentativamente: 'One approach worth considering might be...', incluso cuando no se está seguro.",
+                  "translation": "Honestamente no sé. Este es un problema muy complicado."
+                }
+              ],
+              "correctOptionIndex": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completada!",
+      "instruction": "Fórmulas de debate académico C1: 'That's a fair/valid point, however...' (concesión + contraargumento). 'It could be argued that...' (hedging al presentar posición). 'That raises an important question about...' (redirección analítica). 'I wouldn't claim this is a complete solution' (honestidad académica). Los 3 ítems en tu SRS.",
+      "itemIndices": [0, 1, 2]
+    }
+  ]
+}

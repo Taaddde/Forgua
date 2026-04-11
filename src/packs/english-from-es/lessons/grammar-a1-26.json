@@ -1,0 +1,178 @@
+{
+  "id": "grammar-a1-26",
+  "title": "Object Pronouns: me, you, him, her, it, us, them",
+  "description": "En inglés los pronombres cambian según sean sujeto u objeto. 'I' vs 'me', 'she' vs 'her', 'they' vs 'them'. Después del verbo o de una preposición se usan los de objeto. Error clásico: 'He gave it to I' → 'He gave it to me'.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Subject vs Object: I/me, you/you, he/him, she/her, it/it, we/us, they/them",
+      "back": "Sujeto vs Objeto: yo/me, vos/te, él/lo, ella/la, eso, nosotros/nos, ellos/los",
+      "reading": "/aɪ - miː/ /hiː - hɪm/ /ʃiː - hɜːr/ /wiː - ʌs/ /ðeɪ - ðɛm/",
+      "explanation": "En inglés los pronombres tienen DOS FORMAS: una para sujeto (antes del verbo) y otra para objeto (después del verbo o de preposición). 'I see him' (yo=sujeto, él=objeto). 'He sees me' (él=sujeto, yo=objeto). 'You' e 'it' son las únicas que no cambian. Si mirás la lista: I→me, he→him, she→her, we→us, they→them.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Object Pronouns (verb + me/you/him/her/it/us/them)"
+      }
+    },
+    {
+      "front": "She loves him. / He loves her. / I love them.",
+      "back": "Ella lo ama. / Él la ama. / Yo los amo.",
+      "reading": "/ʃiː lʌvz hɪm/ /hiː lʌvz hɜːr/ /aɪ lʌv ðɛm/",
+      "explanation": "Después del verbo usás pronombre objeto. El sujeto va adelante (she, he, I) y el objeto va después del verbo (him, her, them). En español los pronombres objeto van ANTES del verbo ('lo amo'), pero en inglés van DESPUÉS ('love him'). Es una diferencia de orden importante."
+    },
+    {
+      "front": "Can you help me? / Give it to him. / Come with us.",
+      "back": "¿Me podés ayudar? / Dáselo a él. / Vení con nosotros.",
+      "reading": "/kæn juː hɛlp miː/ /ɡɪv ɪt tuː hɪm/ /kʌm wɪð ʌs/",
+      "explanation": "Después de preposiciones (to, with, for, about, from) también se usa el pronombre objeto. 'With me' (NO 'with I'), 'for him' (NO 'for he'), 'about us'. Error común de hispanohablantes: 'for I', 'with we'. Regla: si está después de un verbo o una preposición, usá la forma objeto."
+    },
+    {
+      "front": "Error común: 'Me and John went...' → 'John and I went...'",
+      "back": "Error común: 'Yo y Juan fuimos...' → 'Juan y yo fuimos...'",
+      "reading": "/dʒɑːn ænd aɪ wɛnt/",
+      "explanation": "REGLA DE CORTESÍA Y GRAMÁTICA: cuando hablás de vos y otra persona como sujeto, poné a la otra persona PRIMERO y usá 'I' (sujeto): 'John and I went to the party' ✓, NO 'Me and John went' (aunque se oye mucho, es incorrecto formal). Como objeto: 'She invited John and me' ✓, NO 'She invited John and I'. Truco: quitá la otra persona y mirá si suena bien: 'I went' ✓ / 'Me went' ✗."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Dos formas del mismo pronombre",
+      "instruction": "En inglés, los pronombres tienen una forma para sujeto y otra para objeto: I/me, he/him, she/her, we/us, they/them. Solo 'you' e 'it' no cambian. Memorizá los pares — son básicos.",
+      "itemIndices": [0]
+    },
+    {
+      "type": "introduce",
+      "title": "Después del verbo y de preposiciones",
+      "instruction": "Usá el pronombre objeto después del verbo ('She loves him') y después de preposiciones ('with me', 'to him', 'for us'). Ojo: en español el objeto va antes del verbo; en inglés, después.",
+      "itemIndices": [1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "El truco del 'and I / and me'",
+      "instruction": "Cuando hablás de vos y otra persona, mencionala primero y elegí según la función: 'John and I' (sujeto), 'John and me' (objeto). Truco mental: quitá la otra persona y mirá cuál suena bien.",
+      "itemIndices": [3]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál pronombre objeto?",
+      "instruction": "Elegí el pronombre objeto que corresponde a cada situación.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con el pronombre correcto",
+      "instruction": "Elegí el pronombre correcto (sujeto u objeto) para cada espacio.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "I love my parents. I call {0} every Sunday.",
+            "blanks": [
+              { "answer": "them", "options": ["them", "they", "him", "us"] }
+            ]
+          },
+          {
+            "template": "This gift is for {0}. Happy birthday, Sarah!",
+            "blanks": [
+              { "answer": "you", "options": ["you", "your", "yours", "yourself"] }
+            ]
+          },
+          {
+            "template": "{0} and I went to the concert last night. It was amazing!",
+            "blanks": [
+              { "answer": "Tom", "options": ["Tom", "Me", "Him", "Them"] }
+            ]
+          },
+          {
+            "template": "My sister isn't home, so I can't give the book to {0} right now.",
+            "blanks": [
+              { "answer": "her", "options": ["her", "she", "him", "them"] }
+            ]
+          },
+          {
+            "template": "{0} are best friends. Everyone knows {1}.",
+            "blanks": [
+              { "answer": "We", "options": ["We", "Us", "They", "Them"] },
+              { "answer": "us", "options": ["us", "we", "them", "they"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Está bien el pronombre?",
+      "instruction": "Decidí si cada oración usa el pronombre correcto.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "Please give the keys to I.",
+            "isCorrect": false,
+            "correction": "Please give the keys to me.",
+            "explanation": "Después de una preposición ('to') siempre va el pronombre objeto: 'to me', no 'to I'. Error muy común porque en español decimos 'a mí', que parece 'I'.",
+            "errorType": "wrong-pronoun"
+          },
+          {
+            "sentence": "She always helps us when we need her.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Us' (objeto) después del verbo 'helps', y 'her' (objeto) después de 'need'. Perfecto uso de pronombres objeto.",
+            "errorType": "pronoun"
+          },
+          {
+            "sentence": "Me and my brother like soccer.",
+            "isCorrect": false,
+            "correction": "My brother and I like soccer.",
+            "explanation": "Dos cosas: (1) mencioná al otro primero por cortesía, (2) usá 'I' como sujeto, no 'me'. Truco: quitá 'my brother' y quedaría 'Me like soccer' — obviamente mal.",
+            "errorType": "subject-object"
+          },
+          {
+            "sentence": "Can you tell him the truth?",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Him' es el pronombre objeto de 'he'. Después del verbo 'tell' va el objeto: 'tell him', 'tell her', 'tell them'.",
+            "errorType": "pronoun"
+          },
+          {
+            "sentence": "They don't like we.",
+            "isCorrect": false,
+            "correction": "They don't like us.",
+            "explanation": "Después del verbo va el pronombre objeto: 'us', no 'we'. 'We' es solo para sujeto. Compará: 'We don't like them' (we=sujeto) vs 'They don't like us' (us=objeto).",
+            "errorType": "wrong-pronoun"
+          }
+        ]
+      }
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá oraciones con pronombres objeto",
+      "instruction": "Ordená las palabras para formar oraciones correctas.",
+      "itemIndices": [0],
+      "config": {
+        "sentences": [
+          {
+            "translation": "Mi madre me llama todos los días.",
+            "fragments": ["My mother", "calls", "me", "every day"],
+            "correctOrder": [0, 1, 2, 3]
+          },
+          {
+            "translation": "Ella quiere hablar con nosotros esta noche.",
+            "fragments": ["She", "wants to", "talk to", "us", "tonight"],
+            "correctOrder": [0, 1, 2, 3, 4]
+          },
+          {
+            "translation": "Le di el libro a él ayer.",
+            "fragments": ["I", "gave", "him", "the book", "yesterday"],
+            "correctOrder": [0, 1, 2, 3, 4]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Resumen: Sujeto → I, you, he, she, it, we, they. Objeto → me, you, him, her, it, us, them. Los objeto van después del verbo ('She loves him') o de una preposición ('with me', 'to him'). Con otras personas: 'John and I' (sujeto), 'John and me' (objeto) — mencioná al otro primero. Solo 'you' e 'it' no cambian.",
+      "itemIndices": [0, 1, 2, 3]
+    }
+  ]
+}

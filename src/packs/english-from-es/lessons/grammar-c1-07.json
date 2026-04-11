@@ -1,0 +1,194 @@
+{
+  "id": "grammar-c1-07",
+  "title": "Nominal Clauses and Complex Complementation",
+  "description": "Cláusulas nominales como sujeto y objeto: The fact that..., It struck me that..., There's no denying that..., Whether or not... Estructuras del discurso formal.",
+  "level": "c1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Nominal Clauses and Complex Complementation (The fact that... | It struck me that... | There's no denying that... | Whether or not...)",
+      "back": "Cláusulas nominales: cláusulas que funcionan como sustantivos — sujeto, objeto, o complemento de una oración mayor",
+      "reading": "",
+      "explanation": "Una cláusula nominal es una cláusula completa que funciona como un sustantivo. THE FACT THAT + cláusula: introduce un hecho como sujeto. IT + verbo cognitivo/perceptivo + THAT: 'It struck me that...', 'It occurred to me that...', 'It turns out that...'. THERE'S NO DENYING THAT... / THERE'S NO POINT IN... + gerundio. WHETHER OR NOT: introduce alternativas. EXPRESIONES ÚTILES: 'It goes without saying that...', 'The truth is that...'",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Nominal Clauses and Complex Complementation (The fact that... | It struck me that... | There's no denying that... | Whether or not...)"
+      }
+    },
+    {
+      "front": "The fact that + clause (as subject/object)",
+      "back": "The fact that she didn't apologize made things worse. / I find it puzzling the fact that no one noticed.",
+      "reading": "",
+      "explanation": "'The fact that' convierte una cláusula en un sustantivo. Como SUJETO: 'The fact that she arrived late was unacceptable.' Como OBJETO: 'I resent the fact that I was not consulted.' Como aposición: 'Her main argument — the fact that the data is incomplete — undermines the whole study.' Mucho más elegante que 'because she arrived late, it was unacceptable'."
+    },
+    {
+      "front": "It + verb + that (extraposition)",
+      "back": "It suddenly struck me that I had forgotten something. / It turned out that nobody had informed her.",
+      "reading": "",
+      "explanation": "EXTRAPOSICIÓN: el sujeto real (la cláusula 'that...') se mueve al final y 'it' lo reemplaza al inicio. Verbos comunes con esta estructura: strike, occur, turn out, become clear, emerge, appear. 'It suddenly struck me that...' (de repente caí en la cuenta de que...). 'It turns out that...' (resulta que...) — muy común en conversación. 'It remains unclear whether...' — en escritura académica."
+    },
+    {
+      "front": "Fixed expressions with nominal clauses",
+      "back": "It goes without saying that... / There's no denying that... / There's no point in... / The bottom line is that...",
+      "reading": "",
+      "explanation": "EXPRESIONES FIJAS con cláusulas nominales: 'It goes without saying that quality matters' (va de suyo que...). 'There's no denying that the situation is serious' (no se puede negar que...). 'There's no point in complaining if you won't act' (no tiene sentido quejarse si...). 'The bottom line is that we need more funding' (en definitiva / al fin y al cabo). Muy usadas en presentaciones, debate y escritura argumentativa."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Cláusulas nominales — el sello del C1 escrito",
+      "instruction": "Las cláusulas nominales permiten hacer referencias a hechos complejos como si fueran sustantivos simples. Esto es lo que permite al inglés académico y periodístico ser a la vez denso y preciso. 'The fact that X' es más elegante que 'Because X'. 'It strikes me that' es más sofisticado que 'I think'.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué función tiene la cláusula?",
+      "instruction": "Identificá la función de la cláusula nominal en cada oración.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con la estructura correcta",
+      "instruction": "Completá los espacios usando las expresiones con cláusulas nominales estudiadas.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "{0} the committee rejected the proposal without explanation is deeply troubling.",
+            "blanks": [
+              {
+                "answer": "The fact that",
+                "options": [
+                  "The fact that",
+                  "It goes without saying that",
+                  "Whether or not",
+                  "There is no denying"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "It {0} me only later {1} the document had been altered.",
+            "blanks": [
+              {
+                "answer": "occurred to",
+                "options": [
+                  "occurred to",
+                  "struck by",
+                  "turned out",
+                  "goes without saying for"
+                ]
+              },
+              {
+                "answer": "that",
+                "options": [
+                  "that",
+                  "what",
+                  "whether",
+                  "if"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "There's no {0} complaining about the system if we're not prepared to {1} anything about it.",
+            "blanks": [
+              {
+                "answer": "point in",
+                "options": [
+                  "point in",
+                  "denying that",
+                  "doubt that",
+                  "question about"
+                ]
+              },
+              {
+                "answer": "do",
+                "options": [
+                  "do",
+                  "doing",
+                  "have done",
+                  "did"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "{0} the findings are accurate — the methodology is sound — {1} the implications remain deeply uncertain.",
+            "blanks": [
+              {
+                "answer": "Whether or not",
+                "options": [
+                  "Whether or not",
+                  "The fact that",
+                  "It goes without saying",
+                  "There is no point in"
+                ]
+              },
+              {
+                "answer": "the bottom line is that",
+                "options": [
+                  "the bottom line is that",
+                  "there is no denying that",
+                  "it occurred to me that",
+                  "it struck me that"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Construcción nominal correcta?",
+      "instruction": "Encontrá problemas en el uso de las cláusulas nominales.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "It goes without saying that transparency is essential in any democratic institution.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'It goes without saying that + cláusula' = va de suyo que / es obvio que. 'Transparency is essential in democratic institutions' es una afirmación que se presenta como autoevidente. Registro apropiadamente formal.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "The fact that the evidence is preliminary, we should not overstate our conclusions.",
+            "isCorrect": false,
+            "correction": "Given that the evidence is preliminary, we should not overstate our conclusions. / The fact that the evidence is preliminary means we should not overstate our conclusions.",
+            "explanation": "'The fact that' introduce un sujeto sustantivo, no una cláusula causal. No puede conectarse directamente con una cláusula de resultado con una coma. Si querés causalidad, usá 'Given that', 'Because', o 'Since'. Si usás 'The fact that', necesitás un verbo principal ('means', 'suggests', 'should prompt us to').",
+            "errorType": "nominal-clause-structure"
+          },
+          {
+            "sentence": "It suddenly occurred to me that I had sent the email to the wrong recipient.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'It occurred to me that + cláusula' = se me ocurrió / me di cuenta de. 'Suddenly' refuerza la naturaleza repentina del pensamiento. Past perfect 'had sent' porque la acción del envío fue anterior al momento de darse cuenta.",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completada!",
+      "instruction": "EXPRESIONES CLAVE: The fact that [cláusula] + verbo principal. It occurred/struck/dawned on me that... It goes without saying that... There's no denying that... There's no point in + gerundio. Whether or not + cláusula. The bottom line is that... Todas estas estructuras son marcadores de C1 en escritura académica y argumentación oral. Todos los ítems están en tu SRS.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ]
+}

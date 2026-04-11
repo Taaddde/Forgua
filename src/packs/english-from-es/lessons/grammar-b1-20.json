@@ -1,0 +1,193 @@
+{
+  "id": "grammar-b1-20",
+  "title": "Verb Patterns: Infinitive vs Gerund",
+  "description": "Verbos que van con -ing (enjoy, finish), verbos que van con to-infinitivo (want, decide), y verbos que aceptan los dos pero cambian de significado (stop, remember, try).",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Verb Patterns: Infinitive vs Gerund (verb + to-infinitive | verb + gerund (-ing) | verb + both (with meaning change))",
+      "back": "Tres grupos: verbos con -ing (enjoy), verbos con to-inf (want), verbos con los dos y cambio de significado (stop, remember, try).",
+      "reading": "/vɜːrb ˈpætərnz/",
+      "explanation": "Cada verbo en inglés rige una forma específica para el siguiente verbo. Hay que memorizar los grupos: (1) verbos SOLO con gerundio: enjoy, finish, avoid, mind, practise, suggest, keep, imagine. (2) Verbos SOLO con to-infinitivo: want, decide, hope, plan, promise, refuse, agree, offer. (3) Verbos con AMBOS y cambio de significado: stop, remember, forget, try, regret.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Verb Patterns: Infinitive vs Gerund (verb + to-infinitive | verb + gerund (-ing) | verb + both (with meaning change))"
+      }
+    },
+    {
+      "front": "I enjoy reading before bed. (NOT: I enjoy to read)",
+      "back": "Grupo 1: verbos que SIEMPRE van con -ing. Enjoy, finish, avoid, mind, practise, suggest, keep.",
+      "reading": "/aɪ ɪnˈdʒɔɪ ˈriːdɪŋ/",
+      "explanation": "'Enjoy' siempre va con -ing, nunca con to-infinitivo. Otros del mismo grupo: finish (I finished writing), avoid (avoid using), mind (Do you mind waiting?), practise (practise speaking), suggest (I suggest going), keep (keep trying), imagine (imagine living there)."
+    },
+    {
+      "front": "I want to learn Japanese. (NOT: I want learning)",
+      "back": "Grupo 2: verbos que SIEMPRE van con to-infinitivo. Want, decide, hope, plan, promise, refuse, agree.",
+      "reading": "/aɪ wɒnt tə lɜːrn/",
+      "explanation": "'Want' siempre va con to-infinitivo. Otros del mismo grupo: decide (we decided to leave), hope (I hope to see you), plan (they plan to travel), promise (I promise to call), refuse (she refused to answer), agree (they agreed to help), offer (he offered to drive)."
+    },
+    {
+      "front": "I stopped smoking last year. / I stopped to smoke a cigarette.",
+      "back": "Grupo 3: STOP + -ing = dejar de hacer algo. STOP + to-inf = parar para hacer algo.",
+      "reading": "/aɪ stɒpt ˈsmoʊkɪŋ/",
+      "explanation": "'Stop smoking' = dejé de fumar (la acción de fumar TERMINÓ). 'Stop to smoke' = paré OTRA actividad para fumar. Otro verbo crítico: REMEMBER. 'Remember doing' = recordar algo del pasado ('I remember meeting her'). 'Remember to do' = acordarse de hacer algo en el futuro ('Remember to lock the door')."
+    },
+    {
+      "front": "I tried opening the window. / I tried to open the window.",
+      "back": "TRY + -ing = probar algo como experimento. TRY + to-inf = hacer un esfuerzo.",
+      "reading": "/aɪ traɪd/",
+      "explanation": "'Try opening the window' = proba a abrir la ventana (como posible solución). 'Try to open the window' = intenta abrir la ventana (hacé el esfuerzo, aunque sea difícil). La diferencia es sutil pero real: -ing sugiere experimentar, to-inf sugiere esforzarse."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Los tres grupos de verb patterns",
+      "instruction": "(1) Verbos SOLO con -ing: enjoy, finish, avoid, mind, practise, suggest, keep. (2) Verbos SOLO con to-infinitivo: want, decide, hope, plan, promise. (3) Verbos con AMBOS + cambio de significado: stop, remember, forget, try.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Cambios de significado: stop, remember, try",
+      "instruction": "STOP doing = dejar de hacer. STOP to do = parar para hacer. REMEMBER doing = recordar algo del pasado. REMEMBER to do = acordarse de hacer algo futuro. TRY doing = experimentar. TRY to do = esforzarse.",
+      "itemIndices": [3, 4]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "¿-ing o to-infinitivo?",
+      "instruction": "Elegí la forma correcta según el verbo principal.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "She finished {0} the book at midnight.",
+            "blanks": [
+              { "answer": "reading", "options": ["reading", "to read", "read"] }
+            ]
+          },
+          {
+            "template": "We decided {0} early in the morning.",
+            "blanks": [
+              { "answer": "to leave", "options": ["to leave", "leaving", "leave"] }
+            ]
+          },
+          {
+            "template": "Do you mind {0} the window?",
+            "blanks": [
+              { "answer": "closing", "options": ["closing", "to close", "close"] }
+            ]
+          },
+          {
+            "template": "Remember {0} the lights before you leave. I remember {1} them yesterday.",
+            "blanks": [
+              { "answer": "to turn off", "options": ["to turn off", "turning off"] },
+              { "answer": "turning off", "options": ["turning off", "to turn off"] }
+            ]
+          },
+          {
+            "template": "I enjoy {0}, but I hope {1} a gym soon.",
+            "blanks": [
+              { "answer": "running", "options": ["running", "to run"] },
+              { "answer": "to join", "options": ["to join", "joining"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Decidí si el verbo que sigue está en la forma correcta.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "I avoid to eat sugar after 6pm.",
+            "isCorrect": false,
+            "correction": "I avoid eating sugar after 6pm.",
+            "explanation": "INCORRECTO. 'Avoid' siempre va con -ing, nunca con to-infinitivo. Pertenece al grupo de verbos que solo aceptan gerundio: avoid, enjoy, finish, mind, practise, suggest.",
+            "errorType": "verb-pattern"
+          },
+          {
+            "sentence": "They promised to call me as soon as they arrived.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Promise' siempre va con to-infinitivo. Igual que want, decide, hope, plan, refuse, agree, offer — todos exigen 'to + verbo'.",
+            "errorType": "verb-pattern"
+          },
+          {
+            "sentence": "I stopped to drink coffee because it was keeping me awake.",
+            "isCorrect": false,
+            "correction": "I stopped drinking coffee because it was keeping me awake.",
+            "explanation": "INCORRECTO — o más bien, cambia el significado. 'Stopped to drink coffee' = paré (otra cosa) para tomar café. Pero el contexto ('was keeping me awake') implica que DEJÉ de tomar café. Para 'dejar de' hacer algo, usá stop + -ing: 'stopped drinking'.",
+            "errorType": "meaning-change"
+          },
+          {
+            "sentence": "I'll never forget visiting the pyramids in Egypt.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Forget + -ing' = olvidar algo que ya pasó (en este caso, la visita a las pirámides). Uso perfecto: es un recuerdo del pasado que nunca se olvidará. Contraste: 'Don't forget to visit the pyramids' = acordate de visitarlas (en el futuro).",
+            "errorType": "forget-meaning"
+          }
+        ]
+      }
+    },
+    {
+      "type": "word-in-context",
+      "title": "Verb patterns en contexto",
+      "instruction": "Elegí la oración con la forma verbal correcta.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "enjoy + -ing",
+            "translation": "disfrutar + gerundio",
+            "options": [
+              "I really enjoy to cook on weekends.",
+              "I really enjoy cook on weekends.",
+              "I really enjoy cooking on weekends.",
+              "I really enjoy that cook on weekends."
+            ],
+            "correctIndex": 2
+          },
+          {
+            "targetWord": "remember to do",
+            "translation": "acordarse de hacer (futuro)",
+            "options": [
+              "Please remember closing the door when you leave.",
+              "Please remember to close the door when you leave.",
+              "Please remember close the door when you leave.",
+              "Please remember for close the door when you leave."
+            ],
+            "correctIndex": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá la oración con el patrón correcto",
+      "instruction": "Ordená los fragmentos usando la forma verbal adecuada.",
+      "itemIndices": [1, 2],
+      "config": {
+        "sentences": [
+          {
+            "translation": "Ella decidió mudarse a Londres el año pasado.",
+            "fragments": ["She decided", "to move", "to London", "last year."],
+            "correctOrder": [0, 1, 2, 3]
+          },
+          {
+            "translation": "Sugerí ir al cine pero nadie quería.",
+            "fragments": ["I suggested", "going", "to the cinema", "but nobody wanted to."],
+            "correctOrder": [0, 1, 2, 3]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Verb patterns: (1) SOLO -ing: enjoy, finish, avoid, mind, practise, suggest, keep, imagine. (2) SOLO to-inf: want, decide, hope, plan, promise, refuse, agree, offer. (3) Ambos con cambio de significado: stop (-ing = dejar de / to = parar para), remember (-ing = recuerdo pasado / to = acordarse futuro), try (-ing = experimentar / to = esforzarse). Memorizá los grupos de a poco.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    }
+  ]
+}

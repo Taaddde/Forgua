@@ -1,0 +1,176 @@
+{
+  "id": "conv-b1-02",
+  "title": "Conversation: Explaining a Medical Problem",
+  "description": "En el médico explicando síntomas y entendiendo el diagnóstico. Vocabulario de salud B1 en contexto real.",
+  "level": "b1",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "I've been having... for... days.",
+      "back": "Llevo... días con...",
+      "reading": "",
+      "explanation": "Present Perfect Continuous para síntomas que llevan tiempo. 'I've been having headaches for three days.' Importante: describe la duración del síntoma al médico."
+    },
+    {
+      "front": "It's been getting worse.",
+      "back": "Se ha estado poniendo peor. / Ha empeorado.",
+      "reading": "/ɪts bɪn ˈɡɛtɪŋ wɜːrs/",
+      "explanation": "Para describir síntomas que empeoran. 'GET WORSE' = empeorar. 'GET BETTER' = mejorar. 'It's been getting worse since yesterday.'"
+    },
+    {
+      "front": "I'd like to make an appointment.",
+      "back": "Quisiera sacar un turno.",
+      "reading": "/aɪd laɪk tə meɪk ən əˈpɔɪntmənt/",
+      "explanation": "La frase estándar para pedir un turno médico. 'I'd like to make an appointment with Dr. Smith.' Fórmula muy útil: I'd like to + base verb."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Frases clave para el médico",
+      "instruction": "Estas 3 expresiones son esenciales para describir síntomas en inglés. Fijate en 'I've been having' — Present Perfect Continuous para síntomas que llevan tiempo.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "conversation-script",
+      "title": "At the Doctor's Office",
+      "instruction": "Participá en esta consulta médica. Describí tus síntomas con claridad. El médico necesita información específica para ayudarte.",
+      "itemIndices": [],
+      "config": {
+        "script": {
+          "id": "conv-b1-doctor-visit",
+          "scenario": "Estás en una clínica médica. Llevás tres días con dolor de cabeza y fiebre y finalmente decidiste ir al médico.",
+          "level": "b1",
+          "tags": ["health", "formal", "services"],
+          "turns": [
+            {
+              "speaker": "npc",
+              "text": "Good afternoon. What seems to be the problem today?",
+              "translation": "Buenas tardes. ¿Cuál parece ser el problema hoy?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "translation": "",
+              "options": [
+                {
+                  "text": "I've been having headaches and a fever for the past three days. It's been getting worse.",
+                  "isCorrect": true,
+                  "feedback": "Respuesta perfecta. Usás Present Perfect Continuous ('I've been having') para síntomas con duración, y 'getting worse' para describir la progresión. Exactamente lo que necesita un médico.",
+                  "translation": "Llevo tres días con dolor de cabeza y fiebre. Ha ido empeorando."
+                },
+                {
+                  "text": "I have pain.",
+                  "isCorrect": false,
+                  "feedback": "Demasiado vago. El médico necesita saber: ¿dónde duele? ¿hace cuánto? ¿otros síntomas? Sé específico para recibir mejor atención.",
+                  "translation": "Tengo dolor."
+                },
+                {
+                  "text": "Since yesterday I feel bad and I have a big headache.",
+                  "isCorrect": true,
+                  "feedback": "Aceptable también. Usás 'since yesterday' para indicar duración, lo cual es correcto. Aunque 'I've been feeling bad since yesterday' sería más natural con Present Perfect Continuous.",
+                  "translation": "Desde ayer me siento mal y tengo un dolor de cabeza fuerte."
+                }
+              ]
+            },
+            {
+              "speaker": "npc",
+              "text": "I see. Have you noticed any other symptoms? Any sore throat, runny nose, or muscle aches?",
+              "translation": "Entiendo. ¿Ha notado algún otro síntoma? ¿Dolor de garganta, nariz que moquea, o dolores musculares?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "translation": "",
+              "options": [
+                {
+                  "text": "Yes, I've also had a sore throat since yesterday, and my muscles feel quite achy.",
+                  "isCorrect": true,
+                  "feedback": "Excelente. Describís síntomas adicionales con precisión: sore throat (dolor de garganta), achy muscles (músculos doloridos). Información muy útil para el diagnóstico.",
+                  "translation": "Sí, también llevo desde ayer con dolor de garganta y mis músculos duelen bastante."
+                },
+                {
+                  "text": "No, just the headache and fever.",
+                  "isCorrect": true,
+                  "feedback": "También válido si así es tu situación. En medicina, decir que NO tenés ciertos síntomas también es información útil para el diagnóstico.",
+                  "translation": "No, solo el dolor de cabeza y la fiebre."
+                }
+              ]
+            },
+            {
+              "speaker": "npc",
+              "text": "I see. Have you taken any medication for the fever?",
+              "translation": "Entiendo. ¿Tomó algún medicamento para la fiebre?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "translation": "",
+              "options": [
+                {
+                  "text": "Yes, I've been taking paracetamol, but it only helps for a few hours and then the fever comes back.",
+                  "isCorrect": true,
+                  "feedback": "Información muy relevante para el médico. Decirle que el medicamento no está funcionando bien ayuda al diagnóstico y tratamiento.",
+                  "translation": "Sí, he estado tomando paracetamol, pero solo ayuda por unas pocas horas y después la fiebre vuelve."
+                },
+                {
+                  "text": "No, I haven't taken anything.",
+                  "isCorrect": true,
+                  "feedback": "Respuesta igualmente válida. 'I haven't taken anything' es correcto y claro.",
+                  "translation": "No, no tomé nada."
+                },
+                {
+                  "text": "I drunk some medicine from the chemist.",
+                  "isCorrect": false,
+                  "feedback": "Error: 'drunk' es el participio de 'drink' (beber). Para medicamentos se dice TAKE medicine, not 'drink'. 'I took some medicine from the chemist/pharmacy' sería lo correcto.",
+                  "translation": "Tomé algo de medicina de la farmacia."
+                }
+              ]
+            },
+            {
+              "speaker": "npc",
+              "text": "Based on your symptoms, it looks like you have a viral infection. I'm going to write you a prescription for some stronger medication. You should rest and drink plenty of fluids.",
+              "translation": "Basándome en sus síntomas, parece que tiene una infección viral. Le voy a escribir una receta para un medicamento más fuerte. Debería descansar y beber muchos líquidos."
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "translation": "",
+              "options": [
+                {
+                  "text": "Thank you, doctor. How long do you think it will take to recover?",
+                  "isCorrect": true,
+                  "feedback": "Pregunta muy natural y útil. 'How long will it take to recover?' es exactamente la pregunta que haría cualquier paciente. Muestra que entendiste el diagnóstico.",
+                  "translation": "Gracias, doctor. ¿Cuánto cree que tardará en recuperarme?"
+                },
+                {
+                  "text": "OK. Can I go to work tomorrow?",
+                  "isCorrect": true,
+                  "feedback": "También válido y muy natural. Es una pregunta práctica y razonable que cualquier paciente haría.",
+                  "translation": "Bien. ¿Puedo ir a trabajar mañana?"
+                },
+                {
+                  "text": "Are you sure it is not serious?",
+                  "isCorrect": true,
+                  "feedback": "Razonable también. Pedir confirmación sobre la gravedad es perfectamente natural cuando estás preocupado.",
+                  "translation": "¿Está seguro de que no es grave?"
+                }
+              ]
+            },
+            {
+              "speaker": "npc",
+              "text": "Probably about five to seven days. If you don't feel better by then, come back and we'll run some tests.",
+              "translation": "Probablemente unos cinco a siete días. Si no se siente mejor para entonces, vuelva y haremos algunas pruebas."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Conversación completada!",
+      "instruction": "Completaste una consulta médica en inglés. Frases clave: 'I've been having [síntoma] for [tiempo]', 'It's been getting worse', 'I've been taking [medicamento]', 'How long will it take to recover?' Vocabulario médico: headache (dolor de cabeza), fever (fiebre), sore throat (dolor de garganta), achy muscles (músculos doloridos), prescription (receta), viral infection (infección viral), fluids (líquidos), rest (descansar).",
+      "itemIndices": [0, 1, 2]
+    }
+  ]
+}

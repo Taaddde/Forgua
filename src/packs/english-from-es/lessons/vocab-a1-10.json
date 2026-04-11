@@ -1,0 +1,126 @@
+{
+  "id": "vocab-a1-10",
+  "title": "Family & People : La familia y las personas",
+  "description": "Los miembros de la familia y las palabras para hablar de personas. Vocabulario esencial para presentar a tus seres queridos en inglés.",
+  "level": "a1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "mother",
+      "back": "madre",
+      "reading": "/ˈmʌðər/",
+      "explanation": "Madre. Informal: 'mom' (US) o 'mum' (UK). Pronunciación: el sonido 'th' en 'mother' es el /ð/ sonoro (con vibración), poné la lengua entre los dientes. Plural: mothers.",
+      "cardRef": { "category": "vocabulary", "front": "mother" }
+    },
+    {
+      "front": "father",
+      "back": "padre",
+      "reading": "/ˈfɑːðər/",
+      "explanation": "Padre. Informal: 'dad' o 'daddy'. Igual que 'mother', lleva el sonido /ð/. ¡OJO! No confundir con 'farther' (más lejos), que suena casi igual.",
+      "cardRef": { "category": "vocabulary", "front": "father" }
+    },
+    {
+      "front": "friend",
+      "back": "amigo / amiga",
+      "reading": "/frɛnd/",
+      "explanation": "Amigo/a. En inglés 'friend' NO tiene género, sirve para ambos. Para aclarar: 'my girlfriend' = mi novia (¡no mi amiga mujer!). Tu amiga mujer es simplemente 'my friend'.",
+      "cardRef": { "category": "vocabulary", "front": "friend" }
+    },
+    {
+      "front": "baby",
+      "back": "bebé",
+      "reading": "/ˈbeɪbi/",
+      "explanation": "Bebé. Plural: 'babies' (la 'y' cambia a 'ies'). También se usa como término cariñoso para una pareja: 'Hey baby'.",
+      "cardRef": { "category": "vocabulary", "front": "baby" }
+    },
+    {
+      "front": "man",
+      "back": "hombre",
+      "reading": "/mæn/",
+      "explanation": "Hombre. Plural irregular: 'men' /mɛn/ (no 'mans'). Diferencia clave: 'man' rima con 'can', 'men' rima con 'ten'. Muchos hispanohablantes confunden ambos sonidos.",
+      "cardRef": { "category": "vocabulary", "front": "man" }
+    },
+    {
+      "front": "woman",
+      "back": "mujer",
+      "reading": "/ˈwʊmən/",
+      "explanation": "Mujer. Plural irregular: 'women' /ˈwɪmɪn/ (¡cambia el sonido de las DOS vocales!). 'Woman' singular, 'women' plural — un error clásico.",
+      "cardRef": { "category": "vocabulary", "front": "woman" }
+    },
+    {
+      "front": "child",
+      "back": "niño / niña",
+      "reading": "/tʃaɪld/",
+      "explanation": "Niño/a (sin distinción de género). Plural MUY irregular: 'children' /ˈtʃɪldrən/. No digas 'childs' — es uno de los errores más comunes. 'One child, two children'.",
+      "cardRef": { "category": "vocabulary", "front": "child" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Tu familia y gente cercana",
+      "instruction": "Presentá a tu gente. Prestá atención a los plurales irregulares: man→men, woman→women, child→children. Son los plurales que más se equivocan los hispanohablantes.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto de cada palabra.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "listen-identify",
+      "title": "Escuchá y elegí",
+      "instruction": "Escuchá la palabra y elegí cuál es. Prestá atención a la diferencia man/men y woman/women.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Ves el significado en español. Escribí la palabra en inglés.",
+      "itemIndices": [0, 1, 2, 4, 5, 6]
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Identificá errores comunes con plurales irregulares y vocabulario familiar.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "I have three childs.",
+            "isCorrect": false,
+            "correction": "I have three children.",
+            "explanation": "El plural de 'child' es irregular: 'children', NO 'childs'. Es uno de los plurales irregulares más importantes del inglés.",
+            "errorType": "plural"
+          },
+          {
+            "sentence": "My mother is a teacher.",
+            "isCorrect": true,
+            "explanation": "Correcta. Estructura perfecta: sujeto (my mother) + verbo to be (is) + profesión con artículo 'a'.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "There are two mans in the office.",
+            "isCorrect": false,
+            "correction": "There are two men in the office.",
+            "explanation": "Plural irregular: 'man' → 'men' (no 'mans'). Además cambia el sonido vocálico: /mæn/ → /mɛn/.",
+            "errorType": "plural"
+          },
+          {
+            "sentence": "My friend is very nice.",
+            "isCorrect": true,
+            "explanation": "Correcta. Recordá que 'friend' no tiene género — puede ser hombre o mujer.",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste 7 palabras sobre familia y personas. Claves: 'friend' no tiene género; plurales irregulares men/women/children (¡no mans/womans/childs!); y el sonido /ð/ en mother/father (lengua entre los dientes). Ahora estas palabras entran a tus repasos diarios.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    }
+  ]
+}

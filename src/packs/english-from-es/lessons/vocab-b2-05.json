@@ -1,0 +1,165 @@
+{
+  "id": "vocab-b2-05",
+  "title": "Science & Technology Vocabulary",
+  "description": "Vocabulario para hablar de ciencia, tecnología e innovación: desde avances científicos hasta inteligencia artificial.",
+  "level": "b2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "breakthrough",
+      "back": "avance / descubrimiento importante",
+      "reading": "/ˈbreɪkθruː/",
+      "explanation": "Un progreso o descubrimiento significativo que supera un obstáculo. Colocaciones: make a breakthrough, scientific breakthrough, major breakthrough. No confundir con 'break through' (verbo: atravesar). Un 'breakthrough moment' es un momento decisivo.",
+      "cardRef": { "category": "vocabulary", "front": "breakthrough" }
+    },
+    {
+      "front": "sustainable",
+      "back": "sostenible / sustentable",
+      "reading": "/səˈsteɪnəbəl/",
+      "explanation": "Que se puede mantener a largo plazo sin agotar recursos o dañar el medioambiente. Colocaciones: sustainable development, sustainable energy, sustainable agriculture. Sustantivo: sustainability. Antónimo: unsustainable.",
+      "cardRef": { "category": "vocabulary", "front": "sustainable" }
+    },
+    {
+      "front": "algorithm",
+      "back": "algoritmo",
+      "reading": "/ˈælɡərɪðəm/",
+      "explanation": "Conjunto de reglas o instrucciones que una computadora sigue para resolver un problema. Cognado parcial. Colocaciones: design an algorithm, machine learning algorithm, recommendation algorithm. En contexto cotidiano: 'the algorithm' (el algoritmo de redes sociales).",
+      "cardRef": { "category": "vocabulary", "front": "algorithm" }
+    },
+    {
+      "front": "database",
+      "back": "base de datos",
+      "reading": "/ˈdeɪtəbeɪs/",
+      "explanation": "Colección organizada de datos almacenados electrónicamente. Colocaciones: access a database, update a database, secure database, relational database.",
+      "cardRef": { "category": "vocabulary", "front": "database" }
+    },
+    {
+      "front": "cybersecurity",
+      "back": "ciberseguridad",
+      "reading": "/ˌsaɪbərsɪˈkjʊrəti/",
+      "explanation": "Práctica de proteger sistemas informáticos y redes de ataques digitales. Colocaciones: cybersecurity breach, cybersecurity measures, invest in cybersecurity. En auge como campo profesional — 'cybersecurity expert/specialist'.",
+      "cardRef": { "category": "vocabulary", "front": "cybersecurity" }
+    },
+    {
+      "front": "cutting-edge",
+      "back": "de vanguardia / de última generación",
+      "reading": "/ˌkʌtɪŋ ˈɛdʒ/",
+      "explanation": "Lo más avanzado, moderno e innovador en un campo. Siempre positivo. Colocaciones: cutting-edge technology, cutting-edge research, cutting-edge design. También existe el sustantivo 'the cutting edge' (la vanguardia): 'at the cutting edge of...'.",
+      "cardRef": { "category": "vocabulary", "front": "cutting-edge" }
+    },
+    {
+      "front": "artificial intelligence",
+      "back": "inteligencia artificial",
+      "reading": "/ˌɑːrtɪˈfɪʃəl ɪnˈtɛlɪdʒəns/",
+      "explanation": "La simulación de la inteligencia humana en máquinas. Abreviatura: AI. Colocaciones: AI-powered, AI-driven, develop AI, deploy AI. La discusión sobre IA incluye términos relacionados: machine learning, neural network, deep learning.",
+      "cardRef": { "category": "vocabulary", "front": "artificial intelligence" }
+    },
+    {
+      "front": "have an impact on",
+      "back": "tener un impacto en / influir en",
+      "reading": "/hæv ən ˈɪmpækt ɑːn/",
+      "explanation": "Colocación clave. Siempre 'have an impact ON', nunca 'IN'. Variaciones: 'have a significant impact on', 'have a major impact on', 'have a negative/positive impact on'. Verbo alternativo: 'impact' (sin preposición): 'This will impact the results'.",
+      "cardRef": { "category": "vocabulary", "front": "have an impact on" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Ciencia y tecnología: vocabulario avanzado",
+      "instruction": "Estas palabras son esenciales para leer artículos de ciencia y tecnología en inglés. Notá las colocaciones fijas — 'make a breakthrough', 'have an impact ON' (no 'in').",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Dónde se usa bien?",
+      "instruction": "Elegí la oración donde la palabra se usa correctamente.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "breakthrough",
+            "translation": "avance científico",
+            "options": [
+              "The research team made a major breakthrough in the treatment of Alzheimer's disease.",
+              "She made a breakthrough in the exam and scored 50%.",
+              "The company made a breakthrough by moving to a new office.",
+              "He had a breakthrough conversation with his colleague yesterday."
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "cutting-edge",
+            "translation": "de vanguardia",
+            "options": [
+              "The kitchen knife is cutting-edge because it is very sharp.",
+              "The laboratory uses cutting-edge equipment to carry out its research.",
+              "It was a cutting-edge decision to arrive late to the meeting.",
+              "She wore cutting-edge clothes to the office party."
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "have an impact on",
+            "translation": "tener un impacto en",
+            "options": [
+              "Climate change will have an impact in every aspect of modern life.",
+              "The new policy will have an impact on millions of workers.",
+              "She had an impact for the company last year.",
+              "Technology has an impact of how we communicate."
+            ],
+            "correctIndex": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá el artículo de tecnología",
+      "instruction": "Completá los espacios de este fragmento sobre inteligencia artificial.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "Researchers have made a significant {0} in developing an {1} system capable of detecting cancer with greater accuracy than human doctors.",
+            "blanks": [
+              { "answer": "breakthrough", "options": ["breakthrough", "censorship", "agenda", "deadline"] },
+              { "answer": "artificial intelligence", "options": ["artificial intelligence", "cybersecurity", "database", "algorithm"] }
+            ]
+          },
+          {
+            "template": "The company's {0} measures were insufficient, and hackers were able to access the central {1} containing millions of customer records.",
+            "blanks": [
+              { "answer": "cybersecurity", "options": ["cybersecurity", "sustainable", "cutting-edge", "quarterly"] },
+              { "answer": "database", "options": ["database", "algorithm", "editorial", "framework"] }
+            ]
+          },
+          {
+            "template": "The social media platform's recommendation {0} has a significant {1} how users consume news.",
+            "blanks": [
+              { "answer": "algorithm", "options": ["algorithm", "database", "hypothesis", "criteria"] },
+              { "answer": "impact on", "options": ["impact on", "impact in", "impact of", "impact at"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Escribí la palabra o expresión en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Vocabulario de ciencia y tech: 'breakthrough' (make a breakthrough), 'sustainable' (development/energy), 'algorithm', 'database', 'cybersecurity' (breach/measures), 'cutting-edge' (siempre positivo), 'artificial intelligence' / AI, 'have an impact ON' (no 'in'). Con este vocabulario podés leer artículos de The Economist o MIT Technology Review sin problema.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

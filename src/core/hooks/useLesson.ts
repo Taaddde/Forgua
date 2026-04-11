@@ -40,12 +40,14 @@ export async function completeLesson(
     };
     await db.lessonProgress.put(progressRecord);
 
-    // 2. Activate cards for SRS
+    // 2. Activate cards for SRS (skip teaching-only items without cardRef)
     for (const item of items) {
+      if (!item.cardRef) continue;
+
       const card = await db.cards
         .where('[packId+category]')
         .equals([packId, item.cardRef.category])
-        .filter((c) => c.front === item.cardRef.front)
+        .filter((c) => c.front === item.cardRef!.front)
         .first();
 
       if (card?.id) {

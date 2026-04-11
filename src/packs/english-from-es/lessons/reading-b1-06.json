@@ -1,0 +1,77 @@
+{
+  "id": "reading-b1-06",
+  "title": "Reading: Moving to Another Country",
+  "description": "El relato personal de mudarse de Argentina a Alemania. 'Used to', 'get used to', Past Perfect y vocabulario de experiencias culturales.",
+  "level": "b1",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "culture shock",
+      "back": "choque cultural",
+      "reading": "/ˈkʌltʃər ʃɑːk/",
+      "explanation": "La sensación de confusión y desorientación al vivir en una cultura diferente. 'Culture shock is a normal part of moving abroad.' CULTURE SHOCK es una expresión fija."
+    },
+    {
+      "front": "punctual",
+      "back": "puntual",
+      "reading": "/ˈpʌŋktʃuəl/",
+      "explanation": "Que llega a tiempo. 'In Germany, being punctual is very important.' PUNCTUALITY = puntualidad. PUNCTUAL es cognado parcial del español (puntual)."
+    },
+    {
+      "front": "open-minded",
+      "back": "de mente abierta / tolerante",
+      "reading": "/ˈoʊpən ˈmaɪndɪd/",
+      "explanation": "Dispuesto a considerar nuevas ideas o culturas. 'The experience made me more open-minded.' Opuesto: narrow-minded (de mente cerrada). Es un adjetivo compuesto con guión."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario clave antes de leer",
+      "instruction": "3 expresiones del texto. 'Culture shock' es una expresión fija muy usada. 'Open-minded' — fijate en el guión entre las dos palabras.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Moving to Another Country",
+      "instruction": "Leé el relato personal. Fijate en el uso de 'used to', 'got used to' y 'looking back' para hacer reflexiones sobre el pasado.",
+      "itemIndices": [],
+      "config": {
+        "passage": {
+          "id": "b1-reading-moving-abroad",
+          "title": "Moving to Another Country",
+          "level": "b1",
+          "text": "Two years ago, I made the biggest decision of my life: I moved from Argentina to Germany for work. I had studied German at university, but living in a country where everyone speaks the language is completely different from studying it in a classroom.\n\nThe first few months were the hardest. I missed my family and friends terribly. The food was different, the weather was much colder, and I didn't understand many cultural differences. For example, in Argentina people often arrive late to social events, but in Germany, being punctual is very important. I also found it strange that shops close early on Saturdays and stay closed on Sundays.\n\nLittle by little, I started to adapt. I joined a local sports club and met people who became good friends. I discovered that Germans are very warm and welcoming once you get to know them. I started to enjoy German food, especially bread and pastries, which are incredible. I even got used to the cold weather, although I still miss the Argentine sun.\n\nLooking back, I think culture shock is a normal part of moving abroad. It takes time to feel at home in a new country, and that's okay. The experience has made me more open-minded and independent. I have learned that home is not just a place — it's also the people and memories you carry with you wherever you go.",
+          "translation": "Hace dos años, tomé la decisión más grande de mi vida: me mudé de Argentina a Alemania por trabajo. Había estudiado alemán en la universidad, pero vivir en un país donde todos hablan el idioma es completamente diferente a estudiarlo en un aula.\n\nLos primeros meses fueron los más difíciles. Extrañaba terriblemente a mi familia y amigos. La comida era diferente, el clima era mucho más frío, y no entendía muchas diferencias culturales. Por ejemplo, en Argentina la gente a menudo llega tarde a los eventos sociales, pero en Alemania, ser puntual es muy importante. También me pareció extraño que los negocios cierren temprano los sábados y queden cerrados los domingos.\n\nDe a poco, empecé a adaptarme. Me uní a un club deportivo local y conocí personas que se convirtieron en buenos amigos. Descubrí que los alemanes son muy cálidos y acogedores una vez que los conocés. Empecé a disfrutar la comida alemana, especialmente el pan y las facturas, que son increíbles. Hasta me acostumbré al clima frío, aunque todavía extraño el sol argentino.\n\nMirando hacia atrás, creo que el choque cultural es una parte normal de mudarse al exterior. Toma tiempo sentirse en casa en un país nuevo, y está bien. La experiencia me hizo más abierto de mente e independiente. Aprendí que el hogar no es solo un lugar — también son las personas y los recuerdos que llevás con vos a donde vayas.",
+          "vocabulary": ["decision - decisión", "completely - completamente", "cultural differences - diferencias culturales", "punctual - puntual", "adapt - adaptarse", "welcoming - acogedor", "pastries - facturas/masas", "got used to - me acostumbré a", "culture shock - choque cultural", "open-minded - de mente abierta", "independent - independiente", "memories - recuerdos"],
+          "questions": [
+            {
+              "question": "What cultural difference surprised the author about Germany?",
+              "options": ["People eat dinner very late.", "People work on Sundays.", "Being punctual is very important.", "People don't go to sports clubs."],
+              "correctIndex": 2,
+              "explanation": "The text mentions that 'in Germany, being punctual is very important,' which contrasted with the Argentine habit of arriving late to social events."
+            },
+            {
+              "question": "How did the author start to make friends in Germany?",
+              "options": ["Through work colleagues.", "By joining a local sports club.", "Through an online app.", "At a language school."],
+              "correctIndex": 1,
+              "explanation": "The text says 'I joined a local sports club and met people who became good friends.'"
+            },
+            {
+              "question": "What lesson did the author learn from moving abroad?",
+              "options": ["Germany is better than Argentina.", "It's impossible to feel at home in another country.", "Home is not just a place but also people and memories.", "Learning a language in a classroom is enough."],
+              "correctIndex": 2,
+              "explanation": "The author concludes that 'home is not just a place — it's also the people and memories you carry with you wherever you go.'"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lectura completada!",
+      "instruction": "Leíste un relato personal B1 sobre experiencias culturales. Gramática clave: 'got used to + gerundio' (I got used to the cold weather — me acostumbré), 'I had studied' (Past Perfect), 'looking back' (mirando hacia atrás). Vocabulario: culture shock (choque cultural), punctual, adapt (adaptarse), welcoming (acogedor), open-minded. El texto usa 'little by little' para progreso gradual.",
+      "itemIndices": [0, 1, 2]
+    }
+  ]
+}

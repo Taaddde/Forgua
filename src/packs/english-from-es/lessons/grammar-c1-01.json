@@ -1,0 +1,256 @@
+{
+  "id": "grammar-c1-01",
+  "title": "Inversion with Negative Adverbials",
+  "description": "La inversión sujeto-auxiliar con adverbios negativos: Never have I..., Not only did she..., Hardly had I... Un recurso formal y literario que marca el C1.",
+  "level": "c1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Inversion with Negative Adverbials (Negative adverbial + auxiliary + subject + verb)",
+      "back": "Inversión con adverbios negativos: orden interrogativo después de never, rarely, seldom, hardly, not only",
+      "reading": "",
+      "explanation": "Cuando una expresión negativa o restrictiva va al principio de la oración, se invierte el sujeto y el auxiliar (como en una pregunta). Expresiones que provocan inversión: Never, Rarely, Seldom, Hardly, Scarcely, Not only...but also, No sooner...than, At no time, Under no circumstances. NUNCA 'Never I have seen' — SIEMPRE 'Never have I seen'. Esta estructura es extremadamente formal y se reserva para discursos, ensayos académicos, literatura.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Inversion with Negative Adverbials (Negative adverbial + auxiliary + subject + verb)"
+      }
+    },
+    {
+      "front": "Never + inversion example",
+      "back": "Never have I seen such dedication. (Nunca había visto tanta dedicación.)",
+      "reading": "",
+      "explanation": "Estructura: Never + have/had/is/was/will + sujeto + participio/verbo. Comparar: Normal: 'I have never seen this.' Formal-invertida: 'Never have I seen this.' El efecto estilístico es de énfasis dramático — el hablante quiere destacar la excepcionalidad de la experiencia."
+    },
+    {
+      "front": "Not only...but also + inversion example",
+      "back": "Not only did she win, but she also broke the record. (No solo ganó, sino que también rompió el récord.)",
+      "reading": "",
+      "explanation": "En la primera cláusula (después de 'not only'), se usa inversión. En la segunda cláusula (después de 'but'), no hay inversión. Nota: se usa 'did' como auxiliar cuando el verbo principal está en pasado simple. En presente: 'Not only does he speak...' En perfecto: 'Not only has she...'"
+    },
+    {
+      "front": "Hardly/Scarcely...when + inversion example",
+      "back": "Hardly had I sat down when the phone rang. (Apenas me había sentado cuando sonó el teléfono.)",
+      "reading": "",
+      "explanation": "Expresa dos eventos casi simultáneos donde el primero apenas terminó cuando ocurrió el segundo. Estructura: Hardly/Scarcely + had + sujeto + past participle + when + past simple. Nota: 'Scarcely...when', 'Barely...when', 'No sooner...than' son equivalentes con pequeñas diferencias de matiz."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Inversión con adverbios negativos",
+      "instruction": "Esta estructura es la firma del inglés muy formal: discursos políticos, ensayos académicos, prosa literaria. La regla: cuando una expresión negativa abre la oración, el auxiliar va ANTES del sujeto (como en pregunta). Estudia los tres patrones principales.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "Identificá la estructura",
+      "instruction": "Elegí la descripción correcta de cada patrón.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Inversión correcta?",
+      "instruction": "La inversión es obligatoria en registro formal. ¿Estas oraciones son gramaticalmente correctas y apropiadas?",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "Never I have encountered such a complex problem in my research.",
+            "isCorrect": false,
+            "correction": "Never have I encountered such a complex problem in my research.",
+            "explanation": "Con 'Never' al inicio, el auxiliar DEBE ir antes del sujeto. 'Never I have' es el orden incorrecto — es el orden normal (no invertido). Correcto: auxiliar (have) + sujeto (I) + participio (encountered).",
+            "errorType": "inversion"
+          },
+          {
+            "sentence": "Rarely does the committee reach a unanimous decision in the first session.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Rarely' + inversión: 'does' (auxiliar presente) + 'the committee' (sujeto) + 'reach' (verbo). Registro apropiadamente formal para hablar de procedimientos institucionales.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "Not only did she challenge the prevailing theory, but she also proposed a compelling alternative.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Not only' + 'did' (inversión en la primera cláusula) + sujeto + verbo base. La segunda cláusula ('but she also proposed') no lleva inversión — correcto. Uso elegante y sofisticado.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "Hardly the students had submitted their work when the deadline was extended.",
+            "isCorrect": false,
+            "correction": "Hardly had the students submitted their work when the deadline was extended.",
+            "explanation": "'Hardly' al inicio requiere inversión: 'had' (auxiliar) va ANTES del sujeto 'the students'. La estructura correcta es: Hardly + had + sujeto + past participle + when + cláusula.",
+            "errorType": "inversion"
+          },
+          {
+            "sentence": "Under no circumstances should you disclose this information to third parties.",
+            "isCorrect": true,
+            "explanation": "Correcta y muy formal. 'Under no circumstances' + 'should' (modal, invertido) + sujeto. Típico en documentos legales, contratos y comunicados formales. El modal 'should' desempeña el rol del auxiliar.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "No sooner had she finished speaking than the questions started pouring in.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'No sooner...than': No sooner + had + sujeto + past participle + THAN (no 'when'). Contraste con 'Hardly/Scarcely + when'. Nota: 'no sooner' siempre usa 'than', mientras que 'hardly/scarcely' usan 'when'.",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá las oraciones con inversión",
+      "instruction": "Formá inversiones correctas con los elementos dados.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "{0} had the researchers published their findings {1} the controversy began.",
+            "blanks": [
+              {
+                "answer": "No sooner",
+                "options": [
+                  "No sooner",
+                  "Hardly",
+                  "Never",
+                  "Not only"
+                ]
+              },
+              {
+                "answer": "than",
+                "options": [
+                  "than",
+                  "when",
+                  "that",
+                  "until"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "Not only {0} the policy fail to address the root causes, but it {1} made the situation considerably worse.",
+            "blanks": [
+              {
+                "answer": "did",
+                "options": [
+                  "did",
+                  "does",
+                  "had",
+                  "was"
+                ]
+              },
+              {
+                "answer": "also",
+                "options": [
+                  "also",
+                  "however",
+                  "therefore",
+                  "nevertheless"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "Seldom {0} a study of this magnitude been conducted with such methodological rigor.",
+            "blanks": [
+              {
+                "answer": "has",
+                "options": [
+                  "has",
+                  "have",
+                  "had",
+                  "does"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "sentence-build",
+      "title": "Construí inversiones",
+      "instruction": "Ordená las palabras para formar oraciones con inversión correcta.",
+      "itemIndices": [
+        1,
+        2,
+        3
+      ],
+      "config": {
+        "sentences": [
+          {
+            "translation": "Nunca he visto un nivel de compromiso tan notable en un equipo.",
+            "fragments": [
+              "Never",
+              "have",
+              "I",
+              "seen",
+              "such",
+              "remarkable",
+              "commitment",
+              "in",
+              "a",
+              "team"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "translation": "No solo falló en cumplir el plazo, sino que tampoco informó al equipo.",
+            "fragments": [
+              "Not only",
+              "did",
+              "he",
+              "fail",
+              "to meet the deadline,",
+              "but",
+              "he also",
+              "failed",
+              "to inform the team"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completada!",
+      "instruction": "Regla de oro: Adverbio negativo + AUXILIAR + SUJETO + VERBO (orden de pregunta). Expresiones que obligan inversión: Never, Rarely, Seldom, Hardly, Scarcely, Not only, No sooner, Under no circumstances, At no time. 'No sooner...THAN'; 'Hardly/Scarcely...WHEN'. Registro: formal-escrito, discursos, literatura.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ]
+}

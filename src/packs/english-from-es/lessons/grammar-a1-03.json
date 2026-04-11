@@ -10,28 +10,28 @@
       "back": "un / una (artículo indefinido)",
       "reading": "/ə/ — /æn/",
       "explanation": "'A' antes de sonido consonante: a book, a university (/juː.../). 'An' antes de sonido vocal: an apple, an hour (/aʊ.../). Ojo: se basa en el SONIDO, no en la letra.",
-      "cardRef": { "category": "grammar", "front": "a / an (articles)" }
+      "cardRef": {
+        "category": "grammar",
+        "front": "Articles (a / an / the) (a/an + singular noun | the + noun)"
+      }
     },
     {
       "front": "the",
       "back": "el / la / los / las (artículo definido)",
       "reading": "/ðə/ antes de consonante — /ðiː/ antes de vocal",
-      "explanation": "'The' se usa cuando ambos (hablante y oyente) saben de qué cosa específica hablamos: 'The book on the table' (ese libro específico). Se pronuncia /ðə/ normalmente, pero /ðiː/ antes de vocal: 'the apple' /ðiː ˈæpəl/.",
-      "cardRef": { "category": "grammar", "front": "the (article)" }
+      "explanation": "'The' se usa cuando ambos (hablante y oyente) saben de qué cosa específica hablamos: 'The book on the table' (ese libro específico). Se pronuncia /ðə/ normalmente, pero /ðiː/ antes de vocal: 'the apple' /ðiː ˈæpəl/."
     },
     {
       "front": "zero article (no article)",
       "back": "sin artículo",
       "reading": "",
-      "explanation": "ERROR COMÚN: En español decimos 'Me gusta EL chocolate', 'EL amor es bonito', 'Vive en LA Argentina'. En inglés NO se usa artículo con sustantivos generales: 'I like chocolate', 'Love is beautiful', 'She lives in Argentina'.",
-      "cardRef": { "category": "grammar", "front": "zero article (∅)" }
+      "explanation": "ERROR COMÚN: En español decimos 'Me gusta EL chocolate', 'EL amor es bonito', 'Vive en LA Argentina'. En inglés NO se usa artículo con sustantivos generales: 'I like chocolate', 'Love is beautiful', 'She lives in Argentina'."
     },
     {
       "front": "I like chocolate. (NOT: I like the chocolate.)",
       "back": "Me gusta el chocolate.",
       "reading": "/aɪ laɪk ˈtʃɑːklət/",
-      "explanation": "Cuando hablás EN GENERAL de algo (chocolate en general, no un chocolate específico), en inglés no usás 'the'. En español sí: 'Me gusta EL chocolate'. Este es uno de los errores más frecuentes de hispanohablantes.",
-      "cardRef": { "category": "grammar", "front": "I like chocolate." }
+      "explanation": "Cuando hablás EN GENERAL de algo (chocolate en general, no un chocolate específico), en inglés no usás 'the'. En español sí: 'Me gusta EL chocolate'. Este es uno de los errores más frecuentes de hispanohablantes."
     }
   ],
   "steps": [
@@ -39,31 +39,52 @@
       "type": "introduce",
       "title": "Los 3 artículos del inglés (y el cuarto invisible)",
       "instruction": "En español tenemos un/una y el/la/los/las. En inglés hay: 'a/an' (indefinido), 'the' (definido) y... NADA. Sí, a veces en inglés no se usa ningún artículo donde en español sí. Esto se llama 'zero article'.",
-      "itemIndices": [0, 1, 2]
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
     },
     {
       "type": "introduce",
       "title": "El error que todo hispanohablante comete",
       "instruction": "En español decimos 'Me gusta EL chocolate'. Si traducís literalmente: 'I like THE chocolate' — ¡ERROR! En inglés, cuando hablás de algo en general, no usás artículo: 'I like chocolate'. Lo mismo con: 'Life is short' (no 'The life'), 'Dogs are loyal' (no 'The dogs').",
-      "itemIndices": [3]
+      "itemIndices": [
+        3
+      ]
     },
     {
       "type": "recognize",
       "title": "¿a, an, the o nada?",
       "instruction": "Elegí el artículo correcto (o ninguno) para cada oración.",
-      "itemIndices": [0, 1, 2, 3]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
     },
     {
       "type": "recall",
       "title": "Completá con el artículo correcto",
       "instruction": "Ves la oración. Escribí 'a', 'an', 'the' o dejá vacío si no lleva artículo.",
-      "itemIndices": [0, 1, 2, 3]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
     },
     {
       "type": "summary",
       "title": "¡Lección completa!",
       "instruction": "Resumen: 'a/an' = algo no específico ('a cat' = un gato cualquiera). 'The' = algo específico ('the cat on the table'). NADA = cosas en general ('I like cats', 'Music is art'). Regla para hispanohablantes: si en español decís 'el/la' + algo general, en inglés probablemente no lleva artículo.",
-      "itemIndices": [0, 1, 2, 3]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
     }
   ]
 }

@@ -1,0 +1,126 @@
+{
+  "id": "vocab-c1-04",
+  "title": "Advanced Phrasal Verbs II & Collocations",
+  "description": "Más phrasal verbs C1 de alta frecuencia y colocaciones esenciales: come up with, dawn on, pose a threat, reach a consensus, bridge the gap, meet a deadline.",
+  "level": "c1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "come up with",
+      "back": "idear / ocurrírsele a uno / proponer",
+      "reading": "/kʌm ʌp wɪð/",
+      "explanation": "Inseparable (3 palabras). El mejor equivalente de 'ocurrírsele a uno' en inglés. 'Nobody came up with a solution.' 'Who came up with this idea?' Denota creatividad o ingenio. Más vivo que 'propose' o 'suggest' porque implica el proceso de pensamiento que lleva a la idea.",
+      "extra": { "register": "neutral", "pos": "phrasal verb", "separable": false, "collocations": ["come up with a solution/idea/plan/excuse"] },
+      "cardRef": { "category": "vocabulary", "front": "come up with" }
+    },
+    {
+      "front": "dawn on",
+      "back": "caer en la cuenta / darse cuenta de repente",
+      "reading": "/dɔːn ɑːn/",
+      "explanation": "Realización súbita, como cuando amanece. 'It dawned on me that...' es la estructura más común. NO se dice 'I dawned on' — el sujeto gramatical es la situación que se comprende, no la persona. 'It suddenly dawned on me that I had been wrong all along.'",
+      "extra": { "register": "neutral/slightly literary", "pos": "phrasal verb", "pattern": "It dawned on [person] that...", "false-friend": "no es reflexivo" },
+      "cardRef": { "category": "vocabulary", "front": "dawn on" }
+    },
+    {
+      "front": "pose a threat",
+      "back": "representar una amenaza / suponer un peligro",
+      "reading": "/poʊz ə θrɛt/",
+      "explanation": "Colocación formal canónica. 'Pose a threat' es mucho más preciso y elevado que 'be a threat' o 'threaten'. Varía con graduación: 'pose a serious/significant/existential threat'. También: 'pose a challenge/problem/risk/question' — el verbo 'pose' con sustantivos abstractos es un patrón de alta frecuencia en inglés académico.",
+      "extra": { "register": "formal/academic", "pos": "expression", "pattern": "pose a [serious/significant/direct] threat to...", "related-collocations": ["pose a challenge", "pose a risk", "pose a question"] },
+      "cardRef": { "category": "vocabulary", "front": "pose a threat" }
+    },
+    {
+      "front": "reach a consensus",
+      "back": "llegar a un consenso / alcanzar un acuerdo",
+      "reading": "/riːtʃ ə kənˈsɛnsəs/",
+      "explanation": "Colocación imprescindible en discurso diplomático, académico y corporativo. 'The delegates failed to reach a consensus.' Nótese: en inglés se 'llega' a un consenso (reach), no se 'encuentra' ni se 'hace'. También: 'reach a decision/agreement/verdict/compromise'.",
+      "extra": { "register": "formal", "pos": "expression", "pattern": "reach a consensus on/about...", "related-collocations": ["reach an agreement", "reach a compromise", "scientific consensus"] },
+      "cardRef": { "category": "vocabulary", "front": "reach a consensus" }
+    },
+    {
+      "front": "bridge the gap",
+      "back": "cerrar la brecha / acortar la distancia",
+      "reading": "/brɪdʒ ðə ɡæp/",
+      "explanation": "Metáfora muy productiva en inglés. 'Bridge the gap between X and Y' — siempre hay dos extremos implícitos. 'Education must bridge the gap between theory and practice.' También: 'bridge the divide', 'narrow the gap' (reducir la brecha sin cerrarla del todo). Muy usado en discurso político y de desarrollo.",
+      "extra": { "register": "formal/rhetorical", "pos": "expression", "variants": ["narrow the gap", "close the gap", "bridge the divide"] },
+      "cardRef": { "category": "vocabulary", "front": "bridge the gap" }
+    },
+    {
+      "front": "meet a deadline",
+      "back": "cumplir un plazo / entregar a tiempo",
+      "reading": "/miːt ə ˈdɛdˌlaɪn/",
+      "explanation": "Otra colocación donde el verbo es clave: se 'cumple' un deadline con 'meet', no con 'do' o 'make'. 'Meet the deadline' (artículo definido cuando es específico). También: 'miss a deadline' (incumplir), 'extend a deadline' (ampliar un plazo), 'set a deadline' (fijar un plazo). Esencial en contexto profesional.",
+      "extra": { "register": "professional", "pos": "expression", "antonym": "miss a deadline", "related": ["set a deadline", "extend a deadline", "tight deadline"] },
+      "cardRef": { "category": "vocabulary", "front": "meet a deadline" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Phrasal verbs y colocaciones de alta frecuencia",
+      "instruction": "Las colocaciones (combinaciones fijas de palabras) son la marca del C1. Un B2 dice 'be a threat' — un C1 dice 'pose a threat'. Un B2 dice 'agree' — un C1 dice 'reach a consensus'. Notá que en 'dawn on', el sujeto es la situación, no la persona.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es el significado preciso?",
+      "instruction": "Elegí el significado correcto. Prestá atención a los matices entre opciones similares.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Colocación correcta?",
+      "instruction": "El error más común en C1 no es la gramática — es la colocación. ¿Estas oraciones suenan naturales para un nativo?",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "After hours of negotiation, the parties finally reached a consensus on the trade agreement.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Reach a consensus on [topic]' es la colocación estándar en discurso diplomático. 'After hours of negotiation' es un collocate frecuente de este tipo de oraciones.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "She suddenly dawned that she had forgotten her passport.",
+            "isCorrect": false,
+            "correction": "It suddenly dawned on her that she had forgotten her passport.",
+            "explanation": "'Dawn on' es impersonal: el sujeto es 'it' y la persona es el objeto indirecto de 'on'. 'She dawned' es incorrecto — las personas no amanecen sobre cosas. Correcto: 'It dawned on her that...'",
+            "errorType": "grammar-impersonal"
+          },
+          {
+            "sentence": "Artificial intelligence poses a significant threat to jobs in the manufacturing sector.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Pose a significant threat to' es una colocación de alta frecuencia en periodismo serio. 'To' introduce el objeto amenazado.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "The team made a very creative solution to the problem.",
+            "isCorrect": false,
+            "correction": "The team came up with a very creative solution to the problem.",
+            "explanation": "En inglés se 'come up with' ideas y soluciones, no se 'make' ni 'create' them (en este sentido). 'Make a solution' no es idiomático. 'Find a solution' sería correcto pero menos dinámico. 'Come up with' implica creatividad y proceso de ideación.",
+            "errorType": "collocation"
+          },
+          {
+            "sentence": "The new policy aims to bridge the gap between wealthier and poorer regions.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Bridge the gap between X and Y' con 'between' para los dos extremos. 'Aims to' + infinitivo para objetivos de política es completamente estándar.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "She must do the deadline by Friday or face consequences.",
+            "isCorrect": false,
+            "correction": "She must meet the deadline by Friday or face consequences.",
+            "explanation": "'Meet a deadline' es la colocación correcta, no 'do a deadline' ni 'make a deadline' (aunque en algunos contextos 'make a deadline' existe en inglés americano informal). 'Miss a deadline' sería el opuesto.",
+            "errorType": "collocation"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completada!",
+      "instruction": "Colocaciones clave: POSE a threat/challenge/risk (no 'be'), REACH a consensus/agreement (no 'make'), MEET a deadline (no 'do'), BRIDGE the gap (no 'close' cuando implica distancia conceptual). Come up with = idear. Dawn on [person] = caerse la ficha (impersonal).",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

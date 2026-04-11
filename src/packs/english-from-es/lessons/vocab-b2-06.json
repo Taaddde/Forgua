@@ -1,0 +1,206 @@
+{
+  "id": "vocab-b2-06",
+  "title": "Phrasal Verbs: Advanced Professional Use",
+  "description": "Phrasal verbs de nivel B2 para contextos profesionales y académicos: come across, carry out, figure out y más.",
+  "level": "b2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "come across",
+      "back": "encontrarse con / toparse con / dar la impresión de",
+      "reading": "/kʌm əˈkrɔːs/",
+      "explanation": "Dos usos principales: (1) encontrarse inesperadamente con algo ('I came across an article'). (2) Dar cierta impresión ('She comes across as very confident'). Este segundo uso es clave en B2 para describir cómo algo o alguien impacta en los demás.",
+      "cardRef": { "category": "vocabulary", "front": "come across" }
+    },
+    {
+      "front": "carry out",
+      "back": "llevar a cabo / realizar",
+      "reading": "/ˈkæri aʊt/",
+      "explanation": "Realizar o ejecutar una tarea, investigación u orden. Más formal que 'do'. Colocaciones clave: carry out research, carry out an investigation, carry out orders, carry out a plan. Inseparable cuando tiene objeto explícito: 'carry out the plan' (no 'carry the plan out').",
+      "cardRef": { "category": "vocabulary", "front": "carry out" }
+    },
+    {
+      "front": "put off",
+      "back": "posponer / aplazar",
+      "reading": "/pʊt ɔːf/",
+      "explanation": "Posponer algo para más adelante (= postpone). También puede significar 'disuadir' o 'quitar las ganas de algo': 'The bad reviews put me off going'. Colocaciones: put off a meeting, put off a decision. Cuidado con la separabilidad: 'put it off' (con pronombre siempre va en medio).",
+      "cardRef": { "category": "vocabulary", "front": "put off" }
+    },
+    {
+      "front": "bring up",
+      "back": "mencionar / sacar un tema / criar",
+      "reading": "/brɪŋ ʌp/",
+      "explanation": "Tres usos: (1) Mencionar un tema en una conversación ('She brought up an important point'). (2) Criar a un niño ('I was brought up in Buenos Aires'). (3) Vomitar (informal). En contextos profesionales, el uso más frecuente es el primero: 'I'd like to bring up an issue'.",
+      "cardRef": { "category": "vocabulary", "front": "bring up" }
+    },
+    {
+      "front": "turn down",
+      "back": "rechazar / bajar (volumen)",
+      "reading": "/tɜːrn daʊn/",
+      "explanation": "Dos usos: (1) Rechazar una oferta, petición o persona ('turn down a job offer', 'turn down a request'). (2) Bajar el volumen o intensidad ('turn down the music'). En contextos profesionales, 'turn down' para rechazar es clave.",
+      "cardRef": { "category": "vocabulary", "front": "turn down" }
+    },
+    {
+      "front": "figure out",
+      "back": "descifrar / entender / resolver",
+      "reading": "/ˈfɪɡjər aʊt/",
+      "explanation": "Llegar a entender o resolver algo mediante el pensamiento o el análisis. Sinónimos: work out (British), understand, solve. Colocaciones: figure out a problem, figure out how to, figure out why. Muy común en inglés americano.",
+      "cardRef": { "category": "vocabulary", "front": "figure out" }
+    },
+    {
+      "front": "look into",
+      "back": "investigar / examinar",
+      "reading": "/lʊk ˈɪntuː/",
+      "explanation": "Investigar o examinar algo más de cerca. Formal y profesional. Colocaciones: look into the matter, look into the issue, look into complaints. Frecuente en respuestas profesionales: 'We will look into this immediately.'",
+      "cardRef": { "category": "vocabulary", "front": "look into" }
+    },
+    {
+      "front": "run out of",
+      "back": "quedarse sin",
+      "reading": "/rʌn aʊt ʌv/",
+      "explanation": "No tener más de algo. Siempre seguido de sustantivo: 'run out of time/money/patience/ideas'. Importante: es 'run out OF' (no 'from'). A menudo en pasado: 'We ran out of time'. En presente perfecto: 'We've run out of options'.",
+      "cardRef": { "category": "vocabulary", "front": "run out of" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Phrasal verbs avanzados: contexto profesional",
+      "instruction": "Estos phrasal verbs son esenciales en conversaciones de trabajo y reuniones en inglés. Prestá atención a los usos múltiples — 'bring up' puede ser mencionar un tema o criar a un hijo. 'Put off' puede ser posponer o disuadir.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto según el contexto de la oración.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Dónde se usa bien?",
+      "instruction": "Elegí la oración donde el phrasal verb se usa correctamente.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "come across",
+            "translation": "encontrarse con / dar la impresión de",
+            "options": [
+              "I came across an interesting report on remote work while browsing online.",
+              "She comes across the street every morning.",
+              "We came across the car to get to the meeting.",
+              "He came across the decision to resign last week."
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "bring up",
+            "translation": "mencionar",
+            "options": [
+              "The director brought up the budget issue at the end of the meeting.",
+              "She brought up the heavy boxes to the top floor.",
+              "He brought up his salary by working harder.",
+              "They brought up a new office on the third floor."
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "look into",
+            "translation": "investigar",
+            "options": [
+              "The manager said he would look into the complaint and respond by Friday.",
+              "She looked into her bag to find her keys.",
+              "We looked into the window and saw the team working.",
+              "He is looking into his phone all day long."
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "turn down",
+            "translation": "rechazar",
+            "options": [
+              "He turned down the job offer because the commute was too long.",
+              "She turned down the stairs carefully.",
+              "They turned down the project to work on it better.",
+              "The director turned down the results and was satisfied."
+            ],
+            "correctIndex": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá el diálogo de trabajo",
+      "instruction": "Completá este intercambio profesional con el phrasal verb correcto.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "Manager: 'I'd like to {0} a concern about the project timeline.' Employee: 'I understand. We've {1} of buffer time and need to renegotiate.'",
+            "blanks": [
+              { "answer": "bring up", "options": ["bring up", "run out of", "look into", "figure out"] },
+              { "answer": "run out", "options": ["run out", "turned down", "put off", "carried out"] }
+            ]
+          },
+          {
+            "template": "We need to {0} why the system crashed. I suggest we {1} the investigation before the end of the week.",
+            "blanks": [
+              { "answer": "figure out", "options": ["figure out", "put off", "turn down", "come across"] },
+              { "answer": "carry out", "options": ["carry out", "run out of", "bring up", "look into"] }
+            ]
+          },
+          {
+            "template": "She {0} a very capable professional during the interview. I'm surprised she {1} the offer.",
+            "blanks": [
+              { "answer": "came across as", "options": ["came across as", "put off as", "turned down as", "figured out as"] },
+              { "answer": "turned down", "options": ["turned down", "put off", "ran out of", "brought up"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Decidí si el phrasal verb está usado correctamente.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "The HR department is looking into the discrimination complaint.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Look into' (investigar) + objeto directo. Uso formal y apropiado para RRHH.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "We ran out from ideas after three hours of brainstorming.",
+            "isCorrect": false,
+            "correction": "We ran out of ideas after three hours of brainstorming.",
+            "explanation": "'Run out' siempre se construye con 'OF', no 'FROM'. Error muy común por influencia del español 'se nos acabaron las ideas' que usa 'de'.",
+            "errorType": "preposition"
+          },
+          {
+            "sentence": "I was put off by his aggressive tone during the presentation.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Put off' aquí significa 'disuadir' o 'quitar las ganas/la buena impresión'. 'Put off by' es la colocación correcta para este uso.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "The team carried out the study out over a period of six months.",
+            "isCorrect": false,
+            "correction": "The team carried out the study over a period of six months.",
+            "explanation": "No se repite 'out'. 'Carry out' como phrasal verb ya incluye la partícula. La forma correcta es 'carried out the study' o 'carried the study out', pero no ambas a la vez.",
+            "errorType": "structure"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Phrasal verbs B2: 'come across' (encontrar / dar impresión), 'carry out' (realizar, formal), 'put off' (posponer / disuadir), 'bring up' (mencionar / criar), 'turn down' (rechazar / bajar volumen), 'figure out' (resolver/entender), 'look into' (investigar), 'run out of' (quedarse sin, siempre 'OF'). Son esenciales en conversaciones y emails de trabajo.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

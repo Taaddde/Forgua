@@ -1,0 +1,116 @@
+{
+  "id": "reading-c1-01",
+  "title": "Reading: The Paradox of Choice",
+  "description": "Lectura C1: el psicólogo Barry Schwartz y por qué más opciones nos hacen menos felices. Comprensión con análisis crítico e inferencial.",
+  "level": "c1",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "maximizer (decision-making type)",
+      "back": "someone who exhaustively evaluates every option to find the absolute best choice",
+      "reading": "",
+      "explanation": "Schwartz's key concept: a maximizer never settles — they must find THE best option. Contrasted with 'satisficer' (someone who accepts a good-enough option). Research shows maximizers often make objectively better decisions but feel less satisfied because they're haunted by alternatives."
+    },
+    {
+      "front": "satisficer (decision-making type)",
+      "back": "someone who accepts the first option that meets a satisfactory threshold",
+      "reading": "",
+      "explanation": "From 'satisfy' + 'suffice'. A satisficer sets criteria in advance and stops searching once an option meets those criteria. Despite sometimes choosing objectively worse options, satisficers report higher satisfaction because they don't torture themselves over alternatives."
+    },
+    {
+      "front": "counterfactual thinking",
+      "back": "imagining how things might have been different if other choices had been made",
+      "reading": "",
+      "explanation": "Literally 'contrary to the facts'. The nagging question: 'What if I had taken the other job? What if I had studied something different?' This is what Schwartz argues is triggered by excessive choice — when you know 50 alternatives existed, it's hard not to wonder whether any of them was better."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario clave antes de leer",
+      "instruction": "Antes de leer el texto, familiarizate con los tres conceptos centrales del argumento de Schwartz. Comprenderlos te ayudará a captar los matices del texto.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "The Paradox of Choice — Comprensión",
+      "instruction": "Leé el texto completo y respondé las preguntas. Algunas preguntas son literales, otras requieren inferencia y análisis del argumento.",
+      "itemIndices": [],
+      "config": {
+        "passage": {
+          "id": "c1-reading-paradox-of-choice",
+          "title": "The Paradox of Choice",
+          "level": "c1",
+          "text": "In his influential 2004 book 'The Paradox of Choice: Why More Is Less,' psychologist Barry Schwartz challenged one of the foundational assumptions of modern consumer culture: that more choice invariably leads to greater satisfaction. Drawing on extensive research in behavioral economics and psychology, Schwartz argued that while some degree of choice is essential to autonomy and well-being, an overabundance of options can paradoxically leave us less satisfied, more anxious, and ultimately paralyzed.\n\nSchwartz distinguished between two types of decision-makers: 'maximizers,' who exhaustively evaluate every available option to ensure they make the best possible choice, and 'satisficers,' who search until they find an option that meets a predetermined threshold of acceptability. His research consistently demonstrated that maximizers, despite often making objectively better decisions, reported lower levels of satisfaction and higher levels of regret than satisficers. The very act of knowing that alternatives existed — and that any of them might have been superior — undermined their ability to enjoy the choice they had made.\n\nThe implications extend well beyond consumer behavior. In the domain of career planning, for example, the explosion of available paths has not necessarily made young professionals happier or more fulfilled. The awareness that one could have pursued medicine, law, technology, academia, or entrepreneurship creates a persistent background anxiety — a nagging sense that the path not taken might have been the right one. This phenomenon, which psychologists term 'counterfactual thinking,' can erode satisfaction with choices that are, by any objective measure, perfectly good.\n\nSchwartz proposed several practical strategies for navigating the paradox of choice. He recommended deliberately constraining our options: rather than comparing every available restaurant, choose from the three closest ones. He advocated cultivating gratitude for what we have rather than fixating on what we might be missing. And he emphasized the importance of lowering expectations — not as a form of resignation, but as a recognition that the 'perfect' choice is a cognitive illusion.\n\nCritics have argued that Schwartz overstates the problem. Some researchers have failed to replicate his findings, suggesting that the relationship between choice and satisfaction is more nuanced than his framework implies. Cultural factors also play a role: studies indicate that the negative effects of excessive choice may be more pronounced in individualistic Western societies than in collectivist cultures, where decision-making is more frequently distributed among family and community.\n\nNevertheless, the core insight of 'The Paradox of Choice' retains its power. In an age of algorithmic recommendation engines, infinite streaming libraries, and dating apps that present thousands of potential partners, the question of how much choice is too much has never been more pertinent. Schwartz's work reminds us that freedom of choice, taken to its extreme, can become its own form of tyranny.",
+          "vocabulary": ["invariably - invariablemente", "overabundance - sobreabundancia", "paradoxically - paradójicamente", "exhaustively - exhaustivamente", "threshold - umbral", "undermined - socavó", "counterfactual - contrafactual", "erode - erosionar", "constraining - restringir", "resignation - resignación", "nuanced - matizado", "pertinent - pertinente"],
+          "questions": [
+            {
+              "question": "According to Schwartz, why do 'maximizers' tend to be less satisfied than 'satisficers'?",
+              "options": ["They make worse decisions overall.", "They spend too much money on their choices.", "The knowledge that alternatives existed undermines their enjoyment of the choice they made.", "They always choose the cheapest option."],
+              "correctIndex": 2,
+              "explanation": "The text explains: 'The very act of knowing that alternatives existed — and that any of them might have been superior — undermined their ability to enjoy the choice they had made.'"
+            },
+            {
+              "question": "What does the author mean when they call 'counterfactual thinking' a 'persistent background anxiety'?",
+              "options": ["It is a medical condition that requires treatment.", "It is a constant, low-level worry about roads not taken, running in the background of our minds like a quiet alarm.", "It only affects people who made catastrophically bad decisions.", "It is a form of anxiety that disappears once a decision proves successful."],
+              "correctIndex": 1,
+              "explanation": "The metaphor 'background' suggests it's not at the forefront of consciousness but is always present. 'Persistent' means ongoing. Together: a quiet but constant unease about alternatives — the nagging sense the unchosen path might have been better."
+            },
+            {
+              "question": "What limitation of Schwartz's theory do critics highlight?",
+              "options": ["His research only studied older adults.", "His findings may not replicate universally and may be more pronounced in individualistic Western cultures.", "He did not use proper scientific methods.", "His theory only applies to online shopping."],
+              "correctIndex": 1,
+              "explanation": "Critics note 'some researchers have failed to replicate his findings' and that 'the negative effects may be more pronounced in individualistic Western societies than in collectivist cultures.'"
+            },
+            {
+              "question": "What does the author imply by comparing 'freedom of choice' to a 'form of tyranny' in the final sentence?",
+              "options": ["The author believes freedom is always harmful.", "The author suggests that when taken to extremes, a seemingly positive thing (freedom) can become oppressive and constraining rather than liberating.", "The author is criticizing democratic governments.", "The author thinks technology companies are deliberately oppressive."],
+              "correctIndex": 1,
+              "explanation": "This is an inferential question about rhetorical purpose. The paradox in the final line — freedom becoming tyranny — encapsulates the book's core argument: too much of a good thing becomes its opposite. The author is not being literal but using paradox to make the point resonate."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "word-in-context",
+      "title": "Vocabulario del texto en contexto",
+      "instruction": "Elegí el uso correcto de vocabulario clave del texto.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "erode",
+            "translation": "erosionar / desgastar gradualmente",
+            "options": [
+              "The committee decided to erode the new building next to the park.",
+              "Years of setbacks had gradually eroded her confidence in the project.",
+              "She eroded her opinion about the topic after reading the article.",
+              "The scientist eroded the experiment to get better results."
+            ],
+            "correctIndex": 1,
+            "explanation": "'Erode' (erosionar) describe un desgaste gradual de algo abstracto: confidence, trust, values, support. Como en el texto: counterfactual thinking 'can erode satisfaction.' No se usa para destrucción intencional o rápida."
+          },
+          {
+            "targetWord": "pertinent",
+            "translation": "pertinente / relevante",
+            "options": [
+              "The question is pertinent — it directly addresses the core issue we've been discussing.",
+              "The weather was pertinent and warm during the summer holidays.",
+              "She gave a very pertinent and long speech.",
+              "The research was pertinent because it was published in 2020."
+            ],
+            "correctIndex": 0,
+            "explanation": "'Pertinent' = directamente relevante para el asunto en cuestión. Más formal y preciso que 'relevant'. 'A pertinent question' es una pregunta que va directamente al punto. No describe longitud, calidad general ni tiempo."
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completada!",
+      "instruction": "Repaso del argumento de Schwartz: Más opciones → más ansiedad, más pensamiento contrafactual → menos satisfacción. Maximizers vs satisficers. Crítica: los efectos son culturalmente variables. Vocabulario clave: invariably, erode, counterfactual, pertinent, nuanced. Los 3 ítems introducidos están en tu SRS.",
+      "itemIndices": [0, 1, 2]
+    }
+  ]
+}

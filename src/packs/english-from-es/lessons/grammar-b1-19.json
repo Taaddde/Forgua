@@ -1,0 +1,180 @@
+{
+  "id": "grammar-b1-19",
+  "title": "Relative Clauses (Non-defining)",
+  "description": "Cláusulas relativas que agregan información EXTRA entre comas: 'My brother, who lives in Canada, is visiting'. Nunca con 'that' y nunca omiten el pronombre.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Relative Clauses (Non-defining) (noun + , who/which ... , + rest of sentence)",
+      "back": "Cláusulas relativas explicativas: info extra entre comas. Solo who/which/where/whose, nunca 'that'.",
+      "reading": "/ˈrɛlətɪv ˈklɔːzɪz nɒn dɪˈfaɪnɪŋ/",
+      "explanation": "Las non-defining relative clauses agregan info EXTRA que no es esencial: si las borrás, la oración sigue teniendo sentido. TRES reglas de hierro: (1) van SIEMPRE entre comas; (2) NUNCA se usa 'that' — solo who, which, where, whose; (3) NUNCA se puede omitir el pronombre relativo. Se usan más en escritura que en habla cotidiana.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Relative Clauses (Non-defining) (noun + , who/which ... , + rest of sentence)"
+      }
+    },
+    {
+      "front": "My brother, who lives in Canada, is coming to visit.",
+      "back": "Info extra sobre mi hermano. Si borro 'who lives in Canada', la oración sigue completa.",
+      "reading": "/maɪ ˈbrʌðər huː lɪvz ɪn ˈkænədə/",
+      "explanation": "Las dos comas encierran la info extra. 'Who lives in Canada' es información adicional — no identifica al hermano (asumimos que solo tengo uno). Comparación clave: 'My brother who lives in Canada' (sin comas, defining) implicaría que tengo VARIOS hermanos y estoy identificando uno específico."
+    },
+    {
+      "front": "The Eiffel Tower, which was built in 1889, attracts millions of visitors.",
+      "back": "'Which' para cosas, lugares o conceptos. Info extra entre comas.",
+      "reading": "/ði ˈaɪfəl ˈtaʊər wɪtʃ wəz bɪlt ɪn ˈeɪtiːn ˈeɪti naɪn/",
+      "explanation": "'Which' para cosas (y a veces conceptos o para referirse a toda la oración anterior). La Torre Eiffel es única — ya sabemos de cuál hablamos — así que la info de cuándo fue construida es EXTRA, no identificadora. Van comas."
+    },
+    {
+      "front": "She passed the exam, which surprised everyone.",
+      "back": "'Which' también puede referirse a TODA la oración anterior: el hecho de que aprobó sorprendió a todos.",
+      "reading": "/ʃiː pæst ði ɪɡˈzæm wɪtʃ sərˈpraɪzd ˈɛvriwʌn/",
+      "explanation": "Uso especial: 'which' puede comentar TODA la cláusula anterior. 'She passed the exam, which surprised everyone' = el hecho de que aprobara sorprendió a todos. En español sería 'lo cual sorprendió'. Solo con 'which' (nunca 'that' ni 'who')."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Non-defining: info extra entre comas",
+      "instruction": "Agregan información EXTRA que no es esencial. Si se borran, la oración sigue completa. Siempre entre comas. Nunca 'that'. Nunca se omite el pronombre relativo.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "'Which' comenta toda la oración",
+      "instruction": "'Which' también puede referirse a toda la cláusula anterior: 'He forgot my birthday, which made me sad' = el hecho de que lo olvidara me puso triste.",
+      "itemIndices": [3]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con el pronombre relativo",
+      "instruction": "Elegí who, which, where o whose. No uses 'that' en ninguna cláusula entre comas.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "My best friend, {0} I've known since childhood, just got married.",
+            "blanks": [
+              { "answer": "who", "options": ["who", "that", "which"] }
+            ]
+          },
+          {
+            "template": "Barcelona, {0} is the capital of Catalonia, is famous for its architecture.",
+            "blanks": [
+              { "answer": "which", "options": ["which", "that", "where"] }
+            ]
+          },
+          {
+            "template": "My neighbour, {0} dog barks all night, is finally moving out.",
+            "blanks": [
+              { "answer": "whose", "options": ["whose", "who", "which"] }
+            ]
+          },
+          {
+            "template": "We went to Porto, {0} we spent three amazing days, {1} was built on the Douro river.",
+            "blanks": [
+              { "answer": "where", "options": ["where", "which", "when"] },
+              { "answer": "which", "options": ["which", "that", "where"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Atención a las comas, al uso de 'that' y a la presencia del pronombre relativo.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "My mother, who is a nurse, works at the local hospital.",
+            "isCorrect": true,
+            "explanation": "Correcto. Las comas encierran la info extra ('who is a nurse'). 'Who' para personas. Estructura perfecta de non-defining relative clause.",
+            "errorType": "non-defining"
+          },
+          {
+            "sentence": "My cousin, that lives in Germany, is a doctor.",
+            "isCorrect": false,
+            "correction": "My cousin, who lives in Germany, is a doctor.",
+            "explanation": "INCORRECTO. En non-defining clauses (las que van entre comas) NUNCA se usa 'that'. Solo who/which/where/whose. Esta es una de las diferencias clave con las defining clauses.",
+            "errorType": "wrong-pronoun"
+          },
+          {
+            "sentence": "The book, I bought yesterday, is fascinating.",
+            "isCorrect": false,
+            "correction": "The book, which I bought yesterday, is fascinating.",
+            "explanation": "INCORRECTO. En non-defining clauses NUNCA se puede omitir el pronombre relativo, ni siquiera cuando es objeto. Siempre hay que poner 'which' (o 'who'/'where'/'whose' según corresponda).",
+            "errorType": "missing-pronoun"
+          },
+          {
+            "sentence": "She forgot her passport, which caused a huge problem at the airport.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Which' se refiere a toda la oración anterior ('she forgot her passport') — el hecho de que olvidara el pasaporte causó el problema. Uso impecable de 'which' como comentario sobre la cláusula.",
+            "errorType": "non-defining"
+          }
+        ]
+      }
+    },
+    {
+      "type": "word-in-context",
+      "title": "Non-defining en contexto",
+      "instruction": "Elegí la oración con la non-defining relative clause bien formada.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "who + comas",
+            "translation": "quien (info extra)",
+            "options": [
+              "My father, that works in a bank, is retiring next year.",
+              "My father, works in a bank, is retiring next year.",
+              "My father, who works in a bank, is retiring next year.",
+              "My father who works in a bank is retiring next year."
+            ],
+            "correctIndex": 2
+          },
+          {
+            "targetWord": "which + comas",
+            "translation": "que (info extra sobre cosas)",
+            "options": [
+              "The Mona Lisa, that was painted by Da Vinci, is in the Louvre.",
+              "The Mona Lisa, which was painted by Da Vinci, is in the Louvre.",
+              "The Mona Lisa which was painted by Da Vinci is in the Louvre.",
+              "The Mona Lisa, was painted by Da Vinci, is in the Louvre."
+            ],
+            "correctIndex": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá la oración con cláusula explicativa",
+      "instruction": "Ordená los fragmentos para formar oraciones con non-defining relative clauses.",
+      "itemIndices": [1, 2],
+      "config": {
+        "sentences": [
+          {
+            "translation": "Mi abuela, que tiene 85 años, todavía va al gimnasio.",
+            "fragments": ["My grandmother,", "who is 85,", "still goes", "to the gym."],
+            "correctOrder": [0, 1, 2, 3]
+          },
+          {
+            "translation": "Roma, que es la capital de Italia, tiene una historia increíble.",
+            "fragments": ["Rome,", "which is the capital of Italy,", "has", "an incredible history."],
+            "correctOrder": [0, 1, 2, 3]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Non-defining relative clauses = info EXTRA entre comas. Tres reglas de hierro: (1) siempre entre comas; (2) NUNCA se usa 'that' — solo who/which/where/whose; (3) NUNCA se omite el pronombre. 'Which' puede también referirse a TODA la oración anterior ('she won, which was great'). La presencia o ausencia de comas cambia el significado.",
+      "itemIndices": [0, 1, 2, 3]
+    }
+  ]
+}

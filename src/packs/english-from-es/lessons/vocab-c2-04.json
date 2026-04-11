@@ -1,0 +1,139 @@
+{
+  "id": "vocab-c2-04",
+  "title": "Idiomatic Expressions Mastery",
+  "description": "Idioms de nivel C2: the writing is on the wall, turn a blind eye, a double-edged sword, tip of the iceberg. Reconocer y producir estas expresiones marca fluidez nativa.",
+  "level": "c2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "the writing is on the wall",
+      "back": "los signos son evidentes (el fin es inminente)",
+      "reading": "/ðə ˈraɪtɪŋ ɪz ɒn ðə wɔːl/",
+      "explanation": "Del libro bíblico de Daniel — una inscripción misteriosa predijo la caída del rey Baltasar. Hoy significa: los signos de que algo (negativo) está por suceder son evidentes. 'The writing was on the wall — layoffs were inevitable'. Casi siempre sobre un mal resultado previsible.",
+      "cardRef": { "category": "vocabulary", "front": "the writing is on the wall" }
+    },
+    {
+      "front": "turn a blind eye",
+      "back": "hacer la vista gorda, ignorar deliberadamente",
+      "reading": "/tɜːrn ə blaɪnd aɪ/",
+      "explanation": "Atribuido al almirante Nelson, quien se puso el telescopio en su ojo ciego para 'no ver' una señal de retirada. Significa: ignorar intencionalmente algo incorrecto. 'The manager turned a blind eye to the employees' tardiness'. Implica complicidad pasiva.",
+      "cardRef": { "category": "vocabulary", "front": "turn a blind eye" }
+    },
+    {
+      "front": "a double-edged sword",
+      "back": "un arma de doble filo",
+      "reading": "/ə ˈdʌbəl ɛdʒd sɔːrd/",
+      "explanation": "Algo que tiene consecuencias buenas y malas simultáneamente. 'Social media is a double-edged sword: it connects people but also spreads misinformation'. Cognado directo del español. Muy frecuente en análisis de tecnología, política y relaciones humanas.",
+      "cardRef": { "category": "vocabulary", "front": "a double-edged sword" }
+    },
+    {
+      "front": "leave no stone unturned",
+      "back": "no dejar piedra sin mover (hacer todo lo posible)",
+      "reading": "/liːv noʊ stoʊn ʌnˈtɜːrnd/",
+      "explanation": "Originada en una búsqueda oracular en la mitología griega. Significa: investigar o buscar exhaustivamente. 'Detectives left no stone unturned in the investigation'. Típicamente sobre investigación, búsqueda o esfuerzo máximo.",
+      "cardRef": { "category": "vocabulary", "front": "leave no stone unturned" }
+    },
+    {
+      "front": "a wolf in sheep's clothing",
+      "back": "un lobo con piel de cordero (persona peligrosa que parece inofensiva)",
+      "reading": "/ə wʊlf ɪn ʃiːps ˈkloʊðɪŋ/",
+      "explanation": "De una fábula de Esopo. Una persona peligrosa o mala que se disfraza de benévola. 'He seemed charming, but turned out to be a wolf in sheep's clothing'. Cognado directo del español. Se usa para advertir sobre alguien de quien no hay que fiarse.",
+      "cardRef": { "category": "vocabulary", "front": "a wolf in sheep's clothing" }
+    },
+    {
+      "front": "the tip of the iceberg",
+      "back": "la punta del iceberg (solo una pequeña parte visible de un problema mayor)",
+      "reading": "/ðə tɪp əv ði ˈaɪsbɜːrg/",
+      "explanation": "Solo el 10% de un iceberg es visible sobre la superficie. Figurativamente: 'What we see is only the tip of the iceberg — the real problem is much larger'. Muy frecuente en análisis de crisis, corrupción, investigaciones científicas. Cognado con el español.",
+      "cardRef": { "category": "vocabulary", "front": "the tip of the iceberg" }
+    },
+    {
+      "front": "burn the midnight oil",
+      "back": "quemarse las pestañas (trabajar hasta muy tarde)",
+      "reading": "/bɜːrn ðə ˈmɪdnaɪt ɔɪl/",
+      "explanation": "De la época en que las lámparas usaban aceite. Trabajar hasta altas horas de la noche, típicamente estudiando o en un proyecto. 'She's been burning the midnight oil to finish her thesis'. Tono positivo — elogia el esfuerzo.",
+      "cardRef": { "category": "vocabulary", "front": "burn the midnight oil" }
+    },
+    {
+      "front": "add insult to injury",
+      "back": "empeorar una situación ya mala (la cereza del postre, irónicamente)",
+      "reading": "/æd ˈɪnsəlt tuː ˈɪndʒəri/",
+      "explanation": "De una fábula de Fedro. Hacer algo que empeora una situación ya difícil. 'I lost my job, and to add insult to injury, I got a parking ticket on my way home'. Muy común en relatos de infortunios concatenados. La estructura 'to add insult to injury' suele ir entre comas.",
+      "cardRef": { "category": "vocabulary", "front": "add insult to injury" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Idioms — la medida de la fluidez",
+      "instruction": "Los idioms son bloques culturales que no se traducen literalmente. Usarlos apropiadamente marca fluidez nativa; usarlos mal suena torpe. Aprendé el origen y las colocaciones típicas de cada uno.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto de cada idiom.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Dónde se usa bien?",
+      "instruction": "Elegí la oración donde el idiom está usado correctamente.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "the writing on the wall",
+            "translation": "signos de un fin inminente",
+            "options": [
+              "I saw the writing on the wall and handwriting is beautiful.",
+              "When sales dropped for the third quarter in a row, the writing was on the wall for the CEO.",
+              "The writing on the wall was very elegant calligraphy.",
+              "There was the writing on the wall of my house and it is dirty."
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "a double-edged sword",
+            "translation": "arma de doble filo (bueno y malo a la vez)",
+            "options": [
+              "I bought a double-edged sword for my collection yesterday.",
+              "Artificial intelligence is a double-edged sword: it brings efficiency but threatens jobs.",
+              "A double-edged sword is only useful for cutting two things.",
+              "The cook used a double-edged sword to prepare the dinner."
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "burn the midnight oil",
+            "translation": "quemarse las pestañas, trabajar hasta tarde",
+            "options": [
+              "Be careful with the candle, don't burn the midnight oil on the carpet.",
+              "He's been burning the midnight oil all week preparing for his final exams.",
+              "Burn the midnight oil is very dangerous for your health.",
+              "She burned the midnight oil in the kitchen while cooking dinner."
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "add insult to injury",
+            "translation": "empeorar una situación ya mala",
+            "options": [
+              "Add insult to injury means you should insult and hurt people.",
+              "First my car broke down, and then, to add insult to injury, it started raining.",
+              "The doctor will add insult to injury with his medicine.",
+              "You should add insult to injury to be polite."
+            ],
+            "correctIndex": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completada!",
+      "instruction": "8 IDIOMS C2: the writing on the wall, turn a blind eye, double-edged sword, leave no stone unturned, wolf in sheep's clothing, tip of the iceberg, burn the midnight oil, add insult to injury. Los idioms son bloques fijos — no los modifiques ni los traduzcas literalmente. Reconocerlos es comprensión; producirlos naturalmente es fluidez C2.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

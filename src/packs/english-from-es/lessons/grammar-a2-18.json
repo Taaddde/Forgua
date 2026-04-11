@@ -1,0 +1,164 @@
+{
+  "id": "grammar-a2-18",
+  "title": "Make / Let / Allow",
+  "description": "The teacher made us study. Let me help you. Causativos y permisivos — distinción crucial que no existe así en español.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Make / Let / Allow (make/let + object + base verb | allow + object + to verb)",
+      "back": "hacer que / dejar / permitir",
+      "reading": "",
+      "explanation": "'Make' = obligar/causar (más fuerte). 'Let' = permitir informalmente. 'Allow' = permitir formalmente. Make y let van con VERBO BASE (sin 'to'). Allow va con TO + VERBO.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Make / Let / Allow (make/let + object + base verb | allow + object + to verb)"
+      }
+    },
+    {
+      "front": "The teacher made us study.",
+      "back": "El profesor nos hizo estudiar.",
+      "reading": "",
+      "explanation": "'Make + object + verb base': the teacher (sujeto) + made (causativo pasado) + us (objeto) + study (verbo base, SIN 'to'). Implica obligación o resultado causado por alguien. En pasivo: 'We were made TO study' — en pasivo sí se usa 'to'."
+    },
+    {
+      "front": "Let me help you.",
+      "back": "Dejame ayudarte.",
+      "reading": "",
+      "explanation": "'Let + object + verb base': let (permitir) + me (objeto) + help (verbo base, SIN 'to'). Informal y muy común en inglés. 'Let me know' = avisame. 'Let's' = Let us = propuesta de hacer algo juntos."
+    },
+    {
+      "front": "They don't allow smoking here.",
+      "back": "No permiten fumar acá.",
+      "reading": "",
+      "explanation": "'Allow + -ing' (cuando no hay objeto) o 'allow + object + to verb'. 'Smoking' es el gerundio. 'They don't allow people TO smoke here' también es correcto. 'Allow' es más formal que 'let'."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Hacer, dejar y permitir",
+      "instruction": "En español 'hacer que', 'dejar' y 'permitir' se expresan de forma similar. En inglés hay tres verbos con matices distintos: MAKE (obligar/causar), LET (dejar, informal), ALLOW (permitir, formal). La diferencia clave: make y let + verbo BASE (sin 'to'). Allow + 'to' + verbo.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí la traducción correcta de cada oración.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Make, let o allow",
+      "instruction": "Completá con el verbo correcto y la forma verbal adecuada.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "My parents don't {0} me stay out after midnight, but they {1} me take the car on weekends.",
+            "blanks": [
+              {
+                "answer": "let",
+                "options": [
+                  "let",
+                  "allow",
+                  "make",
+                  "permit"
+                ]
+              },
+              {
+                "answer": "let",
+                "options": [
+                  "let",
+                  "allow",
+                  "make",
+                  "do"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "The noise {0} me wake up at 5 am. The hotel doesn't {1} guests to use the pool after 10 pm.",
+            "blanks": [
+              {
+                "answer": "made",
+                "options": [
+                  "made",
+                  "let",
+                  "allowed",
+                  "caused"
+                ]
+              },
+              {
+                "answer": "allow",
+                "options": [
+                  "allow",
+                  "let",
+                  "make",
+                  "permit"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "Errores con make, let y allow",
+      "instruction": "Identificá si la estructura es correcta.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "She made me to cry.",
+            "isCorrect": false,
+            "correction": "She made me cry.",
+            "explanation": "Después de 'make' NO se usa 'to': make + object + VERB BASE (sin to). 'Made me cry', no 'made me to cry'.",
+            "errorType": "verb-form"
+          },
+          {
+            "sentence": "Please let me know when you arrive.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Let + me + know' (verbo base). 'Let me know' es una expresión muy común que significa 'avisame'.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "They allowed us entering the building.",
+            "isCorrect": false,
+            "correction": "They allowed us to enter the building.",
+            "explanation": "'Allow' va con 'to + verb': allowed us TO ENTER. Si no hay objeto: 'They allowed entering' (con -ing). Con objeto siempre 'to + verbo'.",
+            "errorType": "verb-form"
+          },
+          {
+            "sentence": "My boss doesn't let me work from home.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Let + me + work' (verbo base sin 'to'). Estructura perfecta.",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Make (obligar/causar) + object + VERB BASE. Let (dejar, informal) + object + VERB BASE. Allow (permitir, formal) + object + TO + VERB. En pasivo, make sí usa 'to': 'We were made to study'. 'Let's' = Let us (propuesta). Frases útiles: 'let me know', 'let's go', 'make sure', 'don't let me down'.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ]
+}

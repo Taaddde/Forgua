@@ -10,35 +10,34 @@
       "back": "Lo vi ayer. (tiempo específico → past simple SIEMPRE)",
       "reading": "",
       "explanation": "Regla #1: si mencionás CUÁNDO pasó (yesterday, last week, in 2015, on Monday, when I was a child), usá SIEMPRE past simple. Nunca present perfect. 'I saw it yesterday' ✓. 'I have seen it yesterday' ✗. En español podés decir 'lo he visto ayer' en algunas regiones — en inglés JAMÁS.",
-      "cardRef": { "category": "grammar", "front": "I saw it yesterday. ✓ (specific time → past simple)" }
+      "cardRef": {
+        "category": "grammar",
+        "front": "Present Perfect vs Past Simple (have done (no time) vs did (specific time))"
+      }
     },
     {
       "front": "I have seen it. ✓ (no specific time → present perfect)",
       "back": "Lo vi / Lo he visto. (sin tiempo específico → present perfect)",
       "reading": "",
-      "explanation": "Regla #2: si NO decís cuándo pasó (porque no importa o no lo sabés), usá present perfect. 'I have seen that movie.' = Vi esa película (no importa cuándo, lo que importa es la experiencia). Si después agregás 'when?' → past simple: 'I saw it last Friday.'",
-      "cardRef": { "category": "grammar", "front": "I have seen it. ✓ (no specific time → present perfect)" }
+      "explanation": "Regla #2: si NO decís cuándo pasó (porque no importa o no lo sabés), usá present perfect. 'I have seen that movie.' = Vi esa película (no importa cuándo, lo que importa es la experiencia). Si después agregás 'when?' → past simple: 'I saw it last Friday.'"
     },
     {
       "front": "Have you ever been to London?",
       "back": "¿Alguna vez estuviste/fuiste a Londres?",
       "reading": "",
-      "explanation": "Experiencias de vida: present perfect + ever. '¿Alguna vez en tu vida?' = período no terminado (tu vida sigue). Respuesta corta: 'Yes, I have.' Si agregás detalle con tiempo: 'Yes, I went there in 2019.' (cambiás a past simple porque aparece el tiempo específico).",
-      "cardRef": { "category": "grammar", "front": "Have you ever been to London?" }
+      "explanation": "Experiencias de vida: present perfect + ever. '¿Alguna vez en tu vida?' = período no terminado (tu vida sigue). Respuesta corta: 'Yes, I have.' Si agregás detalle con tiempo: 'Yes, I went there in 2019.' (cambiás a past simple porque aparece el tiempo específico)."
     },
     {
       "front": "I have lived here for 5 years. (still living here)",
       "back": "Vivo acá hace 5 años. (todavía vivo acá)",
       "reading": "",
-      "explanation": "Situación que empezó en el pasado y CONTINÚA ahora → present perfect. 'I have lived here for 5 years' = empecé hace 5 años y SIGO viviendo acá. Comparar: 'I lived there for 5 years' (past simple) = viví ahí 5 años pero YA NO vivo ahí.",
-      "cardRef": { "category": "grammar", "front": "I have lived here for 5 years. (still living here)" }
+      "explanation": "Situación que empezó en el pasado y CONTINÚA ahora → present perfect. 'I have lived here for 5 years' = empecé hace 5 años y SIGO viviendo acá. Comparar: 'I lived there for 5 years' (past simple) = viví ahí 5 años pero YA NO vivo ahí."
     },
     {
       "front": "Spanish: 'He visto' = both contexts. English: SPLIT into two tenses.",
       "back": "En español 'he visto' sirve para todo. En inglés se divide en dos tiempos según el contexto.",
       "reading": "",
-      "explanation": "Esta es la raíz del problema: en español, 'he comido' puede usarse con o sin tiempo específico ('He comido paella' / 'He comido paella ayer'). En inglés, TENÉS que elegir: sin tiempo → 'I have eaten paella'; con tiempo → 'I ate paella yesterday'. Truco: si la oración tiene yesterday/last/ago/when/in+año → past simple. Si tiene ever/never/just/already/yet/this week → present perfect.",
-      "cardRef": { "category": "grammar", "front": "Spanish: 'He visto' = both contexts. English: SPLIT into two tenses." }
+      "explanation": "Esta es la raíz del problema: en español, 'he comido' puede usarse con o sin tiempo específico ('He comido paella' / 'He comido paella ayer'). En inglés, TENÉS que elegir: sin tiempo → 'I have eaten paella'; con tiempo → 'I ate paella yesterday'. Truco: si la oración tiene yesterday/last/ago/when/in+año → past simple. Si tiene ever/never/just/already/yet/this week → present perfect."
     }
   ],
   "steps": [
@@ -46,31 +45,55 @@
       "type": "introduce",
       "title": "El error #1 de hispanohablantes",
       "instruction": "Según el Cambridge Learner Corpus, confundir present perfect con past simple es el error gramatical más frecuente de los hispanohablantes. ¿Por qué? Porque en español 'he visto' funciona con y sin tiempo específico. En inglés, hay que elegir. Mirá las reglas.",
-      "itemIndices": [0, 1, 4]
+      "itemIndices": [
+        0,
+        1,
+        4
+      ]
     },
     {
       "type": "introduce",
       "title": "Experiencias y situaciones que continúan",
       "instruction": "Dos usos más donde se nota la diferencia: (1) experiencias de vida con 'ever' → present perfect, pero el detalle va en past simple. (2) Situaciones que siguen vigentes → present perfect con 'for/since'.",
-      "itemIndices": [2, 3]
+      "itemIndices": [
+        2,
+        3
+      ]
     },
     {
       "type": "recognize",
       "title": "¿Present perfect o past simple?",
       "instruction": "Leé cada oración y decidí: ¿present perfect o past simple? Buscá las pistas: ¿hay tiempo específico? ¿La situación sigue vigente?",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "recall",
       "title": "Completá con el tiempo correcto",
       "instruction": "Escribí la forma verbal correcta. Recordá: yesterday/last/ago/when → past simple. Ever/never/just/already/yet/this week → present perfect.",
-      "itemIndices": [0, 1, 2, 3]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
     },
     {
       "type": "summary",
       "title": "¡Lección completa!",
       "instruction": "Reglas clave: (1) Tiempo específico (yesterday, last week, in 2020) → SIEMPRE past simple. (2) Sin tiempo específico, experiencias (ever/never) → present perfect. (3) Situación que continúa (for/since) → present perfect. (4) Situación terminada → past simple. Truco rápido: si podés agregar 'yesterday' a la oración → past simple. Si podés agregar 'ever' → present perfect.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     }
   ]
 }

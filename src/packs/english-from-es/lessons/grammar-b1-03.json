@@ -1,0 +1,207 @@
+{
+  "id": "grammar-b1-03",
+  "title": "Passive Voice: The Report Was Written",
+  "description": "La voz pasiva pone el foco en la acción, no en quien la hace. 'The window was broken.' Esencial para textos formales, noticias y descripciones.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "The report was written by the manager.",
+      "back": "El informe fue escrito por el gerente.",
+      "reading": "/ðə rɪˈpɔːrt wəz ˈrɪtən baɪ ðə ˈmænɪdʒər/",
+      "explanation": "Pasiva = am/is/are (presente) / was/were (pasado) + participio pasado. 'By + agente' es opcional — solo se incluye si es importante saber quién hizo la acción. En textos formales y noticias, la pasiva es MUY frecuente en inglés.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Simple Passive (Present & Past) (Subject + am/is/are/was/were + past participle (+ by agent))"
+      }
+    },
+    {
+      "front": "English is spoken in over 50 countries. / The window was broken during the storm.",
+      "back": "El inglés se habla en más de 50 países. / La ventana fue rota durante la tormenta.",
+      "reading": "",
+      "explanation": "Presente pasiva: is/are + participio. Pasado pasiva: was/were + participio. 'English is spoken' = presente general. 'The window was broken' = pasado específico. En español usamos mucho 'se habla', 'se construyó' — en inglés formal, la pasiva explícita es más común."
+    },
+    {
+      "front": "These cars are manufactured in Germany.",
+      "back": "Estos autos se fabrican en Alemania.",
+      "reading": "/ðiːz kɑːrz ɑːr ˌmænjəˈfæktʃərd ɪn ˈdʒɜːrməni/",
+      "explanation": "Con plurales: 'are + participio'. Sin agente porque no es importante quién los fabrica, sino el hecho de que se fabrican ahí. Cuándo NO incluir 'by': cuando el agente es obvio, desconocido, o no relevante."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Voz pasiva: el foco en la acción",
+      "instruction": "Pasiva = sujeto + am/is/are/was/were + participio pasado (+ by agente). Usamos la pasiva cuando el foco está en lo que pasó, no en quién lo hizo. Muy común en noticias, textos formales y ciencia.",
+      "itemIndices": [
+        0,
+        1
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Plurales y sin agente",
+      "instruction": "Con plurales: 'are made', 'were built'. El agente (by...) solo se incluye cuando importa saber quién actuó. En la mayoría de los casos se omite.",
+      "itemIndices": [
+        2
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Activa o pasiva?",
+      "instruction": "Identificá si cada oración está en voz activa o pasiva, y elegí la traducción correcta.",
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Transformá a pasiva",
+      "instruction": "Armá la versión pasiva de cada oración.",
+      "itemIndices": [
+        0,
+        1
+      ],
+      "config": {
+        "sentences": [
+          {
+            "translation": "El pastel fue hecho por mi abuela.",
+            "fragments": [
+              "The cake",
+              "was made",
+              "by my grandmother."
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2
+            ]
+          },
+          {
+            "translation": "Estas fotos fueron tomadas en Argentina.",
+            "fragments": [
+              "These photos",
+              "were taken",
+              "in Argentina."
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Activa → Pasiva",
+      "instruction": "Completá con la forma pasiva correcta.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "The Eiffel Tower {0} in 1889.",
+            "blanks": [
+              {
+                "answer": "was built",
+                "options": [
+                  "was built",
+                  "is built",
+                  "built"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "Spanish {0} in 21 countries.",
+            "blanks": [
+              {
+                "answer": "is spoken",
+                "options": [
+                  "is spoken",
+                  "was spoken",
+                  "speaks"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "The letters {0} yesterday, so you should receive them soon.",
+            "blanks": [
+              {
+                "answer": "were sent",
+                "options": [
+                  "were sent",
+                  "are sent",
+                  "sent"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "This book {0} into 30 languages.",
+            "blanks": [
+              {
+                "answer": "has been translated",
+                "options": [
+                  "has been translated",
+                  "was translated",
+                  "is translated"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Identificá errores en la voz pasiva.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "The film was directed by a famous director.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Was directed' = pasado pasivo. 'By' se incluye porque el director es información relevante.",
+            "errorType": "passive"
+          },
+          {
+            "sentence": "The problem was solved by the team yesterday.",
+            "isCorrect": true,
+            "explanation": "Correcto. Pasado pasivo con agente (by the team) y referencia temporal (yesterday).",
+            "errorType": "passive"
+          },
+          {
+            "sentence": "English is spoke in Australia.",
+            "isCorrect": false,
+            "correction": "English is spoken in Australia.",
+            "explanation": "INCORRECTO. En la voz pasiva se usa el PARTICIPIO PASADO, no el pasado simple. 'Spoke' es el pasado simple de 'speak'. El participio es 'spoken'. Correcto: 'is spoken'.",
+            "errorType": "past-participle"
+          },
+          {
+            "sentence": "These products are make in China.",
+            "isCorrect": false,
+            "correction": "These products are made in China.",
+            "explanation": "INCORRECTO. En la pasiva: am/is/are + PARTICIPIO PASADO. 'Make' es la forma base; el participio es 'made'. Correcto: 'are made'.",
+            "errorType": "past-participle"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Pasiva presente: am/is/are + participio. Pasada: was/were + participio. 'By agente' solo cuando importa quién lo hizo. Cuándo usar la pasiva: foco en la acción/objeto, agente desconocido, textos formales, noticias. En español decimos 'se fabrican', 'se construyó' — en inglés formal, usamos la pasiva explícita.",
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
+    }
+  ]
+}

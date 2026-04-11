@@ -1,0 +1,143 @@
+{
+  "id": "vocab-c2-03",
+  "title": "Archaic & Formal Connectors",
+  "description": "Conectores arcaicos y formales: hitherto, whence, forthwith, albeit, lest, inasmuch. Para escritura académica y literaria de alto registro.",
+  "level": "c2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "hitherto",
+      "back": "hasta ahora, hasta el presente",
+      "reading": "/ˌhɪðərˈtuː/",
+      "explanation": "Adverbio formal: 'hasta el momento actual'. 'The company had hitherto avoided controversy'. Se usa en escritura académica y legal. En speech normal se reemplaza por 'until now' o 'so far'. Típicamente va con past perfect o present perfect.",
+      "cardRef": { "category": "vocabulary", "front": "hitherto" }
+    },
+    {
+      "front": "whence",
+      "back": "de donde, de dónde",
+      "reading": "/wɛns/",
+      "explanation": "Adverbio arcaico: 'from where'. 'The country whence he came' = el país del cual vino. Muy literario, prácticamente desaparecido del uso moderno excepto en frases fijas: 'return to whence it came'. Usarlo marca un registro muy elevado o ligeramente pretencioso.",
+      "cardRef": { "category": "vocabulary", "front": "whence" }
+    },
+    {
+      "front": "forthwith",
+      "back": "inmediatamente, sin demora",
+      "reading": "/ˌfɔːrθˈwɪθ/",
+      "explanation": "Adverbio formal-legal: 'de inmediato'. 'The court ordered the documents to be produced forthwith'. Muy formal, común en órdenes judiciales y documentos oficiales. En registro normal se usa 'immediately' o 'right away'.",
+      "cardRef": { "category": "vocabulary", "front": "forthwith" }
+    },
+    {
+      "front": "albeit",
+      "back": "si bien, aunque",
+      "reading": "/ɔːlˈbiːɪt/",
+      "explanation": "Conjunción formal: 'although'. Introduce una concesión breve, seguida típicamente de un adjetivo o frase corta, no una cláusula completa. 'The plan succeeded, albeit with some difficulty'. 'An interesting, albeit flawed, argument'. Muy común en escritura académica y periodística.",
+      "cardRef": { "category": "vocabulary", "front": "albeit" }
+    },
+    {
+      "front": "lest",
+      "back": "no sea que, por temor a que",
+      "reading": "/lɛst/",
+      "explanation": "Conjunción formal que introduce una cláusula de precaución negativa. 'Speak quietly lest you wake the baby' = habla bajo, no sea que despiertes al bebé. Toma subjuntivo o 'should': 'lest we forget' (frase célebre en memorias de guerra). Muy literario y formal.",
+      "cardRef": { "category": "vocabulary", "front": "lest" }
+    },
+    {
+      "front": "inasmuch",
+      "back": "en tanto, en la medida en que",
+      "reading": "/ˌɪnəzˈmʌtʃ/",
+      "explanation": "Conjunción formal: 'inasmuch as' = 'en la medida en que' o 'dado que'. 'The decision was fair, inasmuch as it applied equally to all parties'. Raro en conversación, común en argumentación legal y académica.",
+      "cardRef": { "category": "vocabulary", "front": "inasmuch" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Conectores del registro elevado",
+      "instruction": "Estas palabras son de registro alto — academia, ley, literatura. Usarlas correctamente marca maestría; usarlas en contextos cotidianos puede sonar pretencioso. Aprendé CUÁNDO usarlas, no solo QUÉ significan.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Registro apropiado",
+      "instruction": "Elegí la oración donde la palabra está usada en el registro correcto.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "albeit",
+            "translation": "si bien, aunque (seguido de adjetivo/frase corta)",
+            "options": [
+              "The experiment was successful, albeit the scientists had to repeat it several times.",
+              "The experiment was successful, albeit with unexpected side effects.",
+              "Albeit it was raining, we went to the park.",
+              "I will come albeit I am not feeling well."
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "lest",
+            "translation": "no sea que (precaución negativa)",
+            "options": [
+              "I stayed home lest I got sick.",
+              "Handle the vase carefully lest you break it.",
+              "I will go to the party lest I want to.",
+              "Lest I was tired, I went to bed early."
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "hitherto",
+            "translation": "hasta ahora (formal)",
+            "options": [
+              "Hitherto I will finish the project tomorrow.",
+              "The research has uncovered facts hitherto unknown to historians.",
+              "Hitherto we will meet next week.",
+              "I hitherto disagree with your opinion."
+            ],
+            "correctIndex": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Registro apropiado?",
+      "instruction": "¿Estas palabras arcaicas están usadas en un contexto apropiado?",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "Hey, want to grab a pizza forthwith?",
+            "isCorrect": false,
+            "correction": "Hey, want to grab a pizza right now?",
+            "explanation": "'Forthwith' es palabra legal-formal. Usarla en un contexto casual entre amigos suena absurdo o pretencioso. Registro inapropiado: conversación casual requiere 'right now', 'straight away', 'immediately' (si acaso).",
+            "errorType": "register-too-formal"
+          },
+          {
+            "sentence": "The minister hitherto denied any involvement in the scandal, albeit evidence has since emerged suggesting otherwise.",
+            "isCorrect": true,
+            "explanation": "Correcto. Contexto periodístico formal. 'Hitherto' se combina con past tense 'denied' para indicar 'hasta ahora', y 'albeit' introduce una concesión breve. Ambas palabras apropiadas para el registro.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "Do not disturb the neighbors lest they complain to the landlord.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Lest' introduce una cláusula de precaución negativa — lo que no querés que pase. Uso clásico del formal. En speech casual se diría 'or they might complain', pero 'lest' es gramaticalmente correcto y marca registro elevado.",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completada!",
+      "instruction": "CONECTORES FORMALES: hitherto (hasta ahora), whence (de donde), forthwith (inmediatamente), albeit (si bien), lest (no sea que), inasmuch (en la medida en que). Registro MUY elevado — usar en escritura académica, legal o literaria. En speech casual suena pretencioso. La clave del C2 es saber cuándo NO usarlas.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

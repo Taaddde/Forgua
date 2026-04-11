@@ -10,35 +10,34 @@
       "back": "contable: un libro, dos libros, muchos libros",
       "reading": "/ə bʊk/ /tuː bʊks/ /ˈmɛni bʊks/",
       "explanation": "Los sustantivos contables se pueden contar directamente: one book, two books, three books. Pueden llevar a/an en singular y tienen forma plural. Usan 'many' (muchos) y 'few' (pocos). Esto funciona igual que en español.",
-      "cardRef": { "category": "grammar", "front": "countable nouns" }
+      "cardRef": {
+        "category": "grammar",
+        "front": "Countable & Uncountable Nouns (countable: a/an, one, two... | uncountable: some, much, a lot of)"
+      }
     },
     {
       "front": "uncountable: water, information, advice, furniture, luggage, news, homework",
       "back": "incontable: agua, información, consejo, muebles, equipaje, noticias, tarea",
       "reading": "/ˈwɔːtər/ /ˌɪnfərˈmeɪʃən/ /ədˈvaɪs/ /ˈfɜːrnɪtʃər/ /ˈlʌɡɪdʒ/ /nuːz/ /ˈhoʊmwɜːrk/",
-      "explanation": "ERRORES CRÍTICOS de hispanohablantes: 'an information' ❌, 'an advice' ❌, 'furnitures' ❌, 'luggages' ❌, 'homeworks' ❌. Estos sustantivos son INCONTABLES en inglés: NO llevan a/an, NO tienen plural. Usan 'much' (mucho) y 'little' (poco).",
-      "cardRef": { "category": "grammar", "front": "uncountable nouns" }
+      "explanation": "ERRORES CRÍTICOS de hispanohablantes: 'an information' ❌, 'an advice' ❌, 'furnitures' ❌, 'luggages' ❌, 'homeworks' ❌. Estos sustantivos son INCONTABLES en inglés: NO llevan a/an, NO tienen plural. Usan 'much' (mucho) y 'little' (poco)."
     },
     {
       "front": "a piece of information / a piece of advice / a piece of furniture",
       "back": "una pieza de información / un consejo / un mueble",
       "reading": "/ə piːs əv ˌɪnfərˈmeɪʃən/",
-      "explanation": "¿Cómo contás lo incontable? Usás 'a piece of'. 'I need a piece of information' (no 'an information'). 'She gave me a piece of advice' (no 'an advice'). También: 'a glass of water', 'a piece of news', 'a piece of luggage'.",
-      "cardRef": { "category": "grammar", "front": "a piece of (uncountable)" }
+      "explanation": "¿Cómo contás lo incontable? Usás 'a piece of'. 'I need a piece of information' (no 'an information'). 'She gave me a piece of advice' (no 'an advice'). También: 'a glass of water', 'a piece of news', 'a piece of luggage'."
     },
     {
       "front": "some / any + uncountable: some water, any information",
       "back": "algo de / alguna: algo de agua, alguna información",
       "reading": "/sʌm ˈwɔːtər/ /ˈɛni ˌɪnfərˈmeɪʃən/",
-      "explanation": "'Some' (afirmativo) y 'any' (negativo/pregunta) funcionan tanto con contables plurales como con incontables. 'I have some water' (tengo algo de agua). 'Do you have any information?' (¿tenés alguna información?). 'I don't have any advice' (no tengo ningún consejo).",
-      "cardRef": { "category": "grammar", "front": "some/any + uncountable" }
+      "explanation": "'Some' (afirmativo) y 'any' (negativo/pregunta) funcionan tanto con contables plurales como con incontables. 'I have some water' (tengo algo de agua). 'Do you have any information?' (¿tenés alguna información?). 'I don't have any advice' (no tengo ningún consejo)."
     },
     {
       "front": "much/little (uncountable) vs many/few (countable)",
       "back": "mucho-poco (incontable) vs muchos-pocos (contable)",
       "reading": "/mʌtʃ/ /ˈlɪtəl/ vs. /ˈmɛni/ /fjuː/",
-      "explanation": "Incontables usan 'much' y 'little': 'How much water?' 'I have little time'. Contables usan 'many' y 'few': 'How many books?' 'I have few friends'. Truco: 'a lot of' funciona con AMBOS y es más natural en afirmativo: 'I have a lot of water/books'.",
-      "cardRef": { "category": "grammar", "front": "much/many little/few" }
+      "explanation": "Incontables usan 'much' y 'little': 'How much water?' 'I have little time'. Contables usan 'many' y 'few': 'How many books?' 'I have few friends'. Truco: 'a lot of' funciona con AMBOS y es más natural en afirmativo: 'I have a lot of water/books'."
     }
   ],
   "steps": [
@@ -46,31 +45,53 @@
       "type": "introduce",
       "title": "¿Qué podés contar y qué no?",
       "instruction": "En español decimos 'una información', 'dos muebles', 'unas noticias'. En inglés, estas palabras son INCONTABLES: no podés decir 'an information', 'two furnitures' ni 'a news'. Este es un error muy frecuente porque en español sí son contables. Vas a aprender a identificar los incontables más tramposos.",
-      "itemIndices": [0, 1]
+      "itemIndices": [
+        0,
+        1
+      ]
     },
     {
       "type": "introduce",
       "title": "Cómo contar lo incontable",
       "instruction": "Si necesitás contar algo incontable, usás expresiones como 'a piece of', 'a glass of', etc. 'A piece of information' (no 'an information'). 'A glass of water' (no 'a water' — bueno, en un restaurante sí, pero es informal). También podés usar 'some' y 'any'.",
-      "itemIndices": [2, 3]
+      "itemIndices": [
+        2,
+        3
+      ]
     },
     {
       "type": "recognize",
       "title": "¿Contable o incontable?",
       "instruction": "Identificá si cada sustantivo es contable o incontable en inglés. Recordá: no te guíes por el español.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "recall",
       "title": "Corregí el error",
       "instruction": "Ves oraciones con errores típicos de hispanohablantes (como 'an information'). Escribí la versión correcta.",
-      "itemIndices": [1, 2, 4]
+      "itemIndices": [
+        1,
+        2,
+        4
+      ]
     },
     {
       "type": "summary",
       "title": "¡Lección completa!",
       "instruction": "Resumen: Contables → a/an, plural, many, few (a book, many books). Incontables → sin a/an, sin plural, much, little (water, much water). Trampas para hispanohablantes: information, advice, furniture, luggage, news, homework son INCONTABLES. Para contarlos: 'a piece of information/advice/furniture'. 'A lot of' funciona con ambos tipos.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     }
   ]
 }

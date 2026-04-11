@@ -1,0 +1,180 @@
+{
+  "id": "vocab-b2-04",
+  "title": "Media & Current Affairs",
+  "description": "Vocabulario para discutir los medios de comunicación, política y actualidad con madurez y precisión.",
+  "level": "b2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "broadcast",
+      "back": "transmitir / emisión / transmisión",
+      "reading": "/ˈbrɔːdkæst/",
+      "explanation": "Puede ser verbo (transmitir en radio o TV) o sustantivo (la transmisión). Irregular: broadcast–broadcast–broadcast. Colocaciones: broadcast live (transmitir en vivo), broadcast a programme, a live broadcast.",
+      "cardRef": { "category": "vocabulary", "front": "broadcast" }
+    },
+    {
+      "front": "coverage",
+      "back": "cobertura",
+      "reading": "/ˈkʌvərɪdʒ/",
+      "explanation": "Cobertura periodística de un evento. También puede referirse a cobertura de seguro o cobertura geográfica de una red. Colocaciones: media coverage, extensive coverage, live coverage, news coverage.",
+      "cardRef": { "category": "vocabulary", "front": "coverage" }
+    },
+    {
+      "front": "biased",
+      "back": "sesgado / parcial",
+      "reading": "/ˈbaɪəst/",
+      "explanation": "Que muestra favoritismo injusto o parcialidad. Sustantivo: bias. Colocaciones: biased reporting, biased opinion, culturally biased. Lo opuesto es 'unbiased' o 'impartial'. Clave para discutir medios de comunicación y credibilidad informativa.",
+      "cardRef": { "category": "vocabulary", "front": "biased" }
+    },
+    {
+      "front": "controversial",
+      "back": "polémico / controvertido",
+      "reading": "/ˌkɑːntrəˈvɜːrʃəl/",
+      "explanation": "Que provoca desacuerdo o debate intenso. Colocaciones: highly controversial, controversial decision, controversial topic. Sustantivo: controversy. Pronunciación: la 's' central suena /ʃ/ — muchos hispanohablantes la pronuncian mal.",
+      "cardRef": { "category": "vocabulary", "front": "controversial" }
+    },
+    {
+      "front": "censorship",
+      "back": "censura",
+      "reading": "/ˈsɛnsərʃɪp/",
+      "explanation": "Control o supresión de información o expresión por parte de una autoridad. Cognado parcial con 'censura'. Colocaciones: government censorship, press censorship, censorship of the internet. Verbo: censor (censurar).",
+      "cardRef": { "category": "vocabulary", "front": "censorship" }
+    },
+    {
+      "front": "whistleblower",
+      "back": "denunciante / informante",
+      "reading": "/ˈwɪsəlbloʊər/",
+      "explanation": "Persona que revela información sobre conducta ilegal o poco ética dentro de una organización. Nota cultural: hay casos famosos como Edward Snowden. La palabra combina 'whistle' (silbato) + 'blower' (persona que sopla), imagen de alguien que da la señal de alarma.",
+      "cardRef": { "category": "vocabulary", "front": "whistleblower" }
+    },
+    {
+      "front": "propaganda",
+      "back": "propaganda",
+      "reading": "/ˌprɑːpəˈɡændə/",
+      "explanation": "Información, especialmente de carácter parcial o sesgado, usada para promover una causa política. Cognado con el español. Importante: en inglés tiene siempre connotación negativa (manipulación); no se usa neutralmente. Adjetivo: propagandistic.",
+      "cardRef": { "category": "vocabulary", "front": "propaganda" }
+    },
+    {
+      "front": "editorial",
+      "back": "editorial / artículo de opinión",
+      "reading": "/ˌɛdɪˈtɔːriəl/",
+      "explanation": "Artículo de opinión escrito por o que representa la postura del editor o equipo editorial de un medio. También puede ser adjetivo: 'editorial decisions' (decisiones editoriales). No confundir con 'editor' (el cargo) ni con 'edition' (la edición de un libro/periódico).",
+      "cardRef": { "category": "vocabulary", "front": "editorial" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario de medios y actualidad",
+      "instruction": "Estas palabras son esenciales para leer noticias en inglés, discutir política y analizar medios con madurez. Prestá atención a los matices — 'propaganda' siempre es negativo en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Dónde se usa bien?",
+      "instruction": "Elegí la oración donde la palabra se usa de forma natural y correcta.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "biased",
+            "translation": "sesgado",
+            "options": [
+              "The news report was biased towards the ruling party, ignoring opposing views.",
+              "She is biased because she always tells the truth.",
+              "The documentary was biased because it showed both sides of the story.",
+              "A biased judge is one who follows the law strictly."
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "whistleblower",
+            "translation": "denunciante",
+            "options": [
+              "The referee is also called a whistleblower because he uses a whistle.",
+              "The whistleblower revealed that the company had been dumping toxic waste illegally.",
+              "A whistleblower is someone who reports the weather forecast.",
+              "The whistleblower gave a concert for the company employees."
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "coverage",
+            "translation": "cobertura",
+            "options": [
+              "The news coverage of the earthquake was available in multiple languages.",
+              "The journalist received coverage for his excellent work.",
+              "The president gave a coverage speech at the press conference.",
+              "The coverage of the newspaper was very interesting to read."
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "editorial",
+            "translation": "artículo de opinión",
+            "options": [
+              "The editorial praised the government's new economic policy.",
+              "I read the editorial dictionary to improve my vocabulary.",
+              "The editorial is the person who corrects mistakes in books.",
+              "She bought an editorial at the newsstand on her way to work."
+            ],
+            "correctIndex": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Analizá estas oraciones sobre medios de comunicación y decidí si son correctas.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "The government used propaganda to promote its new policy fairly and objectively.",
+            "isCorrect": false,
+            "correction": "The government used propaganda to manipulate public opinion about its new policy.",
+            "explanation": "'Propaganda' en inglés SIEMPRE implica manipulación e intención negativa o parcial. No se puede describir propaganda como 'fair and objective' — eso sería una contradicción en términos. Usá 'information campaign' o 'public communication' si querés un sentido neutral.",
+            "errorType": "register"
+          },
+          {
+            "sentence": "The debate will be broadcast live on national television tonight.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Broadcast live' es la colocación estándar. 'Broadcast' no necesita auxiliar en presente — funciona como irregular: broadcast/broadcast/broadcast.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "Many critics argue that media coverage of immigration issues is highly biased.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Media coverage' + 'highly biased' son colocaciones naturales. 'Many critics argue that...' es una estructura perfecta para presentar opiniones en un debate.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "The whistleblower decided to blow the whistle on the company's illegal practices.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Blow the whistle on' es la expresión verbal de la que viene 'whistleblower'. La oración usa ambas formas de manera coherente y natural.",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Escribí la palabra en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Vocabulario de medios: 'broadcast' (irregular), 'coverage' (cobertura periodística), 'biased' (sesgado, parcial), 'controversial' (polémico), 'censorship' (control de información), 'whistleblower' (denunciante interno), 'propaganda' (siempre negativo en inglés), 'editorial' (artículo de opinión del medio). Esenciales para leer y discutir noticias en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

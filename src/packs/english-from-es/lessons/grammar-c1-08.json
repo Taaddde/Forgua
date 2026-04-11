@@ -1,0 +1,179 @@
+{
+  "id": "grammar-c1-08",
+  "title": "Phrasal Verb Splitting & Complex Patterns",
+  "description": "Los phrasal verbs separables permiten colocar el objeto entre el verbo y la partícula ('turn it down') o después ('turn down the offer'). Con pronombres, la separación es obligatoria. Los phrasal verbs apilados y de tres palabras son inseparables. Considerada la dificultad número uno para hispanohablantes avanzados.",
+  "level": "c1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Phrasal Verb Splitting & Complex Patterns (verb + particle + object / verb + object + particle | stacked phrasal verbs)",
+      "back": "Separación de phrasal verbs: con sustantivos, el objeto puede ir antes o después de la partícula. Con PRONOMBRES, la separación es OBLIGATORIA ('turn it down', nunca 'turn down it'). Los phrasal verbs de tres palabras (put up with, look up to) son siempre inseparables.",
+      "reading": "/ˈfreɪzl vɜːb ˈsplɪtɪŋ ænd kɒmplɛks ˈpætənz/",
+      "explanation": "Regla de oro: si el objeto es un PRONOMBRE (it, them, him, her, me), SIEMPRE va entre el verbo y la partícula en phrasal verbs separables. 'Turn the TV off' y 'Turn off the TV' son ambos correctos con sustantivo. Pero con pronombre: solo 'Turn it off' (nunca 'Turn off it'). Los phrasal verbs de TRES palabras (look up to, put up with, come up with, get away with, look forward to) son inseparables: 'She put up with the noise' — nunca 'She put the noise up with'. Los phrasal verbs apilados crean estructuras complejas que no tienen equivalente directo en español.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Phrasal Verb Splitting & Complex Patterns (verb + particle + object / verb + object + particle | stacked phrasal verbs)"
+      }
+    },
+    {
+      "front": "I need to look it up — you can't just look up it.",
+      "back": "Necesito buscarlo — no podés simplemente 'look up it' (orden incorrecto).",
+      "reading": "/aɪ niːd tuː lʊk ɪt ʌp juː kɑːnt dʒʌst lʊk ʌp ɪt/",
+      "explanation": "'Look up' es separable. Con el pronombre 'it', la separación es OBLIGATORIA: 'look it up'. 'Look up it' es gramaticalmente incorrecto en inglés. Con sustantivo: 'look up the word' y 'look the word up' son ambos correctos. Este es el error más frecuente de los hispanohablantes: en español el pronombre va antes del verbo ('buscarlo'), pero en inglés el pronombre objeto del phrasal verb va en posición fija entre el verbo y la partícula."
+    },
+    {
+      "front": "She ended up having to put up with being talked down to.",
+      "back": "Ella terminó teniendo que aguantar que le hablaran con condescendencia.",
+      "reading": "/ʃiː ˈɛndɪd ʌp ˈhævɪŋ tuː pʊt ʌp wɪð ˈbiːɪŋ tɔːkt daʊn tuː/",
+      "explanation": "Phrasal verbs apilados: 'ended up' + gerundio, 'put up with' (inseparable, tres palabras), 'talked down to' (phrasal verb pasivo de 'talk down to someone' = hablar con condescendencia). Cada phrasal verb conserva su estructura propia. 'Put up with' = tolerar/aguantar. 'Talk down to' = hablar de arriba abajo a alguien. Estas cadenas son naturales en inglés oral avanzado pero requieren procesar varios phrasal verbs simultáneamente."
+    },
+    {
+      "front": "They called off the meeting, so I didn't have to get up early to set off for work.",
+      "back": "Cancelaron la reunión, así que no tuve que levantarme temprano para salir al trabajo.",
+      "reading": "/ðeɪ kɔːld ɒf ðə ˈmiːtɪŋ səʊ aɪ ˈdɪdnt həv tuː ɡɛt ʌp ˈɜːli tuː sɛt ɒf fər wɜːk/",
+      "explanation": "'Call off' = cancelar (separable: 'called the meeting off' también sería correcto, pero con el sustantivo ya definido la forma con objeto al final es más natural). 'Get up' = levantarse. 'Set off' = salir (hacia un destino). Tres phrasal verbs distintos en una oración. Los phrasal verbs no existen en español: cada uno requiere un verbo diferente ('cancelar', 'levantarse', 'salir'). La dificultad no es la gramática sino la memoria léxica — cada combinación verbo + partícula es una unidad independiente."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Separación de phrasal verbs: la regla del pronombre",
+      "instruction": "Con sustantivos, el objeto puede ir antes o después de la partícula. Con PRONOMBRES, la separación es OBLIGATORIA: 'turn it off', nunca 'turn off it'. Los phrasal verbs de tres palabras (put up with, look up to) son SIEMPRE inseparables. Estudiá los tres primeros ítems.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Phrasal verbs apilados y en cadena",
+      "instruction": "Los phrasal verbs pueden encadenarse en oraciones complejas, cada uno conservando su propia estructura. Identificá los phrasal verbs en el cuarto ítem y su equivalente en español.",
+      "itemIndices": [3]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Posición del objeto: ¿antes o después de la partícula?",
+      "instruction": "Completá con la forma correcta del phrasal verb según si el objeto es un pronombre o un sustantivo.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "She found the report confusing so she {0} and started over.",
+            "blanks": [
+              { "answer": "threw it away", "options": ["threw it away", "threw away it", "throw it away", "thrown it away"] }
+            ]
+          },
+          {
+            "template": "The noise was unbearable. I don't know how you {0} it for so long.",
+            "blanks": [
+              { "answer": "put up with", "options": ["put up with", "put with up", "put it up with", "up put with"] }
+            ]
+          },
+          {
+            "template": "Can you {0} the volume? I can't hear the TV.",
+            "blanks": [
+              { "answer": "turn up", "options": ["turn up", "turn it up", "up turn", "turn-up"] }
+            ]
+          },
+          {
+            "template": "He promised to {0} — he said he'd think about it carefully.",
+            "blanks": [
+              { "answer": "look into it", "options": ["look into it", "look it into", "look into", "into look it"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "word-in-context",
+      "title": "Phrasal verbs en contexto",
+      "instruction": "Elegí la oración donde el phrasal verb está usado con el orden correcto.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "look it up",
+            "translation": "buscarlo (en un diccionario/fuente)",
+            "options": [
+              "If you don't know the word, look up it in the dictionary.",
+              "If you don't know the word, look it up in the dictionary.",
+              "If you don't know the word, look up the word it in the dictionary.",
+              "If you don't know the word, it look up in the dictionary."
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "put up with",
+            "translation": "aguantar / tolerar",
+            "options": [
+              "I can't put up with this situation anymore.",
+              "I can't put this situation up with anymore.",
+              "I can't put up this situation with anymore.",
+              "I can't up put with this situation anymore."
+            ],
+            "correctIndex": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Phrasal verb correcto?",
+      "instruction": "Identificá los errores en el uso de phrasal verbs. Los errores más comunes de hispanohablantes: colocar el pronombre después de la partícula, o separar phrasal verbs de tres palabras.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "I finally looked up it after searching for hours.",
+            "isCorrect": false,
+            "correction": "I finally looked it up after searching for hours.",
+            "explanation": "INCORRECTO: cuando el objeto del phrasal verb es un pronombre ('it', 'them', 'him', 'her'), SIEMPRE va entre el verbo y la partícula. 'Looked up it' es agramatical. Con pronombre: solo 'looked it up'. Con sustantivo: 'looked up the word' o 'looked the word up' son ambos aceptables.",
+            "errorType": "pronoun-position"
+          },
+          {
+            "sentence": "She put up with the constant interruptions throughout the entire meeting.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Put up with' es un phrasal verb de tres palabras, siempre inseparable. El objeto ('the constant interruptions') va al final, después de toda la construcción 'put up with'. Separarlo sería incorrecto: 'put the interruptions up with' no existe.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "They called off the meeting at the last minute and I had to turn around my plans.",
+            "isCorrect": false,
+            "correction": "They called off the meeting at the last minute and I had to turn my plans around.",
+            "explanation": "INCORRECTO: 'turn around' con el objeto 'my plans' (sustantivo). Con sustantivo el objeto puede ir antes o después de la partícula, pero si ya se ha introducido el sustantivo como objeto, la forma más natural es separar: 'turn my plans around'. 'Called off the meeting' es correcto (sustantivo después de la partícula).",
+            "errorType": "particle-position"
+          },
+          {
+            "sentence": "She ended up having to give up her apartment when she lost her job.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Ended up' + gerundio es correcto. 'Give up' + sustantivo ('her apartment') — con sustantivo, ambas posiciones son válidas: 'give up her apartment' y 'give her apartment up' son correctas. La primera es más natural cuando el objeto es largo.",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá las oraciones con phrasal verbs",
+      "instruction": "Ordená los fragmentos para formar oraciones con phrasal verbs en la posición correcta.",
+      "itemIndices": [0, 1],
+      "config": {
+        "sentences": [
+          {
+            "translation": "Necesito buscarlo — no podés simplemente usar el orden incorrecto.",
+            "fragments": ["I need to", "look it up —", "you can't just", "look up it."],
+            "correctOrder": [0, 1, 2, 3]
+          },
+          {
+            "translation": "Cancelaron la reunión, así que no tuve que levantarme temprano para salir al trabajo.",
+            "fragments": ["They called off", "the meeting, so", "I didn't have to get up early", "to set off for work."],
+            "correctOrder": [0, 1, 2, 3]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "REGLA DE ORO — PRONOMBRES: con pronombre objeto (it, them, him, her, me), el objeto SIEMPRE va entre el verbo y la partícula. 'Turn it off' (correcto) vs. 'Turn off it' (incorrecto). Con SUSTANTIVOS: ambas posiciones son válidas para phrasal verbs separables. PHRASAL VERBS DE TRES PALABRAS (put up with, look up to, come up with, get away with): SIEMPRE inseparables — el objeto va al final.",
+      "itemIndices": [0, 1, 2, 3]
+    }
+  ]
+}

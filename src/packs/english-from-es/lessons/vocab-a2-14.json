@@ -1,0 +1,250 @@
+{
+  "id": "vocab-a2-14",
+  "title": "Essential Phrasal Verbs",
+  "description": "Los phrasal verbs más comunes del A2: turn on/off, get along, set up, put off, go on, bring up, carry out. El gran dolor de cabeza del hispanohablante — pero con práctica se dominan.",
+  "level": "a2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "turn on",
+      "back": "encender",
+      "reading": "/tɜːrn ɑːn/",
+      "explanation": "Encender aparatos eléctricos: TV, luces, computadora. 'Turn on the lights' o 'Turn the lights on' — ambas correctas. Con pronombres: OBLIGATORIO separarlos: 'Turn it on' (NO 'Turn on it'). Opuesto: turn off. Sinónimo informal: switch on.",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "turn on"
+      }
+    },
+    {
+      "front": "turn off",
+      "back": "apagar",
+      "reading": "/tɜːrn ɑːf/",
+      "explanation": "Apagar aparatos eléctricos. Separable: 'Turn off the TV' o 'Turn the TV off'. Con pronombre OBLIGATORIO en el medio: 'Turn it off' (NO 'Turn off it'). 'Please turn off your phone during the meeting'. Opuesto: turn on.",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "turn off"
+      }
+    },
+    {
+      "front": "get along",
+      "back": "llevarse bien",
+      "reading": "/ɡɛt əˈlɑːŋ/",
+      "explanation": "Llevarse bien con alguien. Preposición 'WITH': 'I get along WITH my coworkers' (me llevo bien con mis compañeros). Inseparable: no podés decir 'I get my coworkers along'. Sinónimo británico: 'get on with'. Opuesto: 'not get along'.",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "get along"
+      }
+    },
+    {
+      "front": "set up",
+      "back": "organizar / configurar",
+      "reading": "/sɛt ʌp/",
+      "explanation": "(1) Configurar o armar: 'set up a computer' (configurar una compu). (2) Organizar un evento o reunión: 'set up a meeting'. (3) Fundar: 'set up a company'. Separable: 'Set the camera up' / 'Set up the camera'. Con pronombre: 'Set it up'. Sustantivo 'setup' (todo junto) = configuración.",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "set up"
+      }
+    },
+    {
+      "front": "put off",
+      "back": "posponer",
+      "reading": "/pʊt ɑːf/",
+      "explanation": "Aplazar, posponer algo. Separable: 'Put off the meeting' / 'Put the meeting off'. Con pronombre: 'Put it off'. Se sigue de -ing cuando hay verbo: 'I keep putting off going to the dentist'. Sinónimo: 'postpone' (más formal). Otro uso: 'it puts me off' = me desagrada.",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "put off"
+      }
+    },
+    {
+      "front": "go on",
+      "back": "continuar",
+      "reading": "/ɡoʊ ɑːn/",
+      "explanation": "(1) Continuar: 'Please go on with your story' (seguí con tu historia). Se sigue de -ing: 'go on working' = seguir trabajando. (2) Suceder: 'What's going on?' (¿Qué está pasando?). Inseparable. Muy usado en conversación informal.",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "go on"
+      }
+    },
+    {
+      "front": "bring up",
+      "back": "mencionar / criar",
+      "reading": "/brɪŋ ʌp/",
+      "explanation": "Dos sentidos distintos: (1) Mencionar un tema en conversación: 'She brought up the salary issue at the meeting' (sacó el tema del salario). (2) Criar a un hijo: 'She was brought up in Madrid' (se crió en Madrid). Separable: 'bring it up'. Irregular: bring / brought / brought.",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "bring up"
+      }
+    },
+    {
+      "front": "carry out",
+      "back": "llevar a cabo",
+      "reading": "/ˈkæri aʊt/",
+      "explanation": "Ejecutar un plan, investigación, orden, experimento: 'carry out a study', 'carry out an order'. Formal — en contexto laboral y académico es muy común. Separable: 'carry out the plan' / 'carry the plan out'. Con pronombre: 'carry it out'. Sinónimos: execute, perform.",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "carry out"
+      }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Phrasal verbs: la pesadilla más útil",
+      "instruction": "Los phrasal verbs son la combinación verbo + partícula que forma un nuevo significado. No existen en español y hay que memorizarlos. Clave: algunos son SEPARABLES (turn it on, put it off) y otros INSEPARABLES (get along with, go on). Empezamos con los de aparatos y relaciones.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Organizar, posponer, continuar",
+      "instruction": "Más phrasal verbs de uso diario: set up, put off, go on, bring up, carry out. 'Bring up' tiene dos sentidos MUY distintos: mencionar un tema O criar un hijo. El contexto los distingue.",
+      "itemIndices": [3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto del phrasal verb.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con el phrasal verb correcto",
+      "instruction": "Elegí el phrasal verb que mejor encaja en cada contexto.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "Please {0} the lights before you leave the office.",
+            "blanks": [
+              {
+                "answer": "turn off",
+                "options": ["turn off", "turn on", "put off", "set up"]
+              }
+            ]
+          },
+          {
+            "template": "I really {0} with my new colleagues — we have lunch together every day.",
+            "blanks": [
+              {
+                "answer": "get along",
+                "options": ["get along", "bring up", "go on", "carry out"]
+              }
+            ]
+          },
+          {
+            "template": "The team will {0} the experiment next Monday. Don't {1} the deadline.",
+            "blanks": [
+              {
+                "answer": "carry out",
+                "options": ["carry out", "put off", "turn on", "bring up"]
+              },
+              {
+                "answer": "put off",
+                "options": ["put off", "set up", "go on", "turn off"]
+              }
+            ]
+          },
+          {
+            "template": "I didn't want to {0} the subject, but we need to talk about the budget.",
+            "blanks": [
+              {
+                "answer": "bring up",
+                "options": ["bring up", "set up", "go on", "turn on"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Dónde se usa bien?",
+      "instruction": "Elegí la oración donde el phrasal verb está usado correctamente (ojo a la separabilidad y a los pronombres).",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "turn it on",
+            "translation": "encenderlo (con pronombre)",
+            "options": [
+              "The TV is off — please turn it on.",
+              "The TV is off — please turn on it.",
+              "The TV is off — please it turn on.",
+              "The TV is off — please turn on it on."
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "get along",
+            "translation": "llevarse bien",
+            "options": [
+              "I get along with my sister very well.",
+              "I get along my sister very well.",
+              "I get my sister along very well.",
+              "I am get along with my sister."
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "put off",
+            "translation": "posponer",
+            "options": [
+              "We had to put off the meeting until next week.",
+              "We had to put the meeting of until next week.",
+              "We had to put off to have the meeting next week.",
+              "We had to put for the meeting until next week."
+            ],
+            "correctIndex": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Los phrasal verbs separables tienen reglas estrictas con los pronombres. Encontrá los errores.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "Can you turn on it? I can't reach the switch.",
+            "isCorrect": false,
+            "correction": "Can you turn it on? I can't reach the switch.",
+            "explanation": "Con phrasal verbs SEPARABLES y PRONOMBRES (it, them, him, her...), el pronombre va OBLIGATORIAMENTE en el medio: 'turn IT on', no 'turn on IT'. Con sustantivos, podés elegir: 'turn on the light' o 'turn the light on'.",
+            "errorType": "word-order"
+          },
+          {
+            "sentence": "She was brought up by her grandmother in a small village.",
+            "isCorrect": true,
+            "explanation": "Correcta. Aquí 'bring up' significa criar (en voz pasiva: 'was brought up'). Uso perfecto y natural. Otro sentido sería 'mencionar un tema', pero aquí es crianza.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "Please go on with your presentation — I'm listening.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Go on with' = continuar con. 'Go on' es inseparable, así que no importa si tiene complemento después. Estructura perfecta.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "I get along very well my sister.",
+            "isCorrect": false,
+            "correction": "I get along very well WITH my sister.",
+            "explanation": "'Get along' necesita SIEMPRE la preposición 'with' antes de la persona. No se puede omitir. Es un phrasal verb inseparable que exige esta preposición.",
+            "errorType": "missing-preposition"
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice en inglés?",
+      "instruction": "Ves el significado en español. Escribí el phrasal verb en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste 8 phrasal verbs clave del A2. Reglas de oro: (1) SEPARABLES (turn on/off, put off, set up, bring up, carry out) — con pronombres van SIEMPRE en el medio: 'turn IT on'. (2) INSEPARABLES (get along with, go on) — no se pueden partir. (3) 'Get along' exige SIEMPRE 'with' antes de la persona. (4) 'Bring up' = mencionar O criar, según contexto. Seguí practicando — los phrasal verbs se aprenden con exposición y repetición.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

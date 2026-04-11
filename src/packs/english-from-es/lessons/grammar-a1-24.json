@@ -1,0 +1,194 @@
+{
+  "id": "grammar-a1-24",
+  "title": "Past Simple: Irregular Verbs (Part 2)",
+  "description": "Segunda tanda de los verbos irregulares más frecuentes: come, take, make, know, think, tell, give, find, feel, leave. No siguen ninguna regla — hay que memorizarlos. Extensión de la lección 19.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "come → came",
+      "back": "venir → vine / vino / vinimos",
+      "reading": "/kʌm/ → /keɪm/",
+      "explanation": "'Come' → 'came'. Mismo patrón de vocal ('come' con /ʌ/ → 'came' con /eɪ/). 'She came to my house' = 'Ella vino a mi casa'. Error común: decir 'comed' (no existe). Negativo: 'She didn't come' (NO 'didn't came' — después de did, el verbo vuelve a la base).",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Past Simple (Irregular Verbs) (Subject + irregular past form)"
+      }
+    },
+    {
+      "front": "take → took / make → made",
+      "back": "tomar/llevar → tomé / hacer/fabricar → hice",
+      "reading": "/teɪk/ → /tʊk/ /meɪk/ → /meɪd/",
+      "explanation": "'Take' → 'took' (tomar/agarrar/llevar). 'I took a photo' = 'Saqué una foto'. 'Make' → 'made' (hacer/fabricar). 'She made a cake' = 'Hizo una torta'. Recordá la diferencia: make = crear algo (a cake, a decision, a mistake), do = realizar una actividad (homework, exercise, the dishes)."
+    },
+    {
+      "front": "know → knew / think → thought",
+      "back": "saber/conocer → supe / pensar → pensé",
+      "reading": "/noʊ/ → /nuː/ /θɪŋk/ → /θɔːt/",
+      "explanation": "'Know' → 'knew'. La 'k' es muda en ambos: /nuː/. 'I knew the answer' = 'Sabía la respuesta'. 'Think' → 'thought'. Pronunciación difícil: /θɔːt/ (th + sonido 'ot'). 'I thought about it' = 'Lo pensé'. 'Thought' también es un sustantivo: 'a thought' = 'un pensamiento'."
+    },
+    {
+      "front": "tell → told / give → gave",
+      "back": "decir/contar → dije / dar → di",
+      "reading": "/tɛl/ → /toʊld/ /ɡɪv/ → /ɡeɪv/",
+      "explanation": "'Tell' → 'told' (decir/contar a alguien). 'She told me a story' = 'Me contó una historia'. Diferencia con 'say': 'tell' necesita objeto indirecto ('tell me'), 'say' no ('she said'). 'Give' → 'gave'. 'He gave me a gift' = 'Me dio un regalo'. Estructura típica: give + persona + cosa, o give + cosa + to + persona."
+    },
+    {
+      "front": "find → found / feel → felt / leave → left",
+      "back": "encontrar → encontré / sentir → sentí / dejar/irse → dejé",
+      "reading": "/faɪnd/ → /faʊnd/ /fiːl/ → /fɛlt/ /liːv/ → /lɛft/",
+      "explanation": "'Find' → 'found' (encontrar). 'I found my keys' = 'Encontré mis llaves'. 'Feel' → 'felt' (sentir). 'I felt tired' = 'Me sentí cansado'. 'Leave' → 'left' (irse/dejar). 'She left the office at 6' = 'Se fue de la oficina a las 6'. Cuidado: 'left' también significa 'izquierda' — es una de las muchas ambigüedades del inglés."
+    },
+    {
+      "front": "Did you see them? I didn't come yesterday. She took my pen.",
+      "back": "¿Los viste? No vine ayer. Ella tomó mi lapicera.",
+      "reading": "/dɪd juː siː ðɛm/ /aɪ ˈdɪdənt kʌm ˈjɛstərdeɪ/ /ʃiː tʊk maɪ pɛn/",
+      "explanation": "Reglas clave: (1) En afirmativas, el verbo irregular SÍ cambia: 'She took'. (2) En negativas con didn't, el verbo vuelve a la BASE: 'didn't come' (no 'didn't came'). (3) En preguntas con did, también vuelve a la base: 'Did you come?' (no 'Did you came?'). Esto se aplica a TODOS los verbos irregulares, sin excepción."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Más verbos irregulares frecuentes",
+      "instruction": "Acá tenés diez verbos irregulares que aparecen todo el tiempo en conversaciones reales. No siguen ningún patrón — la única forma es memorizarlos. Repetilos varias veces en voz alta: come/came, take/took, make/made, know/knew, think/thought, tell/told, give/gave, find/found, feel/felt, leave/left.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "Reglas con did/didn't",
+      "instruction": "Recordá: en negativas y preguntas con did/didn't, el verbo vuelve SIEMPRE a la base. 'I didn't go' (NO 'didn't went'), 'Did you come?' (NO 'Did you came?'). En afirmativas sí usás la forma irregular: 'I went', 'She came'.",
+      "itemIndices": [5]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es el pasado?",
+      "instruction": "Elegí la forma de pasado correcta para cada verbo irregular.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con el pasado",
+      "instruction": "Escribí el verbo irregular en su forma de pasado. Prestá atención a las negativas.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "She {0} me yesterday that she {1} tired.",
+            "blanks": [
+              { "answer": "told", "options": ["told", "said", "telled", "tell"] },
+              { "answer": "felt", "options": ["felt", "feeled", "feel", "feels"] }
+            ]
+          },
+          {
+            "template": "I {0} my keys in the kitchen and then {1} for work.",
+            "blanks": [
+              { "answer": "found", "options": ["found", "finded", "find", "founded"] },
+              { "answer": "left", "options": ["left", "leaved", "leave", "leaves"] }
+            ]
+          },
+          {
+            "template": "We {0} a lot about the problem, but we didn't {1} what to do.",
+            "blanks": [
+              { "answer": "thought", "options": ["thought", "thinked", "think", "thinks"] },
+              { "answer": "know", "options": ["know", "knew", "knows", "known"] }
+            ]
+          },
+          {
+            "template": "He {0} to my party and {1} me a beautiful gift.",
+            "blanks": [
+              { "answer": "came", "options": ["came", "comed", "come", "comes"] },
+              { "answer": "gave", "options": ["gave", "gived", "give", "given"] }
+            ]
+          },
+          {
+            "template": "Did you {0} the bus this morning? — No, I {1} a taxi.",
+            "blanks": [
+              { "answer": "take", "options": ["take", "took", "taked", "taken"] },
+              { "answer": "took", "options": ["took", "take", "taked", "taken"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Decidí si cada oración usa bien el pasado irregular. Ojo con las negativas.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "She didn't came to the meeting.",
+            "isCorrect": false,
+            "correction": "She didn't come to the meeting.",
+            "explanation": "Después de 'didn't' el verbo vuelve SIEMPRE a la base. 'Didn't come', no 'didn't came'. Es el error más común con verbos irregulares.",
+            "errorType": "conjugation"
+          },
+          {
+            "sentence": "I thought about you last night.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Think' → 'thought' (pronunciado /θɔːt/). En afirmativas se usa la forma irregular sin ningún auxiliar.",
+            "errorType": "tense"
+          },
+          {
+            "sentence": "He telled me a secret.",
+            "isCorrect": false,
+            "correction": "He told me a secret.",
+            "explanation": "'Tell' es irregular: 'told', no 'telled'. Igual que 'sell → sold'. Los hablantes nativos a veces bromean diciendo 'telled' como error infantil típico.",
+            "errorType": "wrong-verb"
+          },
+          {
+            "sentence": "Did you give her the book?",
+            "isCorrect": true,
+            "explanation": "Perfecto. En preguntas con 'did', el verbo principal va en la base ('give', no 'gave'). 'Did you give...?' es la estructura correcta.",
+            "errorType": "tense"
+          },
+          {
+            "sentence": "We leaved the restaurant at 10.",
+            "isCorrect": false,
+            "correction": "We left the restaurant at 10.",
+            "explanation": "'Leave' es irregular: 'left'. Y atención: 'left' también significa 'izquierda', pero acá es el pasado de 'leave' (irse, dejar).",
+            "errorType": "wrong-verb"
+          },
+          {
+            "sentence": "She found a great job last month.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Find' → 'found' (encontrar). No confundir con 'founded' (fundó, de 'to found'). Son dos verbos distintos.",
+            "errorType": "tense"
+          }
+        ]
+      }
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá oraciones en pasado",
+      "instruction": "Ordená las palabras para formar oraciones en Past Simple con verbos irregulares.",
+      "itemIndices": [0],
+      "config": {
+        "sentences": [
+          {
+            "translation": "Ella me contó todo anoche.",
+            "fragments": ["She", "told", "me", "everything", "last night"],
+            "correctOrder": [0, 1, 2, 3, 4]
+          },
+          {
+            "translation": "No vinieron a la fiesta.",
+            "fragments": ["They", "didn't", "come", "to the party"],
+            "correctOrder": [0, 1, 2, 3]
+          },
+          {
+            "translation": "Pensé en vos todo el día.",
+            "fragments": ["I", "thought", "about you", "all day"],
+            "correctOrder": [0, 1, 2, 3]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Resumen: come/came, take/took, make/made, know/knew, think/thought, tell/told, give/gave, find/found, feel/felt, leave/left. En afirmativas usás la forma irregular ('I came'). En negativas y preguntas con did/didn't, el verbo vuelve a la BASE ('I didn't come', 'Did you come?'). No hay regla mágica — la única manera es repetirlos hasta que salgan solos.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

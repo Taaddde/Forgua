@@ -1,0 +1,165 @@
+{
+  "id": "vocab-a2-09",
+  "title": "Connectors & Discourse Markers",
+  "description": "However, although, therefore, moreover — palabras que conectan ideas. La diferencia entre 'because' (subordinada) y 'therefore' (coordinada).",
+  "level": "a2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "because",
+      "back": "porque",
+      "reading": "/bɪˈkɑːz/",
+      "explanation": "'Because' introduce una razón: 'I stayed home because it was raining'. Va en medio de la oración o al principio con coma: 'Because it was raining, I stayed home'. No confundir con 'because of' + sustantivo: 'because of the rain'.",
+      "cardRef": { "category": "vocabulary", "front": "because" }
+    },
+    {
+      "front": "however",
+      "back": "sin embargo",
+      "reading": "/haʊˈɛvər/",
+      "explanation": "'However' introduce contraste. Va al inicio de una nueva oración seguido de coma: 'The test was hard. However, I passed.' También puede ir en el medio: 'I did, however, pass.' NUNCA conecta dos cláusulas con coma como 'but': NO escribas 'It was hard, however I passed'.",
+      "cardRef": { "category": "vocabulary", "front": "however" }
+    },
+    {
+      "front": "although",
+      "back": "aunque",
+      "reading": "/ɔːlˈðoʊ/",
+      "explanation": "'Although' introduce una cláusula de contraste. Al principio: 'Although it was cold, we went out'. En el medio: 'We went out although it was cold'. Sinónimos: 'even though' (más enfático), 'though' (informal). No confundir con 'however' — 'although' es una conjunción.",
+      "cardRef": { "category": "vocabulary", "front": "although" }
+    },
+    {
+      "front": "therefore",
+      "back": "por lo tanto",
+      "reading": "/ˈðɛrˌfɔːr/",
+      "explanation": "'Therefore' introduce una consecuencia lógica. Igual que 'however', va al inicio de una nueva oración seguido de coma: 'It was raining; therefore, we stayed inside.' Más formal que 'so'. 'So' es la alternativa informal: 'It was raining, so we stayed inside'.",
+      "cardRef": { "category": "vocabulary", "front": "therefore" }
+    },
+    {
+      "front": "moreover",
+      "back": "además",
+      "reading": "/mɔːrˈoʊvər/",
+      "explanation": "'Moreover' agrega información que refuerza el punto anterior. Más formal que 'also' o 'and'. 'The hotel was cheap. Moreover, it was near the beach.' Sinónimos formales: 'furthermore', 'in addition'. Sinónimos informales: 'also', 'and'.",
+      "cardRef": { "category": "vocabulary", "front": "moreover" }
+    },
+    {
+      "front": "meanwhile",
+      "back": "mientras tanto",
+      "reading": "/ˈmiːnˌwaɪl/",
+      "explanation": "'Meanwhile' = durante ese tiempo, al mismo tiempo. Indica que dos cosas pasan simultáneamente: 'I'll cook. Meanwhile, you can set the table.' También 'in the meantime' = mientras tanto (más formal).",
+      "cardRef": { "category": "vocabulary", "front": "meanwhile" }
+    },
+    {
+      "front": "besides",
+      "back": "además de, aparte de",
+      "reading": "/bɪˈsaɪdz/",
+      "explanation": "'Besides' + sustantivo/gerundio: 'Besides English, I also speak French'. Diferente de 'beside' (al lado de). 'Besides' también puede ir solo al inicio para agregar un argumento: 'I don't want to go. Besides, I'm tired.' = Aparte, estoy cansado.",
+      "cardRef": { "category": "vocabulary", "front": "besides" }
+    },
+    {
+      "front": "actually",
+      "back": "en realidad, de hecho",
+      "reading": "/ˈæktʃuəli/",
+      "explanation": "FALSO AMIGO PARCIAL: 'Actually' NO siempre = 'actualmente'. 'Actually' = en realidad, de hecho (para corregir o enfatizar). 'Actually, I changed my mind'. 'Currently' o 'at the moment' = actualmente. Ejemplo correcto: 'Actually, I'm not hungry' = En realidad, no tengo hambre.",
+      "cardRef": { "category": "vocabulary", "front": "actually" }
+    },
+    {
+      "front": "probably",
+      "back": "probablemente",
+      "reading": "/ˈprɑːbəbli/",
+      "explanation": "'It will probably rain' = Probablemente va a llover. Posición: entre el auxiliar y el verbo: 'She will probably come'. O antes del verbo simple: 'She probably works late'. No va al final de la oración.",
+      "cardRef": { "category": "vocabulary", "front": "probably" }
+    },
+    {
+      "front": "definitely",
+      "back": "definitivamente, seguro",
+      "reading": "/ˈdɛfɪnɪtli/",
+      "explanation": "'I will definitely be there' = Definitivamente voy a estar. Indica certeza total. Misma posición que 'probably': entre auxiliar y verbo. Opuesto: 'definitely not' = de ninguna manera. Coloquial: 'Definitely!' como respuesta = ¡Por supuesto!",
+      "cardRef": { "category": "vocabulary", "front": "definitely" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Conectores y marcadores del discurso",
+      "instruction": "Estos conectores son esenciales para escribir y hablar con fluidez. Conectan ideas: causa (because), contraste (however, although), consecuencia (therefore), adición (moreover, besides), tiempo (meanwhile). Importante: 'however' y 'therefore' van al inicio de una nueva oración + coma. No son lo mismo que 'but' y 'so'.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto de cada conector.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "error-correction",
+      "title": "Errores con conectores",
+      "instruction": "Identificá si el conector está bien usado.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "The movie was boring, however I watched it till the end.",
+            "isCorrect": false,
+            "correction": "The movie was boring. However, I watched it till the end.",
+            "explanation": "'However' NO conecta dos cláusulas con coma — eso es una 'comma splice'. Necesita punto o punto y coma antes, y coma después: 'The movie was boring. However, I watched it...' o 'The movie was boring; however, I watched it...'",
+            "errorType": "punctuation"
+          },
+          {
+            "sentence": "Although it was expensive, we bought it.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Although' sí puede conectar dos cláusulas directamente con coma cuando va al inicio. 'Although + cláusula, resultado'.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "I didn't go because of I was tired.",
+            "isCorrect": false,
+            "correction": "I didn't go because I was tired.",
+            "explanation": "'Because' + cláusula (sujeto + verbo). 'Because of' + sustantivo/gerundio ('because of tiredness', 'because of being tired'). No combines 'because of' + sujeto + verbo.",
+            "errorType": "preposition"
+          },
+          {
+            "sentence": "Actually, I think you're right.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Actually' al inicio para marcar que se va a decir algo inesperado o para corregir una asunción.",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con el conector correcto",
+      "instruction": "Elegí el conector que mejor conecta las ideas.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "The restaurant was expensive. {0}, the food was not very good. We {1} won't go back.",
+            "blanks": [
+              { "answer": "Moreover", "options": ["Moreover", "Although", "Because", "Meanwhile"] },
+              { "answer": "definitely", "options": ["definitely", "probably", "actually", "therefore"] }
+            ]
+          },
+          {
+            "template": "{0} it was late, she decided to keep working. She was {1} going to finish that report.",
+            "blanks": [
+              { "answer": "Although", "options": ["Although", "However", "Therefore", "Besides"] },
+              { "answer": "definitely", "options": ["definitely", "probably", "actually", "moreover"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice en inglés?",
+      "instruction": "Ves la descripción en español. Escribí el conector en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Conectores clave: BECAUSE (causa, conjunción), ALTHOUGH/EVEN THOUGH (contraste, conjunción), HOWEVER (contraste, adverbio → nueva oración + coma), THEREFORE (consecuencia → nueva oración + coma), MOREOVER/BESIDES (adición), MEANWHILE (simultaneidad). Adverbios de grado: PROBABLY (70-80% seguro), DEFINITELY (100% seguro), ACTUALLY (en realidad — no confundir con 'actualmente' = currently).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

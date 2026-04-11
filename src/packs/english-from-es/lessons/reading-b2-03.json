@@ -1,0 +1,115 @@
+{
+  "id": "reading-b2-03",
+  "title": "Reading: Why Do We Procrastinate?",
+  "description": "Texto de psicología sobre la procrastinación. Vocabulario científico popular y argumentación con evidencia.",
+  "level": "b2",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "procrastinate",
+      "back": "procrastinar / postergar",
+      "reading": "/proʊˈkræstɪneɪt/",
+      "explanation": "Diferir o posponer tareas, especialmente de forma crónica. Sustantivo: procrastination. 'Contrary to popular belief, procrastination is not about laziness' — el texto desmiente el mito."
+    },
+    {
+      "front": "overwhelmed",
+      "back": "abrumado / superado",
+      "reading": "/ˌoʊvərˈwɛlmd/",
+      "explanation": "Sentirse incapaz de manejar la cantidad o dificultad de algo. Colocaciones: feel overwhelmed, become overwhelmed, overwhelmed by/with. No confundir con 'surprised' — 'overwhelmed' implica que algo te supera."
+    },
+    {
+      "front": "temporal discounting",
+      "back": "descuento temporal",
+      "reading": "/ˈtɛmpərəl dɪˈskaʊntɪŋ/",
+      "explanation": "Término de psicología: la tendencia humana a valorar las recompensas inmediatas más que las futuras. Cuanto más lejos en el futuro está la recompensa, menos la valoramos ('descontamos' su valor)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario del texto científico-popular",
+      "instruction": "Este texto es de divulgación científica — mezcla términos técnicos de psicología con lenguaje accesible. 'Temporal discounting' y 'emotional regulation' son términos específicos que el texto explica. 'Overwhelmed' es de uso general.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Why Do We Procrastinate?",
+      "instruction": "Leé el texto sobre la psicología de la procrastinación. Prestá atención a cómo el autor desmiente el mito inicial y luego construye su argumento con evidencia.",
+      "itemIndices": [],
+      "config": {
+        "passage": {
+          "id": "b2-reading-procrastination",
+          "title": "Why Do We Procrastinate?",
+          "level": "b2",
+          "text": "Almost everyone procrastinates from time to time, but for some people it becomes a chronic problem that affects their work, studies, and personal relationships. Understanding why we procrastinate is the first step toward overcoming it.\n\nContrary to popular belief, procrastination is not simply a matter of laziness or poor time management. Research in psychology suggests that it is fundamentally an emotional regulation problem. When we face a task that makes us feel anxious, bored, or overwhelmed, our brain seeks immediate relief by switching to something more pleasant — checking social media, watching videos, or reorganizing our desk for the third time.\n\nDr. Timothy Pychyl, a leading researcher in this field, explains that procrastination is a form of 'mood repair.' We sacrifice our long-term goals for short-term emotional comfort. The irony is that procrastination usually makes us feel worse in the long run, creating a vicious cycle of avoidance, guilt, and further avoidance.\n\nAnother factor is what psychologists call 'temporal discounting' — our tendency to value immediate rewards more highly than future ones. The satisfaction of scrolling through our phone right now feels more real and appealing than the abstract future benefit of finishing a report that is due next week.\n\nSo what can we do about it? Research suggests several evidence-based strategies. Breaking large tasks into smaller, manageable steps makes them less intimidating. Setting specific deadlines rather than vague goals creates a sense of urgency. Perhaps most importantly, practicing self-compassion — rather than criticizing ourselves for procrastinating — reduces the negative emotions that fuel the cycle.\n\nThe key insight is that overcoming procrastination is not about willpower or discipline. It is about understanding our emotions and developing healthier ways to cope with the discomfort that difficult tasks inevitably bring.",
+          "translation": "Casi todos procrastinamos de vez en cuando, pero para algunas personas se convierte en un problema crónico...",
+          "vocabulary": ["procrastinate - procrastinar", "chronic - crónico", "emotional regulation - regulación emocional", "overwhelmed - abrumado", "mood repair - reparación del ánimo", "vicious cycle - ciclo vicioso", "avoidance - evitación", "temporal discounting - descuento temporal", "intimidating - intimidante", "self-compassion - autocompasión", "willpower - fuerza de voluntad", "cope - lidiar/sobrellevar"],
+          "questions": [
+            {
+              "question": "According to the text, what is the real cause of procrastination?",
+              "options": ["Laziness and poor time management.", "A lack of intelligence.", "An emotional regulation problem.", "Too much free time."],
+              "correctIndex": 2,
+              "explanation": "The text states that 'Research in psychology suggests that it is fundamentally an emotional regulation problem,' contrary to the belief that it is about laziness."
+            },
+            {
+              "question": "What does 'temporal discounting' mean in the context of the text?",
+              "options": ["Getting discounts for buying things early.", "Our tendency to value immediate rewards more than future ones.", "Losing time because of procrastination.", "Planning our time more efficiently."],
+              "correctIndex": 1,
+              "explanation": "The text defines temporal discounting as 'our tendency to value immediate rewards more highly than future ones.'"
+            },
+            {
+              "question": "Which strategy does the text suggest is 'perhaps most important' for overcoming procrastination?",
+              "options": ["Using a planner.", "Working in a quiet environment.", "Practicing self-compassion.", "Setting alarms throughout the day."],
+              "correctIndex": 2,
+              "explanation": "The text says 'Perhaps most importantly, practicing self-compassion — rather than criticizing ourselves for procrastinating — reduces the negative emotions that fuel the cycle.'"
+            },
+            {
+              "question": "What is the 'vicious cycle' mentioned in the third paragraph?",
+              "options": ["Work → stress → better performance → more work.", "Avoidance → guilt → more avoidance.", "Deadline → panic → completion → relief.", "Procrastination → punishment → improvement."],
+              "correctIndex": 1,
+              "explanation": "The text describes the cycle as: 'procrastination usually makes us feel worse in the long run, creating a vicious cycle of avoidance, guilt, and further avoidance.' The guilt from procrastinating leads to more avoidance."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "word-in-context",
+      "title": "Vocabulario psicológico en contexto",
+      "instruction": "Aplicá el vocabulario del texto a nuevas situaciones.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "overwhelmed",
+            "translation": "abrumado",
+            "options": [
+              "She felt overwhelmed by the sheer number of tasks on her to-do list and didn't know where to start.",
+              "He was overwhelmed with happiness because everything went well.",
+              "The team was overwhelmed because they finished the project early.",
+              "I'm overwhelmed by how easy this task turned out to be."
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "cope",
+            "translation": "lidiar / sobrellevar",
+            "options": [
+              "She has developed healthy strategies to cope with stress at work.",
+              "He decided to cope the problem by ignoring it completely.",
+              "They cope every morning at 8 o'clock sharp.",
+              "The new software copes all the data automatically."
+            ],
+            "correctIndex": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "El texto sobre procrastinación usa una estructura típica de artículos de divulgación: mito popular → evidencia científica que lo desmiente → causa real → soluciones basadas en evidencia. Vocabulario clave: 'chronic', 'emotional regulation', 'mood repair', 'vicious cycle', 'temporal discounting', 'self-compassion', 'willpower'. La conclusión del texto ('no es sobre fuerza de voluntad, sino sobre emociones') es la tesis principal — buscala siempre en el último párrafo.",
+      "itemIndices": [0, 1, 2]
+    }
+  ]
+}

@@ -26,6 +26,10 @@ interface AppState {
   theme: ThemeMode;
   sidebarOpen: boolean;
 
+  // Dev-only: bypass lesson prerequisite gating. Guarded by import.meta.env.DEV
+  // at every consumer site, so it has no effect in production builds.
+  devUnlockAll: boolean;
+
   // Actions
   selectPack: (manifest: PackManifest) => Promise<void>;
   clearPack: () => void;
@@ -33,6 +37,7 @@ interface AppState {
   setLanguage: (lang: UILanguage) => void;
   toggleSidebar: () => void;
   setSidebarOpen: (open: boolean) => void;
+  setDevUnlockAll: (value: boolean) => void;
 }
 
 export const useAppStore = create<AppState>()(
@@ -47,6 +52,7 @@ export const useAppStore = create<AppState>()(
       uiLanguage: 'es',
       theme: 'dark',
       sidebarOpen: true,
+      devUnlockAll: false,
 
       selectPack: async (manifest: PackManifest) => {
         // Flip loading on synchronously so the install overlay shows
@@ -93,6 +99,10 @@ export const useAppStore = create<AppState>()(
       setSidebarOpen: (open: boolean) => {
         set({ sidebarOpen: open });
       },
+
+      setDevUnlockAll: (value: boolean) => {
+        set({ devUnlockAll: value });
+      },
     }),
     {
       name: 'forgua-settings',
@@ -101,6 +111,7 @@ export const useAppStore = create<AppState>()(
         uiLanguage: state.uiLanguage,
         theme: state.theme,
         sidebarOpen: state.sidebarOpen,
+        devUnlockAll: state.devUnlockAll,
       }),
       merge: (persisted, current) => {
         const p = (persisted ?? {}) as Partial<AppState>;

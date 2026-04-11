@@ -1,0 +1,77 @@
+{
+  "id": "reading-b1-03",
+  "title": "Reading: Social Media and Friendships",
+  "description": "Un texto argumentativo sobre redes sociales y relaciones. Conectores de contraste, opinión y vocabulario digital y social.",
+  "level": "b1",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "loneliness",
+      "back": "soledad",
+      "reading": "/ˈloʊnlinəs/",
+      "explanation": "El estado de sentirse solo. 'Heavy social media use can lead to loneliness.' Diferente de 'alone' (estar solo físicamente, que puede ser deseado). LONELY = solitario/que se siente solo."
+    },
+    {
+      "front": "invest",
+      "back": "invertir (tiempo/energía en relaciones)",
+      "reading": "/ɪnˈvɛst/",
+      "explanation": "No solo para dinero — también se usa para tiempo y esfuerzo. 'We need to invest in real relationships.' INVEST IN something/someone."
+    },
+    {
+      "front": "quality time",
+      "back": "tiempo de calidad",
+      "reading": "/ˈkwɑːlɪti taɪm/",
+      "explanation": "Tiempo dedicado plenamente a algo o alguien, sin distracciones. 'Spend quality time with the people who matter.' Colocación fija en inglés."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario clave antes de leer",
+      "instruction": "3 palabras importantes del texto. 'Invest' en inglés tiene un significado más amplio que en español — se usa para tiempo, energía y relaciones, no solo dinero.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Social Media and Friendships",
+      "instruction": "Leé el texto argumentativo. Fijate en los conectores: However (sin embargo), but (pero), especially (especialmente).",
+      "itemIndices": [],
+      "config": {
+        "passage": {
+          "id": "b1-reading-social-media-friendships",
+          "title": "Social Media and Friendships",
+          "level": "b1",
+          "text": "Social media has completely changed the way we communicate with each other. Platforms like Instagram, Facebook, and WhatsApp make it easy to stay in touch with friends and family, even if they live in another country. You can share photos, send messages, and video call people at any time. In many ways, social media has made the world feel smaller.\n\nHowever, some people argue that social media is actually damaging our friendships. When we spend too much time online, we may forget to invest in real, face-to-face relationships. It's common to have hundreds of 'friends' on social media but only talk to a few of them regularly. Some studies have shown that heavy social media use can lead to feelings of loneliness and anxiety.\n\nI think the key is to find a balance. Social media is a wonderful tool for keeping in contact with people, especially old friends who live far away. But it should not replace spending quality time with the people who matter most to us. I try to limit my screen time to one hour per day and make sure I meet my close friends in person at least once a week. Technology should bring us together, not push us apart.",
+          "translation": "Las redes sociales cambiaron completamente la forma en que nos comunicamos. Plataformas como Instagram, Facebook y WhatsApp hacen fácil mantenerse en contacto con amigos y familia, incluso si viven en otro país. Podés compartir fotos, enviar mensajes y hacer videollamadas en cualquier momento. De muchas maneras, las redes sociales hicieron que el mundo se sienta más pequeño.\n\nSin embargo, algunas personas argumentan que las redes sociales en realidad están dañando nuestras amistades. Cuando pasamos demasiado tiempo en línea, podemos olvidarnos de invertir en relaciones reales, cara a cara. Es común tener cientos de 'amigos' en las redes sociales pero solo hablar con algunos de ellos regularmente. Algunos estudios han demostrado que el uso excesivo de redes sociales puede llevar a sentimientos de soledad y ansiedad.\n\nCreo que la clave es encontrar un equilibrio. Las redes sociales son una herramienta maravillosa para mantenerse en contacto con la gente, especialmente viejos amigos que viven lejos. Pero no deberían reemplazar pasar tiempo de calidad con las personas que más nos importan. Intento limitar mi tiempo de pantalla a una hora por día y asegurarme de ver a mis amigos cercanos en persona al menos una vez por semana. La tecnología debería unirnos, no separarnos.",
+          "vocabulary": ["communicate - comunicarse", "platforms - plataformas", "stay in touch - mantenerse en contacto", "argue - argumentar", "damaging - dañando", "invest - invertir", "relationships - relaciones", "loneliness - soledad", "anxiety - ansiedad", "balance - equilibrio", "screen time - tiempo de pantalla", "quality time - tiempo de calidad"],
+          "questions": [
+            {
+              "question": "According to the text, what is one positive effect of social media?",
+              "options": ["It makes people more productive.", "It helps people stay in touch across distances.", "It improves people's mental health.", "It replaces the need for face-to-face meetings."],
+              "correctIndex": 1,
+              "explanation": "The text states that social media makes it 'easy to stay in touch with friends and family, even if they live in another country.'"
+            },
+            {
+              "question": "What problem does the author mention about social media friendships?",
+              "options": ["People argue more online.", "People have hundreds of online friends but few real connections.", "Social media is too expensive.", "People share too many personal photos."],
+              "correctIndex": 1,
+              "explanation": "The text says 'It's common to have hundreds of friends on social media but only talk to a few of them regularly.'"
+            },
+            {
+              "question": "What personal rule does the author follow regarding social media?",
+              "options": ["Never use social media.", "Only use it on weekends.", "Limit screen time to one hour per day.", "Only follow close friends."],
+              "correctIndex": 2,
+              "explanation": "The author says 'I try to limit my screen time to one hour per day.'"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lectura completada!",
+      "instruction": "Leíste un texto argumentativo B1 sobre redes sociales. Estructura típica de textos argumentativos: presentar las dos caras (However...) + posición personal (I think...). Conectores clave del texto: However (contraste), but (pero), especially (especialmente). Vocabulario: loneliness (soledad), invest in relationships, quality time, screen time.",
+      "itemIndices": [0, 1, 2]
+    }
+  ]
+}

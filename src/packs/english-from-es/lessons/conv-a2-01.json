@@ -1,0 +1,151 @@
+{
+  "id": "conv-a2-01",
+  "title": "Conversation: Hotel Check-In",
+  "description": "Check-in en un hotel. Reservas, tipos de habitación, horarios, peticiones.",
+  "level": "a2",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "reservation",
+      "back": "reserva, reservación",
+      "reading": "/ˌrɛzərˈveɪʃən/",
+      "explanation": "'I have a reservation' = Tengo una reserva. También se puede decir 'booking'. 'Book a room' = reservar una habitación.",
+      "cardRef": { "category": "vocabulary", "front": "reservation" }
+    },
+    {
+      "front": "passport",
+      "back": "pasaporte",
+      "reading": "/ˈpæsˌpɔːrt/",
+      "explanation": "Documento de identidad internacional. En hoteles pueden pedirlo: 'May I see your passport?' = ¿Puedo ver su pasaporte?",
+      "cardRef": { "category": "vocabulary", "front": "passport" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario de hotel",
+      "instruction": "Palabras esenciales para el check-in en un hotel.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "conversation-script",
+      "title": "Conversación: Hotel Check-In",
+      "instruction": "Llegás al hotel después de un largo viaje. Hacé el check-in de manera natural y clara.",
+      "itemIndices": [],
+      "config": {
+        "script": {
+          "id": "conv-a2-01-hotel",
+          "scenario": "Check-in en un hotel",
+          "level": "a2",
+          "turns": [
+            {
+              "speaker": "npc",
+              "text": "Good evening! Welcome to Hotel Central. How can I help you?",
+              "translation": "Buenas noches. Bienvenido al Hotel Central. ¿En qué puedo ayudarle?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                { "text": "Hi, I have a reservation under the name García.", "isCorrect": true, "feedback": "Perfecto. 'I have a reservation under the name...' es exactamente la frase que se usa en hoteles. Muy natural." },
+                { "text": "I want a room.", "isCorrect": false, "feedback": "Correcto si no tenés reserva, pero si tenés reserva es mejor decirlo: 'I have a reservation'. 'I want' funciona pero es muy directo — mejor 'I'd like a room'." },
+                { "text": "I booked a room in internet.", "isCorrect": false, "feedback": "Casi correcto, pero se dice 'online' o 'on the internet', no 'in internet'. Y 'I booked' es correcto para describir lo que hiciste." }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "Let me check... Yes! Mr. García, you have a double room for three nights. Is that correct?",
+              "translation": "Déjeme verificar... ¡Sí! Sr. García, tiene una habitación doble por tres noches. ¿Es correcto?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                { "text": "Yes, that's right. From tonight until Thursday.", "isCorrect": true, "feedback": "Perfecto. 'That's right' confirma la información. Agregar las fechas es útil para evitar confusiones." },
+                { "text": "Yes, is correct.", "isCorrect": false, "feedback": "Falta el sujeto: 'Yes, THAT IS correct' o 'Yes, that's correct'. En inglés el sujeto es obligatorio." },
+                { "text": "I don't know.", "isCorrect": false, "feedback": "Si ya tenés la reserva, debería saber los detalles. Mejor verificar: 'Actually, I booked for two nights...'" }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "Excellent. Could I see your passport or ID, please?",
+              "translation": "Excelente. ¿Podría ver su pasaporte o documento, por favor?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                { "text": "Of course, here you are.", "isCorrect": true, "feedback": "'Of course' = por supuesto. 'Here you are' = acá tiene. Combinación perfecta y muy educada." },
+                { "text": "Yes, take.", "isCorrect": false, "feedback": "Muy brusco. Mejor 'Here you are' o 'Sure, here it is'." },
+                { "text": "Why you need my passport?", "isCorrect": false, "feedback": "Orden incorrecto en pregunta: 'Why DO you need my passport?' — se necesita el auxiliar 'do'. Aunque preguntar esto en un hotel puede sonar desconfiado." }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "Thank you. Breakfast is included. It's served from 7 to 10 AM in the restaurant on the first floor. Here is your key card. Your room is 305, on the third floor.",
+              "translation": "Gracias. El desayuno está incluido. Se sirve de 7 a 10 AM en el restaurante del primer piso. Aquí tiene su tarjeta llave. Su habitación es la 305, en el tercer piso."
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                { "text": "Thank you. Is there Wi-Fi in the rooms?", "isCorrect": true, "feedback": "Muy natural. Preguntar por el Wi-Fi es muy común al hacer check-in hoy en día." },
+                { "text": "OK thank you very much bye.", "isCorrect": false, "feedback": "Un poco abrupto. Podés aprovechar para hacer alguna pregunta útil antes de ir a la habitación." },
+                { "text": "What time is check out?", "isCorrect": true, "feedback": "También válido y muy útil. 'What time is check-out?' es una pregunta común y práctica." }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "Yes, the Wi-Fi password is on the key card. Check-out is at noon. Enjoy your stay!",
+              "translation": "Sí, la contraseña del Wi-Fi está en la tarjeta llave. El check-out es al mediodía. ¡Que disfrute su estadía!"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                { "text": "Thank you so much! Have a good evening.", "isCorrect": true, "feedback": "Cierre perfecto y educado. 'Have a good evening' devuelve el saludo de forma muy natural." },
+                { "text": "Thanks, goodbye.", "isCorrect": false, "feedback": "Correcto pero algo frío. Agregar algo como 'Have a good evening' hace la despedida más cálida." },
+                { "text": "Good. I go now.", "isCorrect": false, "feedback": "Gramaticalmente: 'I'm going now' (Present Continuous para acción inmediata). Pero suena brusco — mejor algo más cordial." }
+              ],
+              "correctOptionIndex": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Frases del check-in",
+      "instruction": "Completá con la palabra correcta.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "I have a {0} under the {1} García.",
+            "blanks": [
+              { "answer": "reservation", "options": ["reservation", "book", "room", "ticket"] },
+              { "answer": "name", "options": ["name", "title", "word", "letter"] }
+            ]
+          },
+          {
+            "template": "Could I see your {0}, please? Breakfast is {1} from 7 to 10.",
+            "blanks": [
+              { "answer": "passport", "options": ["passport", "ticket", "suitcase", "map"] },
+              { "answer": "served", "options": ["served", "given", "eaten", "cooked"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Conversación completa!",
+      "instruction": "Check-in: 'I have a reservation under the name...' Confirmar: 'That's right / That's correct.' Dar documentos: 'Here you are / Of course.' Preguntas útiles: 'Is Wi-Fi included?', 'What time is check-out?'. 'Enjoy your stay!' = ¡Que disfrute su estadía!",
+      "itemIndices": [0, 1]
+    }
+  ]
+}

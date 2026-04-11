@@ -1,0 +1,182 @@
+{
+  "id": "grammar-b2-16",
+  "title": "Emphasis & Fronting",
+  "description": "El fronting mueve un elemento al inicio de la oración para darle énfasis retórico. Incluye estructuras como 'What she did was...', 'Strange though it may seem...', 'Little did they know...'. Muy frecuente en escritura periodística, discursos y exámenes B2.",
+  "level": "b2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Emphasis & Fronting (What + subject + did was... | Adjective + though/as + subject + verb | Object/complement + subject + verb)",
+      "back": "Fronting: mover un elemento al inicio para dar énfasis. 'What she did was leave' enfatiza la acción. 'Strange though it may seem' es concesiva formal. Inversión con negativos: 'Little did they know...'. Control retórico del hablante.",
+      "reading": "/ˈɛmfəsɪs ænd ˈfrʌntɪŋ/",
+      "explanation": "El fronting es un recurso retórico para controlar el foco informativo. Tipos principales: (1) 'What + sujeto + did was + infinitivo' — enfatiza la acción: 'What he did was lie to everyone'. (2) 'Adj/adv + though/as + sujeto + verbo' — estructura concesiva formal: 'Tired as I was, I continued'. (3) Inversión con adverbios negativos/restrictivos al inicio: 'Never have I seen', 'Little did they know', 'Not only did she arrive late, but she also...'. (4) Complementos adelantados: 'Gone are the days when...'. Estas estructuras no existen en español con la misma forma — son estructuras que hay que aprender como unidades.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Emphasis & Fronting (What + subject + did was... | Adjective + though/as + subject + verb | Object/complement + subject + verb)"
+      }
+    },
+    {
+      "front": "What she did was quit her job and move to another country.",
+      "back": "Lo que hizo fue renunciar a su trabajo y mudarse a otro país.",
+      "reading": "/wɒt ʃiː dɪd wəz kwɪt hɜː dʒɒb ænd muːv tuː əˈnʌðər ˈkʌntri/",
+      "explanation": "'What + sujeto + did was + infinitivo sin to': la pseudo-escisión (pseudo-cleft) extrae la acción y la coloca en foco. 'What she did' funciona como sujeto y 'quit her job' como predicado. Si hay verbo to be: 'What he wanted was to be left alone' (con 'to'). Énfasis máximo en la acción. Equivalente menos enfático: 'She quit her job and moved to another country' — correcto pero sin impacto retórico."
+    },
+    {
+      "front": "Strange though it may seem, he actually enjoys waking up at 5 am.",
+      "back": "Por extraño que parezca, a él realmente le gusta despertarse a las 5 de la mañana.",
+      "reading": "/streɪndʒ ðəʊ ɪt meɪ siːm hiː ˈæktʃuəli ɪnˈdʒɔɪz ˈweɪkɪŋ ʌp æt faɪv æm/",
+      "explanation": "Estructura 'adj + though/as + sujeto + verbo': el adjetivo va adelante para crear efecto concesivo. Equivalente: 'Although it may seem strange, he enjoys...'. 'Though' y 'as' son intercambiables en esta posición: 'Strange as it may seem'. Otros ejemplos: 'Tired though I was, I kept going'. 'Much as I'd like to help, I can't' — 'much' adelantado. Estas estructuras son marcadores de nivel avanzado en ensayos y presentaciones."
+    },
+    {
+      "front": "Little did they know that this decision would change their lives forever.",
+      "back": "Poco sabían que esta decisión cambiaría sus vidas para siempre.",
+      "reading": "/ˈlɪtl dɪd ðeɪ nəʊ ðæt ðɪs dɪˈsɪʒən wʊd tʃeɪndʒ ðɛː laɪvz fəˈrɛvər/",
+      "explanation": "Inversión obligatoria tras adverbios negativos/restrictivos al inicio: 'Little', 'Never', 'Rarely', 'Hardly', 'Not only', 'No sooner'. La regla: auxiliar + sujeto + verbo principal (orden de pregunta). 'Little did they know' — 'did' es el auxiliar adelantado. 'Never have I seen such beauty.' 'Not only did she arrive late, but she also forgot her materials.' Error típico del hispanohablante: 'Little they knew' (sin inversión) — incorrecto."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Fronting: énfasis retórico en inglés avanzado",
+      "instruction": "El fronting es adelantar un elemento para darle énfasis. 'What she did was...' extrae la acción. 'Strange though it may seem' es una concesión formal. Estudiá los tres primeros ítems y prestá atención a cómo el orden de las palabras crea impacto.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Inversión con negativos: auxiliar antes del sujeto",
+      "instruction": "Cuando un adverbio negativo o restrictivo va al inicio (Little, Never, Rarely, Not only, Hardly), el verbo auxiliar va ANTES del sujeto, igual que en una pregunta. 'Little did they know' — no 'Little they knew'.",
+      "itemIndices": [3]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá las estructuras de énfasis",
+      "instruction": "Completá los espacios para formar oraciones con fronting e inversión correctas.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "Never {0} {1} such a generous offer.",
+            "blanks": [
+              { "answer": "have I", "options": ["have I", "I have", "had I", "I had"] },
+              { "answer": "received", "options": ["received", "receive", "been receiving", "been received"] }
+            ]
+          },
+          {
+            "template": "{0} she did was apologize and walk out of the room.",
+            "blanks": [
+              { "answer": "What", "options": ["What", "That", "Which", "How"] }
+            ]
+          },
+          {
+            "template": "Difficult {0} it {1}, she refused to give up.",
+            "blanks": [
+              { "answer": "though", "options": ["though", "that", "if", "when"] },
+              { "answer": "was", "options": ["was", "is", "were", "had been"] }
+            ]
+          },
+          {
+            "template": "Not only {0} she fail the exam, but she also {1} to attend the resit.",
+            "blanks": [
+              { "answer": "did", "options": ["did", "had", "was", "has"] },
+              { "answer": "forgot", "options": ["forgot", "forget", "had forgotten", "was forgetting"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "word-in-context",
+      "title": "Fronting en contexto",
+      "instruction": "Elegí la oración donde el fronting o la inversión están usados correctamente.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "Little did they know",
+            "translation": "poco sabían",
+            "options": [
+              "Little they knew that everything was about to change.",
+              "Little did they knew that everything was about to change.",
+              "Little did they know that everything was about to change.",
+              "Little did they know that everything were about to change."
+            ],
+            "correctIndex": 2
+          },
+          {
+            "targetWord": "What he did was",
+            "translation": "lo que hizo fue",
+            "options": [
+              "What he did was to lying to everyone in the room.",
+              "What he did was lie to everyone in the room.",
+              "What he did was lied to everyone in the room.",
+              "What did he was lie to everyone in the room."
+            ],
+            "correctIndex": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Fronting correcto?",
+      "instruction": "Detectá errores en las estructuras de énfasis. Los hispanohablantes suelen olvidar la inversión obligatoria tras adverbios negativos o mezclar estructuras.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "Never I have seen such beauty in my entire life.",
+            "isCorrect": false,
+            "correction": "Never have I seen such beauty in my entire life.",
+            "explanation": "INCORRECTO: tras un adverbio negativo al inicio ('Never'), el auxiliar va ANTES del sujeto (inversión obligatoria). Orden correcto: 'Never + auxiliar + sujeto + verbo principal'. 'Never I have seen' sigue el orden afirmativo, que es incorrecto en este contexto. Aplicá la regla del orden de pregunta: 'Never have I seen'.",
+            "errorType": "inversion"
+          },
+          {
+            "sentence": "Strange though it may seem, she prefers working nights.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Adj + though + sujeto + verbo' es la estructura concesiva de fronting. El adjetivo 'strange' va adelante para crear énfasis. Equivalente: 'Although it may seem strange, she prefers working nights'. La estructura es elegante y adecuada para B2.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "What she did was quit her job and moved to Paris.",
+            "isCorrect": false,
+            "correction": "What she did was quit her job and move to Paris.",
+            "explanation": "INCORRECTO: en la pseudo-escisión 'What + sujeto + did was + infinitivo', los verbos después de 'was' van en infinitivo sin 'to'. 'Move' (no 'moved'). Los dos verbos coordinados deben estar en la misma forma: 'quit... and move', no 'quit... and moved'.",
+            "errorType": "cleft-structure"
+          },
+          {
+            "sentence": "Not only did the company lose money, but it also damaged its reputation.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Not only + auxiliar + sujeto + verbo principal' es la inversión obligatoria tras adverbios restrictivos negativos. 'Did the company lose' — auxiliar 'did' antes del sujeto. La segunda parte mantiene el orden normal: 'but it also damaged'.",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá las oraciones de énfasis",
+      "instruction": "Ordená los fragmentos para formar oraciones con fronting correcto.",
+      "itemIndices": [0, 1],
+      "config": {
+        "sentences": [
+          {
+            "translation": "Lo que hizo fue renunciar a su trabajo y mudarse a otro país.",
+            "fragments": ["What she did", "was quit her job", "and move", "to another country."],
+            "correctOrder": [0, 1, 2, 3]
+          },
+          {
+            "translation": "Poco sabían que esta decisión cambiaría sus vidas para siempre.",
+            "fragments": ["Little did they know", "that this decision", "would change", "their lives forever."],
+            "correctOrder": [0, 1, 2, 3]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "FRONTING E INVERSIÓN: (1) 'What + sujeto + did was + infinitivo sin to' — énfasis en la acción. (2) 'Adj + though/as + sujeto + verbo' — estructura concesiva formal. (3) Inversión obligatoria tras adverbios negativos al inicio: Never, Little, Rarely, Not only, Hardly, No sooner — SIEMPRE auxiliar antes del sujeto. Error común: 'Never I have seen' (incorrecto) → 'Never have I seen' (correcto).",
+      "itemIndices": [0, 1, 2, 3]
+    }
+  ]
+}

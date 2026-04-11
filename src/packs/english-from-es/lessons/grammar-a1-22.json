@@ -1,0 +1,170 @@
+{
+  "id": "grammar-a1-22",
+  "title": "Prepositions of Time: in / on / at",
+  "description": "En español usamos 'en' para casi todo, pero en inglés hay tres preposiciones de tiempo según el tamaño del período: 'in' para meses/años/estaciones, 'on' para días/fechas, 'at' para horas y momentos concretos.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "in + months, years, seasons, parts of the day",
+      "back": "en enero, en 2024, en verano, en la mañana",
+      "reading": "/ɪn/",
+      "explanation": "Usá 'in' para períodos grandes: meses (in January, in March), años (in 2024, in 1990), estaciones (in summer, in winter) y partes del día (in the morning, in the afternoon, in the evening). Regla mental: si es 'un contenedor de tiempo' donde caben muchas cosas, usás 'in'. OJO: 'at night' es excepción — NO 'in the night'.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Prepositions of Time (in + month/year/season | on + day/date | at + time)"
+      }
+    },
+    {
+      "front": "on + days, dates, specific days",
+      "back": "el lunes, el 4 de julio, el día de mi cumpleaños",
+      "reading": "/ɑːn/",
+      "explanation": "Usá 'on' para días de la semana (on Monday, on Friday), fechas concretas (on July 4th, on my birthday) y días especiales (on Christmas Day, on New Year's Eve). Error típico de hispanohablantes: decir 'in Monday' porque en español decimos 'en lunes' o directamente 'el lunes'. En inglés siempre 'on Monday'."
+    },
+    {
+      "front": "at + clock times and specific moments",
+      "back": "a las 7, a mediodía, de noche, al mismo tiempo",
+      "reading": "/æt/",
+      "explanation": "Usá 'at' para horas exactas (at 7 o'clock, at 3:30, at noon, at midnight) y momentos específicos (at night, at the weekend, at Christmas). La idea es 'un punto en el tiempo', no un período. Cuidado con estas excepciones fijas: at night, at the weekend (en inglés británico), at Christmas (la temporada), at the moment."
+    },
+    {
+      "front": "I was born in 1995, on May 20th, at 3 in the morning.",
+      "back": "Nací en 1995, el 20 de mayo, a las 3 de la mañana.",
+      "reading": "/aɪ wɑːz bɔːrn ɪn naɪnˈtiːn ˈnaɪnti faɪv/",
+      "explanation": "Esta oración muestra las tres preposiciones juntas: 'in 1995' (año → in), 'on May 20th' (fecha → on), 'at 3 in the morning' (hora → at). Es un buen molde para pensar de más grande a más chico."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Tres preposiciones, tres escalas de tiempo",
+      "instruction": "La regla de oro: 'in' para períodos largos (meses, años, estaciones), 'on' para días y fechas, 'at' para horas y momentos puntuales. De lo más grande a lo más chico: in year → on date → at time.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Las tres juntas en una oración",
+      "instruction": "Mirá cómo se combinan en una sola oración. Este modelo te sirve para hablar de cuándo naciste, cuándo pasó algo, o cuándo tenés una cita.",
+      "itemIndices": [3]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál usarías?",
+      "instruction": "Para cada pista, elegí la preposición de tiempo correcta: in, on o at.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con in / on / at",
+      "instruction": "Elegí la preposición correcta para cada espacio. Pensá en el tamaño del período.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "The meeting is {0} Monday {1} 9 o'clock.",
+            "blanks": [
+              { "answer": "on", "options": ["on", "in", "at"] },
+              { "answer": "at", "options": ["at", "on", "in"] }
+            ]
+          },
+          {
+            "template": "She was born {0} 1998, {1} December.",
+            "blanks": [
+              { "answer": "in", "options": ["in", "on", "at"] },
+              { "answer": "in", "options": ["in", "on", "at"] }
+            ]
+          },
+          {
+            "template": "I usually go to the gym {0} the morning, but {1} the weekend I go {2} night.",
+            "blanks": [
+              { "answer": "in", "options": ["in", "on", "at"] },
+              { "answer": "at", "options": ["at", "on", "in"] },
+              { "answer": "at", "options": ["at", "on", "in"] }
+            ]
+          },
+          {
+            "template": "My birthday is {0} July 14th, so we always have a party {1} summer.",
+            "blanks": [
+              { "answer": "on", "options": ["on", "in", "at"] },
+              { "answer": "in", "options": ["in", "on", "at"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Está bien o está mal?",
+      "instruction": "Decidí si cada oración usa la preposición correcta. Si está mal, mirá la corrección.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "I'll see you in Monday at 5.",
+            "isCorrect": false,
+            "correction": "I'll see you on Monday at 5.",
+            "explanation": "Los días de la semana van con 'on', no con 'in'. 'On Monday' = 'el lunes'. 'At 5' está bien porque es una hora exacta.",
+            "errorType": "wrong-preposition"
+          },
+          {
+            "sentence": "We have a holiday in December.",
+            "isCorrect": true,
+            "explanation": "Correcto. Los meses van con 'in': in January, in December, in April. Misma lógica para años y estaciones.",
+            "errorType": "preposition"
+          },
+          {
+            "sentence": "The concert starts on 8 o'clock.",
+            "isCorrect": false,
+            "correction": "The concert starts at 8 o'clock.",
+            "explanation": "Las horas exactas (8 o'clock, 3:30, noon) siempre van con 'at'. 'On' se usa para días y fechas, no para horas.",
+            "errorType": "wrong-preposition"
+          },
+          {
+            "sentence": "She studies at night and works in the morning.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'At night' es la excepción fija (no se dice 'in the night'), y 'in the morning' es la forma estándar para partes del día.",
+            "errorType": "preposition"
+          },
+          {
+            "sentence": "My brother was born at 2010.",
+            "isCorrect": false,
+            "correction": "My brother was born in 2010.",
+            "explanation": "Los años siempre van con 'in', no con 'at'. 'At' se reserva para horas y momentos puntuales, no para períodos largos como un año entero.",
+            "errorType": "wrong-preposition"
+          }
+        ]
+      }
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá oraciones con preposiciones de tiempo",
+      "instruction": "Ordená las palabras para formar oraciones correctas. Prestá atención a dónde va la preposición.",
+      "itemIndices": [0],
+      "config": {
+        "sentences": [
+          {
+            "translation": "El tren sale a las 6 de la mañana.",
+            "fragments": ["The train", "leaves", "at", "6", "in the morning"],
+            "correctOrder": [0, 1, 2, 3, 4]
+          },
+          {
+            "translation": "Vamos a casarnos en junio, el 15.",
+            "fragments": ["We are going to", "get married", "in June,", "on the 15th"],
+            "correctOrder": [0, 1, 2, 3]
+          },
+          {
+            "translation": "Siempre estoy cansado los lunes por la mañana.",
+            "fragments": ["I am always", "tired", "on Monday", "in the morning"],
+            "correctOrder": [0, 1, 2, 3]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Resumen: IN para lo grande (meses, años, estaciones, partes del día). ON para días y fechas. AT para horas exactas y momentos puntuales. Excepciones fijas: 'at night', 'at the weekend', 'at Christmas'. Regla mnemotécnica: de lo grande a lo chico, in → on → at.",
+      "itemIndices": [0, 1, 2, 3]
+    }
+  ]
+}

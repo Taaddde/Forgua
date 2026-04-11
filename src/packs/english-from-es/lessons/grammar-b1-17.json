@@ -1,0 +1,180 @@
+{
+  "id": "grammar-b1-17",
+  "title": "Would + Infinitive: Past Habits",
+  "description": "Otra forma de hablar de hábitos del pasado: 'When I was a kid, I would spend hours in the garden'. 'Would' funciona solo con acciones, no con estados.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Would + Infinitive (Past Habits) (Subject + would + base verb (repeated past actions))",
+      "back": "'Would + infinitivo' para acciones repetidas del pasado. SOLO con verbos de acción, no de estado.",
+      "reading": "/wʊd plʌs ˈɪnfɪnɪtɪv/",
+      "explanation": "'Would + base verb' sirve para hablar de HÁBITOS y ACCIONES repetidas en el pasado, similar a 'used to'. Pero con una diferencia crítica: 'would' SOLO funciona con verbos dinámicos (acciones: play, go, walk, visit). NO funciona con verbos de estado (be, have, know, like, live). Se usa mucho en narraciones y recuerdos nostálgicos.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Would + Infinitive (Past Habits) (Subject + would + base verb (repeated past actions))"
+      }
+    },
+    {
+      "front": "Every summer, we would go to the beach and build sandcastles.",
+      "back": "Acciones repetidas del pasado (cada verano). 'Would go', 'would build' son verbos dinámicos — OK.",
+      "reading": "/ˈɛvri ˈsʌmər wiː wəd ɡoʊ tə ðə biːtʃ/",
+      "explanation": "Típica narración nostálgica: marcador temporal ('every summer', 'when I was young', 'as a child') + 'would' + verbos de acción. En español: 'cada verano íbamos a la playa y hacíamos castillos'. El imperfecto del español cubre lo mismo."
+    },
+    {
+      "front": "My grandmother would always make us cookies when we visited.",
+      "back": "'Would' también funciona con adverbios de frecuencia: always, often, usually, sometimes.",
+      "reading": "/maɪ ˈɡrænmʌðər wəd ˈɔːlweɪz meɪk ʌs ˈkʊkiz/",
+      "explanation": "Los adverbios de frecuencia van entre 'would' y el verbo: 'would always make', 'would often visit', 'would sometimes forget'. Es muy común en anécdotas: 'He would always tell the same joke at parties.'"
+    },
+    {
+      "front": "I used to have a dog (NOT: I would have a dog).",
+      "back": "'Would' NO funciona con estados (have, be, know, love, live). Para estados, solo 'used to'.",
+      "reading": "/aɪ juːzd tə hæv ə dɒɡ/",
+      "explanation": "LA regla clave: 'have a dog' (poseer) es un ESTADO, no una acción. Por eso 'I would have a dog' es INCORRECTO para hábito pasado. Lo mismo con 'be' ('I would be a shy kid' → incorrecto), 'know' ('I would know her' → incorrecto), 'live' ('I would live in Madrid' → incorrecto). Para estados, usá siempre 'used to'."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "'Would' para hábitos pasados",
+      "instruction": "'Would + infinitivo' habla de acciones repetidas en el pasado. Es muy común en narraciones nostálgicas. Se combina bien con marcadores temporales como 'every summer', 'when I was young', 'as a child'.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "La regla clave: solo acciones, no estados",
+      "instruction": "'Would' solo funciona con verbos DINÁMICOS (play, go, make, visit). NO con verbos de ESTADO (be, have, know, love, live). Para estados, usá 'used to'.",
+      "itemIndices": [2, 3]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con 'would' o 'used to'",
+      "instruction": "Si el verbo es de acción, 'would' o 'used to' funcionan. Si es de estado, SOLO 'used to'.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "When I was a child, I {0} climb trees in the park.",
+            "blanks": [
+              { "answer": "would", "options": ["would", "used to have", "was"] }
+            ]
+          },
+          {
+            "template": "My dad {0} a motorcycle when he was young. (estado: have)",
+            "blanks": [
+              { "answer": "used to have", "options": ["used to have", "would have", "would had"] }
+            ]
+          },
+          {
+            "template": "Every Christmas, my aunt {0} {1} us strange presents.",
+            "blanks": [
+              { "answer": "would", "options": ["would", "was", "did"] },
+              { "answer": "give", "options": ["give", "gave", "giving"] }
+            ]
+          },
+          {
+            "template": "I {0} in a tiny village before I moved to the city. (estado: live)",
+            "blanks": [
+              { "answer": "used to live", "options": ["used to live", "would live", "would lived"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Decidí si la oración usa 'would' correctamente para hábitos pasados.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "When we were kids, we would walk to school together every morning.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Walk' es una acción (verbo dinámico), hay contexto temporal pasado ('when we were kids'), y se habla de un hábito repetido ('every morning'). Uso perfecto de 'would'.",
+            "errorType": "past-habit"
+          },
+          {
+            "sentence": "I would have long hair when I was a teenager.",
+            "isCorrect": false,
+            "correction": "I used to have long hair when I was a teenager.",
+            "explanation": "INCORRECTO. 'Have' en el sentido de 'poseer' es un verbo de ESTADO. 'Would' no funciona con estados — solo con acciones. Para describir un estado pasado, usá 'used to': 'I used to have long hair'.",
+            "errorType": "stative-verb"
+          },
+          {
+            "sentence": "My grandfather would tell us stories before bed every night.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Tell' es un verbo de acción, hay marcador de frecuencia ('every night'), y se describe un hábito pasado. Exactamente el tipo de oración donde 'would' brilla.",
+            "errorType": "past-habit"
+          },
+          {
+            "sentence": "She would be very shy when she was a child.",
+            "isCorrect": false,
+            "correction": "She used to be very shy when she was a child.",
+            "explanation": "INCORRECTO. 'Be' es el verbo de estado por excelencia — 'shy' es una característica, no una acción. No se puede usar 'would' aquí. Para describir cómo alguien ERA, solo 'used to be'.",
+            "errorType": "stative-verb"
+          }
+        ]
+      }
+    },
+    {
+      "type": "word-in-context",
+      "title": "'Would' en contexto",
+      "instruction": "Elegí la oración donde 'would' para hábito pasado se usa correctamente.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "would + acción",
+            "translation": "solía / acostumbraba (acción)",
+            "options": [
+              "When I was a kid, I would know all the capitals of Europe.",
+              "When I was a kid, I would be a good swimmer.",
+              "When I was a kid, I would spend hours reading comics.",
+              "When I was a kid, I would have a big room."
+            ],
+            "correctIndex": 2
+          },
+          {
+            "targetWord": "used to",
+            "translation": "solía (estado o acción)",
+            "options": [
+              "I would love ice cream as a child.",
+              "I used to love ice cream as a child.",
+              "I would am loving ice cream.",
+              "I was love ice cream as a child."
+            ],
+            "correctIndex": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá oraciones de hábitos pasados",
+      "instruction": "Ordená los fragmentos para formar oraciones correctas con 'would + infinitivo'.",
+      "itemIndices": [1, 2],
+      "config": {
+        "sentences": [
+          {
+            "translation": "Los domingos íbamos a visitar a mis abuelos.",
+            "fragments": ["On Sundays,", "we would", "visit", "my grandparents."],
+            "correctOrder": [0, 1, 2, 3]
+          },
+          {
+            "translation": "Mi papá siempre nos leía un cuento antes de dormir.",
+            "fragments": ["My dad", "would always", "read us a story", "before bed."],
+            "correctOrder": [0, 1, 2, 3]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "'Would + infinitivo' = hábitos pasados, acciones repetidas. SOLO con verbos dinámicos (go, play, make, visit). NO con verbos de estado (be, have, know, love, live) — para esos, usá 'used to'. Consejo práctico: si 'would' suena raro, probá 'used to'. Si 'used to' también suena bien, ambos funcionan.",
+      "itemIndices": [0, 1, 2, 3]
+    }
+  ]
+}

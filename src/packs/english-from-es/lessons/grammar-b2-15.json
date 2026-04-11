@@ -1,0 +1,179 @@
+{
+  "id": "grammar-b2-15",
+  "title": "Advanced Modal Meanings",
+  "description": "A nivel B2, los modales expresan significados sutiles sobre el pasado: 'should have done' (reproche/arrepentimiento), 'needn't have done' (innecesario pero lo hiciste), 'could have done' (posibilidad no realizada), 'must have done' (deducción), 'was/were to have done' (plan formal no cumplido).",
+  "level": "b2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Advanced Modal Meanings (needn't have done | could have been | was to have + past participle | should have done)",
+      "back": "Modales perfectos: significados avanzados sobre el pasado. 'Should have done' = reproche/arrepentimiento. 'Needn't have done' = innecesario, pero lo hiciste. 'Could have done' = posibilidad pasada no realizada. 'Must have done' = deducción sobre el pasado. 'Was/were to have done' = plan formal no cumplido.",
+      "reading": "/ədˈvɑːnst ˈməʊdl ˈmiːnɪŋz/",
+      "explanation": "Los modales perfectos (modal + have + participio) expresan actitudes hacia eventos pasados. La clave está en la distinción entre 'didn't need to do' (no hacía falta y probablemente no lo hiciste) y 'needn't have done' (no hacía falta pero SÍ lo hiciste). 'Could have' puede expresar posibilidad ('podrías haberlo hecho') o reproche ('¡podrías al menos haber llamado!'). 'Was/were to have' es la forma más formal para planes no cumplidos, frecuente en periodismo y prosa escrita.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Advanced Modal Meanings (needn't have done | could have been | was to have + past participle | should have done)"
+      }
+    },
+    {
+      "front": "You should have told me earlier. I could have helped you.",
+      "back": "Deberías habérmelo dicho antes. Podría haberte ayudado.",
+      "reading": "/juː ʃʊd həv təʊld miː ˈɜːliər aɪ kʊd həv hɛlpt juː/",
+      "explanation": "'Should have told' expresa reproche o arrepentimiento: la acción no ocurrió y eso tuvo consecuencias negativas. 'Could have helped' expresa una posibilidad pasada que no se realizó precisamente porque la condición no se cumplió (no te lo dije, así que no pude ayudarte). Ambos modales miran hacia el pasado con una actitud evaluativa."
+    },
+    {
+      "front": "You needn't have bought so much food. We already had enough.",
+      "back": "No hacía falta que compraras tanta comida. Ya teníamos suficiente.",
+      "reading": "/juː ˈniːdnt həv bɔːt səʊ mʌtʃ fuːd wiː ɔːlrɛdi həd ɪˈnʌf/",
+      "explanation": "'Needn't have bought' = no era necesario comprarlo, pero lo compraste de todas formas. La acción SÍ ocurrió. Contraste clave: 'didn't need to buy' = no era necesario y probablemente NO compraste. Este es uno de los errores más frecuentes de los hispanohablantes: en español 'no hacía falta que compraras' no distingue si compraste o no, pero en inglés la diferencia léxica es obligatoria."
+    },
+    {
+      "front": "She must have forgotten about the meeting. She's never this late.",
+      "back": "Debe haberse olvidado de la reunión. Nunca llega tan tarde.",
+      "reading": "/ʃiː mʌst həv fəˈɡɒtən əˈbaʊt ðə ˈmiːtɪŋ ʃiːz ˈnɛvər ðɪs leɪt/",
+      "explanation": "'Must have forgotten' expresa una deducción lógica sobre el pasado basada en evidencia — el hablante no lo sabe con certeza pero lo infiere del hecho de que ella nunca llega tarde. Para deducción negativa: 'She can't/couldn't have forgotten' (no puede ser que haya olvidado). Importante: 'must have done' para deducción positiva, 'can't have done' para deducción negativa. 'Mustn't have done' NO existe para deducción."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Modales perfectos: reproche, posibilidad y deducción",
+      "instruction": "Los modales perfectos combinan un modal con 'have + participio pasado'. 'Should have done' expresa que algo no se hizo y debería haberse hecho (reproche o arrepentimiento). 'Could have done' expresa una posibilidad pasada no realizada. 'Must have done' es una deducción lógica. Estudiá los tres primeros ítems.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Must have done: deducción sobre el pasado",
+      "instruction": "'Must have done' se usa cuando tenés evidencia que te lleva a una conclusión lógica. No es certeza — es inferencia. Su opuesto es 'can't have done' (para deducción negativa). Nunca uses 'mustn't have done' para deducción.",
+      "itemIndices": [3]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con el modal perfecto correcto",
+      "instruction": "Elegí el modal perfecto que corresponde al contexto. Prestá atención al significado: ¿reproche, posibilidad no realizada, deducción o acción innecesaria?",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "You {0} called — I was so worried about you.",
+            "blanks": [
+              { "answer": "should have", "options": ["should have", "must have", "needn't have"] }
+            ]
+          },
+          {
+            "template": "She {0} taken a taxi — the bus was free that day.",
+            "blanks": [
+              { "answer": "needn't have", "options": ["needn't have", "shouldn't have", "couldn't have"] }
+            ]
+          },
+          {
+            "template": "The keys aren't here. Someone {0} moved them.",
+            "blanks": [
+              { "answer": "must have", "options": ["must have", "should have", "needn't have"] }
+            ]
+          },
+          {
+            "template": "I {0} prepared more — the questions were really hard.",
+            "blanks": [
+              { "answer": "should have", "options": ["should have", "needn't have", "can't have"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "word-in-context",
+      "title": "Modales perfectos en contexto",
+      "instruction": "Elegí la oración donde el modal perfecto está usado correctamente.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "needn't have",
+            "translation": "no era necesario que (pero lo hiciste)",
+            "options": [
+              "She needn't have bought so much. We had plenty.",
+              "She needn't have buy so much. We had plenty.",
+              "She neededn't have bought so much.",
+              "She needn't bought so much. We had plenty."
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "must have forgotten",
+            "translation": "debe haberse olvidado (deducción)",
+            "options": [
+              "He must forget his wallet — it's not in his bag.",
+              "He mustn't have forgotten his wallet — he never does.",
+              "He must have forgotten his wallet — it's not in his bag.",
+              "He must has forgotten his wallet — it's not in his bag."
+            ],
+            "correctIndex": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Identificá el error en el uso de los modales perfectos. Errores frecuentes de hispanohablantes: confundir 'needn't have' con 'didn't need to', usar 'mustn't have' para deducción negativa, o invertir el orden del modal.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "She mustn't have taken the wrong train — she knows this route well.",
+            "isCorrect": false,
+            "correction": "She can't have taken the wrong train — she knows this route well.",
+            "explanation": "INCORRECTO: 'mustn't have' expresa prohibición en el pasado, no deducción negativa. Para deducción negativa (es imposible que haya hecho algo) se usa 'can't have' o 'couldn't have'. 'Mustn't have done' no existe para inferencia.",
+            "errorType": "modal-deduction"
+          },
+          {
+            "sentence": "You should have told me about the problem. I could have fixed it.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Should have told' = reproche/arrepentimiento (no lo hiciste y debías haberlo hecho). 'Could have fixed' = posibilidad pasada no realizada (era posible pero no ocurrió porque la condición no se cumplió). Uso clásico y correcto de ambos modales perfectos.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "He didn't need to buy flowers, but he bought them anyway.",
+            "isCorrect": false,
+            "correction": "He needn't have bought flowers — we weren't celebrating anything.",
+            "explanation": "INCORRECTO en contexto: si la persona compró las flores y no era necesario, la forma correcta es 'needn't have bought'. 'Didn't need to buy' implica que probablemente NO las compró. Diferencia obligatoria en inglés que el español no hace.",
+            "errorType": "neednt-vs-didnt-need"
+          },
+          {
+            "sentence": "They must have been exhausted after climbing for eight hours.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Must have been' = deducción sobre un estado pasado. El hablante infiere el estado de cansancio a partir de la evidencia (ocho horas escalando). Es una conclusión lógica, no una certeza.",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá las oraciones",
+      "instruction": "Ordená los fragmentos para formar oraciones con modales perfectos.",
+      "itemIndices": [0, 1],
+      "config": {
+        "sentences": [
+          {
+            "translation": "Deberías habérmelo dicho antes. Podría haberte ayudado.",
+            "fragments": ["You should have", "told me earlier.", "I could have", "helped you."],
+            "correctOrder": [0, 1, 2, 3]
+          },
+          {
+            "translation": "No hacía falta que compraras tanta comida. Ya teníamos suficiente.",
+            "fragments": ["You needn't have", "bought so much food.", "We already", "had enough."],
+            "correctOrder": [0, 1, 2, 3]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "MODALES PERFECTOS: 'should have done' = reproche o arrepentimiento (debías haberlo hecho). 'Could have done' = posibilidad pasada no realizada. 'Must have done' = deducción positiva. 'Can't have done' = deducción negativa (NUNCA 'mustn't have'). 'Needn't have done' = lo hiciste pero no era necesario (distinto de 'didn't need to do' = probablemente no lo hiciste). 'Was/were to have done' = plan formal no cumplido.",
+      "itemIndices": [0, 1, 2, 3]
+    }
+  ]
+}

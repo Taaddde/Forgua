@@ -1,0 +1,137 @@
+{
+  "id": "vocab-b1-03",
+  "title": "Health & the Doctor: Symptoms, Treatments & Recovery",
+  "description": "symptom, prescription, appointment, injured, cure, treatment, fever, recover — para hablar de salud en inglés sin quedarte sin palabras.",
+  "level": "b1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "symptom",
+      "back": "síntoma",
+      "reading": "/ˈsɪmptəm/",
+      "explanation": "Señal de una enfermedad. Plural: symptoms. 'What symptoms have you been experiencing?' Colocaciones: HAVE symptoms, EXPERIENCE symptoms, symptoms INCLUDE... Falso amigo parcial: pronunciación distinta al español.",
+      "cardRef": { "category": "vocabulary", "front": "symptom" }
+    },
+    {
+      "front": "prescription",
+      "back": "receta médica",
+      "reading": "/prɪˈskrɪpʃən/",
+      "explanation": "El papel que da el médico para comprar medicamentos. 'The doctor gave me a prescription for antibiotics.' ON prescription = solo con receta. El verbo: PRESCRIBE. 'The doctor prescribed antibiotics.'",
+      "cardRef": { "category": "vocabulary", "front": "prescription" }
+    },
+    {
+      "front": "appointment",
+      "back": "cita / turno médico",
+      "reading": "/əˈpɔɪntmənt/",
+      "explanation": "Cita programada. MAKE an appointment = sacar un turno. HAVE an appointment = tener un turno. CANCEL/MISS an appointment. No solo médico — sirve para cualquier cita formal: dentist, hairdresser, job interview.",
+      "cardRef": { "category": "vocabulary", "front": "appointment" }
+    },
+    {
+      "front": "injured",
+      "back": "herido / lesionado",
+      "reading": "/ˈɪndʒərd/",
+      "explanation": "Herido por un accidente o lesión física. 'Two people were injured in the accident.' Diferencia: INJURED (herido por accidente) vs SICK/ILL (enfermo por enfermedad). 'Injury' es el sustantivo. 'He has a knee injury.'",
+      "cardRef": { "category": "vocabulary", "front": "injured" }
+    },
+    {
+      "front": "cure",
+      "back": "cura / curar",
+      "reading": "/kjʊr/",
+      "explanation": "Solución definitiva a una enfermedad. 'There is no cure for the common cold.' Diferencia: CURE (cura definitiva) vs TREATMENT (tratamiento para controlar/aliviar). 'The scientists are looking for a cure for cancer.'",
+      "cardRef": { "category": "vocabulary", "front": "cure" }
+    },
+    {
+      "front": "treatment",
+      "back": "tratamiento",
+      "reading": "/ˈtriːtmənt/",
+      "explanation": "Proceso médico para curar o controlar una enfermedad. 'The treatment lasted several weeks.' UNDERGO treatment = someterse a tratamiento. A course of treatment = un ciclo de tratamiento. También: comportamiento/trato.",
+      "cardRef": { "category": "vocabulary", "front": "treatment" }
+    },
+    {
+      "front": "fever",
+      "back": "fiebre",
+      "reading": "/ˈfiːvər/",
+      "explanation": "Temperatura corporal elevada. HAVE a fever = tener fiebre. 'She stayed home because she had a fever.' En inglés americano también 'temperature': 'I have a temperature.' HIGH fever vs LOW-GRADE fever.",
+      "cardRef": { "category": "vocabulary", "front": "fever" }
+    },
+    {
+      "front": "recover",
+      "back": "recuperarse",
+      "reading": "/rɪˈkʌvər/",
+      "explanation": "Volver a estar bien después de una enfermedad o lesión. RECOVER FROM an illness/injury. 'It took him a month to fully recover.' El sustantivo: recovery. 'She made a full recovery.' También: recuperar algo perdido.",
+      "cardRef": { "category": "vocabulary", "front": "recover" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "En el consultorio médico",
+      "instruction": "Estas 8 palabras son esenciales para hablar de salud. Fijate en las colocaciones: MAKE an appointment, HAVE a fever, RECOVER FROM an illness.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Enfermedades, curas y recuperación",
+      "instruction": "Diferencia clave: CURE (solución definitiva) vs TREATMENT (manejo del problema). 'Injured' es para accidentes; 'sick/ill' para enfermedades.",
+      "itemIndices": [4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto de cada palabra.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "listen-identify",
+      "title": "Escuchá y elegí",
+      "instruction": "Escuchá la pronunciación y elegí la palabra correcta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Ves el significado en español. Escribí la palabra en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Dónde se usa bien?",
+      "instruction": "Elegí la oración donde la palabra está usada correctamente.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "appointment",
+            "translation": "cita / turno",
+            "options": [
+              "I did an appointment with the doctor.",
+              "I made an appointment with the doctor.",
+              "I took an appointment at the hospital.",
+              "I had an appointment at the calendar."
+            ],
+            "correctIndex": 1,
+            "feedback": "La colocación correcta es MAKE an appointment (sacar/programar una cita). HAVE an appointment = tener la cita ya agendada. Nunca 'do' ni 'take' con appointment."
+          },
+          {
+            "targetWord": "recover",
+            "translation": "recuperarse",
+            "options": [
+              "She recovered from her injury after three weeks.",
+              "She recovered her injury in the hospital.",
+              "She recovered to her illness completely.",
+              "She recovered the operation without problems."
+            ],
+            "correctIndex": 0,
+            "feedback": "RECOVER FROM + illness/injury/operation. La preposición es siempre 'from'. 'She recovered from her injury' es la forma natural y correcta."
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "8 palabras de salud: symptom (síntomas), prescription (receta — el médico PRESCRIBES), appointment (cita — MAKE/HAVE/MISS an appointment), injured (herido por accidente ≠ sick/ill por enfermedad), cure (solución definitiva), treatment (proceso médico), fever (HAVE a fever), recover FROM an illness/injury.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

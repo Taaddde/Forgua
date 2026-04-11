@@ -1,0 +1,140 @@
+{
+  "id": "vocab-a2-07",
+  "title": "Health & Medical Vocabulary",
+  "description": "Doctor, medicine, headache, fever — vocabulario para hablar de salud. Ojo: 'I have a headache' (NO 'my head hurts me').",
+  "level": "a2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "doctor",
+      "back": "doctor, médico",
+      "reading": "/ˈdɑːktər/",
+      "explanation": "'Go to the doctor' = ir al médico. 'See a doctor' = ver/consultar a un médico. Tanto 'doctor' como 'physician' son correctos, pero 'doctor' es más común.",
+      "cardRef": { "category": "vocabulary", "front": "doctor" }
+    },
+    {
+      "front": "medicine",
+      "back": "medicina, medicamento",
+      "reading": "/ˈmɛdɪsɪn/",
+      "explanation": "'Take medicine' = tomar medicamento. 'Medicine' puede ser incontable (the field of medicine) o contable (a medicine for headaches). 'Drug' también significa medicamento (no solo droga).",
+      "cardRef": { "category": "vocabulary", "front": "medicine" }
+    },
+    {
+      "front": "headache",
+      "back": "dolor de cabeza",
+      "reading": "/ˈhɛdˌeɪk/",
+      "explanation": "'I have a headache' = Me duele la cabeza. Patrón: have a + body part + ache: headache, stomachache, backache, toothache. NUNCA 'my head hurts me' — eso es calco del español.",
+      "cardRef": { "category": "vocabulary", "front": "headache" }
+    },
+    {
+      "front": "fever",
+      "back": "fiebre",
+      "reading": "/ˈfiːvər/",
+      "explanation": "'I have a fever' = Tengo fiebre. 'A high fever' = fiebre alta. 'A slight fever' = fiebre leve.",
+      "cardRef": { "category": "vocabulary", "front": "fever" }
+    },
+    {
+      "front": "cough",
+      "back": "tos, toser",
+      "reading": "/kɑːf/",
+      "explanation": "Como sustantivo: 'I have a cough' = Tengo tos. Como verbo: 'She's coughing a lot' = Está tosiendo mucho. Pronunciación difícil: 'ough' se pronuncia /ɑːf/, no /oʊ/.",
+      "cardRef": { "category": "vocabulary", "front": "cough" }
+    },
+    {
+      "front": "sick",
+      "back": "enfermo",
+      "reading": "/sɪk/",
+      "explanation": "'I feel sick' = Me siento mal/enfermo. 'She is sick' = Está enferma. 'Sick' puede también significar 'con ganas de vomitar'. 'Ill' es sinónimo más formal.",
+      "cardRef": { "category": "vocabulary", "front": "sick" }
+    },
+    {
+      "front": "healthy",
+      "back": "saludable, sano",
+      "reading": "/ˈhɛlθi/",
+      "explanation": "'Eat healthy' = comer saludablemente. 'Stay healthy' = mantenerse sano. Antónimo: 'unhealthy'. 'Health' (sin -y) es el sustantivo: 'good health' = buena salud.",
+      "cardRef": { "category": "vocabulary", "front": "healthy" }
+    },
+    {
+      "front": "exercise",
+      "back": "ejercicio",
+      "reading": "/ˈɛksərˌsaɪz/",
+      "explanation": "'Do exercise' o 'exercise' (verbo): 'I exercise every day'. 'Physical exercise' = ejercicio físico. 'Gym' = el gimnasio donde hacés ejercicio.",
+      "cardRef": { "category": "vocabulary", "front": "exercise" }
+    },
+    {
+      "front": "pain",
+      "back": "dolor",
+      "reading": "/peɪn/",
+      "explanation": "'I have a pain in my...' = Tengo dolor en mi... 'Pain' es el sustantivo general. 'Ache' es para dolores continuos (headache, backache). 'Hurt' es el verbo: 'My back hurts'.",
+      "cardRef": { "category": "vocabulary", "front": "pain" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario de salud",
+      "instruction": "Estas palabras te permiten describir síntomas, ir al médico y hablar de salud. Nota importante: en inglés se dice 'I HAVE a headache/fever/cough' (con HAVE), no 'I FEEL pain of head'.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto de cada palabra de salud.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "type": "listen-identify",
+      "title": "Escuchá y elegí",
+      "instruction": "Escuchá cada palabra de salud y elegí cuál es.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Cómo se describe correctamente?",
+      "instruction": "Identificá si la descripción del síntoma está bien expresada en inglés.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "I have a terrible headache.",
+            "isCorrect": true,
+            "explanation": "Correcta. Patrón estándar: 'have + artículo + síntoma': I have A headache.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "My head is hurting me a lot.",
+            "isCorrect": false,
+            "correction": "I have a bad headache.",
+            "explanation": "'My head hurts' (sin 'me') es posible, pero 'hurting me' es un calco del español 'me duele'. Lo más natural es 'I have a headache' o 'My head hurts'.",
+            "errorType": "register"
+          },
+          {
+            "sentence": "She has a high fever — 39 degrees.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Have a fever' + la temperatura en degrees (grados).",
+            "errorType": "none"
+          },
+          {
+            "sentence": "I am sick since yesterday.",
+            "isCorrect": false,
+            "correction": "I have been sick since yesterday.",
+            "explanation": "Con 'since' y situación que continúa → Present Perfect: 'I HAVE BEEN sick since yesterday'.",
+            "errorType": "tense"
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice en inglés?",
+      "instruction": "Ves la descripción en español. Escribí la palabra de salud en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Vocabulario de salud. Para síntomas: 'I have a + síntoma' (headache, fever, cough). 'I feel sick' = me siento enfermo. 'Healthy' / 'unhealthy'. 'Do exercise' o 'exercise' (verbo). Recordá: 'My head hurts' es correcto, pero 'my head hurts ME' suena a traducción directa del español.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    }
+  ]
+}

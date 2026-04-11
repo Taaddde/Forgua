@@ -1,0 +1,121 @@
+{
+  "id": "vocab-a1-15",
+  "title": "Places in the City : Lugares y ubicación",
+  "description": "Lugares comunes de la ciudad (hospital, tienda, calle, ciudad, país) y los adverbios básicos de ubicación 'here' y 'there'. Para describir dónde estás.",
+  "level": "a1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "hospital",
+      "back": "hospital",
+      "reading": "/ˈhɑːspɪtəl/",
+      "explanation": "Hospital. Falso amigo parcial: en inglés británico se dice 'in hospital' sin artículo para hablar de estar internado ('She is in hospital'); en inglés americano se dice 'in THE hospital'. Como paciente o como lugar: ambas variantes existen.",
+      "cardRef": { "category": "vocabulary", "front": "hospital" }
+    },
+    {
+      "front": "store",
+      "back": "tienda",
+      "reading": "/stɔːr/",
+      "explanation": "Tienda, negocio. 'Store' es más común en inglés americano; 'shop' es más común en inglés británico. 'Grocery store' = almacén/supermercado pequeño. 'Department store' = tienda por departamentos.",
+      "cardRef": { "category": "vocabulary", "front": "store" }
+    },
+    {
+      "front": "city",
+      "back": "ciudad",
+      "reading": "/ˈsɪti/",
+      "explanation": "Ciudad. Plural: 'cities' (la 'y' cambia a 'ies'). 'City center' = centro de la ciudad. 'Downtown' también se usa en inglés americano para el centro.",
+      "cardRef": { "category": "vocabulary", "front": "city" }
+    },
+    {
+      "front": "street",
+      "back": "calle",
+      "reading": "/striːt/",
+      "explanation": "Calle. Preposición: 'ON + street' para ubicación general ('I live on Main Street'), NO 'in' como en español. Abreviatura: 'St.' Diferencia con 'avenue' (avenida, más ancha).",
+      "cardRef": { "category": "vocabulary", "front": "street" }
+    },
+    {
+      "front": "country",
+      "back": "país",
+      "reading": "/ˈkʌntri/",
+      "explanation": "País. Plural: 'countries'. ¡OJO! 'Country' también significa 'el campo' (zona rural, opuesto de ciudad): 'I live in the country' = vivo en el campo. El contexto aclara el sentido.",
+      "cardRef": { "category": "vocabulary", "front": "country" }
+    },
+    {
+      "front": "here",
+      "back": "aquí / acá",
+      "reading": "/hɪr/",
+      "explanation": "Aquí, acá. Adverbio de lugar cerca del hablante. 'Come here!' = ¡vení acá!. 'I'm here' = estoy acá. No confundir con 'hear' /hɪr/ (escuchar) — son homófonos perfectos, se distinguen por contexto.",
+      "cardRef": { "category": "vocabulary", "front": "here" }
+    },
+    {
+      "front": "there",
+      "back": "ahí / allí",
+      "reading": "/ðɛr/",
+      "explanation": "Ahí, allí. Adverbio de lugar lejos del hablante. También se usa en 'there is/there are' = hay ('There is a book on the table'). Homófono de 'their' (su/sus) y 'they're' (they are) — tres palabras muy distintas que suenan igual.",
+      "cardRef": { "category": "vocabulary", "front": "there" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Lugares y ubicación",
+      "instruction": "Vocabulario para describir dónde estás y dónde vas. Prestá atención a las preposiciones: 'in the city', 'on the street', 'at the hospital'. Y a los homófonos: here/hear, there/their/they're.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto de cada palabra.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "listen-identify",
+      "title": "Escuchá y elegí",
+      "instruction": "Escuchá y elegí la palabra que oís.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Escribí la palabra en inglés según el significado en español.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con el lugar correcto",
+      "instruction": "Elegí la preposición y el lugar correcto para cada oración.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "My mother works {0} the hospital {1} the big city.",
+            "blanks": [
+              { "answer": "at", "options": ["at", "in", "on", "to"] },
+              { "answer": "in", "options": ["in", "at", "on", "with"] }
+            ]
+          },
+          {
+            "template": "I live {0} Green Street, {1} Madrid.",
+            "blanks": [
+              { "answer": "on", "options": ["on", "in", "at", "to"] },
+              { "answer": "in", "options": ["in", "on", "at", "with"] }
+            ]
+          },
+          {
+            "template": "Come {0}! The store is over {1}.",
+            "blanks": [
+              { "answer": "here", "options": ["here", "there", "now", "always"] },
+              { "answer": "there", "options": ["there", "here", "now", "very"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste 7 palabras de lugar. Preposiciones clave: AT the hospital/store (punto específico), IN the city/country (dentro de algo grande), ON the street (sobre la calle). 'Here' = cerca de mí, 'there' = lejos. 'Country' puede ser país O campo según contexto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    }
+  ]
+}

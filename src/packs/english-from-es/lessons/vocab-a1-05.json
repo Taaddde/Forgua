@@ -10,84 +10,96 @@
       "back": "agua",
       "reading": "/ˈwɔːtər/",
       "explanation": "Pronunciación: UO-ter. La 'w' no existe en español — redondeá los labios. Es sustantivo incontable: 'some water', nunca 'a water' (excepto en un restaurante: 'a water' = un vaso de agua).",
-      "cardRef": { "category": "vocabulary", "front": "water" }
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "water"
+      }
     },
     {
       "front": "bread",
       "back": "pan",
       "reading": "/brɛd/",
       "explanation": "Incontable: 'some bread', NO 'a bread'. Para contar: 'a loaf of bread' (un pan entero), 'a slice of bread' (una rebanada).",
-      "cardRef": { "category": "vocabulary", "front": "bread" }
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "bread"
+      }
     },
     {
       "front": "milk",
       "back": "leche",
       "reading": "/mɪlk/",
       "explanation": "Incontable: 'some milk', 'a glass of milk'. La 'i' es corta /ɪ/, no 'miilk'.",
-      "cardRef": { "category": "vocabulary", "front": "milk" }
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "milk"
+      }
     },
     {
       "front": "coffee",
       "back": "café (bebida)",
       "reading": "/ˈkɔːfi/",
       "explanation": "Cognado parcial: español 'café' → inglés 'coffee'. Ojo con la pronunciación: CO-fi, no 'co-FÉ'. La 'ee' suena /i/.",
-      "cardRef": { "category": "vocabulary", "front": "coffee" }
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "coffee"
+      }
     },
     {
       "front": "tea",
       "back": "té",
       "reading": "/tiː/",
-      "explanation": "Se pronuncia 'tii'. Muy importante en la cultura británica. 'A cup of tea' = una taza de té.",
-      "cardRef": { "category": "vocabulary", "front": "tea" }
+      "explanation": "Se pronuncia 'tii'. Muy importante en la cultura británica. 'A cup of tea' = una taza de té."
     },
     {
       "front": "chicken",
       "back": "pollo",
       "reading": "/ˈtʃɪkɪn/",
-      "explanation": "Significa tanto el animal vivo como la carne. 'I like chicken' = me gusta el pollo (la carne). 'The chicken is in the garden' = el pollo está en el jardín.",
-      "cardRef": { "category": "vocabulary", "front": "chicken" }
+      "explanation": "Significa tanto el animal vivo como la carne. 'I like chicken' = me gusta el pollo (la carne). 'The chicken is in the garden' = el pollo está en el jardín."
     },
     {
       "front": "rice",
       "back": "arroz",
       "reading": "/raɪs/",
       "explanation": "Incontable: 'some rice', NO 'a rice'. Pronunciación: 'rais'. No confundir con 'rise' /raɪz/ (subir) — la diferencia es /s/ vs /z/.",
-      "cardRef": { "category": "vocabulary", "front": "rice" }
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "rice"
+      }
     },
     {
       "front": "fruit",
       "back": "fruta",
       "reading": "/fruːt/",
       "explanation": "Cognado: español 'fruta' → inglés 'fruit'. Generalmente incontable cuando es genérico: 'I eat fruit every day'. Contable cuando hablás de tipos: 'tropical fruits'.",
-      "cardRef": { "category": "vocabulary", "front": "fruit" }
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "fruit"
+      }
     },
     {
       "front": "vegetable",
       "back": "verdura / vegetal",
       "reading": "/ˈvɛdʒtəbəl/",
-      "explanation": "Pronunciación: VECH-ta-bol (3 sílabas en la práctica, no 4). Contable: 'vegetables are healthy'. Informal: 'veggies'.",
-      "cardRef": { "category": "vocabulary", "front": "vegetable" }
+      "explanation": "Pronunciación: VECH-ta-bol (3 sílabas en la práctica, no 4). Contable: 'vegetables are healthy'. Informal: 'veggies'."
     },
     {
       "front": "egg",
       "back": "huevo",
       "reading": "/ɛɡ/",
-      "explanation": "Contable: 'an egg', 'two eggs'. Ojo con el artículo: 'an egg' (no 'a egg') porque empieza con vocal.",
-      "cardRef": { "category": "vocabulary", "front": "egg" }
+      "explanation": "Contable: 'an egg', 'two eggs'. Ojo con el artículo: 'an egg' (no 'a egg') porque empieza con vocal."
     },
     {
       "front": "cheese",
       "back": "queso",
       "reading": "/tʃiːz/",
-      "explanation": "Incontable en general: 'some cheese'. Contable para tipos: 'French cheeses'. La gente dice 'cheese!' al sacarse fotos.",
-      "cardRef": { "category": "vocabulary", "front": "cheese" }
+      "explanation": "Incontable en general: 'some cheese'. Contable para tipos: 'French cheeses'. La gente dice 'cheese!' al sacarse fotos."
     },
     {
       "front": "fish",
       "back": "pescado / pez",
       "reading": "/fɪʃ/",
-      "explanation": "Mismo singular y plural: 'one fish, two fish' (NO 'fishes' en general). Como comida es incontable: 'I like fish'. El sonido 'sh' /ʃ/ es como el 'sh' en 'show'.",
-      "cardRef": { "category": "vocabulary", "front": "fish" }
+      "explanation": "Mismo singular y plural: 'one fish, two fish' (NO 'fishes' en general). Como comida es incontable: 'I like fish'. El sonido 'sh' /ʃ/ es como el 'sh' en 'show'."
     }
   ],
   "steps": [
@@ -95,31 +107,93 @@
       "type": "introduce",
       "title": "Comida y bebida esencial",
       "instruction": "12 palabras que vas a usar todos los días. Prestá atención a cuáles son contables (egg, vegetable) y cuáles incontables (water, bread, rice, milk). Con los incontables usás 'some' en vez de 'a/an'. También notá los cognados: fruit (fruta), coffee (café).",
-      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
     },
     {
       "type": "recognize",
       "title": "¿Qué comida es?",
       "instruction": "Elegí el significado correcto de cada alimento o bebida.",
-      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
     },
     {
       "type": "listen-identify",
       "title": "Escuchá y elegí",
       "instruction": "Escuchá la palabra y elegí qué alimento o bebida es.",
-      "itemIndices": [0, 1, 3, 4, 5, 6, 8, 9, 10, 11]
+      "itemIndices": [
+        0,
+        1,
+        3,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10,
+        11
+      ]
     },
     {
       "type": "recall",
       "title": "¿Cómo se dice en inglés?",
       "instruction": "Ves el alimento en español. Escribí la palabra en inglés.",
-      "itemIndices": [0, 1, 2, 3, 5, 6, 7, 8, 9, 10, 11]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
     },
     {
       "type": "summary",
       "title": "¡Menú completo!",
       "instruction": "Ya conocés 12 palabras de comida y bebida. Recordá: water, bread, rice, milk y cheese son INCONTABLES — usá 'some', no 'a'. Un truco: si no podés contar unidades individuales sin un recipiente, probablemente es incontable. 'A glass of water', 'a slice of bread'.",
-      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
     }
   ]
 }

@@ -10,70 +10,64 @@
       "back": "ir → fui / fue / fuimos",
       "reading": "/ɡoʊ/ → /wɛnt/",
       "explanation": "'Go' es completamente irregular: 'went' no se parece en nada a 'go'. Es uno de los verbos más usados del inglés. 'I went to school' = 'Fui a la escuela'. Negativo: 'I didn't go' (NO 'I didn't went'). Pregunta: 'Did you go?' (NO 'Did you went?').",
-      "cardRef": { "category": "grammar", "front": "go → went" }
+      "cardRef": {
+        "category": "grammar",
+        "front": "Past Simple (Irregular Verbs) (Subject + irregular past form)"
+      }
     },
     {
       "front": "see → saw",
       "back": "ver → vi / vio / vimos",
       "reading": "/siː/ → /sɔː/",
-      "explanation": "'See' → 'saw'. 'I saw a movie yesterday' = 'Vi una película ayer'. No confundir con 'watch' (mirar algo con atención, como TV): 'I watched a movie' también es correcto, pero 'see' es más general.",
-      "cardRef": { "category": "grammar", "front": "see → saw" }
+      "explanation": "'See' → 'saw'. 'I saw a movie yesterday' = 'Vi una película ayer'. No confundir con 'watch' (mirar algo con atención, como TV): 'I watched a movie' también es correcto, pero 'see' es más general."
     },
     {
       "front": "have → had",
       "back": "tener / haber → tuve / tuvo / tuvimos",
       "reading": "/hæv/ → /hæd/",
-      "explanation": "'Have' → 'had'. Sirve como verbo principal ('tener') y como auxiliar ('haber'). 'I had a dog' = 'Tuve un perro'. 'Had' es igual para todas las personas: I had, she had, they had. Pronunciación: /hæd/, rima con 'bad'.",
-      "cardRef": { "category": "grammar", "front": "have → had" }
+      "explanation": "'Have' → 'had'. Sirve como verbo principal ('tener') y como auxiliar ('haber'). 'I had a dog' = 'Tuve un perro'. 'Had' es igual para todas las personas: I had, she had, they had. Pronunciación: /hæd/, rima con 'bad'."
     },
     {
       "front": "do → did",
       "back": "hacer → hice / hizo / hicimos",
       "reading": "/duː/ → /dɪd/",
-      "explanation": "'Do' → 'did'. Como verbo principal: 'I did my homework' = 'Hice mi tarea'. Como auxiliar para negaciones y preguntas en pasado: 'I didn't work', 'Did you work?'. Ya conocés 'did' de las lecciones anteriores — ahora sabés que es el pasado de 'do'.",
-      "cardRef": { "category": "grammar", "front": "do → did" }
+      "explanation": "'Do' → 'did'. Como verbo principal: 'I did my homework' = 'Hice mi tarea'. Como auxiliar para negaciones y preguntas en pasado: 'I didn't work', 'Did you work?'. Ya conocés 'did' de las lecciones anteriores — ahora sabés que es el pasado de 'do'."
     },
     {
       "front": "get → got",
       "back": "obtener / conseguir / llegar → obtuve / conseguí / llegué",
       "reading": "/ɡɛt/ → /ɡɑːt/",
-      "explanation": "'Get' → 'got'. 'Get' es uno de los verbos más versátiles del inglés: get = obtener, recibir, llegar, ponerse (estado). 'I got a new phone' = 'Conseguí un teléfono nuevo'. 'I got home at 6' = 'Llegué a casa a las 6'. 'I got tired' = 'Me cansé'.",
-      "cardRef": { "category": "grammar", "front": "get → got" }
+      "explanation": "'Get' → 'got'. 'Get' es uno de los verbos más versátiles del inglés: get = obtener, recibir, llegar, ponerse (estado). 'I got a new phone' = 'Conseguí un teléfono nuevo'. 'I got home at 6' = 'Llegué a casa a las 6'. 'I got tired' = 'Me cansé'."
     },
     {
       "front": "make → made",
       "back": "hacer / fabricar → hice / hizo",
       "reading": "/meɪk/ → /meɪd/",
-      "explanation": "'Make' → 'made'. Diferencia con 'do': 'make' = crear/fabricar algo ('make a cake', 'make a decision'). 'Do' = realizar una actividad ('do homework', 'do exercise'). 'She made dinner' = 'Ella hizo la cena' (la preparó/creó).",
-      "cardRef": { "category": "grammar", "front": "make → made" }
+      "explanation": "'Make' → 'made'. Diferencia con 'do': 'make' = crear/fabricar algo ('make a cake', 'make a decision'). 'Do' = realizar una actividad ('do homework', 'do exercise'). 'She made dinner' = 'Ella hizo la cena' (la preparó/creó)."
     },
     {
       "front": "come → came",
       "back": "venir → vine / vino / vinimos",
       "reading": "/kʌm/ → /keɪm/",
-      "explanation": "'Come' → 'came'. 'She came to my house' = 'Ella vino a mi casa'. Opuesto de 'go' (ir) en dirección: 'go' = ir (alejándose), 'come' = venir (acercándose). 'They came from Argentina' = 'Vinieron de Argentina'.",
-      "cardRef": { "category": "grammar", "front": "come → came" }
+      "explanation": "'Come' → 'came'. 'She came to my house' = 'Ella vino a mi casa'. Opuesto de 'go' (ir) en dirección: 'go' = ir (alejándose), 'come' = venir (acercándose). 'They came from Argentina' = 'Vinieron de Argentina'."
     },
     {
       "front": "take → took",
       "back": "tomar / llevar → tomé / llevé",
       "reading": "/teɪk/ → /tʊk/",
-      "explanation": "'Take' → 'took'. Muy versátil: take = tomar, llevar, durar. 'I took a photo' = 'Saqué una foto'. 'She took the bus' = 'Tomó el colectivo'. 'It took two hours' = 'Tardó dos horas'. Pronunciación de 'took': /tʊk/, rima con 'book'.",
-      "cardRef": { "category": "grammar", "front": "take → took" }
+      "explanation": "'Take' → 'took'. Muy versátil: take = tomar, llevar, durar. 'I took a photo' = 'Saqué una foto'. 'She took the bus' = 'Tomó el colectivo'. 'It took two hours' = 'Tardó dos horas'. Pronunciación de 'took': /tʊk/, rima con 'book'."
     },
     {
       "front": "say → said",
       "back": "decir → dije / dijo / dijimos",
       "reading": "/seɪ/ → /sɛd/",
-      "explanation": "'Say' → 'said'. CUIDADO con la pronunciación: 'said' se pronuncia /sɛd/ (como 'sed'), NO /seɪd/. Es una de las pronunciaciones más engañosas del inglés. 'She said hello' = 'Ella dijo hola'. 'He said that he was tired' = 'Dijo que estaba cansado'.",
-      "cardRef": { "category": "grammar", "front": "say → said" }
+      "explanation": "'Say' → 'said'. CUIDADO con la pronunciación: 'said' se pronuncia /sɛd/ (como 'sed'), NO /seɪd/. Es una de las pronunciaciones más engañosas del inglés. 'She said hello' = 'Ella dijo hola'. 'He said that he was tired' = 'Dijo que estaba cansado'."
     },
     {
       "front": "know → knew",
       "back": "saber / conocer → supe / supo / conocí",
       "reading": "/noʊ/ → /njuː/",
-      "explanation": "'Know' → 'knew'. Pronunciación: 'knew' /njuː/ suena igual que 'new' (nuevo). La K es muda en 'know' y 'knew'. 'I knew the answer' = 'Sabía la respuesta'. 'She knew him from school' = 'Lo conocía de la escuela'. Recordá: 'know' es stative verb — no usa -ing.",
-      "cardRef": { "category": "grammar", "front": "know → knew" }
+      "explanation": "'Know' → 'knew'. Pronunciación: 'knew' /njuː/ suena igual que 'new' (nuevo). La K es muda en 'know' y 'knew'. 'I knew the answer' = 'Sabía la respuesta'. 'She knew him from school' = 'Lo conocía de la escuela'. Recordá: 'know' es stative verb — no usa -ing."
     }
   ],
   "steps": [
@@ -81,43 +75,99 @@
       "type": "introduce",
       "title": "Los 10 irregulares esenciales",
       "instruction": "Los verbos irregulares no siguen la regla de -ed. No hay patrón: simplemente hay que memorizarlos. La buena noticia: estos 10 verbos cubren una ENORME parte de las conversaciones cotidianas. Y la forma es igual para todas las personas: I went, she went, they went.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "introduce",
       "title": "5 irregulares más",
       "instruction": "Completemos los 10 esenciales. Prestá atención a las diferencias: make/do (ambos 'hacer' en español pero distintos en inglés), come/go (venir/ir), y la pronunciación engañosa de 'said' (/sɛd/, no /seɪd/).",
-      "itemIndices": [5, 6, 7, 8, 9]
+      "itemIndices": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
     },
     {
       "type": "recognize",
       "title": "¿Cuál es el pasado?",
       "instruction": "Ves el verbo en presente. Elegí su forma correcta en pasado.",
-      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
     },
     {
       "type": "recall",
       "title": "Escribí el pasado irregular",
       "instruction": "Ves el verbo en infinitivo. Escribí su pasado irregular de memoria.",
-      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
     },
     {
       "type": "write",
       "title": "Traducí al pasado",
       "instruction": "Ves una oración en español en pasado. Traducila al inglés usando el verbo irregular correcto.",
-      "itemIndices": [0, 1, 4, 6, 8]
+      "itemIndices": [
+        0,
+        1,
+        4,
+        6,
+        8
+      ]
     },
     {
       "type": "sentence-build",
       "title": "Armá oraciones en pasado",
       "instruction": "Ordená las palabras para formar oraciones correctas en Past Simple con verbos irregulares.",
-      "itemIndices": [0, 2, 5, 7]
+      "itemIndices": [
+        0,
+        2,
+        5,
+        7
+      ]
     },
     {
       "type": "summary",
       "title": "¡Lección completa!",
       "instruction": "Resumen de los 10 irregulares: go→went, see→saw, have→had, do→did, get→got, make→made, come→came, take→took, say→said (/sɛd/!), know→knew. Regla: con didn't y Did, el verbo vuelve a la forma BASE: 'I didn't go' (no 'didn't went'), 'Did you see?' (no 'Did you saw?'). Consejo: practicá estos 10 hasta que los digas sin pensar.",
-      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
     }
   ]
 }

@@ -1,0 +1,103 @@
+{
+  "id": "reading-a2-01",
+  "title": "Reading: A Trip to London",
+  "description": "Texto sobre un viaje a Londres. Past Simple, comparativos, vocabulario de viaje.",
+  "level": "a2",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "hotel",
+      "back": "hotel",
+      "reading": "/hoʊˈtɛl/",
+      "explanation": "En el texto: 'We stayed in a small hotel'. 'Stayed' = nos quedamos (Past Simple de stay).",
+      "cardRef": { "category": "vocabulary", "front": "hotel" }
+    },
+    {
+      "front": "ticket",
+      "back": "boleto, pasaje, entrada",
+      "reading": "/ˈtɪkɪt/",
+      "explanation": "Sirve para transporte (bus ticket, train ticket) y también para eventos (concert ticket).",
+      "cardRef": { "category": "vocabulary", "front": "ticket" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario de viaje",
+      "instruction": "Palabras clave sobre viajes y turismo.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Lectura: A Trip to London",
+      "instruction": "Leé el texto sobre un viaje a Londres. Prestá atención al Past Simple para narrar eventos pasados.",
+      "itemIndices": [],
+      "config": {
+        "passage": {
+          "id": "a2-reading-london",
+          "title": "A Trip to London",
+          "level": "a2",
+          "text": "Last summer, my friend Laura and I traveled to London. We stayed in a small hotel near the city center for five days. On the first day, we visited the British Museum. It was amazing and free! The next day, we took a boat ride on the River Thames. We could see Big Ben and the London Eye from the water. We also walked through Hyde Park and had a picnic. The food in London was more expensive than I expected, but the fish and chips were really good. On our last day, we went shopping at Oxford Street. I bought some souvenirs for my family. I would love to go back someday.",
+          "translation": "El verano pasado, mi amiga Laura y yo viajamos a Londres. Nos quedamos en un hotel pequeño cerca del centro de la ciudad por cinco días. El primer día visitamos el Museo Británico. ¡Fue increíble y gratis! Al día siguiente, hicimos un paseo en barco por el río Támesis. Podíamos ver el Big Ben y el London Eye desde el agua. También caminamos por Hyde Park e hicimos un picnic. La comida en Londres era más cara de lo que esperaba, pero el fish and chips estaba muy bueno. En nuestro último día, fuimos de compras a Oxford Street. Compré algunos recuerdos para mi familia. Me encantaría volver algún día.",
+          "vocabulary": ["traveled - viajé/viajamos", "stayed - nos quedamos", "hotel - hotel", "museum - museo", "amazing - increíble", "boat ride - paseo en barco", "expensive - caro", "expected - esperaba", "shopping - compras", "souvenirs - recuerdos"],
+          "questions": [
+            {
+              "question": "How long did they stay in London?",
+              "options": ["Three days.", "Five days.", "One week.", "Ten days."],
+              "correctIndex": 1,
+              "explanation": "El texto dice 'We stayed... for five days.'"
+            },
+            {
+              "question": "What was free?",
+              "options": ["The boat ride.", "The food.", "The British Museum.", "The hotel."],
+              "correctIndex": 2,
+              "explanation": "El texto dice el British Museum 'was amazing and free!'"
+            },
+            {
+              "question": "What did the narrator think about the food prices?",
+              "options": ["They were cheap.", "They were more expensive than expected.", "They were normal.", "They were the same as home."],
+              "correctIndex": 1,
+              "explanation": "El texto dice 'The food in London was more expensive than I expected.'"
+            },
+            {
+              "question": "What did the narrator buy at Oxford Street?",
+              "options": ["Clothes.", "Shoes.", "Books.", "Souvenirs for the family."],
+              "correctIndex": 3,
+              "explanation": "El texto dice 'I bought some souvenirs for my family.'"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Past Simple del texto",
+      "instruction": "Completá con el verbo correcto en Past Simple (forma irregular).",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "Last summer, we {0} to London and {1} in a small hotel.",
+            "blanks": [
+              { "answer": "traveled", "options": ["traveled", "travel", "were travel", "have traveled"] },
+              { "answer": "stayed", "options": ["stay", "stayed", "were staying", "have stayed"] }
+            ]
+          },
+          {
+            "template": "On the first day, we {0} the British Museum. It {1} amazing!",
+            "blanks": [
+              { "answer": "visited", "options": ["visit", "visited", "have visited", "were visiting"] },
+              { "answer": "was", "options": ["is", "was", "has been", "were"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lectura completa!",
+      "instruction": "Practicaste narrar en pasado con Past Simple. Verbos irregulares del texto: travel→traveled, stay→stayed, visit→visited, take→took, walk→walked, go→went, buy→bought. La historia usa muchos marcadores temporales: last summer, on the first day, the next day, on our last day.",
+      "itemIndices": [0, 1]
+    }
+  ]
+}

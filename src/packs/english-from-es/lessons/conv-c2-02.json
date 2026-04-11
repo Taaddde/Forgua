@@ -1,0 +1,133 @@
+{
+  "id": "conv-c2-02",
+  "title": "Conversation: Academic Debate on Literature",
+  "description": "Debate académico sobre crítica literaria. Uso de hedging, concesiones matizadas y disagreement intelectual respetuoso en contexto universitario.",
+  "level": "c2",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "Academic debate etiquette",
+      "back": "Etiqueta del debate académico — discrepar con respeto intelectual",
+      "explanation": "El debate académico C2 valora: (1) reconocer la tesis del interlocutor fielmente antes de discrepar, (2) hedging constante ('it could be argued', 'one might contend'), (3) cita textual o referencia específica para respaldar, (4) distinción entre crítica del argumento y crítica de la persona. Nunca 'You're wrong' — siempre 'Your argument, while compelling, might benefit from considering...'."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El debate académico",
+      "instruction": "Estás en un seminario universitario discutiendo literatura. Tu interlocutor defiende una interpretación con la que no coincidís del todo. Practicá el disagreement intelectual respetuoso — la marca del discurso académico C2.",
+      "itemIndices": [0]
+    },
+    {
+      "type": "conversation-script",
+      "title": "Seminario: debatiendo 'The Remains of the Day'",
+      "instruction": "Tu colega propone una lectura de la novela de Ishiguro que te parece incompleta. Elegí la mejor intervención en cada turno.",
+      "itemIndices": [],
+      "config": {
+        "script": {
+          "id": "conv-c2-academic-literature",
+          "scenario": "Seminario universitario sobre Kazuo Ishiguro — discusión interpretativa",
+          "level": "c2",
+          "turns": [
+            {
+              "speaker": "npc",
+              "text": "I think Stevens is ultimately a tragic figure because of his unwavering dedication to Lord Darlington. His loyalty, even to a flawed master, is what makes him admirable despite everything.",
+              "translation": "Creo que Stevens es en última instancia una figura trágica debido a su dedicación inquebrantable a Lord Darlington. Su lealtad, incluso a un maestro imperfecto, es lo que lo hace admirable a pesar de todo."
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                {
+                  "text": "That's a reading I find compelling in many ways, particularly your point about loyalty as a moral framework. However, I'd want to complicate it slightly. Isn't Stevens's tragedy precisely that his 'dedication' becomes a mechanism of self-erasure? The emotional cost — his inability to love Miss Kenton, his denial of his father's death — suggests that what we call loyalty might be closer to a kind of moral cowardice.",
+                  "isCorrect": true,
+                  "feedback": "Magistral. Empezás con concesión genuina ('I find compelling'), reconocés un punto específico del interlocutor, usás 'complicate it slightly' (hedging diplomático), y luego presentás tu argumento con ejemplos textuales. 'Might be closer to' mantiene el hedging. Debate C2 en estado puro.",
+                  "translation": "Es una lectura que encuentro convincente en muchos aspectos, particularmente tu punto sobre la lealtad como marco moral. Sin embargo, querría complicarla ligeramente. ¿No es la tragedia de Stevens precisamente que su 'dedicación' se convierte en un mecanismo de auto-borradura? El costo emocional — su incapacidad de amar a Miss Kenton, su negación de la muerte de su padre — sugiere que lo que llamamos lealtad podría estar más cerca de una especie de cobardía moral."
+                },
+                {
+                  "text": "You're completely missing the point. Stevens isn't admirable at all — he's a coward.",
+                  "isCorrect": false,
+                  "feedback": "Violación grave del registro académico. 'Completely missing the point' es un ataque al interlocutor. En debate académico se crítica argumentos, nunca personas. Además, afirmar 'isn't admirable at all' sin hedging ni evidencia no persuade a nadie.",
+                  "translation": "Estás perdiendo el punto por completo. Stevens no es admirable en absoluto — es un cobarde."
+                },
+                {
+                  "text": "Interesting. I agree with everything you said.",
+                  "isCorrect": false,
+                  "feedback": "No es disagreement — es capitulación. En un seminario académico, los participantes tienen la obligación intelectual de explorar tensiones y contradicciones. Agreement total sin aporte propio es una forma de silencio.",
+                  "translation": "Interesante. Estoy de acuerdo con todo lo que dijiste."
+                },
+                {
+                  "text": "That's not what the novel is about. It's about loyalty being important and Stevens being good.",
+                  "isCorrect": false,
+                  "feedback": "Afirmación categórica ('That's not what the novel is about') sin hedging. Viola las normas de interpretación literaria C2, donde se reconoce que hay múltiples lecturas legítimas. Además, la contra-argumentación es circular y sin evidencia textual.",
+                  "translation": "Eso no es de lo que trata la novela. Trata sobre la lealtad siendo importante y Stevens siendo bueno."
+                }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "But isn't loyalty itself a virtue, regardless of who it's directed toward? Ishiguro seems to respect Stevens's commitment even while showing its costs.",
+              "translation": "¿Pero no es la lealtad en sí misma una virtud, independientemente de hacia quién esté dirigida? Ishiguro parece respetar el compromiso de Stevens incluso mientras muestra sus costos."
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                {
+                  "text": "You raise a crucial point about Ishiguro's tonal ambiguity — he clearly doesn't offer a simple moral verdict on Stevens. But I'd argue the novel's power lies precisely in that tension: respect for the craft of servitude alongside a devastating critique of its human cost. The famous final scene on the pier, where Stevens weeps and then immediately returns to thinking about how to 'banter' better for Mr. Farraday, suggests Ishiguro wants us to mourn the man Stevens might have been.",
+                  "isCorrect": true,
+                  "feedback": "Argumentación C2 impecable. (1) Validás el punto del interlocutor ('crucial point'). (2) Reconocés matiz del autor ('tonal ambiguity'). (3) Aportás interpretación propia ('I'd argue'). (4) Cerrás con evidencia textual concreta (la escena del muelle). (5) Frase memorable para cerrar ('the man Stevens might have been').",
+                  "translation": "Planteás un punto crucial sobre la ambigüedad tonal de Ishiguro — claramente no ofrece un veredicto moral simple sobre Stevens. Pero argumentaría que el poder de la novela reside precisamente en esa tensión: respeto por el oficio de la servidumbre junto con una crítica devastadora de su costo humano. La famosa escena final en el muelle, donde Stevens llora y luego inmediatamente vuelve a pensar en cómo 'banter' mejor para Mr. Farraday, sugiere que Ishiguro quiere que lloremos por el hombre que Stevens podría haber sido."
+                },
+                {
+                  "text": "No, loyalty to a fascist is never a virtue.",
+                  "isCorrect": false,
+                  "feedback": "La afirmación puede ser verdadera, pero 'No, X is never Y' sin matices y sin reconocer la complejidad del argumento del interlocutor es reduccionista. Además 'fascist' es una etiqueta polémica que no está claramente establecida por la novela. Reemplazá por 'problematically sympathetic to appeasement' con hedging.",
+                  "translation": "No, la lealtad a un fascista nunca es una virtud."
+                },
+                {
+                  "text": "I suppose so, if you really think about it that way.",
+                  "isCorrect": false,
+                  "feedback": "Rendición pasiva. En debate académico, responder 'I suppose so' sin elaborar ni contrarrestar equivale a abdicar de tu posición previa. Perdés credibilidad intelectual.",
+                  "translation": "Supongo que sí, si realmente lo piensas de esa manera."
+                }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "That final scene is a perfect example. I see your point — the tragedy isn't just personal but also about a whole worldview collapsing. Shall we bring in Ishiguro's other novels to see if this pattern holds?",
+              "translation": "Esa escena final es un ejemplo perfecto. Veo tu punto — la tragedia no es solo personal sino también sobre una cosmovisión entera colapsando. ¿Traemos las otras novelas de Ishiguro para ver si este patrón se mantiene?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                {
+                  "text": "Absolutely — 'Never Let Me Go' comes to mind immediately. The clones' quiet acceptance of their fate mirrors Stevens's acceptance of his role. Ishiguro seems fascinated by characters who cannot, or will not, rebel against the narratives they've inherited.",
+                  "isCorrect": true,
+                  "feedback": "Cierre excelente del debate. Aceptás la propuesta ('Absolutely'), aportás un ejemplo concreto y pertinente ('Never Let Me Go'), y formulás una generalización interpretativa que sintetiza la discusión ('fascinated by characters who cannot, or will not, rebel'). Ideal para continuar un debate académico fructífero.",
+                  "translation": "Absolutamente — 'Nunca me abandones' viene inmediatamente a la mente. La aceptación silenciosa del destino de los clones refleja la aceptación de Stevens de su rol. Ishiguro parece fascinado por personajes que no pueden, o no quieren, rebelarse contra las narrativas que han heredado."
+                },
+                {
+                  "text": "Maybe. I haven't read his other novels.",
+                  "isCorrect": false,
+                  "feedback": "Respuesta honesta pero cierra el debate de manera pobre. En un seminario, admitir ignorancia completa sin ofrecer alternativa ni curiosidad corta la discusión productiva. Mejor: 'I'd be interested to hear your thoughts on X, as I'm less familiar with it.'",
+                  "translation": "Tal vez. No he leído sus otras novelas."
+                }
+              ],
+              "correctOptionIndex": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completada!",
+      "instruction": "DEBATE ACADÉMICO C2: (1) CONCEDÉ primero — 'That's a reading I find compelling', 'You raise a crucial point'. (2) HEDGING constante — 'I'd argue', 'might be closer to', 'could be seen as'. (3) EVIDENCIA TEXTUAL específica — citás escenas, personajes, frases. (4) PROYECCIÓN — cerrás proponiendo nuevas conexiones. Nunca 'You're wrong' — siempre 'I'd complicate that slightly'. Diferencia entre crítica del argumento y crítica de la persona.",
+      "itemIndices": [0]
+    }
+  ]
+}

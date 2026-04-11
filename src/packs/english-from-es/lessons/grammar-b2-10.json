@@ -1,0 +1,183 @@
+{
+  "id": "grammar-b2-10",
+  "title": "Past Perfect Continuous",
+  "description": "El past perfect continuous se usa para hablar de una acción que estuvo en progreso durante un período antes de otro evento pasado. Enfatiza la duración de la acción anterior y es clave en narraciones para explicar causas. Se traduce como 'había estado + gerundio'.",
+  "level": "b2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Past Perfect Continuous (Subject + had been + verb-ing)",
+      "back": "Acción en progreso durante un tiempo antes de otra acción pasada. Énfasis en la duración. Ej: 'She had been studying for three hours when the power went out.'",
+      "reading": "/pæst ˈpɜːfɪkt kənˈtɪnjuəs/",
+      "explanation": "Se forma con 'had been + verbo-ing'. Expresa que una actividad estuvo en curso durante cierto tiempo antes de un evento pasado de referencia. Es fundamental en narraciones para: (1) indicar duración de una acción previa, (2) explicar la causa de algo que ocurrió después. Se combina habitualmente con past simple: 'had been doing' (acción en proceso) + 'past simple' (evento que la interrumpe o el resultado visible). En español: 'había estado + gerundio'.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Past Perfect Continuous (Subject + had been + verb-ing)"
+      }
+    },
+    {
+      "front": "She had been studying for three hours when the power went out.",
+      "back": "Había estado estudiando durante tres horas cuando se cortó la luz.",
+      "reading": "/ʃiː həd bɪn ˈstʌdiɪŋ fər θriː ˈaʊərz wɛn ðə ˈpaʊər wɛnt aʊt/",
+      "explanation": "'Had been studying' = acción continua en proceso (duración: tres horas). 'Went out' = evento en past simple que interrumpe o sucede después. La palabra 'when' conecta ambas acciones. El énfasis aquí es en las tres horas de estudio acumuladas antes del corte de luz."
+    },
+    {
+      "front": "They were tired because they had been walking all day.",
+      "back": "Estaban cansados porque habían estado caminando todo el día.",
+      "reading": "/ðeɪ wər ˈtaɪərd bɪˈkɒz ðeɪ həd bɪn ˈwɔːkɪŋ ɔːl deɪ/",
+      "explanation": "Aquí el past perfect continuous explica la causa de un estado pasado. 'Were tired' es el resultado visible (past simple); 'had been walking all day' es la explicación del por qué. Este uso causal es muy frecuente: el estado presente en el pasado se explica por la actividad previa prolongada. Comparar: 'They were tired because they walked' (solo pasado, sin énfasis en duración)."
+    },
+    {
+      "front": "I could tell she had been crying. Her eyes were red.",
+      "back": "Me di cuenta de que había estado llorando. Tenía los ojos rojos.",
+      "reading": "/aɪ kʊd tɛl ʃiː həd bɪn ˈkraɪɪŋ hɜːr aɪz wər rɛd/",
+      "explanation": "El past perfect continuous aquí indica una actividad que dejó una evidencia visible en el pasado. 'Her eyes were red' es la evidencia; 'had been crying' es la deducción sobre lo que había estado pasando. Este uso es frecuente con verbos que dejan marcas físicas o contextuales (cry, run, cook, smoke, drink). Comparar con past perfect simple: 'She had cried' (resultado, quizás terminado y sin evidencia visual)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Past Perfect Continuous: forma y uso narrativo",
+      "instruction": "Se forma con 'had been + verbo-ing'. Se usa para mostrar que algo estuvo en progreso durante un tiempo antes de un evento pasado. Es una herramienta narrativa clave: establece contexto, duración y causa. Se combina con el past simple: 'She had been studying (proceso) when the power went out (evento)'.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Evidencia visible y deducción en el pasado",
+      "instruction": "'I could tell she had been crying' — el past perfect continuous explica una evidencia observable en el pasado. Cuando ves que algo es de cierta forma (ojos rojos, ropa sucia, olor a comida) y querés explicar la causa pasada prolongada, usás este tiempo.",
+      "itemIndices": [3]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá las oraciones narrativas",
+      "instruction": "Elegí las formas correctas. Atención a los errores típicos: confundir 'had been' con 'was/were', y 'for' vs 'since'.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "The ground was wet because it {0} {1} all night.",
+            "blanks": [
+              { "answer": "had been raining", "options": ["had been raining", "was raining", "had rained"] },
+              { "answer": "for", "options": ["for", "since", "during"] }
+            ]
+          },
+          {
+            "template": "He was exhausted because he {0} {1} for twelve hours.",
+            "blanks": [
+              { "answer": "had been working", "options": ["had been working", "was working", "has been working"] },
+              { "answer": "for", "options": ["for", "since", "from"] }
+            ]
+          },
+          {
+            "template": "When I arrived, they {0} {1} for my call for an hour.",
+            "blanks": [
+              { "answer": "had been waiting", "options": ["had been waiting", "waited", "were waiting"] },
+              { "answer": "for", "options": ["for", "since", "during"] }
+            ]
+          },
+          {
+            "template": "She {0} piano {1} she was five, so by the concert she was very skilled.",
+            "blanks": [
+              { "answer": "had been playing", "options": ["had been playing", "was playing", "had played"] },
+              { "answer": "since", "options": ["since", "for", "from"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "word-in-context",
+      "title": "Past Perfect Continuous en contexto",
+      "instruction": "Elegí la oración donde el past perfect continuous está usado correctamente para expresar duración o causa.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "had been waiting",
+            "translation": "había(n) estado esperando",
+            "options": [
+              "When the bus arrived, they waited for an hour.",
+              "When the bus arrived, they have been waiting for an hour.",
+              "When the bus arrived, they had been waiting for an hour.",
+              "When the bus arrived, they were waiting since an hour."
+            ],
+            "correctIndex": 2
+          },
+          {
+            "targetWord": "had been cooking",
+            "translation": "había estado cocinando",
+            "options": [
+              "The kitchen smelled wonderful because she had been cooking all afternoon.",
+              "The kitchen smelled wonderful because she was cooking all afternoon.",
+              "The kitchen smelled wonderful because she has been cooking all afternoon.",
+              "The kitchen smelled wonderful because she cooked all afternoon since morning."
+            ],
+            "correctIndex": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Analizá cada oración. Errores típicos: usar 'was/were + -ing' cuando se necesita 'had been + -ing', confundir 'for' con 'since', o usar stative verbs en continuo.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "She was tired because she was working all day.",
+            "isCorrect": false,
+            "correction": "She was tired because she had been working all day.",
+            "explanation": "INCORRECTO. 'Was working' (past continuous) describe una acción en progreso en un momento del pasado, pero no establece la relación de anterioridad ni enfatiza la duración acumulada antes del estado resultante. 'Had been working' (past perfect continuous) es el tiempo correcto para expresar una actividad prolongada que explica un estado posterior.",
+            "errorType": "tense-confusion"
+          },
+          {
+            "sentence": "They had been living in Berlin for five years before they moved to Vienna.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Had been living' expresa la duración de cinco años en Berlín (proceso continuo) antes del evento posterior 'moved to Vienna' (past simple). 'For five years' indica duración correctamente. 'Live' en este contexto dinámico admite la forma continua.",
+            "errorType": "tense-form"
+          },
+          {
+            "sentence": "He had been knowing her for years before they started dating.",
+            "isCorrect": false,
+            "correction": "He had known her for years before they started dating.",
+            "explanation": "INCORRECTO. 'Know' es un stative verb (verbo de estado mental). Los stative verbs (know, believe, love, own, understand, hate) no se usan en formas continuas. La forma correcta es el past perfect simple: 'had known'.",
+            "errorType": "stative-verb"
+          },
+          {
+            "sentence": "I could see she had been running — her face was red and she was out of breath.",
+            "isCorrect": true,
+            "explanation": "Correcto. El past perfect continuous 'had been running' explica una evidencia observable en el pasado (cara roja, sin aliento). Este uso deductivo a partir de evidencia física es uno de los usos más naturales y frecuentes de este tiempo.",
+            "errorType": "evidence-deduction"
+          }
+        ]
+      }
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá las oraciones",
+      "instruction": "Ordená los fragmentos para formar oraciones con el past perfect continuous.",
+      "itemIndices": [0, 1],
+      "config": {
+        "sentences": [
+          {
+            "translation": "Había estado estudiando durante tres horas cuando se cortó la luz.",
+            "fragments": ["She had been studying", "for three hours", "when the power", "went out."],
+            "correctOrder": [0, 1, 2, 3]
+          },
+          {
+            "translation": "Estaban cansados porque habían estado caminando todo el día.",
+            "fragments": ["They were tired", "because they had been", "walking", "all day."],
+            "correctOrder": [0, 1, 2, 3]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "El past perfect continuous (had been + verbo-ing) expresa una acción en progreso durante cierto tiempo ANTES de otro evento pasado. Usalo para: (1) indicar duración acumulada antes de un evento ('she had been studying for 3 hours when...'), (2) explicar causas de estados pasados ('they were tired because they had been walking'), (3) deducir a partir de evidencia ('I could tell she had been crying'). Usá 'for' con duración y 'since' con punto de inicio. Nunca en continuo los stative verbs (know, believe, own).",
+      "itemIndices": [0, 1, 2, 3]
+    }
+  ]
+}

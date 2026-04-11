@@ -1,6 +1,6 @@
 import { useState, useRef } from 'react';
 import { useTranslation } from 'react-i18next';
-import { Globe, Palette, Database, Info, Download, Upload, CheckCircle, XCircle, AlertTriangle, Trash2 } from 'lucide-react';
+import { Globe, Palette, Database, Info, Download, Upload, CheckCircle, XCircle, AlertTriangle, Trash2, Wrench } from 'lucide-react';
 import { useAppStore } from '../store/useAppStore';
 import { exportUserData, importUserData, downloadBackup } from '../db/backup';
 import { db } from '../db/database';
@@ -25,6 +25,8 @@ export function Settings() {
   const theme = useAppStore((s) => s.theme);
   const setLanguage = useAppStore((s) => s.setLanguage);
   const setTheme = useAppStore((s) => s.setTheme);
+  const devUnlockAll = useAppStore((s) => s.devUnlockAll);
+  const setDevUnlockAll = useAppStore((s) => s.setDevUnlockAll);
 
   const [feedback, setFeedback] = useState<{ type: 'success' | 'error'; message: string } | null>(null);
   const [resetConfirming, setResetConfirming] = useState(false);
@@ -177,6 +179,34 @@ export function Settings() {
           </label>
         </div>
       </section>
+
+      {/* Developer (dev builds only — tree-shaken out of production) */}
+      {import.meta.env.DEV && (
+        <section className="mb-8">
+          <div className="flex items-center gap-2 mb-4">
+            <Wrench className="w-5 h-5 text-amber-400" />
+            <h2 className="text-sm font-semibold text-amber-400 uppercase tracking-wider">Developer</h2>
+          </div>
+          <div className="rounded-lg border border-amber-500/30 bg-amber-600/5 p-4">
+            <label className="flex items-start gap-3 cursor-pointer">
+              <input
+                type="checkbox"
+                checked={devUnlockAll}
+                onChange={(e) => setDevUnlockAll(e.target.checked)}
+                className="mt-0.5 w-4 h-4 accent-amber-500 shrink-0"
+              />
+              <div className="flex-1">
+                <p className="text-sm font-medium text-slate-800 dark:text-slate-200">
+                  Unlock all lessons
+                </p>
+                <p className="text-xs text-slate-500 mt-0.5">
+                  Bypass lesson prerequisites. Does not touch your real progress — toggle off to return to normal gating. Dev builds only.
+                </p>
+              </div>
+            </label>
+          </div>
+        </section>
+      )}
 
       {/* Danger Zone */}
       <section className="mb-8">

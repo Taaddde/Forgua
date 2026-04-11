@@ -1,0 +1,77 @@
+{
+  "id": "reading-b1-02",
+  "title": "Reading: A Trip to New York",
+  "description": "Un relato de viaje en primera persona sobre Nueva York. Tiempo pasado, Past Perfect y vocabulario de viajes en contexto real.",
+  "level": "b1",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "diverse",
+      "back": "diverso / variado",
+      "reading": "/daɪˈvɜːrs/",
+      "explanation": "Con gran variedad de características, personas o ideas. 'New York is an incredibly diverse city.' DIVERSITY = diversidad."
+    },
+    {
+      "front": "neighbourhood",
+      "back": "barrio",
+      "reading": "/ˈneɪbərhʊd/",
+      "explanation": "Zona residencial de una ciudad. En americano: neighborhood. 'Each neighbourhood had its own atmosphere.' Diferente de 'suburb' (barrio residencial periférico)."
+    },
+    {
+      "front": "moving",
+      "back": "conmovedor / emotivo",
+      "reading": "/ˈmuːvɪŋ/",
+      "explanation": "Que genera emoción profunda. 'The memorial was very moving.' NO confundir con 'moving' como participio de 'move' (moverse)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario clave antes de leer",
+      "instruction": "3 palabras del texto que vas a leer. Prestá atención a 'moving' — tiene dos significados muy distintos según el contexto.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "A Trip to New York",
+      "instruction": "Leé el relato de viaje y respondé las preguntas. Prestá atención al uso del Past Perfect ('I had always dreamed', 'much larger than I had imagined').",
+      "itemIndices": [],
+      "config": {
+        "passage": {
+          "id": "b1-reading-trip-to-new-york",
+          "title": "A Trip to New York",
+          "level": "b1",
+          "text": "Last September, I finally visited New York City for the first time. I had always dreamed of going there, so when I found a cheap flight, I didn't think twice. I booked a small apartment in Brooklyn through an online platform because hotels in Manhattan were too expensive.\n\nOn my first morning, I took the subway to Times Square. I couldn't believe how big and bright everything was. There were huge screens everywhere and thousands of tourists taking photos. After that, I walked to Central Park, which was much larger than I had imagined. I spent two hours just walking around and enjoying the views.\n\nThe next day, I visited the Statue of Liberty and the 9/11 Memorial. Both places were very moving. I also tried real New York pizza, and it was as good as everyone says. In the evenings, I explored different neighborhoods like SoHo and the East Village. Each one had its own personality and atmosphere.\n\nThe thing that surprised me most was how diverse the city is. I heard people speaking at least ten different languages on the subway. The energy of New York is something you can't understand until you experience it yourself. I stayed for five days, but I feel like I only saw a small part of the city. I definitely want to go back.",
+          "translation": "En septiembre pasado, finalmente visité la ciudad de Nueva York por primera vez. Siempre había soñado con ir, así que cuando encontré un vuelo barato, no lo pensé dos veces. Reservé un departamento pequeño en Brooklyn a través de una plataforma online porque los hoteles en Manhattan eran demasiado caros.\n\nEn mi primera mañana, tomé el subte hasta Times Square. No podía creer lo grande y brillante que era todo. Había pantallas enormes por todos lados y miles de turistas sacando fotos. Después de eso, caminé hasta Central Park, que era mucho más grande de lo que había imaginado. Pasé dos horas simplemente caminando y disfrutando de las vistas.\n\nAl día siguiente, visité la Estatua de la Libertad y el Memorial del 11-S. Ambos lugares fueron muy conmovedores. También probé pizza neoyorquina auténtica, y era tan buena como todos dicen. Por las noches, exploré diferentes barrios como SoHo y el East Village. Cada uno tenía su propia personalidad y atmósfera.\n\nLo que más me sorprendió fue lo diversa que es la ciudad. Escuché gente hablando al menos diez idiomas diferentes en el subte. La energía de Nueva York es algo que no podés entender hasta que lo experimentás vos mismo. Me quedé cinco días, pero siento que solo vi una pequeña parte de la ciudad. Definitivamente quiero volver.",
+          "vocabulary": ["dreamed - soñado", "booked - reservé", "subway - subte/metro", "huge - enorme", "tourists - turistas", "memorial - memorial", "moving - conmovedor", "neighborhoods - barrios", "atmosphere - atmósfera", "diverse - diverso", "energy - energía", "experience - experimentar"],
+          "questions": [
+            {
+              "question": "Why did the author stay in Brooklyn instead of Manhattan?",
+              "options": ["Brooklyn had better restaurants.", "Hotels in Manhattan were too expensive.", "Brooklyn was closer to the airport.", "The author had friends in Brooklyn."],
+              "correctIndex": 1,
+              "explanation": "The text states the author booked in Brooklyn 'because hotels in Manhattan were too expensive.'"
+            },
+            {
+              "question": "What surprised the author most about New York?",
+              "options": ["The size of Central Park.", "The price of the pizza.", "How diverse the city is.", "The number of tourists."],
+              "correctIndex": 2,
+              "explanation": "The text says 'The thing that surprised me most was how diverse the city is,' mentioning hearing at least ten different languages."
+            },
+            {
+              "question": "How did the author feel about the length of the trip?",
+              "options": ["Five days was too long.", "Five days was the perfect amount of time.", "Five days was not enough to see everything.", "The author wanted to leave earlier."],
+              "correctIndex": 2,
+              "explanation": "The author says 'I stayed for five days, but I feel like I only saw a small part of the city' and wants to go back."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lectura completada!",
+      "instruction": "Leíste un relato de viaje B1 con Past Simple y Past Perfect ('I had always dreamed', 'much larger than I had imagined'). Vocabulario de viaje en contexto: booked accommodation, took the subway, explored neighborhoods, diverse city. Estructura narrativa: primero → después → al día siguiente → lo que más me sorprendió.",
+      "itemIndices": [0, 1, 2]
+    }
+  ]
+}

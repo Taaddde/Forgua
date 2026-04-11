@@ -1,0 +1,181 @@
+{
+  "id": "grammar-a1-27",
+  "title": "Possessive Pronouns: mine, yours, his, hers, ours, theirs",
+  "description": "'Mine' es el mío, 'yours' es el tuyo. A diferencia de 'my' y 'your' (que van antes del sustantivo), los possessive pronouns reemplazan al sustantivo completo. 'This is my book' vs 'This book is mine'.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "mine / yours / his / hers / ours / theirs",
+      "back": "el mío / el tuyo / el suyo (de él) / el suyo (de ella) / el nuestro / el de ellos",
+      "reading": "/maɪn/ /jɔːrz/ /hɪz/ /hɜːrz/ /ˈaʊərz/ /ðɛrz/",
+      "explanation": "Los possessive pronouns reemplazan al sustantivo — NO llevan nada después. 'This is mine' = 'Este es mío' (no hay sustantivo). Importante: 'his' es igual que el adjetivo posesivo, pero todos los demás cambian: my→mine, your→yours, her→hers, our→ours, their→theirs. NO existe 'mines' ni 'hers'' con apóstrofe.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Possessive Pronouns (mine / yours / his / hers / ours / theirs)"
+      }
+    },
+    {
+      "front": "my book (possessive adjective) vs mine (possessive pronoun)",
+      "back": "mi libro vs el mío",
+      "reading": "/maɪ bʊk/ vs /maɪn/",
+      "explanation": "DIFERENCIA CLAVE: 'my' va ANTES de un sustantivo ('my book', 'my house', 'my friends'). 'Mine' VA SOLO, reemplaza al sustantivo ('This is mine'). Nunca los mezcles: 'This is my' ✗, 'This is mine' ✓. 'Mine book' ✗, 'my book' ✓. Truco: si después no hay sustantivo, usá el pronombre (mine, yours, hers)."
+    },
+    {
+      "front": "This book is mine, not yours. That car is theirs.",
+      "back": "Este libro es mío, no tuyo. Ese auto es de ellos.",
+      "reading": "/ðɪs bʊk ɪz maɪn nɑːt jɔːrz/ /ðæt kɑːr ɪz ðɛrz/",
+      "explanation": "Uso típico: después del verbo 'to be' para indicar posesión. 'This is mine' (es mío), 'Is this yours?' (¿es tuyo?), 'That house is theirs' (esa casa es de ellos). También aparecen en frases como 'a friend of mine' (un amigo mío), 'a cousin of hers' (una prima de ella) — estructura fija."
+    },
+    {
+      "front": "Whose bag is this? — It's hers.",
+      "back": "¿De quién es esta bolsa? — Es de ella.",
+      "reading": "/huːz bæɡ ɪz ðɪs - ɪts hɜːrz/",
+      "explanation": "'Whose' (de quién) es la pregunta que dispara respuestas con possessive pronouns. 'Whose is this?' → 'It's mine/yours/his/hers'. Recordá: 'hers' (sin apóstrofe) es el pronombre. 'Her's' NO EXISTE. Mismo error con 'theirs' (no 'their's'). Los pronombres posesivos nunca llevan apóstrofe."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Los possessive pronouns",
+      "instruction": "Los possessive pronouns (mine, yours, his, hers, ours, theirs) reemplazan al sustantivo — van solos, sin nada después. Su función es decir 'de quién es algo' sin repetir el sustantivo.",
+      "itemIndices": [0]
+    },
+    {
+      "type": "introduce",
+      "title": "'my' vs 'mine': la diferencia clave",
+      "instruction": "'My' es un adjetivo posesivo: va ANTES de un sustantivo ('my book'). 'Mine' es un pronombre posesivo: va SOLO ('This is mine'). Esta distinción es crítica y muchos hispanohablantes la confunden.",
+      "itemIndices": [1]
+    },
+    {
+      "type": "introduce",
+      "title": "Uso real y 'Whose...?'",
+      "instruction": "Típicamente aparecen después de 'to be' ('It's mine') o como respuesta a 'Whose is this?'. Recordatorio: nunca llevan apóstrofe. 'Hers' y 'theirs', no 'her's' ni 'their's'.",
+      "itemIndices": [2, 3]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es el pronombre correcto?",
+      "instruction": "Elegí el possessive pronoun que corresponde.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá: adjetivo o pronombre",
+      "instruction": "Elegí entre la forma adjetiva (my, your, her...) y la forma pronominal (mine, yours, hers...).",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "Is this {0} pen? — No, it's not {1}. Maybe it's Sarah's.",
+            "blanks": [
+              { "answer": "your", "options": ["your", "yours", "you", "you're"] },
+              { "answer": "mine", "options": ["mine", "my", "me", "mines"] }
+            ]
+          },
+          {
+            "template": "That car over there is {0}. We bought it last month.",
+            "blanks": [
+              { "answer": "ours", "options": ["ours", "our", "us", "ourselfs"] }
+            ]
+          },
+          {
+            "template": "She lost {0} phone, so I lent her {1}.",
+            "blanks": [
+              { "answer": "her", "options": ["her", "hers", "she", "her's"] },
+              { "answer": "mine", "options": ["mine", "my", "me", "mines"] }
+            ]
+          },
+          {
+            "template": "{0} parents are Argentinian, and {1} are Spanish.",
+            "blanks": [
+              { "answer": "My", "options": ["My", "Mine", "I", "Me"] },
+              { "answer": "hers", "options": ["hers", "her", "she", "her's"] }
+            ]
+          },
+          {
+            "template": "That's not {0} problem — it's {1}.",
+            "blanks": [
+              { "answer": "my", "options": ["my", "mine", "me", "I"] },
+              { "answer": "theirs", "options": ["theirs", "their", "them", "their's"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Decidí si cada oración usa bien los posesivos.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "This bag is mines.",
+            "isCorrect": false,
+            "correction": "This bag is mine.",
+            "explanation": "'Mines' NO EXISTE en inglés. La forma correcta es 'mine' (sin -s). Error típico de hispanohablantes por analogía con 'yours' y 'hers', que sí llevan -s.",
+            "errorType": "wrong-form"
+          },
+          {
+            "sentence": "Is this your car? — Yes, it's mine.",
+            "isCorrect": true,
+            "explanation": "Perfecto. 'Your' va antes del sustantivo 'car', y 'mine' va solo reemplazando 'my car'. Es el uso clásico de la diferencia.",
+            "errorType": "possessive"
+          },
+          {
+            "sentence": "Her's is the red one.",
+            "isCorrect": false,
+            "correction": "Hers is the red one.",
+            "explanation": "NUNCA con apóstrofe. 'Hers' es el pronombre correcto. 'Her's' no existe — los pronombres posesivos (hers, yours, ours, theirs, its) nunca llevan apóstrofe, aunque termine en -s.",
+            "errorType": "apostrophe"
+          },
+          {
+            "sentence": "A friend of mine is coming to dinner.",
+            "isCorrect": true,
+            "explanation": "Correcto. La estructura 'a friend of mine' es una expresión fija muy común. No decís 'a my friend' — sería incorrecto. Lo mismo con 'a cousin of hers', 'a colleague of his'.",
+            "errorType": "expression"
+          },
+          {
+            "sentence": "That is my, not yours.",
+            "isCorrect": false,
+            "correction": "That is mine, not yours.",
+            "explanation": "'My' necesita un sustantivo después. Si va solo, tenés que usar el pronombre 'mine'. Compará: 'my book' ✓ vs 'mine' (solo) ✓. Nunca 'my' solo.",
+            "errorType": "wrong-form"
+          }
+        ]
+      }
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá oraciones con pronombres posesivos",
+      "instruction": "Ordená las palabras para formar oraciones correctas.",
+      "itemIndices": [0],
+      "config": {
+        "sentences": [
+          {
+            "translation": "Este paraguas es mío, no tuyo.",
+            "fragments": ["This umbrella", "is", "mine,", "not yours"],
+            "correctOrder": [0, 1, 2, 3]
+          },
+          {
+            "translation": "La casa grande en la esquina es de ellos.",
+            "fragments": ["The big house", "on the corner", "is", "theirs"],
+            "correctOrder": [0, 1, 2, 3]
+          },
+          {
+            "translation": "¿De quién es esta llave? — Es de ella.",
+            "fragments": ["Whose", "key", "is this?", "It's hers"],
+            "correctOrder": [0, 1, 2, 3]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Resumen: Pronombres posesivos → mine, yours, his, hers, ours, theirs. Van SOLOS, sin sustantivo después. Diferencia clave: 'my book' (adjetivo + sustantivo) vs 'mine' (pronombre solo). Nunca 'mines', nunca 'her's'. Expresión fija: 'a friend of mine/hers/his'. Típicamente después de 'to be' o como respuesta a 'Whose...?'.",
+      "itemIndices": [0, 1, 2, 3]
+    }
+  ]
+}

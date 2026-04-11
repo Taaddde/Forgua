@@ -1,0 +1,210 @@
+{
+  "id": "grammar-a2-10",
+  "title": "Used to: Past Habits",
+  "description": "'I used to play soccer' — para hablar de hábitos pasados que ya no existen. Muy común en inglés, no tiene equivalente exacto en español.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Used to (Past Habits)",
+      "back": "solía / antes + verbo (hábito pasado)",
+      "reading": "/juːst tuː/",
+      "explanation": "'Used to + verb base' describe hábitos o estados del pasado que YA NO EXISTEN. Solo existe en pasado — no hay 'use to' en presente. Equivale a 'solía' o 'antes + verbo': 'I used to play soccer' = Antes jugaba al fútbol (ya no juego).",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Used to (Subject + used to + base verb)"
+      }
+    },
+    {
+      "front": "I used to play soccer.",
+      "back": "Antes jugaba al fútbol. (ya no juego)",
+      "reading": "",
+      "explanation": "Afirmativo: Subject + used to + verb base. Nota: 'used to' NO se confunde con 'be used to' (estar acostumbrado a) ni 'get used to' (acostumbrarse a). Esta lección solo cubre 'used to' para hábitos pasados."
+    },
+    {
+      "front": "I didn't use to like vegetables.",
+      "back": "Antes no me gustaban las verduras. (ahora me gustan)",
+      "reading": "",
+      "explanation": "Negativo: Subject + didn't use to + verb base. ¡OJO! En negativo e interrogativo, 'used' pierde la 'd': 'didn't USE TO' (no 'didn't used to'). El auxiliar 'did' ya carga el pasado."
+    },
+    {
+      "front": "Did you use to live here?",
+      "back": "¿Vivías acá antes? ¿Solías vivir acá?",
+      "reading": "",
+      "explanation": "Interrogativo: Did + subject + use to + verb base. Respuesta corta: 'Yes, I did' / 'No, I didn't'. Notar: ¿HOW do we ask about past habits in Spanish? 'I used to' = solía, antes + imperfecto."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "'Used to': hábitos del pasado",
+      "instruction": "¿Cómo se cuenta algo que hacías antes pero ya no hacés? En español usás el imperfecto: 'jugaba', 'vivía', 'me gustaba'. En inglés existe una estructura especial para esto: 'used to'. Solo existe en pasado — no hay un presente equivalente.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí la traducción correcta de cada oración con 'used to'.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con 'used to' o 'didn't use to'",
+      "instruction": "Elegí la forma correcta según el contexto.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "When I was a child, I {0} watch cartoons every morning, but now I {1}.",
+            "blanks": [
+              {
+                "answer": "used to",
+                "options": [
+                  "used to",
+                  "use to",
+                  "was used to",
+                  "did use to"
+                ]
+              },
+              {
+                "answer": "don't",
+                "options": [
+                  "don't",
+                  "didn't",
+                  "not",
+                  "no"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "She {0} like spicy food, but she {1} it a lot now.",
+            "blanks": [
+              {
+                "answer": "didn't use to",
+                "options": [
+                  "didn't use to",
+                  "didn't used to",
+                  "wasn't use to",
+                  "not used to"
+                ]
+              },
+              {
+                "answer": "loves",
+                "options": [
+                  "love",
+                  "loves",
+                  "loved",
+                  "is loving"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "Errores con 'used to'",
+      "instruction": "Identificá los errores comunes en estas oraciones.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "I didn't used to eat breakfast.",
+            "isCorrect": false,
+            "correction": "I didn't use to eat breakfast.",
+            "explanation": "Con 'didn't', el pasado ya está en 'did' → el verbo vuelve a la forma base: 'use to' (sin -d). 'Didn't used to' es un error muy común pero incorrecto.",
+            "errorType": "conjugation"
+          },
+          {
+            "sentence": "We used to live in a small town.",
+            "isCorrect": true,
+            "explanation": "Perfecta. Hábito pasado afirmativo: 'used to + verb base'. La oración implica que ya no viven en ese pueblo.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "Did she used to work here?",
+            "isCorrect": false,
+            "correction": "Did she use to work here?",
+            "explanation": "Con 'Did', el verbo vuelve a la forma base: 'use to' (sin -d). Mismo principio que 'didn't use to'.",
+            "errorType": "conjugation"
+          },
+          {
+            "sentence": "He used to be very shy, but now he's very outgoing.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Used to be' = era (estado pasado). Perfecto contraste: antes era tímido, ahora es extrovertido.",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá oraciones con 'used to'",
+      "instruction": "Ordená las palabras para formar oraciones correctas.",
+      "itemIndices": [
+        1,
+        2,
+        3
+      ],
+      "config": {
+        "sentences": [
+          {
+            "translation": "Antes caminaba al trabajo.",
+            "fragments": [
+              "I",
+              "used to",
+              "walk",
+              "to work"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "translation": "¿Solías estudiar mucho?",
+            "fragments": [
+              "Did",
+              "you",
+              "use to",
+              "study",
+              "a lot?"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3,
+              4
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Used to = hábito o estado pasado que ya no existe. Afirmativo: 'used to + verb'. Negativo: 'didn't USE TO + verb' (sin -d). Pregunta: 'Did... USE TO + verb?' (sin -d). No confundir con 'be used to' (estar acostumbrado) ni 'get used to' (acostumbrarse). Solo existe en pasado.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ]
+}

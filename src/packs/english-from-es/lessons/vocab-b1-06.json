@@ -1,0 +1,137 @@
+{
+  "id": "vocab-b1-06",
+  "title": "Environment & Nature: Climate, Crisis and Action",
+  "description": "drought, flood, pollution, recycle, climate, endangered, landscape, renewable — vocabulario del medio ambiente que domina las noticias y conversaciones hoy en día.",
+  "level": "b1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "drought",
+      "back": "sequía",
+      "reading": "/draʊt/",
+      "explanation": "Período prolongado de falta de lluvia. 'The region is suffering from a severe drought.' Pronunciación clave: la 'gh' es muda. SEVERE drought, PROLONGED drought. El adjetivo: drought-prone (propensa a sequías).",
+      "cardRef": { "category": "vocabulary", "front": "drought" }
+    },
+    {
+      "front": "flood",
+      "back": "inundación / inundar",
+      "reading": "/flʌd/",
+      "explanation": "Como sustantivo: inundación. Como verbo: inundar. 'Heavy rain caused floods in the city.' 'The river flooded the town.' Colocaciones: FLASH flood (inundación repentina), FLOOD WARNING (alerta de inundación).",
+      "cardRef": { "category": "vocabulary", "front": "flood" }
+    },
+    {
+      "front": "pollution",
+      "back": "contaminación / polución",
+      "reading": "/pəˈluːʃən/",
+      "explanation": "INCONTABLE. Tipos: AIR pollution, WATER pollution, SOIL pollution, NOISE pollution. 'Air pollution is a major problem in big cities.' El verbo: POLLUTE. El agente: POLLUTANT (contaminante).",
+      "cardRef": { "category": "vocabulary", "front": "pollution" }
+    },
+    {
+      "front": "recycle",
+      "back": "reciclar",
+      "reading": "/riːˈsaɪkəl/",
+      "explanation": "'We should recycle plastic and paper.' Sustantivo: RECYCLING. 'Recycling bin' = contenedor de reciclaje. REDUCE, REUSE, RECYCLE = las 3 R del medio ambiente. 'Recyclable' = reciclable.",
+      "cardRef": { "category": "vocabulary", "front": "recycle" }
+    },
+    {
+      "front": "climate",
+      "back": "clima",
+      "reading": "/ˈklaɪmət/",
+      "explanation": "El clima de una región o del planeta. 'Climate change affects the entire planet.' Diferencia: CLIMATE (patrón climático a largo plazo de una región) vs WEATHER (condiciones meteorológicas del día). 'Climate crisis' = crisis climática.",
+      "cardRef": { "category": "vocabulary", "front": "climate" }
+    },
+    {
+      "front": "endangered",
+      "back": "en peligro de extinción",
+      "reading": "/ɪnˈdeɪndʒərd/",
+      "explanation": "'Many endangered species live in the rainforest.' ENDANGERED SPECIES = especie en peligro. El verbo: ENDANGER = poner en peligro. 'Human activities endanger wildlife.' Grados: vulnerable → endangered → critically endangered → extinct.",
+      "cardRef": { "category": "vocabulary", "front": "endangered" }
+    },
+    {
+      "front": "landscape",
+      "back": "paisaje",
+      "reading": "/ˈlændskeɪp/",
+      "explanation": "'The landscape in Patagonia is breathtaking.' También en pintura: a LANDSCAPE painting (pintura de paisaje). Como verbo: to LANDSCAPE a garden = diseñar/cuidar un jardín. Adjetivo relacionado: scenic (con paisajes hermosos).",
+      "cardRef": { "category": "vocabulary", "front": "landscape" }
+    },
+    {
+      "front": "renewable",
+      "back": "renovable",
+      "reading": "/rɪˈnuːəbəl/",
+      "explanation": "'Solar power is a renewable energy source.' RENEWABLE ENERGY = energía renovable (solar, wind, hydro). Opuesto: NON-RENEWABLE (coal, oil, gas). 'Renewable resources' = recursos renovables.",
+      "cardRef": { "category": "vocabulary", "front": "renewable" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El medio ambiente en crisis",
+      "instruction": "4 palabras sobre problemas ambientales. 'Drought' — cuidado, la 'gh' es muda. 'Pollution' es incontable.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Naturaleza y soluciones",
+      "instruction": "4 palabras más: CLIMATE (patrón a largo plazo, ≠ weather que es del día), endangered species, landscape, renewable energy.",
+      "itemIndices": [4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto de cada término ambiental.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "listen-identify",
+      "title": "Escuchá y elegí",
+      "instruction": "Escuchá y elegí la palabra correcta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Dónde se usa bien?",
+      "instruction": "Elegí la oración donde la palabra ambiental está usada correctamente.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "climate",
+            "translation": "clima (patrón a largo plazo)",
+            "options": [
+              "What's the climate like today? Should I bring an umbrella?",
+              "The climate in this region is very dry and hot throughout the year.",
+              "The climate yesterday was terrible — it rained all day.",
+              "I don't like the climate this morning, it's too cold."
+            ],
+            "correctIndex": 1,
+            "feedback": "'Climate' describe el patrón meteorológico a largo plazo de una región, no el tiempo de hoy. Para el tiempo actual usás 'weather': 'What's the weather like today?' Opción 2 habla de un patrón regional habitual — esto es climate."
+          },
+          {
+            "targetWord": "renewable",
+            "translation": "renovable",
+            "options": [
+              "Oil is a great renewable energy source that will last forever.",
+              "Solar and wind power are examples of renewable energy.",
+              "Coal is very renewable because there is so much of it.",
+              "Plastic is renewable because it can be recycled."
+            ],
+            "correctIndex": 1,
+            "feedback": "'Renewable energy' = energía de fuentes que se reponen naturalmente (solar, wind, hydro). El petróleo y el carbón son NO-renovables. Reciclar plástico no lo hace renovable — renewable es sobre la FUENTE de energía."
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Escribí la palabra de medio ambiente en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "8 palabras del medio ambiente: drought (sequía — 'gh' muda), flood (inundación), pollution (incontable — air/water pollution), recycle (reciclar — reduce, reuse, recycle), climate (patrón a largo plazo ≠ weather del día), endangered species (en peligro), landscape (paisaje), renewable energy (solar, wind, hydro ≠ coal/oil).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

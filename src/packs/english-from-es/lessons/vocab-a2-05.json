@@ -10,70 +10,72 @@
       "back": "contraseña",
       "reading": "/ˈpæswɜːrd/",
       "explanation": "Clave para acceder a una cuenta. 'Enter your password.' = Ingresá tu contraseña. Compuesto: pass (pasar) + word (palabra). Variante: 'passcode' (código numérico, como el del celular).",
-      "cardRef": { "category": "vocabulary", "front": "password" }
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "password"
+      }
     },
     {
       "front": "website",
       "back": "sitio web, página web",
       "reading": "/ˈwɛbsaɪt/",
-      "explanation": "Un sitio en internet. 'Visit our website for more info.' En español se usa mucho 'página web', pero en inglés 'page' es solo UNA página dentro del 'website' (sitio completo).",
-      "cardRef": { "category": "vocabulary", "front": "website" }
+      "explanation": "Un sitio en internet. 'Visit our website for more info.' En español se usa mucho 'página web', pero en inglés 'page' es solo UNA página dentro del 'website' (sitio completo)."
     },
     {
       "front": "download",
       "back": "descargar / descarga",
       "reading": "/ˈdaʊnloʊd/",
       "explanation": "Bajar un archivo de internet. 'Download the app from the store.' Puede ser verbo (to download) y sustantivo (a download). Opuesto: 'upload' (subir un archivo). Down = abajo, Up = arriba.",
-      "cardRef": { "category": "vocabulary", "front": "download" }
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "download"
+      }
     },
     {
       "front": "sign up",
       "back": "registrarse, crear una cuenta",
       "reading": "/saɪn ʌp/",
-      "explanation": "Crear una cuenta nueva. 'Sign up for free.' = Registrate gratis. Phrasal verb. No confundir con 'sign in' / 'log in' (iniciar sesión en una cuenta que ya tenés).",
-      "cardRef": { "category": "vocabulary", "front": "sign up" }
+      "explanation": "Crear una cuenta nueva. 'Sign up for free.' = Registrate gratis. Phrasal verb. No confundir con 'sign in' / 'log in' (iniciar sesión en una cuenta que ya tenés)."
     },
     {
       "front": "log in",
       "back": "iniciar sesión",
       "reading": "/lɒɡ ɪn/",
-      "explanation": "Entrar a tu cuenta existente. 'Log in with your email.' Sinónimo: 'sign in'. Opuesto: 'log out' / 'sign out' (cerrar sesión). Sustantivo: 'login' (una sola palabra, sin espacio).",
-      "cardRef": { "category": "vocabulary", "front": "log in" }
+      "explanation": "Entrar a tu cuenta existente. 'Log in with your email.' Sinónimo: 'sign in'. Opuesto: 'log out' / 'sign out' (cerrar sesión). Sustantivo: 'login' (una sola palabra, sin espacio)."
     },
     {
       "front": "update",
       "back": "actualizar / actualización",
       "reading": "/ʌpˈdeɪt/",
       "explanation": "Poner al día, instalar una versión nueva. 'Update your phone.' = Actualizá tu teléfono. Puede ser verbo y sustantivo: 'There's a new update available.' El acento cambia: verbo upDATE, sustantivo UPdate.",
-      "cardRef": { "category": "vocabulary", "front": "update" }
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "update"
+      }
     },
     {
       "front": "app",
       "back": "aplicación",
       "reading": "/æp/",
-      "explanation": "Abreviación de 'application'. 'Download the app.' Se usa universalmente en inglés. Forma completa 'application' se usa más en contextos formales o para aplicaciones de escritorio.",
-      "cardRef": { "category": "vocabulary", "front": "app" }
+      "explanation": "Abreviación de 'application'. 'Download the app.' Se usa universalmente en inglés. Forma completa 'application' se usa más en contextos formales o para aplicaciones de escritorio."
     },
     {
       "front": "search",
       "back": "buscar / búsqueda",
       "reading": "/sɜːrtʃ/",
-      "explanation": "Buscar información. 'Search for it on Google.' Verbo y sustantivo. 'Search engine' = motor de búsqueda. 'Search bar' = barra de búsqueda. Pronunciación: la 'ea' suena /ɜːr/ como en 'bird'.",
-      "cardRef": { "category": "vocabulary", "front": "search" }
+      "explanation": "Buscar información. 'Search for it on Google.' Verbo y sustantivo. 'Search engine' = motor de búsqueda. 'Search bar' = barra de búsqueda. Pronunciación: la 'ea' suena /ɜːr/ como en 'bird'."
     },
     {
       "front": "share",
       "back": "compartir",
       "reading": "/ʃɛr/",
-      "explanation": "Enviar contenido a otros. 'Share this post with your friends.' En redes sociales: 'share' = compartir (botón). También se usa fuera de tecnología: 'share a pizza' = compartir una pizza.",
-      "cardRef": { "category": "vocabulary", "front": "share" }
+      "explanation": "Enviar contenido a otros. 'Share this post with your friends.' En redes sociales: 'share' = compartir (botón). También se usa fuera de tecnología: 'share a pizza' = compartir una pizza."
     },
     {
       "front": "settings",
       "back": "ajustes, configuración",
       "reading": "/ˈsɛtɪŋz/",
-      "explanation": "Opciones de configuración. 'Go to settings to change your password.' Siempre en plural: 'settings' (no 'setting' para el menú). 'Setting' en singular significa 'entorno' o 'escenario': 'a beautiful setting'.",
-      "cardRef": { "category": "vocabulary", "front": "settings" }
+      "explanation": "Opciones de configuración. 'Go to settings to change your password.' Siempre en plural: 'settings' (no 'setting' para el menú). 'Setting' en singular significa 'entorno' o 'escenario': 'a beautiful setting'."
     }
   ],
   "steps": [
@@ -81,31 +83,76 @@
       "type": "introduce",
       "title": "Cuentas y acceso",
       "instruction": "Estas palabras las ves todos los días en apps y sitios web. Prestá atención a la diferencia entre 'sign up' (crear cuenta nueva) y 'log in' / 'sign in' (entrar a una cuenta existente). Muchas de estas palabras ya se usan en español cotidiano, pero la pronunciación inglesa es diferente.",
-      "itemIndices": [0, 1, 3, 4, 6]
+      "itemIndices": [
+        0,
+        1,
+        3,
+        4,
+        6
+      ]
     },
     {
       "type": "introduce",
       "title": "Acciones cotidianas en tecnología",
       "instruction": "Descargar, actualizar, buscar, compartir, configurar — acciones que hacés todos los días con tu teléfono. Notá que 'download' y 'update' pueden ser verbo y sustantivo. Y 'settings' siempre va en plural cuando hablás del menú de configuración.",
-      "itemIndices": [2, 5, 7, 8, 9]
+      "itemIndices": [
+        2,
+        5,
+        7,
+        8,
+        9
+      ]
     },
     {
       "type": "recognize",
       "title": "¿Qué significa?",
       "instruction": "Elegí el significado correcto de cada término tecnológico.",
-      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
     },
     {
       "type": "recall",
       "title": "¿Cómo se dice en inglés?",
       "instruction": "Ves la acción o concepto en español. Escribí la palabra o phrasal verb correcta en inglés.",
-      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
     },
     {
       "type": "summary",
       "title": "Lesson complete!",
       "instruction": "Aprendiste 10 términos tecnológicos esenciales. Recordá: 'sign up' = registrarse (cuenta nueva), 'log in' = iniciar sesión (cuenta existente). 'Download' = bajar, 'upload' = subir. 'Settings' siempre en plural para el menú de configuración. Muchas de estas palabras ya las usás en español — ahora sabés pronunciarlas correctamente.",
-      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
     }
   ]
 }

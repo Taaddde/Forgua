@@ -10,28 +10,28 @@
       "back": "este/esta/esto — Este es mi libro.",
       "reading": "/ðɪs/ — /ðɪs ɪz maɪ bʊk/",
       "explanation": "'This' se usa para algo CERCA de vos (en espacio o tiempo). Singular. 'This is my phone' (este es mi teléfono — lo tengo en la mano). En español tenés 'este/esta/esto', en inglés es siempre 'this' sin importar el género. No existe 'this' masculino vs femenino.",
-      "cardRef": { "category": "grammar", "front": "this (singular near)" }
+      "cardRef": {
+        "category": "grammar",
+        "front": "Demonstratives (this / that / these / those + noun)"
+      }
     },
     {
       "front": "that — That is your car.",
       "back": "ese/esa/eso / aquel/aquella/aquello — Ese es tu auto.",
       "reading": "/ðæt/ — /ðæt ɪz jʊr kɑːr/",
-      "explanation": "'That' se usa para algo LEJOS de vos. Singular. 'That building is tall' (ese edificio es alto — está allá). En español distinguimos 'ese' (distancia media) y 'aquel' (más lejos), pero en inglés ambos son 'that'. Una cosa menos que memorizar.",
-      "cardRef": { "category": "grammar", "front": "that (singular far)" }
+      "explanation": "'That' se usa para algo LEJOS de vos. Singular. 'That building is tall' (ese edificio es alto — está allá). En español distinguimos 'ese' (distancia media) y 'aquel' (más lejos), pero en inglés ambos son 'that'. Una cosa menos que memorizar."
     },
     {
       "front": "these — These are my keys.",
       "back": "estos/estas — Estas son mis llaves.",
       "reading": "/ðiːz/ — /ðiːz ɑːr maɪ kiːz/",
-      "explanation": "'These' es el plural de 'this': cosas CERCA y son varias. 'These shoes are new' (estos zapatos son nuevos — los tengo puestos). OJO con la pronunciación: 'this' /ðɪs/ tiene vocal corta, 'these' /ðiːz/ tiene vocal larga y termina en /z/.",
-      "cardRef": { "category": "grammar", "front": "these (plural near)" }
+      "explanation": "'These' es el plural de 'this': cosas CERCA y son varias. 'These shoes are new' (estos zapatos son nuevos — los tengo puestos). OJO con la pronunciación: 'this' /ðɪs/ tiene vocal corta, 'these' /ðiːz/ tiene vocal larga y termina en /z/."
     },
     {
       "front": "those — Those are expensive.",
       "back": "esos/esas / aquellos/aquellas — Esos son caros.",
       "reading": "/ðoʊz/ — /ðoʊz ɑːr ɪkˈspɛnsɪv/",
-      "explanation": "'Those' es el plural de 'that': cosas LEJOS y son varias. 'Those mountains are beautiful' (esas montañas son hermosas — están allá). Igual que con that/this, en español diferenciamos 'esos' y 'aquellos', pero en inglés todo es 'those'.",
-      "cardRef": { "category": "grammar", "front": "those (plural far)" }
+      "explanation": "'Those' es el plural de 'that': cosas LEJOS y son varias. 'Those mountains are beautiful' (esas montañas son hermosas — están allá). Igual que con that/this, en español diferenciamos 'esos' y 'aquellos', pero en inglés todo es 'those'."
     }
   ],
   "steps": [
@@ -39,31 +39,52 @@
       "type": "introduce",
       "title": "Cerca de vos: this y these",
       "instruction": "Los demostrativos en inglés dependen de DOS cosas: distancia (cerca o lejos) y número (singular o plural). Para cosas CERCA: 'this' (singular) y 'these' (plural). 'This is my phone' (tengo el teléfono en la mano). 'These are my keys' (las llaves están acá). A diferencia del español, NO cambian por género: 'this' sirve para 'este', 'esta' y 'esto'.",
-      "itemIndices": [0, 2]
+      "itemIndices": [
+        0,
+        2
+      ]
     },
     {
       "type": "introduce",
       "title": "Lejos de vos: that y those",
       "instruction": "Para cosas LEJOS: 'that' (singular) y 'those' (plural). 'That is your car' (el auto está allá). 'Those buildings are old' (los edificios están lejos). En español tenemos tres niveles de distancia (este/ese/aquel), pero en inglés solo hay dos: cerca (this/these) y lejos (that/those). Más simple.",
-      "itemIndices": [1, 3]
+      "itemIndices": [
+        1,
+        3
+      ]
     },
     {
       "type": "recognize",
       "title": "¿Cerca o lejos? ¿Uno o varios?",
       "instruction": "Elegí el demostrativo correcto según la distancia y el número.",
-      "itemIndices": [0, 1, 2, 3]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
     },
     {
       "type": "recall",
       "title": "Completá con el demostrativo",
       "instruction": "Ves la oración en español. Escribí el demostrativo correcto en inglés (this, that, these o those).",
-      "itemIndices": [0, 1, 2, 3]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
     },
     {
       "type": "summary",
       "title": "¡Lección completa!",
       "instruction": "Resumen: CERCA + singular = this. CERCA + plural = these. LEJOS + singular = that. LEJOS + plural = those. No cambian por género (no hay 'this' masculino o femenino). Y recordá: el español tiene 3 niveles (este/ese/aquel), el inglés solo 2 (this/that). Consejo: si podés tocarlo, usá 'this/these'. Si tenés que señalarlo, usá 'that/those'.",
-      "itemIndices": [0, 1, 2, 3]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
     }
   ]
 }

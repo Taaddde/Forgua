@@ -1,0 +1,165 @@
+{
+  "id": "conv-b1-03",
+  "title": "Conversation: Making a Complaint at a Hotel",
+  "description": "Cómo reclamar educadamente en un hotel cuando algo sale mal. Modales de cortesía, condicional y vocabulario de servicios.",
+  "level": "b1",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "I'm afraid there seems to be a problem with...",
+      "back": "Me temo que parece haber un problema con...",
+      "reading": "",
+      "explanation": "Frase para presentar una queja de forma educada. 'I'm afraid' + problema = cortés pero firme. Más educado que 'There IS a problem' que suena más agresivo."
+    },
+    {
+      "front": "Would it be possible to...?",
+      "back": "¿Sería posible...?",
+      "reading": "",
+      "explanation": "Una de las formas más educadas de pedir algo en inglés. 'Would it be possible to change my room?' Más cortés que 'Can you change my room?'"
+    },
+    {
+      "front": "I'd appreciate it if you could...",
+      "back": "Le agradecería que pudiera...",
+      "reading": "",
+      "explanation": "Expresión muy cortés para pedir algo. 'I'd appreciate it if you could sort this out quickly.' Se usa cuando el problema requiere acción del otro."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Frases para reclamar con educación",
+      "instruction": "En inglés, las quejas se hacen de forma educada pero firme. Estas expresiones son el estándar en situaciones de servicio al cliente. 'Would it be possible to...?' es más cortés que 'Can you...?'",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "conversation-script",
+      "title": "Making a Complaint at a Hotel",
+      "instruction": "Tu habitación de hotel tiene varios problemas. Reclamá de forma educada pero efectiva para que resuelvan el problema.",
+      "itemIndices": [],
+      "config": {
+        "script": {
+          "id": "conv-b1-hotel-complaint",
+          "scenario": "Llegaste a tu hotel y la habitación tiene problemas: el aire acondicionado no funciona y hay ruido de la habitación de al lado. Es tarde en la noche y hablás con el recepcionista.",
+          "level": "b1",
+          "tags": ["travel", "complaint", "services", "formal"],
+          "turns": [
+            {
+              "speaker": "npc",
+              "text": "Good evening! Welcome back. Is everything alright with your room?",
+              "translation": "¡Buenas noches! Bienvenido de vuelta. ¿Todo bien con su habitación?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "translation": "",
+              "options": [
+                {
+                  "text": "Actually, I'm afraid there are a couple of problems I'd like to sort out.",
+                  "isCorrect": true,
+                  "feedback": "Respuesta perfecta. 'I'm afraid there are problems' introduce la queja de forma educada. 'Sort out' = resolver, es natural en este contexto.",
+                  "translation": "De hecho, me temo que hay un par de problemas que me gustaría resolver."
+                },
+                {
+                  "text": "Your hotel is terrible! Everything is broken!",
+                  "isCorrect": false,
+                  "feedback": "Demasiado agresivo. Las quejas efectivas son firmes pero educadas. Una queja agresiva puede hacer que el personal sea menos cooperativo. Mantené la calma.",
+                  "translation": "¡Tu hotel es terrible! ¡Todo está roto!"
+                },
+                {
+                  "text": "Yes, everything is fine, thank you.",
+                  "isCorrect": false,
+                  "feedback": "Si hay problemas reales, es importante reportarlos. No decir nada no resuelve el problema y deberías tener una estadía cómoda.",
+                  "translation": "Sí, todo está bien, gracias."
+                }
+              ]
+            },
+            {
+              "speaker": "npc",
+              "text": "I'm sorry to hear that. What seems to be the issue?",
+              "translation": "Lamento escuchar eso. ¿Cuál parece ser el problema?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "translation": "",
+              "options": [
+                {
+                  "text": "First, the air conditioning doesn't seem to be working — it's very hot in the room. And second, there's quite a lot of noise coming from the room next door.",
+                  "isCorrect": true,
+                  "feedback": "Excelente. Presentás los problemas de forma organizada (First... Second...) y con lenguaje moderado ('doesn't seem to be working' — no 'is broken'; 'quite a lot of noise' — no 'is extremely loud'). Efectivo y educado.",
+                  "translation": "Primero, el aire acondicionado no parece estar funcionando — hace mucho calor en la habitación. Y segundo, hay bastante ruido viniendo de la habitación de al lado."
+                },
+                {
+                  "text": "The AC is broken and the people next door are making too much noise. I can't sleep.",
+                  "isCorrect": true,
+                  "feedback": "También válido y más directo. Claro y efectivo, aunque menos formal. En un hotel de categoría, la primera opción sería más apropiada.",
+                  "translation": "El AC está roto y la gente de al lado hace demasiado ruido. No puedo dormir."
+                }
+              ]
+            },
+            {
+              "speaker": "npc",
+              "text": "I sincerely apologize for the inconvenience. We'll send a technician to check the air conditioning right away. As for the noise, I'll call the other room immediately.",
+              "translation": "Me disculpo sinceramente por las molestias. Enviaremos un técnico a revisar el aire acondicionado de inmediato. En cuanto al ruido, llamaré a la otra habitación de inmediato."
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "translation": "",
+              "options": [
+                {
+                  "text": "I appreciate that. However, if the air conditioning can't be fixed tonight, would it be possible to move to a different room?",
+                  "isCorrect": true,
+                  "feedback": "Muy bien manejado. Agradecés la respuesta (I appreciate that) y luego hacés una propuesta alternativa razonable con 'would it be possible to...?' — educado pero assertivo.",
+                  "translation": "Se lo agradezco. Sin embargo, si el aire acondicionado no se puede arreglar esta noche, ¿sería posible cambiarme a una habitación diferente?"
+                },
+                {
+                  "text": "Fine. I'll wait.",
+                  "isCorrect": false,
+                  "feedback": "Respuesta válida pero pasiva. Es mejor pedir una solución alternativa en caso de que no puedan arreglar el AC de inmediato. No perdés nada preguntando.",
+                  "translation": "Bien. Esperaré."
+                },
+                {
+                  "text": "I want a refund for tonight!",
+                  "isCorrect": false,
+                  "feedback": "Pedir reembolso antes de que intenten resolver el problema es prematuro y puede crear conflicto innecesario. Primero dales la oportunidad de solucionar el problema.",
+                  "translation": "¡Quiero un reembolso por esta noche!"
+                }
+              ]
+            },
+            {
+              "speaker": "npc",
+              "text": "Of course, sir/ma'am. We do have a room available on the fifth floor with a working AC and it's away from the noise. Would you like us to move your bags?",
+              "translation": "Por supuesto, señor/señora. Tenemos una habitación disponible en el quinto piso con AC funcionando y alejada del ruido. ¿Le gustaría que movamos su equipaje?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "translation": "",
+              "options": [
+                {
+                  "text": "That would be wonderful, thank you. I'd really appreciate it.",
+                  "isCorrect": true,
+                  "feedback": "Respuesta perfecta. Aceptás la solución con gratitud. 'That would be wonderful' y 'I'd appreciate it' son expresiones muy naturales y educadas.",
+                  "translation": "Sería estupendo, gracias. Lo agradecería mucho."
+                },
+                {
+                  "text": "Yes please, that would be great. And I'd appreciate a small discount given the trouble.",
+                  "isCorrect": true,
+                  "feedback": "También válido y razonable. Pedir un descuento después de un inconveniente es aceptable si se hace educadamente. 'Given the trouble' justifica la petición sin sonar agresivo.",
+                  "translation": "Sí por favor, sería genial. Y le agradecería un pequeño descuento dado el inconveniente."
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Conversación completada!",
+      "instruction": "Completaste una queja en un hotel. Estrategia clave: educado pero firme. Frases útiles: 'I'm afraid there seems to be a problem', 'I appreciate that. However...', 'Would it be possible to...?', 'I'd appreciate it if you could...'. Vocabulario: sort out (resolver), inconvenience (inconveniente), right away (de inmediato), available (disponible). En inglés, las quejas efectivas son corteses pero específicas.",
+      "itemIndices": [0, 1, 2]
+    }
+  ]
+}

@@ -10,35 +10,34 @@
       "back": "Deberías ir al médico. / Deberías descansar más. / No deberías comer tanta azúcar.",
       "reading": "/juː ʃʊd siː ə ˈdɑːktər/ /juː ˈʃʊdənt iːt/",
       "explanation": "SHOULD = consejo, recomendación. No es una orden, es una sugerencia. 'You should rest' = 'Deberías descansar' (te lo recomiendo). Negativo: shouldn't. Estructura: sujeto + should + verbo base (sin 'to'). 'She should study' (NO 'She should to study'). Es igual para todas las personas — no cambia: I should, he should, they should.",
-      "cardRef": { "category": "grammar", "front": "should for advice" }
+      "cardRef": {
+        "category": "grammar",
+        "front": "Have to / Don't have to (Subject + have to/don't have to + base verb)"
+      }
     },
     {
       "front": "You must wear a seatbelt. / You must show your ID. / You mustn't smoke here.",
       "back": "Tenés que usar cinturón. / Tenés que mostrar tu documento. / No podés fumar acá.",
       "reading": "/juː mʌst wɛr ə ˈsiːtbɛlt/ /juː ˈmʌsənt smoʊk/",
-      "explanation": "MUST = obligación fuerte, a menudo una regla impuesta por quien habla o una ley. 'You must wear a seatbelt' = Es obligatorio, es la ley. MUSTN'T = prohibición. 'You mustn't smoke here' = Está PROHIBIDO fumar acá. Estructura: sujeto + must + verbo base. No cambia con la persona: I must, she must, they must. No tiene forma pasada — en pasado se usa 'had to'.",
-      "cardRef": { "category": "grammar", "front": "must and mustn't" }
+      "explanation": "MUST = obligación fuerte, a menudo una regla impuesta por quien habla o una ley. 'You must wear a seatbelt' = Es obligatorio, es la ley. MUSTN'T = prohibición. 'You mustn't smoke here' = Está PROHIBIDO fumar acá. Estructura: sujeto + must + verbo base. No cambia con la persona: I must, she must, they must. No tiene forma pasada — en pasado se usa 'had to'."
     },
     {
       "front": "I have to wake up early. / She has to work on Saturdays. / Do you have to wear a uniform?",
       "back": "Tengo que levantarme temprano. / Ella tiene que trabajar los sábados. / ¿Tenés que usar uniforme?",
       "reading": "/aɪ hæv tə weɪk ʌp ˈɜːrli/ /ʃiː hæz tə wɜːrk/",
-      "explanation": "HAVE TO = obligación externa (alguien o algo te obliga). 'I have to wake up early' = Mi trabajo me obliga. A diferencia de 'must', se conjuga: I/you/we/they have to, he/she/it HAS to. Preguntas con DO: 'Do you have to work?' (NO 'Have you to work?'). Negativo: 'don't/doesn't have to'. Tiene pasado: 'I had to wake up early yesterday.'",
-      "cardRef": { "category": "grammar", "front": "have to external obligation" }
+      "explanation": "HAVE TO = obligación externa (alguien o algo te obliga). 'I have to wake up early' = Mi trabajo me obliga. A diferencia de 'must', se conjuga: I/you/we/they have to, he/she/it HAS to. Preguntas con DO: 'Do you have to work?' (NO 'Have you to work?'). Negativo: 'don't/doesn't have to'. Tiene pasado: 'I had to wake up early yesterday.'"
     },
     {
       "front": "You don't have to come. (= It's not necessary.) ≠ You mustn't come. (= It's prohibited!)",
       "back": "No tenés que venir. (= No es necesario.) ≠ No podés/debés venir. (= ¡Está prohibido!)",
       "reading": "/juː doʊnt hæv tə kʌm/ vs. /juː ˈmʌsənt kʌm/",
-      "explanation": "TRAMPA ENORME para hispanohablantes: en español, 'No tenés que venir' puede significar AMBAS cosas (no es necesario O está prohibido). En inglés son DIFERENTES: 'You DON'T HAVE TO come' = no es necesario, pero podés si querés. 'You MUSTN'T come' = está PROHIBIDO, no vengas. Ejemplo: 'You don't have to wear a tie' (podés si querés) vs 'You mustn't wear jeans' (está prohibido). Esta diferencia causa malentendidos REALES.",
-      "cardRef": { "category": "grammar", "front": "don't have to vs mustn't" }
+      "explanation": "TRAMPA ENORME para hispanohablantes: en español, 'No tenés que venir' puede significar AMBAS cosas (no es necesario O está prohibido). En inglés son DIFERENTES: 'You DON'T HAVE TO come' = no es necesario, pero podés si querés. 'You MUSTN'T come' = está PROHIBIDO, no vengas. Ejemplo: 'You don't have to wear a tie' (podés si querés) vs 'You mustn't wear jeans' (está prohibido). Esta diferencia causa malentendidos REALES."
     },
     {
       "front": "Do I have to pay? / Does she have to work tomorrow? / What time do you have to leave?",
       "back": "¿Tengo que pagar? / ¿Ella tiene que trabajar mañana? / ¿A qué hora tenés que irte?",
       "reading": "/duː aɪ hæv tə peɪ/ /dʌz ʃiː hæv tə wɜːrk/",
-      "explanation": "Preguntas con 'have to': se usa DO/DOES como auxiliar, igual que en Present Simple. 'Do you have to work?' 'Does she have to study?' 'What do I have to bring?' En pasado: 'Did you have to pay?' Con 'must' y 'should', las preguntas NO usan 'do': 'Must I go?' 'Should I call?' — el modal se invierte directamente.",
-      "cardRef": { "category": "grammar", "front": "questions with have to" }
+      "explanation": "Preguntas con 'have to': se usa DO/DOES como auxiliar, igual que en Present Simple. 'Do you have to work?' 'Does she have to study?' 'What do I have to bring?' En pasado: 'Did you have to pay?' Con 'must' y 'should', las preguntas NO usan 'do': 'Must I go?' 'Should I call?' — el modal se invierte directamente."
     }
   ],
   "steps": [
@@ -46,37 +45,67 @@
       "type": "introduce",
       "title": "Should: consejo / Must: obligación fuerte",
       "instruction": "SHOULD es para dar consejos: 'You should rest' = Deberías descansar. MUST es para obligaciones fuertes o reglas: 'You must wear a seatbelt' = Tenés que usar cinturón (es la ley). MUSTN'T es prohibición: 'You mustn't smoke here' = Está PROHIBIDO. Ambos van seguidos de verbo base, sin 'to': 'should rest', 'must wear' (NO 'should to rest').",
-      "itemIndices": [0, 1]
+      "itemIndices": [
+        0,
+        1
+      ]
     },
     {
       "type": "introduce",
       "title": "Have to y la trampa de don't have to",
       "instruction": "HAVE TO es para obligaciones externas: 'I have to work' = mi jefe me obliga. Se conjuga (has to con he/she/it) y usa 'do' en preguntas ('Do you have to...?'). CUIDADO: 'don't have to' = no es necesario (podés hacerlo si querés). 'Mustn't' = está PROHIBIDO. En español ambos pueden ser 'no tenés que', pero en inglés la diferencia es ENORME.",
-      "itemIndices": [2, 3, 4]
+      "itemIndices": [
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "recognize",
       "title": "¿Should, must o have to?",
       "instruction": "Elegí el modal correcto para cada situación. Pensá: ¿es un consejo (should), una regla/prohibición (must/mustn't), o una obligación externa (have to)?",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "recall",
       "title": "Completá con el modal correcto",
       "instruction": "Ves una oración con un espacio. Escribí should, must, mustn't, have to, has to, don't have to o doesn't have to según el contexto.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "sentence-build",
       "title": "Armá oraciones con modales",
       "instruction": "Ordená las palabras para formar oraciones correctas con should, must o have to.",
-      "itemIndices": [0, 1, 2, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        4
+      ]
     },
     {
       "type": "summary",
       "title": "¡Lección completa!",
       "instruction": "Resumen: SHOULD = consejo ('You should rest'). MUST = obligación fuerte/regla ('You must wear a seatbelt'). MUSTN'T = prohibición ('You mustn't smoke'). HAVE TO = obligación externa ('I have to work'). La trampa: DON'T HAVE TO = no es necesario ≠ MUSTN'T = está prohibido. En español ambos pueden ser 'no tenés que', pero en inglés causan malentendidos si los confundís. Have to se conjuga (has to) y usa do/does en preguntas.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     }
   ]
 }

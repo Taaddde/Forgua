@@ -10,56 +10,72 @@
       "back": "hola",
       "reading": "/həˈloʊ/",
       "explanation": "El saludo más universal en inglés. Sirve para cualquier situación y momento del día.",
-      "cardRef": { "category": "vocabulary", "front": "hello" }
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "hello"
+      }
     },
     {
       "front": "goodbye",
       "back": "adiós",
       "reading": "/ɡʊdˈbaɪ/",
       "explanation": "Despedida estándar. Más informal: bye, bye-bye, see you.",
-      "cardRef": { "category": "vocabulary", "front": "goodbye" }
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "goodbye"
+      }
     },
     {
       "front": "good morning",
       "back": "buenos días",
       "reading": "/ɡʊd ˈmɔːrnɪŋ/",
       "explanation": "Se usa desde que amanece hasta el mediodía (~12 PM).",
-      "cardRef": { "category": "vocabulary", "front": "good morning" }
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "good morning"
+      }
     },
     {
       "front": "good afternoon",
       "back": "buenas tardes",
       "reading": "/ɡʊd ˌæftərˈnuːn/",
-      "explanation": "Se usa desde el mediodía (~12 PM) hasta las 5-6 PM.",
-      "cardRef": { "category": "vocabulary", "front": "good afternoon" }
+      "explanation": "Se usa desde el mediodía (~12 PM) hasta las 5-6 PM."
     },
     {
       "front": "good evening",
       "back": "buenas noches (saludo)",
       "reading": "/ɡʊd ˈiːvnɪŋ/",
-      "explanation": "Se usa al llegar o saludar después de las 5-6 PM. ¡Ojo! 'Good night' es para despedirse e irse a dormir, no para saludar.",
-      "cardRef": { "category": "vocabulary", "front": "good evening" }
+      "explanation": "Se usa al llegar o saludar después de las 5-6 PM. ¡Ojo! 'Good night' es para despedirse e irse a dormir, no para saludar."
     },
     {
       "front": "please",
       "back": "por favor",
       "reading": "/pliːz/",
       "explanation": "Muy importante en la cultura inglesa. Úsalo siempre que pidas algo: 'Water, please.'",
-      "cardRef": { "category": "vocabulary", "front": "please" }
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "please"
+      }
     },
     {
       "front": "thank you",
       "back": "gracias",
       "reading": "/θæŋk juː/",
       "explanation": "Gracias. Pronunciación: 'th' con la lengua entre los dientes (sonido /θ/ que no existe en español). Informal: thanks.",
-      "cardRef": { "category": "vocabulary", "front": "thank you" }
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "thank you"
+      }
     },
     {
       "front": "sorry",
       "back": "perdón / lo siento",
       "reading": "/ˈsɑːri/",
       "explanation": "Se usa para disculparse ('Sorry, I'm late') y también para pedir que repitan algo ('Sorry? / Sorry, can you repeat that?').",
-      "cardRef": { "category": "vocabulary", "front": "sorry" }
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "sorry"
+      }
     }
   ],
   "steps": [
@@ -67,31 +83,73 @@
       "type": "introduce",
       "title": "Tus primeras 8 palabras",
       "instruction": "Estas son las palabras más básicas del inglés. Escuchá cada una (tocá el ícono de audio), leé la pronunciación IPA y la explicación. Prestá atención al sonido 'th' en 'thank you' — ponés la lengua entre los dientes.",
-      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
     },
     {
       "type": "recognize",
       "title": "¿Qué significa?",
       "instruction": "Elegí el significado correcto de cada palabra o frase.",
-      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
     },
     {
       "type": "listen-identify",
       "title": "Escuchá y elegí",
       "instruction": "Escuchá la palabra y elegí cuál es.",
-      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
     },
     {
       "type": "recall",
       "title": "¿Cómo se dice?",
       "instruction": "Ves el significado en español. Escribí la palabra en inglés.",
-      "itemIndices": [0, 1, 5, 6, 7]
+      "itemIndices": [
+        0,
+        1,
+        5,
+        6,
+        7
+      ]
     },
     {
       "type": "summary",
       "title": "¡Lección completa!",
       "instruction": "Aprendiste 8 palabras esenciales: saludos, despedida y cortesía. Ahora van a aparecer en tus repasos diarios. Tip: 'good evening' es para SALUDAR de noche, 'good night' es para DESPEDIRSE.",
-      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
     }
   ]
 }

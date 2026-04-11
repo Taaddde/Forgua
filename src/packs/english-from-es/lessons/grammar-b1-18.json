@@ -1,0 +1,181 @@
+{
+  "id": "grammar-b1-18",
+  "title": "Future Continuous: will be doing",
+  "description": "Acciones en progreso en un momento futuro: 'This time tomorrow, I'll be flying to London'. También para preguntas educadas sobre planes.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Future Continuous (Subject + will be + verb-ing)",
+      "back": "Futuro continuo: will + be + verbo-ing. Acción en progreso en un momento específico del futuro.",
+      "reading": "/ˈfjuːtʃər kənˈtɪnjuəs/",
+      "explanation": "Forma: will + be + verbo con -ing (todas las personas: I will be, you will be, she will be). Usos principales: (1) acción que ESTARÁ EN PROGRESO en un momento futuro concreto ('at 8pm tomorrow, I'll be sleeping'); (2) preguntas educadas sobre planes ('Will you be using the car?'); (3) planes futuros como algo ya decidido/natural.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Future Continuous (Subject + will be + verb-ing)"
+      }
+    },
+    {
+      "front": "This time tomorrow, I'll be flying to London.",
+      "back": "Acción en progreso en un momento específico del futuro. 'This time tomorrow' = a esta misma hora mañana.",
+      "reading": "/ðɪs taɪm təˈmɒroʊ aɪl biː ˈflaɪɪŋ tə ˈlʌndən/",
+      "explanation": "El uso clásico: marcador temporal específico del futuro + will be + verbo-ing. Señales útiles: 'this time tomorrow', 'at 3pm on Friday', 'when you arrive', 'in an hour'. En español: 'estaré + gerundio'. Contraste con 'will fly' = subiré al avión (acción puntual)."
+    },
+    {
+      "front": "Will you be using the car tonight? I need it.",
+      "back": "Pregunta educada sobre planes. Suena menos demandante que 'Will you use the car?'.",
+      "reading": "/wɪl juː biː ˈjuːzɪŋ ðə kɑːr təˈnaɪt/",
+      "explanation": "'Will you be + verbo-ing?' es una forma muy educada de preguntar por los planes de alguien. No suena demandante ni como que estés pidiendo un favor — simplemente preguntás si la acción ya está en los planes. Muy útil en ofertas de trabajo, pedidos, reuniones."
+    },
+    {
+      "front": "Don't call me at 7 — I'll be having dinner with my family.",
+      "back": "Plan natural/rutina en un momento futuro específico. No es una promesa ni una decisión del momento.",
+      "reading": "/aɪl biː ˈhævɪŋ ˈdɪnər wɪð maɪ ˈfæmɪli/",
+      "explanation": "Cuando sabés que vas a estar haciendo algo naturalmente en un momento futuro (por rutina o plan ya establecido), 'will be + verbo-ing' es más natural que 'will + verbo'. Sugiere que el plan ya está en marcha mentalmente."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Futuro continuo: la forma",
+      "instruction": "Will + be + verbo con -ing (todas las personas). Se usa para acciones que estarán en progreso en un momento específico del futuro. En español: 'estaré + gerundio'.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Preguntas educadas y planes naturales",
+      "instruction": "'Will you be + -ing?' es una pregunta educada sobre planes. También usamos el futuro continuo para describir planes naturales o ya previstos ('I'll be having dinner at 7').",
+      "itemIndices": [2, 3]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con futuro continuo",
+      "instruction": "Elegí la forma correcta del futuro continuo. Atención a la estructura will + be + -ing.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "At 10am tomorrow, I {0} in a meeting with my boss.",
+            "blanks": [
+              { "answer": "will be sitting", "options": ["will be sitting", "will sit", "am sitting"] }
+            ]
+          },
+          {
+            "template": "Don't worry about the dog — the neighbours {0} after him while we {1} away.",
+            "blanks": [
+              { "answer": "will be looking", "options": ["will be looking", "will look", "look"] },
+              { "answer": "are", "options": ["are", "will be", "were"] }
+            ]
+          },
+          {
+            "template": "{0} you {1} the printer this afternoon? I need to print some documents.",
+            "blanks": [
+              { "answer": "Will", "options": ["Will", "Do", "Are"] },
+              { "answer": "be using", "options": ["be using", "use", "using"] }
+            ]
+          },
+          {
+            "template": "This time next year, we {0} on a beach in Thailand.",
+            "blanks": [
+              { "answer": "will be relaxing", "options": ["will be relaxing", "relax", "are relaxing"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "word-in-context",
+      "title": "Futuro continuo en contexto",
+      "instruction": "Elegí la oración donde el futuro continuo se usa de forma natural.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "will be working",
+            "translation": "estaré trabajando",
+            "options": [
+              "At 9am Monday, I will work from home.",
+              "At 9am Monday, I will be working from home.",
+              "At 9am Monday, I am working from home already.",
+              "At 9am Monday, I working from home."
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "Will you be using",
+            "translation": "¿vas a estar usando? (pregunta educada)",
+            "options": [
+              "Will you use the gym tonight? I want to join you.",
+              "Do you use the gym tonight? I want to join you.",
+              "Will you be using the gym tonight? I want to join you.",
+              "Are you using the gym tonight? I want to join you."
+            ],
+            "correctIndex": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Decidí si el futuro continuo está bien formado y bien usado.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "This time next week, I'll be lying on a beach in Italy.",
+            "isCorrect": true,
+            "explanation": "Correcto. Marcador temporal futuro específico ('this time next week') + will be + verbo-ing ('lying'). Describe perfectamente una acción en progreso en un momento futuro concreto.",
+            "errorType": "future-continuous"
+          },
+          {
+            "sentence": "Tomorrow at 8pm I will watching the football match.",
+            "isCorrect": false,
+            "correction": "Tomorrow at 8pm I will be watching the football match.",
+            "explanation": "INCORRECTO. Falta el 'be'. La estructura es will + BE + -ing, no 'will + -ing'. Sin el 'be' la oración es gramaticalmente agramatical.",
+            "errorType": "missing-be"
+          },
+          {
+            "sentence": "Don't phone me at 6 — I'll be have dinner.",
+            "isCorrect": false,
+            "correction": "Don't phone me at 6 — I'll be having dinner.",
+            "explanation": "INCORRECTO. Después de 'be' el verbo va en forma -ing: 'having', no 'have'. Estructura: will + be + verbo-ING.",
+            "errorType": "wrong-form"
+          },
+          {
+            "sentence": "Will you be attending the conference next Friday?",
+            "isCorrect": true,
+            "explanation": "Correcto. Uso clásico del futuro continuo como pregunta educada sobre planes ya previstos. Suena mucho menos demandante que 'Will you attend the conference?'.",
+            "errorType": "polite-question"
+          }
+        ]
+      }
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá oraciones en futuro continuo",
+      "instruction": "Ordená los fragmentos para formar oraciones con will be + -ing.",
+      "itemIndices": [1, 2],
+      "config": {
+        "sentences": [
+          {
+            "translation": "Mañana a esta hora estaré volando a Tokio.",
+            "fragments": ["This time tomorrow,", "I'll be", "flying", "to Tokyo."],
+            "correctOrder": [0, 1, 2, 3]
+          },
+          {
+            "translation": "¿Vas a estar trabajando el fin de semana?",
+            "fragments": ["Will you be", "working", "this", "weekend?"],
+            "correctOrder": [0, 1, 2, 3]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Future Continuous = will + be + verbo-ing. Tres usos: (1) acción en progreso en un momento futuro concreto ('this time tomorrow I'll be flying'); (2) pregunta educada sobre planes ('Will you be using...?'); (3) plan natural ya previsto. Traducción: 'estaré + gerundio'. NUNCA olvides el 'be' entre 'will' y el verbo-ing.",
+      "itemIndices": [0, 1, 2, 3]
+    }
+  ]
+}

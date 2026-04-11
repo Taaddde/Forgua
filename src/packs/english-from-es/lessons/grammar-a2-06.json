@@ -10,28 +10,28 @@
       "back": "Condicional cero: Si + presente, presente (verdades generales)",
       "reading": "",
       "explanation": "Para hechos que SIEMPRE son verdad. 'If you heat water to 100°C, it boils.' 'If you don't sleep, you feel tired.' Podés reemplazar 'if' por 'when' sin cambiar el significado: 'When you heat water, it boils.' En español es igual: 'Si calentás agua, hierve.'",
-      "cardRef": { "category": "grammar", "front": "Zero conditional: If + present simple, present simple" }
+      "cardRef": {
+        "category": "grammar",
+        "front": "First Conditional (If + present simple, will + base verb)"
+      }
     },
     {
       "front": "First conditional: If + present simple, will + infinitive",
       "back": "Primer condicional: Si + presente, will + infinitivo (posibilidad real)",
       "reading": "",
-      "explanation": "Para situaciones posibles/probables en el futuro. 'If it rains tomorrow, I'll take an umbrella.' 'If you study, you will pass the exam.' OJO: después de 'if' se usa PRESENTE, no futuro. 'If it rains' ✓ (NO 'if it will rain' ✗). En español: 'Si llueve, llevaré paraguas' — misma estructura.",
-      "cardRef": { "category": "grammar", "front": "First conditional: If + present simple, will + infinitive" }
+      "explanation": "Para situaciones posibles/probables en el futuro. 'If it rains tomorrow, I'll take an umbrella.' 'If you study, you will pass the exam.' OJO: después de 'if' se usa PRESENTE, no futuro. 'If it rains' ✓ (NO 'if it will rain' ✗). En español: 'Si llueve, llevaré paraguas' — misma estructura."
     },
     {
       "front": "If it rains, I'll stay home. ✓ / If it will rain... ✗ WRONG",
       "back": "Error común: después de 'if' NO se usa 'will'. Siempre presente simple.",
       "reading": "",
-      "explanation": "La trampa principal del first conditional: después de 'if' NUNCA va 'will'. 'If it rains, I'll stay home.' ✓ 'If it will rain, I'll stay home.' ✗ En español pasa lo mismo ('Si llueve' no 'Si lloverá'), así que esta regla debería ser intuitiva. El 'will' solo va en la parte del RESULTADO, no en la condición.",
-      "cardRef": { "category": "grammar", "front": "If it rains, I'll stay home. ✓ / If it will rain... ✗ WRONG" }
+      "explanation": "La trampa principal del first conditional: después de 'if' NUNCA va 'will'. 'If it rains, I'll stay home.' ✓ 'If it will rain, I'll stay home.' ✗ En español pasa lo mismo ('Si llueve' no 'Si lloverá'), así que esta regla debería ser intuitiva. El 'will' solo va en la parte del RESULTADO, no en la condición."
     },
     {
       "front": "Zero: If you mix blue and yellow, you get green. / First: If you study tonight, you'll pass tomorrow.",
       "back": "Cero: verdad universal (siempre pasa). Primero: situación específica futura (puede pasar o no).",
       "reading": "",
-      "explanation": "¿Cómo distinguir zero de first? Zero = SIEMPRE pasa (ley natural, hábito constante). First = PUEDE pasar en el futuro (depende de la condición). Zero: 'If I eat too much, I feel sick.' (siempre). First: 'If I eat too much tonight, I'll feel sick.' (esta noche en particular). Truco: ¿podés reemplazar 'if' por 'every time'? → Zero. ¿Es sobre una situación futura específica? → First.",
-      "cardRef": { "category": "grammar", "front": "Zero: If you mix blue and yellow, you get green. / First: If you study tonight, you'll pass tomorrow." }
+      "explanation": "¿Cómo distinguir zero de first? Zero = SIEMPRE pasa (ley natural, hábito constante). First = PUEDE pasar en el futuro (depende de la condición). Zero: 'If I eat too much, I feel sick.' (siempre). First: 'If I eat too much tonight, I'll feel sick.' (esta noche en particular). Truco: ¿podés reemplazar 'if' por 'every time'? → Zero. ¿Es sobre una situación futura específica? → First."
     }
   ],
   "steps": [
@@ -39,31 +39,51 @@
       "type": "introduce",
       "title": "Zero conditional: verdades universales",
       "instruction": "El zero conditional es el más fácil porque funciona igual que en español: presente + presente. Se usa para cosas que SIEMPRE son verdad: leyes de la naturaleza, hábitos constantes, instrucciones. 'If you press this button, the door opens.'",
-      "itemIndices": [0]
+      "itemIndices": [
+        0
+      ]
     },
     {
       "type": "introduce",
       "title": "First conditional: el futuro posible",
       "instruction": "El first conditional habla de situaciones futuras posibles. Estructura: If + presente, will + infinitivo. La trampa: después de 'if' se usa PRESENTE, nunca 'will'. Mirá la diferencia con el zero conditional.",
-      "itemIndices": [1, 2, 3]
+      "itemIndices": [
+        1,
+        2,
+        3
+      ]
     },
     {
       "type": "recognize",
       "title": "¿Zero o first conditional?",
       "instruction": "Decidí si cada oración es zero conditional (verdad general) o first conditional (posibilidad futura). Pista: ¿siempre pasa o es una situación específica?",
-      "itemIndices": [0, 1, 3]
+      "itemIndices": [
+        0,
+        1,
+        3
+      ]
     },
     {
       "type": "recall",
       "title": "Completá la oración condicional",
       "instruction": "Escribí la forma correcta del verbo. Recordá: después de 'if' siempre va presente simple, nunca 'will'.",
-      "itemIndices": [0, 1, 2, 3]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
     },
     {
       "type": "summary",
       "title": "¡Lección completa!",
       "instruction": "Resumen: ZERO conditional (If + present, present) = verdades universales, siempre pasa. FIRST conditional (If + present, will + infinitive) = posibilidades futuras reales. Regla de oro: NUNCA 'will' después de 'if'. Truco: ¿podés decir 'every time'? → Zero. ¿Es sobre el futuro? → First.",
-      "itemIndices": [0, 1, 2, 3]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
     }
   ]
 }

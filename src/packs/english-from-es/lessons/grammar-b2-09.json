@@ -1,0 +1,185 @@
+{
+  "id": "grammar-b2-09",
+  "title": "Future Perfect Continuous",
+  "description": "El futuro perfecto continuo se usa para destacar la duración de una acción que habrá estado en progreso hasta un punto en el futuro. Se forma con 'will have been + verbo-ing' y suele aparecer con 'for + duración'. No existe en español: se traduce como 'habré estado + gerundio'.",
+  "level": "b2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Future Perfect Continuous (Subject + will have been + verb-ing)",
+      "back": "Acción en progreso durante cierto tiempo hasta un punto futuro. Énfasis en la duración. Ej: 'By June, I will have been working here for ten years.'",
+      "reading": "/ˈfjuːtʃər ˈpɜːfɪkt kənˈtɪnjuəs/",
+      "explanation": "Se forma con 'will have been + verbo-ing'. Siempre va acompañado de un marcador de punto futuro ('by June', 'next month', 'by the time') y una expresión de duración ('for ten years', 'for three hours'). La diferencia clave con el futuro perfecto simple: el continuo enfatiza el proceso y la duración ('habré estado haciendo'), mientras que el simple enfatiza la completitud del resultado ('habré hecho'). Los stative verbs (know, believe, own, like) NO se usan en forma continua.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Future Perfect Continuous (Subject + will have been + verb-ing)"
+      }
+    },
+    {
+      "front": "By June, I will have been working here for ten years.",
+      "back": "Para junio, habré estado trabajando acá durante diez años.",
+      "reading": "/baɪ dʒuːn aɪ wɪl həv bɪn ˈwɜːkɪŋ hɪər fər tɛn jɪərz/",
+      "explanation": "'By June' marca el punto futuro de referencia. 'For ten years' indica la duración acumulada hasta ese punto. El énfasis no está en que el trabajo habrá terminado, sino en los diez años de proceso continuado. Equivale a decir: diez años trabajando, y seguirá así hasta junio."
+    },
+    {
+      "front": "Next month, they will have been living in this house for twenty years.",
+      "back": "El mes que viene, habrán estado viviendo en esta casa durante veinte años.",
+      "reading": "/nɛkst mʌnθ ðeɪ wɪl həv bɪn ˈlɪvɪŋ ɪn ðɪs haʊs fər ˈtwɛnti jɪərz/",
+      "explanation": "'Next month' funciona como el punto de referencia futuro equivalente a 'by next month'. Este ejemplo muestra que 'live' en este contexto se trata como verbo de actividad dinámica (vivir en un lugar concreto), no como stative verb, y por eso sí admite la forma continua."
+    },
+    {
+      "front": "By 5pm I will have written the report. vs. By 5pm I will have been writing the report for three hours.",
+      "back": "Simple = el informe estará terminado. Continuo = tres horas de trabajo en proceso.",
+      "reading": "/baɪ faɪv piː ɛm aɪ wɪl həv ˈrɪtən ðə rɪˈpɔːrt/",
+      "explanation": "Esta comparación muestra la diferencia de énfasis: el futuro perfecto simple ('will have written') resalta la completitud — el informe está listo. El futuro perfecto continuo ('will have been writing') resalta el esfuerzo y la duración — tres horas de proceso. Para destacar cantidad producida se usa el simple; para destacar tiempo invertido se usa el continuo."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Future Perfect Continuous: forma y uso",
+      "instruction": "Este tiempo se forma con 'will have been + verbo-ing'. Se usa para hablar de una acción que habrá estado en progreso durante cierto tiempo hasta un punto futuro. Siempre lleva un punto de referencia futuro ('by June') y una duración ('for ten years'). En español no existe: se traduce como 'habré estado + gerundio'.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Continuo vs. Simple: énfasis en duración vs. resultado",
+      "instruction": "'Will have written' = el trabajo estará terminado (resultado). 'Will have been writing' = enfatiza cuánto tiempo lleva el proceso. Usá el continuo cuando importa la duración, y el simple cuando importa el resultado o la cantidad producida.",
+      "itemIndices": [3]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá las oraciones",
+      "instruction": "Elegí las formas correctas para construir el futuro perfecto continuo. Prestá atención al orden de los auxiliares.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "By the time you arrive, I {0} {1} {2} for two hours.",
+            "blanks": [
+              { "answer": "will", "options": ["will", "would", "shall"] },
+              { "answer": "have been", "options": ["have been", "has been", "had been"] },
+              { "answer": "waiting", "options": ["waiting", "waited", "wait"] }
+            ]
+          },
+          {
+            "template": "Next year, she {0} {1} Spanish for five years.",
+            "blanks": [
+              { "answer": "will have been studying", "options": ["will have been studying", "will have studied", "will be studying"] },
+              { "answer": "for", "options": ["for", "since", "during"] }
+            ]
+          },
+          {
+            "template": "By the end of the month, the team {0} on this project {1} six months.",
+            "blanks": [
+              { "answer": "will have been working", "options": ["will have been working", "will work", "will have worked"] },
+              { "answer": "for", "options": ["for", "since", "from"] }
+            ]
+          },
+          {
+            "template": "By midnight, they {0} {1} for fourteen hours straight.",
+            "blanks": [
+              { "answer": "will have been", "options": ["will have been", "will be", "will have"] },
+              { "answer": "driving", "options": ["driving", "driven", "drive"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "word-in-context",
+      "title": "Future Perfect Continuous en contexto",
+      "instruction": "Elegí la oración donde el futuro perfecto continuo está usado correctamente.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "will have been working",
+            "translation": "habrá estado trabajando",
+            "options": [
+              "By next year, she will work here for a decade.",
+              "By next year, she will have been working here for a decade.",
+              "By next year, she will be working here for a decade.",
+              "By next year, she will have worked here since a decade."
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "will have been running",
+            "translation": "habrá estado corriendo",
+            "options": [
+              "When I cross the finish line, I will be running for three hours.",
+              "When I cross the finish line, I will have run for three hours.",
+              "When I cross the finish line, I will have been running for three hours.",
+              "When I cross the finish line, I will have been run for three hours."
+            ],
+            "correctIndex": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Analizá cada oración. Algunos errores son muy comunes entre hispanohablantes: auxiliares en el orden equivocado, 'for' vs 'since', o stative verbs en continuo.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "By March, I will be working here for five years.",
+            "isCorrect": false,
+            "correction": "By March, I will have been working here for five years.",
+            "explanation": "INCORRECTO. 'Will be working' es el futuro continuo simple — describe una acción en progreso en un momento futuro, pero no incluye la idea de duración acumulada hasta ese punto. Para expresar duración acumulada hasta un punto futuro se necesita 'will have been working'.",
+            "errorType": "tense-confusion"
+          },
+          {
+            "sentence": "By the time he retires, he will have been teaching for thirty years.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'By the time he retires' marca el punto futuro de referencia. 'Will have been teaching' expresa correctamente la duración acumulada hasta ese momento. 'For thirty years' especifica la duración.",
+            "errorType": "tense-form"
+          },
+          {
+            "sentence": "Next summer, they will have been knowing each other for ten years.",
+            "isCorrect": false,
+            "correction": "Next summer, they will have known each other for ten years.",
+            "explanation": "INCORRECTO. 'Know' es un stative verb — expresa estado mental, no actividad dinámica. Los stative verbs (know, believe, own, love, understand, like) nunca se usan en formas continuas. Hay que usar el futuro perfecto simple: 'will have known'.",
+            "errorType": "stative-verb"
+          },
+          {
+            "sentence": "By the end of the day, he will have been writing reports since eight in the morning.",
+            "isCorrect": false,
+            "correction": "By the end of the day, he will have been writing reports for ten hours. / He has been writing reports since eight in the morning.",
+            "explanation": "INCORRECTO. Con el futuro perfecto continuo se usa 'for + duración' (for ten hours), NO 'since + punto de inicio'. 'Since' se combina con el presente perfecto o el pasado perfecto, no con el futuro perfecto.",
+            "errorType": "for-vs-since"
+          }
+        ]
+      }
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá las oraciones",
+      "instruction": "Ordená los fragmentos para formar oraciones con el futuro perfecto continuo.",
+      "itemIndices": [0, 1],
+      "config": {
+        "sentences": [
+          {
+            "translation": "Para junio, habré estado trabajando acá durante diez años.",
+            "fragments": ["By June,", "I will have been", "working here", "for ten years."],
+            "correctOrder": [0, 1, 2, 3]
+          },
+          {
+            "translation": "El mes que viene, habrán estado viviendo en esta casa durante veinte años.",
+            "fragments": ["Next month,", "they will have been", "living in this house", "for twenty years."],
+            "correctOrder": [0, 1, 2, 3]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "El futuro perfecto continuo (will have been + verbo-ing) enfatiza la duración de una acción en progreso hasta un punto futuro. Siempre usá 'for + duración' (nunca 'since'). Diferencia clave: el continuo enfatiza el proceso ('habré estado trabajando tres horas'), el simple enfatiza el resultado ('habré terminado el trabajo'). Nunca uses stative verbs (know, own, believe) en continuo.",
+      "itemIndices": [0, 1, 2, 3]
+    }
+  ]
+}

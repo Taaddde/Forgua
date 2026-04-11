@@ -1,0 +1,226 @@
+{
+  "id": "grammar-b2-04",
+  "title": "Extended Passives: Modal, Perfect & Get",
+  "description": "La pasiva avanzada con modales, tiempos perfectos y la pasiva informal con 'get'. Esencial en inglés formal y periodístico.",
+  "level": "b2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Extended Passives (modal + be + past participle | have been + past participle | get + past participle)",
+      "back": "pasivas extendidas (con modales, perfectas, con 'get')",
+      "reading": "",
+      "explanation": "B2 extiende la voz pasiva más allá de 'is done / was done'. Pasiva con modal: 'should be addressed', 'can be done', 'must be completed'. Pasiva en perfect: 'has been sold', 'had been built'. Pasiva con 'get' (informal): 'got fired', 'get paid'. El inglés usa la pasiva mucho más que el español — en particular cuando el agente es desconocido, irrelevante o cuando se quiere dar objetividad (textos académicos, noticias).",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Extended Passives (modal + be + past participle | have been + past participle | get + past participle)"
+      }
+    },
+    {
+      "front": "Pasiva con modal: modal + be + past participle",
+      "back": "This should be done / It must be reported / Changes can be made",
+      "reading": "",
+      "explanation": "Para dar consejos, obligaciones o posibilidades en voz pasiva, usá: modal + be + participio pasado. 'This problem should be addressed' (esta estructura evita mencionar quién debe hacerlo). Muy frecuente en recomendaciones formales, instrucciones y políticas."
+    },
+    {
+      "front": "Pasiva con 'get' (informal)",
+      "back": "get + past participle (got fired, get paid, got hurt)",
+      "reading": "",
+      "explanation": "'Get + participio pasado' es la pasiva informal, especialmente para eventos inesperados o negativos: 'get fired' (ser despedido), 'get hurt' (lastimarse), 'get caught' (ser atrapado), 'get promoted' (ser ascendido). En escritura formal/académica, siempre preferís 'be': 'was dismissed' en vez de 'got fired'."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "La pasiva avanzada: más allá de 'is/was done'",
+      "instruction": "Ya sabés la pasiva básica (is done/was done). En B2, la pasiva se extiende a muchas más formas. La clave es la misma: BE + participio pasado, pero 'be' puede tomar cualquier forma modal o de tiempo perfecto.",
+      "itemIndices": [
+        0
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Pasiva con modal y pasiva con 'get'",
+      "instruction": "La pasiva con modal (should be done, can be fixed, must be submitted) es ideal para dar recomendaciones sin acusar a nadie. La pasiva con 'get' es más informal y se usa para eventos que le ocurren a alguien — generalmente inesperados: 'She got promoted', 'They got stuck in traffic', 'He got confused'.",
+      "itemIndices": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué tipo de pasiva es?",
+      "instruction": "Clasificá cada oración según el tipo de pasiva.",
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Transformá a la pasiva",
+      "instruction": "Ordená las palabras para formar oraciones en voz pasiva correctas.",
+      "itemIndices": [
+        0,
+        1
+      ],
+      "config": {
+        "sentences": [
+          {
+            "translation": "Los resultados deberían ser revisados antes de publicarse.",
+            "fragments": [
+              "The results",
+              "should be",
+              "reviewed",
+              "before publication."
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "translation": "El informe ha sido enviado a todos los departamentos.",
+            "fragments": [
+              "The report",
+              "has been sent",
+              "to all departments."
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con la forma pasiva correcta",
+      "instruction": "Elegí la pasiva adecuada según el contexto formal o informal.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "The contract {0} by the legal team before it is signed. Changes {1} without board approval.",
+            "blanks": [
+              {
+                "answer": "must be reviewed",
+                "options": [
+                  "must be reviewed",
+                  "must review",
+                  "must have reviewed",
+                  "must be reviewing"
+                ]
+              },
+              {
+                "answer": "cannot be made",
+                "options": [
+                  "cannot be made",
+                  "cannot make",
+                  "cannot be making",
+                  "cannot have made"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "She {0} for missing the deadline three times, but she {1} to a higher position last month anyway.",
+            "blanks": [
+              {
+                "answer": "got warned",
+                "options": [
+                  "got warned",
+                  "was warned",
+                  "has warned",
+                  "had warned"
+                ]
+              },
+              {
+                "answer": "was promoted",
+                "options": [
+                  "was promoted",
+                  "got promoted",
+                  "has been promoting",
+                  "had been promoted"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "The old factory {0} in 1890 and {1} into luxury apartments five years ago.",
+            "blanks": [
+              {
+                "answer": "was built",
+                "options": [
+                  "was built",
+                  "had built",
+                  "got built",
+                  "has been building"
+                ]
+              },
+              {
+                "answer": "was converted",
+                "options": [
+                  "was converted",
+                  "got converted",
+                  "has converted",
+                  "had been converting"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Identificá errores en el uso de la voz pasiva.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "The results were analyzed by the team, and a report has been submitted to management.",
+            "isCorrect": true,
+            "explanation": "Correcta. Dos formas pasivas: past simple ('were analyzed') para el análisis ya terminado, y present perfect ('has been submitted') para la acción reciente con relevancia presente. Combinación natural en un informe.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "This issue should addressed immediately by the director.",
+            "isCorrect": false,
+            "correction": "This issue should be addressed immediately by the director.",
+            "explanation": "La pasiva con modal requiere: modal + BE + participio pasado. No se puede omitir 'be'. 'Should addressed' es incorrecto; la forma completa es 'should BE addressed'.",
+            "errorType": "grammar"
+          },
+          {
+            "sentence": "He got fired from his position due to repeated violations of company policy.",
+            "isCorrect": true,
+            "explanation": "Correcta en contexto informal/conversacional. 'Get fired' es la forma coloquial y natural para hablar de despidos. En un documento oficial se diría 'was dismissed', pero en conversación 'got fired' es completamente aceptable.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "The annual report had been published before the scandal become public.",
+            "isCorrect": false,
+            "correction": "The annual report had been published before the scandal became public.",
+            "explanation": "El verbo 'become' es irregular. El past simple es 'became', no 'become'. La pasiva 'had been published' está correcta — el error es en la cláusula temporal.",
+            "errorType": "irregular-verb"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Pasivas extendidas: Modal passive = modal + BE + pp ('should be done'). Perfect passive = have/has/had been + pp ('has been sent'). Get passive (informal) = get + pp ('got fired/promoted/caught'). Regla de registro: en inglés formal y académico, siempre BE. 'Get' es para conversación y narración informal. En español, la pasiva es menos frecuente — en inglés se usa constantemente, especialmente en textos formales donde no quieres mencionar el agente.",
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
+    }
+  ]
+}

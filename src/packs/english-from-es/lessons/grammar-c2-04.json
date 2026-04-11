@@ -1,0 +1,132 @@
+{
+  "id": "grammar-c2-04",
+  "title": "Idiomatic Conditionals and Fixed Expressions",
+  "description": "Condicionales que rompen las reglas: 'But for', 'Come what may', 'Be that as it may', 'What with...and...'. Fósiles gramaticales del inglés C2.",
+  "level": "c2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Idiomatic Conditionals and Fixed Expressions (If worst comes to worst | Come what may | Be that as it may | What with...and... | But for + noun (= if it weren't for))",
+      "back": "Condicionales idiomáticos y expresiones fijas que rompen las reglas gramaticales normales",
+      "reading": "",
+      "explanation": "Estas expresiones son fósiles gramaticales — restos de etapas anteriores del inglés que sobreviven como bloques fijos. (1) 'But for' + sustantivo = 'if it weren't for' / 'de no ser por': 'But for your help, I would have failed'. (2) 'Come what may' = 'pase lo que pase' (subjuntivo invertido). (3) 'Be that as it may' = 'sea como sea' (concesión formal). (4) 'What with X and Y' = causas acumulativas: 'What with the rain and the traffic, we arrived late'. (5) 'If worst comes to worst' = 'en el peor de los casos'. NO son composicionales: el significado no se deriva de las partes. Se aprenden como unidades.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Idiomatic Conditionals and Fixed Expressions (If worst comes to worst | Come what may | Be that as it may | What with...and... | But for + noun (= if it weren't for))"
+      }
+    },
+    {
+      "front": "But for = if it weren't for",
+      "back": "But for the scholarship, she would never have attended university.",
+      "explanation": "'But for' + frase nominal introduce una condición hipotética negativa: sin esa cosa, el resultado habría sido diferente. Equivale a 'if it weren't for' o 'if it hadn't been for'. Muy formal y literario. La cláusula principal suele usar 'would have' o 'would' + infinitivo. Nunca se puede modificar: no existe 'but for that' con demostrativos dislocados."
+    },
+    {
+      "front": "What with... and...",
+      "back": "What with the kids being sick and the car breaking down, it was a terrible week.",
+      "explanation": "'What with X and Y' introduce una acumulación de causas que explican el resultado. Informal conversacional, muy británico. Se combina con gerundios ('being sick', 'breaking down') o frases nominales ('the rain', 'the noise'). Implica que son muchas cosas juntas — hay un aire de queja resignada."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Fósiles gramaticales del inglés",
+      "instruction": "Estas expresiones son restos del inglés antiguo que sobreviven como bloques fijos. No siguen reglas normales — se aprenden enteras. Dominar estas expresiones es marca inequívoca del C2.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto de cada expresión fija.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Dónde se usa bien?",
+      "instruction": "Elegí la oración donde la expresión idiomática está usada correctamente.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "But for",
+            "translation": "de no ser por (= if it weren't for)",
+            "options": [
+              "But for I was tired, I would have stayed longer.",
+              "But for the timely intervention of the paramedics, he would not have survived.",
+              "But for to study hard, she passed the exam.",
+              "But for going to the party, I will stay home."
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "Come what may",
+            "translation": "pase lo que pase",
+            "options": [
+              "Come what may tomorrow, I don't know the plans.",
+              "I will come what may to the meeting.",
+              "Come what may, we must stand by our principles.",
+              "She comes what may every morning at eight."
+            ],
+            "correctIndex": 2
+          },
+          {
+            "targetWord": "Be that as it may",
+            "translation": "sea como sea (concesión formal)",
+            "options": [
+              "Be that as it may, we still need to find a practical solution.",
+              "He wants to be that as it may a doctor one day.",
+              "I be that as it may tired after the long flight.",
+              "She will be that as it may at the conference tomorrow."
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "What with",
+            "translation": "entre que / con todo lo de (causas acumulativas)",
+            "options": [
+              "What with do you want for dinner tonight?",
+              "What with the rising costs and the supply chain issues, the project is significantly delayed.",
+              "She went what with her friends to the cinema.",
+              "I don't know what with to say about the situation."
+            ],
+            "correctIndex": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "Identificá los errores",
+      "instruction": "Estas expresiones son fijas y no admiten modificación. ¿Cuáles son correctas?",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "But for the fact that it was raining heavily, we would have gone to the park.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'But for the fact that' + cláusula es una expansión válida de 'but for'. Introduce una condición hipotética negativa de manera más explícita que 'but for' + sustantivo simple.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "If worst will come to worst, we will sell the house.",
+            "isCorrect": false,
+            "correction": "If worst comes to worst, we will sell the house.",
+            "explanation": "'If worst comes to worst' es una expresión fija que usa presente simple en ambas cláusulas de la frase idiomática. No se puede agregar 'will' a la cláusula 'if'. La cláusula principal sí puede usar futuro.",
+            "errorType": "fixed-expression-modification"
+          },
+          {
+            "sentence": "Suffice it to say that the experiment did not yield the expected results.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Suffice it to say' es otra expresión formulaica con subjuntivo invertido ('suffice' sin -s, antes del objeto). Se usa para introducir una síntesis breve de algo complejo sin entrar en detalles, típicamente con connotaciones de diplomacia o pudor.",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completada!",
+      "instruction": "EXPRESIONES FIJAS C2: 'But for X' (= if not for X), 'Come what may' (pase lo que pase), 'Be that as it may' (sea como sea), 'What with X and Y' (entre X e Y), 'If worst comes to worst' (en el peor caso), 'Suffice it to say' (basta decir). Son BLOQUES FIJOS — no se modifican. Aprenderlas enteras.",
+      "itemIndices": [0, 1, 2]
+    }
+  ]
+}

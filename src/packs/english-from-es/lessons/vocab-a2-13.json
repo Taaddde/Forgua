@@ -1,0 +1,240 @@
+{
+  "id": "vocab-a2-13",
+  "title": "Work & Career",
+  "description": "Vocabulario esencial del mundo laboral: job, boss, project, promotion, company, schedule, más 'several' y 'available' para hablar de recursos y disponibilidad.",
+  "level": "a2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "job",
+      "back": "trabajo",
+      "reading": "/dʒɑːb/",
+      "explanation": "¡Ojo con la diferencia job vs. work! 'Job' es CONTABLE = un puesto específico ('I have a new job'). 'Work' es INCONTABLE = el concepto o la actividad ('I have a lot of work'). 'What's your job?' = ¿A qué te dedicás? NO 'What's your work?'. Pronunciación: /dʒɑːb/, con 'j' suave inglesa.",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "job"
+      }
+    },
+    {
+      "front": "boss",
+      "back": "jefe",
+      "reading": "/bɑːs/",
+      "explanation": "Tu supervisor directo. Informal: 'my boss'. Más formal: 'my manager' o 'my supervisor'. '-s' final simple en singular, doble 'ss'. Femenino/masculino igual. Plural: bosses.",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "boss"
+      }
+    },
+    {
+      "front": "project",
+      "back": "proyecto",
+      "reading": "/ˈprɑːdʒɛkt/",
+      "explanation": "Cognado fácil pero CUIDADO con la pronunciación: sustantivo /ˈprɑːdʒɛkt/ (acento primera sílaba), verbo 'to project' /prəˈdʒɛkt/ (acento segunda sílaba). Es una regla común con sustantivo/verbo. 'I'm working on a new project' (estoy con un nuevo proyecto). NO digas /pro-yec-to/.",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "project"
+      }
+    },
+    {
+      "front": "promotion",
+      "back": "ascenso",
+      "reading": "/prəˈmoʊʃən/",
+      "explanation": "(1) Ascenso laboral: 'She got a promotion'. (2) Promoción/oferta comercial: 'a summer promotion'. Verbo: 'to promote' = ascender o promocionar. Ojo: no confundir con el español 'promoción' de egresados (eso es 'graduating class').",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "promotion"
+      }
+    },
+    {
+      "front": "company",
+      "back": "empresa",
+      "reading": "/ˈkʌmpəni/",
+      "explanation": "(1) Empresa: 'I work for a big company'. Preposición: 'work FOR a company' (no 'work IN' para la empresa, aunque sí 'work IN a department'). (2) Compañía/acompañamiento: 'I enjoy your company'. Plural: companies. Pronunciación /ˈkʌmpəni/, NO /kom-pa-ñí-a/.",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "company"
+      }
+    },
+    {
+      "front": "schedule",
+      "back": "horario",
+      "reading": "/ˈskɛdʒuːl/",
+      "explanation": "¡Pronunciación distinta en US y UK! Americano: /ˈskɛdʒuːl/ (ské-dyul). Británico: /ˈʃɛdjuːl/ (shé-dyul). Ambos son correctos. Sustantivo Y verbo: 'a busy schedule' (un horario ocupado), 'to schedule a meeting' (agendar una reunión). 'On schedule' = a tiempo, 'behind schedule' = atrasado.",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "schedule"
+      }
+    },
+    {
+      "front": "several",
+      "back": "varios",
+      "reading": "/ˈsɛvərəl/",
+      "explanation": "Cantidad indefinida, generalmente más que 'a few' (unos pocos) pero menos que 'many' (muchos). Aproximadamente 3-7. Siempre con sustantivos PLURALES contables: 'several people', 'several problems'. NUNCA con incontables (no se dice 'several water'). No confundir con 'severe' (severo, grave).",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "several"
+      }
+    },
+    {
+      "front": "available",
+      "back": "disponible",
+      "reading": "/əˈveɪləbəl/",
+      "explanation": "Adjetivo muy útil en contexto laboral: 'Are you available on Monday?' (¿Tenés disponibilidad el lunes?). También: 'The product is not available' (no está disponible). Sustantivo: availability. Pronunciación: /əˈveɪləbəl/, acento en 'vei'.",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "available"
+      }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "En la oficina",
+      "instruction": "Vocabulario básico del trabajo. La clave más importante: 'job' es un puesto concreto (contable), 'work' es el concepto o la actividad (incontable). 'I have a job in a big company' = tengo un trabajo en una gran empresa.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "Horarios, varios y disponibilidad",
+      "instruction": "Palabras para coordinar: 'schedule' (horario, con pronunciación US/UK diferente), 'several' (varios, siempre con plurales contables) y 'available' (disponible).",
+      "itemIndices": [5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá las oraciones",
+      "instruction": "Elegí la palabra correcta para cada espacio según el contexto laboral.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "I work {0} a multinational {1} in the marketing department.",
+            "blanks": [
+              {
+                "answer": "for",
+                "options": ["for", "in", "at", "by"]
+              },
+              {
+                "answer": "company",
+                "options": ["company", "job", "project", "schedule"]
+              }
+            ]
+          },
+          {
+            "template": "My {0} asked me to finish the {1} before Friday.",
+            "blanks": [
+              {
+                "answer": "boss",
+                "options": ["boss", "company", "schedule", "promotion"]
+              },
+              {
+                "answer": "project",
+                "options": ["project", "job", "boss", "tourist"]
+              }
+            ]
+          },
+          {
+            "template": "Are you {0} next week? I'd like to {1} a meeting with you.",
+            "blanks": [
+              {
+                "answer": "available",
+                "options": ["available", "several", "common", "recent"]
+              },
+              {
+                "answer": "schedule",
+                "options": ["schedule", "agree", "suggest", "decide"]
+              }
+            ]
+          },
+          {
+            "template": "After working hard for two years, she finally got a {0}.",
+            "blanks": [
+              {
+                "answer": "promotion",
+                "options": ["promotion", "schedule", "delay", "boss"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Dónde se usa bien?",
+      "instruction": "Elegí la oración correcta según el significado y uso laboral.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "job",
+            "translation": "trabajo (puesto)",
+            "options": [
+              "I found a new job at a tech company last month.",
+              "I have a lot of job to do before the weekend.",
+              "What's your job like? I mean, how much job do you have?",
+              "She does too much job every day."
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "several",
+            "translation": "varios",
+            "options": [
+              "I have several friends who work in that company.",
+              "I drank several water during the meeting.",
+              "The several problem is that we have no budget.",
+              "She is several years old today."
+            ],
+            "correctIndex": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Encontrá los errores comunes del hispanohablante en contexto laboral.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "I work in Google as a software engineer.",
+            "isCorrect": false,
+            "correction": "I work at Google / I work for Google as a software engineer.",
+            "explanation": "Con nombres de empresas se usa 'AT' (lugar físico/organización) o 'FOR' (relación laboral), nunca 'IN'. 'I work IN finance' sí es correcto cuando hablás de un área, pero no con el nombre de la empresa.",
+            "errorType": "preposition"
+          },
+          {
+            "sentence": "My boss gave me several important projects this month.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Several' con plural contable ('projects') es el uso perfecto. 'My boss' en lugar del genitivo sajón es válido para un referente conocido.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "She is not available tomorrow because she has several meetings.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Available' para disponibilidad personal, 'several meetings' (plural contable). Uso laboral impecable.",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice en inglés?",
+      "instruction": "Ves la palabra en español. Escribí la traducción en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste 8 palabras del mundo laboral. Claves: (1) JOB (contable, puesto) vs. WORK (incontable, actividad). (2) 'Work FOR/AT a company', nunca 'work IN [nombre empresa]'. (3) 'Schedule' se pronuncia distinto en US /skɛdʒuːl/ y UK /ʃɛdjuːl/. (4) 'Several' solo con plurales contables. (5) 'Available' = disponible, muy útil para coordinar agendas. Ya podés hablar de trabajo en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

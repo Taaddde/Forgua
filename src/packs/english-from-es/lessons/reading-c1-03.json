@@ -1,0 +1,116 @@
+{
+  "id": "reading-c1-03",
+  "title": "Reading: The Economics of Inequality",
+  "description": "El debate sobre la desigualdad económica: Piketty, r>g, Wilkinson y Pickett, y las implicaciones políticas. Comprensión de argumento económico complejo.",
+  "level": "c1",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "r > g (Piketty's formula)",
+      "back": "rate of return on capital (r) consistently exceeds rate of economic growth (g) — driving wealth concentration",
+      "reading": "",
+      "explanation": "Thomas Piketty's central formula from 'Capital in the Twenty-First Century'. When capital returns faster than the economy grows, those who own capital accumulate wealth faster than those who earn wages. The natural tendency of capitalism is thus toward greater concentration — not equilibrium."
+    },
+    {
+      "front": "social pathologies (inequality-related)",
+      "back": "social problems correlated with high inequality: lower life expectancy, higher crime, less social mobility, mental illness",
+      "reading": "",
+      "explanation": "Wilkinson and Pickett's argument in 'The Spirit Level': inequality doesn't just harm the poor — it damages the entire social fabric through status anxiety, erosion of trust, and reduced social cohesion. Even wealthy people in highly unequal societies have worse outcomes than those in more equal ones."
+    },
+    {
+      "front": "capital flight",
+      "back": "when wealth moves to jurisdictions with lower taxes to avoid taxation — a risk of wealth taxes",
+      "reading": "",
+      "explanation": "A key counterargument to wealth taxes: if you tax wealth heavily, the wealthy simply move their assets abroad. This is a real phenomenon but the text notes that Nordic countries show the trade-offs may be less severe than critics claim — high taxes + strong economies can coexist."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Economía e igualdad — conceptos clave",
+      "instruction": "Esta lectura presenta argumentos económicos reales. No necesitás ser economista para entenderla — pero sí necesitás seguir la lógica de los argumentos y contraargumentos. Prestá atención a cómo el texto presenta distintas perspectivas.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "The Economics of Inequality — Comprensión",
+      "instruction": "Leé y respondé. Notá que algunas preguntas preguntan sobre el argumento del texto, otras sobre la evidencia citada, y una sobre las implicaciones.",
+      "itemIndices": [],
+      "config": {
+        "passage": {
+          "id": "c1-reading-economics-inequality",
+          "title": "The Economics of Inequality",
+          "level": "c1",
+          "text": "The debate over economic inequality has intensified considerably since the 2008 financial crisis, fueled in part by Thomas Piketty's landmark 2013 work 'Capital in the Twenty-First Century,' which demonstrated through meticulous historical analysis that returns on capital consistently outpace economic growth — a dynamic he expressed through the now-famous inequality r > g. Piketty's central thesis was both elegant and alarming: when the rate of return on wealth exceeds the rate of economic growth, those who already possess capital accumulate it at an accelerating rate, while those who depend on labor income fall progressively further behind. The natural tendency of capitalism, he argued, is not toward equilibrium but toward ever-greater concentration of wealth.\n\nThe empirical evidence supporting the widening of inequality is substantial. According to data compiled by the World Inequality Lab, the richest one percent of the global population captured approximately 38 percent of all new wealth generated between 1995 and 2021, while the bottom fifty percent captured just two percent. In the United States, the gap is particularly stark: CEO compensation at major corporations has risen from roughly 20 times the median worker's salary in 1965 to over 350 times by 2020.\n\nHowever, the interpretation of these figures — and the policy prescriptions that follow — remain fiercely contested. Economists on the political right argue that inequality per se is not necessarily problematic, provided that absolute living standards are rising for everyone. They point to the dramatic reduction in extreme global poverty over the past three decades, from approximately 36 percent of the world's population in 1990 to under 10 percent by 2019, as evidence that market-driven growth lifts all boats, even if some boats rise faster than others.\n\nCritics of this view contend that it fundamentally misunderstands the nature of inequality's harms. Research by epidemiologists Richard Wilkinson and Kate Pickett, presented in their influential book 'The Spirit Level,' has demonstrated robust correlations between high levels of income inequality and a range of social pathologies, including lower life expectancy, higher rates of mental illness, greater incidence of violent crime, and reduced social mobility. Their argument is that inequality damages the social fabric itself, creating status anxiety, eroding trust between citizens, and undermining the democratic institutions that depend on a sense of shared investment in the common good.\n\nThe policy landscape is correspondingly complex. Progressive taxation, wealth taxes, universal basic income, strengthened labor protections, and investment in public education and healthcare have all been proposed as mechanisms for reducing inequality. Each comes with trade-offs that economists continue to debate: wealth taxes, for instance, can incentivize capital flight; overly generous welfare states may, according to some models, reduce labor force participation. Yet the evidence from Nordic countries — which combine high taxes, robust social safety nets, and strong economic performance — suggests that these trade-offs are not as severe as their critics claim.\n\nWhat is increasingly clear is that the question of inequality cannot be reduced to purely economic terms. It is fundamentally a question about the kind of society we wish to inhabit: one that tolerates vast disparities in wealth and opportunity in the name of individual liberty, or one that accepts certain constraints on individual accumulation in pursuit of a more cohesive and equitable social order. The answer to that question will shape the trajectory of democratic governance for decades to come.",
+          "vocabulary": ["inequality - desigualdad", "meticulous - meticuloso", "accumulate - acumular", "empirical - empírico", "compensation - compensación", "contested - disputado", "pathologies - patologías", "eroding - erosionando", "progressive taxation - tributación progresiva", "capital flight - fuga de capitales", "disparities - disparidades", "equitable - equitativo"],
+          "questions": [
+            {
+              "question": "What does Piketty's formula 'r > g' represent?",
+              "options": ["Revenue is greater than government spending.", "The rate of return on capital consistently exceeds the rate of economic growth.", "Rich countries grow faster than poor countries.", "Regulation is more important than growth."],
+              "correctIndex": 1,
+              "explanation": "The text explains r > g: 'returns on capital consistently outpace economic growth.' When r (return on capital) > g (growth), capital owners accumulate wealth faster than the economy grows — increasing inequality."
+            },
+            {
+              "question": "What do Wilkinson and Pickett argue about inequality's effects?",
+              "options": ["Inequality only affects the poorest members of society.", "Inequality is a natural and harmless feature of capitalism.", "High inequality correlates with social pathologies like lower life expectancy, mental illness, and crime.", "Inequality has no measurable impact on social outcomes."],
+              "correctIndex": 2,
+              "explanation": "Their research 'demonstrated robust correlations between high levels of income inequality and a range of social pathologies, including lower life expectancy, higher rates of mental illness, greater incidence of violent crime, and reduced social mobility.'"
+            },
+            {
+              "question": "What evidence does the text cite to counter the argument that wealth taxes have severe economic trade-offs?",
+              "options": ["The success of tax-free zones in developing countries.", "The performance of Nordic countries that combine high taxes with strong economies.", "Historical data showing wealth taxes always increase GDP.", "The failure of capital flight prevention in Southern Europe."],
+              "correctIndex": 1,
+              "explanation": "'The evidence from Nordic countries — which combine high taxes, robust social safety nets, and strong economic performance — suggests that these trade-offs are not as severe as their critics claim.'"
+            },
+            {
+              "question": "What does the author suggest in the final paragraph about the nature of the inequality debate?",
+              "options": ["It is purely a technical economic question that experts should resolve.", "It is a value-based question about what kind of society we want — framed as a choice between individual liberty and social cohesion.", "It is an unsolvable problem that will continue indefinitely.", "It is a problem unique to capitalist societies and would disappear under socialism."],
+              "correctIndex": 1,
+              "explanation": "The author explicitly frames it as: 'one that tolerates vast disparities... in the name of individual liberty, or one that accepts certain constraints... in pursuit of a more cohesive and equitable social order.' This is a normative/values question, not a purely technical one."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "word-in-context",
+      "title": "Vocabulario económico en contexto",
+      "instruction": "Elegí el uso correcto de términos del texto.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "meticulous",
+            "translation": "meticuloso / minucioso",
+            "options": [
+              "His meticulous analysis of 200 years of tax data provided the empirical foundation for his argument.",
+              "She was meticulous about arriving early and leaving late.",
+              "The meticulous rain delayed the outdoor conference.",
+              "His meticulous opinion was that taxes should be higher."
+            ],
+            "correctIndex": 0,
+            "explanation": "'Meticulous' = extremely careful and precise about detail. In academic/professional contexts it collocates with 'analysis', 'research', 'documentation', 'planning'. The text uses it: 'through meticulous historical analysis.' Not used for weather or opinions."
+          },
+          {
+            "targetWord": "stark",
+            "translation": "marcado / contundente / severo",
+            "options": [
+              "The stark statistic — CEO pay at 350 times worker salaries — illustrates the scale of the disparity.",
+              "The meeting room had a very stark view of the city.",
+              "She gave a stark speech that lasted three hours.",
+              "The results were stark and needed more research."
+            ],
+            "correctIndex": 0,
+            "explanation": "'Stark' as an adjective modifying a contrast or fact = unmistakably clear and unambiguous, often unpleasantly so. 'The gap is particularly stark.' It modifies contrasts, differences, facts — not views, speeches, or descriptions of space (where it means 'bare/severe')."
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completada!",
+      "instruction": "El texto expone: Piketty (r>g → concentración inevitable) → evidencia empírica → debate izquierda/derecha → Wilkinson/Pickett (efectos sociales) → trade-offs de políticas → conclusión: es una pregunta de valores, no solo técnica. Vocabulario clave: meticulous, stark, pathologies, capital flight, equitable. Los 3 ítems están en tu SRS.",
+      "itemIndices": [0, 1, 2]
+    }
+  ]
+}

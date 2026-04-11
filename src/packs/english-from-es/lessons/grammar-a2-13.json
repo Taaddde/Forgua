@@ -1,0 +1,164 @@
+{
+  "id": "grammar-a2-13",
+  "title": "Second Conditional: If I had money...",
+  "description": "If I had money, I would travel. Para situaciones imaginarias o improbables. Error clásico: 'If I would have...'",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Second Conditional",
+      "back": "If + past simple, would + base verb",
+      "reading": "",
+      "explanation": "El segundo condicional se usa para situaciones IMAGINARIAS o IMPROBABLES en el presente/futuro. La cláusula 'if' usa past simple (aunque el significado es presente/futuro). La cláusula principal usa 'would + verb base'.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Second Conditional (If + past simple, would + base verb)"
+      }
+    },
+    {
+      "front": "If I had money, I would travel the world.",
+      "back": "Si tuviera dinero, viajaría por el mundo.",
+      "reading": "",
+      "explanation": "Situación irreal: no tengo dinero (ahora). 'Had' = past simple de have, pero el significado es presente/futuro imaginario. 'Would travel' = viajaría. NUNCA: 'If I WOULD HAVE money' — error muy común."
+    },
+    {
+      "front": "If I were you, I would talk to her.",
+      "back": "Si yo fuera vos, hablaría con ella.",
+      "reading": "",
+      "explanation": "'If I were you' es una frase hecha para dar consejos. Con 'to be' se puede usar 'were' para todas las personas (formal): 'If she were taller...', 'If I were a bird...'. 'Was' también es aceptable en inglés informal."
+    },
+    {
+      "front": "What would you do if you won the lottery?",
+      "back": "¿Qué harías si ganaras la lotería?",
+      "reading": "",
+      "explanation": "El orden puede invertirse: 'What would you do if...?' (sin coma). La cláusula 'if' puede ir al principio o al final. Cuando va al principio, lleva coma; cuando va al final, no lleva coma."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Situaciones imaginarias: el segundo condicional",
+      "instruction": "¿Cómo decís algo que NO es real ahora pero te lo imaginás? 'Si tuviera un millón de dólares, compraría una casa'. En inglés: 'If I HAD a million dollars, I WOULD buy a house.' Fijate: 'if + pasado' (aunque es presente/futuro), 'would + verbo'. NUNCA 'if I WOULD have'.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es la traducción?",
+      "instruction": "Elegí la traducción correcta de cada oración condicional.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Formá el segundo condicional",
+      "instruction": "Elegí la forma verbal correcta para cada espacio.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "If I {0} the president, I {1} free education for everyone.",
+            "blanks": [
+              {
+                "answer": "were",
+                "options": [
+                  "were",
+                  "would be",
+                  "am",
+                  "will be"
+                ]
+              },
+              {
+                "answer": "would create",
+                "options": [
+                  "would create",
+                  "will create",
+                  "create",
+                  "created"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "She {0} move abroad if she {1} a good job offer.",
+            "blanks": [
+              {
+                "answer": "would",
+                "options": [
+                  "would",
+                  "will",
+                  "might",
+                  "should"
+                ]
+              },
+              {
+                "answer": "got",
+                "options": [
+                  "got",
+                  "gets",
+                  "would get",
+                  "has gotten"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "El error clásico: 'would' en la cláusula 'if'",
+      "instruction": "Detectá el error más común con el segundo condicional.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "If I would have more time, I would learn guitar.",
+            "isCorrect": false,
+            "correction": "If I had more time, I would learn guitar.",
+            "explanation": "REGLA DE ORO: NUNCA uses 'would' en la cláusula 'if' del segundo condicional. La cláusula 'if' usa PAST SIMPLE: 'If I HAD...', 'If she WERE...', 'If they KNEW...'. Solo la cláusula principal usa 'would'.",
+            "errorType": "conditional"
+          },
+          {
+            "sentence": "If I were you, I wouldn't accept that job.",
+            "isCorrect": true,
+            "explanation": "Perfecta. 'If I were you' (consejo), 'I wouldn't accept' (consejo negativo). 'Wouldn't' = would not.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "I would buy that car if I would have enough money.",
+            "isCorrect": false,
+            "correction": "I would buy that car if I had enough money.",
+            "explanation": "Mismo error: 'would' no va en la cláusula 'if'. → 'if I HAD enough money'.",
+            "errorType": "conditional"
+          },
+          {
+            "sentence": "What would you do if you found a wallet in the street?",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Would' en la pregunta principal, 'found' (past simple) en la cláusula 'if'.",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Segundo condicional: If + PAST SIMPLE, WOULD + verb base. Para situaciones imaginarias (ahora no son reales). NUNCA 'if I would...'. 'If I were you...' para consejos. Recordá: first conditional = posible (If it rains, I'll take...). Second conditional = imaginario (If I had wings, I would fly...).",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ]
+}

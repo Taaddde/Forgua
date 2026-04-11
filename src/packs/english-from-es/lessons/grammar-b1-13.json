@@ -1,0 +1,182 @@
+{
+  "id": "grammar-b1-13",
+  "title": "Reported Speech: Questions",
+  "description": "Cómo reportar preguntas en inglés: 'She asked if I liked coffee', 'He asked where I lived'. El orden vuelve a afirmativo y los tiempos retroceden.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Reported Speech (Questions) (She asked if/whether... | He asked what/where/when...)",
+      "back": "Para reportar preguntas: 'asked' + if/whether (yes/no) o wh-word, orden afirmativo, backshift.",
+      "reading": "/rɪˈpɔːrtɪd spiːtʃ ˈkwɛstʃənz/",
+      "explanation": "Reported questions = asked (+ objeto opcional) + if/whether (para preguntas de sí/no) o palabra wh- (para preguntas abiertas) + sujeto + verbo. DOS cambios críticos: (1) el orden vuelve a afirmativo — nada de inversión sujeto-auxiliar; (2) los tiempos hacen backshift (present → past, past → past perfect, will → would).",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Reported Speech (Questions) (She asked if/whether... | He asked what/where/when...)"
+      }
+    },
+    {
+      "front": "Do you like coffee? → She asked if I liked coffee.",
+      "back": "Preguntas yes/no: usá 'if' o 'whether'. El verbo va en afirmativo y retrocede un tiempo.",
+      "reading": "/ʃiː æskt ɪf aɪ laɪkt ˈkɒfi/",
+      "explanation": "'Do' desaparece (era el auxiliar de la pregunta directa). 'Like' pasa a 'liked' (present → past). 'If' y 'whether' son intercambiables, aunque 'whether' suena más formal y es obligatorio antes de 'or not' al inicio."
+    },
+    {
+      "front": "Where are you going? → He asked where I was going.",
+      "back": "Preguntas wh-: la wh-word se queda, pero el orden vuelve a sujeto + verbo.",
+      "reading": "/hiː æskt wɛər aɪ wəz ˈɡoʊɪŋ/",
+      "explanation": "La palabra interrogativa (where, what, when, why, how, who) no cambia. Lo que cambia es el orden: 'are you going' (pregunta directa con inversión) → 'I was going' (afirmativo, sin inversión). Este es EL error más clásico de los hispanohablantes."
+    },
+    {
+      "front": "Will you come tomorrow? → She asked if I would come the next day.",
+      "back": "Los marcadores temporales también cambian: tomorrow → the next day, yesterday → the day before.",
+      "reading": "/ʃiː æskt ɪf aɪ wʊd kʌm ðə nɛkst deɪ/",
+      "explanation": "Además del backshift del verbo (will → would), los marcadores de tiempo cambian: tomorrow → the next/following day, yesterday → the day before/previous day, now → then, today → that day, here → there."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Reported questions: las dos reglas clave",
+      "instruction": "Para reportar preguntas: (1) usá 'asked' + if/whether o wh-word; (2) el orden vuelve a afirmativo (sujeto + verbo, sin inversión); (3) los tiempos retroceden (present → past).",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Backshift de verbos y marcadores temporales",
+      "instruction": "'Will' → 'would'. Los marcadores de tiempo también cambian: tomorrow → the next day, yesterday → the day before, now → then, here → there.",
+      "itemIndices": [3]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá las preguntas reportadas",
+      "instruction": "Elegí la palabra correcta para cada espacio. Atención al orden y al tiempo verbal.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "She asked me {0} I liked jazz music.",
+            "blanks": [
+              { "answer": "if", "options": ["if", "that", "what"] }
+            ]
+          },
+          {
+            "template": "He asked {0} I {1} from.",
+            "blanks": [
+              { "answer": "where", "options": ["where", "if", "that"] },
+              { "answer": "was", "options": ["was", "am", "were"] }
+            ]
+          },
+          {
+            "template": "The teacher asked us {0} we {1} finished our homework.",
+            "blanks": [
+              { "answer": "if", "options": ["if", "that", "do"] },
+              { "answer": "had", "options": ["had", "have", "did"] }
+            ]
+          },
+          {
+            "template": "She asked {0} time the film {1}.",
+            "blanks": [
+              { "answer": "what", "options": ["what", "which", "how"] },
+              { "answer": "started", "options": ["started", "did start", "was starting"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "word-in-context",
+      "title": "Reported questions en contexto",
+      "instruction": "Elegí la oración donde la estructura reported question se usa correctamente.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "asked where",
+            "translation": "preguntó dónde",
+            "options": [
+              "She asked where was the bathroom.",
+              "She asked where the bathroom was.",
+              "She asked where is the bathroom?",
+              "She asked me where do I live."
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "asked if",
+            "translation": "preguntó si",
+            "options": [
+              "He asked if did I want a coffee.",
+              "He asked if I want a coffee.",
+              "He asked if I wanted a coffee.",
+              "He asked that I wanted a coffee."
+            ],
+            "correctIndex": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Decidí si la pregunta reportada está bien formada. Revisá orden y tiempos.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "She asked me what was my name.",
+            "isCorrect": false,
+            "correction": "She asked me what my name was.",
+            "explanation": "INCORRECTO. En reported questions NO hay inversión sujeto-auxiliar. El orden vuelve a afirmativo: 'what my name was', no 'what was my name'. La wh-word queda fija al principio y el resto es sujeto + verbo.",
+            "errorType": "word-order"
+          },
+          {
+            "sentence": "He asked if I had seen the new Spielberg movie.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'If' para pregunta de sí/no, 'had seen' como backshift del Present Perfect ('have seen' → 'had seen'), orden afirmativo sujeto + verbo.",
+            "errorType": "backshift"
+          },
+          {
+            "sentence": "My boss asked me if I can work on Saturday.",
+            "isCorrect": false,
+            "correction": "My boss asked me if I could work on Saturday.",
+            "explanation": "INCORRECTO. 'Can' debe retroceder a 'could' en reported speech. Los modales también hacen backshift: can → could, will → would, may → might, must → had to.",
+            "errorType": "backshift"
+          },
+          {
+            "sentence": "They asked us where we were going on holiday that year.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Where' + orden afirmativo ('we were going'), backshift de 'are going' a 'were going', y 'this year' pasó a 'that year' (marcador temporal).",
+            "errorType": "time-markers"
+          }
+        ]
+      }
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá la pregunta reportada",
+      "instruction": "Ordená los fragmentos para formar la pregunta reportada correctamente.",
+      "itemIndices": [0, 1],
+      "config": {
+        "sentences": [
+          {
+            "translation": "Ella me preguntó si yo hablaba francés.",
+            "fragments": ["She asked me", "if", "I", "spoke French."],
+            "correctOrder": [0, 1, 2, 3]
+          },
+          {
+            "translation": "Él preguntó cuándo empezaba la reunión.",
+            "fragments": ["He asked", "when", "the meeting", "started."],
+            "correctOrder": [0, 1, 2, 3]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Reported questions: 'asked' + if/whether (yes/no) o wh-word + sujeto + verbo. DOS reglas de oro: (1) NO hay inversión — el orden vuelve a afirmativo; (2) los tiempos retroceden un paso (present → past, will → would, can → could). Los marcadores temporales también cambian (tomorrow → the next day).",
+      "itemIndices": [0, 1, 2, 3]
+    }
+  ]
+}

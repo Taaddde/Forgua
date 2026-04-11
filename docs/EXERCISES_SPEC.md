@@ -51,17 +51,25 @@ Un **Language Pack** = datos en JSON. Cero código. Las lecciones orquestan los 
 Se usan **dentro de una lección** para introducir y practicar items nuevos. Están controlados por el `LessonPlayer`. Operan sobre los `items[]` de la lección (referencias a tarjetas).
 
 **Tipos disponibles:**
-| Tipo | Descripción |
-|------|-------------|
-| `introduce` | Presentación del item (texto, audio, imagen, explicación) — sin respuesta |
-| `recognize` | Multiple choice: ver el front, elegir el back |
-| `recall` | Escribir la respuesta libre (ver back, escribir front) |
-| `write` | Variante de recall para caracteres |
-| `sentence-build` | Armar una oración reordenando fragmentos |
-| `listen-identify` | Escuchar audio, elegir la palabra correcta |
-| `listen-transcribe` | Escuchar audio, escribir lo que se oye (dictado) |
-| `speak` | Leer en voz alta, evalúa pronunciación via STT |
-| `summary` | Pantalla de resumen — no es ejercicio, no tiene respuesta |
+| Tipo | Descripción | Usa `itemIndices` | Usa `config` |
+|------|-------------|-------------------|--------------|
+| `introduce` | Presentación del item (texto, audio, imagen, explicación) — sin respuesta | ✅ | — |
+| `recognize` | Multiple choice: ver el front, elegir el back | ✅ | — |
+| `recall` | Escribir la respuesta libre (ver back, escribir front) | ✅ | — |
+| `write` | Variante de recall para caracteres | ✅ | — |
+| `sentence-build` | Armar una oración reordenando fragmentos | ✅ | `sentences[]` |
+| `listen-identify` | Escuchar audio, elegir la palabra correcta | ✅ | — |
+| `listen-transcribe` | Escuchar audio, escribir lo que se oye (dictado) | ✅ | — |
+| `speak` | Leer en voz alta, evalúa pronunciación via STT | ✅ | — |
+| `fill-blank-multi` | Completar MÚLTIPLES espacios con chips o texto libre | — | `exercises[]` |
+| `word-in-context` | Palabra objetivo → elegir la oración donde se usa bien | — | `exercises[]` |
+| `error-correction` | ¿Esta oración tiene error? → sí/no → explicación | — | `exercises[]` |
+| `image-association` | Ver imagen → elegir la palabra/frase correcta | — | `exercises[]` |
+| `story-comprehension` | Leer texto → preguntas de comprensión | — | `passage` (inline ReadingText) |
+| `conversation-script` | Diálogo guiado por turnos | — | `script` (inline ConversationScript) |
+| `summary` | Pantalla de resumen — no es ejercicio, no tiene respuesta | ✅ | — |
+
+**Nota importante:** Los pasos que usan `config` (sistema B embebido) no requieren `itemIndices`. Pasá `"itemIndices": []` en el JSON de la lección. El componente obtiene todos sus datos del campo `config`.
 
 ### Sistema B — Ejercicios SRS (`Exercise`)
 
@@ -239,6 +247,203 @@ Pantalla de cierre. Resume lo aprendido. No tiene respuesta ni evaluación.
 ```
 
 **Cuándo usar:** Siempre como último paso. Obligatorio.
+
+---
+
+### 3.9 `fill-blank-multi` (paso con `config`)
+
+Completar múltiples espacios en una o varias oraciones. Ideal para gramática contextual, prep­osiciones y concordancia.
+
+```jsonc
+{
+  "type": "fill-blank-multi",
+  "title": "Completá las oraciones",
+  "instruction": "Elegí la palabra correcta para cada espacio.",
+  "itemIndices": [],
+  "config": {
+    "exercises": [
+      {
+        "template": "She {0} a book when the phone {1}.",
+        "blanks": [
+          { "answer": "was reading", "options": ["was reading", "is reading", "reads"] },
+          { "answer": "rang",         "options": ["rang", "rings", "was ringing"] }
+        ]
+      }
+    ]
+  }
+}
+```
+
+**Cuándo usar:** Después de `introduce` + `recognize` en lecciones de gramática. Mínimo 2 blanks por exercise, 2-5 exercises por step.
+
+---
+
+### 3.10 `word-in-context` (paso con `config`)
+
+Dado el vocablo objetivo, elegir la oración donde se usa correctamente.
+
+```jsonc
+{
+  "type": "word-in-context",
+  "title": "¿Dónde se usa bien?",
+  "instruction": "Elegí la oración donde la palabra está usada correctamente.",
+  "itemIndices": [],
+  "config": {
+    "exercises": [
+      {
+        "targetWord": "deadline",
+        "translation": "fecha límite",
+        "options": [
+          "I met a deadline at the park yesterday.",
+          "We need to meet the deadline by Friday.",
+          "The deadline is very tall.",
+          "I drink deadline every morning."
+        ],
+        "correctIndex": 1
+      }
+    ]
+  }
+}
+```
+
+**Cuándo usar:** A partir de B1 para consolidar uso de vocabulario. Mínimo 2 exercises por step. Las opciones incorrectas deben tener errores reales, no absurdos.
+
+---
+
+### 3.11 `error-correction` (paso con `config`)
+
+Decidir si la oración tiene error, ver explicación.
+
+```jsonc
+{
+  "type": "error-correction",
+  "title": "¿Error o correcta?",
+  "instruction": "Decidí si cada oración es correcta o tiene un error.",
+  "itemIndices": [],
+  "config": {
+    "exercises": [
+      {
+        "sentence": "She don't like coffee.",
+        "isCorrect": false,
+        "correction": "She doesn't like coffee.",
+        "explanation": "En tercera persona singular (she/he/it) se usa 'doesn't', no 'don't'.",
+        "errorType": "conjugation"
+      },
+      {
+        "sentence": "He usually drinks tea in the morning.",
+        "isCorrect": true,
+        "explanation": "Present simple correcto: 'drinks' (3ra persona) + adverbio de frecuencia 'usually' antes del verbo.",
+        "errorType": "word-order"
+      }
+    ]
+  }
+}
+```
+
+**Cuándo usar:** A partir de A2 para errores MUY comunes y claros; desde B1 en adelante con más libertad. Mezclar 50/50 correctas e incorrectas.
+
+---
+
+### 3.12 `image-association` (paso con `config`)
+
+Ver imagen → elegir la palabra/frase correcta.
+
+```jsonc
+{
+  "type": "image-association",
+  "title": "¿Qué ves?",
+  "instruction": "Mirá la imagen y elegí la palabra correcta.",
+  "itemIndices": [],
+  "config": {
+    "exercises": [
+      {
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Golde33443.jpg/320px-Golde33443.jpg",
+        "imageAlt": "A golden retriever dog",
+        "options": ["dog", "cat", "bird", "fish"],
+        "correctIndex": 0
+      }
+    ]
+  }
+}
+```
+
+**Cuándo usar:** Vocabulario concreto (animales, objetos, comida, lugares). Usar URLs externas públicas (Wikimedia Commons) o paths relativos al pack (`images/...`).
+
+---
+
+### 3.13 `story-comprehension` (paso con `config`)
+
+Leer texto → responder preguntas de comprensión.
+
+```jsonc
+{
+  "type": "story-comprehension",
+  "title": "Lectura",
+  "instruction": "Leé el texto y respondé las preguntas.",
+  "itemIndices": [],
+  "config": {
+    "passage": {
+      "id": "reading-a2-01",
+      "title": "A Busy Monday Morning",
+      "level": "a2",
+      "text": "Sarah wakes up at 6:30 every morning. She has a quick breakfast and takes the bus to work. Today she has an important meeting at 9 o'clock...",
+      "translation": "Sarah se despierta a las 6:30 todas las mañanas...",
+      "vocabulary": ["wake up", "breakfast", "meeting"],
+      "questions": [
+        {
+          "question": "What time does Sarah wake up?",
+          "options": ["6:00", "6:30", "7:00", "8:00"],
+          "correctIndex": 1,
+          "explanation": "The text says 'Sarah wakes up at 6:30 every morning'."
+        }
+      ]
+    }
+  }
+}
+```
+
+**Cuándo usar:** Lecciones de lectura (reading-<level>-NN.json). El passage se declara inline — no referencia readings/<level>.json por id.
+
+---
+
+### 3.14 `conversation-script` (paso con `config`)
+
+Diálogo guiado por turnos con opciones múltiples.
+
+```jsonc
+{
+  "type": "conversation-script",
+  "title": "Conversación",
+  "instruction": "Elegí la mejor respuesta en cada turno.",
+  "itemIndices": [],
+  "config": {
+    "script": {
+      "id": "conv-a1-hotel-checkin",
+      "scenario": "Check-in en un hotel",
+      "level": "a1",
+      "turns": [
+        {
+          "speaker": "npc",
+          "text": "Good evening! Welcome to Hotel Central. How can I help you?",
+          "translation": "Buenas tardes. Bienvenido al Hotel Central. ¿En qué puedo ayudarle?"
+        },
+        {
+          "speaker": "learner",
+          "text": "",
+          "options": [
+            { "text": "Hi, I have a reservation under the name Smith.", "isCorrect": true,  "feedback": "Perfecto — forma natural de anunciar tu reserva." },
+            { "text": "I want a book, please.",                           "isCorrect": false, "feedback": "'Book' es 'libro' — no tiene sentido aquí; querrás 'room'." },
+            { "text": "Goodbye!",                                          "isCorrect": false, "feedback": "Despedida antes del check-in — fuera de contexto." }
+          ],
+          "correctOptionIndex": 0
+        }
+      ]
+    }
+  }
+}
+```
+
+**Cuándo usar:** Lecciones situacionales, reading o práctica conversacional. El script vive inline en el config, no en un archivo `conversations/`.
 
 ---
 

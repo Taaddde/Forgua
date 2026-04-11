@@ -1,0 +1,85 @@
+{
+  "id": "reading-a1-02",
+  "title": "Reading: A Day at School",
+  "description": "Texto sobre la rutina escolar. Present Simple, horas, secuencia temporal.",
+  "level": "a1",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "school",
+      "back": "escuela, colegio",
+      "reading": "/skuːl/",
+      "explanation": "Lugar educativo. 'Go to school' = ir a la escuela (sin artículo cuando nos referimos a la actividad).",
+      "cardRef": { "category": "vocabulary", "front": "school" }
+    },
+    {
+      "front": "eat",
+      "back": "comer",
+      "reading": "/iːt/",
+      "explanation": "Verbo irregular: eat → ate (pasado). 'I eat lunch' = almuerzo (yo como el almuerzo).",
+      "cardRef": { "category": "vocabulary", "front": "eat" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario clave",
+      "instruction": "Estas palabras aparecen en el texto. Revisalas antes de leer.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Lectura: A Day at School",
+      "instruction": "Leé el texto y respondé las preguntas. Fijate en las horas y la secuencia.",
+      "itemIndices": [],
+      "config": {
+        "passage": {
+          "id": "a1-reading-school-day",
+          "title": "A Day at School",
+          "level": "a1",
+          "text": "I go to school every day. School starts at eight o'clock. First, I have English class. I like English because the teacher is very nice. Then I have math. Math is difficult but interesting. At twelve o'clock, I eat lunch with my friends. After lunch, I have science and history. School finishes at three o'clock. After school, I play soccer with my friends.",
+          "translation": "Voy a la escuela todos los días. La escuela empieza a las ocho. Primero, tengo clase de inglés. Me gusta inglés porque la profesora es muy simpática. Después tengo matemáticas. Las matemáticas son difíciles pero interesantes. A las doce, almuerzo con mis amigos. Después del almuerzo, tengo ciencias e historia. La escuela termina a las tres. Después de la escuela, juego al fútbol con mis amigos.",
+          "vocabulary": ["school - escuela", "starts - empieza", "class - clase", "nice - simpático/a", "math - matemáticas", "difficult - difícil", "interesting - interesante", "lunch - almuerzo", "friends - amigos", "finishes - termina", "soccer - fútbol"],
+          "questions": [
+            {
+              "question": "What time does school start?",
+              "options": ["At seven o'clock.", "At eight o'clock.", "At nine o'clock.", "At ten o'clock."],
+              "correctIndex": 1,
+              "explanation": "El texto dice 'School starts at eight o'clock.'"
+            },
+            {
+              "question": "Why does the student like English?",
+              "options": ["It is easy.", "The teacher is nice.", "It is fun.", "The friends like it."],
+              "correctIndex": 1,
+              "explanation": "El texto dice 'I like English because the teacher is very nice.'"
+            },
+            {
+              "question": "What does the student do after school?",
+              "options": ["Studies math.", "Watches TV.", "Plays soccer.", "Goes home."],
+              "correctIndex": 2,
+              "explanation": "El texto dice 'After school, I play soccer with my friends.'"
+            },
+            {
+              "question": "How does the student describe math?",
+              "options": ["Easy and fun.", "Difficult but interesting.", "Boring.", "His favorite subject."],
+              "correctIndex": 1,
+              "explanation": "El texto dice 'Math is difficult but interesting.'"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "recall",
+      "title": "Vocabulario en uso",
+      "instruction": "Ves la traducción. Escribí la palabra en inglés.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lectura completa!",
+      "instruction": "Practicaste un texto sobre rutina escolar con Present Simple. Notaste el uso de 'at + hora' (at eight o'clock, at twelve), secuenciadores (first, then, after) y 'because' para dar razones.",
+      "itemIndices": [0, 1]
+    }
+  ]
+}

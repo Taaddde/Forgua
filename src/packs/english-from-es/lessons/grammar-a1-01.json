@@ -10,42 +10,40 @@
       "back": "yo soy / yo estoy",
       "reading": "/aɪ æm/",
       "explanation": "Primera persona singular. Contracción: I'm. Ejemplo: I'm a student (Soy estudiante). I'm tired (Estoy cansado). Ambas formas son correctas: 'I am' y 'I'm'.",
-      "cardRef": { "category": "grammar", "front": "I am" }
+      "cardRef": {
+        "category": "grammar",
+        "front": "To be (Present Simple) (Subject + am/is/are)"
+      }
     },
     {
       "front": "you are",
       "back": "vos sos / vos estás (tú eres / tú estás)",
       "reading": "/juː ɑːr/",
-      "explanation": "Segunda persona. 'You' es singular Y plural (vos/ustedes). Contracción: you're. Ambas formas son correctas: 'you are' y 'you're'.",
-      "cardRef": { "category": "grammar", "front": "you are" }
+      "explanation": "Segunda persona. 'You' es singular Y plural (vos/ustedes). Contracción: you're. Ambas formas son correctas: 'you are' y 'you're'."
     },
     {
       "front": "he is / she is",
       "back": "él es-está / ella es-está",
       "reading": "/hiː ɪz/ — /ʃiː ɪz/",
-      "explanation": "Tercera persona. He = él, She = ella. 'It' se usa para cosas y animales: It's a cat. Contracciones: he's, she's, it's.",
-      "cardRef": { "category": "grammar", "front": "he is / she is" }
+      "explanation": "Tercera persona. He = él, She = ella. 'It' se usa para cosas y animales: It's a cat. Contracciones: he's, she's, it's."
     },
     {
       "front": "we are",
       "back": "nosotros somos / nosotros estamos",
       "reading": "/wiː ɑːr/",
-      "explanation": "Primera persona plural. Contracción: we're. Ejemplo: We're friends (Somos amigos). Ambas formas son correctas: 'we are' y 'we're'.",
-      "cardRef": { "category": "grammar", "front": "we are" }
+      "explanation": "Primera persona plural. Contracción: we're. Ejemplo: We're friends (Somos amigos). Ambas formas son correctas: 'we are' y 'we're'."
     },
     {
       "front": "they are",
       "back": "ellos/ellas son / ellos/ellas están",
       "reading": "/ðeɪ ɑːr/",
-      "explanation": "Tercera persona plural. 'They' puede ser ellos, ellas o incluso una persona de género no especificado. Contracción: they're.",
-      "cardRef": { "category": "grammar", "front": "they are" }
+      "explanation": "Tercera persona plural. 'They' puede ser ellos, ellas o incluso una persona de género no especificado. Contracción: they're."
     },
     {
       "front": "I am a student.",
       "back": "Soy estudiante.",
       "reading": "/aɪm ə ˈstuːdənt/",
-      "explanation": "Estructura base: sujeto + am/is/are + complemento. Notar que en inglés se necesita el artículo 'a': 'I am A student' (no 'I am student').",
-      "cardRef": { "category": "grammar", "front": "I am a student." }
+      "explanation": "Estructura base: sujeto + am/is/are + complemento. Notar que en inglés se necesita el artículo 'a': 'I am A student' (no 'I am student')."
     }
   ],
   "steps": [
@@ -53,37 +51,67 @@
       "type": "introduce",
       "title": "El verbo 'to be' — tu herramienta #1",
       "instruction": "En español, 'ser' y 'estar' son verbos distintos. En inglés, 'to be' cubre los DOS. 'I am happy' puede significar 'Soy feliz' o 'Estoy feliz' según el contexto. Mirá las 5 formas: am (I), is (he/she/it), are (you/we/they).",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "introduce",
       "title": "Tu primera oración completa",
       "instruction": "Ahora armemos una oración: 'I am a student' = 'Soy estudiante'. Notá que en inglés necesitás el artículo 'a' (I am A student), mientras que en español no (Soy estudiante, sin 'un').",
-      "itemIndices": [5]
+      "itemIndices": [
+        5
+      ]
     },
     {
       "type": "recognize",
       "title": "¿Cuál es la forma correcta?",
       "instruction": "Elegí la forma correcta de 'to be' para cada sujeto.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "recall",
       "title": "Completá la oración",
       "instruction": "Ves el español. Escribí la forma correcta de 'to be' en inglés.",
-      "itemIndices": [0, 1, 2, 3, 4, 5]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
     },
     {
       "type": "sentence-build",
       "title": "Armá oraciones",
       "instruction": "Ordená las palabras para formar oraciones correctas con 'to be'.",
-      "itemIndices": [5]
+      "itemIndices": [
+        5
+      ]
     },
     {
       "type": "summary",
       "title": "¡Lección completa!",
       "instruction": "Aprendiste el verbo to be: am (I), is (he/she/it), are (you/we/they). Recordá: en inglés 'to be' = ser + estar. Ahora podés decir quién sos, cómo estás y describir cosas.",
-      "itemIndices": [0, 1, 2, 3, 4, 5]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
     }
   ]
 }

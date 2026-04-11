@@ -1,0 +1,151 @@
+{
+  "id": "vocab-b1-09",
+  "title": "Phrasal Verbs B1: The Advanced Set",
+  "description": "look up, give up, turn on, find out, carry on, put off, get along, run out of, break down, set up — los phrasal verbs que aparecen en todo texto B1.",
+  "level": "b1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "look up",
+      "back": "buscar información",
+      "reading": "/lʊk ʌp/",
+      "explanation": "Buscar información (en diccionario, internet). 'I need to look up this word.' LOOK UP + object o LOOK + object + UP. 'Look it up online.' No confundir con LOOK FOR (buscar algo perdido).",
+      "cardRef": { "category": "vocabulary", "front": "look up" }
+    },
+    {
+      "front": "give up",
+      "back": "rendirse / dejar de",
+      "reading": "/ɡɪv ʌp/",
+      "explanation": "Rendirse o abandonar algo. 'Don't give up, you're almost there!' También: GIVE UP + gerundio = dejar de hacer algo. 'She gave up smoking.' Sinónimos: quit, stop.",
+      "cardRef": { "category": "vocabulary", "front": "give up" }
+    },
+    {
+      "front": "turn on",
+      "back": "encender / prender",
+      "reading": "/tɜːrn ɑːn/",
+      "explanation": "'Can you turn on the lights?' Separable: TURN ON + noun o TURN + noun + ON. 'Turn it on.' Opuesto: TURN OFF (apagar). Funciona para luces, TV, computadora, el horno, el motor.",
+      "cardRef": { "category": "vocabulary", "front": "turn on" }
+    },
+    {
+      "front": "find out",
+      "back": "descubrir / enterarse",
+      "reading": "/faɪnd aʊt/",
+      "explanation": "Descubrir o enterarse de algo. 'I just found out that the meeting was cancelled.' FIND OUT ABOUT something. 'How did you find out?' Enfatiza el proceso de llegar a saber algo.",
+      "cardRef": { "category": "vocabulary", "front": "find out" }
+    },
+    {
+      "front": "carry on",
+      "back": "continuar / seguir adelante",
+      "reading": "/ˈkæri ɑːn/",
+      "explanation": "'Please carry on with your work.' = Please continue. CARRY ON + gerundio: 'Carry on reading.' Frase de ánimo común en inglés: 'Keep calm and carry on.' Sinónimo: CONTINUE, GO ON.",
+      "cardRef": { "category": "vocabulary", "front": "carry on" }
+    },
+    {
+      "front": "put off",
+      "back": "posponer / aplazar",
+      "reading": "/pʊt ɔːf/",
+      "explanation": "'We had to put off the meeting until next week.' PUT OFF + gerundio: 'She keeps putting off making the decision.' También: POSTPONE (más formal). Si posponés algo que no querés hacer: PROCRASTINATE.",
+      "cardRef": { "category": "vocabulary", "front": "put off" }
+    },
+    {
+      "front": "get along",
+      "back": "llevarse bien",
+      "reading": "/ɡɛt əˈlɔːŋ/",
+      "explanation": "Tener una buena relación. GET ALONG WITH somebody. 'She gets along well with her colleagues.' También GET ON (WITH) en inglés británico. 'Do you get along with your neighbours?'",
+      "cardRef": { "category": "vocabulary", "front": "get along" }
+    },
+    {
+      "front": "run out of",
+      "back": "quedarse sin",
+      "reading": "/rʌn aʊt əv/",
+      "explanation": "'We've run out of milk.' = Ya no tenemos leche. RUN OUT OF + noun. 'I ran out of time.' 'They're running out of money.' Momento en que se agota algo.",
+      "cardRef": { "category": "vocabulary", "front": "run out of" }
+    },
+    {
+      "front": "break down",
+      "back": "averiarse / descomponerse",
+      "reading": "/breɪk daʊn/",
+      "explanation": "'The car broke down on the highway.' Para vehículos y máquinas que dejan de funcionar. También: una persona que tiene un colapso emocional ('She broke down and cried'), o negociaciones que fracasan ('The talks broke down').",
+      "cardRef": { "category": "vocabulary", "front": "break down" }
+    },
+    {
+      "front": "set up",
+      "back": "configurar / establecer / armar",
+      "reading": "/sɛt ʌp/",
+      "explanation": "'He set up his own business last year.' Organizar, establecer o montar algo. SET UP a business/meeting/system/account. También: SET UP a computer/phone = configurar. 'Set it up for me' = configuralo.",
+      "cardRef": { "category": "vocabulary", "front": "set up" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Phrasal verbs B1: grupo 1",
+      "instruction": "Los phrasal verbs son combinaciones de verbo + partícula que tienen un significado propio. A nivel B1 hay que conocer estos 10. Prestá atención al contexto y preposiciones.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "Phrasal verbs B1: grupo 2",
+      "instruction": "'Put off' (posponer), 'get along WITH', 'run out OF', 'break down', 'set up'. Cada uno tiene su preposición específica.",
+      "itemIndices": [5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto de cada phrasal verb.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "listen-identify",
+      "title": "Escuchá y elegí",
+      "instruction": "Escuchá cada phrasal verb y elegí el correcto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con el phrasal verb correcto",
+      "instruction": "Elegí el phrasal verb correcto para cada espacio.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "I had to {0} my appointment because I was stuck in traffic.",
+            "blanks": [
+              { "answer": "put off", "options": ["put off", "give up", "find out"] }
+            ]
+          },
+          {
+            "template": "Don't {0} now — you're so close to finishing!",
+            "blanks": [
+              { "answer": "give up", "options": ["give up", "carry on", "break down"] }
+            ]
+          },
+          {
+            "template": "We {0} petrol on the motorway and had to call for help.",
+            "blanks": [
+              { "answer": "ran out of", "options": ["ran out of", "broke down", "put off"] }
+            ]
+          },
+          {
+            "template": "Did you {0} when the meeting was rescheduled?",
+            "blanks": [
+              { "answer": "find out", "options": ["find out", "look up", "set up"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Ves el significado. Escribí el phrasal verb en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "10 phrasal verbs B1: look up (buscar info), give up (rendirse/dejar de), turn on (encender ↔ turn off), find out (about) (enterarse), carry on (continuar), put off (posponer), get along (WITH) (llevarse bien), run out OF (quedarse sin), break down (averiarse/colapsar), set up (configurar/establecer).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

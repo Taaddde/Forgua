@@ -1,0 +1,145 @@
+{
+  "id": "vocab-c1-07",
+  "title": "Abstract Nouns: The Language of Ideas",
+  "description": "Sustantivos abstractos para el pensamiento complejo: perception, autonomy, paradigm, discourse, rationale, catalyst, dichotomy, trajectory, coherent.",
+  "level": "c1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "perception",
+      "back": "percepción / punto de vista / imagen pública",
+      "reading": "/pərˈsɛpʃən/",
+      "explanation": "Dos usos principales: (1) la forma en que algo es visto por el público o un grupo ('public perception'), (2) la capacidad cognitiva de percibir ('depth perception'). En discurso social y político, 'perception is reality' — si la gente lo percibe de una manera, eso tiene consecuencias reales. 'Shift/change the perception of' es muy común.",
+      "extra": { "register": "academic/journalistic", "pos": "noun", "collocations": ["public perception", "shift perception", "perception of reality", "depth perception"] },
+      "cardRef": { "category": "vocabulary", "front": "perception" }
+    },
+    {
+      "front": "autonomy",
+      "back": "autonomía / independencia / autodeterminación",
+      "reading": "/ɔːˈtɑːnəmi/",
+      "explanation": "La capacidad de gobernarse o decidir por uno mismo. 'Regional autonomy' (política), 'employee autonomy' (laboral), 'autonomous vehicles' (tecnología). El adjetivo 'autonomous' es imprescindible en discurso sobre IA y política. 'Give/grant autonomy' son colocaciones naturales.",
+      "extra": { "register": "academic/political", "pos": "noun", "derivative": "autonomous", "collocations": ["greater autonomy", "regional autonomy", "grant autonomy"] },
+      "cardRef": { "category": "vocabulary", "front": "autonomy" }
+    },
+    {
+      "front": "paradigm",
+      "back": "paradigma / modelo / marco conceptual",
+      "reading": "/ˈpærəˌdaɪm/",
+      "explanation": "Marco conceptual que domina un campo en un período. 'A paradigm shift' (Thomas Kuhn) = cambio de paradigma, cuando el marco dominante es reemplazado. Muy usado en ciencia, filosofía y negocios (a veces con abuso en el último). La expresión 'paradigm shift' ha pasado al inglés general.",
+      "extra": { "register": "academic/slightly overused in business", "pos": "noun", "key-phrase": "paradigm shift", "source": "Thomas Kuhn, 'The Structure of Scientific Revolutions'" },
+      "cardRef": { "category": "vocabulary", "front": "paradigm" }
+    },
+    {
+      "front": "discourse",
+      "back": "discurso / debate / conversación (en sentido amplio)",
+      "reading": "/ˈdɪskɔːrs/",
+      "explanation": "Más que 'speech' o 'conversation' — es el conjunto de ideas, lenguaje y prácticas que constituyen cómo se habla de un tema en una sociedad. 'Political discourse' (cómo se habla de política), 'academic discourse' (lenguaje académico). En lingüística y filosofía (Foucault), 'discourse' tiene un significado técnico muy específico sobre poder y conocimiento.",
+      "extra": { "register": "academic/journalistic", "pos": "noun", "collocations": ["political discourse", "public discourse", "shift the discourse", "discourse analysis"] },
+      "cardRef": { "category": "vocabulary", "front": "discourse" }
+    },
+    {
+      "front": "rationale",
+      "back": "fundamento / justificación / razón de ser",
+      "reading": "/ˌræʃəˈnæl/",
+      "explanation": "La razón lógica y articulada detrás de una decisión o posición. 'What is the rationale for this policy?' Es más específico y formal que 'reason'. Implica que la justificación es articulable y está basada en principios. No confundir con 'rational' (adjetivo: racional).",
+      "extra": { "register": "formal/academic", "pos": "noun", "vs": "reason (general) vs rationale (justificación formal y articulada)", "pattern": "the rationale for/behind [decision/policy]" },
+      "cardRef": { "category": "vocabulary", "front": "rationale" }
+    },
+    {
+      "front": "catalyst",
+      "back": "catalizador / detonante / factor desencadenante",
+      "reading": "/ˈkætəlɪst/",
+      "explanation": "Originalmente química: sustancia que acelera una reacción sin consumirse. Metafóricamente: persona, evento o cosa que provoca o acelera un cambio importante. 'The assassination served as the catalyst for war.' 'Serve as a catalyst for change' es una colocación muy frecuente en análisis político e histórico.",
+      "extra": { "register": "journalistic/academic", "pos": "noun", "collocations": ["serve as a catalyst", "act as a catalyst", "catalyst for change"] },
+      "cardRef": { "category": "vocabulary", "front": "catalyst" }
+    },
+    {
+      "front": "dichotomy",
+      "back": "dicotomía / división en dos partes opuestas",
+      "reading": "/daɪˈkɑːtəmi/",
+      "explanation": "División o contraste entre dos cosas opuestas o mutuamente excluyentes. 'The false dichotomy between security and freedom' (dicotomía falsa — en realidad no son mutuamente excluyentes). 'A false dichotomy' es una expresión muy usada en argumentación crítica para señalar razonamientos incorrectos.",
+      "extra": { "register": "academic/formal", "pos": "noun", "key-phrase": "false dichotomy", "pattern": "the dichotomy between X and Y" },
+      "cardRef": { "category": "vocabulary", "front": "dichotomy" }
+    },
+    {
+      "front": "trajectory",
+      "back": "trayectoria / rumbo / curso",
+      "reading": "/trəˈdʒɛktəri/",
+      "explanation": "Originalmente: la curva de un proyectil. Metafóricamente: el curso o dirección de desarrollo de algo a lo largo del tiempo. 'Career trajectory' (trayectoria profesional), 'the company's growth trajectory'. Implica tanto dirección como velocidad/aceleración. 'Alter/change the trajectory of' son colocaciones comunes.",
+      "extra": { "register": "formal/journalistic", "pos": "noun", "collocations": ["growth trajectory", "career trajectory", "alter the trajectory", "be on a trajectory"] },
+      "cardRef": { "category": "vocabulary", "front": "trajectory" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Sustantivos del pensamiento abstracto",
+      "instruction": "Estos sustantivos son el vocabulario del análisis y el pensamiento crítico. Los encontrarás en ensayos de filosofía, análisis político, periodismo de largo aliento y discurso académico. Aprende no solo su significado sino sus colocaciones: 'paradigm SHIFT', 'false DICHOTOMY', 'catalyst FOR change'.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es el significado?",
+      "instruction": "Elegí la definición más precisa.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Dónde se usa correctamente?",
+      "instruction": "Elegí la oración que usa el término con precisión académica.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "paradigm shift",
+            "translation": "cambio de paradigma",
+            "options": [
+              "The new manager created a paradigm shift in the office furniture arrangement.",
+              "The internet represented a paradigm shift in how humans access, share, and create information.",
+              "She had a paradigm shift after eating a good breakfast.",
+              "The team made a paradigm shift by working on Fridays instead of Mondays."
+            ],
+            "correctIndex": 1,
+            "explanation": "'Paradigm shift' = transformación fundamental en el marco conceptual dominante de un campo. Se aplica a cambios históricos profundos en ciencia, tecnología o sociedad, no a cambios menores o cotidianos."
+          },
+          {
+            "targetWord": "catalyst",
+            "translation": "catalizador / detonante",
+            "options": [
+              "The scientist used a catalyst in the laboratory reaction.",
+              "The rising unemployment served as a catalyst for widespread social unrest.",
+              "She was a catalyst because she was very smart.",
+              "The catalyst caused the situation to become worse slowly."
+            ],
+            "correctIndex": 1,
+            "explanation": "'Catalyst' en sentido metafórico = evento que desencadena un proceso mayor. 'Serve as a catalyst for' es la colocación más común. La opción 0 es el uso literal (química), que también es correcto pero no es el uso C1 que nos interesa aquí."
+          },
+          {
+            "targetWord": "false dichotomy",
+            "translation": "dicotomía falsa",
+            "options": [
+              "The politician presented a false dichotomy: 'You're either with us or against us.'",
+              "The book had a false dichotomy on page 42.",
+              "She noticed a false dichotomy between the two colors.",
+              "The test results showed a false dichotomy in the data."
+            ],
+            "correctIndex": 0,
+            "explanation": "'False dichotomy' = presentar solo dos opciones cuando hay más. 'You're either with us or against us' es el ejemplo clásico de falsa dicotomía en argumentación: implica que no hay posición intermedia ni alternativa."
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "Producción activa",
+      "instruction": "Escribí la palabra en inglés a partir de la definición o traducción.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completada!",
+      "instruction": "Sustantivos clave con sus colocaciones: paradigm SHIFT, false DICHOTOMY, serve as a CATALYST for, TRAJECTORY of growth, RATIONALE for/behind, DISCOURSE analysis, AUTONOMY of/for, PUBLIC perception. Los 8 están en tu SRS.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

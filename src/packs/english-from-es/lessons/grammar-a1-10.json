@@ -10,35 +10,34 @@
       "back": "siempre / generalmente / a menudo / a veces / raramente / nunca",
       "reading": "/ˈɔːlweɪz/ /ˈjuːʒuəli/ /ˈɔːfən/ /ˈsʌmtaɪmz/ /ˈrɛrli/ /ˈnɛvər/",
       "explanation": "Los adverbios de frecuencia van de 100% a 0%: always (siempre), usually (generalmente), often (a menudo), sometimes (a veces), rarely/seldom (raramente), never (nunca). En español van en cualquier posición, pero en inglés tienen una posición fija que hay que respetar.",
-      "cardRef": { "category": "grammar", "front": "frequency scale: always → never" }
+      "cardRef": {
+        "category": "grammar",
+        "front": "Adverbs of Frequency (Subject + always/usually/often/sometimes/never + verb)"
+      }
     },
     {
       "front": "I always eat breakfast. / They usually walk to work.",
       "back": "Siempre desayuno. / Generalmente caminan al trabajo.",
       "reading": "/aɪ ˈɔːlweɪz iːt ˈbrɛkfəst/ — /ðeɪ ˈjuːʒuəli wɔːk tə wɜːrk/",
-      "explanation": "REGLA PRINCIPAL: el adverbio de frecuencia va ANTES del verbo principal. 'I ALWAYS eat breakfast' (no 'I eat always breakfast'). 'They USUALLY walk to work'. En español la posición es flexible ('Siempre desayuno' o 'Desayuno siempre'), pero en inglés la posición es fija: sujeto + adverbio + verbo.",
-      "cardRef": { "category": "grammar", "front": "adverb before main verb" }
+      "explanation": "REGLA PRINCIPAL: el adverbio de frecuencia va ANTES del verbo principal. 'I ALWAYS eat breakfast' (no 'I eat always breakfast'). 'They USUALLY walk to work'. En español la posición es flexible ('Siempre desayuno' o 'Desayuno siempre'), pero en inglés la posición es fija: sujeto + adverbio + verbo."
     },
     {
       "front": "She is always happy. / We are usually tired on Mondays.",
       "back": "Ella siempre es/está feliz. / Generalmente estamos cansados los lunes.",
       "reading": "/ʃiː ɪz ˈɔːlweɪz ˈhæpi/ — /wiː ɑːr ˈjuːʒuəli ˈtaɪərd ɑːn ˈmʌndeɪz/",
-      "explanation": "EXCEPCIÓN con 'to be': el adverbio va DESPUÉS de am/is/are. 'She IS always happy' (NO 'She always is happy'). Comparemos: con verbo normal → antes ('I always eat'), con 'to be' → después ('I am always hungry'). Pensalo así: 'to be' es tan fuerte que el adverbio no puede ir antes.",
-      "cardRef": { "category": "grammar", "front": "adverb after 'to be'" }
+      "explanation": "EXCEPCIÓN con 'to be': el adverbio va DESPUÉS de am/is/are. 'She IS always happy' (NO 'She always is happy'). Comparemos: con verbo normal → antes ('I always eat'), con 'to be' → después ('I am always hungry'). Pensalo así: 'to be' es tan fuerte que el adverbio no puede ir antes."
     },
     {
       "front": "Sometimes I study at night. / I study at night sometimes.",
       "back": "A veces estudio de noche.",
       "reading": "/ˈsʌmtaɪmz aɪ ˈstʌdi ət naɪt/",
-      "explanation": "'Sometimes' es especial: puede ir al PRINCIPIO de la oración ('Sometimes I study'), en el medio ('I sometimes study') o al FINAL ('I study sometimes'). Los otros adverbios (always, usually, often, rarely, never) NO van al principio ni al final. 'Sometimes' es el más flexible de todos.",
-      "cardRef": { "category": "grammar", "front": "sometimes: flexible position" }
+      "explanation": "'Sometimes' es especial: puede ir al PRINCIPIO de la oración ('Sometimes I study'), en el medio ('I sometimes study') o al FINAL ('I study sometimes'). Los otros adverbios (always, usually, often, rarely, never) NO van al principio ni al final. 'Sometimes' es el más flexible de todos."
     },
     {
       "front": "I never drink alcohol. (NOT: I don't never drink.)",
       "back": "Nunca tomo alcohol.",
       "reading": "/aɪ ˈnɛvər drɪŋk ˈælkəhɑːl/",
-      "explanation": "'Never' ya es negativo, así que el verbo va en AFIRMATIVO: 'I never drink' (NO 'I don't never drink'). La doble negación ('don't never') es un error gramatical en inglés estándar. En español sí decimos 'No tomo nunca', pero en inglés es 'I never drink' O 'I don't ever drink' — NUNCA los dos juntos.",
-      "cardRef": { "category": "grammar", "front": "never + affirmative verb" }
+      "explanation": "'Never' ya es negativo, así que el verbo va en AFIRMATIVO: 'I never drink' (NO 'I don't never drink'). La doble negación ('don't never') es un error gramatical en inglés estándar. En español sí decimos 'No tomo nunca', pero en inglés es 'I never drink' O 'I don't ever drink' — NUNCA los dos juntos."
     }
   ],
   "steps": [
@@ -46,31 +45,55 @@
       "type": "introduce",
       "title": "La escala de frecuencia: de always a never",
       "instruction": "Los adverbios de frecuencia indican con qué frecuencia hacés algo. Van de always (100%, siempre) a never (0%, nunca). Entre medio: usually (generalmente), often (a menudo), sometimes (a veces), rarely (raramente). En español los ponés donde quieras, pero en inglés hay reglas estrictas de posición.",
-      "itemIndices": [0, 1]
+      "itemIndices": [
+        0,
+        1
+      ]
     },
     {
       "type": "introduce",
       "title": "La regla de posición (y su excepción con 'to be')",
       "instruction": "Regla general: adverbio ANTES del verbo principal ('I always eat'). Pero con 'to be', va DESPUÉS: 'She is always happy'. Y 'sometimes' es especial: puede ir al principio, medio o final de la oración. CUIDADO con 'never': ya es negativo, así que el verbo va en afirmativo. 'I never drink' (NO 'I don't never drink').",
-      "itemIndices": [2, 3, 4]
+      "itemIndices": [
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "recognize",
       "title": "¿Dónde va el adverbio?",
       "instruction": "Elegí la oración con el adverbio de frecuencia en la posición correcta.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "recall",
       "title": "Reescribí con el adverbio",
       "instruction": "Ves una oración sin adverbio y un adverbio de frecuencia. Reescribí la oración con el adverbio en la posición correcta.",
-      "itemIndices": [1, 2, 3, 4]
+      "itemIndices": [
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "summary",
       "title": "¡Lección completa!",
       "instruction": "Resumen: Escala → always (100%), usually, often, sometimes, rarely, never (0%). Posición → ANTES del verbo principal ('I always eat'), DESPUÉS de 'to be' ('She is always happy'). 'Sometimes' es flexible (principio, medio o final). 'Never' + verbo afirmativo (nunca doble negación). Consejo: empezá usando 'always', 'sometimes' y 'never' — son los más comunes.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     }
   ]
 }

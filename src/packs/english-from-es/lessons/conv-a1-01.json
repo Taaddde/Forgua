@@ -1,0 +1,133 @@
+{
+  "id": "conv-a1-01",
+  "title": "Conversation: Introducing Yourself",
+  "description": "Presentarte en inglés: nombre, edad, origen, ocupación. Tus primeras frases reales.",
+  "level": "a1",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "name",
+      "back": "nombre",
+      "reading": "/neɪm/",
+      "explanation": "'My name is...' = Me llamo... También podés decir 'I'm...' (más informal). 'What's your name?' = ¿Cómo te llamás?",
+      "cardRef": { "category": "vocabulary", "front": "name" }
+    },
+    {
+      "front": "student",
+      "back": "estudiante, alumno",
+      "reading": "/ˈstuːdənt/",
+      "explanation": "Profesión sin artículo... no, espera: en inglés SÍ se usa artículo: 'I am A student' (no 'I am student').",
+      "cardRef": { "category": "vocabulary", "front": "student" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario de presentación",
+      "instruction": "Estas palabras son esenciales para presentarte.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "conversation-script",
+      "title": "Conversación: First Meeting",
+      "instruction": "Estás en una clase de inglés y conocés a alguien nuevo. Elegí la mejor respuesta en cada turno.",
+      "itemIndices": [],
+      "config": {
+        "script": {
+          "id": "conv-a1-01-intro",
+          "scenario": "Conociendo a alguien nuevo en una clase de inglés",
+          "level": "a1",
+          "turns": [
+            {
+              "speaker": "npc",
+              "text": "Hi! I'm Laura. What's your name?",
+              "translation": "¡Hola! Soy Laura. ¿Cómo te llamás?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                { "text": "Hi Laura! I'm Carlos. Nice to meet you.", "isCorrect": true, "feedback": "Perfecto. Forma natural y amigable de presentarse." },
+                { "text": "I have name Carlos.", "isCorrect": false, "feedback": "No se dice 'I have name'. Se dice 'My name is Carlos' o simplemente 'I'm Carlos'." },
+                { "text": "Carlos is my.", "isCorrect": false, "feedback": "Orden incorrecto. En inglés el sujeto va antes del verbo: 'I'm Carlos' o 'My name is Carlos'." }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "Nice to meet you too! Where are you from?",
+              "translation": "¡Igualmente! ¿De dónde sos?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                { "text": "I from Argentina.", "isCorrect": false, "feedback": "Falta el verbo 'to be'. En inglés el sujeto SIEMPRE necesita el verbo: 'I AM from Argentina'." },
+                { "text": "I am from Argentina. And you?", "isCorrect": true, "feedback": "Muy bien. Respuesta completa y natural. '¿Y vos?' = 'And you?' — una forma muy común de devolver la pregunta." },
+                { "text": "Yes, I am.", "isCorrect": false, "feedback": "No responde la pregunta. '¿De dónde sos?' necesita una respuesta con el lugar, no solo 'sí'." }
+              ],
+              "correctOptionIndex": 1
+            },
+            {
+              "speaker": "npc",
+              "text": "I'm from Spain! How old are you?",
+              "translation": "¡Yo soy de España! ¿Cuántos años tenés?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                { "text": "I am twenty-five years old.", "isCorrect": true, "feedback": "Perfecto. Estructura estándar: I am + número + years old. También podés decir simplemente 'I'm twenty-five'." },
+                { "text": "I have twenty-five years.", "isCorrect": false, "feedback": "Error típico: en español 'tengo años' (TENER), en inglés 'I AM... years old' (SER). No se usa 'have' para la edad." },
+                { "text": "Twenty-five year I am.", "isCorrect": false, "feedback": "Orden incorrecto. El sujeto va primero: 'I am twenty-five years old.'" }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "Cool! Are you a student or do you work?",
+              "translation": "¡Qué bueno! ¿Sos estudiante o trabajás?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                { "text": "I am a student. I study engineering.", "isCorrect": true, "feedback": "Muy bien. 'I am A student' — en inglés, con profesiones y roles, se usa el artículo 'a/an'." },
+                { "text": "I am student.", "isCorrect": false, "feedback": "Falta el artículo. En inglés siempre: 'I am A student', 'She is AN engineer'. El artículo es obligatorio." },
+                { "text": "I work not. I study.", "isCorrect": false, "feedback": "Estructura incorrecta. Para negar: 'I don't work. I study.' — siempre se necesita el auxiliar 'do/does'." }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "Great! It was nice to meet you, Carlos!",
+              "translation": "¡Genial! ¡Fue un placer conocerte, Carlos!"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                { "text": "Nice to meet you too! See you in class!", "isCorrect": true, "feedback": "Perfecto cierre de conversación. 'See you!' = ¡Nos vemos! Muy natural y amigable." },
+                { "text": "Goodbye forever!", "isCorrect": false, "feedback": "Suena muy final y raro para una clase. Mejor 'See you!' o 'See you later!'." },
+                { "text": "Yes.", "isCorrect": false, "feedback": "Muy corto y raro para despedirse. Se espera algo como 'You too!' o 'Nice to meet you too!'." }
+              ],
+              "correctOptionIndex": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "recall",
+      "title": "Vocabulario de presentación",
+      "instruction": "Escribí las palabras en inglés.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "summary",
+      "title": "¡Conversación completa!",
+      "instruction": "Frases para presentarte: 'My name is / I'm...', 'I'm from...', 'I am + número + years old' (NO 'I have years'), 'I am A student' (con artículo). Para devolver preguntas: 'And you?'. Para despedirse: 'See you!', 'Nice to meet you!'.",
+      "itemIndices": [0, 1]
+    }
+  ]
+}

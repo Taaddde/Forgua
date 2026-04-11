@@ -1,0 +1,195 @@
+{
+  "id": "grammar-c1-03",
+  "title": "Modals in the Past (All Forms)",
+  "description": "Todos los modales en pasado: should have, could have, must have, needn't have, might have been — deducciones, arrepentimientos y posibilidades no realizadas.",
+  "level": "c1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Modals in the Past (All Forms) (modal + have + past participle | modal + have been + verb-ing)",
+      "back": "Modales en pasado: should have (debería haber), could have (podría haber), must have (debe haber), needn't have (no necesitaba haber), might have (podría haber — deducción débil)",
+      "reading": "",
+      "explanation": "Los modales en pasado expresan juicios sobre acciones pasadas. Cada uno tiene un matiz diferente: SHOULD HAVE = arrepentimiento/crítica. COULD HAVE = posibilidad no realizada. MUST HAVE = deducción lógica fuerte. MIGHT HAVE = deducción débil (posible). NEEDN'T HAVE = acción innecesaria que se realizó. DIDN'T NEED TO = no era necesario (y no se realizó). Esta distinción no existe en español.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Modals in the Past (All Forms) (modal + have + past participle | modal + have been + verb-ing)"
+      }
+    },
+    {
+      "front": "needn't have done vs didn't need to do",
+      "back": "needn't have done = lo hizo pero no era necesario. didn't need to do = no lo hizo porque no era necesario.",
+      "reading": "",
+      "explanation": "'I needn't have brought an umbrella' = La traje, pero no llovió (acción realizada innecesariamente). 'I didn't need to bring an umbrella' = No la traje porque no iba a llover (acción correctamente no realizada). En español ambas se traducen como 'no necesitaba traer paraguas' — la distinción se pierde. Esta diferencia es la más difícil para hispanohablantes."
+    },
+    {
+      "front": "must have done (deduction about past)",
+      "back": "must have done = debe haber hecho (deducción lógica fuerte sobre el pasado)",
+      "reading": "",
+      "explanation": "'He must have been exhausted — he slept for 12 hours.' La deducción es fuerte: la evidencia (durmió 12 horas) apunta casi con certeza a la conclusión (estaba agotado). Continua: 'He must have been working all night.' Para deducción pasada NEGATIVA: 'can't have' (no 'mustn't have'): 'She can't have known about it.'"
+    },
+    {
+      "front": "should have / could have (regret and unrealised possibility)",
+      "back": "should have + pp = debería haber + pp (arrepentimiento/crítica). could have + pp = podría haber + pp (posibilidad no aprovechada).",
+      "reading": "",
+      "explanation": "'You should have told me earlier' = debería haberme dicho (arrepentimiento, crítica). 'I could have been a doctor' = Podría haber sido médico (posibilidad no realizada). 'She could have won if she had trained harder.' Para deducción negativa usá 'shouldn't have': 'You shouldn't have said that' = no deberías haber dicho eso."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Modales en pasado — el arsenal completo",
+      "instruction": "Los modales en pasado son imprescindibles para sonar natural en inglés. Expresan deducciones, arrepentimientos, posibilidades perdidas. La distinción needn't have / didn't need to es la más difícil pero la que más distingue a un C1 auténtico de un B2.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué expresa cada modal?",
+      "instruction": "Elegí la función correcta de cada construcción.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Modal correcto?",
+      "instruction": "Identificá el error en el uso del modal o su función. En C1, los matices entre modales son cruciales.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "She must have been working on the project all weekend — it looks amazing.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Must have been working' = deducción presente fuerte sobre actividad pasada continua (modal + have been + -ing). La evidencia (el resultado impresionante) justifica la deducción de actividad continua.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "You mustn't have told her — she clearly didn't know.",
+            "isCorrect": false,
+            "correction": "You can't have told her — she clearly didn't know.",
+            "explanation": "Para deducción NEGATIVA en pasado, se usa 'can't have', no 'mustn't have'. 'Mustn't have' no existe como deducción pasada negativa. 'Mustn't' es obligación presente negativa ('you mustn't do that = no debes hacerlo'). Deducción positiva: 'must have'. Deducción negativa: 'can't have'.",
+            "errorType": "modal-deduction"
+          },
+          {
+            "sentence": "I needn't have prepared all this food — only three people came.",
+            "isCorrect": true,
+            "explanation": "Correcta y precisa. 'Needn't have prepared' = preparé la comida (acción realizada) pero resultó innecesario porque vinieron pocas personas. Esta es la construcción exacta para 'acción realizada que resultó innecesaria'.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "She shouldn't have left without saying goodbye — that was really rude.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Shouldn't have left' = crítica/arrepentimiento sobre una acción pasada inapropiada. Expresa que la acción ocurrió pero no debería haber ocurrido. Tono: reproche o autocrítica.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "He didn't need to have waited — the meeting was cancelled.",
+            "isCorrect": false,
+            "correction": "He needn't have waited — the meeting was cancelled. / He didn't need to wait — the meeting had been cancelled in advance.",
+            "explanation": "Si la persona ESPERÓ y resultó innecesario: 'needn't have waited'. Si no esperó porque supo antes que sería cancelado: 'didn't need to wait'. 'Didn't need to have waited' es una construcción híbrida no estándar. Elegí una de las dos formas correctas según el contexto.",
+            "errorType": "neednt-vs-didnt-need"
+          },
+          {
+            "sentence": "The results could have been better if we had planned more carefully.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Could have been' = posibilidad no realizada en el pasado (los resultados podrían haber sido mejores pero no lo fueron). La cláusula condicional 'if we had planned' confirma el contexto pasado irreal.",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Elegí el modal correcto",
+      "instruction": "Completá con el modal en pasado que corresponde al matiz indicado.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "She looks devastated. She {0} just received some terrible news.",
+            "blanks": [
+              {
+                "answer": "must have",
+                "options": [
+                  "must have",
+                  "should have",
+                  "needn't have",
+                  "could have"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "I {0} bought so many supplies — the shop was much better stocked than I expected and I barely used anything.",
+            "blanks": [
+              {
+                "answer": "needn't have",
+                "options": [
+                  "needn't have",
+                  "couldn't have",
+                  "shouldn't have",
+                  "didn't need to"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "You {0} told her the truth from the beginning. Now it's too late and she feels betrayed.",
+            "blanks": [
+              {
+                "answer": "should have",
+                "options": [
+                  "should have",
+                  "must have",
+                  "needn't have",
+                  "might have"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "The company {0} avoided the financial crisis if they {1} taken better decisions in 2019.",
+            "blanks": [
+              {
+                "answer": "could have",
+                "options": [
+                  "could have",
+                  "must have",
+                  "needn't have",
+                  "should have"
+                ]
+              },
+              {
+                "answer": "had",
+                "options": [
+                  "had",
+                  "have",
+                  "would have",
+                  "did"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completada!",
+      "instruction": "MUST HAVE = deducción fuerte positiva. CAN'T HAVE = deducción fuerte negativa (no 'mustn't have'). SHOULD HAVE = arrepentimiento / lo correcto era X. COULD HAVE = posibilidad no realizada. NEEDN'T HAVE = lo hizo pero era innecesario. DIDN'T NEED TO = no lo hizo porque era innecesario. Todos en tu SRS.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ]
+}

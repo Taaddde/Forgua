@@ -1,0 +1,171 @@
+{
+  "id": "grammar-b2-07",
+  "title": "Advanced Relative Clauses & Participle Clauses",
+  "description": "Cláusulas relativas con preposición + which/whom y cuantificadores, más cláusulas participiales para oraciones más elegantes.",
+  "level": "b2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Advanced Relative Clauses (preposition + which/whom | quantifier + of which/whom)",
+      "back": "cláusulas relativas avanzadas (preposición + relativo, cuantificadores)",
+      "reading": "",
+      "explanation": "B2 incorpora preposiciones antes del pronombre relativo: 'the company for which she works' (formal) vs 'the company she works for' (informal). También cuantificadores: 'He has three brothers, two of whom live abroad'. 'She wrote ten novels, several of which became bestsellers'. 'Whom' es la forma objeto de 'who' — siempre después de preposición en registro formal.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Advanced Relative Clauses (preposition + which/whom | quantifier + of which/whom)"
+      }
+    },
+    {
+      "front": "Participle Clauses (Present participle (-ing) / Past participle (-ed) / Perfect participle (having + pp) + clause)",
+      "back": "cláusulas participiales (participio presente y pasado)",
+      "reading": "",
+      "explanation": "Las participle clauses condensan dos cláusulas en una. Present participle: 'Walking home, I saw a fox' (= While I was walking home). Past participle: 'Built in 1900, the house is listed' (= The house, which was built in 1900). Perfect participle: 'Having finished the report, she went home' (= After she had finished). REGLA FUNDAMENTAL: el sujeto implícito de la participle clause DEBE ser el mismo que el de la cláusula principal."
+    },
+    {
+      "front": "Advanced Modal Meanings (needn't have done | could have been | was to have + past participle | should have done)",
+      "back": "significados avanzados de modales",
+      "reading": "",
+      "explanation": "Modales con 'have + participio' expresan deducción o evaluación del pasado: 'should have done' = deberías haber (reproche), 'needn't have done' = no era necesario pero lo hiciste, 'could have done' = podrías haber (posibilidad no realizada), 'must have done' = debes haber (deducción). Diferencia clave: 'didn't need to' (no lo necesitaba y probablemente no lo hizo) vs 'needn't have' (no lo necesitaba pero SÍ lo hizo)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Cláusulas relativas avanzadas",
+      "instruction": "Ya conocés 'who' y 'which' básicos. B2 agrega dos estructuras avanzadas: (1) Preposición + which/whom (formal) vs estructura informal con preposición al final: 'the book about which she spoke' (muy formal) = 'the book she spoke about' (informal). (2) Cuantificadores: 'She has two colleagues, both of whom speak Mandarin'. Siempre llevan coma — son non-defining.",
+      "itemIndices": [
+        0
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Cláusulas participiales y modales avanzados",
+      "instruction": "Las participle clauses hacen la escritura más elegante y concisa. 'Having checked the results, the team celebrated' = después de verificar. 'Exhausted by the journey, she went straight to bed' = porque estaba agotada. La clave: ambas cláusulas deben tener el MISMO sujeto. Para modales pasados: 'should have told me' (reproche), 'needn't have worried' (no era necesario pero lo hiciste).",
+      "itemIndices": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es la estructura correcta?",
+      "instruction": "Identificá el tipo de cláusula o la forma modal correcta.",
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con las estructuras correctas",
+      "instruction": "Elegí la opción gramaticalmente correcta.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "The company has 50 employees, {0} work remotely at least three days a week.",
+            "blanks": [
+              {
+                "answer": "many of whom",
+                "options": [
+                  "many of whom",
+                  "many of which",
+                  "much of whom",
+                  "most of who"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "{0} the annual report, the board was able to identify several areas for improvement.",
+            "blanks": [
+              {
+                "answer": "Having reviewed",
+                "options": [
+                  "Having reviewed",
+                  "Reviewed",
+                  "Being reviewed",
+                  "Having been reviewing"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "You {0} me sooner — I could have helped you with the presentation.",
+            "blanks": [
+              {
+                "answer": "should have told",
+                "options": [
+                  "should have told",
+                  "should tell",
+                  "must have told",
+                  "needn't have told"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "She {0} the whole presentation from scratch — we already had the slides prepared.",
+            "blanks": [
+              {
+                "answer": "needn't have redone",
+                "options": [
+                  "needn't have redone",
+                  "shouldn't have redone",
+                  "didn't need to redo",
+                  "mustn't have redone"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Identificá errores en estas estructuras avanzadas.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "Walking down the street, the trees were beautiful.",
+            "isCorrect": false,
+            "correction": "Walking down the street, I noticed the beautiful trees.",
+            "explanation": "Error clásico de 'dangling participle'. El sujeto implícito de 'walking' debe ser el mismo que el de la cláusula principal. 'Walking down the street, THE TREES...' implica que los árboles caminaban. El sujeto real (yo, alguien) debe aparecer en la cláusula principal.",
+            "errorType": "grammar"
+          },
+          {
+            "sentence": "She has written five books, three of which have been translated into Spanish.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Three of which' es un cuantificador + 'of which' en cláusula no-defining (siempre con coma). Estructura perfecta para hablar de una porción de un grupo.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "You needn't have bought so much food — we only needed a small amount.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Needn't have + past participle' indica que la acción se realizó aunque no era necesaria. Implica que compraron demasiada comida innecesariamente.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "He must have been very surprised when he found out about the promotion.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Must have been' = deducción sobre el pasado (certainty). 'Must have + past participle' es la forma lógica para deducciones seguras sobre lo pasado.",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Cláusulas relativas avanzadas: preposición + which/whom (formal), cuantificador + of which/whom. Participle clauses: -ing (simultáneo/causa), -ed (pasiva reducida), having + pp (acción anterior). El sujeto SIEMPRE debe ser el mismo. Modales pasados: should have (reproche), needn't have (innecesario pero realizado), could have (posibilidad no realizada), must have (deducción segura). Estas tres estructuras son las que más diferencian el nivel B2 del B1 en inglés escrito.",
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
+    }
+  ]
+}

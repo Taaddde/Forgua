@@ -1,0 +1,115 @@
+{
+  "id": "reading-b2-05",
+  "title": "Reading: A Letter from Abroad",
+  "description": "Lectura de una carta formal/semi-formal de una estudiante de intercambio. Registro epistolar y vocabulario académico en contexto.",
+  "level": "b2",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "rigorous",
+      "back": "riguroso",
+      "reading": "/ˈrɪɡərəs/",
+      "explanation": "Que aplica reglas, procedimientos o estándares muy estrictos. 'A rigorous academic environment' = un entorno académico riguroso. Cognado con 'riguroso'. Relacionado: 'rigour' (BrE) / 'rigor' (AmE)."
+    },
+    {
+      "front": "demanding",
+      "back": "exigente",
+      "reading": "/dɪˈmændɪŋ/",
+      "explanation": "Que requiere mucho esfuerzo, habilidad o atención. 'A demanding course' = un curso exigente. No confundir con 'commanding' (que tiene autoridad). Puede ser positivo (un trabajo desafiante) o negativo (una persona que exige demasiado)."
+    },
+    {
+      "front": "homesickness",
+      "back": "nostalgia / morriña",
+      "reading": "/ˈhoʊmsɪknəs/",
+      "explanation": "Sentimiento de tristeza por estar lejos de casa. 'A bout of homesickness' = un ataque de nostalgia. Puede ser también 'homesick' (adjetivo): 'I feel homesick'."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Carta formal semi-formal: vocabulario y registro",
+      "instruction": "Esta carta usa un registro semi-formal — el tipo de inglés que usarías para escribir a un profesor. Notá la apertura ('I hope this letter finds you well'), el tono reflexivo, y cómo Lucía equilibra los aspectos positivos con las dificultades.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "A Letter from Abroad",
+      "instruction": "Leé la carta de Lucía a su profesor. Prestá atención a cómo organiza la información — primero lo académico, luego lo personal/cultural, luego las dificultades, y termina con una nota positiva.",
+      "itemIndices": [],
+      "config": {
+        "passage": {
+          "id": "b2-reading-letter-from-abroad",
+          "title": "A Letter from Abroad",
+          "level": "b2",
+          "text": "Dear Professor Martínez,\n\nI hope this letter finds you well. I am writing to share an update on my experience as an exchange student at the University of Edinburgh, as you kindly asked me to do before I left.\n\nI have been here for nearly four months now, and I must say that the experience has exceeded my expectations in many ways. The academic environment is stimulating and rigorous. The courses I am taking — Contemporary British Literature, Sociolinguistics, and Research Methodology — have challenged me to think critically in ways I hadn't anticipated. The professors encourage debate and independent thought, and the assessment system relies heavily on essays and presentations rather than written exams, which I have found both liberating and demanding.\n\nBeyond academics, life in Edinburgh has been an education in itself. The city is breathtaking, with its medieval Old Town and elegant Georgian New Town. I have attended the tail end of the Edinburgh Festival, where I saw theatre productions and comedy shows from around the world. The cultural diversity here is remarkable — my flatmates come from Nigeria, South Korea, and Sweden, and our evening conversations have broadened my perspective more than any textbook could.\n\nI will not pretend that everything has been easy. The Scottish weather takes some getting used to, and there have been moments of homesickness that caught me off guard. The cost of living is considerably higher than at home, which has forced me to budget carefully. I have also had to adapt to a very different teaching style, where students are expected to do extensive independent reading rather than relying primarily on lectures.\n\nNevertheless, I would not trade this experience for anything. It has strengthened my English, deepened my academic interests, and given me a confidence that I did not possess before. I look forward to discussing my research project with you upon my return in June.\n\nWith warm regards,\nLucía Fernández",
+          "translation": "Estimado Profesor Martínez,\n\nEspero que esta carta lo encuentre bien...",
+          "vocabulary": ["exchange student - estudiante de intercambio", "exceeded - superado", "stimulating - estimulante", "rigorous - riguroso", "anticipated - anticipado", "assessment - evaluación", "liberating - liberador", "demanding - exigente", "breathtaking - impresionante", "homesickness - nostalgia/morriña", "budget - presupuestar", "extensive - extenso"],
+          "questions": [
+            {
+              "question": "How does the assessment system at Edinburgh differ from what Lucía is used to?",
+              "options": ["There are more written exams.", "It focuses on essays and presentations rather than written exams.", "Students are graded on attendance.", "There are no assessments at all."],
+              "correctIndex": 1,
+              "explanation": "Lucía says 'the assessment system relies heavily on essays and presentations rather than written exams.'"
+            },
+            {
+              "question": "What aspect of Edinburgh life broadened Lucía's perspective the most?",
+              "options": ["The Scottish weather.", "The medieval architecture.", "Evening conversations with flatmates from different countries.", "The Edinburgh Festival."],
+              "correctIndex": 2,
+              "explanation": "Lucía says her evening conversations with flatmates from Nigeria, South Korea, and Sweden 'have broadened my perspective more than any textbook could.'"
+            },
+            {
+              "question": "What teaching style difference did Lucía have to adapt to?",
+              "options": ["Classes are only online.", "Students must do extensive independent reading instead of relying on lectures.", "All courses are taught in Scottish dialect.", "There are no professors, only tutors."],
+              "correctIndex": 1,
+              "explanation": "Lucía mentions adapting to a style 'where students are expected to do extensive independent reading rather than relying primarily on lectures.'"
+            },
+            {
+              "question": "Which sentence best describes Lucía's overall tone in the letter?",
+              "options": ["Overwhelmingly negative — she is unhappy and wants to go home.", "Balanced — she acknowledges difficulties but is overall positive and grateful.", "Completely formal and impersonal, without personal feelings.", "Extremely enthusiastic, with no mention of any challenges."],
+              "correctIndex": 1,
+              "explanation": "Lucía balances positive experiences (academic rigor, cultural diversity) with honest acknowledgment of challenges (weather, homesickness, cost of living) before ending on a positive note ('I would not trade this experience for anything')."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "word-in-context",
+      "title": "Vocabulario de la carta en contexto",
+      "instruction": "Aplicá el vocabulario de la carta a situaciones similares.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "rigorous",
+            "translation": "riguroso",
+            "options": [
+              "The hiring process was rigorous — candidates had to complete three interviews and a technical assessment.",
+              "She gave a rigorous answer that was short and vague.",
+              "The weather in Edinburgh is rigorous and pleasant.",
+              "The rigorous student always arrived late to class."
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "exceed expectations",
+            "translation": "superar las expectativas",
+            "options": [
+              "The conference exceeded my expectations — it was far better than I had anticipated.",
+              "The project exceeded its expectations, so it was cancelled.",
+              "She exceeded her expectations because she arrived on time.",
+              "The report exceeded all expectations because it was very long."
+            ],
+            "correctIndex": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "La carta de Lucía es un ejemplo de inglés semi-formal / académico: apertura cortés ('I hope this letter finds you well'), estructura clara (académico → cultural → dificultades → conclusión positiva), vocabulario preciso ('stimulating', 'rigorous', 'demanding', 'homesickness'). Notar 'I will not pretend that everything has been easy' = uso de 'pretend' correctamente como 'fingir' (no 'pretender'). La carta demuestra un registro B2+ perfecto.",
+      "itemIndices": [0, 1, 2]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "reading-c2-01",
+  "title": "Reading: On the Nature of Memory",
+  "description": "Ensayo filosófico-científico sobre la memoria como reconstrucción. Vocabulario académico C2 y argumentación sofisticada.",
+  "level": "c2",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "On the Nature of Memory",
+      "back": "Sobre la naturaleza de la memoria — ensayo C2 que combina neurociencia, filosofía y literatura.",
+      "explanation": "Este ensayo explora cómo los recuerdos son reconstrucciones dinámicas, no grabaciones fijas. Conecta investigación neurocientífica (reconsolidación), filosofía (Derek Parfit), literatura (Proust) y justicia criminal (Elizabeth Loftus, Innocence Project). Modelo de escritura académica con hedging elaborado."
+    },
+    {
+      "front": "Key concept: reconsolidation",
+      "back": "Reconsolidación — el proceso por el cual cada acto de recordar modifica el recuerdo.",
+      "explanation": "Concepto clave del ensayo. Cada vez que recuperamos un recuerdo, no accedemos a una grabación fija sino que lo reconstruimos, ensamblando fragmentos de datos sensoriales y emocionales. Esto tiene implicaciones profundas para la identidad personal, el testimonio legal, y la noción misma de 'verdad' narrativa."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Preparación para el ensayo",
+      "instruction": "Vas a leer un ensayo sofisticado que combina neurociencia, filosofía y literatura. Prestá atención al hedging ('would seem to', 'may be', 'perhaps'), a la argumentación estructurada por párrafos, y al vocabulario académico (confabulation, reconsolidation, metaphysically, malleability). El tema central: la memoria no preserva, transforma.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Lectura con comprensión",
+      "instruction": "Leé el ensayo y respondé las preguntas sobre su argumentación.",
+      "itemIndices": [],
+      "config": {
+        "passage": {
+          "id": "c2-reading-nature-of-memory",
+          "title": "On the Nature of Memory",
+          "level": "c2",
+          "text": "Memory is, by its very nature, a paradox. It purports to preserve the past, yet every act of remembering is simultaneously an act of creation. The neuroscientific evidence on this point is unambiguous: when we retrieve a memory, we do not access a fixed recording stored in some cerebral archive. Rather, we reconstruct it — reassembling fragments of sensory data, emotional associations, and narrative frameworks into something that feels coherent and authentic but is, in truth, a confabulation shaped by our present circumstances, our current emotional state, and the accumulated sediment of every previous recollection of the same event.\n\nThis insight, which has emerged from decades of research into what psychologists call 'reconsolidation,' carries profound implications for our understanding of personal identity. If our memories are not faithful records but dynamic reconstructions, then the self that we construct from those memories is itself a kind of ongoing fiction — a story we tell ourselves about who we are, revised and edited with each telling. The philosopher Derek Parfit explored this unsettling territory in 'Reasons and Persons,' arguing that personal identity over time is far less determinate than common sense suggests.\n\nThe unreliability of memory has consequences that extend well beyond the philosophical. In the domain of criminal justice, eyewitness testimony remains one of the most persuasive forms of evidence presented to juries, yet decades of research by Elizabeth Loftus and others have demonstrated its alarming malleability. Loftus's experiments showed that subtle changes in the phrasing of questions could implant entirely false memories in subjects who subsequently reported them with complete conviction. The Innocence Project has documented over 375 wrongful convictions in the United States that were later overturned by DNA evidence; in approximately 70 percent of these cases, mistaken eyewitness identification was a contributing factor.\n\nAnd yet, for all its imperfections, memory remains the faculty upon which human civilization most fundamentally depends. Perhaps the most honest relationship we can cultivate with our memories is one of grateful skepticism: cherishing them for the meaning they confer upon our lives while acknowledging that they are, and have always been, works of imagination as much as records of fact.",
+          "translation": "La memoria es, por su propia naturaleza, una paradoja. Pretende preservar el pasado, sin embargo cada acto de recordar es simultáneamente un acto de creación. La evidencia neurocientífica sobre este punto es inequívoca: cuando recuperamos un recuerdo, no accedemos a una grabación fija almacenada en algún archivo cerebral. Más bien, lo reconstruimos — reensamblando fragmentos de datos sensoriales, asociaciones emocionales y marcos narrativos en algo que se siente coherente y auténtico pero que es, en verdad, una confabulación moldeada por nuestras circunstancias presentes.",
+          "vocabulary": ["confabulation - confabulación", "reconsolidation - reconsolidación", "malleability - maleabilidad", "wrongful convictions - condenas erróneas", "skepticism - escepticismo"],
+          "questions": [
+            {
+              "question": "What does the text mean when it says memory is 'a confabulation shaped by our present circumstances'?",
+              "options": [
+                "Memories are deliberate lies we tell ourselves.",
+                "Memories are perfect recordings distorted by technology.",
+                "When we remember, we reconstruct events influenced by our current state rather than accessing fixed recordings.",
+                "Confabulation is a rare medical condition that only affects some people's memories."
+              ],
+              "correctIndex": 2,
+              "explanation": "The text explains that we 'reconstruct' memories by 'reassembling fragments' into something shaped by 'our present circumstances, our current emotional state, and the accumulated sediment of every previous recollection,' rather than accessing a fixed recording."
+            },
+            {
+              "question": "How does Loftus's research illustrate the unreliability of eyewitness testimony?",
+              "options": [
+                "She proved that witnesses always lie deliberately in court.",
+                "She showed that subtle changes in question phrasing could implant false memories that subjects reported with complete conviction.",
+                "She demonstrated that only elderly people have unreliable memories.",
+                "She found that eyewitnesses remember faces but not events."
+              ],
+              "correctIndex": 1,
+              "explanation": "The text describes how Loftus's experiments showed 'subtle changes in the phrasing of questions could implant entirely false memories in subjects who subsequently reported them with complete conviction.'"
+            },
+            {
+              "question": "What does the author suggest is the ideal relationship we should have with our memories?",
+              "options": [
+                "We should trust them completely as faithful records.",
+                "We should discard them as entirely fictional.",
+                "We should approach them with 'grateful skepticism' — cherishing their meaning while acknowledging their imaginative nature.",
+                "We should only rely on written records instead of personal memory."
+              ],
+              "correctIndex": 2,
+              "explanation": "The author proposes 'grateful skepticism: cherishing them for the meaning they confer upon our lives while acknowledging that they are, and have always been, works of imagination as much as records of fact.'"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completada!",
+      "instruction": "Acabás de leer un modelo de ensayo académico C2: combina evidencia científica, filosofía y literatura, usa hedging constante ('would seem', 'may', 'perhaps'), construye argumentación por párrafos bien delimitados, y llega a una conclusión matizada. El tema — la memoria como reconstrucción — es también una lección sobre la humildad epistémica que marca el pensamiento C2.",
+      "itemIndices": [0, 1]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "grammar-a2-22",
+  "title": "Should / Shouldn't: Giving Advice",
+  "description": "'You should see a doctor' — 'should' es el verbo modal para dar consejos. Más suave que 'must', más directo que 'could'. Estructura fija: should + verbo base, sin importar la persona.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Subject + should/shouldn't + base verb",
+      "back": "Sujeto + debería/no debería + verbo en infinitivo",
+      "reading": "/ʃʊd/ /ˈʃʊdənt/",
+      "explanation": "'Should' es un verbo modal que expresa consejo, recomendación o lo que es apropiado. Estructura: sujeto + should + verbo BASE (sin 'to', sin -s). Igual para todas las personas: I should, he should, they should. Negativo: shouldn't (should not). Pregunta: Should I...? Should he...? Traducción: 'debería' en español. Más suave que 'must' (obligación), más fuerte que 'could' (posibilidad).",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Should / Shouldn't (Subject + should/shouldn't + base verb)"
+      }
+    },
+    {
+      "front": "You should see a doctor. / She should rest more.",
+      "back": "Deberías ir al médico. / Ella debería descansar más.",
+      "reading": "/juː ʃʊd siː ə ˈdɑːktər/ /ʃiː ʃʊd rɛst mɔːr/",
+      "explanation": "Uso principal: dar consejos a otros. Super común cuando alguien te cuenta un problema: 'I have a headache' → 'You should take an aspirin'. La estructura es siempre: sujeto + should + verbo base. Errores típicos de hispanohablantes: (1) 'You should to see' ✗ — nada de 'to' después de should. (2) 'She shoulds' ✗ — los modales no se conjugan."
+    },
+    {
+      "front": "You shouldn't smoke so much. / They shouldn't be late.",
+      "back": "No deberías fumar tanto. / No deberían llegar tarde.",
+      "reading": "/juː ˈʃʊdənt smoʊk soʊ mʌtʃ/ /ðeɪ ˈʃʊdənt biː leɪt/",
+      "explanation": "'Shouldn't' = should not. Es la forma de dar consejos negativos, desaconsejar algo. 'You shouldn't drink coffee at night' = 'No deberías tomar café a la noche'. La contracción 'shouldn't' es MUY común en conversación; 'should not' es más formal o enfático. Pronunciación: /ˈʃʊdənt/ — la 'l' es muda."
+    },
+    {
+      "front": "Should I call him? / What should we do?",
+      "back": "¿Debería llamarlo? / ¿Qué deberíamos hacer?",
+      "reading": "/ʃʊd aɪ kɔːl hɪm/ /wʌt ʃʊd wiː duː/",
+      "explanation": "Para pedir consejo: inversión sujeto-should. 'Should I...?' (¿debería...?), 'Should we...?', 'What should I do?'. Estructura: (wh-word) + should + sujeto + verbo base. 'Should I tell her the truth?' = '¿Le debería decir la verdad?'. Muy útil cuando estás indeciso y querés la opinión del otro."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "'Should' para dar consejos",
+      "instruction": "Estructura: sujeto + should + verbo base. Igual para todas las personas. Sin 'to'. 'Should' es el verbo modal por excelencia para dar recomendaciones: 'You should study more', 'She should relax'.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Negativo y preguntas",
+      "instruction": "Negativo: shouldn't + verbo base ('You shouldn't smoke'). Pregunta: Should + sujeto + verbo base ('Should I call her?'). Para pedir opinión o consejo, la forma 'Should I...?' es perfecta.",
+      "itemIndices": [2, 3]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Consejo o prohibición?",
+      "instruction": "Elegí la traducción correcta según el contexto: consejo positivo (should) o desaconsejar (shouldn't).",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con should o shouldn't",
+      "instruction": "Elegí entre should, shouldn't o la forma correcta del verbo.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "You look tired. You {0} get some sleep.",
+            "blanks": [
+              { "answer": "should", "options": ["should", "shouldn't", "must", "can't"] }
+            ]
+          },
+          {
+            "template": "It's raining. We {0} take an umbrella.",
+            "blanks": [
+              { "answer": "should", "options": ["should", "shouldn't", "don't", "must not"] }
+            ]
+          },
+          {
+            "template": "You {0} eat so much sugar — it's bad for you.",
+            "blanks": [
+              { "answer": "shouldn't", "options": ["shouldn't", "should", "don't have to", "mustn't"] }
+            ]
+          },
+          {
+            "template": "{0} I {1} her the truth, or is it better to stay quiet?",
+            "blanks": [
+              { "answer": "Should", "options": ["Should", "Do", "Am", "Will"] },
+              { "answer": "tell", "options": ["tell", "to tell", "told", "telling"] }
+            ]
+          },
+          {
+            "template": "What {0} we {1} if he doesn't come?",
+            "blanks": [
+              { "answer": "should", "options": ["should", "shouldn't", "do", "are"] },
+              { "answer": "do", "options": ["do", "to do", "doing", "did"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Decidí si cada consejo está bien formado en inglés.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "You should to see a doctor.",
+            "isCorrect": false,
+            "correction": "You should see a doctor.",
+            "explanation": "Después de 'should' el verbo va en BASE, sin 'to'. Es la regla de todos los verbos modales: should, can, must, will, might. Nunca 'should to' ni 'can to'.",
+            "errorType": "modal-form"
+          },
+          {
+            "sentence": "She should study more if she wants to pass.",
+            "isCorrect": true,
+            "explanation": "Perfecto. 'Should' igual para todas las personas (no 'shoulds'), seguido del verbo base 'study'. Estructura correcta.",
+            "errorType": "modal"
+          },
+          {
+            "sentence": "He shoulds call his mother more often.",
+            "isCorrect": false,
+            "correction": "He should call his mother more often.",
+            "explanation": "Los verbos modales NUNCA cambian según la persona. 'I should', 'he should', 'they should' — todos iguales. 'Shoulds' no existe. Misma regla con can, must, will, might.",
+            "errorType": "conjugation"
+          },
+          {
+            "sentence": "Should I bring anything to the party?",
+            "isCorrect": true,
+            "explanation": "Correcto. Pregunta con 'should': should + sujeto + verbo base. Es la forma estándar para ofrecerse a colaborar o pedir instrucciones.",
+            "errorType": "question"
+          },
+          {
+            "sentence": "You shouldn't to be late for the interview.",
+            "isCorrect": false,
+            "correction": "You shouldn't be late for the interview.",
+            "explanation": "'Shouldn't' también va seguido del verbo BASE, sin 'to'. 'Shouldn't be', no 'shouldn't to be'. La 'to' nunca aparece después de un modal.",
+            "errorType": "modal-form"
+          }
+        ]
+      }
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá consejos en inglés",
+      "instruction": "Ordená las palabras para formar consejos correctos con should/shouldn't.",
+      "itemIndices": [0],
+      "config": {
+        "sentences": [
+          {
+            "translation": "Deberías beber más agua.",
+            "fragments": ["You", "should", "drink", "more water"],
+            "correctOrder": [0, 1, 2, 3]
+          },
+          {
+            "translation": "No deberíamos llegar tarde a la reunión.",
+            "fragments": ["We", "shouldn't", "be late", "for the meeting"],
+            "correctOrder": [0, 1, 2, 3]
+          },
+          {
+            "translation": "¿Debería llamarla esta noche?",
+            "fragments": ["Should", "I", "call her", "tonight?"],
+            "correctOrder": [0, 1, 2, 3]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Resumen: Should + verbo base = consejo. Shouldn't + verbo base = desaconsejar. Pregunta: Should I/we/you + verbo base. NUNCA 'should to', NUNCA 'shoulds'. Los modales no se conjugan. 'Should' es más suave que 'must' (obligación fuerte) y más directo que 'could' (sugerencia débil). Ideal para dar recomendaciones amistosas.",
+      "itemIndices": [0, 1, 2, 3]
+    }
+  ]
+}

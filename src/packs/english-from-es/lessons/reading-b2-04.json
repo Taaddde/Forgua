@@ -1,0 +1,106 @@
+{
+  "id": "reading-b2-04",
+  "title": "Reading: The Gig Economy — Freedom or Exploitation?",
+  "description": "Texto argumentativo sobre la economía gig: vocabulario laboral, estructura de debate y análisis de perspectivas opuestas.",
+  "level": "b2",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "precarious",
+      "back": "precario / inestable",
+      "reading": "/prɪˈkɛriəs/",
+      "explanation": "No seguro, estable o garantizado. 'Precarious work' = trabajo precario (sin estabilidad). Cognado con 'precario'. Colocaciones: precarious employment, precarious situation, financially precarious."
+    },
+    {
+      "front": "autonomy",
+      "back": "autonomía",
+      "reading": "/ɔːˈtɑːnəmi/",
+      "explanation": "Derecho o condición de tener independencia y libertad para tomar propias decisiones. Colocaciones: professional autonomy, worker autonomy, personal autonomy. Adjetivo: autonomous."
+    },
+    {
+      "front": "gig economy",
+      "back": "economía gig",
+      "reading": "/ɡɪɡ ɪˈkɑːnəmi/",
+      "explanation": "Mercado laboral caracterizado por contratos a corto plazo y trabajo freelance en lugar de empleos permanentes. 'Gig' viene del argot musical — un 'gig' es una actuación puntual. Plataformas: Uber, Fiverr, Deliveroo."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario laboral y económico",
+      "instruction": "Este texto debate los pros y contras del trabajo freelance y los contratos temporales. 'Precarious' (trabajo precario) y 'autonomy' (independencia) son los dos polos del debate. La 'gig economy' es uno de los temas laborales más discutidos de la última década.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "The Gig Economy: Freedom or Exploitation?",
+      "instruction": "Leé el texto con atención a cómo el autor presenta AMBAS perspectivas antes de llegar a una conclusión. Identificá los argumentos a favor (párrafo 2) y en contra (párrafos 3-4).",
+      "itemIndices": [],
+      "config": {
+        "passage": {
+          "id": "b2-reading-gig-economy",
+          "title": "The Gig Economy: Freedom or Exploitation?",
+          "level": "b2",
+          "text": "The gig economy — a labor market characterized by short-term contracts and freelance work rather than permanent jobs — has grown dramatically in the past decade. Companies like Uber, Deliveroo, and Fiverr have created platforms that connect millions of independent workers with customers. But is this new way of working a liberation or a trap?\n\nAdvocates of the gig economy emphasize the freedom it offers. Workers can choose when, where, and how much they work. A graphic designer can take on projects from clients across the globe while sitting in a coffee shop. A driver can log in to a ride-sharing app whenever they need extra income. For people who value autonomy and flexibility above all else, the gig economy can be genuinely empowering.\n\nCritics, however, paint a very different picture. They point out that most gig workers lack the basic protections that traditional employees enjoy: health insurance, paid sick leave, pension contributions, and unemployment benefits. The 'flexibility' that companies promote often means unpredictable income and financial insecurity. A delivery rider who earns well during peak hours might struggle during quiet periods, with no guaranteed minimum wage to fall back on.\n\nThere is also a power imbalance at the heart of the gig economy. While platforms present workers as independent contractors, these workers often have little control over crucial aspects of their work, such as pricing and customer allocation. Algorithms, not humans, make many of the decisions that determine a worker's earnings and opportunities.\n\nSeveral countries are now grappling with how to regulate the gig economy. Spain has passed laws requiring platforms to treat delivery riders as employees. The UK Supreme Court ruled that Uber drivers are 'workers' entitled to minimum wage and paid holidays. These developments suggest a growing recognition that the gig economy, left unregulated, risks creating a two-tier labor market: secure, well-paid jobs for some, and precarious, underpaid work for others.\n\nThe challenge is to preserve the genuine benefits of flexible work while ensuring that the people who power these platforms are treated fairly. That will require innovative policy solutions and, above all, political will.",
+          "translation": "La economía gig — un mercado laboral caracterizado por contratos a corto plazo — ha crecido drásticamente en la última década...",
+          "vocabulary": ["gig economy - economía gig", "freelance - freelance/independiente", "advocates - defensores", "autonomy - autonomía", "empowering - empoderante", "protections - protecciones", "unpredictable - impredecible", "financial insecurity - inseguridad financiera", "power imbalance - desequilibrio de poder", "contractors - contratistas", "precarious - precario", "innovative - innovador"],
+          "questions": [
+            {
+              "question": "What benefit of the gig economy do its advocates emphasize?",
+              "options": ["Better salaries than traditional jobs.", "The freedom to choose when, where, and how much to work.", "Access to health insurance.", "Guaranteed retirement benefits."],
+              "correctIndex": 1,
+              "explanation": "The text says advocates 'emphasize the freedom it offers. Workers can choose when, where, and how much they work.'"
+            },
+            {
+              "question": "What does the text identify as a fundamental problem with the gig economy's power structure?",
+              "options": ["Customers have too much power over workers.", "Workers set their own prices too high.", "Algorithms, not humans, control key decisions affecting workers' earnings.", "Gig workers earn more than traditional employees."],
+              "correctIndex": 2,
+              "explanation": "The text states that 'Algorithms, not humans, make many of the decisions that determine a worker's earnings and opportunities.'"
+            },
+            {
+              "question": "What did the UK Supreme Court decide about Uber drivers?",
+              "options": ["They are independent contractors with no special rights.", "They are full employees of Uber.", "They are 'workers' entitled to minimum wage and paid holidays.", "They must form a labor union."],
+              "correctIndex": 2,
+              "explanation": "The text says 'The UK Supreme Court ruled that Uber drivers are workers entitled to minimum wage and paid holidays.'"
+            },
+            {
+              "question": "What does 'a two-tier labor market' mean in the context of the final paragraph?",
+              "options": ["A market with two types of technology.", "A labor market divided into good jobs for some and bad jobs for others.", "A market that operates on two floors of a building.", "A labor market that changes twice a year."],
+              "correctIndex": 1,
+              "explanation": "The text explains 'two-tier' as: 'secure, well-paid jobs for some, and precarious, underpaid work for others' — two very different tiers (levels) of work quality and security."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Estas oraciones resumen el argumento del texto. Identificá errores de comprensión o vocabulario.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "The gig economy is universally praised as a positive development for all workers.",
+            "isCorrect": false,
+            "correction": "The gig economy is a controversial development that offers freedom to some workers while creating financial insecurity for others.",
+            "explanation": "El texto presenta claramente los dos lados del debate — no concluye que sea 'universally praised'. Hay defensores Y críticos, y el texto concluye con el desafío de regularlo apropiadamente.",
+            "errorType": "comprehension"
+          },
+          {
+            "sentence": "Critics argue that the freedom promoted by gig platforms often comes at the cost of basic worker protections.",
+            "isCorrect": true,
+            "explanation": "Correcta. Esta oración resume perfectamente el argumento de los críticos del párrafo 3: la flexibilidad/libertad viene a expensas de seguro médico, licencias, jubilación y salario mínimo.",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "El texto sobre la gig economy presenta el debate clásico: libertad vs. protección. Estructura: pregunta central → argumentos a favor → argumentos en contra → evidencia (UK, España) → conclusión equilibrada. Vocabulario laboral: 'autonomy', 'precarious', 'power imbalance', 'contractors vs employees', 'two-tier labor market'. Para B2, es esencial poder resumir ambas perspectivas sin tomar partido, tal como hace el autor en los primeros párrafos.",
+      "itemIndices": [0, 1, 2]
+    }
+  ]
+}

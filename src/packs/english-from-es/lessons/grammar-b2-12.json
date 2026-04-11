@@ -1,0 +1,179 @@
+{
+  "id": "grammar-b2-12",
+  "title": "Participle Clauses",
+  "description": "Cómo usar cláusulas participiales para hacer oraciones más concisas y formales: 'Having finished the report, she left'. Tres tipos: present participle (-ing), past participle (-ed) y perfect participle (having + pp).",
+  "level": "b2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Participle Clauses (Present participle (-ing) / Past participle (-ed) / Perfect participle (having + pp) + clause)",
+      "back": "Cláusulas participiales que reemplazan sujeto + verbo para lograr oraciones más concisas y formales. El sujeto implícito DEBE coincidir con el de la cláusula principal.",
+      "reading": "/ˈpɑːrtɪsɪpl ˈklɔːzɪz/",
+      "explanation": "Las participle clauses reemplazan cláusulas más largas con sujeto + verbo. Present participle (-ing): acciones simultáneas o causa ('Walking home, I saw a fox'). Past participle (-ed): pasiva reducida ('Built in 1900, the house is still standing'). Perfect participle (having + pp): acción anterior completada ('Having finished the exam, she left'). PELIGRO: el sujeto implícito de la participle clause DEBE ser el mismo que el de la cláusula principal (dangling participle).",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Participle Clauses (Present participle (-ing) / Past participle (-ed) / Perfect participle (having + pp) + clause)"
+      }
+    },
+    {
+      "front": "Having finished the report, she went home early.",
+      "back": "Habiendo terminado el informe, se fue a casa temprano.",
+      "reading": "/ˈhævɪŋ ˈfɪnɪʃt ðə rɪˈpɔːrt ʃiː wɛnt hoʊm ˈɜːrli/",
+      "explanation": "Perfect participle (having + pp): la acción de 'finishing the report' ocurrió ANTES que 'going home'. Equivale a 'After she had finished the report, she went home early'. El sujeto de ambas cláusulas es 'she' — correcto."
+    },
+    {
+      "front": "Not knowing what to say, he remained silent.",
+      "back": "Sin saber qué decir, se quedó en silencio.",
+      "reading": "/nɒt ˈnoʊɪŋ wɒt tə seɪ hiː rɪˈmeɪnd ˈsaɪlənt/",
+      "explanation": "Present participle negativo: 'not' va inmediatamente antes del participio. Equivale a 'Because he didn't know what to say, he remained silent'. La causa y el resultado ocurren casi simultáneamente; el sujeto implícito es 'he' en ambas cláusulas."
+    },
+    {
+      "front": "Written in the 18th century, the novel still feels relevant today.",
+      "back": "Escrita en el siglo XVIII, la novela todavía se siente relevante hoy.",
+      "reading": "/ˈrɪtən ɪn ðə ˌeɪˈtiːnθ ˈsɛntʃəri ðə ˈnɒvəl stɪl fiːlz ˈrɛlɪvənt təˈdeɪ/",
+      "explanation": "Past participle (-ed): equivale a una cláusula relativa de pasiva reducida — 'The novel, which was written in the 18th century, still feels...'. El sujeto de la participle clause y de la cláusula principal es 'the novel'. Frecuente en escritura formal y periodística."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Tres tipos de participle clauses",
+      "instruction": "Las participle clauses reemplazan cláusulas con sujeto + verbo para ser más concisos. Present (-ing) para acciones simultáneas o causa; Past (-ed) para pasiva reducida; Perfect (having + pp) para acción previa completada. Regla de oro: el sujeto implícito SIEMPRE debe coincidir con el de la cláusula principal.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Past participle: pasiva reducida",
+      "instruction": "El past participle (-ed/-irregular) funciona como una cláusula relativa de pasiva abreviada. Muy común en escritura formal y periodismo. Compará: 'Written in 1900...' = 'Which was written in 1900...'",
+      "itemIndices": [3]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá las participle clauses",
+      "instruction": "Elegí la forma correcta del participio para cada oración.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "{0} the problem, the engineer called her supervisor.",
+            "blanks": [
+              { "answer": "Having identified", "options": ["Having identified", "Having been identified", "Being identified"] }
+            ]
+          },
+          {
+            "template": "{0} in 1889, the Eiffel Tower was originally a temporary structure.",
+            "blanks": [
+              { "answer": "Built", "options": ["Built", "Building", "Having built"] }
+            ]
+          },
+          {
+            "template": "{0} what to do, she decided to ask for help.",
+            "blanks": [
+              { "answer": "Not knowing", "options": ["Not knowing", "Not known", "Not having known"] }
+            ]
+          },
+          {
+            "template": "{0} all the evidence, the jury reached a verdict.",
+            "blanks": [
+              { "answer": "Having reviewed", "options": ["Having reviewed", "Being reviewed", "Reviewed"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "word-in-context",
+      "title": "Participle clauses en contexto",
+      "instruction": "Elegí la oración con la participle clause correctamente formada.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "having + pp",
+            "translation": "perfect participle: acción previa",
+            "options": [
+              "Having eaten lunch, the meeting started.",
+              "Having eaten lunch, we started the meeting.",
+              "Having been eaten lunch, she left.",
+              "Eaten lunch, she started working."
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "past participle",
+            "translation": "participio pasado: pasiva reducida",
+            "options": [
+              "Translating into 40 languages, the book is a classic.",
+              "Translated into 40 languages, the book is a classic.",
+              "Having translating into 40 languages, the book is a classic.",
+              "Being translated into 40 languages, the book is a classic."
+            ],
+            "correctIndex": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Dangling participle o cláusula correcta?",
+      "instruction": "Identificá si la participle clause es correcta o tiene un error de sujeto (dangling participle) u otro problema.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "Walking down the street, the trees were beautiful.",
+            "isCorrect": false,
+            "correction": "Walking down the street, I noticed the beautiful trees.",
+            "explanation": "INCORRECTO: dangling participle. El sujeto implícito de 'walking' debe ser el mismo que el de la cláusula principal. 'The trees' no pueden caminar. Hay que reescribir con un sujeto humano como sujeto de la cláusula principal.",
+            "errorType": "dangling-participle"
+          },
+          {
+            "sentence": "Having lived in Paris for ten years, she spoke French fluently.",
+            "isCorrect": true,
+            "explanation": "Correcto. Perfect participle (having + pp) para acción previa completada. El sujeto de 'having lived' y de 'she spoke' es el mismo: 'she'. La secuencia temporal es clara: primero vivió en París, después habló francés con fluidez.",
+            "errorType": "perfect-participle"
+          },
+          {
+            "sentence": "Exhausted by the long journey, a hot bath was exactly what she needed.",
+            "isCorrect": false,
+            "correction": "Exhausted by the long journey, she needed exactly a hot bath.",
+            "explanation": "INCORRECTO: dangling participle. 'Exhausted' se refiere implícitamente a 'she', pero el sujeto de la cláusula principal es 'a hot bath'. El sujeto de ambas cláusulas debe coincidir.",
+            "errorType": "dangling-participle"
+          },
+          {
+            "sentence": "Designed by a renowned architect, the building attracts thousands of visitors.",
+            "isCorrect": true,
+            "explanation": "Correcto. Past participle (-ed) como pasiva reducida. Equivale a 'The building, which was designed by a renowned architect, attracts...'. El sujeto implícito de 'designed' y el de la cláusula principal son ambos 'the building'.",
+            "errorType": "past-participle"
+          }
+        ]
+      }
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá las participle clauses",
+      "instruction": "Ordená los fragmentos para formar oraciones correctas con participle clauses.",
+      "itemIndices": [0, 1],
+      "config": {
+        "sentences": [
+          {
+            "translation": "Habiendo terminado el informe, ella se fue a casa temprano.",
+            "fragments": ["Having finished the report,", "she", "went home", "early."],
+            "correctOrder": [0, 1, 2, 3]
+          },
+          {
+            "translation": "Sin saber qué decir, él se quedó en silencio.",
+            "fragments": ["Not knowing what to say,", "he", "remained", "silent."],
+            "correctOrder": [0, 1, 2, 3]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Participle clauses: tres tipos — present (-ing) para acciones simultáneas o causa, past (-ed) para pasiva reducida, perfect (having + pp) para acción previa. REGLA DE ORO: el sujeto implícito de la participle clause SIEMPRE debe coincidir con el sujeto de la cláusula principal. Cuando no coinciden, se llama dangling participle y es un error grave. Estas estructuras son más frecuentes en escritura formal que en conversación.",
+      "itemIndices": [0, 1, 2, 3]
+    }
+  ]
+}

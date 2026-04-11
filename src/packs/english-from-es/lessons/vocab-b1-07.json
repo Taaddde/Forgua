@@ -1,0 +1,131 @@
+{
+  "id": "vocab-b1-07",
+  "title": "Education: Degrees, Research & Academic Life",
+  "description": "degree, research, scholarship, assignment, revise, lecture, graduate, tuition — el vocabulario de la vida académica.",
+  "level": "b1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "degree",
+      "back": "título universitario / grado",
+      "reading": "/dɪˈɡriː/",
+      "explanation": "'She has a degree in computer science.' DEGREE IN + materia. Tipos: Bachelor's degree (licenciatura), Master's degree (maestría), PhD/Doctorate (doctorado). También significa 'grado' de temperatura o ángulo.",
+      "cardRef": { "category": "vocabulary", "front": "degree" }
+    },
+    {
+      "front": "research",
+      "back": "investigación / investigar",
+      "reading": "/rɪˈsɜːrtʃ/",
+      "explanation": "Como sustantivo INCONTABLE: 'He is doing research on climate change.' Como verbo: 'I researched the company before the interview.' RESEARCH INTO/ON = investigación sobre. 'A piece of research' para referirse a un estudio específico.",
+      "cardRef": { "category": "vocabulary", "front": "research" }
+    },
+    {
+      "front": "scholarship",
+      "back": "beca",
+      "reading": "/ˈskɑːlərʃɪp/",
+      "explanation": "'She won a scholarship to study abroad.' WIN/GET/RECEIVE a scholarship. APPLY FOR a scholarship. A scholarship covers tuition fees, sometimes accommodation. Diferencia: scholarship (por méritos) vs grant (puede ser por necesidad).",
+      "cardRef": { "category": "vocabulary", "front": "scholarship" }
+    },
+    {
+      "front": "assignment",
+      "back": "tarea / trabajo asignado",
+      "reading": "/əˈsaɪnmənt/",
+      "explanation": "'The assignment is due next Monday.' DUE = que vence, que se entrega en. 'Do/complete/submit an assignment.' Diferente de HOMEWORK (tarea escolar) — assignment es más formal y universitario. También puede ser una misión/tarea laboral.",
+      "cardRef": { "category": "vocabulary", "front": "assignment" }
+    },
+    {
+      "front": "revise",
+      "back": "repasar / revisar",
+      "reading": "/rɪˈvaɪz/",
+      "explanation": "TRICKY: En inglés británico, 'revise' significa REPASAR para un examen ('I need to revise for my exam'). En inglés americano, 'review' es más común para este sentido. 'Revise' también puede significar revisar/corregir un texto.",
+      "cardRef": { "category": "vocabulary", "front": "revise" }
+    },
+    {
+      "front": "lecture",
+      "back": "clase magistral / conferencia",
+      "reading": "/ˈlɛktʃər/",
+      "explanation": "'The lecture on history was very interesting.' Una clase universitaria donde el profesor habla y los estudiantes escuchan. El profesor: LECTURER. ATTEND a lecture. Diferencia: LECTURE (clase magistral) vs SEMINAR (clase interactiva pequeña) vs CLASS/LESSON (enseñanza general).",
+      "cardRef": { "category": "vocabulary", "front": "lecture" }
+    },
+    {
+      "front": "graduate",
+      "back": "graduarse / graduado",
+      "reading": "/ˈɡrædʒuˌeɪt/",
+      "explanation": "Como verbo (pronunciación: /ˈɡrædʒueɪt/): 'He graduated from university last year.' GRADUATE FROM a university. Como sustantivo/adjetivo: a GRADUATE student, a NEW graduate. El evento: GRADUATION ceremony.",
+      "cardRef": { "category": "vocabulary", "front": "graduate" }
+    },
+    {
+      "front": "tuition",
+      "back": "matrícula / cuota universitaria",
+      "reading": "/tuːˈɪʃən/",
+      "explanation": "'Tuition fees have increased this year.' TUITION FEES = el costo de estudiar. Principalmente para la universidad. En UK y USA, las tuition fees pueden ser muy altas. También significa 'enseñanza/clases particulares': 'private tuition' = clases particulares.",
+      "cardRef": { "category": "vocabulary", "front": "tuition" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario académico B1",
+      "instruction": "Estas 8 palabras son esenciales en el contexto universitario y educativo. Fijate en las palabras incontables (research) y en los falsos amigos parciales (revise = repasar, no solo 'revisar').",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "La experiencia universitaria",
+      "instruction": "'Lecture' es una clase magistral en la uni. 'Graduate FROM' (no 'in'). 'Tuition fees' = el costo de la matrícula universitaria.",
+      "itemIndices": [4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto de cada palabra académica.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Escribí la palabra académica en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Dónde se usa bien?",
+      "instruction": "Elegí la oración donde la palabra académica está usada correctamente.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "research",
+            "translation": "investigación (incontable)",
+            "options": [
+              "Scientists are doing researches on cancer treatments.",
+              "He is doing research on the effects of social media.",
+              "She published an important research last year.",
+              "We need to make researches before deciding."
+            ],
+            "correctIndex": 1,
+            "feedback": "'Research' es incontable — nunca 'researches' para el sustantivo general. Correcto: 'doing research on...'. Para un estudio específico: 'a piece of research' o 'a study/paper'. El verbo 'do research' es la colocación estándar."
+          },
+          {
+            "targetWord": "graduate",
+            "translation": "graduarse",
+            "options": [
+              "She graduated in the university of Buenos Aires.",
+              "He graduated of law last June.",
+              "They graduated from medical school in 2022.",
+              "I graduate the course last year."
+            ],
+            "correctIndex": 2,
+            "feedback": "La preposición correcta es GRADUATE FROM. 'She graduated FROM the University of Buenos Aires.' Nunca 'graduated in' ni 'graduated of' cuando se habla de la institución."
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "8 palabras académicas: degree IN (título universitario), research (incontable — do research ON), scholarship (beca — win/get a scholarship), assignment (tarea universitaria — DUE = que vence), revise (repasar para examen en UK), lecture (clase magistral), graduate FROM (graduarse de), tuition fees (cuota universitaria).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "id": "grammar-a2-21",
+  "title": "Prepositions of Movement",
+  "description": "She walked across the street. Into, out of, through, along... Las preposiciones de movimiento más allá del básico 'to' y 'from'.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Prepositions of Movement (to / from / into / out of / through / across / along / towards)",
+      "back": "preposiciones de movimiento: hacia/dentro de/fuera de/a través de/cruzando/a lo largo de/hacia",
+      "reading": "",
+      "explanation": "to = destino final. from = origen. into = movimiento hacia el interior. out of = movimiento hacia afuera. through = a través del interior de algo. across = de un lado al otro. along = a lo largo de. towards = en dirección a (sin llegar necesariamente).",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Prepositions of Movement (to / from / into / out of / through / across / along / towards)"
+      }
+    },
+    {
+      "front": "She walked across the street.",
+      "back": "Ella cruzó la calle caminando.",
+      "reading": "",
+      "explanation": "'Across' = de un lado al otro de una superficie o espacio. 'Walk across the street/bridge/park'. Diferencia con 'through': 'across' es superficie (calle, lago), 'through' es interior (túnel, bosque). 'She swam across the river' = cruzó el río a nado."
+    },
+    {
+      "front": "The cat jumped into the box.",
+      "back": "El gato saltó dentro de la caja.",
+      "reading": "",
+      "explanation": "'Into' indica movimiento HACIA EL INTERIOR de algo. Diferencia con 'in': 'in' es lugar estático ('the cat is in the box'), 'into' es movimiento ('the cat jumped into the box'). Opuesto: 'out of' = salir de."
+    },
+    {
+      "front": "We drove through the tunnel.",
+      "back": "Manejamos a través del túnel.",
+      "reading": "",
+      "explanation": "'Through' = movimiento por el interior de un espacio cerrado o denso: through the tunnel, through the forest, through the crowd. Diferente de 'across' (superficie abierta). 'Walk through the park' (entre los árboles) vs 'walk across the park' (de un lado al otro)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Moverse por el espacio: preposiciones de movimiento",
+      "instruction": "En inglés, la preposición cambia según el tipo de movimiento. 'Across' = cruzar una superficie. 'Through' = pasar por el interior. 'Into' = entrar. 'Out of' = salir. 'Along' = a lo largo de. 'Towards' = en dirección a. Son muy importantes para describir movimiento con precisión.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí la traducción correcta de cada oración.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con la preposición de movimiento correcta",
+      "instruction": "Elegí la preposición que mejor describe el movimiento.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "The children ran {0} the park and then {1} the swimming pool.",
+            "blanks": [
+              {
+                "answer": "across",
+                "options": [
+                  "across",
+                  "through",
+                  "into",
+                  "along"
+                ]
+              },
+              {
+                "answer": "into",
+                "options": [
+                  "into",
+                  "in",
+                  "to",
+                  "through"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "She walked {0} the river bank, enjoying the view. Then she turned and walked {1} the bridge to the other side.",
+            "blanks": [
+              {
+                "answer": "along",
+                "options": [
+                  "along",
+                  "across",
+                  "through",
+                  "towards"
+                ]
+              },
+              {
+                "answer": "across",
+                "options": [
+                  "across",
+                  "through",
+                  "along",
+                  "into"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Cuál preposición es correcta?",
+      "instruction": "Elegí la oración donde la preposición de movimiento está bien usada.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "through",
+            "translation": "a través de (interior)",
+            "options": [
+              "She ran through the park (between the trees).",
+              "He walked through the bridge.",
+              "They drove through the lake.",
+              "She swam through the street."
+            ],
+            "correctIndex": 0,
+            "explanation": "'Through' se usa para movimiento por el interior de algo: a park (entre los árboles), a forest, a tunnel, a crowd. Un bridge o lake son superficies → se usa 'across'. Una street también → 'across the street'."
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Preposiciones de movimiento: TO (destino), FROM (origen), INTO (entrar), OUT OF (salir), THROUGH (por el interior: túnel, bosque, multitud), ACROSS (cruzar superficie: calle, río, puente), ALONG (a lo largo de: calle, río, costa), TOWARDS (en dirección a, sin llegar necesariamente). Truco: across = superficie abierta. Through = espacio con paredes o densidad.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ]
+}

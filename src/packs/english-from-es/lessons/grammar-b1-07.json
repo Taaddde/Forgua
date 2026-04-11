@@ -1,0 +1,177 @@
+{
+  "id": "grammar-b1-07",
+  "title": "Relative Clauses: Who, Which, That, Where",
+  "description": "Para conectar oraciones y dar información sobre personas, cosas y lugares. 'The woman who works at the bank is my aunt.' Defining vs Non-defining.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "The woman who works at the bank is my aunt.",
+      "back": "La mujer que trabaja en el banco es mi tía.",
+      "reading": "/ðə ˈwʊmən huː wɜːrks ət ðə bæŋk ɪz maɪ ænt/",
+      "explanation": "Defining relative clauses: identifican EXACTAMENTE de quién o qué hablamos. WHO para personas, WHICH para cosas, THAT para ambos, WHERE para lugares, WHOSE para posesión. Sin la cláusula, la oración pierde sentido. No llevan comas.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Relative Clauses (Defining) (noun + who/which/that/where/whose + clause)"
+      }
+    },
+    {
+      "front": "The book that I lent you was really interesting.",
+      "back": "El libro que te presté era muy interesante.",
+      "reading": "/ðə bʊk ðæt aɪ lɛnt juː wəz ˈriːli ˈɪntrəstɪŋ/",
+      "explanation": "Cuando el pronombre relativo es OBJETO, se puede omitir: 'The book I lent you' (correcto). Cuando es SUJETO, NO se puede omitir: 'The woman who works here' (no se puede omitir 'who'). Truco: si después del relativo hay sujeto + verbo, el relativo es objeto y se puede omitir."
+    },
+    {
+      "front": "My brother, who lives in Canada, is coming to visit.",
+      "back": "Mi hermano, que vive en Canadá, viene a visitarnos.",
+      "reading": "/maɪ ˈbrʌðər huː lɪvz ɪn ˈkænədə ɪz ˈkʌmɪŋ tə ˈvɪzɪt/",
+      "explanation": "Non-defining relative clause: información EXTRA que no es esencial. Va entre COMAS. Si se elimina, la oración sigue teniendo sentido completo. NO se usa THAT (solo who/which). NO se puede omitir el relativo. Más formal que la defining."
+    },
+    {
+      "front": "That's the restaurant where we had dinner last night.",
+      "back": "Ese es el restaurante donde cenamos anoche.",
+      "reading": "/ðæts ðə ˈrɛstərɑːnt wɛr wiː hæd ˈdɪnər læst naɪt/",
+      "explanation": "WHERE para lugares. WHOSE para posesión: 'The girl whose father is a doctor' (la chica cuyo padre es médico). Las comas en non-defining clauses cambian el significado: 'My sister who lives in London' (tengo varias) vs 'My sister, who lives in London,' (una sola hermana)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Defining relative clauses: sin comas",
+      "instruction": "Defining = identifican exactamente de qué hablamos. Sin esta cláusula, la oración no es completa. WHO (personas), WHICH (cosas), THAT (ambos), WHERE (lugares), WHOSE (posesión). No llevan comas.",
+      "itemIndices": [
+        0,
+        1
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Non-defining: información extra, con comas",
+      "instruction": "Non-defining = información adicional sobre algo ya identificado. Va entre comas. No usa THAT. El pronombre relativo no se puede omitir. Más formal y común en escritura.",
+      "itemIndices": [
+        2,
+        3
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué relativo usar?",
+      "instruction": "Elegí el pronombre relativo correcto: who, which, that, where, whose.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con el relativo correcto",
+      "instruction": "Elegí who, which, where o whose según corresponda.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "The city {0} she grew up is now very different.",
+            "blanks": [
+              {
+                "answer": "where",
+                "options": [
+                  "where",
+                  "which",
+                  "who"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "Do you know the man {0} car is parked outside?",
+            "blanks": [
+              {
+                "answer": "whose",
+                "options": [
+                  "whose",
+                  "who",
+                  "which"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "The movie {0} I watched last night was amazing.",
+            "blanks": [
+              {
+                "answer": "that",
+                "options": [
+                  "that",
+                  "who",
+                  "whose"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "Paris, {0} is the capital of France, attracts millions of tourists.",
+            "blanks": [
+              {
+                "answer": "which",
+                "options": [
+                  "which",
+                  "that",
+                  "where"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Encontrá errores en el uso de cláusulas relativas.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "The doctor that treated me was very kind.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'That' puede referirse a personas (como 'who'). Es una defining relative clause sin comas — identifica qué doctor específico.",
+            "errorType": "relative-clause"
+          },
+          {
+            "sentence": "My colleague, that works in accounting, is very helpful.",
+            "isCorrect": false,
+            "correction": "My colleague, who works in accounting, is very helpful.",
+            "explanation": "INCORRECTO. En non-defining clauses (con comas), NO se puede usar 'that'. Solo 'who' (personas), 'which' (cosas), 'where' (lugares), 'whose' (posesión).",
+            "errorType": "that-in-non-defining"
+          },
+          {
+            "sentence": "The house where I grew up was demolished last year.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Where' para lugares en defining relative clause. Perfectamente natural.",
+            "errorType": "relative-clause"
+          },
+          {
+            "sentence": "She's the person who she helped me when I first arrived.",
+            "isCorrect": false,
+            "correction": "She's the person who helped me when I first arrived.",
+            "explanation": "INCORRECTO. Cuando 'who' es el SUJETO de la cláusula relativa, no se repite el pronombre. Incorrecto: 'who she helped' — el sujeto es 'who', no hace falta 'she'. Correcto: 'who helped me'.",
+            "errorType": "double-subject"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "DEFINING (sin comas): identifica exactamente de qué hablamos. WHO/THAT (personas), WHICH/THAT (cosas), WHERE (lugares), WHOSE (posesión). El relativo objeto puede omitirse. NON-DEFINING (con comas): información extra. Solo WHO/WHICH/WHERE/WHOSE (no THAT). No se puede omitir el relativo. Las comas cambian el significado.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ]
+}

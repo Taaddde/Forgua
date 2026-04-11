@@ -1,0 +1,163 @@
+{
+  "id": "grammar-b1-08",
+  "title": "Used to & Would: Hábitos del Pasado",
+  "description": "Para hablar de lo que hacías antes y ya no. 'I used to live here.' 'We would go to the beach every summer.' La diferencia importa.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "I used to believe in Santa Claus when I was a child.",
+      "back": "Solía creer en Papá Noel cuando era chico.",
+      "reading": "/aɪ juːst tə bɪˈliːv ɪn ˈsæntə klɔːz wɛn aɪ wəz ə tʃaɪld/",
+      "explanation": "'Used to' = hábitos o estados del pasado que ya NO son verdad. 'I used to smoke' = solía fumar (ya no fumo). 'There used to be a cinema here' = había un cine (ya no). Sirve para ACCIONES y ESTADOS. CUIDADO: no confundir con 'be used to' (estar acostumbrado) ni con 'get used to' (acostumbrarse).",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Used to + Infinitive (Subject + used to + base verb)"
+      }
+    },
+    {
+      "front": "Every summer, we would go to the beach and build sandcastles.",
+      "back": "Cada verano, íbamos a la playa y hacíamos castillos de arena.",
+      "reading": "/ˈɛvri ˈsʌmər wiː wʊd ɡoʊ tə ðə biːtʃ ænd bɪld ˈsændkæsəlz/",
+      "explanation": "'Would' para hábitos pasados: SOLO con verbos de ACCIÓN (go, eat, play), NO con verbos de estado (live, know, believe, have). 'I used to have a dog' (correcto). 'I would have a dog' (INCORRECTO como hábito pasado). Si podés usar 'would', también podés usar 'used to', pero no al revés."
+    },
+    {
+      "front": "I used to live in Buenos Aires. / I'm used to the cold weather now.",
+      "back": "Vivía en Buenos Aires antes. / Ahora estoy acostumbrado al clima frío.",
+      "reading": "",
+      "explanation": "Tres estructuras distintas: 1) USED TO + infinitivo = hábito/estado pasado que ya no existe. 2) BE USED TO + gerundio/sustantivo = estar acostumbrado (presente/cualquier tiempo). 3) GET USED TO + gerundio = acostumbrarse (proceso). El contexto y la preposición lo cambian todo."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Used to: lo que hacías antes y ya no",
+      "instruction": "'Used to + infinitivo' para hábitos Y estados pasados que ya no son verdad. Solo existe en pasado. Preguntas: 'Did you use to...?' Negativo: 'I didn't use to...'",
+      "itemIndices": [
+        0
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Would: solo para acciones repetidas",
+      "instruction": "'Would + base verb' para acciones repetidas en el pasado. NUNCA para estados (live, know, believe, own). Si no estás seguro, usá 'used to' — siempre funciona. 'Would' es más literario y evocador.",
+      "itemIndices": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Used to o Would?",
+      "instruction": "Identificá cuál es correcto o si ambos son posibles.",
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "¿Used to, would o be used to?",
+      "instruction": "Elegí la opción correcta según el contexto.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "When I was a student, I {0} coffee every morning. My grandmother {1} us sandwiches every day.",
+            "blanks": [
+              {
+                "answer": "used to drink",
+                "options": [
+                  "used to drink",
+                  "would drink",
+                  "am used to drinking"
+                ]
+              },
+              {
+                "answer": "would make",
+                "options": [
+                  "would make",
+                  "used to make",
+                  "is used to making"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "He {0} in London before he moved here. (Use 'used to' — estado)",
+            "blanks": [
+              {
+                "answer": "used to live",
+                "options": [
+                  "used to live",
+                  "would live",
+                  "was used to living"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "After six months, she {0} waking up early for work.",
+            "blanks": [
+              {
+                "answer": "was used to",
+                "options": [
+                  "was used to",
+                  "used to",
+                  "would"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Identificá errores en used to y would.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "My dad would work in a factory when he was young.",
+            "isCorrect": false,
+            "correction": "My dad used to work in a factory when he was young.",
+            "explanation": "INCORRECTO. 'Work' puede ser acción repetida, así que 'would' funciona. Pero en muchos contextos la habitual 'workplace' implica un estado, y ambos son posibles. De hecho AMBOS son aceptables aquí — pero solo si queremos enfatizar la repetición. Si queremos hablar del estado (su trabajo habitual como condición), 'used to' es más natural.",
+            "errorType": "used-to-vs-would"
+          },
+          {
+            "sentence": "She used to have long hair, but she cut it short.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Used to have' para un estado pasado que ya no es verdad — ella tenía el pelo largo antes. 'Have' es verbo de estado, así que no se puede usar 'would' aquí.",
+            "errorType": "used-to-state"
+          },
+          {
+            "sentence": "I am used to drive on the left now.",
+            "isCorrect": false,
+            "correction": "I am used to driving on the left now.",
+            "explanation": "INCORRECTO. 'Be used to' va seguido de GERUNDIO (-ing) o sustantivo, NO de infinitivo. Correcto: 'I am used to driving'. Diferencia: 'I used to drive' (lo hacía antes) vs 'I am used to driving' (estoy acostumbrado a hacerlo).",
+            "errorType": "be-used-to-gerund"
+          },
+          {
+            "sentence": "We would spend every weekend at the lake.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Would + base verb (spend)' para una acción repetida en el pasado. 'Spend time' es dinámico/acción, así que 'would' es apropiado.",
+            "errorType": "would-past-habits"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "USED TO + infinitivo = hábito o estado pasado que ya no existe (acciones Y estados). WOULD + base verb = solo acciones repetidas pasadas, no estados. BE USED TO + gerundio/sustantivo = estar acostumbrado (presente). GET USED TO + gerundio = acostumbrarse (proceso). Si dudás entre used to y would, usá 'used to' — siempre es correcto para hábitos pasados.",
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "reading-c2-03",
+  "title": "Reading: Democracy and Its Discontents",
+  "description": "Ensayo de ciencia política sobre la crisis democrática del siglo XXI. Análisis causal, argumentación contrastada y propuesta conclusiva.",
+  "level": "c2",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "Democracy and Its Discontents",
+      "back": "Democracia y sus descontentos — ensayo C2 de ciencia política sobre la crisis democrática actual.",
+      "explanation": "Ensayo que diagnostica la 'recesión democrática' del siglo XXI: declive de la participación, populismo, erosión institucional, efectos de la globalización, 2008, redes sociales. Luego presenta la tesis de Chantal Mouffe sobre déficit (no exceso) democrático, y propone reinvención mediante presupuesto participativo y asambleas ciudadanas."
+    },
+    {
+      "front": "Key argument: Mouffe's deficit thesis",
+      "back": "La tesis del déficit de Mouffe — el problema no es exceso de democracia sino falta.",
+      "explanation": "Chantal Mouffe argumenta que el malestar democrático proviene de un DÉFICIT de democracia, no de un exceso. El consenso neoliberal redujo las opciones políticas a selecciones tecnocráticas marginales, vaciando la participación de significado. El atractivo del populismo radica en prometer restaurar el conflicto político genuino. Marco conceptual clave para entender política contemporánea."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Preparación: ciencia política C2",
+      "instruction": "Este ensayo combina diagnóstico (síntomas de crisis), análisis causal (globalización, 2008, redes sociales), tesis contrarian (Mouffe), y propuesta constructiva (experimentos participativos). Prestá atención a: terminología especializada (deconsolidation, austerity, technocratic), hedging diplomático, y estructura argumentativa clásica del ensayo político.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Lectura con análisis político",
+      "instruction": "Leé el ensayo y respondé las preguntas sobre su argumentación.",
+      "itemIndices": [],
+      "config": {
+        "passage": {
+          "id": "c2-reading-democracy-discontents",
+          "title": "Democracy and Its Discontents",
+          "level": "c2",
+          "text": "The twenty-first century has ushered in what political theorists have variously termed a 'democratic recession,' a 'democratic deconsolidation,' or, more bluntly, a crisis of democratic legitimacy. The symptoms are as diverse as they are alarming: declining voter turnout in established democracies, the rise of authoritarian populist movements across both the developed and developing world, eroding public trust in institutions, and an increasingly prevalent sense that democracy, once regarded as the culmination of political development, is failing to deliver on its promises.\n\nThe roots of this malaise are multiple and intertwined. Economic globalization, while generating aggregate wealth, has distributed its benefits profoundly unevenly. The 2008 financial crisis amplified this resentment: while banks were bailed out with public funds, ordinary citizens bore the brunt of austerity measures. The digital transformation of the public sphere has further complicated matters. Social media platforms, initially celebrated as instruments of democratic empowerment, have proved equally effective as vectors for disinformation, polarization, and the erosion of shared epistemic frameworks.\n\nYet to diagnose the crisis is not to conclude that democracy is doomed. The political philosopher Chantal Mouffe has argued persuasively that the current malaise stems not from an excess of democracy but from a deficit. The neoliberal consensus that dominated Western politics from the 1980s onward, she contends, systematically narrowed the range of politically contestable questions, reducing democratic choice to a technocratic selection between marginally different policy platforms. When citizens perceive that their vote cannot change the fundamental direction of economic or social policy, democratic participation loses its motivating force.\n\nThe challenge, then, is not to abandon democratic governance but to reinvigorate it. Experiments in participatory budgeting, citizens' assemblies, and deliberative polling have shown promising results. Democracy is not a static achievement to be preserved but a dynamic practice to be continually reconstructed. Its vulnerability is also its strength — unlike authoritarian systems, which ossify around the interests of an unchanging elite, democracy possesses the intrinsic capacity to reform itself, to learn from its failures, and to adapt to changed circumstances.",
+          "translation": "El siglo veintiuno ha inaugurado una crisis de legitimidad democrática, con síntomas diversos y alarmantes. Sin embargo, diagnosticar la crisis no es concluir que la democracia está condenada.",
+          "vocabulary": ["deconsolidation - desconsolidación", "malaise - malestar", "austerity - austeridad", "polarization - polarización", "technocratic - tecnocrático", "ossify - osificarse", "intrinsic - intrínseco"],
+          "questions": [
+            {
+              "question": "According to Chantal Mouffe's argument as presented in the text, what is the fundamental cause of the current democratic crisis?",
+              "options": [
+                "Too much democracy has led to chaos and disorder.",
+                "The neoliberal consensus systematically narrowed the range of meaningful political choices, creating a democratic deficit.",
+                "Social media has destroyed democracy beyond repair.",
+                "Citizens are too poorly educated to participate in democracy."
+              ],
+              "correctIndex": 1,
+              "explanation": "The text explains Mouffe's argument that 'the current malaise stems not from an excess of democracy but from a deficit' because 'the neoliberal consensus systematically narrowed the range of politically contestable questions, reducing democratic choice to a technocratic selection between marginally different policy platforms.'"
+            },
+            {
+              "question": "What does the text suggest about the relationship between democracy's vulnerability and its strength?",
+              "options": [
+                "Democracy's vulnerability makes it inherently inferior to authoritarian systems.",
+                "Its vulnerability is also its strength because, unlike authoritarian systems, democracy has the intrinsic capacity to reform itself and adapt.",
+                "Democracy's strength lies in its military power.",
+                "Vulnerability and strength are completely unrelated in democratic theory."
+              ],
+              "correctIndex": 1,
+              "explanation": "The text states 'Its vulnerability is also its strength — unlike authoritarian systems, which ossify around the interests of an unchanging elite, democracy possesses the intrinsic capacity to reform itself, to learn from its failures, and to adapt to changed circumstances.'"
+            },
+            {
+              "question": "How does the text characterize the impact of social media on democratic deliberation?",
+              "options": [
+                "Social media has been entirely positive for democracy.",
+                "Social media has had no measurable effect on democracy.",
+                "Initially celebrated as democratizing, social media has also become a vector for disinformation, polarization, and the degradation of shared epistemic frameworks.",
+                "Social media only affects democracy in developing countries."
+              ],
+              "correctIndex": 2,
+              "explanation": "The text describes social media as 'initially celebrated as instruments of democratic empowerment' but states they 'have proved equally effective as vectors for disinformation, polarization, and the erosion of shared epistemic frameworks.'"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completada!",
+      "instruction": "Leíste un ensayo modelo de análisis político C2. Estructura: diagnóstico → análisis causal multinivel → tesis contrarian (Mouffe) → propuesta constructiva → reflexión conclusiva sobre la resiliencia democrática. Vocabulario clave: deconsolidation, malaise, austerity, polarization, technocratic, ossify. Este patrón es transferible al análisis de cualquier crisis institucional.",
+      "itemIndices": [0, 1]
+    }
+  ]
+}

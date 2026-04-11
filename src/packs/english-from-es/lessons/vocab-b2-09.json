@@ -1,0 +1,170 @@
+{
+  "id": "vocab-b2-09",
+  "title": "More Phrasal Verbs & the Get Along / Break Down Family",
+  "description": "Phrasal verbs adicionales de nivel B2: get along with, break down, y colocaciones clave para completar el repertorio.",
+  "level": "b2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "get along with",
+      "back": "llevarse bien con",
+      "reading": "/ɡɛt əˈlɔːŋ wɪð/",
+      "explanation": "Tener una relación amistosa con alguien. Siempre requiere 'WITH' + persona. 'She gets along well with all her colleagues'. Nota: 'get along' también puede significar 'arreglárselas' o 'avanzar' en otros contextos, pero con 'with' + persona = llevarse bien.",
+      "cardRef": { "category": "vocabulary", "front": "get along with" }
+    },
+    {
+      "front": "break down",
+      "back": "descomponer / desglosar / averiarse",
+      "reading": "/breɪk daʊn/",
+      "explanation": "Tres usos: (1) Averiarse (máquina/vehículo): 'The car broke down'. (2) Desglosar en partes: 'Let me break down the costs'. (3) Derrumbarse emocionalmente: 'She broke down in tears'. En contextos profesionales, el uso más frecuente es (2): desglosar cifras, datos o argumentos.",
+      "cardRef": { "category": "vocabulary", "front": "break down" }
+    },
+    {
+      "front": "disgust",
+      "back": "asco / repugnancia / dar asco",
+      "reading": "/dɪsˈɡʌst/",
+      "explanation": "Sentimiento fuerte de desagrado o repugnancia. Como sustantivo: 'She looked at it with disgust'. Como verbo: 'His behavior disgusted everyone'. Adjetivo: 'disgusting' (asqueroso). No confundir con 'disgust' y 'discuss' — son palabras muy diferentes.",
+      "cardRef": { "category": "vocabulary", "front": "disgust" }
+    },
+    {
+      "front": "conductor",
+      "back": "director de orquesta / cobrador (transporte)",
+      "reading": "/kənˈdʌktər/",
+      "explanation": "FALSO AMIGO. En español 'conductor' = driver. En inglés 'conductor' = (1) Director de orquesta, (2) Cobrador de autobús/tren. El conductor de un vehículo en inglés es 'driver'. Error muy común: 'He is a very good conductor' = ¡Es un gran director de orquesta!",
+      "cardRef": { "category": "vocabulary", "front": "conductor" }
+    },
+    {
+      "front": "introduce",
+      "back": "presentar (a alguien) / incorporar",
+      "reading": "/ˌɪntrəˈduːs/",
+      "explanation": "FALSO AMIGO. 'Introduce' = presentar a alguien por primera vez ('Let me introduce you to my colleague'). También = incorporar algo nuevo ('introduce a policy'). NO significa 'presentar una conferencia/presentación' en el sentido de darla — eso es 'give a presentation' o 'deliver a speech'.",
+      "cardRef": { "category": "vocabulary", "front": "introduce" }
+    },
+    {
+      "front": "record",
+      "back": "grabar / registrar",
+      "reading": "/rɪˈkɔːrd/",
+      "explanation": "Como VERBO (énfasis en -CORD): grabar, registrar. 'Please record this meeting'. Como SUSTANTIVO (énfasis en RE-cord): grabación, récord. 'She set a new world record'. Falso amigo parcial: 'recordar' en español = 'remember' en inglés, NO 'record'.",
+      "cardRef": { "category": "vocabulary", "front": "record" }
+    },
+    {
+      "front": "pretend",
+      "back": "fingir / simular",
+      "reading": "/prɪˈtɛnd/",
+      "explanation": "Recordatorio: 'pretend' = fingir/hacer como si. NO = pretender (aspirar). 'Stop pretending you don't know what happened' = Dejá de fingir que no sabés qué pasó. 'She pretends to be asleep' = Finge estar dormida.",
+      "cardRef": { "category": "vocabulary", "front": "pretend" }
+    },
+    {
+      "front": "ambiguity",
+      "back": "ambigüedad",
+      "reading": "/ˌæmbɪˈɡjuːəti/",
+      "explanation": "La calidad de ser abierto a más de una interpretación. Colocaciones: 'avoid ambiguity', 'create ambiguity', 'legal ambiguity'. En contextos literarios: 'deliberate ambiguity' (ambigüedad deliberada del autor). Adjetivo: 'ambiguous'.",
+      "cardRef": { "category": "vocabulary", "front": "ambiguity" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Falsos amigos críticos y phrasal verbs finales",
+      "instruction": "Tres falsos amigos críticos: 'conductor' (NO = conductor de auto, = director de orquesta), 'introduce' (presentar personas, no dar una presentación), 'record' (grabar/registrar, NO = recordar). Y dos phrasal verbs importantes: 'get along with' (llevarse bien) y 'break down' (desglosar/averiarse/derrumbarse).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa en inglés?",
+      "instruction": "Elegí el significado correcto. No te dejes engañar por los falsos amigos.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Dónde se usa bien?",
+      "instruction": "Elegí la oración donde la palabra se usa correctamente.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "break down",
+            "translation": "desglosar",
+            "options": [
+              "Could you break down the expenses by category so we can identify where we're overspending?",
+              "The car broke down the road carefully.",
+              "She broke down the meeting by arriving late.",
+              "Let me break down the windows before we start."
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "conductor",
+            "translation": "director de orquesta",
+            "options": [
+              "The conductor raised his baton, and the orchestra fell silent in anticipation.",
+              "The conductor drove us to the airport in his taxi.",
+              "My uncle is an excellent conductor — he can park anywhere.",
+              "The conductor stopped at a red light."
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "get along with",
+            "translation": "llevarse bien con",
+            "options": [
+              "She gets along well with everyone in the office, which makes her a valuable team member.",
+              "He gets along with the task very quickly.",
+              "We get along with the new software after some training.",
+              "They get along with the presentation at 9 AM sharp."
+            ],
+            "correctIndex": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Identificá los errores con falsos amigos y phrasal verbs.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "She gave an excellent introduction at the conference and introduced the keynote speaker to the audience.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Gave an introduction' (dio una presentación introductoria) e 'introduced the keynote speaker' (presentó al orador principal a la audiencia). Ambos usos de 'introduce' son correctos aquí.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "I need to record the meeting minutes in my notebook so I can record them later.",
+            "isCorrect": false,
+            "correction": "I need to record the meeting and take notes in my notebook so I can review them later.",
+            "explanation": "Dos errores: (1) Usar 'record' dos veces con significados diferentes es confuso y probablemente uno de ellos está mal. (2) 'Recordar/revisar las notas' en inglés = 'review', 'look back at', o 'refer to' — no 'record'.",
+            "errorType": "false-friend"
+          },
+          {
+            "sentence": "The manager asked the accountant to break down the quarterly expenses into separate cost centers.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Break down expenses into categories' = desglosar gastos por categoría. Uso profesional y correcto del phrasal verb.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "Don't pretend to be a doctor if you want to apply for that medical position.",
+            "isCorrect": false,
+            "correction": "Don't claim to be a doctor if you're not qualified for that medical position.",
+            "explanation": "'Pretend to be a doctor' = fingir ser doctor (como en juego de roles). Si estás hablando de una persona que aplica a un trabajo médico fraudulentamente, la palabra correcta es 'claim to be' o 'pose as'.",
+            "errorType": "nuance"
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Escribí la palabra correcta en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Falsos amigos críticos de esta lección: 'conductor' (director de orquesta, NO conductor de auto = driver), 'introduce' (presentar personas/incorporar, NO dar una presentación = give a presentation), 'record' (grabar/registrar, NO recordar = remember), 'pretend' (fingir, NO pretender = aspire/claim). Phrasal verbs: 'get along with' (llevarse bien, siempre con WITH), 'break down' (averiarse, desglosar o derrumbarse). Con esta lección completaste el vocabulario B2.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

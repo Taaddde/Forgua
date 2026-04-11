@@ -15,6 +15,12 @@ import { SentenceBuildStep } from './SentenceBuildStep';
 import { ListenIdentifyStep } from './ListenIdentifyStep';
 import { ListenTranscribeStep } from './ListenTranscribeStep';
 import { SpeakStep } from './SpeakStep';
+import { FillBlankMultiStep } from './FillBlankMultiStep';
+import { WordInContextStep } from './WordInContextStep';
+import { ErrorCorrectionStep } from './ErrorCorrectionStep';
+import { ImageAssociationStep } from './ImageAssociationStep';
+import { StoryComprehensionStep } from './StoryComprehensionStep';
+import { ConversationScriptStep } from './ConversationScriptStep';
 import { SummaryStep } from './SummaryStep';
 
 interface LessonPlayerProps {
@@ -149,6 +155,48 @@ export function LessonPlayer({ lesson, onComplete, onExit }: LessonPlayerProps) 
         <SpeakStep
           key={currentStepIndex}
           items={stepItems}
+          onComplete={handleStepComplete}
+        />
+      )}
+      {currentStep.type === 'fill-blank-multi' && (
+        <FillBlankMultiStep
+          key={currentStepIndex}
+          config={currentStep.config}
+          onComplete={handleStepComplete}
+        />
+      )}
+      {currentStep.type === 'word-in-context' && (
+        <WordInContextStep
+          key={currentStepIndex}
+          config={currentStep.config}
+          onComplete={handleStepComplete}
+        />
+      )}
+      {currentStep.type === 'error-correction' && (
+        <ErrorCorrectionStep
+          key={currentStepIndex}
+          config={currentStep.config}
+          onComplete={handleStepComplete}
+        />
+      )}
+      {currentStep.type === 'image-association' && (
+        <ImageAssociationStep
+          key={currentStepIndex}
+          config={currentStep.config}
+          onComplete={handleStepComplete}
+        />
+      )}
+      {currentStep.type === 'story-comprehension' && (
+        <StoryComprehensionStep
+          key={currentStepIndex}
+          config={currentStep.config}
+          onComplete={handleStepComplete}
+        />
+      )}
+      {currentStep.type === 'conversation-script' && (
+        <ConversationScriptStep
+          key={currentStepIndex}
+          config={currentStep.config}
           onComplete={handleStepComplete}
         />
       )}

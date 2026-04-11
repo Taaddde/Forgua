@@ -1,0 +1,77 @@
+{
+  "id": "reading-b1-05",
+  "title": "Reading: Climate Change — What Can We Do?",
+  "description": "Un texto informativo y argumentativo sobre el cambio climático y las acciones individuales. Pasiva, conectores de propósito y vocabulario ambiental.",
+  "level": "b1",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "fossil fuels",
+      "back": "combustibles fósiles",
+      "reading": "/ˈfɑːsəl fjuːəlz/",
+      "explanation": "Carbón, petróleo y gas natural — fuentes de energía que producen CO2 al quemarse. 'Burning fossil fuels is causing climate change.' BURN fossil fuels = quemar combustibles fósiles."
+    },
+    {
+      "front": "greenhouse gases",
+      "back": "gases de efecto invernadero",
+      "reading": "/ˈɡriːnhaʊs ˈɡæsɪz/",
+      "explanation": "Los gases (CO2, metano, etc.) que atrapan el calor en la atmósfera. 'The meat industry produces greenhouse gases.' GREENHOUSE EFFECT = efecto invernadero."
+    },
+    {
+      "front": "accountable",
+      "back": "responsable / que rinde cuentas",
+      "reading": "/əˈkaʊntəbəl/",
+      "explanation": "Ser responsable por las propias acciones. 'We need to hold polluters accountable.' HOLD (somebody) ACCOUNTABLE FOR something = hacer responsable a alguien de algo."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario clave antes de leer",
+      "instruction": "3 términos del texto sobre medio ambiente. 'Hold polluters accountable' es una expresión muy usada en textos ambientales y políticos.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Climate Change: What Can We Do?",
+      "instruction": "Leé el texto informativo-argumentativo. Fijate en cómo usa la pasiva ('are caused', 'is leading to') y los conectores de propósito ('in order to', 'to reduce').",
+      "itemIndices": [],
+      "config": {
+        "passage": {
+          "id": "b1-reading-climate-change",
+          "title": "Climate Change: What Can We Do?",
+          "level": "b1",
+          "text": "Climate change is one of the biggest challenges facing our planet today. Scientists agree that human activities, especially burning fossil fuels, are causing the Earth's temperature to rise. This is leading to more extreme weather events, rising sea levels, and the loss of many plant and animal species.\n\nSome people think that only governments and big companies can solve this problem. While it's true that they need to take action, there are many things that ordinary people can do in their daily lives to help. For example, we can reduce our energy consumption by turning off lights when we leave a room and using energy-efficient appliances. We can also drive less and use public transportation, ride a bicycle, or walk when possible.\n\nAnother important step is to reduce waste. We can bring reusable bags to the supermarket, avoid buying products with too much plastic packaging, and recycle as much as possible. Eating less meat is also helpful, because the meat industry produces a large amount of greenhouse gases.\n\nOf course, individual actions alone won't solve climate change. We also need to support policies that protect the environment and hold polluters accountable. But every small action counts, and when millions of people make changes, the impact can be enormous. The important thing is to start today, not tomorrow.",
+          "translation": "El cambio climático es uno de los mayores desafíos que enfrenta nuestro planeta hoy. Los científicos coinciden en que las actividades humanas, especialmente la quema de combustibles fósiles, están causando que la temperatura de la Tierra suba. Esto está provocando eventos climáticos más extremos, aumento del nivel del mar y la pérdida de muchas especies de plantas y animales.\n\nAlgunas personas piensan que solo los gobiernos y las grandes empresas pueden resolver este problema. Si bien es cierto que necesitan tomar acción, hay muchas cosas que la gente común puede hacer en su vida diaria para ayudar. Por ejemplo, podemos reducir nuestro consumo de energía apagando las luces cuando salimos de una habitación y usando electrodomésticos eficientes. También podemos manejar menos y usar el transporte público, andar en bicicleta o caminar cuando sea posible.\n\nOtro paso importante es reducir los residuos. Podemos llevar bolsas reutilizables al supermercado, evitar comprar productos con demasiado envoltorio de plástico, y reciclar lo más posible. Comer menos carne también ayuda, porque la industria cárnica produce una gran cantidad de gases de efecto invernadero.\n\nPor supuesto, las acciones individuales por sí solas no van a resolver el cambio climático. También necesitamos apoyar políticas que protejan el medio ambiente y hagan responsables a los contaminadores. Pero cada pequeña acción cuenta, y cuando millones de personas hacen cambios, el impacto puede ser enorme. Lo importante es empezar hoy, no mañana.",
+          "vocabulary": ["climate change - cambio climático", "fossil fuels - combustibles fósiles", "temperature - temperatura", "extreme - extremo", "consumption - consumo", "appliances - electrodomésticos", "public transportation - transporte público", "reusable - reutilizable", "packaging - envoltorio/embalaje", "recycle - reciclar", "greenhouse gases - gases de efecto invernadero", "impact - impacto"],
+          "questions": [
+            {
+              "question": "According to the text, what is the main cause of climate change?",
+              "options": ["Natural weather cycles.", "Deforestation.", "Human activities like burning fossil fuels.", "Volcanic eruptions."],
+              "correctIndex": 2,
+              "explanation": "The text states that 'human activities, especially burning fossil fuels, are causing the Earth's temperature to rise.'"
+            },
+            {
+              "question": "Why does the author suggest eating less meat?",
+              "options": ["It is better for personal health.", "Meat is becoming more expensive.", "The meat industry produces many greenhouse gases.", "There is not enough meat for everyone."],
+              "correctIndex": 2,
+              "explanation": "The text says 'the meat industry produces a large amount of greenhouse gases.'"
+            },
+            {
+              "question": "What is the author's overall message about individual action?",
+              "options": ["Individual actions are useless against climate change.", "Only governments can make a difference.", "Every small action counts, especially when millions of people participate.", "People should wait for technology to solve the problem."],
+              "correctIndex": 2,
+              "explanation": "The author states 'every small action counts, and when millions of people make changes, the impact can be enormous.'"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lectura completada!",
+      "instruction": "Leíste un texto informativo-argumentativo B1 sobre medio ambiente. Estructura: problema → soluciones individuales → paso importante → reflexión final. Gramática: pasiva ('is being caused', 'are produced'), conectores de propósito ('to reduce', 'by turning off'), while (aunque/si bien). Vocabulario: fossil fuels, greenhouse gases, accountable, reusable, packaging.",
+      "itemIndices": [0, 1, 2]
+    }
+  ]
+}

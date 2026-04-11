@@ -1,0 +1,97 @@
+{
+  "id": "reading-a2-04",
+  "title": "Reading: A Job Interview",
+  "description": "Texto sobre una entrevista de trabajo. Past Simple para narrar, vocabulario profesional.",
+  "level": "a2",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "interview",
+      "back": "entrevista",
+      "reading": "/ˈɪntərˌvjuː/",
+      "explanation": "'A job interview' = una entrevista de trabajo. 'The interviewer' = el entrevistador/la entrevistadora.",
+      "cardRef": { "category": "vocabulary", "front": "interview" }
+    },
+    {
+      "front": "resume",
+      "back": "currículum, hoja de vida",
+      "reading": "/ˈrɛzʊˌmeɪ/",
+      "explanation": "También se puede decir 'CV' (curriculum vitae). 'Send your resume' = mandá tu currículum.",
+      "cardRef": { "category": "vocabulary", "front": "resume" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario de trabajo y entrevistas",
+      "instruction": "Palabras esenciales del mundo laboral.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Lectura: A Job Interview",
+      "instruction": "Leé sobre alguien que tuvo una entrevista en inglés. Nota cómo se narran eventos pasados.",
+      "itemIndices": [],
+      "config": {
+        "passage": {
+          "id": "a2-reading-job-interview",
+          "title": "A Job Interview",
+          "level": "a2",
+          "text": "Yesterday I had a job interview at a marketing company. I was very nervous because it was my first interview in English. I wore my best suit and arrived fifteen minutes early. The interviewer was a woman called Ms. Johnson. She asked me about my experience and education. I told her that I had studied business at university and worked at two different companies. She also asked me why I wanted to work there. I said that I was interested in digital marketing and wanted to learn from the best team in the city. The interview lasted about forty minutes. At the end, she said they would call me next week. I think it went well, but I'm still nervous about the result.",
+          "translation": "Ayer tuve una entrevista de trabajo en una empresa de marketing. Estaba muy nervioso porque era mi primera entrevista en inglés. Me puse mi mejor traje y llegué quince minutos antes. La entrevistadora era una mujer llamada Sra. Johnson. Me preguntó sobre mi experiencia y educación. Le dije que había estudiado negocios en la universidad y trabajado en dos empresas diferentes. También me preguntó por qué quería trabajar ahí. Dije que me interesaba el marketing digital y quería aprender del mejor equipo de la ciudad. La entrevista duró unos cuarenta minutos. Al final, dijo que me llamarían la semana que viene. Creo que fue bien, pero todavía estoy nervioso por el resultado.",
+          "vocabulary": ["job interview - entrevista de trabajo", "nervous - nervioso", "suit - traje", "arrived - llegué", "interviewer - entrevistador/a", "experience - experiencia", "education - educación", "university - universidad", "digital marketing - marketing digital", "lasted - duró", "result - resultado"],
+          "questions": [
+            {
+              "question": "Why was the narrator nervous?",
+              "options": ["He was late.", "It was his first interview in English.", "He forgot his suit.", "He didn't study."],
+              "correctIndex": 1,
+              "explanation": "El texto dice 'I was very nervous because it was my first interview in English.'"
+            },
+            {
+              "question": "How long did the interview last?",
+              "options": ["Twenty minutes.", "Thirty minutes.", "Forty minutes.", "One hour."],
+              "correctIndex": 2,
+              "explanation": "El texto dice 'The interview lasted about forty minutes.'"
+            },
+            {
+              "question": "When will the company call?",
+              "options": ["Today.", "Tomorrow.", "Next week.", "Next month."],
+              "correctIndex": 2,
+              "explanation": "El texto dice 'she said they would call me next week.'"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Repaso del Past Simple",
+      "instruction": "Completá los espacios con la forma verbal correcta.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "Yesterday I {0} a job interview. I {1} very nervous.",
+            "blanks": [
+              { "answer": "had", "options": ["had", "have", "was having", "has had"] },
+              { "answer": "was", "options": ["was", "am", "were", "be"] }
+            ]
+          },
+          {
+            "template": "She {0} me about my experience and I {1} her about my previous jobs.",
+            "blanks": [
+              { "answer": "asked", "options": ["asked", "ask", "was asking", "asks"] },
+              { "answer": "told", "options": ["told", "tell", "said", "was telling"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lectura completa!",
+      "instruction": "Texto de narración en pasado con Past Simple. El narrador también usa Past Perfect ('I had studied', 'I had worked') para eventos que pasaron antes del momento de la entrevista. Frases útiles para entrevistas: 'I am interested in...', 'I wanted to learn from...', 'I studied... at university'.",
+      "itemIndices": [0, 1]
+    }
+  ]
+}

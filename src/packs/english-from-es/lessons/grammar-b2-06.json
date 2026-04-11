@@ -1,0 +1,232 @@
+{
+  "id": "grammar-b2-06",
+  "title": "Cleft Sentences & Emphasis",
+  "description": "Estructuras para dar énfasis específico a partes de la oración: 'What I need is...', 'It was John who...', y fronting avanzado.",
+  "level": "b2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Cleft Sentences (What + subject + verb + is/was... | It is/was + focus + who/that...)",
+      "back": "oraciones hendidas (para enfatizar)",
+      "reading": "",
+      "explanation": "Las cleft sentences reorganizan la oración para enfatizar un elemento. 'What-cleft': 'What I need is a holiday' (lo que necesito es). 'It-cleft': 'It was John who broke the window' (fue John quien). Estas estructuras no tienen equivalente directo en español y son muy comunes en inglés formal, académico y periodístico. En español, el énfasis se logra principalmente con la entonación.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Cleft Sentences (What + subject + verb + is/was... | It is/was + focus + who/that...)"
+      }
+    },
+    {
+      "front": "Emphasis & Fronting (What + subject + did was... | Adjective + though/as + subject + verb | Object/complement + subject + verb)",
+      "back": "énfasis y anteposición (fronting)",
+      "reading": "",
+      "explanation": "Fronting: mover un elemento al inicio para enfatizarlo. 'Interesting though it was, I couldn't finish it' (concesiva formal). 'Strange as it may seem, he enjoys it'. 'What she did was resign' (enfatiza la acción). 'Little did they know' (fronting con inversión). Estas estructuras son más literarias y retóricas — esenciales para escritura avanzada y CAE/IELTS."
+    },
+    {
+      "front": "Inversion after Negative Adverbials (Negative adverbial + auxiliary + subject + verb)",
+      "back": "inversión después de adverbios negativos",
+      "reading": "",
+      "explanation": "Cuando adverbios negativos o restrictivos van al inicio, el auxiliar precede al sujeto (como en una pregunta). Ejemplos: 'Never have I seen such talent', 'Not only did she win, but she also broke the record', 'Rarely do we get such opportunities', 'Hardly had I sat down when the phone rang'. Es una estructura formal y enfática, muy usada en discursos y escritura elegante."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Cleft sentences: reorganizar para enfatizar",
+      "instruction": "Las cleft sentences permiten enfatizar un elemento específico de la oración. Compare: 'John broke the window' (neutral) vs 'It was JOHN who broke the window' (énfasis en quién) vs 'What John did was break the window' (énfasis en la acción). El contenido es el mismo, pero el foco cambia. Son muy comunes en inglés hablado formal y escrito.",
+      "itemIndices": [
+        0
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Fronting e inversión con adverbios negativos",
+      "instruction": "El fronting mueve elementos al inicio. 'Interesting though it was...' (concesiva elegante). 'Never have I seen...' (inversión después de negativo). 'Hardly had I sat down when...' (apenas me había sentado cuando). Estas estructuras se usan para crear efecto retórico, dar peso a lo que se dice, o simplemente sonar más elegante y formal.",
+      "itemIndices": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué elemento está siendo enfatizado?",
+      "instruction": "Identificá el elemento enfatizado en cada cleft sentence.",
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Transformá a cleft sentence",
+      "instruction": "Ordená para crear oraciones hendidas correctas.",
+      "itemIndices": [
+        0,
+        1
+      ],
+      "config": {
+        "sentences": [
+          {
+            "translation": "Lo que más me molesta es la falta de comunicación.",
+            "fragments": [
+              "What bothers me",
+              "most is",
+              "the lack of",
+              "communication."
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "translation": "Nunca había visto tal nivel de dedicación en un equipo.",
+            "fragments": [
+              "Never",
+              "had I seen",
+              "such dedication",
+              "in a team."
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá las estructuras de énfasis",
+      "instruction": "Completá con la estructura de énfasis correcta.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "It {0} the marketing strategy {1} led to the company's success, not the product itself.",
+            "blanks": [
+              {
+                "answer": "was",
+                "options": [
+                  "was",
+                  "is",
+                  "has been",
+                  "had been"
+                ]
+              },
+              {
+                "answer": "that",
+                "options": [
+                  "that",
+                  "who",
+                  "which",
+                  "what"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "{0} I really need right now is a few days off work.",
+            "blanks": [
+              {
+                "answer": "What",
+                "options": [
+                  "What",
+                  "Which",
+                  "It",
+                  "That"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "Not only {0} she prepare a brilliant presentation, but she {1} every question from the board.",
+            "blanks": [
+              {
+                "answer": "did",
+                "options": [
+                  "did",
+                  "has",
+                  "was",
+                  "had"
+                ]
+              },
+              {
+                "answer": "also answered",
+                "options": [
+                  "also answered",
+                  "did also answer",
+                  "answered also",
+                  "had also answered"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "Difficult {0} it may be, we must find a solution before the deadline.",
+            "blanks": [
+              {
+                "answer": "as",
+                "options": [
+                  "as",
+                  "though",
+                  "even",
+                  "however"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Identificá errores en estas estructuras de énfasis.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "What I want is a clear answer.",
+            "isCorrect": true,
+            "explanation": "Correcta. What-cleft simple y natural: 'What I want' = énfasis en lo que se quiere, 'is' conecta, 'a clear answer' = lo que se quiere.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "It was the budget that the board was most concerned about.",
+            "isCorrect": true,
+            "explanation": "Correcta. It-cleft enfatizando 'the budget'. Notar que la frase preposicional 'about' queda al final — esto es estándar en inglés informal y formal.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "Never I have seen such commitment from a team.",
+            "isCorrect": false,
+            "correction": "Never have I seen such commitment from a team.",
+            "explanation": "Después de un adverbio negativo al inicio ('Never'), el orden es: auxiliar + sujeto (inversión). El orden correcto es 'Never HAVE I seen', no 'Never I have seen'. Esta es la misma lógica de las preguntas: 'Have you seen?' → 'Never have I seen'.",
+            "errorType": "inversion"
+          },
+          {
+            "sentence": "Interesting as the proposal was, it exceeded our budget constraints significantly.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Adj + as + sujeto + verbo' es una estructura concesiva formal y elegante. Equivale a 'Although the proposal was interesting, it exceeded our budget'. Muy efectivo en escritura formal.",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Estructuras de énfasis B2: What-cleft = 'What I need is...' (énfasis en el objeto). It-cleft = 'It was X who/that...' (énfasis en el agente o circunstancia). Fronting = mover elemento al inicio. Inversión con negativos = 'Never have I...', 'Not only did she...', 'Rarely do we...'. Adj + as/though = 'Interesting as it was...' (concesiva formal). Estas estructuras distinguen el inglés B2 del B1 en producción escrita y oral.",
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
+    }
+  ]
+}

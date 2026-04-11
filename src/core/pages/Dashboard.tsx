@@ -9,12 +9,14 @@ import { useProgress } from '../hooks/useProgress';
 import { Button } from '../components/common/Button';
 import { db } from '../db/database';
 import { loadLessonIndex } from '../packs';
+import { isLessonUnlocked } from '../utils/lesson-unlock';
 import { startOfDay, subDays, format } from 'date-fns';
 import type { LessonIndex } from '../types/lesson';
 
 export function Dashboard() {
   const { t } = useTranslation();
   const activePack = useAppStore((s) => s.activePack);
+  const devUnlockAll = useAppStore((s) => s.devUnlockAll);
   const navigate = useNavigate();
   const packId = activePack?.id ?? null;
   const { totalStats, todayStats, studyHistory } = useProgress(packId);
@@ -40,9 +42,9 @@ export function Dashboard() {
       .toArray();
     const completedIds = new Set(completed.map((lp) => lp.lessonId));
     return lessonIndex.lessons.find(
-      (l) => !completedIds.has(l.id) && l.prerequisites.every((p) => completedIds.has(p)),
+      (l) => !completedIds.has(l.id) && isLessonUnlocked(l, completedIds, devUnlockAll),
     ) ?? null;
-  }, [packId, lessonIndex]);
+  }, [packId, lessonIndex, devUnlockAll]);
 
   // Count of due review cards
   const dueCount = useLiveQuery(async () => {

@@ -12,6 +12,7 @@ import { useLessonProgress, completeLesson } from '../hooks/useLesson';
 import { LessonPlayer } from '../components/lesson/LessonPlayer';
 import { Button } from '../components/common/Button';
 import { loadLessonIndex, loadLesson } from '../packs';
+import { isLessonUnlocked } from '../utils/lesson-unlock';
 import type { Lesson, LessonMeta, LessonIndex } from '../types/lesson';
 
 type LessonStatus = 'locked' | 'available' | 'completed';
@@ -20,6 +21,7 @@ export function Lessons() {
   const { t } = useTranslation();
   const navigate = useNavigate();
   const activePack = useAppStore((s) => s.activePack);
+  const devUnlockAll = useAppStore((s) => s.devUnlockAll);
   const packId = activePack?.id ?? null;
 
   const lessonProgress = useLessonProgress(packId);
@@ -72,10 +74,9 @@ export function Lessons() {
   const getLessonStatus = useCallback(
     (meta: LessonMeta): LessonStatus => {
       if (completedIds.has(meta.id)) return 'completed';
-      const prereqsMet = meta.prerequisites.every((p) => completedIds.has(p));
-      return prereqsMet ? 'available' : 'locked';
+      return isLessonUnlocked(meta, completedIds, devUnlockAll) ? 'available' : 'locked';
     },
-    [completedIds],
+    [completedIds, devUnlockAll],
   );
 
   const handleStartLesson = useCallback(
@@ -158,9 +159,19 @@ export function Lessons() {
           <h1 className="text-2xl font-bold text-slate-900 dark:text-slate-100">{t('lessons.title')}</h1>
           <p className="text-sm text-slate-400">{t('lessons.subtitle')}</p>
         </div>
-        <span className="text-sm text-slate-500">
-          {completedCount}/{lessons.length}
-        </span>
+        <div className="flex items-center gap-2">
+          {import.meta.env.DEV && devUnlockAll && (
+            <span
+              title="Dev flag: all lessons unlocked (Settings → Developer)"
+              className="text-[10px] font-semibold uppercase tracking-wider px-2 py-1 rounded bg-amber-500/15 text-amber-500 border border-amber-500/30"
+            >
+              DEV · unlocked
+            </span>
+          )}
+          <span className="text-sm text-slate-500">
+            {completedCount}/{lessons.length}
+          </span>
+        </div>
       </div>
 
       {/* Progress bar */}

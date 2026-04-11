@@ -1,0 +1,200 @@
+{
+  "id": "vocab-b2-03",
+  "title": "Academic English: Research & Evidence",
+  "description": "Vocabulario académico para hablar de investigación, metodología y evidencia con precisión y rigor.",
+  "level": "b2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "hypothesis",
+      "back": "hipótesis",
+      "reading": "/haɪˈpɑːθəsɪs/",
+      "explanation": "Explicación provisional que se debe probar. Plural: hypotheses /haɪˈpɑːθəsiːz/. Colocaciones: test a hypothesis, propose a hypothesis, support/reject a hypothesis. Cognado con 'hipótesis'.",
+      "cardRef": { "category": "vocabulary", "front": "hypothesis" }
+    },
+    {
+      "front": "framework",
+      "back": "marco teórico / estructura",
+      "reading": "/ˈfreɪmwɜːrk/",
+      "explanation": "Sistema de ideas o reglas que sirve de base para analizar algo. Colocaciones: theoretical framework, conceptual framework, within a framework. También se usa en tecnología: 'a coding framework'.",
+      "cardRef": { "category": "vocabulary", "front": "framework" }
+    },
+    {
+      "front": "methodology",
+      "back": "metodología",
+      "reading": "/ˌmɛθəˈdɑːlədʒi/",
+      "explanation": "Sistema de métodos usados en un área de estudio o actividad. Cognado con 'metodología'. Colocaciones: research methodology, explain the methodology, qualitative/quantitative methodology.",
+      "cardRef": { "category": "vocabulary", "front": "methodology" }
+    },
+    {
+      "front": "empirical",
+      "back": "empírico",
+      "reading": "/ɪmˈpɪrɪkəl/",
+      "explanation": "Basado en observación y experiencia, no en teoría. Colocaciones clave: empirical evidence, empirical research, empirical data. Lo opuesto es 'theoretical'. En inglés académico, 'empirical evidence' es una de las colocaciones más usadas.",
+      "cardRef": { "category": "vocabulary", "front": "empirical" }
+    },
+    {
+      "front": "criteria",
+      "back": "criterios",
+      "reading": "/kraɪˈtɪriə/",
+      "explanation": "Plural de 'criterion' (criterio). IMPORTANTE: 'criteria' es PLURAL — 'These criteria are...' (no 'this criteria is'). Colocaciones: meet the criteria, selection criteria, evaluation criteria. Error común: usar 'criteria' como singular.",
+      "cardRef": { "category": "vocabulary", "front": "criteria" }
+    },
+    {
+      "front": "implication",
+      "back": "implicación / consecuencia",
+      "reading": "/ˌɪmplɪˈkeɪʃən/",
+      "explanation": "Consecuencia o efecto derivado de algo; o algo sugerido sin decirse directamente. Colocaciones: the implications of, far-reaching implications, policy implications. Cognado parcial — en español 'implicación' puede significar 'participación', mientras que en inglés ese sentido existe pero es menos común.",
+      "cardRef": { "category": "vocabulary", "front": "implication" }
+    },
+    {
+      "front": "peer-reviewed",
+      "back": "revisado por pares",
+      "reading": "/ˌpɪr rɪˈvjuːd/",
+      "explanation": "Proceso de evaluación de un artículo académico por expertos del mismo campo antes de publicarse. Colocaciones: peer-reviewed journal, peer-reviewed article, peer-reviewed research. Es el estándar de calidad en investigación científica.",
+      "cardRef": { "category": "vocabulary", "front": "peer-reviewed" }
+    },
+    {
+      "front": "approach",
+      "back": "enfoque / acercarse",
+      "reading": "/əˈproʊtʃ/",
+      "explanation": "Como sustantivo: manera de abordar o tratar algo. Como verbo: acercarse físicamente o abordar una situación. Colocaciones académicas: a different approach, adopt an approach, take an approach to. Muy usado en inglés formal: 'a holistic approach' (un enfoque holístico).",
+      "cardRef": { "category": "vocabulary", "front": "approach" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario académico: investigación y evidencia",
+      "instruction": "Estas palabras aparecen constantemente en textos académicos, papers, informes y presentaciones en inglés. Prestá atención especial a 'criteria' (plural) y a 'empirical' (basado en observación real).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Dónde se usa bien?",
+      "instruction": "Elegí la oración donde la palabra está usada correctamente en contexto académico.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "empirical",
+            "translation": "empírico",
+            "options": [
+              "The theory needs to be supported by empirical evidence from real experiments.",
+              "Her empirical approach meant she believed everything in books.",
+              "The decision was empirical because it was based on feelings.",
+              "He is an empirical person who trusts his emotions."
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "criteria",
+            "translation": "criterios",
+            "options": [
+              "This criteria is the most important one for selection.",
+              "We have only one criteria for choosing candidates.",
+              "All candidates must meet the criteria outlined in the job posting.",
+              "The criteria was unclear, so everyone was confused."
+            ],
+            "correctIndex": 2
+          },
+          {
+            "targetWord": "hypothesis",
+            "translation": "hipótesis",
+            "options": [
+              "The scientists made a hypothesis that the experiment was interesting.",
+              "After testing several hypotheses, the team found one that held up.",
+              "She proved her hypothesis by buying more equipment.",
+              "A hypothesis is a fact that has already been proven."
+            ],
+            "correctIndex": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Decidí si cada oración es correcta o tiene un error. Los errores son típicos de estudiantes B2 en contextos académicos.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "This criteria is not relevant to our research.",
+            "isCorrect": false,
+            "correction": "These criteria are not relevant to our research.",
+            "explanation": "'Criteria' es el PLURAL de 'criterion'. El singular es 'This criterion is not relevant'. Usar 'criteria' como singular con 'this' + verbo singular es uno de los errores más frecuentes en inglés académico — incluso hablantes nativos lo cometen, pero en escritura formal es considerado un error.",
+            "errorType": "grammar"
+          },
+          {
+            "sentence": "The study used a mixed-methods approach, combining surveys with in-depth interviews.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Mixed-methods approach' es una colocación académica estándar. 'Combining X with Y' es una construcción perfecta para describir metodología.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "The researchers failed to support their hypothesis with empirical evidence.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Support a hypothesis' y 'empirical evidence' son colocaciones académicas impecables. La oración es clara y bien construida.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "The implications of the study are far-reaching and affect multiple sectors.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Far-reaching implications' es una colocación muy establecida en inglés académico. 'Affect multiple sectors' es natural.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "The investigation was published in a peer-reviewed magazine.",
+            "isCorrect": false,
+            "correction": "The study was published in a peer-reviewed journal.",
+            "explanation": "En inglés académico, las publicaciones científicas con sistema de revisión por pares se llaman 'journals', no 'magazines'. 'Magazine' implica una publicación popular como una revista de quiosco. Además, el trabajo académico se llama 'study' o 'paper', no 'investigation' en este contexto.",
+            "errorType": "register"
+          }
+        ]
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá el abstract",
+      "instruction": "Completá los espacios de este fragmento de abstract académico.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "This study adopts a qualitative {0} to investigate the {1} of remote work on employee well-being.",
+            "blanks": [
+              { "answer": "approach", "options": ["approach", "agenda", "hypothesis", "benchmark"] },
+              { "answer": "implications", "options": ["implications", "criteria", "revenue", "methodology"] }
+            ]
+          },
+          {
+            "template": "The results were based on {0} data collected over twelve months. The selection {1} included age, education level, and employment status.",
+            "blanks": [
+              { "answer": "empirical", "options": ["empirical", "quarterly", "feasible", "significant"] },
+              { "answer": "criteria", "options": ["criteria", "hypothesis", "framework", "implication"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Escribí la palabra en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Vocabulario académico clave: 'hypothesis' (probar/rechazar), 'framework' (marco teórico), 'methodology' (cómo se hizo la investigación), 'empirical evidence' (basado en observación real), 'criteria' (PLURAL — these criteria ARE), 'implications' (consecuencias), 'peer-reviewed' (validado por expertos), 'approach' (manera de abordar algo).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "id": "grammar-a1-23",
+  "title": "Question Words: What, Where, When, Who, Why, How",
+  "description": "En español preguntás con entonación: '¿Vivís acá?'. En inglés necesitás auxiliares (do/does/is/are/can) y además las wh-words: what, where, when, who, why, how. La estructura siempre es: wh-word + auxiliar + sujeto + verbo.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "What / Where / When / Who / Why / How + auxiliar + sujeto + verbo",
+      "back": "qué / dónde / cuándo / quién / por qué / cómo + auxiliar + sujeto + verbo",
+      "reading": "/wʌt/ /wɛr/ /wɛn/ /huː/ /waɪ/ /haʊ/",
+      "explanation": "La estructura de una pregunta wh- es FIJA: palabra interrogativa + auxiliar (do/does/is/are/can/did) + sujeto + verbo principal. Ejemplo: 'Where (wh-) do (aux) you (sujeto) live (verbo)?'. En español decís simplemente '¿Dónde vivís?' — en inglés NO podés omitir el auxiliar 'do'. Este es uno de los errores más persistentes de los hispanohablantes.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Question Words (What / Where / When / Who / Why / How + auxiliary + subject + verb)"
+      }
+    },
+    {
+      "front": "What do you do? — Where do you live? — When does the class start?",
+      "back": "¿A qué te dedicás? — ¿Dónde vivís? — ¿Cuándo empieza la clase?",
+      "reading": "/wʌt duː juː duː/ /wɛr duː juː lɪv/ /wɛn dʌz ðə klæs stɑːrt/",
+      "explanation": "Con Present Simple necesitás do/does como auxiliar. 'Do' con I/you/we/they, 'does' con he/she/it. Atención: después de 'does' el verbo va sin -s ('Where does she work?' NO 'Where does she works?'). 'What do you do?' es la forma natural de preguntar '¿En qué trabajás?'."
+    },
+    {
+      "front": "Who is she? — Why are you late? — How is your mom?",
+      "back": "¿Quién es ella? — ¿Por qué llegás tarde? — ¿Cómo está tu mamá?",
+      "reading": "/huː ɪz ʃiː/ /waɪ ɑːr juː leɪt/ /haʊ ɪz jɔːr mɑːm/",
+      "explanation": "Con 'to be' (am/is/are) NO se usa 'do'. El auxiliar ES 'to be'. Estructura: wh-word + is/are/am + sujeto. 'Who is she?', 'Why are you late?'. Acá el verbo 'be' hace de auxiliar y de verbo principal al mismo tiempo."
+    },
+    {
+      "front": "How much / How many / How old / How often / How long",
+      "back": "¿Cuánto/a? / ¿Cuántos/as? / ¿Qué edad? / ¿Con qué frecuencia? / ¿Cuánto tiempo?",
+      "reading": "/haʊ mʌtʃ/ /haʊ ˈmɛni/ /haʊ oʊld/ /haʊ ˈɔːfən/ /haʊ lɔːŋ/",
+      "explanation": "'How' se combina con otras palabras para preguntas específicas. 'How much water?' (incontable), 'How many books?' (contable), 'How old are you?' (NO 'How many years you have?' — error clásico de hispanohablantes), 'How often do you exercise?', 'How long have you lived here?'."
+    },
+    {
+      "front": "Who lives here? (Who = sujeto, SIN do)",
+      "back": "¿Quién vive acá? (Who es el sujeto, no se necesita 'do')",
+      "reading": "/huː lɪvz hɪr/",
+      "explanation": "EXCEPCIÓN IMPORTANTE: cuando 'who' (o 'what') es el SUJETO de la pregunta, NO se usa auxiliar y el verbo lleva -s para tercera persona. 'Who lives here?' (no 'Who does live here?'). Comparar: 'Who do you live with?' (who = objeto → con auxiliar) vs 'Who lives with you?' (who = sujeto → sin auxiliar). Es sutil pero clave."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Las seis palabras interrogativas",
+      "instruction": "What (qué), Where (dónde), When (cuándo), Who (quién), Why (por qué), How (cómo). La estructura fija: wh-word + auxiliar + sujeto + verbo. Nunca te olvides del auxiliar — es el error #1 de hispanohablantes.",
+      "itemIndices": [0]
+    },
+    {
+      "type": "introduce",
+      "title": "Con Present Simple y con 'to be'",
+      "instruction": "Con verbos normales usás do/does como auxiliar. Con 'to be' (am/is/are) no se necesita 'do' — el 'be' es el auxiliar. Y 'how' se combina con otras palabras para preguntas específicas.",
+      "itemIndices": [1, 2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Cuando 'who' es el sujeto",
+      "instruction": "Excepción sutil: si 'who' o 'what' es el SUJETO de la oración, no usás 'do/does' y el verbo sí lleva -s. 'Who lives here?' ✓ vs 'Who does live here?' ✗.",
+      "itemIndices": [4]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es la palabra interrogativa correcta?",
+      "instruction": "Mirá la respuesta y elegí la pregunta que tiene sentido.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá las preguntas",
+      "instruction": "Elegí la palabra interrogativa y el auxiliar correctos.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "{0} {1} you live? — I live in Madrid.",
+            "blanks": [
+              { "answer": "Where", "options": ["Where", "What", "When", "Who"] },
+              { "answer": "do", "options": ["do", "does", "are", "is"] }
+            ]
+          },
+          {
+            "template": "{0} {1} she work? — As a nurse.",
+            "blanks": [
+              { "answer": "What", "options": ["What", "Where", "Who", "How"] },
+              { "answer": "does", "options": ["does", "do", "is", "are"] }
+            ]
+          },
+          {
+            "template": "{0} {1} you late? — Because the bus didn't come.",
+            "blanks": [
+              { "answer": "Why", "options": ["Why", "When", "How", "What"] },
+              { "answer": "are", "options": ["are", "do", "is", "does"] }
+            ]
+          },
+          {
+            "template": "{0} {1} are you? — I'm 25.",
+            "blanks": [
+              { "answer": "How old", "options": ["How old", "How many", "What", "How much"] },
+              { "answer": "years", "options": ["years", "old", "long", "age"] }
+            ]
+          },
+          {
+            "template": "{0} {1} your brother? — He's fine, thanks.",
+            "blanks": [
+              { "answer": "How", "options": ["How", "What", "Where", "Who"] },
+              { "answer": "is", "options": ["is", "are", "does", "do"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Está bien la pregunta?",
+      "instruction": "Decidí si cada pregunta está bien formada. Prestá atención al auxiliar y al orden de palabras.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "Where you live?",
+            "isCorrect": false,
+            "correction": "Where do you live?",
+            "explanation": "Falta el auxiliar 'do'. En inglés, con Present Simple SIEMPRE necesitás do/does en preguntas. Error súper común de hispanohablantes porque en español decimos '¿Dónde vivís?' sin auxiliar.",
+            "errorType": "missing-auxiliary"
+          },
+          {
+            "sentence": "How old are you?",
+            "isCorrect": true,
+            "explanation": "Perfecto. Con edades en inglés se usa 'how old + to be', NO 'how many years'. 'How many years do you have?' es un calco del español que suena muy raro.",
+            "errorType": "question-word"
+          },
+          {
+            "sentence": "What does she works?",
+            "isCorrect": false,
+            "correction": "What does she do?",
+            "explanation": "Dos errores. Primero: después de 'does' el verbo va SIN -s (ya está en 'does'). Segundo: 'What does she do?' es la forma estándar para preguntar a qué se dedica. 'What does she work?' no es natural.",
+            "errorType": "conjugation"
+          },
+          {
+            "sentence": "Who lives in this house?",
+            "isCorrect": true,
+            "explanation": "Correcto. Cuando 'who' es el sujeto, NO se usa 'do' y el verbo lleva -s (lives). Compará: 'Who do you live with?' (who = objeto, con auxiliar) vs 'Who lives with you?' (who = sujeto, sin auxiliar).",
+            "errorType": "question-word"
+          },
+          {
+            "sentence": "When is start the class?",
+            "isCorrect": false,
+            "correction": "When does the class start?",
+            "explanation": "El orden correcto es: wh-word + auxiliar + sujeto + verbo. 'When does the class start?'. 'Is start' no es posible — 'start' es un verbo regular y necesita 'do/does', no 'is'.",
+            "errorType": "word-order"
+          }
+        ]
+      }
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá las preguntas",
+      "instruction": "Ordená las palabras para formar preguntas correctas en inglés.",
+      "itemIndices": [0],
+      "config": {
+        "sentences": [
+          {
+            "translation": "¿Dónde trabaja tu hermano?",
+            "fragments": ["Where", "does", "your brother", "work"],
+            "correctOrder": [0, 1, 2, 3]
+          },
+          {
+            "translation": "¿Por qué estás triste hoy?",
+            "fragments": ["Why", "are", "you", "sad today"],
+            "correctOrder": [0, 1, 2, 3]
+          },
+          {
+            "translation": "¿A qué hora empieza la película?",
+            "fragments": ["What time", "does", "the movie", "start"],
+            "correctOrder": [0, 1, 2, 3]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Resumen: wh-word + auxiliar + sujeto + verbo. Con Present Simple → do/does. Con 'to be' → is/are/am (sin do). Con 'can' → can. Cuando who/what es el SUJETO, no necesitás auxiliar ('Who lives here?'). Y nunca, NUNCA te olvides del auxiliar — es lo más difícil para hispanohablantes.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "id": "vocab-a2-08",
+  "title": "Entertainment & Leisure",
+  "description": "Movie, music, sport, game, concert — vocabulario para hablar de entretenimiento y tiempo libre. Ojo: 'go to the movies', 'play sport', 'watch a TV show'.",
+  "level": "a2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "movie",
+      "back": "película",
+      "reading": "/ˈmuːvi/",
+      "explanation": "'Go to the movies' = ir al cine. 'Watch a movie' = ver una película. En inglés británico se dice 'film'. 'Movie theater' = cine. 'Let's watch a movie tonight' = miremos una película esta noche.",
+      "cardRef": { "category": "vocabulary", "front": "movie" }
+    },
+    {
+      "front": "music",
+      "back": "música",
+      "reading": "/ˈmjuːzɪk/",
+      "explanation": "'Listen to music' = escuchar música. 'Music' es incontable — nunca 'a music' ni 'musics'. 'Play music' = tocar música. 'Music taste' = gusto musical.",
+      "cardRef": { "category": "vocabulary", "front": "music" }
+    },
+    {
+      "front": "sport",
+      "back": "deporte",
+      "reading": "/spɔːrt/",
+      "explanation": "'Do sport' o 'play sport' = hacer deporte. Con deportes específicos: 'play football/tennis/basketball'. Pero: 'do yoga/karate/gymnastics'. En inglés americano suele ser 'sports' (plural): 'I like sports'.",
+      "cardRef": { "category": "vocabulary", "front": "sport" }
+    },
+    {
+      "front": "game",
+      "back": "juego, partido",
+      "reading": "/ɡeɪm/",
+      "explanation": "'Game' = juego (videojuego, juego de mesa) o partido (deportivo). 'Watch the game' = ver el partido. 'Play a game' = jugar. 'Board game' = juego de mesa. 'Video game' = videojuego.",
+      "cardRef": { "category": "vocabulary", "front": "game" }
+    },
+    {
+      "front": "concert",
+      "back": "concierto, recital",
+      "reading": "/ˈkɑːnsərt/",
+      "explanation": "'Go to a concert' = ir a un recital/concierto. 'Concert ticket' = entrada para el recital. 'Live concert' = concierto en vivo. 'Rock concert', 'classical concert'. En Argentina 'recital' es más común que 'concert'.",
+      "cardRef": { "category": "vocabulary", "front": "concert" }
+    },
+    {
+      "front": "theater",
+      "back": "teatro",
+      "reading": "/ˈθiːətər/",
+      "explanation": "'Go to the theater' = ir al teatro. 'Theater play' o simplemente 'play' = obra de teatro. Inglés británico: 'theatre'. 'Movie theater' = cine. 'Theater' también puede ser una sala (operating theater = sala de operaciones).",
+      "cardRef": { "category": "vocabulary", "front": "theater" }
+    },
+    {
+      "front": "TV show",
+      "back": "programa de televisión, serie",
+      "reading": "/ˌtiːˈviː ʃoʊ/",
+      "explanation": "'Watch a TV show' = ver una serie/programa. 'Favorite TV show' = serie favorita. Tipos: 'sitcom' (comedia), 'drama', 'reality show', 'documentary'. 'Binge-watch' = ver muchos episodios seguidos.",
+      "cardRef": { "category": "vocabulary", "front": "TV show" }
+    },
+    {
+      "front": "hobby",
+      "back": "pasatiempo, hobby",
+      "reading": "/ˈhɑːbi/",
+      "explanation": "'My hobby is...' + gerundio: 'My hobby is reading'. 'What are your hobbies?' = ¿Cuáles son tus pasatiempos? Plural: hobbies. También: 'I'm into...' (soy fanático de...), 'I enjoy...' (disfruto...).",
+      "cardRef": { "category": "vocabulary", "front": "hobby" }
+    },
+    {
+      "front": "party",
+      "back": "fiesta",
+      "reading": "/ˈpɑːrti/",
+      "explanation": "'Have a party' = hacer una fiesta. 'Go to a party' = ir a una fiesta. 'Birthday party' = fiesta de cumpleaños. CUIDADO: 'Party' también significa 'partido político' en contextos formales. 'Are you coming to the party?' = ¿Venís a la fiesta?",
+      "cardRef": { "category": "vocabulary", "front": "party" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario de entretenimiento y ocio",
+      "instruction": "Estas palabras te permiten hablar de lo que hacés en tu tiempo libre. Patrones importantes: 'watch a movie/TV show', 'listen to music', 'go to a concert/theater', 'play a game/sport', 'have a party'. Fijate que el verbo cambia según la actividad.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto de cada palabra de entretenimiento.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "type": "listen-identify",
+      "title": "Escuchá y elegí",
+      "instruction": "Escuchá cada palabra y elegí cuál es.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Qué verbo va con cada actividad?",
+      "instruction": "Elegí la oración donde la palabra se usa correctamente.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "sport",
+            "translation": "deporte",
+            "options": [
+              "She does tennis every Saturday.",
+              "He plays tennis every Saturday.",
+              "They make sport in the gym.",
+              "I sport every morning."
+            ],
+            "correctIndex": 1,
+            "explanation": "Con deportes específicos (tennis, football, basketball) se usa 'PLAY'. 'Do' se usa para actividades individuales (yoga, karate, gymnastics). 'Make sport' no existe en inglés."
+          },
+          {
+            "targetWord": "movie",
+            "translation": "película",
+            "options": [
+              "Let's see a movie tonight.",
+              "Let's look a movie tonight.",
+              "Let's watch a movie tonight.",
+              "Let's hear a movie tonight."
+            ],
+            "correctIndex": 2,
+            "explanation": "El verbo correcto con 'movie' es 'WATCH': 'watch a movie'. En inglés 'ver' una película es 'watch', no 'see' (aunque 'see a movie' también es válido en contexto de ir al cine). 'Look' no se usa con películas."
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice en inglés?",
+      "instruction": "Ves la descripción en español. Escribí la palabra de entretenimiento en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Entretenimiento: WATCH (movie, TV show), LISTEN TO (music), GO TO (a concert, the theater, the movies), PLAY (sport, a game), HAVE (a party). 'Hobby' + is + gerundio: 'My hobby is reading'. En inglés los verbos importan tanto como los sustantivos — cada actividad tiene su verbo típico.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    }
+  ]
+}

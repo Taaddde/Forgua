@@ -1,0 +1,170 @@
+{
+  "id": "grammar-b1-02",
+  "title": "Past Perfect: Había + Participio",
+  "description": "Para la acción que pasó ANTES de otra acción pasada. 'When I arrived, the film had already started.' El pluscuamperfecto del inglés.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "When I arrived at the cinema, the film had already started.",
+      "back": "Cuando llegué al cine, la película ya había empezado.",
+      "reading": "/wɛn aɪ əˈraɪvd ət ðə ˈsɪnəmə ðə fɪlm hæd ˈɔːlrɛdi ˈstɑːrtɪd/",
+      "explanation": "Past Perfect = had + participio pasado. Para TODAS las personas (I had, she had, they had). Marca que algo pasó ANTES de otro momento en el pasado. En español es el pluscuamperfecto: 'había + participio'.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Past Perfect (Subject + had + past participle)"
+      }
+    },
+    {
+      "front": "She was nervous because she had never flown before.",
+      "back": "Estaba nerviosa porque nunca había volado antes.",
+      "reading": "/ʃiː wəz ˈnɜːrvəs bɪˈkɔːz ʃiː hæd ˈnɛvər floʊn bɪˈfɔːr/",
+      "explanation": "El Past Perfect establece una secuencia: primero ella nunca voló (past perfect), después estaba nerviosa (past simple). Sin el past perfect, la historia no queda clara. Palabras clave: already (ya), never (nunca), by the time (para cuando), before (antes), after (después)."
+    },
+    {
+      "front": "By the time we got to the party, most people had already left.",
+      "back": "Para cuando llegamos a la fiesta, la mayoría ya se había ido.",
+      "reading": "/baɪ ðə taɪm wiː ɡɑːt tə ðə ˈpɑːrti moʊst ˈpiːpəl hæd ɔːlˈrɛdi lɛft/",
+      "explanation": "'By the time + past simple, past perfect' = una secuencia muy común. 'By the time she arrived, I had been waiting for an hour.' También funciona con Past Perfect Continuous: 'had been waiting'."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Past Perfect: el pasado del pasado",
+      "instruction": "Forma: had + participio pasado (para todas las personas). Señala que algo ocurrió ANTES de otro momento en el pasado. Es el pluscuamperfecto del inglés.",
+      "itemIndices": [
+        0,
+        1
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "By the time y secuencias temporales",
+      "instruction": "'By the time' + past simple → past perfect en la otra cláusula. Útil para narrar historias con orden claro.",
+      "itemIndices": [
+        2
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es la forma correcta?",
+      "instruction": "Elegí si se necesita Past Simple o Past Perfect en cada oración.",
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá las oraciones",
+      "instruction": "Ordená las palabras para formar oraciones correctas con Past Perfect.",
+      "itemIndices": [
+        0,
+        1
+      ],
+      "config": {
+        "sentences": [
+          {
+            "translation": "Cuando llegué a casa, mi hermano ya había comido.",
+            "fragments": [
+              "When I got home,",
+              "my brother",
+              "had already",
+              "eaten."
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "translation": "Ella se sentía feliz porque había conseguido el trabajo.",
+            "fragments": [
+              "She felt happy",
+              "because she",
+              "had got",
+              "the job."
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Elegí el tiempo verbal correcto",
+      "instruction": "Completá con Past Simple o Past Perfect según la secuencia de eventos.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "I was tired because I {0} all night.",
+            "blanks": [
+              {
+                "answer": "had been working",
+                "options": [
+                  "had been working",
+                  "worked",
+                  "was working"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "By the time the ambulance {0}, the accident {1} an hour before.",
+            "blanks": [
+              {
+                "answer": "arrived",
+                "options": [
+                  "arrived",
+                  "had arrived",
+                  "was arriving"
+                ]
+              },
+              {
+                "answer": "had happened",
+                "options": [
+                  "had happened",
+                  "happened",
+                  "was happening"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "He {0} to London before, so he knew the city well.",
+            "blanks": [
+              {
+                "answer": "had been",
+                "options": [
+                  "had been",
+                  "was",
+                  "went"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Past Perfect = had + participio, para TODAS las personas. Usa cuando necesitás dejar claro que algo ocurrió ANTES de otro momento pasado. Señales: already, never, before, after, by the time. Contracción: I'd finished = I had finished. No siempre es obligatorio — cuando el orden es claro por 'before'/'after', se puede usar Past Simple.",
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
+    }
+  ]
+}

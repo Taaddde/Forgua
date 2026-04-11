@@ -1,0 +1,168 @@
+{
+  "id": "grammar-b1-04",
+  "title": "Reported Speech: He Said That...",
+  "description": "Para contar lo que alguien dijo. Los tiempos verbales 'retroceden' (backshift). 'She said she was tired.' El discurso indirecto en inglés.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "She said that she was feeling tired.",
+      "back": "Ella dijo que se sentía cansada.",
+      "reading": "/ʃiː sɛd ðæt ʃiː wəz ˈfiːlɪŋ ˈtaɪərd/",
+      "explanation": "En reported speech los tiempos retroceden: present simple → past simple, present continuous → past continuous, will → would, can → could. También cambian pronombres (I → she) y expresiones de tiempo (today → that day, tomorrow → the next day).",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Reported Speech (Statements) (He said (that) + backshifted tense)"
+      }
+    },
+    {
+      "front": "He told me he had already eaten dinner.",
+      "back": "Él me dijo que ya había cenado.",
+      "reading": "/hiː toʊld miː hiː hæd ɔːlˈrɛdi ˈiːtən ˈdɪnər/",
+      "explanation": "'Say' vs 'tell': SAY no necesita objeto ('She said she was tired'). TELL necesita objeto indirecto ('She told ME she was tired'). Error muy común: 'She said me' está MAL. 'She told that' está MAL — tell siempre necesita a quién se le dice."
+    },
+    {
+      "front": "She asked me if I had ever been to Japan.",
+      "back": "Ella me preguntó si alguna vez había estado en Japón.",
+      "reading": "/ʃiː æskt miː ɪf aɪ hæd ˈɛvər bɪn tə dʒəˈpæn/",
+      "explanation": "Para reportar preguntas: 'asked if/whether' (yes/no questions), o la palabra interrogativa (what, where, when...). El orden cambia a afirmativo — NO se usa inversión. CORRECTO: 'She asked where the station was.' INCORRECTO: 'She asked where was the station.'"
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Reported Speech: el backshift de tiempos",
+      "instruction": "Cuando reportamos lo que alguien dijo, los tiempos verbales retroceden un paso. 'I am tired' → she said she WAS tired. 'I will help' → he said he WOULD help. El 'that' es opcional.",
+      "itemIndices": [
+        0,
+        1
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Reported Questions: orden afirmativo",
+      "instruction": "Para preguntas indirectas, el orden de palabras cambia: becomes statement order. 'Where is the station?' → He asked WHERE the station WAS (no inversión).",
+      "itemIndices": [
+        2
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es la forma correcta?",
+      "instruction": "Elegí la opción correcta de reported speech.",
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Transformá al discurso indirecto",
+      "instruction": "Completá las oraciones de reported speech con el tiempo y forma correctos.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "Direct: 'I love pizza.' → She said she {0} pizza.",
+            "blanks": [
+              {
+                "answer": "loved",
+                "options": [
+                  "loved",
+                  "love",
+                  "loves"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "Direct: 'I can swim.' → He told me he {0} swim.",
+            "blanks": [
+              {
+                "answer": "could",
+                "options": [
+                  "could",
+                  "can",
+                  "would"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "Direct: 'Will you come?' → She asked me if I {0} come.",
+            "blanks": [
+              {
+                "answer": "would",
+                "options": [
+                  "would",
+                  "will",
+                  "could"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "Direct: 'Where is the pharmacy?' → He asked where the pharmacy {0}.",
+            "blanks": [
+              {
+                "answer": "was",
+                "options": [
+                  "was",
+                  "is",
+                  "were"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Encontrá los errores típicos de reported speech.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "She said me that she was late.",
+            "isCorrect": false,
+            "correction": "She told me that she was late. / She said (that) she was late.",
+            "explanation": "INCORRECTO. 'Say' no necesita objeto indirecto: 'She said she was late.' 'Tell' SÍ necesita objeto: 'She TOLD ME she was late.' 'Said me' no existe en inglés.",
+            "errorType": "say-vs-tell"
+          },
+          {
+            "sentence": "He told his friends he would be late.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Told + objeto (his friends) + reported clause'. 'Will' → 'would' en el backshift. Estructura perfecta.",
+            "errorType": "tense"
+          },
+          {
+            "sentence": "She asked where was the nearest hospital.",
+            "isCorrect": false,
+            "correction": "She asked where the nearest hospital was.",
+            "explanation": "INCORRECTO. En reported questions, el orden de palabras es AFIRMATIVO, no de pregunta. No hay inversión. CORRECTO: 'She asked where the nearest hospital was' (sujeto + verbo, no verbo + sujeto).",
+            "errorType": "word-order"
+          },
+          {
+            "sentence": "They said they had finished the project.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Said + reported clause' (sin objeto indirecto). 'Have finished' (present perfect) → 'had finished' (past perfect) en el backshift.",
+            "errorType": "tense"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Reported Speech: los tiempos retroceden (present → past, will → would, can → could). SAY (sin objeto) vs TELL (con objeto: told me, told his friends). Para preguntas indirectas: asked if/whether (yes/no) o asked what/where/when + orden afirmativo (sin inversión). El 'that' es siempre opcional.",
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
+    }
+  ]
+}

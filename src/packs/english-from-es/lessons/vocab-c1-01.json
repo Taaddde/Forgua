@@ -1,0 +1,181 @@
+{
+  "id": "vocab-c1-01",
+  "title": "Academic Verbs: Argue, Analyse, Build",
+  "description": "Verbos de alto uso académico y formal: elaborate, implement, undermine, constitute, facilitate. Las bases del discurso analítico.",
+  "level": "c1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "elaborate",
+      "back": "elaborar / desarrollar / detallar",
+      "reading": "/ɪˈlæbərət/",
+      "explanation": "Como verbo (estrés en la segunda sílaba): desarrollar algo con mayor detalle. Muy común en contextos académicos y profesionales. 'Could you elaborate on that?' es casi una fórmula obligatoria en reuniones y entrevistas.",
+      "extra": { "register": "formal", "pos": "verb", "collocations": ["elaborate on a point", "elaborate further", "fail to elaborate"] },
+      "cardRef": { "category": "vocabulary", "front": "elaborate" }
+    },
+    {
+      "front": "implement",
+      "back": "implementar / poner en práctica",
+      "reading": "/ˈɪmpləˌmɛnt/",
+      "explanation": "Ojo con el acento: como verbo /ˈɪmpləˌmɛnt/, como sustantivo también /ˈɪmpləmənt/. Colocaciones clave: 'implement a policy/strategy/system'. Más formal que 'carry out' o 'put into practice'.",
+      "extra": { "register": "formal", "pos": "verb", "collocations": ["implement a policy", "implement changes", "implement a strategy"] },
+      "cardRef": { "category": "vocabulary", "front": "implement" }
+    },
+    {
+      "front": "undermine",
+      "back": "socavar / debilitar / minar",
+      "reading": "/ˌʌndərˈmaɪn/",
+      "explanation": "Literalmente 'cavar por debajo'. Metafóricamente: debilitar algo desde adentro, de forma gradual e indirecta. Muy diferente a 'destroy' (destruir directamente). 'Undermine trust/authority/confidence' son colocaciones canónicas en periodismo y política.",
+      "extra": { "register": "formal", "pos": "verb", "collocations": ["undermine trust", "undermine authority", "undermine confidence", "undermine efforts"] },
+      "cardRef": { "category": "vocabulary", "front": "undermine" }
+    },
+    {
+      "front": "constitute",
+      "back": "constituir / representar",
+      "reading": "/ˈkɑːnstəˌtuːt/",
+      "explanation": "Más formal que 'be' o 'make up'. 'This constitutes a breach of contract' suena legal y preciso. Útil para argumentar: en lugar de 'this IS a problem', un C1 dice 'this CONSTITUTES a significant challenge'.",
+      "extra": { "register": "formal", "pos": "verb", "collocations": ["constitute a majority", "constitute a threat", "constitute evidence", "constitute an offense"] },
+      "cardRef": { "category": "vocabulary", "front": "constitute" }
+    },
+    {
+      "front": "facilitate",
+      "back": "facilitar / posibilitar",
+      "reading": "/fəˈsɪləˌteɪt/",
+      "explanation": "Más formal y específico que 'help' o 'make easier'. Implica crear las condiciones para que algo suceda. En contextos educativos y corporativos: 'facilitate learning', 'facilitate discussion'. El sustantivo 'facilitator' (facilitador) es muy común en talleres y reuniones.",
+      "extra": { "register": "formal", "pos": "verb", "collocations": ["facilitate communication", "facilitate access", "facilitate learning", "facilitate a meeting"] },
+      "cardRef": { "category": "vocabulary", "front": "facilitate" }
+    },
+    {
+      "front": "attribute",
+      "back": "atribuir (a)",
+      "reading": "/əˈtrɪbjuːt/",
+      "explanation": "Como verbo (estrés en la segunda sílaba): 'attribute something TO someone/something'. Como sustantivo (estrés en la primera): 'an attribute' (un atributo/característica). Patrón típico: 'Historians attribute the decline TO...' — siempre con 'to'.",
+      "extra": { "register": "academic", "pos": "verb", "collocations": ["attribute something to", "attribute success to", "attribute the cause to"] },
+      "cardRef": { "category": "vocabulary", "front": "attribute" }
+    },
+    {
+      "front": "infer",
+      "back": "inferir / deducir",
+      "reading": "/ɪnˈfɜːr/",
+      "explanation": "Distinción crítica: 'infer' (inferir/deducir, rol del lector/oyente) vs 'imply' (implicar, rol del hablante/escritor). 'The author implies X' (el autor implica). 'I infer from this that...' (yo deduzco). Confundirlos es un error de registro muy común en C1.",
+      "extra": { "register": "academic", "pos": "verb", "collocations": ["infer from the data", "infer that", "reasonably infer"] },
+      "cardRef": { "category": "vocabulary", "front": "infer" }
+    },
+    {
+      "front": "prevail",
+      "back": "prevalecer / imponerse / predominar",
+      "reading": "/prɪˈveɪl/",
+      "explanation": "Tres usos distintos: (1) triunfar/ganar ('justice will prevail'), (2) ser prevalente ('a culture that prevails'), (3) prevalecer sobre alguien ('he prevailed upon her to stay'). El tercer uso — persuadir — es más literario. El primero es el más usado en discurso formal y político.",
+      "extra": { "register": "formal", "pos": "verb", "collocations": ["justice will prevail", "prevailing opinion", "prevail over", "prevail upon someone to"] },
+      "cardRef": { "category": "vocabulary", "front": "prevail" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Verbos académicos esenciales",
+      "instruction": "Estos 8 verbos son el núcleo del inglés formal escrito. Los encontrarás en The Economist, Nature, The Guardian y textos universitarios. Prestá atención al acento en pares como 'implement' (verbo/sustantivo) y 'attribute' (verbo/sustantivo).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es el significado?",
+      "instruction": "Elegí el significado correcto. Cuidado: algunos son falsos cognados parciales (elaborate ≠ solo 'elaborado').",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Uso en contexto real",
+      "instruction": "Elegí la oración donde la palabra está usada con el registro y colocación correctos. Las opciones incorrectas tienen errores de colocación o registro.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "undermine",
+            "translation": "socavar / debilitar",
+            "options": [
+              "The accident completely undermined the car.",
+              "Constant micromanagement can undermine employee morale and creativity.",
+              "She undermined the book by reading it carefully.",
+              "They undermined the project because they worked hard."
+            ],
+            "correctIndex": 1,
+            "explanation": "'Undermine' se usa con entidades abstractas (morale, trust, authority, confidence), no con objetos físicos ni con acciones positivas."
+          },
+          {
+            "targetWord": "infer",
+            "translation": "inferir / deducir",
+            "options": [
+              "The data infers that the treatment is effective.",
+              "From the data, we can infer that the treatment is effective.",
+              "The author inferred that climate change exists.",
+              "He inferred a long speech about the topic."
+            ],
+            "correctIndex": 1,
+            "explanation": "'Infer' es lo que hace el LECTOR/analista desde los datos. 'The data infers' es incorrecto (los datos no infieren, nosotros inferimos DE los datos). 'The author implied' sería correcto, no 'inferred'."
+          },
+          {
+            "targetWord": "constitute",
+            "translation": "constituir / representar",
+            "options": [
+              "This constitutes a serious breach of the agreement.",
+              "This constitutes much work for me.",
+              "She constituted to the meeting at 9am.",
+              "They constituted the problem yesterday."
+            ],
+            "correctIndex": 0,
+            "explanation": "'Constitute' se usa para definir categorías legales o formales. 'Constitute a breach/violation/majority/threat' son colocaciones auténticas. No se usa para describir cantidad de trabajo ni acciones en tiempo concreto."
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Registro y colocación correctos?",
+      "instruction": "En C1, los errores no son solo gramaticales — son de colocación y registro. ¿Estas oraciones suenan auténticamente avanzadas?",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "The government failed to implement their new education policy effectively.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Implement a policy' es una colocación estándar en discurso político y académico. 'Failed to implement' es una combinación muy natural.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "She elaborated a great presentation for the conference.",
+            "isCorrect": false,
+            "correction": "She prepared/delivered/gave an excellent presentation for the conference.",
+            "explanation": "'Elaborate' como verbo significa 'dar más detalles'. No es sinónimo de 'preparar'. La frase española 'elaboró una presentación' no se traduce directamente. En inglés, 'to elaborate' se usa intransitivamente o con 'on': 'Could you elaborate on that?', 'She elaborated on her findings.'",
+            "errorType": "false-cognate"
+          },
+          {
+            "sentence": "Years of budget cuts have undermined the country's healthcare infrastructure.",
+            "isCorrect": true,
+            "explanation": "Correcta y auténtica. 'Undermine' + abstracto (infrastructure, morale, democracy, authority) es uso nativo. El sujeto gradual ('years of budget cuts') es exactamente el tipo de sujeto que acompaña a 'undermine'.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "From this evidence, we can attribute clearly to conclude that the hypothesis is wrong.",
+            "isCorrect": false,
+            "correction": "From this evidence, we can conclude that the hypothesis is wrong. / We can attribute the results to measurement error.",
+            "explanation": "'Attribute' y 'conclude' son verbos independientes con estructuras diferentes: 'attribute X to Y' o 'conclude that'. No se combinan en una sola construcción.",
+            "errorType": "collocation"
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "Producción activa",
+      "instruction": "Escribí la palabra en inglés a partir de su significado en español. Los verbos académicos hay que producirlos, no solo reconocerlos.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completada!",
+      "instruction": "Estos 8 verbos ahora están en tu repaso SRS. Tip para aprenderlos de verdad: la próxima vez que leas un artículo en inglés, subrayá cada vez que aparezca uno de estos verbos y notá la colocación exacta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

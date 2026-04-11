@@ -1,0 +1,182 @@
+{
+  "id": "conv-b2-03",
+  "title": "Debate: Should AI Be More Regulated?",
+  "description": "Debate académico/profesional sobre un tema de actualidad. Argumentar, refutar y llegar a conclusiones en inglés con sofisticación.",
+  "level": "b2",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "I see your point, but...",
+      "back": "Entiendo tu punto, pero...",
+      "reading": "",
+      "explanation": "Fórmula para reconocer el argumento del otro antes de rebatirlo. En un debate sofisticado, siempre reconocés algo válido en la otra posición antes de presentar tu contraargumento. Es más efectivo que simplemente decir 'No, you're wrong'."
+    },
+    {
+      "front": "It could be argued that...",
+      "back": "Se podría argumentar que...",
+      "reading": "",
+      "explanation": "Fórmula académica para presentar un argumento sin comprometerte del todo con él — útil cuando presentás el lado opuesto. También: 'One could argue that...', 'There is a case to be made that...'"
+    },
+    {
+      "front": "The evidence suggests / points to...",
+      "back": "La evidencia sugiere / apunta a...",
+      "reading": "",
+      "explanation": "Fórmula para presentar datos o hechos de forma académica. Más sofisticado que 'studies show' (aunque eso también está bien). Otras opciones: 'Research indicates', 'Data shows', 'According to recent findings'."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario para debatir en inglés",
+      "instruction": "Debates en inglés (especialmente en contextos académicos o profesionales) siguen reglas de cortesía y estructura. Siempre reconocés el punto del otro ('I see your point') antes de refutar. Presentás argumentos con frases como 'It could be argued that...' para sonar más objetivo.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "conversation-script",
+      "title": "Debate: ¿Debería regularse más la IA?",
+      "instruction": "Estás en un debate académico moderado. Tu interlocutor argumenta CONTRA la regulación de la IA. Vos defendés la posición A FAVOR de la regulación. Elegí las respuestas más sólidas y bien argumentadas.",
+      "itemIndices": [],
+      "config": {
+        "script": {
+          "id": "conv-b2-ai-debate",
+          "scenario": "Debate académico moderado — sala de conferencias universitaria",
+          "level": "b2",
+          "turns": [
+            {
+              "speaker": "npc",
+              "text": "I'd like to start by arguing that overregulating AI could stifle innovation. If we impose too many restrictions, we risk falling behind countries like China that are investing heavily without such constraints.",
+              "translation": "Me gustaría comenzar argumentando que una regulación excesiva podría frenar la innovación. Si imponemos demasiadas restricciones, corremos el riesgo de quedar atrás de países como China que invierten mucho sin tales limitaciones."
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                {
+                  "text": "That's a valid concern, but I'd argue that the real risk is the opposite. Without adequate regulation, we risk deploying AI systems that perpetuate discrimination and undermine public trust — which would ultimately harm the industry itself.",
+                  "isCorrect": true,
+                  "feedback": "Excelente refutación estructurada: reconoce el argumento, introduce el contraargumento con 'I'd argue', usa 'perpetuate discrimination' (vocabulario del texto de lectura), y termina con consecuencias para el propio adversario.",
+                  "translation": "Es una preocupación válida, pero yo argumentaría que el verdadero riesgo es el contrario..."
+                },
+                {
+                  "text": "No, that's wrong. Regulation is always good. China is bad. We need more rules.",
+                  "isCorrect": false,
+                  "feedback": "Respuesta confrontacional, vaga y sin argumentos. 'No, that's wrong' es demasiado agresivo para un debate académico. No presentás ninguna evidencia ni razonamiento estructurado.",
+                  "translation": "No, eso está mal. La regulación siempre es buena. China es mala. Necesitamos más reglas."
+                },
+                {
+                  "text": "I see your point, but the evidence suggests that countries with strong regulatory frameworks can still lead in innovation. The EU, for instance, has implemented the AI Act while maintaining a competitive tech sector.",
+                  "isCorrect": true,
+                  "feedback": "Muy buena. Reconocés el punto, citas evidencia concreta (EU AI Act), y contrargumentás con datos reales. 'The evidence suggests' es la frase de apertura perfecta para presentar datos.",
+                  "translation": "Entiendo tu punto, pero la evidencia sugiere que los países con marcos regulatorios sólidos aún pueden liderar en innovación..."
+                },
+                {
+                  "text": "I agree with you actually. Regulation is probably not a good idea.",
+                  "isCorrect": false,
+                  "feedback": "Concedés el argumento central cuando se supone que estás debatiendo A FAVOR de la regulación. En un debate estructurado, tu posición es defender la regulación. Ceder inmediatamente mina todo el ejercicio.",
+                  "translation": "En realidad estoy de acuerdo contigo. La regulación probablemente no sea una buena idea."
+                }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "But aren't you concerned that regulation tends to be reactive rather than proactive? By the time lawmakers understand the technology, it's already outdated.",
+              "translation": "¿Pero no te preocupa que la regulación tiende a ser reactiva en lugar de proactiva? Para cuando los legisladores entienden la tecnología, ya está desactualizada."
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                {
+                  "text": "It could be argued that regulation needs to be principles-based rather than technology-specific. Rather than regulating particular algorithms, we should regulate outcomes — for example, ensuring AI systems do not discriminate regardless of the technology used.",
+                  "isCorrect": true,
+                  "feedback": "'Principles-based rather than technology-specific' es un argumento sofisticado y real en el debate sobre regulación de IA. 'Regulate outcomes, not technology' es la posición de muchos expertos. Excelente nivel.",
+                  "translation": "Se podría argumentar que la regulación necesita basarse en principios en lugar de en tecnologías específicas..."
+                },
+                {
+                  "text": "Yes, I am concerned. You're right, it's very difficult. Lawmakers are usually old and don't understand technology.",
+                  "isCorrect": false,
+                  "feedback": "Aunque la preocupación sobre el conocimiento tecnológico de los legisladores es legítima, este argumento es poco sofisticado y podría sonar condescendiente. En un debate académico, evitás argumentos ad hominem.",
+                  "translation": "Sí, estoy preocupado. Tenés razón, es muy difícil. Los legisladores generalmente son viejos y no entienden la tecnología."
+                },
+                {
+                  "text": "That's a fair challenge. However, I'd point out that regulatory frameworks can be designed with adaptability built in — including sunset clauses and regular review mechanisms that ensure the law evolves alongside the technology.",
+                  "isCorrect": true,
+                  "feedback": "'That's a fair challenge' reconoce el punto con madurez. 'Sunset clauses' y 'regular review mechanisms' son términos reales de política regulatoria que muestran preparación profunda.",
+                  "translation": "Es un desafío justo. Sin embargo, señalaría que los marcos regulatorios pueden diseñarse con adaptabilidad incorporada..."
+                }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "Perhaps. But what about the risk of overreach? Too much regulation could give governments unprecedented control over private companies and individuals.",
+              "translation": "Quizás. ¿Pero qué hay del riesgo de exceso regulatorio? Demasiada regulación podría darle a los gobiernos un control sin precedentes sobre empresas privadas e individuos."
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                {
+                  "text": "That's a legitimate concern, and it's why independent oversight bodies — rather than direct government control — are crucial. The key is to regulate outcomes, protect citizens from harm, while preventing governments from exploiting AI for surveillance purposes themselves.",
+                  "isCorrect": true,
+                  "feedback": "Reconocés el riesgo legítimo y ofreces una solución matizada ('independent oversight bodies'). Anticipás la preocupación sobre el gobierno mismo usando la IA para vigilar — demostrás pensamiento crítico profundo.",
+                  "translation": "Es una preocupación legítima, y es por eso que los organismos de supervisión independientes — más que el control gubernamental directo — son cruciales..."
+                },
+                {
+                  "text": "I don't think that would happen. Governments are usually good.",
+                  "isCorrect": false,
+                  "feedback": "Argumento naive e insostenible. 'Governments are usually good' no es una respuesta académicamente válida — hay ejemplos históricos y contemporáneos de abuso de poder gubernamental que deberías poder citar.",
+                  "translation": "No creo que eso pasaría. Los gobiernos generalmente son buenos."
+                },
+                {
+                  "text": "Furthermore, even in today's unregulated landscape, governments already have considerable power over tech companies. Regulation, done right, actually limits that power by making rules transparent and subject to judicial review.",
+                  "isCorrect": true,
+                  "feedback": "Argumento contraintuitivo muy efectivo: la regulación LIMITA el poder gubernamental (al hacerlo transparente) en vez de aumentarlo. 'Judicial review' y 'transparent rules' son conceptos precisos.",
+                  "translation": "Además, incluso en el panorama actual sin regulación, los gobiernos ya tienen un poder considerable sobre las empresas tecnológicas..."
+                }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "Interesting points. Where do you think we should draw the line between necessary regulation and harmful overreach?",
+              "translation": "Puntos interesantes. ¿Dónde crees que deberíamos trazar la línea entre la regulación necesaria y el exceso regulatorio dañino?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                {
+                  "text": "At the end of the day, I think the line should be drawn around impact and risk. High-risk applications — medical diagnosis, criminal sentencing, autonomous vehicles — should face stringent oversight. Low-risk applications, like recommendation engines, require lighter-touch regulation. The goal is to protect citizens without stifling legitimate innovation.",
+                  "isCorrect": true,
+                  "feedback": "Conclusión B2 modelo: usa 'at the end of the day' (discourse marker de conclusión), propone un criterio claro (impact/risk), da ejemplos concretos de ambas categorías, y termina con el objetivo equilibrado. Perfecto.",
+                  "translation": "Al final del día, creo que la línea debería trazarse alrededor del impacto y el riesgo..."
+                },
+                {
+                  "text": "I don't know exactly. It's a complicated question and there is no good answer.",
+                  "isCorrect": false,
+                  "feedback": "Nunca termines un debate con 'I don't know' — especialmente cuando el moderador te pide una conclusión. Aunque el tema sea complejo, siempre podés proponer un principio o criterio general para trazar la línea.",
+                  "translation": "No sé exactamente. Es una pregunta complicada y no hay una buena respuesta."
+                },
+                {
+                  "text": "Having said that, I think a risk-based approach offers the most balanced solution. Regulation should be proportionate to the potential harm an AI system could cause, with robust accountability mechanisms for high-stakes applications.",
+                  "isCorrect": true,
+                  "feedback": "'Having said that' usa el discourse marker correctamente para matizar. 'Risk-based approach', 'proportionate to potential harm', 'robust accountability mechanisms' son exactamente el nivel de vocabulario esperado en B2.",
+                  "translation": "Dicho esto, creo que un enfoque basado en riesgos ofrece la solución más equilibrada..."
+                }
+              ],
+              "correctOptionIndex": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Debatir en inglés B2: (1) Siempre reconocé el argumento del otro antes de refutar: 'That's a valid concern / fair challenge / legitimate point'. (2) Presentá argumentos con 'I'd argue that', 'It could be argued that', 'The evidence suggests'. (3) Ofrece soluciones matizadas, no simplistas. (4) Concluí con un principio claro, no con 'I don't know'. Discourse markers para debate: 'Furthermore', 'Having said that', 'At the end of the day'. Estructura: reconocer → refutar → proponer alternativa.",
+      "itemIndices": [0, 1, 2]
+    }
+  ]
+}

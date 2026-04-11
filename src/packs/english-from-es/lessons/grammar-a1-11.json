@@ -10,35 +10,34 @@
       "back": "en (dentro de, adentro)",
       "reading": "/ɪn/",
       "explanation": "'In' = dentro de un espacio cerrado o delimitado. In the box, in the room, in the car, in Buenos Aires, in Argentina. También para meses y años: in January, in 2024.",
-      "cardRef": { "category": "grammar", "front": "in (preposition)" }
+      "cardRef": {
+        "category": "grammar",
+        "front": "Prepositions of Place (in / on / at / under / next to / between / behind / in front of)"
+      }
     },
     {
       "front": "on",
       "back": "en (sobre una superficie)",
       "reading": "/ɑːn/",
-      "explanation": "'On' = sobre una superficie (tocándola). On the table, on the wall, on the floor. También para días: on Monday, on my birthday, on July 4th.",
-      "cardRef": { "category": "grammar", "front": "on (preposition)" }
+      "explanation": "'On' = sobre una superficie (tocándola). On the table, on the wall, on the floor. También para días: on Monday, on my birthday, on July 4th."
     },
     {
       "front": "at",
       "back": "en (un punto específico)",
       "reading": "/æt/",
-      "explanation": "'At' = en un punto específico o una dirección. At school, at work, at home, at the bus stop, at 3 o'clock. También para horas: at 5 PM.",
-      "cardRef": { "category": "grammar", "front": "at (preposition)" }
+      "explanation": "'At' = en un punto específico o una dirección. At school, at work, at home, at the bus stop, at 3 o'clock. También para horas: at 5 PM."
     },
     {
       "front": "The book is on the table.",
       "back": "El libro está en la mesa.",
       "reading": "/ðə bʊk ɪz ɑːn ðə ˈteɪbəl/",
-      "explanation": "ON porque el libro está SOBRE la superficie de la mesa. ERROR: 'The book is in the table' significaría que está DENTRO de la mesa (en un cajón). Un hispanohablante diría 'in' porque en español todo es 'en'.",
-      "cardRef": { "category": "grammar", "front": "The book is on the table." }
+      "explanation": "ON porque el libro está SOBRE la superficie de la mesa. ERROR: 'The book is in the table' significaría que está DENTRO de la mesa (en un cajón). Un hispanohablante diría 'in' porque en español todo es 'en'."
     },
     {
       "front": "She is at school.",
       "back": "Ella está en la escuela.",
       "reading": "/ʃiː ɪz æt skuːl/",
-      "explanation": "AT porque la escuela es un PUNTO (un lugar donde está). No 'in school' (que significaría adentro del edificio) ni 'on school' (sobre el edificio). AT = estás en ese lugar cumpliendo su función (at school = estudiando, at work = trabajando, at home = en tu casa).",
-      "cardRef": { "category": "grammar", "front": "She is at school." }
+      "explanation": "AT porque la escuela es un PUNTO (un lugar donde está). No 'in school' (que significaría adentro del edificio) ni 'on school' (sobre el edificio). AT = estás en ese lugar cumpliendo su función (at school = estudiando, at work = trabajando, at home = en tu casa)."
     }
   ],
   "steps": [
@@ -46,31 +45,56 @@
       "type": "introduce",
       "title": "El gran problema: 'en' = in / on / at",
       "instruction": "En español, la preposición 'en' sirve para todo: 'en la caja', 'en la mesa', 'en la escuela'. En inglés, cada situación tiene su preposición: IN (dentro), ON (sobre superficie), AT (punto/lugar). Este es el error de preposición más frecuente de hispanohablantes según el Cambridge Learner Corpus.",
-      "itemIndices": [0, 1, 2]
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
     },
     {
       "type": "introduce",
       "title": "Veamos la diferencia en acción",
       "instruction": "'The book is ON the table' (sobre la mesa, tocándola). 'She is AT school' (en la escuela, como lugar). Si dijeras 'IN the table' significaría DENTRO de la mesa. Si dijeras 'IN school' enfatizarías estar dentro del edificio.",
-      "itemIndices": [3, 4]
+      "itemIndices": [
+        3,
+        4
+      ]
     },
     {
       "type": "recognize",
       "title": "¿in, on o at?",
       "instruction": "Elegí la preposición correcta para cada oración.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "recall",
       "title": "Completá con la preposición",
       "instruction": "Ves la oración con un espacio. Escribí 'in', 'on' o 'at'.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "summary",
       "title": "¡Lección completa!",
       "instruction": "Resumen rápido: IN = dentro (in the box, in January, in Buenos Aires). ON = sobre superficie (on the table, on Monday). AT = punto/lugar (at school, at 3 PM, at home). Truco: cuando dudes, pensá si algo está DENTRO (in), TOCANDO una superficie (on), o es solo un PUNTO (at).",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     }
   ]
 }

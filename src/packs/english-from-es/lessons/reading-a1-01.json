@@ -1,0 +1,85 @@
+{
+  "id": "reading-a1-01",
+  "title": "Reading: My Family",
+  "description": "Primer texto en inglés real. Vocabulario familiar, presente simple, adjetivos básicos.",
+  "level": "a1",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "family",
+      "back": "familia",
+      "reading": "/ˈfæməli/",
+      "explanation": "Palabra clave del texto: 'My family is very big' = Mi familia es muy grande.",
+      "cardRef": { "category": "vocabulary", "front": "family" }
+    },
+    {
+      "front": "teacher",
+      "back": "profesor, maestra",
+      "reading": "/ˈtiːtʃər/",
+      "explanation": "En el texto: 'My father is a teacher'. Se dice 'a teacher' (con artículo indefinido) porque es una profesión.",
+      "cardRef": { "category": "vocabulary", "front": "teacher" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario del texto",
+      "instruction": "Antes de leer, revisá estas palabras clave del texto.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Lectura: My Family",
+      "instruction": "Leé el texto con atención y respondé las preguntas de comprensión.",
+      "itemIndices": [],
+      "config": {
+        "passage": {
+          "id": "a1-reading-my-family",
+          "title": "My Family",
+          "level": "a1",
+          "text": "My name is Maria. I am twenty-five years old. I live with my family in a small house. My father is a teacher. My mother works in a hospital. I have one brother and one sister. My brother is older than me. He is twenty-eight. My sister is younger. She is twenty. We have a dog. His name is Max. We are a happy family.",
+          "translation": "Me llamo María. Tengo veinticinco años. Vivo con mi familia en una casa pequeña. Mi padre es profesor. Mi madre trabaja en un hospital. Tengo un hermano y una hermana. Mi hermano es mayor que yo. Tiene veintiocho años. Mi hermana es menor. Tiene veinte. Tenemos un perro. Se llama Max. Somos una familia feliz.",
+          "vocabulary": ["family - familia", "house - casa", "teacher - profesor", "hospital - hospital", "brother - hermano", "sister - hermana", "older - mayor", "younger - menor", "dog - perro", "happy - feliz"],
+          "questions": [
+            {
+              "question": "How old is Maria?",
+              "options": ["Twenty", "Twenty-five", "Twenty-eight", "Thirty"],
+              "correctIndex": 1,
+              "explanation": "El texto dice 'I am twenty-five years old.'"
+            },
+            {
+              "question": "What does Maria's father do?",
+              "options": ["He is a doctor.", "He is a teacher.", "He works in a hospital.", "He is a student."],
+              "correctIndex": 1,
+              "explanation": "El texto dice 'My father is a teacher.'"
+            },
+            {
+              "question": "What is the name of the dog?",
+              "options": ["Bob", "Rex", "Max", "Sam"],
+              "correctIndex": 2,
+              "explanation": "El texto dice 'His name is Max.'"
+            },
+            {
+              "question": "Who is younger — the brother or the sister?",
+              "options": ["The brother", "The sister", "Both are the same age", "The text doesn't say"],
+              "correctIndex": 1,
+              "explanation": "El texto dice 'My sister is younger. She is twenty.' El hermano tiene 28 años."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "recognize",
+      "title": "Repasá el vocabulario",
+      "instruction": "Elegí el significado correcto de estas palabras del texto.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lectura completa!",
+      "instruction": "Leíste tu primer texto en inglés real. Cosas que practicaste: edades (I am twenty-five), profesiones (a teacher, works in a hospital), familia (brother, sister, dog), comparativos (older, younger). ¡Muy bien!",
+      "itemIndices": [0, 1]
+    }
+  ]
+}

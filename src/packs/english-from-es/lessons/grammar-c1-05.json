@@ -1,0 +1,180 @@
+{
+  "id": "grammar-c1-05",
+  "title": "Wish / If Only (All Tenses)",
+  "description": "Wish e If only para expresar deseos y arrepentimientos: wish + past simple (presente), wish + past perfect (pasado), wish + would (futuro/irritación).",
+  "level": "c1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Wish / If only (All Tenses) (wish/if only + past simple (present) | wish/if only + past perfect (past) | wish/if only + would (future/annoyance))",
+      "back": "Deseos contrarios a la realidad en tres tiempos: presente irreal (I wish I knew), pasado irreal (I wish I had known), irritación/queja (I wish you would stop)",
+      "reading": "",
+      "explanation": "WISH/IF ONLY + PAST SIMPLE: deseo sobre el presente (I wish I knew = ojalá supiera). La situación ACTUAL es contraria al deseo. WISH/IF ONLY + PAST PERFECT: arrepentimiento sobre el PASADO (I wish I had known = ojalá hubiera sabido). WISH + WOULD: irritación sobre hábito ajeno o deseo de cambio (I wish it would stop raining). NUNCA wish + would sobre uno mismo: 'I wish I would...' = incorrecto → 'I wish I could...'",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Wish / If only (All Tenses) (wish/if only + past simple (present) | wish/if only + past perfect (past) | wish/if only + would (future/annoyance))"
+      }
+    },
+    {
+      "front": "I wish I knew / If only she weren't so stubborn",
+      "back": "Deseo sobre el presente: ojalá supiera / si tan solo no fuera tan obstinada",
+      "reading": "",
+      "explanation": "Para deseos sobre la situación ACTUAL: wish + past simple. El pasado aquí NO indica tiempo pasado — indica irrealidad (subjuntivo). 'I wish I were taller' (soy bajo, ojalá fuera alto). 'If only' es más enfático, más cargado emocionalmente. 'If only she weren't so stubborn, we could solve this!' Nota: 'were' se usa con todos los sujetos en contextos formales (I wish I were / he wishes he were), aunque 'was' se oye en habla informal."
+    },
+    {
+      "front": "I wish I had told her / If only we hadn't left early",
+      "back": "Arrepentimiento pasado: ojalá le hubiera dicho / si tan solo no nos hubiéramos ido temprano",
+      "reading": "",
+      "explanation": "Para arrepentimientos sobre ACCIONES PASADAS: wish + past perfect. 'I wish I had told her the truth' = No le dije la verdad (pasado), y ahora me arrepiento. 'If only we hadn't left early!' = Nos fuimos temprano (hecho pasado) y fue un error. El pasado perfecto aquí señala que el evento ya ocurrió y no puede cambiarse."
+    },
+    {
+      "front": "I wish you would stop / I wish it would rain",
+      "back": "Irritación sobre hábito ajeno / deseo de cambio en el futuro",
+      "reading": "",
+      "explanation": "WISH + WOULD: (1) Irritación sobre el comportamiento ajeno: 'I wish you would stop interrupting me!' (me irrita que interrumpas). (2) Deseo de que algo cambie: 'I wish it would stop raining' (quiero que deje de llover). NUNCA sobre uno mismo: 'I wish I would pass the exam' es INCORRECTO. Se dice 'I wish I could pass' (capacidad) o 'I hope I pass' (esperanza neutral). WOULD implica que es el otro quien puede cambiar."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Wish e If only — tres contextos diferentes",
+      "instruction": "Wish e If only son las expresiones del subjuntivo inglés por excelencia. Expresan que la realidad es diferente de lo que desearíamos. La clave está en el tiempo: past simple = deseo sobre el PRESENTE. Past perfect = arrepentimiento sobre el PASADO. Would = irritación o deseo de cambio FUTURO.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué tiempo y significado?",
+      "instruction": "Identificá qué tipo de wish se usa en cada oración y qué expresa.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Wish correcto?",
+      "instruction": "Los errores de wish son muy frecuentes. ¿Estas oraciones son gramaticalmente correctas?",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "I wish I had more time to read — my schedule is always so packed.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'I wish I had' + more time = deseo sobre el PRESENTE (ahora mismo no tengo suficiente tiempo). El past simple ('had') señala irrealidad presente. 'My schedule is always so packed' confirma que es una situación actual.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "I wish I would have studied architecture instead of engineering.",
+            "isCorrect": false,
+            "correction": "I wish I had studied architecture instead of engineering.",
+            "explanation": "Arrepentimiento sobre una decisión pasada → wish + PAST PERFECT (had studied). 'I wish I would have studied' es incorrecto — 'would have' no se usa después de 'wish'. Este es el error más común de hispanohablantes que transfieren la estructura 'ojalá hubiera' directamente.",
+            "errorType": "wish-past-perfect"
+          },
+          {
+            "sentence": "I wish my neighbor would stop playing loud music so late at night.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Wish + would + stop' = irritación sobre el comportamiento habitual de otra persona. El vecino tiene control sobre su comportamiento (puede parar), por eso usamos 'would'. Esta es la distinción clave: wish + would solo cuando el sujeto es otra persona que PUEDE cambiar.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "If only she had been accepted into the program — she worked so hard for it.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'If only + past perfect' = lamento sobre un evento pasado que no ocurrió. 'If only she had been accepted' implica que NO fue aceptada. 'She worked so hard' confirma el lamento. 'If only' aquí tiene carga emocional más fuerte que 'I wish'.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "He wishes he can speak another language fluently.",
+            "isCorrect": false,
+            "correction": "He wishes he could speak another language fluently.",
+            "explanation": "Después de 'wish' para el presente, se usa PAST SIMPLE del modal: 'could' (no 'can'). 'Wishes he can' rompe la regla del past simple para irrealidad presente. 'Could' es el pasado de 'can' y señala que la capacidad no existe actualmente.",
+            "errorType": "wish-present"
+          }
+        ]
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con la forma correcta",
+      "instruction": "Elegí la estructura de wish correcta según el contexto.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "I can't believe I forgot her birthday. I wish I {0} it!",
+            "blanks": [
+              {
+                "answer": "hadn't forgotten",
+                "options": [
+                  "hadn't forgotten",
+                  "didn't forget",
+                  "wouldn't forget",
+                  "won't forget"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "If only the government {0} the early warnings seriously — thousands of lives could have been saved.",
+            "blanks": [
+              {
+                "answer": "had taken",
+                "options": [
+                  "had taken",
+                  "took",
+                  "would take",
+                  "takes"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "I really wish my colleagues {0} interrupting me during presentations. It's unprofessional.",
+            "blanks": [
+              {
+                "answer": "would stop",
+                "options": [
+                  "would stop",
+                  "stopped",
+                  "had stopped",
+                  "stop"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "She wishes she {0} how to play the piano. Her daughter takes lessons and it looks beautiful.",
+            "blanks": [
+              {
+                "answer": "knew",
+                "options": [
+                  "knew",
+                  "knows",
+                  "had known",
+                  "would know"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completada!",
+      "instruction": "WISH + PAST SIMPLE = deseo sobre el PRESENTE (irrealidad actual). WISH + PAST PERFECT = arrepentimiento sobre el PASADO. WISH + WOULD = irritación/deseo de cambio (solo sobre OTROS, nunca sobre uno mismo → usar 'could'). IF ONLY = más enfático que 'wish', carga emocional mayor. Todos en tu SRS.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ]
+}

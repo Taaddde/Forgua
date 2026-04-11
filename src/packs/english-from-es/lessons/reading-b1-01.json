@@ -1,0 +1,77 @@
+{
+  "id": "reading-b1-01",
+  "title": "Reading: Working from Home",
+  "description": "Un texto sobre el trabajo remoto, el modelo híbrido y la vida laboral moderna. Vocabulario de trabajo y conectores de contraste.",
+  "level": "b1",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "commute",
+      "back": "viajar al trabajo (el trayecto diario)",
+      "reading": "/kəˈmjuːt/",
+      "explanation": "El viaje de ida y vuelta al trabajo. 'I spend an hour commuting every day.' Como sustantivo: 'a long commute'. Millones de personas trabajan desde casa para evitar el commute."
+    },
+    {
+      "front": "isolated",
+      "back": "aislado",
+      "reading": "/ˈaɪsəleɪtɪd/",
+      "explanation": "Separado de otros, sin contacto social. 'Working from home can make people feel isolated.' ISOLATION = el aislamiento."
+    },
+    {
+      "front": "hybrid model",
+      "back": "modelo híbrido (trabajo mixto presencial/remoto)",
+      "reading": "/ˈhaɪbrɪd ˈmɑːdəl/",
+      "explanation": "Combinación de trabajo en casa y trabajo en la oficina. Muchas empresas adoptaron el hybrid model después de la pandemia."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario clave antes de leer",
+      "instruction": "Antes de leer el texto, familiarizate con estas 3 palabras clave que vas a encontrar.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Working from Home",
+      "instruction": "Leé el texto con atención y respondé las preguntas de comprensión.",
+      "itemIndices": [],
+      "config": {
+        "passage": {
+          "id": "b1-reading-working-from-home",
+          "title": "Working from Home",
+          "level": "b1",
+          "text": "When the pandemic started in 2020, millions of people around the world had to start working from home. At first, many workers were excited about the change. They didn't have to commute to the office anymore, and they could work in comfortable clothes. However, after a few months, some people began to feel isolated. They missed talking to their colleagues face to face and found it hard to separate work from personal life.\n\nFor me, working from home has been mostly positive. I wake up later because I don't need to spend an hour on the train. I can take breaks whenever I want and even cook lunch in my own kitchen. On the other hand, I sometimes feel less motivated when I'm alone at home all day. It's easy to get distracted by housework or social media.\n\nMany companies have now adopted a hybrid model, where employees work from home two or three days a week and go to the office on the other days. I think this is a good balance. You get the flexibility of remote work but also the social interaction that comes with being in the office. The way we work has changed forever, and I believe that's mostly a good thing.",
+          "translation": "Cuando la pandemia empezó en 2020, millones de personas en todo el mundo tuvieron que empezar a trabajar desde casa. Al principio, muchos trabajadores estaban entusiasmados con el cambio. Ya no tenían que viajar a la oficina, y podían trabajar con ropa cómoda. Sin embargo, después de unos meses, algunas personas empezaron a sentirse aisladas. Extrañaban hablar con sus compañeros cara a cara y les costaba separar el trabajo de la vida personal.\n\nPara mí, trabajar desde casa ha sido mayormente positivo. Me levanto más tarde porque no necesito pasar una hora en el tren. Puedo tomar descansos cuando quiera e incluso cocinar el almuerzo en mi propia cocina. Por otro lado, a veces me siento menos motivado cuando estoy solo en casa todo el día. Es fácil distraerse con las tareas del hogar o las redes sociales.\n\nMuchas empresas han adoptado ahora un modelo híbrido, donde los empleados trabajan desde casa dos o tres días a la semana y van a la oficina los otros días. Creo que es un buen equilibrio. Tenés la flexibilidad del trabajo remoto pero también la interacción social que viene con estar en la oficina. La forma en que trabajamos cambió para siempre, y creo que eso es mayormente algo bueno.",
+          "vocabulary": ["commute - viajar al trabajo", "isolated - aislado", "colleagues - compañeros de trabajo", "separate - separar", "motivated - motivado", "distracted - distraído", "housework - tareas del hogar", "hybrid - híbrido", "employees - empleados", "flexibility - flexibilidad", "remote work - trabajo remoto", "balance - equilibrio"],
+          "questions": [
+            {
+              "question": "What was the initial reaction of many workers to working from home?",
+              "options": ["They were worried about losing their jobs.", "They were excited about the change.", "They were angry at their employers.", "They preferred going to the office."],
+              "correctIndex": 1,
+              "explanation": "The text says 'many workers were excited about the change' when they first started working from home."
+            },
+            {
+              "question": "What does the author find difficult about working from home?",
+              "options": ["The internet connection is bad.", "The house is too noisy.", "It's easy to get distracted.", "The working hours are longer."],
+              "correctIndex": 2,
+              "explanation": "The author says 'It's easy to get distracted by housework or social media' when working from home."
+            },
+            {
+              "question": "What kind of work model does the author think is best?",
+              "options": ["Working from home every day.", "Going to the office every day.", "A hybrid model combining both.", "Working only on weekends."],
+              "correctIndex": 2,
+              "explanation": "The author says 'I think this is a good balance' about the hybrid model where employees split time between home and office."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lectura completada!",
+      "instruction": "Leíste un texto de nivel B1 sobre trabajo remoto. El texto usa Present Perfect ('has changed'), connectors of contrast (However, On the other hand), y vocabulario laboral. Palabras clave: commute (trayecto al trabajo), isolated (aislado), hybrid model (trabajo mixto presencial/remoto), flexibility, distracted.",
+      "itemIndices": [0, 1, 2]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "grammar-c2-05",
+  "title": "Pragmatic Competence: Implicature and Indirectness",
+  "description": "Litotes, understatement, e indirección cortés. La pragmática británica en su máxima sofisticación — la marca final del C2.",
+  "level": "c2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Pragmatic Competence: Implicature and Indirectness (I don't suppose you could... | I was wondering if you might... | That's not entirely untrue (litotes) | understatement patterns)",
+      "back": "Competencia pragmática: implicatura, indirección y atenuación. La diferencia entre hablar correctamente y hablar con maestría cultural.",
+      "reading": "",
+      "explanation": "La pragmática del inglés, especialmente el británico, valora la indirección y la atenuación. (1) PETICIONES CORTESES con distancia creciente: 'Give me...' → 'Can you...?' → 'Could you...?' → 'Would you mind...?' → 'I was wondering if you could...' → 'I don't suppose you could possibly...'. (2) LITOTES: afirmación mediante doble negación — 'not bad' = bastante bueno, 'not unlike' = parecido, 'not entirely untrue' = bastante cierto. (3) UNDERSTATEMENT: atenuación cultural — un inglés dice 'It's a bit of a problem' cuando la situación es grave. El español es culturalmente más directo, causando malentendidos interculturales frecuentes. Dominar la pragmática es lo que distingue al C2 del C1.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Pragmatic Competence: Implicature and Indirectness (I don't suppose you could... | I was wondering if you might... | That's not entirely untrue (litotes) | understatement patterns)"
+      }
+    },
+    {
+      "front": "Scale of polite requests",
+      "back": "I don't suppose you could possibly lend me your notes, could you?",
+      "explanation": "Cada nivel agrega distancia cortés: pasado continuo ('was wondering'), modales condicionales ('could', 'might', 'would'), negación cortés ('don't suppose'), adverbios atenuadores ('possibly', 'perhaps'), tag questions ('could you?'). Cuanto más indirecta la petición, más cortés (y a veces más manipulativa)."
+    },
+    {
+      "front": "Litotes — understatement by negation",
+      "back": "The weather wasn't exactly ideal — it rained for seven days straight.",
+      "explanation": "La litotes afirma algo negando su opuesto: 'not bad' ≈ pretty good, 'not unimpressed' ≈ impressed, 'not entirely wrong' ≈ mostly right. Característicamente británica. Los hispanohablantes suelen interpretarla literalmente y perder el significado real. En lugar de decir 'It was terrible', un inglés puede decir 'It wasn't exactly a roaring success' — entenderlo requiere competencia pragmática."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "La pragmática inglesa — lo que no se dice",
+      "instruction": "En C2 el desafío ya no es gramatical sino pragmático: elegir el nivel apropiado de cortesía, reconocer la ironía, y navegar la indirección cultural inglesa. Los hispanohablantes tienden a ser demasiado directos en inglés — esta lección enseña a suavizar y a decodificar.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué está realmente diciendo?",
+      "instruction": "Identificá el significado real detrás de cada expresión.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Litotes en contexto",
+      "instruction": "¿Cuál es el significado real de la frase subrayada?",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "not bad at all",
+            "translation": "nada mal (= bastante bueno)",
+            "options": [
+              "This restaurant is not bad at all — I'd say it's one of the best in town.",
+              "This restaurant is not bad at all — I don't recommend it to anyone.",
+              "This restaurant is not bad at all — the food was inedible.",
+              "This restaurant is not bad at all — it closed last month."
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "a bit of a problem",
+            "translation": "bastante grave (understatement británico para una crisis)",
+            "options": [
+              "The server going down for a week was a bit of a problem — we lost half our customers.",
+              "Being late by one minute was a bit of a problem — they fired the CEO.",
+              "A bit of a problem means we should do nothing about it.",
+              "It's only a bit of a problem when everyone agrees."
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "I don't suppose you could possibly",
+            "translation": "petición muy cortés (= ¿podrías por favor?)",
+            "options": [
+              "I don't suppose you could possibly help me carry these boxes to the car?",
+              "I don't suppose you could possibly I need help right now.",
+              "I don't suppose you could possibly and I am leaving.",
+              "I don't suppose you could possibly — give me that immediately!"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "Registro y cortesía",
+      "instruction": "¿Es apropiada la cortesía en cada contexto?",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "Give me the report by Friday.",
+            "isCorrect": false,
+            "correction": "I was wondering if you could possibly have the report ready by Friday.",
+            "explanation": "'Give me' es una orden directa, inapropiada en contextos profesionales incluso con jerarquía. En inglés corporativo británico y americano, se espera suavizar con estructuras como 'I was wondering if you could', 'Could you possibly', 'Would you be able to'. Los hispanohablantes traducen directamente 'Dame el informe' y suenan bruscos.",
+            "errorType": "too-direct-in-professional-context"
+          },
+          {
+            "sentence": "I was wondering if you might perhaps be able to consider lending me your car this weekend, if it's not too much trouble.",
+            "isCorrect": true,
+            "explanation": "Correcto — aunque extremadamente indirecto. Este nivel de cortesía es apropiado para pedir algo considerable a alguien con quien no tenés confianza cercana. Combina pasado continuo ('was wondering'), modales apilados ('might perhaps be able to'), y la cláusula condicional de salida ('if it's not too much trouble').",
+            "errorType": "none"
+          },
+          {
+            "sentence": "The food wasn't exactly what you'd call a culinary triumph.",
+            "isCorrect": true,
+            "explanation": "Correcto. Uso ejemplar de litotes y understatement británico. Literalmente dice 'no era exactamente lo que llamarías un triunfo culinario' — pragmáticamente significa 'la comida era espantosa'. Marca de competencia pragmática C2.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "Yes, the flood destroyed everything we own. It was not bad.",
+            "isCorrect": false,
+            "correction": "Yes, the flood destroyed everything we own. It was devastating.",
+            "explanation": "La litotes ('not bad') se usa para atenuar hacia lo positivo ('bastante bueno'), NO para describir un desastre catastrófico. Aquí el registro pide 'devastating', 'catastrophic', 'utterly ruinous'. La litotes solo funciona cuando la realidad supera la expectativa positiva, no al revés.",
+            "errorType": "litotes-misuse"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completada!",
+      "instruction": "PRAGMÁTICA C2: (1) ESCALA DE CORTESÍA — 'I was wondering if you could possibly' > 'Could you?' > 'Can you?'. (2) LITOTES — 'not bad' = bueno, 'not unlike' = parecido. (3) UNDERSTATEMENT británico — 'a bit of a problem' puede significar 'crisis'. Los hispanohablantes son demasiado directos; la marca del C2 es saber suavizar y decodificar.",
+      "itemIndices": [0, 1, 2]
+    }
+  ]
+}

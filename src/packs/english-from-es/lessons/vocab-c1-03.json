@@ -1,0 +1,154 @@
+{
+  "id": "vocab-c1-03",
+  "title": "Advanced Phrasal Verbs I",
+  "description": "Phrasal verbs sofisticados de uso académico y profesional: account for, boil down to, phase out, stem from, rule out, opt for.",
+  "level": "c1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "account for",
+      "back": "representar / explicar / dar cuenta de",
+      "reading": "/əˈkaʊnt fɔːr/",
+      "explanation": "Tres usos principales: (1) representar una porción ('Renewables account for 30% of energy'), (2) explicar un fenómeno ('How do you account for the discrepancy?'), (3) dar justificación ('Each department must account for its spending'). El más formal y académico es el primero dos usos.",
+      "extra": { "register": "formal/academic", "pos": "phrasal verb", "patterns": ["account for + percentage/proportion", "account for + phenomenon"] },
+      "cardRef": { "category": "vocabulary", "front": "account for" }
+    },
+    {
+      "front": "boil down to",
+      "back": "reducirse a / resumirse en",
+      "reading": "/bɔɪl daʊn tuː/",
+      "explanation": "Expresa que, después de eliminar complejidad, la esencia de algo es X. 'The whole argument boils down to one question: who is responsible?' Informal-neutral, admitido en conversación profesional y artículos de opinión. Crea un efecto retórico de simplificación elegante.",
+      "extra": { "register": "neutral/slightly informal", "pos": "phrasal verb" },
+      "cardRef": { "category": "vocabulary", "front": "boil down to" }
+    },
+    {
+      "front": "phase out",
+      "back": "eliminar gradualmente / retirar progresivamente",
+      "reading": "/feɪz aʊt/",
+      "explanation": "Proceso gradual de eliminación planificada. 'The company is phasing out diesel vehicles by 2030.' Separable: 'phase them out'. Contraste con 'discontinue' (abandono inmediato) o 'ban' (prohibición). Muy usado en contextos industriales, tecnológicos y de política pública.",
+      "extra": { "register": "professional/political", "pos": "phrasal verb", "separable": true },
+      "cardRef": { "category": "vocabulary", "front": "phase out" }
+    },
+    {
+      "front": "stem from",
+      "back": "derivarse de / tener su origen en",
+      "reading": "/stɛm frɑːm/",
+      "explanation": "Causa o origen de algo. 'Many social problems stem from economic inequality.' Inseparable. Similar a 'arise from' o 'originate in', pero con connotación de raíz profunda y sistemática. Favorito en escritura académica y periodística porque es más elegante que 'come from'.",
+      "extra": { "register": "academic/journalistic", "pos": "phrasal verb", "separable": false },
+      "cardRef": { "category": "vocabulary", "front": "stem from" }
+    },
+    {
+      "front": "rule out",
+      "back": "descartar / excluir",
+      "reading": "/ruːl aʊt/",
+      "explanation": "Eliminar una posibilidad formalmente, después de considerarla. 'The investigation ruled out foul play.' Separable: 'rule it out'. Más decisivo que 'exclude' en contextos investigativos o médicos. 'I wouldn't rule it out' = no lo descartaría (hedging elegante).",
+      "extra": { "register": "professional/academic", "pos": "phrasal verb", "separable": true, "collocations": ["rule out a possibility", "can't rule out", "has been ruled out"] },
+      "cardRef": { "category": "vocabulary", "front": "rule out" }
+    },
+    {
+      "front": "opt for",
+      "back": "optar por / elegir",
+      "reading": "/ɑːpt fɔːr/",
+      "explanation": "Elección deliberada, especialmente entre alternativas. 'Many investors are opting for safer assets.' Más formal que 'choose' — implica que hubo otras opciones consideradas. 'Opt in' / 'opt out' son variantes comunes en contextos digitales y legales (opt in/out of a mailing list).",
+      "extra": { "register": "formal/professional", "pos": "phrasal verb", "variants": ["opt in", "opt out", "opt for"] },
+      "cardRef": { "category": "vocabulary", "front": "opt for" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Phrasal verbs de alto impacto",
+      "instruction": "Estos 6 phrasal verbs aparecen constantemente en periodismo serio, documentos corporativos e investigación académica. La diferencia entre 'come from' y 'stem from' no es gramatical — es de registro y precisión.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es la traducción?",
+      "instruction": "Elegí la traducción más precisa según el contexto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Dónde se usa correctamente?",
+      "instruction": "Para cada phrasal verb, elegí la oración donde se usa con el patrón correcto.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "account for",
+            "translation": "representar / explicar",
+            "options": [
+              "The manager accounted for the meeting room at 3pm.",
+              "Small businesses account for nearly half of all private sector employment.",
+              "She accounted for her new dress to the party.",
+              "The team accounted for a new strategy."
+            ],
+            "correctIndex": 1,
+            "explanation": "'Account for' en el sentido de 'representar una proporción' sigue el patrón [subject] accounts for [percentage/portion]. La opción 1 es incorrecta — 'account for a room' no es un uso estándar."
+          },
+          {
+            "targetWord": "stem from",
+            "translation": "derivarse de / tener su origen en",
+            "options": [
+              "His anxiety stems from his childhood experiences.",
+              "The project will stem from next month.",
+              "She stems from her work to help the team.",
+              "The stems from the garden looked beautiful."
+            ],
+            "correctIndex": 0,
+            "explanation": "'Stem from' = tener su origen en. Siempre: [resultado/efecto] stems from [causa/origen]. 'His anxiety' es el efecto, 'childhood experiences' es la causa. Inseparable — no se puede decir 'stem the anxiety from'."
+          },
+          {
+            "targetWord": "rule out",
+            "translation": "descartar",
+            "options": [
+              "We can't rule out the possibility of further delays.",
+              "The teacher ruled out the students for being late.",
+              "They ruled out a new set of rules for the company.",
+              "She ruled out her diary to check the date."
+            ],
+            "correctIndex": 0,
+            "explanation": "'Rule out' = descartar una posibilidad/causa/explicación. Se usa con 'possibility', 'option', 'cause', 'hypothesis'. 'We can't rule it out' (no podemos descartarlo) es una fórmula muy natural en inglés formal."
+          }
+        ]
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Phrasal verbs en textos reales",
+      "instruction": "Completá estos extractos con el phrasal verb correcto. Usá el tiempo verbal apropiado.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "The company plans to {0} its fossil fuel operations by 2035, while simultaneously {1} renewable energy alternatives.",
+            "blanks": [
+              { "answer": "phase out", "options": ["phase out", "rule out", "opt for", "boil down to"] },
+              { "answer": "opting for", "options": ["opting for", "phasing out", "stemming from", "ruling out"] }
+            ]
+          },
+          {
+            "template": "The researchers could not {0} the possibility that environmental factors {1} the increased cancer rates.",
+            "blanks": [
+              { "answer": "rule out", "options": ["rule out", "account for", "opt for", "boil down to"] },
+              { "answer": "account for", "options": ["account for", "stem from", "phase out", "rule out"] }
+            ]
+          },
+          {
+            "template": "The dispute ultimately {0} a fundamental disagreement about values, and many of the tensions {1} decades of historical grievances.",
+            "blanks": [
+              { "answer": "boiled down to", "options": ["boiled down to", "ruled out", "stemmed from", "opted for"] },
+              { "answer": "stemmed from", "options": ["stemmed from", "boiled down to", "accounted for", "phased out"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completada!",
+      "instruction": "Los 6 phrasal verbs están en tu SRS. Recordá: stem from (causa→efecto, inseparable), rule out (descartar, separable), account for (representar/explicar), phase out (eliminar gradualmente, separable), opt for (elegir deliberadamente), boil down to (reducirse a).",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

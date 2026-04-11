@@ -1,0 +1,110 @@
+{
+  "id": "grammar-c2-03",
+  "title": "Complex Tense Interactions in Narrative",
+  "description": "Futuro en el pasado, presente histórico, y discurso indirecto libre. Los tiempos verbales como herramienta narrativa avanzada.",
+  "level": "c2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Complex Tense Interactions in Narrative (was going to / was about to / would later become (future in the past) | Historical present | Free indirect speech)",
+      "back": "Interacciones complejas de tiempos verbales en narrativa: futuro en el pasado, presente histórico y discurso indirecto libre",
+      "reading": "",
+      "explanation": "En narrativa avanzada los tiempos verbales se combinan de maneras sofisticadas. (1) FUTURO EN EL PASADO: 'was going to', 'was about to', 'would later become' — describe lo que iba a suceder desde la perspectiva del pasado narrativo. (2) PRESENTE HISTÓRICO: narrar eventos pasados en presente para crear inmediatez — 'So I'm walking down the street and this guy comes up'. (3) DISCURSO INDIRECTO LIBRE: mezclar narración con pensamientos del personaje sin verbos de reporte — 'She walked to the door. Was this really happening?'. Usado por Austen, Woolf, Joyce. Uno de los elementos más difíciles de traducir.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Complex Tense Interactions in Narrative (was going to / was about to / would later become (future in the past) | Historical present | Free indirect speech)"
+      }
+    },
+    {
+      "front": "Future in the past",
+      "back": "Little did she know that the letter she was about to open would change everything.",
+      "explanation": "El 'futuro en el pasado' toma la perspectiva de un momento pasado y mira hacia lo que 'iba a suceder' desde allí. Tres formas principales: (1) 'was/were going to' (plan o predicción), (2) 'was/were about to' (inminencia), (3) 'would' + infinitivo (futuro narrativo). Común en biografía, novela y crónica histórica."
+    },
+    {
+      "front": "Free indirect speech",
+      "back": "She stared at the ceiling. Why had he said that? What was she supposed to do now?",
+      "explanation": "El discurso indirecto libre es una técnica literaria que difumina la frontera entre el narrador y el personaje. Se reconoce porque: (1) no tiene verbo de reporte ('she thought/wondered'), (2) mantiene el backshift de tiempos del indirecto (past perfect, past modal), (3) conserva la entonación subjetiva del personaje (preguntas retóricas, exclamaciones). Marca de prosa literaria sofisticada."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Tiempos verbales como recurso narrativo",
+      "instruction": "En C2, los tiempos no solo marcan cuándo sucede algo — son herramientas estilísticas. Aprendé a reconocer y usar: futuro en el pasado, presente histórico y discurso indirecto libre.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué recurso narrativo?",
+      "instruction": "Identificá qué técnica narrativa usa cada oración.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Elegí el uso correcto",
+      "instruction": "¿En qué oración se usa correctamente el recurso narrativo?",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "was about to",
+            "translation": "estaba por (futuro en el pasado, inminencia)",
+            "options": [
+              "She was about to leave when the phone rang.",
+              "I was about to yesterday's meeting when I got lost.",
+              "He will be about to finish the project next week.",
+              "They are about to already finished the race."
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "historical present",
+            "translation": "presente histórico (narrar pasado en presente para inmediatez)",
+            "options": [
+              "Yesterday I go to the store and I buy some milk.",
+              "So there I am, standing in the rain, and suddenly she walks up and says hello.",
+              "Last week she will visit her grandmother every day.",
+              "In 1492, Columbus will discover America."
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "free indirect speech",
+            "translation": "discurso indirecto libre (mezcla narración y pensamiento sin verbo de reporte)",
+            "options": [
+              "She said that she was tired and wanted to go home.",
+              "He asked if the meeting had been postponed.",
+              "Sarah walked to the window. Had he really meant what he said? Could she trust him?",
+              "'I'm exhausted,' she whispered to herself."
+            ],
+            "correctIndex": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Combinando tiempos narrativos",
+      "instruction": "Completá el pasaje con las formas verbales correctas.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "As she stepped onto the platform, she had no idea that the next few minutes {0} change her life forever. She {1} about to board what would turn out to be the wrong train — a decision that {2} later become the subject of countless conversations with her therapist.",
+            "blanks": [
+              { "answer": "would", "options": ["would", "will", "is going to", "was"] },
+              { "answer": "was", "options": ["was", "is", "has been", "will be"] },
+              { "answer": "would", "options": ["would", "will", "did", "is going to"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completada!",
+      "instruction": "NARRATIVA AVANZADA: (1) FUTURO EN EL PASADO — 'was going to / was about to / would' para lo que iba a suceder. (2) PRESENTE HISTÓRICO — presente para pasado, crea inmediatez en storytelling informal. (3) DISCURSO INDIRECTO LIBRE — pensamientos del personaje sin verbo de reporte, manteniendo backshift. Técnica literaria de alto registro.",
+      "itemIndices": [0, 1, 2]
+    }
+  ]
+}

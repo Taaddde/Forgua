@@ -1,0 +1,193 @@
+{
+  "id": "grammar-b1-01",
+  "title": "Present Perfect Continuous: I've Been Doing...",
+  "description": "Para acciones que empezaron en el pasado y continúan ahora o acaban de terminar. 'I've been waiting for an hour.' Énfasis en la duración y el proceso.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "I have been waiting for two hours.",
+      "back": "He estado esperando durante dos horas.",
+      "reading": "/aɪ hæv bɪn ˈweɪtɪŋ fɔːr tuː ˈaʊərz/",
+      "explanation": "Present Perfect Continuous = have/has + been + verbo-ing. Se usa para acciones que empezaron en el pasado y SIGUEN ahora. Con FOR (duración desde un momento) y SINCE (punto de inicio). No traduce al español de forma directa — usamos 'he estado + gerundio'.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Present Perfect Continuous (Subject + have/has been + verb-ing)"
+      }
+    },
+    {
+      "front": "She has been working here since 2019.",
+      "back": "Ella ha estado trabajando acá desde 2019.",
+      "reading": "/ʃiː hæz bɪn ˈwɜːrkɪŋ hɪr sɪns tuː θaʊzənd ˈnaɪntiːn/",
+      "explanation": "SINCE + punto de inicio (2019, Monday, last week). FOR + duración (two hours, three years). 'She has been working here FOR five years' vs 'since 2019' — el significado es similar, la diferencia es cómo expresamos el tiempo."
+    },
+    {
+      "front": "You've been running — your face is red.",
+      "back": "Estuviste corriendo — tenés la cara roja.",
+      "reading": "/juːv bɪn ˈrʌnɪŋ jɔːr feɪs ɪz rɛd/",
+      "explanation": "También para acciones recientes que ya terminaron pero cuyo resultado es visible ahora. 'It has been raining' (ya paró pero la calle está mojada). El presente perfecto continuo conecta pasado con evidencia presente."
+    },
+    {
+      "front": "Present Perfect Simple vs Continuous: I've read 3 books vs I've been reading all day.",
+      "back": "Leí 3 libros (cantidad / resultado) vs Estuve leyendo todo el día (proceso / duración).",
+      "reading": "",
+      "explanation": "Simple = resultado, cantidad, logro completado. Continuous = proceso, duración, actividad en progreso. 'I've written 3 emails' (terminadas). 'I've been writing emails all morning' (la actividad como proceso)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Present Perfect Continuous: la acción que sigue",
+      "instruction": "Forma: have/has + been + verbo-ing. Se usa para acciones que empezaron en el pasado y continúan ahora, o para evidencia de una actividad reciente. Siempre con FOR o SINCE.",
+      "itemIndices": [
+        0,
+        1
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Evidencia visible + Simple vs Continuous",
+      "instruction": "También sirve para explicar una evidencia presente ('Why are you wet?' — 'I've been swimming'). La diferencia con el Simple es el foco: resultado vs proceso.",
+      "itemIndices": [
+        2,
+        3
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es la forma correcta?",
+      "instruction": "Elegí la opción correcta: Present Perfect Simple o Continuous, y el uso de for/since.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá las oraciones",
+      "instruction": "Completá los espacios con la forma correcta del Present Perfect Continuous.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "I {0} for this job for six months.",
+            "blanks": [
+              {
+                "answer": "have been looking",
+                "options": [
+                  "have been looking",
+                  "have looked",
+                  "was looking"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "She {0} the piano {1} she was eight years old.",
+            "blanks": [
+              {
+                "answer": "has been playing",
+                "options": [
+                  "has been playing",
+                  "played",
+                  "has played"
+                ]
+              },
+              {
+                "answer": "since",
+                "options": [
+                  "since",
+                  "for",
+                  "during"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "We {0} to move to a bigger house {1} two years.",
+            "blanks": [
+              {
+                "answer": "have been trying",
+                "options": [
+                  "have been trying",
+                  "tried",
+                  "were trying"
+                ]
+              },
+              {
+                "answer": "for",
+                "options": [
+                  "for",
+                  "since",
+                  "during"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "It {0} all morning — the streets are flooded.",
+            "blanks": [
+              {
+                "answer": "has been raining",
+                "options": [
+                  "has been raining",
+                  "rained",
+                  "is raining"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Decidí si cada oración usa el Present Perfect Continuous correctamente.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "He has been living in Madrid for ten years.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Has been living' = lleva diez años viviendo (acción que continúa). FOR + duración es la estructura correcta.",
+            "errorType": "tense"
+          },
+          {
+            "sentence": "I have been knowing her since school.",
+            "isCorrect": false,
+            "correction": "I have known her since school.",
+            "explanation": "INCORRECTO. 'Know' es un stative verb (verbo de estado). Los stative verbs (know, believe, understand, love, want) NO se usan en forma continua. Se usa el Present Perfect Simple: 'I have known her since school.'",
+            "errorType": "stative-verb"
+          },
+          {
+            "sentence": "They have been working on this project since last Monday.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Have been working' = llevan trabajando desde el lunes pasado. SINCE + punto de inicio específico.",
+            "errorType": "tense"
+          },
+          {
+            "sentence": "She has been reading three books this week.",
+            "isCorrect": false,
+            "correction": "She has read three books this week.",
+            "explanation": "INCORRECTO. Cuando mencionamos una cantidad o resultado (three books), usamos el Present Perfect Simple, no el Continuous. El Continuous enfatiza proceso, no resultado.",
+            "errorType": "simple-vs-continuous"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Present Perfect Continuous = have/has + been + verbo-ing. Para acciones en progreso desde el pasado (con FOR/SINCE) o evidencia de actividad reciente. Diferencia clave: Simple (resultado/cantidad) vs Continuous (proceso/duración). Cuidado: stative verbs (know, love, believe) no van en continuo.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ]
+}

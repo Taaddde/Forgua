@@ -1,0 +1,212 @@
+{
+  "id": "vocab-a2-11",
+  "title": "Feelings, Hope & Nuances",
+  "description": "Verbos de emociones y expectativas (feel, hope, worry, forget, expect) más adverbios de matiz (already, quite, recent, similar) para hablar con precisión.",
+  "level": "a2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "feel",
+      "back": "sentir",
+      "reading": "/fiːl/",
+      "explanation": "Irregular: feel / felt / felt. 'I feel tired' (me siento cansado) — ¡cuidado! NO se dice 'I feel MYSELF tired' (error del hispanohablante por calco de 'me siento'). El reflexivo no va. También: 'I feel like + -ing' = tengo ganas de. 'I feel like eating pizza'.",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "feel"
+      }
+    },
+    {
+      "front": "hope",
+      "back": "esperar (con deseo)",
+      "reading": "/hoʊp/",
+      "explanation": "'Hope' = esperar CON deseo/ilusión. Diferente de 'wait' (esperar con paciencia) y de 'expect' (esperar algo que creés que va a pasar). 'I hope you feel better' (ojalá te sientas mejor). Estructura: 'hope + to + infinitive' o 'hope (that) + oración'. NO 'I hope to you' como traducción de 'te espero'.",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "hope"
+      }
+    },
+    {
+      "front": "worry",
+      "back": "preocuparse",
+      "reading": "/ˈwɜːri/",
+      "explanation": "'Don't worry!' = ¡No te preocupes! Estructura: 'worry ABOUT something' (preocuparse POR algo). 'I worry about my exams'. Sustantivo: 'worry' = preocupación. Plural: worries. Adjetivo: 'worried' (preocupado). 'I am worried about her'.",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "worry"
+      }
+    },
+    {
+      "front": "forget",
+      "back": "olvidar",
+      "reading": "/fərˈɡɛt/",
+      "explanation": "Irregular: forget / forgot / forgotten. 'Forget + to + infinitive' = olvidarse de hacer algo en el futuro. 'Forget + -ing' = olvidar algo que ya pasó. 'I forgot to call him' (me olvidé de llamarlo) vs. 'I'll never forget meeting her' (nunca olvidaré haberla conocido). Opuesto: remember.",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "forget"
+      }
+    },
+    {
+      "front": "expect",
+      "back": "esperar (anticipar)",
+      "reading": "/ɪkˈspɛkt/",
+      "explanation": "¡FALSE FRIEND parcial! 'Expect' = esperar en el sentido de 'anticipar, prever'. NO significa 'aguardar con paciencia' (eso es 'wait') ni 'esperar con deseo' (eso es 'hope'). 'I expect him to arrive at 5' = espero que llegue a las 5 (lo creo). 'She is expecting a baby' = está embarazada.",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "expect"
+      }
+    },
+    {
+      "front": "already",
+      "back": "ya",
+      "reading": "/ɔːlˈrɛdi/",
+      "explanation": "Se usa con present perfect generalmente. 'I have already finished' = ya terminé. Va ENTRE el auxiliar y el verbo principal, o al final. ¡Ojo, no confundir con 'all ready' (todo listo) ni con 'yet' (todavía/ya, en preguntas/negativas)! 'Already' es afirmativo; 'yet' va al final en preguntas y negativas.",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "already"
+      }
+    },
+    {
+      "front": "quite",
+      "back": "bastante",
+      "reading": "/kwaɪt/",
+      "explanation": "¡FALSO AMIGO GRAVE con 'quiet' (silencioso)! Se pronuncian DIFERENTE: quite /kwaɪt/ y quiet /ˈkwaɪət/ (dos sílabas). En inglés americano, 'quite' = bastante/muy. En británico, 'quite good' puede ser tibio (más o menos bueno). 'It's quite cold today'. Va antes del adjetivo.",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "quite"
+      }
+    },
+    {
+      "front": "recent",
+      "back": "reciente",
+      "reading": "/ˈriːsənt/",
+      "explanation": "Adjetivo: 'a recent study' (un estudio reciente). Adverbio: 'recently' (recientemente). Se usa con present perfect: 'I have recently moved to Madrid'. Pronunciación: /ˈriːsənt/, con 'ee' larga, no /re-cien-te/.",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "recent"
+      }
+    },
+    {
+      "front": "similar",
+      "back": "similar",
+      "reading": "/ˈsɪmɪlər/",
+      "explanation": "Cognado fácil, pero cuidado con la estructura: 'similar TO' (NO 'similar AS' ni 'similar than'). 'This is similar TO the other one'. Sustantivo: similarity. Adverbio: similarly. Pronunciación: acento en la primera sílaba (SI-mi-lar).",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "similar"
+      }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Sentimientos y estados",
+      "instruction": "Verbos para hablar de emociones y expectativas. Clave: 'I feel tired' (NUNCA 'I feel myself tired'). 'Hope' es esperar con deseo, 'expect' es esperar creyendo que pasará, 'wait' es esperar con paciencia — tres verbos distintos para el mismo 'esperar' del español.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "Adverbios de matiz",
+      "instruction": "Ahora palabras que agregan precisión: 'already' (ya, con present perfect), 'quite' (bastante — ¡no confundir con 'quiet' = silencioso!), 'recent' (reciente), 'similar' (similar TO, no 'similar than').",
+      "itemIndices": [5, 6, 7, 8]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto de cada palabra.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Encontrá los errores típicos con estos verbos y adverbios.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "I feel myself very tired today.",
+            "isCorrect": false,
+            "correction": "I feel very tired today.",
+            "explanation": "En inglés 'feel' NO lleva reflexivo cuando describís cómo te sentís. Decimos 'I feel tired', 'I feel happy', sin 'myself'. El reflexivo solo aparece cuando te tocás a vos mismo físicamente ('I felt myself tremble'). Error clásico por calco de 'me siento cansado'.",
+            "errorType": "reflexive"
+          },
+          {
+            "sentence": "This problem is similar than the one we had last week.",
+            "isCorrect": false,
+            "correction": "This problem is similar to the one we had last week.",
+            "explanation": "'Similar' va con 'TO', nunca con 'than' (eso es para comparativos como 'bigger than'). Regla: similar TO, different FROM, the same AS.",
+            "errorType": "preposition"
+          },
+          {
+            "sentence": "I have already finished my homework.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Already' va entre 'have' y el participio, perfecto con present perfect. Otra opción válida: 'I've finished my homework already' (al final).",
+            "errorType": "none"
+          },
+          {
+            "sentence": "Don't worry about the meeting — everything is quite ready.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Worry about' con preposición correcta, y 'quite ready' = bastante listo. Ojo: aquí 'quite' no se confunde con 'quiet' porque el contexto lo aclara.",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con precisión",
+      "instruction": "Elegí la palabra correcta según el contexto y la estructura.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "I {0} you're having a great time in Italy!",
+            "blanks": [
+              {
+                "answer": "hope",
+                "options": ["hope", "expect", "wait", "worry"]
+              }
+            ]
+          },
+          {
+            "template": "Don't {0} about the exam — you have {1} studied everything.",
+            "blanks": [
+              {
+                "answer": "worry",
+                "options": ["worry", "hope", "feel", "forget"]
+              },
+              {
+                "answer": "already",
+                "options": ["already", "yet", "still", "ever"]
+              }
+            ]
+          },
+          {
+            "template": "Her new apartment is {0} {1} mine — same layout, same size.",
+            "blanks": [
+              {
+                "answer": "quite",
+                "options": ["quite", "very much", "too", "enough"]
+              },
+              {
+                "answer": "similar to",
+                "options": ["similar to", "similar than", "similar as", "similar from"]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice en inglés?",
+      "instruction": "Ves la palabra en español. Escribí la traducción en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste 9 palabras. Claves: (1) 'I feel tired' — sin 'myself'. (2) Tres 'esperar': hope (deseo), expect (anticipar), wait (paciencia). (3) 'Worry ABOUT', 'similar TO'. (4) Cuidado con el false friend quite /kwaɪt/ vs. quiet /ˈkwaɪət/. (5) 'already' va con present perfect, entre auxiliar y verbo.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    }
+  ]
+}

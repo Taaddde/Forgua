@@ -84,6 +84,154 @@ function jsonFilesRecursive(dir: string): string[] {
 
 // ── Per-pack validation ────────────────────────────────────────────────────
 
+interface ContentIndex {
+  vocabulary: Set<string>;
+  grammar: Set<string>;
+  characters: Set<string>;
+  readings: Set<string>;
+}
+
+function buildContentIndex(packDir: string): ContentIndex {
+  const index: ContentIndex = {
+    vocabulary: new Set(),
+    grammar: new Set(),
+    characters: new Set(),
+    readings: new Set(),
+  };
+
+  for (const file of jsonFiles(join(packDir, 'vocabulary'))) {
+    const data = loadJSON(file) as Array<{ word?: string }>;
+    if (Array.isArray(data)) {
+      for (const entry of data) {
+        if (entry?.word) index.vocabulary.add(entry.word);
+      }
+    }
+  }
+
+  for (const file of jsonFiles(join(packDir, 'grammar'))) {
+    const data = loadJSON(file) as Array<{ title?: string; pattern?: string; id?: string }>;
+    if (Array.isArray(data)) {
+      for (const entry of data) {
+        // Grammar cards are built with the format: `${title} (${pattern})`
+        // See pack-data-loader.ts grammarToCards(). This is the ONLY valid front
+        // for a grammar cardRef — matching anything else will silently fail
+        // at SRS activation time.
+        if (entry?.title && entry?.pattern) {
+          index.grammar.add(`${entry.title} (${entry.pattern})`);
+        }
+      }
+    }
+  }
+
+  for (const file of jsonFilesRecursive(join(packDir, 'characters'))) {
+    const data = loadJSON(file) as Array<{ character?: string }>;
+    if (Array.isArray(data)) {
+      for (const entry of data) {
+        if (entry?.character) index.characters.add(entry.character);
+      }
+    }
+  }
+
+  for (const file of jsonFiles(join(packDir, 'readings'))) {
+    const data = loadJSON(file) as Array<{ id?: string; title?: string }>;
+    if (Array.isArray(data)) {
+      for (const entry of data) {
+        if (entry?.id) index.readings.add(entry.id);
+        if (entry?.title) index.readings.add(entry.title);
+      }
+    }
+  }
+
+  return index;
+}
+
+interface LessonData {
+  id: string;
+  items: Array<{ front: string; cardRef: { category: string; front: string } }>;
+}
+
+interface LessonMetaData {
+  id: string;
+  prerequisites: string[];
+}
+
+/**
+ * Cross-reference lesson cardRefs against content files and check
+ * prerequisites validity + id uniqueness. Lesson categories expected:
+ *   - 'vocabulary' → word must exist in vocabulary/*.json
+ *   - 'grammar'    → title/pattern/id must exist in grammar/*.json
+ *   - 'characters' → character must exist in characters/**.json
+ *   - 'reading'    → id/title must exist in readings/*.json
+ *   - 'mixed'      → any of the above is accepted
+ */
+function crossValidateLessons(packDir: string) {
+  const lessonsDir = join(packDir, 'lessons');
+  if (!existsSync(lessonsDir)) return;
+
+  const index = buildContentIndex(packDir);
+  const lessonFiles = jsonFiles(lessonsDir).filter((f) => basename(f) !== 'index.json');
+
+  // id uniqueness
+  const ids = new Map<string, string>();
+  for (const file of lessonFiles) {
+    const data = loadJSON(file) as LessonData;
+    if (ids.has(data.id)) {
+      console.error(`  ❌ duplicate lesson id "${data.id}" in ${basename(file)} (also in ${basename(ids.get(data.id)!)})`);
+      hasErrors = true;
+    }
+    ids.set(data.id, file);
+  }
+
+  // cardRef existence
+  for (const file of lessonFiles) {
+    const data = loadJSON(file) as LessonData;
+    const missing: string[] = [];
+    for (const item of data.items ?? []) {
+      const ref = item.cardRef;
+      if (!ref) continue;
+      const pool =
+        ref.category === 'vocabulary' ? index.vocabulary
+        : ref.category === 'grammar'  ? index.grammar
+        : ref.category === 'characters' ? index.characters
+        : ref.category === 'reading'  ? index.readings
+        : ref.category === 'mixed'    ? new Set([...index.vocabulary, ...index.grammar, ...index.characters, ...index.readings])
+        : null;
+      if (pool && !pool.has(ref.front)) {
+        missing.push(`${ref.category}:"${ref.front}"`);
+      }
+    }
+    if (missing.length > 0) {
+      console.error(`  ❌ ${basename(file)}: ${missing.length} unresolved cardRef(s)`);
+      for (const m of missing.slice(0, 5)) console.error(`     → ${m}`);
+      if (missing.length > 5) console.error(`     … and ${missing.length - 5} more`);
+      hasErrors = true;
+    }
+  }
+
+  // prerequisites validity
+  const indexPath = join(lessonsDir, 'index.json');
+  if (existsSync(indexPath)) {
+    const idx = loadJSON(indexPath) as { lessons: LessonMetaData[] };
+    const knownIds = new Set(idx.lessons.map((l) => l.id));
+    for (const meta of idx.lessons) {
+      for (const prereq of meta.prerequisites ?? []) {
+        if (!knownIds.has(prereq)) {
+          console.error(`  ❌ lesson "${meta.id}" depends on unknown prerequisite "${prereq}"`);
+          hasErrors = true;
+        }
+      }
+    }
+    // Check every lesson file is referenced in the index
+    for (const file of lessonFiles) {
+      const data = loadJSON(file) as LessonData;
+      if (!knownIds.has(data.id)) {
+        console.error(`  ❌ lesson file ${basename(file)} (id="${data.id}") not listed in index.json`);
+        hasErrors = true;
+      }
+    }
+  }
+}
+
 function validatePack(packDir: string) {
   const packName = basename(packDir);
   console.log(`\n📦  ${packName}\n${'─'.repeat(50)}`);
@@ -132,6 +280,9 @@ function validatePack(packDir: string) {
     if (basename(file) === 'index.json') continue;
     check(`${relative(packDir, file)}`, validateLesson(loadJSON(file)));
   }
+
+  // Cross-reference lessons against content files + check prerequisites + id uniqueness
+  crossValidateLessons(packDir);
 
   // roadmaps.json — optional
   const roadmapsPath = join(packDir, 'roadmaps.json');

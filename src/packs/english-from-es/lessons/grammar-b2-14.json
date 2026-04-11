@@ -1,0 +1,179 @@
+{
+  "id": "grammar-b2-14",
+  "title": "Unreal Past (Subjunctive Uses)",
+  "description": "El inglés usa tiempos pasados para expresar situaciones irreales en el presente: 'It's time you left', 'He acts as if he were the boss', 'I'd rather you came tomorrow'. La misma lógica del segundo condicional aplicada a otras estructuras.",
+  "level": "b2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Unreal Past (Subjunctive Uses) (It's time + subject + past simple | as if/as though + past simple/past perfect | If only...)",
+      "back": "El pasado simple (o past perfect) expresa irrealidad en el presente (o pasado). El tiempo verbal ya no indica cuándo ocurrió algo, sino que indica que es irreal.",
+      "reading": "/ʌnˈriːəl pɑːst ˈsʌbdʒʌŋktɪv juːzɪz/",
+      "explanation": "El inglés usa el pasado simple para expresar situaciones irreales en el presente, similar al subjuntivo en español. 'It's time we left' (es hora de que nos vayamos — uso pasado para algo irreal presente). 'As if/as though + past simple' para comparaciones irreales presentes. 'As if + past perfect' para irreales pasadas. Con 'be', la forma correcta formal es 'were' para TODAS las personas: 'as if I were', 'as if she were', 'It's time it were done'.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Unreal Past (Subjunctive Uses) (It's time + subject + past simple | as if/as though + past simple/past perfect | If only...)"
+      }
+    },
+    {
+      "front": "It's high time you got a proper job.",
+      "back": "Ya es hora de que consigas un trabajo en serio.",
+      "reading": "/ɪts haɪ taɪm juː ɡɒt ə ˈprɒpər dʒɒb/",
+      "explanation": "'It's time + subject + past simple' expresa que algo DEBERÍA haber ocurrido ya pero no ocurrió — hay cierta crítica o impaciencia implícita. 'High time' intensifica el sentido de urgencia. 'Got' es pasado simple pero se refiere al presente/futuro inmediato. La situación es irreal: todavía no tiene trabajo."
+    },
+    {
+      "front": "He talks as if he knew everything, but he doesn't.",
+      "back": "Habla como si supiera todo, pero no sabe.",
+      "reading": "/hiː tɔːks æz ɪf hiː njuː ˈɛvriθɪŋ bʌt hiː ˈdʌznt/",
+      "explanation": "'As if/as though + past simple' para una comparación irreal en el presente: él habla así AHORA, pero la situación implícita (que sabe todo) es falsa. 'Knew' es pasado simple pero la acción es presente. Equivale al subjuntivo imperfecto en español: 'como si supiera'. La segunda cláusula ('but he doesn't') confirma la irrealidad."
+    },
+    {
+      "front": "She looked as though she hadn't slept in days.",
+      "back": "Parecía como si no hubiera dormido en días.",
+      "reading": "/ʃiː lʊkt æz ðoʊ ʃiː ˈhædnt slɛpt ɪn deɪz/",
+      "explanation": "'As if/as though + past perfect' para una comparación irreal referida al PASADO: ella miraba así (pasado), y la situación irreal también es pasada (no dormir). 'Hadn't slept' es past perfect negativo. Equivale al subjuntivo pluscuamperfecto en español: 'como si no hubiera dormido'. Compará con el ítem anterior: past simple = irreal presente; past perfect = irreal pasado."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Pasado irreal: la lógica central",
+      "instruction": "En estas estructuras, el tiempo pasado NO indica cuándo ocurre algo — indica que es IRREAL. 'It's time + past simple' = debería pasar pero no pasa. 'As if/as though + past simple' = comparación irreal en el presente. Con 'be', siempre se usa 'were' (formal) para todas las personas.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "As if + past perfect: irrealidad en el pasado",
+      "instruction": "'As if/as though + past perfect' para situaciones irreales referidas al pasado. Past simple = irreal ahora; past perfect = irreal antes. La misma lógica del segundo vs. tercer condicional.",
+      "itemIndices": [3]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con la forma irreal correcta",
+      "instruction": "Elegí el tiempo verbal correcto para expresar la irrealidad.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "It's time the government {0} something about pollution.",
+            "blanks": [
+              { "answer": "did", "options": ["did", "does", "will do"] }
+            ]
+          },
+          {
+            "template": "She spends money as if she {0} a millionaire.",
+            "blanks": [
+              { "answer": "were", "options": ["were", "is", "will be"] }
+            ]
+          },
+          {
+            "template": "He looked as though he {0} a ghost.",
+            "blanks": [
+              { "answer": "had seen", "options": ["had seen", "saw", "has seen"] }
+            ]
+          },
+          {
+            "template": "I'd rather you {0} to the party with me.",
+            "blanks": [
+              { "answer": "came", "options": ["came", "come", "will come"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "word-in-context",
+      "title": "Pasado irreal en contexto",
+      "instruction": "Elegí la oración donde el pasado irreal está correctamente usado.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "It's time + past",
+            "translation": "ya es hora de que + subjuntivo",
+            "options": [
+              "It's time that you will leave.",
+              "It's time that you leave.",
+              "It's time that you left.",
+              "It's time that you are leaving."
+            ],
+            "correctIndex": 2
+          },
+          {
+            "targetWord": "as if + past simple",
+            "translation": "como si + subjuntivo imperfecto",
+            "options": [
+              "He acted as if he is the owner.",
+              "He acted as if he was the owner.",
+              "He acted as if he will be the owner.",
+              "He acted as if he be the owner."
+            ],
+            "correctIndex": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Correcto o incorrecto?",
+      "instruction": "Identificá si la estructura de pasado irreal está bien formada. Prestá especial atención a los errores típicos de hispanohablantes.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "It's time we go home. It's getting late.",
+            "isCorrect": false,
+            "correction": "It's time we went home. It's getting late.",
+            "explanation": "INCORRECTO. 'It's time + subject' requiere PASADO SIMPLE ('went'), no presente ('go'). El presente indica un plan real; el pasado simple señala que ya debería haber ocurrido. Los hispanohablantes tienden a usar presente porque el subjuntivo español ('vayamos') suena similar al presente.",
+            "errorType": "wrong-tense"
+          },
+          {
+            "sentence": "She talks as if she knew the answer, but she's just guessing.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'As if + past simple (knew)' para una comparación irreal en el presente. La segunda cláusula confirma la irrealidad ('she's just guessing'). 'Knew' es correcto aunque se refiera a ahora — el pasado simple expresa irrealidad.",
+            "errorType": "as-if-present"
+          },
+          {
+            "sentence": "He behaved as if he has never made a mistake in his life.",
+            "isCorrect": false,
+            "correction": "He behaved as if he had never made a mistake in his life.",
+            "explanation": "INCORRECTO. Cuando la comparación irreal se refiere a algo en el PASADO (antes de que se comportara así), hay que usar PAST PERFECT ('had never made'), no present perfect ('has never made'). La línea de tiempo importa: 'behaved' es pasado → la situación irreal también debe ser pasada.",
+            "errorType": "tense-sequence"
+          },
+          {
+            "sentence": "I'd rather you didn't mention this to anyone.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'I'd rather + subject + past simple' expresa preferencia sobre la acción de otra persona. 'Didn't mention' es pasado simple negativo con significado presente/futuro. Equivale a 'Preferiría que no lo mencionaras'. Compará con 'I'd rather not mention it' (para mi propia acción, sin pasado).",
+            "errorType": "would-rather"
+          }
+        ]
+      }
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá las oraciones con pasado irreal",
+      "instruction": "Ordená los fragmentos para formar oraciones correctas con pasado irreal.",
+      "itemIndices": [0, 1],
+      "config": {
+        "sentences": [
+          {
+            "translation": "Ya es hora de que consigas un trabajo en serio.",
+            "fragments": ["It's high time", "you", "got", "a proper job."],
+            "correctOrder": [0, 1, 2, 3]
+          },
+          {
+            "translation": "Habla como si supiera todo, pero no sabe.",
+            "fragments": ["He talks", "as if", "he knew everything,", "but he doesn't."],
+            "correctOrder": [0, 1, 2, 3]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Pasado irreal (subjuntivo): el pasado simple en inglés puede expresar IRREALIDAD, no solo tiempo pasado. Estructuras clave: 'It's time + past simple' (debería pasar pero no pasa), 'as if/as though + past simple' (comparación irreal presente), 'as if + past perfect' (comparación irreal pasada), 'I'd rather + subject + past simple' (preferencia sobre otro). Con 'be', la forma formal es siempre 'were'. Error clásico de hispanohablantes: usar presente donde se necesita pasado irreal.",
+      "itemIndices": [0, 1, 2, 3]
+    }
+  ]
+}

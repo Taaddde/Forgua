@@ -1,0 +1,183 @@
+{
+  "id": "grammar-b1-22",
+  "title": "Have Something Done (Causative)",
+  "description": "Para cuando otra persona hace algo por nosotros: 'I'm having my hair cut', 'She got her car repaired'. Un punto que casi siempre se dice mal por influencia del español.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Have Something Done (Causative) (Subject + have/get + object + past participle)",
+      "back": "Estructura causativa: otra persona hace algo por nosotros. Have/get + objeto + participio.",
+      "reading": "/hæv ˈsʌmθɪŋ dʌn/",
+      "explanation": "Estructura: Subject + HAVE/GET + OBJECT + PAST PARTICIPLE. Se usa cuando PAGAMOS o pedimos a otra persona que haga algo por nosotros (típicamente servicios profesionales). 'Have' es más neutro/formal. 'Get' es más informal. En español decimos 'me corté el pelo' o 'mandé a arreglar el auto' — el inglés es más explícito: indica que la acción la hizo otro.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Have Something Done (Causative) (Subject + have/get + object + past participle)"
+      }
+    },
+    {
+      "front": "I had my car repaired last week.",
+      "back": "Lo hizo otra persona (un mecánico). Have + objeto + participio pasado.",
+      "reading": "/aɪ hæd maɪ kɑːr rɪˈpɛərd/",
+      "explanation": "'I had my car repaired' = mandé a arreglar mi auto (alguien lo arregló, no yo). Comparación clave: 'I repaired my car' = yo mismo arreglé el auto. La diferencia no es sutil — son dos acciones totalmente distintas. Los hispanohablantes suelen decir 'I repaired my hair' queriendo decir 'me corté el pelo', lo que es gramatical pero FALSO (yo no me lo corté)."
+    },
+    {
+      "front": "She's getting her nails done at the salon.",
+      "back": "'Get' + objeto + participio = versión más informal de 'have'.",
+      "reading": "/ʃiːz ˈɡɛtɪŋ hɜːr neɪlz dʌn/",
+      "explanation": "'Get' funciona igual que 'have' pero suena más coloquial. Muy común en el habla cotidiana. Se puede conjugar en cualquier tiempo: 'I'm getting my hair cut tomorrow', 'She got her teeth whitened', 'We're getting the house painted next month'. El causativo es una estructura viva, no solo un tema de libro."
+    },
+    {
+      "front": "I had my wallet stolen on the bus.",
+      "back": "Uso especial: experiencias NEGATIVAS no deseadas. No la mandamos a hacer, nos pasó.",
+      "reading": "/aɪ hæd maɪ ˈwɒlɪt ˈstoʊlən/",
+      "explanation": "Uso extendido muy importante: también sirve para experiencias negativas que NOS PASARON (no las pedimos). 'I had my wallet stolen' = me robaron la billetera. 'She had her phone broken' = le rompieron el teléfono. En estos casos el causativo no implica 'pagar por el servicio' sino 'ser el receptor de una acción'."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Causativo: have/get + objeto + participio",
+      "instruction": "Forma: HAVE o GET + objeto + participio pasado. Se usa cuando alguien más hace algo por nosotros (generalmente un servicio profesional). 'Have' es más formal, 'get' más informal.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Uso especial: experiencias negativas",
+      "instruction": "También sirve para cosas malas que nos pasaron sin que las pidiéramos: 'I had my wallet stolen' (me robaron la billetera), 'She had her phone broken' (le rompieron el teléfono).",
+      "itemIndices": [3]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá la estructura causativa",
+      "instruction": "Recordá el orden: have/get + objeto + participio pasado.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "I need to {0} my hair {1}. It's getting too long.",
+            "blanks": [
+              { "answer": "have", "options": ["have", "make", "do"] },
+              { "answer": "cut", "options": ["cut", "cutting", "to cut"] }
+            ]
+          },
+          {
+            "template": "She {0} her eyes {1} last month. Now she needs new glasses.",
+            "blanks": [
+              { "answer": "had", "options": ["had", "did", "made"] },
+              { "answer": "tested", "options": ["tested", "test", "testing"] }
+            ]
+          },
+          {
+            "template": "We're going to {0} the kitchen {1} next summer.",
+            "blanks": [
+              { "answer": "get", "options": ["get", "do", "make"] },
+              { "answer": "painted", "options": ["painted", "paint", "painting"] }
+            ]
+          },
+          {
+            "template": "He {0} his bike {1} while he was at the café.",
+            "blanks": [
+              { "answer": "had", "options": ["had", "got to", "made"] },
+              { "answer": "stolen", "options": ["stolen", "steal", "stealing"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Verificá el orden de los elementos y la forma del participio.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "I'm having my house painted this weekend.",
+            "isCorrect": true,
+            "explanation": "Correcto. Forma perfecta del causativo: 'having' + objeto ('my house') + participio pasado ('painted'). Significa: alguien va a pintar mi casa este fin de semana.",
+            "errorType": "causative"
+          },
+          {
+            "sentence": "She had cut her hair yesterday.",
+            "isCorrect": false,
+            "correction": "She had her hair cut yesterday.",
+            "explanation": "INCORRECTO — o al menos ambiguo. 'She had cut her hair' sin el causativo se lee como Past Perfect (ella había cortado el pelo). Para el causativo correcto, el objeto ('her hair') va ENTRE 'had' y el participio ('cut'): 'She had her hair cut'.",
+            "errorType": "word-order"
+          },
+          {
+            "sentence": "I want to have my teeth to check next week.",
+            "isCorrect": false,
+            "correction": "I want to have my teeth checked next week.",
+            "explanation": "INCORRECTO. Después del objeto va el PARTICIPIO PASADO, no el infinitivo con 'to'. Correcto: 'my teeth CHECKED' (participio de check). El causativo nunca usa 'to + verbo'.",
+            "errorType": "wrong-form"
+          },
+          {
+            "sentence": "They got their car cleaned at the gas station.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Got' como versión informal de 'had' + objeto ('their car') + participio ('cleaned'). Los limpiaron el auto en la gasolinera.",
+            "errorType": "causative"
+          }
+        ]
+      }
+    },
+    {
+      "type": "word-in-context",
+      "title": "Causativo en contexto",
+      "instruction": "Elegí la oración donde la estructura causativa está bien formada y tiene sentido.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "had my hair cut",
+            "translation": "me corté el pelo (me lo cortaron)",
+            "options": [
+              "I had cut my hair at the new salon.",
+              "I had my hair cut at the new salon.",
+              "I had my hair to cut at the new salon.",
+              "I cut my hair at the new salon by the hairdresser."
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "had my phone stolen",
+            "translation": "me robaron el teléfono",
+            "options": [
+              "I had stolen my phone on the train.",
+              "Somebody stole me my phone on the train.",
+              "I had my phone stolen on the train.",
+              "My phone had stolen on the train."
+            ],
+            "correctIndex": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá oraciones causativas",
+      "instruction": "Ordená los fragmentos respetando la estructura have/get + objeto + participio.",
+      "itemIndices": [1, 2],
+      "config": {
+        "sentences": [
+          {
+            "translation": "Se arregló los dientes en Budapest.",
+            "fragments": ["She got", "her teeth", "fixed", "in Budapest."],
+            "correctOrder": [0, 1, 2, 3]
+          },
+          {
+            "translation": "Deberías hacer revisar tu vista pronto.",
+            "fragments": ["You should", "have", "your eyes", "tested soon."],
+            "correctOrder": [0, 1, 2, 3]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Have Something Done = alguien hace algo por nosotros. Estructura: SUJETO + have/get + OBJETO + PARTICIPIO PASADO. 'Have' (neutro) o 'get' (informal) son intercambiables. También sirve para experiencias negativas no deseadas ('I had my wallet stolen'). Diferencia clave: 'I cut my hair' (yo me lo corté) vs 'I had my hair cut' (me lo cortaron). El objeto va ENTRE have/get y el participio.",
+      "itemIndices": [0, 1, 2, 3]
+    }
+  ]
+}

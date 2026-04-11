@@ -10,28 +10,28 @@
       "back": "Hay un gato en la mesa.",
       "reading": "/ðɛr ɪz ə kæt ɑːn ðə ˈteɪbəl/",
       "explanation": "'There is' (contracción: there's) se usa con sustantivos SINGULARES o INCONTABLES. 'There is a book' (hay un libro), 'There is water' (hay agua). En español usamos 'hay' para TODO (singular, plural, contable, incontable). En inglés hay que elegir: 'there is' o 'there are'. ERROR TÍPICO: decir 'there are a cat' — si es singular, es 'there IS'.",
-      "cardRef": { "category": "grammar", "front": "there is + singular" }
+      "cardRef": {
+        "category": "grammar",
+        "front": "There is / There are (There is + singular | There are + plural)"
+      }
     },
     {
       "front": "There are three cats on the table.",
       "back": "Hay tres gatos en la mesa.",
       "reading": "/ðɛr ɑːr θriː kæts ɑːn ðə ˈteɪbəl/",
-      "explanation": "'There are' se usa con sustantivos PLURALES. 'There are two books' (hay dos libros), 'There are many people' (hay mucha gente). Acordate: si lo que sigue es plural, usá 'are'. En español siempre es 'hay', pero en inglés: one thing → 'there is', many things → 'there are'.",
-      "cardRef": { "category": "grammar", "front": "there are + plural" }
+      "explanation": "'There are' se usa con sustantivos PLURALES. 'There are two books' (hay dos libros), 'There are many people' (hay mucha gente). Acordate: si lo que sigue es plural, usá 'are'. En español siempre es 'hay', pero en inglés: one thing → 'there is', many things → 'there are'."
     },
     {
       "front": "Is there a bathroom here? / Are there any questions?",
       "back": "¿Hay un baño acá? / ¿Hay alguna pregunta?",
       "reading": "/ɪz ðɛr ə ˈbæθruːm hɪr/ — /ɑːr ðɛr ˈɛni ˈkwɛstʃənz/",
-      "explanation": "Para preguntar, INVERTÍ el orden: 'Is there...?' (singular) y 'Are there...?' (plural). En español solo cambiás la entonación: '¿Hay un baño?' En inglés hay que mover el verbo adelante. Con plural se suele usar 'any': 'Are there ANY restaurants near here?' (¿Hay restaurantes cerca de acá?).",
-      "cardRef": { "category": "grammar", "front": "questions: is there / are there" }
+      "explanation": "Para preguntar, INVERTÍ el orden: 'Is there...?' (singular) y 'Are there...?' (plural). En español solo cambiás la entonación: '¿Hay un baño?' En inglés hay que mover el verbo adelante. Con plural se suele usar 'any': 'Are there ANY restaurants near here?' (¿Hay restaurantes cerca de acá?)."
     },
     {
       "front": "There isn't a problem. / There aren't any seats.",
       "back": "No hay ningún problema. / No hay asientos.",
       "reading": "/ðɛr ˈɪzənt ə ˈprɑːbləm/ — /ðɛr ɑːrənt ˈɛni siːts/",
-      "explanation": "Negativo: 'There isn't' (there is not) + singular. 'There aren't' (there are not) + plural. Se usa 'any' en negativas: 'There aren't ANY chairs' (no hay sillas). ERROR COMÚN: 'There is no have...' o 'There don't have...' — NO. 'There is/are' ya funciona como verbo completo, no necesita otro verbo.",
-      "cardRef": { "category": "grammar", "front": "negative: there isn't / there aren't" }
+      "explanation": "Negativo: 'There isn't' (there is not) + singular. 'There aren't' (there are not) + plural. Se usa 'any' en negativas: 'There aren't ANY chairs' (no hay sillas). ERROR COMÚN: 'There is no have...' o 'There don't have...' — NO. 'There is/are' ya funciona como verbo completo, no necesita otro verbo."
     }
   ],
   "steps": [
@@ -39,31 +39,52 @@
       "type": "introduce",
       "title": "'Hay' en inglés: there is y there are",
       "instruction": "En español, 'hay' sirve para todo: 'Hay un gato', 'Hay diez gatos', 'Hay agua'. En inglés, tenés que distinguir: 'There is' para singular/incontable y 'There are' para plural. 'There is a cat' (un gato), 'There are three cats' (tres gatos). La contracción 'there's' es muy común al hablar.",
-      "itemIndices": [0, 1]
+      "itemIndices": [
+        0,
+        1
+      ]
     },
     {
       "type": "introduce",
       "title": "Preguntas y negaciones con there is/are",
       "instruction": "Para preguntar, invertí: 'Is there a park near here?' (¿Hay un parque cerca?). Para negar: 'There isn't a park' o 'There aren't any parks'. Usá 'any' en preguntas y negaciones: 'Are there any questions?' 'There aren't any problems'. No uses 'have' ni 'do' con there is/are.",
-      "itemIndices": [2, 3]
+      "itemIndices": [
+        2,
+        3
+      ]
     },
     {
       "type": "recognize",
       "title": "¿There is o there are?",
       "instruction": "Elegí la forma correcta según si el sustantivo es singular o plural.",
-      "itemIndices": [0, 1, 2, 3]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
     },
     {
       "type": "recall",
       "title": "Traducí usando there is/are",
       "instruction": "Ves la oración en español con 'hay'. Escribí la traducción correcta usando 'there is' o 'there are'.",
-      "itemIndices": [0, 1, 2, 3]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
     },
     {
       "type": "summary",
       "title": "¡Lección completa!",
       "instruction": "Resumen: 'Hay' en inglés = 'There is' (singular/incontable) o 'There are' (plural). Preguntas: invertí → 'Is there...?' / 'Are there...?'. Negativo: 'There isn't...' / 'There aren't...'. Usá 'any' en preguntas y negativas. Y NUNCA mezcles con 'have' o 'do': 'There is' ya es la estructura completa.",
-      "itemIndices": [0, 1, 2, 3]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
     }
   ]
 }

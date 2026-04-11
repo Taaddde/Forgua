@@ -1,0 +1,190 @@
+{
+  "id": "grammar-c2-01",
+  "title": "Subjunctive in English",
+  "description": "El subjuntivo en inglés: vestigial, formulaico y mandativo. Cuándo usarlo, cuándo NO usarlo (el error de hispanohablantes), y sus expresiones fijas.",
+  "level": "c2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Subjunctive in English (suggest/recommend/insist + (that) + subject + base verb | If I were... | formulaic: God save..., Be that as it may)",
+      "back": "Subjuntivo en inglés: mandativo (suggest/insist + that + verbo base), hipotético (If I were), y formulaico (fósiles gramaticales)",
+      "reading": "",
+      "explanation": "El subjuntivo inglés tiene tres usos principales. (1) MANDATIVO: después de verbos de sugerencia/exigencia (suggest, recommend, insist, demand, require, propose) + that + sujeto + VERBO BASE (sin -s): 'I suggest he leave' (no 'leaves'). (2) HIPOTÉTICO: 'If I were you' (fueron, todos los sujetos). (3) FORMULAICO: expresiones fijas como 'God save the King', 'Be that as it may', 'Come what may', 'Long live the republic'. Los hispanohablantes tienden a SOBREUSAR el subjuntivo por transferencia del L1.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Subjunctive in English (suggest/recommend/insist + (that) + subject + base verb | If I were... | formulaic: God save..., Be that as it may)"
+      }
+    },
+    {
+      "front": "Mandative subjunctive examples",
+      "back": "The board recommended that the CEO resign. / It is essential that every applicant be treated equally.",
+      "reading": "",
+      "explanation": "El subjuntivo mandativo: verbo de sugerencia/exigencia + that + sujeto + VERBO BASE (idéntico al infinitivo, sin marca de tiempo ni persona). 'Recommended that the CEO resign' (no 'resigns'). 'Essential that every applicant be treated' (no 'is treated'). En inglés BRITÁNICO, a menudo se reemplaza con 'should': 'I suggest he should leave'. Ambas formas son correctas; el subjuntivo es más formal y más americana."
+    },
+    {
+      "front": "The Hispanic over-use trap: when NOT to use subjunctive",
+      "back": "I hope she comes (NOT come). I want her to go (NOT 'I want that she go').",
+      "reading": "",
+      "explanation": "Error clásico de hispanohablantes: usar subjuntivo donde el inglés usa indicativo o infinitivo. (1) 'I hope + indicative': 'I hope she comes' (NO 'come'). (2) 'want/need/expect + object + infinitive': 'I want her to come' (NO 'I want that she come'). (3) Después de 'think/believe': 'I think he is right' (NO 'be right'). Solo los verbos MANDATIVOS (suggest, insist, demand, require, recommend, propose, urge) permiten subjuntivo en that-clauses."
+    },
+    {
+      "front": "Formulaic subjunctive expressions",
+      "back": "God save the King. Be that as it may. Come what may. Long live the republic. Suffice it to say.",
+      "reading": "",
+      "explanation": "Fósiles gramaticales del subjuntivo inglés arcaico. Son expresiones congeladas que conservan la forma del subjuntivo sin que el hablante lo sepa. 'Be that as it may' = sea como sea (concesión formal). 'Come what may' = pase lo que pase. 'Suffice it to say' = basta decir que (para resumir brevemente). 'Far be it from me to...' = lejos de mí el intención de... No se pueden modificar ni analizar componente a componente — se aprenden como unidades."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El subjuntivo inglés — vestigial pero real",
+      "instruction": "El subjuntivo en español es enormemente productivo; en inglés, es vestigial — sobrevive en tres contextos específicos. El error más común de hispanohablantes es SOBREUSAR el subjuntivo inglés donde el indicativo o el infinitivo son lo correcto. Comprender este límite es una marca C2.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuándo se usa el subjuntivo?",
+      "instruction": "Identificá si el subjuntivo es correcto, incorrecto, o innecesario en cada contexto.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Subjuntivo correcto o sobreusado?",
+      "instruction": "Muchos de estos errores son de hispanohablantes avanzados que transfieren el subjuntivo español. ¿Cuáles son correctos?",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "The professor insisted that the student resubmit the assignment.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Insist + that + subjuntivo mandativo': 'insist that [subject] + base verb'. 'Resubmit' (no 'resubmits') es el subjuntivo. Los verbos mandativos: insist, suggest, recommend, demand, require, propose, request, urge — todos admiten subjuntivo en that-clauses.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "I hope she be successful in her new role.",
+            "isCorrect": false,
+            "correction": "I hope she is successful in her new role.",
+            "explanation": "'Hope' NO es un verbo mandativo — no se usa con subjuntivo. Después de 'hope', usá indicativo presente: 'I hope she IS successful.' En español 'Espero que sea exitosa' usa subjuntivo; en inglés es indicativo: 'I hope she IS'. Este error de transferencia del L1 es el más frecuente en hispanohablantes C1-C2.",
+            "errorType": "subjunctive-overuse"
+          },
+          {
+            "sentence": "It is vital that the report be submitted before the committee convenes.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'It is vital/essential/important/necessary that + subjuntivo mandativo'. Estas expresiones impersonales con adjetivos de obligación/importancia también admiten subjuntivo: 'It is vital that [subject] + base verb'. 'Be submitted' = subjuntivo pasivo.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "Come what may, she was determined to see the project through to completion.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Come what may' es una expresión formulaica fija con subjuntivo invertido (arcaico). Equivale a 'pase lo que pase'. No se puede modificar ni analizar componente a componente — se usa como unidad fija.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "I want that you understand the implications of this decision.",
+            "isCorrect": false,
+            "correction": "I want you to understand the implications of this decision.",
+            "explanation": "En inglés, 'want' NO admite cláusula 'that + sujeto'. El patrón correcto es 'want + object + infinitive': 'I want YOU TO understand'. Esta es la transferencia del español más común: 'quiero que entiendas' = 'I want you to understand' (NO 'I want that you understand').",
+            "errorType": "want-that-clause"
+          },
+          {
+            "sentence": "Be that as it may, we cannot ignore the evidence any longer.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Be that as it may' es una expresión concesiva formal muy sofisticada. Equivale a 'sea como sea, aunque así sea'. Es un subjuntivo formulaico — se usa para conceder un punto y luego establecer que la conclusión permanece. Muy común en argumentación escrita formal.",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Subjuntivo mandativo vs indicativo",
+      "instruction": "Completá con la forma correcta — subjuntivo (verbo base) o indicativo.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "The ethics committee recommended that all participants {0} informed of the study's potential risks before {1} consent.",
+            "blanks": [
+              {
+                "answer": "be",
+                "options": [
+                  "be",
+                  "are",
+                  "were",
+                  "will be"
+                ]
+              },
+              {
+                "answer": "giving",
+                "options": [
+                  "giving",
+                  "give",
+                  "given",
+                  "to give"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "I hope the results {0} conclusive enough to publish. If they {1}, the team would need to repeat the entire experiment.",
+            "blanks": [
+              {
+                "answer": "are",
+                "options": [
+                  "are",
+                  "be",
+                  "were",
+                  "will be"
+                ]
+              },
+              {
+                "answer": "aren't",
+                "options": [
+                  "aren't",
+                  "be not",
+                  "weren't",
+                  "haven't been"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "{0}, the organization maintained its commitment to transparency and open governance.",
+            "blanks": [
+              {
+                "answer": "Come what may",
+                "options": [
+                  "Come what may",
+                  "If it came what may",
+                  "Whether it comes",
+                  "Whatever coming"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completada!",
+      "instruction": "SUBJUNTIVO EN INGLÉS: (1) MANDATIVO: suggest/recommend/insist/demand/require/propose + that + VERBO BASE. (2) HIPOTÉTICO: If I/he/she WERE. (3) FORMULAICO: Be that as it may / Come what may / God save the King. NO SUBJUNTIVO después de: hope, think, believe, want (usar infinitivo). La marca C2 es saber exactamente dónde NO usarlo.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id": "vocab-a1-11",
+  "title": "Numbers & Time : Más números y unidades de tiempo",
+  "description": "Completá los números del 1 al 10 y aprendé las unidades de tiempo básicas: día, semana, año. Incluye el saludo nocturno 'good night'.",
+  "level": "a1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "four",
+      "back": "cuatro",
+      "reading": "/fɔːr/",
+      "explanation": "Cuatro. ¡OJO! 'Four' /fɔːr/ NO es igual que 'for' /fɔːr/ (para) — suenan muy parecido pero tienen funciones distintas. Lo entendés por contexto.",
+      "cardRef": { "category": "vocabulary", "front": "four" }
+    },
+    {
+      "front": "six",
+      "back": "seis",
+      "reading": "/sɪks/",
+      "explanation": "Seis. Pronunciación corta /sɪks/ con 'i' corta, NO como 'seeks' /siːks/ (busca). Muchos hispanohablantes alargan la 'i' — mantenela corta.",
+      "cardRef": { "category": "vocabulary", "front": "six" }
+    },
+    {
+      "front": "eight",
+      "back": "ocho",
+      "reading": "/eɪt/",
+      "explanation": "Ocho. La 'gh' es muda — se pronuncia /eɪt/ como si fuera 'ate' (comió). De hecho, 'eight' y 'ate' son homófonos perfectos.",
+      "cardRef": { "category": "vocabulary", "front": "eight" }
+    },
+    {
+      "front": "nine",
+      "back": "nueve",
+      "reading": "/naɪn/",
+      "explanation": "Nueve. Rima con 'fine' y 'mine'. No confundir con 'none' /nʌn/ (ninguno).",
+      "cardRef": { "category": "vocabulary", "front": "nine" }
+    },
+    {
+      "front": "night",
+      "back": "noche",
+      "reading": "/naɪt/",
+      "explanation": "Noche. La 'gh' es muda. Nota curiosa: 'night' y 'knight' (caballero) suenan idénticos /naɪt/. Preposición con horas: 'at night' (de noche), NO 'in the night'.",
+      "cardRef": { "category": "vocabulary", "front": "night" }
+    },
+    {
+      "front": "good night",
+      "back": "buenas noches (despedida)",
+      "reading": "/ɡʊd naɪt/",
+      "explanation": "¡OJO! 'Good night' es una DESPEDIDA (al irse a dormir o al despedirse de noche), NO un saludo. Para saludar de noche usás 'good evening'. Error clásico de hispanohablantes.",
+      "cardRef": { "category": "vocabulary", "front": "good night" }
+    },
+    {
+      "front": "day",
+      "back": "día",
+      "reading": "/deɪ/",
+      "explanation": "Día. Plural: 'days'. Expresiones útiles: 'every day' (todos los días), 'all day' (todo el día), 'these days' (últimamente).",
+      "cardRef": { "category": "vocabulary", "front": "day" }
+    },
+    {
+      "front": "week",
+      "back": "semana",
+      "reading": "/wiːk/",
+      "explanation": "Semana. Homófono de 'weak' (débil) — mismo sonido, significado distinto. 'Next week' (la semana que viene), 'last week' (la semana pasada).",
+      "cardRef": { "category": "vocabulary", "front": "week" }
+    },
+    {
+      "front": "year",
+      "back": "año",
+      "reading": "/jɪr/",
+      "explanation": "Año. ¡Muy importante! Para decir edad se usa 'I am 25 years old' (literalmente 'soy 25 años viejo'), NO 'I have 25 years'. Error clásico: 'I have 25 years' NO existe en inglés.",
+      "cardRef": { "category": "vocabulary", "front": "year" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Números y tiempo",
+      "instruction": "Completá los números que faltan (4, 6, 8, 9) y aprendé las unidades básicas de tiempo. Importante: 'good night' es para despedirse, NO para saludar.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto de cada palabra.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "type": "listen-identify",
+      "title": "Escuchá y elegí",
+      "instruction": "Escuchá los números y palabras de tiempo. Prestá atención al sonido corto de 'six' vs. largo de 'week'.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Ves el significado en español. Escribí la palabra en inglés.",
+      "itemIndices": [0, 1, 2, 3, 6, 7, 8]
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Identificá errores comunes con números, tiempo y saludos.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "I have 25 years.",
+            "isCorrect": false,
+            "correction": "I am 25 years old.",
+            "explanation": "Para decir la edad en inglés NO se usa 'have'. Se usa 'to be' + 'years old'. La estructura es 'I am X years old' (literalmente: 'yo soy X años viejo'). Error clásico del hispanohablante.",
+            "errorType": "wrong-verb"
+          },
+          {
+            "sentence": "Good night! Nice to meet you.",
+            "isCorrect": false,
+            "correction": "Good evening! Nice to meet you.",
+            "explanation": "'Good night' es una DESPEDIDA (al irse a dormir). Para SALUDAR de noche se usa 'good evening'. Si recién conocés a alguien, no podés despedirte antes de empezar.",
+            "errorType": "register"
+          },
+          {
+            "sentence": "I work eight hours a day.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Eight hours a day' = ocho horas por día. El artículo 'a' en inglés significa 'por' en este contexto ('a day' = por día).",
+            "errorType": "none"
+          },
+          {
+            "sentence": "See you next week!",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Next week' = la semana que viene. No se dice 'the next week' en este contexto informal de despedida.",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste 9 palabras: los números que faltaban (4, 6, 8, 9) y las unidades de tiempo (day, week, year, night). Lo más importante: 'I AM X years old' para la edad (NO 'I have X years'), y 'good night' es para despedirse, 'good evening' es para saludar.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    }
+  ]
+}

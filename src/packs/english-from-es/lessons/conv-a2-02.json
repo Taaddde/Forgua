@@ -1,0 +1,157 @@
+{
+  "id": "conv-a2-02",
+  "title": "Conversation: At the Doctor's",
+  "description": "Consulta médica. Describir síntomas, entender indicaciones, should/have to.",
+  "level": "a2",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "headache",
+      "back": "dolor de cabeza",
+      "reading": "/ˈhɛdˌeɪk/",
+      "explanation": "En inglés el dolor se expresa con 'have a + part + ache': headache, stomachache, backache. 'I have a headache' = Me duele la cabeza (NO 'My head hurts me').",
+      "cardRef": { "category": "vocabulary", "front": "headache" }
+    },
+    {
+      "front": "fever",
+      "back": "fiebre",
+      "reading": "/ˈfiːvər/",
+      "explanation": "'I have a fever' = Tengo fiebre. Temperatura alta. 'The child has a high fever' = El niño tiene fiebre alta.",
+      "cardRef": { "category": "vocabulary", "front": "fever" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario de salud",
+      "instruction": "Palabras para describir síntomas al médico.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "conversation-script",
+      "title": "Conversación: At the Doctor's",
+      "instruction": "No te sentís bien y vas al médico. Describí tus síntomas y entendé las indicaciones.",
+      "itemIndices": [],
+      "config": {
+        "script": {
+          "id": "conv-a2-02-doctor",
+          "scenario": "Consulta médica",
+          "level": "a2",
+          "turns": [
+            {
+              "speaker": "npc",
+              "text": "Good morning. Come in and have a seat. What seems to be the problem?",
+              "translation": "Buenos días. Entre y tome asiento. ¿Cuál es el problema?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                { "text": "I haven't been feeling well for the past three days. I have a headache and a sore throat.", "isCorrect": true, "feedback": "Excelente. 'I haven't been feeling well' (Present Perfect Continuous) describe una situación que empezó hace 3 días y continúa. 'A sore throat' = garganta irritada." },
+                { "text": "I am sick since three days.", "isCorrect": false, "feedback": "El tiempo es incorrecto. Con 'since/for + período' → Present Perfect: 'I have been sick FOR three days'. 'Since three days' tampoco es natural — mejor 'for three days'." },
+                { "text": "My head hurts me and my throat also hurts.", "isCorrect": false, "feedback": "Gramaticalmente posible pero innatural. En inglés médico se dice 'I have a headache' y 'I have a sore throat', no 'hurts me'." }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "I see. Do you have a fever? Have you taken any medicine?",
+              "translation": "Entiendo. ¿Tiene fiebre? ¿Ha tomado algún medicamento?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                { "text": "Yes, I had a slight fever yesterday — about 38 degrees. I took some aspirin but it didn't help much.", "isCorrect": true, "feedback": "Respuesta muy completa y natural. 'A slight fever' = fiebre leve. 'It didn't help much' = no ayudó mucho." },
+                { "text": "I have fever yesterday.", "isCorrect": false, "feedback": "'Yesterday' pide Past Simple: 'I HAD a fever yesterday'. Y 'fever' necesita artículo: 'I had A fever'." },
+                { "text": "Yes, I have a fever. No, I no take medicine.", "isCorrect": false, "feedback": "Para negar se necesita el auxiliar: 'I haven't taken any medicine' o 'I didn't take any medicine'." }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "Let me take a look. Open your mouth, please. Say 'Aaah'... Yes, your throat is a bit red. I think you have a viral infection.",
+              "translation": "Déjeme echar un vistazo. Abra la boca, por favor. Diga 'Aaah'... Sí, su garganta está un poco roja. Creo que tiene una infección viral."
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                { "text": "Is it serious? Should I take antibiotics?", "isCorrect": true, "feedback": "Preguntas muy naturales y útiles. 'Should I...?' = ¿Debería...? La forma correcta de pedir una recomendación." },
+                { "text": "What I must do?", "isCorrect": false, "feedback": "Orden incorrecto. 'What SHOULD I do?' o 'What do I need to do?' — el auxiliar va entre 'What' y el sujeto." },
+                { "text": "I am understand, thank you.", "isCorrect": false, "feedback": "Error de stative verb. 'Understand' es un verbo de estado — no se usa en continuo: 'I understand, thank you'." }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "No, antibiotics won't help with a viral infection. You should rest, drink plenty of water, and take paracetamol for the fever. If you don't feel better in five days, come back.",
+              "translation": "No, los antibióticos no ayudan con una infección viral. Debería descansar, tomar mucha agua y tomar paracetamol para la fiebre. Si no se siente mejor en cinco días, vuelva."
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                { "text": "Understood. How many times a day should I take the paracetamol?", "isCorrect": true, "feedback": "Pregunta práctica y muy bien formulada. 'How many times a day' = ¿cuántas veces al día?" },
+                { "text": "OK. I will rest and I will drink water and I will take paracetamol.", "isCorrect": false, "feedback": "Gramaticalmente correcto pero repetitivo. En inglés natural se usaría 'will' solo una vez: 'I'll rest, drink water, and take paracetamol.'" },
+                { "text": "I have understand. I go home now.", "isCorrect": false, "feedback": "Dos errores: 'understand' no va en perfect progressive, y 'I go home now' debería ser 'I'm going home now' (presente continuo para acción inmediata)." }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "Three times a day with food. Get well soon!",
+              "translation": "Tres veces al día con comida. ¡Que se mejore pronto!"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                { "text": "Thank you, doctor. I'll follow your advice.", "isCorrect": true, "feedback": "Cierre perfecto. 'I'll follow your advice' = Seguiré su consejo. Muy profesional y natural." },
+                { "text": "Thank you doctor!", "isCorrect": false, "feedback": "Correcto pero simple. Un cierre más completo sería mejor: 'Thank you, doctor. Have a good day!'." },
+                { "text": "Thanks, I hope I get well fast.", "isCorrect": true, "feedback": "También válido. 'I hope I get well fast' = Espero mejorar rápido. Muy natural." }
+              ],
+              "correctOptionIndex": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "Síntomas: ¿cómo se dicen en inglés?",
+      "instruction": "Identificá si la oración describe el síntoma de forma correcta.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "I have a headache since three days.",
+            "isCorrect": false,
+            "correction": "I have had a headache for three days.",
+            "explanation": "Con períodos de tiempo que empezaron en el pasado y continúan → Present Perfect + 'for'. 'Since' va con un punto de inicio (since Monday, since 3 PM).",
+            "errorType": "tense"
+          },
+          {
+            "sentence": "She has a fever of 38 degrees.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'She has a fever' — se usa 'have' para síntomas (have a fever, have a headache, have a cough).",
+            "errorType": "none"
+          },
+          {
+            "sentence": "My back is hurting me since the accident.",
+            "isCorrect": false,
+            "correction": "My back has been hurting since the accident.",
+            "explanation": "Con 'since' y situación que continúa → Present Perfect Continuous: 'has been hurting'. 'Since' pide un punto de inicio específico.",
+            "errorType": "tense"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Conversación completa!",
+      "instruction": "Síntomas: 'I have a headache/fever/cough/sore throat'. Duración: 'for three days' (for + período), 'since Monday' (since + punto de inicio). Pedir consejo: 'Should I...?' Indicaciones: 'You should rest', 'Take + medicine + times a day'. 'Get well soon!' = ¡Que te mejores!",
+      "itemIndices": [0, 1]
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "id": "grammar-b1-09",
+  "title": "Connectors: Because of, Although, In Order to",
+  "description": "Los conectores de causa, contraste y propósito son el pegamento de los textos B1. 'Although she was tired, she continued.' 'Due to the rain, the match was cancelled.'",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "She stayed home because she was feeling ill. / The flight was cancelled due to bad weather.",
+      "back": "Se quedó en casa porque se sentía mal. / El vuelo fue cancelado debido al mal tiempo.",
+      "reading": "",
+      "explanation": "CAUSE connectors: BECAUSE + cláusula (sujeto + verbo). BECAUSE OF / DUE TO + sustantivo/frase nominal. 'Because it rained' (correcto) vs 'Because of the rain' (correcto). ERROR: 'Because of it rained' — NO se puede usar before a full clause.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Connectors of Cause (because / since / as / due to / because of + noun)"
+      }
+    },
+    {
+      "front": "Although she was tired, she continued working. / The test was difficult. However, most students passed.",
+      "back": "Aunque estaba cansada, siguió trabajando. / El examen fue difícil. Sin embargo, la mayoría aprobó.",
+      "reading": "",
+      "explanation": "CONTRAST connectors: ALTHOUGH / EVEN THOUGH + cláusula (más fuerte que although). HOWEVER = adverbio, entre dos oraciones con punto o punto y coma. DESPITE / IN SPITE OF + sustantivo o gerundio (-ing). Regla importante: HOWEVER nunca une dos cláusulas dentro de la misma oración."
+    },
+    {
+      "front": "I woke up early to catch the first train. / She studied hard so that she could get a scholarship.",
+      "back": "Me levanté temprano para tomar el primer tren. / Estudió mucho para que pudiera conseguir una beca.",
+      "reading": "",
+      "explanation": "PURPOSE connectors: TO / IN ORDER TO + infinitivo (mismo sujeto). SO THAT + cláusula (puede tener diferente sujeto). 'I left early so that SHE could sleep' (yo me fui para que ELLA pudiera dormir — diferentes sujetos). SO AS NOT TO = para no + infinitivo."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Conectores de causa: because vs because of",
+      "instruction": "BECAUSE + cláusula completa. BECAUSE OF / DUE TO + sustantivo. Es el error más común: 'Because of it rained' — INCORRECTO. 'Because it rained' o 'because of the rain' — CORRECTO.",
+      "itemIndices": [
+        0
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Contraste y propósito: although, however, so that",
+      "instruction": "ALTHOUGH/EVEN THOUGH + cláusula. HOWEVER entre oraciones (con punto). DESPITE + sustantivo/-ing. Para propósito: TO/IN ORDER TO (mismo sujeto) vs SO THAT (puede ser diferente sujeto).",
+      "itemIndices": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué conector usar?",
+      "instruction": "Elegí el conector correcto según el contexto y la estructura gramatical.",
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con el conector correcto",
+      "instruction": "Elegí el conector apropiado para cada espacio.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "The concert was cancelled {0} the bad weather.",
+            "blanks": [
+              {
+                "answer": "due to",
+                "options": [
+                  "due to",
+                  "because",
+                  "although"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "{0} she was scared, she jumped into the water.",
+            "blanks": [
+              {
+                "answer": "Although",
+                "options": [
+                  "Although",
+                  "Because",
+                  "Due to"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "He left his phone at home. {0}, he didn't miss any important calls.",
+            "blanks": [
+              {
+                "answer": "However",
+                "options": [
+                  "However",
+                  "Although",
+                  "Despite"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "I turned off the TV {0} the baby could sleep.",
+            "blanks": [
+              {
+                "answer": "so that",
+                "options": [
+                  "so that",
+                  "in order to",
+                  "because of"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "{0} being very tired, she finished the report.",
+            "blanks": [
+              {
+                "answer": "Despite",
+                "options": [
+                  "Despite",
+                  "Although",
+                  "Because of"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Identificá errores en el uso de conectores.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "She failed the exam because of she didn't study.",
+            "isCorrect": false,
+            "correction": "She failed the exam because she didn't study.",
+            "explanation": "INCORRECTO. 'Because of' va seguido de SUSTANTIVO o frase nominal (because of the noise, because of her illness). Cuando sigue una cláusula completa (sujeto + verbo), se usa 'because' solo.",
+            "errorType": "connector"
+          },
+          {
+            "sentence": "The match was cancelled because of heavy rain.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Because of' + sustantivo/frase nominal (heavy rain). La estructura es perfecta.",
+            "errorType": "connector"
+          },
+          {
+            "sentence": "The price was high, however we decided to buy it.",
+            "isCorrect": false,
+            "correction": "The price was high. However, we decided to buy it.",
+            "explanation": "INCORRECTO. 'However' como conector entre dos oraciones necesita separación con PUNTO (o punto y coma). No puede unir dos cláusulas con solo una coma. Correcto: 'The price was high. However, we decided to buy it.'",
+            "errorType": "however-punctuation"
+          },
+          {
+            "sentence": "I'm saving money in order to travel next summer.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'In order to' + infinitivo para expresar propósito. Más formal que 'to' solo, pero perfectamente correcto.",
+            "errorType": "connector"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Conectores B1: CAUSA: because + cláusula / because of + sustantivo / due to + sustantivo. CONTRASTE: although + cláusula / however (entre oraciones con punto) / despite + sustantivo o -ing. PROPÓSITO: to/in order to + infinitivo (mismo sujeto) / so that + cláusula (puede ser diferente sujeto). Error clave: 'because of it rained' — NUNCA. 'However,' entre comas al inicio de oración nueva — SIEMPRE.",
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
+    }
+  ]
+}

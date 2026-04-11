@@ -9,71 +9,61 @@
       "front": "actual",
       "back": "real, verdadero (NO 'actual')",
       "reading": "/ˈæktʃuəl/",
-      "explanation": "'Actual' en inglés = real, verdadero. 'The actual cost was $500' = El costo REAL fue $500. Para decir 'actual' en español (presente, corriente), se dice 'current': 'the current situation'.",
-      "cardRef": { "category": "vocabulary", "front": "actual (false friend)" }
+      "explanation": "'Actual' en inglés = real, verdadero. 'The actual cost was $500' = El costo REAL fue $500. Para decir 'actual' en español (presente, corriente), se dice 'current': 'the current situation'."
     },
     {
       "front": "embarrassed",
       "back": "avergonzado (NO 'embarazada')",
       "reading": "/ɪmˈbærəst/",
-      "explanation": "'Embarrassed' = avergonzado/a. 'I was embarrassed' = Estaba avergonzado. Para 'embarazada' se dice 'pregnant'. ¡Confundir esto puede ser MUY incómodo!",
-      "cardRef": { "category": "vocabulary", "front": "embarrassed (false friend)" }
+      "explanation": "'Embarrassed' = avergonzado/a. 'I was embarrassed' = Estaba avergonzado. Para 'embarazada' se dice 'pregnant'. ¡Confundir esto puede ser MUY incómodo!"
     },
     {
       "front": "exit",
       "back": "salida (NO 'éxito')",
       "reading": "/ˈɛɡzɪt/",
-      "explanation": "'Exit' = salida (de un edificio, autopista). Para 'éxito' se dice 'success': 'The project was a success'.",
-      "cardRef": { "category": "vocabulary", "front": "exit (false friend)" }
+      "explanation": "'Exit' = salida (de un edificio, autopista). Para 'éxito' se dice 'success': 'The project was a success'."
     },
     {
       "front": "sensible",
       "back": "sensato, razonable (NO 'sensible')",
       "reading": "/ˈsɛnsəbəl/",
-      "explanation": "'Sensible' en inglés = sensato, prudente. 'A sensible decision' = Una decisión sensata. Para 'sensible' (que siente mucho) se dice 'sensitive': 'She's very sensitive'.",
-      "cardRef": { "category": "vocabulary", "front": "sensible (false friend)" }
+      "explanation": "'Sensible' en inglés = sensato, prudente. 'A sensible decision' = Una decisión sensata. Para 'sensible' (que siente mucho) se dice 'sensitive': 'She's very sensitive'."
     },
     {
       "front": "library",
       "back": "biblioteca (NO 'librería')",
       "reading": "/ˈlaɪbreri/",
-      "explanation": "'Library' = biblioteca (donde se prestan libros). Para 'librería' (donde se venden libros) se dice 'bookstore' o 'bookshop'.",
-      "cardRef": { "category": "vocabulary", "front": "library (false friend)" }
+      "explanation": "'Library' = biblioteca (donde se prestan libros). Para 'librería' (donde se venden libros) se dice 'bookstore' o 'bookshop'."
     },
     {
       "front": "fabric",
       "back": "tela, tejido (NO 'fábrica')",
       "reading": "/ˈfæbrɪk/",
-      "explanation": "'Fabric' = tela, tejido. 'Cotton fabric' = tela de algodón. Para 'fábrica' se dice 'factory'.",
-      "cardRef": { "category": "vocabulary", "front": "fabric (false friend)" }
+      "explanation": "'Fabric' = tela, tejido. 'Cotton fabric' = tela de algodón. Para 'fábrica' se dice 'factory'."
     },
     {
       "front": "carpet",
       "back": "alfombra (NO 'carpeta')",
       "reading": "/ˈkɑːrpɪt/",
-      "explanation": "'Carpet' = alfombra. Para 'carpeta' (de documentos) se dice 'folder'.",
-      "cardRef": { "category": "vocabulary", "front": "carpet (false friend)" }
+      "explanation": "'Carpet' = alfombra. Para 'carpeta' (de documentos) se dice 'folder'."
     },
     {
       "front": "attend",
       "back": "asistir, ir a (NO 'atender')",
       "reading": "/əˈtɛnd/",
-      "explanation": "'Attend' = asistir a, ir a un evento. 'I attended the meeting' = Asistí a la reunión. Para 'atender' (a un cliente) se dice 'serve' o 'help': 'Can I help you?'.",
-      "cardRef": { "category": "vocabulary", "front": "attend (false friend)" }
+      "explanation": "'Attend' = asistir a, ir a un evento. 'I attended the meeting' = Asistí a la reunión. Para 'atender' (a un cliente) se dice 'serve' o 'help': 'Can I help you?'."
     },
     {
       "front": "realize",
       "back": "darse cuenta (NO 'realizar')",
       "reading": "/ˈriːəlaɪz/",
-      "explanation": "'Realize' = darse cuenta. 'I realized my mistake' = Me di cuenta de mi error. Para 'realizar' (llevar a cabo) se dice 'carry out' o 'accomplish'.",
-      "cardRef": { "category": "vocabulary", "front": "realize (false friend)" }
+      "explanation": "'Realize' = darse cuenta. 'I realized my mistake' = Me di cuenta de mi error. Para 'realizar' (llevar a cabo) se dice 'carry out' o 'accomplish'."
     },
     {
       "front": "large",
       "back": "grande (NO 'largo')",
       "reading": "/lɑːrdʒ/",
-      "explanation": "'Large' = grande (tamaño). 'A large pizza' = Una pizza grande. Para 'largo' se dice 'long': 'a long road' = un camino largo.",
-      "cardRef": { "category": "vocabulary", "front": "large (false friend)" }
+      "explanation": "'Large' = grande (tamaño). 'A large pizza' = Una pizza grande. Para 'largo' se dice 'long': 'a long road' = un camino largo."
     }
   ],
   "steps": [
@@ -81,31 +71,125 @@
       "type": "introduce",
       "title": "¿Qué son los False Friends?",
       "instruction": "Los 'false friends' (falsos amigos) son palabras que se escriben parecido en español e inglés pero significan cosas DISTINTAS. Hay más de 970 documentados. Estos 10 son los más peligrosos porque son muy comunes y los errores pueden ser vergonzosos (especialmente 'embarrassed' ≠ 'embarazada').",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "introduce",
       "title": "5 falsos amigos más",
       "instruction": "Seguimos con más falsos amigos. Recordá: si una palabra en inglés se 'parece' a una en español, desconfiá y verificá.",
-      "itemIndices": [5, 6, 7, 8, 9]
+      "itemIndices": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
     },
     {
       "type": "recognize",
       "title": "¿Qué significa realmente?",
       "instruction": "Elegí el significado REAL en inglés, no lo que parece por el español.",
-      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
     },
     {
       "type": "recall",
       "title": "¿Cómo se dice en inglés?",
       "instruction": "Ves el significado. Escribí la palabra correcta en inglés (no el falso amigo).",
-      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "type": "error-correction",
+      "title": "Falsos amigos en acción",
+      "instruction": "Estas oraciones tienen errores causados por falsos amigos. Identificá si están correctas o no.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "She is embarrassed because she is pregnant.",
+            "isCorrect": true,
+            "explanation": "Correcta, aunque suena rara por las palabras. 'Embarrassed' = avergonzada; 'pregnant' = embarazada. La oración dice que ella está avergonzada porque está embarazada — gramaticalmente correcto.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "I went to the library to buy a new book.",
+            "isCorrect": false,
+            "correction": "I went to the bookstore to buy a new book.",
+            "explanation": "'Library' = biblioteca (préstamo de libros, gratis). Para comprar libros → 'bookstore' o 'bookshop'. Este es un error clásico de hispanohablantes que confunden 'library' con 'librería'.",
+            "errorType": "false-friend"
+          },
+          {
+            "sentence": "The actual cost of the project was much higher.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Actual' en inglés = real, verdadero. 'The actual cost' = el costo real. No significa 'actual' (presente) en español.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "She is very sensible — she cries when she hears music.",
+            "isCorrect": false,
+            "correction": "She is very sensitive — she cries when she hears music.",
+            "explanation": "'Sensible' en inglés = sensato, prudente (NOT 'sensible'). Para 'sensible' (que se emociona fácilmente) → 'sensitive'. 'Sensible people make good decisions' = Las personas sensatas toman buenas decisiones.",
+            "errorType": "false-friend"
+          },
+          {
+            "sentence": "I attended the conference in Berlin last year.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Attended' = asistió a. 'Attend' = asistir a, ir a un evento. No significa 'atender' a alguien (eso sería 'serve' o 'help').",
+            "errorType": "none"
+          },
+          {
+            "sentence": "The exit of the project was excellent.",
+            "isCorrect": false,
+            "correction": "The success of the project was excellent.",
+            "explanation": "'Exit' = salida (puerta, autopista). 'Éxito' en español = 'success' en inglés. 'The project was a success' = El proyecto fue un éxito.",
+            "errorType": "false-friend"
+          }
+        ]
+      }
     },
     {
       "type": "summary",
       "title": "¡Lección completa!",
       "instruction": "Resumen de los 10 false friends más comunes: actual=real, embarrassed=avergonzado, exit=salida, sensible=sensato, library=biblioteca, fabric=tela, carpet=alfombra, attend=asistir, realize=darse cuenta, large=grande. Regla: si se parece al español, ¡verificá antes de usar!",
-      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
     }
   ]
 }

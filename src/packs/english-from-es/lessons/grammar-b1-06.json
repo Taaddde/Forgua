@@ -1,0 +1,218 @@
+{
+  "id": "grammar-b1-06",
+  "title": "Second Conditional: If I Had..., I Would...",
+  "description": "Para situaciones imaginarias o improbables: 'If I had more time, I would learn Japanese.' El condicional de los sueños y las hipótesis.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "If I had more time, I would learn Japanese.",
+      "back": "Si tuviera más tiempo, aprendería japonés.",
+      "reading": "/ɪf aɪ hæd mɔːr taɪm aɪ wʊd lɜːrn dʒæpəˈniːz/",
+      "explanation": "Segundo condicional: IF + past simple, WOULD + infinitivo. Para situaciones imaginarias o muy improbables en el presente/futuro. La cláusula IF usa pasado simple, pero NO es el pasado real — es un presente irreal. Error clásico: 'If I would have time' → INCORRECTO. 'If I had time' → CORRECTO.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Second Conditional (If + past simple, would + infinitive)"
+      }
+    },
+    {
+      "front": "If she lived in Spain, she would speak Spanish fluently.",
+      "back": "Si ella viviera en España, hablaría español con fluidez.",
+      "reading": "/ɪf ʃiː lɪvd ɪn speɪn ʃiː wʊd spiːk ˈspænɪʃ ˈfluːəntli/",
+      "explanation": "El segundo condicional habla de algo que NO es verdad ahora. Ella NO vive en España. Es una hipótesis. La comas después de la cláusula IF son opcionales pero comunes cuando IF va primero."
+    },
+    {
+      "front": "What would you do if you won the lottery?",
+      "back": "¿Qué harías si ganaras la lotería?",
+      "reading": "/wʌt wʊd juː duː ɪf juː wʌn ðə ˈlɑːtəri/",
+      "explanation": "La pregunta también usa el mismo patrón: 'What would you do if...?' Cuando la cláusula IF va al final, no hay coma. Con 'to be': la forma formal correcta es 'were' para todas las personas ('If I were you...' — no 'If I was you' en inglés formal). En el habla cotidiana 'was' es común."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Segundo condicional: situaciones hipotéticas",
+      "instruction": "IF + past simple, WOULD + infinitivo. Para hablar de situaciones que NO son reales ahora, o que son muy improbables. El pasado simple en la cláusula IF no es tiempo pasado real — es un 'pasado irreal' que indica hipótesis.",
+      "itemIndices": [
+        0,
+        1
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Preguntas y 'If I were you...'",
+      "instruction": "Preguntas: 'What would you do if...?' El orden de la cláusula puede variar. 'If I were you' es la forma estándar para dar consejos en inglés.",
+      "itemIndices": [
+        2
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué forma es correcta?",
+      "instruction": "Elegí la forma correcta del segundo condicional.",
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá oraciones del segundo condicional",
+      "instruction": "Ordená los fragmentos para formar oraciones correctas.",
+      "itemIndices": [
+        0,
+        1
+      ],
+      "config": {
+        "sentences": [
+          {
+            "translation": "Si tuviera un auto, manejaría al trabajo.",
+            "fragments": [
+              "If I had a car,",
+              "I would drive",
+              "to work."
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2
+            ]
+          },
+          {
+            "translation": "¿Dónde vivirías si pudieras vivir en cualquier lugar del mundo?",
+            "fragments": [
+              "Where would you live",
+              "if you could live",
+              "anywhere in the world?"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá el segundo condicional",
+      "instruction": "Elegí las formas correctas para el IF y el resultado.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "If he {0} harder, he {1} the exam.",
+            "blanks": [
+              {
+                "answer": "studied",
+                "options": [
+                  "studied",
+                  "studies",
+                  "would study"
+                ]
+              },
+              {
+                "answer": "would pass",
+                "options": [
+                  "would pass",
+                  "passed",
+                  "will pass"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "I {0} you if I {1} your number.",
+            "blanks": [
+              {
+                "answer": "would call",
+                "options": [
+                  "would call",
+                  "called",
+                  "will call"
+                ]
+              },
+              {
+                "answer": "knew",
+                "options": [
+                  "knew",
+                  "know",
+                  "would know"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "If I {0} you, I {1} a doctor.",
+            "blanks": [
+              {
+                "answer": "were",
+                "options": [
+                  "were",
+                  "am",
+                  "would be"
+                ]
+              },
+              {
+                "answer": "would see",
+                "options": [
+                  "would see",
+                  "saw",
+                  "see"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Encontrá el error más común: usar 'would' en la cláusula IF.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "If I would have more money, I would travel more.",
+            "isCorrect": false,
+            "correction": "If I had more money, I would travel more.",
+            "explanation": "INCORRECTO. El error más común del segundo condicional: usar 'would' en la cláusula IF. La cláusula IF usa PASADO SIMPLE (had, lived, knew), NO 'would'. Solo el resultado usa 'would'.",
+            "errorType": "second-conditional"
+          },
+          {
+            "sentence": "She would tell you if she knew the answer.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Would + verb' en el resultado, 'past simple (knew)' en la cláusula IF. Estructura perfecta del segundo condicional.",
+            "errorType": "second-conditional"
+          },
+          {
+            "sentence": "If it stopped raining, we could go for a walk.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Could' también puede usarse en el resultado (no solo 'would'). 'Could go' = tendríamos la posibilidad de ir.",
+            "errorType": "second-conditional"
+          },
+          {
+            "sentence": "If I won the lottery, I will buy a house.",
+            "isCorrect": false,
+            "correction": "If I won the lottery, I would buy a house.",
+            "explanation": "INCORRECTO. En el segundo condicional, el resultado usa WOULD (o could/might), no WILL. 'Will' es para el primer condicional (situaciones reales y posibles).",
+            "errorType": "will-vs-would"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Segundo condicional = IF + past simple, WOULD + infinitivo. Para hipótesis y situaciones imaginarias del presente/futuro. NUNCA uses 'would' en la cláusula IF. Con 'to be', la forma formal es 'were' (If I were you). Diferencia: First conditional (If it rains, I WILL take an umbrella — posible) vs Second conditional (If it snowed in summer, I WOULD go skiing — hipotético).",
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
+    }
+  ]
+}

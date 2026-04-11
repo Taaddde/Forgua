@@ -1,0 +1,106 @@
+{
+  "id": "reading-c1-04",
+  "title": "Reading: Digital Privacy in the Age of Surveillance",
+  "description": "Privacidad digital, GDPR, Snowden y el 'chilling effect'. Comprensión de texto argumentativo sobre derechos civiles y tecnología.",
+  "level": "c1",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "chilling effect",
+      "back": "when people self-censor and avoid dissent because they know or suspect they are being watched",
+      "reading": "",
+      "explanation": "The 'chilling effect' is when surveillance (or just the knowledge of it) causes people to avoid perfectly legal speech, association, or thought. If you know your emails are read, you might avoid discussing sensitive topics — even legitimate ones. This is the argument that mass surveillance damages democracy beyond just catching criminals."
+    },
+    {
+      "front": "watershed moment",
+      "back": "a turning point — an event that marks a clear before/after in a situation",
+      "reading": "",
+      "explanation": "From the geographical sense: a watershed (divisoria de aguas) divides water flowing to different rivers. Metaphorically: an event that divides history into before and after. 'The Snowden revelations marked a watershed moment in the debate on digital privacy.' Similar: 'turning point', 'landmark moment', 'game-changer'."
+    },
+    {
+      "front": "data minimization",
+      "back": "the GDPR principle of collecting only the data strictly necessary for a stated purpose",
+      "reading": "",
+      "explanation": "One of the GDPR's core principles: companies should not collect data 'just in case' — only what they actually need for specific, stated purposes. This is in direct tension with Silicon Valley's default: collect everything, monetize it later. 'Data minimization' is a C1 term in discussions of tech regulation and privacy law."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Privacidad digital — conceptos clave",
+      "instruction": "Este texto toca uno de los grandes debates del siglo XXI: privacidad vs seguridad vs comercio en la era digital. Los tres conceptos que introducimos son centrales para seguir la argumentación.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Digital Privacy — Comprensión",
+      "instruction": "Leé el texto completo. Prestá atención a cómo el autor presenta múltiples posiciones sobre privacidad y la tensión entre ellas.",
+      "itemIndices": [],
+      "config": {
+        "passage": {
+          "id": "c1-reading-digital-privacy",
+          "title": "Digital Privacy in the Age of Surveillance",
+          "level": "c1",
+          "text": "The revelations made by Edward Snowden in 2013, which exposed the unprecedented scope of government surveillance programs operated by the United States National Security Agency and its allies, marked a watershed moment in the public discourse on digital privacy. For the first time, ordinary citizens were confronted with concrete evidence that their emails, phone calls, browsing histories, and social media interactions were being systematically collected and analyzed, not because they were suspected of any wrongdoing, but simply because the technological capacity to do so existed.\n\nIn the decade since, the surveillance landscape has grown considerably more complex. Governments remain significant actors, but they have been joined — and in many respects surpassed — by private corporations whose business models depend on the extraction and monetization of personal data. Google processes over 8.5 billion searches per day, each one generating data about the searcher's interests, concerns, and intentions. Facebook's advertising platform allows marketers to target individuals based on an extraordinarily granular profile that includes not only stated preferences but inferred psychological traits. Amazon's voice assistant Alexa listens continuously in millions of homes, ostensibly waiting for a wake word but inevitably capturing fragments of private conversation.\n\nThe legal frameworks governing digital privacy vary dramatically across jurisdictions and remain perpetually outpaced by technological development. The European Union's General Data Protection Regulation, enacted in 2018, represents the most ambitious attempt to date to establish comprehensive data protection standards. It enshrines principles such as data minimization (collecting only the data strictly necessary for a stated purpose), the right to be forgotten (allowing individuals to request deletion of their personal data), and mandatory breach notification. Yet even the GDPR has struggled with enforcement, and critics argue that its consent-based framework is fundamentally flawed: users who must agree to extensive terms of service to access essential digital tools are not making genuinely free choices.\n\nThe philosophical dimensions of the privacy debate are equally complex. Defenders of extensive surveillance, both governmental and corporate, frequently invoke the argument that those with 'nothing to hide' have nothing to fear. This framing, however, profoundly misunderstands the nature and value of privacy. As legal scholar Daniel Solove has argued, privacy is not about concealing wrongdoing; it is about maintaining the conditions necessary for human dignity, autonomy, and democratic participation. A society in which every action is observed and recorded is one in which individuals inevitably engage in self-censorship, avoid dissent, and conform to perceived expectations — a phenomenon that scholars call the 'chilling effect.'\n\nThe tension between privacy and security is genuine and unlikely to be resolved through any single policy intervention. Encryption technologies that protect individual privacy also shield criminal communications. Data collection that enables targeted surveillance of terrorist networks also enables mass surveillance of innocent populations. The challenge for democratic societies is to develop regulatory frameworks sophisticated enough to navigate these trade-offs without capitulating entirely to either the security state or the unregulated market.\n\nWhat is clear is that privacy, far from being an outdated concern in the digital age, is one of the defining civil liberties challenges of the twenty-first century. The decisions made in the coming years about how to balance the competing claims of security, commerce, and individual rights will fundamentally shape the character of democratic governance for generations.",
+          "vocabulary": ["surveillance - vigilancia", "watershed - momento decisivo", "monetization - monetización", "granular - detallado/granular", "ostensibly - ostensiblemente", "jurisdictions - jurisdicciones", "enshrines - consagra", "breach - violación/brecha", "autonomy - autonomía", "self-censorship - autocensura", "encryption - encriptación", "capitulating - capitular"],
+          "questions": [
+            {
+              "question": "According to the text, why is the GDPR's consent-based framework criticized?",
+              "options": ["It is too complicated for companies to implement.", "Users who must agree to terms to access essential tools are not making genuinely free choices.", "It only applies to European companies.", "It does not require breach notification."],
+              "correctIndex": 1,
+              "explanation": "Critics argue the framework is 'fundamentally flawed: users who must agree to extensive terms of service to access essential digital tools are not making genuinely free choices.' The consent is technically there but not meaningful — coerced by necessity."
+            },
+            {
+              "question": "What does Daniel Solove argue about the nature of privacy?",
+              "options": ["Privacy is only important for people who have something to hide.", "Privacy is an outdated concept in the digital age.", "Privacy is about maintaining conditions for human dignity, autonomy, and democratic participation.", "Privacy should be sacrificed for national security."],
+              "correctIndex": 2,
+              "explanation": "Solove's argument counters the 'nothing to hide' framing: 'privacy is not about concealing wrongdoing; it is about maintaining the conditions necessary for human dignity, autonomy, and democratic participation.'"
+            },
+            {
+              "question": "What does the 'chilling effect' refer to in the context of the text?",
+              "options": ["The economic slowdown caused by privacy regulations.", "People self-censoring and avoiding dissent because they know they are being watched.", "The cooling of diplomatic relations over surveillance disputes.", "The technical process of data encryption."],
+              "correctIndex": 1,
+              "explanation": "The text describes the chilling effect as when 'individuals inevitably engage in self-censorship, avoid dissent, and conform to perceived expectations' in a society where every action is observed."
+            },
+            {
+              "question": "What does the author imply about the relationship between privacy and security?",
+              "options": ["Privacy and security are completely compatible goals.", "Security is more important than privacy in the modern world.", "The tension between them is real and genuine — each measure to protect privacy can also protect criminals, and each surveillance power can be abused.", "Privacy and security are the same thing."],
+              "correctIndex": 2,
+              "explanation": "The author presents genuine tension: 'Encryption technologies that protect individual privacy also shield criminal communications. Data collection that enables targeted surveillance of terrorist networks also enables mass surveillance.' Neither side is simply right."
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Vocabulario del texto en uso",
+      "instruction": "Completá con el término del texto que corresponde al contexto.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "The legislation {0} the right to privacy as a fundamental value, establishing strict rules on data {1}.",
+            "blanks": [
+              { "answer": "enshrines", "options": ["enshrines", "discredits", "minimizes", "breaches"] },
+              { "answer": "minimization", "options": ["minimization", "collection", "breach", "encryption"] }
+            ]
+          },
+          {
+            "template": "Researchers warned that mass surveillance could create a {0} where citizens become reluctant to express legitimate political {1} out of fear of being monitored.",
+            "blanks": [
+              { "answer": "chilling effect", "options": ["chilling effect", "watershed moment", "data breach", "granular profile"] },
+              { "answer": "dissent", "options": ["dissent", "consent", "encryption", "monetization"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completada!",
+      "instruction": "El texto cubre: Snowden como watershed moment → el rol de las corporaciones privadas → GDPR y sus limitaciones → el 'nothing to hide' argument vs Solove → el chilling effect → la genuina tensión privacidad/seguridad. Vocabulario clave: watershed, enshrines, ostensibly, granular, chilling effect. Los 3 ítems están en tu SRS.",
+      "itemIndices": [0, 1, 2]
+    }
+  ]
+}

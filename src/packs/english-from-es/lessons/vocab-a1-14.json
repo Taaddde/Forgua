@@ -1,0 +1,140 @@
+{
+  "id": "vocab-a1-14",
+  "title": "Action Verbs : Verbos de acción cotidianos",
+  "description": "Ocho verbos de acción esenciales: work, live, know, give, take, make, say, think. Con estos podés hablar de tu rutina y de tus opiniones.",
+  "level": "a1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "work",
+      "back": "trabajar",
+      "reading": "/wɜːrk/",
+      "explanation": "Trabajar. Regular: worked, worked. 'Work AT' + lugar específico ('I work at Google'), 'work FOR' + empresa/jefe ('I work for Apple'), 'work IN' + área ('I work in marketing'). También sustantivo: 'go to work' = ir al trabajo.",
+      "cardRef": { "category": "vocabulary", "front": "work" }
+    },
+    {
+      "front": "live",
+      "back": "vivir",
+      "reading": "/lɪv/",
+      "explanation": "Vivir. Regular: lived, lived. 'Live IN' + ciudad/país ('I live in Madrid'), 'live AT' + dirección exacta ('I live at 123 Main Street'), 'live WITH' + persona. ¡OJO! El verbo /lɪv/ suena diferente al adjetivo 'live' /laɪv/ (en vivo).",
+      "cardRef": { "category": "vocabulary", "front": "live" }
+    },
+    {
+      "front": "know",
+      "back": "saber / conocer",
+      "reading": "/noʊ/",
+      "explanation": "Saber Y conocer — inglés no distingue. Irregular: knew, known. La 'k' inicial es MUDA /noʊ/. Homófono de 'no'. 'I know him' = lo conozco, 'I know the answer' = sé la respuesta.",
+      "cardRef": { "category": "vocabulary", "front": "know" }
+    },
+    {
+      "front": "give",
+      "back": "dar",
+      "reading": "/ɡɪv/",
+      "explanation": "Dar. Irregular: gave, given. Estructura doble objeto: 'give + persona + cosa' ('give me the book') o 'give + cosa + to + persona' ('give the book to me'). Ambas correctas.",
+      "cardRef": { "category": "vocabulary", "front": "give" }
+    },
+    {
+      "front": "take",
+      "back": "tomar / llevar",
+      "reading": "/teɪk/",
+      "explanation": "Tomar, llevar, agarrar. Irregular: took, taken. MUY versátil: 'take a taxi' (tomar un taxi), 'take a photo' (sacar una foto), 'take a shower' (ducharse), 'take time' (tomar tiempo). Opuesto de 'give'.",
+      "cardRef": { "category": "vocabulary", "front": "take" }
+    },
+    {
+      "front": "make",
+      "back": "hacer / fabricar",
+      "reading": "/meɪk/",
+      "explanation": "Hacer (crear, fabricar). Irregular: made, made. Diferencia con 'do': 'make' es para CREAR algo ('make a cake', 'make a decision'); 'do' es para REALIZAR actividades ('do homework', 'do exercise'). Error clásico: 'do a mistake' — es 'MAKE a mistake'.",
+      "cardRef": { "category": "vocabulary", "front": "make" }
+    },
+    {
+      "front": "say",
+      "back": "decir",
+      "reading": "/seɪ/",
+      "explanation": "Decir. Irregular: said /sɛd/ (¡ojo! el pasado suena 'sed', no 'seid'). Diferencia con 'tell': 'say' se enfoca en las palabras dichas, 'tell' en la persona a quien le hablás. 'Say something', 'tell me something'.",
+      "cardRef": { "category": "vocabulary", "front": "say" }
+    },
+    {
+      "front": "think",
+      "back": "pensar / creer",
+      "reading": "/θɪŋk/",
+      "explanation": "Pensar, creer. Irregular: thought /θɔːt/, thought. Empieza con el sonido /θ/ (sordo, sin vibración), lengua entre los dientes. 'I think so' = creo que sí. 'Think about' = pensar en/sobre algo.",
+      "cardRef": { "category": "vocabulary", "front": "think" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "8 verbos de acción cotidianos",
+      "instruction": "Todos son verbos muy frecuentes. Casi todos son IRREGULARES (solo work y live son regulares). Pasados irregulares clave: know→knew, give→gave, take→took, make→made, say→said, think→thought.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto de cada verbo.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "listen-identify",
+      "title": "Escuchá y elegí",
+      "instruction": "Escuchá y elegí. Atención especial a 'know' — la 'k' es muda, suena igual que 'no'.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Escribí el verbo en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Dónde se usa bien?",
+      "instruction": "Elegí la oración donde el verbo está usado con el significado y la estructura correctos.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "make",
+            "translation": "hacer (crear, fabricar)",
+            "options": [
+              "I do a mistake sometimes.",
+              "She makes a cake every Sunday.",
+              "He make his homework now.",
+              "I make exercise at the gym."
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "live",
+            "translation": "vivir",
+            "options": [
+              "I live at Buenos Aires.",
+              "She lives in a small house.",
+              "They live on Argentina.",
+              "He live with his brother."
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "think",
+            "translation": "pensar / creer",
+            "options": [
+              "I think so.",
+              "I think in you every day.",
+              "She thinks that is correct.",
+              "He think about his job."
+            ],
+            "correctIndex": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste 8 verbos de acción. Reglas clave: 'make' = crear algo nuevo, 'do' = realizar actividades (make a cake, do homework); 'live IN' + ciudad, 'work AT/FOR' + lugar/empresa; 'know' la 'k' es muda; 'say' el pasado 'said' suena /sɛd/. Casi todos irregulares — memorizá los pasados desde ya.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

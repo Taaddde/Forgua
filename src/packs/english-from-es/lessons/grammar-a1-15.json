@@ -10,35 +10,34 @@
       "back": "Estoy trabajando. Ella está leyendo. Ellos están jugando.",
       "reading": "/aɪ æm ˈwɜːrkɪŋ/ /ʃiː ɪz ˈriːdɪŋ/ /ðeɪ ɑːr ˈpleɪɪŋ/",
       "explanation": "Estructura: sujeto + am/is/are + verbo-ing. 'Am' con I, 'is' con he/she/it, 'are' con you/we/they. Se forma igual que en español (estar + gerundio): 'Estoy trabajando' = 'I am working'. Es uno de los tiempos más fáciles para hispanohablantes.",
-      "cardRef": { "category": "grammar", "front": "present continuous structure" }
+      "cardRef": {
+        "category": "grammar",
+        "front": "Present Continuous (Subject + am/is/are + verb-ing)"
+      }
     },
     {
       "front": "I'm not working. / She isn't reading. / Are they playing?",
       "back": "No estoy trabajando. / Ella no está leyendo. / ¿Están jugando?",
       "reading": "/aɪm nɑːt ˈwɜːrkɪŋ/ /ʃiː ˈɪzənt ˈriːdɪŋ/ /ɑːr ðeɪ ˈpleɪɪŋ/",
-      "explanation": "Negativo: sujeto + am/is/are + not + verb-ing. Preguntas: Am/Is/Are + sujeto + verb-ing? No necesitás 'do/does' como en Present Simple. Contracciones: isn't, aren't, 'm not.",
-      "cardRef": { "category": "grammar", "front": "present continuous negative/questions" }
+      "explanation": "Negativo: sujeto + am/is/are + not + verb-ing. Preguntas: Am/Is/Are + sujeto + verb-ing? No necesitás 'do/does' como en Present Simple. Contracciones: isn't, aren't, 'm not."
     },
     {
       "front": "NOW: I am eating lunch. (right now, at this moment)",
       "back": "AHORA: Estoy almorzando. (ahora mismo, en este momento)",
       "reading": "/aɪ æm ˈiːtɪŋ lʌntʃ/",
-      "explanation": "Uso principal: acciones que pasan AHORA MISMO, en este momento. Marcadores: now, right now, at the moment, currently. CONTRASTE con Present Simple: 'I eat lunch at 12' (hábito) vs 'I am eating lunch now' (este momento exacto).",
-      "cardRef": { "category": "grammar", "front": "present continuous for now" }
+      "explanation": "Uso principal: acciones que pasan AHORA MISMO, en este momento. Marcadores: now, right now, at the moment, currently. CONTRASTE con Present Simple: 'I eat lunch at 12' (hábito) vs 'I am eating lunch now' (este momento exacto)."
     },
     {
       "front": "Spelling: write → writing, run → running, die → dying",
       "back": "Ortografía: write → writing, run → running, die → dying",
       "reading": "/ˈraɪtɪŋ/ /ˈrʌnɪŋ/ /ˈdaɪɪŋ/",
-      "explanation": "Reglas de -ing: (1) -e muda se elimina: write→writing, make→making. (2) Consonante final tras vocal corta acentuada se duplica: run→running, sit→sitting, swim→swimming. (3) -ie cambia a -y: die→dying, lie→lying. (4) Caso normal: play→playing, read→reading.",
-      "cardRef": { "category": "grammar", "front": "spelling rules -ing" }
+      "explanation": "Reglas de -ing: (1) -e muda se elimina: write→writing, make→making. (2) Consonante final tras vocal corta acentuada se duplica: run→running, sit→sitting, swim→swimming. (3) -ie cambia a -y: die→dying, lie→lying. (4) Caso normal: play→playing, read→reading."
     },
     {
       "front": "STATIVE verbs: I know ✓ / I am knowing ✗ — I want ✓ / I am wanting ✗",
       "back": "Verbos de estado: I know ✓ / I am knowing ✗ — I want ✓ / I am wanting ✗",
       "reading": "/aɪ noʊ/ /aɪ wɑːnt/",
-      "explanation": "EXCEPCIÓN IMPORTANTE: algunos verbos NUNCA usan Present Continuous porque describen estados, no acciones. Los más comunes: know (saber), want (querer), like (gustar), love (amar), need (necesitar), understand (entender), believe (creer), prefer (preferir). 'I know the answer' ✓ (no 'I am knowing'). En español sí decimos 'estoy queriendo' coloquialmente, pero en inglés es incorrecto.",
-      "cardRef": { "category": "grammar", "front": "stative verbs (no continuous)" }
+      "explanation": "EXCEPCIÓN IMPORTANTE: algunos verbos NUNCA usan Present Continuous porque describen estados, no acciones. Los más comunes: know (saber), want (querer), like (gustar), love (amar), need (necesitar), understand (entender), believe (creer), prefer (preferir). 'I know the answer' ✓ (no 'I am knowing'). En español sí decimos 'estoy queriendo' coloquialmente, pero en inglés es incorrecto."
     }
   ],
   "steps": [
@@ -46,31 +45,52 @@
       "type": "introduce",
       "title": "am/is/are + -ing: lo que pasa AHORA",
       "instruction": "El Present Continuous es igual al español 'estar + gerundio': 'I am working' = 'Estoy trabajando'. Usá 'am' con I, 'is' con he/she/it, 'are' con you/we/they. Es para lo que pasa en ESTE MOMENTO, no para hábitos (eso es Present Simple).",
-      "itemIndices": [0, 1, 2]
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
     },
     {
       "type": "introduce",
       "title": "Cómo formar el -ing y los verbos prohibidos",
       "instruction": "Reglas para agregar -ing: eliminá la -e muda (write→writing), duplicá la consonante final tras vocal corta (run→running). Y MUY IMPORTANTE: hay verbos que NO pueden usar -ing: know, want, like, love, need. 'I know' ✓, 'I am knowing' ✗.",
-      "itemIndices": [3, 4]
+      "itemIndices": [
+        3,
+        4
+      ]
     },
     {
       "type": "recognize",
       "title": "¿Present Simple o Present Continuous?",
       "instruction": "Elegí el tiempo verbal correcto según el contexto. Fijate si la oración habla de un hábito (Simple) o de algo que pasa ahora (Continuous).",
-      "itemIndices": [0, 2, 4]
+      "itemIndices": [
+        0,
+        2,
+        4
+      ]
     },
     {
       "type": "recall",
       "title": "Formá el Present Continuous",
       "instruction": "Ves el verbo en infinitivo. Escribí la forma correcta en Present Continuous con el sujeto indicado.",
-      "itemIndices": [0, 1, 3]
+      "itemIndices": [
+        0,
+        1,
+        3
+      ]
     },
     {
       "type": "summary",
       "title": "¡Lección completa!",
       "instruction": "Resumen: Present Continuous = am/is/are + verb-ing. Uso: lo que pasa AHORA MISMO. Negativo: am/is/are + not + verb-ing. Preguntas: Am/Is/Are + sujeto + verb-ing? Ortografía: -e muda se borra, consonante corta se duplica. PROHIBIDO con stative verbs: know, want, like, love, need siempre van en Simple.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     }
   ]
 }

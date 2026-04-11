@@ -9,71 +9,81 @@
       "front": "mother / mom",
       "back": "madre / mamá",
       "reading": "/ˈmʌðər/ · /mɑːm/",
-      "explanation": "'Mother' es formal, 'mom' (EE.UU.) o 'mum' (Reino Unido) es informal. En conversación se usa casi siempre 'mom/mum'. La 'th' de mother es sonora /ð/.",
-      "cardRef": { "category": "vocabulary", "front": "mother / mom" }
+      "explanation": "'Mother' es formal, 'mom' (EE.UU.) o 'mum' (Reino Unido) es informal. En conversación se usa casi siempre 'mom/mum'. La 'th' de mother es sonora /ð/."
     },
     {
       "front": "father / dad",
       "back": "padre / papá",
       "reading": "/ˈfɑːðər/ · /dæd/",
-      "explanation": "'Father' es formal, 'dad' o 'daddy' es informal. En el día a día, casi todos dicen 'dad'. La 'th' de father es sonora /ð/.",
-      "cardRef": { "category": "vocabulary", "front": "father / dad" }
+      "explanation": "'Father' es formal, 'dad' o 'daddy' es informal. En el día a día, casi todos dicen 'dad'. La 'th' de father es sonora /ð/."
     },
     {
       "front": "brother",
       "back": "hermano",
       "reading": "/ˈbrʌðər/",
       "explanation": "Pronunciación: BRU-der (la 'th' suena /ð/, no como 't'). No tiene forma femenina — hermana es 'sister'.",
-      "cardRef": { "category": "vocabulary", "front": "brother" }
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "brother"
+      }
     },
     {
       "front": "sister",
       "back": "hermana",
       "reading": "/ˈsɪstər/",
       "explanation": "Pronunciación: SIS-ter. En inglés no hay género en los adjetivos, pero sí en los sustantivos de familia: brother/sister, son/daughter.",
-      "cardRef": { "category": "vocabulary", "front": "sister" }
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "sister"
+      }
     },
     {
       "front": "son",
       "back": "hijo",
       "reading": "/sʌn/",
       "explanation": "Se pronuncia EXACTAMENTE igual que 'sun' (sol): /sʌn/. Mismo sonido, distinto significado. Contexto es clave.",
-      "cardRef": { "category": "vocabulary", "front": "son" }
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "son"
+      }
     },
     {
       "front": "daughter",
       "back": "hija",
       "reading": "/ˈdɔːtər/",
       "explanation": "Pronunciación difícil: DO-ter. El grupo 'augh' se pronuncia /ɔː/ (como 'or'). La 'gh' es muda. No suena como 'dau-g-ter'.",
-      "cardRef": { "category": "vocabulary", "front": "daughter" }
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "daughter"
+      }
     },
     {
       "front": "husband",
       "back": "esposo / marido",
       "reading": "/ˈhʌzbənd/",
       "explanation": "Pronunciación: HUZ-band. La 's' suena como /z/. Se usa más que 'spouse' (cónyuge), que es muy formal.",
-      "cardRef": { "category": "vocabulary", "front": "husband" }
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "husband"
+      }
     },
     {
       "front": "wife",
       "back": "esposa / mujer",
       "reading": "/waɪf/",
-      "explanation": "Plural irregular: wives /waɪvz/. 'My wife' es lo más natural; evitá decir 'my woman' — suena raro o posesivo en inglés.",
-      "cardRef": { "category": "vocabulary", "front": "wife" }
+      "explanation": "Plural irregular: wives /waɪvz/. 'My wife' es lo más natural; evitá decir 'my woman' — suena raro o posesivo en inglés."
     },
     {
       "front": "grandmother",
       "back": "abuela",
       "reading": "/ˈɡrændˌmʌðər/",
-      "explanation": "Formas informales: grandma, granny, nana. 'Grandma' es la más común en conversación.",
-      "cardRef": { "category": "vocabulary", "front": "grandmother" }
+      "explanation": "Formas informales: grandma, granny, nana. 'Grandma' es la más común en conversación."
     },
     {
       "front": "grandfather",
       "back": "abuelo",
       "reading": "/ˈɡrændˌfɑːðər/",
-      "explanation": "Formas informales: grandpa, grandad, granddad. ¡FALSO AMIGO! 'Parents' = padres (madre y padre). 'Relatives' = parientes (familia extendida). No confundir.",
-      "cardRef": { "category": "vocabulary", "front": "grandfather" }
+      "explanation": "Formas informales: grandpa, grandad, granddad. ¡FALSO AMIGO! 'Parents' = padres (madre y padre). 'Relatives' = parientes (familia extendida). No confundir."
     }
   ],
   "steps": [
@@ -81,31 +91,106 @@
       "type": "introduce",
       "title": "Tu familia en inglés",
       "instruction": "Aprendé los 10 miembros de la familia más importantes. Prestá atención al sonido 'th' /ð/ que aparece en mother, father, brother, grandmother, grandfather. También notá que 'daughter' tiene una pronunciación inesperada — la 'gh' es muda.",
-      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
     },
     {
       "type": "recognize",
       "title": "¿Quién es quién?",
       "instruction": "Elegí el significado correcto de cada miembro de la familia.",
-      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
     },
     {
       "type": "listen-identify",
       "title": "Escuchá y reconocé",
       "instruction": "Escuchá la palabra y elegí qué miembro de la familia es.",
-      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
     },
     {
       "type": "recall",
       "title": "¿Cómo se dice en inglés?",
       "instruction": "Ves el miembro de la familia en español. Escribí la palabra en inglés.",
-      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "image-association",
+      "title": "¿Quién es quién?",
+      "instruction": "Mirá la imagen y elegí la palabra correcta en inglés.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Gatto_europeo4.jpg/320px-Gatto_europeo4.jpg",
+            "imageAlt": "A baby in a crib",
+            "options": ["grandmother", "baby", "son", "daughter"],
+            "correctIndex": 1,
+            "explanation": "'Baby' = bebé. La imagen muestra un bebé pequeño."
+          },
+          {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Silhouette_of_a_family.svg/320px-Silhouette_of_a_family.svg.png",
+            "imageAlt": "Silhouette of a family with two adults and a child",
+            "options": ["family", "school", "team", "company"],
+            "correctIndex": 0,
+            "explanation": "'Family' = familia. La silueta muestra a padres e hijo — una familia típica."
+          }
+        ]
+      }
     },
     {
       "type": "summary",
       "title": "¡Familia completa!",
       "instruction": "Ya podés hablar de tu familia en inglés. Recordá: 'parents' = padres (mom + dad), NO 'parientes' (= relatives). Y 'daughter' se pronuncia DO-ter, no 'dau-g-ter'. Estos sustantivos van a aparecer en tus repasos.",
-      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
     }
   ]
 }

@@ -1,0 +1,112 @@
+{
+  "id": "reading-c1-02",
+  "title": "Reading: Language and Thought (Sapir-Whorf)",
+  "description": "¿El idioma que hablamos moldea cómo pensamos? La hipótesis de Sapir-Whorf: determinismo lingüístico vs relatividad lingüística.",
+  "level": "c1",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "linguistic determinism",
+      "back": "the strong claim that language determines thought — what you cannot name, you cannot think",
+      "reading": "",
+      "explanation": "The strong Sapir-Whorf hypothesis: linguistic categories strictly constrain cognitive categories. If your language has no word for 'regret', you cannot experience regret. This version has been largely discredited — but it remains a useful extreme point for discussion."
+    },
+    {
+      "front": "linguistic relativity",
+      "back": "the weaker claim that language influences (but does not determine) thought and perception",
+      "reading": "",
+      "explanation": "The current scientific consensus: language is a cognitive tool that shapes habitual attention and categorization without imprisoning us. Russian speakers discriminate between blues faster. Mandarin speakers prime vertically for time. Language influences what we habitually think, not what we can think."
+    },
+    {
+      "front": "cognitive tool (language as)",
+      "back": "language as an instrument that shapes habitual patterns of attention, memory, and categorization",
+      "reading": "",
+      "explanation": "The text's final metaphor: language is neither a prison (strong determinism) nor a neutral label-maker (no influence), but a tool that makes certain cognitive operations easier or more habitual. Like a hammer, it shapes what you tend to do — but doesn't prevent you from using other tools."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Conceptos clave: la hipótesis de Sapir-Whorf",
+      "instruction": "Esta lectura presenta un debate real en lingüística cognitiva. Antes de leer, asegurate de entender la distinción entre la versión fuerte (determinismo) y la débil (relatividad). El texto toma posición al final — notá cómo el autor llega a ella.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Language and Thought — Comprensión",
+      "instruction": "Leé y respondé las preguntas. Prestá atención a las afirmaciones del autor versus las afirmaciones que el texto atribuye a otros (Boroditsky, Whorf, los Kuuk Thaayorre).",
+      "itemIndices": [],
+      "config": {
+        "passage": {
+          "id": "c1-reading-sapir-whorf",
+          "title": "Language and Thought: The Sapir-Whorf Hypothesis",
+          "level": "c1",
+          "text": "Few ideas in linguistics have provoked as much debate as the Sapir-Whorf hypothesis, which proposes that the language we speak fundamentally shapes how we perceive and conceptualize the world. Named after linguists Edward Sapir and Benjamin Lee Whorf, the hypothesis exists in two versions: a strong form, known as linguistic determinism, which claims that language determines thought and that linguistic categories constrain cognitive categories; and a weaker form, linguistic relativity, which holds that language influences thought and certain non-linguistic behaviors without strictly determining them.\n\nThe strong version has been largely discredited in modern linguistics. Whorf's famous claim that the Hopi language contains no references to time — and that Hopi speakers therefore experience time differently from English speakers — was based on incomplete fieldwork and has been thoroughly debunked by subsequent researchers who demonstrated that the Hopi language does, in fact, possess extensive temporal vocabulary and grammatical structures.\n\nHowever, the weaker version of the hypothesis has experienced a remarkable renaissance in recent decades, thanks to a new generation of carefully designed experimental studies. Lera Boroditsky, a cognitive scientist at the University of California, San Diego, has conducted several influential experiments demonstrating subtle but measurable effects of language on cognition.\n\nOne of her most cited studies examined how speakers of different languages conceptualize time. English speakers tend to think of time as horizontal, using spatial metaphors like 'looking forward' to the future or 'putting the past behind us.' Mandarin Chinese speakers, by contrast, frequently use vertical metaphors: the past is 'up' and the future is 'down.' Boroditsky found that Mandarin speakers were indeed faster at verifying temporal statements when primed with vertical spatial cues, suggesting that linguistic metaphors create genuine cognitive associations.\n\nOther compelling evidence comes from color perception. The Russian language, unlike English, makes a mandatory distinction between light blue (goluboy) and dark blue (siniy) — these are considered entirely different colors, not shades of the same one. Studies have shown that Russian speakers are significantly faster at discriminating between shades that cross this linguistic boundary than English speakers are. Their language, it appears, has fine-tuned their perceptual system.\n\nPerhaps the most striking findings involve the Kuuk Thaayorre, an Aboriginal Australian community whose language uses cardinal directions (north, south, east, west) instead of egocentric spatial terms (left, right, front, back). Speakers of this language maintain an extraordinarily precise internal compass, always knowing which direction they are facing — an ability that most speakers of European languages lack entirely.\n\nThe current scientific consensus occupies a nuanced middle ground. Language does not imprison us within a particular worldview, as the strong Sapir-Whorf hypothesis suggested. But neither is it a neutral, transparent medium that merely labels pre-existing thoughts. Rather, language serves as a cognitive tool that subtly shapes habitual patterns of attention, memory, and categorization. The language we speak does not determine what we can think, but it does influence what we habitually do think — and that distinction, though subtle, carries profound implications for our understanding of the relationship between mind and culture.",
+          "vocabulary": ["hypothesis - hipótesis", "perceive - percibir", "determinism - determinismo", "constrain - restringir", "discredited - desacreditado", "debunked - desmentido", "renaissance - renacimiento", "cognition - cognición", "spatial - espacial", "discriminating - discriminar", "egocentric - egocéntrico", "habitual - habitual"],
+          "questions": [
+            {
+              "question": "What is the key difference between the strong and weak versions of the Sapir-Whorf hypothesis?",
+              "options": ["The strong version applies only to written language, while the weak version applies to spoken language.", "The strong version claims language determines thought; the weak version claims language influences thought without determining it.", "The strong version was proposed by Sapir and the weak version by Whorf.", "The strong version applies to all languages and the weak version only to endangered ones."],
+              "correctIndex": 1,
+              "explanation": "The text is explicit: strong form 'claims that language determines thought' while the weaker form 'holds that language influences thought and certain non-linguistic behaviors without strictly determining them.'"
+            },
+            {
+              "question": "Why is Whorf's claim about the Hopi language considered discredited?",
+              "options": ["The Hopi people no longer exist.", "Subsequent researchers showed the Hopi language does have extensive temporal vocabulary and grammar, contradicting Whorf's claim.", "The research was conducted in the wrong century.", "Whorf was not a professional linguist."],
+              "correctIndex": 1,
+              "explanation": "The text states his claim 'was based on incomplete fieldwork and has been thoroughly debunked by subsequent researchers who demonstrated that the Hopi language does, in fact, possess extensive temporal vocabulary and grammatical structures.'"
+            },
+            {
+              "question": "What did the Russian color perception study demonstrate?",
+              "options": ["Russian speakers cannot see the color blue.", "Russians prefer lighter shades of blue.", "Russian speakers discriminate between certain blue shades faster because their language has distinct words for them.", "English speakers see more colors than Russian speakers."],
+              "correctIndex": 2,
+              "explanation": "The text states 'Russian speakers are significantly faster at discriminating between shades that cross this linguistic boundary' because Russian treats light blue (goluboy) and dark blue (siniy) as entirely separate colors."
+            },
+            {
+              "question": "What does the final paragraph suggest about the relationship between the strong and weak versions of the hypothesis?",
+              "options": ["The strong version is partially correct and the weak version is irrelevant.", "Both versions are equally wrong.", "The weak version represents the correct middle ground: language influences but does not determine thought.", "Scientists have abandoned both versions entirely."],
+              "correctIndex": 2,
+              "explanation": "The author carefully constructs a 'nuanced middle ground': 'Language does not imprison us' (rejects strong version) 'but neither is it a neutral, transparent medium' (rejects the view of no influence). The conclusion is the weak version: language as 'cognitive tool that subtly shapes habitual patterns.'"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "Afirmaciones sobre el texto: ¿correctas o incorrectas?",
+      "instruction": "¿Estas afirmaciones sobre el argumento del texto son precisas?",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "The text argues that Whorf's research on the Hopi language is still scientifically valid.",
+            "isCorrect": false,
+            "correction": "The text states that Whorf's claims were based on incomplete fieldwork and have been 'thoroughly debunked.'",
+            "explanation": "The text explicitly says the strong version 'has been largely discredited' and Whorf's specific claim 'has been thoroughly debunked by subsequent researchers.' Not valid — contradicted.",
+            "errorType": "reading-comprehension"
+          },
+          {
+            "sentence": "According to the text, the Kuuk Thaayorre's navigational ability likely stems from their language's use of cardinal rather than egocentric spatial terms.",
+            "isCorrect": true,
+            "explanation": "Correct inference. The text presents the Kuuk Thaayorre as evidence for linguistic relativity: 'Speakers of this language maintain an extraordinarily precise internal compass' and their language uses cardinal directions. The implication is causal — the linguistic habit of using cardinal terms cultivates the spatial ability.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "The author believes that language is simply a neutral labelling system for thoughts that exist independently of it.",
+            "isCorrect": false,
+            "correction": "The author explicitly rejects this view: 'neither is it a neutral, transparent medium that merely labels pre-existing thoughts.'",
+            "explanation": "This is the 'no influence' view that the author's conclusion explicitly rejects. The author's position is the middle ground: language as cognitive tool that 'subtly shapes' thought — neither a prison nor a neutral label-maker.",
+            "errorType": "reading-comprehension"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completada!",
+      "instruction": "El texto recorre el debate Sapir-Whorf: determinismo (fuerte, desacreditado) → relatividad (débil, con evidencia). La conclusión: el lenguaje es una herramienta cognitiva que moldea hábitos de atención sin determinar lo que podemos pensar. Vocabulario clave: discredited, debunked, renaissance, nuanced middle ground. Los 3 ítems están en tu SRS.",
+      "itemIndices": [0, 1, 2]
+    }
+  ]
+}

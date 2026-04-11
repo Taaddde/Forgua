@@ -1,0 +1,177 @@
+{
+  "id": "grammar-a2-23",
+  "title": "Must / Mustn't: Obligations and Prohibitions",
+  "description": "'Must' expresa obligación fuerte o necesidad absoluta. 'Mustn't' es prohibición total. Más fuerte que 'should', y NO es lo mismo que 'don't have to' — son dos cosas muy distintas que los hispanohablantes suelen confundir.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Subject + must + base verb",
+      "back": "Sujeto + debe/tiene que + verbo en infinitivo",
+      "reading": "/mʌst/",
+      "explanation": "'Must' expresa obligación fuerte, necesidad o certeza. Estructura: sujeto + must + verbo BASE. Igual para todas las personas (como todos los modales). 'I must finish this today' = 'Debo terminar esto hoy'. A menudo se siente como obligación interna del hablante ('siento que tengo que'). Comparalo con 'have to', que sugiere obligación externa ('las reglas me obligan').",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Must / Mustn't (Subject + must/mustn't + base verb)"
+      }
+    },
+    {
+      "front": "You must wear a seatbelt. / I must remember to call her.",
+      "back": "Debés usar cinturón de seguridad. / Debo acordarme de llamarla.",
+      "reading": "/juː mʌst wɛr ə ˈsiːtbɛlt/ /aɪ mʌst rɪˈmɛmbər tuː kɔːl hɜːr/",
+      "explanation": "Uso: obligaciones fuertes o cosas importantes que no se pueden evitar. En señales y reglas es muy común: 'You must stop' (debés parar), 'Visitors must register' (los visitantes deben registrarse). Para hablar de obligaciones personales: 'I must call my mom tonight' (tengo que llamar a mi mamá esta noche)."
+    },
+    {
+      "front": "You mustn't smoke here. / Children mustn't play with fire.",
+      "back": "No debés fumar acá. / Los chicos no deben jugar con fuego.",
+      "reading": "/juː ˈmʌsənt smoʊk hɪr/ /ˈtʃɪldrən ˈmʌsənt pleɪ wɪð ˈfaɪər/",
+      "explanation": "'Mustn't' = prohibición. ATENCIÓN, la 't' del medio es muda: se pronuncia /ˈmʌsənt/, no /ˈmʌstənt/. Significa que algo está PROHIBIDO, no se permite. 'You mustn't tell anyone' = 'No le digas a nadie (está prohibido)'. Es más fuerte que 'shouldn't' (desaconsejar)."
+    },
+    {
+      "front": "mustn't (prohibido) ≠ don't have to (no es necesario)",
+      "back": "mustn't (prohibido) ≠ don't have to (no es necesario)",
+      "reading": "/ˈmʌsənt/ vs /doʊnt hæv tuː/",
+      "explanation": "¡ERROR CLÁSICO! 'mustn't' y 'don't have to' NO significan lo mismo. 'You mustn't smoke' = está PROHIBIDO fumar. 'You don't have to smoke' = no es necesario/obligatorio fumar (pero podés si querés). La diferencia es enorme. Ejemplo: 'You don't have to come to the party' (no es obligatorio, sos bienvenido si querés) vs 'You mustn't come to the party' (¡prohibido!, no te quiero acá). Los hispanohablantes suelen traducir 'no tenés que' como 'mustn't', lo cual cambia radicalmente el mensaje."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "'Must' para obligaciones fuertes",
+      "instruction": "Estructura: sujeto + must + verbo base. Expresa obligación fuerte, necesidad o cosas importantes. Igual para todas las personas — los modales no cambian. 'I must', 'She must', 'They must'.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "'Mustn't' para prohibiciones",
+      "instruction": "'Mustn't' (/ˈmʌsənt/) = prohibición total. 'You mustn't park here' = está prohibido estacionar acá. Es más fuerte que 'shouldn't'. La 't' del medio no se pronuncia.",
+      "itemIndices": [2]
+    },
+    {
+      "type": "introduce",
+      "title": "'Mustn't' vs 'don't have to': ¡no son iguales!",
+      "instruction": "ALERTA: 'mustn't' (prohibido) ≠ 'don't have to' (no es necesario). Estudiá esta diferencia — es un error que persiste incluso en niveles altos para hispanohablantes.",
+      "itemIndices": [3]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Obligación o prohibición?",
+      "instruction": "Elegí la traducción que refleja el significado real de cada oración.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá: must, mustn't o don't have to",
+      "instruction": "Elegí la forma que da el significado correcto según el contexto.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "You {0} drive faster than 50 km/h in this zone — it's the law.",
+            "blanks": [
+              { "answer": "mustn't", "options": ["mustn't", "must", "don't have to", "should"] }
+            ]
+          },
+          {
+            "template": "You {0} come if you don't want to. It's a casual gathering.",
+            "blanks": [
+              { "answer": "don't have to", "options": ["don't have to", "mustn't", "must", "shouldn't"] }
+            ]
+          },
+          {
+            "template": "I {0} finish this report before 5pm. My boss is waiting for it.",
+            "blanks": [
+              { "answer": "must", "options": ["must", "mustn't", "don't have to", "should"] }
+            ]
+          },
+          {
+            "template": "Passengers {0} use their phones during takeoff — it's forbidden.",
+            "blanks": [
+              { "answer": "mustn't", "options": ["mustn't", "don't have to", "must", "should"] }
+            ]
+          },
+          {
+            "template": "We {0} wear a uniform at this school, but most students do.",
+            "blanks": [
+              { "answer": "don't have to", "options": ["don't have to", "mustn't", "must", "shouldn't"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Mustn't o don't have to?",
+      "instruction": "Decidí si cada oración expresa bien el significado deseado (prohibido vs no necesario).",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "You mustn't worry about the test, it's really easy.",
+            "isCorrect": false,
+            "correction": "You don't have to worry about the test, it's really easy.",
+            "explanation": "'Mustn't worry' significa 'está prohibido preocuparse', lo cual es absurdo. El significado deseado es 'no es necesario preocuparse' → 'don't have to worry'. Error súper común.",
+            "errorType": "mustnt-vs-dont-have-to"
+          },
+          {
+            "sentence": "You mustn't tell anyone this secret.",
+            "isCorrect": true,
+            "explanation": "Correcto. Acá 'mustn't' es apropiado porque efectivamente es una prohibición: no se permite contarlo. Uso perfecto.",
+            "errorType": "prohibition"
+          },
+          {
+            "sentence": "She must to study for her exam tomorrow.",
+            "isCorrect": false,
+            "correction": "She must study for her exam tomorrow.",
+            "explanation": "Después de 'must' el verbo va en BASE, sin 'to'. Regla de todos los modales: must, should, can, will, might. Nunca 'must to', 'should to', 'can to'.",
+            "errorType": "modal-form"
+          },
+          {
+            "sentence": "Visitors must register at the reception desk.",
+            "isCorrect": true,
+            "explanation": "Perfecto. Uso formal típico de 'must' en reglas y carteles. Obligación clara: los visitantes tienen que registrarse, no es opcional.",
+            "errorType": "obligation"
+          },
+          {
+            "sentence": "You don't have to smoke here — it's a non-smoking area.",
+            "isCorrect": false,
+            "correction": "You mustn't smoke here — it's a non-smoking area.",
+            "explanation": "Si es un área de no fumadores, fumar está PROHIBIDO → 'mustn't'. 'Don't have to' significa que es opcional, lo cual contradice 'non-smoking area'. Clásico ejemplo del error inverso.",
+            "errorType": "prohibition"
+          }
+        ]
+      }
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá reglas y obligaciones",
+      "instruction": "Ordená las palabras para formar oraciones correctas con must/mustn't.",
+      "itemIndices": [0],
+      "config": {
+        "sentences": [
+          {
+            "translation": "Los estudiantes deben entregar la tarea el viernes.",
+            "fragments": ["Students", "must", "hand in", "the homework", "on Friday"],
+            "correctOrder": [0, 1, 2, 3, 4]
+          },
+          {
+            "translation": "No debés olvidar tu pasaporte en el aeropuerto.",
+            "fragments": ["You", "mustn't", "forget", "your passport", "at the airport"],
+            "correctOrder": [0, 1, 2, 3, 4]
+          },
+          {
+            "translation": "Debo llamar a mi jefe antes del mediodía.",
+            "fragments": ["I", "must", "call", "my boss", "before noon"],
+            "correctOrder": [0, 1, 2, 3, 4]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Resumen: Must + verbo base = obligación fuerte. Mustn't + verbo base = prohibición (la 't' del medio es muda: /ˈmʌsənt/). OJO: 'mustn't' (prohibido) ≠ 'don't have to' (no es necesario). Los modales no se conjugan: 'I must', 'she must', nunca 'she musts'. Nunca 'must to' — siempre verbo base directo.",
+      "itemIndices": [0, 1, 2, 3]
+    }
+  ]
+}

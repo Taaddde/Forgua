@@ -1,0 +1,208 @@
+{
+  "id": "grammar-b2-02",
+  "title": "Future Perfect & Future Perfect Continuous",
+  "description": "Hablar de acciones que estarán completas antes de un punto futuro, y de duraciones futuras en progreso.",
+  "level": "b2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Future Perfect (Subject + will have + past participle)",
+      "back": "futuro perfecto",
+      "reading": "",
+      "explanation": "'Will have + participio pasado' se usa para hablar de una acción que estará COMPLETADA antes de un momento futuro. Marcadores típicos: 'by + tiempo' (by Friday, by 2030, by then), 'by the time + present simple'. En español: 'habré + participio' (habré terminado). También sirve para deducciones: 'She will have arrived by now' (supongo que ya llegó).",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Future Perfect (Subject + will have + past participle)"
+      }
+    },
+    {
+      "front": "Future Perfect Continuous (Subject + will have been + verb-ing)",
+      "back": "futuro perfecto continuo",
+      "reading": "",
+      "explanation": "'Will have been + verbo-ing' enfatiza la DURACIÓN de una acción que habrá estado en progreso hasta un punto futuro. Se combina con 'for + duración': 'By June, I will have been working here for ten years'. La diferencia con el Future Perfect simple: el continuo enfatiza el proceso/duración, el simple enfatiza la completitud."
+    },
+    {
+      "front": "By the time vs When en Future Perfect",
+      "back": "'By the time' se usa con Future Perfect; 'when' introduce el momento de referencia",
+      "reading": "",
+      "explanation": "Con Future Perfect, usamos 'by the time + present simple' para el punto de referencia: 'By the time you arrive, I will have finished'. La cláusula temporal usa presente simple aunque tenga sentido futuro. NO se dice 'by the time you will arrive'."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Future Perfect: acciones completas antes de un momento futuro",
+      "instruction": "El Future Perfect ('will have + participio pasado') se usa para hablar de lo que ya habrá pasado para cierto momento del futuro. Siempre aparece con marcadores de tiempo como 'by Friday', 'by then', 'by the time...'. En español: 'habré terminado', 'habrán llegado'.",
+      "itemIndices": [
+        0
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Future Perfect Continuous: duración hasta el futuro",
+      "instruction": "Cuando querés enfatizar CUÁNTO TIEMPO llevarás haciendo algo hasta un punto futuro, usás 'will have been + -ing'. 'By 2030, I will have been living here for 20 years'. La clave es la duración con 'for + tiempo'. No se usa con stative verbs (know, believe, own).",
+      "itemIndices": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es el tiempo correcto?",
+      "instruction": "Elegí el tiempo verbal correcto para completar cada oración.",
+      "itemIndices": [
+        0,
+        1
+      ]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá oraciones en Future Perfect",
+      "instruction": "Ordená las palabras para formar oraciones correctas.",
+      "itemIndices": [
+        0,
+        1
+      ],
+      "config": {
+        "sentences": [
+          {
+            "translation": "Para fin de año, habrán completado todos los módulos del curso.",
+            "fragments": [
+              "By the end of the year,",
+              "they will have completed",
+              "all the modules",
+              "of the course."
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "translation": "Para cuando te jubiles, habrás trabajado en esta empresa durante 30 años.",
+            "fragments": [
+              "By the time",
+              "you retire,",
+              "you will have been working",
+              "here for 30 years."
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con Future Perfect o Future Perfect Continuous",
+      "instruction": "Elegí la forma correcta. Pensá si el énfasis está en completitud (simple) o en duración (continuous).",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "By next March, the construction company {0} the new bridge.",
+            "blanks": [
+              {
+                "answer": "will have completed",
+                "options": [
+                  "will have completed",
+                  "will have been completing",
+                  "will complete",
+                  "will have been completed"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "By their tenth anniversary, they {0} together for a decade.",
+            "blanks": [
+              {
+                "answer": "will have been living",
+                "options": [
+                  "will have been living",
+                  "will have lived",
+                  "will live",
+                  "will be living"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "By the time the results are published, the team {0} the experiment three times.",
+            "blanks": [
+              {
+                "answer": "will have repeated",
+                "options": [
+                  "will have repeated",
+                  "will have been repeating",
+                  "will repeat",
+                  "will be repeating"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "By 2040, scientists believe they {0} a cure for several forms of cancer.",
+            "blanks": [
+              {
+                "answer": "will have discovered",
+                "options": [
+                  "will have discovered",
+                  "will have been discovering",
+                  "discover",
+                  "will discover"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Identificá errores en el uso del Future Perfect.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "By the time you will arrive, the meeting will have already started.",
+            "isCorrect": false,
+            "correction": "By the time you arrive, the meeting will have already started.",
+            "explanation": "Después de 'by the time', usamos PRESENTE SIMPLE aunque el sentido sea futuro. Es la misma regla que 'when', 'after', 'before' en cláusulas temporales. 'By the time you ARRIVE' (no 'will arrive').",
+            "errorType": "grammar"
+          },
+          {
+            "sentence": "By next Christmas, she will have been working at the hospital for five years.",
+            "isCorrect": true,
+            "explanation": "Correcta. Future Perfect Continuous con 'for + duración' enfatizando el tiempo total de trabajo hasta ese punto futuro. La estructura es impecable.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "By the end of the semester, I will finished all my assignments.",
+            "isCorrect": false,
+            "correction": "By the end of the semester, I will have finished all my assignments.",
+            "explanation": "El Future Perfect requiere 'will HAVE + participio pasado'. No se puede omitir 'have'. Es un error muy común donde el estudiante usa la forma simple 'will + infinitive' cuando necesita el perfecto.",
+            "errorType": "grammar"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Future Perfect = 'will have + past participle' → acción completa antes de un momento futuro. Marcadores: 'by + time', 'by the time + present simple'. Future Perfect Continuous = 'will have been + -ing' → duración de proceso hasta un punto futuro, siempre con 'for + tiempo'. Diferencia clave: completo vs. en proceso. Regla de oro: después de 'by the time', usar PRESENTE SIMPLE (nunca 'will').",
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
+    }
+  ]
+}

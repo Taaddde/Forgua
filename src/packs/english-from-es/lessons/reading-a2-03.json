@@ -1,0 +1,95 @@
+{
+  "id": "reading-a2-03",
+  "title": "Reading: An Email to a Friend",
+  "description": "Email informal. Present Perfect con 'since', vocabulario laboral, registro informal.",
+  "level": "a2",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "colleague",
+      "back": "colega, compañero de trabajo",
+      "reading": "/ˈkɑːliːɡ/",
+      "explanation": "Se usa específicamente para compañeros de trabajo (no amigos, no familia). 'My colleagues are friendly' = Mis colegas son amables.",
+      "cardRef": { "category": "vocabulary", "front": "colleague" }
+    },
+    {
+      "front": "salary",
+      "back": "salario, sueldo",
+      "reading": "/ˈsæləri/",
+      "explanation": "'Salary' = sueldo mensual/anual. 'Wage' = pago por hora. En la conversación, ambos son aceptables.",
+      "cardRef": { "category": "vocabulary", "front": "salary" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario laboral",
+      "instruction": "Palabras sobre trabajo que aparecen en el email.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Lectura: An Email to a Friend",
+      "instruction": "Leé el email de Sofía a Carlos. Fijate en el Present Perfect con 'since' y el tono informal.",
+      "itemIndices": [],
+      "config": {
+        "passage": {
+          "id": "a2-reading-email",
+          "title": "An Email to a Friend",
+          "level": "a2",
+          "text": "Hi Carlos! How are you? I'm writing to tell you about my new job. I started working at a technology company two weeks ago. I work as a web designer. The office is near my apartment, so I walk to work every day. My colleagues are very friendly and helpful. The salary is better than my previous job, and I get four weeks of vacation per year. The only problem is that I have to wake up very early. My schedule is from 7:30 to 4:30. But I finish early, so I have free time in the afternoon. Would you like to meet for coffee this Saturday? I haven't seen you since your birthday party in March. Let me know! Best regards, Sofia",
+          "translation": "¡Hola Carlos! ¿Cómo estás? Te escribo para contarte sobre mi nuevo trabajo. Empecé a trabajar en una empresa de tecnología hace dos semanas. Trabajo como diseñadora web. La oficina está cerca de mi departamento, así que camino al trabajo todos los días. Mis compañeros son muy amables y serviciales. El sueldo es mejor que en mi trabajo anterior, y tengo cuatro semanas de vacaciones por año. El único problema es que tengo que levantarme muy temprano. Mi horario es de 7:30 a 4:30. Pero termino temprano, así que tengo tiempo libre a la tarde. ¿Querés encontrarnos para un café este sábado? No te veo desde tu fiesta de cumpleaños en marzo. ¡Avisame! Saludos, Sofía",
+          "vocabulary": ["job - trabajo", "technology - tecnología", "company - empresa", "web designer - diseñador/a web", "apartment - departamento", "colleagues - compañeros", "friendly - amable", "salary - sueldo", "previous - anterior", "vacation - vacaciones", "schedule - horario"],
+          "questions": [
+            {
+              "question": "What is Sofia's new job?",
+              "options": ["Teacher.", "Web designer.", "Doctor.", "Manager."],
+              "correctIndex": 1,
+              "explanation": "El texto dice 'I work as a web designer.'"
+            },
+            {
+              "question": "How does Sofia get to work?",
+              "options": ["By car.", "By bus.", "By train.", "She walks."],
+              "correctIndex": 3,
+              "explanation": "El texto dice 'I walk to work every day.'"
+            },
+            {
+              "question": "When did Sofia last see Carlos?",
+              "options": ["Last week.", "In March.", "In January.", "Two weeks ago."],
+              "correctIndex": 1,
+              "explanation": "El texto dice 'I haven't seen you since your birthday party in March.'"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "word-in-context",
+      "title": "Present Perfect con 'since'",
+      "instruction": "Elegí la oración donde 'since' se usa correctamente con Present Perfect.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "since",
+            "translation": "desde (con present perfect)",
+            "options": [
+              "I didn't see him since last year.",
+              "I haven't seen him since last year.",
+              "I don't see him since last year.",
+              "I not see him since last year."
+            ],
+            "correctIndex": 1,
+            "explanation": "'Since' con una situación que continúa hasta el presente → Present Perfect negativo: 'I haven't seen him since...' = No lo veo desde..."
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lectura completa!",
+      "instruction": "Email informal: saludos ('Hi!', 'How are you?'), cierre ('Best regards', 'Let me know'). Present Perfect + since: 'I haven't seen you since March' — situación que continúa (no lo veo desde marzo, y todavía no lo veo). Have to = obligación: 'I have to wake up early'.",
+      "itemIndices": [0, 1]
+    }
+  ]
+}

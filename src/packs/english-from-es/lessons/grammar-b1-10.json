@@ -1,0 +1,176 @@
+{
+  "id": "grammar-b1-10",
+  "title": "Third Conditional: If I Had Known...",
+  "description": "Para situaciones hipotéticas en el PASADO que ya no se pueden cambiar. 'If I had studied harder, I would have passed.' El condicional del arrepentimiento.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "If I had studied harder, I would have passed the exam.",
+      "back": "Si hubiera estudiado más, habría aprobado el examen.",
+      "reading": "/ɪf aɪ hæd ˈstʌdid ˈhɑːrdər aɪ wʊd hæv pæst ðə ɪɡˈzæm/",
+      "explanation": "Tercer condicional: IF + past perfect (had + participio), WOULD HAVE + participio. Para situaciones que NO ocurrieron en el pasado y sus consecuencias imaginarias. Es imposible cambiarlas — ya pasó. En español: 'si hubiera... habría...'",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Third Conditional (If + past perfect, would have + past participle)"
+      }
+    },
+    {
+      "front": "If they had left earlier, they wouldn't have missed the train.",
+      "back": "Si hubieran salido antes, no habrían perdido el tren.",
+      "reading": "/ɪf ðeɪ hæd lɛft ˈɜːrliər ðeɪ ˈwʊdənt hæv mɪst ðə treɪn/",
+      "explanation": "La forma negativa: WOULDN'T HAVE + participio. Contracción: 'If I'd known' = If I had known. 'I'd have gone' = I would have gone. El apóstrofe 'd puede ser 'had' (en la cláusula IF) o 'would' (en el resultado) según la posición."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Tercer condicional: el pasado hipotético",
+      "instruction": "IF + past perfect (had + participio), WOULD HAVE + participio. Para hablar de algo que NO pasó en el pasado y qué habría pasado SI hubiera pasado. Es el condicional del arrepentimiento y la especulación sobre el pasado.",
+      "itemIndices": [
+        0,
+        1
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es la forma correcta?",
+      "instruction": "Elegí la forma correcta del tercer condicional.",
+      "itemIndices": [
+        0,
+        1
+      ]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá el tercer condicional",
+      "instruction": "Ordená los fragmentos para formar oraciones correctas.",
+      "itemIndices": [
+        0,
+        1
+      ],
+      "config": {
+        "sentences": [
+          {
+            "translation": "Si hubiera sabido que ibas a venir, habría cocinado más.",
+            "fragments": [
+              "If I had known",
+              "you were coming,",
+              "I would have cooked",
+              "more."
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "translation": "Ella no habría llegado tarde si hubiera tomado el tren más temprano.",
+            "fragments": [
+              "She wouldn't have been late",
+              "if she had taken",
+              "the earlier train."
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá el tercer condicional",
+      "instruction": "Elegí la forma correcta del past perfect y would have.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "If she {0} her umbrella, she {1} wet.",
+            "blanks": [
+              {
+                "answer": "had taken",
+                "options": [
+                  "had taken",
+                  "took",
+                  "would take"
+                ]
+              },
+              {
+                "answer": "wouldn't have got",
+                "options": [
+                  "wouldn't have got",
+                  "didn't get",
+                  "wouldn't get"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "We {0} the deadline if we {1} more time.",
+            "blanks": [
+              {
+                "answer": "would have met",
+                "options": [
+                  "would have met",
+                  "had met",
+                  "would meet"
+                ]
+              },
+              {
+                "answer": "had had",
+                "options": [
+                  "had had",
+                  "would have had",
+                  "had"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Encontrá los errores típicos del tercer condicional.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "If I had arrived earlier, I would have seen him.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'If + past perfect (had arrived), would have + participio (seen)'. Estructura perfecta del tercer condicional.",
+            "errorType": "third-conditional"
+          },
+          {
+            "sentence": "If she would have studied, she would have passed.",
+            "isCorrect": false,
+            "correction": "If she had studied, she would have passed.",
+            "explanation": "INCORRECTO. El error más común: usar 'would have' en la cláusula IF. La cláusula IF del tercer condicional usa PAST PERFECT (had + participio), NUNCA 'would have'. El 'would have' solo va en el resultado.",
+            "errorType": "third-conditional-if-clause"
+          },
+          {
+            "sentence": "They wouldn't have had that accident if they hadn't been driving so fast.",
+            "isCorrect": true,
+            "explanation": "Correcto y complejo. Negativo + negativo: 'wouldn't have had' (resultado negativo) + 'hadn't been driving' (condición negativa en past perfect). Perfectamente formado.",
+            "errorType": "third-conditional"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Tercer condicional = IF + past perfect (had + participio), WOULD HAVE + participio. Para situaciones hipotéticas del PASADO que ya no se pueden cambiar. NUNCA uses 'would have' en la cláusula IF. Contracciones: 'If I'd known' (I had), 'I'd have called' (I would have). Diferencia: 2do condicional (presente/futuro hipotético) vs 3er condicional (pasado hipotético e irreal).",
+      "itemIndices": [
+        0,
+        1
+      ]
+    }
+  ]
+}

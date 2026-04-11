@@ -1,0 +1,99 @@
+{
+  "id": "vocab-c2-06",
+  "title": "Academic & Analytical Vocabulary",
+  "description": "Vocabulario académico y analítico: ubiquitous, juxtaposition, surreptitious. Para crítica cultural, ensayo académico y análisis sofisticado.",
+  "level": "c2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "ubiquitous",
+      "back": "ubicuo, omnipresente",
+      "reading": "/juːˈbɪkwɪtəs/",
+      "explanation": "Presente en todas partes al mismo tiempo. 'Smartphones have become ubiquitous'. Muy frecuente en análisis sociológico y tecnológico. Cognado con 'ubicuo' pero más común en inglés académico que su equivalente español. Adverbio: 'ubiquitously'. Sustantivo: 'ubiquity'.",
+      "cardRef": { "category": "vocabulary", "front": "ubiquitous" }
+    },
+    {
+      "front": "juxtaposition",
+      "back": "yuxtaposición, contraposición",
+      "reading": "/ˌdʒʌkstəpəˈzɪʃən/",
+      "explanation": "Colocación de dos elementos lado a lado para crear contraste o comparación. 'The juxtaposition of wealth and poverty in the city is striking'. Muy común en crítica de arte, literatura y análisis social. Verbo: 'juxtapose'. Cognado del español 'yuxtaposición'.",
+      "cardRef": { "category": "vocabulary", "front": "juxtaposition" }
+    },
+    {
+      "front": "surreptitious",
+      "back": "subrepticio, furtivo, clandestino",
+      "reading": "/ˌsɜːrəpˈtɪʃəs/",
+      "explanation": "Hecho en secreto o de manera disimulada, típicamente para evitar atraer atención. 'A surreptitious glance', 'surreptitious recording'. Connotación generalmente negativa — implica algo que se oculta deliberadamente. Adverbio: 'surreptitiously'. Cognado con 'subrepticio' (poco usado en español).",
+      "cardRef": { "category": "vocabulary", "front": "surreptitious" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Análisis sofisticado",
+      "instruction": "Estas tres palabras son marcadores del análisis académico y la crítica cultural. Son cognados del español pero con más presencia en el discurso inglés elevado. Aprendé las colocaciones típicas.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "word-in-context",
+      "title": "En contexto académico",
+      "instruction": "Elegí la oración donde la palabra está usada en su registro apropiado.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "ubiquitous",
+            "translation": "ubicuo, omnipresente",
+            "options": [
+              "The ubiquitous presence of surveillance cameras in urban centers has raised privacy concerns.",
+              "I bought a ubiquitous sandwich for lunch at the corner store.",
+              "The ubiquitous house stands alone in the middle of the forest.",
+              "She was ubiquitous to the party last night."
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "juxtaposition",
+            "translation": "yuxtaposición de elementos contrastantes",
+            "options": [
+              "The juxtaposition is a type of sandwich in French cuisine.",
+              "I made a juxtaposition to the doctor yesterday.",
+              "The film's power lies in the juxtaposition of intimate personal drama with the vast historical backdrop of the war.",
+              "She put the juxtaposition on the table next to the lamp."
+            ],
+            "correctIndex": 2
+          },
+          {
+            "targetWord": "surreptitious",
+            "translation": "subrepticio, furtivo",
+            "options": [
+              "She was very surreptitious in her friendship with everyone in the office.",
+              "He cast a surreptitious glance at the confidential document on his colleague's desk.",
+              "The surreptitious party lasted until dawn with everyone cheering loudly.",
+              "My surreptitious cat loves to sleep in the sun."
+            ],
+            "correctIndex": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Escribí cada palabra en inglés.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completada!",
+      "instruction": "VOCABULARIO ANALÍTICO: ubiquitous (ubicuo), juxtaposition (yuxtaposición), surreptitious (subrepticio). Palabras de la crítica académica y cultural. Son cognados del español pero mucho más frecuentes en inglés elevado. Usalas para describir fenómenos sociales, análisis estético y comportamientos discretos.",
+      "itemIndices": [0, 1, 2]
+    }
+  ]
+}

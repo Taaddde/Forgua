@@ -1,0 +1,79 @@
+{
+  "id": "reading-a1-04",
+  "title": "Reading: My Weekend",
+  "description": "Texto sobre el fin de semana. Adverbios de frecuencia, rutinas del sábado y domingo.",
+  "level": "a1",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "morning",
+      "back": "mañana (la mañana)",
+      "reading": "/ˈmɔːrnɪŋ/",
+      "explanation": "'In the morning' = por la mañana. Diferente de 'tomorrow' (mañana como día siguiente).",
+      "cardRef": { "category": "vocabulary", "front": "morning" }
+    },
+    {
+      "front": "park",
+      "back": "parque",
+      "reading": "/pɑːrk/",
+      "explanation": "'Go to the park' = ir al parque. 'In the park' = en el parque.",
+      "cardRef": { "category": "vocabulary", "front": "park" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario del fin de semana",
+      "instruction": "Palabras que aparecen en el texto sobre el fin de semana.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Lectura: My Weekend",
+      "instruction": "Leé el texto. Fijate en cómo se describen actividades del sábado y del domingo.",
+      "itemIndices": [],
+      "config": {
+        "passage": {
+          "id": "a1-reading-weekend",
+          "title": "My Weekend",
+          "level": "a1",
+          "text": "On Saturday morning, I usually wake up late. I have breakfast at ten o'clock. I eat toast and drink coffee. In the afternoon, I go to the park with my family. My children play in the playground. In the evening, we watch a movie at home. On Sunday, I clean the house in the morning. In the afternoon, I visit my parents. We have lunch together. I love weekends because I can relax.",
+          "translation": "Los sábados a la mañana, generalmente me levanto tarde. Desayuno a las diez. Como tostadas y tomo café. A la tarde, voy al parque con mi familia. Mis hijos juegan en los juegos. A la noche, vemos una película en casa. El domingo, limpio la casa a la mañana. A la tarde, visito a mis padres. Almorzamos juntos. Me encantan los fines de semana porque puedo relajarme.",
+          "vocabulary": ["weekend - fin de semana", "wake up - despertarse", "late - tarde", "breakfast - desayuno", "toast - tostadas", "coffee - café", "park - parque", "children - hijos", "playground - juegos", "movie - película", "clean - limpiar", "visit - visitar", "relax - relajarse"],
+          "questions": [
+            {
+              "question": "What time does the narrator have breakfast on Saturday?",
+              "options": ["At eight o'clock.", "At nine o'clock.", "At ten o'clock.", "At eleven o'clock."],
+              "correctIndex": 2,
+              "explanation": "El texto dice 'I have breakfast at ten o'clock.'"
+            },
+            {
+              "question": "What does the narrator do on Sunday afternoon?",
+              "options": ["Goes to the park.", "Watches a movie.", "Visits parents.", "Cleans the house."],
+              "correctIndex": 2,
+              "explanation": "El texto dice 'In the afternoon, I visit my parents.'"
+            },
+            {
+              "question": "Why does the narrator love weekends?",
+              "options": ["Because of the movies.", "Because of the park.", "Because they can relax.", "Because there is no work."],
+              "correctIndex": 2,
+              "explanation": "El texto dice 'I love weekends because I can relax.'"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dicen?",
+      "instruction": "Escribí las palabras en inglés.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lectura completa!",
+      "instruction": "Texto sobre rutina de fin de semana. Estructuras importantes: 'On Saturday' (el sábado), 'In the morning/afternoon/evening' (por la mañana/tarde/noche), 'usually' antes del verbo principal.",
+      "itemIndices": [0, 1]
+    }
+  ]
+}

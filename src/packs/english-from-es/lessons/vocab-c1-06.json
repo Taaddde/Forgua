@@ -1,0 +1,185 @@
+{
+  "id": "vocab-c1-06",
+  "title": "Idioms & Fixed Expressions II",
+  "description": "Expresiones idiomáticas de negocios y comunicación: get the ball rolling, be on the same page, cut corners, break new ground, once in a blue moon, the ball is in your court.",
+  "level": "c1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "get the ball rolling",
+      "back": "poner las cosas en marcha / empezar",
+      "reading": "/ɡɛt ðə bɔːl ˈroʊlɪŋ/",
+      "explanation": "Iniciar un proceso o actividad. 'Let's get the ball rolling on this project.' Muy común en reuniones de negocios como fórmula de apertura. 'The ball is rolling' (sin 'get') significa que el proceso ya está en marcha. Imagen: una bola que una vez que rueda mantiene el impulso.",
+      "extra": { "register": "business/conversational", "pos": "expression", "collocates": ["let's get the ball rolling", "get things rolling"] },
+      "cardRef": { "category": "vocabulary", "front": "get the ball rolling" }
+    },
+    {
+      "front": "be on the same page",
+      "back": "estar de acuerdo / estar en sintonía",
+      "reading": "/bi ɑːn ðə seɪm peɪdʒ/",
+      "explanation": "Compartir el mismo entendimiento de una situación. 'Let's make sure we're all on the same page before we proceed.' Muy usado en contextos de equipo y colaboración. Implica no solo acuerdo sino comprensión compartida. 'Get on the same page' = llegar a ese entendimiento.",
+      "extra": { "register": "business/conversational", "pos": "expression", "variants": ["get on the same page", "make sure we're on the same page"] },
+      "cardRef": { "category": "vocabulary", "front": "be on the same page" }
+    },
+    {
+      "front": "cut corners",
+      "back": "tomar atajos / hacer las cosas a medias",
+      "reading": "/kʌt ˈkɔːrnərz/",
+      "explanation": "Hacer algo de manera apresurada o incompleta, sacrificando calidad para ahorrar tiempo o dinero. Siempre con connotación negativa — implica irresponsabilidad. 'The builder cut corners on safety.' No confundir con simplificar intencionalmente: 'cut corners' implica que lo omitido era necesario.",
+      "extra": { "register": "neutral/slightly negative", "pos": "expression" },
+      "cardRef": { "category": "vocabulary", "front": "cut corners" }
+    },
+    {
+      "front": "break new ground",
+      "back": "innovar / abrir nuevos caminos / ser pionero",
+      "reading": "/breɪk nuː ɡraʊnd/",
+      "explanation": "Hacer algo sin precedente, especialmente en investigación o innovación. 'Her work broke new ground in quantum physics.' La imagen es de preparar tierra virgen para cultivar. También: 'groundbreaking' (adj.) = revolucionario, pionero. Más enfático que 'innovative' — implica que fue el primero.",
+      "extra": { "register": "formal/journalistic", "pos": "expression", "derivative": "groundbreaking (adjective)" },
+      "cardRef": { "category": "vocabulary", "front": "break new ground" }
+    },
+    {
+      "front": "once in a blue moon",
+      "back": "muy de vez en cuando / rarísima vez",
+      "reading": "/wʌns ɪn ə bluː muːn/",
+      "explanation": "Algo que ocurre muy raramente. 'She only visits once in a blue moon.' Origen: 'blue moon' = segunda luna llena en un mes calendario, fenómeno raro. Tono informal y ligeramente humorístico. Se puede intensificar: 'hardly/almost never... only once in a blue moon'.",
+      "extra": { "register": "informal/conversational", "pos": "expression" },
+      "cardRef": { "category": "vocabulary", "front": "once in a blue moon" }
+    },
+    {
+      "front": "the ball is in your court",
+      "back": "la decisión es tuya / te toca a ti",
+      "reading": "/ðə bɔːl ɪz ɪn jɔːr kɔːrt/",
+      "explanation": "Referencia al tenis: cuando la pelota está en tu campo, es tu turno de actuar. 'I've made my offer — the ball is in your court.' Implica que el hablante ya hizo su parte y ahora espera que el otro actúe. Muy usado en negociaciones y situaciones donde hay que tomar una decisión.",
+      "extra": { "register": "business/conversational", "pos": "expression" },
+      "cardRef": { "category": "vocabulary", "front": "the ball is in your court" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Expresiones del mundo profesional y social",
+      "instruction": "Estos modismos son imprescindibles en conversaciones de negocios y sociales en inglés. Notá el registro: get the ball rolling y be on the same page son apropiados en reuniones; once in a blue moon es informal/casual. Cut corners siempre es crítico.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa cada expresión?",
+      "instruction": "Elegí el significado correcto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "conversation-script",
+      "title": "Reunión de equipo",
+      "instruction": "Estás en una reunión de trabajo. Elegí la respuesta más natural y apropiada según el contexto.",
+      "itemIndices": [],
+      "config": {
+        "script": {
+          "id": "meeting-c1",
+          "scenario": "Reunión de equipo para lanzar un nuevo proyecto de software",
+          "level": "c1",
+          "turns": [
+            {
+              "speaker": "npc",
+              "text": "Good morning, everyone. Before we begin, let's make sure we're all on the same page about the project scope.",
+              "translation": "Buenos días a todos. Antes de empezar, asegurémonos de que todos estamos de acuerdo sobre el alcance del proyecto."
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "translation": "Acordá que están alineados",
+              "options": [
+                {
+                  "text": "Yes, I think we all understand the goals. Should we get the ball rolling on the timeline?",
+                  "isCorrect": true,
+                  "feedback": "Perfecto. Confirmás el entendimiento compartido y proponés avanzar con 'get the ball rolling' — fórmula natural en reuniones.",
+                  "translation": "Sí, creo que todos entendemos los objetivos. ¿Deberíamos ponernos en marcha con el cronograma?"
+                },
+                {
+                  "text": "I agree. We need to start the timeline work.",
+                  "isCorrect": false,
+                  "feedback": "Gramaticalmente correcto pero plano para C1. Un hablante avanzado usaría expresiones como 'get the ball rolling' o 'proceed with' para sonar más natural y profesional.",
+                  "translation": "De acuerdo. Necesitamos empezar el trabajo del cronograma."
+                },
+                {
+                  "text": "OK, yes, I know about it already.",
+                  "isCorrect": false,
+                  "feedback": "Demasiado informal y algo brusco para una reunión profesional. No conecta con lo que dijo el NPC.",
+                  "translation": "Ok, sí, ya lo sé."
+                }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "Exactly. Now, I've noticed the previous team cut some corners on testing. I want to make sure we don't repeat that.",
+              "translation": "Exacto. Ahora, noté que el equipo anterior tomó atajos en las pruebas. Quiero asegurarme de no repetir eso."
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "translation": "Respondé sobre la calidad del trabajo",
+              "options": [
+                {
+                  "text": "Absolutely. Cutting corners on quality control is something we should break new ground in avoiding — rigorous testing from the start.",
+                  "isCorrect": true,
+                  "feedback": "Excelente uso de 'cut corners' y 'break new ground'. 'Rigorous testing' muestra vocabulario C1. La combinación suena auténticamente profesional.",
+                  "translation": "Absolutamente. Tomar atajos en el control de calidad es algo en lo que deberíamos ser pioneros en evitar — pruebas rigurosas desde el inicio."
+                },
+                {
+                  "text": "Yes, we should not make the same errors they did.",
+                  "isCorrect": false,
+                  "feedback": "Correcto pero muy básico. No aprovecha el vocabulario de C1 ni la oportunidad de mostrar fluidez con expresiones como 'cut corners' o 'rigorous standards'.",
+                  "translation": "Sí, no deberíamos cometer los mismos errores que ellos."
+                },
+                {
+                  "text": "OK I agree completely with everything.",
+                  "isCorrect": false,
+                  "feedback": "Demasiado vago y sin sustancia. En un contexto profesional se espera que uno aporte perspectiva, no solo asentir genéricamente.",
+                  "translation": "Ok, estoy completamente de acuerdo con todo."
+                }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "Great. I'll draft the quality checklist and send it over. The ball is in your court for defining the testing criteria by Thursday.",
+              "translation": "Excelente. Prepararé la lista de verificación de calidad y la enviaré. La decisión de definir los criterios de prueba queda en tus manos para el jueves."
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "translation": "Confirmá que cumplirás el plazo",
+              "options": [
+                {
+                  "text": "Understood. I'll have the criteria ready and make sure we don't cut corners — I'll meet the Thursday deadline.",
+                  "isCorrect": true,
+                  "feedback": "Perfecto: 'meet the deadline' (colocación correcta) y 'don't cut corners' retoma el tema de calidad. Muestra continuidad temática y vocabulario preciso.",
+                  "translation": "Entendido. Tendré los criterios listos y me aseguraré de no tomar atajos — cumpliré el plazo del jueves."
+                },
+                {
+                  "text": "OK, I will do it before Thursday.",
+                  "isCorrect": false,
+                  "feedback": "Correcto pero no aprovecha la colocación 'meet the deadline'. 'Do it before Thursday' es básico para C1.",
+                  "translation": "Ok, lo haré antes del jueves."
+                },
+                {
+                  "text": "I will try my best to complete the criteria.",
+                  "isCorrect": false,
+                  "feedback": "'Try my best' suena inseguro en un contexto profesional donde te están asignando una tarea con plazo. C1 requiere más compromiso y precisión: 'I'll have it ready by Thursday'.",
+                  "translation": "Haré mi mejor esfuerzo para completar los criterios."
+                }
+              ],
+              "correctOptionIndex": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completada!",
+      "instruction": "Expresiones de negocios clave: GET the ball rolling (empezar), BE on the same page (estar alineados), CUT corners (tomar atajos — negativo), BREAK new ground (innovar, ser primero), the ball is in YOUR court (tu turno). Once in a blue moon = rarísima vez (informal).",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

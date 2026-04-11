@@ -1,0 +1,180 @@
+{
+  "id": "grammar-b1-15",
+  "title": "Connectors of Cause: because, since, as, due to, because of",
+  "description": "Expresar causa en inglés: 'because', 'since', 'as' van con cláusula (sujeto + verbo). 'Due to', 'because of' van con sustantivo. El error número uno: mezclarlos.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Connectors of Cause (because / since / as / due to / because of + noun)",
+      "back": "Conectores de causa. Unos van con cláusula, otros con sustantivo — la estructura decide cuál usar.",
+      "reading": "/kəˈnɛktərz əv kɔːz/",
+      "explanation": "Dos grupos: (1) 'because', 'since', 'as' + CLÁUSULA completa (sujeto + verbo) — 'because it rained'. (2) 'because of', 'due to' + SUSTANTIVO o frase nominal — 'because of the rain'. En español todos son 'porque / debido a / ya que', así que no notamos la diferencia. En inglés, mezclar las estructuras es un error gramatical claro.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Connectors of Cause (because / since / as / due to / because of + noun)"
+      }
+    },
+    {
+      "front": "She stayed home because she was feeling ill.",
+      "back": "'Because' + cláusula (she was feeling ill = sujeto + verbo).",
+      "reading": "/ʃiː steɪd hoʊm bɪˈkɔːz ʃiː wəz ˈfiːlɪŋ ɪl/",
+      "explanation": "'Because' es el conector de causa más común y neutro. Siempre va seguido de una cláusula completa (sujeto + verbo). En el medio de la oración no lleva coma antes. 'Because' responde directamente a la pregunta 'why?'."
+    },
+    {
+      "front": "Since you already know the answer, why don't you tell us?",
+      "back": "'Since' y 'as' + cláusula. Más formales. Suelen ir al inicio con coma.",
+      "reading": "/sɪns juː ɔːlˈrɛdi noʊ ði ˈænsər/",
+      "explanation": "'Since' y 'as' son casi sinónimos de 'because' pero suenan más formales o literarios. Cuando van al principio de la oración, llevan coma al final de la cláusula de causa. 'Since' también significa 'desde' en otros contextos — el contexto desambigua."
+    },
+    {
+      "front": "The flight was cancelled due to bad weather.",
+      "back": "'Due to' y 'because of' + sustantivo. Sin cláusula — solo la frase nominal.",
+      "reading": "/ðə flaɪt wəz ˈkænsəld djuː tə bæd ˈwɛðər/",
+      "explanation": "'Due to' y 'because of' + SUSTANTIVO (no cláusula). 'Due to' es más formal, común en escritura y anuncios. 'Because of' es más conversacional. ERROR TÍPICO: 'because of it rained' — INCORRECTO. Solo: 'because it rained' o 'because of the rain'."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Dos estructuras: cláusula vs sustantivo",
+      "instruction": "'Because', 'since', 'as' van con una cláusula completa (sujeto + verbo). 'Because of' y 'due to' van con un sustantivo o frase nominal. Confundirlos es el error más común.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "'Due to' y 'because of'",
+      "instruction": "'Due to' suena formal (escritura, anuncios). 'Because of' es neutro y conversacional. Ambos van solo con sustantivo.",
+      "itemIndices": [3]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Elegí el conector correcto",
+      "instruction": "Prestá atención a lo que sigue al conector: ¿cláusula con sujeto + verbo, o un sustantivo solo?",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "The concert was postponed {0} the storm.",
+            "blanks": [
+              { "answer": "because of", "options": ["because of", "because", "since"] }
+            ]
+          },
+          {
+            "template": "I can't come to the meeting {0} I have a doctor's appointment.",
+            "blanks": [
+              { "answer": "because", "options": ["because", "because of", "due to"] }
+            ]
+          },
+          {
+            "template": "{0} it's raining, let's stay in and watch a movie.",
+            "blanks": [
+              { "answer": "Since", "options": ["Since", "Due to", "Because of"] }
+            ]
+          },
+          {
+            "template": "The match was cancelled {0} heavy rain, {1} the pitch was flooded.",
+            "blanks": [
+              { "answer": "due to", "options": ["due to", "because", "as"] },
+              { "answer": "as", "options": ["as", "because of", "due to"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Revisá si lo que va después del conector es el tipo de estructura correcto.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "She got the job because of her experience.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Because of' + sustantivo ('her experience' es una frase nominal, no una cláusula). Estructura perfecta.",
+            "errorType": "connector-structure"
+          },
+          {
+            "sentence": "We stayed inside because of it was raining.",
+            "isCorrect": false,
+            "correction": "We stayed inside because it was raining.",
+            "explanation": "INCORRECTO. Error clásico: 'because of' solo va con sustantivo. Si lo que sigue es una cláusula ('it was raining' = sujeto + verbo), usá 'because' a secas. Alternativa: 'because of the rain'.",
+            "errorType": "connector-mismatch"
+          },
+          {
+            "sentence": "Due to the traffic was terrible, I arrived late.",
+            "isCorrect": false,
+            "correction": "Due to the terrible traffic, I arrived late. / Because the traffic was terrible, I arrived late.",
+            "explanation": "INCORRECTO. 'Due to' solo va con sustantivo. 'The traffic was terrible' es una cláusula. Dos arreglos: convertirlo en frase nominal ('the terrible traffic') o cambiar a 'because'.",
+            "errorType": "connector-mismatch"
+          },
+          {
+            "sentence": "As I was tired, I went to bed early.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'As' + cláusula (I was tired). Cuando 'as' va al principio, la coma separa la causa del resultado. Equivalente formal a 'because'.",
+            "errorType": "connector-structure"
+          }
+        ]
+      }
+    },
+    {
+      "type": "word-in-context",
+      "title": "Conectores en contexto",
+      "instruction": "Elegí la oración donde el conector de causa se usa correctamente.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "because of",
+            "translation": "debido a / por causa de",
+            "options": [
+              "The game was cancelled because of it snowed.",
+              "The game was cancelled because of snow.",
+              "The game was cancelled because of is snowing.",
+              "The game was cancelled because of that it was snowing."
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "since",
+            "translation": "ya que / puesto que",
+            "options": [
+              "Since the bad weather, we cancelled the trip.",
+              "Since of the weather was bad, we cancelled the trip.",
+              "Since the weather was bad, we cancelled the trip.",
+              "Since bad weather, we cancelled the trip."
+            ],
+            "correctIndex": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá la oración de causa",
+      "instruction": "Ordená los fragmentos para formar oraciones correctas de causa.",
+      "itemIndices": [1, 3],
+      "config": {
+        "sentences": [
+          {
+            "translation": "No pude dormir por el ruido.",
+            "fragments": ["I couldn't sleep", "because of", "the noise."],
+            "correctOrder": [0, 1, 2]
+          },
+          {
+            "translation": "Ya que estás acá, ayudame con esto.",
+            "fragments": ["Since you're here,", "help me", "with this."],
+            "correctOrder": [0, 1, 2]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Conectores de causa: 'because', 'since', 'as' + CLÁUSULA (sujeto + verbo). 'Because of', 'due to' + SUSTANTIVO. Regla clave: si después viene una oración completa, usá 'because'; si viene solo un sustantivo, usá 'because of' o 'due to'. Nunca 'because of it rained'.",
+      "itemIndices": [0, 1, 2, 3]
+    }
+  ]
+}

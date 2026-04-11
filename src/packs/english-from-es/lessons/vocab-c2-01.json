@@ -1,0 +1,127 @@
+{
+  "id": "vocab-c2-01",
+  "title": "Literary & Poetic Vocabulary",
+  "description": "Palabras del registro literario y poético inglés: ephemeral, ineffable, ethereal, melancholy. Para escritura creativa, crítica literaria y discurso cultivado.",
+  "level": "c2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "ephemeral",
+      "back": "efímero, pasajero",
+      "reading": "/ɪˈfɛmərəl/",
+      "explanation": "Del griego 'ephēmeros' (que dura un día). Se usa para describir cosas de belleza pasajera: 'ephemeral beauty', 'ephemeral pleasures'. Más literario que 'short-lived' o 'temporary'. Colocación típica: cherry blossoms, fame, pleasures.",
+      "cardRef": { "category": "vocabulary", "front": "ephemeral" }
+    },
+    {
+      "front": "ineffable",
+      "back": "inefable, indescriptible",
+      "reading": "/ɪnˈɛfəbəl/",
+      "explanation": "Tan grande o sublime que no puede expresarse con palabras. Típicamente positivo: 'ineffable joy', 'ineffable beauty', 'ineffable sense of wonder'. También se usa en contexto religioso o místico. Cognado con 'inefable'.",
+      "cardRef": { "category": "vocabulary", "front": "ineffable" }
+    },
+    {
+      "front": "ethereal",
+      "back": "etéreo, celestial",
+      "reading": "/ɪˈθɪriəl/",
+      "explanation": "Delicado, ligero, casi inmaterial — asociado con aire o cielo. 'An ethereal voice', 'ethereal beauty', 'ethereal quality'. Suele describir cosas de belleza suave: música, luz, figura femenina, atmósfera.",
+      "cardRef": { "category": "vocabulary", "front": "ethereal" }
+    },
+    {
+      "front": "melancholy",
+      "back": "melancolía, tristeza profunda",
+      "reading": "/ˈmɛlənˌkɑːli/",
+      "explanation": "Tristeza pensativa y duradera, no aguda sino envolvente. Sustantivo y adjetivo. 'A sense of melancholy', 'a melancholy mood', 'melancholy music'. Del griego 'melas' (negro) + 'cholē' (bilis) — de la teoría medieval de los humores corporales. Más literario que 'sadness'.",
+      "cardRef": { "category": "vocabulary", "front": "melancholy" }
+    },
+    {
+      "front": "serendipity",
+      "back": "serendipia, hallazgo afortunado",
+      "reading": "/ˌsɛrənˈdɪpəti/",
+      "explanation": "Acuñada por Horace Walpole en 1754. Describe encontrar algo valioso por casualidad, especialmente mientras buscás otra cosa. 'By pure serendipity', 'a moment of serendipity'. Muy usada en contextos de descubrimiento científico y personal. Rara vez peyorativa.",
+      "cardRef": { "category": "vocabulary", "front": "serendipity" }
+    },
+    {
+      "front": "quintessential",
+      "back": "por excelencia, arquetípico",
+      "reading": "/ˌkwɪntɪˈsɛnʃəl/",
+      "explanation": "El ejemplo perfecto o más representativo de algo. 'The quintessential English gentleman', 'quintessential jazz'. Adjetivo. Del latín 'quinta essentia' (quinto elemento — la esencia pura de los alquimistas). Muy común en crítica cultural y escritura periodística.",
+      "cardRef": { "category": "vocabulary", "front": "quintessential" }
+    },
+    {
+      "front": "eloquent",
+      "back": "elocuente, expresivo",
+      "reading": "/ˈɛləkwənt/",
+      "explanation": "Capaz de expresar ideas con claridad y persuasión. 'An eloquent speech', 'eloquent argument', 'eloquent silence' (cuando el silencio mismo comunica). También se aplica a cosas no verbales: 'eloquent gesture', 'eloquent look'. Noun: 'eloquence'.",
+      "cardRef": { "category": "vocabulary", "front": "eloquent" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El léxico literario",
+      "instruction": "Estas palabras pertenecen al registro literario y poético. Son cognados del español en su mayoría, pero su uso en inglés es más específico. Prestá atención a las colocaciones típicas.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto de cada palabra.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Dónde se usa bien?",
+      "instruction": "Elegí la oración donde la palabra está usada correctamente.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "ephemeral",
+            "translation": "efímero, pasajero",
+            "options": [
+              "The ephemeral mountain has been there for millions of years.",
+              "Fame in the digital age is notoriously ephemeral — today's trending topic is tomorrow's forgotten post.",
+              "The ephemeral steel bridge will last another century.",
+              "My grandmother's ephemeral love for her family lasted her whole life."
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "quintessential",
+            "translation": "por excelencia, arquetípico",
+            "options": [
+              "She is the quintessential one person in the room.",
+              "He is the quintessential English gentleman — reserved, witty, and impeccably dressed.",
+              "That restaurant is the quintessential of all the worst food.",
+              "The quintessential of my opinion is that I disagree."
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "ineffable",
+            "translation": "inefable, indescriptible",
+            "options": [
+              "The traffic was ineffable — three hours in a ten-kilometer jam.",
+              "He felt an ineffable joy watching his daughter take her first steps.",
+              "My shoes are ineffable because they are old.",
+              "The ineffable dinner bill shocked everyone at the table."
+            ],
+            "correctIndex": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Escribí la palabra en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completada!",
+      "instruction": "Vocabulario literario: ephemeral (efímero), ineffable (inefable), ethereal (etéreo), melancholy (melancolía), serendipity (serendipia), quintessential (por excelencia), eloquent (elocuente). Usá estas palabras con parsimonia — son de registro elevado y pueden sonar pretenciosas en contextos cotidianos.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    }
+  ]
+}

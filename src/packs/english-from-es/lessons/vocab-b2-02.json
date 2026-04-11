@@ -1,0 +1,187 @@
+{
+  "id": "vocab-b2-02",
+  "title": "Business English: Reports, Data & Strategy",
+  "description": "Vocabulario para presentar datos, analizar resultados y discutir estrategia empresarial con precisión.",
+  "level": "b2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "revenue",
+      "back": "ingresos / recaudación",
+      "reading": "/ˈrɛvənuː/",
+      "explanation": "Ingresos totales generados por una empresa antes de descontar gastos. No confundir con 'profit' (ganancia, lo que queda después de gastos) ni con 'salary' (sueldo individual). Colocaciones: revenue growth, revenue stream, generate revenue.",
+      "cardRef": { "category": "vocabulary", "front": "revenue" }
+    },
+    {
+      "front": "stakeholder",
+      "back": "parte interesada / involucrado",
+      "reading": "/ˈsteɪkhoʊldər/",
+      "explanation": "Persona u organización que tiene interés en una empresa o proyecto: empleados, accionistas, clientes, comunidad. Más amplio que 'shareholder' (accionista). Colocaciones: key stakeholders, stakeholder engagement, consult stakeholders.",
+      "cardRef": { "category": "vocabulary", "front": "stakeholder" }
+    },
+    {
+      "front": "agenda",
+      "back": "orden del día / agenda de reunión",
+      "reading": "/əˈdʒɛndə/",
+      "explanation": "Lista de temas a tratar en una reunión. Falso amigo parcial: en inglés 'agenda' se refiere principalmente al orden del día de una reunión, no a la libreta personal (que es 'diary' o 'planner'). También se usa metafóricamente: 'a political agenda' (una agenda política).",
+      "cardRef": { "category": "vocabulary", "front": "agenda" }
+    },
+    {
+      "front": "analyze",
+      "back": "analizar",
+      "reading": "/ˈænəlaɪz/",
+      "explanation": "Examinar detalladamente algo para entenderlo o evaluarlo. Cognado con 'analizar'. Colocaciones: analyze data, analyze results, analyze a situation. Nota ortográfica: 'analyze' (inglés americano) vs 'analyse' (inglés británico).",
+      "cardRef": { "category": "vocabulary", "front": "analyze" }
+    },
+    {
+      "front": "evaluate",
+      "back": "evaluar",
+      "reading": "/ɪˈvæljueɪt/",
+      "explanation": "Juzgar o estimar el valor, la calidad o los resultados de algo. Similar a 'assess' pero con más énfasis en el juicio de valor. Colocaciones: evaluate performance, evaluate options, evaluate evidence.",
+      "cardRef": { "category": "vocabulary", "front": "evaluate" }
+    },
+    {
+      "front": "significant",
+      "back": "significativo / importante",
+      "reading": "/sɪɡˈnɪfɪkənt/",
+      "explanation": "Que tiene importancia o relevancia notable. Colocaciones muy comunes: significant improvement, significant difference, significant impact. En inglés académico y de negocios se usa mucho más que 'important'. Adverbio: significantly.",
+      "cardRef": { "category": "vocabulary", "front": "significant" }
+    },
+    {
+      "front": "take into account",
+      "back": "tener en cuenta / considerar",
+      "reading": "/teɪk ˌɪntuː əˈkaʊnt/",
+      "explanation": "Colocación fija: considerar algo al tomar una decisión o hacer un análisis. Sinónimos: consider, factor in, take into consideration. 'Take into consideration' es más formal; 'factor in' es más técnico.",
+      "cardRef": { "category": "vocabulary", "front": "take into account" }
+    },
+    {
+      "front": "draw a conclusion",
+      "back": "sacar una conclusión",
+      "reading": "/drɔː ə kənˈkluːʒən/",
+      "explanation": "Colocación fija: siempre 'draw' con 'conclusion', no 'make', 'get', ni 'take'. Variante: 'reach a conclusion' (llegar a una conclusión). En inglés académico, esta colocación es esencial.",
+      "cardRef": { "category": "vocabulary", "front": "draw a conclusion" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario para reportes y análisis",
+      "instruction": "Palabras clave para presentaciones, reportes y análisis en inglés profesional. Prestá atención a los falsos amigos y a las colocaciones fijas.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto. Atención a 'revenue' vs 'profit' y a 'agenda' en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Dónde se usa bien?",
+      "instruction": "Elegí la oración donde la palabra se usa correctamente.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "revenue",
+            "translation": "ingresos",
+            "options": [
+              "The company's revenue was distributed among employees as salary.",
+              "The company's revenue increased by 20% compared to last year.",
+              "He put all his revenue into a savings account.",
+              "The revenue of the meeting was very productive."
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "agenda",
+            "translation": "orden del día",
+            "options": [
+              "I wrote my dentist appointment in my agenda.",
+              "The first item on the agenda is the budget review.",
+              "She has a beautiful agenda with flowers on the cover.",
+              "Let me check my agenda to see if I'm free on Thursday."
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "draw a conclusion",
+            "translation": "sacar una conclusión",
+            "options": [
+              "The researchers needed more data before they could draw a conclusion.",
+              "She decided to make a conclusion at the end of the report.",
+              "The team took a conclusion after reviewing the numbers.",
+              "It was too early to get a conclusion from one experiment."
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "significant",
+            "translation": "significativo",
+            "options": [
+              "The results were significant: nobody was interested.",
+              "There was a significant increase in sales during the last quarter.",
+              "He gave a very significant speech — very short and forgettable.",
+              "It was a significant day because nothing happened."
+            ],
+            "correctIndex": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Decidí si cada oración está bien escrita o tiene un error típico de hispanohablantes.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "The company's revenue grew significantly in the third quarter.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Revenue grew significantly' es una colocación perfecta. 'Significantly' modifica al verbo 'grew'.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "We need to make a conclusion based on the available evidence.",
+            "isCorrect": false,
+            "correction": "We need to draw a conclusion based on the available evidence.",
+            "explanation": "La colocación correcta es 'draw a conclusion', no 'make'. Este es uno de los errores más comunes en inglés académico para hispanohablantes que traducen literalmente 'hacer una conclusión'.",
+            "errorType": "collocation"
+          },
+          {
+            "sentence": "All stakeholders should be consulted before implementing any major changes.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Consult stakeholders' es la colocación estándar. Además, usar la pasiva ('should be consulted') es perfectamente natural en inglés profesional.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "I wrote the meeting points in my agenda.",
+            "isCorrect": false,
+            "correction": "I noted the meeting points in my planner / diary.",
+            "explanation": "'Agenda' en inglés formal se refiere al orden del día de una reunión, no a la libreta personal. Para la libreta personal se dice 'diary' (inglés británico) o 'planner' (inglés americano). Este es un falso amigo parcial.",
+            "errorType": "false-friend"
+          },
+          {
+            "sentence": "The report evaluates the performance of each department over the last six months.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Evaluate + performance' es una colocación académica/profesional perfectamente estándar.",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Escribí la palabra o expresión en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Vocabulario clave para reportes: 'revenue' (≠ profit), 'stakeholder', 'agenda' (orden del día, no libreta personal), 'analyze', 'evaluate', 'significant', 'take into account', 'draw a conclusion'. Estos términos aparecen constantemente en el inglés de negocios y académico.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

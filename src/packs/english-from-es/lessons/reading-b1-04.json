@@ -1,0 +1,77 @@
+{
+  "id": "reading-b1-04",
+  "title": "Reading: The Job Interview",
+  "description": "El relato de una entrevista de trabajo exitosa. Past Perfect Continuous, vocabulario laboral en contexto narrativo real.",
+  "level": "b1",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "mock interview",
+      "back": "entrevista simulada / de práctica",
+      "reading": "/mɑːk ˈɪntərvjuː/",
+      "explanation": "Una práctica de entrevista, no real. 'We did a mock interview to prepare.' MOCK = simulado, de práctica. También: mock exam (examen de práctica)."
+    },
+    {
+      "front": "outfit",
+      "back": "ropa / atuendo",
+      "reading": "/ˈaʊtfɪt/",
+      "explanation": "Un conjunto de ropa elegida para una ocasión. 'I chose my best outfit for the interview.' No es una sola prenda sino el conjunto completo."
+    },
+    {
+      "front": "tight deadline",
+      "back": "plazo muy ajustado / fecha límite urgente",
+      "reading": "/taɪt ˈdɛdlaɪn/",
+      "explanation": "Un plazo con muy poco tiempo disponible. 'The project had a very tight deadline.' TIGHT = ajustado, con poca holgura de tiempo."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario clave antes de leer",
+      "instruction": "3 expresiones del texto. Fijate en 'mock interview' — en inglés 'mock' como adjetivo significa simulado/de práctica.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "The Job Interview",
+      "instruction": "Leé la historia de una entrevista. Fijate en el uso del Past Perfect Continuous al comienzo: 'I had been looking for a new job for three months'.",
+      "itemIndices": [],
+      "config": {
+        "passage": {
+          "id": "b1-reading-job-interview",
+          "title": "The Job Interview",
+          "level": "b1",
+          "text": "I had been looking for a new job for three months when I finally got a call from a marketing company. They wanted to interview me for a junior marketing position. I was nervous but also excited because it was the kind of job I had always wanted.\n\nI spent the whole weekend preparing. I researched the company online, practiced common interview questions in front of the mirror, and chose my best outfit. My sister helped me by doing a mock interview. She asked me difficult questions like 'What is your biggest weakness?' and 'Where do you see yourself in five years?' It was really helpful.\n\nOn the day of the interview, I arrived fifteen minutes early. The office was modern and bright, with plants everywhere. The interviewer, Mr. Davis, was friendly and made me feel comfortable. He asked about my studies, my work experience, and why I was interested in marketing. I tried to speak clearly and give specific examples from my previous job.\n\nThe hardest question was about a time when I had to deal with a difficult situation at work. I told him about a project where the deadline was very tight, and how I organized my team to finish on time. He seemed impressed. At the end, he said they would contact me within a week. Three days later, I got the call — I got the job!",
+          "translation": "Llevaba tres meses buscando un nuevo trabajo cuando finalmente recibí una llamada de una empresa de marketing. Querían entrevistarme para un puesto de marketing junior. Estaba nervioso pero también entusiasmado porque era el tipo de trabajo que siempre había querido.\n\nPasé todo el fin de semana preparándome. Investigué la empresa en internet, practiqué preguntas comunes de entrevista frente al espejo y elegí mi mejor ropa. Mi hermana me ayudó haciendo una entrevista simulada. Me hizo preguntas difíciles como '¿Cuál es tu mayor debilidad?' y '¿Dónde te ves en cinco años?' Fue muy útil.\n\nEl día de la entrevista, llegué quince minutos antes. La oficina era moderna y luminosa, con plantas por todos lados. El entrevistador, el Sr. Davis, fue amable y me hizo sentir cómodo. Me preguntó sobre mis estudios, mi experiencia laboral y por qué me interesaba el marketing. Intenté hablar claro y dar ejemplos específicos de mi trabajo anterior.\n\nLa pregunta más difícil fue sobre una vez que tuve que manejar una situación difícil en el trabajo. Le conté sobre un proyecto donde el plazo era muy ajustado, y cómo organicé a mi equipo para terminar a tiempo. Pareció impresionado. Al final, dijo que me contactarían dentro de una semana. Tres días después, recibí la llamada — ¡conseguí el trabajo!",
+          "vocabulary": ["interview - entrevista", "position - puesto", "researched - investigué", "outfit - ropa/atuendo", "mock interview - entrevista simulada", "weakness - debilidad", "modern - moderno", "comfortable - cómodo", "specific - específico", "deadline - plazo/fecha límite", "impressed - impresionado", "contact - contactar"],
+          "questions": [
+            {
+              "question": "How long had the author been looking for a job before the interview?",
+              "options": ["One month.", "Two months.", "Three months.", "Six months."],
+              "correctIndex": 2,
+              "explanation": "The text says 'I had been looking for a new job for three months when I finally got a call.'"
+            },
+            {
+              "question": "How did the author prepare for the interview?",
+              "options": ["Took a professional training course.", "Researched the company, practiced questions, and did a mock interview.", "Asked friends who worked there for advice.", "Read a book about marketing."],
+              "correctIndex": 1,
+              "explanation": "The text describes researching the company, practicing questions in front of the mirror, and doing a mock interview with the author's sister."
+            },
+            {
+              "question": "What difficult situation did the author describe to the interviewer?",
+              "options": ["A conflict with a colleague.", "A project with a very tight deadline.", "A problem with a customer.", "A mistake in a report."],
+              "correctIndex": 1,
+              "explanation": "The author told the interviewer 'about a project where the deadline was very tight, and how I organized my team to finish on time.'"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lectura completada!",
+      "instruction": "Leíste un texto narrativo B1. Gramática clave: Past Perfect Continuous ('I had been looking for three months' — para algo que empezó antes y continuó hasta otro momento pasado). Vocabulario de entrevistas: position (puesto), weakness (debilidad), mock interview (simulacro), tight deadline (plazo ajustado), impressed (impresionado). Tip: en entrevistas, siempre da ejemplos específicos.",
+      "itemIndices": [0, 1, 2]
+    }
+  ]
+}

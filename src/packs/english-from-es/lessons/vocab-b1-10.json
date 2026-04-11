@@ -1,0 +1,153 @@
+{
+  "id": "vocab-b1-10",
+  "title": "False Friends B1: Trampas para Hispanohablantes",
+  "description": "actual, realize, sensible, attend, success, fabric, argument, library, embarrassed, carpet — las trampas más comunes en inglés para hispanohablantes.",
+  "level": "b1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "actual",
+      "back": "real / verdadero (NO 'actual' en español)",
+      "reading": "/ˈæktʃuəl/",
+      "explanation": "FALSO AMIGO: 'actual' en inglés = real, verdadero. 'What is the actual cost?' = ¿Cuál es el costo real? 'Actual' en español (= current, present) → se traduce como CURRENT. 'The current president' = el presidente actual.",
+      "cardRef": { "category": "vocabulary", "front": "actual" }
+    },
+    {
+      "front": "realize",
+      "back": "darse cuenta (NO 'realizar' en español)",
+      "reading": "/ˈriːəlaɪz/",
+      "explanation": "FALSO AMIGO: 'realize' en inglés = darse cuenta de. 'I didn't realize you were waiting.' 'Realizar' en español (= carry out, achieve) → to CARRY OUT (llevar a cabo), to ACHIEVE (lograr).",
+      "cardRef": { "category": "vocabulary", "front": "realize" }
+    },
+    {
+      "front": "sensible",
+      "back": "sensato / prudente (NO 'sensible' en español)",
+      "reading": "/ˈsɛnsəbəl/",
+      "explanation": "FALSO AMIGO: 'sensible' en inglés = sensato, que tiene buen juicio. 'That seems like a sensible decision.' 'Sensible' en español (= emotional, touchy) → SENSITIVE en inglés.",
+      "cardRef": { "category": "vocabulary", "front": "sensible" }
+    },
+    {
+      "front": "attend",
+      "back": "asistir a (NO 'atender' en español)",
+      "reading": "/əˈtɛnd/",
+      "explanation": "FALSO AMIGO: 'attend' = asistir, ir a. 'Will you attend the conference?' 'Atender' en español (= serve, look after) → SERVE (en un restaurante), LOOK AFTER/TAKE CARE OF (cuidar), ANSWER (el teléfono).",
+      "cardRef": { "category": "vocabulary", "front": "attend" }
+    },
+    {
+      "front": "success",
+      "back": "éxito (NO 'suceso' en español)",
+      "reading": "/səkˈsɛs/",
+      "explanation": "FALSO AMIGO: 'success' = éxito. 'Hard work is the key to success.' 'Suceso' en español (= event, happening) → EVENT o INCIDENT en inglés. 'Successful' = exitoso.",
+      "cardRef": { "category": "vocabulary", "front": "success" }
+    },
+    {
+      "front": "fabric",
+      "back": "tela / tejido (NO 'fábrica' en español)",
+      "reading": "/ˈfæbrɪk/",
+      "explanation": "FALSO AMIGO: 'fabric' = tela, tejido. 'This fabric is very soft.' 'Fábrica' en español (= factory, plant) → FACTORY en inglés. 'She works at a factory.'",
+      "cardRef": { "category": "vocabulary", "front": "fabric" }
+    },
+    {
+      "front": "argument",
+      "back": "discusión / pelea verbal (NO solo 'argumento')",
+      "reading": "/ˈɑːrɡjəmənt/",
+      "explanation": "FALSO AMIGO PARCIAL: 'argument' puede ser argumento (razón) pero más comúnmente es una discusión acalorada. 'They had a big argument about money.' 'Argumento' de una historia en español → PLOT en inglés.",
+      "cardRef": { "category": "vocabulary", "front": "argument" }
+    },
+    {
+      "front": "library",
+      "back": "biblioteca (NO 'librería')",
+      "reading": "/ˈlaɪbrɛri/",
+      "explanation": "FALSO AMIGO: 'library' = biblioteca (donde se prestan libros gratis). 'I borrowed this book from the library.' 'Librería' en español (= bookshop/bookstore) → BOOKSTORE (americano) o BOOKSHOP (británico).",
+      "cardRef": { "category": "vocabulary", "front": "library" }
+    },
+    {
+      "front": "embarrassed",
+      "back": "avergonzado (NO 'embarazada')",
+      "reading": "/ɪmˈbærəst/",
+      "explanation": "FALSO AMIGO MUY FAMOSO: 'embarrassed' = avergonzado, incómodo por algo. 'I was embarrassed when I forgot her name.' 'Embarazada' en español → PREGNANT en inglés. Error histórico de muchos estudiantes.",
+      "cardRef": { "category": "vocabulary", "front": "embarrassed" }
+    },
+    {
+      "front": "carpet",
+      "back": "alfombra (NO 'carpeta')",
+      "reading": "/ˈkɑːrpɪt/",
+      "explanation": "FALSO AMIGO: 'carpet' = alfombra grande (que cubre el suelo). 'We bought a new carpet for the living room.' 'Carpeta' en español (= folder, file) → FOLDER en inglés. RUG = alfombra pequeña decorativa.",
+      "cardRef": { "category": "vocabulary", "front": "carpet" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Falsos amigos B1: parte 1",
+      "instruction": "Estos son falsos amigos — palabras que parecen similares al español pero significan otra cosa. A nivel B1 aparecen frecuentemente y causan errores.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "Falsos amigos B1: parte 2",
+      "instruction": "'Embarrassed' es el falso amigo más famoso del inglés para hispanohablantes. 'Library' y 'bookstore' son distintos. 'Carpet' y 'folder' son completamente diferentes.",
+      "itemIndices": [5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa en inglés?",
+      "instruction": "¡Cuidado con los falsos amigos! Elegí el significado CORRECTO en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "listen-identify",
+      "title": "Escuchá y elegí",
+      "instruction": "Escuchá la palabra y elegí el significado correcto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "error-correction",
+      "title": "Falsos amigos en contexto — ¿Error o correcta?",
+      "instruction": "Identificá si cada oración usa la palabra con el significado correcto en inglés.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "She is embarrassed — she is expecting twins in April.",
+            "isCorrect": false,
+            "correction": "She is pregnant — she is expecting twins in April.",
+            "explanation": "FALSO AMIGO: 'embarrassed' = avergonzado, no embarazada. Para 'embarazada' en inglés se dice PREGNANT. 'Embarrassed' describe vergüenza o incomodidad social.",
+            "errorType": "false-friend"
+          },
+          {
+            "sentence": "I finally realized that I had left my keys at home.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Realized' = me di cuenta de (pasado de realize). 'I realized (that)...' + cláusula es la estructura perfecta.",
+            "errorType": "false-friend"
+          },
+          {
+            "sentence": "She borrowed three books from the bookstore last week.",
+            "isCorrect": false,
+            "correction": "She borrowed three books from the library last week.",
+            "explanation": "Los libros se PIDEN PRESTADOS (borrow) de una LIBRARY (biblioteca), no de un BOOKSTORE (librería). En una librería/bookstore se compran los libros.",
+            "errorType": "false-friend"
+          },
+          {
+            "sentence": "What is the actual price of this item? I think it's different from the label.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Actual price' = el precio real/verdadero (no la etiqueta). 'Actual' en inglés significa 'real, verdadero', no 'actual' como en español (que sería 'current').",
+            "errorType": "false-friend"
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice en inglés?",
+      "instruction": "Escribí la palabra en inglés teniendo cuidado con los falsos amigos.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "10 falsos amigos B1: actual (real, no 'actual') → use CURRENT, realize (darse cuenta, no 'realizar') → use CARRY OUT, sensible (sensato, no 'sensible') → use SENSITIVE, attend (asistir, no 'atender') → use SERVE/ANSWER, success (éxito, no 'suceso'), fabric (tela, no 'fábrica') → FACTORY, argument (discusión), library (biblioteca, no 'librería') → BOOKSTORE, embarrassed (avergonzado, no 'embarazada') → PREGNANT, carpet (alfombra, no 'carpeta') → FOLDER.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "reading-a2-05",
+  "title": "Reading: Living in a New City",
+  "description": "Texto sobre vivir en el extranjero. Present Perfect con cambio de estado, aunque/however.",
+  "level": "a2",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "however",
+      "back": "sin embargo",
+      "reading": "/haʊˈɛvər/",
+      "explanation": "Conector de contraste. Va seguido de coma: 'It was hard. However, I adapted.' = Fue difícil. Sin embargo, me adapté.",
+      "cardRef": { "category": "vocabulary", "front": "however" }
+    },
+    {
+      "front": "although",
+      "back": "aunque",
+      "reading": "/ɔːlˈðoʊ/",
+      "explanation": "'Although' une dos ideas contrastantes en una oración: 'Although it was cold, I went out.' = Aunque hacía frío, salí.",
+      "cardRef": { "category": "vocabulary", "front": "although" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Conectores de contraste",
+      "instruction": "Estos conectores son esenciales para escribir y hablar con fluidez en A2.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Lectura: Living in a New City",
+      "instruction": "Leé sobre alguien que se mudó a Barcelona. Fijate en cómo cambia el tono con 'however'.",
+      "itemIndices": [],
+      "config": {
+        "passage": {
+          "id": "a2-reading-new-city",
+          "title": "Living in a New City",
+          "level": "a2",
+          "text": "Six months ago, I moved to Barcelona for work. At first, it was difficult because I didn't know anyone and I couldn't speak Spanish very well. I felt lonely during the first few weeks. However, things have changed a lot since then. I joined a language exchange group where I practice Spanish with local people, and they practice English with me. I have made several good friends there. I have also explored many neighborhoods. My favorite area is the Gothic Quarter because it has beautiful old buildings and great restaurants. The weather is much better than in my home city. I still miss my family sometimes, but I am happy here. Living abroad has taught me to be more independent and open-minded.",
+          "translation": "Hace seis meses, me mudé a Barcelona por trabajo. Al principio, fue difícil porque no conocía a nadie y no podía hablar español muy bien. Me sentía solo durante las primeras semanas. Sin embargo, las cosas cambiaron mucho desde entonces. Me uní a un grupo de intercambio de idiomas donde practico español con gente local, y ellos practican inglés conmigo. Hice varios buenos amigos ahí. También exploré muchos barrios. Mi zona favorita es el Barrio Gótico porque tiene edificios viejos hermosos y restaurantes geniales. El clima es mucho mejor que en mi ciudad de origen. Todavía extraño a mi familia a veces, pero soy feliz acá. Vivir en el extranjero me enseñó a ser más independiente y de mente abierta.",
+          "vocabulary": ["moved - me mudé", "difficult - difícil", "lonely - solo", "language exchange - intercambio de idiomas", "local - local", "explored - exploré", "neighborhoods - barrios", "favorite - favorito", "buildings - edificios", "weather - clima", "miss - extrañar", "independent - independiente", "open-minded - de mente abierta"],
+          "questions": [
+            {
+              "question": "Why did the narrator move to Barcelona?",
+              "options": ["For vacation.", "For work.", "To study.", "For the weather."],
+              "correctIndex": 1,
+              "explanation": "El texto dice 'I moved to Barcelona for work.'"
+            },
+            {
+              "question": "What is the narrator's favorite area?",
+              "options": ["The beach.", "The Gothic Quarter.", "The city center.", "The park."],
+              "correctIndex": 1,
+              "explanation": "El texto dice 'My favorite area is the Gothic Quarter.'"
+            },
+            {
+              "question": "How did the narrator make friends?",
+              "options": ["At work.", "Through a language exchange group.", "At a restaurant.", "Through social media."],
+              "correctIndex": 1,
+              "explanation": "El texto dice 'I joined a language exchange group' y 'I have made several good friends there.'"
+            },
+            {
+              "question": "What has living abroad taught the narrator?",
+              "options": ["To speak Spanish.", "To cook local food.", "To be more independent and open-minded.", "To travel more."],
+              "correctIndex": 2,
+              "explanation": "El texto dice 'Living abroad has taught me to be more independent and open-minded.'"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "word-in-context",
+      "title": "Conectores en uso",
+      "instruction": "Elegí la oración donde el conector está usado correctamente.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "however",
+            "translation": "sin embargo",
+            "options": [
+              "The hotel was expensive, however it was nice.",
+              "The hotel was expensive. However, it was nice.",
+              "However the hotel was expensive it was nice.",
+              "The hotel was expensive however, it was nice."
+            ],
+            "correctIndex": 1,
+            "explanation": "'However' como conector de contraste empieza una nueva oración o cláusula: punto + However, + coma. No se usa con coma en medio de la oración como en el ejemplo 1."
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lectura completa!",
+      "instruction": "Present Perfect para cambios ('things have changed', 'I have made friends'): el cambio ocurrió en el pasado pero el resultado importa ahora. Conectores de contraste: 'However' (inicio de oración), 'although' (une cláusulas). 'Still' = todavía. 'At first' = al principio.",
+      "itemIndices": [0, 1]
+    }
+  ]
+}

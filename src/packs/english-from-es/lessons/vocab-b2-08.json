@@ -1,0 +1,176 @@
+{
+  "id": "vocab-b2-08",
+  "title": "False Friends & Nuanced Vocabulary",
+  "description": "Palabras que parecen fáciles por su similitud con el español, pero tienen trampas. Más vocabulario de registro y matiz.",
+  "level": "b2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "compromise",
+      "back": "acuerdo mutuo / solución intermedia / transigir",
+      "reading": "/ˈkɑːmprəmaɪz/",
+      "explanation": "FALSO AMIGO. En inglés, 'compromise' es positivo: llegar a un acuerdo en el que ambas partes ceden algo. En español, 'comprometer' puede significar 'poner en riesgo', lo cual en inglés sería 'compromise security/integrity'. Colocaciones: reach a compromise, find a compromise, be willing to compromise.",
+      "cardRef": { "category": "vocabulary", "front": "compromise" }
+    },
+    {
+      "front": "eventually",
+      "back": "finalmente / con el tiempo / tarde o temprano",
+      "reading": "/ɪˈvɛntʃuəli/",
+      "explanation": "FALSO AMIGO. 'Eventually' NO significa 'eventualmente' (ocasionalmente). Significa 'finalmente, después de un tiempo'. 'Eventualmente' en español = 'possibly' o 'occasionally' en inglés. 'Eventually they solved the problem' = 'Finalmente, con el tiempo, resolvieron el problema'.",
+      "cardRef": { "category": "vocabulary", "front": "eventually" }
+    },
+    {
+      "front": "pretend",
+      "back": "fingir / simular / hacer como si",
+      "reading": "/prɪˈtɛnd/",
+      "explanation": "FALSO AMIGO. 'Pretend' NO significa 'pretender' (aspirar a algo). Significa 'fingir'. 'Pretender' en español = 'aspire to', 'claim', 'intend'. 'He pretended to be sick' = fingió estar enfermo. 'He aspires to be a doctor' (pretende ser médico).",
+      "cardRef": { "category": "vocabulary", "front": "pretend" }
+    },
+    {
+      "front": "resume",
+      "back": "reanudar / retomar",
+      "reading": "/rɪˈzuːm/",
+      "explanation": "VERBO: reanudar algo interrumpido. 'The meeting will resume after lunch'. SUSTANTIVO (résumé /ˈrɛzjumeɪ/): el CV. Note el acento — como sustantivo se pronuncia con acento francés. 'Resumir' en español = 'summarize' en inglés (no 'resume').",
+      "cardRef": { "category": "vocabulary", "front": "resume" }
+    },
+    {
+      "front": "ambiguity",
+      "back": "ambigüedad",
+      "reading": "/ˌæmbɪˈɡjuːəti/",
+      "explanation": "Cuando algo tiene más de un significado posible o es poco claro. Colocaciones: full of ambiguity, avoid ambiguity, deliberate ambiguity. Adjetivo: ambiguous. Clave en discusiones legales, literarias y de comunicación: 'The contract contained deliberate ambiguity'.",
+      "cardRef": { "category": "vocabulary", "front": "ambiguity" }
+    },
+    {
+      "front": "make a decision",
+      "back": "tomar una decisión",
+      "reading": "/meɪk ə dɪˈsɪʒən/",
+      "explanation": "La colocación correcta es 'MAKE a decision', no 'take'. En inglés americano y británico se dice 'make'. Nota: 'take a decision' existe en inglés formal/británico, pero es menos común. Sinónimos: 'decide', 'come to a decision', 'reach a decision'.",
+      "cardRef": { "category": "vocabulary", "front": "make a decision" }
+    },
+    {
+      "front": "take responsibility",
+      "back": "asumir la responsabilidad / hacerse cargo",
+      "reading": "/teɪk rɪˌspɑːnsəˈbɪləti/",
+      "explanation": "Colocación fija: siempre 'TAKE responsibility', no 'have' ni 'accept'. También: 'take full responsibility' (asumir toda la responsabilidad), 'take responsibility for' + lo que pasó. Opuesto: 'avoid/shirk responsibility'.",
+      "cardRef": { "category": "vocabulary", "front": "take responsibility" }
+    },
+    {
+      "front": "reach a compromise",
+      "back": "llegar a un acuerdo / alcanzar un compromiso",
+      "reading": "/riːtʃ ə ˈkɑːmprəmaɪz/",
+      "explanation": "Colocación fija: siempre 'REACH a compromise', no 'arrive at' ni 'make'. Alternativas: 'find a compromise', 'come to a compromise'. Recuerda que 'compromise' en inglés es positivo — ambas partes ganan algo al ceder algo.",
+      "cardRef": { "category": "vocabulary", "front": "reach a compromise" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Falsos amigos y vocabulario de matiz",
+      "instruction": "¡Cuidado! 'Eventually' NO es 'eventualmente' (ocasionalmente), 'pretend' NO es 'pretender' (aspirar), 'compromise' NO es 'comprometer' (en riesgo). Estos errores son muy comunes en hispanohablantes B2.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa en inglés?",
+      "instruction": "Elegí el significado CORRECTO en inglés. No te dejes engañar por la similitud con el español.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Dónde se usa bien?",
+      "instruction": "Elegí la oración donde la palabra se usa con su sentido correcto en inglés.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "eventually",
+            "translation": "finalmente / con el tiempo",
+            "options": [
+              "Eventually, after years of practice, she became fluent in Japanese.",
+              "He eventually visits the office to check the results.",
+              "The project will eventually be completed once in a while.",
+              "She eventually arrives late to the office sometimes."
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "pretend",
+            "translation": "fingir",
+            "options": [
+              "She pretended not to notice the mistake in the report.",
+              "He pretends to be a doctor when he finishes his studies.",
+              "The child pretends to become an astronaut when she grows up.",
+              "They pretend working in the medical field."
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "compromise",
+            "translation": "acuerdo mutuo / transigir",
+            "options": [
+              "The two teams were unable to compromise, so the project was cancelled.",
+              "The mistake compromised the company's security protocols.",
+              "Both sides were willing to compromise, and eventually reached an agreement.",
+              "She compromised her report by including too many errors."
+            ],
+            "correctIndex": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Estas oraciones fueron escritas por hispanohablantes. Identificá los errores con falsos amigos y colocaciones.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "He eventually goes to the gym — maybe twice a month.",
+            "isCorrect": false,
+            "correction": "He occasionally goes to the gym — maybe twice a month.",
+            "explanation": "'Eventually' significa 'finalmente, con el tiempo' — no 'de vez en cuando'. El hispanohablante confundió 'eventually' con 'eventualmente' (ocasionalmente). Para 'de vez en cuando' se usa 'occasionally', 'sometimes', o 'from time to time'.",
+            "errorType": "false-friend"
+          },
+          {
+            "sentence": "After hours of discussion, the two parties finally reached a compromise.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Reach a compromise' es la colocación perfecta. 'After hours of discussion' establece el contexto natural. 'Compromise' aquí tiene su sentido positivo en inglés.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "I need to resume the report into three main points for the presentation.",
+            "isCorrect": false,
+            "correction": "I need to summarize the report into three main points for the presentation.",
+            "explanation": "'Resume' significa 'reanudar' (continuar algo interrumpido). Para 'resumir' en el sentido de condensar/sintetizar, la palabra inglesa es 'summarize' (AmE) o 'summarise' (BrE). El falso amigo 'resume/resumir' atrapa a muchos hispanohablantes.",
+            "errorType": "false-friend"
+          },
+          {
+            "sentence": "The manager took full responsibility for the failure and promised to improve the process.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Take full responsibility' es la colocación exacta. 'Promised to improve the process' sigue de forma natural.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "The contract was full of ambiguity, making it difficult to determine obligations.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'Full of ambiguity' + 'making it difficult to' es una construcción formal impecable.",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Escribí la palabra o expresión correcta en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Falsos amigos B2: 'eventually' = finalmente (NO ocasionalmente), 'pretend' = fingir (NO aspirar a), 'compromise' = acuerdo mutuo (NO comprometer en riesgo), 'resume' = reanudar (NO resumir = summarize). Colocaciones: 'MAKE a decision', 'TAKE responsibility', 'REACH a compromise', 'RAISE awareness'. Cada una tiene su verbo fijo — no se pueden traducir literalmente.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

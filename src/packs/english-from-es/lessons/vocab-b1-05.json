@@ -1,0 +1,137 @@
+{
+  "id": "vocab-b1-05",
+  "title": "Technology & Digital Life",
+  "description": "download, upload, password, device, software, browser, update, network — las 8 palabras de tecnología que usás todos los días sin darte cuenta.",
+  "level": "b1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "download",
+      "back": "descargar / descarga",
+      "reading": "/ˈdaʊnloʊd/",
+      "explanation": "Transferir datos de internet a tu dispositivo. 'You can download the app for free.' Opuesto: UPLOAD. Sustantivo: 'The download is almost complete.' Colocación: download a file/app/song.",
+      "cardRef": { "category": "vocabulary", "front": "download" }
+    },
+    {
+      "front": "upload",
+      "back": "subir / cargar",
+      "reading": "/ˈʌploʊd/",
+      "explanation": "Transferir datos de tu dispositivo a internet. 'She uploaded the photos to the cloud.' UPLOAD TO (a plataforma). Diferente de DOWNLOAD (de internet a vos) — siempre en sentidos opuestos.",
+      "cardRef": { "category": "vocabulary", "front": "upload" }
+    },
+    {
+      "front": "password",
+      "back": "contraseña",
+      "reading": "/ˈpæswɜːrd/",
+      "explanation": "Colocaciones: SET/CHANGE/FORGET a password. 'You should change your password regularly.' 'I forgot my password.' También en tecnología: password-protected = protegido con contraseña.",
+      "cardRef": { "category": "vocabulary", "front": "password" }
+    },
+    {
+      "front": "device",
+      "back": "dispositivo / aparato",
+      "reading": "/dɪˈvaɪs/",
+      "explanation": "Cualquier aparato tecnológico: phone, tablet, laptop, smart speaker. 'This device can connect to Wi-Fi.' Plural: devices. 'All your devices can sync automatically.' Más formal que 'gadget'.",
+      "cardRef": { "category": "vocabulary", "front": "device" }
+    },
+    {
+      "front": "software",
+      "back": "software / programa informático",
+      "reading": "/ˈsɔːftwɛr/",
+      "explanation": "INCONTABLE en inglés: 'software' (sin -s). 'We need to update the software.' HARDWARE = el equipo físico. SOFTWARE = los programas. 'Install software', 'run software', 'update software'.",
+      "cardRef": { "category": "vocabulary", "front": "software" }
+    },
+    {
+      "front": "browser",
+      "back": "navegador",
+      "reading": "/ˈbraʊzər/",
+      "explanation": "El programa que usás para navegar por internet. 'Which browser do you use?' Chrome, Firefox, Safari, Edge son browsers. El verbo: BROWSE the internet/web = navegar por internet.",
+      "cardRef": { "category": "vocabulary", "front": "browser" }
+    },
+    {
+      "front": "update",
+      "back": "actualizar / actualización",
+      "reading": "/ˈʌpdeɪt/",
+      "explanation": "Como verbo: instalar una nueva versión. 'Don't forget to update your phone.' Como sustantivo: 'There's a new update available.' Colocación: INSTALL an update, RUN an update. También: dar noticias recientes ('Can you update me on the situation?')",
+      "cardRef": { "category": "vocabulary", "front": "update" }
+    },
+    {
+      "front": "network",
+      "back": "red",
+      "reading": "/ˈnɛtwɜːrk/",
+      "explanation": "Red de conexiones. 'The Wi-Fi network is down.' SOCIAL network = red social. PROFESSIONAL network = red profesional. 'NETWORK' como verbo = hacer networking, establecer contactos profesionales.",
+      "cardRef": { "category": "vocabulary", "front": "network" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario digital: lo que usás todos los días",
+      "instruction": "Estas palabras son parte de la vida cotidiana tecnológica. Fijate en los pares opuestos: download ↔ upload. Y en las palabras incontables: software (sin -s).",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Software, browsers y redes",
+      "instruction": "'Software' es incontable. 'Update' funciona como verbo y sustantivo. 'Network' tiene sentido tecnológico y profesional (networking).",
+      "itemIndices": [4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto de cada término de tecnología.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "listen-identify",
+      "title": "Escuchá y elegí",
+      "instruction": "Escuchá y elegí la palabra correcta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Dónde se usa bien?",
+      "instruction": "Elegí la oración donde la palabra de tecnología está usada correctamente.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "upload",
+            "translation": "subir a internet",
+            "options": [
+              "I uploaded a new song from Spotify to my phone.",
+              "She uploaded her CV to the company's website.",
+              "He uploaded the latest episode from Netflix.",
+              "They uploaded the app from the App Store."
+            ],
+            "correctIndex": 1,
+            "feedback": "'Upload' = transferir datos DESDE tu dispositivo HACIA internet/servidor. Subir un CV a un sitio web es UPLOAD. Bajar una canción o app es DOWNLOAD."
+          },
+          {
+            "targetWord": "software",
+            "translation": "programa informático",
+            "options": [
+              "I need to install two new softwares on my computer.",
+              "We need to update the software on all company computers.",
+              "This software are very expensive.",
+              "Can I borrow your software?"
+            ],
+            "correctIndex": 1,
+            "feedback": "'Software' es incontable — nunca 'softwares', siempre concuerda en singular. 'The software IS expensive' (no 'are'). No se puede 'pedir prestado' software de la misma forma."
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Escribí el término de tecnología en inglés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "8 palabras de tech: download (de internet a vos) ↔ upload (de vos a internet), password (change/forget), device (aparato — más formal que gadget), software (incontable, sin -s), browser (Chrome/Firefox/Safari), update (actualizar — también sustantivo), network (red Wi-Fi, red profesional, networking).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

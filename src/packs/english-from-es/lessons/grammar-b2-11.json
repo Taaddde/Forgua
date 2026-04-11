@@ -1,0 +1,183 @@
+{
+  "id": "grammar-b2-11",
+  "title": "Would rather / Had better",
+  "description": "'Would rather' expresa preferencia ('preferiría') y 'had better' da un consejo fuerte con implicación de consecuencia negativa ('más vale que'). Ambas usan el verbo base. Con diferente sujeto, 'would rather' usa el pasado simple. Pese a tener 'had', 'had better' siempre se refiere al presente o futuro.",
+  "level": "b2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Would rather / Had better (would rather + base verb | had better + base verb)",
+      "back": "'Would rather' = preferiría (preferencia). 'Had better' = más vale que (consejo fuerte con consecuencia implícita). Ambas van seguidas de verbo base. Contracción: 'd rather / 'd better.",
+      "reading": "/wʊd ˈræðər | həd ˈbɛtər/",
+      "explanation": "'Would rather + verbo base' expresa preferencia personal. Con el mismo sujeto: 'I'd rather stay home' (preferiría quedarme). Con diferente sujeto: 'I'd rather you didn't smoke' — nota el cambio: se usa el pasado simple para situación presente, igual que en el segundo condicional. 'Had better + verbo base' da un consejo fuerte con una consecuencia negativa implícita si no se sigue: 'You'd better hurry or you'll miss the train'. Pese al 'had', siempre se refiere al presente/futuro. Negación: 'I'd rather not go', 'You'd better not be late'.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Would rather / Had better (would rather + base verb | had better + base verb)"
+      }
+    },
+    {
+      "front": "I'd rather stay home tonight than go to the party.",
+      "back": "Preferiría quedarme en casa esta noche que ir a la fiesta.",
+      "reading": "/aɪd ˈræðər steɪ hoʊm təˈnaɪt ðæn ɡoʊ tə ðə ˈpɑːrti/",
+      "explanation": "'I'd rather' = contracción de 'I would rather'. Seguido de verbo base ('stay'), no del infinitivo con 'to'. Cuando se comparan dos opciones se usa 'than': 'I'd rather X than Y'. Error típico de hispanohablantes: 'I'd rather to stay' — nunca se usa 'to' después de 'would rather'."
+    },
+    {
+      "front": "I'd rather you didn't tell anyone about this.",
+      "back": "Preferiría que no le contaras a nadie sobre esto.",
+      "reading": "/aɪd ˈræðər juː dɪdnt tɛl ˈɛniwʌn əˈbaʊt ðɪs/",
+      "explanation": "Cuando los sujetos son diferentes ('yo prefiero' + 'vos hacés algo'), 'would rather' va seguido de sujeto + pasado simple, aunque la situación sea presente. Esto es exactamente igual al segundo condicional: se usa pasado para distanciar y expresar preferencia/deseo sobre el comportamiento de otra persona. 'I'd rather you didn't' (no: 'I'd rather you don't')."
+    },
+    {
+      "front": "You'd better hurry up or you'll miss the train.",
+      "back": "Más vale que te apures o vas a perder el tren.",
+      "reading": "/juːd ˈbɛtər ˈhʌri ʌp ɔːr juːl mɪs ðə treɪn/",
+      "explanation": "'You'd better' = contracción de 'you had better'. La estructura implica una consecuencia negativa si no se sigue el consejo — es un consejo fuerte, casi una advertencia. Nunca va seguido de 'to': 'You'd better hurry' (no: 'You'd better to hurry'). Negación: 'You'd better not be late' (no: 'You'd better don't be late'). Comparar con 'should' (sugerencia suave) vs 'had better' (consecuencia implícita, urgencia)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Would rather: expresar preferencia",
+      "instruction": "'I'd rather + verbo base' expresa lo que preferirías hacer. Para comparar opciones: 'I'd rather X than Y'. Cuando los sujetos son distintos: 'I'd rather you + pasado simple' (aunque sea situación presente). Nunca uses 'to' después de 'would rather'.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Had better: consejo fuerte con consecuencia",
+      "instruction": "'You'd better + verbo base' da un consejo fuerte con una consecuencia negativa implícita. Pese al 'had', siempre es presente/futuro. Negación: 'You'd better not + verbo base'. No confundas con 'had' pasado: 'I had a good time yesterday' (pasado real) vs 'You'd better study' (consejo presente).",
+      "itemIndices": [3]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con la forma correcta",
+      "instruction": "Elegí entre 'would rather' y 'had better', y seleccioná la forma verbal correcta. Atención al sujeto: si es diferente, 'would rather' cambia.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "It's getting late. You {0} leave now or you'll miss the last bus.",
+            "blanks": [
+              { "answer": "'d better", "options": ["'d better", "'d rather", "should to"] }
+            ]
+          },
+          {
+            "template": "I {0} {1} tea than coffee in the morning.",
+            "blanks": [
+              { "answer": "'d rather", "options": ["'d rather", "'d better", "prefer to"] },
+              { "answer": "drink", "options": ["drink", "to drink", "drinking"] }
+            ]
+          },
+          {
+            "template": "I {0} you {1} the meeting without telling me.",
+            "blanks": [
+              { "answer": "'d rather", "options": ["'d rather", "'d better", "would prefer"] },
+              { "answer": "didn't cancel", "options": ["didn't cancel", "don't cancel", "hadn't cancelled"] }
+            ]
+          },
+          {
+            "template": "You {0} {1} your doctor about those symptoms. It could be serious.",
+            "blanks": [
+              { "answer": "'d better", "options": ["'d better", "'d rather", "should to"] },
+              { "answer": "see", "options": ["see", "to see", "seeing"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "word-in-context",
+      "title": "Would rather / Had better en contexto",
+      "instruction": "Elegí la oración donde la estructura se usa correctamente. Atención a si el verbo lleva 'to', si el sujeto cambia, y si la negación está bien formada.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "I'd rather you",
+            "translation": "preferiría que vos",
+            "options": [
+              "I'd rather you don't call me so late.",
+              "I'd rather you didn't call me so late.",
+              "I'd rather you to not call me so late.",
+              "I'd rather that you don't call me so late."
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "you'd better not",
+            "translation": "más vale que no",
+            "options": [
+              "You'd better don't forget your passport.",
+              "You'd better to not forget your passport.",
+              "You'd better not forget your passport.",
+              "You'd better not to forget your passport."
+            ],
+            "correctIndex": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Analizá las oraciones. Errores típicos: 'to' después de 'rather/better', usar 'don't' en lugar de 'not' para negar 'had better', y el tiempo verbal con sujeto diferente en 'would rather'.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "I'd rather to stay home and watch a movie.",
+            "isCorrect": false,
+            "correction": "I'd rather stay home and watch a movie.",
+            "explanation": "INCORRECTO. Después de 'would rather' NO se usa 'to'. Se usa directamente el verbo base (infinitivo sin 'to'): 'I'd rather stay', no 'I'd rather to stay'. Este es el error más frecuente de los hispanohablantes, por influencia de 'prefiero quedarme' → *'I prefer to stay'.",
+            "errorType": "bare-infinitive"
+          },
+          {
+            "sentence": "You'd better not be late for the interview.",
+            "isCorrect": true,
+            "explanation": "Correcto. La negación de 'had better' es 'had better not + verbo base'. 'You'd better not be' está perfectamente formado. Implica la consecuencia negativa: si llegás tarde, habrá problemas.",
+            "errorType": "negation"
+          },
+          {
+            "sentence": "I'd rather you don't smoke in here.",
+            "isCorrect": false,
+            "correction": "I'd rather you didn't smoke in here.",
+            "explanation": "INCORRECTO. Con sujeto diferente, 'would rather' usa pasado simple en la cláusula subordinada, aunque la situación sea presente. 'I'd rather you didn't smoke' (pasado), no 'I'd rather you don't smoke' (presente). Es la misma lógica del segundo condicional: pasado para distanciar y expresar preferencia/deseo sobre el presente.",
+            "errorType": "subjunctive-past"
+          },
+          {
+            "sentence": "She'd better don't forget to bring the documents.",
+            "isCorrect": false,
+            "correction": "She'd better not forget to bring the documents.",
+            "explanation": "INCORRECTO. La negación de 'had better' es 'had better not + verbo base' — nunca 'had better don't'. 'Don't' es el auxiliar negativo del presente simple y no se usa aquí. La forma correcta: 'She'd better not forget'.",
+            "errorType": "negation"
+          }
+        ]
+      }
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá las oraciones",
+      "instruction": "Ordená los fragmentos para formar oraciones con 'would rather' y 'had better'.",
+      "itemIndices": [0, 1],
+      "config": {
+        "sentences": [
+          {
+            "translation": "Preferiría quedarme en casa esta noche que ir a la fiesta.",
+            "fragments": ["I'd rather", "stay home tonight", "than", "go to the party."],
+            "correctOrder": [0, 1, 2, 3]
+          },
+          {
+            "translation": "Más vale que te apures o vas a perder el tren.",
+            "fragments": ["You'd better", "hurry up", "or you'll", "miss the train."],
+            "correctOrder": [0, 1, 2, 3]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "'Would rather + verbo base': preferencia personal. Con sujeto diferente: 'I'd rather you + pasado simple' (situación presente, igual al segundo condicional). 'Had better + verbo base': consejo fuerte con consecuencia implícita, siempre presente/futuro pese al 'had'. Negación: 'I'd rather not go', 'You'd better not be late'. NUNCA uses 'to' después de ninguna de las dos estructuras. NUNCA uses 'don't' para negar 'had better'.",
+      "itemIndices": [0, 1, 2, 3]
+    }
+  ]
+}

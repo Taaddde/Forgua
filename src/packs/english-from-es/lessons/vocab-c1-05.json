@@ -1,0 +1,148 @@
+{
+  "id": "vocab-c1-05",
+  "title": "Idioms & Fixed Expressions I",
+  "description": "Idioms de alta frecuencia en inglés profesional e informal: shed light on, raise awareness, take into account, draw a conclusion, beat around the bush, hit the nail on the head.",
+  "level": "c1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "shed light on",
+      "back": "arrojar luz sobre / esclarecer",
+      "reading": "/ʃɛd laɪt ɑːn/",
+      "explanation": "Metáfora visual: iluminar algo oscuro. 'Shed light on a mystery/problem/issue'. El sujeto puede ser un estudio, un documento, una persona. Inseparable. Clave en escritura académica y periodística. Contraste: 'cast a shadow on' = ensombrecer, dudar sobre.",
+      "extra": { "register": "formal/academic", "pos": "expression", "pattern": "shed light on [topic/issue]" },
+      "cardRef": { "category": "vocabulary", "front": "shed light on" }
+    },
+    {
+      "front": "raise awareness",
+      "back": "concientizar / crear conciencia",
+      "reading": "/reɪz əˈwɛrnəs/",
+      "explanation": "Colocación imprescindible en discurso social, activismo y política pública. 'Raise awareness about/of [issue]'. La campaña LEVANTA (raise) la conciencia — no la 'crea' ni la 'hace'. Derivados: 'public awareness', 'awareness campaign', 'raise awareness among [group]'.",
+      "extra": { "register": "formal/social", "pos": "expression", "pattern": "raise awareness about/of...", "derivados": ["awareness campaign", "public awareness"] },
+      "cardRef": { "category": "vocabulary", "front": "raise awareness" }
+    },
+    {
+      "front": "take into account",
+      "back": "tener en cuenta / considerar",
+      "reading": "/teɪk ˌɪntə əˈkaʊnt/",
+      "explanation": "Más formal que 'consider' o 'think about'. 'Take into account the cultural context.' También: 'take X into account' (separable) o 'take into account X'. Variante en español: 'tomar en cuenta'. En escritura formal, 'taking into account that...' introduce una cláusula concesiva.",
+      "extra": { "register": "formal", "pos": "expression", "separable": true, "variants": ["take X into account", "take into account X"] },
+      "cardRef": { "category": "vocabulary", "front": "take into account" }
+    },
+    {
+      "front": "draw a conclusion",
+      "back": "sacar una conclusión / llegar a una conclusión",
+      "reading": "/drɔː ə kənˈkluːʒən/",
+      "explanation": "En inglés se DRAW (dibujar/extraer) una conclusión, no se 'hace' ni 'toma'. 'Draw conclusions from the data.' 'It would be premature to draw any conclusions.' Pluralizable: 'draw conclusions' (sin artículo) o 'draw a specific conclusion'. Imprescindible en redacción académica.",
+      "extra": { "register": "academic", "pos": "expression", "pattern": "draw a conclusion from [evidence/data]", "warning": "no es 'make a conclusion'" },
+      "cardRef": { "category": "vocabulary", "front": "draw a conclusion" }
+    },
+    {
+      "front": "beat around the bush",
+      "back": "andarse con rodeos / irse por las ramas",
+      "reading": "/biːt əˈraʊnd ðə bʊʃ/",
+      "explanation": "No ir al punto. Origen histórico: cacería (sacudir los arbustos para ahuyentar la presa en lugar de atacarla directamente). Usualmente negativo: 'Stop beating around the bush!' También variante británica: 'beat about the bush'. En contextos directos de negocios o debate, se usa para pedir directness.",
+      "extra": { "register": "informal/conversational", "pos": "expression", "british-variant": "beat about the bush" },
+      "cardRef": { "category": "vocabulary", "front": "beat around the bush" }
+    },
+    {
+      "front": "hit the nail on the head",
+      "back": "dar en el clavo / acertar de lleno",
+      "reading": "/hɪt ðə neɪl ɑːn ðə hɛd/",
+      "explanation": "Describir algo perfectamente preciso o correcto. 'You've hit the nail on the head — that's exactly the problem.' Origen: clavar un clavo correctamente. Muy positivo y afirmativo. Se usa para validar la observación de alguien. Común en conversaciones directas e informales.",
+      "extra": { "register": "conversational/informal", "pos": "expression" },
+      "cardRef": { "category": "vocabulary", "front": "hit the nail on the head" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Expresiones idiomáticas esenciales",
+      "instruction": "Estas expresiones aparecen constantemente en conversaciones profesionales, discursos y artículos de opinión. Algunos son formales (shed light on, draw a conclusion), otros son conversacionales (hit the nail on the head, beat around the bush). Notá la diferencia de registro.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto de cada expresión.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Cuál es el uso correcto?",
+      "instruction": "Elegí la oración donde la expresión se usa con el registro y contexto apropiados.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "shed light on",
+            "translation": "arrojar luz sobre",
+            "options": [
+              "The lamp shed light on the darkness of the room.",
+              "New archaeological discoveries have shed light on the daily lives of ancient Romans.",
+              "She shed light on her phone to see better.",
+              "The shed light on the garden was beautiful at sunset."
+            ],
+            "correctIndex": 1,
+            "explanation": "En su sentido metafórico (esclarecer, revelar información), 'shed light on' siempre tiene un tema abstracto como objeto. 'Daily lives of ancient Romans' es un tema de investigación — uso académico auténtico."
+          },
+          {
+            "targetWord": "draw a conclusion",
+            "translation": "sacar una conclusión",
+            "options": [
+              "It would be premature to draw any conclusions from such limited data.",
+              "She drew a conclusion on the paper to finish her essay.",
+              "They made a conclusion after studying the evidence.",
+              "The scientist drew the conclusion to the experiment carefully."
+            ],
+            "correctIndex": 0,
+            "explanation": "'Draw conclusions from [evidence/data]' es la colocación estándar en inglés académico. 'Make a conclusion' es un error muy común de no nativos — no existe en inglés natural. 'Draw on a paper' sería usar 'draw' en sentido literal."
+          },
+          {
+            "targetWord": "beat around the bush",
+            "translation": "andarse con rodeos",
+            "options": [
+              "The hiker beat around the bush looking for the path.",
+              "Stop beating around the bush — just tell me what you really think.",
+              "She beat around the bush in her garden every Saturday.",
+              "He beat around the bush with a stick when he was a child."
+            ],
+            "correctIndex": 1,
+            "explanation": "El uso idiomático: no ir al punto en una conversación. Siempre en contexto comunicativo, no físico. 'Stop beating around the bush' es una petición de directness muy común en contextos anglosajones."
+          }
+        ]
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá el texto",
+      "instruction": "Usá las expresiones en el contexto apropiado.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "The new research {0} the mechanisms behind climate tipping points. Crucially, the scientists were careful not to {1} any definitive {2} before gathering more data.",
+            "blanks": [
+              { "answer": "sheds light on", "options": ["sheds light on", "raises awareness about", "takes into account", "beats around the bush about"] },
+              { "answer": "draw", "options": ["draw", "make", "do", "take"] },
+              { "answer": "conclusions", "options": ["conclusions", "accounts", "awareness", "consensus"] }
+            ]
+          },
+          {
+            "template": "Before we {0} any policy recommendations, we need to {1} the socioeconomic disparities between regions.",
+            "blanks": [
+              { "answer": "draw", "options": ["draw", "make", "beat", "shed"] },
+              { "answer": "take into account", "options": ["take into account", "draw a conclusion about", "raise awareness of", "shed light on"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completada!",
+      "instruction": "DRAW conclusions (no 'make'). SHED light on (esclarecer — abstracto). RAISE awareness (no 'create' ni 'make'). TAKE into account (formal). Beat around the bush = andarse con rodeos (conversacional). Hit the nail on the head = dar en el clavo (positivo). Todos en tu SRS.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

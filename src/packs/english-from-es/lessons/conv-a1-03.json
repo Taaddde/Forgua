@@ -1,0 +1,113 @@
+{
+  "id": "conv-a1-03",
+  "title": "Conversation: Asking for Directions",
+  "description": "Pedir y dar indicaciones: Excuse me, turn left/right, go straight, it's on the corner.",
+  "level": "a1",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "excuse me",
+      "back": "disculpe, con permiso",
+      "reading": "/ɪkˈskjuːz miː/",
+      "explanation": "Para llamar la atención de alguien antes de una pregunta: 'Excuse me, where is...?' También para pasar entre personas.",
+      "cardRef": { "category": "vocabulary", "front": "excuse me" }
+    },
+    {
+      "front": "bank",
+      "back": "banco",
+      "reading": "/bæŋk/",
+      "explanation": "'Bank' = banco (institución financiera). También puede significar 'orilla de río'. No confundir con 'bench' (banco para sentarse en un parque).",
+      "cardRef": { "category": "vocabulary", "front": "bank" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario para pedir indicaciones",
+      "instruction": "Palabras esenciales para orientarse en la calle.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "conversation-script",
+      "title": "Conversación: Getting Directions",
+      "instruction": "Estás perdido en la calle y necesitás llegar al banco. Pedí indicaciones de forma correcta.",
+      "itemIndices": [],
+      "config": {
+        "script": {
+          "id": "conv-a1-03-directions",
+          "scenario": "Pidiendo indicaciones en la calle",
+          "level": "a1",
+          "turns": [
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                { "text": "Excuse me! Where is the bank?", "isCorrect": true, "feedback": "Perfecto. 'Excuse me' es la forma correcta y cortés de llamar la atención. 'Where is the + lugar?' es la pregunta estándar para direcciones." },
+                { "text": "Hey! Bank, where?", "isCorrect": false, "feedback": "Muy informal y difícil de entender. Siempre usá 'Excuse me' para hablar con desconocidos." },
+                { "text": "Do you know where is the bank?", "isCorrect": false, "feedback": "Casi correcto, pero en inglés indirect questions tienen un orden distinto: 'Do you know where THE BANK IS?' (sujeto + verbo, no inversión)." }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "The bank? Yes, it's not far. Go straight ahead, then turn left at the traffic light.",
+              "translation": "¿El banco? Sí, no está lejos. Siga recto, luego doble a la izquierda en el semáforo."
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                { "text": "Sorry, can you repeat that? Go straight and then turn left?", "isCorrect": true, "feedback": "Muy bien. Es completamente normal pedir que repitan. 'Can you repeat that?' es la frase perfecta para esta situación." },
+                { "text": "I understand you not.", "isCorrect": false, "feedback": "Orden incorrecto. 'I don't understand you' o 'I don't understand'." },
+                { "text": "What?", "isCorrect": false, "feedback": "Entiende perfectamente pero suena muy brusco. Mejor 'Sorry?' o 'Can you repeat that?'" }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "Yes, exactly! Go straight for two blocks, turn left, and the bank is on the right. It's next to the supermarket.",
+              "translation": "¡Sí, exactamente! Andá recto dos cuadras, doblá a la izquierda, y el banco está a la derecha. Está al lado del supermercado."
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                { "text": "How far is it? Is it walking distance?", "isCorrect": true, "feedback": "Pregunta muy útil y natural. 'Walking distance' = a distancia caminando. Muy común en inglés." },
+                { "text": "Is it near or far?", "isCorrect": true, "feedback": "También válido y muy natural. Ambas opciones correctas en este contexto." },
+                { "text": "Is it the left or the right the bank?", "isCorrect": false, "feedback": "Orden incorrecto. 'Is the bank on the left or on the right?' — el sujeto va antes del verbo en preguntas indirectas." }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "It's about five minutes on foot. Very close!",
+              "translation": "Son unos cinco minutos a pie. ¡Muy cerca!"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "options": [
+                { "text": "Great, thank you very much!", "isCorrect": true, "feedback": "Cierre perfecto. 'Thank you very much' es más enfático que solo 'thank you'. Muy natural." },
+                { "text": "Good, goodbye.", "isCorrect": false, "feedback": "Demasiado brusco. Podés agregar un agradecimiento: 'Great, thank you!' o 'Thanks a lot!'." },
+                { "text": "Thanks you!", "isCorrect": false, "feedback": "'Thanks you' no existe en inglés. O 'Thanks!' o 'Thank you!' — no mezclar ambos." }
+              ],
+              "correctOptionIndex": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Escribí las palabras clave.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "summary",
+      "title": "¡Conversación completa!",
+      "instruction": "Para pedir direcciones: 'Excuse me, where is...?' Para no entender: 'Sorry, can you repeat that?' Vocabulario de direcciones: go straight (recto), turn left/right (doblar), it's on the left/right (está a la izquierda/derecha), next to (al lado de), on the corner (en la esquina). 'On foot' = a pie.",
+      "itemIndices": [0, 1]
+    }
+  ]
+}

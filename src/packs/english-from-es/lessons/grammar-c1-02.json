@@ -1,0 +1,193 @@
+{
+  "id": "grammar-c1-02",
+  "title": "Advanced Mixed Conditionals",
+  "description": "Los condicionales mixtos: If + past perfect, would + base verb (pasado irreal → presente) y If + past simple, would have + past participle (condición permanente → pasado irreal).",
+  "level": "c1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Advanced Mixed Conditionals (If + past perfect, would + base verb (3rd→2nd) | If + past simple, would have + past participle (2nd→3rd))",
+      "back": "Condicionales mixtos: combinan tiempos de condición y resultado de diferentes condicionales",
+      "reading": "",
+      "explanation": "Los condicionales mixtos mezclan el tiempo de la condición y el resultado. TIPO 3→2 (pasado irreal → efecto presente): If + past perfect / would + base verb. TIPO 2→3 (condición permanente → evento pasado irreal): If + past simple/were / would have + past participle. Clave: la condición y el resultado se refieren a TIEMPOS DIFERENTES.",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Advanced Mixed Conditionals (If + past perfect, would + base verb (3rd→2nd) | If + past simple, would have + past participle (2nd→3rd))"
+      }
+    },
+    {
+      "front": "Mixed Conditional Type 3→2 example",
+      "back": "If I had studied medicine, I would be a doctor now.",
+      "reading": "",
+      "explanation": "Tipo 3→2: Una acción pasada irreal (no estudié medicina) tiene efecto en el PRESENTE (ahora no soy médico). Condición: 'If + had + past participle' (pasado irreal). Resultado: 'would + base verb + now' (presente irreal). En español: 'Si hubiera estudiado medicina, sería médico ahora.' Mezcla pluscuamperfecto de subjuntivo + condicional simple."
+    },
+    {
+      "front": "Mixed Conditional Type 2→3 example",
+      "back": "If she were braver, she would have spoken up at the meeting.",
+      "reading": "",
+      "explanation": "Tipo 2→3: Una condición permanente/característica (no es valiente — rasgo actual) habría afectado un evento PASADO (no habló en la reunión). Condición: 'If + past simple/were' (rasgo permanente irreal). Resultado: 'would have + past participle' (evento pasado irreal). En español: 'Si fuera más valiente, habría hablado.' Mezcla condicional simple de subjuntivo + condicional compuesto."
+    },
+    {
+      "front": "How to identify Mixed vs Pure Conditionals",
+      "back": "Test: ¿La condición y el resultado se refieren al mismo tiempo? → Condicional puro. ¿A tiempos diferentes? → Condicional mixto.",
+      "reading": "",
+      "explanation": "Puro 3rd: If she had studied, she would have passed. (Pasado → pasado). Puro 2nd: If she studied more, she would pass. (Presente/futuro → presente/futuro). MIXTO 3→2: If she had studied, she would be a teacher now. (Pasado → PRESENTE). MIXTO 2→3: If she were smarter, she would have noticed. (RASGO PERMANENTE → pasado). La clave: 'now', 'today', 'currently' en el resultado = tipo 3→2. Rasgo de carácter en la condición = tipo 2→3."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Condicionales mixtos — la mezcla de tiempos",
+      "instruction": "La mayoría de los libros de gramática solo enseñan los condicionales 1°, 2° y 3°. Los MIXTOS combinan el tiempo de la condición con el del resultado. Esto refleja la realidad: las causas pasadas tienen efectos presentes, y los rasgos presentes podrían haber cambiado eventos pasados.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué tipo de condicional es?",
+      "instruction": "Identificá si el condicional es puro (2°, 3°) o mixto (y qué tipo).",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Condicional correcto?",
+      "instruction": "Identificá errores en el tiempo verbal del condicional. Los condicionales mixtos son difíciles — ¿sabés cuándo usarlos?",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "If I had taken that job offer, I would be living in New York right now.",
+            "isCorrect": true,
+            "explanation": "Correcto: Condicional mixto tipo 3→2. Condición: 'had taken' (pasado irreal). Resultado: 'would be living' (presente irreal con 'right now'). La acción pasada de no aceptar el trabajo tiene efecto en el estado PRESENTE de no vivir en NY.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "If she were more patient, she would have made a better teacher.",
+            "isCorrect": true,
+            "explanation": "Correcto: Condicional mixto tipo 2→3. Condición: 'were more patient' (rasgo de carácter irreal, permanente). Resultado: 'would have made' (evento pasado irreal — su carrera como maestra ya terminó o no se desarrolló). La condición permanente habría afectado el pasado.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "If we had invested earlier, we would be millionaires now.",
+            "isCorrect": true,
+            "explanation": "Correcto: Condicional mixto tipo 3→2 clásico. 'Had invested' (pasado irreal) → 'would be millionaires now' (estado presente irreal). Exactamente el patrón de una decisión pasada con efecto en el presente.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "If he had been more organized, he would avoided the problem.",
+            "isCorrect": false,
+            "correction": "If he had been more organized, he would have avoided the problem.",
+            "explanation": "Falta 'have' después de 'would'. En el condicional 3° puro y en el tipo 2→3, el resultado es 'would + HAVE + past participle'. 'Would avoided' sin 'have' es incorrecto.",
+            "errorType": "modal-perfect"
+          },
+          {
+            "sentence": "If she would have studied harder, she would be at a better university now.",
+            "isCorrect": false,
+            "correction": "If she had studied harder, she would be at a better university now.",
+            "explanation": "Error muy común: 'would have' NO puede usarse en la cláusula 'if' (condición). En la condición se usa 'had + past participle' (NOT 'would have'). La cláusula de resultado puede llevar 'would have' (tipo 3 puro) o 'would + base verb' (mixto 3→2, como en este caso).",
+            "errorType": "tense-in-if-clause"
+          }
+        ]
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá los condicionales mixtos",
+      "instruction": "Elegí la forma verbal correcta para cada espacio.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "If she {0} the scholarship, she {1} a student at Oxford right now.",
+            "blanks": [
+              {
+                "answer": "had won",
+                "options": [
+                  "had won",
+                  "won",
+                  "would win",
+                  "would have won"
+                ]
+              },
+              {
+                "answer": "would be",
+                "options": [
+                  "would be",
+                  "would have been",
+                  "had been",
+                  "will be"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "If he {0} more pragmatic, he {1} that argument differently.",
+            "blanks": [
+              {
+                "answer": "were",
+                "options": [
+                  "were",
+                  "had been",
+                  "would be",
+                  "is"
+                ]
+              },
+              {
+                "answer": "would have handled",
+                "options": [
+                  "would have handled",
+                  "would handle",
+                  "had handled",
+                  "will handle"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "If the team {0} the original deadline, the product {1} on the market by now.",
+            "blanks": [
+              {
+                "answer": "had met",
+                "options": [
+                  "had met",
+                  "met",
+                  "would have met",
+                  "would meet"
+                ]
+              },
+              {
+                "answer": "would be",
+                "options": [
+                  "would be",
+                  "would have been",
+                  "had been",
+                  "will be"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completada!",
+      "instruction": "MIXTO 3→2: If + HAD + past participle / WOULD + base verb + (now) — una decisión/acción pasada irreal afecta el PRESENTE. MIXTO 2→3: If + WERE/past simple (rasgo permanente) / WOULD HAVE + past participle — un rasgo permanente irreal habría cambiado un EVENTO PASADO. Regla crucial: NUNCA 'if + would have' en la cláusula de condición.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ]
+}

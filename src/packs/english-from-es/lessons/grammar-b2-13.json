@@ -1,0 +1,179 @@
+{
+  "id": "grammar-b2-13",
+  "title": "Inversion after Negative Adverbials",
+  "description": "Cuando adverbios negativos van al inicio de la oración, el auxiliar se invierte al frente: 'Never have I seen...', 'Not only did she win...'. Estructura formal y enfática, especialmente en discursos y escritura.",
+  "level": "b2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Inversion after Negative Adverbials (Negative adverbial + auxiliary + subject + verb)",
+      "back": "Inversión del auxiliar ante el sujeto cuando ciertos adverbios negativos o restrictivos van al inicio. Estructura formal y enfática.",
+      "reading": "/ɪnˈvɜːrʒən ˈɑːftər ˈnɛɡətɪv ædˈvɜːrbiəlz/",
+      "explanation": "Cuando adverbios negativos o restrictivos (never, rarely, seldom, hardly, barely, scarcely, not only, no sooner, only when/after/by) van AL INICIO de la oración, el auxiliar se adelanta al sujeto exactamente como en una pregunta. Es una estructura formal y enfática. La inversión NO ocurre si el adverbio no va al inicio: 'I have never seen...' (orden normal) vs. 'Never have I seen...' (inversión con énfasis).",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Inversion after Negative Adverbials (Negative adverbial + auxiliary + subject + verb)"
+      }
+    },
+    {
+      "front": "Never have I seen such a beautiful sunset.",
+      "back": "Nunca he visto un atardecer tan hermoso.",
+      "reading": "/ˈnɛvər hæv aɪ siːn sʌtʃ ə ˈbjuːtɪfəl ˈsʌnsɛt/",
+      "explanation": "Orden normal: 'I have never seen such a beautiful sunset.' Con inversión: 'Never' va al inicio → el auxiliar 'have' salta antes de 'I'. La inversión añade énfasis emocional y es típica del habla formal o literaria. Nunca uses inversión en conversación casual."
+    },
+    {
+      "front": "Not only did she win the race, but she also broke the record.",
+      "back": "No solo ganó la carrera, sino que también rompió el récord.",
+      "reading": "/nɒt ˈoʊnli dɪd ʃiː wɪn ðə reɪs bʌt ʃiː ˈɔːlsoʊ broʊk ðə ˈrɛkərd/",
+      "explanation": "'Not only...but also' en passado sin auxiliar usa 'did' para la inversión: 'did she win' (no 'she won'). La segunda cláusula ('but she also broke') mantiene el orden normal. 'Not only' al inicio activa la inversión solo en la primera cláusula."
+    },
+    {
+      "front": "Rarely do we get the chance to travel abroad.",
+      "back": "Rara vez tenemos la oportunidad de viajar al exterior.",
+      "reading": "/ˈrɛərli duː wiː ɡɛt ðə tʃæns tə ˈtrævəl əˈbrɔːd/",
+      "explanation": "Con presente simple ('we get'), la inversión requiere el auxiliar 'do/does': 'Rarely do we get...'. No es correcto decir 'Rarely we get'. Otros adverbios similares: seldom, scarcely, barely. Todos requieren la misma inversión con auxiliar."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Inversión con adverbios negativos: la regla",
+      "instruction": "Cuando never, rarely, seldom, hardly, not only u otros adverbios negativos van AL INICIO, el auxiliar se invierte antes del sujeto (igual que en una pregunta). Orden normal: 'I have never seen...' → Con inversión: 'Never have I seen...' Es una estructura formal y enfática.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Inversión con 'do/does/did' en presente y pasado simple",
+      "instruction": "Si no hay auxiliar (presente simple o pasado simple), se inserta 'do/does/did' para la inversión, igual que al formar preguntas: 'Rarely do we get...', 'Not only did she win...'",
+      "itemIndices": [3]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá la inversión",
+      "instruction": "Elegí el auxiliar correcto para completar la inversión después del adverbio negativo.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "Never {0} I met anyone so generous.",
+            "blanks": [
+              { "answer": "have", "options": ["have", "had", "did"] }
+            ]
+          },
+          {
+            "template": "Hardly {0} she arrived when the storm began.",
+            "blanks": [
+              { "answer": "had", "options": ["had", "has", "did"] }
+            ]
+          },
+          {
+            "template": "Not only {0} he apologize, but he also offered to help.",
+            "blanks": [
+              { "answer": "did", "options": ["did", "had", "was"] }
+            ]
+          },
+          {
+            "template": "Seldom {0} we see such dedication in young athletes.",
+            "blanks": [
+              { "answer": "do", "options": ["do", "are", "have"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "word-in-context",
+      "title": "Inversión en contexto",
+      "instruction": "Elegí la oración donde la inversión está correctamente formada.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "Never + inversion",
+            "translation": "Nunca + inversión",
+            "options": [
+              "Never I have seen such courage.",
+              "Never seen have I such courage.",
+              "Never have I seen such courage.",
+              "Never have seen I such courage."
+            ],
+            "correctIndex": 2
+          },
+          {
+            "targetWord": "Not only + inversion",
+            "translation": "No solo + inversión",
+            "options": [
+              "Not only she passed the exam, but she got top marks.",
+              "Not only did she pass the exam, but she also got top marks.",
+              "Not only passed she the exam, but she got top marks.",
+              "Not only she did pass the exam, but also got top marks."
+            ],
+            "correctIndex": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Inversión correcta o incorrecta?",
+      "instruction": "Identificá si la inversión está bien formada o si tiene un error de orden o auxiliar.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "Rarely she goes to the cinema these days.",
+            "isCorrect": false,
+            "correction": "Rarely does she go to the cinema these days.",
+            "explanation": "INCORRECTO. 'Rarely' al inicio requiere inversión. Como el verbo está en presente simple, hay que insertar el auxiliar 'does' y usar el verbo en infinitivo: 'Rarely does she go...' Los hispanohablantes tienden a omitir la inversión porque en español no ocurre.",
+            "errorType": "missing-inversion"
+          },
+          {
+            "sentence": "No sooner had we left the house than it started to rain.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'No sooner...than' activa la inversión en la primera cláusula: 'had we left'. El pasado perfecto se invierte correctamente. La segunda cláusula ('it started to rain') mantiene el orden normal. Estructura muy formal y literaria.",
+            "errorType": "no-sooner"
+          },
+          {
+            "sentence": "Only then did I realized my mistake.",
+            "isCorrect": false,
+            "correction": "Only then did I realize my mistake.",
+            "explanation": "INCORRECTO. Con 'did' como auxiliar invertido, el verbo principal va en infinitivo sin 'to': 'realize', no 'realized'. El pasado lo marca el 'did', no el verbo principal. El mismo principio que en preguntas: 'Did you realize...?'",
+            "errorType": "double-past"
+          },
+          {
+            "sentence": "Hardly had he opened the door when the cat ran out.",
+            "isCorrect": true,
+            "explanation": "Correcto. 'Hardly...when' (o 'hardly...before') activa la inversión: 'had he opened'. Equivale a 'He had hardly opened the door when...' Estructura paralela a 'no sooner...than'. Ambas expresan dos eventos casi simultáneos.",
+            "errorType": "hardly-when"
+          }
+        ]
+      }
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá las oraciones con inversión",
+      "instruction": "Ordená los fragmentos para formar correctamente la inversión después del adverbio negativo.",
+      "itemIndices": [0, 1],
+      "config": {
+        "sentences": [
+          {
+            "translation": "Nunca he visto un atardecer tan hermoso.",
+            "fragments": ["Never", "have I", "seen such", "a beautiful sunset."],
+            "correctOrder": [0, 1, 2, 3]
+          },
+          {
+            "translation": "Rara vez tenemos la oportunidad de viajar al exterior.",
+            "fragments": ["Rarely", "do we", "get the chance", "to travel abroad."],
+            "correctOrder": [0, 1, 2, 3]
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Inversión con adverbios negativos: cuando never, rarely, seldom, hardly, barely, scarcely, not only, no sooner u 'only + adverbial' van AL INICIO, el auxiliar se invierte antes del sujeto. Sin auxiliar, se inserta do/does/did. Es una estructura FORMAL — no la uses en conversación casual. Los hispanohablantes suelen omitir la inversión porque en español no existe esta regla. Recordá: el adverbio negativo al inicio SIEMPRE activa la inversión.",
+      "itemIndices": [0, 1, 2, 3]
+    }
+  ]
+}

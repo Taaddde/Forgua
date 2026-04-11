@@ -1,0 +1,178 @@
+{
+  "id": "grammar-b2-05",
+  "title": "Wish & Unreal Past: Arrepentimiento y Deseo",
+  "description": "Wish + past perfect para arrepentimientos del pasado, y estructuras de pasado irreal como 'as if', 'it's time', 'would rather'.",
+  "level": "b2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Wish + Past Perfect (Subject + wish + subject + had + past participle)",
+      "back": "ojalá hubiera / desearía haber (arrepentimiento del pasado)",
+      "reading": "",
+      "explanation": "'Wish + past perfect' expresa arrepentimiento sobre algo que pasó (o no pasó) en el pasado. La situación ya no puede cambiar. 'I wish I had studied medicine' = ojalá hubiera estudiado medicina. Contraste: 'wish + past simple' = deseo presente irreal ('I wish I knew'), 'wish + would' = queja sobre comportamiento ('I wish you would stop').",
+      "cardRef": {
+        "category": "grammar",
+        "front": "Wish + Past Perfect (Subject + wish + subject + had + past participle)"
+      }
+    },
+    {
+      "front": "Would rather / Had better (would rather + base verb | had better + base verb)",
+      "back": "preferiría / más vale que",
+      "reading": "",
+      "explanation": "'Would rather' expresa preferencia: 'I'd rather stay home'. Con diferente sujeto usa pasado simple: 'I'd rather you didn't smoke' (prefiero que no fumes — presente irreal). 'Had better' da consejo fuerte con consecuencia implícita: 'You'd better hurry or you'll miss the train'. Ambas se contraen normalmente ('d rather, 'd better)."
+    },
+    {
+      "front": "Unreal Past (Subjunctive Uses) (It's time + subject + past simple | as if/as though + past simple/past perfect | If only...)",
+      "back": "pasado irreal (usos del subjuntivo)",
+      "reading": "",
+      "explanation": "Inglés usa el pasado simple para expresar situaciones irreales en el presente: 'It's time you got a job' (ya es hora de que consigas trabajo). 'As if/as though + past simple' para comparaciones presentes irreales: 'He acts as if he owned the place'. 'As if + past perfect' para irreales pasadas: 'She looked as if she had seen a ghost'. 'If only' = ojalá (más emocional que 'wish')."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Wish + past perfect: los arrepentimientos",
+      "instruction": "Para expresar arrepentimiento sobre algo del pasado que ya no se puede cambiar, usás 'wish + had + participio pasado'. 'I wish I had taken that job' = ojalá hubiera tomado ese trabajo. 'If only' intensifica: 'If only I had taken that job!' = ¡si tan solo hubiera tomado ese trabajo! Ambas expresan la misma idea, pero 'if only' es más emocional.",
+      "itemIndices": [
+        0
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Would rather, had better e 'it's time'",
+      "instruction": "'I'd rather + infinitive' = prefiero. Cuando hay dos sujetos diferentes: 'I'd rather you + past simple' = prefiero que vos... (aunque sea presente, usás pasado simple — es el subjuntivo). 'You'd better + infinitive' = más vale que (consejo fuerte). 'It's time + past simple' = ya es hora de que (indica que se está tardando demasiado).",
+      "itemIndices": [
+        1,
+        2
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es la estructura correcta?",
+      "instruction": "Elegí la forma correcta para cada oración con wish, would rather o had better.",
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con la forma correcta",
+      "instruction": "Elegí la forma verbal correcta para estas estructuras de deseo y arrepentimiento.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "I wish I {0} more attention during the training. Now I don't know how to use the system.",
+            "blanks": [
+              {
+                "answer": "had paid",
+                "options": [
+                  "had paid",
+                  "paid",
+                  "have paid",
+                  "would pay"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "It's high time the government {0} something about air pollution in the city.",
+            "blanks": [
+              {
+                "answer": "did",
+                "options": [
+                  "did",
+                  "does",
+                  "had done",
+                  "would do"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "I'd rather you {0} me before making any changes to the report.",
+            "blanks": [
+              {
+                "answer": "told",
+                "options": [
+                  "told",
+                  "tell",
+                  "had told",
+                  "would tell"
+                ]
+              }
+            ]
+          },
+          {
+            "template": "You'd better {0} that apology. Your colleague is extremely upset.",
+            "blanks": [
+              {
+                "answer": "write",
+                "options": [
+                  "write",
+                  "to write",
+                  "wrote",
+                  "have written"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Error o correcta?",
+      "instruction": "Identificá errores en el uso de 'wish', 'would rather', 'had better' y las estructuras de pasado irreal.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "She wishes she didn't accept that job offer last year.",
+            "isCorrect": false,
+            "correction": "She wishes she hadn't accepted that job offer last year.",
+            "explanation": "Para arrepentimientos sobre el PASADO, se usa 'wish + past perfect' (hadn't accepted). 'Wish + past simple' (didn't accept) se usa para deseos sobre el PRESENTE irreal ('I wish I spoke French' = ojalá hablara francés ahora). El marcador 'last year' indica que el error fue en el pasado.",
+            "errorType": "grammar"
+          },
+          {
+            "sentence": "He behaves as if he were the only expert in the room.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'As if + were' (subjuntivo con 'be') para situación irreal presente. 'Were' es la forma correcta para todas las personas con 'be' en el pasado irreal.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "I'd rather you don't share this information with anyone.",
+            "isCorrect": false,
+            "correction": "I'd rather you didn't share this information with anyone.",
+            "explanation": "Cuando 'would rather' tiene dos sujetos diferentes, la segunda cláusula usa el PASADO SIMPLE para expresar preferencia sobre el presente. 'I'd rather you DIDN'T' (past simple de 'don't'). Es el mismo patrón irreal del segundo condicional: presente irreal con pasado.",
+            "errorType": "grammar"
+          },
+          {
+            "sentence": "You'd better not be late to the board meeting — the CEO will be there.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'You'd better not + infinitive' para consejo negativo fuerte. La consecuencia implícita es que sería muy malo llegar tarde si el CEO estará presente.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "If only we had known about the problem earlier, we would have fixed it in time.",
+            "isCorrect": true,
+            "explanation": "Correcta. 'If only + past perfect' = arrepentimiento/deseo sobre el pasado. Equivale a 'I wish we had known'. La cláusula resultado 'would have fixed' es el 3er condicional normal.",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Resumen de estructuras B2 de deseo/arrepentimiento: Wish + past simple = presente irreal ('I wish I knew'). Wish + past perfect = arrepentimiento pasado ('I wish I had gone'). Wish + would = queja sobre comportamiento ('I wish you would stop'). I'd rather you + past simple = preferencia presente (no past). Had better + base verb = consejo fuerte. It's time + past simple = ya es hora de. As if/as though + past simple/perfect = comparación irreal.",
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
+    }
+  ]
+}

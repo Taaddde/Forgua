@@ -1,0 +1,180 @@
+{
+  "id": "conv-c1-01",
+  "title": "Presenting a Project Proposal",
+  "description": "Presentá una propuesta de proyecto en inglés profesional. Practica el lenguaje de justificación, respuesta a preguntas difíciles y hedging académico.",
+  "level": "c1",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "I'd like to walk you through...",
+      "back": "Fórmula para presentar algo paso a paso en un contexto profesional",
+      "reading": "",
+      "explanation": "'Walk someone through something' = explicar algo paso a paso, guiar a alguien a través de algo. 'I'd like to walk you through our proposal' es más fluido que 'I want to explain our proposal'. Common in presentations, onboarding, demonstrations."
+    },
+    {
+      "front": "The rationale behind this approach is...",
+      "back": "La justificación detrás de este enfoque es... (formal/professional)",
+      "reading": "",
+      "explanation": "Usar 'rationale' en lugar de 'reason' eleva el registro inmediatamente. 'The rationale behind this decision' implica que hay un argumento articulado y defendible, no solo una preferencia. Esencial en presentaciones de negocios e investigación."
+    },
+    {
+      "front": "I take your point, however...",
+      "back": "Entiendo tu argumento, sin embargo... (fórmula de concesión antes de contraargumentar)",
+      "reading": "",
+      "explanation": "En inglés profesional, se concede el punto del otro antes de contradecirlo. 'I take your point' = entiendo lo que decís, reconozco que tiene algo de mérito. 'However' introduce el contraargumento. Más cortés que 'But that's wrong' y más sofisticado que 'Yes but'."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario para presentaciones formales",
+      "instruction": "Antes de la conversación, familiarizate con las tres fórmulas de C1 para presentaciones y debates formales.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "conversation-script",
+      "title": "Presentación de propuesta a un cliente",
+      "instruction": "Estás presentando una propuesta de proyecto de consultoría a un cliente escéptico. Elegí las respuestas que demuestran competencia profesional en C1.",
+      "itemIndices": [],
+      "config": {
+        "script": {
+          "id": "project-proposal-c1",
+          "scenario": "Reunión formal de presentación de propuesta de consultoría — deberías defender el enfoque metodológico y manejar preguntas difíciles con seguridad y precisión",
+          "level": "c1",
+          "turns": [
+            {
+              "speaker": "npc",
+              "text": "Good afternoon. Thank you for coming in. Before you begin, I should mention that we've looked at several proposals and we're specifically interested in understanding your methodology.",
+              "translation": "Buenas tardes. Gracias por venir. Antes de que empiece, debería mencionar que hemos revisado varias propuestas y estamos específicamente interesados en entender su metodología."
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "translation": "Abrí la presentación y anunciá que vas a guiarlos por la propuesta",
+              "options": [
+                {
+                  "text": "Thank you for that. I'd like to walk you through our proposed methodology step by step, and I'll make sure to address the rationale behind each phase as we go.",
+                  "isCorrect": true,
+                  "feedback": "Perfecto. 'Walk you through' (guiar) + 'rationale behind each phase' (justificación formal). Responde directamente a lo que el cliente dijo (metodología) y establece la estructura. Registro apropiadamente profesional.",
+                  "translation": "Gracias por eso. Me gustaría guiarlos por nuestra metodología propuesta paso a paso, y me aseguraré de abordar la justificación de cada fase a medida que avancemos."
+                },
+                {
+                  "text": "OK, so let me explain everything about our project now.",
+                  "isCorrect": false,
+                  "feedback": "Demasiado vago e informal para una presentación C1. 'Explain everything' no establece estructura. 'OK, so' al inicio no es apropiado en una presentación formal. Falta la promesa específica de abordar la metodología.",
+                  "translation": "Ok, entonces déjame explicar todo sobre nuestro proyecto ahora."
+                },
+                {
+                  "text": "Our project is very good and we are sure you will like it.",
+                  "isCorrect": false,
+                  "feedback": "Sin sustancia ni estructura. Una afirmación de que algo 'is very good' sin evidencia ni plan no tiene credibilidad profesional. No conecta con la pregunta específica sobre metodología.",
+                  "translation": "Nuestro proyecto es muy bueno y estamos seguros de que les gustará."
+                }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "Let me interrupt here. You're proposing a 6-month timeline. Frankly, that strikes us as rather long. Our competitors have quoted us 3 months for similar work.",
+              "translation": "Permítame interrumpir aquí. Están proponiendo un cronograma de 6 meses. Francamente, eso nos parece bastante largo. Nuestros competidores nos han cotizado 3 meses para un trabajo similar."
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "translation": "Reconocé el punto pero defendé el cronograma con argumentos concretos",
+              "options": [
+                {
+                  "text": "I take your point entirely, and I appreciate your candour. The 6-month timeline may appear conservative on first glance; however, the rationale behind it stems from the complexity of your existing data infrastructure. A compressed timeline would likely mean cutting corners on the integration testing phase, which in our experience is where the most critical issues emerge.",
+                  "isCorrect": true,
+                  "feedback": "Excelente. 'I take your point' concede antes de contraargumentar. 'Appreciate your candour' (aprecio tu franqueza) — vocabulario C1. 'Stems from' (deriva de) + 'cutting corners' (tomar atajos) — phrasal verbs correctos. 'In our experience' da credibilidad sin ser arrogante.",
+                  "translation": "Entiendo completamente su punto, y aprecio su franqueza. El cronograma de 6 meses puede parecer conservador a primera vista; sin embargo, la justificación deriva de la complejidad de su infraestructura de datos existente. Un cronograma comprimido probablemente significaría tomar atajos en la fase de pruebas de integración, que en nuestra experiencia es donde emergen los problemas más críticos."
+                },
+                {
+                  "text": "No, 3 months is impossible. You cannot do this work in 3 months. We know better than the other companies.",
+                  "isCorrect": false,
+                  "feedback": "Demasiado directo y confrontacional. 'You cannot' y 'We know better' son afirmaciones absolutas que alienan al cliente. Un C1 hace lo mismo pero con hedging ('would likely', 'in our experience') y concesión primero.",
+                  "translation": "No, 3 meses es imposible. No se puede hacer este trabajo en 3 meses. Nosotros sabemos más que las otras empresas."
+                },
+                {
+                  "text": "Maybe 3 months could work. We can try to do it faster if you want.",
+                  "isCorrect": false,
+                  "feedback": "Ceder sin argumento ni análisis da una impresión de poca confianza y competencia. Un profesional defiende su propuesta con razones — si después de escuchar se decide ajustar, se hace con análisis, no por presión inmediata.",
+                  "translation": "Tal vez 3 meses podría funcionar. Podemos intentar hacerlo más rápido si quieren."
+                }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "That's a fair point about the integration testing. What empirical evidence do you have that competitors' shorter timelines lead to problems?",
+              "translation": "Es un punto válido sobre las pruebas de integración. ¿Qué evidencia empírica tienen de que los cronogramas más cortos de los competidores generan problemas?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "translation": "Reconocé que no tenés evidencia directa pero ofrecé lo que tenés",
+              "options": [
+                {
+                  "text": "I should be transparent: we don't have access to our competitors' project outcomes. What I can point to is our own track record — we have case studies from three comparable implementations where extended timelines correlated with significantly higher client satisfaction scores and lower post-launch defect rates. I'd be happy to share those.",
+                  "isCorrect": true,
+                  "feedback": "Honestidad + alternativa constructiva. 'I should be transparent' es una apertura de alto impacto. 'Track record' (historial de resultados), 'comparable implementations', 'post-launch defect rates' — vocabulario técnico preciso. Ofrecer las case studies muestra preparación.",
+                  "translation": "Debo ser transparente: no tenemos acceso a los resultados de proyectos de los competidores. Lo que puedo señalar es nuestro propio historial — tenemos estudios de caso de tres implementaciones comparables donde los cronogramas extendidos se correlacionaron con puntuaciones de satisfacción del cliente significativamente más altas y tasas de defectos post-lanzamiento más bajas. Estaría feliz de compartirlos."
+                },
+                {
+                  "text": "We have a lot of evidence from many years of experience that shows we are always right about these timelines.",
+                  "isCorrect": false,
+                  "feedback": "Vago ('a lot of evidence') y arrogante ('always right'). No responde a la pregunta de evidencia empírica específica. 'Always right' es una afirmación absolutamente imposible de sostener y daña la credibilidad.",
+                  "translation": "Tenemos mucha evidencia de muchos años de experiencia que muestra que siempre tenemos razón sobre estos cronogramas."
+                },
+                {
+                  "text": "It is obvious that faster projects have more problems. Everyone knows this.",
+                  "isCorrect": false,
+                  "feedback": "'It is obvious' y 'everyone knows' son exactamente los tipos de apelación que socavan un argumento en lugar de fortalecerlo. Si fuera obvio, no estarías siendo cuestionado. Un C1 respalda afirmaciones con evidencia.",
+                  "translation": "Es obvio que los proyectos más rápidos tienen más problemas. Todo el mundo lo sabe."
+                }
+              ],
+              "correctOptionIndex": 0
+            },
+            {
+              "speaker": "npc",
+              "text": "Fair enough. We'd be interested in reviewing those case studies. What would be your next step if we were to proceed?",
+              "translation": "Justo. Estaríamos interesados en revisar esos estudios de caso. ¿Cuál sería su próximo paso si decidiéramos proceder?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "translation": "Cerrá proponiendo pasos concretos con el tono adecuado",
+              "options": [
+                {
+                  "text": "I'd suggest we schedule a follow-up meeting — ideally within the next two weeks — where I can present the case studies and we can get the ball rolling on a more detailed scoping exercise. That would allow us to refine the timeline based on your specific requirements.",
+                  "isCorrect": true,
+                  "feedback": "Cierre profesional: pasos concretos ('schedule a follow-up'), marco temporal ('within two weeks'), 'get the ball rolling' (phrasal verb C1), y abre la posibilidad de ajustar ('refine the timeline based on your specific requirements'). Muestra flexibilidad sin ceder completamente.",
+                  "translation": "Sugeriría que programemos una reunión de seguimiento — idealmente en las próximas dos semanas — donde pueda presentar los estudios de caso y podamos ponernos en marcha con un ejercicio de alcance más detallado. Eso nos permitiría refinar el cronograma en función de sus requisitos específicos."
+                },
+                {
+                  "text": "OK, great! We will send you the documents and then start working!",
+                  "isCorrect": false,
+                  "feedback": "El entusiasmo es bueno pero el tono es demasiado informal ('OK, great!') y los pasos son vagos. No especifica plazos, no refleja que el cliente aún no ha confirmado su decisión de proceder.",
+                  "translation": "¡Ok, genial! Les enviaremos los documentos y luego comenzaremos a trabajar."
+                },
+                {
+                  "text": "The ball is now in your court. Contact us when you decide.",
+                  "isCorrect": false,
+                  "feedback": "Aunque 'the ball is in your court' es una expresión C1 válida, usarla para cerrar una presentación de propuesta suena pasivo y desinteresado. Un vendedor/consultor competente propone los próximos pasos con proactividad, no espera pasivamente.",
+                  "translation": "La decisión es ahora suya. Contáctenos cuando decidan."
+                }
+              ],
+              "correctOptionIndex": 0
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completada!",
+      "instruction": "Fórmulas profesionales clave: 'Walk you through' (guiar), 'The rationale behind' (la justificación), 'I take your point, however' (concesión + contraargumento), 'I should be transparent' (honestidad estratégica), 'Get the ball rolling' (iniciar el proceso). Estos patrones definen el inglés profesional C1. Los 3 ítems están en tu SRS.",
+      "itemIndices": [0, 1, 2]
+    }
+  ]
+}

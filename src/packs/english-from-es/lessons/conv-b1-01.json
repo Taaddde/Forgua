@@ -1,0 +1,189 @@
+{
+  "id": "conv-b1-01",
+  "title": "Conversation: Job Interview in English",
+  "description": "Una entrevista de trabajo básica. Cómo presentarte, hablar de tu experiencia y responder preguntas difíciles. Vocabulario y frases clave de entrevistas.",
+  "level": "b1",
+  "category": "mixed",
+  "items": [
+    {
+      "front": "Could you tell me a little about yourself?",
+      "back": "¿Podría contarme un poco sobre usted?",
+      "reading": "/kʊd juː tɛl miː ə ˈlɪtəl əˈbaʊt jɔːrˈsɛlf/",
+      "explanation": "La pregunta de apertura clásica de toda entrevista de trabajo en inglés. Preparate una respuesta de 1-2 minutos: educación, experiencia, por qué querés el trabajo."
+    },
+    {
+      "front": "I have experience in... / I'm responsible for...",
+      "back": "Tengo experiencia en... / Soy responsable de...",
+      "reading": "",
+      "explanation": "Frases clave para hablar de tu trabajo. 'I have 3 years of experience in customer service.' 'I'm responsible for managing the social media accounts.' Siempre sé específico."
+    },
+    {
+      "front": "My biggest weakness is... but I'm working on it.",
+      "back": "Mi mayor debilidad es... pero estoy trabajando en eso.",
+      "reading": "",
+      "explanation": "La respuesta estratégica a '¿Cuál es tu mayor debilidad?' — mencionar una debilidad real pero mostrar que estás mejorando. 'I sometimes take on too much work, but I've been learning to prioritize better.'"
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Frases clave para una entrevista de trabajo",
+      "instruction": "Antes del diálogo, familiarizate con estas frases esenciales. En una entrevista de trabajo en inglés, ser específico y dar ejemplos es más importante que tener gramática perfecta.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "conversation-script",
+      "title": "Job Interview: Marketing Assistant Position",
+      "instruction": "Participá en esta entrevista de trabajo. Elegí las respuestas más apropiadas. Pensá en el contexto — estás entrevistándote para un trabajo en marketing.",
+      "itemIndices": [],
+      "config": {
+        "script": {
+          "id": "conv-b1-job-interview",
+          "scenario": "Estás en una entrevista para un puesto de Marketing Assistant. El entrevistador es Mr. Davis, el gerente de marketing.",
+          "level": "b1",
+          "tags": ["work", "formal", "interview"],
+          "turns": [
+            {
+              "speaker": "npc",
+              "text": "Good morning! Please take a seat. My name is Mr. Davis. Thank you for coming in today.",
+              "translation": "¡Buenos días! Por favor tome asiento. Me llamo Sr. Davis. Gracias por venir hoy."
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "translation": "",
+              "options": [
+                {
+                  "text": "Good morning, Mr. Davis. Thank you for the opportunity to interview.",
+                  "isCorrect": true,
+                  "feedback": "Perfecto. Formal, agradecido y profesional. 'Thank you for the opportunity' es una frase estándar y bien vista en entrevistas.",
+                  "translation": "Buenos días, Sr. Davis. Gracias por la oportunidad de entrevistarme."
+                },
+                {
+                  "text": "Yeah, hi. Let's get started.",
+                  "isCorrect": false,
+                  "feedback": "Demasiado informal para una entrevista de trabajo. Nunca uses 'yeah' en vez de 'yes' en una entrevista formal.",
+                  "translation": "Sí, hola. Empecemos."
+                },
+                {
+                  "text": "Hello. I was waiting a long time outside.",
+                  "isCorrect": false,
+                  "feedback": "Quejarse de la espera no es una buena primera impresión en una entrevista. Aunque sea verdad, no es lo que el entrevistador necesita escuchar primero.",
+                  "translation": "Hola. Estuve esperando mucho tiempo afuera."
+                }
+              ]
+            },
+            {
+              "speaker": "npc",
+              "text": "Great. So, could you tell me a little about yourself and your background?",
+              "translation": "Bien. Entonces, ¿podría contarme un poco sobre usted y su experiencia?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "translation": "",
+              "options": [
+                {
+                  "text": "Sure. I studied Marketing at university and graduated two years ago. Since then, I've been working at a small agency where I manage social media accounts and create content for clients.",
+                  "isCorrect": true,
+                  "feedback": "Excelente respuesta. Estructurada, específica y relevante para el puesto. Menciona educación y experiencia directamente relacionada.",
+                  "translation": "Por supuesto. Estudié Marketing en la universidad y me gradué hace dos años. Desde entonces, he estado trabajando en una agencia pequeña donde manejo cuentas de redes sociales y creo contenido para clientes."
+                },
+                {
+                  "text": "I'm 25 years old, I live with my parents, and I like watching Netflix in my free time.",
+                  "isCorrect": false,
+                  "feedback": "Esta información no es relevante para el puesto. La pregunta '¿Cuénteme sobre usted?' en una entrevista se refiere a tu EXPERIENCIA PROFESIONAL y EDUCACIÓN, no a tu vida personal.",
+                  "translation": "Tengo 25 años, vivo con mis padres y me gusta ver Netflix en mi tiempo libre."
+                }
+              ]
+            },
+            {
+              "speaker": "npc",
+              "text": "Interesting. And why are you interested in working for our company specifically?",
+              "translation": "Interesante. ¿Y por qué le interesa trabajar para nuestra empresa en particular?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "translation": "",
+              "options": [
+                {
+                  "text": "I've been following your company for a while. I admire how you've grown your brand on social media and I think my skills in content creation could contribute to that.",
+                  "isCorrect": true,
+                  "feedback": "Respuesta estratégica: muestra que investigaste la empresa y conecta tu habilidad con sus necesidades. Esto es exactamente lo que quiere escuchar el entrevistador.",
+                  "translation": "He estado siguiendo su empresa por un tiempo. Admiro cómo han hecho crecer su marca en redes sociales y creo que mis habilidades en creación de contenido podrían contribuir a eso."
+                },
+                {
+                  "text": "Honestly, I applied to many companies and yours responded first.",
+                  "isCorrect": false,
+                  "feedback": "Aunque puede ser honesto, esta respuesta sugiere que no tenés interés particular en esta empresa. El entrevistador quiere saber por qué SU empresa, no que aplicaste en masa.",
+                  "translation": "Honestamente, apliqué a muchas empresas y la suya respondió primero."
+                }
+              ]
+            },
+            {
+              "speaker": "npc",
+              "text": "Good. Now, what would you say is your biggest weakness?",
+              "translation": "Bien. Ahora, ¿cuál diría que es su mayor debilidad?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "translation": "",
+              "options": [
+                {
+                  "text": "I sometimes struggle with saying no when I have too much work. But I've been actively working on prioritizing tasks and communicating my workload to my manager.",
+                  "isCorrect": true,
+                  "feedback": "La respuesta ideal: menciona una debilidad real (pero no devastadora para el puesto) Y muestra que estás tomando medidas para mejorarla. Esta estrategia es muy valorada.",
+                  "translation": "A veces me cuesta decir que no cuando tengo demasiado trabajo. Pero he estado trabajando activamente en priorizar tareas y comunicar mi carga de trabajo a mi gerente."
+                },
+                {
+                  "text": "I don't have any weaknesses. I work very hard and I'm always punctual.",
+                  "isCorrect": false,
+                  "feedback": "Decir que no tenés debilidades parece falta de autoconciencia o deshonestidad. Todos tenemos áreas de mejora. Esta respuesta genera desconfianza.",
+                  "translation": "No tengo ninguna debilidad. Trabajo muy duro y siempre soy puntual."
+                },
+                {
+                  "text": "My biggest weakness is that I get very stressed under pressure and sometimes make mistakes.",
+                  "isCorrect": false,
+                  "feedback": "Esta es una debilidad demasiado peligrosa para el puesto. Decir que cometés errores bajo presión en un trabajo que probablemente tenga deadlines no es estratégico.",
+                  "translation": "Mi mayor debilidad es que me estreso mucho bajo presión y a veces cometo errores."
+                }
+              ]
+            },
+            {
+              "speaker": "npc",
+              "text": "That's a thoughtful answer. Finally, do you have any questions for me?",
+              "translation": "Es una respuesta reflexiva. Finalmente, ¿tiene alguna pregunta para mí?"
+            },
+            {
+              "speaker": "learner",
+              "text": "",
+              "translation": "",
+              "options": [
+                {
+                  "text": "Yes, actually. Could you tell me more about the team I'd be working with and what the main priorities are for this role in the first three months?",
+                  "isCorrect": true,
+                  "feedback": "¡Excelente! Siempre hacé preguntas al final de la entrevista — muestra interés y preparación. Preguntar sobre el equipo y las prioridades demuestra que pensás seriamente en el trabajo.",
+                  "translation": "Sí, en realidad. ¿Podría contarme más sobre el equipo con el que trabajaría y cuáles son las principales prioridades para este rol en los primeros tres meses?"
+                },
+                {
+                  "text": "No, I don't have any questions.",
+                  "isCorrect": false,
+                  "feedback": "Nunca digas que no tenés preguntas al final de una entrevista. Muestra falta de interés. Siempre prepará 2-3 preguntas sobre el rol, el equipo o la empresa.",
+                  "translation": "No, no tengo preguntas."
+                }
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "summary",
+      "title": "¡Conversación completada!",
+      "instruction": "Completaste una entrevista de trabajo en inglés. Frases clave: 'Thank you for the opportunity', 'I've been working at... since', 'I've been following your company', 'I struggle with... but I've been working on...', siempre hacé preguntas al final. En entrevistas: sé específico, investigá la empresa, mostrá que tus debilidades están mejorando.",
+      "itemIndices": [0, 1, 2]
+    }
+  ]
+}

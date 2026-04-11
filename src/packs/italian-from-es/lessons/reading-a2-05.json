@@ -1,0 +1,89 @@
+{
+  "id": "reading-a2-05",
+  "title": "Lettura: L'estate scorsa",
+  "description": "Quinta lectura A2. Una persona narra sus vacaciones de verano pasado en Cerdeña. Combina passato prossimo (acciones completas) e imperfetto (hábitos y descripciones). Narración de vacaciones.",
+  "level": "a2",
+  "category": "reading",
+  "items": [
+    {
+      "front": "L'estate scorsa è stata fantastica.",
+      "back": "El verano pasado fue fantástico.",
+      "reading": "",
+      "explanation": "'L'estate scorsa' = el verano pasado (scorso/a = pasado/a). 'È stata fantastica' = fue fantástica (essere al passato prossimo: è stato/a). 'Fantastica' concuerda con 'estate' (f.sg.). Expresiones similares: la settimana scorsa (la semana pasada), il mese scorso (el mes pasado), l'anno scorso (el año pasado)."
+    },
+    {
+      "front": "A luglio, io e i miei amici abbiamo affittato una casa in Sardegna per due settimane.",
+      "back": "En julio, mis amigos y yo alquilamos una casa en Cerdeña por dos semanas.",
+      "reading": "",
+      "explanation": "'A luglio' = en julio (meses con preposición 'a' o 'in'). 'Abbiamo affittato' = alquilamos (affittare con AVERE). 'In Sardegna' = en Cerdeña (región → IN). 'Per due settimane' = por/durante dos semanas (PER para duración completada, diferente de DA)."
+    },
+    {
+      "front": "Ogni mattina ci alzavamo tardi, facevamo una colazione abbondante e poi andavamo alla spiaggia.",
+      "back": "Cada mañana nos levantábamos tarde, desayunábamos abundantemente y luego íbamos a la playa.",
+      "reading": "",
+      "explanation": "IMPERFETTO para hábitos y rutinas del pasado: alzavamo, facevamo, andavamo. El imperfetto indica acciones REPETIDAS o HABITUALES en el pasado (no acciones completas). 'Ogni mattina' = cada mañana (subraya el hábito). 'La spiaggia' = la playa. 'Abbondante' = abundante."
+    },
+    {
+      "front": "L'acqua era cristallina e calda.",
+      "back": "El agua era cristalina y calda.",
+      "reading": "",
+      "explanation": "IMPERFETTO (era) para DESCRIPCIÓN en el pasado. 'Era' = era/estaba. 'Cristallina' = cristalina (muy clara y transparente). 'Calda' = caliente/tibia. El mar de Cerdeña (Sardegna) es famoso por sus aguas transparentes y su color turquesa."
+    },
+    {
+      "front": "Nel pomeriggio, di solito dormivamo un po' e poi esploravamo i villaggi vicini.",
+      "back": "Por la tarde, normalmente dormíamos un poco y luego explorábamos los pueblos cercanos.",
+      "reading": "",
+      "explanation": "'Di solito' + imperfetto = normalmente (hábito en el pasado). 'Dormivamo un po'' = dormíamos un poco (siesta típica italiana y mediterránea). 'Esploravamo' = explorábamos (imperfetto di esplorare). 'I villaggi vicini' = los pueblos/aldeas cercanas."
+    },
+    {
+      "front": "Una sera abbiamo trovato un ristorante meraviglioso dove ho mangiato la migliore pasta ai frutti di mare della mia vita!",
+      "back": "Una noche encontramos un restaurante maravilloso donde comí la mejor pasta con mariscos de mi vida.",
+      "reading": "",
+      "explanation": "PASSATO PROSSIMO (abbiamo trovato, ho mangiato) para eventos específicos y únicos. Contrasta con el imperfetto de los párrafos anteriores. 'La migliore' = la mejor (superlativo relativo di buono). 'I frutti di mare' = los mariscos. 'Della mia vita' = de mi vida (enfático)."
+    },
+    {
+      "front": "Il tempo era bellissimo quasi sempre, tranne un giorno in cui ha piovuto.",
+      "back": "El tiempo era hermosísimo casi siempre, excepto un día en que llovió.",
+      "reading": "",
+      "explanation": "'Quasi sempre' = casi siempre. 'Tranne' = excepto, salvo. 'Un giorno in cui ha piovuto' = un día en que llovió. 'Ha piovuto' = llovió (piovere usa AVERE). 'Tranne' es equivalente a 'excepto' o 'salvo' en español — muy útil para hacer excepciones."
+    },
+    {
+      "front": "Abbiamo giocato a carte e abbiamo riso molto. Anche quella giornata è stata piacevole!",
+      "back": "Jugamos a las cartas y reímos mucho. ¡También ese día fue agradable!",
+      "reading": "",
+      "explanation": "'Abbiamo giocato a carte' = jugamos a las cartas. 'Abbiamo riso' = reímos (ridere → riso, participio irregular). 'È stata piacevole' = fue agradable (essere con ESSERE, participio concuerda con 'giornata' f.). 'Piacevole' = agradable, placentero."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "L'estate scorsa — Leemos juntos",
+      "instruction": "Texto completo de las vacaciones en Cerdeña. Notá cómo alterna: IMPERFETTO (hábitos y descripciones: alzavamo, facevamo, era) + PASSATO PROSSIMO (eventos únicos: abbiamo affittato, abbiamo trovato).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Imperfetto vs Passato prossimo",
+      "instruction": "Identificá qué verbos están en imperfetto y cuáles en passato prossimo. ¿Por qué? Imperfetto = hábitos/descripción. Passato prossimo = eventos específicos.",
+      "itemIndices": [2, 3, 4, 5, 6]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Las vacaciones en Cerdeña",
+      "instruction": "¿Cuánto tiempo estuvieron? ¿Qué hacían normalmente por la mañana? ¿Qué pasó una noche especial? ¿Qué hicieron el día que llovió?",
+      "itemIndices": [1, 2, 5, 7]
+    },
+    {
+      "type": "recall",
+      "title": "Contá tus vacaciones en italiano",
+      "instruction": "Usá el texto como modelo. Contá unas vacaciones reales o imaginarias: usá l'imperfetto para los hábitos y il passato prossimo para eventos específicos.",
+      "itemIndices": [0, 2, 5, 7]
+    },
+    {
+      "type": "summary",
+      "title": "Narrar vacaciones: imperfetto + passato prossimo",
+      "instruction": "IMPERFETTO (abitudini/descrizioni): ogni mattina alzavamo, facevamo, andavamo, era (el tiempo). PASSATO PROSSIMO (eventi): abbiamo affittato, abbiamo trovato, ho mangiato. Vocab. útil: l'estate scorsa (el verano pasado), per due settimane (por dos semanas), quasi sempre (casi siempre), tranne (excepto), i frutti di mare (mariscos), piacevole (agradable).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

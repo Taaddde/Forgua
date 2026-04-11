@@ -1,0 +1,89 @@
+{
+  "id": "reading-a2-01",
+  "title": "Lettura: Un weekend a Firenze",
+  "description": "Primera lectura A2. Una persona narra un fin de semana en Florencia usando el passato prossimo. Vocabulario de viajes, museos y gastronomía toscana. Narración en pasado.",
+  "level": "a2",
+  "category": "reading",
+  "items": [
+    {
+      "front": "Il mese scorso sono andato a Firenze con mia sorella.",
+      "back": "El mes pasado fui a Florencia con mi hermana.",
+      "reading": "",
+      "explanation": "'Il mese scorso' = el mes pasado. 'Sono andato' = fui (passato prossimo di andare, auxiliar ESSERE → 'andato' concuerda con el sujeto masc. sing.). Con essere: il participio concuerda. 'Siamo andati' (m.pl.), 'sono andata' (f.sg.)."
+    },
+    {
+      "front": "Siamo partiti sabato mattina e siamo arrivati in città verso mezzogiorno.",
+      "back": "Salimos el sábado por la mañana y llegamos a la ciudad hacia el mediodía.",
+      "reading": "",
+      "explanation": "'Siamo partiti' = salimos (partire con ESSERE). 'Siamo arrivati' = llegamos (arrivare con ESSERE). Verbos de movimiento usan essere: andare, venire, partire, arrivare, uscire, entrare, tornare... 'Verso mezzogiorno' = hacia el mediodía (verso = around/hacia para tiempo)."
+    },
+    {
+      "front": "Il viaggio in treno è durato circa un'ora e mezza.",
+      "back": "El viaje en tren duró aproximadamente una hora y media.",
+      "reading": "",
+      "explanation": "'È durato' = duró (durare usa ESSERE). 'Circa' = aproximadamente, alrededor de. 'Un'ora e mezza' = una hora y media. 'Circa' es muy útil para expresar aproximaciones en italiano."
+    },
+    {
+      "front": "Abbiamo lasciato le valige in albergo e poi siamo usciti subito a esplorare.",
+      "back": "Dejamos las maletas en el hotel y luego salimos a explorar enseguida.",
+      "reading": "",
+      "explanation": "'Abbiamo lasciato' = dejamos (lasciare con AVERE). 'Le valige' = las maletas (f.pl.). 'Siamo usciti' = salimos (uscire con ESSERE). 'Subito' = enseguida, de inmediato. 'A esplorare' = a explorar (andare + a + infinito)."
+    },
+    {
+      "front": "Prima abbiamo visitato il Duomo — era magnifico!",
+      "back": "Primero visitamos el Duomo — ¡era magnífico!",
+      "reading": "",
+      "explanation": "'Abbiamo visitato' = visitamos (visitare con AVERE). 'Era' = era/estaba (imperfetto di essere). Se usa el imperfetto para DESCRIPCIONES en el pasado, no para acciones completas. 'Magnifico!' = magnífico. Combinación típica: passato prossimo (acción) + imperfetto (descripción)."
+    },
+    {
+      "front": "Siamo entrati agli Uffizi, dove ho visto la Primavera di Botticelli dal vivo per la prima volta.",
+      "back": "Entramos a los Uffizi, donde vi La Primavera de Botticelli en persona por primera vez.",
+      "reading": "",
+      "explanation": "'Siamo entrati' = entramos (entrare con ESSERE). 'Ho visto' = vi (vedere con AVERE). 'Dal vivo' = en vivo, en persona, en directo. 'Per la prima volta' = por primera vez. Gli Uffizi = el museo más famoso de Florencia, con obras del Renacimiento."
+    },
+    {
+      "front": "La sera abbiamo cenato in una trattoria tipica.",
+      "back": "Por la noche cenamos en una trattoria típica.",
+      "reading": "",
+      "explanation": "'Abbiamo cenato' = cenamos (cenare con AVERE). 'La trattoria' = restaurante típico italiano, informal, familiar, generalmente más barato que el ristorante. 'La sera' = por la noche. La cena in Italia = la cena (comida de la noche), generalmente entre las 20:00 y las 22:00."
+    },
+    {
+      "front": "Ho preso la bistecca alla fiorentina e mia sorella ha ordinato la ribollita. È stato un weekend meraviglioso!",
+      "back": "Pedí el bistec florentino y mi hermana ordenó la ribollita. ¡Fue un fin de semana maravilloso!",
+      "reading": "",
+      "explanation": "'Ho preso' = pedí (prendere con AVERE). 'La bistecca alla fiorentina' = el famoso bistec toscano de gran tamaño. 'La ribollita' = sopa toscana tradicional de pan y verduras. 'È stato meraviglioso' = fue maravilloso (essere con ESSERE en passato prossimo)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Un weekend a Firenze — Leemos juntos",
+      "instruction": "Texto completo: 'Il mese scorso sono andato a Firenze con mia sorella. Siamo partiti sabato mattina e siamo arrivati in città verso mezzogiorno. Il viaggio in treno è durato circa un'ora e mezza. Abbiamo lasciato le valige in albergo e poi siamo usciti subito a esplorare. Prima abbiamo visitato il Duomo — era magnifico! Poi abbiamo camminato lungo l'Arno e abbiamo visto il Ponte Vecchio. Nel pomeriggio siamo entrati agli Uffizi... La sera abbiamo cenato in una trattoria tipica. È stato un weekend meraviglioso!'",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Passato prossimo: avere vs essere",
+      "instruction": "Notá los verbos en passato prossimo. ¿Usan AVERE (ho/abbiamo) o ESSERE (sono/siamo)? Los verbos de movimiento usan essere y el participio concuerda.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "¿Entendiste el fin de semana?",
+      "instruction": "Respondé: ¿Con quién fue? ¿Qué medio de transporte usaron? ¿Qué visitaron? ¿Qué comieron?",
+      "itemIndices": [0, 2, 5, 7]
+    },
+    {
+      "type": "recall",
+      "title": "Reconstruí la narración",
+      "instruction": "Ordená los eventos del fin de semana usando los conectores del texto: prima, poi, nel pomeriggio, la sera.",
+      "itemIndices": [1, 3, 4, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "Narrar en pasado con il passato prossimo",
+      "instruction": "Verbos con ESSERE (participio concuerda): andare→andato/a, partire→partito/a, arrivare→arrivato/a, uscire→uscito/a, entrare→entrato/a, durare→durato/a. Verbos con AVERE (participio invariable): lasciare→lasciato, visitare→visitato, vedere→visto, prendere→preso. Descripción en el passato = imperfetto (era magnifico). Vocabulario: trattoria, bistecca, ribollita, dal vivo, per la prima volta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

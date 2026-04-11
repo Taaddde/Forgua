@@ -1,0 +1,101 @@
+{
+  "id": "vocab-a2-09",
+  "title": "Il ristorante",
+  "description": "Vocabulario avanzado para comer en restaurantes italianos. Aprende la estructura de la comida italiana y cómo pedir con naturalidad.",
+  "level": "a2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "l'antipasto",
+      "back": "el entrante / el aperitivo",
+      "reading": "",
+      "explanation": "Primer paso de la comida italiana. Típicos: affettati misti (embutidos), bruschetta, prosciutto e melone."
+    },
+    {
+      "front": "il primo piatto",
+      "back": "el primer plato (pasta, risotto, sopa)",
+      "reading": "",
+      "explanation": "En Italia la estructura es: antipasto → primo → secondo → contorno → dolce. El primo es casi siempre pasta, risotto o minestra."
+    },
+    {
+      "front": "il secondo piatto",
+      "back": "el segundo plato (carne o pescado)",
+      "reading": "",
+      "explanation": "El plato principal de proteínas. 'Carne' (carne), 'pesce' (pescado), 'pollo' (pollo). Se pide por separado del contorno."
+    },
+    {
+      "front": "il contorno",
+      "back": "la guarnición / el acompañamiento",
+      "reading": "",
+      "explanation": "Las verduras/ensaladas se piden POR SEPARADO del secondo en Italia — no vienen incluidas automáticamente. 'Insalata mista', 'patate arrosto', 'verdure grigliate'."
+    },
+    {
+      "front": "il dolce / il dessert",
+      "back": "el postre",
+      "reading": "",
+      "explanation": "'Per dolce prendo il tiramisù.' = De postre tomo el tiramisú. Postres clásicos: tiramisù, panna cotta, cannoli, gelato."
+    },
+    {
+      "front": "il cameriere / la cameriera",
+      "back": "el camarero / la camarera",
+      "reading": "",
+      "explanation": "Para llamar la atención: 'Scusi!' (no 'cameriere!'). 'Posso avere il conto?' = ¿Me trae la cuenta?"
+    },
+    {
+      "front": "ordinare",
+      "back": "pedir (en un restaurante)",
+      "reading": "",
+      "explanation": "'Siete pronti per ordinare?' = ¿Están listos para pedir? 'Cosa prende?' = ¿Qué va a tomar? 'Prendo...' = Tomo... (para pedir)."
+    },
+    {
+      "front": "il menù / la carta",
+      "back": "el menú / la carta",
+      "reading": "",
+      "explanation": "'Possiamo vedere il menù?' = ¿Podemos ver el menú? 'Il menù del giorno' = el menú del día. 'La carta dei vini' = la carta de vinos."
+    },
+    {
+      "front": "il conto",
+      "back": "la cuenta",
+      "reading": "",
+      "explanation": "'Il conto, per favore!' = ¡La cuenta, por favor! 'Paghiamo separatamente o insieme?' = ¿Pagamos por separado o juntos?"
+    },
+    {
+      "front": "la prenotazione (al ristorante)",
+      "back": "la reserva (en el restaurante)",
+      "reading": "",
+      "explanation": "'Vorrei prenotare un tavolo per quattro persone.' = Quisiera reservar una mesa para cuatro personas. 'Per che ora?' = ¿Para qué hora?"
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "La struttura del pasto italiano",
+      "instruction": "La comida italiana sigue un orden muy específico. Aprende cada curso.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "recall",
+      "title": "Los platos en orden",
+      "instruction": "¿Recuerdas el orden de los platos en una comida italiana?",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "En el restaurante — interacciones",
+      "instruction": "Cómo interactuar con el camarero y gestionar la visita al restaurante.",
+      "itemIndices": [5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "Vocabulario completo del ristorante",
+      "instruction": "Practica todo el vocabulario del restaurante.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "Il ristorante — consolidado",
+      "instruction": "Dato cultural: en Italia el contorno (guarnición) se pide SEPARADO del secondo y tiene un precio adicional. Para llamar al camarero se dice '¡Scusi!' — es más correcto que '¡Cameriere!'",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

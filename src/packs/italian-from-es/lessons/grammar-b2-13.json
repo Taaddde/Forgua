@@ -1,0 +1,95 @@
+{
+  "id": "grammar-b2-13",
+  "title": "Suffissi alterativi: diminutivi, accrescitivi, peggiorativi",
+  "description": "Los sufijos modificadores del italiano: -ino/-etto (diminutivos), -one (aumentativos), -accio/-astro (peyorativos). Sus matices afectivos, connotativos y casos de lexicalización.",
+  "level": "b2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Dammi un attimino, arrivo subito!",
+      "back": "Dame un momentito, ¡ya llego!",
+      "reading": "",
+      "explanation": "DIMINUTIVO -INO: 'attimino' = diminutivo de 'attimo' (momento). El diminutivo no siempre indica pequeñez real: aquí suaviza la petición, la hace más cortés e informal. Muy frecuente en el habla cotidiana para atenuar: 'Un pochino' (un poquito), 'aspetta un momentino' (espera un momentito). El sufijo -ino/-ina es el más productivo en italiano moderno."
+    },
+    {
+      "front": "casetta (casita) / libretto (librillo) / paesello (pueblecito)",
+      "back": "Diminutivos con sufijos -etto/-etta y -ello/-ella",
+      "reading": "",
+      "explanation": "Otros SUFIJOS DIMINUTIVOS: -ETTO/-ETTA: 'casetta' (casita afectuosa), 'libretto' (librillo — ¡lexicalizado como 'libreto de ópera'!), 'vecchietto' (viejecito). -ELLO/-ELLA: 'paesello' (pueblecito), 'fiumicello' (riachuelo), 'vecchiello'. ⚠️ LEXICALIZZAZIONE: 'libretto' ya no es solo 'pequeño libro' sino también 'libreto' (de ópera) o 'libreta' (bancaria). Siempre verificar si el diminutivo tiene significado propio."
+    },
+    {
+      "front": "Ha una borsetta bellissima.",
+      "back": "Tiene un bolso precioso.",
+      "reading": "",
+      "explanation": "LEXICALIZZAZIONE: 'borsetta' está lexicalizado — ya no significa 'pequeña borsa' sino 'bolso de mano' (específico). 'Borsa' = bolso grande / bolsa de mercado; 'borsetta' = bolso de mano femenino. Otros lexicalizados: 'foglietto' (hojita de papel, no solo 'pequeña foglia'), 'golfino' (jersey ligero), 'cornetto' (croissant / cucurucho de helado). Es esencial saber cuáles han adquirido significado propio."
+    },
+    {
+      "front": "un omone (un hombrón) / una donnona (una mujerona) / un mangione (un comilón)",
+      "back": "Aumentativos con sufijo -one/-ona",
+      "reading": "",
+      "explanation": "ACCRESCITIVO -ONE/-ONA: indica gran tamaño o grado intenso. 'Omone' (hombrón grande), 'librone' (librazo), 'mangione' (gran comedor, comilón). ⚠️ Cambio de género: algunos sustantivos femeninos se vuelven masculinos con -one: 'la borsa' → 'il borsone' (bolso grande). 'La porta' → 'il portone' (portón). 'La macchina' → 'il macchinone' (cochazo). El género cambia al masculino con -one."
+    },
+    {
+      "front": "Che tempaccio! Non esce di casa con questo vento.",
+      "back": "¡Qué tiempo tan horrible! No sale de casa con este viento.",
+      "reading": "",
+      "explanation": "PEGGIORATIVO -ACCIO/-ACCIA: indica algo de mala calidad, desagradable, horrible. 'Tempaccio' = tiempo horrible (de 'tempo'). 'Parolaccia' = palabrota (lexicalizado: 'dire una parolaccia' = decir una mala palabra). 'Caratteraccio' = mal carácter. 'Giornataccia' = día horrible. En el habla cotidiana -accio es muy expresivo para quejarse."
+    },
+    {
+      "front": "-astro/-astra: poetastro (poetastro) / medicastro (medicucho) / fratellastro (hermanastro)",
+      "back": "Sufijo peyorativo -astro y sus usos",
+      "reading": "",
+      "explanation": "SUFIJO -ASTRO/-ASTRA: puede ser peyorativo (poetastro = poeta de poca calidad) o simplemente indicar relación de parentesco no biológica: 'fratellastro' (hermanastro), 'matrigna' equivale a 'madrastra'. 'Medicastro' (medicucho). 'Criticastro' (criticastro, crítico de poca calidad). El -astro peyorativo es más literario/elevado que -accio."
+    },
+    {
+      "front": "Panettone (pan dolce natalizio) ≠ grande 'panetto'",
+      "back": "El panettone: lexicalización total de un diminutivo/aumentativo",
+      "reading": "",
+      "explanation": "CUIDADO CON LEXICALIZADOS: 'panettone' viene de 'pane' + -ettone (doble sufijo) pero ya es completamente lexicalizado: es el dulce navideño milanés, no 'un gran panetito'. 'Mattino' no es diminutivo de 'matto'. 'Bottone' (botón) no es aumentativo de 'botto'. Muchas palabras italianas terminan en sufijos pero son lexicalizadas: no intentes descomponerlas. Cuando el significado no coincide con el sufijo, es un lexicalizado."
+    },
+    {
+      "front": "Uso affettuoso: 'Sei così carino/a!' / 'Vieni qui, piccolo mio!'",
+      "back": "Uso afectivo del diminutivo sin implicar tamaño real",
+      "reading": "",
+      "explanation": "Los diminutivos tienen USO AFFETTUOSO: no implican pequeñez sino afecto, ternura o atenuación. 'Carino/a' (majo/a, lindo/a) viene de 'caro' + -ino pero ya no significa 'pequeño caro' sino simplemente algo positivo. 'Tesoro' → 'tesorino' (término de cariño). 'Vieni qui, piccino mio' (diminutivo afectuoso). Este uso emocional del diminutivo es muy cultural e italiano."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Diminutivos: -ino/-etto/-ello",
+      "instruction": "DIMINUTIVOS: -ino/-ina (el más frecuente, afecto y pequeñez), -etto/-etta (diminutivo neutro), -ello/-ella (diminutivo + connotación rústica). Función: indicar pequeñez, ternura o atenuar. Ejemplos: attimino, casetta, paesello.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Aumentativo -one y peyorativos -accio/-astro",
+      "instruction": "AUMENTATIVO -one/-ona: gran tamaño o intensidad. Algunos sustantivos cambian de género (f→m). PEYORATIVOS -accio/-accia (horrible, de mala calidad), -astro/-astra (peyorativo literario o parentesco). Los peyorativos son muy expresivos en el habla informal.",
+      "itemIndices": [3, 4, 5]
+    },
+    {
+      "type": "introduce",
+      "title": "La trampa de los lexicalizados",
+      "instruction": "Muchas palabras con sufijos alterativi tienen significado propio (lexicalizado): borsetta (bolso, no 'pequeña bolsa'), panettone (dulce navideño), libretto (libreto). No intentes crear alterati de todas las palabras: el resultado puede ser incomprensible o gracioso involuntariamente.",
+      "itemIndices": [2, 6]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Qué sufijo lleva?",
+      "instruction": "Para cada sustantivo, identifica qué tipo de alteración expresa el sufijo y si está lexicalizado o no.",
+      "itemIndices": [1, 2, 3, 6]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Crea el alterato correcto",
+      "instruction": "Forma el alterativo adecuado del sustantivo dado según el significado indicado.",
+      "itemIndices": [0, 3, 4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "Suffissi alterativi — consolidados",
+      "instruction": "DIMINUTIVI: -ino/-ina, -etto/-etta, -ello/-ella → pequeñez, afecto, atenuación. ACCRESCITIVO: -one/-ona → gran tamaño; algunos cambian de género (f→m). PEGGIORATIVI: -accio/-accia (horrible), -astro/-astra (peyorativo literario). ⚠️ LEXICALIZADOS: borsetta, libretto, panettone, foglietto — significados propios, no descomponibles. USO AFFETTUOSO: diminutivos como marcas de afecto sin implicar tamaño.",
+      "itemIndices": [0, 2, 3, 4, 7]
+    }
+  ]
+}

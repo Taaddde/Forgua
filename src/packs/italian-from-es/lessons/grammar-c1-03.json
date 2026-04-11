@@ -1,0 +1,83 @@
+{
+  "id": "grammar-c1-03",
+  "title": "Il periodo ipotetico letterario",
+  "description": "El período hipotético literario italiano permite construcciones que se alejan del esquema estándar B2: la inversión sintáctica con congiuntivo trapassato sin 'se', el período mixto presente/pasado, y la condena firme al uso del condizionale en la protasi. Dominar esto eleva inmediatamente el nivel de escritura.",
+  "level": "c1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "TIPO 3 — Impossibile: Se avessi saputo la verità, non avrei mai accettato quel compromesso.",
+      "back": "Hipótesis imposible en el pasado: congiuntivo trapassato + condizionale passato.",
+      "reading": "",
+      "explanation": "El tipo más complejo y más importante: SE + congiuntivo trapassato (avessi saputo) → condizionale passato (avrei accettato). Equivale al español 'Si hubiera sabido... no habría aceptado'. En literario es el más frecuente en la prosa introspectiva."
+    },
+    {
+      "front": "Se avessi studiato di più, adesso sarei medico.",
+      "back": "Período hipotético MISTO: causa en el pasado (trapassato) + consecuencia en el presente (condiz. presente).",
+      "reading": "",
+      "explanation": "Período hipotético mixto: la condición es en el pasado ('si hubiera estudiado más') pero la consecuencia es en el presente ('ahora sería médico'). SE + congiuntivo trapassato → condizionale presente. Muy frecuente en italiano avanzado."
+    },
+    {
+      "front": "Avessi potuto scegliere, avrei scelto la solitudine. / Avesse parlato, tutto sarebbe cambiato.",
+      "back": "Inversión literaria: omisión de 'se' + congiuntivo trapassato en posición inicial.",
+      "reading": "",
+      "explanation": "Esta es la construcción literaria más elegante: se omite 'se' y el congiuntivo trapassato va al inicio de la frase. 'De haber podido elegir...' / 'De haber hablado...'. Presente en Leopardi, Verga, D'Annunzio. Señal de escritura elevada."
+    },
+    {
+      "front": "❌ Se avrebbe saputo, sarebbe venuto. → ✅ Se avesse saputo, sarebbe venuto.",
+      "back": "ERROR GRAVE: nunca se usa condizionale en la protasi (cláusula 'se'). Siempre congiuntivo.",
+      "reading": "",
+      "explanation": "El error más marcado del italiano coloquial del sur: usar 'avrebbe' después de 'se'. Es incorrecto en cualquier registro escrito y señal de interferencia dialectal. La protasi SIEMPRE lleva congiuntivo. Reconocer este error es necesario para entender el habla auténtica."
+    },
+    {
+      "front": "Se fossi ricco, comprerei una casa. (presente impossibile)",
+      "back": "Tipo 2 (revisión): SE + congiuntivo imperfetto + condizionale presente.",
+      "reading": "",
+      "explanation": "Revisión del tipo 2 (posible/imposible en el presente): SE + congiuntivo imperfetto (fossi) → condizionale presente (comprerei). Diferencia del tipo 3: aquí la hipótesis se refiere al presente, no al pasado."
+    },
+    {
+      "front": "Fossimo stati più attenti, non saremmo finiti in questa situazione.",
+      "back": "Período hipotético con soggetto in prima persona plurale — uso formal/letterario.",
+      "reading": "",
+      "explanation": "'Fossimo' = congiuntivo trapassato de 'essere', 1ª persona plurale. Forma menos conocida pero de uso literario y formal. 'Avessimo saputo, avremmo agito diversamente' = si hubiéramos sabido, habríamos actuado diferente."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Los tres tipos del período hipotético",
+      "instruction": "La clasificación clásica italiana es: Tipo 1 (reale, alta probabilidad), Tipo 2 (possibile, hipótesis presente), Tipo 3 (impossibile, hipótesis en el pasado). En C1, el foco es el Tipo 3 y el período misto — los que el B2 no domina completamente.",
+      "itemIndices": [0, 1, 4]
+    },
+    {
+      "type": "error-correction",
+      "title": "El error del condizionale en la protasi",
+      "instruction": "Este es el error más frecuente y más marcado del italiano coloquial. Identifica el error y corrígelo. La regla es absoluta: NUNCA condizionale después de 'se'.",
+      "itemIndices": [3]
+    },
+    {
+      "type": "introduce",
+      "title": "La inversión literaria: sin 'se'",
+      "instruction": "La construcción más elegante del italiano literario: omitir 'se' y poner el congiuntivo trapassato al inicio. 'Avessi saputo = De haber sabido'. Esta inversión es marca de registro elevado. La encontrarás en poesía, narrativa literaria y discursos formales.",
+      "itemIndices": [2]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "El tiempo correcto en la hipótesis",
+      "instruction": "Para cada período hipotético, elige el tiempo correcto para la protasi (cláusula 'se') y la apodosi (consecuencia). Atención al tipo misto.",
+      "itemIndices": [0, 1, 4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "Transforma a inversión literaria",
+      "instruction": "Transforma cada período hipotético tipo 3 en la forma literaria sin 'se' (inversión con congiuntivo trapassato al inicio).",
+      "itemIndices": [0, 2]
+    },
+    {
+      "type": "summary",
+      "title": "Período hipotético literario — dominado",
+      "instruction": "Tres formas avanzadas: (1) Misto: trapassato + condizionale presente. (2) Inversión literaria: Avessi... (sin se). (3) La regla absoluta: NUNCA condizionale en la protasi. Para practicar: lee los 'Canti' di Leopardi — usa frecuentemente las inversioni ipotetiche.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

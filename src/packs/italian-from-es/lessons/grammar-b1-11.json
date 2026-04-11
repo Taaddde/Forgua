@@ -1,0 +1,83 @@
+{
+  "id": "grammar-b1-11",
+  "title": "Gerundio — modo e tempo",
+  "description": "El gerundio italiano: más restringido que el español pero muy útil para expresar manera, causa y acciones simultáneas.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "parlando / scrivendo / partendo",
+      "back": "hablando / escribiendo / partiendo",
+      "reading": "",
+      "explanation": "Gerundio presente: -ARE → -ando; -ERE/-IRE → -endo. Invariable (no concuerda con género ni número). Irregolari: fare→facendo, dire→dicendo, bere→bevendo, stare→stando, essere→essendo."
+    },
+    {
+      "front": "Studiando ogni giorno, impari velocemente.",
+      "back": "Estudiando cada día, aprendes rápidamente.",
+      "reading": "",
+      "explanation": "Gerundio de MANERA/CONDICIÓN: expresa cómo o bajo qué condición ocurre la acción principal. El sujeto del gerundio DEBE ser el mismo que el de la oración principal. Aquí: tú (implícito) estudias Y aprendes."
+    },
+    {
+      "front": "Essendo stanca, è andata a letto presto.",
+      "back": "Estando cansada, se fue a dormir temprano.",
+      "reading": "",
+      "explanation": "Gerundio di CAUSA: 'essendo' (siendo/estando) explica la razón de la acción principal. El sujeto es el mismo (ella estaba cansada Y fue a dormir). 'Essendo' viene de 'essere' — el gerundio più irregular."
+    },
+    {
+      "front": "Sto mangiando. / Stavo dormendo.",
+      "back": "Estoy comiendo. / Estaba durmiendo.",
+      "reading": "",
+      "explanation": "STARE + gerundio = acción en progreso (equivale al 'estar + gerundio' español). Presente: sto mangiando. Passato (imperfetto): stavo dormendo. Muy frecuente en italiano coloquial."
+    },
+    {
+      "front": "avendo mangiato / essendo arrivato",
+      "back": "habiendo comido / habiendo llegado",
+      "reading": "",
+      "explanation": "GERUNDIO PASSATO: avendo/essendo + participio passato. Expresa una acción ANTERIOR a la principal. 'Avendo finito il lavoro, siamo usciti' = Habiendo terminado el trabajo, salimos. Con essere: participio concuerda."
+    },
+    {
+      "front": "Avendo studiato molto, ha superato l'esame.",
+      "back": "Habiendo estudiado mucho, pasó el examen.",
+      "reading": "",
+      "explanation": "Gerundio passato en uso. La acción del gerundio (estudiar) ocurrió ANTES que la principal (pasar el examen). En español también existe 'habiendo + participio' pero es más coloquial en italiano escrito y periodístico."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Formación del gerundio",
+      "instruction": "Regla simple: -ARE → -ando; -ERE/-IRE → -endo. Invariable siempre. Irregolari importantes: facendo (fare), dicendo (dire), bevendo (bere), essendo (essere).",
+      "itemIndices": [0]
+    },
+    {
+      "type": "introduce",
+      "title": "Gerundio de manera, causa y stare+gerundio",
+      "instruction": "Tres usos principales del gerundio presente: 1) Manera/condición: 'studiando, impari'. 2) Causa: 'essendo stanca...'. 3) Progresivo con stare: 'sto mangiando'. El sujeto siempre el mismo que la principal.",
+      "itemIndices": [1, 2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Gerundio passato — acción anterior",
+      "instruction": "Gerundio passato: avendo/essendo + participio. Para cuando la acción del gerundio precede a la principal. Con essere el participio concuerda. Muy usado en escritura formal.",
+      "itemIndices": [4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "Formá el gerundio",
+      "instruction": "¿Cuál es el gerundio de: studiare, prendere, finire, fare, essere?",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "recall",
+      "title": "¿Presente o passato?",
+      "instruction": "¿Cuándo se usa gerundio presente vs gerundio passato?",
+      "itemIndices": [2, 4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "Resumen: Gerundio",
+      "instruction": "Gerundio presente (-ando/-endo): manera, causa, condición. Con stare: progresivo. Gerundio passato (avendo/essendo + participio): acción anterior. Regla de oro: el sujeto del gerundio = sujeto de la oración principal. Si los sujetos son diferentes → usar una subordinada con 'poiché', 'dato che', etc.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

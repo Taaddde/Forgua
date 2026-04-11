@@ -1,0 +1,83 @@
+{
+  "id": "conv-b1-02",
+  "title": "Conversazione: In banca e in ufficio",
+  "description": "Lenguaje formal para trámites en banco, correo, oficina pública y otros contextos institucionales italianos. Fórmulas de cortesía esenciales.",
+  "level": "b1",
+  "category": "conversation",
+  "items": [
+    {
+      "front": "Vorrei aprire un conto corrente, per favore.",
+      "back": "Quisiera abrir una cuenta corriente, por favor.",
+      "reading": "",
+      "explanation": "'Vorrei' = quisiera (condizionale di 'volere' — la fórmula de cortesía fundamental para hacer pedidos formales). 'Aprire un conto corrente' = abrir una cuenta corriente. En el banco: conto corrente (cuenta corriente), conto di risparmio (cuenta de ahorros), bancomat (tarjeta de débito/cajero), prelievo (retiro), versamento (depósito). 'Vorrei...' siempre suena más cortés que 'Voglio...' en contextos formales."
+    },
+    {
+      "front": "Mi può aiutare? / Potrebbe aiutarmi?",
+      "back": "¿Me puede ayudar? / ¿Podría ayudarme?",
+      "reading": "",
+      "explanation": "'Mi può aiutare?' = ¿Me puede ayudar? (presente, más directo). 'Potrebbe aiutarmi?' = ¿Podría ayudarme? (condizionale, más cortés). El condizionale 'potrebbe' es más educado y formal. Estructura: 'Potrebbe + infinitivo?' para pedir algo cortésmente. Otros: 'Potrebbe ripetere?' (¿Podría repetir?), 'Potrebbe parlarmi più lentamente?' (¿Podría hablar más lento?)."
+    },
+    {
+      "front": "Ho un appuntamento con il dottor Rossi.",
+      "back": "Tengo una cita con el doctor Rossi.",
+      "reading": "",
+      "explanation": "'Ho un appuntamento' = tengo una cita/turno. 'Con il dottor Rossi' — nótese: en italiano, ante el apellido, el título se usa sin artículo: 'il dottor Rossi' (sin artículo propio). Compará: 'il dottore' (el doctor, con artículo) vs 'dottor Rossi' (como apelación, sin artículo). Esto es diferente del español: 'el doctor Rossi' vs italiano: 'il dottor Rossi'."
+    },
+    {
+      "front": "Scusi, potrebbe ripetere? / Non ho capito bene.",
+      "back": "Perdone, ¿podría repetir? / No entendí bien.",
+      "reading": "",
+      "explanation": "'Scusi' = perdone (imperativo di cortesia, forma Lei di 'scusare'). 'Non ho capito bene' = no entendí bien. En contextos formales: 'Scusi' (perdone) vs informal: 'Scusa' (perdona). 'Potrebbe ripetere più lentamente?' (¿Podría repetir más lento?). Otras fórmulas útiles: 'Potrebbe parlare più lentamente?' / 'Può spiegarmelo di nuovo?' (¿Puede explicármelo de nuevo?)."
+    },
+    {
+      "front": "Mi serve un documento per... / Ho bisogno di...",
+      "back": "Necesito un documento para... / Necesito...",
+      "reading": "",
+      "explanation": "'Mi serve' = me hace falta, necesito (servire = ser necesario/útil). Más formal que 'ho bisogno di'. 'Mi serve un documento per + infinitivo' = necesito un documento para hacer algo. 'Ho bisogno di' = tengo necesidad de (más directo). En oficinas italianas: a menudo se piden muchos documentos ('carta d'identità', 'codice fiscale', 'certificato di residenza'). 'Il codice fiscale' es el número de identificación fiscal, esencial en Italia."
+    },
+    {
+      "front": "Vorrei fare un bonifico / pagare una bolletta.",
+      "back": "Quisiera hacer una transferencia bancaria / pagar una factura/boleta.",
+      "reading": "",
+      "explanation": "'Un bonifico' = una transferencia bancaria (bancaria). 'Una bolletta' = una factura, un recibo de servicio (electricidad, gas, agua). Vocabulario bancario: 'fare un prelievo' (hacer un retiro), 'fare un versamento' (hacer un depósito/ingreso), 'fare un pagamento' (hacer un pago), 'il saldo' (el saldo), 'il tasso di interesse' (la tasa de interés)."
+    },
+    {
+      "front": "A che ora chiude l'ufficio? / Qual è il vostro orario?",
+      "back": "¿A qué hora cierra la oficina? / ¿Cuál es su horario?",
+      "reading": "",
+      "explanation": "'A che ora chiude?' = ¿a qué hora cierra? 'Qual è il vostro orario?' = ¿cuál es su horario? (usando 'vostro' para la institución, más natural que 'Suo'). En Italia, muchas oficinas públicas y bancos tienen orario ridotto (horario reducido) y algunas cierran al mediodía. Es importante preguntar: 'Siete aperti il sabato?' (¿Están abiertos el sábado?), 'Fate il turno continuo?' (¿Tienen turno corrido?)."
+    },
+    {
+      "front": "Grazie mille. / Molto gentile. / Arrivederci.",
+      "back": "Muchísimas gracias. / Muy amable. / Hasta luego.",
+      "reading": "",
+      "explanation": "Fórmulas de despedida formal: 'Grazie mille' (muchísimas gracias, literalmente 'gracias mil'). 'Molto gentile' = muy amable (respuesta a un servicio, equivalente a 'grazie' + cumplido). 'Arrivederci' = hasta luego (formal). 'ArrivederLa' = hasta luego (muy formal, con Lei). 'Prego' = de nada (respuesta a grazie). 'Si figuri!' = ¡No faltaba más! (muy formal, tras agradecimiento)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El condizionale di cortesia: vorrei, potrebbe",
+      "instruction": "En contextos formales italianos, SIEMPRE usa el condizionale para pedir: 'Vorrei...' (quisiera), 'Potrebbe...?' (¿podría?). 'Voglio' o 'Può' suenan demasiado directos en una institución. Esta es la regla de oro del italiano institucional.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Vocabulario bancario y de trámites",
+      "instruction": "Aprende el vocabulario esencial: conto corrente, bonifico, bolletta, prelievo, versamento, codice fiscale. En Italia, el 'codice fiscale' (número de identificación) es indispensable para casi cualquier trámite.",
+      "itemIndices": [4, 5]
+    },
+    {
+      "type": "conversation-script",
+      "title": "Diálogo en banco: apertura di conto",
+      "instruction": "Practica este diálogo completo: cliente quiere abrir una cuenta, pide información, no entiende algo y pide que repitan. Usa vorrei, potrebbe, scusi, ho bisogno di.",
+      "itemIndices": [0, 1, 3, 4, 7]
+    },
+    {
+      "type": "summary",
+      "title": "Italiano institucional — consolidado",
+      "instruction": "FÓRMULAS ESENCIALES: Vorrei + infinitivo (quisiera...), Potrebbe + infinitivo? (¿podría?), Mi serve (me hace falta), Ho bisogno di (necesito), Scusi (perdone). DESPEDIDAS: Grazie mille, Molto gentile, Arrivederci. VOCABULARIO: conto corrente, bonifico, bolletta, appuntamento, orario, codice fiscale.",
+      "itemIndices": [0, 1, 3, 6, 7]
+    }
+  ]
+}

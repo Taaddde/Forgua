@@ -1,0 +1,95 @@
+{
+  "id": "grammar-b1-17",
+  "title": "Periodo ipotetico tipo 2: Se venissi, mangerei",
+  "description": "El período hipotético de posibilidad o irrealidad en el presente: SE + congiuntivo imperfetto + condizionale presente. Equivale al español 'Si vinieras, comería'.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Se avessi più tempo, studierei di più.",
+      "back": "Si tuviera más tiempo, estudiaría más.",
+      "reading": "",
+      "explanation": "Período hipotético tipo 2: SE + congiuntivo imperfetto (avessi) + condizionale presente (studierei). Se usa para hipótesis que el hablante considera posibles pero no seguras, o directamente contrarias a la realidad presente. ⚠️ Para hispanohablantes: la estructura es idéntica al español 'Si tuvieras...harías'. La diferencia principal: en italiano se usa el CONGIUNTIVO IMPERFETTO en la prótasis (nunca el condizionale)."
+    },
+    {
+      "front": "Se fossi ricco, comprerei una villa in Toscana.",
+      "back": "Si fuera rico, compraría una villa en la Toscana.",
+      "reading": "",
+      "explanation": "'Fossi' es el congiuntivo imperfetto de 'essere' (irregular). Formas de essere: fossi, fossi, fosse, fossimo, foste, fossero. Es una hipótesis claramente contraria a la realidad (el hablante no es rico). La apódosis usa condizionale presente: comprerei, comprerebbe, compreremmo."
+    },
+    {
+      "front": "Se venisse al party, lo presenterei ai miei amici.",
+      "back": "Si viniera a la fiesta, lo presentaría a mis amigos.",
+      "reading": "",
+      "explanation": "Congiuntivo imperfetto de 'venire': venissi, venissi, venisse, venissimo, veniste, venissero. La 3ª persona singular es 'venisse'. La hipótesis puede ser posible pero incierta (él quizá no viene). Compare: tipo 1 'Se viene' (vendrá casi seguro) vs tipo 2 'Se venisse' (dudo que venga)."
+    },
+    {
+      "front": "Se avesse studiato, avrebbe superato l'esame.",
+      "back": "Si hubiera estudiado, habría aprobado el examen.",
+      "reading": "",
+      "explanation": "Tipo 2 en el PASADO (tipo 3): se + congiuntivo TRAPASSATO (avesse studiato) + condizionale PASSATO (avrebbe superato). Hipótesis imposible porque el pasado ya no puede cambiarse. Es la variante más difícil: 'avesse' = 3ª sg. del congiuntivo imperfetto de avere; 'avrebbe superato' = condizionale passato."
+    },
+    {
+      "front": "Se potessi, vivrei in Italia.",
+      "back": "Si pudiera, viviría en Italia.",
+      "reading": "",
+      "explanation": "'Potessi' = congiuntivo imperfetto de 'potere'. Formas de potere: potessi, potessi, potesse, potessimo, poteste, potessero. 'Vivrei' = condizionale presente de 'vivere'. Esta construcción expresa un deseo que el hablante sabe que (por ahora) no puede cumplir."
+    },
+    {
+      "front": "Se facesse bello, andremmo al mare.",
+      "back": "Si hiciera buen tiempo, iríamos al mar.",
+      "reading": "",
+      "explanation": "'Facesse' = congiuntivo imperfetto de 'fare' (base: face-). 'Andremmo' = condizionale presente de 'andare'. Hipótesis meteorológica, típicamente posible pero incierta. Notar: 'fare bello' = hacer buen tiempo (hace sol/calor)."
+    },
+    {
+      "front": "Errore: *Se avrei soldi, comprerei la macchina.",
+      "back": "Correcto: Se avessi soldi, comprerei la macchina.",
+      "reading": "",
+      "explanation": "ERROR MUY FRECUENTE: nunca se usa el condizionale después de 'se'. La prótasis (condición con 'se') SIEMPRE lleva congiuntivo imperfetto, nunca condizionale. ✗ *se avrei, *se farei, *se verrei → ✓ se avessi, se facessi, se venissi."
+    },
+    {
+      "front": "Errore: *Se studi di più, imparesti meglio.",
+      "back": "Correcto (tipo 1): Se studi di più, impari meglio. O (tipo 2): Se studiassi di più, impareresti meglio.",
+      "reading": "",
+      "explanation": "No mezcles tipo 1 y tipo 2. Tipo 1 (situación real): se + presente → presente/futuro. Tipo 2 (hipótesis): se + congiuntivo imperfetto → condizionale presente. La mezcla *'se studi... imparesti' es incorrecta porque combina presente (tipo 1) con condizionale (tipo 2)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "La fórmula del tipo 2",
+      "instruction": "SE + congiuntivo imperfetto + condizionale presente. Dos partes: la condición con 'se' (avessi, fossi, venisse, facesse...) y la consecuencia en condizionale (studierei, comprerei, vivrei...). El orden puede invertirse: 'Studierei di più se avessi tempo'.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Irregolari clave del congiuntivo imperfetto",
+      "instruction": "Los más importantes: essere→fossi, avere→avessi, fare→facessi, andare→andassi, venire→venissi, potere→potessi, dovere→dovessi, dire→dicessi. La 1ª y 2ª persona singular son IGUALES (avessi/avessi), la 3ª singular termina en -e (avesse).",
+      "itemIndices": [2, 3, 4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "¿Tipo 1 o tipo 2?",
+      "instruction": "Observá los ejemplos e identificá qué tipo de período hipotético es cada uno y por qué. Recordá: tipo 1 = condición real/probable (presente), tipo 2 = hipótesis incierta o contraria a la realidad (congiuntivo imperfetto).",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "error-correction",
+      "title": "Errori comuni: NUNCA condizionale después de 'se'",
+      "instruction": "Corregí estos errores frecuentes. La regla es absoluta: después de 'se' en tipo 2, siempre congiuntivo imperfetto.",
+      "itemIndices": [6, 7]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá el período hipotético",
+      "instruction": "Completá con la forma correcta del congiuntivo imperfetto o del condizionale presente.",
+      "itemIndices": [0, 1, 4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "Período hipotético tipo 2 — consolidado",
+      "instruction": "FÓRMULA: Se + congiuntivo imperfetto + condizionale presente. Para hipótesis presentes/futuras inciertas o contrarias a la realidad. Para el PASADO: Se + congiuntivo trapassato + condizionale passato. REGLA DE ORO: nunca condizionale después de 'se'. Irregolari: fossi (essere), avessi (avere), facessi (fare), andassi (andare), venissi (venire).",
+      "itemIndices": [0, 1, 2, 4, 5]
+    }
+  ]
+}

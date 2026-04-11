@@ -1,0 +1,89 @@
+{
+  "id": "reading-b1-01",
+  "title": "Lettura: Un italiano nel mondo",
+  "description": "Texto B1 sobre la experiencia de un italiano que vive en el extranjero. Practicás conectores de concesión, vocabulario de identidad cultural y reflexión sobre la emigración.",
+  "level": "b1",
+  "category": "reading",
+  "items": [
+    {
+      "front": "lo mettevano a disagio",
+      "back": "lo incomodaban, le hacían sentir incómodo",
+      "reading": "",
+      "explanation": "'Mettere a disagio' = incomodar, hacer sentir incómodo. Expresión idiomática italiana muy frecuente. 'A disagio' = incómodo (contrario de 'a proprio agio' = cómodo, a gusto). El sujeto es plural ('la lingua, il clima e le abitudini') → 'mettevano' (imperfetto 3ª pl.)."
+    },
+    {
+      "front": "la distanza apparente nascondeva rispetto, non indifferenza",
+      "back": "la distancia aparente escondía respeto, no indiferencia",
+      "reading": "",
+      "explanation": "'Nascondere' = esconder, ocultar. Imperfetto: 'nascondeva'. Esta frase expresa el cambio de perspectiva de Marco: lo que parecía frialdad ('distanza apparente') era en realidad respeto. El uso del imperfetto describe una situación duradera en el pasado. 'Apparente' = aparente (falso cognado parcial: en español 'aparente' puede significar visible o aparente/ilusorio)."
+    },
+    {
+      "front": "si sente «europeo» più che solo italiano",
+      "back": "se siente 'europeo' más que solo italiano",
+      "reading": "",
+      "explanation": "'Sentirsi + aggettivo' = sentirse + adjetivo. Construcción pronominal. 'Più che' = más que (comparativo). Las comillas en «europeo» marcan que es una identidad construida, reflexiva. Presente indicativo: 'si sente' (se siente). Vocabulario de identidad: 'sentirsi a casa' (sentirse en casa), 'sentirsi straniero' (sentirse extranjero)."
+    },
+    {
+      "front": "ha arricchito la sua identità con nuovi modi di vivere",
+      "back": "ha enriquecido su identidad con nuevas formas de vivir",
+      "reading": "",
+      "explanation": "'Arricchire' = enriquecer (de 'ricco'). Passato prossimo: 'ha arricchito'. 'Modi di vivere' = formas de vivir, estilos de vida. Marco no perdió su identidad italiana sino que la expandió. Vocabulario clave: 'arricchire' (enriquecer), 'identità' (identidad), 'modi di vivere' (estilos/formas de vida). Estos son términos B1 para hablar de multiculturalidad."
+    },
+    {
+      "front": "L'emigrazione ti cambia, ma se sei aperto, ti rende anche più grande.",
+      "back": "La emigración te cambia, pero si estás abierto, también te hace más grande.",
+      "reading": "",
+      "explanation": "La cita directa de Marco usa: 1) 'L'emigrazione' (sustantivo abstracto). 2) 'ti cambia' / 'ti rende' (te cambia / te hace). 3) Período hipotético tipo 1: 'se sei aperto' + 'ti rende'. 4) 'aperto' aquí = abierto de mente. La estructura 'X, ma se Y, Z' expresa una condición positiva que modifica el resultado negativo."
+    },
+    {
+      "front": "i berlinesi, una volta conosciuti, sanno essere calorosamente amichevoli",
+      "back": "los berlineses, una vez conocidos, saben ser calurosamente amigables",
+      "reading": "",
+      "explanation": "'Una volta conosciuti' = once you get to know them / una vez conocidos. Costruzione participiale. 'Sanno essere' = saben ser (sapere + infinitivo = saber hacer algo). 'Calorosamente' (calurosamente) — fíjate en la diferencia ortográfica italiano/español. 'Amichevoli' = amigables (de 'amico' + sufijo -evole)."
+    },
+    {
+      "front": "le abitudini così diverse",
+      "back": "las costumbres tan diferentes",
+      "reading": "",
+      "explanation": "'Le abitudini' = las costumbres, los hábitos. Singular: 'l'abitudine' (f.). 'Così diverse' = tan diferentes. 'Così + aggettivo' = tan + adjetivo (comparativo exclamativo): 'così bello!' (¡tan bonito!). 'Diverso' en italiano = diferente (no solo 'diverso' en sentido de variedad): 'È diverso da quello che pensavo' = Es diferente de lo que pensaba."
+    },
+    {
+      "front": "è abituato a salutare i vicini ogni mattina",
+      "back": "está acostumbrado a saludar a los vecinos cada mañana",
+      "reading": "",
+      "explanation": "'Essere abituato a + infinitivo' = estar acostumbrado a hacer algo. 'I vicini' = los vecinos (singular: il vicino/la vicina). Cultura italiana: saludar a los vecinos es parte del ritmo social cotidiano en muchas ciudades italianas, especialmente en el Sur y en ciudades de tamaño medio."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Antes de leer: activá tu conocimiento",
+      "instruction": "Este texto habla de un napolitano que vive en Berlín. Antes de leerlo, pensá: ¿Qué diferencias culturales podrías encontrar entre el sur de Italia y Alemania? Observá el vocabulario inicial: mettere a disagio, abitudini diverse, calorosamente.",
+      "itemIndices": [0, 1, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Vocabulario en contexto",
+      "instruction": "Estas expresiones del texto tienen matices importantes. Deducí el significado desde el contexto antes de leer la explicación. Prestá atención a los verbos pronominali y a los conectores.",
+      "itemIndices": [2, 3, 5, 6]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Comprensión del texto",
+      "instruction": "Respondé las preguntas sobre el texto. Algunas requieren inferencia. Usá el texto para justificar tus respuestas con citas directas cuando sea posible.",
+      "itemIndices": [1, 4, 3]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Estructuras gramaticales B1 en el texto",
+      "instruction": "Este texto usa: periodo ipotetico tipo 1 ('se sei aperto, ti rende'), passato prossimo + imperfetto narrativo, 'una volta + participio'. Identificá estos usos en el texto.",
+      "itemIndices": [4, 5, 8]
+    },
+    {
+      "type": "summary",
+      "title": "Lectura completada",
+      "instruction": "Vocabulario clave aprendido: mettere a disagio, abitudini, arricchire l'identità, calorosamente, sentirsi europeo. Estructuras usadas: imperfetto + passato prossimo, 'una volta + participio', periodo ipotetico tipo 1. Tip: Lee el texto de nuevo cronometrándote. Un lector B1 debería entender el 75% sin diccionario.",
+      "itemIndices": [0, 2, 4]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "reading-b1-02",
+  "title": "Lettura: Gastronomia regionale italiana",
+  "description": "Texto B1 sobre las cocinas regionales de Italia. Practicás vocabulario gastronómico, uso de conectores y la estructura argumentativa del texto.",
+  "level": "b1",
+  "category": "reading",
+  "items": [
+    {
+      "front": "gelosamente custodite",
+      "back": "celosamente guardadas / custodiadas con celo",
+      "reading": "",
+      "explanation": "'Gelosamente' = celosamente (con celo, con mucho cuidado de no compartir). De 'geloso' (celoso, en el sentido de possessivo/custodio). 'Custodite' = guardadas, custodiadas (participio de 'custodire'). La expresión describe cómo las regiones italianas protegen sus tradiciones culinarias: son suyas y no las comparten fácilmente."
+    },
+    {
+      "front": "guai a chi osa aggiungere salse",
+      "back": "ay del que se atreva a agregar salsas",
+      "reading": "",
+      "explanation": "'Guai a chi + verbo' = ay del que... / desgracia para quien... Expresión de advertencia muy italiana. 'Osare' = atreverse (verbo irregular: osa, 3ª sg.). La frase expresa la seriedad con que los florentinos defienden la autenticidad de la bistecca fiorentina. En el contexto culinario italiano, hay 'reglas no escritas' que se cumplen con gran rigor."
+    },
+    {
+      "front": "la pizza margherita con il suo impasto soffice e i pomodori San Marzano",
+      "back": "la pizza margarita con su masa esponjosa y los tomates San Marzano",
+      "reading": "",
+      "explanation": "'Impasto' = masa (de pan, pizza, pasta). 'Soffice' = esponjoso, suave. 'I pomodori San Marzano' = los tomates San Marzano (variedad de tomate del área de Nápoles, reconocida por DOP). Este vocabulario técnico-culinario B1 incluye: impasto, cottura, ingredienti, ricetta, sapore. La pizza napoletana tiene reglas estrictas reconocidas por la UNESCO."
+    },
+    {
+      "front": "un'altra cucina ancora: arancini, caponata agrodolce, cannoli con ricotta fresca",
+      "back": "otra cocina más: arancini, caponata agridulce, cannoli con ricota fresca",
+      "reading": "",
+      "explanation": "Vocabulario de la cucina siciliana: 'arancini' = bolitas de arroz fritas rellenas (singular: arancino o arancina según la parte de Sicilia). 'Caponata' = ensalada agridulce de berenjena. 'Agrodolce' = agridulce (agro + dolce). 'Cannoli' = plural de 'cannolo' (dulce de masa frita con ricota). 'Ricotta fresca' = ricota fresca. La cocina siciliana refleja las influencias árabe, griega y española del texto."
+    },
+    {
+      "front": "Il cibo, per gli italiani, non è solo nutrimento: è cultura, memoria e identità.",
+      "back": "La comida, para los italianos, no es solo sustento: es cultura, memoria e identidad.",
+      "reading": "",
+      "explanation": "Frase temática del texto: síntesis del argumento central. 'Nutrimento' = alimento, sustento (formal; informal: 'cibo'). La estructura 'non è solo X: è Y, Z e W' es una forma retórica de ampliar la definición. Vocabulario cultural: 'cultura', 'memoria', 'identità'. Nota el uso de los dos puntos (:) para introducir la redefinición."
+    },
+    {
+      "front": "queste differenze non dividono l'Italia: la uniscono",
+      "back": "estas diferencias no dividen a Italia: la unen",
+      "reading": "",
+      "explanation": "'Dividere' (dividir) vs 'unire' (unir). El antitético 'non X: Y' es frecuente en italiano. 'La uniscono' = la unen (oggetto diretto femminile = l'Italia). Verbo 'unire' → uniscono (3ª pl., irregolare in -isco: unisco, unisci, unisce, uniamo, unite, uniscono). Este argumento es central en el texto: la diversidad gastronómica como factor de unidad nacional."
+    },
+    {
+      "front": "attraverso l'orgoglio comune per la qualità e la tradizione",
+      "back": "a través del orgullo compartido por la calidad y la tradición",
+      "reading": "",
+      "explanation": "'Attraverso' = a través de (preposición). 'Orgoglio' = orgullo (de 'orgoglioso' = orgulloso). 'Comune' aquí = compartido, en común (no significa 'municipio' en este contexto). 'La qualità e la tradizione' son los dos valores que el texto identifica como motores del orgullo culinario italiano. Cognados útiles: qualità (calidad), tradizione (tradición)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Antes de leer: la gastronomía regional italiana",
+      "instruction": "¿Sabías que Italia no tiene una sola cocina nacional sino cientos de cocinas regionales? Antes de leer, activá tu conocimiento: ¿qué comidas italianas conoces y de qué región vienen? Prestá atención al vocabulario gastronómico y a los conectores argumentativos.",
+      "itemIndices": [0, 2]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Vocabulario en contexto",
+      "instruction": "Estas frases del texto contienen vocabulario B1 importante. Deducí el significado desde el contexto antes de leer la explicación.",
+      "itemIndices": [0, 1, 3, 4]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Comprensión del texto",
+      "instruction": "Respondé las preguntas sobre el texto usando información explícita e inferencias. ¿Qué argumenta el texto? ¿Cuál es la tesis central?",
+      "itemIndices": [4, 5, 6]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Estructura argumentativa del texto",
+      "instruction": "El texto tiene una estructura argumentativa: tesis → ejemplos → conclusión. Identificá cada parte y los conectores que usa (però, invece, anzi). ¿Cómo llega a su conclusión?",
+      "itemIndices": [5, 6]
+    },
+    {
+      "type": "summary",
+      "title": "Lectura completada",
+      "instruction": "Vocabulario aprendido: gelosamente custodite, impasto, nutrimento, orgoglio, unire. Construcción retórica clave: 'non è solo X: è Y, Z'. Tema cultural: la diversidad culinaria regional como identidad italiana. ¿Hay una equivalencia en la cultura argentina o española?",
+      "itemIndices": [4, 5, 6]
+    }
+  ]
+}

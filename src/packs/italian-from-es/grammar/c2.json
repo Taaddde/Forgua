@@ -1,0 +1,291 @@
+[
+  {
+    "id": "c2-italiano-scritto-letterario",
+    "title": "L'italiano scritto letterario: forme arcaiche, latinismi e stile dantesco",
+    "level": "c2",
+    "explanation": "El italiano literario clásico, desde Dante hasta Leopardi y D'Annunzio, utiliza formas morfológicas, sintácticas y léxicas que se alejan del estándar moderno. Para leer (y excepcionalmente escribir) en registro ultra-elevado, es necesario reconocer estas estructuras.",
+    "sections": [
+      {
+        "title": "Il congiuntivo arcaico (forme sincopate e desuete)",
+        "content": "El italiano antiguo y literario presenta formas de subjuntivo que difieren del moderno:\n\n**CONGIUNTIVO PRESENTE arcaico:**\n• 'sia' (modern.) → 'sia' (estable, pero 'sieno' por 'siano' en textos antiguos)\n• 'abbia' → 'abbia' / 'abbiano' → 'abbiano' (estable)\n• 'voglia' → 'vogli' (Dante: 'perché non vogli')\n• 'sappia' → 'sappi' (arcaico)\n• 'possa' → 'possi' (en algunos textos del Trecento)\n\n**CONGIUNTIVO IMPERFETTO en -i (arcaico):**\n• 'fosse' estable, pero 'fôra' = fosse (Dante, Petrarca)\n• 'avesse' estable, pero 'avéra' (arcaico)\n\n**FUTURO ANTICO (congiuntivo presente con valore futuro):**\n'Ché se fosse, con tutto il vostro ardire / Verremmo noi...' — construcción hipotética con 'fosse' donde el moderno usa 'se fosse'.\n\n**FORME VERBALI LETTERARIE:**\n• '-iero/-iero' (3ª pl. passato remoto): 'andiero' per 'andarono', 'puoiero' per 'poterono'\n• '-ono' alternativo: 'diedono' per 'diedero'\n• Imperativo arcaico: 'va'' per 'vai', 'da'' per 'dai', 'di'' per 'di', 'sta'' per 'stai'",
+        "examples": [
+          {
+            "italian": "«Nel mezzo del cammin di nostra vita / mi ritrovai per una selva oscura» — Dante, Inferno I, 1-2",
+            "translation": "'En el medio del camino de nuestra vida / me encontré por una selva oscura' — Dante, Infierno I, 1-2"
+          },
+          {
+            "italian": "«Amor, ch'a nullo amato amar perdona» — Dante, Inferno V (uso de 'ch'' = che, y sintaxis latinizante)",
+            "translation": "'Amor, que a ningún amado amar perdona' — sintaxis latina: el amor que no perdona a nadie amado el no amar"
+          }
+        ]
+      },
+      {
+        "title": "Latinismi sintattici nella prosa letteraria",
+        "content": "El italiano literario alto hereda del latín construcciones sintácticas que no existen en el italiano estándar:\n\n1. **ABLATIVO ABSOLUTO**: Construcción participial sin nexo explícito (equivale a una cláusula temporal/causal/concesiva):\n'Terminato il discorso, si alzarono tutti.' (= Cuando terminó el discurso / Una vez terminado)\n'Detto questo, non aggiunse altro.' (= Habiendo dicho esto)\n\nEsta construcción SÍ existe en italiano moderno y es de uso normal. En el literario se amplía:\n'Venuta la sera, il vento si calmò.' / 'Passati gli anni, tutto cambia.'\n\n2. **PARTICIPIO PRESENTE con valore verbale**: El participio presente activo (en -ante/-ente) en italiano moderno funciona principalmente como adjetivo. En el literario puede tener valor verbal pleno:\n'Una donna portante in grembo un bambino' (literario) = 'che portava'\n'L'esercito avanzante sul colle' (literario)\n\n3. **INFINITO SOSTANTIVATO con articolo**: El infinitivo con artículo tiene larga tradición literaria italiana:\n'Il vivere è un'arte / Il soffrire raffina l'anima / Lo scrivere è pensare'\n\n4. **GERUNDIO con valore modale elevato**:\n'Stava leggendo' (progressivo) → en literario también: 'Così dicendo, uscì' (diciendo eso) / 'Pur essendo colpevole, chiese grazia' (aunque siendo culpable).",
+        "examples": [
+          {
+            "italian": "Finite le speranze, rimase solo il silenzio.",
+            "translation": "Terminadas las esperanzas, solo quedó el silencio."
+          },
+          {
+            "italian": "L'uomo, tendendo la mano verso l'orizzonte, sembrò cercare qualcosa di perduto.",
+            "translation": "El hombre, extendiendo la mano hacia el horizonte, pareció buscar algo perdido."
+          }
+        ]
+      },
+      {
+        "title": "Lo stile leopardiano: pessimismo cosmico e lingua",
+        "content": "Giacomo Leopardi (1798-1837) representa la cima del lirismo italiano. Su estilo combina:\n\n**LESSICO**: uso elevado de latinismi lessicali ('ignave', 'errando', 'ermo'), arcaismi ('dianzi', 'ivi', 'quivi'), e la recuperación de palabras clásicas.\n\n**SINTASSI**: periodi lunghi con subordinazione complessa; uso del gerundio e del participio a fini ritmici; inversioni dell'ordine normale (soggetto in fondo: 'Nel tempo della tua fanciullezza, eri tu...').\n\n**TEMI E LESSICO SPECIFICO**: 'il nulla', 'la noia', 'l'infinito', 'la rimembranza', 'l'arido vero', 'la natura matrigna'.\n\nCONOCER LEOPARDI es indispensable para cualquiera que aspire al C2 literario.",
+        "examples": [
+          {
+            "italian": "«Sempre caro mi fu quest'ermo colle, / E questa siepe, che da tanta parte / Dell'ultimo orizzonte il guardo esclude.» — L'Infinito",
+            "translation": "'Siempre me fue querida esta colina solitaria, / y esta cerca, que de tanta parte / del último horizonte excluye la mirada.' — Lo Infinito"
+          }
+        ]
+      }
+    ],
+    "pattern": "forme arcaiche: -ei (condiz.) | latinismi | lessico dantesco",
+    "meaning": "italiano escrito literario: formas arcaicas y latinismos",
+    "examples": [
+      {
+        "sentence": "Nel mezzo del cammin di nostra vita mi ritrovai per una selva oscura. (Dante)",
+        "translation": "A la mitad del camino de nuestra vida me encontré en una selva oscura. (Dante)",
+        "breakdown": [
+          "Nel mezzo del cammin = A la mitad del camino",
+          "mi ritrovai = me encontré (passato remoto dantesco)"
+        ]
+      },
+      {
+        "sentence": "Amor, ch'a nullo amato amar perdona... (Dante)",
+        "translation": "Amor, que a ningún amado excusa de amar... (Dante)",
+        "breakdown": [
+          "ch' = che (apocope), stile poetico medievale"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c2-costruzioni-latineggianti",
+    "title": "Costruzioni latineggianti nel formale scritto italiano",
+    "level": "c2",
+    "explanation": "El italiano formal escrito, especialmente el jurídico-administrativo y el académico, conserva construcciones de herencia latina que no existen en el habla cotidiana. Su dominio es señal de máxima competencia escrita.",
+    "sections": [
+      {
+        "title": "Il cum inversum e le costruzioni assolute",
+        "content": "El **cum inversum** latino (donde la cláusula principal es el contexto y la cum-cláusula es el evento destacado) sobrevive en italiano literario como:\n\n'Stava per uscire, quando squillò il telefono.'\n→ La estructura invierte la relevancia: el evento sorpresa (quando = quando inverso) es el teléfono.\n\nConstrucciones absolutas típicas en el italiano formale:\n• 'Come si vedrà in seguito' = como se verá más adelante\n• 'Premesso quanto sopra' = dada la premisa anterior\n• 'Tanto premesso' = establecido lo anterior\n• 'Ciò posto' = establecido esto\n• 'Fermo quanto detto' = firme lo dicho\n\nEstas fórmulas de premessa son esenciales en escritura jurídica y académica.",
+        "examples": [
+          {
+            "italian": "Tanto premesso e considerato, la Corte ritiene che...",
+            "translation": "Establecido y considerado lo anterior, el Tribunal estima que..."
+          }
+        ]
+      },
+      {
+        "title": "L'accusativo con l'infinito nel formale italiano",
+        "content": "La construcción accusativo + infinitivo, heredada del latín, aparece en italiano formal con verbos como 'ritenere', 'considerare', 'dichiarare', 'affermare', 'credere' cuando el sujeto del infinitivo es diferente:\n\nLATÍN: Credo Deum esse bonum (= Creo que Dios es bueno)\nITALIANO FORMALE: 'Si ritiene la proposta essere inaccettabile'\nITALIANO STANDARD: 'Si ritiene che la proposta sia inaccettabile'\n\nLa construcción con infinitivo es más compacta y de registro muy alto. Se encuentra en textos giuridici, diplomatici y en el italiano letterario elevato:\n\n• 'Il documento risulta essere falsificato' (el documento resulta estar falsificado)\n• 'Si considera l'approccio essere inadeguato'\n• 'Lo giudicò essere l'uomo giusto per quella missione'",
+        "examples": [
+          {
+            "italian": "Il tribunale ha dichiarato la sentenza essere passata in giudicato.",
+            "translation": "El tribunal declaró que la sentencia había adquirido firmeza."
+          }
+        ]
+      },
+      {
+        "title": "Formule latineggianti di uso corrente nell'italiano colto",
+        "content": "Además de los usados en academia (ex multis, ut supra, etc.), el italiano culto conserva estas locuciones latinas de uso frecuente:\n\n**IN AMBITO GIURIDICO:**\n• 'pro quota' = en proporción a la cuota/parte\n• 'ex nunc / ex tunc' = desde ahora / desde entonces (efectos retroactivos)\n• 'ultra vires' = más allá de las competencias atribuidas\n• 'in pectore' = en secreto, reservado (del latín 'en el pecho')\n• 'sub iudice' = pendiente de resolución judicial\n• 'prima facie' = a primera vista\n\n**IN AMBITO GENERALE COLTO:**\n• 'alma mater' = universidad donde uno se licenció\n• 'curriculum vitae' = CV\n• 'curriculum studiorum' = expediente académico\n• 'sine die' = sin fecha fija\n• 'de facto' = de hecho (vs. 'de iure' = de derecho)\n• 'motu proprio' = por iniciativa propia\n• 'in primis' = en primer lugar\n• 'ipso facto' = inmediatamente, por ese mismo hecho",
+        "examples": [
+          {
+            "italian": "La questione è ancora sub iudice: attendiamo la sentenza definitiva.",
+            "translation": "La cuestión está aún sub iudice: esperamos la sentencia definitiva."
+          }
+        ]
+      }
+    ],
+    "pattern": "accusativo con l'infinito | ablativo assoluto italianizzato",
+    "meaning": "construcciones latinizantes en el italiano formal",
+    "examples": [
+      {
+        "sentence": "Ritengo questo approccio essere il più efficace.",
+        "translation": "Considero este enfoque como el más eficaz.",
+        "breakdown": [
+          "ritengo... essere = considero... ser (accusativo con infinito dal latino)"
+        ]
+      },
+      {
+        "sentence": "Terminate le operazioni, il personale fu congedato.",
+        "translation": "Terminadas las operaciones, el personal fue despedido.",
+        "breakdown": [
+          "terminate le operazioni = terminadas las operaciones (participio assoluto)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c2-varieta-linguistica",
+    "title": "La variazione dell'italiano: standard, colloquiale, regionale, dialettale",
+    "level": "c2",
+    "explanation": "El italiano no es un bloque monolítico. Existe una variación sociolingüística enorme que va del dialetto locale al neostandard urbano al registro formale scritto. Un hablante C2 comprende todos estos registros y sabe cuándo se producen los code-switching.",
+    "sections": [
+      {
+        "title": "La diglossia italiana e il continuum varietale",
+        "content": "La situación lingüística italiana es un CONTINUUM con cuatro polos principales:\n\n1. **DIALETTO LOCALE** (dialetto vero e proprio): sistemas lingüísticos propios, históricamente anteriores al italiano. Hoy en declive pero recuperados por identidad.\nEjemplos: Veneziano, Napoletano, Siciliano, Piemontese.\n\n2. **ITALIANO REGIONALE**: italiano influido por el dialecto de la zona en fonética, léxico y sintaxis. TODOS los italianos hablan un italiano regionale.\n\n3. **ITALIANO NEOSTANDARD** (o italiano dell'uso medio): variedad hablada urbana, con algunos fenomeni informali aceptados (dislocazione, che polivalente, concordanza a senso).\n\n4. **ITALIANO STANDARD SCRITTO**: la norma codificada, base de la escritura formal, los medios, la burocracia.",
+        "examples": [
+          {
+            "italian": "Lo stesso concetto in diverse varietà:\nSTANDARD: 'Non ho visto nessuno.'\nNEOSTANDARD PARLATO: 'Non ho visto nessuno.'\nCOLLOQUIALE ROMANO: 'Non ho visto nessuno, anvedi.'\nNAPOLETANO: 'Nun aggio visto nisciuno.'\nVENEZIANO: 'No go visto nisun.'",
+            "translation": "El mismo concepto en distintas variedades: (ver original italiano)"
+          }
+        ]
+      },
+      {
+        "title": "Fenomeni del neostandard italiano",
+        "content": "El **italiano neostandard** (D'Achille, 2003) es la variedad hablada urbana de referencia. Incluye fenómenos antes considerados incorrectos y hoy aceptados en el habla:\n\n1. **Dislocazione a sinistra**: 'Il libro, l'ho comprato.' (anticipación del objeto con ripresa pronominale).\n2. **Dislocazione a destra**: 'L'ho comprato, il libro.' (el objeto aparece después del pronome).\n3. **Frase scissa**: 'È lui che ha vinto.' (= lui ha vinto, con focalizzazione).\n4. **Ci attualizzante**: 'C'è Marco che ti cerca.' (= Marco ti cerca).\n5. **Gli per 'a lei/a loro'**: 'Gli ho detto' (en lugar de 'le ho detto' / 'ho detto loro').\n6. **Congiuntivo vs indicativo**: 'Credo che è tardi' vs norma 'credo che sia tardi'.\n7. **Che polivalente**: già descrivo in C1.\n8. **Accordo a senso**: 'La maggioranza degli italiani pensano che...' (concordanza con il senso, non con il soggetto grammaticale).",
+        "examples": [
+          {
+            "italian": "Questi fenomeni, li trovi in qualsiasi conversazione italiana autentica. È lì che vedi la lingua vera.",
+            "translation": "Estos fenómenos los encuentras en cualquier conversación italiana auténtica. Es ahí donde ves la lengua real."
+          }
+        ]
+      },
+      {
+        "title": "Code-switching: quando i nativi cambiano varietà",
+        "content": "Los italianos hacen code-switching (alternanza di codice) según:\n\n**CON CHI PARLANO**: più formale con estranei, anziani, superiori. Più informale con amici, familia.\n\n**DI COSA PARLANO**: temi tecnici → standard; temi emotivi/personali → regionale o dialetto.\n\n**DOVE SONO**: nord/sud; contesto professionale/privato.\n\nEjemplo de switching típico de un napolitano con un milanese:\n- Al teléfono profesional: italiano standard.\n- Con los amigos napolitanos en un bar: dialetto napoletano puro.\n- Con alguien semidelconocido napolitano: italiano regionale con napoletanismi.\n\nRecognize este fenómeno es esencial para entender el cine, la televisión y la literatura regionale italiana.",
+        "examples": [
+          {
+            "italian": "«Uè, 'o sai che ho fatto? Ho presentato il progetto e il direttore ha detto — ma diciamo — che il contributo apportato è stato significativo.» [dialetto/italiano mescolati]",
+            "translation": "'¡Oye, ¿sabes qué hice? Presenté el proyecto y el director dijo —digamos— que la aportación fue significativa.' [mezcla dialecto/italiano]"
+          }
+        ]
+      }
+    ],
+    "pattern": "[standard] ↔ [colloquiale] ↔ [regionale] ↔ [dialettale]",
+    "meaning": "variedad lingüística del italiano: estándar, coloquial, dialectal",
+    "examples": [
+      {
+        "sentence": "Standard: \"Non capisco.\" | Colloquiale: \"Non ci capisco niente.\" | Dialettale (napoletano): \"Nun capisco niente.\"",
+        "translation": "Estándar / Coloquial / Dialectal (napolitano)",
+        "breakdown": [
+          "variazione diafasica e diatopica"
+        ]
+      },
+      {
+        "sentence": "Il \"campanilismo\" italiano: ogni città difende il proprio dialetto e la propria cucina.",
+        "translation": "El \"campanilismo\" italiano: cada ciudad defiende su dialecto y su cocina.",
+        "breakdown": [
+          "campanilismo = orgullo local exacerbado"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c2-connotazione-denotazione",
+    "title": "Connotazione e denotazione: la precisione lessicale del parlante nativo",
+    "level": "c2",
+    "explanation": "La denotación es el significado literal; la connotación es la carga emocional, social, histórica o pragmática de una palabra. A nivel C2, la elección entre sinónimos depende de estas connotaciones. Esta es la habilidad que distingue al hablante casi-nativo del avanzado.",
+    "sections": [
+      {
+        "title": "Coppie e serie di sinonimi con connotazioni diverse",
+        "content": "**MANGIARE vs CIBARSI vs NUTRIRSI vs INGOZZARSI vs SGRANOCCHIARE:**\n• 'mangiare' = neutro\n• 'cibarsi' = elevado, literario, puede ser figurado ('cibarsi di illusioni')\n• 'nutrirsi' = fisiológico o metafórico, neutro-positivo\n• 'ingozzarsi' = comer con glotonería, connotación negativa\n• 'sgranocchiare' = comer cosas crujientes/pequeñas, connotación casual\n• 'abbuffarsi' = hartarse, coloquial\n• 'banchettare' = banquetear, festivo y positivo\n\n**POVERO vs BISOGNOSO vs INDIGENTE vs NULLATENENTE vs SPIANTATO:**\n• 'povero' = neutro (y también como aggettivo: 'povero ragazzo' = el pobre chico)\n• 'bisognoso' = necesitado, con connotación de piedad/caridad\n• 'indigente' = formal/burocrático: persona en situación de pobreza extrema\n• 'nullatenente' = sin bienes (término giuridico)\n• 'spiantato' = coloquial, quebrado totalmente\n• 'senza tetto' = sin hogar (euphemismo moderno)\n\n**VECCHIO vs ANZIANO vs ATTEMPATO vs SENILE vs DECREPITO:**\n• 'vecchio' = neutro para objetos; evitar para personas (puede ofender)\n• 'anziano' = respeto hacia personas mayores (forma políticamente neutra)\n• 'attempato' = eufemismo elegante ('una signora attempata')\n• 'senile' = relativo a la vejez como fase biológica ('demenza senile')\n• 'decrepito' = muy negativo, sugiere deterioro físico/mental extremo",
+        "examples": [
+          {
+            "italian": "Aveva una fame autentica: non si trattava di sgranocchiare qualcosa; voleva abbuffarsi.",
+            "translation": "Tenía un hambre auténtica: no se trataba de picotear algo; quería hartarse."
+          }
+        ]
+      },
+      {
+        "title": "Le connotazioni culturali e storiche",
+        "content": "Algunas palabras llevan connotaciones históricas o culturales específicas del italiano:\n\n**'TERRONI' vs 'POLENTONI'**: términos peyorativos para los del sur (terroni) y del norte (polentoni). Hoy su uso es delicado/ofensivo, pero reconocibles en literatura, cine y humor.\n\n**'COMPAGNO'**: en el siglo XX, 'compagno' tenía fuerte connotación di sinistra (militante comunista o socialista). Hoy más neutro ('compagno di scuola'), pero en ciertos contextos persiste la connotación política.\n\n**'PADRONE'**: puede significar dueño (positivo/neutro), amo (histórico), jefe/patrón (con connotación di potere oppressivo nelle lotte operaie).\n\n**'RESISTENZA'**: con mayúscula, siempre se refiere a la Resistenza partigiana (1943-1945) contra el nazifascismo. Es una referencia cultural e identitaria fundamental.\n\n**'TRICOLORE'**: la bandera italiana. Referencia a la identità nazionale con carga emotiva positiva.",
+        "examples": [
+          {
+            "italian": "«La Resistenza fu la più bella pagina della storia italiana del Novecento.» (la palabra tiene aquí peso histórico e identitario específico)",
+            "translation": "'La Resistencia fue la página más bella de la historia italiana del siglo XX.' (la palabra tiene aquí peso histórico e identitario específico)"
+          }
+        ]
+      },
+      {
+        "title": "Scelta lessicale nel registro letterario",
+        "content": "En el texto literario, la elección entre sinónimos crea efectos estilísticos específicos. Calvino en 'Lezioni Americane' distingue entre:\n\n**LEGGEREZZA vs PESANTEZZA**: no solo conceptos físicos sino metáforas de un modo de estar en el mundo y en la escritura.\n\n**ESATTEZZA vs APPROSSIMAZIONE**: la precisione como valor etico oltre che estetico.\n\nEn tu propia escritura C2, preguntate siempre:\n1. ¿Esta palabra tiene connotación positiva/negativa/neutra?\n2. ¿Es formal, coloquial o literaria?\n3. ¿Tiene connotaciones históricas/culturales específicas?\n4. ¿Crea el efecto sonoro/rítmico que deseo?",
+        "examples": [
+          {
+            "italian": "Calvino scrive 'volare' dove altri scriverebbero 'salire': la scelta lessicale è già un programma poetico.",
+            "translation": "Calvino escribe 'volar' donde otros escribirían 'subir': la elección léxica es ya un programa poético."
+          }
+        ]
+      }
+    ],
+    "pattern": "[termine A] vs [termine B]: stessa denotazione, connotazione diversa",
+    "meaning": "connotación y denotación: la precisión léxica del nativo",
+    "examples": [
+      {
+        "sentence": "\"Morire\" (neutro) vs \"decedere\" (eufemistico-formale) vs \"crepare\" (volgare).",
+        "translation": "\"Morir\" (neutro) vs \"fallecer\" (eufemístico) vs \"palmar\" (vulgar).",
+        "breakdown": [
+          "stessa denotazione, connotazioni diverse"
+        ]
+      },
+      {
+        "sentence": "\"Grassetto\" (neutro) vs \"robusto\" (eufemistico) vs \"ciccione\" (offensivo).",
+        "translation": "\"Gordo\" (neutro) vs \"robusto\" (eufemístico) vs \"gordo\" (ofensivo).",
+        "breakdown": [
+          "gradazione connotativa"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c2-arte-della-polemica",
+    "title": "L'arte della polemica italiana: argomentare, persuadere, confutare",
+    "level": "c2",
+    "explanation": "La tradizione retorica italiana è antichissima. Dal De Oratore di Cicerone agli scritti di Machiavelli, Vico, Croce, Pasolini, il saggio argomentativo è il genere per eccellenza della prosa italiana elevata. Capire e usare le strutture della polemica è la meta del C2.",
+    "sections": [
+      {
+        "title": "Struttura del saggio argomentativo italiano",
+        "content": "El ensayo argumentativo italiano clásico sigue esta estructura:\n\n1. **CAPTATIO BENEVOLENTIAE** (exordio): captar la atención y simpatía del lector.\n2. **NARRATIO**: presentar el contexto/situación.\n3. **PROPOSITIO**: exponer la tesis principal.\n4. **CONFIRMATIO**: argumentar a favor de la tesis con evidencias.\n5. **REFUTATIO** (confutazione): anticipar y refutar las objeciones.\n6. **PERORATIO** (conclusione): síntesis y llamada a la acción/reflexión.\n\nEn el saggismo italiano moderno (Croce, Gramsci, Pasolini, Eco), la struttura è spesso meno rigida, ma todos estos elementos están presentes.",
+        "examples": [
+          {
+            "italian": "Umberto Eco apre il suo saggio 'Cinque scritti morali' con una captatio: si rivolge direttamente al lettore, crea complicità, poi espone la tesi.",
+            "translation": "Umberto Eco abre su ensayo 'Cinco escritos morales' con una captatio: se dirige directamente al lector, crea complicidad, luego expone la tesis."
+          }
+        ]
+      },
+      {
+        "title": "Strategie retoriche e connettivi argomentativi",
+        "content": "CONCESSIONE (reconocer el punto del adversario antes de refutarlo):\n• 'È vero che... tuttavia...'\n• 'Non si può negare che... eppure...'\n• 'Pur riconoscendo che... rimane il fatto che...'\n• 'Si dirà che... ma...'\n\nREFUTAZIONE:\n• 'Ciò non toglie che...'\n• 'A questo si potrebbe obiettare che...'\n• 'L'obiezione cade di fronte al fatto che...'\n• 'Tale posizione trascura un elemento fondamentale:'\n\nSCALATURA ARGOMENTATIVA (del más débil al más fuerte):\n• 'In primo luogo... In secondo luogo... Infine, e soprattutto...'\n• 'Ma vi è di più:'\n• 'Basti pensare che...'\n\nCONCLUSIONE:\n• 'In definitiva, si può affermare che...'\n• 'Da quanto esposto emerge che...'\n• 'Alla luce di queste considerazioni...'",
+        "examples": [
+          {
+            "italian": "È vero che il progresso tecnologico ha portato benefici innegabili. Non si può negare che la medicina abbia fatto passi da gigante. Eppure — ed è qui che il discorso si complica — non tutto ciò che è possibile è anche desiderabile.",
+            "translation": "Es verdad que el progreso tecnológico ha aportado beneficios innegables. No se puede negar que la medicina ha dado pasos de gigante. Y sin embargo —y es aquí donde el discurso se complica— no todo lo que es posible es también deseable."
+          }
+        ]
+      },
+      {
+        "title": "Ironia e sarcasmo come armi retoriche",
+        "content": "Los grandes polemistas italianos (Machiavelli, Leopardi en la Zibaldone, Pasolini en gli 'Scritti corsari') usaron la ironia y el sarcasmo como armas retóricas de primera magnitud:\n\n**IRONIA SOCRATICA**: fingir ignorancia para demostrar la debilidad del argumento adversario.\n'Ma certo, se il mercato risolve tutto da solo, possiamo chiudere ospedali e scuole pubbliche.'\n\n**IPERBOLE SARCASTICA**: llevare la posizione adversaria a l'extremo para ridiculizarla (reductio ad absurdum):\n'Seguendo questa logica, dovremmo smettere di mangiare per non sprecare cibo.'\n\n**CITAZIONE DECONTESTUALIZZATA**: usar las palabras del adversario para refutarlo:\n'Come afferma X stesso (e vale la pena citarlo per esteso): [cita]. Ora, se questa affermazione fosse vera...'",
+        "examples": [
+          {
+            "italian": "Pier Paolo Pasolini, nei suoi corsivi sul Corriere della Sera (1973-1975), usava l'ironia con chirurgica precisione per smontare il 'miracolo economico' italiano.",
+            "translation": "Pier Paolo Pasolini, en sus artículos en el Corriere della Sera (1973-1975), usaba la ironía con quirúrgica precisión para desmontar el 'milagro económico' italiano."
+          }
+        ]
+      }
+    ],
+    "pattern": "tesi → antitesi → confutazione → conclusione (struttura argomentativa)",
+    "meaning": "el arte del debate italiano: argumentar, persuadir, refutar",
+    "examples": [
+      {
+        "sentence": "La vostra posizione, per quanto comprensibile, trascura il fatto fondamentale che...",
+        "translation": "Su posición, aunque comprensible, pasa por alto el hecho fundamental de que...",
+        "breakdown": [
+          "concessione retorica seguita da confutazione"
+        ]
+      },
+      {
+        "sentence": "Non si tratta di negare i meriti della proposta, bensì di evidenziarne i limiti.",
+        "translation": "No se trata de negar los méritos de la propuesta, sino de señalar sus limitaciones.",
+        "breakdown": [
+          "non... bensì = no... sino (distinzione argomentativa)"
+        ]
+      }
+    ]
+  }
+]

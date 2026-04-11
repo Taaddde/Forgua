@@ -1,0 +1,107 @@
+{
+  "id": "vocab-a2-13",
+  "title": "Numeri grandi e percentuali",
+  "description": "Aprende a usar números grandes, fracciones y porcentajes en italiano. Esencial para entender precios, estadísticas y datos cotidianos.",
+  "level": "a2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "mille / duemila / diecimila",
+      "back": "mil / dos mil / diez mil",
+      "reading": "",
+      "explanation": "OJO: 'mille' (1.000) pero 'duemila' (2.000) — el plural es 'mila' no 'milli'. 'Tremila' (3.000), 'centomila' (100.000)."
+    },
+    {
+      "front": "un milione / un miliardo",
+      "back": "un millón / mil millones",
+      "reading": "",
+      "explanation": "TRAMPA: 'miliardo' en italiano = mil millones (10^9), NO 'billón' (que en español puede ser ambiguo). 'La popolazione italiana è di circa 60 milioni.'= La población italiana es de unos 60 millones."
+    },
+    {
+      "front": "il cento per cento / la percentuale",
+      "back": "el cien por cien / el porcentaje",
+      "reading": "",
+      "explanation": "'Il 20% degli italiani...' = El 20% de los italianos... Se lee 'il venti percento'. 'La percentuale' = el porcentaje."
+    },
+    {
+      "front": "la metà / un terzo / un quarto",
+      "back": "la mitad / un tercio / un cuarto",
+      "reading": "",
+      "explanation": "'Metà prezzo' = mitad de precio. 'Un terzo della popolazione' = un tercio de la población. 'Tre quarti' = tres cuartos."
+    },
+    {
+      "front": "il doppio / il triplo",
+      "back": "el doble / el triple",
+      "reading": "",
+      "explanation": "'Costa il doppio!' = ¡Cuesta el doble! 'Il triplo del normale' = el triple de lo normal. 'Raddoppiare' = duplicar."
+    },
+    {
+      "front": "circa / quasi / esattamente",
+      "back": "aproximadamente / casi / exactamente",
+      "reading": "",
+      "explanation": "'Sono circa le tre.' = Son aproximadamente las tres. 'Quasi mille persone' = casi mil personas. 'Esattamente 500 euro' = exactamente 500 euros."
+    },
+    {
+      "front": "in media / in totale",
+      "back": "en promedio / en total",
+      "reading": "",
+      "explanation": "'In media guadagno 1500 euro al mese.' = En promedio gano 1500 euros al mes. 'In totale sono 250 euro.' = En total son 250 euros."
+    },
+    {
+      "front": "il numero / la cifra",
+      "back": "el número / la cifra",
+      "reading": "",
+      "explanation": "'Un numero altissimo' = un número muy alto. 'Una cifra enorme' = una cifra enorme. 'Cifra' = cifra (dígito o suma de dinero)."
+    },
+    {
+      "front": "aumentare / diminuire",
+      "back": "aumentar / disminuir",
+      "reading": "",
+      "explanation": "'I prezzi aumentano ogni anno.' = Los precios aumentan cada año. 'La temperatura è diminuita.' = La temperatura bajó. Ambos usan ESSERE nel passato prossimo."
+    },
+    {
+      "front": "più o meno / all'incirca",
+      "back": "más o menos / aproximadamente",
+      "reading": "",
+      "explanation": "Expresiones muy frecuentes en italiano hablado. 'Costa più o meno 50 euro.' = Cuesta más o menos 50 euros. 'All'incirca' es más formal."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Números grandes",
+      "instruction": "OJO: 'mille' → 'mila' en el plural. 'Miliardo' = mil millones, no billón.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Fracciones y porcentajes",
+      "instruction": "Vocabulario matemático esencial para la vida cotidiana.",
+      "itemIndices": [2, 3, 4]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice en italiano?",
+      "instruction": "Traduce los números y las expresiones matemáticas.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "introduce",
+      "title": "Expresiones de cantidad y aproximación",
+      "instruction": "Cómo expresar cantidades aproximadas y estadísticas.",
+      "itemIndices": [5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "Números y cifras — completo",
+      "instruction": "Practica todo el vocabulario numérico.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "I numeri — consolidado",
+      "instruction": "Recuerda la trampa: 'mille' (sing.) → 'mila' (pl.): tremila, diecimila. 'Miliardo' = 10^9 (distinto al español 'billón' que puede ser ambiguo). 'Aumentare' y 'diminuire' usan ESSERE nel passato prossimo.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

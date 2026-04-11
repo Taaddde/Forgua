@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a2-12",
+  "title": "Condizionale presente — vorrei, potrei, dovrei",
+  "description": "El condizionale presente es el equivalente del condicional español (-ría). Úsalo para peticiones corteses, deseos y consejos. Las tres formas más útiles: vorrei (quisiera), potrei (podría), dovrei (debería).",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "vorrei / vorresti / vorrebbe / vorremmo / vorreste / vorrebbero",
+      "back": "quisiera / querrías / querría / querríamos / querríais / querrían",
+      "reading": "",
+      "explanation": "VOLERE en condizionale. 'Vorrei un caffè.' = Quisiera un café. Mucho más cortés que 'Voglio'. Esencial para pedir en tiendas, restaurantes, hoteles."
+    },
+    {
+      "front": "potrei / potresti / potrebbe / potremmo / potreste / potrebbero",
+      "back": "podría / podrías / podría / podríamos / podríais / podrían",
+      "reading": "",
+      "explanation": "POTERE en condizionale. 'Potresti aiutarmi?' = ¿Podrías ayudarme? 'Potrebbe parlarmi più lentamente?' = ¿Podría hablarme más despacio? (formal)"
+    },
+    {
+      "front": "dovrei / dovresti / dovrebbe / dovremmo / dovreste / dovrebbero",
+      "back": "debería / deberías / debería / deberíamos / deberíais / deberían",
+      "reading": "",
+      "explanation": "DOVERE en condizionale. 'Dovresti studiare di più.' = Deberías estudiar más. 'Dovremmo andare.' = Deberíamos ir. Para dar consejos."
+    },
+    {
+      "front": "parlerei / parleresti / parlerebbe...",
+      "back": "hablaría / hablarías / hablaría...",
+      "reading": "",
+      "explanation": "VERBOS REGULARES: misma raíz que el futuro + terminaciones -ei, -esti, -ebbe, -emmo, -este, -ebbero. 'Se potessi, vivrei in Italia.' = Si pudiera, viviría en Italia."
+    },
+    {
+      "front": "sarei / saresti / sarebbe / saremmo / sareste / sarebbero",
+      "back": "sería / serías / sería / seríamos / seríais / serían",
+      "reading": "",
+      "explanation": "ESSERE en condizionale. 'Sarebbe bello visitare Roma.' = Sería bonito visitar Roma. 'Con più tempo, sarei più felice.' = Con más tiempo, sería más feliz."
+    },
+    {
+      "front": "Mi piacerebbe + infinito",
+      "back": "Me gustaría + infinitivo",
+      "reading": "",
+      "explanation": "MUY IMPORTANTE: 'Mi piacerebbe visitare il Giappone.' = Me gustaría visitar Japón. 'Ti piacerebbe venire?' = ¿Te gustaría venir? 'Piacere' nel condizionale = gustar."
+    },
+    {
+      "front": "Vorrei prenotare un tavolo per stasera.",
+      "back": "Quisiera reservar una mesa para esta noche.",
+      "reading": "",
+      "explanation": "Ejemplo de uso cortés en un restaurante. 'Vorrei' + infinito = quisiera + infinitivo. Fórmula de petición elegante y muy usada."
+    },
+    {
+      "front": "Al posto tuo, farei così.",
+      "back": "En tu lugar, haría así.",
+      "reading": "",
+      "explanation": "Condizionale para dar consejos o hacer hipótesis. 'In Italia, mangerei ogni giorno la pasta.' = En Italia, comería pasta cada día. Uso hipotético."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Los tres condizionali más útiles: vorrei, potrei, dovrei",
+      "instruction": "Aprende primero estas tres formas — con ellas ya puedes ser muy cortés y natural en italiano.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "recall",
+      "title": "Peticiones corteses",
+      "instruction": "Practica las formas de vorrei, potrei, dovrei en distintas personas.",
+      "itemIndices": [0, 1, 2, 6]
+    },
+    {
+      "type": "introduce",
+      "title": "Condizionale regular y essere",
+      "instruction": "La formación regular: raíz del futuro + -ei/-esti/-ebbe/-emmo/-este/-ebbero.",
+      "itemIndices": [3, 4, 5]
+    },
+    {
+      "type": "introduce",
+      "title": "Deseos e hipótesis",
+      "instruction": "Mi piacerebbe y el condizionale para expresar deseos y situaciones hipotéticas.",
+      "itemIndices": [5, 7]
+    },
+    {
+      "type": "recall",
+      "title": "Condizionale — práctica completa",
+      "instruction": "Traduce al italiano usando el condizionale.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "Condizionale — dominado",
+      "instruction": "Las tres estrellas: VORREI (quisiera), POTREI (podría), DOVREI (debería). Formación: raíz del futuro + -ei/-esti/-ebbe/-emmo/-este/-ebbero. Irregolari = mismos del futuro. 'Mi piacerebbe' = me gustaría. El condizionale es idéntico al español condicional en uso.",
+      "itemIndices": [0, 1, 2, 5, 6, 7]
+    }
+  ]
+}

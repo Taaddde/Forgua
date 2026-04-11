@@ -1,0 +1,83 @@
+{
+  "id": "reading-b2-03",
+  "title": "Lettura: Dante e la lingua italiana",
+  "description": "Texto B2 sobre Dante Alighieri como padre de la lengua italiana: el volgare fiorentino, la Divina Commedia y la herencia lingüística en el italiano moderno.",
+  "level": "b2",
+  "category": "reading",
+  "items": [
+    {
+      "front": "moriva Dante Alighieri, lasciando all'umanità un'opera monumentale",
+      "back": "moría Dante Alighieri, dejando a la humanidad una obra monumental",
+      "reading": "",
+      "explanation": "IMPERFETTO NARRATIVO HISTÓRICO: 'moriva' — el imperfetto aquí tiene valor narrativo enfático ('Nel 1321 moriva Dante' = en 1321 moría Dante, con cierta gravedad solenne). Es un uso literario del imperfetto para eventos históricos de gran importancia. Contrastá: 'morì' (passato remoto, más neutral); 'moriva' (imperfetto narrativo, más literario). 'Lasciare' = dejar."
+    },
+    {
+      "front": "i posteri avrebbero ribattezzato 'Divina'",
+      "back": "la posteridad la habría rebautizado 'Divina'",
+      "reading": "",
+      "explanation": "'I posteri' = la posteridad, las generaciones futuras (plural de 'il/la postera' — poco común en singular). 'Avrebbero ribattezzato' = habría rebautizado — CONDIZIONALE PASSATO. Uso del condizionale passato con valor de futuro en el pasado: 'la Commedia, che i posteri avrebbero ribattezzato' = 'la Comedia, que la posteridad iba a rebautizar como Divina'. Clásico en narración histórica."
+    },
+    {
+      "front": "il latino era una lingua morta, accessibile solo ai dotti",
+      "back": "el latín era una lengua muerta, accesible solo a los eruditos",
+      "reading": "",
+      "explanation": "'I dotti' = los doctos, los eruditos (plural di 'dotto' = culto, erudito; participio di 'sapere' antiguo). 'Accessibile' = accesible. 'Una lingua morta' = una lengua muerta. En el siglo XIV, el latín era la lengua de la Iglesia, la administración y la cultura, pero no era la lengua materna de nadie: se aprendía como lengua secundaria. Dante tomó la decisión revolucionaria de escribir en volgare."
+    },
+    {
+      "front": "Dante fece una scelta rivoluzionaria: scrisse nel volgare fiorentino, la lingua del popolo",
+      "back": "Dante hizo una elección revolucionaria: escribió en el vulgar florentino, la lengua del pueblo",
+      "reading": "",
+      "explanation": "'Il volgare' = el vernáculo, la lengua vulgar (del latín 'vulgus' = el pueblo). 'Fiorentino' = florentino. 'La lingua del popolo' = la lengua del pueblo (vs. il latino, lengua de los doctos). 'Fece una scelta' = hizo una elección. Este acto de Dante fue radicalmente democrático: escribir para un público amplio, no solo para los intelectuales. El 'volgare illustre' fue el concepto teórico de Dante."
+    },
+    {
+      "front": "Non si limitò a usare quel dialetto così com'era: lo elaborò, lo arricchì, lo elevò",
+      "back": "No se limitó a usar ese dialecto tal como era: lo elaboró, lo enriqueció, lo elevó",
+      "reading": "",
+      "explanation": "Triple PASSATO REMOTO en climax: 'elaborò, arricchì, elevò'. La serie de tres verbos sin conjunción (asíndeton) crea un efecto de acumulación que subraya el trabajo transformador de Dante. 'Non si limitò a' = no se limitó a. 'Così com'era' = tal como era. Nótese el pronombre 'lo' referido al dialetto: 'lo elaborò' = lo elaboró (a él, el dialecto)."
+    },
+    {
+      "front": "Pietro Bembo stabilì le regole della lingua italiana letteraria, fondandole sulle opere di questi tre autori",
+      "back": "Pietro Bembo estableció las reglas de la lengua italiana literaria, fundándolas en las obras de estos tres autores",
+      "reading": "",
+      "explanation": "'Stabilì' = estableció (passato remoto di 'stabilire'). 'Fondandole sulle opere' = fundándolas en las obras (gerundio con clítico: fondando + le = las reglas). Pietro Bembo (1470-1547) fue el gran normalizador del italiano literario: su 'Prose della volgar lingua' (1525) estableció el toscano del Trecento como modelo. La influencia de Dante, Petrarca y Boccaccio llegó hasta el presente a través de Bembo."
+    },
+    {
+      "front": "il 25 marzo è stato proclamato 'Dantedì', la giornata nazionale dedicata al sommo poeta",
+      "back": "el 25 de marzo fue proclamado 'Dantedì', el día nacional dedicado al sumo poeta",
+      "reading": "",
+      "explanation": "'È stato proclamato' = fue proclamado (passivo). 'La giornata nazionale' = el día nacional. 'Il sommo poeta' = el sumo/supremo poeta — denominación canónica de Dante en italiano. 'Sommo' = supremo, el más alto. El Dantedì se celebra el 25 de marzo porque se cree que Dante comenzó su viaje en la Commedia ese día. Fue instituido en 2020."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El contexto lingüístico-histórico",
+      "instruction": "Antes de leer: en la época de Dante (siglo XIV), no existía el italiano moderno. Había dialectos locales incomprensibles entre sí y el latín para la cultura. Dante eligió el florentino como lengua literaria. ¿Cuál fue el equivalente en la historia del español? (Piensa en el castellano medieval y el papel de Alfonso X).",
+      "itemIndices": [0, 2]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Vocabulario histórico-cultural avanzato",
+      "instruction": "Estas expresiones son propias del registro académico sobre historia de la lengua. Identifica el vocabulario específico: i dotti, il volgare, i posteri, il sommo poeta. ¿Son cognados con el español?",
+      "itemIndices": [1, 2, 6]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Comprensión e inferencia crítica",
+      "instruction": "Respondé estas preguntas que requieren comprensión profunda. ¿Por qué fue revolucionaria la elección de Dante? ¿Qué papel jugó Bembo? ¿Por qué el 25 de marzo?",
+      "itemIndices": [3, 4, 5, 6]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Usos avanzados del passato remoto y condizionale passato",
+      "instruction": "El texto usa el passato remoto narrativo y el condizionale passato (avrebbero ribattezzato = futuro del pasado). Identifica estos usos y explica su función en el texto histórico.",
+      "itemIndices": [0, 1, 4]
+    },
+    {
+      "type": "summary",
+      "title": "Lectura completada",
+      "instruction": "Vocabulario B2 aprendido: i posteri, il volgare, i dotti, bensì, il sommo poeta, stabilire, fondare su. STRUTTURE AVANZATE: imperfetto narrativo solemne, condizionale passato = futuro del pasado, asíndeton tricolon (elaborò, arricchì, elevò). CULTURA: Dante, Petrarca y Boccaccio forman las 'Tre Corone' del italiano literario. El Dantedì (25 marzo) es relativamente reciente (2020).",
+      "itemIndices": [3, 5, 6]
+    }
+  ]
+}

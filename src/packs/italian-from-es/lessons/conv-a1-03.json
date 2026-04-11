@@ -1,0 +1,89 @@
+{
+  "id": "conv-a1-03",
+  "title": "Conversazione: Chiedere informazioni",
+  "description": "Cómo pedir indicaciones y orientarse en una ciudad italiana. Dónde está la estación, el hotel, el museo. Expresiones para indicar dirección y para pedir que repitan más lento.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Scusi, dov'è la stazione? / Scusa, dov'è...?",
+      "back": "Perdón, ¿dónde está la estación? (formal/informal)",
+      "reading": "",
+      "explanation": "'Scusi' = perdone/disculpe (formal, con stranieri y personas mayores). 'Scusa' = perdoná/disculpá (informal). Siempre usá 'Scusi' con desconocidos en la calle para ser respetuoso. 'Dov'è...?' = ¿dónde está...? 'Dove sono...?' = ¿dónde están...? (para plural)."
+    },
+    {
+      "front": "Per andare a [luogo], per favore?",
+      "back": "¿Para ir a [lugar], por favor?",
+      "reading": "",
+      "explanation": "'Per andare a...?' = ¿para ir a...? Muy útil porque es muy breve. 'Per andare alla stazione, per favore?' = ¿Para ir a la estación, por favor? En italiano a menudo se omite parte de la pregunta y el contexto es suficiente. Sirve igual de bien que la pregunta completa."
+    },
+    {
+      "front": "Vada dritto / Vada sempre dritto",
+      "back": "Vaya recto / Siga recto",
+      "reading": "",
+      "explanation": "'Vada dritto' = vaya recto/derecho (imperativo formale di andare: vada). 'Dritto' = recto, derecho. También: 'Sempre dritto' = siempre recto. 'Giri a destra' = gire a la derecha (imperativo formale di girare). 'Giri a sinistra' = gire a la izquierda."
+    },
+    {
+      "front": "Giri a destra / Giri a sinistra / Al semaforo",
+      "back": "Gire a la derecha / Gire a la izquierda / En el semáforo",
+      "reading": "",
+      "explanation": "Vocabulario de orientación: 'a destra' = a la derecha, 'a sinistra' = a la izquierda, 'dritto' = recto. Referencias: 'al semaforo' = en el semáforo, 'all'incrocio' = en el cruce/esquina, 'al secondo angolo' = en la segunda esquina. 'Giri' = gire (imperativo formale di girare)."
+    },
+    {
+      "front": "È lontano? / No, è qui vicino. / Sì, è abbastanza lontano.",
+      "back": "¿Está lejos? / No, está aquí cerca. / Sí, está bastante lejos.",
+      "reading": "",
+      "explanation": "'È lontano?' = ¿está lejos? 'Lontano' = lejos. 'Vicino' = cerca. 'Qui vicino' = aquí cerca. 'Abbastanza lontano' = bastante lejos. 'A piedi' = a pie. 'In macchina' = en auto. 'Ci vogliono X minuti a piedi' = se tardan X minutos a pie."
+    },
+    {
+      "front": "Può ripetere più lentamente, per favore? / Non ho capito.",
+      "back": "¿Puede repetir más lentamente, por favor? / No entendí.",
+      "reading": "",
+      "explanation": "¡FRASE CLAVE para el aprendiz! 'Può ripetere più lentamente?' = ¿Puede repetir más lentamente? (formal). 'Può parlare più piano?' = ¿Puede hablar más despacio? 'Non ho capito' = No entendí. 'Può ripetere?' = ¿Puede repetir? Usá esta frase sin vergüenza — los italianos responden con gusto."
+    },
+    {
+      "front": "— Scusi, dov'è il Duomo?\n— Il Duomo? Vada sempre dritto per questa strada, poi giri a sinistra al semaforo. È a cinque minuti a piedi.\n— Grazie mille!\n— Prego! Buona visita!",
+      "back": "— Perdón, ¿dónde está el Duomo?\n— ¿El Duomo? Siga recto por esta calle, luego gire a la izquierda en el semáforo. Está a cinco minutos a pie.\n— ¡Muchas gracias!\n— ¡De nada! ¡Que disfrute la visita!",
+      "reading": "",
+      "explanation": "Diálogo completo de indicaciones. 'Grazie mille!' = ¡Mil gracias! (mucho más enfático que solo 'grazie'). 'Prego!' = ¡De nada! 'Buona visita!' = ¡Que disfrute la visita! 'Per questa strada' = por esta calle. 'A cinque minuti a piedi' = a cinco minutos a pie."
+    },
+    {
+      "front": "C'è un bancomat / una farmacia / un supermercato qui vicino?",
+      "back": "¿Hay un cajero automático / una farmacia / un supermercado aquí cerca?",
+      "reading": "",
+      "explanation": "Preguntas prácticas para la ciudad. 'Il bancomat' = el cajero automático (ATM). 'La farmacia' = la farmacia (reconocibles por la cruz verde). 'Il supermercato' = el supermercado. 'La stazione' = la estación. 'L'hotel' = el hotel. 'Il museo' = el museo. Estructura: 'C'è un/una [luogo] qui vicino?'"
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Pedir indicaciones: las frases clave",
+      "instruction": "Para pedir indicaciones: 'Scusi, dov'è...?' o 'Per andare a...?'. Para entender las respuestas: vada dritto (siga recto), giri a destra/sinistra (gire a la derecha/izquierda), al semaforo (en el semáforo). Si no entendés: 'Può ripetere più lentamente?'",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "conversation-script",
+      "title": "Un diálogo real pidiendo indicaciones",
+      "instruction": "Practicá el diálogo completo. Primero el turista, luego el local. Intentá memorizarlo.",
+      "itemIndices": [6]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significan las indicaciones?",
+      "instruction": "Alguien te da indicaciones en italiano. ¿Qué tenés que hacer? Vada dritto / Giri a sinistra / Al semaforo...",
+      "itemIndices": [2, 3, 4]
+    },
+    {
+      "type": "speak",
+      "title": "Pedí indicaciones en italiano",
+      "instruction": "Imaginá que estás en Roma y necesitás ir al Colosseo. Pedí indicaciones a un transeúnte usando las frases aprendidas.",
+      "itemIndices": [0, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "¡Podés orientarte en Italia!",
+      "instruction": "PEDIR: Scusi, dov'è...? / Per andare a...? / C'è un... qui vicino? ENTENDER: Vada dritto (recto), Giri a destra (derecha), Giri a sinistra (izquierda), al semaforo (en el semáforo), a X minuti a piedi (a X minutos a pie). SI NO ENTENDÉS: Può ripetere più lentamente? / Non ho capito. Fórmulas: Grazie mille! / Prego! / Buona visita!",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

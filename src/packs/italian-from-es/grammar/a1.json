@@ -1,0 +1,872 @@
+[
+  {
+    "id": "a1-essere",
+    "title": "Essere (presente)",
+    "pattern": "io sono / tu sei / lui·lei è / noi siamo / voi siete / loro sono",
+    "meaning": "ser / estar (presente de indicativo)",
+    "level": "a1",
+    "explanation": "En italiano 'essere' combina gran parte de los usos de 'ser' y 'estar' del español. Se usa para identidad, origen, profesión, características permanentes y muchos estados. La conjugación es irregular: io sono, tu sei, lui/lei è, noi siamo, voi siete, loro sono.",
+    "examples": [
+      {
+        "sentence": "Io sono italiano.",
+        "reading": "",
+        "translation": "Soy italiano.",
+        "breakdown": ["io = yo", "sono = soy", "italiano = italiano"]
+      },
+      {
+        "sentence": "Lei è studentessa.",
+        "reading": "",
+        "translation": "Ella es estudiante.",
+        "breakdown": ["lei = ella", "è = es", "studentessa = estudiante (f.)"]
+      },
+      {
+        "sentence": "Siamo stanchi.",
+        "reading": "",
+        "translation": "Estamos cansados.",
+        "breakdown": ["siamo = somos/estamos", "stanchi = cansados"]
+      }
+    ],
+    "notes": "PARA HISPANOHABLANTES: 'Essere' cubre tanto 'ser' como 'estar' en muchos contextos. 'Sono stanco' = Estoy cansado (usa essere, NO stare). La distinción essere/stare en italiano NO es igual a ser/estar en español. Stare se usa principalmente con gerundio (Sto mangiando = Estoy comiendo) y en algunas expresiones fijas (Sto bene = Estoy bien).",
+    "tags": ["verb", "essential", "irregular"]
+  },
+  {
+    "id": "a1-avere",
+    "title": "Avere (presente)",
+    "pattern": "io ho / tu hai / lui·lei ha / noi abbiamo / voi avete / loro hanno",
+    "meaning": "tener / haber auxiliar",
+    "level": "a1",
+    "explanation": "Avere es el verbo 'tener' del italiano. Importante: para expresar la edad se usa avere (como en español rioplatense 'tengo 20 años'). También se usa en expresiones con estados físicos donde el español usa 'tener': ho fame (tengo hambre), ho sete (tengo sed), ho sonno (tengo sueño). Conjugación: io ho, tu hai, lui/lei ha, noi abbiamo, voi avete, loro hanno.",
+    "examples": [
+      {
+        "sentence": "Ho ventitré anni.",
+        "reading": "",
+        "translation": "Tengo veintitrés años.",
+        "breakdown": ["ho = tengo", "ventitré = veintitrés", "anni = años"]
+      },
+      {
+        "sentence": "Hai un fratello?",
+        "reading": "",
+        "translation": "¿Tenés un hermano?",
+        "breakdown": ["hai = tenés/tienes", "un fratello = un hermano"]
+      },
+      {
+        "sentence": "Ho fame.",
+        "reading": "",
+        "translation": "Tengo hambre.",
+        "breakdown": ["ho = tengo", "fame = hambre"]
+      }
+    ],
+    "notes": "PARA HISPANOHABLANTES: Al igual que en español, 'avere' se usa para la edad: 'Ho venti anni' (Tengo veinte años). Ojo: la h de ho, hai, ha, hanno es MUDA (no se pronuncia), igual que en español antiguo. 'Abbiamo' tiene bb doble — pronúncialo más largo que en español.",
+    "tags": ["verb", "essential", "irregular"]
+  },
+  {
+    "id": "a1-articoli-determinativi",
+    "title": "Articoli determinativi",
+    "pattern": "il / la / lo / l' / i / le / gli",
+    "meaning": "artículos definidos: el / la / los / las",
+    "level": "a1",
+    "explanation": "El italiano tiene más artículos que el español. Para masculino singular: 'il' (ante consonante normal: il libro), 'lo' (ante s+consonante, z, ps, gn, x, y: lo zaino, lo studente), 'l'' (ante vocal: l'amico). Para femenino singular: 'la' (ante consonante), 'l'' (ante vocal). Plural masculino: 'i' (normal), 'gli' (ante vocal y los casos de 'lo'). Plural femenino: 'le' (siempre).",
+    "examples": [
+      {
+        "sentence": "Il libro è sul tavolo.",
+        "reading": "",
+        "translation": "El libro está sobre la mesa.",
+        "breakdown": ["il = el (m.s. normal)", "libro = libro"]
+      },
+      {
+        "sentence": "Lo zaino è pesante.",
+        "reading": "",
+        "translation": "La mochila es pesada.",
+        "breakdown": ["lo = el (m.s. ante z/s+cons)", "zaino = mochila"]
+      },
+      {
+        "sentence": "Gli studenti studiano molto.",
+        "reading": "",
+        "translation": "Los estudiantes estudian mucho.",
+        "breakdown": ["gli = los (m.pl. ante vocal/s+cons)", "studenti = estudiantes"]
+      }
+    ],
+    "notes": "PARA HISPANOHABLANTES: El artículo 'lo' no existe en español moderno, pero es esencial en italiano. Regla práctica: 'lo' antes de z, s+consonante, gn, ps, x, y. 'Gli' es la forma plural de 'lo' y 'l''. La combinación 'gl' + 'i' suena como la 'll' del español rioplatense (yeísmo). No confundas: 'gli' = los (art.) y 'gli' = le (pron. indirecto masculino).",
+    "tags": ["article", "grammar", "essential"]
+  },
+  {
+    "id": "a1-articoli-indeterminativi",
+    "title": "Articoli indeterminativi",
+    "pattern": "un / una / uno / un'",
+    "meaning": "artículos indefinidos: un / una",
+    "level": "a1",
+    "explanation": "Para masculino: 'un' (ante consonante normal y vocal: un libro, un amico), 'uno' (ante s+consonante, z, gn, ps: uno studente, uno zaino). Para femenino: 'una' (ante consonante: una casa), 'un'' (ante vocal: un'amica). Nota: los artículos indefinidos no tienen plural en italiano (como en español: 'unos' no existe igual).",
+    "examples": [
+      {
+        "sentence": "Ho un gatto.",
+        "reading": "",
+        "translation": "Tengo un gato.",
+        "breakdown": ["ho = tengo", "un = un (m.)", "gatto = gato"]
+      },
+      {
+        "sentence": "Sei uno studente?",
+        "reading": "",
+        "translation": "¿Sos estudiante?",
+        "breakdown": ["sei = sos/eres", "uno studente = un estudiante"]
+      },
+      {
+        "sentence": "È un'italiana.",
+        "reading": "",
+        "translation": "Es una italiana.",
+        "breakdown": ["è = es", "un'italiana = una italiana (f. ante vocal)"]
+      }
+    ],
+    "notes": "PARA HISPANOHABLANTES: 'Uno' solo se usa con masculinos que empiezan con s+consonante o z. No digas 'un studente' — es 'uno studente'. Para femenino ante vocal, el apóstrofo es OBLIGATORIO: 'un'amica' (nunca 'una amica' en el habla culta). En el plural, en italiano se suele omitir el artículo indefinido o usar 'dei/delle' (de los/de las).",
+    "tags": ["article", "grammar", "essential"]
+  },
+  {
+    "id": "a1-genere-sostantivi",
+    "title": "Genere dei sostantivi",
+    "pattern": "-o = maschile / -a = femminile / -e = maschile o femminile",
+    "meaning": "género de los sustantivos",
+    "level": "a1",
+    "explanation": "En italiano, los sustantivos tienen género. Regla general: terminación -o → masculino (libro, ragazzo), terminación -a → femenino (casa, ragazza), terminación -e → puede ser cualquiera (il pane = m., la neve = f.). Hay excepciones importantes: il problema (m.), la mano (f.), il clima (m.).",
+    "examples": [
+      {
+        "sentence": "Il ragazzo e la ragazza sono amici.",
+        "reading": "",
+        "translation": "El chico y la chica son amigos.",
+        "breakdown": ["il ragazzo = el chico (m.)", "la ragazza = la chica (f.)"]
+      },
+      {
+        "sentence": "Il pane è buono.",
+        "reading": "",
+        "translation": "El pan es bueno.",
+        "breakdown": ["il pane = el pan (m., termina en -e)"]
+      },
+      {
+        "sentence": "La neve è bianca.",
+        "reading": "",
+        "translation": "La nieve es blanca.",
+        "breakdown": ["la neve = la nieve (f., termina en -e)"]
+      }
+    ],
+    "notes": "PARA HISPANOHABLANTES: La mayoría de los géneros coinciden con el español, pero hay diferencias. Palabras que cambian: 'il sale' (la sal = m. en italiano, f. en español), 'il latte' (la leche = m.), 'il sangue' (la sangre = m.), 'la mano' (la mano = f. aunque termina en -o). Aprendé el artículo junto con cada sustantivo nuevo.",
+    "tags": ["noun", "gender", "grammar"]
+  },
+  {
+    "id": "a1-numero-sostantivi",
+    "title": "Numero dei sostantivi",
+    "pattern": "-o → -i / -a → -e / -e → -i",
+    "meaning": "singular y plural de los sustantivos",
+    "level": "a1",
+    "explanation": "Reglas de plural: sustantivos en -o → -i (libro→libri), sustantivos en -a → -e (casa→case), sustantivos en -e → -i (pane→pani, neve→nevi). Los sustantivos que terminan en vocal acentuada o consonante son invariables: città→città, bar→bar.",
+    "examples": [
+      {
+        "sentence": "Ho tre libri.",
+        "reading": "",
+        "translation": "Tengo tres libros.",
+        "breakdown": ["tre = tres", "libri = libros (libro→libri)"]
+      },
+      {
+        "sentence": "Le case di Milano sono belle.",
+        "reading": "",
+        "translation": "Las casas de Milán son lindas.",
+        "breakdown": ["le case = las casas (casa→case)"]
+      },
+      {
+        "sentence": "Ci sono due città famose.",
+        "reading": "",
+        "translation": "Hay dos ciudades famosas.",
+        "breakdown": ["due = dos", "città = ciudades (invariable)"]
+      }
+    ],
+    "notes": "PARA HISPANOHABLANTES: El plural en italiano es diferente al español. No añade -s. Masculinos en -o → -i: amico→amici, libro→libri. Femeninos en -a → -e: amica→amiche (¡ojo! se añade h para mantener el sonido /k/). Sustantivos en -ca/-ga→ -che/-ghe: amica→amiche, bottega→botteghe.",
+    "tags": ["noun", "plural", "grammar"]
+  },
+  {
+    "id": "a1-accordo-aggettivi",
+    "title": "Accordo degli aggettivi",
+    "pattern": "aggettivo concorda in genere e numero col sostantivo",
+    "meaning": "concordancia de los adjetivos en género y número",
+    "level": "a1",
+    "explanation": "Los adjetivos en italiano concuerdan en género y número con el sustantivo. Adjetivos en -o/-a/-i/-e: bello/bella/belli/belle. Adjetivos en -e (masc. y fem.): grande/grande/grandi/grandi (solo cambia en plural). El adjetivo normalmente va DESPUÉS del sustantivo en italiano, aunque algunos van antes (grande, buono, bello, etc.).",
+    "examples": [
+      {
+        "sentence": "Un ragazzo simpatico, una ragazza simpatica.",
+        "reading": "",
+        "translation": "Un chico simpático, una chica simpática.",
+        "breakdown": ["simpatico = m.s.", "simpatica = f.s."]
+      },
+      {
+        "sentence": "Un libro interessante, una storia interessante.",
+        "reading": "",
+        "translation": "Un libro interesante, una historia interesante.",
+        "breakdown": ["interessante = invariable en género (termina en -e)"]
+      },
+      {
+        "sentence": "Gli studenti italiani sono bravi.",
+        "reading": "",
+        "translation": "Los estudiantes italianos son buenos.",
+        "breakdown": ["italiani = m.pl.", "bravi = m.pl."]
+      }
+    ],
+    "notes": "PARA HISPANOHABLANTES: La concordancia funciona igual que en español. La diferencia principal: en italiano muchos adjetivos van DESPUÉS del sustantivo (una casa bella), mientras en español es más flexible. Algunos adjetivos van antes y cambian: bello→bel/bell'/bello/bella, buono→buon/buono/buona.",
+    "tags": ["adjective", "agreement", "grammar"]
+  },
+  {
+    "id": "a1-pronomi-soggetto",
+    "title": "Pronomi soggetto",
+    "pattern": "io / tu / lui·lei / noi / voi / loro",
+    "meaning": "pronombres de sujeto",
+    "level": "a1",
+    "explanation": "Los pronombres de sujeto en italiano son: io (yo), tu (vos/tú), lui (él), lei (ella/Usted formal), noi (nosotros), voi (vosotros/ustedes), loro (ellos/ellas). En italiano los pronombres son OPCIONALES ya que la terminación verbal indica la persona. Se usan para énfasis o contraste.",
+    "examples": [
+      {
+        "sentence": "Io parlo italiano, tu parli spagnolo.",
+        "reading": "",
+        "translation": "Yo hablo italiano, vos hablás español.",
+        "breakdown": ["io = yo (énfasis)", "tu = vos/tú", "parli = hablás/hablas"]
+      },
+      {
+        "sentence": "Lei è la professoressa?",
+        "reading": "",
+        "translation": "¿Usted es la profesora?",
+        "breakdown": ["Lei (mayúscula) = Usted (formal)"]
+      },
+      {
+        "sentence": "Noi siamo stanchi, voi no.",
+        "reading": "",
+        "translation": "Nosotros estamos cansados, ustedes no.",
+        "breakdown": ["noi = nosotros", "voi = vosotros/ustedes"]
+      }
+    ],
+    "notes": "PARA HISPANOHABLANTES: 'Tu' en italiano es SIEMPRE informal (como 'vos' o 'tú'). El formal es 'Lei' (con mayúscula cuando significa Usted). No existe 'vosotros' vs 'ustedes' — 'voi' cubre ambos. 'Loro' puede ser 'ellos/ellas' o 'Ustedes' (muy formal, casi solo en contextos muy formales). Lo más importante: podés omitir el pronombre — 'Sono italiano' es igual de correcto que 'Io sono italiano'.",
+    "tags": ["pronoun", "grammar", "essential"]
+  },
+  {
+    "id": "a1-verbi-are",
+    "title": "Verbi regolari -ARE (presente)",
+    "pattern": "-o / -i / -a / -iamo / -ate / -ano",
+    "meaning": "verbos regulares en -ARE: presente de indicativo",
+    "level": "a1",
+    "explanation": "Los verbos en -ARE son la conjugación más numerosa. Terminaciones del presente: io -o, tu -i, lui/lei -a, noi -iamo, voi -ate, loro -ano. Ejemplo con 'parlare': parlo, parli, parla, parliamo, parlate, parlano. Verbos importantes: parlare (hablar), lavorare (trabajar), abitare (vivir), studiare (estudiar), mangiare (comer), ascoltare (escuchar).",
+    "examples": [
+      {
+        "sentence": "Parlo italiano con i miei amici.",
+        "reading": "",
+        "translation": "Hablo italiano con mis amigos.",
+        "breakdown": ["parlo = hablo (io parla-re → parlo)"]
+      },
+      {
+        "sentence": "Dove abiti?",
+        "reading": "",
+        "translation": "¿Dónde vivís?",
+        "breakdown": ["abiti = vivís/vives (tu abita-re → abiti)"]
+      },
+      {
+        "sentence": "Loro lavorano in centro.",
+        "reading": "",
+        "translation": "Ellos trabajan en el centro.",
+        "breakdown": ["lavorano = trabajan (loro lavora-re → lavorano)"]
+      }
+    ],
+    "notes": "PARA HISPANOHABLANTES: Las terminaciones son similares al español: -o (yo), -i (tú/vos), -a (él/ella), -iamo (nosotros), -ate (vosotros), -ano (ellos). Ojo con 'mangiare': io mangio (no 'manggio'), noi mangiamo (no 'mangiamo' — aunque se escribe igual, la i evita cambio de sonido). Verbos en -care/-gare: cerco→cerchi (tu), gioco→giochi — se añade h para mantener el sonido.",
+    "tags": ["verb", "regular", "are-conjugation"]
+  },
+  {
+    "id": "a1-verbi-ere",
+    "title": "Verbi regolari -ERE (presente)",
+    "pattern": "-o / -i / -e / -iamo / -ete / -ono",
+    "meaning": "verbos regulares en -ERE: presente de indicativo",
+    "level": "a1",
+    "explanation": "Los verbos en -ERE son la segunda conjugación. Terminaciones: io -o, tu -i, lui/lei -e, noi -iamo, voi -ete, loro -ono. Ejemplo con 'leggere': leggo, leggi, legge, leggiamo, leggete, leggono. Verbos importantes: leggere (leer), scrivere (escribir), vedere (ver), prendere (tomar), credere (creer), vivere (vivir).",
+    "examples": [
+      {
+        "sentence": "Leggo un libro ogni settimana.",
+        "reading": "",
+        "translation": "Leo un libro cada semana.",
+        "breakdown": ["leggo = leo (io legg-ere → leggo)"]
+      },
+      {
+        "sentence": "Scrivi in italiano molto bene.",
+        "reading": "",
+        "translation": "Escribís en italiano muy bien.",
+        "breakdown": ["scrivi = escribís (tu scriv-ere → scrivi)"]
+      },
+      {
+        "sentence": "Vedono un film stasera.",
+        "reading": "",
+        "translation": "Ven una película esta noche.",
+        "breakdown": ["vedono = ven (loro ved-ere → vedono)"]
+      }
+    ],
+    "notes": "PARA HISPANOHABLANTES: Comparado con -ARE, la diferencia clave es la 3a persona (lui/lei -e no -a) y la 2a persona plural (voi -ete no -ate). 'Prendo' = tomo (el café, el tren, etc.) — el uso es más amplio que en español. 'Vivere' significa 'vivir', igual que 'abitare', pero 'abitare' se usa más para residencia y 'vivere' para el concepto más amplio.",
+    "tags": ["verb", "regular", "ere-conjugation"]
+  },
+  {
+    "id": "a1-verbi-ire",
+    "title": "Verbi -IRE: grupo normale e gruppo -ISC-",
+    "pattern": "dormire: -o/-i/-e/-iamo/-ite/-ono | capire: -isco/-isci/-isce/-iamo/-ite/-iscono",
+    "meaning": "verbos en -IRE: dos grupos distintos",
+    "level": "a1",
+    "explanation": "Los verbos en -IRE tienen DOS grupos: Grupo normal (dormire): io dormo, tu dormi, lui dorme, noi dormiamo, voi dormite, loro dormono. Grupo -ISC- (capire, finire, preferire): io capisco, tu capisci, lui capisce, noi capiamo, voi capite, loro capiscono. El grupo -isc- añade '-isc-' en singular y tercera plural.",
+    "examples": [
+      {
+        "sentence": "Dormo otto ore.",
+        "reading": "",
+        "translation": "Duermo ocho horas.",
+        "breakdown": ["dormo = duermo (grupo normal)"]
+      },
+      {
+        "sentence": "Capisci l'italiano?",
+        "reading": "",
+        "translation": "¿Entendés el italiano?",
+        "breakdown": ["capisci = entendés (capisc- + -i)"]
+      },
+      {
+        "sentence": "Finisco il lavoro alle sei.",
+        "reading": "",
+        "translation": "Termino el trabajo a las seis.",
+        "breakdown": ["finisco = termino (finisc- + -o)"]
+      }
+    ],
+    "notes": "PARA HISPANOHABLANTES: El grupo -ISC- no tiene equivalente en español y es fuente de errores. Los verbos más comunes del grupo -ISC-: capire (entender), finire (terminar), preferire (preferir), pulire (limpiar), costruire (construir), spedire (enviar). El truco: si el infinitivo termina en '-ire' con acento en la penúltima sílaba → suele ser grupo -ISC-. Si termina con acento en la antepenúltima (DORmire, PARtire) → grupo normal.",
+    "tags": ["verb", "regular", "ire-conjugation", "isc-group"]
+  },
+  {
+    "id": "a1-andare",
+    "title": "Andare (presente)",
+    "pattern": "vado / vai / va / andiamo / andate / vanno",
+    "meaning": "ir (presente)",
+    "level": "a1",
+    "explanation": "Andare (ir) es un verbo irregular muy importante. Conjugación: io vado, tu vai, lui/lei va, noi andiamo, voi andate, loro vanno. Se usa con 'a' + infinitivo para planes inmediatos (vado a mangiare = voy a comer). Con preposición 'a' ante ciudades (vado a Roma) y 'in' ante países (vado in Italia).",
+    "examples": [
+      {
+        "sentence": "Vado a scuola ogni giorno.",
+        "reading": "",
+        "translation": "Voy a la escuela todos los días.",
+        "breakdown": ["vado = voy", "a scuola = a la escuela"]
+      },
+      {
+        "sentence": "Vai al cinema stasera?",
+        "reading": "",
+        "translation": "¿Vas al cine esta noche?",
+        "breakdown": ["vai = vas/vás", "al cinema = al cine"]
+      },
+      {
+        "sentence": "Vanno in vacanza in Italia.",
+        "reading": "",
+        "translation": "Van de vacaciones a Italia.",
+        "breakdown": ["vanno = van", "in vacanza = de vacaciones", "in Italia = a/en Italia"]
+      }
+    ],
+    "notes": "PARA HISPANOHABLANTES: Notá que 'vado/vai/va/vanno' son formas completamente irregulares (como ir→voy en español). La forma 'andiamo/andate' sí sigue la raíz and-. Importante: 'Vado a + infinitivo' funciona igual que 'voy a + infinitivo' en español para el futuro próximo: 'Vado a mangiare' = Voy a comer.",
+    "tags": ["verb", "irregular", "andare"]
+  },
+  {
+    "id": "a1-fare",
+    "title": "Fare (presente)",
+    "pattern": "faccio / fai / fa / facciamo / fate / fanno",
+    "meaning": "hacer / dar (tiempo meteorológico)",
+    "level": "a1",
+    "explanation": "Fare (hacer) es uno de los verbos más usados e irregulares. Conjugación: io faccio, tu fai, lui/lei fa, noi facciamo, voi fate, loro fanno. Usos clave: fare una domanda (hacer una pregunta), fare la spesa (hacer la compra), fare colazione (desayunar), fare una passeggiata (dar un paseo), fa caldo/freddo (hace calor/frío).",
+    "examples": [
+      {
+        "sentence": "Che cosa fai nel tempo libero?",
+        "reading": "",
+        "translation": "¿Qué hacés en tu tiempo libre?",
+        "breakdown": ["che cosa = qué (cosa)", "fai = hacés/haces"]
+      },
+      {
+        "sentence": "Facciamo colazione insieme.",
+        "reading": "",
+        "translation": "Desayunamos juntos.",
+        "breakdown": ["facciamo = hacemos", "colazione = desayuno", "insieme = juntos"]
+      },
+      {
+        "sentence": "Fa molto caldo oggi.",
+        "reading": "",
+        "translation": "Hace mucho calor hoy.",
+        "breakdown": ["fa = hace (meteorológico)", "caldo = calor"]
+      }
+    ],
+    "notes": "PARA HISPANOHABLANTES: 'Fare' se usa donde el español usa 'hacer', pero también en expresiones como 'fare colazione' (desayunar — sin verbo propio), 'fare una foto' (sacar una foto), 'fare sport' (hacer deporte). La forma 'faccio' (con -cc-) hay que memorizarla — no existe equivalente fonético en español.",
+    "tags": ["verb", "irregular", "fare"]
+  },
+  {
+    "id": "a1-venire",
+    "title": "Venire (presente)",
+    "pattern": "vengo / vieni / viene / veniamo / venite / vengono",
+    "meaning": "venir (presente)",
+    "level": "a1",
+    "explanation": "Venire (venir) es irregular. Conjugación: io vengo, tu vieni, lui/lei viene, noi veniamo, voi venite, loro vengono. Se usa con 'da' para el origen (vengo da Roma = vengo de Roma). Venire + a + infinitivo indica propósito: 'Vengo a studiare' (Vengo a estudiar).",
+    "examples": [
+      {
+        "sentence": "Da dove vieni?",
+        "reading": "",
+        "translation": "¿De dónde venís?",
+        "breakdown": ["da dove = de dónde", "vieni = venís/vienes"]
+      },
+      {
+        "sentence": "Vengo dall'Argentina.",
+        "reading": "",
+        "translation": "Vengo de Argentina.",
+        "breakdown": ["vengo = vengo", "dall'Argentina = de Argentina"]
+      },
+      {
+        "sentence": "Vengono a cena da noi.",
+        "reading": "",
+        "translation": "Vienen a cenar a casa nuestra.",
+        "breakdown": ["vengono = vienen", "a cena = a cenar", "da noi = a nuestra casa"]
+      }
+    ],
+    "notes": "PARA HISPANOHABLANTES: La irregularidad es similar al español (vengo, vienes, viene... vienen). Nota clave: 'vengo da' = vengo de (origen). 'Da noi' = en nuestra casa / a nuestra casa. 'Vieni a casa mia?' = ¿Venís a mi casa?",
+    "tags": ["verb", "irregular", "venire"]
+  },
+  {
+    "id": "a1-stare-gerundio",
+    "title": "Stare (presente) + gerundio",
+    "pattern": "sto / stai / sta / stiamo / state / stanno + gerundio (-ando/-endo)",
+    "meaning": "estar + gerundio (acción en progreso)",
+    "level": "a1",
+    "explanation": "Stare + gerundio expresa una acción en progreso (equivalente al español 'estar + gerundio'). Conjugación de stare: io sto, tu stai, lui sta, noi stiamo, voi state, loro stanno. El gerundio: verbos -ARE → -ando (mangiare→mangiando), verbos -ERE/-IRE → -endo (scrivere→scrivendo, dormire→dormendo).",
+    "examples": [
+      {
+        "sentence": "Sto studiando italiano.",
+        "reading": "",
+        "translation": "Estoy estudiando italiano.",
+        "breakdown": ["sto = estoy", "studiando = estudiando (studi-are → studi-ando)"]
+      },
+      {
+        "sentence": "Stai mangiando?",
+        "reading": "",
+        "translation": "¿Estás comiendo?",
+        "breakdown": ["stai = estás", "mangiando = comiendo"]
+      },
+      {
+        "sentence": "Stanno dormendo.",
+        "reading": "",
+        "translation": "Están durmiendo.",
+        "breakdown": ["stanno = están", "dormendo = durmiendo"]
+      }
+    ],
+    "notes": "PARA HISPANOHABLANTES: Stare + gerundio funciona IGUAL que estar + gerundio en español. Pero cuidado: 'stare' NO es el equivalente de 'estar' en todos los contextos. Para estados ('estoy cansado') se usa ESSERE: 'Sono stanco' (nunca 'Sto stanco'). Stare tiene usos específicos: Sto bene (Estoy bien — expresión fija), Come stai? (¿Cómo estás? — saludo), Stare per + infinitivo = estar a punto de.",
+    "tags": ["verb", "stare", "gerundio", "progressive"]
+  },
+  {
+    "id": "a1-verbi-modali",
+    "title": "Potere, Volere, Dovere (modali)",
+    "pattern": "potere: posso/puoi/può/possiamo/potete/possono",
+    "meaning": "poder / querer / deber (verbos modales)",
+    "level": "a1",
+    "explanation": "Los verbos modales en italiano son irregulares. Potere (poder): posso, puoi, può, possiamo, potete, possono. Volere (querer): voglio, vuoi, vuole, vogliamo, volete, vogliono. Dovere (deber/tener que): devo, devi, deve, dobbiamo, dovete, devono. Se usan seguidos de infinitivo.",
+    "examples": [
+      {
+        "sentence": "Posso parlare con lei?",
+        "reading": "",
+        "translation": "¿Puedo hablar con usted?",
+        "breakdown": ["posso = puedo", "parlare = hablar"]
+      },
+      {
+        "sentence": "Voglio un caffè.",
+        "reading": "",
+        "translation": "Quiero un café.",
+        "breakdown": ["voglio = quiero", "un caffè = un café"]
+      },
+      {
+        "sentence": "Devo studiare stasera.",
+        "reading": "",
+        "translation": "Tengo que estudiar esta noche.",
+        "breakdown": ["devo = debo/tengo que", "studiare = estudiar"]
+      }
+    ],
+    "notes": "PARA HISPANOHABLANTES: Estos verbos siguen el infinitivo igual que en español. 'Voglio' (quiero) suena raro al principio — recordá que viene de 'volere'. Para pedir algo cortésmente usa 'vorrei' (el condicional): 'Vorrei un caffè' = Quisiera un café (más cortés que 'Voglio'). 'Dovere' significa tanto 'deber' como 'tener que': 'Devo andare' = Debo/Tengo que ir.",
+    "tags": ["verb", "modal", "irregular"]
+  },
+  {
+    "id": "a1-preposizioni-semplici",
+    "title": "Preposizioni semplici",
+    "pattern": "di / a / da / in / con / su / per / tra·fra",
+    "meaning": "preposiciones simples",
+    "level": "a1",
+    "explanation": "Las preposiciones simples en italiano: DI (de/del), A (a/en-ciudad), DA (de/desde/por), IN (en/a-país), CON (con), SU (en/sobre), PER (para/por), TRA/FRA (entre/dentro de). Da tiene usos especiales: origine (vengo da Roma), duración (studio da un anno), agente pasivo.",
+    "examples": [
+      {
+        "sentence": "Vengo da Milano.",
+        "reading": "",
+        "translation": "Vengo de Milán.",
+        "breakdown": ["da = de (origen)"]
+      },
+      {
+        "sentence": "Il libro è sul tavolo.",
+        "reading": "",
+        "translation": "El libro está sobre la mesa.",
+        "breakdown": ["su + il = sul (sobre + el)"]
+      },
+      {
+        "sentence": "Studio italiano da sei mesi.",
+        "reading": "",
+        "translation": "Estudio italiano desde hace seis meses.",
+        "breakdown": ["da = desde hace (duración que continúa)"]
+      }
+    ],
+    "notes": "PARA HISPANOHABLANTES: La preposición más complicada es 'DA'. Además de 'de', significa 'desde' y 'hace' en contextos temporales: 'Studio da tre anni' = Estudio desde hace tres años (acción que continúa). También indica el agente en construcción pasiva. 'SU' significa 'sobre/en': 'sul giornale' (en el periódico), 'sulla sedia' (en la silla). 'PER' puede significar tanto 'para' como 'por'.",
+    "tags": ["preposition", "grammar", "essential"]
+  },
+  {
+    "id": "a1-preposizioni-articolate",
+    "title": "Preposizioni articolate",
+    "pattern": "di+il=del / di+la=della / a+il=al / a+la=alla / da+il=dal / in+il=nel / su+il=sul",
+    "meaning": "preposiciones contraídas con el artículo",
+    "level": "a1",
+    "explanation": "Cuando las preposiciones DI, A, DA, IN, SU van seguidas de un artículo determinado, se fusionan obligatoriamente. CON y PER son opcionales (con+il = col, arcaico). Las formas más usadas: del/dello/della/dell'/dei/degli/delle (di+artículo), al/allo/alla/all'/ai/agli/alle (a+artículo), dal/dallo/dalla/dall' (da+artículo), nel/nello/nella/nell' (in+artículo), sul/sullo/sulla/sull' (su+artículo).",
+    "examples": [
+      {
+        "sentence": "Vado al supermercato.",
+        "reading": "",
+        "translation": "Voy al supermercado.",
+        "breakdown": ["al = a + il (a + el)"]
+      },
+      {
+        "sentence": "Il libro della professoressa è interessante.",
+        "reading": "",
+        "translation": "El libro de la profesora es interesante.",
+        "breakdown": ["della = di + la (de + la)"]
+      },
+      {
+        "sentence": "La chiave è nel cassetto.",
+        "reading": "",
+        "translation": "La llave está en el cajón.",
+        "breakdown": ["nel = in + il (en + el)"]
+      }
+    ],
+    "notes": "PARA HISPANOHABLANTES: En español solo existen dos contracciones obligatorias: del (de+el) y al (a+el). En italiano son MUCHAS MÁS y son OBLIGATORIAS con todas las preposiciones listadas. No podés decir 'di il libro' — siempre es 'del libro'. La lógica es la misma que en español pero extendida a más preposiciones.",
+    "tags": ["preposition", "article", "grammar", "essential"]
+  },
+  {
+    "id": "a1-ce-ci-sono",
+    "title": "C'è e ci sono",
+    "pattern": "c'è + singolare / ci sono + plurale",
+    "meaning": "hay (singular y plural)",
+    "level": "a1",
+    "explanation": "Para expresar existencia o presencia, el italiano usa 'c'è' (hay, singular) y 'ci sono' (hay, plural). 'C'è' viene de 'ci è' (allí hay). Negación: non c'è / non ci sono. Pregunta: c'è? / ci sono?",
+    "examples": [
+      {
+        "sentence": "C'è un ristorante qui vicino.",
+        "reading": "",
+        "translation": "Hay un restaurante aquí cerca.",
+        "breakdown": ["c'è = hay (sing.)", "un ristorante = un restaurante"]
+      },
+      {
+        "sentence": "Ci sono molte persone in piazza.",
+        "reading": "",
+        "translation": "Hay muchas personas en la plaza.",
+        "breakdown": ["ci sono = hay (pl.)", "molte persone = muchas personas"]
+      },
+      {
+        "sentence": "Non c'è nessun problema.",
+        "reading": "",
+        "translation": "No hay ningún problema.",
+        "breakdown": ["non c'è = no hay", "nessun = ningún"]
+      }
+    ],
+    "notes": "PARA HISPANOHABLANTES: En español 'hay' es invariable. En italiano c'è (singular) y ci sono (plural) cambian según el número. Es un error muy común decir 'c'è molte persone' — debe ser 'ci sono molte persone'. Recordá: c'è UN ristorante / ci sono DUE ristoranti.",
+    "tags": ["expression", "existential", "grammar"]
+  },
+  {
+    "id": "a1-aggettivi-possessivi",
+    "title": "Aggettivi possessivi",
+    "pattern": "mio/mia/miei/mie — tuo/tua/tuoi/tue — suo/sua/suoi/sue",
+    "meaning": "adjetivos posesivos",
+    "level": "a1",
+    "explanation": "Los posesivos en italiano concuerdan con el sustantivo poseído (género y número), no con el poseedor. Además, van PRECEDIDOS de artículo generalmente, excepto con sustantivos de familia en singular: mia madre (sin artículo), la mia casa (con artículo). Los posesivos: mio/mia (mi), tuo/tua (tu/vuestro), suo/sua (su), nostro/nostra (nuestro), vostro/vostra (vuestro), loro (su de ellos — invariable).",
+    "examples": [
+      {
+        "sentence": "La mia casa è grande.",
+        "reading": "",
+        "translation": "Mi casa es grande.",
+        "breakdown": ["la mia = mi (f.s. con artículo)", "casa = casa (f.)"]
+      },
+      {
+        "sentence": "Mia madre è italiana.",
+        "reading": "",
+        "translation": "Mi madre es italiana.",
+        "breakdown": ["mia madre = mi madre (familia singular, SIN artículo)"]
+      },
+      {
+        "sentence": "I nostri amici sono simpatici.",
+        "reading": "",
+        "translation": "Nuestros amigos son simpáticos.",
+        "breakdown": ["i nostri = nuestros (m.pl.)", "amici = amigos"]
+      }
+    ],
+    "notes": "PARA HISPANOHABLANTES: La diferencia clave: en italiano los posesivos llevan artículo (la mia borsa = mi bolso), EXCEPTO con familiares en singular y sin modificadores: mio padre, tua sorella, suo nonno. Pero: il mio caro padre (con adjetivo), i miei fratelli (plural). 'Loro' como posesivo es siempre invariable: il loro libro / la loro casa / i loro amici.",
+    "tags": ["adjective", "possessive", "grammar"]
+  },
+  {
+    "id": "a1-dimostrativi",
+    "title": "Questo e Quello (dimostrativi)",
+    "pattern": "questo/questa/questi/queste — quello/quella/quei/quegli/quelle",
+    "meaning": "este/esta/estos/estas — ese/aquel/esa/aquella",
+    "level": "a1",
+    "explanation": "Questo (este/esta/esto — cerca) y quello (ese/aquel — lejos). Questo: questo (m.s.), questa (f.s.), questi (m.pl.), queste (f.pl.). Questo/questa se apocopan ante vocal: quest'uomo, quest'amica. Quello sigue el patrón del artículo determinado: quel (m.s.+cons.), quello (m.s.+z/s+c), quell' (vocal), quella (f.s.), quei (m.pl.), quegli (m.pl.+vocal/z/s+c), quelle (f.pl.).",
+    "examples": [
+      {
+        "sentence": "Questo libro è interessante.",
+        "reading": "",
+        "translation": "Este libro es interesante.",
+        "breakdown": ["questo = este (m.s.)"]
+      },
+      {
+        "sentence": "Quella ragazza è mia sorella.",
+        "reading": "",
+        "translation": "Esa chica es mi hermana.",
+        "breakdown": ["quella = esa/aquella (f.s.)"]
+      },
+      {
+        "sentence": "Quei ragazzi sono italiani.",
+        "reading": "",
+        "translation": "Esos chicos son italianos.",
+        "breakdown": ["quei = esos (m.pl. ante consonante)"]
+      }
+    ],
+    "notes": "PARA HISPANOHABLANTES: El italiano tiene solo dos grados de distancia (questo=cercano, quello=lejano), igual que el español neutro. La complejidad de 'quello' es que cambia según el artículo que acompañaría al sustantivo: il libro → quel libro, lo zaino → quello zaino, l'amico → quell'amico, i libri → quei libri, gli zaini → quegli zaini.",
+    "tags": ["adjective", "demonstrative", "grammar"]
+  },
+  {
+    "id": "a1-numeri-100",
+    "title": "Numeri 1-100",
+    "pattern": "1-20 (irregolari) + decine + unità",
+    "meaning": "números del 1 al 100",
+    "level": "a1",
+    "explanation": "Del 1 al 16 son irregulares: uno, due, tre, quattro, cinque, sei, sette, otto, nove, dieci, undici, dodici, tredici, quattordici, quindici, sedici. Del 17 al 19: diciassette, diciotto, diciannove. Decenas: venti, trenta, quaranta, cinquanta, sessanta, settanta, ottanta, novanta, cento. Combinaciones: venti+due=ventidue (sin espacio), trenta+tre=trentatré (con acento en -tré), venti/trenta pierden la vocal final ante uno y otto: ventuno, ventotto.",
+    "examples": [
+      {
+        "sentence": "Ho ventun anni.",
+        "reading": "",
+        "translation": "Tengo veintiún años.",
+        "breakdown": ["ventun = veintiuno (venti pierde la -i ante uno)"]
+      },
+      {
+        "sentence": "Costa trentasei euro.",
+        "reading": "",
+        "translation": "Cuesta treinta y seis euros.",
+        "breakdown": ["trentasei = treinta y seis (todo junto)"]
+      },
+      {
+        "sentence": "Sono le quarantatré persone.",
+        "reading": "",
+        "translation": "Son cuarenta y tres personas.",
+        "breakdown": ["quarantatré = cuarenta y tres (con acento)"]
+      }
+    ],
+    "notes": "PARA HISPANOHABLANTES: En italiano los números compuestos van unidos (sin espacio ni guión): ventidue, trentotto. Las decenas pierden la vocal final ante uno y otto: ventuno (no ventiuno), ventotto (no ventotto), trentuno, trentotto, etc. Tres, sei, etc. toman acento cuando van al final de número compuesto: ventitré, trentatré, quarantasei.",
+    "tags": ["numeral", "numbers", "grammar"]
+  },
+  {
+    "id": "a1-le-ore",
+    "title": "Le ore — decir la hora",
+    "pattern": "Che ora è? / Sono le [ora].",
+    "meaning": "¿Qué hora es? / la hora",
+    "level": "a1",
+    "explanation": "Para preguntar la hora: 'Che ora è?' o 'Che ore sono?'. Para responder: 'Sono le + hora' (excepto la 1: 'È l'una', el mediodía: 'È mezzogiorno', medianoche: 'È mezzanotte'). Los minutos: 'Sono le tre e dieci' (3:10), 'Sono le tre e un quarto' (3:15), 'Sono le tre e mezza' (3:30), 'Sono le quattro meno un quarto' (3:45).",
+    "examples": [
+      {
+        "sentence": "Che ora è?",
+        "reading": "",
+        "translation": "¿Qué hora es?",
+        "breakdown": ["che ora = qué hora", "è = es"]
+      },
+      {
+        "sentence": "Sono le otto e mezza.",
+        "reading": "",
+        "translation": "Son las ocho y media.",
+        "breakdown": ["sono le = son las", "otto = ocho", "mezza = media"]
+      },
+      {
+        "sentence": "È l'una di notte.",
+        "reading": "",
+        "translation": "Es la una de la noche.",
+        "breakdown": ["è l'una = es la una (singular, usa È no Sono)"]
+      }
+    ],
+    "notes": "PARA HISPANOHABLANTES: Como en español, se usa plural ('son las') excepto para la una. En Italia se usa comúnmente el formato de 24 horas: 'Sono le venti' = Son las 8 de la noche. 'Di mattina' (de la mañana), 'di pomeriggio' (de la tarde), 'di sera' (de la noche temprana), 'di notte' (de la madrugada).",
+    "tags": ["time", "grammar", "expression"]
+  },
+  {
+    "id": "a1-avverbi-frequenza",
+    "title": "Avverbi di frequenza",
+    "pattern": "sempre / spesso / a volte / raramente / non ... mai",
+    "meaning": "adverbios de frecuencia: siempre / a menudo / a veces / raramente / nunca",
+    "level": "a1",
+    "explanation": "Los adverbios de frecuencia en italiano: sempre (siempre), spesso (a menudo/frecuentemente), a volte (a veces), qualche volta (alguna vez), raramente (raramente), non...mai (nunca). Van generalmente después del verbo conjugado: 'Studio sempre italiano' o después del auxiliar en tiempos compuestos.",
+    "examples": [
+      {
+        "sentence": "Mangio sempre la pasta.",
+        "reading": "",
+        "translation": "Como pasta siempre.",
+        "breakdown": ["sempre = siempre (después del verbo)"]
+      },
+      {
+        "sentence": "Non vado mai al cinema.",
+        "reading": "",
+        "translation": "Nunca voy al cine.",
+        "breakdown": ["non...mai = nunca (non antes del verbo, mai después)"]
+      },
+      {
+        "sentence": "A volte studio la sera.",
+        "reading": "",
+        "translation": "A veces estudio por la noche.",
+        "breakdown": ["a volte = a veces (puede ir al inicio o al final)"]
+      }
+    ],
+    "notes": "PARA HISPANOHABLANTES: 'Non...mai' requiere doble negación, igual que en español coloquial ('no voy nunca'). En italiano la doble negación es OBLIGATORIA con 'mai': 'Non vado mai' (nunca 'Vado mai' en afirmativo). 'Spesso' equivale a 'a menudo' o 'frecuentemente', no exactamente a 'mucho'. 'Qualche volta' = 'alguna vez/a veces' (más esporádico que 'a volte').",
+    "tags": ["adverb", "frequency", "grammar"]
+  },
+  {
+    "id": "a1-interrogativi",
+    "title": "Le interrogative — parole chiave",
+    "pattern": "dove / quando / come / quanto / chi / che cosa / perché / quale",
+    "meaning": "palabras interrogativas: dónde / cuándo / cómo / cuánto / quién / qué / por qué / cuál",
+    "level": "a1",
+    "explanation": "Palabras interrogativas en italiano: dove (dónde), quando (cuándo), come (cómo), quanto/quanta/quanti/quante (cuánto/a/os/as), chi (quién/quiénes), che cosa / cosa / che (qué), perché (por qué / porque), quale/quali (cuál/cuáles). En preguntas, el sujeto suele ir al final: 'Dove abita lei?' (¿Dónde vive ella?).",
+    "examples": [
+      {
+        "sentence": "Chi sei?",
+        "reading": "",
+        "translation": "¿Quién sos?",
+        "breakdown": ["chi = quién", "sei = sos/eres"]
+      },
+      {
+        "sentence": "Quanti anni hai?",
+        "reading": "",
+        "translation": "¿Cuántos años tenés?",
+        "breakdown": ["quanti = cuántos (m.pl.)", "anni = años"]
+      },
+      {
+        "sentence": "Che cosa fai?",
+        "reading": "",
+        "translation": "¿Qué hacés?",
+        "breakdown": ["che cosa = qué (literalmente 'qué cosa')"]
+      }
+    ],
+    "notes": "PARA HISPANOHABLANTES: 'Che cosa', 'cosa' y 'che' se usan indistintamente para 'qué'. En el habla coloquial 'cosa fai?' o 'che fai?' son igual de comunes que 'che cosa fai?'. 'Quale' (cuál) siempre requiere il/la implícito: 'Quale preferisci?' (¿Cuál preferís?). Perché sirve tanto para 'por qué' (pregunta) como para 'porque' (respuesta), igual que en portugués.",
+    "tags": ["question", "interrogative", "grammar"]
+  },
+  {
+    "id": "a1-sapere-conoscere",
+    "title": "Sapere vs Conoscere",
+    "pattern": "sapere: so/sai/sa/sappiamo/sapete/sanno | conoscere: conosco/conosci/conosce...",
+    "meaning": "saber (información/habilidad) vs conocer (personas/lugares)",
+    "level": "a1",
+    "explanation": "Como el español saber/conocer, el italiano tiene sapere y conoscere. Sapere: saber información (so che...) o habilidad (so parlare italiano). Conoscere: conocer personas, lugares, obras. La diferencia es sutil pero importante. Conjugación de sapere: so, sai, sa, sappiamo, sapete, sanno (irregular). Conoscere es regular (-ere).",
+    "examples": [
+      {
+        "sentence": "Sai parlare italiano?",
+        "reading": "",
+        "translation": "¿Sabés hablar italiano?",
+        "breakdown": ["sai = sabés/sabes", "parlare = hablar"]
+      },
+      {
+        "sentence": "Conosci Roma?",
+        "reading": "",
+        "translation": "¿Conocés Roma?",
+        "breakdown": ["conosci = conocés/conoces", "Roma = Roma (lugar)"]
+      },
+      {
+        "sentence": "Non so dove abita.",
+        "reading": "",
+        "translation": "No sé dónde vive.",
+        "breakdown": ["non so = no sé", "dove = dónde", "abita = vive"]
+      }
+    ],
+    "notes": "PARA HISPANOHABLANTES: La distinción es casi idéntica al español saber/conocer. Sapere + infinitivo = saber hacer algo (habilidad): 'So nuotare' (Sé nadar). Sapere + che/dove/quando = saber información. Conoscere + persona/lugar = conocer. Error común: 'Conosco come si fa' debería ser 'So come si fa' (Sé cómo se hace).",
+    "tags": ["verb", "sapere", "conoscere", "distinction"]
+  },
+  {
+    "id": "a1-piacere",
+    "title": "Piacere — Mi piace / Mi piacciono",
+    "pattern": "mi piace + singolare / mi piacciono + plurale",
+    "meaning": "me gusta / me gustan",
+    "level": "a1",
+    "explanation": "Piacere en italiano funciona de manera inversa al español 'gustar'. La estructura es: [a persona] + piace + soggetto singular / piacciono + soggetto plural. El sujeto real es la cosa que gusta, no la persona. Con pronombres: mi (a me), ti (a te), gli/le (a lui/lei), ci (a noi), vi (a voi), gli (a loro).",
+    "examples": [
+      {
+        "sentence": "Mi piace il caffè.",
+        "reading": "",
+        "translation": "Me gusta el café.",
+        "breakdown": ["mi = me (a mí)", "piace = gusta (singular)", "il caffè = el café (sujeto)"]
+      },
+      {
+        "sentence": "Mi piacciono i film italiani.",
+        "reading": "",
+        "translation": "Me gustan las películas italianas.",
+        "breakdown": ["piacciono = gustan (plural)", "i film = las películas"]
+      },
+      {
+        "sentence": "Ti piace la musica?",
+        "reading": "",
+        "translation": "¿Te gusta la música?",
+        "breakdown": ["ti = te (a ti/vos)", "piace = gusta"]
+      }
+    ],
+    "notes": "PARA HISPANOHABLANTES: Piacere funciona EXACTAMENTE igual que 'gustar' en español. La estructura es idéntica: mi piace = me gusta, mi piacciono = me gustan. El truco: el verbo concuerda con lo que gusta (singular/plural), no con la persona. 'Mi piacciono' (plural) cuando gustan varias cosas. Piacere + infinitivo: 'Mi piace studiare' (Me gusta estudiar) — el infinitivo siempre pide piace (singular).",
+    "tags": ["verb", "piacere", "grammar", "essential"]
+  },
+  {
+    "id": "a1-negazione",
+    "title": "Negazione — non + verbo",
+    "pattern": "non + verbo / non ... mai / non ... niente / non ... nessuno",
+    "meaning": "negación: no + verbo / nunca / nada / nadie",
+    "level": "a1",
+    "explanation": "La negación básica en italiano es 'non' antes del verbo: 'Non parlo francese' (No hablo francés). Con adverbios negativos se forma doble negación obligatoria: non...mai (nunca), non...niente/nulla (nada), non...nessuno (nadie), non...ancora (todavía no), non...più (ya no).",
+    "examples": [
+      {
+        "sentence": "Non capisco.",
+        "reading": "",
+        "translation": "No entiendo.",
+        "breakdown": ["non = no", "capisco = entiendo"]
+      },
+      {
+        "sentence": "Non mangio mai la carne.",
+        "reading": "",
+        "translation": "Nunca como carne.",
+        "breakdown": ["non = no (ante verbo)", "mai = nunca (después del verbo)"]
+      },
+      {
+        "sentence": "Non c'è nessuno.",
+        "reading": "",
+        "translation": "No hay nadie.",
+        "breakdown": ["non c'è = no hay", "nessuno = nadie"]
+      }
+    ],
+    "notes": "PARA HISPANOHABLANTES: La doble negación es OBLIGATORIA en italiano, igual que en español: 'Non vado mai' (No voy nunca). 'Non...ancora' = todavía no / aún no: 'Non ho ancora mangiato' (Todavía no comí). 'Non...più' = ya no: 'Non abito più a Milano' (Ya no vivo en Milán). Nota: el orden es NON antes del verbo, el segundo negativo después.",
+    "tags": ["negation", "grammar", "essential"]
+  },
+  {
+    "id": "a1-espressioni-base",
+    "title": "Espressioni di base con avere",
+    "pattern": "ho fame / ho sete / ho sonno / ho caldo / ho freddo / ho ... anni",
+    "meaning": "expresiones básicas con tener: tengo hambre/sed/sueño/calor/frío/años",
+    "level": "a1",
+    "explanation": "En italiano muchas sensaciones físicas se expresan con 'avere' (tener) + sustantivo, igual que en español. Ho fame (tengo hambre), ho sete (tengo sed), ho sonno (tengo sueño), ho caldo (tengo calor), ho freddo (tengo frío), ho paura (tengo miedo), ho fretta (tengo prisa), ho ragione (tengo razón), ho torto (me equivoco), ho ... anni (tengo ... años).",
+    "examples": [
+      {
+        "sentence": "Ho molta fame, quando mangiamo?",
+        "reading": "",
+        "translation": "Tengo mucha hambre, ¿cuándo comemos?",
+        "breakdown": ["ho fame = tengo hambre", "molta = mucha"]
+      },
+      {
+        "sentence": "Hai sete? Ti porto un'acqua.",
+        "reading": "",
+        "translation": "¿Tenés sed? Te traigo un agua.",
+        "breakdown": ["hai sete = tenés sed", "ti porto = te traigo"]
+      },
+      {
+        "sentence": "Ho venticinque anni.",
+        "reading": "",
+        "translation": "Tengo veinticinco años.",
+        "breakdown": ["ho = tengo", "venticinque anni = veinticinco años"]
+      }
+    ],
+    "notes": "PARA HISPANOHABLANTES: Estas expresiones son muy similares al español. La diferencia principal: en italiano se dice 'ho caldo' (tengo calor, con avere) nunca 'sono caldo' (que significa algo muy diferente: estoy caliente/caluroso en sentido sexual). Lo mismo con 'ho freddo' (tengo frío). Para el tiempo meteorológico sí se usa essere o fare: 'È freddo' o 'Fa freddo' (Hace frío — el clima).",
+    "tags": ["expression", "avere", "essential"]
+  }
+]

@@ -1,0 +1,101 @@
+{
+  "id": "vocab-a1-18",
+  "title": "Il tempo atmosferico",
+  "description": "El tiempo meteorológico en italiano. Vocabulario esencial para conversaciones cotidianas y para entender el pronóstico del tiempo.",
+  "level": "a1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "Che tempo fa?",
+      "back": "¿Qué tiempo hace?",
+      "reading": "/ke ˈtɛmpo ˈfa/",
+      "explanation": "La pregunta estándar sobre el tiempo. 'Fa' = hace (de 'fare'). 'Tempo' tiene dos significados: tiempo meteorológico Y tiempo cronológico. El contexto aclara."
+    },
+    {
+      "front": "Fa bel tempo / Fa brutto tempo",
+      "back": "Hace buen tiempo / Hace mal tiempo",
+      "reading": "",
+      "explanation": "'Bel tempo' = buen tiempo (bello apocopado). 'Brutto tempo' = mal tiempo. Estas son las expresiones más genéricas para describir el tiempo."
+    },
+    {
+      "front": "Fa caldo / Fa freddo",
+      "back": "Hace calor / Hace frío",
+      "reading": "/ˈkaldo/ /ˈfrɛddo/",
+      "explanation": "'Fa caldo' = hace calor. 'Fa freddo' = hace frío. Atención: 'Ho caldo/freddo' = Tengo calor/frío (sensación personal). Diferencia importante en italiano."
+    },
+    {
+      "front": "piove / sta piovendo",
+      "back": "llueve / está lloviendo",
+      "reading": "/ˈpjɔːve/",
+      "explanation": "'Piove' = llueve (de 'piovere', verbo impersonal). 'Sta piovendo' = está lloviendo. 'L'ombrello' = el paraguas. 'Una pioggia forte' = una lluvia fuerte."
+    },
+    {
+      "front": "nevica / sta nevicando",
+      "back": "nieva / está nevando",
+      "reading": "/ˈneːvika/",
+      "explanation": "'Nevica' = nieva (de 'nevicare'). 'La neve' = la nieve. 'Un fiocco di neve' = un copo de nieve. 'Fare una palla di neve' = hacer una bola de nieve."
+    },
+    {
+      "front": "c'è il sole",
+      "back": "hay sol / hace sol",
+      "reading": "/tʃɛ il ˈsoːle/",
+      "explanation": "'C'è il sole' = hay sol. También: 'splende il sole' (brilla el sol) o 'c'è il sole' (hay sol). 'Prendere il sole' = tomar sol. 'Soleggiato' = soleado."
+    },
+    {
+      "front": "c'è la nebbia / c'è nuvole",
+      "back": "hay niebla / hay nubes",
+      "reading": "/la ˈnɛbbja/ /ˈnuvole/",
+      "explanation": "'La nebbia' = la niebla (doble 'bb'). 'Le nuvole' = las nubes (plural). 'È nuvoloso' = está nublado. 'È sereno' = está despejado."
+    },
+    {
+      "front": "il vento / tira vento",
+      "back": "el viento / hace viento",
+      "reading": "/il ˈvento/",
+      "explanation": "'Il vento' = el viento. 'Tira vento' o 'c'è vento' = hace/hay viento. 'Un vento forte' = un viento fuerte. 'Ventoso' = ventoso."
+    },
+    {
+      "front": "il temporale / il tuono / la folgore",
+      "back": "la tormenta / el trueno / el rayo",
+      "reading": "/il tempoˈraːle/",
+      "explanation": "'Un temporale' = una tormenta. 'Il tuono' = el trueno. 'Il fulmine/la folgore' = el rayo. 'C'è un temporale' = hay una tormenta. 'Lampo' = relámpago."
+    },
+    {
+      "front": "caldo / freddo / fresco / umido",
+      "back": "caluroso / frío / fresco / húmedo",
+      "reading": "/ˈkaldo/ /ˈfrɛddo/ /ˈfresko/ /ˈuːmido/",
+      "explanation": "Adjetivos del tiempo. 'Oggi è una giornata calda' = Hoy es un día caluroso. 'Che freddo!' = ¡Qué frío! 'Umido' = húmedo (el clima). 'Afoso' = bochornoso."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Il tempo — ¿qué tiempo hace?",
+      "instruction": "Para hablar del tiempo en italiano se usa principalmente 'fare': fa caldo, fa freddo, fa bel tempo. Para llover y nevar: piove, nevica (verbos impersonales).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué tiempo hace?",
+      "instruction": "Ves la expresión meteorológica en italiano. Elegí la traducción.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "Del español al italiano",
+      "instruction": "Ves la descripción del tiempo. Escribí la expresión italiana correcta.",
+      "itemIndices": [1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Ho o fa?",
+      "instruction": "¿Cuál es correcto? 'Ho caldo' (yo tengo calor) vs 'Fa caldo' (hace calor afuera). Elegí según el contexto dado.",
+      "itemIndices": [2]
+    },
+    {
+      "type": "summary",
+      "title": "¡Il tempo atmosferico!",
+      "instruction": "Che tempo fa? — Fa bel/brutto tempo. Fa caldo/freddo. Piove/nevica (impersonales). C'è il sole/la nebbia/vento. Ojo: 'fa caldo' = hace calor (clima), 'ho caldo' = tengo calor (yo).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

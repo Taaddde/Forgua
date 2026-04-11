@@ -1,0 +1,119 @@
+{
+  "id": "grammar-b2-01",
+  "title": "Congiuntivo imperfetto — forme e uso",
+  "description": "El subjuntivo imperfecto italiano: indispensable para hipótesis, deseos y subordinadas con verbo principal en pasado o condicional. Similar al imperfecto de subjuntivo español pero con triggers específicos.",
+  "level": "b2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "parlassi / parlasse / parlassero",
+      "back": "hablara (yo/tú) / hablara (él) / hablaran",
+      "reading": "",
+      "explanation": "Congiuntivo imperfetto de 'parlare' (-ARE). Terminaciones: -assi / -assi / -asse / -assimo / -aste / -assero. La 1ª y 2ª persona singular son IDÉNTICAS: io parlassi = tu parlassi."
+    },
+    {
+      "front": "scrivessi / scrivesse / scrivessero",
+      "back": "escribiera (yo/tú) / escribiera (él) / escribieran",
+      "reading": "",
+      "explanation": "Congiuntivo imperfetto de 'scrivere' (-ERE). Terminaciones: -essi / -essi / -esse / -essimo / -este / -essero. Radical: scriv- + -essi, etc."
+    },
+    {
+      "front": "dormissi / dormisse / dormissero",
+      "back": "durmiera (yo/tú) / durmiera (él) / durmieran",
+      "reading": "",
+      "explanation": "Congiuntivo imperfetto de 'dormire' (-IRE). Terminaciones: -issi / -issi / -isse / -issimo / -iste / -issero. Igual patrón para -IRE regulares."
+    },
+    {
+      "front": "fossi / fosse / fossero",
+      "back": "fuera (yo/tú) / fuera (él) / fueran",
+      "reading": "",
+      "explanation": "Congiuntivo imperfetto di 'essere': fossi / fossi / fosse / fossimo / foste / fossero. IRREGULAR y fundamental. 'Se fossi te...' (Si fuera tú...), 'Come se fosse...' (Como si fuera...)."
+    },
+    {
+      "front": "avessi / avesse / avessero",
+      "back": "tuviera (yo/tú) / tuviera (él) / tuvieran",
+      "reading": "",
+      "explanation": "Congiuntivo imperfetto di 'avere': avessi / avessi / avesse / avessimo / aveste / avessero. IRREGULAR. 'Se avessi tempo...' (Si tuviera tiempo...). Forma il congiuntivo trapassato: avessi + participio."
+    },
+    {
+      "front": "Se avessi tempo, studierei di più.",
+      "back": "Si tuviera tiempo, estudiaría más.",
+      "reading": "",
+      "explanation": "PERIODO IPOTETICO TIPO 2: Se + congiuntivo imperfetto + condizionale presente. Expresa hipótesis del presente/futuro considerada improbable o solo posible. Compara: 'Se HO tempo, studio' (si tengo tiempo, estudio — real posible)."
+    },
+    {
+      "front": "Vorrei che tu venissi.",
+      "back": "Querría que vinieras.",
+      "reading": "",
+      "explanation": "Después de CONDIZIONALE (vorrei, sarebbe meglio che, preferirei che) → congiuntivo imperfetto. Compara: 'Voglio che tu VENGA' (presente → congiuntivo presente). Vorrei → imperfetto porque la realización es hipotética."
+    },
+    {
+      "front": "Pensavo che Marco venisse.",
+      "back": "Pensaba que Marco vendría/venía.",
+      "reading": "",
+      "explanation": "Verbo principale al PASSATO (pensavo, credevo, speravo, volevo...) + che → congiuntivo imperfetto para acción simultánea o posterior. Si la acción es ANTERIOR al passato del principal: congiuntivo trapassato."
+    },
+    {
+      "front": "Si comporta come se sapesse tutto.",
+      "back": "Se comporta como si lo supiera todo.",
+      "reading": "",
+      "explanation": "'Come se' SIEMPRE requiere congiuntivo imperfetto (para situación presente irreal) o trapassato (para situación pasada irreal). Nunca indicativo. 'Come se sapesse' (pero en realidad no lo sabe)."
+    },
+    {
+      "front": "Speravo che arrivasse in tempo.",
+      "back": "Esperaba que llegara a tiempo.",
+      "reading": "",
+      "explanation": "'Speravo che' → congiuntivo imperfetto. La acción (arrivare) es simultánea o posterior al passato del verbo principal (speravo). Si hubiera llegado ANTES de que yo esperara: 'Speravo che fosse già arrivato.'"
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Formas regulares del congiuntivo imperfetto",
+      "instruction": "-ARE: parlassi/-asse/-assero. -ERE: scrivessi/-esse/-essero. -IRE: dormissi/-isse/-issero. Patrón fácil: la raíz del verbo + doble consonante + vocal. Nota: 1ª y 2ª singular son idénticas.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Irregolari fondamentali",
+      "instruction": "Essere → FOSSI (radical: foss-). Avere → AVESSI (radical: avess-). Fare → facessi. Dare → dessi. Stare → stessi. Dire → dicessi. Estos 6 son los más importantes de memorizar.",
+      "itemIndices": [3, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "Uso 1: Periodo ipotetico tipo 2",
+      "instruction": "Se + congiuntivo imperfetto + condizionale = hipótesis improbable del presente. 'Se avessi una Ferrari, la venderei.' (Si tuviera un Ferrari, lo vendería — pero no tengo.)",
+      "itemIndices": [5]
+    },
+    {
+      "type": "introduce",
+      "title": "Uso 2 y 3: Después de condizionale y después de pasado",
+      "instruction": "Dopo condizionale: 'Vorrei che + congiuntivo imperfetto'. Dopo passato: 'Pensavo che / Volevo che / Speravo che + congiuntivo imperfetto'. La acción subordinada es simultánea al pasado principal.",
+      "itemIndices": [6, 7, 8, 9]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completa con el congiuntivo imperfetto",
+      "instruction": "Elige la forma correcta del congiuntivo imperfetto.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "error-correction",
+      "title": "Errori comuni — correggi",
+      "instruction": "Identifica y corrige el error en estas frases con congiuntivo imperfetto.",
+      "itemIndices": [5, 6, 7]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Costruisci periodi ipotetici tipo 2",
+      "instruction": "Construye oraciones hipotéticas del tipo 2 con las palabras dadas.",
+      "itemIndices": [5, 9]
+    },
+    {
+      "type": "summary",
+      "title": "Congiuntivo imperfetto — dominato",
+      "instruction": "Terminaciones: -assi/-essi/-issi (+ doble consonante). Irregolari: fossi, avessi, facessi, dessi, stessi, dicessi. Usos: (1) periodo ipotetico tipo 2 (Se + imperfetto + condizionale), (2) después de condizionale (vorrei che...), (3) después de passato (pensavo che, speravo che...).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    }
+  ]
+}

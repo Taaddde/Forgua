@@ -1,0 +1,182 @@
+{
+  "id": "vocab-b2-05",
+  "title": "Discorso politico e sociale",
+  "description": "Vocabulario para el debate político y social contemporáneo: democracia, globalización, desigualdad y reforma. Esencial para seguir la actualidad italiana.",
+  "level": "b2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "la sovranità",
+      "back": "la soberanía",
+      "reading": "",
+      "explanation": "'Sovranità nazionale/popolare' = soberanía nacional/popular. 'Sovranismo' = soberanismo (movimiento político que prioriza la soberanía nacional). Aggettivo: sovrano. 'I paesi sovrani' = los países soberanos."
+    },
+    {
+      "front": "la democrazia",
+      "back": "la democracia",
+      "reading": "",
+      "explanation": "'Democrazia rappresentativa/diretta' = democracia representativa/directa. 'Democrazia liberale' = democracia liberal. 'I valori democratici' = los valores democráticos. Aggettivo: democratico."
+    },
+    {
+      "front": "la costituzione",
+      "back": "la constitución",
+      "reading": "",
+      "explanation": "Con maiúscula: 'la Costituzione italiana' del 1948. 'Incostituzionale' = inconstitucional. 'La Corte Costituzionale' = el Tribunal Constitucional. 'I principi costituzionali' = los principios constitucionales."
+    },
+    {
+      "front": "il referendum",
+      "back": "el referéndum",
+      "reading": "",
+      "explanation": "Invariable en plural. En Italia, referenda abrogativo (para derogar leyes), costituzionale y consultivo. 'Indire un referendum' = convocar un referéndum."
+    },
+    {
+      "front": "il federalismo",
+      "back": "el federalismo",
+      "reading": "",
+      "explanation": "'Federalismo fiscale' = federalismo fiscal. 'Stato federale vs unitario' = Estado federal vs unitario. Nota: Italia es un Estado unitario con autonomías regionales, no federación."
+    },
+    {
+      "front": "il regionalismo",
+      "back": "el regionalismo",
+      "reading": "",
+      "explanation": "En Italia hay 20 regioni, 5 con statuto speciale (Valle d'Aosta, Trentino-A.A., FVG, Sardegna, Sicilia). 'Autonomia regionale' = autonomía regional. 'Autonomia differenziata' = debate actual."
+    },
+    {
+      "front": "l'integrazione (f.)",
+      "back": "la integración",
+      "reading": "",
+      "explanation": "'Integrazione europea' = integración europea. 'Integrazione degli immigrati' = integración de los inmigrantes. 'Integrazione scolastica' = integración escolar. Verbo: integrare."
+    },
+    {
+      "front": "la globalizzazione",
+      "back": "la globalización",
+      "reading": "",
+      "explanation": "'Globalizzazione economica/culturale' = globalización económica/cultural. 'Critica alla globalizzazione' = crítica a la globalización. 'De-globalizzazione' = desglobalización (tendencia reciente)."
+    },
+    {
+      "front": "il nazionalismo",
+      "back": "el nacionalismo",
+      "reading": "",
+      "explanation": "'Nazionalismo economico' = nacionalismo económico. 'Deriva nazionalista' = deriva nacionalista. Aggettivo: nazionalista. Diferente de 'patriottismo' (patriotismo, generalmente connotación más positiva)."
+    },
+    {
+      "front": "il multiculturalismo",
+      "back": "el multiculturalismo",
+      "reading": "",
+      "explanation": "'Società multiculturale' = sociedad multicultural. 'Fallimento del multiculturalismo' (debate europeo). 'Interculturalità' = interculturalidad (concepto italiano más habitual que multiculturalismo)."
+    },
+    {
+      "front": "la disuguaglianza",
+      "back": "la desigualdad",
+      "reading": "",
+      "explanation": "'Disuguaglianza economica/sociale/di genere' = desigualdad económica/social/de género. 'Indice di Gini' = índice de Gini (medida de desigualdad). Contrario: uguaglianza (igualdad)."
+    },
+    {
+      "front": "la povertà",
+      "back": "la pobreza",
+      "reading": "",
+      "explanation": "'Povertà assoluta/relativa' = pobreza absoluta/relativa. 'Soglia di povertà' = umbral de pobreza. 'Trappola della povertà' = trampa de la pobreza. Aggettivo: povero. Contrario: ricchezza."
+    },
+    {
+      "front": "il welfare",
+      "back": "el estado del bienestar / la protección social",
+      "reading": "",
+      "explanation": "Anglicismo integrado. 'Welfare state' = estado del bienestar. 'Welfare aziendale' = beneficios sociales empresariales. 'Tagli al welfare' = recortes al estado del bienestar."
+    },
+    {
+      "front": "il sussidio",
+      "back": "el subsidio / la ayuda económica",
+      "reading": "",
+      "explanation": "'Sussidio di disoccupazione' = subsidio de desempleo. 'Sussidio agricolo' = subvención agrícola. 'Reddito di cittadinanza' (ya abolido) era una forma di sussidio italiano. Verbo: sussidiare."
+    },
+    {
+      "front": "la riforma",
+      "back": "la reforma",
+      "reading": "",
+      "explanation": "'Riforma del lavoro/pensionistica/fiscale' = reforma laboral/de pensiones/fiscal. 'Riformare' = reformar. 'Il riformismo' = el reformismo. 'Riformatore/riformatrice' = reformador/a."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Estado y constitución",
+      "instruction": "Los conceptos fundamentales del sistema político: soberanía, democracia, constitución, referéndum.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Organización territorial e integración",
+      "instruction": "Italia debatió mucho sobre federalismo y regionalismo. La integración europea y migratoria son debates permanentes.",
+      "itemIndices": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Globalización e identidad",
+      "instruction": "El debate sobre globalización, nacionalismo y multiculturalismo define la política contemporánea.",
+      "itemIndices": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Política social",
+      "instruction": "Desigualdad, pobreza, bienestar y reforma: el vocabulario de la política social.",
+      "itemIndices": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "Repaso: discurso político",
+      "instruction": "Todo el vocabulario del discurso político y social.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "type": "summary",
+      "title": "Discorso politico e sociale — dominado",
+      "instruction": "Sistema político: sovranità, democrazia, costituzione, referendum. Organización: federalismo, regionalismo. Sociedad: globalizzazione vs nazionalismo, multiculturalismo, disuguaglianza. Estado social: welfare, sussidio, riforma.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        7,
+        8,
+        10,
+        11,
+        12,
+        14
+      ]
+    }
+  ]
+}

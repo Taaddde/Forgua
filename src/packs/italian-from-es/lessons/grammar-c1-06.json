@@ -1,0 +1,83 @@
+{
+  "id": "grammar-c1-06",
+  "title": "La punteggiatura italiana avanzata",
+  "description": "La puntuación en italiano tiene convenciones propias que difieren del español y del inglés. El uso correcto del punto e virgola, i due punti, la lineetta, le virgolette y le parentesi es señal de maestría estilística. En escritura formal y literaria, la puntuación es parte del estilo, no solo de la gramática.",
+  "level": "c1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Punto e virgola (;) — función 1: enumeración con elementos internamente complejos.",
+      "back": "En enumeraciones largas donde cada elemento ya contiene comas internas, el ; separa los elementos.",
+      "reading": "",
+      "explanation": "'In borsa ho trovato: il portafoglio, con dentro le carte di credito; le chiavi, tra cui quella del garage; il telefono, ormai scarico; e un misterioso biglietto.' Cada elemento contiene una coma interna → se usa ; para separarlos."
+    },
+    {
+      "front": "Punto e virgola (;) — función 2: unir cláusulas independientes con relación lógica.",
+      "back": "El ; une dos frases independientes que tienen relación de causa-efecto, contraste o paralelismo.",
+      "reading": "",
+      "explanation": "'Aveva studiato tutta la notte; eppure, all'esame, la mente rimase vuota.' Las dos cláusulas son independientes (podrían ir separadas por un punto) pero la relación lógica de contraste se marca con ;. Es más íntimo que un punto, más separado que una coma."
+    },
+    {
+      "front": "Due punti (:) — usos: anuncio / explicación / reformulación.",
+      "back": "Los : anuncian lo que sigue (lista, cita, discurso) o explican la causa de lo precedente.",
+      "reading": "",
+      "explanation": "'Esistono tre soluzioni: accettare, rifiutare o rimandare.' (anuncio de lista) / 'Non poteva dormire: il rumore era insopportabile.' (la segunda parte explica la causa de la primera) / 'Lo capì subito: era tutto perduto.' (los : = 'pues bien', 'es decir'). Después de : en italiano: minúscula."
+    },
+    {
+      "front": "Lineetta lunga (—) — función 1: inciso.",
+      "back": "La lineetta marca un inciso (explicación parentética) con mayor peso que las comas.",
+      "reading": "",
+      "explanation": "'Il romanzo — scritto in tre anni — è considerato il suo capolavoro.' La lineetta da más peso al inciso que la virgola. 'La sua voce — tesa, quasi metallica — riempì il silenzio della stanza.' Muy expresiva en narrativa."
+    },
+    {
+      "front": "Lineetta lunga (—) — función 2: diálogo literario.",
+      "back": "En textos literarios italianos, la lineetta introduce el diálogo directo en lugar de las comillas.",
+      "reading": "",
+      "explanation": "'— Dove vai? / — A casa, — rispose lui.' La lineetta es la convención italiana para el discurso diretto en narrativa. Muchos editores italiani la prefieren a las virgolette. Las virgolette «» se usan en cambio para citas textuales en ensayos."
+    },
+    {
+      "front": "Virgolette italiane: «caporali» per citazioni / \"doppie\" per uso anglofono / 'singole' per tecnicismi.",
+      "back": "Las virgolette «» son la convención académica italiana para citas; las \" \" son más comunes en prensa.",
+      "reading": "",
+      "explanation": "En textos académicos italianos: «» para citas textuales. En prensa: \" \" (influencia anglosassone). Las ' ' para titoli dentro di titoli o per termini tecnici metalinguistici. Parentesi quadre [ ] para interventi del editor en citas: [enfasi nell'originale], [...] para omisiones."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El punto e virgola: la puntuación del pensamiento complejo",
+      "instruction": "El punto e virgola es la puntuación más difícil de dominar en cualquier idioma. En italiano, tiene dos usos principales: (1) separar elementos de una lista cuando cada elemento tiene comas internas; (2) unir cláusulas independientes relacionadas. Usarlo bien eleva enormemente la calidad del texto.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Punto, punto e virgola o virgola?",
+      "instruction": "Para cada caso, decide qué signo de puntuación es más apropiado: punto (.), punto e virgola (;) o virgola (,). Razón tu elección.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Due punti y lineetta: señales de estructura",
+      "instruction": "Los : y la — son signos de estructura y énfasis: los : anuncian o explican, la — marca un inciso con peso. En la narrativa italiana, la lineetta para el diálogo es convención editorial estándar — distinta del español que usa el guion (—) y de las convenciones anglófonas.",
+      "itemIndices": [2, 3, 4]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "El signo de puntuación correcto",
+      "instruction": "Completa cada texto con el signo de puntuación correcto (;, :, — o virgolette). En algunos casos más de una opción es posible, pero hay una que corresponde mejor al registro del texto.",
+      "itemIndices": [2, 3, 4, 5]
+    },
+    {
+      "type": "error-correction",
+      "title": "Corrige la puntuación",
+      "instruction": "Identifica el error de puntuación en cada fragmento y corrígelo. Atención a las diferencias con las convenciones españolas.",
+      "itemIndices": [0, 1, 2, 5]
+    },
+    {
+      "type": "summary",
+      "title": "Punteggiatura avanzata — padroneggiata",
+      "instruction": "Las cuatro claves: (1) ; para relaciones lógicas entre frases o listas complejas. (2) : para anunciar o explicar. (3) — para incisos con peso o diálogo narrativo. (4) «» para citas académicas, \" \" en prensa. Para practicar: lee un racconto di Calvino o Moravia y analiza cada signo de puntuación. Aprenderás más del estilo italiano así que con cualquier ejercicio.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

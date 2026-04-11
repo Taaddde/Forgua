@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a2-02",
+  "title": "Passato prossimo con essere",
+  "description": "El aspecto más difícil del passato prossimo: elegir ESSERE en lugar de avere. Essere se usa con verbos de movimiento, cambio de estado y todos los reflexivos. El participio CONCUERDA con el sujeto — ¡esto no existe en español!",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "sono andato/andata",
+      "back": "fui / he ido",
+      "reading": "",
+      "explanation": "io + sono + participio (concordado). Si el sujeto es masculino: 'sono andato'. Si es femenino: 'sono andata'. 'Andare' es el verbo de movimento prototípico con essere."
+    },
+    {
+      "front": "sei arrivato/arrivata",
+      "back": "llegaste / has llegado",
+      "reading": "",
+      "explanation": "tu + sei + participio. 'Sei arrivato tardi!' = ¡Llegaste tarde! (a un hombre). 'Sei arrivata tardi!' (a una mujer). La concordancia es obligatoria."
+    },
+    {
+      "front": "è partito / è partita",
+      "back": "partió / ha partido",
+      "reading": "",
+      "explanation": "lui/lei + è + participio. 'Marco è partito.' / 'Maria è partita.' Verbos de movimiento con essere: andare, venire, arrivare, partire, uscire, entrare, tornare, scendere, salire."
+    },
+    {
+      "front": "siamo nati/nate",
+      "back": "nacimos",
+      "reading": "",
+      "explanation": "noi + siamo + participio (-i masc./mixed, -e fem.). 'Siamo nati in Italia.' (hombres o mixto). 'Siamo nate in Italia.' (solo mujeres). Verbos de cambio de estado con essere: nascere, morire, diventare, crescere."
+    },
+    {
+      "front": "siete rimasti/rimaste",
+      "back": "os quedasteis / os habéis quedado",
+      "reading": "",
+      "explanation": "voi + siete + participio. 'Siete rimasti a casa?' = ¿Os quedasteis en casa? Verbos de estado con essere: restare, stare, essere, rimanere."
+    },
+    {
+      "front": "sono venuti/venute",
+      "back": "vinieron / han venido",
+      "reading": "",
+      "explanation": "loro + sono + participio (-i masc./mixed, -e solo fem.). 'Sono venuti Marco e Luca.' / 'Sono venute Maria e Lucia.' Plur. mixto = forma masculina."
+    },
+    {
+      "front": "Mi sono alzato/alzata",
+      "back": "me levanté",
+      "reading": "",
+      "explanation": "TODOS los verbos reflexivos usan ESSERE nel passato prossimo. 'Mi sono alzato' (hombre) / 'Mi sono alzata' (mujer). El pronome reflexivo va ANTES di sono."
+    },
+    {
+      "front": "È successo / È successa una cosa strana",
+      "back": "Ocurrió algo extraño",
+      "reading": "",
+      "explanation": "'Succedere' (ocurrir/suceder) usa ESSERE. 'Cosa è successo?' = ¿Qué pasó? El participio concuerda con el sujeto: 'una cosa strana è successa'."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Essere nel passato — verbos de movimiento",
+      "instruction": "Con ESSERE: andare, venire, arrivare, partire, uscire, entrare, tornare. El participio CONCUERDA en género y número con el sujeto.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Essere con cambio de estado y reflexivos",
+      "instruction": "También con essere: nascere, morire, diventare, rimanere. Y TODOS los reflexivos.",
+      "itemIndices": [3, 4, 5, 6]
+    },
+    {
+      "type": "recall",
+      "title": "Elige la forma correcta",
+      "instruction": "El sujeto es hombre o mujer. Escribe el passato prossimo con la concordancia correcta.",
+      "itemIndices": [0, 1, 2, 3, 6]
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Dónde está el error?",
+      "instruction": "Estas oraciones tienen errores de concordancia o de auxiliare. Corrígelas.",
+      "itemIndices": [0, 2, 3, 6, 7]
+    },
+    {
+      "type": "recall",
+      "title": "Passato con essere — práctica completa",
+      "instruction": "Practica todas las formas del passato prossimo con essere.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "Essere nel passato — dominado",
+      "instruction": "REGLA: essere para verbos intransitivos de movimiento/estado/cambio + todos los reflexivos. Con essere el participio concuerda: -o (masc. sing.), -a (fem. sing.), -i (masc./mixed pl.), -e (fem. pl.). Con avere el participio NO cambia.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    }
+  ]
+}

@@ -1,0 +1,2266 @@
+[
+  {
+    "word": "etica",
+    "reading": "/ˈɛtika/",
+    "meanings": [
+      "ética",
+      "moral"
+    ],
+    "pos": "noun",
+    "level": "c1",
+    "tags": [
+      "philosophy",
+      "intellectual"
+    ],
+    "examples": [
+      {
+        "text": "L'etica kantiana si fonda sul concetto di imperativo categorico.",
+        "reading": "",
+        "translation": "La ética kantiana se basa en el concepto de imperativo categórico."
+      }
+    ]
+  },
+  {
+    "word": "morale",
+    "reading": "/moˈrale/",
+    "meanings": [
+      "moral (adj y sust)",
+      "moraleja",
+      "moral (estado de ánimo)"
+    ],
+    "pos": "noun/adjective",
+    "level": "c1",
+    "tags": [
+      "philosophy",
+      "intellectual"
+    ],
+    "notes": "Atención: como sustantivo masculino significa 'estado de ánimo/moral'; como sustantivo femenino 'ética/moraleja'.",
+    "examples": [
+      {
+        "text": "La morale della favola è che l'onestà paga sempre.",
+        "reading": "",
+        "translation": "La moraleja del cuento es que la honestidad siempre paga."
+      }
+    ]
+  },
+  {
+    "word": "ontologia",
+    "reading": "/ontoloˈdʒia/",
+    "meanings": [
+      "ontología"
+    ],
+    "pos": "noun",
+    "level": "c1",
+    "tags": [
+      "philosophy",
+      "intellectual"
+    ],
+    "examples": [
+      {
+        "text": "L'ontologia studia la natura dell'essere e dell'esistenza.",
+        "reading": "",
+        "translation": "La ontología estudia la naturaleza del ser y de la existencia."
+      }
+    ]
+  },
+  {
+    "word": "epistemologia",
+    "reading": "/epistemologˈia/",
+    "meanings": [
+      "epistemología",
+      "teoría del conocimiento"
+    ],
+    "pos": "noun",
+    "level": "c1",
+    "tags": [
+      "philosophy",
+      "intellectual"
+    ],
+    "examples": [
+      {
+        "text": "L'epistemologia si interroga sui fondamenti e i limiti della conoscenza.",
+        "reading": "",
+        "translation": "La epistemología se interroga sobre los fundamentos y los límites del conocimiento."
+      }
+    ]
+  },
+  {
+    "word": "fenomenologia",
+    "reading": "/fenomeno'lodʒia/",
+    "meanings": [
+      "fenomenología"
+    ],
+    "pos": "noun",
+    "level": "c1",
+    "tags": [
+      "philosophy",
+      "intellectual"
+    ],
+    "examples": [
+      {
+        "text": "Husserl è considerato il padre della fenomenologia moderna.",
+        "reading": "",
+        "translation": "Husserl es considerado el padre de la fenomenología moderna."
+      }
+    ]
+  },
+  {
+    "word": "ermeneutica",
+    "reading": "/ermeneˈutika/",
+    "meanings": [
+      "hermenéutica",
+      "arte de la interpretación"
+    ],
+    "pos": "noun",
+    "level": "c1",
+    "tags": [
+      "philosophy",
+      "intellectual"
+    ],
+    "examples": [
+      {
+        "text": "L'ermeneutica gadameriana indaga il processo di comprensione dei testi.",
+        "reading": "",
+        "translation": "La hermenéutica gadameriana investiga el proceso de comprensión de los textos."
+      }
+    ]
+  },
+  {
+    "word": "dialettica",
+    "reading": "/dialˈɛttika/",
+    "meanings": [
+      "dialéctica"
+    ],
+    "pos": "noun",
+    "level": "c1",
+    "tags": [
+      "philosophy",
+      "intellectual"
+    ],
+    "examples": [
+      {
+        "text": "La dialettica hegeliana si articola in tesi, antitesi e sintesi.",
+        "reading": "",
+        "translation": "La dialéctica hegeliana se articula en tesis, antítesis y síntesis."
+      }
+    ]
+  },
+  {
+    "word": "empirismo",
+    "reading": "/empiˈrizmo/",
+    "meanings": [
+      "empirismo"
+    ],
+    "pos": "noun",
+    "level": "c1",
+    "tags": [
+      "philosophy",
+      "intellectual"
+    ],
+    "examples": [
+      {
+        "text": "L'empirismo di Hume mette in discussione il concetto di causalità.",
+        "reading": "",
+        "translation": "El empirismo de Hume pone en cuestión el concepto de causalidad."
+      }
+    ]
+  },
+  {
+    "word": "razionalismo",
+    "reading": "/rattsjonalˈizmo/",
+    "meanings": [
+      "racionalismo"
+    ],
+    "pos": "noun",
+    "level": "c1",
+    "tags": [
+      "philosophy",
+      "intellectual"
+    ],
+    "examples": [
+      {
+        "text": "Il razionalismo cartesiano parte dal dubbio metodico.",
+        "reading": "",
+        "translation": "El racionalismo cartesiano parte de la duda metódica."
+      }
+    ]
+  },
+  {
+    "word": "utopia",
+    "reading": "/uˈtɔpja/",
+    "meanings": [
+      "utopía"
+    ],
+    "pos": "noun",
+    "level": "c1",
+    "tags": [
+      "philosophy",
+      "intellectual"
+    ],
+    "examples": [
+      {
+        "text": "L'utopia di Tommaso Moro descrive una società ideale immaginaria.",
+        "reading": "",
+        "translation": "La utopía de Tomás Moro describe una sociedad ideal imaginaria."
+      }
+    ]
+  },
+  {
+    "word": "distopia",
+    "reading": "/disˈtɔpja/",
+    "meanings": [
+      "distopía"
+    ],
+    "pos": "noun",
+    "level": "c1",
+    "tags": [
+      "philosophy",
+      "intellectual"
+    ],
+    "examples": [
+      {
+        "text": "Il 1984 di Orwell è il romanzo distopico per eccellenza.",
+        "reading": "",
+        "translation": "El 1984 de Orwell es la novela distópica por excelencia."
+      }
+    ]
+  },
+  {
+    "word": "ideologia",
+    "reading": "/ideolodˈʒia/",
+    "meanings": [
+      "ideología"
+    ],
+    "pos": "noun",
+    "level": "c1",
+    "tags": [
+      "philosophy",
+      "intellectual"
+    ],
+    "examples": [
+      {
+        "text": "Ogni partito politico ha un'ideologia di riferimento.",
+        "reading": "",
+        "translation": "Cada partido político tiene una ideología de referencia."
+      }
+    ]
+  },
+  {
+    "word": "dogma",
+    "reading": "/ˈdɔgma/",
+    "meanings": [
+      "dogma",
+      "principio indiscutible"
+    ],
+    "pos": "noun",
+    "level": "c1",
+    "tags": [
+      "philosophy",
+      "intellectual"
+    ],
+    "examples": [
+      {
+        "text": "La scienza non accetta dogmi: tutto è soggetto a verifica.",
+        "reading": "",
+        "translation": "La ciencia no acepta dogmas: todo está sujeto a verificación."
+      }
+    ]
+  },
+  {
+    "word": "scetticismo",
+    "reading": "/sʃettiˈtʃizmo/",
+    "meanings": [
+      "escepticismo"
+    ],
+    "pos": "noun",
+    "level": "c1",
+    "tags": [
+      "philosophy",
+      "intellectual"
+    ],
+    "examples": [
+      {
+        "text": "Il suo scetticismo lo portò a dubitare di ogni affermazione.",
+        "reading": "",
+        "translation": "Su escepticismo lo llevó a dudar de toda afirmación."
+      }
+    ]
+  },
+  {
+    "word": "relativismo",
+    "reading": "/relativˈizmo/",
+    "meanings": [
+      "relativismo"
+    ],
+    "pos": "noun",
+    "level": "c1",
+    "tags": [
+      "philosophy",
+      "intellectual"
+    ],
+    "examples": [
+      {
+        "text": "Il relativismo culturale sostiene che ogni cultura va giudicata secondo i propri valori.",
+        "reading": "",
+        "translation": "El relativismo cultural sostiene que cada cultura debe juzgarse según sus propios valores."
+      }
+    ]
+  },
+  {
+    "word": "nichilismo",
+    "reading": "/nikiˈlizmo/",
+    "meanings": [
+      "nihilismo"
+    ],
+    "pos": "noun",
+    "level": "c1",
+    "tags": [
+      "philosophy",
+      "intellectual"
+    ],
+    "examples": [
+      {
+        "text": "Nietzsche analizzò il nichilismo come crisi dei valori occidentali.",
+        "reading": "",
+        "translation": "Nietzsche analizó el nihilismo como crisis de los valores occidentales."
+      }
+    ]
+  },
+  {
+    "word": "stoicismo",
+    "reading": "/stoiˈtʃizmo/",
+    "meanings": [
+      "estoicismo"
+    ],
+    "pos": "noun",
+    "level": "c1",
+    "tags": [
+      "philosophy",
+      "intellectual"
+    ],
+    "examples": [
+      {
+        "text": "Affrontò il dolore con stoicismo ammirevole.",
+        "reading": "",
+        "translation": "Afrontó el dolor con admirable estoicismo."
+      }
+    ]
+  },
+  {
+    "word": "pragmatismo",
+    "reading": "/pragmaˈtizmo/",
+    "meanings": [
+      "pragmatismo"
+    ],
+    "pos": "noun",
+    "level": "c1",
+    "tags": [
+      "philosophy",
+      "intellectual"
+    ],
+    "examples": [
+      {
+        "text": "Il pragmatismo americano privilegia l'utilità pratica rispetto alla verità astratta.",
+        "reading": "",
+        "translation": "El pragmatismo americano privilegia la utilidad práctica frente a la verdad abstracta."
+      }
+    ]
+  },
+  {
+    "word": "esistenzialismo",
+    "reading": "/ezistentsjalˈizmo/",
+    "meanings": [
+      "existencialismo"
+    ],
+    "pos": "noun",
+    "level": "c1",
+    "tags": [
+      "philosophy",
+      "intellectual"
+    ],
+    "examples": [
+      {
+        "text": "L'esistenzialismo sartriano afferma che l'esistenza precede l'essenza.",
+        "reading": "",
+        "translation": "El existencialismo sartriano afirma que la existencia precede a la esencia."
+      }
+    ]
+  },
+  {
+    "word": "determinismo",
+    "reading": "/determiˈnizmo/",
+    "meanings": [
+      "determinismo"
+    ],
+    "pos": "noun",
+    "level": "c1",
+    "tags": [
+      "philosophy",
+      "intellectual"
+    ],
+    "examples": [
+      {
+        "text": "Il determinismo nega il libero arbitrio.",
+        "reading": "",
+        "translation": "El determinismo niega el libre albedrío."
+      }
+    ]
+  },
+  {
+    "word": "metafora",
+    "reading": "/meˈtafora/",
+    "meanings": [
+      "metáfora"
+    ],
+    "pos": "noun",
+    "level": "c1",
+    "tags": [
+      "literary",
+      "rhetoric"
+    ],
+    "examples": [
+      {
+        "text": "«La vita è un viaggio» è una metafora archetipica.",
+        "reading": "",
+        "translation": "'La vida es un viaje' es una metáfora arquetípica."
+      }
+    ]
+  },
+  {
+    "word": "metonimia",
+    "reading": "/metoˈnimja/",
+    "meanings": [
+      "metonimia"
+    ],
+    "pos": "noun",
+    "level": "c1",
+    "tags": [
+      "literary",
+      "rhetoric"
+    ],
+    "notes": "Sustitución de una palabra por otra relacionada: 'bere un bicchiere' (beber el vaso, en vez de su contenido).",
+    "examples": [
+      {
+        "text": "«Ho letto tutto Shakespeare» è una metonimia per le sue opere.",
+        "reading": "",
+        "translation": "'He leído todo Shakespeare' es una metonimia por sus obras."
+      }
+    ]
+  },
+  {
+    "word": "sineddoche",
+    "reading": "/siˈnɛddoke/",
+    "meanings": [
+      "sinécdoque"
+    ],
+    "pos": "noun",
+    "level": "c1",
+    "tags": [
+      "literary",
+      "rhetoric"
+    ],
+    "notes": "Uso de la parte por el todo o el todo por la parte: 'cento bocche da sfamare' (cien bocas que alimentar = cien personas).",
+    "examples": [
+      {
+        "text": "«Vela» per «nave» è una classica sineddoche.",
+        "reading": "",
+        "translation": "'Vela' por 'nave' es una sinécdoque clásica."
+      }
+    ]
+  },
+  {
+    "word": "iperbole",
+    "reading": "/iˈpɛrbole/",
+    "meanings": [
+      "hipérbole"
+    ],
+    "pos": "noun",
+    "level": "c1",
+    "tags": [
+      "literary",
+      "rhetoric"
+    ],
+    "examples": [
+      {
+        "text": "«Te l'ho detto un milione di volte» è un'iperbole tipica del parlato.",
+        "reading": "",
+        "translation": "'Te lo he dicho un millón de veces' es una hipérbole típica del habla coloquial."
+      }
+    ]
+  },
+  {
+    "word": "litote",
+    "reading": "/ˈlitote/",
+    "meanings": [
+      "lítotes",
+      "understatement"
+    ],
+    "pos": "noun",
+    "level": "c1",
+    "tags": [
+      "literary",
+      "rhetoric"
+    ],
+    "notes": "Afirmación mediante la negación de lo contrario: 'non è stupido' para decir que es muy inteligente.",
+    "examples": [
+      {
+        "text": "«Non è un genio da poco» è una litote per dire che è molto intelligente.",
+        "reading": "",
+        "translation": "'No es un genio de poco' es una lítotes para decir que es muy inteligente."
+      }
+    ]
+  },
+  {
+    "word": "eufemismo",
+    "reading": "/eufɛˈmizmo/",
+    "meanings": [
+      "eufemismo"
+    ],
+    "pos": "noun",
+    "level": "c1",
+    "tags": [
+      "literary",
+      "rhetoric"
+    ],
+    "examples": [
+      {
+        "text": "«È venuto a mancare» è un eufemismo per «è morto».",
+        "reading": "",
+        "translation": "'Ha venido a faltar' es un eufemismo por 'ha muerto'."
+      }
+    ]
+  },
+  {
+    "word": "ironia",
+    "reading": "/iˈrɔnja/",
+    "meanings": [
+      "ironía"
+    ],
+    "pos": "noun",
+    "level": "c1",
+    "tags": [
+      "literary",
+      "rhetoric"
+    ],
+    "examples": [
+      {
+        "text": "Usò l'ironia per criticare il governo senza essere diretto.",
+        "reading": "",
+        "translation": "Usó la ironía para criticar al gobierno sin ser directo."
+      }
+    ]
+  },
+  {
+    "word": "sarcasmo",
+    "reading": "/sarˈkazmo/",
+    "meanings": [
+      "sarcasmo"
+    ],
+    "pos": "noun",
+    "level": "c1",
+    "tags": [
+      "literary",
+      "rhetoric"
+    ],
+    "examples": [
+      {
+        "text": "Il suo sarcasmo era tagliente: «Certo, sei proprio un genio!»",
+        "reading": "",
+        "translation": "Su sarcasmo era cortante: '¡Claro, eres todo un genio!'"
+      }
+    ]
+  },
+  {
+    "word": "paradosso",
+    "reading": "/paraˈdɔsso/",
+    "meanings": [
+      "paradoja"
+    ],
+    "pos": "noun",
+    "level": "c1",
+    "tags": [
+      "literary",
+      "rhetoric"
+    ],
+    "examples": [
+      {
+        "text": "Il paradosso del mentitore è uno dei più antichi della filosofia.",
+        "reading": "",
+        "translation": "La paradoja del mentiroso es una de las más antiguas de la filosofía."
+      }
+    ]
+  },
+  {
+    "word": "ossimoro",
+    "reading": "/osˈsimoro/",
+    "meanings": [
+      "oxímoron"
+    ],
+    "pos": "noun",
+    "level": "c1",
+    "tags": [
+      "literary",
+      "rhetoric"
+    ],
+    "examples": [
+      {
+        "text": "«Silenzio assordante» è un classico ossimoro.",
+        "reading": "",
+        "translation": "'Silencio ensordecedor' es un oxímoron clásico."
+      }
+    ]
+  },
+  {
+    "word": "anafora",
+    "reading": "/aˈnafora/",
+    "meanings": [
+      "anáfora"
+    ],
+    "pos": "noun",
+    "level": "c1",
+    "tags": [
+      "literary",
+      "rhetoric"
+    ],
+    "notes": "Repetición de una palabra al comienzo de versos u oraciones consecutivas para dar énfasis.",
+    "examples": [
+      {
+        "text": "«Né mai vedranno le stelle / Né mai il sole ritornerà» — l'anafora crea ritmo e intensità.",
+        "reading": "",
+        "translation": "'Ni jamás verán las estrellas / Ni jamás volverá el sol' — la anáfora crea ritmo e intensidad."
+      }
+    ]
+  },
+  {
+    "word": "climax",
+    "reading": "/ˈklimaks/",
+    "meanings": [
+      "clímax",
+      "gradación ascendente"
+    ],
+    "pos": "noun",
+    "level": "c1",
+    "tags": [
+      "literary",
+      "rhetoric"
+    ],
+    "examples": [
+      {
+        "text": "«Venne, vide, vinse» è un esempio di climax narrativo.",
+        "reading": "",
+        "translation": "'Vino, vio, venció' es un ejemplo de clímax narrativo."
+      }
+    ]
+  },
+  {
+    "word": "antitesi",
+    "reading": "/anˈtitezi/",
+    "meanings": [
+      "antítesis"
+    ],
+    "pos": "noun",
+    "level": "c1",
+    "tags": [
+      "literary",
+      "rhetoric"
+    ],
+    "examples": [
+      {
+        "text": "«L'uomo propone, Dio dispone» è una perfetta antitesi.",
+        "reading": "",
+        "translation": "'El hombre propone, Dios dispone' es una antítesis perfecta."
+      }
+    ]
+  },
+  {
+    "word": "similitudine",
+    "reading": "/similituˈdine/",
+    "meanings": [
+      "símil",
+      "comparación"
+    ],
+    "pos": "noun",
+    "level": "c1",
+    "tags": [
+      "literary",
+      "rhetoric"
+    ],
+    "notes": "A diferencia de la metáfora, la similitudine usa 'come' o 'quasi' explícitamente.",
+    "examples": [
+      {
+        "text": "«Come un'aquila in volo, la sua mente spaziava lontano» — similitudine estesa.",
+        "reading": "",
+        "translation": "'Como un águila en vuelo, su mente se extendía lejos' — símil extendido."
+      }
+    ]
+  },
+  {
+    "word": "allegoria",
+    "reading": "/alleˈgɔrja/",
+    "meanings": [
+      "alegoría"
+    ],
+    "pos": "noun",
+    "level": "c1",
+    "tags": [
+      "literary",
+      "rhetoric"
+    ],
+    "examples": [
+      {
+        "text": "La Divina Commedia è una grande allegoria del viaggio dell'anima.",
+        "reading": "",
+        "translation": "La Divina Comedia es una gran alegoría del viaje del alma."
+      }
+    ]
+  },
+  {
+    "word": "acuire",
+    "reading": "/akuˈire/",
+    "meanings": [
+      "agudizar",
+      "afilar",
+      "intensificar"
+    ],
+    "pos": "verb",
+    "level": "c1",
+    "tags": [
+      "advanced-verbs"
+    ],
+    "examples": [
+      {
+        "text": "La crisi ha acuito le tensioni sociali nel paese.",
+        "reading": "",
+        "translation": "La crisis agudizó las tensiones sociales en el país."
+      }
+    ]
+  },
+  {
+    "word": "amalgamare",
+    "reading": "/amalgaˈmare/",
+    "meanings": [
+      "amalgamar",
+      "fusionar",
+      "mezclar íntimamente"
+    ],
+    "pos": "verb",
+    "level": "c1",
+    "tags": [
+      "advanced-verbs"
+    ],
+    "examples": [
+      {
+        "text": "La sua scrittura amalgama influenze classiche e moderniste.",
+        "reading": "",
+        "translation": "Su escritura amalgama influencias clásicas y modernistas."
+      }
+    ]
+  },
+  {
+    "word": "approfondire",
+    "reading": "/approfon'dire/",
+    "meanings": [
+      "profundizar",
+      "ahondar"
+    ],
+    "pos": "verb",
+    "level": "c1",
+    "tags": [
+      "advanced-verbs"
+    ],
+    "examples": [
+      {
+        "text": "Dobbiamo approfondire l'analisi dei dati prima di trarre conclusioni.",
+        "reading": "",
+        "translation": "Debemos profundizar el análisis de los datos antes de sacar conclusiones."
+      }
+    ]
+  },
+  {
+    "word": "circoscrivere",
+    "reading": "/tʃirkoskˈrivere/",
+    "meanings": [
+      "circunscribir",
+      "delimitar",
+      "acotar"
+    ],
+    "pos": "verb",
+    "level": "c1",
+    "tags": [
+      "advanced-verbs"
+    ],
+    "examples": [
+      {
+        "text": "È importante circoscrivere il problema prima di affrontarlo.",
+        "reading": "",
+        "translation": "Es importante delimitar el problema antes de enfrentarlo."
+      }
+    ]
+  },
+  {
+    "word": "codificare",
+    "reading": "/kodifiˈkare/",
+    "meanings": [
+      "codificar",
+      "sistematizar"
+    ],
+    "pos": "verb",
+    "level": "c1",
+    "tags": [
+      "advanced-verbs"
+    ],
+    "examples": [
+      {
+        "text": "Napoleone codificò le leggi francesi in un sistema unitario.",
+        "reading": "",
+        "translation": "Napoleón codificó las leyes francesas en un sistema unitario."
+      }
+    ]
+  },
+  {
+    "word": "corroborare",
+    "reading": "/korro'borare/",
+    "meanings": [
+      "corroborar",
+      "reforzar",
+      "confirmar"
+    ],
+    "pos": "verb",
+    "level": "c1",
+    "tags": [
+      "advanced-verbs"
+    ],
+    "examples": [
+      {
+        "text": "Le nuove prove corroborano la tesi già formulata.",
+        "reading": "",
+        "translation": "Las nuevas pruebas corroboran la tesis ya formulada."
+      }
+    ]
+  },
+  {
+    "word": "debilitare",
+    "reading": "/debiliˈtare/",
+    "meanings": [
+      "debilitar",
+      "desgastar"
+    ],
+    "pos": "verb",
+    "level": "c1",
+    "tags": [
+      "advanced-verbs"
+    ],
+    "examples": [
+      {
+        "text": "La malattia lo aveva debilitato profondamente.",
+        "reading": "",
+        "translation": "La enfermedad lo había debilitado profundamente."
+      }
+    ]
+  },
+  {
+    "word": "esacerbare",
+    "reading": "/ezatʃerˈbare/",
+    "meanings": [
+      "exacerbar",
+      "agravar",
+      "irritar"
+    ],
+    "pos": "verb",
+    "level": "c1",
+    "tags": [
+      "advanced-verbs"
+    ],
+    "examples": [
+      {
+        "text": "Quelle parole non fecero che esacerbare il conflitto.",
+        "reading": "",
+        "translation": "Esas palabras solo sirvieron para exacerbar el conflicto."
+      }
+    ]
+  },
+  {
+    "word": "inficiare",
+    "reading": "/infiˈtʃare/",
+    "meanings": [
+      "invalidar",
+      "contaminar",
+      "comprometer la validez de"
+    ],
+    "pos": "verb",
+    "level": "c1",
+    "tags": [
+      "advanced-verbs"
+    ],
+    "notes": "Término de uso principalmente jurídico y académico: inficiare un contratto, inficiare un ragionamento.",
+    "examples": [
+      {
+        "text": "Un solo errore metodologico ha inficiato l'intera ricerca.",
+        "reading": "",
+        "translation": "Un solo error metodológico invalidó toda la investigación."
+      }
+    ]
+  },
+  {
+    "word": "inibire",
+    "reading": "/iniˈbire/",
+    "meanings": [
+      "inhibir",
+      "bloquear",
+      "impedir"
+    ],
+    "pos": "verb",
+    "level": "c1",
+    "tags": [
+      "advanced-verbs"
+    ],
+    "examples": [
+      {
+        "text": "La paura inibisce la creatività e il pensiero libero.",
+        "reading": "",
+        "translation": "El miedo inhibe la creatividad y el pensamiento libre."
+      }
+    ]
+  },
+  {
+    "word": "legittimare",
+    "reading": "/ledʒittiˈmare/",
+    "meanings": [
+      "legitimar",
+      "dar legitimidad a"
+    ],
+    "pos": "verb",
+    "level": "c1",
+    "tags": [
+      "advanced-verbs"
+    ],
+    "examples": [
+      {
+        "text": "Le elezioni democratiche legittimano il potere dei governanti.",
+        "reading": "",
+        "translation": "Las elecciones democráticas legitiman el poder de los gobernantes."
+      }
+    ]
+  },
+  {
+    "word": "mitigare",
+    "reading": "/mitiˈgare/",
+    "meanings": [
+      "mitigar",
+      "atenuar",
+      "suavizar"
+    ],
+    "pos": "verb",
+    "level": "c1",
+    "tags": [
+      "advanced-verbs"
+    ],
+    "examples": [
+      {
+        "text": "Alcune misure possono mitigare l'impatto del cambiamento climatico.",
+        "reading": "",
+        "translation": "Algunas medidas pueden mitigar el impacto del cambio climático."
+      }
+    ]
+  },
+  {
+    "word": "obliterare",
+    "reading": "/obliteˈrare/",
+    "meanings": [
+      "obliterar",
+      "borrar completamente",
+      "destruir"
+    ],
+    "pos": "verb",
+    "level": "c1",
+    "tags": [
+      "advanced-verbs"
+    ],
+    "notes": "En lenguaje corriente, 'obliterare un biglietto' significa compostarlo/picarlo.",
+    "examples": [
+      {
+        "text": "Secoli di colonizzazione hanno obliterato culture intere.",
+        "reading": "",
+        "translation": "Siglos de colonización han obliterado culturas enteras."
+      }
+    ]
+  },
+  {
+    "word": "perpetuare",
+    "reading": "/perpetuˈare/",
+    "meanings": [
+      "perpetuar",
+      "mantener indefinidamente"
+    ],
+    "pos": "verb",
+    "level": "c1",
+    "tags": [
+      "advanced-verbs"
+    ],
+    "examples": [
+      {
+        "text": "Certi stereotipi vengono perpetuati dai media.",
+        "reading": "",
+        "translation": "Ciertos estereotipos son perpetuados por los medios de comunicación."
+      }
+    ]
+  },
+  {
+    "word": "potenziare",
+    "reading": "/potentsˈjare/",
+    "meanings": [
+      "potenciar",
+      "fortalecer",
+      "mejorar"
+    ],
+    "pos": "verb",
+    "level": "c1",
+    "tags": [
+      "advanced-verbs"
+    ],
+    "examples": [
+      {
+        "text": "Il governo intende potenziare il sistema sanitario pubblico.",
+        "reading": "",
+        "translation": "El gobierno tiene la intención de potenciar el sistema sanitario público."
+      }
+    ]
+  },
+  {
+    "word": "scaturire",
+    "reading": "/skatuˈrire/",
+    "meanings": [
+      "emanar",
+      "surgir",
+      "brotar (de)"
+    ],
+    "pos": "verb",
+    "level": "c1",
+    "tags": [
+      "advanced-verbs"
+    ],
+    "examples": [
+      {
+        "text": "Da questa premessa scaturisce una conseguenza importante.",
+        "reading": "",
+        "translation": "De esta premisa emana una consecuencia importante."
+      }
+    ]
+  },
+  {
+    "word": "stigmatizzare",
+    "reading": "/stigmatidˈdzare/",
+    "meanings": [
+      "estigmatizar",
+      "condenar públicamente"
+    ],
+    "pos": "verb",
+    "level": "c1",
+    "tags": [
+      "advanced-verbs"
+    ],
+    "examples": [
+      {
+        "text": "La società tende a stigmatizzare chi è diverso dalla norma.",
+        "reading": "",
+        "translation": "La sociedad tiende a estigmatizar a quien es diferente de la norma."
+      }
+    ]
+  },
+  {
+    "word": "tralasciare",
+    "reading": "/tralasˈtʃare/",
+    "meanings": [
+      "omitir",
+      "pasar por alto",
+      "dejar de lado"
+    ],
+    "pos": "verb",
+    "level": "c1",
+    "tags": [
+      "advanced-verbs"
+    ],
+    "examples": [
+      {
+        "text": "Non si può tralasciare questo aspetto fondamentale dell'analisi.",
+        "reading": "",
+        "translation": "No se puede omitir este aspecto fundamental del análisis."
+      }
+    ]
+  },
+  {
+    "word": "travisare",
+    "reading": "/traviˈzare/",
+    "meanings": [
+      "tergiversar",
+      "distorsionar",
+      "malinterpretar deliberadamente"
+    ],
+    "pos": "verb",
+    "level": "c1",
+    "tags": [
+      "advanced-verbs"
+    ],
+    "examples": [
+      {
+        "text": "Hai travisato completamente le mie parole.",
+        "reading": "",
+        "translation": "Has tergiversado completamente mis palabras."
+      }
+    ]
+  },
+  {
+    "word": "vanificare",
+    "reading": "/vaniˈfikare/",
+    "meanings": [
+      "frustrar",
+      "hacer vanos",
+      "echar por tierra"
+    ],
+    "pos": "verb",
+    "level": "c1",
+    "tags": [
+      "advanced-verbs"
+    ],
+    "examples": [
+      {
+        "text": "Un solo errore ha vanificato mesi di lavoro.",
+        "reading": "",
+        "translation": "Un solo error echó por tierra meses de trabajo."
+      }
+    ]
+  },
+  {
+    "word": "a mani basse",
+    "reading": "a mani basse",
+    "meanings": [
+      "fácilmente",
+      "sin esfuerzo",
+      "ampliamente"
+    ],
+    "pos": "expression",
+    "level": "c1",
+    "tags": [
+      "idioms"
+    ],
+    "examples": [
+      {
+        "text": "Ha vinto a mani basse: nessuno era al suo livello.",
+        "reading": "",
+        "translation": "Ganó fácilmente: nadie estaba a su nivel."
+      }
+    ]
+  },
+  {
+    "word": "avere le mani bucate",
+    "reading": "avere le mani bucate",
+    "meanings": [
+      "ser un derrochador",
+      "no guardar el dinero"
+    ],
+    "pos": "expression",
+    "level": "c1",
+    "tags": [
+      "idioms"
+    ],
+    "notes": "Literalmente 'tener las manos agujereadas'. El dinero se escapa por los agujeros.",
+    "examples": [
+      {
+        "text": "Non dargli soldi, ha le mani bucate!",
+        "reading": "",
+        "translation": "¡No le des dinero, es un derrochador!"
+      }
+    ]
+  },
+  {
+    "word": "fare orecchie da mercante",
+    "reading": "fare orecchie da mercante",
+    "meanings": [
+      "hacerse el sordo",
+      "ignorar deliberadamente"
+    ],
+    "pos": "expression",
+    "level": "c1",
+    "tags": [
+      "idioms"
+    ],
+    "notes": "Origen: los mercaderes fingían no escuchar las ofertas para negociar mejor.",
+    "examples": [
+      {
+        "text": "Gli ho detto mille volte di smettere ma fa orecchie da mercante.",
+        "reading": "",
+        "translation": "Le dije mil veces que parara pero se hace el sordo."
+      }
+    ]
+  },
+  {
+    "word": "prendere fischi per fiaschi",
+    "reading": "prendere fischi per fiaschi",
+    "meanings": [
+      "confundirse completamente",
+      "equivocarse estrepitosamente"
+    ],
+    "pos": "expression",
+    "level": "c1",
+    "tags": [
+      "idioms"
+    ],
+    "notes": "Literalmente 'tomar silbidos por frascos'. La rima entre fischi y fiaschi es la clave mnemotécnica.",
+    "examples": [
+      {
+        "text": "Ha preso fischi per fiaschi: pensava che la riunione fosse domani.",
+        "reading": "",
+        "translation": "Se confundió completamente: pensaba que la reunión era mañana."
+      }
+    ]
+  },
+  {
+    "word": "perdere il filo del discorso",
+    "reading": "perdere il filo del discorso",
+    "meanings": [
+      "perder el hilo del discurso",
+      "desorientarse al hablar"
+    ],
+    "pos": "expression",
+    "level": "c1",
+    "tags": [
+      "idioms"
+    ],
+    "examples": [
+      {
+        "text": "L'oratore era così emozionato che perse il filo del discorso.",
+        "reading": "",
+        "translation": "El orador estaba tan emocionado que perdió el hilo del discurso."
+      }
+    ]
+  },
+  {
+    "word": "far finta di niente",
+    "reading": "far finta di niente",
+    "meanings": [
+      "ignorar",
+      "hacer como si nada",
+      "disimular"
+    ],
+    "pos": "expression",
+    "level": "c1",
+    "tags": [
+      "idioms"
+    ],
+    "examples": [
+      {
+        "text": "Quando ci siamo incontrati ha fatto finta di niente.",
+        "reading": "",
+        "translation": "Cuando nos encontramos hizo como si nada."
+      }
+    ]
+  },
+  {
+    "word": "andare a gonfie vele",
+    "reading": "andare a gonfie vele",
+    "meanings": [
+      "ir viento en popa",
+      "ir de maravilla"
+    ],
+    "pos": "expression",
+    "level": "c1",
+    "tags": [
+      "idioms"
+    ],
+    "examples": [
+      {
+        "text": "Il suo nuovo ristorante va a gonfie vele.",
+        "reading": "",
+        "translation": "Su nuevo restaurante va viento en popa."
+      }
+    ]
+  },
+  {
+    "word": "togliersi un peso dal cuore",
+    "reading": "togliersi un peso dal cuore",
+    "meanings": [
+      "quitarse un peso de encima",
+      "sentir gran alivio"
+    ],
+    "pos": "expression",
+    "level": "c1",
+    "tags": [
+      "idioms"
+    ],
+    "examples": [
+      {
+        "text": "Dopo aver confessato la verità si tolse un peso dal cuore.",
+        "reading": "",
+        "translation": "Después de confesar la verdad se quitó un peso de encima."
+      }
+    ]
+  },
+  {
+    "word": "tenere il punto",
+    "reading": "tenere il punto",
+    "meanings": [
+      "mantener la posición",
+      "no ceder",
+      "defender la postura"
+    ],
+    "pos": "expression",
+    "level": "c1",
+    "tags": [
+      "idioms"
+    ],
+    "examples": [
+      {
+        "text": "Nonostante le pressioni, tenne il punto senza cedere.",
+        "reading": "",
+        "translation": "A pesar de las presiones, mantuvo la posición sin ceder."
+      }
+    ]
+  },
+  {
+    "word": "mettere i puntini sulle i",
+    "reading": "mettere i puntini sulle i",
+    "meanings": [
+      "poner los puntos sobre las íes",
+      "ser preciso y claro"
+    ],
+    "pos": "expression",
+    "level": "c1",
+    "tags": [
+      "idioms"
+    ],
+    "examples": [
+      {
+        "text": "Permettimi di mettere i puntini sulle i: questa non era la nostra intesa.",
+        "reading": "",
+        "translation": "Permíteme poner los puntos sobre las íes: esto no era nuestro acuerdo."
+      }
+    ]
+  },
+  {
+    "word": "avere il fiato sul collo",
+    "reading": "avere il fiato sul collo",
+    "meanings": [
+      "tener a alguien encima",
+      "estar bajo presión constante"
+    ],
+    "pos": "expression",
+    "level": "c1",
+    "tags": [
+      "idioms"
+    ],
+    "examples": [
+      {
+        "text": "Con la scadenza domani, ho il capo che mi ha il fiato sul collo.",
+        "reading": "",
+        "translation": "Con el plazo mañana, el jefe me tiene encima."
+      }
+    ]
+  },
+  {
+    "word": "a carte scoperte",
+    "reading": "a carte scoperte",
+    "meanings": [
+      "con las cartas sobre la mesa",
+      "con transparencia total"
+    ],
+    "pos": "expression",
+    "level": "c1",
+    "tags": [
+      "idioms"
+    ],
+    "examples": [
+      {
+        "text": "Voglio trattare a carte scoperte: eccoti tutti i dati.",
+        "reading": "",
+        "translation": "Quiero negociar con las cartas sobre la mesa: aquí tienes todos los datos."
+      }
+    ]
+  },
+  {
+    "word": "non ci piove",
+    "reading": "non ci piove",
+    "meanings": [
+      "no hay duda",
+      "está clarísimo",
+      "es innegable"
+    ],
+    "pos": "expression",
+    "level": "c1",
+    "tags": [
+      "idioms"
+    ],
+    "examples": [
+      {
+        "text": "Che sia il migliore candidato non ci piove.",
+        "reading": "",
+        "translation": "Que sea el mejor candidato no hay duda."
+      }
+    ]
+  },
+  {
+    "word": "salvare la capra e i cavoli",
+    "reading": "salvare la capra e i cavoli",
+    "meanings": [
+      "salvar los muebles",
+      "quedar bien con todos"
+    ],
+    "pos": "expression",
+    "level": "c1",
+    "tags": [
+      "idioms"
+    ],
+    "notes": "Del enigma lógico del barquero que debe cruzar una cabra, un lobo y una col.",
+    "examples": [
+      {
+        "text": "Il politico cercava di salvare la capra e i cavoli, ma non ci riusciva.",
+        "reading": "",
+        "translation": "El político intentaba quedar bien con todos, pero no lo conseguía."
+      }
+    ]
+  },
+  {
+    "word": "fare di necessità virtù",
+    "reading": "fare di necessità virtù",
+    "meanings": [
+      "hacer de la necesidad virtud",
+      "sacar el mejor partido de una situación difícil"
+    ],
+    "pos": "expression",
+    "level": "c1",
+    "tags": [
+      "idioms"
+    ],
+    "examples": [
+      {
+        "text": "Senza fondi extra, fecero di necessità virtù e trovarono soluzioni creative.",
+        "reading": "",
+        "translation": "Sin fondos extra, hicieron de la necesidad virtud y encontraron soluciones creativas."
+      }
+    ]
+  },
+  {
+    "word": "menare il can per l'aia",
+    "reading": "menare il can per l'aia",
+    "meanings": [
+      "andar con rodeos",
+      "no ir al grano"
+    ],
+    "pos": "expression",
+    "level": "c1",
+    "tags": [
+      "idioms"
+    ],
+    "notes": "Literalmente 'llevar el perro por el patio'. Variante: 'girare intorno al porridge'.",
+    "examples": [
+      {
+        "text": "Smettila di menare il can per l'aia e dimmi cosa è successo.",
+        "reading": "",
+        "translation": "Deja de andar con rodeos y dime qué pasó."
+      }
+    ]
+  },
+  {
+    "word": "non c'è trippa per gatti",
+    "reading": "non c'è trippa per gatti",
+    "meanings": [
+      "no hay nada que hacer",
+      "no hay de qué",
+      "no hay posibilidad"
+    ],
+    "pos": "expression",
+    "level": "c1",
+    "tags": [
+      "idioms"
+    ],
+    "notes": "Expresión típicamente romana. Origen: un pregonero municipal en Roma que anunciaba que el municipio no pagaría más las tripas para los gatos callejeros.",
+    "examples": [
+      {
+        "text": "Hai chiesto un aumento? Non c'è trippa per gatti quest'anno.",
+        "reading": "",
+        "translation": "¿Pediste un aumento? Este año no hay nada que hacer."
+      }
+    ]
+  },
+  {
+    "word": "avere sale in zucca",
+    "reading": "avere sale in zucca",
+    "meanings": [
+      "tener cabeza",
+      "ser listo/sensato"
+    ],
+    "pos": "expression",
+    "level": "c1",
+    "tags": [
+      "idioms"
+    ],
+    "examples": [
+      {
+        "text": "Ha preso la decisione giusta: ha davvero sale in zucca.",
+        "reading": "",
+        "translation": "Tomó la decisión correcta: realmente tiene cabeza."
+      }
+    ]
+  },
+  {
+    "word": "restare in ballo",
+    "reading": "restare in ballo",
+    "meanings": [
+      "seguir en el juego",
+      "continuar involucrado",
+      "quedar pendiente"
+    ],
+    "pos": "expression",
+    "level": "c1",
+    "tags": [
+      "idioms"
+    ],
+    "examples": [
+      {
+        "text": "La proposta è ancora in ballo: vedremo cosa decide il consiglio.",
+        "reading": "",
+        "translation": "La propuesta sigue en el juego: veremos qué decide el consejo."
+      }
+    ]
+  },
+  {
+    "word": "prendere la palla al balzo",
+    "reading": "prendere la palla al balzo",
+    "meanings": [
+      "aprovechar la oportunidad",
+      "no dejar escapar el momento"
+    ],
+    "pos": "expression",
+    "level": "c1",
+    "tags": [
+      "idioms"
+    ],
+    "examples": [
+      {
+        "text": "Appena sentì che cercavano un traduttore, prese la palla al balzo.",
+        "reading": "",
+        "translation": "En cuanto supo que buscaban un traductor, aprovechó la oportunidad."
+      }
+    ]
+  },
+  {
+    "word": "con riferimento a",
+    "reading": "con riferimento a",
+    "meanings": [
+      "con referencia a",
+      "respecto a"
+    ],
+    "pos": "expression",
+    "level": "c1",
+    "tags": [
+      "academic-writing"
+    ],
+    "examples": [
+      {
+        "text": "Con riferimento alla sua del 15 marzo, Le confermo...",
+        "reading": "",
+        "translation": "Con referencia a su carta del 15 de marzo, le confirmo..."
+      }
+    ]
+  },
+  {
+    "word": "per quanto riguarda",
+    "reading": "per quanto riguarda",
+    "meanings": [
+      "en lo que respecta a",
+      "en cuanto a"
+    ],
+    "pos": "expression",
+    "level": "c1",
+    "tags": [
+      "academic-writing"
+    ],
+    "examples": [
+      {
+        "text": "Per quanto riguarda la metodologia, si rimanda al capitolo terzo.",
+        "reading": "",
+        "translation": "En lo que respecta a la metodología, se remite al capítulo tercero."
+      }
+    ]
+  },
+  {
+    "word": "in merito a",
+    "reading": "in merito a",
+    "meanings": [
+      "en cuanto a",
+      "respecto a",
+      "acerca de"
+    ],
+    "pos": "expression",
+    "level": "c1",
+    "tags": [
+      "academic-writing"
+    ],
+    "examples": [
+      {
+        "text": "In merito alla questione sollevata, si precisa che...",
+        "reading": "",
+        "translation": "En cuanto a la cuestión planteada, se precisa que..."
+      }
+    ]
+  },
+  {
+    "word": "fatte salve le debite proporzioni",
+    "reading": "fatte salve le debite proporzioni",
+    "meanings": [
+      "guardando las debidas proporciones",
+      "salvando las distancias"
+    ],
+    "pos": "expression",
+    "level": "c1",
+    "tags": [
+      "academic-writing"
+    ],
+    "notes": "Equivalente al español 'salvando las distancias' o 'mutatis mutandis'.",
+    "examples": [
+      {
+        "text": "Fatte salve le debite proporzioni, il caso italiano è simile a quello spagnolo.",
+        "reading": "",
+        "translation": "Guardando las debidas proporciones, el caso italiano es similar al español."
+      }
+    ]
+  },
+  {
+    "word": "a prescindere da",
+    "reading": "a prescindere da",
+    "meanings": [
+      "independientemente de",
+      "prescindiendo de",
+      "al margen de"
+    ],
+    "pos": "expression",
+    "level": "c1",
+    "tags": [
+      "academic-writing"
+    ],
+    "examples": [
+      {
+        "text": "A prescindere dai risultati, l'esperimento ha avuto valore metodologico.",
+        "reading": "",
+        "translation": "Independientemente de los resultados, el experimento tuvo valor metodológico."
+      }
+    ]
+  },
+  {
+    "word": "nell'ambito di",
+    "reading": "nell'ambito di",
+    "meanings": [
+      "en el ámbito de",
+      "dentro del marco de"
+    ],
+    "pos": "expression",
+    "level": "c1",
+    "tags": [
+      "academic-writing"
+    ],
+    "examples": [
+      {
+        "text": "Nell'ambito della ricerca sociologica, questo studio si distingue per...",
+        "reading": "",
+        "translation": "En el ámbito de la investigación sociológica, este estudio se distingue por..."
+      }
+    ]
+  },
+  {
+    "word": "in relazione a",
+    "reading": "in relazione a",
+    "meanings": [
+      "en relación con",
+      "en relación a"
+    ],
+    "pos": "expression",
+    "level": "c1",
+    "tags": [
+      "academic-writing"
+    ],
+    "examples": [
+      {
+        "text": "In relazione a quanto esposto, si propone la seguente soluzione.",
+        "reading": "",
+        "translation": "En relación con lo expuesto, se propone la siguiente solución."
+      }
+    ]
+  },
+  {
+    "word": "sotto il profilo di",
+    "reading": "sotto il profilo di",
+    "meanings": [
+      "desde el punto de vista de",
+      "en lo que respecta al perfil de"
+    ],
+    "pos": "expression",
+    "level": "c1",
+    "tags": [
+      "academic-writing"
+    ],
+    "examples": [
+      {
+        "text": "Sotto il profilo giuridico, la situazione è complessa.",
+        "reading": "",
+        "translation": "Desde el punto de vista jurídico, la situación es compleja."
+      }
+    ]
+  },
+  {
+    "word": "a livello di",
+    "reading": "a livello di",
+    "meanings": [
+      "a nivel de",
+      "en términos de"
+    ],
+    "pos": "expression",
+    "level": "c1",
+    "tags": [
+      "academic-writing"
+    ],
+    "examples": [
+      {
+        "text": "A livello di impatto ambientale, le emissioni sono ancora troppo elevate.",
+        "reading": "",
+        "translation": "A nivel de impacto ambiental, las emisiones son todavía demasiado elevadas."
+      }
+    ]
+  },
+  {
+    "word": "dal punto di vista di",
+    "reading": "dal punto di vista di",
+    "meanings": [
+      "desde el punto de vista de"
+    ],
+    "pos": "expression",
+    "level": "c1",
+    "tags": [
+      "academic-writing"
+    ],
+    "examples": [
+      {
+        "text": "Dal punto di vista dell'efficienza energetica, le rinnovabili sono preferibili.",
+        "reading": "",
+        "translation": "Desde el punto de vista de la eficiencia energética, las renovables son preferibles."
+      }
+    ]
+  },
+  {
+    "word": "conformemente a",
+    "reading": "conformemente a",
+    "meanings": [
+      "de conformidad con",
+      "conforme a"
+    ],
+    "pos": "expression",
+    "level": "c1",
+    "tags": [
+      "academic-writing"
+    ],
+    "examples": [
+      {
+        "text": "Conformemente alle disposizioni vigenti, si procede come segue.",
+        "reading": "",
+        "translation": "De conformidad con las disposiciones vigentes, se procede como sigue."
+      }
+    ]
+  },
+  {
+    "word": "in ottemperanza a",
+    "reading": "in ottemperanza a",
+    "meanings": [
+      "en cumplimiento de",
+      "en acatamiento de"
+    ],
+    "pos": "expression",
+    "level": "c1",
+    "tags": [
+      "academic-writing"
+    ],
+    "notes": "Expresión muy formal, usada principalmente en documentos jurídicos y administrativos.",
+    "examples": [
+      {
+        "text": "In ottemperanza alla normativa vigente, l'ente ha adottato le seguenti misure.",
+        "reading": "",
+        "translation": "En cumplimiento de la normativa vigente, el ente ha adoptado las siguientes medidas."
+      }
+    ]
+  },
+  {
+    "word": "salvo che",
+    "reading": "salvo che",
+    "meanings": [
+      "a menos que",
+      "salvo que",
+      "excepto si"
+    ],
+    "pos": "expression",
+    "level": "c1",
+    "tags": [
+      "academic-writing"
+    ],
+    "examples": [
+      {
+        "text": "Il contratto è valido, salvo che non intervenga una causa di forza maggiore.",
+        "reading": "",
+        "translation": "El contrato es válido, a menos que intervenga una causa de fuerza mayor."
+      }
+    ]
+  },
+  {
+    "word": "a meno che non",
+    "reading": "a meno che non",
+    "meanings": [
+      "a menos que",
+      "salvo que"
+    ],
+    "pos": "expression",
+    "level": "c1",
+    "tags": [
+      "academic-writing"
+    ],
+    "notes": "Requiere subjuntivo: 'a meno che non si verifichi...'",
+    "examples": [
+      {
+        "text": "Procederemo come previsto, a meno che non emergano nuovi elementi.",
+        "reading": "",
+        "translation": "Procederemos como previsto, a menos que emerjan nuevos elementos."
+      }
+    ]
+  },
+  {
+    "word": "fermi restando",
+    "reading": "fermi restando",
+    "meanings": [
+      "sin perjuicio de",
+      "quedando firmes",
+      "con la condición de mantener"
+    ],
+    "pos": "expression",
+    "level": "c1",
+    "tags": [
+      "academic-writing"
+    ],
+    "notes": "Fórmula jurídico-administrativa: 'fermi restando i diritti acquisiti' = sin perjuicio de los derechos adquiridos.",
+    "examples": [
+      {
+        "text": "Si approva la modifica, fermi restando gli obblighi contrattuali.",
+        "reading": "",
+        "translation": "Se aprueba la modificación, sin perjuicio de las obligaciones contractuales."
+      }
+    ]
+  },
+  {
+    "word": "Il lupo perde il pelo ma non il vizio",
+    "reading": "Il lupo perde il pelo ma non il vizio",
+    "meanings": [
+      "El leopardo no puede cambiar sus manchas",
+      "Genio y figura hasta la sepultura"
+    ],
+    "pos": "proverb",
+    "level": "c1",
+    "tags": [
+      "proverbs"
+    ],
+    "examples": [
+      {
+        "text": "Ha promesso di cambiare, ma il lupo perde il pelo ma non il vizio.",
+        "reading": "",
+        "translation": "Ha prometido cambiar, pero el genio y figura hasta la sepultura."
+      }
+    ]
+  },
+  {
+    "word": "Non è tutto oro quello che luccica",
+    "reading": "Non è tutto oro quello che luccica",
+    "meanings": [
+      "No es oro todo lo que reluce"
+    ],
+    "pos": "proverb",
+    "level": "c1",
+    "tags": [
+      "proverbs"
+    ],
+    "examples": [
+      {
+        "text": "L'offerta sembra ottima, ma non è tutto oro quello che luccica.",
+        "reading": "",
+        "translation": "La oferta parece excelente, pero no es oro todo lo que reluce."
+      }
+    ]
+  },
+  {
+    "word": "Chi tardi arriva male alloggia",
+    "reading": "Chi tardi arriva male alloggia",
+    "meanings": [
+      "El que llega tarde, mal le va",
+      "A quien madruga, Dios le ayuda (versión invertida)"
+    ],
+    "pos": "proverb",
+    "level": "c1",
+    "tags": [
+      "proverbs"
+    ],
+    "examples": [
+      {
+        "text": "Arrivò ultimo e non trovò posto: chi tardi arriva male alloggia.",
+        "reading": "",
+        "translation": "Llegó el último y no encontró sitio: el que llega tarde, mal le va."
+      }
+    ]
+  },
+  {
+    "word": "Meglio tardi che mai",
+    "reading": "Meglio tardi che mai",
+    "meanings": [
+      "Más vale tarde que nunca"
+    ],
+    "pos": "proverb",
+    "level": "c1",
+    "tags": [
+      "proverbs"
+    ],
+    "examples": [
+      {
+        "text": "Hai finalmente imparato a nuotare a quarant'anni? Meglio tardi che mai!",
+        "reading": "",
+        "translation": "¿Por fin aprendiste a nadar a los cuarenta años? ¡Más vale tarde que nunca!"
+      }
+    ]
+  },
+  {
+    "word": "Paese che vai, usanze che trovi",
+    "reading": "Paese che vai, usanze che trovi",
+    "meanings": [
+      "A donde fueres, haz lo que vieres",
+      "Cada tierra con su guerra"
+    ],
+    "pos": "proverb",
+    "level": "c1",
+    "tags": [
+      "proverbs"
+    ],
+    "examples": [
+      {
+        "text": "In Giappone ci si toglie le scarpe entrando in casa: paese che vai, usanze che trovi.",
+        "reading": "",
+        "translation": "En Japón se quitan los zapatos al entrar en casa: a donde fueres, haz lo que vieres."
+      }
+    ]
+  },
+  {
+    "word": "La notte porta consiglio",
+    "reading": "La notte porta consiglio",
+    "meanings": [
+      "La noche da consejo",
+      "Consultar con la almohada"
+    ],
+    "pos": "proverb",
+    "level": "c1",
+    "tags": [
+      "proverbs"
+    ],
+    "examples": [
+      {
+        "text": "Non decidere adesso: la notte porta consiglio.",
+        "reading": "",
+        "translation": "No decidas ahora: consulta con la almohada."
+      }
+    ]
+  },
+  {
+    "word": "A caval donato non si guarda in bocca",
+    "reading": "A caval donato non si guarda in bocca",
+    "meanings": [
+      "A caballo regalado no le mires el diente"
+    ],
+    "pos": "proverb",
+    "level": "c1",
+    "tags": [
+      "proverbs"
+    ],
+    "examples": [
+      {
+        "text": "Il regalo non ti piace? A caval donato non si guarda in bocca.",
+        "reading": "",
+        "translation": "¿No te gusta el regalo? A caballo regalado no le mires el diente."
+      }
+    ]
+  },
+  {
+    "word": "Chi la fa l'aspetti",
+    "reading": "Chi la fa l'aspetti",
+    "meanings": [
+      "El que la hace, la paga",
+      "Quien siembra vientos, recoge tempestades"
+    ],
+    "pos": "proverb",
+    "level": "c1",
+    "tags": [
+      "proverbs"
+    ],
+    "examples": [
+      {
+        "text": "L'ha trattato male per anni, poi si è trovato solo: chi la fa l'aspetti.",
+        "reading": "",
+        "translation": "Lo trató mal durante años, luego se encontró solo: el que la hace, la paga."
+      }
+    ]
+  },
+  {
+    "word": "Dimmi con chi vai e ti dirò chi sei",
+    "reading": "Dimmi con chi vai e ti dirò chi sei",
+    "meanings": [
+      "Dime con quién andas y te diré quién eres"
+    ],
+    "pos": "proverb",
+    "level": "c1",
+    "tags": [
+      "proverbs"
+    ],
+    "examples": [
+      {
+        "text": "Guarda le persone che frequenta: dimmi con chi vai e ti dirò chi sei.",
+        "reading": "",
+        "translation": "Mira a las personas con las que se junta: dime con quién andas y te diré quién eres."
+      }
+    ]
+  },
+  {
+    "word": "L'appetito vien mangiando",
+    "reading": "L'appetito vien mangiando",
+    "meanings": [
+      "El apetito viene comiendo",
+      "Cuanto más tienes, más quieres"
+    ],
+    "pos": "proverb",
+    "level": "c1",
+    "tags": [
+      "proverbs"
+    ],
+    "examples": [
+      {
+        "text": "Prima non voleva nemmeno provarci; ora non si ferma più: l'appetito vien mangiando.",
+        "reading": "",
+        "translation": "Al principio ni quería intentarlo; ahora no para: el apetito viene comiendo."
+      }
+    ]
+  },
+  {
+    "word": "eventuale",
+    "reading": "/eventuˈale/",
+    "meanings": [
+      "posible",
+      "que puede ocurrir eventualmente"
+    ],
+    "pos": "adjective",
+    "level": "c1",
+    "tags": [
+      "false-cognates"
+    ],
+    "notes": "TRAMPA: NO significa 'eventual' en el sentido de 'temporal'. Eventual en italiano = 'di breve durata, temporaneo'. Eventuale = posible, que podría ocurrir.",
+    "examples": [
+      {
+        "text": "Per eventuali domande, contattare il servizio clienti. (Para posibles preguntas...)",
+        "reading": "",
+        "translation": "Para posibles consultas, contactar el servicio al cliente."
+      }
+    ]
+  },
+  {
+    "word": "sensibile",
+    "reading": "/senˈsibile/",
+    "meanings": [
+      "perceptible",
+      "considerable",
+      "sensible (al tacto/emociones)",
+      "significativo"
+    ],
+    "pos": "adjective",
+    "level": "c1",
+    "tags": [
+      "false-cognates"
+    ],
+    "notes": "En italiano, 'sensibile miglioramento' = mejoría considerable/significativa. No equivale exactamente al español 'sensato', que es 'assennato/ragionevole'.",
+    "examples": [
+      {
+        "text": "Si è registrato un sensibile aumento dei prezzi nell'ultimo trimestre.",
+        "reading": "",
+        "translation": "Se ha registrado un aumento considerable de los precios en el último trimestre."
+      }
+    ]
+  },
+  {
+    "word": "pretendere",
+    "reading": "/preˈtɛndere/",
+    "meanings": [
+      "exigir",
+      "reclamar",
+      "afirmar (algo incierto)"
+    ],
+    "pos": "verb",
+    "level": "c1",
+    "tags": [
+      "false-cognates"
+    ],
+    "notes": "TRAMPA MAYOR: Pretendere ≠ pretender (fingir). En italiano, 'fingir' es 'fingere'. Pretendere = exigir/reclamar.",
+    "examples": [
+      {
+        "text": "Pretende rispetto ma non lo dà agli altri.",
+        "reading": "",
+        "translation": "Exige respeto pero no lo da a los demás."
+      }
+    ]
+  },
+  {
+    "word": "evidenza",
+    "reading": "/eviˈdɛntsa/",
+    "meanings": [
+      "evidencia material",
+      "prueba concreta",
+      "obviedad"
+    ],
+    "pos": "noun",
+    "level": "c1",
+    "tags": [
+      "false-cognates"
+    ],
+    "notes": "Más concreto que el español 'evidencia'. 'Mettere in evidenza' = destacar. 'Di tutta evidenza' = es evidente. Se usa más en contextos forenses o concretos.",
+    "examples": [
+      {
+        "text": "Le evidenze scientifiche non lasciano dubbi.",
+        "reading": "",
+        "translation": "Las evidencias científicas no dejan dudas."
+      }
+    ]
+  },
+  {
+    "word": "attuale",
+    "reading": "/attuˈale/",
+    "meanings": [
+      "actual",
+      "presente",
+      "contemporáneo",
+      "vigente"
+    ],
+    "pos": "adjective",
+    "level": "c1",
+    "tags": [
+      "false-cognates"
+    ],
+    "notes": "Attuale = del momento presente, vigente. El español 'actual' en el sentido de 'real/verdadero' se traduce 'reale/effettivo'. Attenzione: 'l'attuale presidente' = el presidente actual (en este momento).",
+    "examples": [
+      {
+        "text": "L'attuale situazione richiede misure straordinarie.",
+        "reading": "",
+        "translation": "La situación actual requiere medidas extraordinarias."
+      }
+    ]
+  },
+  {
+    "word": "parente",
+    "reading": "/paˈrɛnte/",
+    "meanings": [
+      "familiar",
+      "pariente"
+    ],
+    "pos": "noun",
+    "level": "c1",
+    "tags": [
+      "false-cognates"
+    ],
+    "notes": "Parente = familiar en sentido general. 'Genitori' = padres (progenitores). 'Parentes' en latín eran los padres, pero en italiano moderno es cualquier familiar.",
+    "examples": [
+      {
+        "text": "Ho molti parenti in Sicilia ma li vedo raramente.",
+        "reading": "",
+        "translation": "Tengo muchos familiares en Sicilia pero los veo raramente."
+      }
+    ]
+  },
+  {
+    "word": "fino",
+    "reading": "/ˈfino/",
+    "meanings": [
+      "hasta",
+      "fino/refinado (como adjetivo)"
+    ],
+    "pos": "preposition/adjective",
+    "level": "c1",
+    "tags": [
+      "false-cognates"
+    ],
+    "notes": "Como preposición, 'fino a' = hasta. Como adjetivo, 'fine/fino' = refinado, sutil, delgado en contextos específicos. 'Sottile' es el término más neutro para 'delgado'.",
+    "examples": [
+      {
+        "text": "Ha aspettato fino alle tre di notte. / Ha un gusto fino e raffinato.",
+        "reading": "",
+        "translation": "Esperó hasta las tres de la madrugada. / Tiene un gusto fino y refinado."
+      }
+    ]
+  },
+  {
+    "word": "muovere / commuovere",
+    "reading": "/muˈɔvere/ /kommuˈɔvere/",
+    "meanings": [
+      "muovere: mover (físicamente)",
+      "commuovere: conmover (emocionalmente)"
+    ],
+    "pos": "verb",
+    "level": "c1",
+    "tags": [
+      "false-cognates"
+    ],
+    "notes": "DISTINCIÓN CLAVE: 'muovere' = desplazar físicamente. 'Commuovere' = emocionar/conmover. 'Mi ha commosso' = Me conmovió. 'Ho mosso la sedia' = Moví la silla.",
+    "examples": [
+      {
+        "text": "Il discorso del presidente lo ha commosso fino alle lacrime.",
+        "reading": "",
+        "translation": "El discurso del presidente lo conmovió hasta las lágrimas."
+      }
+    ]
+  },
+  {
+    "word": "supportare / sostenere",
+    "reading": "/supportˈare/ /sostenˈere/",
+    "meanings": [
+      "supportare: aguantar/soportar",
+      "sostenere: apoyar/sostener/financiar"
+    ],
+    "pos": "verb",
+    "level": "c1",
+    "tags": [
+      "false-cognates"
+    ],
+    "notes": "TRAMPA FRECUENTE: 'Support' en inglés/español (apoyar a alguien) = 'sostenere'. 'Supportare' tiene matiz de tolerar/soportar algo pesado. 'Non supporto il caldo' = No soporto el calor.",
+    "examples": [
+      {
+        "text": "Lo sostengo in questa decisione difficile. / Non riesco a supportare tanto stress.",
+        "reading": "",
+        "translation": "Lo apoyo en esta decisión difícil. / No consigo soportar tanto estrés."
+      }
+    ]
+  },
+  {
+    "word": "controllare",
+    "reading": "/kontrolˈlare/",
+    "meanings": [
+      "verificar",
+      "comprobar",
+      "controlar",
+      "supervisar"
+    ],
+    "pos": "verb",
+    "level": "c1",
+    "tags": [
+      "false-cognates"
+    ],
+    "notes": "Similar al español 'controlar' pero con matiz predominante de VERIFICAR: 'controlla l'orario' = comprueba el horario. El español 'controlar una situación' = 'gestire/dominare una situazione'.",
+    "examples": [
+      {
+        "text": "Controlla se hai dimenticato qualcosa prima di uscire.",
+        "reading": "",
+        "translation": "Comprueba si has olvidado algo antes de salir."
+      }
+    ]
+  }
+]

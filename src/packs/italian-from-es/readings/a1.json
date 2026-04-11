@@ -1,0 +1,172 @@
+[
+  {
+    "id": "a1-reading-mi-presento",
+    "title": "Mi presento",
+    "level": "a1",
+    "text": "Mi chiamo Marco. Sono italiano, di Milano. Ho ventidue anni. Sono studente di medicina all'università. Parlo italiano e un po' di inglese. La mia famiglia è grande: ho una sorella e due fratelli. Mio padre si chiama Antonio e mia madre si chiama Giulia. Abito in un appartamento vicino alla stazione.",
+    "reading": "",
+    "translation": "Me llamo Marco. Soy italiano, de Milán. Tengo veintidós años. Soy estudiante de medicina en la universidad. Hablo italiano y un poco de inglés. Mi familia es grande: tengo una hermana y dos hermanos. Mi padre se llama Antonio y mi madre se llama Giulia. Vivo en un apartamento cerca de la estación.",
+    "vocabulary": [
+      "mi chiamo — me llamo (literalmente 'me llamo', de 'chiamarsi')",
+      "ho ... anni — tengo ... años (NOTA: en italiano se usa AVERE/tener, igual que en español)",
+      "un po' di — un poco de (el apóstrofo es obligatorio en 'po')",
+      "abito — vivo/habito (de 'abitare', más específico que 'vivere' para residencia)"
+    ],
+    "questions": [
+      {
+        "question": "Da dove viene Marco?",
+        "options": ["Da Roma", "Da Milano", "Da Napoli", "Da Torino"],
+        "correctIndex": 1,
+        "explanation": "Il testo dice: 'Sono italiano, di Milano.' — el testo dice: Soy italiano, de Milán."
+      },
+      {
+        "question": "Quanti anni ha Marco?",
+        "options": ["Diciotto anni", "Venti anni", "Ventidue anni", "Venticinque anni"],
+        "correctIndex": 2,
+        "explanation": "Marco dice: 'Ho ventidue anni.' — Tengo veintidós años."
+      },
+      {
+        "question": "Quanti fratelli ha Marco?",
+        "options": ["Uno", "Due", "Tre", "Nessuno"],
+        "correctIndex": 1,
+        "explanation": "Marco dice: 'Ho una sorella e due fratelli.' Tiene una hermana y DOS hermanos."
+      }
+    ]
+  },
+  {
+    "id": "a1-reading-la-mia-famiglia",
+    "title": "La mia famiglia",
+    "level": "a1",
+    "text": "La mia famiglia non è grande. Siamo in quattro: io, mia sorella Sofia, mia madre e mio padre. Mia madre si chiama Elena e ha quarantacinque anni. È insegnante di matematica. Mio padre si chiama Roberto e ha quarantotto anni. Lui lavora in banca. Mia sorella Sofia ha sedici anni e va al liceo. Lei adora la musica e suona la chitarra. Io invece preferisco lo sport: gioco a calcio tutti i sabati.",
+    "reading": "",
+    "translation": "Mi familia no es grande. Somos cuatro: yo, mi hermana Sofia, mi madre y mi padre. Mi madre se llama Elena y tiene cuarenta y cinco años. Es maestra de matemáticas. Mi padre se llama Roberto y tiene cuarenta y ocho años. Él trabaja en un banco. Mi hermana Sofia tiene dieciséis años y va al liceo (secundaria). Ella adora la música y toca la guitarra. Yo en cambio prefiero el deporte: juego al fútbol todos los sábados.",
+    "vocabulary": [
+      "siamo in quattro — somos cuatro (literalmente 'estamos en cuatro', expresión típica italiana para el número de integrantes)",
+      "insegnante — maestro/a, docente (de 'insegnare' = enseñar, similar a 'enseñante')",
+      "invece — en cambio, sin embargo (falso amigo: no significa 'en vez')",
+      "gioco a calcio — juego al fútbol (calcio = fútbol en italiano; nota: 'a calcio' con preposición 'a')"
+    ],
+    "questions": [
+      {
+        "question": "Quante persone ci sono nella famiglia?",
+        "options": ["Tre", "Quattro", "Cinque", "Sei"],
+        "correctIndex": 1,
+        "explanation": "Il testo dice: 'Siamo in quattro' — Somos cuatro."
+      },
+      {
+        "question": "Che lavoro fa la madre?",
+        "options": ["Lavora in banca", "È medica", "È insegnante", "È avvocata"],
+        "correctIndex": 2,
+        "explanation": "La madre 'è insegnante di matematica' — es maestra de matemáticas."
+      },
+      {
+        "question": "Cosa adora Sofia?",
+        "options": ["Lo sport", "La musica", "La matematica", "Il cinema"],
+        "correctIndex": 1,
+        "explanation": "Il testo dice: 'Lei adora la musica e suona la chitarra.' — Ella adora la música y toca la guitarra."
+      }
+    ]
+  },
+  {
+    "id": "a1-reading-la-mia-giornata",
+    "title": "La mia giornata",
+    "level": "a1",
+    "text": "Mi alzo alle sette di mattina. Faccio colazione con un caffè e un cornetto. Poi vado all'università in autobus. Le lezioni cominciano alle nove e finiscono alle tredici. A pranzo mangio con i miei amici alla mensa. Nel pomeriggio studio in biblioteca o in casa. La sera guardo un po' di televisione o leggo un libro. Vado a letto verso le undici di sera.",
+    "reading": "",
+    "translation": "Me levanto a las siete de la mañana. Desayuno con un café y una medialuna. Luego voy a la universidad en colectivo. Las clases empiezan a las nueve y terminan a la una. Al mediodía como con mis amigos en el comedor universitario. Por la tarde estudio en la biblioteca o en casa. Por la noche miro un poco de televisión o leo un libro. Me acuesto alrededor de las once de la noche.",
+    "vocabulary": [
+      "mi alzo — me levanto (de 'alzarsi', verbo reflexivo; como 'levantarse' en español)",
+      "faccio colazione — desayuno (literalmente 'hago el desayuno'; 'colazione' no tiene verbo propio)",
+      "un cornetto — una medialuna/croissant (el desayuno típico italiano en el bar)",
+      "verso le undici — alrededor de las once (verso = hacia/alrededor de, para tiempo aproximado)"
+    ],
+    "questions": [
+      {
+        "question": "A che ora si alza?",
+        "options": ["Alle sei", "Alle sette", "Alle otto", "Alle nove"],
+        "correctIndex": 1,
+        "explanation": "Il testo dice: 'Mi alzo alle sette di mattina.' — Me levanto a las siete de la mañana."
+      },
+      {
+        "question": "Come va all'università?",
+        "options": ["In macchina", "In bicicletta", "In autobus", "A piedi"],
+        "correctIndex": 2,
+        "explanation": "Il testo dice: 'vado all'università in autobus.' — voy a la universidad en colectivo."
+      },
+      {
+        "question": "Cosa fa la sera?",
+        "options": ["Studia in biblioteca", "Va al cinema", "Guarda la TV o legge", "Fa sport"],
+        "correctIndex": 2,
+        "explanation": "'La sera guardo un po' di televisione o leggo un libro.' — Por la noche mira televisión o lee un libro."
+      }
+    ]
+  },
+  {
+    "id": "a1-reading-al-ristorante",
+    "title": "Al ristorante",
+    "level": "a1",
+    "text": "Cameriere: Buonasera! Avete prenotato?\nCliente: Sì, ho una prenotazione per due persone. Mi chiamo Rossi.\nCameriere: Perfetto, signor Rossi. Ecco il vostro tavolo. Cosa prendete?\nCliente: Io vorrei gli spaghetti al pomodoro e mia moglie prende la pizza margherita.\nCameriere: E da bere?\nCliente: Un quarto di vino rosso e una bottiglia d'acqua, per favore.\nCameriere: Naturalmente. Buon appetito!\nCliente: Grazie!",
+    "reading": "",
+    "translation": "Mozo: ¡Buenas noches! ¿Tienen reserva?\nCliente: Sí, tengo una reserva para dos personas. Me llamo Rossi.\nMozo: Perfecto, señor Rossi. Aquí está su mesa. ¿Qué van a pedir?\nCliente: Yo quisiera los espaguetis con tomate y mi esposa pide la pizza margherita.\nMozo: ¿Y para tomar?\nCliente: Un cuarto de vino tinto y una botella de agua, por favor.\nMozo: Por supuesto. ¡Buen provecho!\nCliente: ¡Gracias!",
+    "vocabulary": [
+      "avete prenotato — ¿tienen reserva? (de 'prenotare' = reservar, 'prenotazione' = reserva)",
+      "cosa prendete — ¿qué van a pedir? (literalmente '¿qué toman?'; 'prendere' = pedir en el restaurante)",
+      "vorrei — quisiera (condicional de 'volere'; más cortés que 'voglio' para pedir en el restaurante)",
+      "buon appetito — buen provecho (expresión típica italiana, se usa siempre antes de comer)"
+    ],
+    "questions": [
+      {
+        "question": "Il signor Rossi ha una prenotazione per quante persone?",
+        "options": ["Una", "Due", "Tre", "Quattro"],
+        "correctIndex": 1,
+        "explanation": "'Ho una prenotazione per due persone.' — Tengo una reserva para dos personas."
+      },
+      {
+        "question": "Cosa ordina la moglie?",
+        "options": ["Spaghetti al pomodoro", "Pizza margherita", "Lasagne", "Risotto"],
+        "correctIndex": 1,
+        "explanation": "'Mia moglie prende la pizza margherita.' — Mi esposa pide la pizza margherita."
+      },
+      {
+        "question": "Cosa ordinano da bere?",
+        "options": ["Birra e acqua", "Vino bianco e succo", "Vino rosso e acqua", "Soltanto acqua"],
+        "correctIndex": 2,
+        "explanation": "'Un quarto di vino rosso e una bottiglia d'acqua.' — Un cuarto de vino tinto y una botella de agua."
+      }
+    ]
+  },
+  {
+    "id": "a1-reading-la-mia-citta",
+    "title": "La mia città",
+    "level": "a1",
+    "text": "Abito a Firenze, una città bellissima nel centro dell'Italia. Firenze è famosa per i suoi musei e le sue chiese. Il Duomo è il simbolo della città. Nel centro storico ci sono molti turisti. Io abito in un quartiere tranquillo vicino al centro. Nel mio quartiere ci sono un supermercato, una farmacia e un bel parco. Mi piace molto la mia città perché è ricca di storia e cultura.",
+    "reading": "",
+    "translation": "Vivo en Florencia, una ciudad hermosísima en el centro de Italia. Florencia es famosa por sus museos y sus iglesias. El Duomo (Catedral) es el símbolo de la ciudad. En el centro histórico hay muchos turistas. Yo vivo en un barrio tranquilo cerca del centro. En mi barrio hay un supermercado, una farmacia y un lindo parque. Me gusta mucho mi ciudad porque es rica en historia y cultura.",
+    "vocabulary": [
+      "bellissima — hermosísima (superlativo absoluto: bella → bellissima; se forma añadiendo -issimo/a)",
+      "i suoi musei — sus museos (suoi concuerda con musei, m.pl.; en español 'sus' es invariable)",
+      "nel centro storico — en el casco histórico (centro storico = zona histórica de las ciudades italianas)",
+      "ricca di — rica en (di + sustantivo para indicar abundancia; en español usamos 'en')"
+    ],
+    "questions": [
+      {
+        "question": "Dove si trova Firenze?",
+        "options": ["Nel nord dell'Italia", "Nel sud dell'Italia", "Nel centro dell'Italia", "In Sicilia"],
+        "correctIndex": 2,
+        "explanation": "'una città bellissima nel centro dell'Italia' — una ciudad hermosísima en el centro de Italia."
+      },
+      {
+        "question": "Cosa c'è nel quartiere?",
+        "options": ["Un museo e una chiesa", "Un supermercato, una farmacia e un parco", "Un aeroporto e una stazione", "Solo case"],
+        "correctIndex": 1,
+        "explanation": "'Nel mio quartiere ci sono un supermercato, una farmacia e un bel parco.'"
+      },
+      {
+        "question": "Perché gli piace la sua città?",
+        "options": ["Perché è grande", "Perché è vicino al mare", "Perché è ricca di storia e cultura", "Perché ci sono molti negozi"],
+        "correctIndex": 2,
+        "explanation": "'Mi piace molto la mia città perché è ricca di storia e cultura.' — Me gusta porque es rica en historia y cultura."
+      }
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a2-18",
+  "title": "Imperativo formale e informale — parla! / parli!",
+  "description": "El imperativo italiano para dar órdenes, instrucciones y recomendaciones. Tiene formas informales (tú) y formales (usted/Lei). Para hispanohablantes: el imperativo informal es idéntico al presente.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Imperativo informale -ARE: parla! (tu)",
+      "back": "¡habla! (informal)",
+      "reading": "",
+      "explanation": "Imperativo informal de -ARE: usa la 3ª persona del presente (igual que el español). parlare: PARLA! (no *parli). 'Parla più lentamente!' = ¡Habla más lentamente! 'Aspetta!' = ¡Espera! 'Mangia!' = ¡Come! La 3ª sing. del presente → imperativo informal."
+    },
+    {
+      "front": "Imperativo informale -ERE/-IRE: scrivi! / dormi!",
+      "back": "¡escribe! / ¡duerme! (informal)",
+      "reading": "",
+      "explanation": "Imperativo informal de -ERE/-IRE: usa la 2ª persona del presente. scrivere: SCRIVI! dormire: DORMI! 'Scrivi il tuo nome!' = ¡Escribe tu nombre! 'Leggi questo!' = ¡Lee esto! 'Finisci i compiti!' = ¡Termina los deberes!"
+    },
+    {
+      "front": "Imperativo formale (Lei): parli! / scriva! / dorma!",
+      "back": "¡hable! / ¡escriba! / ¡duerma! (formal/usted)",
+      "reading": "",
+      "explanation": "Imperativo formal (Lei): usa el CONGIUNTIVO PRESENTE (3ª sing.). -ARE verbs: -i (parli!). -ERE/-IRE verbs: -a (scriva!, dorma!). 'Prego, si accomodi!' = Por favor, siéntese. 'Parli più lentamente, per favore' = Hable más lentamente, por favor. Muy usado en situaciones formales."
+    },
+    {
+      "front": "Negativo informale: NON + INFINITO",
+      "back": "¡No + infinitivo! (prohibición informal)",
+      "reading": "",
+      "explanation": "¡IMPORTANTE! La negación del imperativo informal usa NON + INFINITO (no el imperativo). 'Non parlare!' = ¡No hables! 'Non mangiare così in fretta!' = ¡No comas tan rápido! 'Non dimenticare!' = ¡No olvides! Esta regla es diferente al español ('no hables', no *'no hablar')."
+    },
+    {
+      "front": "Imperativo con pronomi: Dimmi! / Aspettami! / Guardalo!",
+      "back": "¡Dime! / ¡Espérame! / ¡Miralo!",
+      "reading": "",
+      "explanation": "Con imperativo informal, los pronombres se UNEN al verbo (enclíticos). 'Dimmi!' (di + mi), 'aspettami' (aspetta + mi), 'guardalo' (guarda + lo). Con el formal (Lei) los pronombres van ANTES: 'Mi dica!' (Dígame), 'Lo guardi!' (Mírelo)."
+    },
+    {
+      "front": "Imperativi irregolari: essere → sii! / avere → abbi! / andare → vai!/va'! / fare → fai!/fa'!",
+      "back": "¡sé! / ¡ten! / ¡ve!/¡vete! / ¡haz!/¡hazlo!",
+      "reading": "",
+      "explanation": "Imperativos irregulares comunes: essere → SII! (sé/estate), avere → ABBI! (ten), andare → VAI! o VA'!, fare → FAI! o FA'!, stare → STAI! o STA'!, dare → DAI! o DA'!, dire → DI'! Los con apostrofe (va', fa', sta', da', di') son formas truncadas. Con pronombres duplican la consonante: 'fammi' (fa'+mi), 'dimmi' (di'+mi)."
+    },
+    {
+      "front": "Imperativo plurale: parlate! (voi) / parlino! (formale pl.)",
+      "back": "¡hablen! (informal pl.) / ¡hablen! (formal pl.)",
+      "reading": "",
+      "explanation": "Plural: 'voi' usa la forma del presente: 'Parlate piano!' = ¡Hablen bajo! 'Ascoltate!' = ¡Escuchen! Para el formal plural (Loro, poco usado hoy), se usa el congiuntivo presente 3ª plural: 'Parlino.' En práctica, 'voi' se usa también para grupos formales."
+    },
+    {
+      "front": "Usi dell'imperativo: istruzioni, ricette, cartelli",
+      "back": "Imperativos en instrucciones, recetas y letreros",
+      "reading": "",
+      "explanation": "El imperativo aparece en: recetas (Aggiungete il sale, Scaldate l'olio...), instrucciones de uso (Premere il tasto, Inserire la carta...), letreros (Non fumare! = ¡No fumar!, Girare a destra = Girar a la derecha), recomendaciones (Prendi un ombrello! = ¡Agarra un paraguas!)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Imperativo informal: ¡fácil para los verbos -ARE!",
+      "instruction": "El imperativo informal de -ARE usa la 3ª persona del presente (igual que el español). Para -ERE/-IRE usa la 2ª persona del presente. parla! scrivi! dormi!",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Formal, negativo e imperativos irregulares",
+      "instruction": "Formal (Lei): -ARE→-i, -ERE/-IRE→-a (parli!, scriva!). Negativo informal: NON + INFINITO (non parlare!). Irregolari: sii/abbi/vai/fai/di'. Pronombres: van unidos al imperativo informal.",
+      "itemIndices": [2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Informal o formal? ¿Cuál es la forma correcta?",
+      "instruction": "Elegí la forma correcta del imperativo según el contexto (informal/formal) y el verbo.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "recall",
+      "title": "Formá el imperativo",
+      "instruction": "Formá el imperativo pedido (informal positivo, informal negativo, formal).",
+      "itemIndices": [0, 1, 2, 3, 5, 6]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá las instrucciones",
+      "instruction": "Completá estas instrucciones de receta o letreros con el imperativo correcto.",
+      "itemIndices": [7]
+    },
+    {
+      "type": "summary",
+      "title": "Imperativo: informal, formal y negativo",
+      "instruction": "INFORMALE: -ARE → 3ª sg. presente (parla!). -ERE/-IRE → 2ª sg. presente (scrivi!, dormi!). FORMALE (Lei): -ARE → -i (parli!), -ERE/-IRE → -a (scriva!, dorma!). NEGATIVO INFORMAL: NON + INFINITO (non parlare!). IRREGOLARI: vai!/fai!/di'!/sii!/abbi!. PRONOMI: uniti al imperativo informal (dimmi!, aspettami!), antes del formal (mi dica!).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

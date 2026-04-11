@@ -1,0 +1,83 @@
+{
+  "id": "grammar-b1-05",
+  "title": "Passivo con venire — il processo",
+  "description": "La segunda forma de pasiva italiana: venire + participio. Expresa procesos y acciones en curso, a diferencia de essere que puede describir estados.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "La porta è chiusa.",
+      "back": "La puerta está cerrada. (estado/resultado)",
+      "reading": "",
+      "explanation": "Essere + participio → ESTADO o resultado. La puerta ya está en estado de cerrada. No importa quién la cerró ni cuándo. Es el resultado visible."
+    },
+    {
+      "front": "La porta viene chiusa alle 20:00.",
+      "back": "La puerta es cerrada a las 20:00. (proceso/acción habitual)",
+      "reading": "",
+      "explanation": "Venire + participio → PROCESO o acción. Alguien cierra la puerta a las 8 — es una acción que ocurre. Se enfatiza el proceso, la acción misma. Muy útil para acciones habituales o rutinas."
+    },
+    {
+      "front": "I pacchi vengono consegnati ogni mattina.",
+      "back": "Los paquetes son entregados cada mañana.",
+      "reading": "",
+      "explanation": "Venire al presente con sujeto plural: 'vengono'. Acción habitual y repetida — por eso VENIRE es más apropiado que ESSERE. La entrega es un proceso que ocurre regularmente."
+    },
+    {
+      "front": "I documenti venivano firmati dal direttore.",
+      "back": "Los documentos eran firmados por el director.",
+      "reading": "",
+      "explanation": "Venire al imperfetto: 'venivano'. Proceso habitual en el pasado. ¡IMPORTANTE! Venire NO se puede usar en tiempos COMPUESTOS: no existe 'sono venuto firmato' ni 'venuto fatto'."
+    },
+    {
+      "front": "Il premio verrà assegnato domani.",
+      "back": "El premio será entregado mañana.",
+      "reading": "",
+      "explanation": "Venire al futuro: 'verrà'. Proceso futuro. La acción de asignar el premio es el proceso. Solo tiempos SIMPLES: presente, imperfetto, futuro, condizionale. NUNCA compuestos."
+    },
+    {
+      "front": "Le nuove regole verranno applicate subito.",
+      "back": "Las nuevas reglas serán aplicadas de inmediato.",
+      "reading": "",
+      "explanation": "Futuro plurale: 'verranno'. Las reglas son objeto de una acción (aplicar). El uso de VENIRE en futuro aquí enfatiza que el proceso de aplicación ocurrirá, no solo el estado resultante."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "La diferencia clave: essere vs venire",
+      "instruction": "Esta distinción NO existe en español — es puro italiano. ESSERE + participio = estado/resultado. VENIRE + participio = proceso/acción en curso. 'La porta è chiusa' (está cerrada) vs 'la porta viene chiusa' (es cerrada/la cierran).",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Venire con acciones habituales",
+      "instruction": "Venire es ideal para: 1) acciones repetidas/habituales; 2) procesos activos; 3) cuando hay un agente implícito que realiza la acción. Los tiempos: presente, imperfetto, futuro, condizionale.",
+      "itemIndices": [2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Venire en futuro — regla de los tiempos simples",
+      "instruction": "¡Regla fundamental! Venire pasivo SOLO en tiempos SIMPLES. Nunca compuestos. Futuro correcto: 'verrà', 'verranno'. Para pasado compuesto SIEMPRE essere: 'è stato fatto'.",
+      "itemIndices": [4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "¿Essere o venire?",
+      "instruction": "Para cada situación, ¿es mejor essere (estado) o venire (proceso)?",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "recall",
+      "title": "Los tiempos de venire pasivo",
+      "instruction": "¿En qué tiempos se puede usar venire en la pasiva?",
+      "itemIndices": [3, 4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "Resumen: Passivo con venire",
+      "instruction": "Reglas clave: 1) ESSERE = estado/resultado; VENIRE = proceso/acción. 2) VENIRE solo en tiempos SIMPLES (presente, imperfetto, futuro, condizionale). 3) Para tiempos compuestos siempre ESSERE. Esta distinción es refinada pero los italianos la usan intuitivamente.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

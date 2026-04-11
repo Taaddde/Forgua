@@ -1,0 +1,523 @@
+[
+  {
+    "id": "b2-congiuntivo-imperfetto",
+    "title": "Congiuntivo imperfetto",
+    "level": "b2",
+    "category": "grammar",
+    "description": "El subjuntivo imperfecto italiano: formas y contextos de uso. Indispensable para hipótesis, deseos y subordinadas con verbo principal en pasado o condicional.",
+    "explanation": "El congiuntivo imperfetto es el tiempo del subjuntivo que describe acciones simultáneas o posteriores al verbo principal cuando este está en pasado o en condizionale. Como hispanohablante, reconocerás estructuras similares, pero los 'triggers' (verbos que exigen subjuntivo) difieren en ocasiones.\n\n**FORMAS:**\n- ARE (parlare): parlassi / parlassi / parlasse / parlassimo / parlaste / parlassero\n- ERE (scrivere): scrivessi / scrivessi / scrivesse / scrivessimo / scriveste / scrivessero\n- IRE (dormire): dormissi / dormissi / dormisse / dormissimo / dormiste / dormissero\n\n**IRREGOLARI CLAVE:**\n- essere → fossi / fossi / fosse / fossimo / foste / fossero\n- avere → avessi / avessi / avesse / avessimo / aveste / avessero\n- fare → facessi (base: face-)\n- dare → dessi (base: de-)\n- stare → stessi (base: ste-)\n- dire → dicessi (base: dice-)\n- essere → fossi (completamente irregular)\n\n**USOS PRINCIPALES:**\n1. Periodo ipotetico tipo 2: 'Se + congiuntivo imperfetto, condizionale presente' → hipótesis del presente/futuro que se considera improbable o imposible. Ej: 'Se avessi tempo, studierei.' (Si tuviera tiempo, estudiaría.)\n2. Después de condizionale: 'vorrei che, sarebbe meglio che, preferirei che' → Ej: 'Vorrei che tu venissi.' (Querría que vinieras.)\n3. Después de verbos en pasado que rigen congiuntivo: 'pensava che, voleva che, speravo che' → Ej: 'Speravo che arrivasse in tempo.' (Esperaba que llegara a tiempo.)\n4. Proposiciones con 'come se': 'Parla come se fosse un esperto.' (Habla como si fuera un experto.)\n\n**COMPARACIÓN CON ESPAÑOL:** En español el imperfecto de subjuntivo (hablara/hablase) funciona de manera muy similar. La diferencia está en los verbos que exigen congiuntivo en italiano: 'prima che', 'benché', 'sebbene', 'affinché', 'a meno che', 'nonostante' siempre van con congiuntivo independientemente del tiempo principal.",
+    "examples": [
+      {
+        "italian": "Se avessi più tempo, leggerei più libri.",
+        "spanish": "Si tuviera más tiempo, leería más libros.",
+        "notes": "Periodo ipotetico tipo 2: hipótesis del presente considerada improbable.",
+        "sentence": "Esempio: Congiuntivo imperfetto",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Vorrei che tu fossi più puntuale.",
+        "spanish": "Querría que fueras más puntual.",
+        "notes": "Dopo 'vorrei' (condizionale) → congiuntivo imperfetto.",
+        "sentence": "Esempio: Congiuntivo imperfetto",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Pensavo che Marco venisse alla festa.",
+        "spanish": "Pensaba que Marco vendría a la fiesta.",
+        "notes": "Verbo principale in passato → congiuntivo imperfetto.",
+        "sentence": "Esempio: Congiuntivo imperfetto",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Si comporta come se sapesse tutto.",
+        "spanish": "Se comporta como si lo supiera todo.",
+        "notes": "'Come se' siempre requiere congiuntivo imperfetto o trapassato.",
+        "sentence": "Esempio: Congiuntivo imperfetto",
+        "translation": "ver explicación"
+      }
+    ],
+    "pattern": "-are: -assi/-assi/-asse | -ere: -essi | -ire: -issi",
+    "meaning": "subjuntivo imperfecto (si viniera, si hubiera)"
+  },
+  {
+    "id": "b2-congiuntivo-trapassato",
+    "title": "Congiuntivo trapassato",
+    "level": "b2",
+    "category": "grammar",
+    "description": "El subjuntivo pluscuamperfecto: avesse mangiato, fosse venuto. Para acciones anteriores al verbo principal en pasado o condicional pasado.",
+    "explanation": "El congiuntivo trapassato indica una acción completada ANTES del verbo principal. Es el equivalente del pluscuamperfecto de subjuntivo español (hubiera comido, hubiera venido).\n\n**FORMACIÓN:** avere/essere en congiuntivo imperfetto + participio passato\n- Con AVERE: avessi / avessi / avesse / avessimo / aveste / avessero + participio\n  Ej: avessi mangiato, avessi visto, avesse fatto\n- Con ESSERE: fossi / fossi / fosse / fossimo / foste / fossero + participio\n  Ej: fossi venuto/a, fosse partito/a, fossero arrivati/e\n\n**USOS:**\n1. Periodo ipotetico tipo 3 (irreale del passato): 'Se + congiuntivo trapassato, condizionale passato'\n   Ej: 'Se avessi studiato, avrei passato l'esame.' (Si hubiera estudiado, habría aprobado el examen.)\n2. Después de verbo principal en pasado que indica anterioridad:\n   Ej: 'Era contento che fosse arrivato in tempo.' (Estaba contento de que hubiera llegado a tiempo.)\n3. Con 'sebbene', 'benché', 'nonostante' cuando la subordinada es anterior al principal:\n   Ej: 'Sebbene avesse studiato molto, non superò l'esame.'\n4. Con 'come se' para acciones pasadas:\n   Ej: 'Parlava come se non fosse successo niente.' (Hablaba como si no hubiera pasado nada.)\n\n**CONCORDANZA DEI TEMPI (adelanto):**\nVerbo principale: PASSATO/CONDIZIONALE PASSATO → subordinata: congiuntivo trapassato\nVerbo principale: PASSATO/CONDIZIONALE PRESENTE → subordinata: congiuntivo imperfetto",
+    "examples": [
+      {
+        "italian": "Se avesse studiato di più, avrebbe superato l'esame.",
+        "spanish": "Si hubiera estudiado más, habría aprobado el examen.",
+        "notes": "Periodo ipotetico tipo 3: hipótesis imposible del pasado.",
+        "sentence": "Esempio: Congiuntivo trapassato",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Era sorpreso che fossero partiti senza salutare.",
+        "spanish": "Estaba sorprendido de que se hubieran ido sin despedirse.",
+        "notes": "Passato → congiuntivo trapassato para acción anterior.",
+        "sentence": "Esempio: Congiuntivo trapassato",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Nonostante avesse perso, rimase sereno.",
+        "spanish": "Aunque hubiera perdido, permaneció sereno.",
+        "notes": "'Nonostante' siempre requiere congiuntivo.",
+        "sentence": "Esempio: Congiuntivo trapassato",
+        "translation": "ver explicación"
+      }
+    ],
+    "pattern": "avessi/fossi + participio passato",
+    "meaning": "subjuntivo pluscuamperfecto (si hubiera venido)"
+  },
+  {
+    "id": "b2-periodo-ipotetico-3",
+    "title": "Periodo ipotetico dell'irrealtà (tipo 3)",
+    "level": "b2",
+    "category": "grammar",
+    "description": "El período hipotético de la irrealidad: hipótesis sobre el pasado que no ocurrió. Equivalente al 'Si hubiera... habría...' español.",
+    "explanation": "El periodo ipotetico dell'irrealtà habla de situaciones del pasado que NO ocurrieron. La hipótesis es imposible porque el momento ya pasó.\n\n**ESTRUCTURA:**\nSe + congiuntivo trapassato + condizionale passato\n\n- PRÓTASIS (if-clause): Se + avessi/fossi + participio\n- APÓDOSIS (result): avrei/sarei + participio\n\nEjemplos:\n- 'Se avessi studiato, avrei passato l'esame.' (Si hubiera estudiado, habría aprobado.)\n- 'Se fossero venuti prima, avremmo cenato insieme.' (Si hubieran venido antes, habríamos cenado juntos.)\n- 'Se non avesse piovuto, saremmo usciti.' (Si no hubiera llovido, habríamos salido.)\n\n**POSICIÓN:** La prótasis puede ir antes o después de la apódosis:\n- 'Avrei passato l'esame se avessi studiato.'\n- 'Se avessi studiato, avrei passato l'esame.'\n\n**VARIANTE COLLOQUIALE:** En el italiano hablado informal, especialmente en el Centro-Sur, se usa el condizionale en ambas partes:\n- 'Se avrei studiato, avrei passato.' ← ERROR EN ITALIANO ESTÁNDAR (pero muy frecuente en el habla)\nEsta forma está estigmatizada y debe evitarse en contextos formales.\n\n**COMPARACIÓN CON ESPAÑOL:** La estructura es prácticamente idéntica al español 'Si hubiera + participio, habría + participio'. La diferencia principal es que el italiano usa congiuntivo trapassato en la prótasis, mientras que el español puede usar indistintamente 'hubiera' o 'hubiese'.",
+    "examples": [
+      {
+        "italian": "Se avesse preso l'ombrello, non si sarebbe bagnato.",
+        "spanish": "Si hubiera cogido el paraguas, no se habría mojado.",
+        "notes": "Hipótesis imposible: ya pasó, no lo hizo.",
+        "sentence": "Esempio: Periodo ipotetico dell'irrealtà (tipo 3)",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Non saremmo in ritardo se fossimo partiti prima.",
+        "spanish": "No llegaríamos tarde si hubiéramos salido antes.",
+        "notes": "Apódosis antes de la prótasis.",
+        "sentence": "Esempio: Periodo ipotetico dell'irrealtà (tipo 3)",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Se avessimo avuto più fondi, avremmo assunto più personale.",
+        "spanish": "Si hubiéramos tenido más fondos, habríamos contratado más personal.",
+        "notes": "Contexto profesional/formal.",
+        "sentence": "Esempio: Periodo ipotetico dell'irrealtà (tipo 3)",
+        "translation": "ver explicación"
+      }
+    ],
+    "pattern": "se + congiuntivo trapassato + condizionale passato",
+    "meaning": "período hipotético irreal (si hubiera venido, habría comido)"
+  },
+  {
+    "id": "b2-periodo-ipotetico-misto",
+    "title": "Periodi ipotetici misti",
+    "level": "b2",
+    "category": "grammar",
+    "description": "Períodos hipotéticos que mezclan tiempos: condición en el pasado con consecuencia en el presente, o viceversa.",
+    "explanation": "Los periodi ipotetici misti combinan tiempos de diferentes maneras para expresar situaciones más complejas.\n\n**TIPO A: Condición pasada → consecuencia presente**\nSe + congiuntivo trapassato → condizionale presente\nSignificado: 'Si algo hubiera ocurrido en el pasado, ahora estaría...'\nEjemplo: 'Se avessi studiato medicina, ora sarei medico.' (Si hubiera estudiado medicina, ahora sería médico.)\n\n**TIPO B: Condición presente → consecuencia pasada**\nSe + congiuntivo imperfetto → condizionale passato\nSignificado: 'Si ahora fuera de cierta manera, en el pasado habría...'\nEjemplo: 'Se fossi più ricco, avrei comprato quella casa l'anno scorso.' (Si fuera más rico, habría comprado esa casa el año pasado.)\n\n**TIPO C: Con avverbio di tempo**\nEjemplo: 'Se fossi venuto ieri, ora sapremmo già la risposta.'\n(Si hubieras venido ayer, ahora ya sabríamos la respuesta.)\n→ Condición pasada (ieri) + consecuencia presente (ora)\n\n**POR QUÉ ES ÚTIL:** Este tipo de hipótesis es frecuentísimo en conversaciones sobre decisiones de vida, elecciones profesionales, y discusión de situaciones alternativas ('E se fosse andata diversamente?').\n\n**COMPARACIÓN CON ESPAÑOL:** El español tiene la misma posibilidad ('Si hubiera estudiado más, ahora sabría más') y funciona de manera paralela.",
+    "examples": [
+      {
+        "italian": "Se avessi scelto un'altra università, ora avrei amici diversi.",
+        "spanish": "Si hubiera elegido otra universidad, ahora tendría amigos diferentes.",
+        "notes": "Condición pasada → consecuencia presente.",
+        "sentence": "Esempio: Periodi ipotetici misti",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Se fossi più organizzato, avrei finito il progetto in tempo.",
+        "spanish": "Si fuera más organizado, habría terminado el proyecto a tiempo.",
+        "notes": "Condición presente → consecuencia pasada.",
+        "sentence": "Esempio: Periodi ipotetici misti",
+        "translation": "ver explicación"
+      }
+    ],
+    "pattern": "se + congiuntivo trapassato + condizionale presente (o viceversa)",
+    "meaning": "períodos hipotéticos mixtos (pasado + presente)"
+  },
+  {
+    "id": "b2-concordanza-tempi-congiuntivo",
+    "title": "Concordanza dei tempi nel congiuntivo",
+    "level": "b2",
+    "category": "grammar",
+    "description": "La concordancia de tiempos en el subjuntivo: qué tiempo de subjuntivo usar según el tiempo de la frase principal.",
+    "explanation": "La concordanza dei tempi es el sistema por el cual el tiempo del congiuntivo en la subordinada depende del tiempo del verbo principal.\n\n**REGLA FUNDAMENTAL:**\n\n| Verbo principale | Relación temporal | Congiuntivo da usar |\n|---|---|---|\n| Presente / Futuro | Simultáneo o posterior | Congiuntivo presente |\n| Presente / Futuro | Anterior | Congiuntivo passato |\n| Passato / Condizionale | Simultáneo o posterior | Congiuntivo imperfetto |\n| Passato / Condizionale | Anterior | Congiuntivo trapassato |\n\n**EJEMPLOS DETALLADOS:**\n\n1. Penso che Marco VENGA domani. (presente → presente)\n   Pienso que Marco VIENE mañana.\n\n2. Penso che Marco SIA VENUTO ieri. (presente → passato)\n   Pienso que Marco VINO ayer.\n\n3. Pensavo che Marco VENISSE quel giorno. (passato → imperfetto)\n   Pensaba que Marco VENDRÍA/VENÍA ese día.\n\n4. Pensavo che Marco FOSSE VENUTO il giorno prima. (passato → trapassato)\n   Pensaba que Marco HABÍA VENIDO el día anterior.\n\n**VERBOS QUE RIGEN CONGIUNTIVO:**\nOpinión: pensare, credere, ritenere, sembrare, supporre\nEmoción: essere felice/triste/sorpreso che, sperare, temere\nVoluntad: volere, preferire, desiderare, esigere\nDuda: dubitare, non essere sicuro\nConectores: benché, sebbene, nonostante, affinché, prima che, a meno che, senza che, come se\n\n**TRAMPA PARA HISPANOHABLANTES:** En español muchos de estos verbos también rigen subjuntivo, pero 'pensare + positivo' en italiano SIEMPRE lleva congiuntivo ('Penso che venga'), mientras que en español a veces se usa indicativo ('Creo que viene').",
+    "examples": [
+      {
+        "italian": "Spero che tu possa venire alla festa.",
+        "spanish": "Espero que puedas venir a la fiesta.",
+        "notes": "Presente → congiuntivo presente (acción simultánea/posterior).",
+        "sentence": "Esempio: Concordanza dei tempi nel congiuntivo",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Speravo che tu potessi venire alla festa.",
+        "spanish": "Esperaba que pudieras venir a la fiesta.",
+        "notes": "Passato → congiuntivo imperfetto (acción simultánea).",
+        "sentence": "Esempio: Concordanza dei tempi nel congiuntivo",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Speravo che tu fossi già partito.",
+        "spanish": "Esperaba que ya te hubieras ido.",
+        "notes": "Passato → congiuntivo trapassato (acción anterior).",
+        "sentence": "Esempio: Concordanza dei tempi nel congiuntivo",
+        "translation": "ver explicación"
+      }
+    ],
+    "pattern": "principale (presente/futuro) → congiuntivo pres./pass. | (passato/condiz.) → imperfetto/trapassato",
+    "meaning": "concordancia de tiempos en el subjuntivo"
+  },
+  {
+    "id": "b2-discorso-indiretto-avanzato",
+    "title": "Discorso indiretto avanzato",
+    "level": "b2",
+    "category": "grammar",
+    "description": "El estilo indirecto avanzado: transformación de todos los tiempos verbales, pronombres, adverbios y modos cuando el verbo introductorio está en pasado.",
+    "explanation": "El discorso indiretto consiste en reportar lo que alguien dijo sin usar sus palabras exactas. Cuando el verbo introductorio está en PASADO, se producen cambios sistemáticos.\n\n**CAMBIOS DE TIEMPO VERBAL:**\n| Discorso diretto | Discorso indiretto |\n|---|---|\n| Presente (mangio) | Imperfetto (mangiava) |\n| Passato prossimo (ho mangiato) | Trapassato prossimo (aveva mangiato) |\n| Passato remoto (mangiai) | Trapassato prossimo (aveva mangiato) |\n| Imperfetto (mangiavo) | Imperfetto (mangiava) — sin cambio |\n| Futuro (mangerò) | Condizionale passato (avrebbe mangiato) |\n| Condizionale (mangerei) | Condizionale passato (avrebbe mangiato) |\n| Imperativo (mangia!) | Infinito (di mangiare) |\n\n**CAMBIOS DE MODO:**\n- Congiuntivo presente → congiuntivo imperfetto\n- Congiuntivo passato → congiuntivo trapassato\n\n**CAMBIOS DE PRONOMBRE Y DEICTIC:**\n- io → lui/lei, tu → io/lui/lei (según contexto)\n- qui/qua → lì/là\n- questo → quello\n- adesso/ora → allora, in quel momento\n- oggi → quel giorno\n- ieri → il giorno prima / la vigilia\n- domani → il giorno dopo / l'indomani\n\n**VERBOS INTRODUCTORI COMUNES:**\ndire, raccontare, rispondere, domandare, chiedere, affermare, spiegare, ammettere, negare, sostenere, ribadire, aggiungere, concludere\n\n**DOMANDE INDIRETTE:**\n- Domanda sì/no: 'Viene?' → Ha chiesto SE venivo.\n- Domanda con interrogativo: 'Dove vai?' → Ha chiesto DOVE ANDASSI.\n\n**ESEMPIO COMPLETO:**\nDiretto: 'Verrò domani e ti porterò il libro.'\nIndiretto: Ha detto che sarebbe venuto il giorno dopo e che mi avrebbe portato il libro.",
+    "examples": [
+      {
+        "italian": "DD: 'Ho finito il lavoro.' → DI: Ha detto che aveva finito il lavoro.",
+        "spanish": "Estilo directo: 'Terminé el trabajo.' → Indirecto: Dijo que había terminado el trabajo.",
+        "notes": "Passato prossimo → trapassato prossimo.",
+        "sentence": "Esempio: Discorso indiretto avanzato",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "DD: 'Verrò domani.' → DI: Ha detto che sarebbe venuto il giorno dopo.",
+        "spanish": "DD: 'Vendré mañana.' → DI: Dijo que vendría al día siguiente.",
+        "notes": "Futuro → condizionale passato; domani → il giorno dopo.",
+        "sentence": "Esempio: Discorso indiretto avanzato",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "DD: 'Dove abiti?' → DI: Mi ha chiesto dove abitassi.",
+        "spanish": "DD: '¿Dónde vives?' → DI: Me preguntó dónde vivía.",
+        "notes": "Domanda diretta → domanda indiretta con dove + congiuntivo imperfetto.",
+        "sentence": "Esempio: Discorso indiretto avanzato",
+        "translation": "ver explicación"
+      }
+    ],
+    "pattern": "trasformazione di tutti i tempi + modi nel discorso indiretto",
+    "meaning": "estilo indirecto avanzado (transformación de todos los tiempos)"
+  },
+  {
+    "id": "b2-passato-remoto",
+    "title": "Passato remoto — forme",
+    "level": "b2",
+    "category": "grammar",
+    "description": "Las formas del passato remoto: el tiempo del pasado narrativo, de la historia y la literatura italiana. Irregolari fundamentales.",
+    "explanation": "El passato remoto es el tiempo del pasado narrativo en italiano. Se usa para eventos históricos, hechos de la biografía vistos como completos y alejados del presente, y en la lengua literaria.\n\n**FORMAS REGULARES:**\n\n-ARE (parlare): parlai / parlasti / parlò / parlammo / parlaste / parlarono\n-ERE (credere): credei (o credetti) / credesti / credé (o credette) / credemmo / credeste / crederono (o credettero)\n-IRE (sentire): sentii / sentisti / sentì / sentimmo / sentiste / sentirono\n\n**IRREGOLARI FONDAMENTALI (los más frecuentes):**\nEssere: fui / fosti / fu / fummo / foste / furono\nAvere: ebbi / avesti / ebbe / avemmo / aveste / ebbero\nFare: feci / facesti / fece / facemmo / faceste / fecero\nVenire: venni / veniste / venne / venimmo / veniste / vennero\nDare: diedi (o detti) / desti / diede (o dette) / demmo / deste / diedero\nDire: dissi / dicesti / disse / dicemmo / diceste / dissero\nStare: stetti / stesti / stette / stemmo / steste / stettero\nMettere: misi / mettesti / mise / mettemmo / metteste / misero\nPrendere: presi / prendesti / prese / prendemmo / prendeste / presero\nScrivere: scrissi / scrivesti / scrisse / scrivemmo / scriveste / scrissero\nLeggere: lessi / leggesti / lesse / leggemmo / leggeste / lessero\nChiedere: chiesi / chiedesti / chiese / chiedemmo / chiedeste / chiesero\nRispondere: risposi / rispondesti / rispose / rispondemmo / rispondeste / risposero\nVedere: vidi / vedesti / vide / vedemmo / vedeste / videro\nConoscere: conobbi / conoscesti / conobbe / conoscemmo / conosceste / conobbero\nVolere: volli / volesti / volle / volemmo / voleste / vollero\nPotere: potei / potesti / poté / potemmo / poteste / poterono\nDovere: dovei / dovesti / dové / dovemmo / doveste / doverono\n\n**PATRÓN DE LOS IRREGOLARI:** Muchos irregolares tienen el patrón 1ª-3ª singular y 3ª plural irregulares, con las demás personas regulares:\n- feci, facesti, fece, facemmo, faceste, fecero\n- La persona 1ª y 3ª singular + 3ª plural son las 'strong forms'.",
+    "examples": [
+      {
+        "italian": "Dante nacque a Firenze nel 1265 e morì a Ravenna nel 1321.",
+        "spanish": "Dante nació en Florencia en 1265 y murió en Rávena en 1321.",
+        "notes": "Datos históricos → passato remoto.",
+        "sentence": "Esempio: Passato remoto — forme",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Garibaldi partì da Quarto con i Mille nel 1860.",
+        "spanish": "Garibaldi partió de Quarto con los Mil en 1860.",
+        "notes": "Eventos históricos emblemáticos → siempre passato remoto.",
+        "sentence": "Esempio: Passato remoto — forme",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Ieri Marco andò al cinema e vide un bel film.",
+        "spanish": "Ayer Marco fue al cine y vio una buena película.",
+        "notes": "ATENCIÓN: esto suena natural en el Sur de Italia, pero en el Norte se usaría il passato prossimo.",
+        "sentence": "Esempio: Passato remoto — forme",
+        "translation": "ver explicación"
+      }
+    ],
+    "pattern": "-are: -ai/-asti/-ò/-ammo/-aste/-arono | -ere/-ire: irregolari (3 forme)",
+    "meaning": "pretérito indefinido (fui, hice, vine — literario)"
+  },
+  {
+    "id": "b2-passato-remoto-vs-prossimo",
+    "title": "Passato remoto vs Passato prossimo",
+    "level": "b2",
+    "category": "grammar",
+    "description": "La diferencia regional y temporal entre passato remoto y passato prossimo: una de las características más llamativas del italiano.",
+    "explanation": "Esta distinción es una de las más importantes para entender la variación dialectal italiana y hablar con naturalidad según la región.\n\n**DISTINCIÓN ESTÁNDAR (basada en la gramática normativa):**\n- PASSATO PROSSIMO: acciones recientes que tienen relevancia en el presente, que el hablante siente conectadas con el ahora.\n  Ej: 'Oggi ho lavorato molto.' (Hoy he trabajado mucho.)\n- PASSATO REMOTO: acciones concluidas sin vínculo con el presente, históricas o biográficas lejanas.\n  Ej: 'Da bambino, andai spesso al mare.' (De niño, fui mucho al mar.)\n\n**VARIACIÓN REGIONAL — LA DIVISIÓN MÁS NOTABLE:**\n\nNORD ITALIA (Milano, Torino, Venezia, Genova, Bologna):\n→ USA PASSATO PROSSIMO para CASI TODO el pasado, incluso eventos distantes.\n→ 'Ieri sono andato al cinema.' ✓\n→ 'Napoleon ha perso a Waterloo.' ← Suena raro para el estándar pero se dice en el Norte.\n→ El passato remoto se percibe como literario, elevado o del Sur.\n\nSUD ITALIA (Napoli, Sicilia, Calabria, Sardegna, parte del Centro):\n→ USA PASSATO REMOTO para casi todo el pasado, incluso eventos recientes.\n→ 'Ieri andai al cinema.' ✓\n→ 'Stamattina mi svegliai tardi.' ✓\n\nCENTRO (Roma, Toscana — especialmente Firenze):\n→ Zona de transición. Tendencia hacia el passato prossimo pero con uso del remoto en contextos narrativos y formales.\n\n**IMPLICACIONES PRÁCTICAS:**\n- En la ESCRITURA FORMAL y la LETTERATURA → usa passato remoto para narrativa histórica y literaria.\n- En el HABLA → adapta al interlocutor o sigue la variedad estándar (passato prossimo para lo reciente, remoto para lo histórico).\n- Al LEER textos → reconoce el passato remoto como equivalente del passato prossimo.\n\n**REGLA PRÁCTICA PARA EL LEARNER:** En conversación formal usa passato prossimo cuando el evento tiene conexión con el presente; reserva el passato remoto para historia y narración literaria. Así funcionarás en todo el país.",
+    "examples": [
+      {
+        "italian": "Ho mangiato già. / Mangiai già. (entrambe possibili secondo la regione)",
+        "spanish": "Ya he comido / Ya comí.",
+        "notes": "Norte: ho mangiato. Sur: mangiai. Ambas son correctas en sus contextos.",
+        "sentence": "Esempio: Passato remoto vs Passato prossimo",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "La Prima Guerra Mondiale scoppiò nel 1914. (standard e letterario)",
+        "spanish": "La Primera Guerra Mundial estalló en 1914.",
+        "notes": "Evento histórico lejano → passato remoto en todo el país.",
+        "sentence": "Esempio: Passato remoto vs Passato prossimo",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Stamattina mi sono svegliato tardi. (Nord) / Stamattina mi svegliai tardi. (Sud)",
+        "spanish": "Esta mañana me desperté tarde.",
+        "notes": "Mismo significado: solo varía según la región del hablante.",
+        "sentence": "Esempio: Passato remoto vs Passato prossimo",
+        "translation": "ver explicación"
+      }
+    ],
+    "pattern": "nord → passato prossimo | sud → passato remoto | letteratura → passato remoto",
+    "meaning": "diferencia regional y estilística entre pasados"
+  },
+  {
+    "id": "b2-participio-assoluto",
+    "title": "Proposizione participiale assoluta",
+    "level": "b2",
+    "category": "grammar",
+    "description": "El participio absoluto: construcciones participiales independientes que equivalen a cláusulas temporales, causales o concesivas.",
+    "explanation": "La proposizione participiale assoluta es una construcción con participio passato que funciona como proposición subordinada sin conjunción explícita. Es característica de la lengua escrita formal, literaria y periodística.\n\n**ESTRUCTURA:**\nParticipate passato (concordado con su sujeto) + resto de la frase\n\nEl sujeto del participio puede ser:\n1. Diferente al sujeto principal: 'Detto questo, la riunione è terminata.'\n2. El mismo sujeto principal: 'Finito il lavoro, Marco è andato a dormire.'\n\n**VALORES SEMÁNTICOS:**\n- TEMPORAL: 'Finita la riunione, tutti tornarono a casa.'\n  (Cuando terminó la reunión, todos volvieron a casa.)\n- CAUSAL: 'Esaurite le risorse, il progetto fu sospeso.'\n  (Como se agotaron los recursos, el proyecto fue suspendido.)\n- CONCESSIVO (con 'pur'): 'Pur avendo studiato, non superò l'esame.' ← (gerundio, no participio, pero estructuralmente paralelo)\n\n**CONSTRUCCIONES FISSE MOLTO COMUNI:**\n- Detto questo... (Dicho esto...)\n- Chiarito ciò... (Aclarado esto...)\n- Premesso che... (Habida cuenta de que...)\n- Stabilito che... (Establecido que...)\n- Rilevato che... (Observado que...)\n- Considerato che... (Considerando que...)\n- Visto che... (Visto que...)\n- Fatta eccezione per... (Con la excepción de...)\n- Tenuto conto di... (Teniendo en cuenta...)\n- Fatto salvo... (Sin perjuicio de...)\n\n**CONCORDANZA:** El participio concuerda en género y número con el sujeto de la participial:\n- 'Finiti i compiti, i bambini uscirono a giocare.' (masculino plural)\n- 'Completata la relazione, la direttrice uscì.' (femenino singular)",
+    "examples": [
+      {
+        "italian": "Detto questo, non ho altro da aggiungere.",
+        "spanish": "Dicho esto, no tengo nada más que añadir.",
+        "notes": "Construcción fija muy frecuente en debates y discursos formales.",
+        "sentence": "Esempio: Proposizione participiale assoluta",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Chiusa la seduta, i deputati lasciarono l'aula.",
+        "spanish": "Cerrada la sesión, los diputados abandonaron la sala.",
+        "notes": "Valor temporal: 'Cuando se cerró la sesión...'",
+        "sentence": "Esempio: Proposizione participiale assoluta",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Esaminati tutti i candidati, la commissione deliberò.",
+        "spanish": "Examinados todos los candidatos, la comisión deliberó.",
+        "notes": "Concordancia: participio masculino plural (i candidati).",
+        "sentence": "Esempio: Proposizione participiale assoluta",
+        "translation": "ver explicación"
+      }
+    ],
+    "pattern": "[participio] + [soggetto diverso] (= cuando/habiendo)",
+    "meaning": "proposición participial absoluta (dicho esto, cerrada la puerta)"
+  },
+  {
+    "id": "b2-gerundio-avanzato",
+    "title": "Gerundio avanzato con pronomi clitici",
+    "level": "b2",
+    "category": "grammar",
+    "description": "El gerundio italiano con pronombres clíticos adjuntos, y sus usos modales, causales, temporales y condicionales.",
+    "explanation": "El gerundio italiano equivale al gerundio español (-ando, -iendo) pero con algunas diferencias importantes, especialmente en la posición de los pronombres clíticos.\n\n**FORMACIÓN:**\n- ARE → -ando: parlare → parlando\n- ERE → -endo: vedere → vedendo\n- IRE → -endo: dormire → dormendo\n\nIrregolari: fare → facendo, bere → bevendo, dire → dicendo, porre → ponendo\n\n**GERUNDIO CON PRONOMI CLITICI:**\nA diferencia del español, donde los clíticos van delante del gerundio ('viéndola'), en italiano los clíticos van ENCLÍTICOS (adheridos al gerundio):\n\n- vedendola (viéndola) — la + vedendo\n- scrivendogli (escribiéndole) — gli + scrivendo\n- parlandone (hablando de ello) — ne + parlando\n- facendoci (haciéndonos) — ci + facendo\n- rendendosi conto (dándose cuenta) — si + rendendo\n\n**GERUNDIO COMPOSTO (passato):**\nAvere/essere al gerundio + participio passato\n- avendo mangiato (habiendo comido)\n- essendo andato/a (habiendo ido)\nEjemplo: 'Avendo finito il lavoro, poteva riposarsi.'\n\n**USOS DEL GERUNDIO:**\n1. TEMPORALE/MODALE: 'Studiando ogni giorno, imparerai l'italiano.' (Estudiando cada día...)\n2. CAUSALE: 'Avendo perso le chiavi, non poteva entrare.' (Al haber perdido las llaves...)\n3. CONDIZIONALE: 'Volendo, potrei aiutarti.' (Si quisieras, podría ayudarte.)\n4. CONCESSIVO (con 'pur'): 'Pur essendo stanco, continuò a lavorare.' (Aunque estaba cansado...)\n5. Con STARE per il progressivo: 'Sto studiando.' (Estoy estudiando.) — el más básico.\n\n**SOGGETTO DEL GERUNDIO:** normalmente el mismo que el sujeto principal. Si es diferente, se usa una subordinada completa.",
+    "examples": [
+      {
+        "italian": "Vedendola piangere, cercò di consolarla.",
+        "spanish": "Al verla llorar, intentó consolarla.",
+        "notes": "La se adhiere a vedendo → vedendola.",
+        "sentence": "Esempio: Gerundio avanzato con pronomi clitici",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Pur lavorando molto, guadagna poco.",
+        "spanish": "Aunque trabaja mucho, gana poco.",
+        "notes": "Gerundio concessivo con 'pur'.",
+        "sentence": "Esempio: Gerundio avanzato con pronomi clitici",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Avendo già mangiato, non aveva fame.",
+        "spanish": "Habiendo comido ya, no tenía hambre.",
+        "notes": "Gerundio composto: anterioridad respecto al verbo principal.",
+        "sentence": "Esempio: Gerundio avanzato con pronomi clitici",
+        "translation": "ver explicación"
+      }
+    ],
+    "pattern": "verbo-ando/-endo + pronome clitico (vedendola, scrivendogli)",
+    "meaning": "gerundio avanzado con pronombres clíticos"
+  },
+  {
+    "id": "b2-nominalizzazione",
+    "title": "Nominalizzazione dell'infinito",
+    "level": "b2",
+    "category": "grammar",
+    "description": "El infinitivo como sustantivo: 'il decidere', 'il costruire', la nominalizzazione en el italiano culto y periodístico.",
+    "explanation": "La nominalizzazione consiste en convertir verbos o frases verbales en sustantivos. En italiano hay varias maneras, pero a nivel B2 nos concentramos en el infinito sustantivado y los sufijos nominales.\n\n**INFINITO SUSTANTIVADO:**\nEl infinito precedido de artículo determinativo funciona como sustantivo:\n- il vivere (el vivir, la vida)\n- il mangiare (el comer, la comida)\n- il decidere (el decidir, la toma de decisión)\n- il costruire (el construir, la construcción)\n- lo scrivere (el escribir)\n- il sapere (el saber, el conocimiento)\n\nEjemplos en contexto:\n- 'Il decidere troppo in fretta porta a errori.' (El decidir demasiado rápido lleva a errores.)\n- 'L'eccesso nel mangiare fa male alla salute.' (El exceso en el comer daña la salud.)\n\n**NOMINALIZZAZIONE CON SUFFISSI:**\nLa forma más común de crear sustantivos a partir de verbos:\n- -zione/-sione: produrre → produzione, decidere → decisione\n- -mento: comportarsi → comportamento, trattare → trattamento\n- -tura: aprire → apertura, rompere → rottura\n- -ura: scrivere → scrittura\n- -aggio: riciclare → riciclaggio, massaggiare → massaggio\n- -anza/-enza: conoscere → conoscenza, dipendere → dipendenza\n\n**NOMINALIZZAZIONE EN EL DISCURSO FORMAL:**\nEn el italiano burocrático y periodístico se prefiere la nominalizzazione a las frases verbales:\n- VERBALE: 'La situazione sta peggiorando rapidamente.'\n- NOMINALE: 'Si sta assistendo a un rapido deterioramento della situazione.'\n\nEsta tendencia al 'stile nominale' es característica del registro formal italiano y a veces se critica por oscurecer el significado.",
+    "examples": [
+      {
+        "italian": "Il saper comunicare è fondamentale nel mondo del lavoro.",
+        "spanish": "Saber comunicarse es fundamental en el mundo laboral.",
+        "notes": "Infinito sustantivado como sujeto de la frase.",
+        "sentence": "Esempio: Nominalizzazione dell'infinito",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Lo studio e la ricerca portano alla scoperta.",
+        "spanish": "El estudio y la investigación llevan al descubrimiento.",
+        "notes": "Nominalizzazione con sufijo -a (scoperta de scoprire).",
+        "sentence": "Esempio: Nominalizzazione dell'infinito",
+        "translation": "ver explicación"
+      }
+    ],
+    "pattern": "il + infinitivo (= el hecho de hacer) | -zione/-mento/-tura",
+    "meaning": "nominalización del infinitivo (el hecho de hacer)"
+  },
+  {
+    "id": "b2-suffissi-alterativi",
+    "title": "Suffissi alterativi: diminutivi, accrescitivi, peggiorativi",
+    "level": "b2",
+    "category": "grammar",
+    "description": "Los sufijos modificadores del italiano: -ino/-etto (diminutivos), -one (aumentativos), -accio (peyorativos), con sus matices afectivos y connotativos.",
+    "explanation": "Los suffissi alterativi modifican el significado de sustantivos y adjetivos sin cambiar su categoría gramatical. Son muy productivos en italiano y esenciales para el habla natural.\n\n**DIMINUTIVI (pequeñez, afecto, atenuación):**\n-INO/-INA: piccolo → piccolino (pequeñito), libro → libretto*, casa → casina\n-ETTO/-ETTA: libro → libretto* (pequeño libro), casa → casetta (casita)\n-ELLO/-ELLA: paese → paesello (pueblecito)\n-UCCIO/-UCCIA: letto → letticciuolo*, casa → casuccia\n*Nota: 'libretto' tiene significado propio (libreto de ópera).\n\n**ACCRESCITIVI (gran tamaño, a veces tosquedad):**\n-ONE/-ONA: libro → librone (librazo), casa → casona (casona)\nNota: cambia género en algunos casos → il libro → il librone (no *la librone)\nEjemplos: un omone (un hombrón), una donnona (una mujerona), un mangione (un comilón)\n\n**PEGGIORATIVI (fealdad, maldad, desprecio):**\n-ACCIO/-ACCIA: tempo → tempaccio (tiempo horrible), parola → parolaccia (palabrota)\nNota: 'parolaccia' = palabrota (ha lexicalizado como insulto/mala palabra)\n-ASTRO/-ASTRA: poeta → poetastro (poetastro)\n-UCOLO/-UCOLA: medico → medicocolo (medicucho)\n\n**CONSIDERACIONES IMPORTANTES:**\n1. LEXICALIZACIÓN: Muchos alterados han tomado significados independientes:\n   - 'manettone' → no es 'gran manicotto' sino un tipo de pan dulce navideño = 'panettone'\n   - 'foglietto' → no es 'pequeña foglia' sino 'papel pequeño, hojita'\n   - 'borsetta' → bolso de mano (no simplemente 'bolsita')\n2. ACUMULACIÓN DE SUFIJOS: es posible combinar: piccolo → piccolino → piccolissimo\n3. USO AFETTUOSO: el diminutivo puede expresar afecto sin implicar tamaño pequeño:\n   'Caro! Sei così carino!' (¡Cariño! ¡Qué majo eres!)\n4. TRAMPA: No todos los sustantivos terminados en -ino/-one son alterados. 'mattino' (mañana) no es alterado de 'matto'.",
+    "examples": [
+      {
+        "italian": "Dammi un attimino, arrivo subito!",
+        "spanish": "Dame un momentito, ¡ya llego!",
+        "notes": "Attimino (diminutivo de attimo): diminutivo coloquial muy usado para atenuar una petición.",
+        "sentence": "Esempio: Suffissi alterativi: diminutivi, accrescitivi, peggiorativi",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Ha una borsetta bellissima.",
+        "spanish": "Tiene un bolso precioso.",
+        "notes": "Borsetta está lexicalizado: significa 'bolso de mano', no simplemente 'bolsita'.",
+        "sentence": "Esempio: Suffissi alterativi: diminutivi, accrescitivi, peggiorativi",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Che tempaccio! Non esce di casa con questo vento.",
+        "spanish": "¡Qué tiempo tan horrible! No sale de casa con este viento.",
+        "notes": "Tempaccio: sufijo peyorativo -accio aplicado a 'tempo'.",
+        "sentence": "Esempio: Suffissi alterativi: diminutivi, accrescitivi, peggiorativi",
+        "translation": "ver explicación"
+      }
+    ],
+    "pattern": "[nome] + -ino/-etto (dim.) | -one (accr.) | -accio/-astro (peg.)",
+    "meaning": "sufijos alterativos (diminutivos, aumentativos, peyorativos)"
+  },
+  {
+    "id": "b2-costruzioni-impersonali",
+    "title": "Costruzioni impersonali avanzate + congiuntivo",
+    "level": "b2",
+    "category": "grammar",
+    "description": "Las construcciones impersonales que exigen congiuntivo: è necessario che, occorre che, bisogna che, è importante che, etc.",
+    "explanation": "Las costruzioni impersonali son expresiones de valor genérico que expresan necesidad, conveniencia, posibilidad, etc. Cuando van seguidas de 'che + frase', exigen congiuntivo.\n\n**LISTA DE COSTRUZIONI IMPERSONALI + CHE + CONGIUNTIVO:**\n\nNECESSITÀ:\n- È necessario che + congiuntivo (Es necesario que...)\n- Occorre che + congiuntivo (Es necesario que / Hace falta que...)\n- Bisogna che + congiuntivo (Hay que.../Es necesario que...)\n- È indispensabile che + congiuntivo\n- È fondamentale che + congiuntivo\n- È imperativo che + congiuntivo\n\nCONVENIENZA/OPPORTUNITÀ:\n- È opportuno che + congiuntivo (Es conveniente que...)\n- È preferibile che + congiuntivo (Es preferible que...)\n- Sarebbe meglio che + congiuntivo (Sería mejor que...)\n- Conviene che + congiuntivo (Conviene que...)\n\nPOSSIBILITÀ:\n- È possibile che + congiuntivo (Es posible que...)\n- È probabile che + congiuntivo (Es probable que...)\n- È impossibile che + congiuntivo\n\nSURPRESA/EMOZIONE:\n- È strano che + congiuntivo (Es extraño que...)\n- È normale che + congiuntivo (Es normal que...)\n- È assurdo che + congiuntivo\n- Peccato che + congiuntivo (Lástima que...)\n\n**IMPORTANTE — CON INFINITO EN VEZ DE CHE:**\nCuando el sujeto de la subordinada no está especificado (genérico), se puede usar infinito:\n- 'Bisogna studiare' = 'Bisogna che si studi' → El sujeto es indeterminado.\n- 'È importante rispettare le regole.'\n\nCuando el sujeto ES específico, se usa obbligatoriamente 'che + congiuntivo':\n- 'È importante che TU rispetti le regole.' (No: *'È importante tu rispettare...')\n\n**CONCORDANZA DEI TEMPI:**\nPresente principale → congiuntivo presente: 'È necessario che venga.'\nPassato/condizionale principale → congiuntivo imperfetto: 'Era necessario che venisse.'",
+    "examples": [
+      {
+        "italian": "È necessario che tutti i partecipanti firmino il modulo.",
+        "spanish": "Es necesario que todos los participantes firmen el formulario.",
+        "notes": "Costruzione impersonale + che + congiuntivo presente.",
+        "sentence": "Esempio: Costruzioni impersonali avanzate + congiuntivo",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Sarebbe opportuno che lei si scusasse con il cliente.",
+        "spanish": "Sería conveniente que usted se disculpara con el cliente.",
+        "notes": "Condizionale principale → congiuntivo imperfetto.",
+        "sentence": "Esempio: Costruzioni impersonali avanzate + congiuntivo",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Bisogna che tu prenda una decisione entro domani.",
+        "spanish": "Es necesario que tomes una decisión antes de mañana.",
+        "notes": "Bisogna che + congiuntivo: el sujeto específico obliga al uso del congiuntivo.",
+        "sentence": "Esempio: Costruzioni impersonali avanzate + congiuntivo",
+        "translation": "ver explicación"
+      }
+    ],
+    "pattern": "è necessario/opportuno/possibile + che + congiuntivo",
+    "meaning": "construcciones impersonales + subjuntivo"
+  },
+  {
+    "id": "b2-ne-avanzato",
+    "title": "Ne avanzato — accordo del participio",
+    "level": "b2",
+    "category": "grammar",
+    "description": "Usos avanzados del pronombre 'ne' y la concordancia del participio pasado cuando 'ne' es objeto directo.",
+    "explanation": "El pronombre 'ne' es uno de los elementos más característicos del italiano. A nivel B2 hay que dominar sus usos avanzados y especialmente la concordancia del participio.\n\n**REPASO DE USOS DE NE:**\n1. Partitivo (equivale a 'de ello/de ellos/de eso'):\n   - 'Quanti libri hai?' 'Ne ho tre.' (¿Cuántos libros tienes? Tengo tres.)\n2. Di + pronome (de él, de ella, de ello):\n   - 'Ne sei sicuro?' (¿Estás seguro de ello?)\n3. Con verbi + di: parlare di, avere bisogno di, fidarsi di...\n   - 'Me ne sono accorto.' (Me di cuenta de ello.)\n\n**ACCORDO DEL PARTICIPIO CON NE:**\nCuando 'ne' tiene función de complemento oggetto diretto con valore partitivo, el participio concuerda con el nombre al que se refiere 'ne':\n\n- 'Quanti libri hai comprato?' 'Ne ho comprati tre.' (tres = masculino plural → comprati)\n- 'Quante mele hai mangiato?' 'Ne ho mangiate due.' (due = femminile plural → mangiate)\n- 'Hai bevuto del vino?' 'Ne ho bevuto un bicchiere.' (un bicchiere = sing. → bevuto)\n\n**REGOLA:** La concordanza si aplica si y solo si 'ne' es complemento oggetto diretto con significado partitivo.\n\n**CONFRONTO CON LO/LA/LI/LE:**\nCon lo/la/li/le la concordanza è obbligatoria e sempre:\n- 'I libri? Li ho comprati.' (masculino plural → comprati)\n- 'La torta? L'ho mangiata.' (femminile sing. → mangiata)\n\n**ERRORI COMUNI:**\nNon confondere il 'ne' partitivo (con accordo) con il 'ne' locativo:\n- 'Sei andato in montagna?' 'Sì, ne sono appena tornato.' (tornato: nessun accordo perché 'ne' non è oggetto diretto)",
+    "examples": [
+      {
+        "italian": "Quante email hai ricevuto oggi? Ne ho ricevute tante.",
+        "spanish": "¿Cuántos correos has recibido hoy? He recibido muchos.",
+        "notes": "Ne partitivo con email (femenino plural) → ricevute.",
+        "sentence": "Esempio: Ne avanzato — accordo del participio",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Di quel problema ne abbiamo già parlato.",
+        "spanish": "De ese problema ya hemos hablado.",
+        "notes": "Ne con valore di 'di quello': no hay concordancia porque parlare es intransitivo.",
+        "sentence": "Esempio: Ne avanzato — accordo del participio",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Hai assaggiato i vini? Ne ho assaggiati solo due.",
+        "spanish": "¿Has probado los vinos? Solo he probado dos.",
+        "notes": "Vini (masculino plural) → assaggiati.",
+        "sentence": "Esempio: Ne avanzato — accordo del participio",
+        "translation": "ver explicación"
+      }
+    ],
+    "pattern": "ne + ho comprato/mangiato → accordo: ne ho comprati/mangiate",
+    "meaning": "ne avanzado — concordancia del participio"
+  },
+  {
+    "id": "b2-ci-avanzato",
+    "title": "Ci avanzato — volerci, entrarci, averci",
+    "level": "b2",
+    "category": "grammar",
+    "description": "Los usos avanzados del 'ci' en las construcciones volerci (ser necesario), entrarci (tener que ver), averci (tener algo), esserci (haber).",
+    "explanation": "El 'ci' tiene muchos usos en italiano. A nivel B2 hay que dominar las construcciones idiomáticas más importantes.\n\n**VOLERCI (ser necesario, hacer falta, tardarse):**\nSujeto implícito: se usa para expresar necesidad o duración.\n\n'Ci vuole' (sing.) + sustantivo singular: 'Ci vuole coraggio.' (Hace falta valor.)\n'Ci vogliono' (pl.) + sustantivo plural: 'Ci vogliono due ore.' (Se necesitan dos horas.)\n'Ci vuole' + infinito: 'Ci vuole molto per imparare il cinese.' (Se tarda mucho en aprender chino.)\nAl passato: 'Ci è voluto tempo.' / 'Ci sono volute due settimane.'\n\n**ENTRARCI (tener que ver, ser relevante):**\nUsado principalmente en frases negativas:\n- 'Cosa c'entra questo con il problema?' (¿Qué tiene que ver esto con el problema?)\n- 'Non c'entra niente!' (¡No tiene nada que ver!)\n- 'Non c'entro io in questa storia.' (Yo no tengo nada que ver con este asunto.)\n\n**AVERCI (tener algo, forma coloquial de avere):**\nNel parlato informale, 'averci' (avere + ci) si usa comunemente:\n- 'Hai tempo?' → 'Ce l'hai il tempo?' (¿Tienes tiempo? — tono coloquial)\n- 'Non ce la faccio.' (No puedo / No me alcanza.)\n- 'Ce l'ho!' (¡Lo tengo!)\n- 'Ce l'hai con me?' (¿Estás enfadado conmigo?)\n\n**ESSERCI (haber, estar):**\nFórma básica pero con usos idiomáticos:\n- 'C'è da fare ancora molto.' (Todavía hay mucho que hacer.)\n- 'Ci sono andata.' (Fui allí.) — ci = avverbio di luogo + sono andata\n- 'Non c'è di che.' (No hay de qué / De nada.)\n- 'C'era una volta...' (Había una vez...)\n\n**ALTRE COSTRUZIONI CON CI:**\nCi tengo (Me importa / Le doy importancia):\n- 'Ci tengo molto a questa amicizia.' (Me importa mucho esta amistad.)\nCi conto (Cuento con ello):\n- 'Ci conto su di te.' (Cuento contigo.)",
+    "examples": [
+      {
+        "italian": "Ci vogliono almeno tre anni per imparare bene l'italiano.",
+        "spanish": "Se necesitan al menos tres años para aprender bien el italiano.",
+        "notes": "Volerci con sustantivo plural.",
+        "sentence": "Esempio: Ci avanzato — volerci, entrarci, averci",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Ma cosa c'entra lui con questa storia?",
+        "spanish": "¿Pero qué tiene que ver él con este asunto?",
+        "notes": "Entrarci: indagando relevancia de alguien en una situación.",
+        "sentence": "Esempio: Ci avanzato — volerci, entrarci, averci",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Ci tengo molto a finire questo progetto bene.",
+        "spanish": "Me importa mucho terminar este proyecto bien.",
+        "notes": "Tenerci: expresar que algo es importante para uno.",
+        "sentence": "Esempio: Ci avanzato — volerci, entrarci, averci",
+        "translation": "ver explicación"
+      }
+    ],
+    "pattern": "ci vuole/vogliono | metterci | entrarci | averci",
+    "meaning": "ci avanzado — volerci, entrarci, averci"
+  },
+  {
+    "id": "b2-registro-scritto",
+    "title": "Lingua scritta formale e burocratica",
+    "level": "b2",
+    "category": "grammar",
+    "description": "El registro escrito formal: construcciones burocráticas, administrativas y académicas del italiano. Cómo leer y escribir en contextos institucionales.",
+    "explanation": "El italiano formal escrito, especialmente el burocrático y administrativo, tiene características muy específicas que lo distinguen del italiano hablado cotidiano.\n\n**CARATTERISTICHE DEL REGISTRO FORMALE SCRITTO:**\n\n1. COSTRUZIONI PARTICIPIALI ASSOLUTE (frecuentísimas):\n   'Preso atto di quanto esposto, si comunica che...'\n   'Vista la documentazione presentata, si autorizza...'\n   'Tenuto conto delle circostanze, si ritiene opportuno...'\n\n2. NOMINALIZZAZIONE ESTESA:\n   Preferencia por sustantivos en vez de verbos:\n   - INFORMALE: 'Hanno deciso di non procedere.'\n   - FORMALE: 'La decisione di non procedere è stata adottata.'\n\n3. PASSIVE IMPERSONALI:\n   - 'Si comunica che...' (Se comunica que...)\n   - 'Si precisa che...' (Se precisa que...)\n   - 'Si allega il documento...' (Se adjunta el documento...)\n   - 'Si fa presente che...' (Se hace saber que...)\n\n4. FORMULE FISSE DI APERTURA E CHIUSURA:\n   Apertura:\n   - 'Con la presente si comunica...' (Por la presente se comunica...)\n   - 'Con riferimento alla Sua del [data]...' (Con referencia a su [carta] del [fecha]...)\n   - 'In risposta alla Sua richiesta...' (En respuesta a su solicitud...)\n   Chiusura:\n   - 'In attesa di un Suo riscontro, porgo distinti saluti.' (A la espera de su respuesta, le saluda atentamente.)\n   - 'Cordiali saluti' / 'Distinti saluti' / 'Con ossequio'\n\n5. USO DEL 'LEI' DI CORTESIA (forma pronominale):\n   'La preghiamo di...' (Le rogamos que...)\n   'La informiamo che...' (Le informamos que...)\n   'In attesa di un Suo cenno...' (A la espera de noticias suyas...)\n\n6. LOCUZIONI BUROCRATICHE TIPICHE:\n   - 'ai sensi di' (en virtud de, con arreglo a)\n   - 'in ottemperanza a' (en cumplimiento de)\n   - 'a norma di legge' (con arreglo a la ley)\n   - 'in conformità con' (en conformidad con)\n   - 'fatte salve le disposizioni...' (sin perjuicio de las disposiciones...)\n   - 'il sottoscritto' (el abajo firmante)\n   - 'di cui sopra' (el/lo mencionado anteriormente)\n   - 'in calce' (al pie del documento)\n\n7. CONGIUNTIVO PRESENTE/IMPERFETTO IN RELATIVE POSIZIONALI:\n   'Il candidato che abbia i requisiti necessari potrà...' (congiuntivo in relativa per esprimere potenzialità)\n   'Si cercano candidati che sappiano l'inglese.'",
+    "examples": [
+      {
+        "italian": "Con la presente si comunica che la domanda è stata accettata.",
+        "spanish": "Por la presente se comunica que la solicitud ha sido aceptada.",
+        "notes": "Fórmula epistolar burocrática típica. 'Con la presente' es una fórmula fija.",
+        "sentence": "Esempio: Lingua scritta formale e burocratica",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Ai sensi dell'art. 15 del regolamento, il sottoscritto chiede...",
+        "spanish": "En virtud del art. 15 del reglamento, el abajo firmante solicita...",
+        "notes": "'Ai sensi di' y 'il sottoscritto' son fórmulas burocráticas clásicas.",
+        "sentence": "Esempio: Lingua scritta formale e burocratica",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "In attesa di un Suo cortese riscontro, porgo distinti saluti.",
+        "spanish": "A la espera de su amable respuesta, le saluda atentamente.",
+        "notes": "Cierre formal de carta o email empresarial. 'Distinti saluti' es la fórmula más común.",
+        "sentence": "Esempio: Lingua scritta formale e burocratica",
+        "translation": "ver explicación"
+      }
+    ],
+    "pattern": "si è proceduto | è stato deliberato | il sottoscritto | in ottemperanza a",
+    "meaning": "lengua escrita formal y burocrática"
+  }
+]

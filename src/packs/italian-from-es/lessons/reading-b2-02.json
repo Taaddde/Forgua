@@ -1,0 +1,83 @@
+{
+  "id": "reading-b2-02",
+  "title": "Lettura: Il divario Nord-Sud",
+  "description": "Texto B2 sobre la brecha socioeconómica entre el Norte y el Sur de Italia: causas históricas, datos económicos y la dimensión cultural del problema.",
+  "level": "b2",
+  "category": "reading",
+  "items": [
+    {
+      "front": "il 'divario Nord-Sud' è probabilmente la questione socioeconomica più discussa della storia dell'Italia unita",
+      "back": "la 'brecha Norte-Sur' es probablemente la cuestión socioeconómica más discutida de la historia de la Italia unida",
+      "reading": "",
+      "explanation": "'Il divario' = la brecha, la diferencia. 'Probabilmente' = probablemente (modo que atenúa la afirmación). 'L'Italia unita' = la Italia unificada (desde 1861). El superlativo 'la più discussa' = la más discutida. Esta frase de apertura establece la importancia del tema con lenguaje académico pero accesible. 'Questione socioeconomica' = cuestión socioeconómica."
+    },
+    {
+      "front": "il PIL pro capite del Nord è quasi doppio rispetto a quello del Sud",
+      "back": "el PIB per cápita del Norte es casi el doble respecto al del Sur",
+      "reading": "",
+      "explanation": "'Il PIL' = el PIB (Prodotto Interno Lordo). 'Pro capite' = per cápita (latinismo directo). 'Quasi doppio' = casi el doble. 'Rispetto a' = respecto a (comparativo). 'Quello del Sud' = el del Sur (pronome dimostrativo). Vocabulario económico clave: PIL, disoccupazione, investimenti, competitività. En 2024, el PIB del Norte es efectivamente muy superior al del Sur."
+    },
+    {
+      "front": "si traducono in migrazione interna, cervelli in fuga verso il Nord e all'estero",
+      "back": "se traducen en migración interna, fuga de cerebros hacia el Norte y al extranjero",
+      "reading": "",
+      "explanation": "'Tradursi in' = traducirse en, convertirse en (consecuencia real). 'Migrazione interna' = migración interna (dentro de Italia, del Sur al Norte). 'Cervelli in fuga' = fuga de cerebros (literalmente: cerebros en fuga). 'Verso il Nord' = hacia el Norte. Esta migración interna es un problema histórico italiano: el movimento migratorio interno del siglo XX fue masivo (dal Sud verso Torino, Milano)."
+    },
+    {
+      "front": "una percezione diffusa di abbandono nelle comunità meridionali",
+      "back": "una percepción extendida de abandono en las comunidades meridionales",
+      "reading": "",
+      "explanation": "'Diffusa' = extendida, difundida (participio di 'diffondersi'). 'Abbandono' = abandono. 'Le comunità meridionali' = las comunidades del Sur (de 'meridionale' = meridional, del sur). 'Percezione' = percepción. Este vocabulario sociológico es característico del texto B2 sobre problemas sociales. 'Meridionale' es el adjetivo culto para 'del Sud'."
+    },
+    {
+      "front": "il processo di unificazione avvenne in modo squilibrato",
+      "back": "el proceso de unificación ocurrió de manera desequilibrada",
+      "reading": "",
+      "explanation": "'Avvenne' = ocurrió (passato remoto di 'avvenire', 3ª sg.). 'In modo squilibrato' = de manera desequilibrada. 'Squilibrato' = desequilibrado. La argumentación histórica: el Risorgimento (1860-1861) fue dirigido por el Piemonte y su modelo económico e institucional se impuso al Sur sin adaptación. Los historiadores 'meridionalisti' como Gramsci analizaron este desequilibrio."
+    },
+    {
+      "front": "una pluralità di dialetti che costituiscono delle vere e proprie lingue romanze",
+      "back": "una pluralidad de dialectos que constituyen verdaderas lenguas romances",
+      "reading": "",
+      "explanation": "'Una pluralità di' = una pluralidad de. 'Vere e proprie' = verdaderas y propias (expresión enfática: 'vere e proprie X' = auténticas X). 'Lingue romanze' = lenguas románicas. El texto señala que el napolitano, siciliano y calabrés no son simples dialectos sino lenguas romances con gramática propia. 'Costituire' = constituir (verbo formal)."
+    },
+    {
+      "front": "il dibattito sull'autonomia differenziata rischia di allargarlo ulteriormente",
+      "back": "el debate sobre la autonomía diferenciada corre el riesgo de ampliarlo aún más",
+      "reading": "",
+      "explanation": "'Rischia di + infinitivo' = corre el riesgo de, amenaza con. 'L'autonomia differenziata' = la autonomía diferenciada (reforma que daría más poderes a las regiones del Norte, muy debatida en Italia). 'Allargarlo ulteriormente' = ampliarlo aún más ('allargare' = ampliar, agrandar). Este cierre pesimista del texto sugiere que la situación puede empeorar, no mejorar."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El contexto histórico: la Italia unita e il divario",
+      "instruction": "El 'divario Nord-Sud' es un problema de 160 años. El texto analiza sus causas, datos y perspectivas. Nota el vocabulario económico-social: PIL, disoccupazione, migrazione, cervelli in fuga. ¿Hay una realidad similar en tu país?",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Vocabulario socioeconomico avanzato",
+      "instruction": "Identifica estas expresiones características del registro académico-periodístico italiano sobre temas socioeconómicos. ¿Cómo se diferencian de sus equivalentes coloquiales?",
+      "itemIndices": [2, 3, 5]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Análisis crítico del texto",
+      "instruction": "El texto presenta múltiples causas y perspectivas del divario. ¿Cuáles son las causas históricas? ¿Y las más recientes? ¿Cuál es la postura del autor sobre las soluciones posibles?",
+      "itemIndices": [4, 5, 6]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Argumentación y conectores B2",
+      "instruction": "Identifica los conectores argumentativos del texto (In termini economici, Le cause, C'è poi, La questione rimane aperta). ¿Cómo organiza el texto su argumento? ¿Hay solución implícita?",
+      "itemIndices": [0, 4, 6]
+    },
+    {
+      "type": "summary",
+      "title": "Lectura completada",
+      "instruction": "Vocabulario B2 aprendido: il divario, PIL pro capite, cervelli in fuga, squilibrato, una pluralità di, vere e proprie, rischiare di + infinitivo. TEMA CULTURAL: el 'problema del Mezzogiorno' es uno de los temas más debatidos de la política italiana. La propuesta de 'autonomia differenziata' es actual y polémica. Gramsci, meridionalista, analizó este problema en el siglo XX.",
+      "itemIndices": [0, 2, 6]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a1-02",
+  "title": "Avere: ho, hai, ha...",
+  "description": "El verbo 'tener' del italiano. Esencial para la edad, posesión y expresiones físicas. La H siempre es muda.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "io ho",
+      "back": "yo tengo",
+      "reading": "/ɔ/",
+      "explanation": "'Ho' — la H es completamente muda. Se pronuncia solo la 'o'. 'Ho un libro' = Tengo un libro. 'Ho fame' = Tengo hambre. La H existe solo para diferenciar de 'o' (=o conjunción)."
+    },
+    {
+      "front": "tu hai",
+      "back": "vos tenés / tú tienes",
+      "reading": "/ˈai/",
+      "explanation": "'Hai' — H muda, se pronuncia 'ai'. 'Hai un cane?' = ¿Tenés un perro? 'Quanti anni hai?' = ¿Cuántos años tenés? Atención: 'hai' ≠ 'hay' del español."
+    },
+    {
+      "front": "lui / lei ha",
+      "back": "él / ella tiene",
+      "reading": "/a/",
+      "explanation": "'Ha' — H muda, se pronuncia solo 'a'. 'Ha trent'anni' = Tiene treinta años. 'Lei ha una sorella' = Ella tiene una hermana. No confundir con la preposición 'a' (el contexto aclara)."
+    },
+    {
+      "front": "noi abbiamo",
+      "back": "nosotros tenemos",
+      "reading": "/abˈbjaːmo/",
+      "explanation": "'Abbiamo' — doble 'bb'. Pronunciar claramente la b larga. 'Abbiamo due figli' = Tenemos dos hijos. 'Non abbiamo tempo' = No tenemos tiempo."
+    },
+    {
+      "front": "voi avete",
+      "back": "vosotros/ustedes tienen",
+      "reading": "/aˈveːte/",
+      "explanation": "'Avete' — vuelve a la raíz 'av-'. 'Avete prenotato?' = ¿Tienen reserva? 'Avete capito?' = ¿Entendieron?"
+    },
+    {
+      "front": "loro hanno",
+      "back": "ellos / ellas tienen",
+      "reading": "/ˈanno/",
+      "explanation": "'Hanno' — H muda, doble 'n'. Pronunciar 'anno' (como 'año' sin el sonido ñ). 'Hanno tre figli' = Tienen tres hijos. No confundir con 'anno' (= año)."
+    },
+    {
+      "front": "Ho vent'anni.",
+      "back": "Tengo veinte años.",
+      "reading": "",
+      "explanation": "Para la edad: avere + número + anni. Nunca 'essere': ¡NO se dice 'sono vent'anni'! 'Quanti anni hai?' = ¿Cuántos años tenés? 'Vent'anni' = veinte años (apocopado ante vocal)."
+    },
+    {
+      "front": "Ho fame / sete / sonno",
+      "back": "Tengo hambre / sed / sueño",
+      "reading": "",
+      "explanation": "Expresiones con avere: fame (hambre), sete (sed), sonno (sueño), caldo (calor personal), freddo (frío personal), paura (miedo), fretta (prisa), ragione (razón). Nunca con essere."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Avere — la H es muda",
+      "instruction": "La característica más importante de avere: la H de ho/hai/ha/hanno es COMPLETAMENTE muda. Se pronuncia solo las vocales. Las 6 formas: ho, hai, ha, abbiamo, avete, hanno.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es la forma correcta?",
+      "instruction": "Elegí la forma de avere que corresponde a cada sujeto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "Conjugá avere",
+      "instruction": "Ves el pronombre en español. Escribí la forma correcta de avere.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Avere en contexto",
+      "instruction": "Ordená: anni / Ho / ventidue | fame / Abbiamo / molta / adesso",
+      "itemIndices": [6, 7]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Expresiones con avere",
+      "instruction": "Completá con la expresión correcta de avere: 'Non mangio — ___ molta ___' (tengo mucha hambre). '¿Quanti ___ ___?' (¿cuántos años tenés?)",
+      "itemIndices": [7, 6]
+    },
+    {
+      "type": "summary",
+      "title": "¡Avere dominado!",
+      "instruction": "ho(io), hai(tu), ha(lui/lei), abbiamo(noi), avete(voi), hanno(loro). H SIEMPRE MUDA. Edad: Ho 20 anni (nunca essere). Expresiones: ho fame/sete/sonno/caldo/freddo/paura/fretta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

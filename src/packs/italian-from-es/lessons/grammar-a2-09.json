@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a2-09",
+  "title": "Pronomi indiretti — mi, ti, gli, le",
+  "description": "Los pronombres de objeto indirecto responden a '¿a quién?'. La diferencia clave con el español: en italiano 'gli' = a él y 'le' = a ella. ¡No los confundas!",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "mi (a me) → Mi telefona ogni sera.",
+      "back": "me (a mí) → Me llama cada noche.",
+      "reading": "",
+      "explanation": "MI = objeto indirecto de primera persona. 'Mi ha scritto una lettera.' = Me escribió una carta. 'Mi piace l'italiano.' = Me gusta el italiano (me place a mí)."
+    },
+    {
+      "front": "ti (a te) → Ti mando un messaggio.",
+      "back": "te (a ti) → Te mando un mensaje.",
+      "reading": "",
+      "explanation": "TI = segunda persona singular. 'Ti ho comprato un regalo.' = Te compré un regalo. 'Ti piace la pizza?' = ¿Te gusta la pizza?"
+    },
+    {
+      "front": "gli (a lui) → Gli parlo domani.",
+      "back": "le (a él) → Le hablo mañana.",
+      "reading": "",
+      "explanation": "GLI = tercera persona masculina singular. EN ESPAÑOL: 'le' sirve para él y ella. EN ITALIANO: 'gli' = a él SOLAMENTE. 'Gli ho spiegato tutto.' = Le expliqué todo (a él)."
+    },
+    {
+      "front": "le (a lei) → Le ho detto la verità.",
+      "back": "le (a ella) → Le dije la verdad.",
+      "reading": "",
+      "explanation": "LE = tercera persona femenina singular. 'Le ho portato un fiore.' = Le traje una flor (a ella). OJO: 'le' sin mayúscula = a ella. 'Le' con mayúscula = a usted (formale)."
+    },
+    {
+      "front": "ci (a noi) → Ci hanno offerto un lavoro.",
+      "back": "nos (a nosotros) → Nos ofrecieron un trabajo.",
+      "reading": "",
+      "explanation": "CI = objeto indirecto de primera persona plural. 'Ci hanno spiegato le regole.' = Nos explicaron las reglas. También: reflexivo y partitivo."
+    },
+    {
+      "front": "vi (a voi) → Vi scrivo una email.",
+      "back": "os (a vosotros) → Os escribo un email.",
+      "reading": "",
+      "explanation": "VI = objeto indirecto de segunda persona plural. 'Vi ho mandato l'invito.' = Os mandé la invitación."
+    },
+    {
+      "front": "gli (a loro) → Gli ho mandato un messaggio.",
+      "back": "les (a ellos/ellas) → Les mandé un mensaje.",
+      "reading": "",
+      "explanation": "GLI también se usa para el plural (a loro) en el italiano contemporáneo hablado. La forma más formal es 'loro' (pospuesto): 'ho mandato loro un messaggio'. La forma 'gli' para todos es la tendencia actual."
+    },
+    {
+      "front": "piacere a → Mi piace / Ti piace",
+      "back": "gustar a → Me gusta / Te gusta",
+      "reading": "",
+      "explanation": "PIACERE usa los indiretti. 'Mi piace il calcio.' = Me gusta el fútbol. El sujeto real es 'il calcio' (gusta el fútbol a mí). 'Ti piacciono i film italiani?' = ¿Te gustan las películas italianas?"
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Los pronombres indiretti — tabla completa",
+      "instruction": "mi (a mí), ti (a ti), gli (a él), le (a ella), ci (a nos), vi (a vos), gli (a ellos). La gran diferencia: gli vs le para él vs ella.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "recall",
+      "title": "gli o le — ¿a él o a ella?",
+      "instruction": "Elige el pronombre correcto según si el destinatario es hombre o mujer.",
+      "itemIndices": [2, 3, 4, 5, 6]
+    },
+    {
+      "type": "introduce",
+      "title": "Gli para el plural y piacere",
+      "instruction": "En el italiano hablado, 'gli' también funciona para 'a ellos'. Y piacere es el verbo indirecto por excelencia.",
+      "itemIndices": [6, 7]
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Gli o le? ¿Correcto?",
+      "instruction": "Identifica si se usó el pronombre correcto.",
+      "itemIndices": [2, 3, 7]
+    },
+    {
+      "type": "recall",
+      "title": "Pronomi indiretti — completo",
+      "instruction": "Practica todos los pronombres indiretti.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "Pronomi indiretti — dominados",
+      "instruction": "La tabla: mi/ti/gli(lui)/le(lei)/ci/vi/gli(loro). En español 'le' sirve para ambos. En italiano: GLI = a él, LE = a ella. Nel passato prossimo, los indiretti NO causan concordancia del participio (diferente de los diretti). 'Mi piace' = me gusta — piacere siempre con indiretti.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

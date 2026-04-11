@@ -1,0 +1,2102 @@
+[
+  {
+    "word": "ciao",
+    "reading": "/ˈtʃao/",
+    "meanings": ["hola", "adiós (informal)"],
+    "pos": "interjection",
+    "level": "a1",
+    "tags": ["greetings", "informal"],
+    "examples": [
+      {
+        "text": "Ciao, come stai?",
+        "reading": "",
+        "translation": "Hola, ¿cómo estás?"
+      }
+    ]
+  },
+  {
+    "word": "buongiorno",
+    "reading": "/bwonˈdʒorno/",
+    "meanings": ["buenos días", "buen día"],
+    "pos": "interjection",
+    "level": "a1",
+    "tags": ["greetings", "formal"],
+    "examples": [
+      {
+        "text": "Buongiorno, signora!",
+        "reading": "",
+        "translation": "¡Buenos días, señora!"
+      }
+    ]
+  },
+  {
+    "word": "buonasera",
+    "reading": "/bwona'sera/",
+    "meanings": ["buenas tardes", "buenas noches (al llegar)"],
+    "pos": "interjection",
+    "level": "a1",
+    "tags": ["greetings", "formal"],
+    "examples": [
+      {
+        "text": "Buonasera a tutti!",
+        "reading": "",
+        "translation": "¡Buenas noches a todos!"
+      }
+    ]
+  },
+  {
+    "word": "buonanotte",
+    "reading": "/bwona'nɔtte/",
+    "meanings": ["buenas noches (al despedirse)"],
+    "pos": "interjection",
+    "level": "a1",
+    "tags": ["greetings", "farewells"],
+    "examples": [
+      {
+        "text": "Buonanotte, dormi bene!",
+        "reading": "",
+        "translation": "¡Buenas noches, duerme bien!"
+      }
+    ]
+  },
+  {
+    "word": "arrivederci",
+    "reading": "/arriˈvederˌtʃi/",
+    "meanings": ["hasta luego", "adiós (formal)"],
+    "pos": "interjection",
+    "level": "a1",
+    "tags": ["farewells", "formal"],
+    "examples": [
+      {
+        "text": "Arrivederci, a domani!",
+        "reading": "",
+        "translation": "Hasta luego, ¡hasta mañana!"
+      }
+    ]
+  },
+  {
+    "word": "salve",
+    "reading": "/ˈsalve/",
+    "meanings": ["hola (semi-formal)", "saludos"],
+    "pos": "interjection",
+    "level": "a1",
+    "tags": ["greetings", "neutral"],
+    "examples": [
+      {
+        "text": "Salve, come va?",
+        "reading": "",
+        "translation": "Hola, ¿cómo va?"
+      }
+    ]
+  },
+  {
+    "word": "prego",
+    "reading": "/ˈpreɡo/",
+    "meanings": ["de nada", "por favor (al invitar)", "adelante"],
+    "pos": "interjection",
+    "level": "a1",
+    "tags": ["greetings", "courtesy"],
+    "examples": [
+      {
+        "text": "Grazie! — Prego!",
+        "reading": "",
+        "translation": "¡Gracias! — ¡De nada!"
+      }
+    ]
+  },
+  {
+    "word": "grazie",
+    "reading": "/ˈɡrattsje/",
+    "meanings": ["gracias"],
+    "pos": "interjection",
+    "level": "a1",
+    "tags": ["greetings", "courtesy"],
+    "examples": [
+      {
+        "text": "Grazie mille!",
+        "reading": "",
+        "translation": "¡Muchísimas gracias!"
+      }
+    ]
+  },
+  {
+    "word": "per favore",
+    "reading": "/per faˈvore/",
+    "meanings": ["por favor"],
+    "pos": "expression",
+    "level": "a1",
+    "tags": ["greetings", "courtesy"],
+    "examples": [
+      {
+        "text": "Un caffè, per favore.",
+        "reading": "",
+        "translation": "Un café, por favor."
+      }
+    ]
+  },
+  {
+    "word": "scusi",
+    "reading": "/ˈskuːzi/",
+    "meanings": ["disculpe (formal)", "perdón"],
+    "pos": "interjection",
+    "level": "a1",
+    "tags": ["greetings", "formal", "courtesy"],
+    "examples": [
+      {
+        "text": "Scusi, dov'è la stazione?",
+        "reading": "",
+        "translation": "Disculpe, ¿dónde está la estación?"
+      }
+    ]
+  },
+  {
+    "word": "uno",
+    "reading": "/ˈuːno/",
+    "meanings": ["uno", "1"],
+    "pos": "numeral",
+    "level": "a1",
+    "tags": ["numbers"],
+    "examples": [
+      {
+        "text": "Ho un fratello.",
+        "reading": "",
+        "translation": "Tengo un hermano."
+      }
+    ]
+  },
+  {
+    "word": "due",
+    "reading": "/ˈduːe/",
+    "meanings": ["dos", "2"],
+    "pos": "numeral",
+    "level": "a1",
+    "tags": ["numbers"],
+    "examples": [
+      {
+        "text": "Ho due sorelle.",
+        "reading": "",
+        "translation": "Tengo dos hermanas."
+      }
+    ]
+  },
+  {
+    "word": "tre",
+    "reading": "/ˈtrɛ/",
+    "meanings": ["tres", "3"],
+    "pos": "numeral",
+    "level": "a1",
+    "tags": ["numbers"],
+    "examples": [
+      {
+        "text": "Sono le tre.",
+        "reading": "",
+        "translation": "Son las tres."
+      }
+    ]
+  },
+  {
+    "word": "quattro",
+    "reading": "/ˈkwattro/",
+    "meanings": ["cuatro", "4"],
+    "pos": "numeral",
+    "level": "a1",
+    "tags": ["numbers"],
+    "examples": [
+      {
+        "text": "Ci sono quattro stagioni.",
+        "reading": "",
+        "translation": "Hay cuatro estaciones."
+      }
+    ]
+  },
+  {
+    "word": "cinque",
+    "reading": "/ˈtʃiŋkwe/",
+    "meanings": ["cinco", "5"],
+    "pos": "numeral",
+    "level": "a1",
+    "tags": ["numbers"],
+    "examples": [
+      {
+        "text": "Ho cinque euro.",
+        "reading": "",
+        "translation": "Tengo cinco euros."
+      }
+    ]
+  },
+  {
+    "word": "sei",
+    "reading": "/ˈsɛi/",
+    "meanings": ["seis", "6"],
+    "pos": "numeral",
+    "level": "a1",
+    "tags": ["numbers"],
+    "examples": [
+      {
+        "text": "Sono le sei di mattina.",
+        "reading": "",
+        "translation": "Son las seis de la mañana."
+      }
+    ]
+  },
+  {
+    "word": "sette",
+    "reading": "/ˈsɛtte/",
+    "meanings": ["siete", "7"],
+    "pos": "numeral",
+    "level": "a1",
+    "tags": ["numbers"],
+    "examples": [
+      {
+        "text": "La settimana ha sette giorni.",
+        "reading": "",
+        "translation": "La semana tiene siete días."
+      }
+    ]
+  },
+  {
+    "word": "otto",
+    "reading": "/ˈɔtto/",
+    "meanings": ["ocho", "8"],
+    "pos": "numeral",
+    "level": "a1",
+    "tags": ["numbers"],
+    "examples": [
+      {
+        "text": "Il treno parte alle otto.",
+        "reading": "",
+        "translation": "El tren sale a las ocho."
+      }
+    ]
+  },
+  {
+    "word": "nove",
+    "reading": "/ˈnɔːve/",
+    "meanings": ["nueve", "9"],
+    "pos": "numeral",
+    "level": "a1",
+    "tags": ["numbers"],
+    "examples": [
+      {
+        "text": "Ho nove anni.",
+        "reading": "",
+        "translation": "Tengo nueve años."
+      }
+    ]
+  },
+  {
+    "word": "dieci",
+    "reading": "/ˈdjɛtʃi/",
+    "meanings": ["diez", "10"],
+    "pos": "numeral",
+    "level": "a1",
+    "tags": ["numbers"],
+    "examples": [
+      {
+        "text": "Costa dieci euro.",
+        "reading": "",
+        "translation": "Cuesta diez euros."
+      }
+    ]
+  },
+  {
+    "word": "undici",
+    "reading": "/ˈunditʃi/",
+    "meanings": ["once", "11"],
+    "pos": "numeral",
+    "level": "a1",
+    "tags": ["numbers"],
+    "examples": [
+      {
+        "text": "Sono le undici.",
+        "reading": "",
+        "translation": "Son las once."
+      }
+    ]
+  },
+  {
+    "word": "dodici",
+    "reading": "/ˈdoːditʃi/",
+    "meanings": ["doce", "12"],
+    "pos": "numeral",
+    "level": "a1",
+    "tags": ["numbers"],
+    "examples": [
+      {
+        "text": "A mezzogiorno, sono le dodici.",
+        "reading": "",
+        "translation": "Al mediodía, son las doce."
+      }
+    ]
+  },
+  {
+    "word": "venti",
+    "reading": "/ˈventi/",
+    "meanings": ["veinte", "20"],
+    "pos": "numeral",
+    "level": "a1",
+    "tags": ["numbers"],
+    "examples": [
+      {
+        "text": "Ho venti anni.",
+        "reading": "",
+        "translation": "Tengo veinte años."
+      }
+    ]
+  },
+  {
+    "word": "trenta",
+    "reading": "/ˈtrenta/",
+    "meanings": ["treinta", "30"],
+    "pos": "numeral",
+    "level": "a1",
+    "tags": ["numbers"],
+    "examples": [
+      {
+        "text": "Mio padre ha trenta anni.",
+        "reading": "",
+        "translation": "Mi padre tiene treinta años."
+      }
+    ]
+  },
+  {
+    "word": "cento",
+    "reading": "/ˈtʃento/",
+    "meanings": ["cien", "100"],
+    "pos": "numeral",
+    "level": "a1",
+    "tags": ["numbers"],
+    "examples": [
+      {
+        "text": "Costa cento euro.",
+        "reading": "",
+        "translation": "Cuesta cien euros."
+      }
+    ]
+  },
+  {
+    "word": "lunedì",
+    "reading": "/luneˈdi/",
+    "meanings": ["lunes"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["days", "time"],
+    "examples": [
+      {
+        "text": "Lunedì vado a scuola.",
+        "reading": "",
+        "translation": "El lunes voy a la escuela."
+      }
+    ]
+  },
+  {
+    "word": "martedì",
+    "reading": "/marteˈdi/",
+    "meanings": ["martes"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["days", "time"],
+    "examples": [
+      {
+        "text": "Martedì ho lezione di italiano.",
+        "reading": "",
+        "translation": "El martes tengo clase de italiano."
+      }
+    ]
+  },
+  {
+    "word": "mercoledì",
+    "reading": "/merkoleˈdi/",
+    "meanings": ["miércoles"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["days", "time"],
+    "examples": [
+      {
+        "text": "Mercoledì andiamo al cinema.",
+        "reading": "",
+        "translation": "El miércoles vamos al cine."
+      }
+    ]
+  },
+  {
+    "word": "giovedì",
+    "reading": "/dʒoveˈdi/",
+    "meanings": ["jueves"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["days", "time"],
+    "examples": [
+      {
+        "text": "Giovedì sera c'è la partita.",
+        "reading": "",
+        "translation": "El jueves a la noche hay partido."
+      }
+    ]
+  },
+  {
+    "word": "venerdì",
+    "reading": "/venerˈdi/",
+    "meanings": ["viernes"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["days", "time"],
+    "examples": [
+      {
+        "text": "Venerdì usciamo con gli amici.",
+        "reading": "",
+        "translation": "El viernes salimos con los amigos."
+      }
+    ]
+  },
+  {
+    "word": "sabato",
+    "reading": "/ˈsaːbato/",
+    "meanings": ["sábado"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["days", "time"],
+    "examples": [
+      {
+        "text": "Sabato mattina dormo fino a tardi.",
+        "reading": "",
+        "translation": "El sábado por la mañana duermo hasta tarde."
+      }
+    ]
+  },
+  {
+    "word": "domenica",
+    "reading": "/doˈmenika/",
+    "meanings": ["domingo"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["days", "time"],
+    "examples": [
+      {
+        "text": "La domenica mangiamo in famiglia.",
+        "reading": "",
+        "translation": "Los domingos comemos en familia."
+      }
+    ]
+  },
+  {
+    "word": "gennaio",
+    "reading": "/dʒenˈnaːjo/",
+    "meanings": ["enero"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["months", "time"],
+    "examples": [
+      {
+        "text": "Il mio compleanno è a gennaio.",
+        "reading": "",
+        "translation": "Mi cumpleaños es en enero."
+      }
+    ]
+  },
+  {
+    "word": "febbraio",
+    "reading": "/febˈbraːjo/",
+    "meanings": ["febrero"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["months", "time"],
+    "examples": [
+      {
+        "text": "San Valentino è il 14 febbraio.",
+        "reading": "",
+        "translation": "San Valentín es el 14 de febrero."
+      }
+    ]
+  },
+  {
+    "word": "marzo",
+    "reading": "/ˈmartso/",
+    "meanings": ["marzo"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["months", "time"],
+    "examples": [
+      {
+        "text": "La primavera inizia a marzo.",
+        "reading": "",
+        "translation": "La primavera empieza en marzo."
+      }
+    ]
+  },
+  {
+    "word": "aprile",
+    "reading": "/aˈpriːle/",
+    "meanings": ["abril"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["months", "time"],
+    "examples": [
+      {
+        "text": "Aprile, dolce dormire.",
+        "reading": "",
+        "translation": "Abril, dulce dormir (dicho italiano)."
+      }
+    ]
+  },
+  {
+    "word": "maggio",
+    "reading": "/ˈmaddʒo/",
+    "meanings": ["mayo"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["months", "time"],
+    "examples": [
+      {
+        "text": "A maggio fa bel tempo.",
+        "reading": "",
+        "translation": "En mayo hace buen tiempo."
+      }
+    ]
+  },
+  {
+    "word": "la madre",
+    "reading": "/la ˈmaːdre/",
+    "meanings": ["la madre"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["family"],
+    "examples": [
+      {
+        "text": "Mia madre si chiama Anna.",
+        "reading": "",
+        "translation": "Mi madre se llama Anna."
+      }
+    ]
+  },
+  {
+    "word": "il padre",
+    "reading": "/il ˈpaːdre/",
+    "meanings": ["el padre"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["family"],
+    "examples": [
+      {
+        "text": "Mio padre lavora in ufficio.",
+        "reading": "",
+        "translation": "Mi padre trabaja en una oficina."
+      }
+    ]
+  },
+  {
+    "word": "il fratello",
+    "reading": "/il fraˈtɛllo/",
+    "meanings": ["el hermano"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["family"],
+    "examples": [
+      {
+        "text": "Ho un fratello maggiore.",
+        "reading": "",
+        "translation": "Tengo un hermano mayor."
+      }
+    ]
+  },
+  {
+    "word": "la sorella",
+    "reading": "/la soˈrɛlla/",
+    "meanings": ["la hermana"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["family"],
+    "examples": [
+      {
+        "text": "Mia sorella è molto simpatica.",
+        "reading": "",
+        "translation": "Mi hermana es muy simpática."
+      }
+    ]
+  },
+  {
+    "word": "il figlio",
+    "reading": "/il ˈfiʎʎo/",
+    "meanings": ["el hijo"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["family"],
+    "examples": [
+      {
+        "text": "Ho un figlio di tre anni.",
+        "reading": "",
+        "translation": "Tengo un hijo de tres años."
+      }
+    ]
+  },
+  {
+    "word": "la figlia",
+    "reading": "/la ˈfiʎʎa/",
+    "meanings": ["la hija"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["family"],
+    "examples": [
+      {
+        "text": "La mia figlia studia musica.",
+        "reading": "",
+        "translation": "Mi hija estudia música."
+      }
+    ]
+  },
+  {
+    "word": "il nonno",
+    "reading": "/il ˈnɔnno/",
+    "meanings": ["el abuelo"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["family"],
+    "examples": [
+      {
+        "text": "Mio nonno ha ottant'anni.",
+        "reading": "",
+        "translation": "Mi abuelo tiene ochenta años."
+      }
+    ]
+  },
+  {
+    "word": "la nonna",
+    "reading": "/la ˈnɔnna/",
+    "meanings": ["la abuela"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["family"],
+    "examples": [
+      {
+        "text": "La nonna cucina benissimo.",
+        "reading": "",
+        "translation": "La abuela cocina muy bien."
+      }
+    ]
+  },
+  {
+    "word": "lo zio",
+    "reading": "/lo ˈdziːo/",
+    "meanings": ["el tío"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["family"],
+    "examples": [
+      {
+        "text": "Mio zio vive a Roma.",
+        "reading": "",
+        "translation": "Mi tío vive en Roma."
+      }
+    ]
+  },
+  {
+    "word": "la zia",
+    "reading": "/la ˈdziːa/",
+    "meanings": ["la tía"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["family"],
+    "examples": [
+      {
+        "text": "Mia zia è molto gentile.",
+        "reading": "",
+        "translation": "Mi tía es muy amable."
+      }
+    ]
+  },
+  {
+    "word": "il cugino / la cugina",
+    "reading": "/il kuˈdʒiːno / la kuˈdʒiːna/",
+    "meanings": ["el primo / la prima"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["family"],
+    "examples": [
+      {
+        "text": "Ho molti cugini.",
+        "reading": "",
+        "translation": "Tengo muchos primos."
+      }
+    ]
+  },
+  {
+    "word": "il marito",
+    "reading": "/il maˈriːto/",
+    "meanings": ["el marido", "el esposo"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["family"],
+    "examples": [
+      {
+        "text": "Mio marito si chiama Luca.",
+        "reading": "",
+        "translation": "Mi esposo se llama Luca."
+      }
+    ]
+  },
+  {
+    "word": "la moglie",
+    "reading": "/la ˈmɔʎʎe/",
+    "meanings": ["la esposa", "la mujer"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["family"],
+    "examples": [
+      {
+        "text": "Sua moglie è medica.",
+        "reading": "",
+        "translation": "Su esposa es médica."
+      }
+    ]
+  },
+  {
+    "word": "rosso",
+    "reading": "/ˈrɔsso/",
+    "meanings": ["rojo"],
+    "pos": "adjective",
+    "level": "a1",
+    "tags": ["colors"],
+    "examples": [
+      {
+        "text": "La macchina è rossa.",
+        "reading": "",
+        "translation": "El auto es rojo."
+      }
+    ]
+  },
+  {
+    "word": "bianco",
+    "reading": "/ˈbjaŋko/",
+    "meanings": ["blanco"],
+    "pos": "adjective",
+    "level": "a1",
+    "tags": ["colors"],
+    "examples": [
+      {
+        "text": "Il vino bianco è buono.",
+        "reading": "",
+        "translation": "El vino blanco es bueno."
+      }
+    ]
+  },
+  {
+    "word": "nero",
+    "reading": "/ˈnɛːro/",
+    "meanings": ["negro"],
+    "pos": "adjective",
+    "level": "a1",
+    "tags": ["colors"],
+    "examples": [
+      {
+        "text": "Ho un gatto nero.",
+        "reading": "",
+        "translation": "Tengo un gato negro."
+      }
+    ]
+  },
+  {
+    "word": "blu",
+    "reading": "/ˈbluː/",
+    "meanings": ["azul (oscuro)", "azul"],
+    "pos": "adjective",
+    "level": "a1",
+    "tags": ["colors"],
+    "examples": [
+      {
+        "text": "Il mare è blu.",
+        "reading": "",
+        "translation": "El mar es azul."
+      }
+    ]
+  },
+  {
+    "word": "verde",
+    "reading": "/ˈverde/",
+    "meanings": ["verde"],
+    "pos": "adjective",
+    "level": "a1",
+    "tags": ["colors"],
+    "examples": [
+      {
+        "text": "L'erba è verde.",
+        "reading": "",
+        "translation": "El pasto es verde."
+      }
+    ]
+  },
+  {
+    "word": "giallo",
+    "reading": "/ˈdʒallo/",
+    "meanings": ["amarillo"],
+    "pos": "adjective",
+    "level": "a1",
+    "tags": ["colors"],
+    "examples": [
+      {
+        "text": "Il sole è giallo.",
+        "reading": "",
+        "translation": "El sol es amarillo."
+      }
+    ]
+  },
+  {
+    "word": "arancione",
+    "reading": "/aranˈtʃone/",
+    "meanings": ["naranja", "anaranjado"],
+    "pos": "adjective",
+    "level": "a1",
+    "tags": ["colors"],
+    "examples": [
+      {
+        "text": "La carota è arancione.",
+        "reading": "",
+        "translation": "La zanahoria es naranja."
+      }
+    ]
+  },
+  {
+    "word": "viola",
+    "reading": "/ˈvjɔːla/",
+    "meanings": ["violeta", "morado"],
+    "pos": "adjective",
+    "level": "a1",
+    "tags": ["colors"],
+    "examples": [
+      {
+        "text": "Mi piace il colore viola.",
+        "reading": "",
+        "translation": "Me gusta el color violeta."
+      }
+    ]
+  },
+  {
+    "word": "rosa",
+    "reading": "/ˈrɔːza/",
+    "meanings": ["rosado", "rosa"],
+    "pos": "adjective",
+    "level": "a1",
+    "tags": ["colors"],
+    "examples": [
+      {
+        "text": "La sua borsa è rosa.",
+        "reading": "",
+        "translation": "Su bolso es rosado."
+      }
+    ]
+  },
+  {
+    "word": "grigio",
+    "reading": "/ˈɡriːdʒo/",
+    "meanings": ["gris"],
+    "pos": "adjective",
+    "level": "a1",
+    "tags": ["colors"],
+    "examples": [
+      {
+        "text": "Il cielo è grigio oggi.",
+        "reading": "",
+        "translation": "El cielo está gris hoy."
+      }
+    ]
+  },
+  {
+    "word": "la pizza",
+    "reading": "/la ˈpittsa/",
+    "meanings": ["la pizza"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["food", "italian-culture"],
+    "examples": [
+      {
+        "text": "La pizza napoletana è famosa nel mondo.",
+        "reading": "",
+        "translation": "La pizza napolitana es famosa en el mundo."
+      }
+    ]
+  },
+  {
+    "word": "la pasta",
+    "reading": "/la ˈpasta/",
+    "meanings": ["la pasta", "los fideos"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["food"],
+    "examples": [
+      {
+        "text": "Mangio la pasta ogni giorno.",
+        "reading": "",
+        "translation": "Como pasta todos los días."
+      }
+    ]
+  },
+  {
+    "word": "l'acqua",
+    "reading": "/ˈlakkwa/",
+    "meanings": ["el agua"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["drinks"],
+    "examples": [
+      {
+        "text": "Bevo un litro d'acqua al giorno.",
+        "reading": "",
+        "translation": "Bebo un litro de agua al día."
+      }
+    ]
+  },
+  {
+    "word": "il caffè",
+    "reading": "/il kafˈfɛ/",
+    "meanings": ["el café"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["drinks", "italian-culture"],
+    "examples": [
+      {
+        "text": "Gli italiani bevono molto caffè.",
+        "reading": "",
+        "translation": "Los italianos beben mucho café."
+      }
+    ]
+  },
+  {
+    "word": "il vino",
+    "reading": "/il ˈviːno/",
+    "meanings": ["el vino"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["drinks"],
+    "examples": [
+      {
+        "text": "Un bicchiere di vino rosso, per favore.",
+        "reading": "",
+        "translation": "Una copa de vino tinto, por favor."
+      }
+    ]
+  },
+  {
+    "word": "il pane",
+    "reading": "/il ˈpaːne/",
+    "meanings": ["el pan"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["food"],
+    "examples": [
+      {
+        "text": "Il pane fresco è buonissimo.",
+        "reading": "",
+        "translation": "El pan fresco es riquísimo."
+      }
+    ]
+  },
+  {
+    "word": "il formaggio",
+    "reading": "/il forˈmaddʒo/",
+    "meanings": ["el queso"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["food"],
+    "examples": [
+      {
+        "text": "Il parmigiano è un formaggio italiano.",
+        "reading": "",
+        "translation": "El parmesano es un queso italiano."
+      }
+    ]
+  },
+  {
+    "word": "la frutta",
+    "reading": "/la ˈfrutta/",
+    "meanings": ["la fruta"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["food"],
+    "examples": [
+      {
+        "text": "Mangio molta frutta.",
+        "reading": "",
+        "translation": "Como mucha fruta."
+      }
+    ]
+  },
+  {
+    "word": "la verdura",
+    "reading": "/la verˈduːra/",
+    "meanings": ["la verdura", "las verduras"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["food"],
+    "examples": [
+      {
+        "text": "La verdura fa bene alla salute.",
+        "reading": "",
+        "translation": "Las verduras son buenas para la salud."
+      }
+    ]
+  },
+  {
+    "word": "la carne",
+    "reading": "/la ˈkarne/",
+    "meanings": ["la carne"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["food"],
+    "examples": [
+      {
+        "text": "Non mangio carne.",
+        "reading": "",
+        "translation": "No como carne."
+      }
+    ]
+  },
+  {
+    "word": "il pesce",
+    "reading": "/il ˈpeʃʃe/",
+    "meanings": ["el pescado", "el pez"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["food"],
+    "examples": [
+      {
+        "text": "Il venerdì mangiamo pesce.",
+        "reading": "",
+        "translation": "Los viernes comemos pescado."
+      }
+    ]
+  },
+  {
+    "word": "il latte",
+    "reading": "/il ˈlatte/",
+    "meanings": ["la leche"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["drinks", "food"],
+    "examples": [
+      {
+        "text": "Il caffellatte è latte e caffè.",
+        "reading": "",
+        "translation": "El café con leche es leche y café."
+      }
+    ]
+  },
+  {
+    "word": "il tè",
+    "reading": "/il ˈtɛ/",
+    "meanings": ["el té"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["drinks"],
+    "examples": [
+      {
+        "text": "Bevo il tè con limone.",
+        "reading": "",
+        "translation": "Bebo el té con limón."
+      }
+    ]
+  },
+  {
+    "word": "la birra",
+    "reading": "/la ˈbirra/",
+    "meanings": ["la cerveza"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["drinks"],
+    "examples": [
+      {
+        "text": "Una birra fredda, per favore.",
+        "reading": "",
+        "translation": "Una cerveza fría, por favor."
+      }
+    ]
+  },
+  {
+    "word": "il pomodoro",
+    "reading": "/il pomoˈdɔːro/",
+    "meanings": ["el tomate"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["food", "vegetables"],
+    "examples": [
+      {
+        "text": "La salsa di pomodoro è ottima sulla pasta.",
+        "reading": "",
+        "translation": "La salsa de tomate es excelente con la pasta."
+      }
+    ]
+  },
+  {
+    "word": "la mela",
+    "reading": "/la ˈmɛːla/",
+    "meanings": ["la manzana"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["food", "fruit"],
+    "examples": [
+      {
+        "text": "Una mela al giorno toglie il medico di torno.",
+        "reading": "",
+        "translation": "Una manzana al día aleja al médico (proverbio)."
+      }
+    ]
+  },
+  {
+    "word": "l'arancia",
+    "reading": "/laˈrantʃa/",
+    "meanings": ["la naranja"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["food", "fruit"],
+    "examples": [
+      {
+        "text": "Il succo d'arancia è fresco.",
+        "reading": "",
+        "translation": "El jugo de naranja está fresco."
+      }
+    ]
+  },
+  {
+    "word": "la casa",
+    "reading": "/la ˈkaːza/",
+    "meanings": ["la casa"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["house"],
+    "examples": [
+      {
+        "text": "La mia casa è grande.",
+        "reading": "",
+        "translation": "Mi casa es grande."
+      }
+    ]
+  },
+  {
+    "word": "la camera",
+    "reading": "/la ˈkamera/",
+    "meanings": ["el dormitorio", "la habitación"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["house"],
+    "examples": [
+      {
+        "text": "La mia camera ha una finestra grande.",
+        "reading": "",
+        "translation": "Mi dormitorio tiene una ventana grande."
+      }
+    ]
+  },
+  {
+    "word": "la cucina",
+    "reading": "/la kuˈtʃiːna/",
+    "meanings": ["la cocina"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["house"],
+    "examples": [
+      {
+        "text": "Cucino in cucina ogni sera.",
+        "reading": "",
+        "translation": "Cocino en la cocina cada noche."
+      }
+    ]
+  },
+  {
+    "word": "il bagno",
+    "reading": "/il ˈbaɲɲo/",
+    "meanings": ["el baño"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["house"],
+    "examples": [
+      {
+        "text": "Il bagno è in fondo al corridoio.",
+        "reading": "",
+        "translation": "El baño está al final del pasillo."
+      }
+    ]
+  },
+  {
+    "word": "il salotto",
+    "reading": "/il saˈlɔtto/",
+    "meanings": ["el salón", "la sala de estar"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["house"],
+    "examples": [
+      {
+        "text": "Guardiamo la TV in salotto.",
+        "reading": "",
+        "translation": "Miramos la televisión en el salón."
+      }
+    ]
+  },
+  {
+    "word": "la finestra",
+    "reading": "/la fiˈnestra/",
+    "meanings": ["la ventana"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["house"],
+    "examples": [
+      {
+        "text": "Apri la finestra, per favore.",
+        "reading": "",
+        "translation": "Abre la ventana, por favor."
+      }
+    ]
+  },
+  {
+    "word": "la porta",
+    "reading": "/la ˈpɔrta/",
+    "meanings": ["la puerta"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["house"],
+    "examples": [
+      {
+        "text": "Chiudi la porta!",
+        "reading": "",
+        "translation": "¡Cierra la puerta!"
+      }
+    ]
+  },
+  {
+    "word": "il tavolo",
+    "reading": "/il ˈtaːvolo/",
+    "meanings": ["la mesa"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["house", "furniture"],
+    "examples": [
+      {
+        "text": "Mangiamo al tavolo.",
+        "reading": "",
+        "translation": "Comemos en la mesa."
+      }
+    ]
+  },
+  {
+    "word": "la sedia",
+    "reading": "/la ˈseːdja/",
+    "meanings": ["la silla"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["house", "furniture"],
+    "examples": [
+      {
+        "text": "Siediti su questa sedia.",
+        "reading": "",
+        "translation": "Siéntate en esta silla."
+      }
+    ]
+  },
+  {
+    "word": "il letto",
+    "reading": "/il ˈlɛtto/",
+    "meanings": ["la cama"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["house", "furniture"],
+    "examples": [
+      {
+        "text": "Vado a letto tardi.",
+        "reading": "",
+        "translation": "Me voy a la cama tarde."
+      }
+    ]
+  },
+  {
+    "word": "la città",
+    "reading": "/la tʃitˈta/",
+    "meanings": ["la ciudad"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["places", "city"],
+    "examples": [
+      {
+        "text": "Roma è una città bellissima.",
+        "reading": "",
+        "translation": "Roma es una ciudad hermosísima."
+      }
+    ]
+  },
+  {
+    "word": "la via",
+    "reading": "/la ˈviːa/",
+    "meanings": ["la calle", "la vía"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["places", "city"],
+    "examples": [
+      {
+        "text": "Abito in via Garibaldi.",
+        "reading": "",
+        "translation": "Vivo en la calle Garibaldi."
+      }
+    ]
+  },
+  {
+    "word": "la piazza",
+    "reading": "/la ˈpjattsa/",
+    "meanings": ["la plaza"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["places", "city"],
+    "examples": [
+      {
+        "text": "Ci vediamo in piazza alle sei.",
+        "reading": "",
+        "translation": "Nos vemos en la plaza a las seis."
+      }
+    ]
+  },
+  {
+    "word": "la stazione",
+    "reading": "/la statˈtsjone/",
+    "meanings": ["la estación"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["places", "transport"],
+    "examples": [
+      {
+        "text": "La stazione è vicino al centro.",
+        "reading": "",
+        "translation": "La estación está cerca del centro."
+      }
+    ]
+  },
+  {
+    "word": "l'aeroporto",
+    "reading": "/laeˈrɔːporto/",
+    "meanings": ["el aeropuerto"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["places", "transport"],
+    "examples": [
+      {
+        "text": "L'aeroporto è lontano dalla città.",
+        "reading": "",
+        "translation": "El aeropuerto está lejos de la ciudad."
+      }
+    ]
+  },
+  {
+    "word": "l'hotel",
+    "reading": "/loˈtɛl/",
+    "meanings": ["el hotel"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["places", "travel"],
+    "examples": [
+      {
+        "text": "L'hotel è in centro città.",
+        "reading": "",
+        "translation": "El hotel está en el centro de la ciudad."
+      }
+    ]
+  },
+  {
+    "word": "il ristorante",
+    "reading": "/il ristoˈrante/",
+    "meanings": ["el restaurante"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["places", "food"],
+    "examples": [
+      {
+        "text": "Stasera andiamo al ristorante.",
+        "reading": "",
+        "translation": "Esta noche vamos al restaurante."
+      }
+    ]
+  },
+  {
+    "word": "la scuola",
+    "reading": "/la ˈskwɔːla/",
+    "meanings": ["la escuela"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["places", "education"],
+    "examples": [
+      {
+        "text": "I bambini vanno a scuola ogni giorno.",
+        "reading": "",
+        "translation": "Los niños van a la escuela todos los días."
+      }
+    ]
+  },
+  {
+    "word": "l'ospedale",
+    "reading": "/lospˈdaːle/",
+    "meanings": ["el hospital"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["places", "health"],
+    "examples": [
+      {
+        "text": "Il medico lavora in ospedale.",
+        "reading": "",
+        "translation": "El médico trabaja en el hospital."
+      }
+    ]
+  },
+  {
+    "word": "la chiesa",
+    "reading": "/la ˈkjɛːza/",
+    "meanings": ["la iglesia"],
+    "pos": "noun",
+    "level": "a1",
+    "tags": ["places", "religion"],
+    "examples": [
+      {
+        "text": "La chiesa è in centro.",
+        "reading": "",
+        "translation": "La iglesia está en el centro."
+      }
+    ]
+  },
+  {
+    "word": "essere",
+    "reading": "/ˈɛssere/",
+    "meanings": ["ser", "estar"],
+    "pos": "verb",
+    "level": "a1",
+    "tags": ["verbs", "essential", "irregular"],
+    "examples": [
+      {
+        "text": "Sono stanco.",
+        "reading": "",
+        "translation": "Estoy cansado."
+      }
+    ]
+  },
+  {
+    "word": "avere",
+    "reading": "/aˈveːre/",
+    "meanings": ["tener", "haber"],
+    "pos": "verb",
+    "level": "a1",
+    "tags": ["verbs", "essential", "irregular"],
+    "examples": [
+      {
+        "text": "Ho ventidue anni.",
+        "reading": "",
+        "translation": "Tengo veintidós años."
+      }
+    ]
+  },
+  {
+    "word": "fare",
+    "reading": "/ˈfaːre/",
+    "meanings": ["hacer", "dar (tiempo)"],
+    "pos": "verb",
+    "level": "a1",
+    "tags": ["verbs", "essential", "irregular"],
+    "examples": [
+      {
+        "text": "Che cosa fai?",
+        "reading": "",
+        "translation": "¿Qué hacés?"
+      }
+    ]
+  },
+  {
+    "word": "andare",
+    "reading": "/anˈdaːre/",
+    "meanings": ["ir"],
+    "pos": "verb",
+    "level": "a1",
+    "tags": ["verbs", "essential", "irregular"],
+    "examples": [
+      {
+        "text": "Vado a casa.",
+        "reading": "",
+        "translation": "Voy a casa."
+      }
+    ]
+  },
+  {
+    "word": "venire",
+    "reading": "/veˈniːre/",
+    "meanings": ["venir"],
+    "pos": "verb",
+    "level": "a1",
+    "tags": ["verbs", "essential", "irregular"],
+    "examples": [
+      {
+        "text": "Vieni con me?",
+        "reading": "",
+        "translation": "¿Venís conmigo?"
+      }
+    ]
+  },
+  {
+    "word": "mangiare",
+    "reading": "/manˈdʒaːre/",
+    "meanings": ["comer"],
+    "pos": "verb",
+    "level": "a1",
+    "tags": ["verbs", "regular-are"],
+    "examples": [
+      {
+        "text": "Mangio la pasta.",
+        "reading": "",
+        "translation": "Como pasta."
+      }
+    ]
+  },
+  {
+    "word": "bere",
+    "reading": "/ˈbɛːre/",
+    "meanings": ["beber", "tomar"],
+    "pos": "verb",
+    "level": "a1",
+    "tags": ["verbs", "irregular"],
+    "examples": [
+      {
+        "text": "Bevo acqua.",
+        "reading": "",
+        "translation": "Bebo agua."
+      }
+    ]
+  },
+  {
+    "word": "parlare",
+    "reading": "/parˈlaːre/",
+    "meanings": ["hablar"],
+    "pos": "verb",
+    "level": "a1",
+    "tags": ["verbs", "regular-are"],
+    "examples": [
+      {
+        "text": "Parlo italiano e spagnolo.",
+        "reading": "",
+        "translation": "Hablo italiano y español."
+      }
+    ]
+  },
+  {
+    "word": "lavorare",
+    "reading": "/lavoˈraːre/",
+    "meanings": ["trabajar"],
+    "pos": "verb",
+    "level": "a1",
+    "tags": ["verbs", "regular-are"],
+    "examples": [
+      {
+        "text": "Lavoro in un ufficio.",
+        "reading": "",
+        "translation": "Trabajo en una oficina."
+      }
+    ]
+  },
+  {
+    "word": "studiare",
+    "reading": "/stuˈdjaːre/",
+    "meanings": ["estudiar"],
+    "pos": "verb",
+    "level": "a1",
+    "tags": ["verbs", "regular-are"],
+    "examples": [
+      {
+        "text": "Studio italiano ogni giorno.",
+        "reading": "",
+        "translation": "Estudio italiano todos los días."
+      }
+    ]
+  },
+  {
+    "word": "leggere",
+    "reading": "/ˈlɛddʒere/",
+    "meanings": ["leer"],
+    "pos": "verb",
+    "level": "a1",
+    "tags": ["verbs", "regular-ere"],
+    "examples": [
+      {
+        "text": "Leggo un libro ogni settimana.",
+        "reading": "",
+        "translation": "Leo un libro cada semana."
+      }
+    ]
+  },
+  {
+    "word": "scrivere",
+    "reading": "/ˈskriːvere/",
+    "meanings": ["escribir"],
+    "pos": "verb",
+    "level": "a1",
+    "tags": ["verbs", "regular-ere"],
+    "examples": [
+      {
+        "text": "Scrivo una lettera.",
+        "reading": "",
+        "translation": "Escribo una carta."
+      }
+    ]
+  },
+  {
+    "word": "dormire",
+    "reading": "/dorˈmiːre/",
+    "meanings": ["dormir"],
+    "pos": "verb",
+    "level": "a1",
+    "tags": ["verbs", "regular-ire"],
+    "examples": [
+      {
+        "text": "Dormo otto ore per notte.",
+        "reading": "",
+        "translation": "Duermo ocho horas por noche."
+      }
+    ]
+  },
+  {
+    "word": "capire",
+    "reading": "/kaˈpiːre/",
+    "meanings": ["entender", "comprender"],
+    "pos": "verb",
+    "level": "a1",
+    "tags": ["verbs", "regular-ire", "isc-group"],
+    "examples": [
+      {
+        "text": "Capisco l'italiano.",
+        "reading": "",
+        "translation": "Entiendo el italiano."
+      }
+    ]
+  },
+  {
+    "word": "potere",
+    "reading": "/poˈteːre/",
+    "meanings": ["poder"],
+    "pos": "verb",
+    "level": "a1",
+    "tags": ["verbs", "modal"],
+    "examples": [
+      {
+        "text": "Posso aiutarti?",
+        "reading": "",
+        "translation": "¿Puedo ayudarte?"
+      }
+    ]
+  },
+  {
+    "word": "bello",
+    "reading": "/ˈbɛllo/",
+    "meanings": ["bello", "hermoso", "lindo"],
+    "pos": "adjective",
+    "level": "a1",
+    "tags": ["adjectives", "descriptive"],
+    "examples": [
+      {
+        "text": "Che bello!",
+        "reading": "",
+        "translation": "¡Qué lindo!"
+      }
+    ]
+  },
+  {
+    "word": "brutto",
+    "reading": "/ˈbrutto/",
+    "meanings": ["feo", "horrible"],
+    "pos": "adjective",
+    "level": "a1",
+    "tags": ["adjectives", "descriptive"],
+    "examples": [
+      {
+        "text": "Che tempo brutto oggi!",
+        "reading": "",
+        "translation": "¡Qué tiempo horrible hoy!"
+      }
+    ]
+  },
+  {
+    "word": "grande",
+    "reading": "/ˈɡrande/",
+    "meanings": ["grande", "gran"],
+    "pos": "adjective",
+    "level": "a1",
+    "tags": ["adjectives", "size"],
+    "examples": [
+      {
+        "text": "Roma è una grande città.",
+        "reading": "",
+        "translation": "Roma es una gran ciudad."
+      }
+    ]
+  },
+  {
+    "word": "piccolo",
+    "reading": "/ˈpikkolo/",
+    "meanings": ["pequeño", "chico"],
+    "pos": "adjective",
+    "level": "a1",
+    "tags": ["adjectives", "size"],
+    "examples": [
+      {
+        "text": "Ho una casa piccola ma bella.",
+        "reading": "",
+        "translation": "Tengo una casa pequeña pero linda."
+      }
+    ]
+  },
+  {
+    "word": "buono",
+    "reading": "/ˈbwɔːno/",
+    "meanings": ["bueno", "rico (de comida)"],
+    "pos": "adjective",
+    "level": "a1",
+    "tags": ["adjectives", "quality"],
+    "examples": [
+      {
+        "text": "Questo caffè è molto buono.",
+        "reading": "",
+        "translation": "Este café es muy bueno."
+      }
+    ]
+  },
+  {
+    "word": "cattivo",
+    "reading": "/katˈtiːvo/",
+    "meanings": ["malo", "malvado"],
+    "pos": "adjective",
+    "level": "a1",
+    "tags": ["adjectives", "quality"],
+    "examples": [
+      {
+        "text": "Questo film non è cattivo.",
+        "reading": "",
+        "translation": "Esta película no está mal."
+      }
+    ]
+  },
+  {
+    "word": "nuovo",
+    "reading": "/ˈnwɔːvo/",
+    "meanings": ["nuevo"],
+    "pos": "adjective",
+    "level": "a1",
+    "tags": ["adjectives"],
+    "examples": [
+      {
+        "text": "Ho un telefono nuovo.",
+        "reading": "",
+        "translation": "Tengo un teléfono nuevo."
+      }
+    ]
+  },
+  {
+    "word": "vecchio",
+    "reading": "/ˈvɛkkjo/",
+    "meanings": ["viejo", "antiguo"],
+    "pos": "adjective",
+    "level": "a1",
+    "tags": ["adjectives"],
+    "examples": [
+      {
+        "text": "Questo palazzo è molto vecchio.",
+        "reading": "",
+        "translation": "Este edificio es muy antiguo."
+      }
+    ]
+  },
+  {
+    "word": "caro",
+    "reading": "/ˈkaːro/",
+    "meanings": ["caro (precio)", "querido (afecto)"],
+    "pos": "adjective",
+    "level": "a1",
+    "tags": ["adjectives"],
+    "examples": [
+      {
+        "text": "Questo ristorante è troppo caro.",
+        "reading": "",
+        "translation": "Este restaurante es demasiado caro."
+      }
+    ]
+  },
+  {
+    "word": "simpatico",
+    "reading": "/simˈpaːtiko/",
+    "meanings": ["simpático", "agradable"],
+    "pos": "adjective",
+    "level": "a1",
+    "tags": ["adjectives", "personality"],
+    "examples": [
+      {
+        "text": "Il mio professore è molto simpatico.",
+        "reading": "",
+        "translation": "Mi profesor es muy simpático."
+      }
+    ]
+  },
+  {
+    "word": "stanco",
+    "reading": "/ˈstaŋko/",
+    "meanings": ["cansado"],
+    "pos": "adjective",
+    "level": "a1",
+    "tags": ["adjectives", "state"],
+    "examples": [
+      {
+        "text": "Sono molto stanco oggi.",
+        "reading": "",
+        "translation": "Estoy muy cansado hoy."
+      }
+    ]
+  },
+  {
+    "word": "sì",
+    "reading": "/ˈsi/",
+    "meanings": ["sí"],
+    "pos": "adverb",
+    "level": "a1",
+    "tags": ["basics"],
+    "examples": [
+      {
+        "text": "Sì, capisco.",
+        "reading": "",
+        "translation": "Sí, entiendo."
+      }
+    ]
+  },
+  {
+    "word": "no",
+    "reading": "/ˈnɔ/",
+    "meanings": ["no"],
+    "pos": "adverb",
+    "level": "a1",
+    "tags": ["basics"],
+    "examples": [
+      {
+        "text": "No, non capisco.",
+        "reading": "",
+        "translation": "No, no entiendo."
+      }
+    ]
+  },
+  {
+    "word": "non",
+    "reading": "/ˈnon/",
+    "meanings": ["no (negación verbal)"],
+    "pos": "adverb",
+    "level": "a1",
+    "tags": ["basics", "grammar"],
+    "examples": [
+      {
+        "text": "Non parlo francese.",
+        "reading": "",
+        "translation": "No hablo francés."
+      }
+    ]
+  },
+  {
+    "word": "molto",
+    "reading": "/ˈmolto/",
+    "meanings": ["mucho", "muy"],
+    "pos": "adverb",
+    "level": "a1",
+    "tags": ["adverbs", "quantity"],
+    "examples": [
+      {
+        "text": "Mi piace molto l'italiano.",
+        "reading": "",
+        "translation": "Me gusta mucho el italiano."
+      }
+    ]
+  },
+  {
+    "word": "anche",
+    "reading": "/ˈaŋke/",
+    "meanings": ["también", "incluso"],
+    "pos": "adverb",
+    "level": "a1",
+    "tags": ["adverbs"],
+    "examples": [
+      {
+        "text": "Anche io sono stanco.",
+        "reading": "",
+        "translation": "Yo también estoy cansado."
+      }
+    ]
+  },
+  {
+    "word": "dove",
+    "reading": "/ˈdove/",
+    "meanings": ["dónde", "donde"],
+    "pos": "adverb",
+    "level": "a1",
+    "tags": ["question-words"],
+    "examples": [
+      {
+        "text": "Dove abiti?",
+        "reading": "",
+        "translation": "¿Dónde vivís?"
+      }
+    ]
+  },
+  {
+    "word": "quando",
+    "reading": "/ˈkwando/",
+    "meanings": ["cuándo", "cuando"],
+    "pos": "adverb",
+    "level": "a1",
+    "tags": ["question-words"],
+    "examples": [
+      {
+        "text": "Quando arrivi?",
+        "reading": "",
+        "translation": "¿Cuándo llegás?"
+      }
+    ]
+  },
+  {
+    "word": "come",
+    "reading": "/ˈkome/",
+    "meanings": ["cómo", "como"],
+    "pos": "adverb",
+    "level": "a1",
+    "tags": ["question-words"],
+    "examples": [
+      {
+        "text": "Come stai?",
+        "reading": "",
+        "translation": "¿Cómo estás?"
+      }
+    ]
+  },
+  {
+    "word": "perché",
+    "reading": "/perˈke/",
+    "meanings": ["por qué", "porque"],
+    "pos": "conjunction",
+    "level": "a1",
+    "tags": ["question-words", "conjunctions"],
+    "examples": [
+      {
+        "text": "Perché studi italiano?",
+        "reading": "",
+        "translation": "¿Por qué estudiás italiano?"
+      }
+    ]
+  },
+  {
+    "word": "e",
+    "reading": "/e/",
+    "meanings": ["y"],
+    "pos": "conjunction",
+    "level": "a1",
+    "tags": ["conjunctions", "basics"],
+    "examples": [
+      {
+        "text": "Parlo italiano e spagnolo.",
+        "reading": "",
+        "translation": "Hablo italiano y español."
+      }
+    ]
+  },
+  {
+    "word": "ma",
+    "reading": "/ma/",
+    "meanings": ["pero"],
+    "pos": "conjunction",
+    "level": "a1",
+    "tags": ["conjunctions"],
+    "examples": [
+      {
+        "text": "Mi piace il caffè ma non il tè.",
+        "reading": "",
+        "translation": "Me gusta el café pero no el té."
+      }
+    ]
+  },
+  {
+    "word": "o",
+    "reading": "/ɔ/",
+    "meanings": ["o"],
+    "pos": "conjunction",
+    "level": "a1",
+    "tags": ["conjunctions"],
+    "examples": [
+      {
+        "text": "Caffè o tè?",
+        "reading": "",
+        "translation": "¿Café o té?"
+      }
+    ]
+  },
+  {
+    "word": "di",
+    "reading": "/di/",
+    "meanings": ["de"],
+    "pos": "preposition",
+    "level": "a1",
+    "tags": ["prepositions"],
+    "examples": [
+      {
+        "text": "Sono di Milano.",
+        "reading": "",
+        "translation": "Soy de Milán."
+      }
+    ]
+  },
+  {
+    "word": "a",
+    "reading": "/a/",
+    "meanings": ["a", "en (ciudad)"],
+    "pos": "preposition",
+    "level": "a1",
+    "tags": ["prepositions"],
+    "examples": [
+      {
+        "text": "Vado a Roma.",
+        "reading": "",
+        "translation": "Voy a Roma."
+      }
+    ]
+  },
+  {
+    "word": "in",
+    "reading": "/in/",
+    "meanings": ["en", "a (país)"],
+    "pos": "preposition",
+    "level": "a1",
+    "tags": ["prepositions"],
+    "examples": [
+      {
+        "text": "Abito in Italia.",
+        "reading": "",
+        "translation": "Vivo en Italia."
+      }
+    ]
+  },
+  {
+    "word": "con",
+    "reading": "/kon/",
+    "meanings": ["con"],
+    "pos": "preposition",
+    "level": "a1",
+    "tags": ["prepositions"],
+    "examples": [
+      {
+        "text": "Vengo con te.",
+        "reading": "",
+        "translation": "Voy contigo."
+      }
+    ]
+  },
+  {
+    "word": "per",
+    "reading": "/per/",
+    "meanings": ["para", "por"],
+    "pos": "preposition",
+    "level": "a1",
+    "tags": ["prepositions"],
+    "examples": [
+      {
+        "text": "Questo è per te.",
+        "reading": "",
+        "translation": "Esto es para vos."
+      }
+    ]
+  }
+]

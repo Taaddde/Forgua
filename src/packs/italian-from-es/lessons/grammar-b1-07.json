@@ -1,0 +1,83 @@
+{
+  "id": "grammar-b1-07",
+  "title": "Si impersonale",
+  "description": "El 'si impersonale' italiano: para hacer afirmaciones generales. Reglas especiales con adjetivos y verbos reflexivos.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Si mangia bene in questo ristorante.",
+      "back": "Se come bien en este restaurante.",
+      "reading": "",
+      "explanation": "Si impersonale: verbo SIEMPRE en 3ª singular, sin importar el objeto. El sujeto es indeterminado (la gente, uno, las personas). Equivale a 'uno come bene' o 'la gente mangia bene'."
+    },
+    {
+      "front": "In Italia si parla molto con le mani.",
+      "back": "En Italia se habla mucho con las manos.",
+      "reading": "",
+      "explanation": "Si impersonale para afirmaciones culturales generales. Verbo en singular. No hay sujeto concreto — se habla de una costumbre general de 'la gente italiana'."
+    },
+    {
+      "front": "Si è stanchi dopo una lunga giornata.",
+      "back": "Uno está cansado después de un día largo.",
+      "reading": "",
+      "explanation": "¡REGOLA SPECIALE! Con 'essere' + aggettivo en si impersonale: el adjetivo va en PLURAL (stanchi), aunque el verbo sea singular (si è). Esta construcción NO existe en español — es el reto principal del si impersonale."
+    },
+    {
+      "front": "Si è felici quando si sta con gli amici.",
+      "back": "Uno es/está feliz cuando está con los amigos.",
+      "reading": "",
+      "explanation": "Otro ejemplo de la regla: 'felici' (plural) con 'si è' (singular). Siempre que si impersonale + essere + adjetivo → adjetivo al PLURAL masculino. Aunque sea una mujer hablando."
+    },
+    {
+      "front": "Ci si sveglia presto in campagna.",
+      "back": "Uno se despierta temprano en el campo.",
+      "reading": "",
+      "explanation": "Si impersonale con verbos REFLEXIVOS: se usa 'ci si' (NO 'si si'). La partícula 'ci' reemplaza el primer 'si' del reflexivo. 'Ci si alza' (uno se levanta), 'ci si diverte' (uno se divierte)."
+    },
+    {
+      "front": "Ci si abitua a tutto.",
+      "back": "Uno se acostumbra a todo.",
+      "reading": "",
+      "explanation": "'Abituarsi' = acostumbrarse (verbo reflexivo). Con si impersonale: 'ci si abitua'. La frase tiene sentido proverbial — como 'la gente se acostumbra a todo'. 'Ci si' evita el problema de 'si si'."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Si impersonale básico",
+      "instruction": "Si impersonale = afirmaciones generales sobre 'la gente/uno'. Verbo SIEMPRE en 3ª singular. Equivale a 'uno', 'la gente', 'se' impersonal en español.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "La regla del adjetivo plural — la trampa italiana",
+      "instruction": "Con si impersonale + essere + adjetivo → el adjetivo va al PLURAL masculino aunque el verbo sea singular. 'Si è stanchi' (NOT 'si è stanco'). Esta regla NO existe en español y es el error más frecuente.",
+      "itemIndices": [2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Ci si — con verbos reflexivos",
+      "instruction": "Verbos reflexivos + si impersonale = 'ci si'. Evita el incorrecto 'si si'. 'Ci si sveglia', 'ci si alza', 'ci si diverte', 'ci si abitua'. Esta forma es obligatoria.",
+      "itemIndices": [4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "¿Stanco o stanchi?",
+      "instruction": "Con si impersonale + essere + adjetivo: ¿singular o plural?",
+      "itemIndices": [2, 3]
+    },
+    {
+      "type": "recall",
+      "title": "¿Si si o ci si?",
+      "instruction": "Con verbos reflexivos en si impersonale: ¿cuál es la forma correcta?",
+      "itemIndices": [4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "Resumen: Si impersonale",
+      "instruction": "Tres reglas: 1) Verbo en 3ª singular siempre. 2) Con essere + adjetivo → adjetivo PLURAL: 'si è stanchi'. 3) Con reflexivos → 'ci si': 'ci si sveglia'. La diferencia con si passivante: si impersonale no tiene sujeto real; si passivante tiene una COSA como sujeto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

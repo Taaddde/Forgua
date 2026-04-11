@@ -7,6 +7,7 @@ import { create } from 'zustand';
 import { persist } from 'zustand/middleware';
 import type { PackManifest } from '../types/pack-spec';
 import type { AbstractAdapter } from '../types/adapter';
+import type { LessonIndex } from '../types/lesson';
 import { getAdapter } from '../adapters/registry';
 import { installPack } from '../db/seeds';
 
@@ -30,6 +31,11 @@ interface AppState {
   // at every consumer site, so it has no effect in production builds.
   devUnlockAll: boolean;
 
+  // Lesson index cache — derived from pack data, never persisted.
+  // Keyed by pack id so stale data is never shown after a pack switch.
+  lessonIndex: LessonIndex | null;
+  lessonIndexPackId: string | null;
+
   // Actions
   selectPack: (manifest: PackManifest) => Promise<void>;
   clearPack: () => void;
@@ -38,6 +44,7 @@ interface AppState {
   toggleSidebar: () => void;
   setSidebarOpen: (open: boolean) => void;
   setDevUnlockAll: (value: boolean) => void;
+  setLessonIndex: (packId: string, index: LessonIndex | null) => void;
 }
 
 export const useAppStore = create<AppState>()(
@@ -53,6 +60,8 @@ export const useAppStore = create<AppState>()(
       theme: 'dark',
       sidebarOpen: true,
       devUnlockAll: false,
+      lessonIndex: null,
+      lessonIndexPackId: null,
 
       selectPack: async (manifest: PackManifest) => {
         // Flip loading on synchronously so the install overlay shows
@@ -62,6 +71,8 @@ export const useAppStore = create<AppState>()(
           adapterError: null,
           adapterProgress: { phase: 'installing', value: 0 },
           activePack: manifest,
+          lessonIndex: null,
+          lessonIndexPackId: null,
         });
         try {
           // Step 1: install pack data into IndexedDB (cards, progress rows).
@@ -81,7 +92,7 @@ export const useAppStore = create<AppState>()(
       },
 
       clearPack: () => {
-        set({ activePack: null, activeAdapter: null, adapterError: null });
+        set({ activePack: null, activeAdapter: null, adapterError: null, lessonIndex: null, lessonIndexPackId: null });
       },
 
       setTheme: (theme: ThemeMode) => {
@@ -102,6 +113,10 @@ export const useAppStore = create<AppState>()(
 
       setDevUnlockAll: (value: boolean) => {
         set({ devUnlockAll: value });
+      },
+
+      setLessonIndex: (packId, index) => {
+        set({ lessonIndex: index, lessonIndexPackId: packId });
       },
     }),
     {

@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a1-03",
+  "title": "Articoli determinativi: il, la, lo, l'...",
+  "description": "Los artículos definidos del italiano. Hay 7 formas diferentes según género, número y la inicial del sustantivo. Es el tema más desafiante para hispanohablantes.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "il — masculino singular (consonante normal)",
+      "back": "el",
+      "reading": "/il/",
+      "explanation": "'Il' se usa ante sustantivos masculinos singulares que empiezan con consonante normal (no z, s+cons, gn, ps, x, y): il libro, il cane, il padre, il treno, il ragazzo."
+    },
+    {
+      "front": "lo — masculino singular (z, s+cons, gn, ps, x, y)",
+      "back": "el (especial)",
+      "reading": "/lo/",
+      "explanation": "'Lo' se usa ante z, s+consonante, gn, ps, x, y: lo zaino (mochila), lo studente, lo gnomo, lo psicologo, lo xilofono, lo yogurt. Pronunciar: LO, no EL."
+    },
+    {
+      "front": "l' — masculino/femenino singular (vocal)",
+      "back": "el/la (ante vocal)",
+      "reading": "/l/",
+      "explanation": "'L'' se usa ante vocal, tanto m. como f.: l'amico (m.), l'amica (f.), l'uomo (m.), l'università (f.), l'ora (f.), l'italiano (m.). El apóstrofo indica la elisión de la vocal del artículo."
+    },
+    {
+      "front": "la — femenino singular (consonante)",
+      "back": "la",
+      "reading": "/la/",
+      "explanation": "'La' se usa ante sustantivos femeninos singulares que empiezan con consonante: la casa, la madre, la sorella, la pizza, la ragazza, la città. Ante vocal → l'."
+    },
+    {
+      "front": "i — masculino plural (consonante normal)",
+      "back": "los",
+      "reading": "/i/",
+      "explanation": "'I' es el plural de 'il': i libri, i cani, i ragazzi, i treni. No confundir con la preposición 'in' (diferente por contexto y pronunciación)."
+    },
+    {
+      "front": "gli — masculino plural (vocal, z, s+cons, gn...)",
+      "back": "los (especial)",
+      "reading": "/ʎi/",
+      "explanation": "'Gli' es el plural de 'lo' y 'l'' masculino: gli zaini (pl. de lo zaino), gli studenti (pl. de lo studente), gli amici (pl. de l'amico). La 'gl' + 'i' suena /ʎ/ como 'll' rioplatense."
+    },
+    {
+      "front": "le — femenino plural",
+      "back": "las",
+      "reading": "/le/",
+      "explanation": "'Le' es el plural de 'la' y 'l'' femenino: le case, le mamme, le università, le amiche. 'Le' nunca cambia — es siempre el mismo para todo el femenino plural."
+    },
+    {
+      "front": "lo zaino vs il zaino",
+      "back": "la mochila (lo zaino — correcto)",
+      "reading": "",
+      "explanation": "'Zaino' empieza con Z → obliga 'lo', nunca 'il'. Error muy común para hispanohablantes: decir 'il zaino'. Siempre: lo zaino, lo studente, lo zucchero (el azúcar)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Artículos masculinos singulares",
+      "instruction": "En italiano hay 3 artículos masculinos singulares: IL (ante consonante normal), LO (ante z/s+cons/gn...), L' (ante vocal). En español solo hay 'el'. ¡Esta es la novedad!",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Artículo femenino y plurales",
+      "instruction": "Femenino singular: LA (consonante), L' (vocal). Plurales: I (m. normal), GLI (m. especial), LE (f. todo).",
+      "itemIndices": [3, 4, 5, 6]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué artículo corresponde?",
+      "instruction": "Ves el sustantivo. Elegí el artículo correcto: il/lo/l'/la/i/gli/le.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con el artículo",
+      "instruction": "libro (m.s.) → ___ libro | zaino (m.s.) → ___ zaino | amica (f.s.) → ___ amica | case (f.pl.) → ___ case | studenti (m.pl.) → ___ studenti",
+      "itemIndices": [0, 1, 2, 6, 5]
+    },
+    {
+      "type": "error-correction",
+      "title": "Errores comunes",
+      "instruction": "Corregí: 'il zaino' → lo zaino | 'la uomo' → l'uomo | 'i studenti' → gli studenti",
+      "itemIndices": [7, 2, 5]
+    },
+    {
+      "type": "summary",
+      "title": "¡Articoli determinativi!",
+      "instruction": "Masc. sg: IL(normal)/LO(z,s+c,gn)/L'(vocal). Fem. sg: LA(consonante)/L'(vocal). Masc.pl: I(normal)/GLI(z,s+c,gn,vocal). Fem.pl: LE(siempre). Regla LO: ante zaino, studente, psicologo, gnomo, yogurt.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

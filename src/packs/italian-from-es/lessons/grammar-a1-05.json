@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a1-05",
+  "title": "Genere: maschile e femminile",
+  "description": "El género de los sustantivos en italiano. Las reglas básicas son similares al español, pero hay diferencias importantes que hay que memorizar.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Sustantivos en -O → masculino (generalmente)",
+      "back": "libro, ragazzo, tavolo, mondo",
+      "reading": "",
+      "explanation": "La regla más confiable: terminación -O → masculino. il libro, il ragazzo, il tavolo, il mondo. Excepción importante: 'la mano' (la mano) es femenino aunque termina en -O."
+    },
+    {
+      "front": "Sustantivos en -A → femenino (generalmente)",
+      "back": "casa, ragazza, pizza, luna",
+      "reading": "",
+      "explanation": "Terminación -A → femenino. la casa, la ragazza, la pizza, la luna. Excepciones: il problema, il clima, il sistema, il poeta — masculinos en -a (de origen griego)."
+    },
+    {
+      "front": "Sustantivos en -E → variable (hay que aprender)",
+      "back": "il pane (m.) / la neve (f.)",
+      "reading": "",
+      "explanation": "Terminación -E puede ser cualquier género. Hay que memorizar: il pane (m.), il cane (m.), il padre (m.) — la neve (f.), la madre (f.), la notte (f.), la chiave (f.)."
+    },
+    {
+      "front": "la mano (excepción: -O femenino)",
+      "back": "la mano — FEMENINO",
+      "reading": "",
+      "explanation": "La mano es femenino aunque termina en -O. Plural: le mani (también femenino). 'Dammi la mano' = Dame la mano. ¡Nunca 'il mano'! Es una de las excepciones más importantes."
+    },
+    {
+      "front": "il problema / il clima (excepción: -A masculino)",
+      "back": "el problema / el clima — MASCULINOS",
+      "reading": "",
+      "explanation": "Palabras de origen griego terminadas en -A que son masculinas: il problema, il clima, il sistema, il tema, il poeta, il diploma. Plural regular: i problemi, i climi. Igual que en español."
+    },
+    {
+      "front": "Profesiones en -E / -ESSA / -RICE",
+      "back": "il/la cantante / l'attrice / la professoressa",
+      "reading": "",
+      "explanation": "Muchas profesiones: cantante es igual en m. y f. (il cantante / la cantante). Para femenino: professore→professoressa, dottore→dottoressa, attore→attrice. El artículo indica el género."
+    },
+    {
+      "front": "città / università (invariables)",
+      "back": "la ciudad / la universidad — no cambian",
+      "reading": "",
+      "explanation": "Los sustantivos que terminan en vocal acentuada son invariables: la città/le città, l'università/le università, la tribù/le tribù. Son femeninos y no cambian en plural."
+    },
+    {
+      "front": "il sale (m. ≠ español: la sal)",
+      "back": "el/la sal — MASCULINO en italiano",
+      "reading": "",
+      "explanation": "El italiano y el español no siempre coinciden en género. Diferencias comunes: il sale (m./la sal), il latte (m./la leche), il sangue (m./la sangre), il dente (m./el diente — igual)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Las reglas básicas de género",
+      "instruction": "Las reglas más confiables: -O = masculino, -A = femenino, -E = hay que aprender caso por caso. Pero hay excepciones importantes: 'la mano' (f.), 'il problema' (m.).",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "Diferencias con el español",
+      "instruction": "El género no siempre coincide con el español. Hay que aprender las diferencias: il sale, il latte, la mano.",
+      "itemIndices": [5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Masculino o femenino?",
+      "instruction": "Ves el sustantivo. Determiná su género y el artículo correcto.",
+      "itemIndices": [0, 1, 2, 3, 4, 7]
+    },
+    {
+      "type": "error-correction",
+      "title": "Corregí el género",
+      "instruction": "Identificá los errores: 'il mano' → la mano | 'la problema' → il problema | 'il città' → la città",
+      "itemIndices": [3, 4, 6]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "¿Il o la?",
+      "instruction": "Añadí el artículo correcto: ___ cane | ___ pizza | ___ mano | ___ problema | ___ città | ___ pane",
+      "itemIndices": [0, 1, 3, 4, 6, 2]
+    },
+    {
+      "type": "summary",
+      "title": "¡Genere dei sostantivi!",
+      "instruction": "-O=masculino (excepto: la mano). -A=femenino (excepto: il problema/clima/sistema). -E=variable (aprender caso a caso). Invariables: città, università, tribù. Diferencias con español: il sale, il latte, il sangue.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

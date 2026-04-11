@@ -1,0 +1,107 @@
+{
+  "id": "vocab-a2-15",
+  "title": "False friends italiano-spagnolo",
+  "description": "Los falsos amigos más peligrosos entre el italiano y el español. Estas palabras parecen similares pero significan cosas completamente distintas. ¡Aprenderlos evitará malentendidos embarazosos!",
+  "level": "a2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "il burro",
+      "back": "la mantequilla (¡NO 'la burra'!)",
+      "reading": "",
+      "explanation": "TRAMPA CLÁSICA: 'burro' en italiano = mantequilla. 'L'asino' = el burro. 'Pane e burro' = pan con mantequilla."
+    },
+    {
+      "front": "la camera",
+      "back": "la habitación (¡NO 'la cámara'!)",
+      "reading": "",
+      "explanation": "Camera = habitación (en un hotel o casa). La cámara fotográfica = 'la fotocamera'. 'Camera da letto' = dormitorio."
+    },
+    {
+      "front": "la libreria",
+      "back": "la librería (tienda de libros) / la estantería",
+      "reading": "",
+      "explanation": "DOBLE TRAMPA: en italiano 'libreria' = tienda de libros O estantería. 'La biblioteca' = la biblioteca (lugar para leer/estudiar). 'Vado in libreria' = voy a la librería."
+    },
+    {
+      "front": "annoiato / noioso",
+      "back": "aburrido (que siente aburrimiento) / aburrido (que causa aburrimiento)",
+      "reading": "",
+      "explanation": "Como en español: 'Sono annoiato' = Estoy aburrido (yo). 'Lui è noioso' = Él es aburrido (aburre a los demás). La misma distinción que en español."
+    },
+    {
+      "front": "il preservativo",
+      "back": "el condón / el preservativo (¡NO 'el conservante'!)",
+      "reading": "",
+      "explanation": "TRAMPA MUY CONOCIDA: 'preservativo' en italiano = condón. 'Il conservante' = el conservante (alimentario). ¡No cometas este error en un restaurante!"
+    },
+    {
+      "front": "sensibile",
+      "back": "sensible / sensitivo (¡NO 'sensato'!)",
+      "reading": "",
+      "explanation": "'Sensibile' = sensible (que siente mucho). 'Sensato' en italiano = sensato/razonable (come in español). 'Una persona sensibile' = una persona sensible."
+    },
+    {
+      "front": "il pavimento",
+      "back": "el suelo / el piso (¡NO 'el pavimento'!)",
+      "reading": "",
+      "explanation": "'Pavimento' en italiano = el suelo de interior (de una habitación). 'Il marciapiede' = la acera. 'L'asfalto' = el pavimento de la calle."
+    },
+    {
+      "front": "parente",
+      "back": "familiar / pariente (¡cuidado con 'padre/madre'!)",
+      "reading": "",
+      "explanation": "'Parente' = familiar/pariente (tío, primo, cuñado...). 'I miei parenti' = mis familiares. 'I genitori' = los padres. ¡'Parente' NO significa 'padre o madre'!"
+    },
+    {
+      "front": "il/la nipote",
+      "back": "el/la nieto/a Y el/la sobrino/a",
+      "reading": "",
+      "explanation": "¡Una sola palabra para dos conceptos! 'Il nipote' puede ser nieto O sobrino. El contexto lo aclara: 'il nipote di mia madre' = el sobrino de mi madre; 'il nipote di mio nonno' = el nieto de mi abuelo."
+    },
+    {
+      "front": "afoso",
+      "back": "bochornoso / sofocante (calor húmedo)",
+      "reading": "",
+      "explanation": "NO tiene cognado en español. 'Fa un caldo afoso' = Hace un calor bochornoso/sofocante. Describe el calor húmedo y agobiante típico del verano italiano."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Los trampas más clásicas",
+      "instruction": "Estos falsos amigos son los más comunes y los que más confunden a los hispanohablantes.",
+      "itemIndices": [0, 1, 2, 4]
+    },
+    {
+      "type": "recall",
+      "title": "¿Qué significa realmente?",
+      "instruction": "Ves la palabra italiana. ¿Cuál es el significado REAL, no el que parece?",
+      "itemIndices": [0, 1, 2, 4, 6]
+    },
+    {
+      "type": "introduce",
+      "title": "Más falsos amigos sutiles",
+      "instruction": "Estos son más sutiles pero igualmente importantes.",
+      "itemIndices": [3, 5, 6, 7, 8]
+    },
+    {
+      "type": "error-correction",
+      "title": "¿El estudiante cometió un error?",
+      "instruction": "Identifica si el uso de la palabra es correcto o incorrecto.",
+      "itemIndices": [0, 1, 2, 4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "Falsos amigos — todos",
+      "instruction": "Practica todos los falsos amigos de la lección.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "False friends — consolidado",
+      "instruction": "Los más peligrosos: burro (mantequilla), camera (habitación), libreria (tienda de libros), preservativo (condón). El 'nipote' (nieto/sobrino) es único en italiano — una sola palabra para dos relaciones. Recuérdalo siempre.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

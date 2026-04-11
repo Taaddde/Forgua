@@ -1,0 +1,107 @@
+{
+  "id": "vocab-a2-10",
+  "title": "I vestiti e la moda",
+  "description": "Italia es la cuna de la moda mundial. Aprende el vocabulario de la ropa, los complementos y las descripciones de estilo.",
+  "level": "a2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "la camicia / la camicetta",
+      "back": "la camisa (hombre) / la blusa (mujer)",
+      "reading": "",
+      "explanation": "Camicia = camisa de hombre con botones. Camicetta = blusa femenina. 'Indossare una camicia bianca' = llevar una camisa blanca."
+    },
+    {
+      "front": "i pantaloni / i jeans",
+      "back": "los pantalones / los vaqueros",
+      "reading": "",
+      "explanation": "'Pantaloni' siempre en plural en italiano. 'Ho comprato un paio di jeans.' = Compré unos vaqueros."
+    },
+    {
+      "front": "la gonna / il vestito",
+      "back": "la falda / el vestido",
+      "reading": "",
+      "explanation": "Gonna = falda. Vestito = vestido (de mujer) o traje (de hombre). 'Un abito da sera' = un vestido de noche."
+    },
+    {
+      "front": "la giacca / il cappotto",
+      "back": "la chaqueta / el abrigo",
+      "reading": "",
+      "explanation": "Giacca = chaqueta (de sport o de traje). Cappotto = abrigo de invierno. 'La giacca a vento' = el anorak/chaqueta cortavientos."
+    },
+    {
+      "front": "le scarpe / gli stivali",
+      "back": "los zapatos / las botas",
+      "reading": "",
+      "explanation": "'Comprare un paio di scarpe' = comprar un par de zapatos. 'Le scarpe col tacco' = los zapatos de tacón. 'Gli stivali di pelle' = las botas de cuero."
+    },
+    {
+      "front": "la borsa / lo zaino",
+      "back": "el bolso / la mochila",
+      "reading": "",
+      "explanation": "Borsa = bolso de mano. Zaino = mochila. 'Una borsa di marca' = un bolso de marca. Italia es famosa por las borse di lusso."
+    },
+    {
+      "front": "indossare / portare",
+      "back": "llevar puesto / usar (ropa)",
+      "reading": "",
+      "explanation": "Ambos verbos se usan para hablar de llevar ropa. 'Indossa un vestito rosso.' = Lleva puesto un vestido rojo. 'Porto sempre gli occhiali.' = Siempre llevo gafas."
+    },
+    {
+      "front": "stare bene / stare male",
+      "back": "quedar bien / quedar mal (ropa)",
+      "reading": "",
+      "explanation": "Expresión muy usada para la ropa. 'Questo vestito ti sta benissimo!' = ¡Este vestido te queda genial! 'Questo colore mi sta male.' = Este color me queda mal."
+    },
+    {
+      "front": "provare / provarsi",
+      "back": "probar(se) / ponerse (ropa para ver)",
+      "reading": "",
+      "explanation": "'Posso provare questo?' = ¿Puedo probármelo? 'Il camerino' = el probador. 'Non mi va bene la taglia.' = No me queda bien la talla."
+    },
+    {
+      "front": "elegante / casual / sportivo",
+      "back": "elegante / casual / deportivo",
+      "reading": "",
+      "explanation": "Adjetivos para describir estilos. Cognados internacionales. 'Devo vestirmi in modo elegante.' = Tengo que vestirme de manera elegante."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Prendas de vestir",
+      "instruction": "El vocabulario básico de la ropa en italiano. Italia es el país de la moda — ¡este vocabulario es muy útil!",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "Complementos y accesorios",
+      "instruction": "Bolsos, calzado y complementos de moda italiana.",
+      "itemIndices": [5, 6, 7]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se llama en italiano?",
+      "instruction": "Traduce el vocabulario de moda.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "introduce",
+      "title": "En la tienda de ropa",
+      "instruction": "Vocabulario para cuando te pruebas ropa en una tienda.",
+      "itemIndices": [8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "La moda — vocabulario completo",
+      "instruction": "Practica todo el vocabulario de la moda.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "I vestiti — consolidado",
+      "instruction": "Recuerda: 'stare bene' para la ropa significa 'quedar bien' — diferente de 'stare bene' (estar bien de salud). 'Pantaloni' y 'jeans' son siempre plurales en italiano.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

@@ -1,0 +1,933 @@
+[
+  {
+    "id": "a2-passato-prossimo-avere",
+    "title": "Passato prossimo con avere",
+    "level": "a2",
+    "explanation": "El passato prossimo es el tiempo pasado más usado en el italiano hablado. Se forma con el auxiliar AVERE (para la mayoría de verbos transitivos) + el participio passato.\n\nConjugación de AVERE:\nio ho → io ho mangiato\ntu hai → tu hai mangiato\nlui/lei ha → lui ha mangiato\nnoi abbiamo → noi abbiamo mangiato\nvoi avete → voi avete mangiato\nloro hanno → loro hanno mangiato\n\nFormación del participio passato REGULAR:\n-ARE → -ATO: parlare→parlato, mangiare→mangiato, lavorare→lavorato\n-ERE → -UTO: vendere→venduto, credere→creduto, ricevere→ricevuto\n-IRE → -ITO: finire→finito, partire→partito, dormire→dormito\n\nATENCIÓN para hispanohablantes: El passato prossimo italiano equivale TANTO al pretérito indefinido ('hablé') COMO al pretérito perfecto ('he hablado') del español. En el italiano estándar (y especialmente en el norte de Italia), se usa para TODO el pasado en la lengua hablada, incluso hechos muy lejanos.",
+    "examples": [
+      {
+        "italian": "Ho mangiato una pizza.",
+        "spanish": "Comí / He comido una pizza.",
+        "sentence": "Esempio: Passato prossimo con avere",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Hai lavorato ieri?",
+        "spanish": "¿Trabajaste / Has trabajado ayer?",
+        "sentence": "Esempio: Passato prossimo con avere",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Abbiamo visto un bel film.",
+        "spanish": "Vimos / Hemos visto una buena película.",
+        "sentence": "Esempio: Passato prossimo con avere",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Non ho dormito bene.",
+        "spanish": "No dormí / No he dormido bien.",
+        "sentence": "Esempio: Passato prossimo con avere",
+        "translation": "ver explicación"
+      }
+    ],
+    "notes": "Con avere, il participio passato NON cambia: ho mangiato, hai mangiato, ha mangiato — la terminazione è sempre -ato/-uto/-ito indipendentemente dal soggetto.",
+    "tags": [
+      "passato-prossimo",
+      "avere",
+      "participio-passato",
+      "past-tense"
+    ],
+    "pattern": "ho/hai/ha/abbiamo/avete/hanno + participio passato",
+    "meaning": "tiempo pasado con avere (comí, hablé, escribí)"
+  },
+  {
+    "id": "a2-passato-prossimo-essere",
+    "title": "Passato prossimo con essere",
+    "level": "a2",
+    "explanation": "Muchos verbos forman el passato prossimo con ESSERE en lugar de avere. Esta es una diferencia CRUCIAL con el español, que no tiene este sistema.\n\n¿Qué verbos usan ESSERE?\n1. Verbos de movimiento: andare, venire, arrivare, partire, uscire, entrare, tornare, scendere, salire\n2. Verbos de cambio de estado: nascere, morire, diventare, crescere, guarire\n3. Verbos de estado: restare, stare, essere, rimane\n4. TODOS los verbos reflexivos: alzarsi, vestirsi...\n\nConjugación de ESSERE:\nio sono, tu sei, lui/lei è, noi siamo, voi siete, loro sono\n\nREGLA DE ORO con essere: El participio passato CONCUERDA en género y número con el sujeto:\n→ Mario è andato (masc. sing.)\n→ Maria è andata (fem. sing.)\n→ Mario e Luca sono andati (masc. plur.)\n→ Maria e Lucia sono andate (fem. plur.)\n\nEsta concordancia es como el participio pasado en español con 'ser' en pasiva: 'las cartas fueron escritas'.",
+    "examples": [
+      {
+        "italian": "Sono andato al cinema.",
+        "spanish": "Fui al cine.",
+        "sentence": "Esempio: Passato prossimo con essere",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Maria è arrivata tardi.",
+        "spanish": "María llegó tarde.",
+        "sentence": "Esempio: Passato prossimo con essere",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "I ragazzi sono partiti ieri.",
+        "spanish": "Los chicos partieron ayer.",
+        "sentence": "Esempio: Passato prossimo con essere",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Siamo nati in Italia.",
+        "spanish": "Nacimos en Italia.",
+        "sentence": "Esempio: Passato prossimo con essere",
+        "translation": "ver explicación"
+      }
+    ],
+    "notes": "Truco mnemotécnico: los verbos con essere son principalmente intransitivos (no tienen objeto directo). Si el verbo no puede tener un objeto directo (¿mangiato cosa? sí → avere; ¿andato cosa? no → essere). Hay excepciones, pero esta regla cubre el 90% de los casos.",
+    "tags": [
+      "passato-prossimo",
+      "essere",
+      "participio-passato",
+      "concordanza",
+      "past-tense"
+    ],
+    "pattern": "sono/sei/è/siamo/siete/sono + participio (-o/-a/-i/-e)",
+    "meaning": "tiempo pasado con essere (fui, vine, salí)"
+  },
+  {
+    "id": "a2-participio-passato",
+    "title": "Participio passato irregolare",
+    "level": "a2",
+    "explanation": "Muchos verbos comunes tienen participios pasados IRREGULARES. En su mayoría son verbos en -ere. Hay que memorizarlos.\n\nLOS MÁS IMPORTANTES:\nfare → fatto (hacer → hecho)\ndire → detto (decir → dicho)\nscrivere → scritto (escribir → escrito)\nleggere → letto (leer → leído)\nmettere → messo (poner → puesto)\nvedere → visto / veduto (ver → visto)\nbere → bevuto (beber → bebido)\nchiudere → chiuso (cerrar → cerrado)\naprire → aperto (abrir → abierto)\nvenire → venuto (venir → venido)\ncorrere → corso (correr → corrido)\nchiedere → chiesto (preguntar → preguntado)\nrispondere → risposto (responder → respondido)\nvivere → vissuto (vivir → vivido)\nprendere → preso (tomar → tomado)\nrimaner → rimasto (quedarse → quedado)\nrompere → rotto (romper → roto)\nspendere → speso (gastar → gastado)\nscegliere → scelto (elegir → elegido)\noffrire → offerto (ofrecer → ofrecido)\n\nOJO: Muchos irregolari italianos son paralelos a los irregulares españoles:\nscritto/escrito, aperto/abierto, rotto/roto — la terminación cambia pero la raíz es reconocible.",
+    "examples": [
+      {
+        "italian": "Ho fatto i compiti.",
+        "spanish": "Hice las tareas.",
+        "sentence": "Esempio: Participio passato irregolare",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Cosa hai detto?",
+        "spanish": "¿Qué dijiste?",
+        "sentence": "Esempio: Participio passato irregolare",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Ha scritto una lettera.",
+        "spanish": "Escribió una carta.",
+        "sentence": "Esempio: Participio passato irregolare",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Hanno messo la borsa sul tavolo.",
+        "spanish": "Pusieron el bolso en la mesa.",
+        "sentence": "Esempio: Participio passato irregolare",
+        "translation": "ver explicación"
+      }
+    ],
+    "notes": "Estrategia de aprendizaje: aprende los irregolari en parejas verbo+participio. Muchos verbos compuestos tienen el mismo participio que su base: fare→fatto, soddisfare→soddisfatto; dire→detto, contraddire→contraddetto.",
+    "tags": [
+      "participio-passato",
+      "irregolari",
+      "past-tense"
+    ],
+    "pattern": "-are → -ato | -ere → -uto/irregolare | -ire → -ito",
+    "meaning": "participio pasado (hablado, comido, dormido)"
+  },
+  {
+    "id": "a2-imperfetto",
+    "title": "Imperfetto",
+    "level": "a2",
+    "explanation": "El imperfetto es el segundo tiempo pasado principal del italiano. Corresponde al pretérito imperfecto del español (-aba, -ía).\n\nSe usa para:\n1. Hábitos pasados: 'Da bambino guardavo i cartoni animati' (De niño veía dibujos animados)\n2. Descripciones en el pasado: 'La casa era grande e bella' (La casa era grande y hermosa)\n3. Acciones en curso cuando ocurrió otra cosa: 'Dormivo quando ha suonato il telefono' (Dormía cuando sonó el teléfono)\n4. Condiciones físicas y mentales: 'Avevo fame' (Tenía hambre)\n\nFORMACIÓN — raíz + terminaciones:\n-ARE: parl-ARE → io parlavo, tu parlavi, lui parlava, noi parlavamo, voi parlavate, loro parlavano\n-ERE: vend-ERE → io vendevo, tu vendevi, lui vendeva, noi vendevamo, voi vendevate, loro vendevano\n-IRE: dorm-IRE → io dormivo, tu dormivi, lui dormiva, noi dormivamo, voi dormivate, loro dormivano\n\nIRREGOLARI PRINCIPALES:\nessere: ero, eri, era, eravamo, eravate, erano\navere: avevo, avevi, aveva, avevamo, avevate, avevano\nfare: facevo, facevi, faceva, facevamo, facevate, facevano\ndire: dicevo, dicevi, diceva, dicevamo, dicevate, dicevano\nbere: bevevo, bevevi, beveva, bevevamo, bevevate, bevevano\n\nBUENA NOTICIA: las terminaciones del imperfetto son MUY REGULARES y similares al español imperfecto.",
+    "examples": [
+      {
+        "italian": "Quando ero piccolo, abitavo a Napoli.",
+        "spanish": "Cuando era pequeño, vivía en Nápoles.",
+        "sentence": "Esempio: Imperfetto",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Ogni domenica andavamo al parco.",
+        "spanish": "Todos los domingos íbamos al parque.",
+        "sentence": "Esempio: Imperfetto",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Faceva molto caldo quel giorno.",
+        "spanish": "Hacía mucho calor ese día.",
+        "sentence": "Esempio: Imperfetto",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Leggevo un libro quando sei arrivato.",
+        "spanish": "Estaba leyendo un libro cuando llegaste.",
+        "sentence": "Esempio: Imperfetto",
+        "translation": "ver explicación"
+      }
+    ],
+    "notes": "Paralelo exacto con el español: los usos del imperfetto italiano corresponden casi exactamente al pretérito imperfecto español (-aba/-ía). Si en español usarías imperfecto, en italiano usas imperfetto.",
+    "tags": [
+      "imperfetto",
+      "past-tense",
+      "habits",
+      "description"
+    ],
+    "pattern": "-avo/-avi/-ava/-avamo/-avate/-avano (-are)",
+    "meaning": "imperfecto de indicativo (hablaba, comía, dormía)"
+  },
+  {
+    "id": "a2-imperfetto-vs-passato",
+    "title": "Imperfetto vs Passato prossimo — la scelta giusta",
+    "level": "a2",
+    "explanation": "Esta distinción es clave y funciona de manera muy similar al español (pretérito imperfecto vs pretérito indefinido).\n\nRESUMEN:\n→ PASSATO PROSSIMO: acción completada, evento único, límite temporal definido\n→ IMPERFETTO: fondo/descripción, hábito, acción en progreso, estado\n\nESQUEMA TÍPICO (como en español):\n'Dormivo (imperfetto = fondo) quando ha suonato (passato prossimo = evento) il telefono.'\n= 'Dormía cuando sonó el teléfono.'\n\nDIFERENCIA SUTIL CON EL ESPAÑOL:\nEn español a veces se puede usar pretérito indefinido para hábitos: 'Fui al cine todos los viernes.' En italiano esto es más restringido — los hábitos pasados SIEMPRE van con imperfetto: 'Andavo al cinema tutti i venerdì.'\n\nSEÑALES DEL PASSATO PROSSIMO:\n- Ieri (ayer), stamattina (esta mañana), la settimana scorsa, due giorni fa\n- Verbos que implican cambio o conclusión\n\nSEÑALES DEL IMPERFETTO:\n- Sempre (siempre), di solito, ogni... (cada...), quando ero piccolo\n- Descripciones de ambiente, personas, situaciones",
+    "examples": [
+      {
+        "italian": "Da piccolo giocavo a calcio. (abito) / Ieri ho giocato a calcio. (evento)",
+        "spanish": "De pequeño jugaba al fútbol. / Ayer jugué al fútbol.",
+        "sentence": "Esempio: Imperfetto vs Passato prossimo — la scelta giusta",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Mentre mangiavo, ho ricevuto una chiamata.",
+        "spanish": "Mientras comía, recibí una llamada.",
+        "sentence": "Esempio: Imperfetto vs Passato prossimo — la scelta giusta",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Il cielo era nuvoloso quando siamo partiti.",
+        "spanish": "El cielo estaba nublado cuando partimos.",
+        "sentence": "Esempio: Imperfetto vs Passato prossimo — la scelta giusta",
+        "translation": "ver explicación"
+      }
+    ],
+    "notes": "Regla práctica: si puedes sustituir el verbo por 'era (una acción) cuando...' o 'solía...', usa imperfetto. Si puedes añadir 'una vez', 'ayer', 'en ese momento exacto', usa passato prossimo.",
+    "tags": [
+      "imperfetto",
+      "passato-prossimo",
+      "contrasto",
+      "past-tense"
+    ],
+    "pattern": "imperfetto (duración/hábito) vs passato prossimo (evento puntual)",
+    "meaning": "cuándo usar imperfecto vs passato prossimo"
+  },
+  {
+    "id": "a2-futuro-semplice",
+    "title": "Futuro semplice",
+    "level": "a2",
+    "explanation": "El futuro semplice italiano es el equivalente del futuro simple español (-é, -ás, -á).\n\nFORMACIÓN: infinitivo (sin la -e final) + terminaciones\nTerminaciones: -ò, -ai, -à, -emo, -ete, -anno\n\nEJEMPLOS:\nparlare → parlerò, parlerai, parlerà, parleremo, parlerete, parleranno\nleggere → leggerò, leggerai, leggerà, leggeremo, leggerete, leggeranno\npartire → partirò, partirai, partirà, partiremo, partirete, partiranno\n\nATENCIÓN — cambios ortográficos:\n-care → cherò (cercare → cercherò)\n-gare → ghero (pagare → pagherò)\n-ciare → cerò (cominciare → comincerò)\n\nIRREGOLARI PRINCIPALES (como el español, la raíz cambia):\nessere → sarò, sarai, sarà...\navere → avrò, avrai, avrà...\nstare → starò, starai, starà...\nandare → andrò, andrai, andrà...\nvenire → verrò, verrai, verrà...\nvolere → vorrò, vorrai, vorrà...\npotere → potrò, potrai, potrà...\ndovere → dovrò, dovrai, dovrà...\nsapere → saprò, saprai, saprà...\n\nUSOS ESPECIALES del futuro italiano (diferentes del español):\n1. Conjetura en el presente: 'Che ore sono? — Saranno le tre.' (¿Qué hora es? — Serán las tres.)\n2. Hipótesis: 'Sarà stanco dopo il lavoro.' (Estará cansado después del trabajo.)\n\nOJO: En la lengua hablada informal, los italianos frecuentemente usan el PRESENTE para el futuro: 'Domani vado al cinema.' (Mañana voy al cine.) — igual que en español.",
+    "examples": [
+      {
+        "italian": "L'anno prossimo andrò in Giappone.",
+        "spanish": "El año que viene iré a Japón.",
+        "sentence": "Esempio: Futuro semplice",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Domani partiremo alle sette.",
+        "spanish": "Mañana partiremos a las siete.",
+        "sentence": "Esempio: Futuro semplice",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Saranno le tre di notte.",
+        "spanish": "Serán las tres de la noche.",
+        "sentence": "Esempio: Futuro semplice",
+        "translation": "ver explicación"
+      }
+    ],
+    "notes": "El futuro italiano es muy similar al español. Los irregolari principales coinciden con los del español: essere/ser → sarò/seré, avere/haber → avrò/habré, andare/ir → andrò (pero el español usa 'ir' con futuro: iré).",
+    "tags": [
+      "futuro-semplice",
+      "future-tense"
+    ],
+    "pattern": "-erò/-erai/-erà/-eremo/-erete/-eranno",
+    "meaning": "futuro simple (hablaré, comeré, dormiré)"
+  },
+  {
+    "id": "a2-verbi-riflessivi",
+    "title": "Verbi riflessivi — mi chiamo, mi alzo...",
+    "level": "a2",
+    "explanation": "Los verbos reflexivos italianos funcionan de manera muy similar a los españoles. Se forman con pronombres reflexivos colocados ANTES del verbo.\n\nPRONOMBRES REFLEXIVOS:\nmi (me), ti (te), si (se), ci (nos), vi (os), si (se)\n\nEJEMPLO: alzarsi (levantarse)\nio mi alzo, tu ti alzi, lui/lei si alza, noi ci alziamo, voi vi alzate, loro si alzano\n\nVERBOS REFLEXIVOS COMUNES:\nalzarsi — levantarse\nlavarsi — lavarse\nvestirsi — vestirse\nsvegliarsi — despertarse\naddormentarsi — dormirse\nchiumarsi — llamarse\nsedersi — sentarse\nriposarsi — descansar\nsentirsi — sentirse\ndivertirsi — divertirse\npreoccuparsi — preocuparse\narrabiarsi — enojarse\ninteressarsi — interesarse\nincontrarsi — encontrarse (recíproco)\n\nAL PASSATO PROSSIMO: los reflexivos SIEMPRE usan ESSERE, y el participio concuerda:\n→ Mi sono alzato (m.) / Mi sono alzata (f.)\n→ Ci siamo divertiti (m./mixed) / Ci siamo divertite (f.)\n\nDIFERENCIA con el español: en italiano, cuando el reflexivo lleva objeto directo, el pronombre reflexivo NO reemplaza al artículo del cuerpo:\n'Mi lavo le mani.' = Me lavo las manos. (NO: mi lavo mie mani)\nEn italiano se usa el artículo determinado con las partes del cuerpo, no el posesivo.",
+    "examples": [
+      {
+        "italian": "Mi sveglio alle sei ogni mattina.",
+        "spanish": "Me despierto a las seis cada mañana.",
+        "sentence": "Esempio: Verbi riflessivi — mi chiamo, mi alzo...",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Come ti chiami?",
+        "spanish": "¿Cómo te llamas?",
+        "sentence": "Esempio: Verbi riflessivi — mi chiamo, mi alzo...",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Si è divertita molto alla festa.",
+        "spanish": "Se divirtió mucho en la fiesta.",
+        "sentence": "Esempio: Verbi riflessivi — mi chiamo, mi alzo...",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Ci siamo incontrati per caso.",
+        "spanish": "Nos encontramos por casualidad.",
+        "sentence": "Esempio: Verbi riflessivi — mi chiamo, mi alzo...",
+        "translation": "ver explicación"
+      }
+    ],
+    "notes": "Los verbos recíprocos (acciones mutuas entre dos o más personas) también usan los reflexivos: 'Marco e Lucia si amano' (Marco y Lucía se aman). Son muy comunes en italiano.",
+    "tags": [
+      "reflexive-verbs",
+      "pronomi-riflessivi",
+      "verbi-riflessivi"
+    ],
+    "pattern": "[soggetto] + mi/ti/si/ci/vi/si + verbo",
+    "meaning": "verbos reflexivos (me llamo, me levanto)"
+  },
+  {
+    "id": "a2-pronomi-diretti",
+    "title": "Pronomi diretti — lo, la, li, le",
+    "level": "a2",
+    "explanation": "Los pronombres de objeto directo reemplazan al objeto directo del verbo (lo que se ve, se come, se compra...).\n\nFORMA ITALIANA → EQUIVALENTE ESPAÑOL:\nmi → me\nti → te\nlo → lo (masc. sing.)\nla → la (fem. sing.) | La → le (usted formal)\nci → nos\nvi → os\nli → los (masc. plur.)\nle → las (fem. plur.)\n\nPOSICIÓN — DIFERENCIA CON EL ESPAÑOL:\nEn italiano (igual que en español) los pronombres van ANTES del verbo conjugado:\n'Lo vedo.' = Lo veo.\nPERO en italiano van DESPUÉS e INCORPORADOS al infinitivo y al gerundio:\n'Voglio vederlo.' = Quiero verlo. (igual que el español)\n'Sto vedendolo.' = Lo estoy viendo.\n\nCON IL PASSATO PROSSIMO — regla importante:\nCon avere + pronombre directo LO/LA/LI/LE, el participio passato CONCUERDA con el pronombre:\n'Ho comprato la borsa.' → 'L'ho comprata.' (fem. sing. → -a)\n'Ho visto i film.' → 'Li ho visti.' (masc. plur. → -i)\n\nELISIONE: lo/la → l' davanti a vocale:\n'Lo aspetto.' / 'L'aspetto.' — ambas formas son correctas",
+    "examples": [
+      {
+        "italian": "Conosci Marco? — Sì, lo conosco.",
+        "spanish": "¿Conoces a Marco? — Sí, lo conozco.",
+        "sentence": "Esempio: Pronomi diretti — lo, la, li, le",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Hai visto la partita? — No, non l'ho vista.",
+        "spanish": "¿Viste el partido? — No, no lo vi.",
+        "sentence": "Esempio: Pronomi diretti — lo, la, li, le",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Questi libri? Li ho letti tutti.",
+        "spanish": "¿Estos libros? Los he leído todos.",
+        "sentence": "Esempio: Pronomi diretti — lo, la, li, le",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Mi chiami domani? — Certo, ti chiamo.",
+        "spanish": "¿Me llamas mañana? — Claro, te llamo.",
+        "sentence": "Esempio: Pronomi diretti — lo, la, li, le",
+        "translation": "ver explicación"
+      }
+    ],
+    "notes": "Diferencia sutil: en español, 'a Marco' (a personal) se vuelve 'lo'. En italiano no hay 'a personal', así que la estructura es igual pero sin la preposición: 'Vedo Marco' → 'Lo vedo.'",
+    "tags": [
+      "pronomi-diretti",
+      "direct-object",
+      "pronouns"
+    ],
+    "pattern": "lo/la/li/le + verbo | verbo + lo/la/li/le",
+    "meaning": "pronombres de objeto directo (lo, la, los, las)"
+  },
+  {
+    "id": "a2-pronomi-indiretti",
+    "title": "Pronomi indiretti — mi, ti, gli, le",
+    "level": "a2",
+    "explanation": "Los pronombres de objeto indirecto responden a la pregunta '¿a quién?' o '¿para quién?'\n\nFORMA ITALIANA → EQUIVALENTE ESPAÑOL:\nmi → me (a mí)\nti → te (a ti)\ngli → le (a él) — atención: diferente al español\nle → le (a ella) — atención: diferente al español\nci → nos (a nosotros)\nvi → os (a vosotros)\ngli/loro → les (a ellos/ellas) — 'gli' es más común en la lengua hablada\n\nDIFERENCIA CRUCIAL CON EL ESPAÑOL:\nEn español: 'le' sirve para él y ella.\nEn italiano: 'gli' = a él, 'le' = a ella. ¡No confundirlos!\n\nEjemplo de confusión común:\n'Gli parlo' = Le hablo A ÉL\n'Le parlo' = Le hablo A ELLA\n\nPOSICIÓN: igual que los directos, ANTES del verbo conjugado:\n'Ti telefono stasera.' = Te llamo esta noche.\n\nCON IL PASSATO PROSSIMO: los indirectos NO causan concordancia del participio:\n'Gli ho scritto una lettera.' (no cambia el participio)\n\nVERBOS QUE USAN INDIRECTOS EN ITALIANO (diferente al español):\ntelefonare a q. → telefonargli (llamar a alguien)\nscrivere a q. → scrivergli\nchiedere a q. → chiedergli\npiacere a q. → piacergli — 'Mi piace' = me gusta (¡me place a mí!)",
+    "examples": [
+      {
+        "italian": "Ti mando un messaggio.",
+        "spanish": "Te mando un mensaje.",
+        "sentence": "Esempio: Pronomi indiretti — mi, ti, gli, le",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Gli ho parlato ieri. / Le ho parlato ieri.",
+        "spanish": "Le hablé a él ayer. / Le hablé a ella ayer.",
+        "sentence": "Esempio: Pronomi indiretti — mi, ti, gli, le",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Mi ha detto la verità.",
+        "spanish": "Me dijo la verdad.",
+        "sentence": "Esempio: Pronomi indiretti — mi, ti, gli, le",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Ci hanno offerto un lavoro.",
+        "spanish": "Nos ofrecieron un trabajo.",
+        "sentence": "Esempio: Pronomi indiretti — mi, ti, gli, le",
+        "translation": "ver explicación"
+      }
+    ],
+    "notes": "Truco para no confundir diretti e indiretti: los directos responden a '¿qué?' o '¿a quién? (objeto)'; los indirectos responden a '¿a quién? (beneficiario/destinatario)'. 'Ho visto LEI' (objeto directo) vs 'Ho parlato A LEI → LE ho parlato' (objeto indirecto).",
+    "tags": [
+      "pronomi-indiretti",
+      "indirect-object",
+      "pronouns",
+      "gli",
+      "le"
+    ],
+    "pattern": "mi/ti/gli/le/ci/vi/gli + verbo",
+    "meaning": "pronombres de objeto indirecto (me, te, le)"
+  },
+  {
+    "id": "a2-ci",
+    "title": "Ci — luogo e funzione",
+    "level": "a2",
+    "explanation": "La partícula 'ci' tiene múltiples funciones en italiano. Es importante aprender cada una:\n\n1. CI DE LUGAR — 'allí', 'ahí', 'en ese lugar' (reemplaza un complemento de lugar)\n'Vai spesso a Roma?' → 'Sì, ci vado spesso.' (¿Vas a menudo a Roma? — Sí, voy a menudo [allí].)\nReemplaza expresiones como: a Milano, in Italia, qui, lì, al supermercato...\n\n2. CI REFLEXIVO/RECÍPROCO — 'nos'\n'Ci vediamo domani.' = Nos vemos mañana.\n'Ci siamo alzati presto.' = Nos levantamos temprano.\n\n3. CI en expresiones fijas:\n'c'è' / 'ci sono' = hay (there is/are) — de A1\n'Ci vuole' = hace falta, se necesita\n'Ce la faccio' = puedo hacerlo, lo logro\n'Non ci capisco niente' = No entiendo nada de esto.\n\n4. CI + AVERE (colloquiale):\nEn el italiano hablado: 'Ce l'hai una penna?' = ¿Tienes un bolígrafo?\n\nPOSICIÓN:\nAntes del verbo conjugado: 'Ci vado domani.'\nDespués e incorporado al infinitivo: 'Voglio andarci.'\n\nDIFERENCIA CON EL ESPAÑOL: En español no hay un equivalente directo para el 'ci' de lugar. Los hispanohablantes tienden a omitirlo — ¡no lo hagas en italiano!",
+    "examples": [
+      {
+        "italian": "Sei mai stato a Venezia? — Sì, ci sono stato l'anno scorso.",
+        "spanish": "¿Has estado alguna vez en Venecia? — Sí, estuve allí el año pasado.",
+        "sentence": "Esempio: Ci — luogo e funzione",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Ci vuole un'ora per arrivare.",
+        "spanish": "Se necesita una hora para llegar.",
+        "sentence": "Esempio: Ci — luogo e funzione",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Non ci credo!",
+        "spanish": "¡No me lo creo! / ¡No lo creo!",
+        "sentence": "Esempio: Ci — luogo e funzione",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Ci vediamo alle tre!",
+        "spanish": "¡Nos vemos a las tres!",
+        "sentence": "Esempio: Ci — luogo e funzione",
+        "translation": "ver explicación"
+      }
+    ],
+    "notes": "El 'ci' de lugar es el más difícil para hispanohablantes porque no tiene equivalente directo. Practica reemplazando sintagmas de lugar: 'Vado a scuola' → 'Ci vado', 'Resto a casa' → 'Ci resto'.",
+    "tags": [
+      "ci",
+      "partitivo",
+      "luogo",
+      "pronouns"
+    ],
+    "pattern": "ci (= lì) | c'è / ci sono + [nome]",
+    "meaning": "partícula ci (allí, hay, nosotros)"
+  },
+  {
+    "id": "a2-ne",
+    "title": "Ne — partitivo e riferimento",
+    "level": "a2",
+    "explanation": "La partícula 'ne' es uno de los aspectos más característicos del italiano y NO tiene equivalente directo en español. Es crucial aprenderla bien.\n\nFUNCIONES DE NE:\n\n1. NE PARTITIVO — reemplaza 'de + algo' cuando hablas de cantidad:\n'Vuoi del pane?' → 'Sì, ne voglio un po'.' (¿Quieres pan? — Sí, quiero un poco [de él].)\n'Hai fratelli?' → 'Sì, ne ho due.' (¿Tienes hermanos? — Sí, tengo dos [de ellos].)\nEn español se diría simplemente 'Sí, tengo dos.' — en italiano el 'ne' es OBLIGATORIO.\n\n2. NE de lugar — 'de allí', equivale a 'di + luogo':\n'Torni da Roma?' → 'Sì, ne torno adesso.' (¿Vuelves de Roma? — Sí, vuelvo de allí ahora.)\n\n3. NE con verbos que se construyen con 'di':\nparlare di qc → 'Ne parliamo dopo.' (Hablemos de eso después.)\navere bisogno di qc → 'Ne ho bisogno.' (Lo necesito. / Tengo necesidad de ello.)\n\nCON IL PASSATO PROSSIMO — concordancia:\nCuando 'ne' reemplaza un objeto directo, el participio concuerda en número:\n'Quante pizze hai mangiato?' → 'Ne ho mangiate due.' (masc./fem. concuerda con pizza: -e)\n\nPOSICIÓN: igual que los otros pronombres, antes del verbo conjugado.\n\nERROR TÍPICO DE HISPANOHABLANTES: Decir 'Ho due fratelli' cuando ya se mencionaron, en lugar de 'Ne ho due.' El 'ne' es obligatorio cuando se expresa cantidad y el referente ya está en el contexto.",
+    "examples": [
+      {
+        "italian": "Quanti caffè bevi al giorno? — Ne bevo due.",
+        "spanish": "¿Cuántos cafés tomas al día? — Tomo dos (de ellos).",
+        "sentence": "Esempio: Ne — partitivo e riferimento",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Hai visto dei film italiani? — Sì, ne ho visti molti.",
+        "spanish": "¿Has visto películas italianas? — Sí, he visto muchas.",
+        "sentence": "Esempio: Ne — partitivo e riferimento",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Parli spesso di politica? — No, non ne parlo mai.",
+        "spanish": "¿Hablas a menudo de política? — No, nunca hablo de eso.",
+        "sentence": "Esempio: Ne — partitivo e riferimento",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Ne hai abbastanza? — No, ne voglio ancora.",
+        "spanish": "¿Tienes suficiente? — No, quiero más.",
+        "sentence": "Esempio: Ne — partitivo e riferimento",
+        "translation": "ver explicación"
+      }
+    ],
+    "notes": "Regla práctica: cuando en español podrías decir 'de eso/de él/de ella/de ellos' refiriéndose a algo ya mencionado, o cuando expresas cantidad de algo ya nombrado — usa 'ne'. Es el equivalente de 'en/y' en francés ('j'en veux deux').",
+    "tags": [
+      "ne",
+      "partitivo",
+      "pronouns"
+    ],
+    "pattern": "ne + verbo (= de ello/a/os/as, de allí)",
+    "meaning": "partícula ne (de ello, de allí, de eso)"
+  },
+  {
+    "id": "a2-condizionale",
+    "title": "Condizionale presente — vorrei, potrei, dovrei...",
+    "level": "a2",
+    "explanation": "El condizionale presente equivale al condicional español (-ría, -rías...). Se usa para peticiones corteses, deseos, hipótesis.\n\nFORMACIÓN: misma raíz que el futuro + terminaciones -ei, -esti, -ebbe, -emmo, -este, -ebbero\n\nparlare: parlerei, parleresti, parlerebbe, parleremmo, parlereste, parlerebbero\nleggere: leggerei, leggeresti, leggerebbe, leggeremmo, leggereste, leggerebbero\npartire: partirei, partiresti, partirebbe, partiremmo, partireste, partirebbero\n\nIRREGOLARI (mismos irregolari del futuro):\nessere → sarei, saresti, sarebbe...\navere → avrei, avresti, avrebbe...\nandare → andrei, andresti, andrebbe...\nvenire → verrei, verresti, verrebbe...\nvolere → vorrei, vorresti, vorrebbe... ← ¡MUY IMPORTANTE!\npotere → potrei, potresti, potrebbe... ← ¡MUY IMPORTANTE!\ndovere → dovrei, dovresti, dovrebbe... ← ¡MUY IMPORTANTE!\n\nUSOS PRINCIPALES:\n1. Petición cortés (más formal que el presente):\n'Vorrei un caffè.' = Quisiera un café. (más cortés que 'Voglio')\n'Potrebbe parlarmi più lentamente?' = ¿Podría hablarme más despacio?\n\n2. Consejo con 'dovere':\n'Dovresti studiare di più.' = Deberías estudiar más.\n\n3. Deseo/hipótesis:\n'Mi piacerebbe visitare il Giappone.' = Me gustaría visitar Japón.\n\nPARALELO CON EL ESPAÑOL: El uso es prácticamente idéntico al condicional español. 'Vorrei' = 'Quisiera', 'Potrei' = 'Podría', 'Dovrei' = 'Debería'.",
+    "examples": [
+      {
+        "italian": "Vorrei prenotare un tavolo per due.",
+        "spanish": "Quisiera reservar una mesa para dos.",
+        "sentence": "Esempio: Condizionale presente — vorrei, potrei, dovrei...",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Potresti aiutarmi?",
+        "spanish": "¿Podrías ayudarme?",
+        "sentence": "Esempio: Condizionale presente — vorrei, potrei, dovrei...",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Dovresti dormire di più.",
+        "spanish": "Deberías dormir más.",
+        "sentence": "Esempio: Condizionale presente — vorrei, potrei, dovrei...",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Mi piacerebbe vivere in Italia.",
+        "spanish": "Me gustaría vivir en Italia.",
+        "sentence": "Esempio: Condizionale presente — vorrei, potrei, dovrei...",
+        "translation": "ver explicación"
+      }
+    ],
+    "notes": "Aprende primero 'vorrei', 'potrei' y 'dovrei' — son las formas más útiles y aparecen en casi todas las conversaciones. Con estas tres formas ya puedes ser muy cortés en italiano.",
+    "tags": [
+      "condizionale",
+      "conditional",
+      "vorrei",
+      "potrei",
+      "dovrei"
+    ],
+    "pattern": "-erei/-eresti/-erebbe/-eremmo/-ereste/-erebbero",
+    "meaning": "condicional presente (querría, podría, debería)"
+  },
+  {
+    "id": "a2-dovere-potere-volere",
+    "title": "I modali al passato — ho dovuto, ho potuto...",
+    "level": "a2",
+    "explanation": "Los verbos modales (dovere, potere, volere) pueden usarse en passato prossimo. Aquí el auxiliar varía según el verbo que sigue.\n\nREGLA GENERAL:\n- Si el infinitivo que sigue usa ESSERE → el modal usa ESSERE\n- Si el infinitivo que sigue usa AVERE → el modal puede usar AVERE o ESSERE (con essere hay concordancia)\n\nEN LA PRÁCTICA (lengua estándar):\nho dovuto + infinitivo → tuve que + infinitivo\n'Ho dovuto lavorare tutto il giorno.' = Tuve que trabajar todo el día.\n\nhom potuto + infinitivo → pude + infinitivo\n'Non ho potuto venire alla festa.' = No pude venir a la fiesta.\n\nho voluto + infinitivo → quise + infinitivo\n'Ho voluto provare la cucina giapponese.' = Quise probar la cocina japonesa.\n\nCON ESSERE (variante):\n'Sono dovuto andare via presto.' = Tuve que irme pronto. (andare → essere)\n'Sono potuto uscire.' = Pude salir.\n\nEN LA LENGUA HABLADA: muchos italianos usan sempre avere con los modales, independientemente del verbo que sigue. Esta es la tendencia en el norte de Italia.\n\nDIFERENCIA CON EL ESPAÑOL: En español los modales no cambian el auxiliar: 'He tenido que ir', 'He podido salir'. En italiano hay esta variabilidad.",
+    "examples": [
+      {
+        "italian": "Ho dovuto lavorare sabato.",
+        "spanish": "Tuve que trabajar el sábado.",
+        "sentence": "Esempio: I modali al passato — ho dovuto, ho potuto...",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Non ho potuto dormire.",
+        "spanish": "No pude dormir.",
+        "sentence": "Esempio: I modali al passato — ho dovuto, ho potuto...",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Ho voluto provare il tiramisù.",
+        "spanish": "Quise probar el tiramisú.",
+        "sentence": "Esempio: I modali al passato — ho dovuto, ho potuto...",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Siamo dovuti partire presto.",
+        "spanish": "Tuvimos que partir pronto.",
+        "sentence": "Esempio: I modali al passato — ho dovuto, ho potuto...",
+        "translation": "ver explicación"
+      }
+    ],
+    "notes": "Para un A2, usa AVERE con todos los modales + infinitivo → 'ho dovuto', 'ho potuto', 'ho voluto' — es la forma más segura y muy usada en la lengua hablada.",
+    "tags": [
+      "modali",
+      "dovere",
+      "potere",
+      "volere",
+      "passato-prossimo"
+    ],
+    "pattern": "ho + dovuto/potuto/voluto + infinitivo",
+    "meaning": "verbos modales en tiempo pasado"
+  },
+  {
+    "id": "a2-comparativi",
+    "title": "Comparativi — più... di, meno... di, tanto... quanto",
+    "level": "a2",
+    "explanation": "Las comparaciones en italiano son muy similares al español.\n\n1. COMPARATIVO DE SUPERIORIDAD (más... que):\npiù + aggettivo + di/che\n'Milano è più grande di Roma.' — Milán es más grande que Roma.\n\nUSO DE DI vs CHE:\n- 'di' cuando se comparan dos SUSTANTIVOS con el mismo adjetivo:\n  'Luca è più alto di Marco.' (Luca es más alto que Marco.)\n- 'che' cuando se comparan dos ADJETIVOS, dos VERBOS o dos INFINITIVOS con el mismo sustantivo:\n  'È più bella che intelligente.' (Es más guapa que inteligente.)\n  'È meglio parlare che tacere.' (Es mejor hablar que callar.)\n\n2. COMPARATIVO DE INFERIORIDAD (menos... que):\nmeno + aggettivo + di/che\n'Questo libro è meno interessante di quello.' — Este libro es menos interesante que aquel.\n\n3. COMPARATIVO DE UGUAGLIANZA (tan... como):\ntanto + aggettivo + quanto (il 'tanto' spesso si omette)\n'Luca è (tanto) alto quanto Marco.' — Luca es tan alto como Marco.\n\nFORME IRREGOLARI:\nbuono → migliore (mejor), il migliore (el mejor)\ncattivo → peggiore (peor), il peggiore (el peor)\ngrande → maggiore (mayor, más grande), il maggiore\npiccolo → minore (menor, más pequeño), il minore\nbene → meglio (mejor — adverbio)\nmale → peggio (peor — adverbio)",
+    "examples": [
+      {
+        "italian": "Il treno è più veloce dell'autobus.",
+        "spanish": "El tren es más rápido que el autobús.",
+        "sentence": "Esempio: Comparativi — più... di, meno... di, tanto... quanto",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Questo è meno caro di quello.",
+        "spanish": "Este es menos caro que aquel.",
+        "sentence": "Esempio: Comparativi — più... di, meno... di, tanto... quanto",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Parla tanto bene quanto suo fratello.",
+        "spanish": "Habla tan bien como su hermano.",
+        "sentence": "Esempio: Comparativi — più... di, meno... di, tanto... quanto",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Questa pizza è migliore dell'altra.",
+        "spanish": "Esta pizza es mejor que la otra.",
+        "sentence": "Esempio: Comparativi — più... di, meno... di, tanto... quanto",
+        "translation": "ver explicación"
+      }
+    ],
+    "notes": "Atención con 'di' vs 'che': error muy común es usar siempre 'di'. Recuerda: 'di' ante sustantivos, 'che' ante adjetivos, verbos, infinitivos. Y di + articolo = del, della, dei...",
+    "tags": [
+      "comparativi",
+      "aggettivi",
+      "comparison"
+    ],
+    "pattern": "più/meno + [aggettivo] + di/che | tanto... quanto",
+    "meaning": "comparativos de superioridad, inferioridad e igualdad"
+  },
+  {
+    "id": "a2-superlativi",
+    "title": "Superlativo relativo e assoluto",
+    "level": "a2",
+    "explanation": "En italiano hay dos tipos de superlativo:\n\n1. SUPERLATIVO RELATIVO (el más... de) — como en español:\nil/la/i/le + più/meno + aggettivo + di/del gruppo\n'Roma è la città più bella d'Italia.' = Roma es la ciudad más hermosa de Italia.\n'È il film meno interessante dell'anno.' = Es la película menos interesante del año.\n\nFormas irregolari:\nbuono → il migliore (el mejor)\ncattivo → il peggiore (el peor)\ngrande → il maggiore (el mayor)\npiccolo → il minore (el menor)\n\n2. SUPERLATIVO ASSOLUTO (muy/sumamente/ísimo) — DIFERENTE DEL ESPAÑOL EN FORMA:\nEn italiano se forma añadiendo -ISSIMO/A/I/E al adjetivo (sin el artículo):\n\ngrande → grandissimo (grandísimo)\nbello → bellissimo (hermosísimo)\nbuono → buonissimo (buenísimo, muy bueno)\nstanco → stanchissimo (agotadísimo)\n\nEl -issimo concuerda en género y número:\nÈ bellissimo. / È bellissima. / Sono bellissimi. / Sono bellissime.\n\nOTRAS FORMAS DEL SUPERLATIVO ASSOLUTO:\n- Molto + aggettivo: 'molto bello' (muy bonito)\n- Prefijos: straordinario, superbello, ultraveloce\n- Struttura 'pieno di': 'una città piena di vita'\n\nPARALELO: el -issimo español (-ísimo) proviene exactamente del italiano. Son formas paralelas.",
+    "examples": [
+      {
+        "italian": "È il ristorante più famoso di Napoli.",
+        "spanish": "Es el restaurante más famoso de Nápoles.",
+        "sentence": "Esempio: Superlativo relativo e assoluto",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Questo gelato è buonissimo!",
+        "spanish": "¡Este helado está buenísimo!",
+        "sentence": "Esempio: Superlativo relativo e assoluto",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Sono stanchissimo dopo la maratona.",
+        "spanish": "Estoy agotadísimo después del maratón.",
+        "sentence": "Esempio: Superlativo relativo e assoluto",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Lei è la studentessa più brava della classe.",
+        "spanish": "Ella es la mejor alumna de la clase.",
+        "sentence": "Esempio: Superlativo relativo e assoluto",
+        "translation": "ver explicación"
+      }
+    ],
+    "notes": "-issimo es el superlativo absoluto y es muy frecuente en italiano hablado. ¡Los italianos lo usan constantemente! 'Bellissimo!', 'Buonissimo!', 'Bravissimo!' son expresiones de entusiasmo muy naturales.",
+    "tags": [
+      "superlativo",
+      "aggettivi",
+      "issimo"
+    ],
+    "pattern": "il più + [agg.] di | [agg.] + -issimo/-issima",
+    "meaning": "superlativo relativo y absoluto"
+  },
+  {
+    "id": "a2-avverbi",
+    "title": "Avverbi in -mente",
+    "level": "a2",
+    "explanation": "Los adverbios en -mente son prácticamente idénticos a los adverbios en -mente del español. ¡Una ventaja enorme para hispanohablantes!\n\nFORMACIÓN:\nfemminile dell'aggettivo + -mente\nlento → lenta → lentamente (lentamente)\nrapido → rapida → rapidamente (rápidamente)\nfacile → facile → facilmente (fácilmente) — adj. terminado en -e, no cambia\nfelice → felice → felicemente (felizmente)\n\nRESPECTO AL ESPAÑOL:\nLas formas son prácticamente iguales:\nlentamente, rapidamente/rápidamente, normalmente, finalmente, veramente/verdaderamente...\n\nATENCIÓN — excepciones a la regla base:\nAdjectives ending in -le or -re DROP the final vowel before -mente:\nfacile → facilmente (NOT facilemente)\nregolare → regolarmente (NOT regolarmente — ya sin la -e del fem.)\nnormale → normalmente\nparticolare → particolarmente\n\nADVERBIOS IRREGOLARI O SPECIALI:\nbene (bien) — NO benemente\nmale (mal) — NO malemente\ncosì (así)\nmolto (mucho/muy)\npoco (poco)\ntroppo (demasiado)\nabastanza (bastante)\n\nFRECUENCIA DE USO: el italiano usa mucho los adverbios en -mente, especialmente:\novviamente (obviamente), sicuramente (seguramente), probabilmente (probablemente), fortunatamente (afortunadamente), purtroppo (desgraciadamente — no en -mente pero equivalente).",
+    "examples": [
+      {
+        "italian": "Parla lentamente, per favore.",
+        "spanish": "Habla despacio, por favor.",
+        "sentence": "Esempio: Avverbi in -mente",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Probabilmente arriverò tardi.",
+        "spanish": "Probablemente llegaré tarde.",
+        "sentence": "Esempio: Avverbi in -mente",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Fortunatamente tutto è andato bene.",
+        "spanish": "Afortunadamente todo fue bien.",
+        "sentence": "Esempio: Avverbi in -mente",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Ha risposto correttamente a tutte le domande.",
+        "spanish": "Respondió correctamente a todas las preguntas.",
+        "sentence": "Esempio: Avverbi in -mente",
+        "translation": "ver explicación"
+      }
+    ],
+    "notes": "Truco mnemotécnico: si conoces el adjetivo, sabes el adverbio. Si sabes 'lento', sabes 'lentamente'. Con el español como base, reconocerás fácilmente casi todos los adverbios en -mente italianos.",
+    "tags": [
+      "avverbi",
+      "mente",
+      "adverbs"
+    ],
+    "pattern": "[aggettivo femminile] + -mente",
+    "meaning": "adverbios de modo terminados en -mente"
+  },
+  {
+    "id": "a2-pronomi-tonici",
+    "title": "Pronomi tonici — me, te, lui, lei, noi, voi, loro",
+    "level": "a2",
+    "explanation": "Los pronombres tónicos (también llamados disjuntivos o fuertes) se usan en posiciones donde los pronombres átonos no pueden ir.\n\nFORMA:\nio → me (yo → mí)\ntu → te (tú → ti)\nlui → lui (él → él)\nlei → lei (ella → ella)\nnoi → noi (nosotros → nosotros)\nvoi → voi → vosotros → vosotros)\nloro → loro (ellos/ellas → ellos/ellas)\n\nATENCIÓN — pronombres de respeto:\n'Lei' (mayúscula) = usted\n\nCUÁNDO USAR LOS PRONOMBRES TÓNICOS:\n1. Después de preposiciones:\n'Questo è per te.' = Esto es para ti.\n'Viene con me.' = Viene conmigo.\n'Parlo di lui.' = Hablo de él.\n\n2. En comparaciones:\n'È più alto di me.' = Es más alto que yo.\n'Studia quanto te.' = Estudia tanto como tú.\n\n3. Para enfatizar (contraste o énfasis):\n'Lo dico a te, non a lui.' = Te lo digo a ti, no a él.\n'Ha invitato me, non te.' = Me invitó a mí, no a ti.\n\n4. Después de 'anche', 'neanche', 'nemmeno':\n'Anche lui viene.' = Él también viene.\n'Neanche noi sappiamo.' = Nosotros tampoco sabemos.\n\nDIFERENCIA NOTABLE: 'con me' (conmigo), 'con te' (contigo), 'con lui/lei/loro/noi/voi' — no hay contracciones especiales como en español 'conmigo/contigo'.",
+    "examples": [
+      {
+        "italian": "Questo regalo è per te.",
+        "spanish": "Este regalo es para ti.",
+        "sentence": "Esempio: Pronomi tonici — me, te, lui, lei, noi, voi, loro",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Vieni con me?",
+        "spanish": "¿Vienes conmigo?",
+        "sentence": "Esempio: Pronomi tonici — me, te, lui, lei, noi, voi, loro",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Parla di me?",
+        "spanish": "¿Habla de mí?",
+        "sentence": "Esempio: Pronomi tonici — me, te, lui, lei, noi, voi, loro",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "È più brava di lui.",
+        "spanish": "Ella es mejor que él.",
+        "sentence": "Esempio: Pronomi tonici — me, te, lui, lei, noi, voi, loro",
+        "translation": "ver explicación"
+      }
+    ],
+    "notes": "A diferencia del español, en italiano 'con me' es simplemente 'con me' — no hay una forma especial como 'conmigo'. Esto es en realidad más simple que el español.",
+    "tags": [
+      "pronomi-tonici",
+      "pronouns",
+      "prepositions"
+    ],
+    "pattern": "[prep.] + me/te/lui/lei/noi/voi/loro",
+    "meaning": "pronombres tónicos (mí, ti, él, ella)"
+  },
+  {
+    "id": "a2-imperativo",
+    "title": "Imperativo formale e informale",
+    "level": "a2",
+    "explanation": "El imperativo se usa para órdenes, instrucciones y sugerencias.\n\nIMPERATIVO INFORMALE (TU) — para una persona que tuteas:\n-ARE: parla! (habla), mangia! (come), aspetta! (espera), ascolta! (escucha)\n-ERE: scrivi! (escribe), leggi! (lee), rispondi! (responde)\n-IRE: apri! (abre), senti! (oye), dormi! (duerme)\nFinire → finisci! | Capire → capisci!\n\nIRREGOLARI TU IMPORTANTE:\nessere → sii! (sé)\navere → abbi! (ten)\nandare → va'! (¡ve!) / vai!\nfare → fa'! (¡haz!) / fai!\ndire → di'! (¡di!) / dì!\nstare → sta'! (¡estate!) / stai!\ndare → da'! (¡da!) / dai!\n\nNEGATIVO INFORMALE — usa NON + infinitivo:\nNon parlare! (¡No hables!), Non mangiare! (¡No comas!)\n\nIMPERATIVO FORMALE (LEI) — con alguien de usted:\n-ARE: parli! (hable), mangi! (coma), aspetti! (espere) — termina en -i\n-ERE: scriva! (escriba), legga! (lea) — termina en -a\n-IRE: apra! (abra), senta! (oiga) — termina en -a\n\nNEGATIVO FORMALE: non + imperativo formale:\n'Non parli!' = ¡No hable!\n\nCON PRONOMBRES:\nInformale: los pronombres se JUNTAN AL VERBO:\n'Dimmelo!' (¡Dímelo!), 'Aspettami!' (¡Espérame!)\nFormale: los pronombres van ANTES:\n'Mi dica!' (¡Dígame!), 'La aspetti!' (¡Espérela!)",
+    "examples": [
+      {
+        "italian": "Parla più lentamente, per favore!",
+        "spanish": "¡Habla más despacio, por favor!",
+        "sentence": "Esempio: Imperativo formale e informale",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Non toccare quella borsa!",
+        "spanish": "¡No toques ese bolso!",
+        "sentence": "Esempio: Imperativo formale e informale",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Mi dica, signora.",
+        "spanish": "Dígame, señora.",
+        "sentence": "Esempio: Imperativo formale e informale",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Dimmi la verità!",
+        "spanish": "¡Dime la verdad!",
+        "sentence": "Esempio: Imperativo formale e informale",
+        "translation": "ver explicación"
+      }
+    ],
+    "notes": "La forma más difícil para hispanohablantes es el negativo informal con infinitivo: 'Non parlare!' en lugar de la forma conjugada que usamos en español. En italiano formal, el imperativo usa el subjuntivo (presente) — lo aprenderás en B1.",
+    "tags": [
+      "imperativo",
+      "commands",
+      "informal",
+      "formal"
+    ],
+    "pattern": "(tu) parla! | (Lei) parli! | (voi) parlate!",
+    "meaning": "imperativo (¡habla!, ¡come!, ¡escribe!)"
+  },
+  {
+    "id": "a2-stare-gerundio",
+    "title": "Stare + gerundio — sto mangiando",
+    "level": "a2",
+    "explanation": "La perífrasis 'stare + gerundio' es el equivalente exacto del español 'estar + gerundio'. ¡Funciona igual!\n\nFORMACIÓN DEL GERUNDIO:\n-ARE → -ANDO: parlare → parlando, mangiare → mangiando, lavorare → lavorando\n-ERE → -ENDO: leggere → leggendo, scrivere → scrivendo, correre → correndo\n-IRE → -ENDO: dormire → dormendo, finire → finendo, partire → partendo\n\nGERUNDI IRREGOLARI:\nfare → facendo\ndire → dicendo\nbere → bevendo\nprodurre → producendo\n\nCONJUGACIÓN DE STARE:\nio sto, tu stai, lui/lei sta, noi stiamo, voi state, loro stanno\n\nEJEMPLO:\nio sto mangiando — estoy comiendo\ntu stai leggendo — estás leyendo\nlui sta dormendo — está durmiendo\nnoi stiamo lavorando — estamos trabajando\nvoi state aspettando — estáis esperando\nloro stanno correndo — están corriendo\n\nCON PRONOMBRES — igual que el español:\nI pronomi si attaccano al gerundio O vanno prima di stare:\n'Sto guardandolo.' = Lo sto guardando. (Lo estoy viendo.)\n\nUSO: para acciones en progreso en el momento presente (igual que el español). También en el passato prossimo: 'Stavo dormendo quando...' = Estaba durmiendo cuando...",
+    "examples": [
+      {
+        "italian": "Cosa stai facendo?",
+        "spanish": "¿Qué estás haciendo?",
+        "sentence": "Esempio: Stare + gerundio — sto mangiando",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Sto studiando l'italiano.",
+        "spanish": "Estoy estudiando italiano.",
+        "sentence": "Esempio: Stare + gerundio — sto mangiando",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Stava piovendo quando siamo usciti.",
+        "spanish": "Estaba lloviendo cuando salimos.",
+        "sentence": "Esempio: Stare + gerundio — sto mangiando",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Gli sto spiegando la grammatica.",
+        "spanish": "Le estoy explicando la gramática.",
+        "sentence": "Esempio: Stare + gerundio — sto mangiando",
+        "translation": "ver explicación"
+      }
+    ],
+    "notes": "¡Buenas noticias! Esta estructura es idéntica al español. La única diferencia es el verbo: 'stare' en vez de 'estar'. Si sabes usar 'estar + gerundio' en español, ya sabes usar 'stare + gerundio' en italiano.",
+    "tags": [
+      "stare-gerundio",
+      "progressive",
+      "gerundio"
+    ],
+    "pattern": "[soggetto] + sto/stai/sta... + verbo-ando/-endo",
+    "meaning": "estar + gerundio (estoy hablando, estoy comiendo)"
+  },
+  {
+    "id": "a2-da-quanto",
+    "title": "Da + tempo — hace... que / desde hace",
+    "level": "a2",
+    "explanation": "La preposición DA + expresión temporal es uno de los aspectos más diferentes del italiano respecto al español.\n\nEN ITALIANO: verbo en PRESENTE + da + tiempo → acción que empezó en el pasado y CONTINÚA en el presente.\n'Studio italiano da sei mesi.' = Estudio italiano desde hace seis meses. / Llevo seis meses estudiando italiano.\n\nEN ESPAÑOL equivale a:\n- 'Hace seis meses que estudio italiano.'\n- 'Llevo seis meses estudiando italiano.'\n- 'Estudio italiano desde hace seis meses.'\n\nEL ERROR CLÁSICO: Los hispanohablantes tienden a traducir 'hace seis meses que estudio' con el presente perfecto o con 'per' — ¡NO! En italiano para acción continuada en el presente se usa:\n→ PRESENTE + da (NO passato prossimo + per)\n'Abito a Roma da tre anni.' = Vivo en Roma desde hace tres años.\n\nCON IMPERFETTO + DA: para acción continuada en el pasado (hasta otro momento pasado):\n'Aspettavo il treno da un'ora quando è arrivato.' = Llevaba una hora esperando el tren cuando llegó.\n\nPREGUNTAS:\n'Da quanto tempo studi italiano?' = ¿Cuánto tiempo llevas estudiando italiano? / ¿Hace cuánto que estudias italiano?\n'Da quando abiti qui?' = ¿Desde cuándo vives aquí?\n\nRESPUESTAS:\n'Da tre mesi.' (desde hace tres meses)\n'Da lunedì.' (desde el lunes)\n'Da quando ero bambino.' (desde que era niño)",
+    "examples": [
+      {
+        "italian": "Lavoro in questa azienda da cinque anni.",
+        "spanish": "Trabajo en esta empresa desde hace cinco años.",
+        "sentence": "Esempio: Da + tempo — hace... que / desde hace",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Da quanto tempo aspetti?",
+        "spanish": "¿Cuánto tiempo llevas esperando?",
+        "sentence": "Esempio: Da + tempo — hace... que / desde hace",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Non mangio carne da due anni.",
+        "spanish": "Llevo dos años sin comer carne.",
+        "sentence": "Esempio: Da + tempo — hace... que / desde hace",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Siamo amici da quando avevamo dieci anni.",
+        "spanish": "Somos amigos desde que teníamos diez años.",
+        "sentence": "Esempio: Da + tempo — hace... que / desde hace",
+        "translation": "ver explicación"
+      }
+    ],
+    "notes": "Regla mnemotécnica: si en español dices 'hace X tiempo que + presente' → en italiano usas 'presente + da + X tiempo'. Es una diferencia estructural importante. El italiano ve la acción como aún en curso, por eso usa el presente.",
+    "tags": [
+      "da",
+      "tempo",
+      "duration",
+      "present-tense"
+    ],
+    "pattern": "[soggetto] + verbo + da + [periodo di tempo]",
+    "meaning": "hace... que (tiempo transcurrido)"
+  },
+  {
+    "id": "a2-prima-dopo",
+    "title": "Prima di / Dopo di + infinito",
+    "level": "a2",
+    "explanation": "Las expresiones de secuencia temporal 'prima' y 'dopo' pueden combinarse con infinitivos para expresar orden de acciones.\n\nPRIMA DI + INFINITO (antes de + infinitivo):\n'Prima di dormire, leggo un po'.' = Antes de dormir, leo un poco.\n'Prima di partire, chiudi le finestre.' = Antes de partir, cierra las ventanas.\n\nDOPO + INFINITO PASSATO (después de + infinitivo):\n'Dopo aver mangiato, faccio una passeggiata.' = Después de comer, doy un paseo.\n'Dopo essere arrivata, ha chiamato.' = Después de llegar, llamó.\n\nATENCIÓN — el infinito passato:\nDopo aver/avere + participio passato\nDopo essere + participio passato (para verbos con essere)\nEs una estructura más formal; en la lengua hablada a veces se usa 'dopo che + verbo coniugato'.\n\nDIFERENCIA CON EL ESPAÑOL:\nEn español: 'después de + infinitivo simple' (después de comer).\nEn italiano: 'dopo + infinito passato' → 'dopo aver mangiato' (aunque la tendencia es simplificar).\nEn español NO se usa un tiempo compuesto aquí, pero en italiano formal sí.\n\nOTRAS EXPRESIONES DE TIEMPO:\n'appena' + passato prossimo = en cuanto, apenas\n'Appena sono arrivato, ho chiamato.' = En cuanto llegué, llamé.\n'mentre' + imperfetto = mientras\n'quando' + passato prossimo/imperfetto = cuando",
+    "examples": [
+      {
+        "italian": "Prima di uscire, controlla il meteo.",
+        "spanish": "Antes de salir, revisa el tiempo.",
+        "sentence": "Esempio: Prima di / Dopo di + infinito",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Dopo aver mangiato, andiamo a fare una passeggiata.",
+        "spanish": "Después de comer, vamos a dar un paseo.",
+        "sentence": "Esempio: Prima di / Dopo di + infinito",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Prima di decidere, pensa bene.",
+        "spanish": "Antes de decidir, piensa bien.",
+        "sentence": "Esempio: Prima di / Dopo di + infinito",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Dopo essere tornato, si è subito messo a lavorare.",
+        "spanish": "Después de volver, se puso a trabajar enseguida.",
+        "sentence": "Esempio: Prima di / Dopo di + infinito",
+        "translation": "ver explicación"
+      }
+    ],
+    "notes": "'Prima di' + infinito es simple y directo — igual al español. 'Dopo di' con infinito compuesto puede sentirse raro; en la lengua hablada se suele decir 'dopo che sono arrivato' (después de que llegué), mucho más natural.",
+    "tags": [
+      "prima-di",
+      "dopo",
+      "conjunctions",
+      "time"
+    ],
+    "pattern": "prima di + infinitivo | dopo di + infinitivo/aver fatto",
+    "meaning": "antes de / después de + infinitivo"
+  },
+  {
+    "id": "a2-anche-neanche",
+    "title": "Anche, neanche, ancora, già",
+    "level": "a2",
+    "explanation": "Partículas muy frecuentes en italiano con sus matices específicos.\n\n1. ANCHE (también):\n'Anch'io vengo.' = Yo también vengo. (anche + pronome → elisione: anch'io, anch'e)\n'Viene anche Marco.' = Marco también viene.\nPosición: generalmente antes del elemento que modifica.\n\n2. NEANCHE / NEMMENO / NEPPURE (tampoco, ni siquiera):\n'Neanche io lo sapevo.' = Yo tampoco lo sabía.\n'Non l'ho visto nemmeno io.' = Yo tampoco lo vi.\nLas tres formas son intercambiables, 'neanche' es la más común.\n\n3. ANCORA (todavía, aún / más):\nAffermativo: 'Sei ancora qui?' = ¿Todavía estás aquí?\nNegativo: 'Non è ancora arrivato.' = Todavía no ha llegado. / Aún no ha llegado.\nCon imperativo: 'Ancora!' = ¡Otra vez! / ¡Más!\n\n4. GIÀ (ya):\n'Ho già mangiato.' = Ya he comido.\n'Sei già stato a Firenze?' = ¿Ya has estado en Florencia?\nNon... ancora vs già: 'Non ho ancora finito' (todavía no terminé) / 'Ho già finito' (ya terminé)\n\n5. PIÙ con negación (ya no):\n'Non abito più a Milano.' = Ya no vivo en Milán.\n'Non fumo più.' = Ya no fumo.\n\nRESUMEN POSICIÓN:\n- Già y ancora van típicamente después del auxiliar y antes del participio: 'Ho già mangiato', 'Non ho ancora finito'\n- Non più: 'Non fumo più' (al final) o 'Non fumo più' (il più viene dopo il verbo)",
+    "examples": [
+      {
+        "italian": "Anche tu studi l'italiano?",
+        "spanish": "¿Tú también estudias italiano?",
+        "sentence": "Esempio: Anche, neanche, ancora, già",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Neanche io capisco!",
+        "spanish": "¡Yo tampoco entiendo!",
+        "sentence": "Esempio: Anche, neanche, ancora, già",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Non ho ancora deciso.",
+        "spanish": "Todavía no he decidido.",
+        "sentence": "Esempio: Anche, neanche, ancora, già",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Hai già prenotato il volo?",
+        "spanish": "¿Ya has reservado el vuelo?",
+        "sentence": "Esempio: Anche, neanche, ancora, già",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Non lavora più qui.",
+        "spanish": "Ya no trabaja aquí.",
+        "sentence": "Esempio: Anche, neanche, ancora, già",
+        "translation": "ver explicación"
+      }
+    ],
+    "notes": "'Non... più' (ya no) es una combinación muy usada en italiano. Paralelo con el español 'ya no' pero con estructuras diferentes: 'ya no + verbo' en español vs 'non + verbo + più' en italiano.",
+    "tags": [
+      "anche",
+      "neanche",
+      "ancora",
+      "gia",
+      "adverbs"
+    ],
+    "pattern": "anche [sogg.] + verbo | neanche [sogg.] + verbo",
+    "meaning": "también / tampoco / todavía / ya"
+  },
+  {
+    "id": "a2-bello-buono",
+    "title": "Bello e buono — forme speciali",
+    "level": "a2",
+    "explanation": "Los adjetivos 'bello' (hermoso, bonito) y 'buono' (bueno) tienen formas especiales cuando van ANTES del sustantivo, similares al artículo determinado e indeterminado.\n\nBELLO antes del sustantivo (como il, lo, la, i, gli, le):\nbel + cons. masc. sing.: un bel ragazzo, un bel giorno\nbello + s+cons., z: uno bello spettacolo, uno bello zaino\nbella + fem. sing.: una bella donna, una bella storia\nbel + cons. masc. plur.: dei bei ragazzi\nbegli + s+cons., z, voc. masc. plur.: degli begli occhi\nbelle + fem. plur.: delle belle ragazze\n\nDopo il nome o con il verbo essere — sempre 'bello/a/i/e':\n'Questo ragazzo è bello.' / 'un ragazzo bello'\n\nBUONO prima del nome (come un, uno, una):\nbuon + masc. sing. cons.: un buon vino, un buon amico\nbuono + s+cons., z masc. sing.: uno buono sport\nbuona + fem. sing.: una buona pizza\nbuone + fem. plur.: delle buone notizie\nbuoni + masc. plur.: dei buoni amici\n\nDopo il nome o con essere — sempre 'buono/a/i/e':\n'Questo vino è buono.' / 'un vino buono'\n\nPARALELO CON EL ESPAÑOL:\nEn español 'bueno' se apocopa a 'buen' ante masc. sing.: 'un buen amigo' / 'un amigo bueno'.\nEn italiano el sistema es más complejo pero sigue lógica similar.",
+    "examples": [
+      {
+        "italian": "Che bel paesaggio!",
+        "spanish": "¡Qué paisaje tan bonito!",
+        "sentence": "Esempio: Bello e buono — forme speciali",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Ho un buon amico a Roma.",
+        "spanish": "Tengo un buen amigo en Roma.",
+        "sentence": "Esempio: Bello e buono — forme speciali",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Che bella giornata!",
+        "spanish": "¡Qué día tan bonito!",
+        "sentence": "Esempio: Bello e buono — forme speciali",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Questo caffè è buonissimo!",
+        "spanish": "¡Este café está buenísimo!",
+        "sentence": "Esempio: Bello e buono — forme speciali",
+        "translation": "ver explicación"
+      }
+    ],
+    "notes": "Truco: las formas de 'bello' ante il nome seguono le stesse regole dell'articolo determinato (il, lo, la, i, gli, le). Le forme di 'buono' ante il nome seguono le stesse regole dell'articolo indeterminato (un, uno, una). ¡Aprende los artículos y sabrás las formas de bello y buono!",
+    "tags": [
+      "bello",
+      "buono",
+      "aggettivi",
+      "apocopation"
+    ],
+    "pattern": "bel/bell'/bello/bei/begli/belle | buon/buono/buona/buoni/buone",
+    "meaning": "formas especiales de bello y buono"
+  }
+]

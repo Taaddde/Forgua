@@ -2,6 +2,8 @@
 
 This file contains a ready-to-use prompt template for generating Forgua Language Pack data with LLMs (Claude, GPT-4, etc.). Copy the prompt below and adapt it to your target language and level.
 
+> **Related:** See [PACK_SPEC.md](PACK_SPEC.md) for content schemas and [EXERCISES_SPEC.md](EXERCISES_SPEC.md) for lesson and conversation schemas.
+
 ## How to Use
 
 1. Copy the prompt template below
@@ -20,8 +22,11 @@ You are a language education data specialist. Generate structured JSON data for 
 
 TARGET LANGUAGE: [LANGUAGE]
 LEVEL: [LEVEL]
-CONTENT TYPE: [CONTENT_TYPE]  (vocabulary | grammar | characters | readings)
-WRITING FAMILY: [FAMILY]  (cjk-japanese | cjk-chinese | hangul | latin | cyrillic | arabic | devanagari)
+CONTENT TYPE: [CONTENT_TYPE]
+  Options: vocabulary | grammar | characters | readings | conversations | lessons
+WRITING FAMILY: [FAMILY]
+  Options: cjk-japanese | cjk-chinese | hangul | latin | cyrillic | arabic | devanagari
+INSTRUCTION LANGUAGE: [LANGUAGE OF EXPLANATIONS AND TRANSLATIONS]
 
 CRITICAL RULES -- follow these exactly:
 
@@ -31,8 +36,8 @@ CRITICAL RULES -- follow these exactly:
    - Japanese: JLPT official word lists, JMdict/EDICT, Jisho.org
    - Chinese: HSK official word lists, CC-CEDICT
    - Korean: TOPIK official word lists
-   - European languages: CEFR reference level descriptions
-   Use these as your mental reference. Do not invent words that do not belong to the stated level.
+   - European languages: CEFR reference level descriptions, WordReference, RAE, Larousse
+   Do not invent words that do not belong to the stated level.
 
 3. OMIT DATA YOU ARE NOT SURE ABOUT. If you do not know the pitch accent pattern, do not include it. If you are unsure whether a word belongs to this level, leave it out. Partial correct data is better than complete data with errors.
 
@@ -41,43 +46,47 @@ CRITICAL RULES -- follow these exactly:
    - Use only vocabulary and grammar appropriate for the stated level (or one level below)
    - Show the word/pattern in a realistic context
 
-5. MEANINGS IN SPANISH AND ENGLISH. Primary meaning in Spanish. If the word has nuances that are clearer in English, include the English meaning as well. Format: ["Spanish meaning", "English meaning (if helpful)"]
+5. TRANSLATIONS. Primary meaning in the instruction language. If the word has nuances that are clearer in English (and English is not the instruction language), include an English clarification in parentheses.
 
-OUTPUT FORMAT:
+OUTPUT FORMAT — choose based on CONTENT TYPE:
+
+---
 
 For VOCABULARY, produce a JSON array:
 [
   {
     "word": "target language word",
-    "reading": "phonetic reading (hiragana, pinyin, romanization, etc.)",
-    "meanings": ["Spanish meaning", "English meaning if needed"],
+    "reading": "phonetic reading (hiragana, pinyin, romanization, IPA, etc.)",
+    "meanings": ["primary meaning", "secondary meaning if needed"],
     "pos": "part-of-speech tag",
     "level": "[LEVEL]",
     "tags": ["semantic-category"],
     "examples": [
       {
-        "ja": "Example sentence in target language",
-        "reading": "Phonetic reading of the sentence",
-        "translation": "Spanish translation"
+        "sentence": "Example sentence in target language",
+        "reading": "Phonetic reading of the sentence (omit if not applicable)",
+        "translation": "Translation in instruction language"
       }
     ]
   }
 ]
+
+---
 
 For GRAMMAR, produce a JSON array:
 [
   {
     "id": "[LEVEL]-pattern-name",
     "title": "Grammar pattern title",
-    "pattern": "Structure pattern (e.g. Verb-て + ください)",
-    "meaning": "Concise meaning in Spanish",
+    "pattern": "Structure pattern (e.g. Verb + every day)",
+    "meaning": "Concise meaning in instruction language",
     "level": "[LEVEL]",
-    "explanation": "Clear explanation in Spanish, 2-4 sentences",
+    "explanation": "Clear explanation, 2-4 sentences",
     "examples": [
       {
         "sentence": "Example in target language",
-        "reading": "Phonetic reading",
-        "translation": "Spanish translation",
+        "reading": "Phonetic reading (omit if not applicable)",
+        "translation": "Translation in instruction language",
         "breakdown": ["word1 = meaning1", "word2 = meaning2"]
       }
     ],
@@ -87,7 +96,9 @@ For GRAMMAR, produce a JSON array:
   }
 ]
 
-For CHARACTERS, produce a JSON array:
+---
+
+For CHARACTERS (writing systems with discrete characters: kanji, hangul, Arabic letters, etc.):
 [
   {
     "character": "the character",
@@ -95,7 +106,7 @@ For CHARACTERS, produce a JSON array:
       { "type": "reading-type", "value": "reading-value" }
     ],
     "meanings": ["meaning1", "meaning2"],
-    "strokeCount": number,
+    "strokeCount": 0,
     "radical": "radical character (if applicable)",
     "radicalMeaning": "radical meaning",
     "level": "[LEVEL]",
@@ -106,6 +117,13 @@ For CHARACTERS, produce a JSON array:
   }
 ]
 
+Reading type values depend on the writing system:
+- Kanji: "on" (on'yomi), "kun" (kun'yomi), "nanori" (name reading)
+- Kana: "romaji"
+- Arabic/Devanagari/etc.: "romanization"
+
+---
+
 For READINGS, produce a JSON array:
 [
   {
@@ -113,12 +131,12 @@ For READINGS, produce a JSON array:
     "title": "Passage title",
     "level": "[LEVEL]",
     "text": "Full passage text in target language",
-    "reading": "Full phonetic reading",
-    "translation": "Full Spanish translation",
+    "reading": "Full phonetic reading (omit if not applicable)",
+    "translation": "Full translation in instruction language",
     "vocabulary": ["key-words-used"],
     "questions": [
       {
-        "question": "Comprehension question in Spanish",
+        "question": "Comprehension question",
         "options": ["option1", "option2", "option3", "option4"],
         "correctIndex": 0,
         "explanation": "Why this answer is correct"
@@ -127,10 +145,96 @@ For READINGS, produce a JSON array:
   }
 ]
 
-PART OF SPEECH TAGS (use these exactly):
-noun, verb-ichidan, verb-godan, verb-irregular, adjective-i, adjective-na, adverb, particle, conjunction, interjection, prefix, suffix, counter, pronoun, expression
+Rules: minimum 2 questions, maximum 5. Questions must be answerable from the text alone. Wrong options must be plausible.
 
-For non-Japanese languages, use standard POS tags: noun, verb, adjective, adverb, preposition, conjunction, pronoun, determiner, interjection, expression.
+---
+
+For CONVERSATIONS, produce a JSON array:
+[
+  {
+    "id": "[LEVEL]-scenario-slug",
+    "scenario": "Scenario description (e.g. At a coffee shop)",
+    "level": "[LEVEL]",
+    "tags": ["topic", "situation"],
+    "turns": [
+      {
+        "speaker": "npc",
+        "text": "NPC line in target language",
+        "translation": "Translation in instruction language"
+      },
+      {
+        "speaker": "learner",
+        "text": "",
+        "options": [
+          {
+            "text": "Option in target language",
+            "isCorrect": true,
+            "feedback": "Why this is correct or incorrect",
+            "translation": "Translation in instruction language"
+          },
+          {
+            "text": "Wrong option in target language",
+            "isCorrect": false,
+            "feedback": "Why this is wrong",
+            "translation": "Translation in instruction language"
+          }
+        ],
+        "correctOptionIndex": 0
+      }
+    ]
+  }
+]
+
+Rules:
+- 2-4 options per learner turn (3 is ideal)
+- 4-8 turns per conversation (max 10)
+- All vocabulary must be at [LEVEL] or lower
+- Wrong options must be plausible errors, not absurd ones
+- Always include `translation` on NPC turns
+
+---
+
+For LESSONS, produce a single lesson JSON object:
+{
+  "id": "lesson-id",
+  "title": "Lesson title",
+  "description": "Brief description",
+  "level": "[LEVEL]",
+  "category": "vocabulary | grammar | characters | mixed",
+  "items": [
+    {
+      "front": "What the SRS shows on the front",
+      "back": "The answer",
+      "reading": "Phonetic reading (required for CJK)",
+      "explanation": "Short explanation for the learner",
+      "cardRef": {
+        "category": "vocabulary",
+        "front": "must match exactly with vocabulary/[LEVEL].json word field"
+      }
+    }
+  ],
+  "steps": [
+    { "type": "introduce",  "title": "New words",         "instruction": "...", "itemIndices": [0,1,2,3,4] },
+    { "type": "recognize",  "title": "What does it mean?","instruction": "...", "itemIndices": [0,1,2,3,4] },
+    { "type": "recall",     "title": "How do you say it?","instruction": "...", "itemIndices": [0,1,2,3,4] },
+    { "type": "summary",    "title": "Lesson complete!",  "instruction": "...", "itemIndices": [0,1,2,3,4] }
+  ]
+}
+
+Rules:
+- First step must always be `introduce`. Last step must always be `summary`.
+- `cardRef.front` must match EXACTLY the corresponding field in the content file.
+- Maximum 15 items per lesson; 8-10 is the sweet spot for vocabulary.
+
+---
+
+PART OF SPEECH TAGS:
+
+Standard (all languages): noun, verb, adjective, adverb, preposition, conjunction, pronoun, determiner, interjection, expression
+
+Japanese-specific: verb-ichidan, verb-godan, verb-irregular, adjective-i, adjective-na, particle, prefix, suffix, counter
+
+---
 
 Now generate [NUMBER] entries for [LANGUAGE] [LEVEL] [CONTENT_TYPE].
 ```
@@ -141,7 +245,7 @@ Now generate [NUMBER] entries for [LANGUAGE] [LEVEL] [CONTENT_TYPE].
 
 ### Batch Generation
 
-Generate in batches of 20-30 entries. Larger batches increase the chance of errors and hallucinations. You can always run the prompt multiple times.
+Generate in batches of 20–30 entries. Larger batches increase the chance of errors and hallucinations. You can always run the prompt multiple times.
 
 ### Cross-Reference
 
@@ -152,11 +256,12 @@ After generating, cross-reference the output against an authoritative source:
 | Japanese | Jisho.org, JLPT word lists, Takoboto |
 | Chinese | MDBG, HSK word lists, Pleco |
 | Korean | Naver Dictionary, TOPIK word lists |
-| Spanish/French/etc. | WordReference, RAE, Larousse |
+| Spanish / French / Italian | WordReference, RAE, Larousse |
+| English | Oxford Learner's Dictionaries, CEFR word lists |
 
 ### Separate by Level
 
-Generate one level at a time. Do not ask the LLM to generate N5 and N4 vocabulary in the same prompt -- it will mix levels.
+Generate one level at a time. Do not ask the LLM to generate A1 and A2 vocabulary in the same prompt — it will mix levels.
 
 ### Review Readings Carefully
 
@@ -166,13 +271,21 @@ Phonetic readings (furigana, pinyin, romanization) are where LLMs make the most 
 
 - **Kanji readings:** LLMs frequently confuse on'yomi and kun'yomi, or assign readings that only apply in specific compounds
 - **Pitch accent:** Omit unless you can verify against a pitch accent dictionary (OJAD, NHK accent dictionary)
-- **Stroke counts:** Verify against a kanji dictionary -- LLMs guess these often
-- **Level assignment:** A word being "common" does not mean it is N5. Check official lists
-- **Example naturalness:** Read examples aloud. If they sound like a textbook robot wrote them, rewrite them
+- **Stroke counts:** Verify against a kanji dictionary — LLMs guess these often
+- **Level assignment:** A word being "common" does not mean it is A1 or N5. Check official word lists
+- **Example naturalness:** Read examples aloud. If they sound like a 1980s textbook, rewrite them
+- **Conversation options:** Wrong options must be plausible errors — not absurd non-sequiturs
+- **`cardRef.front`:** In lessons, this must match the content file exactly — a single character difference breaks the SRS link
 
 ## After Generating
 
 1. **Save** the JSON output to the appropriate file in `src/packs/<language>/`
+   - Vocabulary → `vocabulary/<level>.json`
+   - Grammar → `grammar/<level>.json`
+   - Characters → `characters/<system>.json` or `characters/<system>/<level>.json`
+   - Readings → `readings/<level>.json`
+   - Conversations → `conversations/<level>.json`
+   - Lessons → `lessons/<id>.json` (and update `lessons/index.json`)
 2. **Validate** against the schema:
    ```bash
    npm run validate-pack -- --pack src/packs/<language>
@@ -189,6 +302,20 @@ Replace the placeholders:
 - `[LEVEL]` = n5
 - `[CONTENT_TYPE]` = vocabulary
 - `[FAMILY]` = cjk-japanese
+- `[INSTRUCTION LANGUAGE]` = Spanish
 - `[NUMBER]` = 25
+
+Then paste the filled prompt into your LLM and review the output.
+
+## Example: Generating an Italian A1 Conversation
+
+Replace the placeholders:
+
+- `[LANGUAGE]` = Italian
+- `[LEVEL]` = a1
+- `[CONTENT_TYPE]` = conversations
+- `[FAMILY]` = latin
+- `[INSTRUCTION LANGUAGE]` = Spanish
+- `[NUMBER]` = 3 conversations
 
 Then paste the filled prompt into your LLM and review the output.

@@ -1,0 +1,107 @@
+{
+  "id": "vocab-b1-04",
+  "title": "L'istruzione",
+  "description": "El sistema educativo y el vocabulario académico en italiano. Desde la universidad hasta la investigación.",
+  "level": "b1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "la formazione",
+      "back": "la formación, la capacitación",
+      "reading": "",
+      "explanation": "'Formazione professionale' = formación profesional. 'Formazione continua' = formación continua/permanente. También: il processo di formarsi (el proceso de formarse)."
+    },
+    {
+      "front": "la conoscenza",
+      "back": "el conocimiento, la comprensión",
+      "reading": "",
+      "explanation": "'Avere una buona conoscenza di...' = tener un buen conocimiento de... También: 'una conoscenza' = un conocido (persona). Plural 'le conoscenze' puede significar 'los contactos' (red de contactos)."
+    },
+    {
+      "front": "la competenza",
+      "back": "la competencia, la habilidad",
+      "reading": "",
+      "explanation": "'Competenze linguistiche' = competencias lingüísticas. Más técnico que 'abilità' (habilidad general). En CV y trabajo: siempre 'competenze' (soft skills, hard skills)."
+    },
+    {
+      "front": "la laurea magistrale",
+      "back": "el máster, la maestría",
+      "reading": "",
+      "explanation": "El sistema universitario italiano (Riforma Bologna): 'laurea triennale' (3 años = grado), 'laurea magistrale' (2 años adicionales = máster). 'Essere laureato/a' = tener título universitario."
+    },
+    {
+      "front": "la tesi",
+      "back": "la tesis",
+      "reading": "",
+      "explanation": "'Scrivere/discutere la tesi' = escribir/defender la tesis. 'Tesi di laurea' = tesis de grado. 'Relatore/relatrice' = director/directora de tesis. 'Commissione' = tribunal de tesis."
+    },
+    {
+      "front": "la ricerca",
+      "back": "la investigación, la búsqueda",
+      "reading": "",
+      "explanation": "'Fare ricerca' = hacer investigación. 'Ricercatore/ricercatrice' = investigador/a. 'Ricerca scientifica' = investigación científica. 'Motore di ricerca' = buscador (Google, etc.)."
+    },
+    {
+      "front": "l'esperimento",
+      "back": "el experimento",
+      "reading": "",
+      "explanation": "'Fare/condurre un esperimento' = realizar un experimento. 'Laboratorio di esperimenti' = laboratorio. Diferente de 'esperienza' (experiencia) — falso amigo parcial."
+    },
+    {
+      "front": "il progresso",
+      "back": "el progreso",
+      "reading": "",
+      "explanation": "Singular con sentido abstracto: 'il progresso tecnologico'. Plural 'i progressi' para avances concretos: 'Ha fatto grandi progressi' = Ha hecho grandes progresos."
+    },
+    {
+      "front": "la borsa di studio",
+      "back": "la beca",
+      "reading": "",
+      "explanation": "'Vincere una borsa di studio' = ganar una beca. 'Borsista' = becario/a. Cuidado: 'borsa' sola = bolso/cartera; 'borsa di studio' = beca; 'Borsa valori' = bolsa de valores."
+    },
+    {
+      "front": "il sapere",
+      "back": "el saber, el conocimiento",
+      "reading": "",
+      "explanation": "Sustantivo derivado del verbo 'sapere'. 'Il sapere umano' = el saber humano. Más filosófico/abstracto que 'conoscenza'. 'Sete di sapere' = sed de conocimiento."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El camino académico",
+      "instruction": "El sistema universitario italiano usa Bolonia: triennale (3 años) + magistrale (2 años). La 'laurea magistrale' es equivalente al máster europeo.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Investigación y conocimiento",
+      "instruction": "Para hablar de ciencia, tesis e investigación. Nota: 'esperimento' ≠ 'esperienza' — 'esperimento' es experimento científico, 'esperienza' es experiencia.",
+      "itemIndices": [4, 5, 6]
+    },
+    {
+      "type": "introduce",
+      "title": "Logros y becas",
+      "instruction": "'Borsa di studio' (beca) vs 'borsa' (bolso). 'Progresso' en singular es abstracto; 'progressi' en plural son avances concretos.",
+      "itemIndices": [7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice en italiano?",
+      "instruction": "Del español al italiano.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cuál es el significado?",
+      "instruction": "Del italiano al español.",
+      "itemIndices": [6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "Resumen: L'istruzione",
+      "instruction": "Recordá la distinción clave del sistema italiano: laurea triennale → laurea magistrale → dottorato. 'Borsa di studio' = beca. 'Progressi' (plural) = avances concretos.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

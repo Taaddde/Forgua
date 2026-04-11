@@ -1,0 +1,101 @@
+{
+  "id": "vocab-a1-05",
+  "title": "I colori",
+  "description": "Los colores en italiano. La mayoría son reconocibles para hispanohablantes. Recordá que los adjetivos de color concuerdan en género y número con el sustantivo.",
+  "level": "a1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "rosso / rossa",
+      "back": "rojo / roja",
+      "reading": "/ˈrɔsso/ /ˈrɔssa/",
+      "explanation": "Rosso (m.) / rossa (f.). Doble 's'. Concuerda con el sustantivo: 'un vestito rosso' (un vestido rojo), 'una borsa rossa' (un bolso rojo). Plural: rossi / rosse."
+    },
+    {
+      "front": "bianco / bianca",
+      "back": "blanco / blanca",
+      "reading": "/ˈbjaŋko/ /ˈbjaŋka/",
+      "explanation": "Bianco (m.) / bianca (f.). Plural masculino: bianchi (añade 'h' para mantener el sonido /k/). 'Vino bianco' = vino blanco."
+    },
+    {
+      "front": "nero / nera",
+      "back": "negro / negra",
+      "reading": "/ˈnɛːro/ /ˈnɛːra/",
+      "explanation": "Nero (m.) / nera (f.). Muy similar al español. 'Caffè nero' = café solo/negro (sin leche). Plural: neri / nere."
+    },
+    {
+      "front": "blu (invariabile)",
+      "back": "azul",
+      "reading": "/ˈbluː/",
+      "explanation": "Blu es INVARIABLE — no cambia en género ni número. 'Un cielo blu', 'una macchina blu', 'i jeans blu'. En italiano también existe 'azzurro' para azul celeste (el color de la selección italiana)."
+    },
+    {
+      "front": "verde (invariabile in genere)",
+      "back": "verde",
+      "reading": "/ˈverde/",
+      "explanation": "Verde es igual en masculino y femenino. Solo cambia en plural: verdi. 'Un parco verde', 'una foglia verde', 'gli occhi verdi'."
+    },
+    {
+      "front": "giallo / gialla",
+      "back": "amarillo / amarilla",
+      "reading": "/ˈdʒallo/ /ˈdʒalla/",
+      "explanation": "Giallo (m.) / gialla (f.). La 'gi' suena /dʒ/ como 'y' argentina. 'Romanzo giallo' = novela policial (de ahí el género noir/policial en italiano). Plural: gialli / gialle."
+    },
+    {
+      "front": "arancione (inv. in genere)",
+      "back": "naranja / anaranjado",
+      "reading": "/aranˈtʃone/",
+      "explanation": "Arancione es igual en m. y f. Solo cambia en plural: arancioni. Del italiano 'arancia' (naranja la fruta). La 'ci' suena /tʃ/ = ch."
+    },
+    {
+      "front": "viola (invariabile)",
+      "back": "violeta / morado",
+      "reading": "/ˈvjɔːla/",
+      "explanation": "Viola es completamente invariable (no cambia en género ni número). 'Una borsa viola', 'un vestito viola', 'le scarpe viola'. También es el nombre de la flor violeta y del instrumento (viola)."
+    },
+    {
+      "front": "rosa (invariabile)",
+      "back": "rosado / rosa",
+      "reading": "/ˈrɔːza/",
+      "explanation": "Rosa es invariable. También es el nombre de la flor. 'Un fiore rosa', 'una gonna rosa'. 'Vedere tutto rosa' = ver todo color de rosa (expresión)."
+    },
+    {
+      "front": "grigio / grigia",
+      "back": "gris",
+      "reading": "/ˈɡriːdʒo/ /ˈɡriːdʒa/",
+      "explanation": "Grigio (m.) / grigia (f.). La 'gi' final suena /dʒ/. Plural masculino: grigi (con i). 'Una giornata grigia' = un día gris. 'Materia grigia' = materia gris."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "I colori — con concordancia",
+      "instruction": "Los colores en italiano concuerdan con el sustantivo. Algunos son invariables (blu, viola, rosa). ¡Mirá el patrón!",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recognize",
+      "title": "¿De qué color es?",
+      "instruction": "Ves el color en italiano. Elegí la traducción.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "Del español al italiano",
+      "instruction": "Ves el color en español. Escribí el color en italiano.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Correcto o incorrecto?",
+      "instruction": "Identificá el error de concordancia: 'una borsa rosso' (debería ser rossa), 'un gatto blu' (correcto — invariable), 'le rose viola' (correcto — invariable).",
+      "itemIndices": [0, 3, 8]
+    },
+    {
+      "type": "summary",
+      "title": "¡I colori!",
+      "instruction": "Colores variables: rosso/a, bianco/a, nero/a, giallo/a, grigio/a. Colores invariables en género: verde (pero verdI en plural), arancione (arancioni), blu, viola, rosa. Recordá: los colores concuerdan con el sustantivo.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

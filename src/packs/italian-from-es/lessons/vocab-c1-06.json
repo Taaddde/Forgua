@@ -1,0 +1,107 @@
+{
+  "id": "vocab-c1-06",
+  "title": "Lingua accademica e saggistica",
+  "description": "El italiano académico y de ensayo tiene una sintaxis y un léxico propios. Estas expresiones son las que aparecen en artículos científicos, tesis, informes formales y el periodismo de calidad. Dominarlas te permite leer y producir textos de registro alto.",
+  "level": "c1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "con riferimento a",
+      "back": "con referencia a / respecto a",
+      "reading": "",
+      "explanation": "'Con riferimento alla sua del 15 marzo, Le confermo...' Fórmula de apertura en cartas y correos formales. Marca el tema al que se hace referencia. Más formal que 'riguardo a' o 'in merito a'."
+    },
+    {
+      "front": "per quanto riguarda",
+      "back": "en lo que respecta a / en cuanto a",
+      "reading": "",
+      "explanation": "'Per quanto riguarda la metodologia, si rimanda al capitolo terzo.' Fórmula muy frecuente para enmarcar un subtema en textos académicos y profesionales. Puede aparecer al inicio de párrafo."
+    },
+    {
+      "front": "in merito a",
+      "back": "en cuanto a / respecto a / acerca de",
+      "reading": "",
+      "explanation": "'In merito alla questione sollevata, si precisa che...' Más formal que 'per quanto riguarda'. Típica del lenguaje jurídico-administrativo. Implica que se va a dar una posición o aclaración."
+    },
+    {
+      "front": "nell'ambito di",
+      "back": "en el ámbito de / dentro del marco de",
+      "reading": "",
+      "explanation": "'Nell'ambito della ricerca sociologica, questo studio si distingue per...' Ubica el texto dentro de un campo o contexto más amplio. Muy frecuente en introductiones académicas."
+    },
+    {
+      "front": "a prescindere da",
+      "back": "independientemente de / prescindiendo de / al margen de",
+      "reading": "",
+      "explanation": "'A prescindere dai risultati, l'esperimento ha avuto valore metodologico.' Introduce una condición que no afecta a lo que se argumenta. Sinónimo más coloquial: 'indipendentemente da'."
+    },
+    {
+      "front": "sotto il profilo di",
+      "back": "desde el punto de vista de / en lo que respecta al perfil de",
+      "reading": "",
+      "explanation": "'Sotto il profilo giuridico, la situazione è complessa.' Alternativas: 'dal punto di vista di', 'in ottica di', 'sul piano di'. 'Profilo' da una imagen más técnica y analítica que 'punto di vista'."
+    },
+    {
+      "front": "fatte salve le debite proporzioni",
+      "back": "guardando las debidas proporciones / salvando las distancias",
+      "reading": "",
+      "explanation": "'Fatte salve le debite proporzioni, il caso italiano è simile a quello spagnolo.' Equivalente del español 'mutatis mutandis' o 'salvando las distancias'. Fórmula de precaución epistemológica."
+    },
+    {
+      "front": "conformemente a",
+      "back": "de conformidad con / conforme a",
+      "reading": "",
+      "explanation": "'Conformemente alle disposizioni vigenti, si procede come segue.' Lenguaje jurídico-administrativo puro. Indica que una acción se realiza en cumplimiento de una norma o acuerdo."
+    },
+    {
+      "front": "fermi restando",
+      "back": "sin perjuicio de / quedando firmes / con la condición de mantener",
+      "reading": "",
+      "explanation": "'Si approva la modifica, fermi restando gli obblighi contrattuali.' Fórmula jurídico-administrativa: 'fermi restando i diritti acquisiti' = sin perjuicio de los derechos adquiridos. Indica que algo se mantiene invariado."
+    },
+    {
+      "front": "in relazione a / in ottemperanza a",
+      "back": "en relación con / en cumplimiento de",
+      "reading": "",
+      "explanation": "'In relazione a quanto esposto, si propone la seguente soluzione.' / 'In ottemperanza alla normativa vigente, l'ente ha adottato le seguenti misure.' Dos fórmulas de referencia y cumplimiento normativo."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Fórmulas de encuadre temático",
+      "instruction": "Las primeras cuatro expresiones (con riferimento a, per quanto riguarda, in merito a, nell'ambito di) sirven para encuadrar el tema del que se va a hablar. Son esenciales en cualquier escrito académico o profesional italiano. Observa cómo cada una tiene un matiz de formalidad distinto.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Fórmulas de condición y perspectiva",
+      "instruction": "Las siguientes (a prescindere da, sotto il profilo di, fatte salve le debite proporzioni) son fórmulas que matizan la perspectiva desde la que se hace una afirmación. Son las que distinguen un texto académico cuidadoso de uno superficial.",
+      "itemIndices": [4, 5, 6]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completa el texto académico",
+      "instruction": "Elige la fórmula académica correcta para completar cada fragmento de texto. Atención: algunas son intercambiables, pero otras tienen registro muy específico.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cuál es la fórmula italiana?",
+      "instruction": "Ves la traducción española de la fórmula. Escribe la expresión italiana completa. La precisión es fundamental: estas fórmulas son fijas.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Registro adecuado",
+      "instruction": "Para cada contexto dado (carta formal, tesis, sentencia judicial, artículo periodístico), elige la fórmula de mayor adecuación.",
+      "itemIndices": [7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "Lengua académica — base sólida",
+      "instruction": "Estas 10 fórmulas son el kit mínimo del italiano académico formal. Para profundizar: lee la sezione 'Metodi' de cualquier tesi di laurea italiana en open access — las encontrarás todas. La próxima lección: los proverbios italianos.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a2-17",
+  "title": "Pronomi tonici — me, te, lui, lei, noi, voi, loro",
+  "description": "Los pronombres tónicos (o disjuntivos) son los pronombres de sujeto usados después de preposiciones o para dar énfasis. Muy similares al español (mí, ti, él, ella, nosotros...) con pequeñas diferencias.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "ME — a mí / para mí / conmigo",
+      "back": "mí (después de preposición)",
+      "reading": "",
+      "explanation": "'Me' = mí (después de preposición). 'Parla con me' = Habla conmigo / con mí. 'Per me' = Para mí. 'Da me' = De mí / en mi casa. 'Guarda me!' = ¡Mirame a mí! En español: 'mí' (con acento). En italiano: 'me' (sin acento)."
+    },
+    {
+      "front": "TE — a ti / para ti / contigo",
+      "back": "ti (después de preposición)",
+      "reading": "",
+      "explanation": "'Te' = ti (después de preposición). 'Vengo con te' = Vengo contigo. 'È per te' = Es para ti. 'Penso a te' = Pienso en ti. 'Senza di te' = Sin ti. En español: 'ti' (sin acento). En italiano: 'te' (igual que el artículo, pero es pronombre)."
+    },
+    {
+      "front": "LUI / LEI — él / ella (también sujeto enfático)",
+      "back": "él / ella (complemento y sujeto enfático)",
+      "reading": "",
+      "explanation": "'Lui/Lei' funcionan como sujeto enfático Y como pronombres después de preposición. 'Vengo con lui' = Vengo con él. 'È per lei' = Es para ella. 'Lui non lo sa' (énfasis) = Él no lo sabe. 'LEI' (mayúscula) = usted formal."
+    },
+    {
+      "front": "NOI / VOI — nosotros / vosotros-ustedes",
+      "back": "nosotros / ustedes (complemento y sujeto enfático)",
+      "reading": "",
+      "explanation": "'Noi/voi' como complemento tónico. 'Vengo con voi' = Vengo con ustedes. 'Tra noi' = Entre nosotros. 'È dipende da noi' = Depende de nosotros. 'Solo voi potete farlo' = Solo ustedes pueden hacerlo."
+    },
+    {
+      "front": "LORO — ellos/ellas (complemento)",
+      "back": "ellos/ellas (complemento tónico)",
+      "reading": "",
+      "explanation": "'Loro' = ellos/ellas después de preposición. 'Parlo di loro' = Hablo de ellos. 'È per loro' = Es para ellos. 'Senza di loro' = Sin ellos. 'Tra loro' = Entre ellos. En italiano moderno 'loro' es el mismo para complemento y posesivo (loro = su/sus de ellos)."
+    },
+    {
+      "front": "Pronomi tonici per enfasi: Viene LUI, non tu.",
+      "back": "Viene ÉL, no tú. (énfasis contrastivo)",
+      "reading": "",
+      "explanation": "Los pronombres tónicos se usan para dar ÉNFASIS o hacer contraste. 'Lo fa LUI' = LO hace ÉL (no yo). 'Parla con ME, non con te' = Habla conMIGO, no contigo. 'Vengo IO, non lei' = VOY YO, no ella. En estos casos el pronombre sujeto se pone con énfasis."
+    },
+    {
+      "front": "Preposizione + pronome tonico: con me / per te / da lui / tra noi",
+      "back": "conmigo / para ti / de él (o en su casa) / entre nosotros",
+      "reading": "",
+      "explanation": "Tabla de combinaciones frecuentes: con me/te/lui/lei/noi/voi/loro, per me/te..., da me/te... (en casa de), tra/fra noi/voi/loro, senza di me/te..., grazie a me/te... Las preposiciones que necesitan 'di' ante pronombre: senza DI me, grazie A me, prima DI te."
+    },
+    {
+      "front": "A me piace / A te piace — variante enfática de mi/ti piace",
+      "back": "A mí me gusta / A ti te gusta (énfasis)",
+      "reading": "",
+      "explanation": "Con 'piacere' se puede añadir 'A + pronome tonico' para énfasis. 'A me piace molto' = A mí me gusta mucho. 'A lui non piace per niente' = A él no le gusta para nada. Útil para contraste: 'A me piace, ma a lui no' = A mí me gusta, pero a él no."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Los pronombres tónicos: tabla completa",
+      "instruction": "io → ME, tu → TE, lui → LUI, lei → LEI, noi → NOI, voi → VOI, loro → LORO. Se usan después de preposiciones y para énfasis/contraste.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "Énfasis y uso con piacere",
+      "instruction": "Pronombres tónicos para contraste ('Lo fa LUI, non io') y con piacere para énfasis ('A ME piace, a te no').",
+      "itemIndices": [5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué pronombre tónico va aquí?",
+      "instruction": "Elegí el pronombre tónico correcto para completar cada frase.",
+      "itemIndices": [0, 1, 2, 3, 4, 7]
+    },
+    {
+      "type": "recall",
+      "title": "Construí frases con pronombres tónicos",
+      "instruction": "Traducí estas frases usando el pronombre tónico correcto.",
+      "itemIndices": [0, 1, 2, 5, 6]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Preposición + pronombre tónico",
+      "instruction": "Completá con el pronombre tónico correcto después de la preposición.",
+      "itemIndices": [6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "Pronomi tonici: tabla y usos",
+      "instruction": "io→ME, tu→TE, lui→LUI, lei→LEI, noi→NOI, voi→VOI, loro→LORO. Usos: 1) después de preposición (con me, per te, senza di lui), 2) énfasis/contraste (LUI lo sa, non io), 3) con piacere (A ME piace). Diferencia con español: 'me' = mí, 'te' = ti.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

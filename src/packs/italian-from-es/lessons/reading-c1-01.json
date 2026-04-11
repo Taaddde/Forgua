@@ -1,0 +1,89 @@
+{
+  "id": "reading-c1-01",
+  "title": "L'italiano nel mondo: potenza culturale senza eserciti",
+  "description": "Texto argumentativo C1 sobre el poder del italiano como lengua cultural global. Práctica de vocabulario del ensayo (soft power, gerarchia, seduttività), comprensión inferencial y análisis crítico del argumento principal.",
+  "level": "c1",
+  "category": "reading",
+  "items": [
+    {
+      "front": "L'italiano è la lingua di Dante, di Leonardo, di Verdi e di Fellini.",
+      "back": "El incipit por antonomasia: cuatro nombres que representan literatura, arte visual, música y cine.",
+      "reading": "",
+      "explanation": "El autor elige cuatro nomes propri que cubren los principales ámbitos del soft power italiano. Dante = letteratura; Leonardo = arte/scienza; Verdi = musica; Fellini = cinema. Esta enumeración es a la vez captatio benevolentiae y propositio implícita."
+    },
+    {
+      "front": "gerarchia",
+      "back": "jerarquía / ordenación por grados de importancia",
+      "reading": "/dʒeˈrarkja/",
+      "explanation": "Dal greco 'hierarchia'. En el texto: 'gerarchia delle lingue globali' = ranking de lenguas según número de hablantes, influencia geopolítica y económica. El italiano ocupa un puesto modesto en este ranking a pesar de su enorme influencia cultural."
+    },
+    {
+      "front": "«soft power»: la capacità di attrarre e persuadere anziché costringere",
+      "back": "Poder blando (Joseph Nye, 1990): influencia a través de la cultura y los valores, no de la fuerza.",
+      "reading": "",
+      "explanation": "Joseph Nye (politólogo de Harvard) acuñó el término para describir la influencia de EE.UU. Sin ejércitos, Italia ejerce soft power a través de la cucina, la moda, il design, l'opera lirica, il cinema. El texto aplica este concepto geopolítico al caso específico del italiano como lengua."
+    },
+    {
+      "front": "seduttività",
+      "back": "seductividad / poder de seducción/atracción",
+      "reading": "/sedutiviˈta/",
+      "explanation": "Término elegante del registro saggistico. No existe como tal en español estándar. Derivado de 'seduttivo' (seductor). En el texto califica el 'immaginario collettivo' italiano — el conjunto de imágenes culturales que Italia proyecta al mundo."
+    },
+    {
+      "front": "Chi impara l'italiano lo fa raramente per ragioni economiche o geopolitiche.",
+      "back": "Argomento chiave: el italiano se estudia por motivación intrínseca (amor cultural), no por necesidad pragmática.",
+      "reading": "",
+      "explanation": "Esta oración es la propositio central del texto. A diferencia del inglés (pragmático) o el mandarín (económico), el italiano se aprende por amor a una civiltà. El argumento implica que esta motivación crea aprendientes más comprometidos y fidelizados."
+    },
+    {
+      "front": "È una lingua scelta, non imposta — e forse è proprio questo che la rende così viva.",
+      "back": "La conclusión paradójica: la debilidad geopolítica del italiano es su fortaleza como lengua cultural.",
+      "reading": "",
+      "explanation": "La clausola conclusiva invierte la aparente desventaja (pocos hablantes nativos, poco peso geopolítico) en una ventaja: ser elegido libremente crea una comunidad de aprendientes especialmente motivada. La paradoja estructural del argumento."
+    },
+    {
+      "front": "Machiavelli / Leopardi / Da Ponte / Boito / Palladio / Sorrentino",
+      "back": "Seis figuras que representan: política/literatura / poesía / libretto operístico / arquitectura / cine contemporáneo.",
+      "reading": "",
+      "explanation": "El autor los cita juntos para mostrar la ampiezza temporale (Palladio, siglo XVI → Sorrentino, siglo XXI) y temática (politica, poesia, musica, architettura, cinema) del contributo culturale italiano. Reconocer estos nombres es parte de la competencia cultural del lector C1."
+    },
+    {
+      "front": "metabolizzare creativamente influssi stranieri",
+      "back": "Metabolizar creaticamente influencias extranjeras — la capacidad histórica del italiano de absorber y transformar lo externo.",
+      "reading": "",
+      "explanation": "Del texto sobre los anglicismos, pero el argumento es válido también para el texto sobre el italiano nel mondo. La imagen biológica de 'metabolizzare' sugiere que el italiano no se contamina con influencias externas: las transforma y hace propias. Es la imagen de una lengua viva y adaptable."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Antes de leer: el contexto",
+      "instruction": "El texto que vas a leer es un ensayo argumentativo sobre el 'soft power' del italiano. El argumento central es paradójico: el italiano es lingüísticamente 'débil' (pocos hablantes, poco peso geopolítico) pero culturalmente es una de las lenguas más estudiadas del mundo. Mientras lees, identifica cómo el autor construye este argumento.",
+      "itemIndices": [0, 2]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Vocabulario del ensayo",
+      "instruction": "Estos términos son clave para entender el argumento. Antes de leer la explicación, intenta deducir el significado del contexto: el registro es saggistico, con términos de ciencia política y del léxico estético.",
+      "itemIndices": [1, 3, 7]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Comprensión e interpretación",
+      "instruction": "Estas preguntas requieren comprensión profunda e interpretación: (1) ¿Cuál es la tesis central del texto? (2) ¿Qué significa que el italiano es una 'lingua scelta, non imposta'? (3) ¿Cómo aplica el autor el concepto de 'soft power' al italiano?",
+      "itemIndices": [2, 4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "El argumento en tus propias palabras",
+      "instruction": "Reconstruye el argumento del texto en italiano usando los items clave. El objetivo es demostrar que has entendido la estructura argumentativa, no solo el contenido.",
+      "itemIndices": [0, 4, 5, 6]
+    },
+    {
+      "type": "summary",
+      "title": "Lettura critica completada",
+      "instruction": "Vocabulario clave adquirido: gerarchia, soft power, seduttività, immaginario collettivo, lingua scelta. Argomento centrale: el italiano tiene más estudiantes per capita que su peso geopolítico justificaría — la explicación es el soft power cultural. Para profundizar: lee 'Italians' di Beppe Severgnini (en italiano) — una exploración de la identidad italiana contemporánea.",
+      "itemIndices": [0, 2, 4, 5]
+    }
+  ]
+}

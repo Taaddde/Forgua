@@ -1,0 +1,392 @@
+[
+  {
+    "id": "b1-reading-01",
+    "title": "Un italiano nel mondo",
+    "level": "b1",
+    "topic": "cultural-adaptation",
+    "text": "Marco è cresciuto a Napoli, ma a ventisei anni ha deciso di trasferirsi a Berlino per lavoro. All'inizio è stato difficile: la lingua, il clima freddo e le abitudini così diverse lo mettevano a disagio. I tedeschi sembravano distanti e formali; lui era abituato a salutare i vicini ogni mattina, a fermarsi a chiacchierare al bar.\n\nCol tempo, però, ha capito che la distanza apparente nascondeva rispetto, non indifferenza. Ha imparato che puntualità e organizzazione non sono freddezza, ma valori diversi dai suoi. Ha scoperto che anche i berlinesi, una volta conosciuti, sanno essere calorosamente amichevoli.\n\nOggi Marco si sente «europeo» più che solo italiano. Mangia ancora la pasta il sabato, guarda le partite della Nazionale, chiama sua mamma ogni giorno — ma ha arricchito la sua identità con nuovi modi di vivere. «L'emigrazione ti cambia», dice, «ma se sei aperto, ti rende anche più grande.»",
+    "wordCount": 148,
+    "vocabularyNotes": [
+      {
+        "word": "mettere a disagio",
+        "meaning": "incomodar, hacer sentir incómodo"
+      },
+      {
+        "word": "vicini",
+        "meaning": "vecinos"
+      },
+      {
+        "word": "nascondeva",
+        "meaning": "escondía (imperfecto de nascondere)"
+      },
+      {
+        "word": "calorosamente",
+        "meaning": "calurosamente"
+      },
+      {
+        "word": "emigrazione",
+        "meaning": "emigración"
+      }
+    ],
+    "questions": [
+      {
+        "question": "¿Por qué Marco se mudó a Berlín?",
+        "options": [
+          "Se mudó por trabajo a los veintiséis años.",
+          "Risposta B",
+          "Risposta C",
+          "Risposta D"
+        ],
+        "correctIndex": 0,
+        "explanation": ""
+      },
+      {
+        "question": "¿Qué era lo que le resultaba difícil al principio?",
+        "options": [
+          "La lengua, el clima frío y las costumbres diferentes; los alemanes parecían distantes y formales.",
+          "Risposta B",
+          "Risposta C",
+          "Risposta D"
+        ],
+        "correctIndex": 0,
+        "explanation": ""
+      },
+      {
+        "question": "¿Cómo describe Marco la experiencia de emigrar?",
+        "options": [
+          "Dice que la emigración te cambia, pero si estás abierto, también te hace más grande.",
+          "Risposta B",
+          "Risposta C",
+          "Risposta D"
+        ],
+        "correctIndex": 0,
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": "b1-reading-02",
+    "title": "Gastronomia regionale italiana",
+    "level": "b1",
+    "topic": "food-culture",
+    "text": "L'Italia è un paese di cucine regionali, non di una cucina nazionale. Ogni regione — e spesso ogni città — ha le sue ricette, i suoi ingredienti tipici e le sue tradizioni culinarie gelosamente custodite.\n\nA Firenze, la bistecca alla Fiorentina è quasi un simbolo di identità: carne di razza Chianina, cottura al sangue, e guai a chi osa aggiungere salse. Scendendo a Napoli, la pizza margherita con il suo impasto soffice e i pomodori San Marzano diventa il piatto della città; i napoletani la difendono con passione autentica. In Sicilia, invece, si scopre un'altra cucina ancora: arancini, caponata agrodolce, cannoli con ricotta fresca — una cucina che porta in sé influenze arabe, greche e spagnole.\n\nQueste differenze non dividono l'Italia: la uniscono attraverso l'orgoglio comune per la qualità e la tradizione. Il cibo, per gli italiani, non è solo nutrimento: è cultura, memoria e identità.",
+    "wordCount": 152,
+    "vocabularyNotes": [
+      {
+        "word": "gelosamente custodite",
+        "meaning": "celosamente guardadas/custodiadas"
+      },
+      {
+        "word": "cottura al sangue",
+        "meaning": "cocción a punto/poco hecha (vuelta y vuelta)"
+      },
+      {
+        "word": "guai a chi",
+        "meaning": "ay del que... (expresión de advertencia)"
+      },
+      {
+        "word": "impasto soffice",
+        "meaning": "masa suave/esponjosa"
+      },
+      {
+        "word": "nutrimento",
+        "meaning": "sustento, alimento"
+      }
+    ],
+    "questions": [
+      {
+        "question": "¿Cuál es la característica principal de la gastronomía italiana según el texto?",
+        "options": [
+          "Que es un conjunto de cocinas regionales, no una cocina nacional única.",
+          "Risposta B",
+          "Risposta C",
+          "Risposta D"
+        ],
+        "correctIndex": 0,
+        "explanation": ""
+      },
+      {
+        "question": "¿Qué influencias tiene la cocina siciliana?",
+        "options": [
+          "Influencias árabes, griegas y españolas.",
+          "Risposta B",
+          "Risposta C",
+          "Risposta D"
+        ],
+        "correctIndex": 0,
+        "explanation": ""
+      },
+      {
+        "question": "¿Qué representan las diferencias gastronómicas para los italianos según el texto?",
+        "options": [
+          "No los dividen sino que los unen a través del orgullo común por la calidad y la tradición; el cibo es cultura, memoria e identidad.",
+          "Risposta B",
+          "Risposta C",
+          "Risposta D"
+        ],
+        "correctIndex": 0,
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": "b1-reading-03",
+    "title": "Roma: storia e modernità",
+    "level": "b1",
+    "topic": "history-culture",
+    "text": "Roma è una città unica al mondo: nessun altro posto sa mescolare duemila anni di storia con la vita quotidiana del ventunesimo secolo con tanta naturalezza.\n\nI romani fanno jogging accanto al Colosseo, aprono bar nelle cantine di antiche domus romane, usano la Metro sotto cui si trovano anfiteatri e necropoli. Ogni scavo per costruire una linea ferroviaria diventa un'avventura archeologica: si ferma tutto, si chiama il soprintendente, si aspetta.\n\nLa città ha però anche i suoi problemi moderni: il traffico caotico, la gestione dei rifiuti, i ritardi nel trasporto pubblico. Molti romani si lamentano, ma pochi rinuncerebbero a vivere lì. «È una città impossibile», dice un'amica romana, «ma una volta che ti entra nel sangue, non riesci a immaginare di stare altrove.» Forse è proprio questa contraddizione — tra bellezza eterna e difficoltà quotidiane — che rende Roma irresistibile.",
+    "wordCount": 153,
+    "vocabularyNotes": [
+      {
+        "word": "naturalezza",
+        "meaning": "naturalidad"
+      },
+      {
+        "word": "cantine",
+        "meaning": "bodegas, sótanos"
+      },
+      {
+        "word": "soprintendente",
+        "meaning": "superintendente (arqueológico, de patrimonio)"
+      },
+      {
+        "word": "si lamentano",
+        "meaning": "se quejan"
+      },
+      {
+        "word": "ti entra nel sangue",
+        "meaning": "te entra en la sangre (te atrapa)"
+      }
+    ],
+    "questions": [
+      {
+        "question": "¿Qué problema ocurre frecuentemente durante la construcción en Roma?",
+        "options": [
+          "Se descubren restos arqueológicos, se para todo, se llama al superintendente arqueológico y se espera.",
+          "Risposta B",
+          "Risposta C",
+          "Risposta D"
+        ],
+        "correctIndex": 0,
+        "explanation": ""
+      },
+      {
+        "question": "Menciona dos problemas modernos de Roma.",
+        "options": [
+          "El tráfico caótico, la gestión de residuos y los retrasos en el transporte público.",
+          "Risposta B",
+          "Risposta C",
+          "Risposta D"
+        ],
+        "correctIndex": 0,
+        "explanation": ""
+      },
+      {
+        "question": "¿Qué hace Roma irresistible según el texto?",
+        "options": [
+          "La contradicción entre la belleza eterna y las dificultades cotidianas.",
+          "Risposta B",
+          "Risposta C",
+          "Risposta D"
+        ],
+        "correctIndex": 0,
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": "b1-reading-04",
+    "title": "Il lavoro cambia",
+    "level": "b1",
+    "topic": "work-culture",
+    "text": "Il mondo del lavoro in Italia sta cambiando rapidamente. Le nuove generazioni hanno aspettative diverse rispetto ai loro genitori: vogliono flessibilità, lavoro da remoto, work-life balance — concetti quasi sconosciuti una generazione fa.\n\nLo smart working, diffuso per necessità durante la pandemia, è ora una realtà permanente per molte aziende. Alcune imprese italiane però faticano ad adattarsi: preferiscono la presenza fisica in ufficio e guardano con sospetto chi lavora da casa.\n\nIntanto aumenta il fenomeno del «quiet quitting»: lavoratori che fanno esattamente quello che il contratto richiede, senza un minuto di più. Non è pigrizia — dicono i sociologi — ma una risposta a stipendi fermi, mancanza di promozioni e scarso riconoscimento.\n\nIl mercato del lavoro italiano ha ancora un grande problema strutturale: la disoccupazione giovanile rimane alta, specialmente nel Sud. Molti laureati scelgono di emigrare all'estero, in quello che si chiama «fuga di cervelli». L'Italia perde i suoi talenti migliori.",
+    "wordCount": 162,
+    "vocabularyNotes": [
+      {
+        "word": "aspettative",
+        "meaning": "expectativas"
+      },
+      {
+        "word": "faticano ad adattarsi",
+        "meaning": "tienen dificultades para adaptarse"
+      },
+      {
+        "word": "con sospetto",
+        "meaning": "con sospecha"
+      },
+      {
+        "word": "pigrizia",
+        "meaning": "pereza"
+      },
+      {
+        "word": "fuga di cervelli",
+        "meaning": "fuga de cerebros/talentos"
+      }
+    ],
+    "questions": [
+      {
+        "question": "¿Qué quieren las nuevas generaciones en el mundo laboral?",
+        "options": [
+          "Flexibilidad, trabajo remoto y work-life balance.",
+          "Risposta B",
+          "Risposta C",
+          "Risposta D"
+        ],
+        "correctIndex": 0,
+        "explanation": ""
+      },
+      {
+        "question": "¿Qué es el 'quiet quitting' según el texto?",
+        "options": [
+          "Trabajar exactamente lo que el contrato requiere sin un minuto más, como respuesta a sueldos estancados, falta de ascensos y escaso reconocimiento.",
+          "Risposta B",
+          "Risposta C",
+          "Risposta D"
+        ],
+        "correctIndex": 0,
+        "explanation": ""
+      },
+      {
+        "question": "¿Qué es la 'fuga di cervelli'?",
+        "options": [
+          "La emigración al extranjero de graduados y jóvenes talentosos que Italia pierde.",
+          "Risposta B",
+          "Risposta C",
+          "Risposta D"
+        ],
+        "correctIndex": 0,
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": "b1-reading-05",
+    "title": "Lo zaino dimenticato",
+    "level": "b1",
+    "topic": "narrative-past-tenses",
+    "text": "Era una mattina di marzo e Giulia stava correndo per non perdere il treno delle 8:15. Aveva passato la notte a finire la presentazione per il lavoro e si era svegliata tardi.\n\nArrivata al binario, cercò il biglietto nel suo zaino — ma lo zaino non c'era. L'aveva dimenticato a casa, sul divano. Rimase immobile per qualche secondo, poi tirò fuori il telefono e chiamò sua sorella.\n\n«Elena, ascolta, ho dimenticato lo zaino. C'è il computer dentro, la presentazione, tutto. Puoi portarmelo tu?»\n«Giulia, sono ancora in pigiama!»\n«Per favore! Il treno parte tra dieci minuti!»\n\nElena arrivò in cinque minuti, con lo zaino in mano e i capelli arruffati. Giulia la abbracciò e corse al binario. Salì sul treno nell'ultimo secondo, mentre le porte si chiudevano.\n\nMentì che tutto andava bene a un collega che la chiamò. Poi aprì il computer e sorrise: la presentazione c'era. Quella mattina aveva imparato una cosa: i fratelli sono insostituibili.",
+    "wordCount": 170,
+    "vocabularyNotes": [
+      {
+        "word": "binario",
+        "meaning": "andén, vía (del tren)"
+      },
+      {
+        "word": "divano",
+        "meaning": "sofá"
+      },
+      {
+        "word": "capelli arruffati",
+        "meaning": "pelo despeinado"
+      },
+      {
+        "word": "nell'ultimo secondo",
+        "meaning": "en el último segundo"
+      },
+      {
+        "word": "insostituibili",
+        "meaning": "insustituibles"
+      }
+    ],
+    "questions": [
+      {
+        "question": "¿Por qué Giulia había dormido poco esa noche?",
+        "options": [
+          "Había pasado la noche terminando la presentación para el trabajo.",
+          "Risposta B",
+          "Risposta C",
+          "Risposta D"
+        ],
+        "correctIndex": 0,
+        "explanation": ""
+      },
+      {
+        "question": "¿Cómo llegó Elena a tiempo con el zaino?",
+        "options": [
+          "El texto no lo especifica, pero llegó en cinco minutos con el pelo despeinado, todavía en pijama.",
+          "Risposta B",
+          "Risposta C",
+          "Risposta D"
+        ],
+        "correctIndex": 0,
+        "explanation": ""
+      },
+      {
+        "question": "¿Qué aprendió Giulia esa mañana?",
+        "options": [
+          "Que los hermanos son insustituibles.",
+          "Risposta B",
+          "Risposta C",
+          "Risposta D"
+        ],
+        "correctIndex": 0,
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "id": "b1-reading-06",
+    "title": "Il sistema scolastico italiano",
+    "level": "b1",
+    "topic": "education-society",
+    "text": "Il sistema scolastico italiano è suddiviso in diversi cicli. I bambini iniziano con la scuola dell'infanzia (3-6 anni), non obbligatoria. Poi viene la scuola primaria (6-11 anni), seguita dalla scuola secondaria di primo grado — le cosiddette «medie» (11-14 anni). Entrambe sono obbligatorie.\n\nDopo le medie, gli studenti scelgono tra diversi tipi di scuola secondaria di secondo grado: il liceo (classico, scientifico, linguistico, artistico), l'istituto tecnico o l'istituto professionale. Il liceo dura cinque anni e si conclude con la maturità, l'esame finale che dà accesso all'università.\n\nL'università italiana offre due livelli: la laurea triennale (tre anni) e la laurea magistrale (due anni aggiuntivi). Esiste anche il dottorato di ricerca per chi vuole fare carriera accademica.\n\nUn aspetto caratteristico della scuola italiana è l'importanza attribuita alle materie umanistiche anche nei licei scientifici: letteratura, storia e filosofia rimangono centrali in quasi tutti i percorsi.",
+    "wordCount": 158,
+    "vocabularyNotes": [
+      {
+        "word": "suddiviso",
+        "meaning": "dividido, subdividido"
+      },
+      {
+        "word": "obbligatoria",
+        "meaning": "obligatoria"
+      },
+      {
+        "word": "cosiddette",
+        "meaning": "las llamadas, los así llamados"
+      },
+      {
+        "word": "maturità",
+        "meaning": "examen de madurez/bachillerato (selectividad)"
+      },
+      {
+        "word": "percorsi",
+        "meaning": "caminos, recorridos, trayectorias"
+      }
+    ],
+    "questions": [
+      {
+        "question": "¿Cuántos años dura la educación obligatoria en Italia?",
+        "options": [
+          "Desde los 6 hasta los 14 años (primaria + secundaria de primer grado = 8 años). La scuola dell'infanzia no es obligatoria.",
+          "Risposta B",
+          "Risposta C",
+          "Risposta D"
+        ],
+        "correctIndex": 0,
+        "explanation": ""
+      },
+      {
+        "question": "¿Qué es la 'maturità'?",
+        "options": [
+          "El examen final de la secundaria de segundo grado que da acceso a la universidad.",
+          "Risposta B",
+          "Risposta C",
+          "Risposta D"
+        ],
+        "correctIndex": 0,
+        "explanation": ""
+      },
+      {
+        "question": "¿Qué caracteriza a la escuela italiana según el texto?",
+        "options": [
+          "La importancia de las materias humanísticas (literatura, historia, filosofía) incluso en los liceos científicos.",
+          "Risposta B",
+          "Risposta C",
+          "Risposta D"
+        ],
+        "correctIndex": 0,
+        "explanation": ""
+      }
+    ]
+  }
+]

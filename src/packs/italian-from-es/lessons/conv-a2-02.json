@@ -1,0 +1,95 @@
+{
+  "id": "conv-a2-02",
+  "title": "Conversazione: Prenotare un albergo",
+  "description": "Reservar una habitación de hotel por teléfono o en persona. Preguntar disponibilidad, tipos de habitación, servicios incluidos y confirmar la reserva. Vocabulario de alojamiento italiano.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Vorrei prenotare una camera per due notti.",
+      "back": "Quisiera reservar una habitación para dos noches.",
+      "reading": "",
+      "explanation": "'Vorrei prenotare' = quisiera reservar (cortés, condicionale di volere). 'Una camera' = una habitación. 'Per due notti' = para dos noches. Tipos de habitación: 'camera singola' (individual), 'camera doppia' (doble con dos camas), 'camera matrimoniale' (matrimonial/doble), 'camera tripla' (triple)."
+    },
+    {
+      "front": "Ha disponibilità per le date dal 15 al 17 luglio?",
+      "back": "¿Tiene disponibilidad para las fechas del 15 al 17 de julio?",
+      "reading": "",
+      "explanation": "'Ha disponibilità?' = ¿tiene disponibilidad? (formal, 3ª sing. di avere). 'Dal 15 al 17 luglio' = del 15 al 17 de julio. Para decir fechas: 'dal [giorno] al [giorno] [mese]'. 'Luglio' = julio. I mesi dell'estate: giugno (junio), luglio (julio), agosto (agosto)."
+    },
+    {
+      "front": "Sì, abbiamo una camera matrimoniale disponibile. La colazione è inclusa.",
+      "back": "Sí, tenemos una habitación matrimonial disponible. El desayuno está incluido.",
+      "reading": "",
+      "explanation": "'Abbiamo disponibile' = tenemos disponible. 'La colazione è inclusa' = el desayuno está incluido. Es importante preguntar: 'La colazione è inclusa?' (¿está incluido el desayuno?). En muchos hoteles italianos el desayuno está incluido (con prima colazione) o se paga aparte."
+    },
+    {
+      "front": "Quanto costa a notte? / C'è il Wi-Fi?",
+      "back": "¿Cuánto cuesta por noche? / ¿Hay Wi-Fi?",
+      "reading": "",
+      "explanation": "'Quanto costa a notte?' = ¿cuánto cuesta por noche? 'A notte' = por noche. Otras preguntas útiles: 'C'è il parcheggio?' (¿hay estacionamiento?), 'C'è l'aria condizionata?' (¿hay aire acondicionado?), 'C'è la piscina?' (¿hay piscina?), 'È ammesso il cane?' (¿se admiten perros?)."
+    },
+    {
+      "front": "Posso avere una camera con vista sul mare/sulla piazza?",
+      "back": "¿Puedo tener una habitación con vista al mar/a la plaza?",
+      "reading": "",
+      "explanation": "'Con vista sul mare' = con vista al mar (su + il = sul). 'Sulla piazza' = a la plaza (su + la = sulla). 'Con vista' = con vista. 'Lato mare' = lado del mar. 'Lato cortile' = lado del patio. 'Lato strada' = lado de la calle. A veces la habitación con vista cuesta más."
+    },
+    {
+      "front": "— Pronto, Hotel Minerva, buonasera.\n— Buonasera! Vorrei prenotare una camera doppia per tre notti, dal 20 al 23 agosto.\n— Un momento... sì, abbiamo disponibilità. La camera doppia con bagno costa 120 euro a notte, colazione inclusa.\n— Benissimo! Posso prenotare?\n— Certo. Mi dà il suo nome e cognome?\n— Mi chiamo Martínez, Carlos Martínez.\n— Perfetto. Ha un indirizzo email per la conferma?\n— Sì, carlos@mail.com\n— La prenotazione è confermata. A presto!",
+      "back": "— Hola, Hotel Minerva, buenas noches.\n— ¡Buenas noches! Quisiera reservar una habitación doble para tres noches, del 20 al 23 de agosto.\n— Un momento... sí, tenemos disponibilidad. La habitación doble con baño cuesta 120 euros por noche, desayuno incluido.\n— ¡Muy bien! ¿Puedo reservar?\n— Por supuesto. ¿Me da su nombre y apellido?\n— Me llamo Martínez, Carlos Martínez.\n— Perfecto. ¿Tiene un email para la confirmación?\n— Sí, carlos@mail.com\n— La reserva está confirmada. ¡Hasta pronto!",
+      "reading": "",
+      "explanation": "Diálogo completo de reserva por teléfono. 'Pronto' = ¡Hola! (al teléfono). 'Mi dà il suo nome?' = ¿Me da su nombre? (imperativo formale di dare). 'Nome e cognome' = nombre y apellido. 'L'indirizzo email' = la dirección de email. 'La prenotazione è confermata' = la reserva está confirmada."
+    },
+    {
+      "front": "Check-in / Check-out: A che ora è il check-in? Devo fare il check-out entro le undici.",
+      "back": "Check-in / Check-out: ¿A qué hora es el check-in? Debo hacer el check-out antes de las once.",
+      "reading": "",
+      "explanation": "Estos términos en inglés se usan tal cual en el italiano hotelero. 'A che ora è il check-in?' = ¿A qué hora es el check-in? 'Il check-out è entro le undici' = el check-out es antes de las once. 'Entro' = antes de (deadline temporal). 'Posso lasciare i bagagli?' = ¿Puedo dejar el equipaje?"
+    },
+    {
+      "front": "Devo cancellare la prenotazione. C'è una penale?",
+      "back": "Tengo que cancelar la reserva. ¿Hay una penalización?",
+      "reading": "",
+      "explanation": "'Cancellare la prenotazione' = cancelar la reserva. 'C'è una penale?' = ¿hay una penalización? 'La penale di cancellazione' = la penalización por cancelación. Política de cancelación: 'cancellazione gratuita entro...' = cancelación gratuita antes de... Vocabulario importante para viajes."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Reservar un hotel: las frases esenciales",
+      "instruction": "'Vorrei prenotare una camera...' 'Ha disponibilità per...?' 'Quanto costa a notte?' 'La colazione è inclusa?' Tipos: camera singola, doppia, matrimoniale. Servicios: Wi-Fi, parcheggio, aria condizionata.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "El diálogo completo y vocabulario adicional",
+      "instruction": "Llamar por teléfono: 'Pronto!' Check-in/check-out. Cancelación. El vocabulario hotelero en contexto.",
+      "itemIndices": [5, 6, 7]
+    },
+    {
+      "type": "conversation-script",
+      "title": "Reservá el hotel por teléfono",
+      "instruction": "Practicá el diálogo completo. Primero el cliente (tú), luego el receptionist (recepcionista).",
+      "itemIndices": [5]
+    },
+    {
+      "type": "recall",
+      "title": "Preguntas frecuentes del hotel",
+      "instruction": "Formulá en italiano estas preguntas que harías al reservar.",
+      "itemIndices": [1, 2, 3, 4, 6, 7]
+    },
+    {
+      "type": "speak",
+      "title": "Reservá tu hotel en italiano",
+      "instruction": "Llamás al Hotel Roma Palace. Reservá una habitación matrimonial para dos noches. Preguntá el precio, si incluye desayuno y si hay Wi-Fi.",
+      "itemIndices": [0, 1, 2, 3, 5]
+    },
+    {
+      "type": "summary",
+      "title": "Prenotare un albergo: vocabulario completo",
+      "instruction": "RESERVAR: Vorrei prenotare una camera [tipo] per [n] notti, dal [data] al [data]. TIPOS: singola, doppia, matrimoniale, tripla. PREGUNTAR: Quanto costa a notte? La colazione è inclusa? C'è il Wi-Fi/parcheggio/aria condizionata? TELEFONO: Pronto! / Mi dà il suo nome? / La prenotazione è confermata. CANCELAR: Devo cancellare la prenotazione. C'è una penale?",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

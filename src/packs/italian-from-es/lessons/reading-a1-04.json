@@ -1,0 +1,89 @@
+{
+  "id": "reading-a1-04",
+  "title": "Lettura: Al ristorante",
+  "description": "Cuarta lectura: un diálogo en un restaurante italiano. Hacer una reserva, pedir platos y bebidas, fórmulas de cortesía. Vocabulario esencial para comer fuera en Italia.",
+  "level": "a1",
+  "category": "reading",
+  "items": [
+    {
+      "front": "Buonasera! Avete prenotato?",
+      "back": "¡Buenas noches! ¿Tienen reserva?",
+      "reading": "",
+      "explanation": "'Avete prenotato?' = ¿Tienen reserva? (de 'prenotare' = reservar). 'Prenotazione' = reserva. Verbo en passato prossimo: avete + prenotato. En un restaurante italiano, el mozo/cameriere pregunta esto al llegar."
+    },
+    {
+      "front": "Sì, ho una prenotazione per due persone. Mi chiamo Rossi.",
+      "back": "Sí, tengo una reserva para dos personas. Me llamo Rossi.",
+      "reading": "",
+      "explanation": "'Ho una prenotazione' = tengo una reserva (AVERE + prenotazione). 'Per due persone' = para dos personas. En Italia se hace reserva con el apellido (cognome): 'Mi chiamo Rossi' = Me llamo Rossi. En español también es común dar el apellido para las reservas."
+    },
+    {
+      "front": "Perfetto! Ecco il vostro tavolo. Cosa prendete?",
+      "back": "¡Perfecto! Aquí está su mesa. ¿Qué van a pedir?",
+      "reading": "",
+      "explanation": "'Ecco' = aquí está/aquí tienen (presentativo). 'Il vostro tavolo' = su mesa (vostro = de ustedes, plural). 'Cosa prendete?' = ¿Qué toman/piden? ('prendere' = tomar/pedir en el restaurante). Es la pregunta típica del cameriere."
+    },
+    {
+      "front": "Io vorrei gli spaghetti al pomodoro.",
+      "back": "Yo quisiera los espaguetis con tomate.",
+      "reading": "",
+      "explanation": "'Vorrei' = quisiera (condicional de 'volere'). MUCHO más cortés que 'voglio' (quiero). En restaurantes y tiendas: siempre usar 'vorrei'. 'Gli spaghetti al pomodoro' = los espaguetis con salsa de tomate. 'Al pomodoro' = con tomate (preposición articulata)."
+    },
+    {
+      "front": "Mia moglie prende la pizza margherita.",
+      "back": "Mi esposa pide la pizza margherita.",
+      "reading": "",
+      "explanation": "'Mia moglie' = mi esposa (sin artículo — familia singular). 'Prende' = pide/toma (3ª sing. de 'prendere'). La pizza margherita = la pizza más simple e icónica: tomate, mozzarella y albahaca. Lleva ese nombre en honor a la reina Margherita di Savoia."
+    },
+    {
+      "front": "Un quarto di vino rosso e una bottiglia d'acqua, per favore.",
+      "back": "Un cuarto de vino tinto y una botella de agua, por favor.",
+      "reading": "",
+      "explanation": "'Un quarto di vino' = un cuarto (250ml) de vino. Los vinos en restaurantes italianos se piden por: il bicchiere (la copa), il quarto (250ml), la mezza (500ml), il litro (1 litro). 'Acqua' = agua. En Italia el agua en el restaurante no es gratis y se pide: 'acqua naturale' (sin gas) o 'acqua frizzante' (con gas)."
+    },
+    {
+      "front": "Naturalmente. Buon appetito!",
+      "back": "Por supuesto. ¡Buen provecho!",
+      "reading": "",
+      "explanation": "'Naturalmente' = por supuesto, naturalmente. 'Buon appetito!' es la expresión típica italiana que se dice SIEMPRE antes de comer. Es importante en la cultura italiana: no responder 'Grazie!' sino 'Grazie, altrettanto!' (Gracias, igualmente) o simplemente 'Grazie!'."
+    },
+    {
+      "front": "Vocabolario del ristorante: il cameriere, il menu, il conto",
+      "back": "el mozo / el menú / la cuenta",
+      "reading": "",
+      "explanation": "Vocabulario esencial del restaurante: il cameriere (el mozo), la cameriera (la moza), il menu (el menú), il conto (la cuenta), il tavolo (la mesa), la prenotazione (la reserva), il primo piatto (el primer plato: pasta/sopa), il secondo piatto (el segundo: carne/pescado), il dolce (el postre)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Al ristorante — Leemos el diálogo",
+      "instruction": "Diálogo completo: Cameriere: 'Buonasera! Avete prenotato?' Cliente: 'Sì, ho una prenotazione per due persone. Mi chiamo Rossi.' Cameriere: 'Perfetto, signor Rossi. Ecco il vostro tavolo. Cosa prendete?' Cliente: 'Io vorrei gli spaghetti al pomodoro e mia moglie prende la pizza margherita.' Cameriere: 'E da bere?' Cliente: 'Un quarto di vino rosso e una bottiglia d'acqua, per favore.' Cameriere: 'Naturalmente. Buon appetito!' Cliente: 'Grazie!'",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Frases clave del restaurante",
+      "instruction": "¿Qué significan estas frases del diálogo? Identificá las fórmulas de cortesía y los verbos de pedido.",
+      "itemIndices": [0, 2, 3, 6, 7]
+    },
+    {
+      "type": "conversation-script",
+      "title": "Practicá el diálogo",
+      "instruction": "Practicá el diálogo: primero leé el rol del cameriere, luego el del cliente. ¿Podés memorizarlo?",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "¿Qué pedieron?",
+      "instruction": "Respondé: ¿Para cuántas personas era la reserva? ¿Qué pidió el cliente? ¿Y su esposa? ¿Qué bebieron?",
+      "itemIndices": [1, 4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "En el restaurante italiano",
+      "instruction": "Fórmulas clave: 'Avete prenotato?' (¿tienen reserva?), 'Cosa prendete?' (¿qué piden?), 'Vorrei...' (quisiera... — cortés), 'Ecco' (aquí tiene), 'Buon appetito!' (buen provecho). Prendere = pedir en el restaurante. Vino: quarto (250ml), mezza (500ml), litro. Acqua: naturale o frizzante.",
+      "itemIndices": [0, 2, 3, 6, 7]
+    }
+  ]
+}

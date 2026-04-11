@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a1-29",
+  "title": "Espressioni con avere — ho fame, ho sete, ho sonno, ho anni...",
+  "description": "En italiano muchas sensaciones físicas usan AVERE (tener) en lugar de ESSERE (ser/estar). Para hispanohablantes: exactamente igual que en español — 'tener hambre', 'tener sed', etc.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Ho fame — tengo hambre",
+      "back": "Tengo hambre (literalmente: 'tengo hambre')",
+      "reading": "",
+      "explanation": "'Ho fame' = tengo hambre. Exactamente igual al español 'tener hambre'. 'Hai fame?' = ¿Tenés hambre? 'Ho molta fame!' = ¡Tengo mucha hambre! 'Non ho fame' = No tengo hambre. 'fame' = hambre (f., sustantivo)."
+    },
+    {
+      "front": "Ho sete — tengo sed",
+      "back": "Tengo sed",
+      "reading": "",
+      "explanation": "'Ho sete' = tengo sed. 'Hai sete?' = ¿Tenés sed? 'Ho tantissima sete' = Tengo muchísima sed. Con 'molto': 'Ho molta sete' = Tengo mucha sed. 'sete' = sed (f.)."
+    },
+    {
+      "front": "Ho sonno — tengo sueño",
+      "back": "Tengo sueño",
+      "reading": "",
+      "explanation": "'Ho sonno' = tengo sueño. 'Hai sonno?' = ¿Tenés sueño? 'Ho molto sonno stasera' = Tengo mucho sueño esta noche. 'sonno' = sueño (m.) — cuidado: 'sogno' = sueño (lo que soñamos al dormir). 'sonno' = estado de dormir."
+    },
+    {
+      "front": "Ho freddo / Ho caldo — tengo frío / calor",
+      "back": "Tengo frío / Tengo calor",
+      "reading": "",
+      "explanation": "'Ho freddo' = tengo frío, 'ho caldo' = tengo calor. Para sensaciones corporales de temperatura se usa AVERE. ¡No confundir con el tiempo meteorológico! 'Fa freddo' = hace frío (tiempo), 'Ho freddo' = yo tengo frío (sensación personal)."
+    },
+    {
+      "front": "Ho paura — tengo miedo",
+      "back": "Tengo miedo",
+      "reading": "",
+      "explanation": "'Ho paura' = tengo miedo. 'Ho paura dei topi' = Le tengo miedo a los ratones. 'Hai paura?' = ¿Tenés miedo? 'Ho molta paura' = Tengo mucho miedo. 'Di cosa hai paura?' = ¿A qué le tenés miedo?"
+    },
+    {
+      "front": "Ho fretta — tengo prisa",
+      "back": "Tengo prisa",
+      "reading": "",
+      "explanation": "'Ho fretta' = tengo prisa / estoy apurado. 'Ho molta fretta' = Tengo mucha prisa. 'Scusa, ho fretta!' = ¡Perdón, estoy apurado! 'Non ho fretta' = No tengo prisa. 'fretta' = prisa, apuro (f.)."
+    },
+    {
+      "front": "Ho X anni — tengo X años",
+      "back": "Tengo X años (edad)",
+      "reading": "",
+      "explanation": "'Ho venti anni' = Tengo veinte años. Igual que en español 'tener + número + años'. NUNCA 'sono venti anni'. 'Quanti anni hai?' = ¿Cuántos años tenés? 'Ha trentacinque anni' = Tiene treinta y cinco años."
+    },
+    {
+      "front": "Ho bisogno di... — necesito / tengo necesidad de",
+      "back": "Necesito... (tengo necesidad de)",
+      "reading": "",
+      "explanation": "'Ho bisogno di' = necesito (literalmente 'tengo necesidad de'). Siempre seguido de 'di': 'Ho bisogno di aiuto' = Necesito ayuda. 'Ho bisogno di dormire' = Necesito dormir. 'Hai bisogno di qualcosa?' = ¿Necesitás algo?"
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Avere para sensaciones físicas",
+      "instruction": "En italiano las sensaciones físicas y estados personales usan AVERE (tener), igual que en español. Ho fame, ho sete, ho sonno, ho freddo/caldo, ho paura, ho fretta. La estructura es idéntica al español.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "introduce",
+      "title": "Avere per la edad y la necesidad",
+      "instruction": "Dos usos más de AVERE: la edad (ho X anni) y la necesidad (ho bisogno di...). Ambos idénticos al español.",
+      "itemIndices": [6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál expresión con avere va aquí?",
+      "instruction": "Elegí la expresión correcta con avere para cada situación.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "recall",
+      "title": "Traducí al italiano",
+      "instruction": "Traducí estas expresiones usando avere. Recordá: igual que en español.",
+      "itemIndices": [0, 1, 3, 4, 6, 7]
+    },
+    {
+      "type": "speak",
+      "title": "¿Cómo te sentís ahora?",
+      "instruction": "Usá las expresiones con avere para describir cómo te sentís en este momento. Agregá un adverbio de cantidad: molto, abbastanza, un po'.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "Espressioni con avere: ¡igual que el español!",
+      "instruction": "HO FAME (hambre), HO SETE (sed), HO SONNO (sueño), HO FREDDO (frío), HO CALDO (calor), HO PAURA (miedo), HO FRETTA (prisa). HO X ANNI (edad). HO BISOGNO DI... (necesito). Todos idénticos al español 'tener + sustantivo'. Con 'molto/molta': ho molta fame, ho molto sonno. ¡La transferencia del español funciona perfectamente aquí!",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

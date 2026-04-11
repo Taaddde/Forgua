@@ -1,0 +1,95 @@
+{
+  "id": "grammar-b1-18",
+  "title": "Connettivi di causa e concessione",
+  "description": "Los conectores de causa (perché, poiché, siccome) y concesión (sebbene, benché, nonostante). Diferencias de posición, registro y modo verbal.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Non è venuto perché era malato.",
+      "back": "No vino porque estaba enfermo.",
+      "reading": "",
+      "explanation": "'Perché' causal + indicativo: la razón directa, la más neutra. Puede ir al inicio o al final de la oración. Es el conector de causa más frecuente. ⚠️ Atención: 'perché' tiene dos usos distintos: 1) causal = porque + indicativo; 2) final = para que + congiuntivo. El contexto y el modo verbal los distinguen."
+    },
+    {
+      "front": "Siccome pioveva, siamo rimasti a casa.",
+      "back": "Ya que llovía, nos quedamos en casa.",
+      "reading": "",
+      "explanation": "'Siccome' + indicativo = ya que, dado que. POSICIÓN: 'siccome' SIEMPRE va al inicio de la oración o antes de la consecuencia, nunca al final. ✗ 'Siamo rimasti a casa, siccome pioveva' → ✓ 'Siccome pioveva, siamo rimasti a casa'. Equivale a 'poiché' y 'dato che'. Más formal que 'perché'."
+    },
+    {
+      "front": "Poiché non aveva soldi, non poteva pagare.",
+      "back": "Puesto que no tenía dinero, no podía pagar.",
+      "reading": "",
+      "explanation": "'Poiché' = puesto que, ya que. Como 'siccome', introduce una causa ya conocida o evidente. Va al inicio de la oración. Es más formal que 'perché'. En textos escritos es muy frecuente. Otros sinónimos formales: 'dato che', 'visto che', 'considerato che'."
+    },
+    {
+      "front": "Sebbene fosse stanco, ha continuato a lavorare.",
+      "back": "Aunque estaba cansado, siguió trabajando.",
+      "reading": "",
+      "explanation": "'Sebbene' + CONGIUNTIVO: conector concesivo formal. Equivale a 'aunque' en español cuando va seguido de subjuntivo. Importante: requiere SIEMPRE congiuntivo (no indicativo). ✗ 'Sebbene era stanco' → ✓ 'Sebbene fosse stanco'. 'Fosse' = congiuntivo imperfetto de essere (porque el verbo principal está en pasado)."
+    },
+    {
+      "front": "Benché stia bene, ho deciso di riposarmi.",
+      "back": "Aunque estoy bien, decidí descansar.",
+      "reading": "",
+      "explanation": "'Benché' + CONGIUNTIVO: equivalente a 'sebbene'. Ambos son formales y requieren congiuntivo. 'Stia' = congiuntivo presente de 'stare' (porque el verbo principal 'ho deciso' es pasado con perspectiva presente). Notar la concordanza: verbo principal presente/passato prossimo → congiuntivo presente en la subordinada."
+    },
+    {
+      "front": "Nonostante la pioggia, siamo usciti.",
+      "back": "A pesar de la lluvia, salimos.",
+      "reading": "",
+      "explanation": "'Nonostante' puede construirse de tres maneras: 1) + sustantivo: 'nonostante la pioggia' (a pesar de la lluvia). 2) + che + congiuntivo: 'nonostante che piovesse' (aunque lloviera). 3) Solo 'nonostante' + congiuntivo (sin 'che'): 'nonostante piovesse'. En el uso moderno, la variante 1 con sustantivo es muy frecuente."
+    },
+    {
+      "front": "Anche se è tardi, possiamo ancora provare.",
+      "back": "Aunque es tarde, todavía podemos intentarlo.",
+      "reading": "",
+      "explanation": "'Anche se' + INDICATIVO: el conector concesivo coloquial, el más frecuente en el habla informal. A diferencia de 'sebbene/benché', 'anche se' toma indicativo. 'Anche se piove' (aunque llueve, indicativo) vs 'sebbene piova' (aunque llueva, congiuntivo). 'Anche se' puede usarse en todos los registros."
+    },
+    {
+      "front": "Ti chiamo perché tu sappia la verità. (finale)",
+      "back": "Te llamo para que sepas la verdad.",
+      "reading": "",
+      "explanation": "'Perché' FINAL (para que) + CONGIUNTIVO. Contrastá con 'perché' causal: 'Ti chiamo perché ero preoccupato' (te llamo porque estaba preocupado = causal + indicativo) vs 'Ti chiamo perché tu sappia' (te llamo para que sepas = final + congiuntivo). El modo verbal distingue los dos usos."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Conectores de causa: perché, siccome, poiché",
+      "instruction": "CAUSA: todos llevan indicativo. Diferencias de posición y registro: 'perché' (cualquier posición, neutral); 'siccome' y 'poiché' (inicio de oración, más formal). Recordá: 'siccome' NUNCA al final.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Conectores de concesión: sebbene, benché, nonostante, anche se",
+      "instruction": "CONCESIÓN: sebbene y benché + congiuntivo (formales); anche se + indicativo (coloquial); nonostante puede construirse con sustantivo (sin verbo). Todos equivalen al 'aunque' español.",
+      "itemIndices": [3, 4, 5, 6]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Causal o final? El doble uso de 'perché'",
+      "instruction": "'Perché' tiene dos funciones radicalmente diferentes. El modo verbal lo distingue: indicativo = porque (causa); congiuntivo = para que (finalidad). Identificá cuál es cuál.",
+      "itemIndices": [0, 7]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "¿Indicativo o congiuntivo?",
+      "instruction": "Elegí el conector correcto y el modo verbal según el contexto: causa vs concesión, formal vs informal.",
+      "itemIndices": [0, 1, 3, 4, 6]
+    },
+    {
+      "type": "error-correction",
+      "title": "Corregí los errores",
+      "instruction": "Estos errores son muy comunes. Sebbene/benché siempre llevan congiuntivo. Siccome nunca va al final.",
+      "itemIndices": [1, 3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "Causa y concesión — consolidado",
+      "instruction": "CAUSA + indicativo: perché (cualquier posición), siccome/poiché (inicio). CONCESIÓN + congiuntivo: sebbene, benché, nonostante che. CONCESIÓN + indicativo: anche se. NONOSTANTE puede ir solo con sustantivo. PERCHÉ dual: causal (indicativo) vs final (congiuntivo).",
+      "itemIndices": [0, 1, 3, 6, 7]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "grammar-b2-09",
+  "title": "Passato remoto vs Passato prossimo",
+  "description": "La diferencia temporal y regional entre passato remoto y passato prossimo: una de las características más llamativas del italiano. Cómo navegar la variación Norte/Sur.",
+  "level": "b2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Oggi ho lavorato molto. (Nord e Centro) / Oggi lavorai molto. (Sud)",
+      "back": "Hoy trabajé mucho. (ambas variantes según región)",
+      "reading": "",
+      "explanation": "La distinción passato remoto/prossimo es FUERTEMENTE REGIONAL. NORD (Milano, Torino, Venezia): usa passato prossimo para casi todo el pasado, incluso eventos muy alejados. SUD (Napoli, Sicilia, Calabria): usa passato remoto para casi todo, incluso eventos recientes. CENTRO (Roma, Toscana): zona de transición, tendencia al prossimo para lo reciente."
+    },
+    {
+      "front": "La Prima Guerra Mondiale scoppiò nel 1914. (standard ovunque)",
+      "back": "La Primera Guerra Mundial estalló en 1914.",
+      "reading": "",
+      "explanation": "Para eventos HISTÓRICOS muy alejados → passato remoto en todo el país. Esta es la única regla que no varía regionalmente. 'Scoppiò' (estalló), 'fu firmato' (fue firmado), 'morì' (murió): verbos históricos en passato remoto son universalmente aceptados y esperados en textos formales y periodísticos."
+    },
+    {
+      "front": "Stamattina mi sono svegliato tardi. (Nord) / Stamattina mi svegliai tardi. (Sud)",
+      "back": "Esta mañana me desperté tarde.",
+      "reading": "",
+      "explanation": "MISMO EVENTO, DOS VARIEDADES. En el NORTE, incluso eventos de esta mañana van en passato prossimo ('mi sono svegliato'). En el SUR, incluso eventos muy recientes van en passato remoto ('mi svegliai'). PARA EL LEARNER: en conversación usa passato prossimo para lo reciente — funcionarás bien en todo el país excepto si estás en el Sur profundo."
+    },
+    {
+      "front": "Ho mangiato già. (Nord) / Mangiai già. (Sud) — stesso significato",
+      "back": "Ya comí. (mismo significado, diferente variedad)",
+      "reading": "",
+      "explanation": "La gramática normativa distingue: passato prossimo para acciones con relevancia en el presente; passato remoto para acciones concluidas sin vínculo con el presente. Pero en la práctica HABLADA esta distinción es secundaria frente a la variación regional. Para la SCRITTURA FORMALE: aplica la distinción normativa. Para il PARLATO: adapta al interlocutor."
+    },
+    {
+      "front": "Ho sempre amato la musica. (relazione con il presente) / Da bambino, amavo la musica. (imperfetto per abitudine)",
+      "back": "Siempre he amado la música. / De niño, amaba la música.",
+      "reading": "",
+      "explanation": "Distinción passato prossimo/imperfetto: el IMPERFETTO describe habitual, durativo o descriptivo en el pasado ('amavo' = amaba habitual). El PASSATO PROSSIMO describe una acción puntual con conexión al presente ('ho sempre amato' = he amado siempre, conexión hasta ahora). Para narración: passato remoto (evento puntual) + imperfetto (contexto/descripción)."
+    },
+    {
+      "front": "Mentre leggevo, è squillato il telefono. (Nord) / Mentre leggevo, squillò il telefono. (Sud/letterario)",
+      "back": "Mientras leía, sonó el teléfono.",
+      "reading": "",
+      "explanation": "En narración: IMPERFETTO (azione in corso) + passato prossimo/remoto (azione puntuale). 'Leggevo' = estaba leyendo (imperfetto, azione durativa in corso). 'È squillato / squillò' = sonó (passato prossimo o remoto, azione puntuale). Este patrón narrativo es fundamental en B2 para contar historias fluidas."
+    },
+    {
+      "front": "Napoleone nacque in Corsica nel 1769 e morì a Sant'Elena nel 1821.",
+      "back": "Napoleón nació en Córcega en 1769 y murió en Santa Elena en 1821.",
+      "reading": "",
+      "explanation": "Datos biográficos de personas históricas → siempre passato remoto, independientemente de la región. 'Nacque' (nacer, irregular), 'morì' (morir, regular -IRE). En textos académicos y periodísticos, los eventos anteriores al siglo XX se narran sistemáticamente en passato remoto."
+    },
+    {
+      "front": "Da piccolo sono andato spesso al mare. (Nord) / Da piccolo andai spesso al mare. (Sud/letterario)",
+      "back": "De niño fui mucho al mar.",
+      "reading": "",
+      "explanation": "Evento BIOGRÁFICO del pasado personal: aquí hay variación regional incluso para el aprendiente. La gramática normativa preferiría passato remoto (evento biográfico alejado del presente). Pero en el habla del Nord Italia, el passato prossimo domina incluso para eventos de la infancia. CONSEJO PRÁCTICO: para escribir, usa passato remoto. Para hablar, passato prossimo si estás en el Norte."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "La variación regional: la realidad del italiano",
+      "instruction": "No hay una única respuesta correcta. Norte → passato prossimo casi siempre. Sur → passato remoto casi siempre. Centro → mixto. Para el learner: passato prossimo para conversación (funciona en todo el país), passato remoto para escritura formal y eventos históricos.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "La distinción normativa formal",
+      "instruction": "PASSATO PROSSIMO: acciones recientes con vínculo con el presente. PASSATO REMOTO: acciones históricas, biográficas lejanas o sin vínculo con el presente. Esta distinción importa sobre todo en el REGISTRO ESCRITO FORMAL.",
+      "itemIndices": [3, 4, 7]
+    },
+    {
+      "type": "introduce",
+      "title": "Narración: imperfetto + passato",
+      "instruction": "En cualquier variedad: imperfetto para el CONTEXTO/FONDO (azione durativa) + passato prossimo o remoto para EVENTOS PUNTUALES. Esta combinación es fundamental para contar historias.",
+      "itemIndices": [5]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué tiempo usarías tú?",
+      "instruction": "Dado el contexto (habla informal del Norte, escritura formal, dato histórico), decide qué tiempo es más apropiado. No hay una única respuesta para todos los contextos.",
+      "itemIndices": [0, 2, 6, 7]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completa el texto narrativo",
+      "instruction": "En este texto narrativo formal (registro escrito), elige entre passato remoto, passato prossimo e imperfetto según el contexto.",
+      "itemIndices": [5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "Passato remoto vs prossimo — consolidado",
+      "instruction": "REGOLA PRATICA: Conversazione → passato prossimo (Nord), passato remoto (Sud). Scrittura formale → passato remoto per narrazione storica/letteraria. NORMA ASSOLUTA: eventi storici (pre-XX sec.) → sempre passato remoto. NARRAZIONE: imperfetto (fondo) + passato (eventi puntuali).",
+      "itemIndices": [1, 4, 5, 6]
+    }
+  ]
+}

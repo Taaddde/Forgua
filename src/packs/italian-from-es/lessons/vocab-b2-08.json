@@ -1,0 +1,186 @@
+{
+  "id": "vocab-b2-08",
+  "title": "Verbi ed espressioni sofisticate",
+  "description": "Verbos matizados y expresiones formales que elevan el registro. Esenciales para sonar natural en contextos profesionales, académicos y formales.",
+  "level": "b2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "sfumare",
+      "back": "matizar / difuminarse / atenuarse",
+      "reading": "",
+      "explanation": "'Sfumare un concetto' = matizar un concepto. 'Il confine sfuma' = el límite se difumina. 'Una risposta sfumata' = una respuesta matizada. Sustantivo: 'le sfumature' = los matices."
+    },
+    {
+      "front": "sottintendere",
+      "back": "dar a entender / sobreentender / insinuar",
+      "reading": "",
+      "explanation": "'Cosa sottintende questa frase?' = ¿Qué da a entender esta frase? 'È sottinteso che' = se da por sobreentendido que. Sustantivo: 'il sottinteso' = el sobreentendido."
+    },
+    {
+      "front": "alludere (a)",
+      "back": "aludir a / referirse indirectamente a",
+      "reading": "",
+      "explanation": "Forma il participio: alluso. 'A cosa stai alludendo?' = ¿A qué estás aludiendo? 'Allusione' = alusión. Más indirecto que 'riferirsi', más vago que 'indicare'."
+    },
+    {
+      "front": "fraintendere",
+      "back": "malinterpretar / entender mal",
+      "reading": "",
+      "explanation": "Participio: frainteso. 'Mi hai frainteso.' = Me malinterpretaste. 'È facile fraintendere il tono scritto.' = Es fácil malinterpretar el tono escrito. Sustantivo: 'fraintendimento' = malentendido."
+    },
+    {
+      "front": "ribadire",
+      "back": "reiterar / recalcar / insistir en",
+      "reading": "",
+      "explanation": "Uso formale e retorico. 'Voglio ribadire che' = quiero reiterar/recalcar que. Frecuente en discursos políticos y académicos. Más enfático que 'ripetere'."
+    },
+    {
+      "front": "smentire",
+      "back": "desmentir / contradecir / refutar",
+      "reading": "",
+      "explanation": "'Smentire una notizia falsa' = desmentir una noticia falsa. 'Smentire le proprie parole' = contradecir sus propias palabras. Sustantivo: 'la smentita' = el desmentido."
+    },
+    {
+      "front": "confutare",
+      "back": "refutar / rebatir",
+      "reading": "",
+      "explanation": "Más formal y académico que 'smentire'. 'Confutare un argomento/una tesi' = refutar un argumento/una tesis. Sustantivo: 'la confutazione'. 'Confutare un'ipotesi scientificamente'."
+    },
+    {
+      "front": "sostenere una tesi",
+      "back": "defender una tesis / mantener una posición",
+      "reading": "",
+      "explanation": "'L'autore sostiene la tesi che...' = el autor defiende la tesis de que... 'Sostenere' tiene muchos usos: (1) sostener físicamente, (2) apoyar, (3) defender una posición, (4) financiar."
+    },
+    {
+      "front": "avvalersi di",
+      "back": "valerse de / hacer uso de / servirse de",
+      "reading": "",
+      "explanation": "Muy formal y legal. 'Avvalersi della facoltà di non rispondere' = acogerse al derecho a no declarar. 'Avvalersi di un consulente' = valerse de un asesor. Participio: avvalso."
+    },
+    {
+      "front": "appellarsi a",
+      "back": "apelar a / invocar / recurrir a",
+      "reading": "",
+      "explanation": "'Appellarsi al buon senso' = apelar al sentido común. 'Appellarsi alla legge' = acogerse a la ley. 'Appellarsi al tribunale superiore' = apelar ante el tribunal superior. Sustantivo: 'l'appello'."
+    },
+    {
+      "front": "far ricorso a",
+      "back": "recurrir a / acudir a",
+      "reading": "",
+      "explanation": "'Far ricorso a soluzioni alternative' = recurrir a soluciones alternativas. 'Far ricorso a un avvocato' = recurrir a un abogado. Más formal que 'usare', 'servirsi di'. También: 'fare ricorso' (legal)."
+    },
+    {
+      "front": "intendere per",
+      "back": "entender por / referirse a con el término",
+      "reading": "",
+      "explanation": "'Con questo termine intendo...' = por este término entiendo... 'Cosa intendi per sostenibilità?' = ¿Qué entiendes por sostenibilidad? Útil para definir términos en debates."
+    },
+    {
+      "front": "qualificarsi come",
+      "back": "calificarse como / considerarse / clasificarse",
+      "reading": "",
+      "explanation": "Formal y legal. 'Il reato si qualifica come furto aggravato.' = El delito se califica como robo agravado. 'Il comportamento si qualifica come mobbing.' Derivado: 'qualificazione'."
+    },
+    {
+      "front": "configurarsi come",
+      "back": "configurarse como / constituir / presentarse como",
+      "reading": "",
+      "explanation": "Muy formal, frecuente en textos legales y administrativos. 'Il comportamento si configura come violazione contrattuale.' = El comportamiento constituye una violación contractual."
+    },
+    {
+      "front": "rientrare in",
+      "back": "encuadrarse en / estar comprendido en / entrar dentro de",
+      "reading": "",
+      "explanation": "'Il caso rientra nella competenza del tribunale' = el caso cae dentro de la competencia del tribunal. 'Rientra nei miei compiti' = entra dentro de mis funciones. 'Rientrare' también = volver (a casa)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Verbos de matiz comunicativo",
+      "instruction": "Sfumare, sottintendere, alludere, fraintendere: verbos para hablar con precisión sobre el lenguaje y la comunicación.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Verbos del discurso argumentativo",
+      "instruction": "Ribadire, smentire, confutare, sostenere una tesi: el vocabulario del debate y la argumentación.",
+      "itemIndices": [
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Expresiones formales y legales",
+      "instruction": "Avvalersi, appellarsi, far ricorso, intendere per, qualificarsi come: expresiones del registro formal y jurídico.",
+      "itemIndices": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "Repaso: verbos sofisticados",
+      "instruction": "Practica estos verbos y expresiones de registro elevado.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "type": "error-correction",
+      "title": "Errori di registro",
+      "instruction": "Identifica cuándo se usa el verbo equivocado para el contexto.",
+      "itemIndices": [
+        1,
+        2,
+        5,
+        6,
+        8
+      ]
+    },
+    {
+      "type": "summary",
+      "title": "Verbi sofisticati — dominato",
+      "instruction": "Comunicación: sfumare (matizar), sottintendere (dar a entender), alludere (aludir), fraintendere (malinterpretar). Argumento: ribadire (reiterar), smentire (desmentir), confutare (refutar). Formal: avvalersi di, appellarsi a, rientrare in.",
+      "itemIndices": [
+        0,
+        1,
+        4,
+        5,
+        6,
+        8,
+        9,
+        14
+      ]
+    }
+  ]
+}

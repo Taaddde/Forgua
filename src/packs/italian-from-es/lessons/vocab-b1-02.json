@@ -1,0 +1,107 @@
+{
+  "id": "vocab-b1-02",
+  "title": "I media e la comunicazione",
+  "description": "El vocabulario de los medios de comunicación y la era digital. Esencial para hablar de noticias, redes sociales y opiniones.",
+  "level": "b1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "le notizie",
+      "back": "las noticias",
+      "reading": "",
+      "explanation": "Plural de 'notizia'. Singular: 'una notizia'. 'Dare una notizia' = dar una noticia. 'Leggere le notizie' = leer las noticias. Nota: singular o plural según el contexto."
+    },
+    {
+      "front": "il giornale",
+      "back": "el periódico, el diario",
+      "reading": "",
+      "explanation": "'Comprare il giornale' = comprar el periódico. También significa 'journal' (diario personal). 'Giornalista' = periodista. 'Giornalismo' = periodismo."
+    },
+    {
+      "front": "l'articolo",
+      "back": "el artículo",
+      "reading": "",
+      "explanation": "Igual que en español: artículo de prensa o artículo gramatical. 'Scrivere un articolo' = escribir un artículo. 'Articolo di fondo' = editorial."
+    },
+    {
+      "front": "l'intervista",
+      "back": "la entrevista",
+      "reading": "",
+      "explanation": "'Fare un'intervista' = hacer una entrevista. 'Rilasciare un'intervista' = conceder una entrevista. El verbo es 'intervistare' (entrevistar)."
+    },
+    {
+      "front": "l'opinione",
+      "back": "la opinión",
+      "reading": "",
+      "explanation": "'Secondo la mia opinione' / 'A mio avviso' / 'A mio parere' = En mi opinión. 'Libertà di opinione' = libertad de opinión. Expresar opinión es fundamental para el B1."
+    },
+    {
+      "front": "la discussione",
+      "back": "la discusión, el debate",
+      "reading": "",
+      "explanation": "En italiano 'discussione' tiene sentido neutro (debate, conversación), no necesariamente negativo como en español. 'Aprire una discussione' = abrir un debate. Para 'discusión' en sentido negativo: 'litigio', 'lite'."
+    },
+    {
+      "front": "il dibattito",
+      "back": "el debate",
+      "reading": "",
+      "explanation": "'Dibattito televisivo' = debate televisivo. 'Aprire un dibattito' = abrir un debate. Más formal que 'discussione'. Verbo: dibattere (debatir)."
+    },
+    {
+      "front": "la pubblicità",
+      "back": "la publicidad, el anuncio",
+      "reading": "",
+      "explanation": "También: 'réclame' (préstamo del francés, coloquial) o 'spot pubblicitario' (anuncio de TV). 'Fare pubblicità' = hacer publicidad/anunciar."
+    },
+    {
+      "front": "i social network / i social",
+      "back": "las redes sociales",
+      "reading": "",
+      "explanation": "Anglicismo muy usado. 'Essere sui social' = estar en las redes. 'Postare' = publicar (post). 'Scrollare' = hacer scroll. El italiano ha adoptado muchos anglicismos digitales."
+    },
+    {
+      "front": "condividere",
+      "back": "compartir",
+      "reading": "",
+      "explanation": "Verbo irregular (como 'dividere'). 'Ho condiviso' = he compartido. En digital: 'condividi questo post' = comparte este post. También en sentido físico: 'condividere un appartamento' = compartir un apartamento."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Prensa y periodismo",
+      "instruction": "El vocabulario de los medios tradicionales. Notas que 'discussione' es más neutral que en español — no implica pelea.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Debate y opinión",
+      "instruction": "Para expresar y defender opiniones. En el B1 deberás poder 'esprimere un'opinione' y 'aprire un dibattito'.",
+      "itemIndices": [4, 5, 6]
+    },
+    {
+      "type": "introduce",
+      "title": "El mundo digital",
+      "instruction": "El italiano digital usa muchos anglicismos. 'Condividere' es la voz italiana para 'compartir' — muy frecuente.",
+      "itemIndices": [7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "Traducí al italiano",
+      "instruction": "¿Cómo se dice en italiano?",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "recall",
+      "title": "Traducí al español",
+      "instruction": "¿Cuál es el significado en español?",
+      "itemIndices": [5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "Resumen: I media",
+      "instruction": "El vocabulario de los medios incluye muchos cognados y algunos anglicismos. El matiz de 'discussione' (neutro) vs 'litigio' (pelea) es importante para no malinterpretar conversaciones italianas.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

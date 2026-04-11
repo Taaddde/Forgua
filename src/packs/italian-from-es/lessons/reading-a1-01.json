@@ -1,0 +1,89 @@
+{
+  "id": "reading-a1-01",
+  "title": "Lettura: Mi presento",
+  "description": "Primera lectura guiada en italiano. Un joven italiano se presenta: nombre, origen, edad, estudios, familia y dónde vive. Vocabulario A1 con énfasis en essere, avere y los verbos en presente.",
+  "level": "a1",
+  "category": "reading",
+  "items": [
+    {
+      "front": "Mi chiamo Marco.",
+      "back": "Me llamo Marco.",
+      "reading": "",
+      "explanation": "Literalmente 'me llamo' = 'mi chiamo' (verbo reflexivo chiamarsi). En italiano se usa el verbo reflexivo 'chiamarsi', igual que en español 'llamarse'. Podés decir también 'Sono Marco' (Soy Marco) — más directo."
+    },
+    {
+      "front": "Sono italiano, di Milano.",
+      "back": "Soy italiano, de Milán.",
+      "reading": "",
+      "explanation": "'di' para indicar origen de una ciudad. Para países se usa también 'di' o 'dell'': 'sono dell'Argentina', 'sono del Messico'. Para ciudades siempre 'di' sin artículo: 'di Milano', 'di Roma', 'di Buenos Aires'."
+    },
+    {
+      "front": "Ho ventidue anni.",
+      "back": "Tengo veintidós años.",
+      "reading": "",
+      "explanation": "En italiano se usa AVERE (tener) para la edad: 'ho X anni'. NUNCA 'essere': *'Sono 22 anni' es incorrecto. Igual que en español 'tengo años'. '22' en italiano: 'ventidue' (una sola palabra, sin 'y')."
+    },
+    {
+      "front": "Sono studente di medicina all'università.",
+      "back": "Soy estudiante de medicina en la universidad.",
+      "reading": "",
+      "explanation": "'Sono studente' = soy estudiante (sin artículo antes de profesión/rol con essere). 'di medicina' = de medicina. 'all'università' = en la universidad (in+la = nella; a+l' = all'). La contracción all' es obligatoria."
+    },
+    {
+      "front": "Parlo italiano e un po' di inglese.",
+      "back": "Hablo italiano y un poco de inglés.",
+      "reading": "",
+      "explanation": "'Un po' di' = un poco de. El apóstrofo es obligatorio: 'po'' (abreviatura de 'poco'). 'Parlo' = hablo (io, presente de 'parlare'). Los idiomas en italiano son masculinos y van sin artículo con 'parlare': parlo italiano, parlo spagnolo."
+    },
+    {
+      "front": "La mia famiglia è grande: ho una sorella e due fratelli.",
+      "back": "Mi familia es grande: tengo una hermana y dos hermanos.",
+      "reading": "",
+      "explanation": "'La mia famiglia' = mi familia (con artículo antes del posesivo — regla general). 'una sorella' = una hermana. 'due fratelli' = dos hermanos. 'Ho' = tengo (avere). Notar: para tener hijos, hermanos, etc. se usa AVERE."
+    },
+    {
+      "front": "Mio padre si chiama Antonio e mia madre si chiama Giulia.",
+      "back": "Mi padre se llama Antonio y mi madre se llama Giulia.",
+      "reading": "",
+      "explanation": "'Mio padre' y 'mia madre' — SIN artículo (excepción de los posesivos con familia en singular). 'si chiama' = se llama (3ª sing. de chiamarsi). Para nombrar a familiares en singular: 'mio padre', 'mia madre', 'mio fratello', 'mia sorella', 'mio figlio'."
+    },
+    {
+      "front": "Abito in un appartamento vicino alla stazione.",
+      "back": "Vivo en un apartamento cerca de la estación.",
+      "reading": "",
+      "explanation": "'Abito' = vivo/habito (de 'abitare', más específico que 'vivere' para indicar residencia). 'vicino alla stazione' = cerca de la estación (vicino a + articolo: 'alla' = a+la). 'Dove abiti?' = ¿Dónde vivís? — pregunta muy frecuente."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Mi presento — Leemos juntos",
+      "instruction": "Texto completo: 'Mi chiamo Marco. Sono italiano, di Milano. Ho ventidue anni. Sono studente di medicina all'università. Parlo italiano e un po' di inglese. La mia famiglia è grande: ho una sorella e due fratelli. Mio padre si chiama Antonio e mia madre si chiama Giulia. Abito in un appartamento vicino alla stazione.' Identificá las estructuras que ya conocés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Frases clave en contexto",
+      "instruction": "¿Qué significa cada frase? Prestá atención a las diferencias con el español: 'ho anni' para la edad, 'mio padre' sin artículo, 'un po' di' para 'un poco de'.",
+      "itemIndices": [0, 2, 4, 6, 7]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "¿Entendiste el texto?",
+      "instruction": "Respondé sobre el texto: ¿De dónde es Marco? ¿Cuántos años tiene? ¿Cuántos hermanos tiene?",
+      "itemIndices": [1, 2, 5]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo lo dirías en italiano?",
+      "instruction": "Sin mirar el texto, ¿cómo dirías estas frases en italiano?",
+      "itemIndices": [0, 2, 4, 7]
+    },
+    {
+      "type": "summary",
+      "title": "¡Primera lectura italiana completada!",
+      "instruction": "Estructura de presentación: Mi chiamo... / Sono di... / Ho X anni / Sono studente di... / Parlo... / La mia famiglia... / Abito... Recordá: 'ho anni' (tengo años), 'mio padre/mia madre' (sin artículo), 'abito' = vivo/habito, 'un po' di' = un poco de.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

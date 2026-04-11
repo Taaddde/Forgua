@@ -1,0 +1,119 @@
+{
+  "id": "vocab-c1-02",
+  "title": "Figure retoriche e linguaggio letterario",
+  "description": "Las figuras retóricas son el corazón del estilo literario italiano. Dominar estos términos te permite leer crítica literaria, escribir análisis de textos y comprender por qué Dante, Leopardi o Calvino son genios del lenguaje.",
+  "level": "c1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "metafora",
+      "back": "metáfora — sustitución de un término por otro de significado análogo",
+      "reading": "/meˈtafora/",
+      "explanation": "'La vita è un viaggio' es una metáfora archetípica. A diferencia del símil, la metáfora no usa 'come' (como): identifica directamente dos realidades. Es la figura más fundamental del lenguaje literario y también del cotidiano."
+    },
+    {
+      "front": "similitudine",
+      "back": "símil / comparación explícita con 'come' o 'quasi'",
+      "reading": "/similituˈdine/",
+      "explanation": "A diferencia de la metáfora, la similitudine usa 'come' o 'quasi' de forma explícita. Ejemplo: 'Come un'aquila in volo, la sua mente spaziava lontano'. Las similitudini estese (símiles extendidos) son típicas de la poesía épica."
+    },
+    {
+      "front": "metonimia",
+      "back": "metonimia — sustitución por relación de contigüidad",
+      "reading": "/metoˈnimja/",
+      "explanation": "Se sustituye una palabra por otra relacionada (no por analogía como en la metáfora). 'Ho letto tutto Shakespeare' = sus obras. 'Bere un bicchiere' = el contenido. La relación puede ser: causa-efecto, contenedor-contenido, autor-obra."
+    },
+    {
+      "front": "sineddoche",
+      "back": "sinécdoque — la parte por el todo o el todo por la parte",
+      "reading": "/siˈnɛddoke/",
+      "explanation": "'Vela' per 'nave' es sinécdoque clásica. 'Cento bocche da sfamare' (cien bocas que alimentar = cien personas) usa la parte (boca) por el todo (persona). Es subclase de la metonimia."
+    },
+    {
+      "front": "iperbole",
+      "back": "hipérbole — exageración con fines expresivos",
+      "reading": "/iˈpɛrbole/",
+      "explanation": "'Te l'ho detto un milione di volte' es hipérbole típica del habla coloquial. En literatura, Ariosto y los poetas barrocos la usan sistemáticamente. También puede ser diminución: 'una goccia nel mare' (una gota en el mar)."
+    },
+    {
+      "front": "litote",
+      "back": "lítotes / understatement — afirmación mediante negación del contrario",
+      "reading": "/ˈlitote/",
+      "explanation": "'Non è stupido' para decir que es muy inteligente. 'Non è male' para decir que es bueno. Es la figura preferida del tono inglés, pero muy presente en el italiano colto: 'Non è da poco' = es bastante importante."
+    },
+    {
+      "front": "ossimoro",
+      "back": "oxímoron — unión de términos contradictorios",
+      "reading": "/osˈsimoro/",
+      "explanation": "'Silenzio assordante' (silencio ensordecedor), 'ghiaccio ardente' (hielo ardiente). El oxímoron crea una tensión semántica que obliga al lector a buscar un significado más profundo. Leopardi lo usa magistralmente."
+    },
+    {
+      "front": "anafora",
+      "back": "anáfora — repetición al inicio de versos u oraciones consecutivas",
+      "reading": "/aˈnafora/",
+      "explanation": "Repetición de una palabra al comienzo de unidades sucesivas para dar énfasis y ritmo. Ejemplo: 'Né mai vedranno le stelle / Né mai il sole ritornerà'. Muy usada en discursos políticos y poesía."
+    },
+    {
+      "front": "allegoria",
+      "back": "alegoría — narración con doble significado (literal y simbólico)",
+      "reading": "/alleˈgɔrja/",
+      "explanation": "La Divina Commedia es la gran alegoría italiana: el viaje literalmente es un descenso al infierno, pero alegóricamente representa el viaje del alma hacia Dios. Una alegoría sostenida a lo largo de toda una obra."
+    },
+    {
+      "front": "eufemismo",
+      "back": "eufemismo — suavización de una realidad desagradable",
+      "reading": "/eufɛˈmizmo/",
+      "explanation": "'È venuto a mancare' por 'è morto'. 'Non vedente' por 'cieco'. El eufemismo puede ser retórico (literario) o social (político, burocrático). En Italia: 'ristrutturazione' por 'licenziamenti di massa'."
+    },
+    {
+      "front": "climax",
+      "back": "clímax / gradación ascendente",
+      "reading": "/ˈklimaks/",
+      "explanation": "'Venne, vide, vinse' — el climax escalona los elementos de menor a mayor intensidad. Cuando la gradación es descendente se llama 'anticlímax'. Muy usado en oratorias y discursos argumentativos."
+    },
+    {
+      "front": "antitesi",
+      "back": "antítesis — contraste marcado entre dos ideas opuestas",
+      "reading": "/anˈtitezi/",
+      "explanation": "'L'uomo propone, Dio dispone' es antítesis perfecta. 'Vivi come se dovessi morire domani, impara come se dovessi vivere per sempre'. Contrapone dos realidades para hacer resaltar la diferencia."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Las figuras de sustitución",
+      "instruction": "Las primeras cuatro figuras (metáfora, símil, metonimia, sinécdoque) son todas formas de sustituir una palabra por otra. La diferencia está en el tipo de relación: analogía (metáfora/símil) o contigüidad/inclusión (metonimia/sinécdoque). Prestar atención a estos matices te convierte en un lector literario agudo.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Identifica la figura retórica",
+      "instruction": "Lee cada ejemplo y determina qué figura retórica representa. No mires la definición: razona a partir de la forma lingüística.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Las figuras de intensidad",
+      "instruction": "Las siguientes figuras (iperbole, litote, ossimoro) juegan con la intensidad del significado: por exceso, por defecto, o por contradicción. Son el corazón del estilo expressivo italiano — de Dante a Pasolini.",
+      "itemIndices": [4, 5, 6]
+    },
+    {
+      "type": "introduce",
+      "title": "Las figuras de estructura",
+      "instruction": "Anáfora, alegoría, eufemismo, clímax, antítesis actúan sobre la estructura del discurso, no sobre palabras aisladas. Operan a nivel de frase, párrafo o texto completo.",
+      "itemIndices": [7, 8, 9, 10, 11]
+    },
+    {
+      "type": "recall",
+      "title": "Nombre la figura",
+      "instruction": "Ves la definición o el ejemplo. Escribe el nombre italiano de la figura retórica.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+    },
+    {
+      "type": "summary",
+      "title": "12 figure retoriche — dominate",
+      "instruction": "Las figuras más importantes para la lectura crítica italiana: metafora, similitudine, metonimia, sineddoche, iperbole, litote, ossimoro, anafora, allegoria, eufemismo, climax, antitesi. Para profundizar: lee cualquier análisis de testo italiano — estas palabras aparecerán constantemente. La próxima lección: los verbos sofisticados del C1.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+    }
+  ]
+}

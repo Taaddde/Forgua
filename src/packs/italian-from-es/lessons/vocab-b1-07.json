@@ -1,0 +1,107 @@
+{
+  "id": "vocab-b1-07",
+  "title": "La salute avanzata",
+  "description": "Vocabulario de salud para el B1: sistema sanitario, prevención, diagnósticos y bienestar. Para hablar con médicos y entender el sistema de salud italiano.",
+  "level": "b1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "la salute pubblica",
+      "back": "la salud pública",
+      "reading": "",
+      "explanation": "'SSN' (Servizio Sanitario Nazionale) = el sistema de salud público italiano. Es universal y gratuito en el punto de uso. 'Ministero della Salute' = Ministerio de Salud."
+    },
+    {
+      "front": "la prevenzione",
+      "back": "la prevención",
+      "reading": "",
+      "explanation": "'Campagna di prevenzione' = campaña de prevención. 'Medicina preventiva' = medicina preventiva. 'Prevenire è meglio che curare' = prevenir es mejor que curar."
+    },
+    {
+      "front": "la vaccinazione",
+      "back": "la vacunación",
+      "reading": "",
+      "explanation": "'Vaccinarsi' = vacunarse. 'Vaccino' = vacuna. 'Calendario vaccinale' = calendario de vacunación. 'Campagna vaccinale' = campaña de vacunación."
+    },
+    {
+      "front": "la chirurgia",
+      "back": "la cirugía",
+      "reading": "",
+      "explanation": "'Chirurgo/chirurga' = cirujano/a. 'Intervento chirurgico' = intervención quirúrgica. 'Sala operatoria' = quirófano. 'Anestesia' = anestesia."
+    },
+    {
+      "front": "la terapia",
+      "back": "la terapia, el tratamiento",
+      "reading": "",
+      "explanation": "'Seguire una terapia' = seguir un tratamiento. 'Terapia farmacologica' = tratamiento farmacológico. 'Terapia intensiva' = cuidados intensivos (UCI). 'Psicoterapia' = psicoterapia."
+    },
+    {
+      "front": "lo stile di vita",
+      "back": "el estilo de vida",
+      "reading": "",
+      "explanation": "'Stile di vita sano/salutare' = estilo de vida saludable. 'Cambiare stile di vita' = cambiar el estilo de vida. La dieta mediterránea è considerada un ottimo stile di vita."
+    },
+    {
+      "front": "il benessere",
+      "back": "el bienestar",
+      "reading": "",
+      "explanation": "'Benessere fisico e mentale' = bienestar físico y mental. 'Centro benessere' = spa, centro de bienestar. 'Benestare' (diferente) = V.B. (nota de aprobación). 'Stare bene' = estar bien."
+    },
+    {
+      "front": "lo stress",
+      "back": "el estrés",
+      "reading": "",
+      "explanation": "Anglicismo adoptado. 'Essere sotto stress' = estar bajo estrés. 'Stressato/a' = estresado/a. 'Fare stress' = estresar. 'Burnout' también se usa directamente en italiano."
+    },
+    {
+      "front": "la diagnosi",
+      "back": "el diagnóstico",
+      "reading": "",
+      "explanation": "Atención a la pronunciación: díagnosi (acento en la primera sílaba). 'Fare una diagnosi' = hacer un diagnóstico. 'Diagnosi precoce' = diagnóstico precoz/temprano."
+    },
+    {
+      "front": "l'abitudine",
+      "back": "el hábito, la costumbre",
+      "reading": "",
+      "explanation": "'Avere l'abitudine di...' = tener el hábito de... 'Abitudini alimentari' = hábitos alimentarios. 'Per abitudine' = por costumbre. 'Abituarsi a' = acostumbrarse a."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El sistema de salud",
+      "instruction": "El SSN italiano es un sistema de salud universal. 'Prevenzione' y 'vaccinazione' son conceptos centrales de la salud pública italiana.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Tratamientos y bienestar",
+      "instruction": "'Terapia intensiva' = UCI (unidad de cuidados intensivos). 'Benessere' es muy usado en el marketing de salud y spa.",
+      "itemIndices": [4, 5, 6]
+    },
+    {
+      "type": "introduce",
+      "title": "Salud mental y hábitos",
+      "instruction": "'Stress' es anglicismo pero ya totalmente italiano. 'Diagnosi' tiene acento en la primera sílaba — diferente al español 'diagnóstico'.",
+      "itemIndices": [7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Del español al italiano.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cuál es el significado?",
+      "instruction": "Del italiano al español.",
+      "itemIndices": [6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "Resumen: La salute",
+      "instruction": "El sistema de salud italiano es público y universal (SSN). 'Diagnosi' lleva acento en la DÍA- inicial. 'Terapia intensiva' = UCI. 'Benessere' aparece mucho en publicidad y contextos de bienestar.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

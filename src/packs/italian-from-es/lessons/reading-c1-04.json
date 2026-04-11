@@ -1,0 +1,89 @@
+{
+  "id": "reading-c1-04",
+  "title": "Il dibattito sugli anglicismi: l'italiano sotto assedio?",
+  "description": "Texto editorial C1 sobre el debate de los anglicismos en el italiano contemporáneo. Vocabulario de sociolingüística y política linguistica. Práctica de comprensión de un texto que presenta dos posiciones en tensión y las evalúa con matiz.",
+  "level": "c1",
+  "category": "reading",
+  "items": [
+    {
+      "front": "il clic sostituisce la scelta, il weekend il fine settimana, il marketing il mercatismo",
+      "back": "Enumeración de anglicismos vs intentos de traducción italiana — abre el debate con ejemplos concretos.",
+      "reading": "",
+      "explanation": "El incipit del texto usa tres parejas contrastivas: el término anglosajón ya asentado (clic, weekend, marketing) vs el equivalente italiano propuesto (scelta, fine settimana, mercatismo). El tercero ('mercatismo') es claramente artificial — el autor lo usa irónicamente para mostrar la futilidad del purismo."
+    },
+    {
+      "front": "rinfocolata",
+      "back": "reaivada / encendida de nuevo (la controversia)",
+      "reading": "/rinfokoˈlata/",
+      "explanation": "De 'rinfocolare' (avivar el fuego). Metáfora del debate que se reactiva periódicamente: cada proposta di legge o declaración de un purista vuelve a 'rinfocolare' la controversia. Es una metáfora ígnea muy común en el italiano giornalistico para describir debates recurrentes."
+    },
+    {
+      "front": "prestito linguistico",
+      "back": "préstamo lingüístico — palabra tomada de otra lengua",
+      "reading": "",
+      "explanation": "Los lingüistas distinguen: 'prestito adattato' (adaptado fonéticamente: 'bistecca' de 'beef steak', 'sport' de sport). 'Prestito non adattato' o 'xenismo' (forma original: 'weekend', 'computer'). 'Calco' (traducción: 'grattacielo' de 'skyscraper'). La posición de los lingüisti nel testo es que il prestito è un processo normale."
+    },
+    {
+      "front": "«Il rischio non è che diciamo 'smartphone', ma che pensiamo in inglese.»",
+      "back": "La tesi più sofisticata del testo: la amenaza no es lexical sino cognitiva.",
+      "reading": "",
+      "explanation": "Esta es la posición más matizada y más interesante del texto. No es un problema que prestemos términos técnicos; el riesgo es que, si toda la terminología del trabajo, la economía y la tecnología es anglófona, el pensamiento crítico EN ITALIANO sobre esos temas se dificulta. Es una versión de la hipótesis Sapir-Whorf."
+    },
+    {
+      "front": "«Chi definisce i termini, definisce la realtà.»",
+      "back": "La conclusión filosófica del texto: el lenguaje no es neutro — define el pensamiento.",
+      "reading": "",
+      "explanation": "Ecos de Wittgenstein ('los límites de mi lenguaje son los límites de mi mundo') y de la hipótesis Sapir-Whorf (el lenguaje estructura el pensamiento). Si los términos del trabajo y la economía son todos en inglés, el pensamiento crítico en italiano sobre esos temas se hace más difícil — no imposible, pero más difícil."
+    },
+    {
+      "front": "mercatismo / «Legge anti-smart working»",
+      "back": "El purismo italiano contemporáneo y su recepción irónica en los media.",
+      "reading": "",
+      "explanation": "'Mercatismo' es el neologismo propuesto por los puristi para sustituir 'marketing'. Fue acogido con ironia. La proposta di legge del 2023 (multas por anglicismos en documentos públicos) fue inmediatamente apodada 'Legge anti-smart working' por los giornalisti — señal de que la propuesta era vista como ineficaz o cómica."
+    },
+    {
+      "front": "venetico",
+      "back": "lengua venética / lengua antigua hablada en el Véneto antes de la romanización",
+      "reading": "/veˈnetiko/",
+      "explanation": "El autor lo cita para mostrar que el italiano ha absorbido influencias extranjeras desde la antigüedad: del árabo (alcohol, algebra), del francés (chef, abat-jour), del español (parata), del venetico (radici preromane). El argomento storico desmonta el purismo: el italiano siempre ha sido una lingua 'aperta'."
+    },
+    {
+      "front": "La posizione dei linguisti: serenità di fronte al prestito. La posizione dell'autore: serenità + attenzione al rischio cognitivo.",
+      "back": "El texto no abraza ni el purismo ni el laissez-faire — propone una tercera posición matizada.",
+      "reading": "",
+      "explanation": "El argomento dell'autore tiene tres momentos: (1) Los lingüistas tienen razón al ser serenos ante los anglicismos. (2) Pero hay un riesgo real (no el anglicismo individual sino el pensiero in inglese). (3) Por tanto, la solución no es la legge repressiva sino la cura della lingua italiana in tutti i suoi usi. Posición matizada, non polarizzata."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Antes de leer: el debate sobre el italiano",
+      "instruction": "El texto es un editoriale sobre los anglicismos en italiano. A diferencia de la posición purista (que quiere eliminarlos) y de la laissez-faire (que los acepta todos), el autor propone una tercera vía más matizada. Mientras lees, identifica los argumentos de cada posición y la evaluación que el autor hace de cada una.",
+      "itemIndices": [0, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Vocabulario de sociolingüística",
+      "instruction": "Estos términos son del léxico específico de la sociolingüística y el debate linguistico. Algunos son técnicos (prestito linguistico, calco); otros son términos culturales específicos (venetico, mercatismo). Deducé el significado del contexto.",
+      "itemIndices": [1, 2, 6]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Comprensión e posizionamento",
+      "instruction": "Responde: (1) ¿Cuál es la posición de los lingüistas frente a los anglicismos? (2) ¿Por qué el autor va más allá de esa posición? (3) ¿Qué significa que 'chi definisce i termini, definisce la realtà'? (4) ¿Cuál es la 'questione più sottile' que el texto identifica?",
+      "itemIndices": [3, 4, 7]
+    },
+    {
+      "type": "recall",
+      "title": "El argumento más sofisticado del texto",
+      "instruction": "Explica en italiano la distinción entre 'il rischio del singolo prestito' y 'il rischio del pensare in inglese'. ¿Estás de acuerdo con este argomento? Razón tu posición.",
+      "itemIndices": [3, 4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "Lettura editoriale completada",
+      "instruction": "Vocabulario clave: rinfocolata, prestito linguistico, venetico, mercatismo, la questione del potere linguistico. Argomento centrale: el debate sobre los anglicismos no es purismo vs apertura — es una cuestión de autonomía cognitiva: ¿puede el italiano seguir siendo una lingua di pensiero crítico en todos los ámbitos? Para profundizar: Tullio De Mauro, 'Storia linguistica dell'Italia unita' (1963) — el texto de referencia sobre la storia del italiano.",
+      "itemIndices": [0, 3, 4, 7]
+    }
+  ]
+}

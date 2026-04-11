@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a2-16",
+  "title": "Avverbi in -mente — velocemente, facilmente...",
+  "description": "Los adverbios en -mente son el equivalente italiano de los adverbios en -mente del español. La formación es casi idéntica: adjetivo femenino + -mente. Una transferencia casi perfecta.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Formazione: agg. femminile + -MENTE",
+      "back": "Formación: adj. femenino + -MENTE",
+      "reading": "",
+      "explanation": "La regla básica: adjetivo en forma FEMENINA + -MENTE. lento (m) → lenta (f) → lentamente. veloce (solo tiene una forma) → veloce + mente = velocemente. ¡Igual que en español! 'lento → lentamente', 'veloce → velocemente'."
+    },
+    {
+      "front": "lento → lentamente / veloce → velocemente",
+      "back": "lento → lentamente / rápido → rápidamente",
+      "reading": "",
+      "explanation": "'Parla lentamente' = Habla lentamente. 'Guida velocemente' = Maneja rápidamente. Adjetivos en -E (una sola forma): añaden -mente directamente: veloce+mente=velocemente, dolce+mente=dolcemente, triste+mente=tristemente."
+    },
+    {
+      "front": "facile → facilmente / normale → normalmente / probabile → probabilmente",
+      "back": "fácil → fácilmente / normal → normalmente / probable → probablemente",
+      "reading": "",
+      "explanation": "REGLA ESPECIAL: adjetivos que terminan en -LE o -RE pierden la E antes de añadir -MENTE. facile → facil+mente = facilmente (no *facilmente). normale → normal+mente = normalmente. probabile → probabilmente. particolar+mente = particolarmente."
+    },
+    {
+      "front": "chiaro → chiaramente / libero → liberamente / vero → veramente",
+      "back": "claro → claramente / libre → libremente / verdadero → verdaderamente",
+      "reading": "",
+      "explanation": "Adjetivos en -O/-A: forman el adjetivo femenino (-A) y añaden -MENTE. chiaro→chiara→chiaramente. libero→libera→liberamente. vero→vera→veramente. 'Veramente?' = ¿De verdad? / ¡En serio! — expresión muy frecuente."
+    },
+    {
+      "front": "Avverbi irregolari: bene → benissimo (no *beneemente)",
+      "back": "Los adverbios de modo más comunes no usan -mente",
+      "reading": "",
+      "explanation": "Los adverbios más frecuentes son irregulares y no usan -mente: bene (bien), male (mal), meglio (mejor), peggio (peor), molto (mucho), poco (poco), tanto (tanto). 'Parla bene l'italiano' = Habla bien el italiano. No se dice *'buonamente' ni *'malamente'."
+    },
+    {
+      "front": "Posizione dell'avverbio in -mente",
+      "back": "Posición del adverbio en la oración",
+      "reading": "",
+      "explanation": "Los adverbios en -mente generalmente van DESPUÉS del verbo. 'Parla chiaramente' = Habla claramente. Pueden ir al inicio para énfasis: 'Fortunatamente, non è grave' = Afortunadamente, no es grave. 'Probabilmente viene' = Probablemente viene. Igual que en español."
+    },
+    {
+      "front": "Avverbi utili: finalmente, ovviamente, assolutamente, sinceramente, generalmente",
+      "back": "finalmente / obviamente / absolutamente / sinceramente / generalmente",
+      "reading": "",
+      "explanation": "Adverbios frecuentes en -MENTE: finalmente (finalmente), ovviamente (obviamente), assolutamente (absolutamente), sinceramente (sinceramente), generalmente (generalmente), naturalmente (naturalmente), fortunatamente (afortunadamente), purtroppo (desgraciadamente — sin -mente)."
+    },
+    {
+      "front": "Praticamente / Sostanzialmente / Fondamentalmente",
+      "back": "Prácticamente / Sustancialmente / Fundamentalmente",
+      "reading": "",
+      "explanation": "Adverbios cultos frecuentes: praticamente (prácticamente), sostanzialmente (sustancialmente), fondamentalmente (fundamentalmente), essenzialmente (esencialmente), teoricamente (teóricamente). Se usan mucho en el italiano hablado para modular afirmaciones. 'Praticamente è finita' = Prácticamente ha terminado."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "La regla: adjetivo femenino + -mente",
+      "instruction": "Para la mayoría de adjetivos: forma femenina + -MENTE. lento→lenta→lentamente. EXCEPCIÓN: adjetivos en -LE/-RE pierden la E: facile→facilmente, normale→normalmente.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Irregulares, posición y adverbios frecuentes",
+      "instruction": "Adverbios comunes irregulares (bene, male, molto, poco). Posición: después del verbo. Lista de adverbios frecuentes en -mente.",
+      "itemIndices": [4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "Formá el adverbio correctamente",
+      "instruction": "Dado el adjetivo, elegí la forma correcta del adverbio en -mente (cuidado con -le/-re).",
+      "itemIndices": [1, 2, 3, 6]
+    },
+    {
+      "type": "recall",
+      "title": "Del adjetivo al adverbio",
+      "instruction": "Formá el adverbio en -mente a partir del adjetivo. Atención a las reglas especiales.",
+      "itemIndices": [1, 2, 3, 7]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con el adverbio correcto",
+      "instruction": "Elegí el adverbio en -mente más adecuado para cada contexto.",
+      "itemIndices": [5, 6]
+    },
+    {
+      "type": "summary",
+      "title": "Avverbi in -mente: regla + excepciones",
+      "instruction": "REGLA GENERAL: adjetivo femenino + -MENTE (lento→lenta→lentamente, chiaro→chiara→chiaramente). EXCEPCIÓN: -LE/-RE pierden E (facile→facilmente, normale→normalmente). IRREGOLARI: bene/male/molto/poco no usan -mente. Posición: después del verbo; al inicio = énfasis.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

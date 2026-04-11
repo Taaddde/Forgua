@@ -1,0 +1,83 @@
+{
+  "id": "grammar-c2-05",
+  "title": "L'arte della polemica italiana",
+  "description": "La tradición retórica italiana es antiquísima. Del De Oratore de Cicerón a los escritos de Machiavelli, Vico, Croce, Pasolini, el ensayo argumentativo es el género por excelencia de la prosa italiana elevada. Esta lección enseña las estructuras de la argumentación italiana de alto nivel: cómo convencer, refutar y concluir en italiano.",
+  "level": "c2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Struttura del saggio argomentativo: CAPTATIO → NARRATIO → PROPOSITIO → CONFIRMATIO → REFUTATIO → PERORATIO",
+      "back": "La estructura clásica del ensayo argumentativo italiano, desde Cicerón hasta Eco.",
+      "reading": "",
+      "explanation": "1) Captatio benevolentiae: captar la atención y simpatía. 2) Narratio: presentar el contexto. 3) Propositio: exponer la tesis. 4) Confirmatio: argumentar con evidencias. 5) Refutatio (confutazione): anticipar y refutar objeciones. 6) Peroratio: síntesis y llamada a la reflexión. Eco, Pasolini, Croce siguen implícitamente esta estructura."
+    },
+    {
+      "front": "CONCESSIONE: 'È vero che... tuttavia...' / 'Non si può negare che... eppure...' / 'Pur riconoscendo che... rimane il fatto che...'",
+      "back": "La concesión argumentativa italiana: reconocer el punto del adversario para refutarlo mejor.",
+      "reading": "",
+      "explanation": "La concesión es la estrategia retórica más sofisticada: demuestra fair play argumentativo y hace la refutación más creíble. 'È vero che il progresso ha portato benefici. Non si può negare che la medicina abbia fatto passi da gigante. Eppure — ed è qui che il discorso si complica — non tutto ciò che è possibile è anche desiderabile.'"
+    },
+    {
+      "front": "REFUTAZIONE: 'Ciò non toglie che...' / 'A questo si potrebbe obiettare che...' / 'L'obiezione cade di fronte al fatto che...' / 'Tale posizione trascura un elemento fondamentale:'",
+      "back": "Fórmulas de refutación: desmantelar el argumento adversario con precisión quirúrgica.",
+      "reading": "",
+      "explanation": "'Ciò non toglie che' = eso no quita que (la objeción no invalida la tesis). 'A questo si potrebbe obiettare che' = a esto se podría objetar que (se anticipa la objeción para refutarla). 'L'objezione cade di fronte al fatto che' = la objeción se derrumba ante el hecho de que."
+    },
+    {
+      "front": "SCALATURA ARGOMENTATIVA: 'In primo luogo... In secondo luogo... Infine, e soprattutto...' / 'Ma vi è di più:' / 'Basti pensare che...'",
+      "back": "La escalada argumentativa va del argumento más débil al más fuerte — principio de clausola crescente.",
+      "reading": "",
+      "explanation": "La clausola crescente es un principio retórico fundamental: se presenta el argumento más débil primero y el más fuerte al final. 'Ma vi è di più:' introduce el argumento más potente. 'Basti pensare che...' = basta pensar que... (argumento de impacto resumido)."
+    },
+    {
+      "front": "Ironia socratica: 'Ma certo, se il mercato risolve tutto da solo, possiamo chiudere ospedali e scuole pubbliche.'",
+      "back": "Ironía socrática: llevar la posición adversaria al absurdo (reductio ad absurdum) con fingida aceptación.",
+      "reading": "",
+      "explanation": "La ironía socrática finge aceptar la tesis del adversario y lleva sus implicaciones al absurdo. Pasolini en el Corriere della Sera la usaba con precisión quirúrgica. 'Seguendo questa logica, dovremmo smettere di mangiare per non sprecare cibo.' La frase parece razonable, pero el absurdo destruye la tesis."
+    },
+    {
+      "front": "CONCLUSIONE: 'In definitiva, si può affermare che...' / 'Da quanto esposto emerge che...' / 'Alla luce di queste considerazioni...'",
+      "back": "Fórmulas de conclusión del saggio argomentativo italiano.",
+      "reading": "",
+      "explanation": "'In definitiva' = en definitiva (resumiendo). 'Da quanto esposto emerge che' = de lo expuesto se desprende que (más dinámico, sugiere que la conclusión es inevitable). 'Alla luce di queste considerazioni' = a la luz de estas consideraciones (más reflexivo, invita al lector a contemplar)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "La estructura del ensayo argumentativo italiano",
+      "instruction": "El ensayo argumentativo italiano tiene una estructura retórica de origen clásico que ha sobrevivido hasta Eco y Pasolini. No es una estructura rígida: es un conjunto de momentos argumentativos que pueden aparecer en orden variable, pero que siempre están presentes en un texto de calidad.",
+      "itemIndices": [0]
+    },
+    {
+      "type": "introduce",
+      "title": "Las estrategias retóricas de la polémica",
+      "instruction": "La concessione y la refutazione son las dos estrategias más sofisticadas del argumentatore italiano. La concesión demuestra fair play; la refutación muestra que has anticipado las objeciones. Juntas crean el argumento irrebatible: 'Sí, reconozco tu punto, pero incluso concediéndotelo, mi posición se mantiene porque...'",
+      "itemIndices": [1, 2]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Construye el argumento",
+      "instruction": "Usando las fórmulas de la lección, construye los movimientos argumentativos indicados: una concesión, una refutación, una escalada, una conclusión.",
+      "itemIndices": [1, 2, 3, 5]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Identifica la estrategia retórica",
+      "instruction": "Lee cada fragmento de ensayo argumentativo e identifica qué estrategia retórica usa: concesión, refutación, escalada, ironía o conclusión.",
+      "itemIndices": [1, 2, 3, 4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "La fórmula retórica correcta",
+      "instruction": "Para cada momento argumentativo (conceder, refutar, escalar, concluir), escribe la fórmula italiana más apropiada.",
+      "itemIndices": [1, 2, 3, 5]
+    },
+    {
+      "type": "summary",
+      "title": "L'arte della polemica — acquisita",
+      "instruction": "Las cinco herramientas del polemista italiano: (1) Concesión + refutación (la secuencia más poderosa). (2) Escalada argumentativa (del más débil al más fuerte). (3) Ironía socrática (reductio ad absurdum). (4) Citazione decontestualizzata (las palabras del adversario contra él). (5) Conclusione apertura (no cerrar el debate, sino abrirlo a nuevas prospettive). Para practicar: lee gli 'Scritti corsari' di Pasolini o i 'Cinque scritti morali' di Eco.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

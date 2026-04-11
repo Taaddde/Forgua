@@ -1,0 +1,107 @@
+{
+  "id": "vocab-a1-19",
+  "title": "Professioni e nazionalità",
+  "description": "Las profesiones y nacionalidades en italiano. En italiano la profesión frecuentemente cambia de género. Las nacionalidades concuerdan con el sustantivo.",
+  "level": "a1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "il medico / la medica",
+      "back": "el médico / la médica",
+      "reading": "/il ˈmɛːdiko/ /la ˈmɛːdika/",
+      "explanation": "Medico. El plural es 'i medici'. 'Sono medico' = Soy médico (sin artículo con profesión tras essere). 'Il medico di base' = el médico de cabecera/clínico."
+    },
+    {
+      "front": "l'insegnante",
+      "back": "el/la maestro/a / docente",
+      "reading": "/linseɲˈɲante/",
+      "explanation": "Insegnante es igual en m. y f. (solo el artículo cambia: il/la insegnante). 'Insegnante di italiano' = profesor/a de italiano. 'Professore/Professoressa' = profesor universitario."
+    },
+    {
+      "front": "lo studente / la studentessa",
+      "back": "el estudiante / la estudiante",
+      "reading": "/lo stuˈdente/ /la studenˈtessa/",
+      "explanation": "Studente (m.) → studentessa (f.). 'Lo studente' (usa 'lo' por la 'st'). Plural: gli studenti / le studentesse. 'Essere studente' = ser estudiante (sin artículo con essere)."
+    },
+    {
+      "front": "l'avvocato / l'avvocata",
+      "back": "el abogado / la abogada",
+      "reading": "/lavvoˈkaːto/",
+      "explanation": "Avvocato. Doble 'vv'. Femenino moderno: avvocata. Plural: gli avvocati. 'Studio legale' = estudio jurídico."
+    },
+    {
+      "front": "il cuoco / la cuoca",
+      "back": "el cocinero / la cocinera",
+      "reading": "/il ˈkwɔːko/ /la ˈkwɔːka/",
+      "explanation": "Cuoco/cuoca. La 'cu' suena /kw/. 'Chef' también se usa (anglicismo del francés). 'Cucinare bene' = cocinar bien. Plural: i cuochi / le cuoche (con h para mantener /k/)."
+    },
+    {
+      "front": "il giornalista / la giornalista",
+      "back": "el/la periodista",
+      "reading": "/il dʒornaˈlista/",
+      "explanation": "Giornalista es igual en m. y f. (termina en -ista). Plural: i giornalisti / le giornaliste. Del italiano 'giornale' (periódico). 'Giornalismo' = periodismo."
+    },
+    {
+      "front": "italiano / italiana",
+      "back": "italiano / italiana",
+      "reading": "/itaˈljaːno/ /itaˈljaːna/",
+      "explanation": "Las nacionalidades concuerdan con el sustantivo. 'Sono italiano' = Soy italiano. 'Lei è italiana' = Ella es italiana. Las nacionalidades van en MINÚSCULA en italiano."
+    },
+    {
+      "front": "spagnolo / spagnola",
+      "back": "español / española",
+      "reading": "/spaˈɲɲolo/ /spaˈɲɲola/",
+      "explanation": "Spagnolo. La 'gn' suena /ɲ/ = ñ. Doble. En italiano las nacionalidades van en minúscula. 'Parlo spagnolo' = Hablo español. 'La Spagna' = España."
+    },
+    {
+      "front": "argentino / argentina",
+      "back": "argentino / argentina",
+      "reading": "/ardʒenˈtiːno/",
+      "explanation": "Argentino. La 'g' suena /dʒ/ ante 'e'. 'L'Argentina' = Argentina. 'Sono argentino/a' = Soy argentino/a. Los argentinos en Italia son muy apreciados por el fútbol."
+    },
+    {
+      "front": "francese / tedesco / inglese",
+      "back": "francés / alemán / inglés",
+      "reading": "/franˈtʃeːze/ /teˈdesko/ /iŋˈɡleːze/",
+      "explanation": "Francese e inglese son iguales en m. y f. (terminan en -ese). Tedesco/tedesca concuerdan. 'Parlo francese/inglese' = Hablo francés/inglés. 'La Germania' = Alemania."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Le professioni",
+      "instruction": "Las profesiones en italiano. Tras 'essere' la profesión va sin artículo: 'Sono medico' (no 'Sono un medico'). Muchas profesiones tienen forma femenina diferente.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "introduce",
+      "title": "Le nazionalità",
+      "instruction": "Las nacionalidades concuerdan con el género y van en minúscula. ¡Diferente al español donde también se usan en mayúscula a veces!",
+      "itemIndices": [6, 7, 8, 9]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué profesión o nacionalidad?",
+      "instruction": "Ves la palabra en italiano. Elegí la traducción.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "Del español al italiano",
+      "instruction": "Ves la profesión o nacionalidad en español. Escribí la palabra italiana.",
+      "itemIndices": [0, 1, 2, 4, 6, 7, 8, 9]
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Correcto o incorrecto?",
+      "instruction": "'Sono un medico' → error — debería ser 'Sono medico'. 'Sono Italiano' → error — minúscula 'sono italiano'. Identificá los errores.",
+      "itemIndices": [0, 6]
+    },
+    {
+      "type": "summary",
+      "title": "¡Professioni e nazionalità!",
+      "instruction": "medico/a, insegnante, studente/studentessa, avvocato/a, cuoco/a, giornalista. REGLA: tras 'essere' la profesión va SIN artículo. Nacionalidades en MINÚSCULA: italiano, spagnolo, argentino, francese, tedesco, inglese.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

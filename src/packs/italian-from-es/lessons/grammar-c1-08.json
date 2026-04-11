@@ -1,0 +1,101 @@
+{
+  "id": "grammar-c1-08",
+  "title": "I 20 errori più comuni dei parlanti B2",
+  "description": "Los 20 errores más persistentes que cometen los hispanohablantes de nivel B2 al intentar alcanzar C1. Muchos son por interferencia del español, otros son fossilizaciones por reglas que parecen similares pero no lo son. Identificar y corregir estos errores es el camino más directo al C1.",
+  "level": "c1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "❌ *Sono andato a lavorare ieri sera e ho tornato tardi.",
+      "back": "✅ Sono andato a lavorare ieri sera e sono tornato tardi.",
+      "reading": "",
+      "explanation": "Error: usar 'avere' con 'tornare'. 'Tornare' es un verbo de movimiento intransitivo que SIEMPRE requiere ESSERE como auxiliare: sono tornato/a. Los verbos de movimiento (andare, venire, tornare, partire, arrivare, uscire, entrare) siempre van con essere."
+    },
+    {
+      "front": "❌ *Spero che tu vieni domani.",
+      "back": "✅ Spero che tu venga domani.",
+      "reading": "",
+      "explanation": "Error: usar indicativo después de 'sperare che'. Los verbos de esperanza/deseo/duda REQUIEREN congiuntivo: sperare che, credere che, pensare che, volere che, dubitare che. En español coloquial se admite el indicativo, pero en italiano estándar es un error grave."
+    },
+    {
+      "front": "❌ *Qualsiasi studentessa seria studia molto.",
+      "back": "✅ Qualsiasi studentessa seria studia molto. [OK] PERO: ❌ *Qualsiasi studenti seri...",
+      "reading": "",
+      "explanation": "'Qualsiasi' es INVARIABLE: no cambia de forma con el género o número. Solo se usa con sustantivo singular: qualsiasi cosa, qualsiasi persona, qualsiasi problema. ❌ 'qualsiasi problemi' → ✅ 'qualsiasi problema'."
+    },
+    {
+      "front": "❌ *Secondo me, abbia ragione lui.",
+      "back": "✅ Secondo me, ha ragione lui.",
+      "reading": "",
+      "explanation": "Error: usar congiuntivo después de 'secondo me'. 'Secondo me' = en mi opinión (primera persona directa) → INDICATIVO. El congiuntivo solo con verbos de opinión de tercera persona o cuando hay incerteza: 'credo che abbia ragione' (sí, congiuntivo) vs 'secondo me ha ragione' (indicativo)."
+    },
+    {
+      "front": "❌ *Vado a Roma da tre giorni. / ❌ *Ho aspettato per un'ora e sono ancora qui.",
+      "back": "✅ Sono a Roma da tre giorni. / ✅ Aspetto da un'ora. / ✅ Ho aspettato per un'ora (y terminó).",
+      "reading": "",
+      "explanation": "'Da' indica acción que CONTINÚA hasta el presente: 'Aspetto da un'ora' = llevo una hora esperando (y sigo esperando). 'Per' indica duración de acción ya TERMINADA: 'Ho aspettato per un'ora' = esperé una hora (y después me fui). Distinción fundamental que en español no existe."
+    },
+    {
+      "front": "❌ *Le ho detto ma non ha ascoltato. (Usando 'le' para un hombre)",
+      "back": "✅ Gli ho detto ma non ha ascoltato. [a lui] / ✅ Le ho detto ma non ha ascoltato. [a lei]",
+      "reading": "",
+      "explanation": "Los pronomi indiretti son distintos para género: GLI = a lui (a él). LE = a lei (a ella). En el habla coloquial, 'gli' se usa para ambos géneros y para 'a loro', pero en escritura formal se mantiene la distinción. 'Le' para un hombre es error grave."
+    },
+    {
+      "front": "❌ *Mi piaccio la pizza. / ❌ *Io piaccio la pizza.",
+      "back": "✅ Mi piace la pizza. (la pizza es el sujeto de piacere, no la persona)",
+      "reading": "",
+      "explanation": "La estructura de 'piacere' es inversa al español: el sujeto es la cosa que gusta, no la persona. 'Mi piace la pizza' = a mí me gusta la pizza (la pizza me agrada). El verbo concuerda con 'la pizza' (singular → piace) o con 'le pizze' (plural → piacciono)."
+    },
+    {
+      "front": "❌ *Ho visto le ragazze e le ho salutate i ragazzi. / ✅ Ho salutato i ragazzi.",
+      "back": "✅ Le ho salutate. (concordanza: oggetto femminile plurale → participio in -e)",
+      "reading": "",
+      "explanation": "Concordanza del participio passato con 'avere' + pronome oggetto: se hay un pronome oggetto directo ANTES del verbo, el participio CONCUERDA en género y número. 'Le ho viste' (le = le ragazze, femm. plur.). 'Li ho visti' (li = i ragazzi, masc. plur.)."
+    },
+    {
+      "front": "❌ *Non sono stato mai in Italia. → ✅ Non sono mai stato in Italia.",
+      "back": "Posición de 'mai' con passato prossimo: entre l'ausiliare e il participio.",
+      "reading": "",
+      "explanation": "Con il passato prossimo, i pronomi e avverbi di frequenza (mai, già, ancora, sempre) vanno tra l'ausiliare e il participio: 'non sono MAI stato' / 'ho GIÀ mangiato' / 'non hai ANCORA finito'. Este es un error de posición muy frecuente."
+    },
+    {
+      "front": "❌ *Pretendo andare alla festa. → ✅ Voglio / Ho intenzione di andare alla festa.",
+      "back": "'Pretendere' ≠ pretender (fingir). 'Pretendere' = exigir / reclamar. 'Fingere' = fingir.",
+      "reading": "",
+      "explanation": "Falso cognado crítico: 'Pretendo rispetto' = Exijo respeto (no: pretendo/finjo respeto). 'Fingere' = fingir en italiano. 'Pretendere' en el sentido de 'tener la intención de' no existe: use 'voler/avere intenzione di/pensare di'."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Los 5 errores más graves",
+      "instruction": "Los primeros cinco errores (auxiliare, congiuntivo, qualsiasi, secondo me, per/da) son los más señalados como 'errori di livello B2' por los professori di italiano. Si los corriges todos, ya das un salto cualitativo significativo.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "error-correction",
+      "title": "Encontrá el error",
+      "instruction": "Cada oración tiene UN error. Identificalo y corregilo. Para cada corrección, escribe también la regla que aplica.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "La forma correcta",
+      "instruction": "Completa con la forma correcta, evitando el error típico. Para cada respuesta, piensa en la regla antes de escribir.",
+      "itemIndices": [0, 1, 4, 5, 6]
+    },
+    {
+      "type": "recall",
+      "title": "Regla vs Error",
+      "instruction": "Para cada error clásico, escribe la regla que se aplica en 1-2 frases. Ser capaz de formular la regla es señal de que la has internalizado, no solo memorizado.",
+      "itemIndices": [5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "Los 20 errores — en tu lista personal",
+      "instruction": "Los errores más críticos: (1) auxiliare essere/avere. (2) Congiuntivo obligatorio con verbos de deseo/duda. (3) Concordanza del participio con pronome. (4) Per vs da para duración. (5) Gli vs le. (6) Falsos cognados (pretendere, supportare, controllare). Crea tu propia lista de los 5 errores que más cometes personalmente y practícalos activamente.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

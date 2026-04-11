@@ -1,0 +1,89 @@
+{
+  "id": "vocab-c2-06",
+  "title": "Connotazioni e sfumature: registro formale e accademico",
+  "description": "El italiano formal escrito — jurídico, académico, administrativo — conserva un conjunto de latinismos y fórmulas de referencia que son invisibles para el hablante básico pero omnipresentes en los textos especializados. Esta lección trabaja las expresiones del registro más alto del italiano contemporáneo.",
+  "level": "c2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "quivi sopra citato / di cui sopra",
+      "back": "anteriormente citado / mencionado más arriba / el susodicho",
+      "reading": "",
+      "explanation": "Fórmulas de referencia interna en textos académicos y jurídicos. 'Di cui sopra' es la más moderna. 'In riferimento all'articolo di cui sopra, si precisa che...' Equivalen a 'susodicho' o 'el mencionado anteriormente'."
+    },
+    {
+      "front": "ex multis",
+      "back": "entre muchos / entre varios (en citaciones académicas)",
+      "reading": "/ɛks ˈmultis/",
+      "explanation": "'Cfr., ex multis, Cass. civ., sez. I, 15 marzo 2020, n. 7321.' Latinismo de uso corriente en notas a pie de página de textos jurídicos y académicos italianos: indica que se cita solo uno entre muchos ejemplos posibles."
+    },
+    {
+      "front": "mutatis mutandis",
+      "back": "cambiando lo que haya que cambiar / mutatis mutandis",
+      "reading": "/muˈtatis muˈtandis/",
+      "explanation": "'Lo stesso principio si applica, mutatis mutandis, al diritto internazionale.' Latinismo de uso habitual en academia y derecho. Indica que una analogía es válida siempre que se ajusten las diferencias contextuales."
+    },
+    {
+      "front": "erga omnes",
+      "back": "frente a todos / con efecto universal",
+      "reading": "/ˈɛrga ˈomnes/",
+      "explanation": "'La proprietà è un diritto reale opponibile erga omnes.' Latinismo jurídico fundamental: los derechos reales o efectos que valen frente a todos, no solo frente a las partes de un contrato. Frecuente en derecho civile e costituzionale."
+    },
+    {
+      "front": "in dubio pro reo",
+      "back": "en caso de duda, a favor del acusado",
+      "reading": "",
+      "explanation": "'Il principio in dubio pro reo garantisce che nessun innocente sia condannato.' Principio fundamental del derecho penal italiano, constitucionalizado en el artículo 27 de la Costituzione. Equivale al 'presunción de inocencia' pero formulado como criterio de decisión en la duda."
+    },
+    {
+      "front": "ut supra / ut infra",
+      "back": "como se ha dicho arriba / como se dirá abajo",
+      "reading": "",
+      "explanation": "'Come indicato ut supra (§ 3), la norma si applica in via analogica.' Referencias cruzadas de uso principalmente jurídico y académico formal en italiano. Menos frecuentes que 'di cui sopra' pero presentes en textos muy formales."
+    },
+    {
+      "front": "secundum quid",
+      "back": "según ciertas condiciones / en cierto respecto (no en absoluto)",
+      "reading": "",
+      "explanation": "'L'argomento vale secundum quid, non in assoluto.' Término filosófico-lógico que designa una falacia o un argumento que vale solo bajo ciertas condiciones. Señala que una generalización es parcial, no universal."
+    },
+    {
+      "front": "laddove (adversativo) / quoad effectum",
+      "back": "mientras que (adversativo) / a los efectos legales de",
+      "reading": "",
+      "explanation": "'Laddove il contratto prevede silenzio, si applica la norma.' / 'L'atto produce effetti quoad effectum dalla data della sottoscrizione.' El primero (laddove adversativo) es el más moderno y frecuente en textos jurídicos actuales. El segundo (quoad effectum) es un latinismo notarial."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El latín vivo del italiano formal",
+      "instruction": "El italiano jurídico y académico conserva latinismos que el español ha perdido. En Italia, abrir una sentencia del Tribunale o un artículo de una rivista giuridica implica encontrar 'ex multis', 'erga omnes', 'in dubio pro reo'. No son arcaísmos: son el léxico vivo del derecho italiano actual.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "word-in-context",
+      "title": "El latinismo en su contexto",
+      "instruction": "Lee cada fragmento de texto jurídico o académico e identifica qué latinismo corresponde. Razón: ¿es un término de referencia cruzada, de universalidad, de condicionalidad o de principio procesal?",
+      "itemIndices": [1, 2, 3, 4, 5]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completa el texto jurídico",
+      "instruction": "Completa estos fragmentos de sentencias o artículos académicos con el latinismo o fórmula formal correcta.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "recall",
+      "title": "Latinismo → significado en contexto",
+      "instruction": "Para cada latinismo, escribe en español su significado y especifica el tipo de texto donde aparece con más frecuencia (sentencia, artículo académico, contrato notarial, etc.).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "El italiano de máxima formalidad",
+      "instruction": "Estos términos marcan el polo más formal del continuum lingüístico italiano. Para practicar: lee sentenze della Corte Costituzionale italiana (disponibles online) y artículos de Rivista di Diritto Civile. En cada texto encontrarás estos términos en función activa.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "grammar-b1-10",
+  "title": "Congiuntivo passato",
+  "description": "El subjuntivo pasado italiano: para expresar acciones pasadas en oraciones subordinadas que requieren congiuntivo.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "che io abbia mangiato",
+      "back": "que yo haya comido",
+      "reading": "",
+      "explanation": "Congiuntivo passato: congiuntivo presente di avere/essere + participio passato. Con avere: abbia/abbia/abbia/abbiamo/abbiate/abbiano + participio. Equivale al pretérito perfecto de subjuntivo español: 'que haya comido'."
+    },
+    {
+      "front": "che lei sia arrivata",
+      "back": "que ella haya llegado",
+      "reading": "",
+      "explanation": "Con essere: sia/sia/sia/siamo/siate/siano + participio (concordado). 'Arrivare' → essere → 'sia arrivata' (fem. sing.). Concordanza obligatoria del participio con essere."
+    },
+    {
+      "front": "Penso che Marco sia già partito.",
+      "back": "Creo que Marco ya se ha ido.",
+      "reading": "",
+      "explanation": "Uso principal: la acción subordinada es ANTERIOR a la principal. 'Penso' (ahora) que 'è partito' (antes). Cronología: si la acción del congiuntivo precede a la principal → congiuntivo PASSATO."
+    },
+    {
+      "front": "Sono contenta che tu abbia studiato.",
+      "back": "Estoy contenta de que hayas estudiado.",
+      "reading": "",
+      "explanation": "Emoción sobre un hecho pasado: 'essere contento/a che' + congiuntivo passato. La emoción es presente pero el hecho (estudiar) ya ocurrió. Por eso: congiuntivo passato."
+    },
+    {
+      "front": "Sebbene abbia piovuto, siamo usciti.",
+      "back": "Aunque ha llovido, hemos salido.",
+      "reading": "",
+      "explanation": "Congiuntivo passato con conjunción concesiva. 'Sebbene + congiuntivo passato' cuando la acción concesiva es pasada. 'Piovere' usa essere → 'sia piovuto' o avere → 'abbia piovuto' (ambos posibles en italiano regional)."
+    },
+    {
+      "front": "È strano che non sia venuto.",
+      "back": "Es extraño que no haya venido.",
+      "reading": "",
+      "explanation": "Impersonal + congiuntivo passato: la acción ('non è venuto') es pasada. Si el hecho todavía no ocurrió (futuro) → congiuntivo presente: 'È strano che non venga'. La diferencia temporal es clave."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "La estructura del congiuntivo passato",
+      "instruction": "Forma: congiuntivo di avere/essere + participio passato. Con avere: abbia + participio. Con essere: sia + participio (concordado). Reglas essere/avere = las mismas de siempre.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Cuándo usar congiuntivo passato vs presente",
+      "instruction": "Cronología es la clave: Si la acción subordinada ocurre AL MISMO TIEMPO que la principal → congiuntivo PRESENTE. Si la acción subordinada es ANTERIOR → congiuntivo PASSATO.",
+      "itemIndices": [2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Congiuntivo passato con conjunciones",
+      "instruction": "Las mismas conjunciones que activan el congiuntivo presente también activan el passato cuando la acción ya ocurrió: sebbene abbia piovuto, è strano che non sia venuto.",
+      "itemIndices": [4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "Formá el congiuntivo passato",
+      "instruction": "¿Cuál es el congiuntivo passato de: mangiare (io), arrivare (lei), venire (lui)?",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "recall",
+      "title": "¿Presente o passato?",
+      "instruction": "¿Congiuntivo presente o passato? Analizá la cronología de cada frase.",
+      "itemIndices": [2, 3, 4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "Resumen: Congiuntivo passato",
+      "instruction": "Fórmula: abbia/sia + participio. La clave es la CRONOLOGÍA: acción subordinada anterior a la principal → congiuntivo passato. Acción simultánea o futura → congiuntivo presente. Con essere el participio CONCUERDA. Próxima lección: congiuntivo imperfetto (para el periodo ipotetico).",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "grammar-c2-01",
+  "title": "L'italiano scritto letterario",
+  "description": "El italiano literario clásico, desde Dante hasta Leopardi y D'Annunzio, utiliza formas morfológicas y sintácticas que se alejan del estándar moderno. Para leer (y excepcionalmente escribir) en registro ultra-elevado, es necesario reconocer estas estructuras. Esta lección es para quienes aspiran a la comprensión plena del canon literario italiano.",
+  "level": "c2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "«Nel mezzo del cammin di nostra vita / mi ritrovai per una selva oscura» — Dante, Inferno I, 1-2",
+      "back": "El incipit de la Divina Commedia: sintaxis latinizante, léxico medieval, metro endecasílabo.",
+      "reading": "",
+      "explanation": "'Nostra vita' (no 'la mia vita') = uso latino de posesivo sin artículo. 'Mi ritrovai' = me encontré (reflexivo del passato remoto). 'Per' = en/a través de (uso arcaico). El verso endecasílabo (11 sílabas) organiza el ritmo. Este incipit es el texto italiano más citado de todos."
+    },
+    {
+      "front": "Congiuntivo arcaico: 'sieno' (=siano) / 'vogli' (=voglia) / 'fôra' (=fosse)",
+      "back": "Formas arcaicas del congiuntivo presentes en Dante, Petrarca y el Quattrocento.",
+      "reading": "",
+      "explanation": "'Sieno' por 'siano' (congiuntivo presente di essere, 3ª pl), 'vogli' por 'voglia', 'fôra' por 'fosse' (congiuntivo imperfetto). Estas formas son señal de lectura de textos del Duecento-Quattrocento. No se usan en italiano moderno salvo como cita literaria deliberada."
+    },
+    {
+      "front": "«Amor, ch'a nullo amato amar perdona» — Dante, Inferno V",
+      "back": "Sintaxis latinizante: objeto antepuesto al verbo, 'ch'' = che, 'nullo' = nessuno.",
+      "reading": "",
+      "explanation": "'Ch'' = che (apocope). 'Nullo' = nessuno (arcaismo). La sintaxis: 'Amor che perdona a nessun amato il non amare' = el amor que no perdona a ningún amado el no amar. Orden SOV (Sujeto-Objeto-Verbo) de herencia latina. El verbo 'perdona' está al final de la cláusula."
+    },
+    {
+      "front": "Ablativo absoluto italiano: 'Terminato il discorso, si alzarono tutti.' / 'Detto questo, non aggiunse altro.'",
+      "back": "Participio passato en función de cláusula temporal/causal/concesiva sin nexo explícito.",
+      "reading": "",
+      "explanation": "'Terminato il discorso' = Cuando terminó el discurso / Una vez terminado el discurso. 'Detto questo' = Habiendo dicho esto. Esta construcción participiale assoluta existe también en italiano moderno y es de uso normal en el registro formale. En el literario se amplía: 'Venuta la sera...' / 'Passati gli anni...'."
+    },
+    {
+      "front": "Lo stile leopardiano: 'Sempre caro mi fu quest'ermo colle, / E questa siepe...' — L'Infinito",
+      "back": "Leopardi: inversión del orden (aggettivo prima), arcaismi ('ermo'), imperfetto come tempo della ricordanza.",
+      "reading": "",
+      "explanation": "'Ermo' = solitario (arcaismo del leopardiano de alto registro). 'Sempre caro mi fu' (= mi fu sempre caro) = inversión para el ritmo del verso. 'Quest'ermo colle' = esa colina solitaria. L'Infinito (1819) es el poema más memorizado del canon italiano. El imperfetto marca el estado de la contemplación."
+    },
+    {
+      "front": "Participio presente con valore verbale: 'Una donna portante un bambino' [lett.] = 'che portava un bambino'",
+      "back": "En italiano moderno el participio presente es principalmente adjetivo; en el literario puede tener valor verbal pleno.",
+      "reading": "",
+      "explanation": "'Una donna portante un bambino' (literario) = 'una mujer llevando a un niño'. 'L'esercito avanzante sul colle' (literario) = el ejército que avanzaba. Esta construcción es arcaica en el habla pero presente en textos letterari altos. En burocrático moderno sobrevive: 'il richiedente' (el solicitante), 'il contraente'."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El italiano de Dante",
+      "instruction": "La Divina Commedia (1308-1320) es el texto fundacional del italiano literario. Leer a Dante en el original es la meta última del C2 literario. Esta lección introduce las estructuras fundamentales del italiano dantesco: no para producirlas, sino para reconocerlas y entenderlas.",
+      "itemIndices": [0, 2]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Qué dice el texto literario?",
+      "instruction": "Para cada fragmento literario, identifica: (1) qué estructura arcaica contiene; (2) cómo se diría en italiano moderno estándar.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Leopardi y el italiano del Ottocento",
+      "instruction": "Leopardi (1798-1837) representa la cima del lirismo italiano moderno. Su estilo combina arcaismi deliberados, latinismi lessicali e inversioni sintattiche. Leer a Leopardi es más difícil que leer el italiano contemporáneo, pero más recompensante. L'Infinito (14 versi) es el punto de entrada.",
+      "itemIndices": [4, 5]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Forma arcaica → moderna",
+      "instruction": "Para cada forma arcaica del texto literario, escribe su equivalente en italiano moderno estándar.",
+      "itemIndices": [1, 2, 5]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Comprensión de texto literario",
+      "instruction": "Lee el incipit de la Divina Commedia (ítem 1) y el verso de Leopardi (ítem 5). Responde: ¿Qué emoción expresa Dante? ¿Qué contempla Leopardi? ¿Qué función tiene el imperfetto en L'Infinito?",
+      "itemIndices": [0, 4]
+    },
+    {
+      "type": "summary",
+      "title": "Italiano letterario — porta aperta",
+      "instruction": "El italiano literario no es un obstáculo: es una recompensa. Tres textos para empezar: L'Infinito di Leopardi (14 versi, memorizzabili), Inferno I (136 versi, denso pero con Benigni's reading en YouTube), e qualsiasi capitolo di I Promessi Sposi (Manzoni semplifica Dante). Ogni pagina ti aprirà nuove porte.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

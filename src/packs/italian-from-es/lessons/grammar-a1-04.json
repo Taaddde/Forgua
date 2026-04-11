@@ -1,0 +1,89 @@
+{
+  "id": "grammar-a1-04",
+  "title": "Articoli indeterminativi: un, una, uno, un'",
+  "description": "Los artículos indefinidos del italiano. Hay 4 formas según género y la inicial del sustantivo.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "un — masculino (consonante normal y vocal)",
+      "back": "un (masculino general)",
+      "reading": "/un/",
+      "explanation": "'Un' se usa para masculinos que empiezan con consonante normal O vocal: un libro, un cane, un amico, un uomo. ¡Ante vocal no hay apóstrofo! Solo para femeninos ante vocal se apostrofa."
+    },
+    {
+      "front": "uno — masculino (z, s+cons, gn, ps...)",
+      "back": "un (masculino especial)",
+      "reading": "/uno/",
+      "explanation": "'Uno' sigue las mismas reglas que 'lo': uno zaino, uno studente, uno gnomo, uno psicologo. Error muy común: decir 'un studente' → siempre 'uno studente'."
+    },
+    {
+      "front": "una — femenino (consonante)",
+      "back": "una",
+      "reading": "/ˈuːna/",
+      "explanation": "'Una' ante consonante: una casa, una ragazza, una pizza, una birra. Ante vocal → un' con apóstrofo."
+    },
+    {
+      "front": "un' — femenino (vocal)",
+      "back": "una (ante vocal)",
+      "reading": "/un/",
+      "explanation": "'Un'' (con apóstrofo) ante femenino que empieza con vocal: un'amica, un'università, un'ora, un'italiana. El apóstrofo es obligatorio en la escritura."
+    },
+    {
+      "front": "Sei uno studente?",
+      "back": "¿Sos estudiante?",
+      "reading": "",
+      "explanation": "Uno studente = un estudiante (porque 'studente' empieza con s+t). Si respondes 'Sì, sono studente' — la profesión tras essere NO lleva artículo. '¿Sos un estudiante?' = ¿Sei uno studente?"
+    },
+    {
+      "front": "Ho un'idea!",
+      "back": "¡Tengo una idea!",
+      "reading": "",
+      "explanation": "'Idea' es femenino y empieza con vocal → un'idea (con apóstrofo). 'Un'idea' se escribe junto. 'Ho un'idea brillante' = Tengo una idea brillante."
+    },
+    {
+      "front": "Non ho un euro. (zero articolo al plurale)",
+      "back": "No tengo un euro. (el plural no tiene artículo indefinido)",
+      "reading": "",
+      "explanation": "En italiano no existe 'unos/unas'. Para el plural indefinido se usa: DEI/DEGLI/DELLE (forma partitiva) o simplemente sin artículo. 'Ho amici italiani' (Tengo amigos italianos)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Los 4 artículos indefinidos",
+      "instruction": "UN (masculino general), UNO (masculino ante z/s+cons/gn), UNA (femenino ante consonante), UN' (femenino ante vocal). En español solo hay 'un/una'. ¡La novedad es UNO!",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué artículo indefinido?",
+      "instruction": "Ves el sustantivo. Elegí el artículo correcto: un/uno/una/un'.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con el artículo",
+      "instruction": "libro → ___ libro | zaino → ___ zaino | amica → ___ amica | università → ___ università | studente → ___ studente",
+      "itemIndices": [0, 1, 3, 3, 1]
+    },
+    {
+      "type": "error-correction",
+      "title": "Errores frecuentes",
+      "instruction": "Corregí los errores: 'un studente' → uno studente | 'una amica' → un'amica | 'uno libro' → un libro",
+      "itemIndices": [1, 3, 0]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Oraciones con artículos indefinidos",
+      "instruction": "Ordená: idea / Ho / un' / buona | studente / di / Sei / italiano / uno",
+      "itemIndices": [5, 4]
+    },
+    {
+      "type": "summary",
+      "title": "¡Articoli indeterminativi!",
+      "instruction": "UN (m. normal y vocal), UNO (m. ante z/s+cons/gn/ps), UNA (f. consonante), UN' (f. vocal). Sin plural: en italiano no existe 'unos/unas'. Para plural indefinido: dei/degli/delle o sin artículo.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    }
+  ]
+}

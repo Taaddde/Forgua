@@ -1,0 +1,95 @@
+{
+  "id": "grammar-b1-20",
+  "title": "Molto/poco/troppo/abbastanza come modificatori",
+  "description": "Molto, poco, troppo y abbastanza como adjetivos (concordados), adverbios (invariables) y pronombres. El error más frecuente para hispanohablantes: concordar quando non serve.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Ho mangiato troppo. / Ho mangiato troppa pizza.",
+      "back": "Comí demasiado. / Comí demasiada pizza.",
+      "reading": "",
+      "explanation": "DOBLE FUNCIÓN de 'troppo': 1) Avverbio (con verbo): 'ho mangiato troppo' — invariable, no concuerda. 2) Aggettivo (con sustantivo): 'troppa pizza' — concuerda en género y número con el sustantivo. Formas aggettivali: troppo/troppa/troppi/troppe. Error frecuente: ✗ 'ho mangiato troppi' → ✓ 'ho mangiato troppo'."
+    },
+    {
+      "front": "Parla molto bene l'italiano. (avverbio)",
+      "back": "Habla muy bien italiano.",
+      "reading": "",
+      "explanation": "'Molto' como AVVERBIO (modifica un adjetivo o adverbio): sempre invariable. 'Molto bene', 'molto bello', 'molto velocemente'. ✗ 'Parla molti bene' (incorrecto) → ✓ 'Parla molto bene'. Nótese que 'bene' aquí es adverbio ('bien'), no adjetivo."
+    },
+    {
+      "front": "Ci sono molti studenti oggi. / Ho molte amiche.",
+      "back": "Hay muchos estudiantes hoy. / Tengo muchas amigas.",
+      "reading": "",
+      "explanation": "'Molto' como AGGETTIVO (antes de sustantivo): concuerda. Formas: molto/molta/molti/molte. 'Molti studenti' (m.pl.), 'molte amiche' (f.pl.), 'molto lavoro' (m.sg.), 'molta pazienza' (f.sg.). El truco: si hay sustantivo después → concuerda; si modifica un verbo o adjetivo → invariable."
+    },
+    {
+      "front": "Sono molto stanchi. / Sono molto stanca.",
+      "back": "Están muy cansados. / Estoy muy cansada.",
+      "reading": "",
+      "explanation": "'Molto' como avverbio antes de AGGETTIVO: invariable. ✗ 'Sono molti stanchi' → ✓ 'Sono molto stanchi'. 'Molto' no concuerda con 'stanchi' porque actúa como adverbio modificando al adjetivo. Contraste: 'molti studenti stanchi' (molti = aggettivo, concuerda) vs 'studenti molto stanchi' (molto = avverbio, invariable)."
+    },
+    {
+      "front": "Pochi studenti hanno risposto. / Poca gente lo sa.",
+      "back": "Pocos estudiantes respondieron. / Poca gente lo sabe.",
+      "reading": "",
+      "explanation": "'Poco' como AGGETTIVO tiene formas IRREGOLARI: poco/poca/pochi/poche. ¡Atención! El plural masculino es 'pochi' (no 'pocos' como en español). 'Pochi amici' (m.pl.), 'poche amiche' (f.pl.). Como avverbio: 'Dorme poco' (duerme poco) — invariable. 'Parla poco bene' (habla poco bien) — invariable."
+    },
+    {
+      "front": "È abbastanza bravo. / Sono abbastanza brave.",
+      "back": "Es bastante bueno. / Son bastante buenas.",
+      "reading": "",
+      "explanation": "'Abbastanza' es SIEMPRE invariable, en todos los usos. 'Abbastanza bravo/brava/bravi/brave' — note que el adjetivo concuerda pero 'abbastanza' no cambia. 'Ho mangiato abbastanza' (comí bastante — avverbio con verbo). 'Abbastanza studenti' (bastantes estudiantes — menos común que 'molti studenti')."
+    },
+    {
+      "front": "Mangio molto. / Ho mangiato molto.",
+      "back": "Como mucho. / Comí mucho.",
+      "reading": "",
+      "explanation": "'Molto' como PRONOME o avverbio di quantità con verbo: invariable. 'Mangio molto', 'Studia poco', 'Parla troppo'. Compará: aggettivo 'Ho mangiato molta pasta' (molta concuerda con pasta) vs avverbio 'Ho mangiato molto' (molto invariable). El sustantivo determina si es aggettivo o no."
+    },
+    {
+      "front": "Questo vino è molto buono. / Questi vini sono molto buoni.",
+      "back": "Este vino está muy bueno. / Estos vinos están muy buenos.",
+      "reading": "",
+      "explanation": "Repaso: en italiano el adjetivo 'buono' concuerda (buono/buona/buoni/buone), pero 'molto' como avverbio permanece invariable. ✗ 'Questi vini sono molti buoni' (incorrecto) → ✓ 'Questi vini sono molto buoni'. La presencia del verbo essere no cambia la regla."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "La distinción clave: aggettivo vs avverbio",
+      "instruction": "AGGETTIVO (antes de sustantivo) → concuerda: molto/molta/molti/molte, poco/poca/pochi/poche, troppo/troppa/troppi/troppe. AVVERBIO (antes de adj./adv. o con verbo) → invariable: sempre molto, poco, troppo, abbastanza.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Formas especiales: poco y abbastanza",
+      "instruction": "POCO tiene plural irregular: pochi/poche (no 'pocos'!). ABBASTANZA es siempre invariable sin excepción. Aprende de memoria: pochi amici, poche amiche, abbastanza bravo/brava (abbastanza nunca cambia).",
+      "itemIndices": [4, 5]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Concuerda o no concuerda?",
+      "instruction": "Para cada uso de molto/poco/troppo/abbastanza, decidí si debe concordar. La pregunta clave: ¿hay un sustantivo inmediatamente después? Si sí → concuerda. Si modifica un adj./adv./verbo → invariable.",
+      "itemIndices": [3, 4, 6, 7]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Elegí la forma correcta",
+      "instruction": "Completá con molto/molta/molti/molte o poco/poca/pochi/poche según sea aggettivo o avverbio.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "error-correction",
+      "title": "Corregí los errores de concordanza",
+      "instruction": "El error más frecuente es concordar quando no hay que hacerlo (molto como avverbio) o usar formas españolas del plural de poco.",
+      "itemIndices": [0, 3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "Molto/poco/troppo/abbastanza — consolidado",
+      "instruction": "REGLA: aggettivo (antes de sustantivo) → concuerda: molti amici, molta pazienza, pochi studenti. Avverbio (con adj./adv./verbo) → invariable: molto bravo, parlare troppo, abbastanza bene. ABBASTANZA siempre invariable. POCO plural: pochi/poche (no 'pocos'!). Error más frecuente: ✗ 'molti stanchi' → ✓ 'molto stanchi'.",
+      "itemIndices": [0, 1, 2, 4, 6]
+    }
+  ]
+}

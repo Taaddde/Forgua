@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a1-24",
+  "title": "Avverbi di frequenza — sempre, spesso, a volte, mai...",
+  "description": "Los adverbios de frecuencia del italiano. Imprescindibles para describir rutinas y hábitos. Muy similares al español pero con algunas diferencias de posición en la oración.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "sempre — siempre",
+      "back": "siempre (100%)",
+      "reading": "",
+      "explanation": "'Sempre' = siempre. Posición: generalmente después del verbo o antes del participio. 'Vado sempre al bar la mattina' = Siempre voy al bar por la mañana. 'Ho sempre fame' = Siempre tengo hambre. 'È sempre stanca' = Siempre está cansada."
+    },
+    {
+      "front": "spesso — a menudo / seguido",
+      "back": "a menudo, frecuentemente, seguido (70-80%)",
+      "reading": "",
+      "explanation": "'Spesso' = a menudo, frecuentemente, seguido. 'Vado spesso al cinema' = Voy seguido al cine. 'Mangiamo spesso insieme' = Comemos juntos a menudo. 'Parla spesso con sua madre' = Habla seguido con su madre."
+    },
+    {
+      "front": "a volte / qualche volta — a veces",
+      "back": "a veces (50%)",
+      "reading": "",
+      "explanation": "'A volte' y 'qualche volta' = a veces. 'A volte vado a piedi' = A veces voy a pie. 'Qualche volta mangio fuori' = A veces como afuera. 'A volte sì, a volte no' = A veces sí, a veces no. 'A volte' es más frecuente en el habla cotidiana."
+    },
+    {
+      "front": "raramente / di rado — raramente / pocas veces",
+      "back": "raramente, pocas veces (20-30%)",
+      "reading": "",
+      "explanation": "'Raramente' = raramente, pocas veces. 'Raramente vado in palestra' = Raramente voy al gimnasio. 'Di rado' es más literario/formal. 'Vado raramente al cinema' = Voy pocas veces al cine."
+    },
+    {
+      "front": "non... mai — nunca / jamás",
+      "back": "nunca, jamás (0%)",
+      "reading": "",
+      "explanation": "'Mai' = nunca SIEMPRE va con 'non': 'non... mai'. 'Non vado mai in palestra' = Nunca voy al gimnasio. 'Non mangio mai carne' = Nunca como carne. ¡OJO! 'Non' NO se elimina — la doble negación es OBLIGATORIA en italiano (igual que en español)."
+    },
+    {
+      "front": "di solito / normalmente / generalmente",
+      "back": "normalmente / generalmente / por lo general",
+      "reading": "",
+      "explanation": "'Di solito' es la expresión más común para 'normalmente' en italiano. 'Di solito mi alzo alle sette' = Normalmente me levanto a las siete. 'Di solito mangio a casa' = Generalmente como en casa. Equivale a 'usually' en inglés."
+    },
+    {
+      "front": "ancora — todavía / aún",
+      "back": "todavía, aún (en afirmativa)",
+      "reading": "",
+      "explanation": "'Ancora' = todavía, aún. 'Studi ancora?' = ¿Todavía estudias? 'Sì, ancora' = Sí, todavía. 'Lavoro ancora in quella ditta' = Todavía trabajo en esa empresa. Cuidado: 'ancora' también significa 'otra vez' = again: 'Ancora una volta' = Una vez más."
+    },
+    {
+      "front": "Posición: verbo + avverbio / non + avverbio + verbo",
+      "back": "Siempre corro → Corro sempre (después del verbo) / Mai → Non vado mai (non antes, mai después)",
+      "reading": "",
+      "explanation": "Regla de posición: los adverbios de frecuencia generalmente van DESPUÉS del verbo. 'Vado sempre', 'mangio spesso', 'studio raramente'. Con 'mai' la estructura es: NON + verbo + MAI. 'Non vado mai' (no *mai non vado). En español el orden es más flexible."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "La escala de frecuencia en italiano",
+      "instruction": "De más a menos frecuente: SEMPRE (siempre) → SPESSO (a menudo) → A VOLTE (a veces) → RARAMENTE (raramente) → NON...MAI (nunca). Más DI SOLITO (normalmente).",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "introduce",
+      "title": "Posición en la oración y usos especiales",
+      "instruction": "Los adverbios van DESPUÉS del verbo principal. Excepción: 'non...mai' = non antes del verbo, mai después. 'Ancora' = todavía/otra vez.",
+      "itemIndices": [6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué adverbio encaja aquí?",
+      "instruction": "Elegí el adverbio de frecuencia correcto según el contexto y el porcentaje indicado.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "Traducí al italiano",
+      "instruction": "Traducí el adverbio y ubicalo correctamente en la oración.",
+      "itemIndices": [0, 1, 2, 4, 5]
+    },
+    {
+      "type": "error-correction",
+      "title": "Corregí el orden de los adverbios",
+      "instruction": "Estas frases tienen errores en la posición del adverbio. Corregí.",
+      "itemIndices": [7]
+    },
+    {
+      "type": "summary",
+      "title": "Adverbios de frecuencia: tabla completa",
+      "instruction": "SEMPRE (siempre) → SPESSO (a menudo) → DI SOLITO (normalmente) → A VOLTE / QUALCHE VOLTA (a veces) → RARAMENTE (raramente) → NON...MAI (nunca). Posición: después del verbo. MAI: siempre con NON. ANCORA = todavía (también = otra vez).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "grammar-b1-01",
+  "title": "Trapassato prossimo",
+  "description": "El 'había hecho' italiano: para narrar secuencias de eventos en el pasado. Más fácil de lo que parece para hispanohablantes.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "avevo mangiato",
+      "back": "había comido",
+      "reading": "",
+      "explanation": "Trapassato prossimo con avere. Forma: imperfetto di avere (avevo/avevi/aveva/avevamo/avevate/avevano) + participio passato. Igual que el pluscuamperfecto español: 'había comido'."
+    },
+    {
+      "front": "ero partito/a",
+      "back": "había partido / me había ido",
+      "reading": "",
+      "explanation": "Trapassato con essere. Mismas reglas que en passato prossimo: verbos de movimiento y reflexivos usan essere. El participio concuerda: 'ero partito' (masc.) / 'ero partita' (fem.)."
+    },
+    {
+      "front": "Quando sono arrivata, lui era già uscito.",
+      "back": "Cuando llegué, él ya había salido.",
+      "reading": "",
+      "explanation": "Uso típico: dos acciones pasadas. La más anterior → trapassato (era uscito). La más reciente → passato prossimo (sono arrivata). 'Già' (ya) frecuentemente acompaña al trapassato."
+    },
+    {
+      "front": "Non avevo mai visto il mare prima.",
+      "back": "Nunca había visto el mar antes.",
+      "reading": "",
+      "explanation": "Con 'mai' (nunca) para experiencias no tenidas hasta un punto del pasado. La estructura 'non...mai' rodea al participio: 'non avevo mai visto'."
+    },
+    {
+      "front": "Era stanca perché aveva lavorato tutta la notte.",
+      "back": "Estaba cansada porque había trabajado toda la noche.",
+      "reading": "",
+      "explanation": "El trapassato explica la causa de un estado pasado. 'Perché' (porque) introduce la causa anterior. Estructura muy frecuente en narrativa."
+    },
+    {
+      "front": "Si erano conosciuti all'università.",
+      "back": "Se habían conocido en la universidad.",
+      "reading": "",
+      "explanation": "Trapassato de un verbo reflexivo: si + erano + participio. 'Conosciuto' concuerda con el sujeto plural: 'conosciuti'. Refleja una acción previa a otro evento pasado."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Estructura del trapassato prossimo",
+      "instruction": "Forma: imperfetto di avere/essere + participio passato. Las mismas reglas essere/avere que en passato prossimo. Para hispanohablantes: idéntico al pluscuamperfecto español.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Cuando usar el trapassato",
+      "instruction": "Se usa cuando hay DOS acciones pasadas y necesitás aclarar cuál ocurrió PRIMERO. La primera en el tiempo → trapassato. La segunda → passato prossimo o imperfetto.",
+      "itemIndices": [2, 3, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "Trapassato con reflexivos",
+      "instruction": "Los verbos reflexivos usan essere en el trapassato (igual que en passato prossimo). El participio concuerda con el sujeto.",
+      "itemIndices": [5]
+    },
+    {
+      "type": "recall",
+      "title": "Formá el trapassato",
+      "instruction": "¿Cuál es el trapassato prossimo de estos verbos? (mangiare/io, partire/lei, vedersi/loro)",
+      "itemIndices": [0, 1, 5]
+    },
+    {
+      "type": "recall",
+      "title": "Secuencias de pasado",
+      "instruction": "Traducí estas oraciones que usan el trapassato.",
+      "itemIndices": [2, 3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "Resumen: Trapassato prossimo",
+      "instruction": "Fórmula: imperfetto di avere/essere + participio passato. Uso: acción más antigua entre dos acciones pasadas. 'Già' y 'mai' frecuentemente acompañan al trapassato. La dificultad principal: elegir essere vs avere (mismas reglas que passato prossimo).",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "id": "vocab-c1-03",
+  "title": "Verbi sofisticati C1",
+  "description": "Estos verbos son la diferencia entre un italiano B2 y uno que suena culto y preciso. Son los verbos que aparecen en la prensa de calidad, en los ensayos y en la conversación académica. Dominarlos te permite expresar matices que el vocabulario básico no permite.",
+  "level": "c1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "acuire",
+      "back": "agudizar / afilar / intensificar",
+      "reading": "/akuˈire/",
+      "explanation": "'La crisi ha acuito le tensioni sociali' — agudizar las tensiones. Del latín 'acuere' (afilar). Se usa con conceptos abstractos: acuire un problema, acuire il senso critico. Más preciso que 'intensificare' o 'peggiorare'."
+    },
+    {
+      "front": "amalgamare",
+      "back": "amalgamar / fusionar / mezclar íntimamente",
+      "reading": "/amalgaˈmare/",
+      "explanation": "'La sua scrittura amalgama influenze classiche e moderniste'. Implica una fusión profunda donde los elementos originales se integran sin distinción. Más sofisticado que 'mescolare' (mezclar superficialmente)."
+    },
+    {
+      "front": "circoscrivere",
+      "back": "circunscribir / delimitar / acotar",
+      "reading": "/tʃirkoskˈrivere/",
+      "explanation": "'È importante circoscrivere il problema prima di affrontarlo'. Indica la operación intelectual de definir los límites de un concepto o situación. Muy usado en textos académicos y jurídicos."
+    },
+    {
+      "front": "corroborare",
+      "back": "corroborar / reforzar / confirmar con evidencias",
+      "reading": "/korro'borare/",
+      "explanation": "'Le nuove prove corroborano la tesi già formulata'. Del latín 'corroborare' (fortalecer). En italiano académico-jurídico es el verbo estándar para indicar que una evidencia confirma una hipótesis."
+    },
+    {
+      "front": "esacerbare",
+      "back": "exacerbar / agravar / irritar",
+      "reading": "/ezatʃerˈbare/",
+      "explanation": "'Quelle parole non fecero che esacerbare il conflitto'. Implica empeorar algo que ya estaba mal. Diferencia con 'acuire': 'esacerbare' tiene connotación de irritación/provocación; 'acuire' de simple agudización."
+    },
+    {
+      "front": "inficiare",
+      "back": "invalidar / comprometer la validez de / contaminar",
+      "reading": "/infiˈtʃare/",
+      "explanation": "'Un solo errore metodologico ha inficiato l'intera ricerca'. Término de uso jurídico y académico: inficiare un contratto, inficiare un ragionamento. Implica que un elemento compromete la validez del todo."
+    },
+    {
+      "front": "legittimare",
+      "back": "legitimar / dar legitimidad a",
+      "reading": "/ledʒittiˈmare/",
+      "explanation": "'Le elezioni democratiche legittimano il potere dei governanti'. En política, derecho y filosofía: el proceso por el que una autoridad o acción adquiere reconocimiento válido. Nominale: legittimazione."
+    },
+    {
+      "front": "mitigare",
+      "back": "mitigar / atenuar / suavizar",
+      "reading": "/mitiˈgare/",
+      "explanation": "'Alcune misure possono mitigare l'impatto del cambiamento climatico'. Atenuar sin eliminar completamente. Muy frecuente en textos sobre políticas públicas, medioambiente y conflictos."
+    },
+    {
+      "front": "obliterare",
+      "back": "obliterar / borrar completamente / destruir",
+      "reading": "/obliteˈrare/",
+      "explanation": "'Secoli di colonizzazione hanno obliterato culture intere'. En lenguaje corriente: 'obliterare un biglietto' = picar/compostar un billete. En sentido figurado: borrar completamente de la memoria o existencia."
+    },
+    {
+      "front": "stigmatizzare",
+      "back": "estigmatizar / condenar públicamente",
+      "reading": "/stigmatidˈdzare/",
+      "explanation": "'La società tende a stigmatizzare chi è diverso dalla norma'. Aplicar un estigma social negativo a una persona o grupo. Del griego 'stigma' (marca de infamia). Muy usado en discurso sociológico y de derechos."
+    },
+    {
+      "front": "vanificare",
+      "back": "frustrar / hacer vanos / echar por tierra",
+      "reading": "/vaniˈfikare/",
+      "explanation": "'Un solo errore ha vanificato mesi di lavoro'. Hacer que algo quede sin efecto, que los esfuerzos sean vanos. Sinónimos aproximados: 'frustrare', 'annullare'. Pero 'vanificare' implica que el esfuerzo previo fue real y relevante."
+    },
+    {
+      "front": "travisare",
+      "back": "tergiversar / distorsionar / malinterpretar deliberadamente",
+      "reading": "/traviˈzare/",
+      "explanation": "'Hai travisato completamente le mie parole'. Implica intencionalidad en la distorsión (a diferencia de 'fraintendere' = malentender sin intención). 'Mi ha travisato' = torció el sentido de mis palabras."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Verbos de intensificación y fusión",
+      "instruction": "Los primeros cuatro verbos (acuire, amalgamare, circoscrivere, corroborare) expresan operaciones intelectuales precisas: agudizar, fusionar, delimitar, confirmar. Son los verbos del análisis académico. Observa cómo cada uno define una operación específica que el vocabulario básico no puede expresar con la misma precisión.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "El verbo correcto",
+      "instruction": "Elige el verbo más preciso para cada contexto. Atención: varios verbos pueden parecer sinónimos pero tienen matices diferentes.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Verbos de acción negativa o correctiva",
+      "instruction": "Los siguientes verbos (esacerbare, inficiare, legittimare, mitigare, obliterare, stigmatizzare, vanificare, travisare) son esenciales para discurso político, jurídico y académico. Aparecen constantemente en el periodismo de calidad italiano.",
+      "itemIndices": [4, 5, 6, 7, 8, 9, 10, 11]
+    },
+    {
+      "type": "recall",
+      "title": "Traducción activa",
+      "instruction": "Ves la traducción en español. Escribe el verbo italiano correspondiente. Atención a los que son falsos cognados parciales.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Qué verbo encaja?",
+      "instruction": "Lee la oración con su contexto y elige el verbo que produce el matiz correcto.",
+      "itemIndices": [4, 5, 7, 10, 11]
+    },
+    {
+      "type": "summary",
+      "title": "12 verbos sofisticados — dominados",
+      "instruction": "Estos verbos son marcadores de nivel avanzado. Para activarlos en tu habla: (1) léelos en contexto en artículos de Repubblica, Corriere, Sole 24 Ore. (2) Úsalos al escribir análisis o comentarios. (3) En conversación académica, uno de estos verbos vale más que cinco perífrasis. La próxima lección: las expresiones idiomáticas I.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+    }
+  ]
+}

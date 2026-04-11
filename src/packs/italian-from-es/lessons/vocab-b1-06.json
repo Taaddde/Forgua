@@ -1,0 +1,107 @@
+{
+  "id": "vocab-b1-06",
+  "title": "L'economia",
+  "description": "Los fundamentos del vocabulario económico en italiano: mercados, comercio, banca e inflación.",
+  "level": "b1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "l'economia",
+      "back": "la economía",
+      "reading": "",
+      "explanation": "'Economia nazionale/mondiale' = economía nacional/mundial. 'Fare economia' = ahorrar. 'Economico/a' = económico/barato. ¡Atención! 'È economico' = es barato (no solo 'es económico')."
+    },
+    {
+      "front": "il mercato",
+      "back": "el mercado",
+      "reading": "",
+      "explanation": "'Mercato del lavoro' = mercado laboral. 'Mercato immobiliare' = mercado inmobiliario. 'Mercato rionale' = mercado de barrio (comida/productos). 'Economia di mercato' = economía de mercado."
+    },
+    {
+      "front": "l'investimento",
+      "back": "la inversión",
+      "reading": "",
+      "explanation": "'Fare un investimento' = hacer una inversión. 'Investire' = invertir (también: atropellar a alguien — ¡cuidado con el contexto!). 'Investitore/investitrice' = inversor/a."
+    },
+    {
+      "front": "la produzione",
+      "back": "la producción",
+      "reading": "",
+      "explanation": "'Produzione industriale/agricola' = producción industrial/agrícola. 'Produttore/produttrice' = productor/a. 'Produrre' = producir. 'Made in Italy' es un concepto de marca muy fuerte."
+    },
+    {
+      "front": "il commercio",
+      "back": "el comercio",
+      "reading": "",
+      "explanation": "'Commercio al dettaglio/all'ingrosso' = comercio minorista/mayorista. 'Commerciante' = comerciante. 'Commerciale' = comercial. 'Camera di Commercio' = Cámara de Comercio."
+    },
+    {
+      "front": "l'inflazione",
+      "back": "la inflación",
+      "reading": "",
+      "explanation": "'Tasso di inflazione' = tasa de inflación. 'Inflazione galoppante' = inflación galopante. 'Deflazione' = deflación. En 2022-2023 la inflazione è aumentata molto in Europa."
+    },
+    {
+      "front": "la banca",
+      "back": "el banco (institución financiera)",
+      "reading": "",
+      "explanation": "'Andare in banca' = ir al banco. 'Conto in banca / conto corrente' = cuenta bancaria. 'Bancario/a' = bancario/a. 'Banca centrale' = banco central. 'Bancomat' = cajero automático."
+    },
+    {
+      "front": "il prestito",
+      "back": "el préstamo",
+      "reading": "",
+      "explanation": "'Chiedere un prestito' = pedir un préstamo. 'Concedere un prestito' = conceder un préstamo. 'Prestito bancario' = préstamo bancario. Verbo: 'prestare' (prestar)."
+    },
+    {
+      "front": "il debito",
+      "back": "la deuda",
+      "reading": "",
+      "explanation": "'Debito pubblico' = deuda pública. 'Essere in debito' = estar en deuda. 'Debito di riconoscenza' = deuda de gratitud. 'Debitore/debitrice' = deudor/a."
+    },
+    {
+      "front": "il consumo",
+      "back": "el consumo",
+      "reading": "",
+      "explanation": "'Consumo energetico' = consumo energético. 'Consumismo' = consumismo. 'Consumatore/consumatrice' = consumidor/a. 'Beni di consumo' = bienes de consumo."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Macroeconomía",
+      "instruction": "Los conceptos económicos fundamentales. Nota: 'economico' puede significar 'barato' — 'un hotel economico' = un hotel barato.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Comercio y banca",
+      "instruction": "Para hablar de transacciones financieras. 'Bancomat' en Italia = cajero automático (ATM).",
+      "itemIndices": [4, 5, 6]
+    },
+    {
+      "type": "introduce",
+      "title": "Deuda y consumo",
+      "instruction": "'Debito' es siempre masculino en italiano (contrario al español 'la deuda'). 'Prestito' = préstamo (también se usa para 'préstamo de libros' de una biblioteca).",
+      "itemIndices": [7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "¿Economico = económico?",
+      "instruction": "¿Qué significa 'questo hotel è molto economico' en italiano?",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "recall",
+      "title": "Banca e finanze",
+      "instruction": "Traducí al español.",
+      "itemIndices": [5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "Resumen: L'economia",
+      "instruction": "'Economico' = barato/económico (¡doble sentido!). 'Bancomat' = cajero automático. 'Investire' = invertir PERO también = atropellar. Este vocabulario te permite leer noticias económicas italianas.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

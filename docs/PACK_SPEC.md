@@ -4,6 +4,8 @@ This document defines the structure, schemas, and rules for Forgua Language Pack
 
 **No code required.** Pack contributors only write JSON.
 
+> **Related:** See [EXERCISES_SPEC.md](EXERCISES_SPEC.md) for the full specification of lessons, lesson steps, and SRS exercises — the layer that orchestrates this content into a learning experience.
+
 ## Pack Structure
 
 ```
@@ -19,9 +21,16 @@ src/packs/<language-id>/
       <level>.json           Characters grouped by level (e.g. kanji/n5.json)
   readings/
     <level>.json             Reading passages per level
+  conversations/
+    <level>.json             Guided conversation scripts per level
+  lessons/
+    index.json               Index of all lessons (order, prerequisites, metadata)
+    <id>.json                One lesson per file (steps, items, cardRefs)
   roadmaps.json              Optional -- study roadmaps (intensive, standard, casual)
   resources.json             Optional -- recommended external resources
 ```
+
+The content files (`vocabulary/`, `grammar/`, `characters/`, `readings/`, `conversations/`) define the raw learning data. The `lessons/` directory assembles that data into structured study sessions. See [EXERCISES_SPEC.md](EXERCISES_SPEC.md) for the full lesson and exercise schema.
 
 ### Example: Japanese Pack
 
@@ -47,7 +56,39 @@ src/packs/japanese/
     n5.json
     n4.json
     n3.json
+  conversations/
+    n5.json
+    n4.json
+  lessons/
+    index.json
+    hiragana-01.json
+    vocab-n5-01.json
+    grammar-n5-01.json
   roadmaps.json
+  resources.json
+```
+
+### Example: Spanish Pack (CEFR levels)
+
+```
+src/packs/spanish-from-en/
+  manifest.json
+  vocabulary/
+    a1.json
+    a2.json
+    b1.json
+  grammar/
+    a1.json
+    a2.json
+  readings/
+    a1.json
+    a2.json
+  conversations/
+    a1.json
+  lessons/
+    index.json
+    vocab-a1-01.json
+    grammar-a1-01.json
   resources.json
 ```
 
@@ -406,12 +447,13 @@ File: `resources.json` -- an array of recommended external resources.
 
 1. Create a directory: `src/packs/<language-id>/`
 2. Write `manifest.json` following the schema above
-3. Add content files in the appropriate subdirectories
-4. Validate your pack:
+3. Add content files in the appropriate subdirectories (`vocabulary/`, `grammar/`, `characters/`, `readings/`)
+4. Add lessons in `lessons/` that reference your content — see [EXERCISES_SPEC.md](EXERCISES_SPEC.md)
+5. Validate your pack:
    ```bash
    npm run validate-pack -- --pack src/packs/<language-id>
    ```
-5. Submit a pull request
+6. Submit a pull request
 
 ### Naming Conventions
 

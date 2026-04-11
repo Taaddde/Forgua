@@ -1,0 +1,107 @@
+{
+  "id": "vocab-a2-11",
+  "title": "La casa II — Mobili e faccende",
+  "description": "Vocabulario avanzado del hogar: muebles, habitaciones específicas y las tareas domésticas. Construye sobre lo que aprendiste en A1.",
+  "level": "a2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "il soggiorno / il salotto",
+      "back": "el salón / la sala de estar",
+      "reading": "",
+      "explanation": "Soggiorno = salón más formal. Salotto = salón más acogedor/pequeño. 'Guardare la TV in soggiorno' = ver la tele en el salón."
+    },
+    {
+      "front": "la camera da letto",
+      "back": "el dormitorio / la habitación",
+      "reading": "",
+      "explanation": "Literalmente: la habitación de dormir. 'La camera degli ospiti' = la habitación de invitados. 'Fare il letto' = hacer la cama."
+    },
+    {
+      "front": "il divano / la poltrona",
+      "back": "el sofá / el sillón",
+      "reading": "",
+      "explanation": "'Sedersi sul divano' = sentarse en el sofá. 'Poltrona' = sillón individual. 'Il divano letto' = el sofá cama."
+    },
+    {
+      "front": "l'armadio / il cassettone",
+      "back": "el armario / la cómoda",
+      "reading": "",
+      "explanation": "Armadio = armario empotrado o de pie. Cassettone = cómoda con cajones. 'Mettere i vestiti nell'armadio.' = Guardar la ropa en el armario."
+    },
+    {
+      "front": "il frigorifero / il forno",
+      "back": "el refrigerador / el horno",
+      "reading": "",
+      "explanation": "Electrodomésticos de cocina. Coloquial: 'il frigo'. 'Il forno a microonde' = el microondas. 'La lavatrice' = la lavadora."
+    },
+    {
+      "front": "fare le pulizie",
+      "back": "hacer la limpieza",
+      "reading": "",
+      "explanation": "Expresión completa para la limpieza del hogar. 'Devo fare le pulizie di casa.' = Tengo que limpiar la casa."
+    },
+    {
+      "front": "lavare i piatti / passare l'aspirapolvere",
+      "back": "lavar los platos / pasar la aspiradora",
+      "reading": "",
+      "explanation": "'Lavare i piatti' = fregar. 'Passare l'aspirapolvere' = pasar la aspiradora. 'Fare la lavatrice' = poner la lavadora."
+    },
+    {
+      "front": "stirare / fare il bucato",
+      "back": "planchar / hacer la colada",
+      "reading": "",
+      "explanation": "'Stirare le camicie' = planchar las camisas. 'Il ferro da stiro' = la plancha. 'Fare il bucato' = hacer la colada."
+    },
+    {
+      "front": "in affitto / di proprietà",
+      "back": "en alquiler / en propiedad",
+      "reading": "",
+      "explanation": "'Abito in affitto' = Vivo de alquiler. 'Ho comprato casa' = Compré una casa (de propiedad). 'L'affitto' = el alquiler (precio mensual)."
+    },
+    {
+      "front": "il condominio / il palazzo",
+      "back": "el edificio de apartamentos / el edificio",
+      "reading": "",
+      "explanation": "Condominio = edificio de apartamentos con zonas comunes. Palazzo = edificio (histórico o moderno). 'Le spese condominiali' = los gastos de comunidad."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Habitaciones y muebles",
+      "instruction": "Vocabulario avanzado para describir tu casa en italiano.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se llama en italiano?",
+      "instruction": "Traduce el vocabulario del hogar.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "Las tareas de la casa",
+      "instruction": "Vocabulario para hablar de las tareas domésticas — ¡un tema de conversación muy real!",
+      "itemIndices": [5, 6, 7]
+    },
+    {
+      "type": "introduce",
+      "title": "Tipos de vivienda",
+      "instruction": "Vocabulario para describir el tipo de vivienda.",
+      "itemIndices": [8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "La casa — vocabulario completo",
+      "instruction": "Practica todo el vocabulario del hogar.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "La casa II — consolidado",
+      "instruction": "Expresiones importantes: 'fare le pulizie' (limpiar la casa), 'fare il bucato' (hacer la colada), 'fare il letto' (hacer la cama). El verbo 'fare' se usa para muchas tareas domésticas.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

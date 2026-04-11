@@ -1,0 +1,89 @@
+{
+  "id": "reading-c2-01",
+  "title": "Le città invisibili: il catalogo dell'impossibile",
+  "description": "Texto literario C2. Análisis de un fragmento al estilo de 'Le città invisibili' de Italo Calvino (1972). Vocabulario estético-filosófico de altísima densidad. Práctica de lectura crítica literaria al más alto nivel: intertextualidad, análisis de la poetica calviniana, filosofía del lenguaje.",
+  "level": "c2",
+  "category": "reading",
+  "items": [
+    {
+      "front": "Marco Polo descrive a Kublai Kan una città che esiste soltanto nella misura in cui si decide di credervi.",
+      "back": "El incipit del fragmento: la ciudad existe condicionalmente — en la medida en que se decide creer en ella.",
+      "reading": "",
+      "explanation": "La condición 'nella misura in cui si decide di credervi' es filosóficamente radical: la ciudad no tiene existencia objetiva, sino existencia consensual, performativa. Es una declaración sobre la naturaleza del lenguaje: las ciudades de Calvino son construcciones linguistiche, no realtà geographiche. Eco del nominalismo medieval."
+    },
+    {
+      "front": "intessuto",
+      "back": "tejido / entretejido — participio passato de 'intessere'",
+      "reading": "/inˈtɛssuto/",
+      "explanation": "'Un tappeto intessuto con figure geometriche'. Calvino usa este término técnico para el tapiz, pero también metafóricamente para la struttura narrativa de la novela misma. Le città invisibili está 'intessuta' de relazioni tra le cose, non di fatti. El tejido como metáfora del testo letterario."
+    },
+    {
+      "front": "«Bisogna sapere dove guardare. Non nelle strade o nelle piazze, ma nelle relazioni tra le cose.»",
+      "back": "La poetica strutturalista di Calvino: il significato non è nelle cose singole ma nelle relazioni.",
+      "reading": "",
+      "explanation": "Esta frase es la clave de lectura de tutto Le città invisibili. El custode del tempio enuncia la poetica di Calvino: il significato non è nelle cose (le strade, le piazze) ma nelle relazioni entre ellas (l'angolo che la via forma con quella del barbiere). Eco del pensiero strutturalista (Saussure, Lévi-Strauss): el significato è differenziale."
+    },
+    {
+      "front": "«Kublai Kan: 'Allora, nessuna città è comprensibile.' Marco: 'Tutte le città sono comprensibili, ma solo dalla posizione di una città che non esiste ancora.'»",
+      "back": "La dialettica finale: nihilismo conoscitivo (Kublai) vs ottimismo utopico (Marco).",
+      "reading": "",
+      "explanation": "Kublai trae una conclusión nichilista: si ningún sistema la representa adecuadamente, ninguna ciudad es comprensible. Marco corrige: las ciudades SÍ son comprensibles, pero no desde dentro de la historia (el presente), sino desde una prospettiva utopica (lo que no existe todavía). Es la dialéctica entre pesimismo gnoseológico y esperanza utópica."
+    },
+    {
+      "front": "Il tappeto è troppo ricco, troppo preciso — la città è troppo vaga, troppo ambigua.",
+      "back": "La tensión fundamental: el sistema de representación (mappa/tappeto/linguaggio) nunca coincide con la realtà.",
+      "reading": "",
+      "explanation": "'Vaga' ≠ 'ambigua' en Calvino: 'vaga' = sin contornos nítidos; 'ambigua' = que admite múltiples interpretaciones. La distinción léxica es deliberada. El tapiz (= el lenguaje, el mapa) es 'troppo preciso' (sistemático) pero la città (= la realtà) es 'troppo vaga' y 'troppo ambigua'. No se pueden corresponder perfectamente."
+    },
+    {
+      "front": "cartografico",
+      "back": "cartográfico / relativo a la cartografía — metáfora del lenguaje como mapa que nunca coincide con la realidad",
+      "reading": "/kartograˈfiko/",
+      "explanation": "En Calvino, il cartografico es siempre metáfora del lingüístico: los mapas, como las palabras, representan la realidad pero nunca son la realidad. Es la herencia de Wittgenstein ('el límite de mi lenguaje es el límite de mi mundo') y de Borges ('Del rigore nella scienza': el mapa grande como el imperio)."
+    },
+    {
+      "front": "«dalla posizione di una città che non esiste ancora» — l'utopia come condizione della comprensione",
+      "back": "La comprensión total requiere una perspectiva que no existe en el presente: la utopía como herramienta epistemológica.",
+      "reading": "",
+      "explanation": "Esta es la afirmación filosófica más audaz del fragmento: la comprensione totale de la realtà es posible solo desde un punto de vista que no existe (la città non ancora esistente = la utopía). Eco de Adorno: 'la verità è il momento della non-verità' — la comprensión requiere trascender el existente."
+    },
+    {
+      "front": "Borges: «Del rigore nella scienza» — la mappa grande come l'impero.",
+      "back": "Intertextualidad con Borges: en Calvino la mappa es 'troppo precisa', en Borges es 'grande come l'impero' — dos versiones del mismo problema.",
+      "reading": "",
+      "explanation": "In Borges: la mappa perfetta è inutile (troppo grande). In Calvino: la mappa (il tappeto) è più ricca della città (troppo precisa per una realtà vaga). Entrambi decostruiscono l'idea di rappresentazione neutrale. Ma Borges critica l'eccesso di rappresentazione; Calvino l'inadeguatezza reciproca tra simbolo e cosa."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Antes de leer: Calvino y la ciudad como construcción lingüística",
+      "instruction": "Le città invisibili (1972) es un catalogo di città immaginarie que Marco Polo describe a Kublai Kan. Cada ciudad es una construcción linguistica que explora un aspecto de la relación entre lenguaje y realidad, deseo y memoria. Este fragmento es de inspiración calviniana. La clave de lectura: cada elemento es una metáfora filosófica, no una descripción geográfica.",
+      "itemIndices": [0, 5]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Vocabulario literario de alta densidad",
+      "instruction": "En Calvino, cada elección léxica es precisión filosófica. Analiza los términos 'vaga' vs 'ambigua', 'cartografico', 'intessuto' — ¿por qué Calvino elige exactamente estas palabras y no sus sinónimos?",
+      "itemIndices": [1, 4, 5]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Análisis de la poetica calviniana",
+      "instruction": "Responde: (1) ¿Por qué los viajeros se sienten 'delusi' al buscar la correspondencia tappeto/città? (2) ¿Qué dice el custode del tempio sobre 'dove guardare'? (3) ¿Qué posición filosófica representa Kublai? ¿Y Marco? (4) ¿Qué es 'la città che non esiste ancora'?",
+      "itemIndices": [2, 3, 6]
+    },
+    {
+      "type": "recall",
+      "title": "Intertextualidad: Calvino y Borges",
+      "instruction": "Compara el uso de la mappa en Borges ('Del rigore nella scienza') y en este fragmento calviniano. ¿En qué coinciden? ¿En qué difieren? Argumenta en italiano.",
+      "itemIndices": [7]
+    },
+    {
+      "type": "summary",
+      "title": "Lectura literaria C2 — completada",
+      "instruction": "Conceptos filosóficos adquiridos: rappresentazione vs realtà, significato differenziale, utopia come strumento epistemologico. Análisis de la poetica calviniana: el significato non è nelle cose singole ma nelle relazioni entre ellas. Para profundizar: leer la introduzione di Calvino alle Città invisibili (el autor explica su metodo) y el saggio di Cesare Cases 'Calvino e il pathos della distanza'.",
+      "itemIndices": [0, 2, 3, 6, 7]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": "vocab-a2-12",
+  "title": "I mezzi di trasporto",
+  "description": "Vocabulario detallado de los medios de transporte en Italia. Desde el tren de alta velocidad hasta la bicicleta, aprende a moverte como un italiano.",
+  "level": "a2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "il treno / il Frecciarossa",
+      "back": "el tren / el tren de alta velocidad italiano",
+      "reading": "",
+      "explanation": "El Frecciarossa es el tren de alta velocidad italiano (Milano-Roma en ~3h). 'Prendere il treno' = coger/tomar el tren. 'Trenitalia' es la compañía principal."
+    },
+    {
+      "front": "la metropolitana / il metrò",
+      "back": "el metro / el subte",
+      "reading": "",
+      "explanation": "'Prendere la metro' = tomar el metro. Las ciudades con metro: Roma, Milano, Napoli. 'La fermata del metrò' = la parada de metro."
+    },
+    {
+      "front": "l'autobus / il pullman",
+      "back": "el autobús urbano / el autobús interurbano",
+      "reading": "",
+      "explanation": "Autobus = bus de ciudad. Pullman = autocar de larga distancia. 'Prendere l'autobus' = coger el autobús. 'La fermata' = la parada."
+    },
+    {
+      "front": "il taxi / il Uber",
+      "back": "el taxi / el Uber",
+      "reading": "",
+      "explanation": "'Chiamare un taxi' = pedir un taxi. 'Prendere un taxi' = coger un taxi. 'La corsa' = la carrera (precio del trayecto)."
+    },
+    {
+      "front": "la macchina / l'automobile",
+      "back": "el coche / el automóvil",
+      "reading": "",
+      "explanation": "Macchina es el término coloquial más usado (literalmente: máquina). 'Andare in macchina' = ir en coche. 'Guidare' = conducir/manejar."
+    },
+    {
+      "front": "la bicicletta / la bici",
+      "back": "la bicicleta / la bici",
+      "reading": "",
+      "explanation": "'Andare in bicicletta / in bici' = ir en bicicleta. 'Le piste ciclabili' = los carriles bici. Muchas ciudades italianas tienen bikesharing."
+    },
+    {
+      "front": "lo scooter / la moto",
+      "back": "el scooter / la moto",
+      "reading": "",
+      "explanation": "¡Muy italiano! La Vespa es el scooter más famoso del mundo. 'Girare in scooter' = recorrer en scooter. Muy común en Roma y Napoli."
+    },
+    {
+      "front": "il porto / il traghetto",
+      "back": "el puerto / el ferri",
+      "reading": "",
+      "explanation": "Puerto y ferri, esenciales para las islas italianas. 'Prendere il traghetto per la Sicilia' = coger el ferri para Sicilia."
+    },
+    {
+      "front": "noleggiare una macchina",
+      "back": "alquilar un coche",
+      "reading": "",
+      "explanation": "'Vorrei noleggiare una macchina per tre giorni.' = Quisiera alquilar un coche por tres días. 'Il noleggio' = el alquiler (de vehículos)."
+    },
+    {
+      "front": "il traffico / l'ingorgo",
+      "back": "el tráfico / el atasco",
+      "reading": "",
+      "explanation": "'C'è molto traffico' = hay mucho tráfico. 'Ingorgo' = atasco/embotellamiento. 'Roma è famosa per il traffico caotico.' = Roma es famosa por el tráfico caótico."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Transporte público",
+      "instruction": "Italia tiene un excelente sistema de transporte público. Aprende a usarlo.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Transporte privado",
+      "instruction": "Vehículos privados y alquiler de coches en Italia.",
+      "itemIndices": [4, 5, 6, 7, 8]
+    },
+    {
+      "type": "recall",
+      "title": "¿Qué medio de transporte?",
+      "instruction": "Traduce el vocabulario de transporte.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "introduce",
+      "title": "El tráfico",
+      "instruction": "Para hablar de los problemas de circulación.",
+      "itemIndices": [9]
+    },
+    {
+      "type": "recall",
+      "title": "I mezzi di trasporto — completo",
+      "instruction": "Practica todo el vocabulario de transporte.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "I trasporti — consolidado",
+      "instruction": "Verbos importantes: 'prendere' (coger/tomar), 'guidare' (conducir), 'noleggiare' (alquilar). Preposiciones: 'in macchina/bus/metro' pero 'a piedi' (a pie). Lo scooter es un símbolo icónico italiano.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

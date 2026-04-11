@@ -1,0 +1,101 @@
+{
+  "id": "vocab-c2-01",
+  "title": "Registro letterario e arcaismi",
+  "description": "El italiano literario clásico, de Dante a Leopardi, usa un léxico que se aleja del estándar moderno. Para leer textos literarios originales, comprender la crítica literaria italiana al más alto nivel y apreciar la prosa elevada, es imprescindible reconocer estos arcaísmos y sus equivalentes modernos.",
+  "level": "c2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "benché + congiuntivo",
+      "back": "aunque / si bien / por más que (conjunción literaria)",
+      "reading": "/benˈke/",
+      "explanation": "'Benché fosse stanco, continuò a lavorare fino all'alba.' Más formal que 'anche se'. SIEMPRE requiere subjuntivo (nunca indicativo). Es la conjunción concesiva del registro literario y académico. Alternatives: 'sebbene', 'quantunque', 'nonostante che'."
+    },
+    {
+      "front": "contuttociò",
+      "back": "a pesar de todo / con todo / sin embargo",
+      "reading": "/kontuttotˈʃɔ/",
+      "explanation": "'Contuttociò, il poeta non perse la speranza.' Forma arcaica y literaria. En prosa moderna se prefiere 'ciononostante' o 'tuttavia'. Reconocible en Manzoni y la prosa del Ottocento."
+    },
+    {
+      "front": "dianzi",
+      "back": "hace un momento / poco antes / recientemente",
+      "reading": "/ˈdjantsi/",
+      "explanation": "'Come dianzi si è detto, la questione è complessa.' Arcaísmo toscano. Equivalente a 'poco fa' en lenguaje contemporáneo. Aparece en textos del siglo XIX y anteriores. Leopardi lo usa con frecuencia."
+    },
+    {
+      "front": "eziandio",
+      "back": "también / asimismo / incluso",
+      "reading": "/etsjandˈio/",
+      "explanation": "'E eziandio voi, che leggete queste pagine, riflettete.' Forma arcaica de 'anche/inoltre'. Presente en textos del Duecento y Trecento. Manzoni lo usa en I Promessi Sposi. Reconocerlo es indispensable para la lectura de textos clásicos."
+    },
+    {
+      "front": "indi",
+      "back": "luego / después / de allí",
+      "reading": "/ˈindi/",
+      "explanation": "'«Indi si mosse e io li tenni dietro» — Dante, Inferno.' Arcaísmo dantesco y leopardiano. Equivale a 'poi/quindi/da lì'. Frecuente en la Divina Commedia. Su uso en prosa moderna marca registro muy elevado."
+    },
+    {
+      "front": "laddove",
+      "back": "donde / en el lugar donde / mientras que (adversativo)",
+      "reading": "/ladˈdove/",
+      "explanation": "'Laddove il contratto prevede silenzio, si applica la norma generale.' El uso adversativo ('laddove X, invece Y' = mientras que X, en cambio Y) es muy frecuente en italiano jurídico y académico moderno. No solo arcaico."
+    },
+    {
+      "front": "niuno",
+      "back": "ninguno / nadie (forma arcaica de 'nessuno')",
+      "reading": "/ˈnjuno/",
+      "explanation": "'«Niun maggior dolore che ricordarsi del tempo felice nella miseria» — Dante.' Presente en Leopardi, Manzoni y la poesía clásica. Hoy solo en textos literarios o como cita culta deliberada."
+    },
+    {
+      "front": "quivi / ivi",
+      "back": "allí / en ese lugar (arcaico y jurídico)",
+      "reading": "/ˈkwivi/ /ˈivi/",
+      "explanation": "'Quivi si fermò a meditare per lungo tempo.' / 'Cfr. ivi, cap. III, per un'analisi dettagliata.' 'Quivi' es literario; 'ivi' sobrevive en textos jurídicos y académicos como referencia cruzada ('v. ivi, p. 45')."
+    },
+    {
+      "front": "siccome (causal)",
+      "back": "puesto que / ya que / como (causal formal/arcaico)",
+      "reading": "/sikˈkome/",
+      "explanation": "'Siccome le circostanze lo richiedevano, decise di intervenire.' Uso causal literario. En lenguaje moderno prevalece 'poiché/dato che'. Atención: 'siccome' en el habla también puede significar 'como' comparativo (uso dialectal)."
+    },
+    {
+      "front": "viepiù",
+      "back": "cada vez más / aún más",
+      "reading": "/vjeˈpju/",
+      "explanation": "'Il paesaggio diventava viepiù desolato all'avanzare dell'inverno.' Arcaísmo elegante. Equivale a 'sempre più'. Presente en Leopardi y en prosa alta del Ottocento. Su uso hoy sería afectado salvo en contexto literario deliberado."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El léxico del italiano clásico",
+      "instruction": "El italiano literario del Ottocento y anterior usa un vocabulario que hoy resulta arcaico en el habla pero que es imprescindible para leer textos originales de Dante, Leopardi, Manzoni y la tradición clásica. Estos no son 'errores' ni raridades: son las formas estándar de una lengua con siglos de escritura continua.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Arcaísmo o registro especial?",
+      "instruction": "Algunos de estos términos son puramente arcaicos (solo en textos literarios); otros sobreviven en registro jurídico o académico moderno. Lee cada ejemplo e identifica en qué contexto contemporáneo se usaría cada término.",
+      "itemIndices": [5, 6, 7, 8, 9]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "El término literario correcto",
+      "instruction": "Completa las citas literarias con el término arcaico correcto. Estos fragmentos proceden de Dante, Leopardi y Manzoni.",
+      "itemIndices": [3, 4, 6, 9]
+    },
+    {
+      "type": "recall",
+      "title": "Arcaísmo → moderno equivalente",
+      "instruction": "Para cada arcaísmo, escribe su equivalente en italiano moderno. Esta es la habilidad del lector de textos clásicos: traducir mentalmente de registro a registro.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "El léxico arcaico — herramienta de lectura",
+      "instruction": "Estos términos no son para producir (salvo en ensayos deliberadamente estilizados), sino para reconocer. Lectura recomendada: los primeros cantes del Inferno de Dante, las canzoni de Leopardi (L'Infinito, A Silvia), el capítulo I de I Promessi Sposi. Todos estos términos aparecerán.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

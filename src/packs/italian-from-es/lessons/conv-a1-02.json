@@ -1,0 +1,89 @@
+{
+  "id": "conv-a1-02",
+  "title": "Conversazione: Al bar",
+  "description": "El bar italiano es el corazón social de Italia. Aquí aprendés cómo pedir en el mostrador, ordenar café y otras bebidas, pagar y usar las fórmulas sociales del bar. Una de las experiencias más italianas.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Un caffè, per favore. / Due caffè, per favore.",
+      "back": "Un café, por favor. / Dos cafés, por favor.",
+      "reading": "",
+      "explanation": "En el bar italiano, el café se pide así: 'Un caffè' = un espresso solo. 'Un caffè macchiato' = espresso con un chorrito de leche. 'Un caffellatte' o 'un latte' = café con leche. 'Un cappuccino' = cappuccino (solo en el desayuno — pedir cappuccino después del almuerzo te delata como turista). 'Per favore' = por favor (sempre)."
+    },
+    {
+      "front": "Prendo un cappuccino e un cornetto.",
+      "back": "Tomo un cappuccino y una medialuna.",
+      "reading": "",
+      "explanation": "'Prendo' = tomo/pido (en el bar, 'prendere' es el verbo para pedir). 'Un cornetto' = una medialuna/croissant. El desayuno típico italiano al bar: cappuccino + cornetto. 'Prendo' es más directo y natural que 'vorrei', aunque ambos se usan."
+    },
+    {
+      "front": "Vorrei un'acqua minerale e un succo di frutta.",
+      "back": "Quisiera un agua mineral y un jugo de fruta.",
+      "reading": "",
+      "explanation": "'Vorrei' = quisiera (condicional de volere, más cortés). 'Un'acqua minerale' = un agua mineral. 'Naturale' = sin gas, 'frizzante' = con gas. 'Un succo di frutta' = un jugo de fruta. 'Un succo d'arancia' = un jugo de naranja."
+    },
+    {
+      "front": "Quant'è? / Quanto viene?",
+      "back": "¿Cuánto es? / ¿Cuánto sale?",
+      "reading": "",
+      "explanation": "'Quant'è?' = ¿cuánto es? (cuanto + è = quant'è, apostrofación). 'Quanto viene?' = ¿cuánto sale? (muy coloquial). Otras opciones: 'Il conto, per favore' (la cuenta, por favor), 'Pago io' (pago yo), 'Offro io' (invito yo). Muy fácil — el barista siempre te dice el precio."
+    },
+    {
+      "front": "Si paga alla cassa.",
+      "back": "Se paga en la caja.",
+      "reading": "",
+      "explanation": "En muchos bares italianos (especialmente en el sur y en bares de aeropuertos/museos) hay que pagar PRIMERO en la caja ('la cassa') y luego mostrar el scontrino (ticket) al barista. 'Devo pagare prima alla cassa?' = ¿Tengo que pagar primero en la caja? Pregunta útil para evitar confusiones."
+    },
+    {
+      "front": "— Buongiorno!\n— Buongiorno! Cosa prende?\n— Un cappuccino e un cornetto, grazie.\n— Vuole il cornetto semplice o con crema?\n— Con crema, per favore.\n— Ecco a lei. Sono due euro e cinquanta.\n— Grazie! Buona giornata!\n— Prego, arrivederci!",
+      "back": "— ¡Buenos días!\n— ¡Buenos días! ¿Qué toma?\n— Un cappuccino y una medialuna, gracias.\n— ¿Quiere la medialuna simple o con crema?\n— Con crema, por favor.\n— Aquí tiene. Son dos euros y cincuenta.\n— ¡Gracias! ¡Que tenga buen día!\n— De nada, ¡hasta luego!",
+      "reading": "",
+      "explanation": "Diálogo completo al bar. 'Cosa prende?' = ¿Qué toma? (forma cortés). 'Vuole' = ¿quiere? (formal, 3ª sing. di volere). 'Ecco a lei' = aquí tiene usted (muy formal). 'Buona giornata!' = que tenga buen día (respuesta: 'grazie, anche a lei!'). 'Prego' = de nada."
+    },
+    {
+      "front": "Al banco vs Al tavolo — al mostrador vs en la mesa",
+      "back": "Diferencia de precio y costumbre: barra vs mesa",
+      "reading": "",
+      "explanation": "En Italia, tomar el café AL BANCO (en el mostrador) es más barato que Al TAVOLO (en la mesa, con servicio). Un espresso al banco: 1-1,50€. Al tavolo puede costar el doble o más. Los italianos típicamente beben el café parados en el mostrador en 2-3 minutos. Es parte de la cultura del bar italiano."
+    },
+    {
+      "front": "Fórmulas del bar: Buongiorno! / Grazie! / Prego! / Arrivederci! / Buona giornata!",
+      "back": "¡Buenos días! / ¡Gracias! / ¡De nada! / ¡Hasta luego! / ¡Que tenga buen día!",
+      "reading": "",
+      "explanation": "Las fórmulas sociales del bar son esenciales. 'Buongiorno' hasta el mediodía, 'Buonasera' a partir de las 13-14h. 'Prego' = de nada / por favor / aquí tiene (múltiples usos). 'Arrivederci' = hasta luego (formal). 'Ciao' = hola/chau (informal, con personas de confianza). 'Buona giornata/serata!' = que tenga buen día/noche."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El bar italiano: cómo pedir",
+      "instruction": "En el bar italiano se usa 'prendere' o 'vorrei' para pedir. El café = espresso solo. 'Prendo un caffè' o 'Vorrei un cappuccino'. Recordá: cappuccino solo en el desayuno (regla cultural).",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Pagar, costumbres y fórmulas sociales",
+      "instruction": "Pagar: Quant'è? / Quanto viene? A veces hay que pagar primero en la caja. Al banco = más barato que al tavolo. Fórmulas: Buongiorno, Prego, Arrivederci, Buona giornata.",
+      "itemIndices": [3, 4, 6, 7]
+    },
+    {
+      "type": "conversation-script",
+      "title": "Un diálogo real en el bar",
+      "instruction": "Practicá el diálogo completo. Primero el rol del cliente, luego el del barista. Intentá memorizarlo.",
+      "itemIndices": [5]
+    },
+    {
+      "type": "speak",
+      "title": "Pedí en el bar italiano",
+      "instruction": "Imaginá que entrás a un bar italiano. Pedí tu desayuno completo: el tipo de café que querés y algo para comer. Preguntá el precio. Usá las fórmulas de cortesía.",
+      "itemIndices": [0, 1, 2, 3, 7]
+    },
+    {
+      "type": "summary",
+      "title": "¡El bar italiano: dominado!",
+      "instruction": "Vocabulario del bar: caffè (espresso), cappuccino (solo desayuno), cornetto (medialuna), acqua naturale/frizzante, succo di frutta. Pedir: Un caffè, per favore / Prendo... / Vorrei... Pagar: Quant'è? / Quanto viene? Cultura: al banco = más barato que al tavolo. Fórmulas: Buongiorno! / Grazie! / Prego! / Arrivederci! / Buona giornata!",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

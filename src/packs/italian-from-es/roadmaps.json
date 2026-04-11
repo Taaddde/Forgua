@@ -1,0 +1,432 @@
+[
+  {
+    "id": "intensive",
+    "name": "Ruta Intensiva",
+    "type": "intensive",
+    "description": "Para quienes dedican más de 3 horas diarias. Objetivo: alcanzar C1 en ~12-15 meses. VENTAJA DEL HISPANOHABLANTE: El italiano y el español tienen 80-85% de similitud léxica (EF Edu Research). Un hispanohablante puede llegar a A2-B1 en la mitad del tiempo que le toma a un angloparlante. Según datos FSI, el italiano requiere solo ~150-200 horas para llegar a B1 desde el español (vs. 600-750 horas desde el inglés). Esta ruta aprovecha al máximo ese punto de partida privilegiado.",
+    "phases": [
+      {
+        "name": "A1 — Cimientos italianos",
+        "duration": "3 semanas",
+        "level": "a1",
+        "content": "Gramática esencial: essere y avere en presente, artículos determinados (il/lo/la/i/gli/le) e indeterminados (un/uno/una), verbos regulares en -are/-ere/-ire en presente, verbos irregulares esenciales (andare, fare, venire, stare, volere, potere, dovere), género y número de sustantivos y adjetivos, adjetivos posesivos, preposizioni semplici y articolate (di/a/da/in/con/su/per), c'è/ci sono, numeros 1-1000, giorni della settimana, mesi dell'anno. Vocabulario: 400 palabras (saluti, famiglia, casa, cibo, colori, professioni, corpo umano, animali). Pronunciación: consonantes dobles (palla/pala, notte/note, anno/ano — diferencia crítica), vocal abierta /ɛ/ vs cerrada /e/, vocal abierta /ɔ/ vs cerrada /o/, grupos gl/gn (figlio, gnocchi), /ts/ vs /dz/ (marzo, zero), c/ch y g/gh antes de e/i. VENTAJA: el español ya tiene las vocales puras y muchos de estos fonemas.",
+        "dailyGoal": "3-4 horas: 1h gramática (Nuovo Espresso 1 + Assimil), 1h vocabulario SRS (Anki), 30min lectura graduada, 30min pronunciación (Forvo + audio Nuovo Espresso)",
+        "actions": [
+          {
+            "label": "Empezar lecciones",
+            "route": "/lessons",
+            "variant": "primary"
+          }
+        ],
+        "milestones": [
+          "Presentarse y hacer preguntas básicas en italiano",
+          "Dominar las consonantes dobles: distinguir palla/pala, notte/note al escuchar",
+          "Leer textos de 50-80 palabras sin diccionario",
+          {
+            "text": "400 palabras activas en SRS",
+            "type": "srs_learned",
+            "target": 400,
+            "level": "a1"
+          }
+        ]
+      },
+      {
+        "name": "A2 — Comunicación cotidiana",
+        "duration": "4 semanas",
+        "level": "a2",
+        "content": "Gramática: passato prossimo (auxiliar essere vs avere — el error más frecuente de hispanohablantes), participio passato regular e irregular, imperfetto indicativo, verbi riflessivi, pronomi diretti (lo/la/li/le) e indiretti (mi/ti/gli/le/ci/vi), comparativo e superlativo, futuro semplice, condizionale semplice intro, preposizioni con i verbi di movimento. Vocabulario: 800-1000 palabras acumuladas (viaggi, ristorante, acquisti, salute, tempo libero). DESAFÍO PARA HISPANOHABLANTES: la elección entre essere y avere como auxiliar (los verbos de movimiento y stato usan essere: sono andato, non ho andato — error típico). Pronunciación: intonazione della domanda italiana vs española, ritmo sillábico.",
+        "dailyGoal": "3-4 horas: 1h gramática (Assimil lecciones 30-60 + Nuovo Espresso 2), 1h SRS vocabulario, 45min escucha (Coffee Break Italian temporada 1), 15min lectura",
+        "actions": [
+          {
+            "label": "Repasar tarjetas",
+            "route": "/study",
+            "variant": "primary"
+          },
+          {
+            "label": "Nuevas lecciones",
+            "route": "/lessons",
+            "variant": "secondary"
+          }
+        ],
+        "milestones": [
+          "Usar essere/avere como auxiliar sin cometer errores sistemáticos",
+          "Narrar experiencias pasadas en passato prossimo",
+          "Entender conversaciones cotidianas en Italian podcasts para principiantes",
+          {
+            "text": "900 palabras activas en SRS",
+            "type": "srs_learned",
+            "target": 900,
+            "level": "a2"
+          }
+        ]
+      },
+      {
+        "name": "B1 — Usuario independiente",
+        "duration": "8 semanas",
+        "level": "b1",
+        "content": "Gramática: congiuntivo presente (penso che sia, spero che venga — más extendido que en español), trapassato prossimo, periodo ipotetico della realtà (se + indicativo + futuro), voce passiva (essere + participio), pronomi combinati (me lo dai?), ci e ne con valori diversi, gerundio e participio come proposizioni implicite, connettivi di causa/conseguenza/concessione (poiché, perciò, nonostante, benché + cong.). Vocabulario: 1500-2000 palabras. AVISO: el congiuntivo italiano se usa MUCHO más que el subjuntivo en español coloquial — los hispanohablantes tienden a subestimarlo. Pronunciación: gruppi consonantici complessi, scempiamento delle doppie nel parlato veloce.",
+        "dailyGoal": "3-4 horas: 45min gramática, 45min SRS, 1h inmersión (Simple Italian Podcast + News in Slow Italian nivel beginners), 30min producción escrita",
+        "actions": [
+          {
+            "label": "Repasar tarjetas",
+            "route": "/study",
+            "variant": "primary"
+          },
+          {
+            "label": "Nuevas lecciones",
+            "route": "/lessons",
+            "variant": "secondary"
+          }
+        ],
+        "milestones": [
+          "Usar el congiuntivo presente correctamente en contextos de duda, emoción y opinión",
+          "Entender Simple Italian Podcast sin transcripción",
+          "Mantener conversaciones de 15+ minutos sobre temas conocidos",
+          "Escribir textos de 150+ palabras estructurados",
+          {
+            "text": "1800 palabras activas en SRS",
+            "type": "srs_learned",
+            "target": 1800,
+            "level": "b1"
+          }
+        ]
+      },
+      {
+        "name": "B2 — Soltura y profundidad",
+        "duration": "10 semanas",
+        "level": "b2",
+        "content": "Gramática: congiuntivo imperfetto y trapassato (fossi, avessi fatto), periodo ipotetico della possibilità e dell'impossibilità (se avessi tempo, verrei), discorso indiretto con concordanza dei tempi, proposizioni relative con cui/il quale/del quale, costruzioni participiali e gerundiali avanzate, registro formale vs informale (Lei vs tu, congiuntivo di cortesia). Vocabulario: 2500-3500 palabras + colocaciones (fare una domanda, prendere una decisione). FALSOS AMIGOS CLAVE: burro (mantequilla), preservare (conservar), libreria (librería/estantería), camera (habitación), parente (familiar, no padre). Lectura: artículos de La Repubblica, Il Corriere della Sera, novelas adaptadas.",
+        "dailyGoal": "3-4 horas: 30min gramática refinamiento, 45min SRS, 1h30 inmersión real (RaiPlay, News in Slow Italian intermedios, lectura periódicos), 15min escritura",
+        "actions": [
+          {
+            "label": "Repasar tarjetas",
+            "route": "/study",
+            "variant": "primary"
+          }
+        ],
+        "milestones": [
+          "Usar congiuntivo imperfetto y periodo ipotetico con fluidez natural",
+          "Entender News in Slow Italian nivel intermedio sin dificultad",
+          "Leer artículos de prensa italiana con ayuda mínima del diccionario",
+          "Mantener conversaciones fluidas con nativos sobre temas variados",
+          {
+            "text": "3000 palabras activas en SRS",
+            "type": "srs_learned",
+            "target": 3000,
+            "level": "b2"
+          }
+        ]
+      },
+      {
+        "name": "C1 — Dominio operativo",
+        "duration": "14 semanas",
+        "level": "c1",
+        "content": "Gramática: passato remoto vs imperfetto vs trapassato en narrativa, periodo ipotetico misto (se avesse studiato, sarebbe diverso oggi), costruzione assoluta (arrivato lui, tutti si alzarono), congiuntivo con valore ottativo e dubitativo, inversione sintattica, nominalizzazioni formali. Vocabolario: 4500-6000 palabras + fraseologia (stare sulle spine, fare il gioco di qualcuno, prendere fischi per fiaschi). Lectura: Calvino, Moravia, Eco, Tabucchi. Escucha: RaiPlay series, programas culturali (Quante storie, Passato e Presente). Registro: variación diatópica (accenti regionali), diafásico (colloquiale vs formale), diastratico.",
+        "dailyGoal": "3-4 horas: 20% estudio formal (gramática C1, expresiones idiomáticas), 80% inmersión real — lectura literaria, televisión italiana, podcasts avanzados, escritura creativa",
+        "actions": [
+          {
+            "label": "Repasar tarjetas",
+            "route": "/study",
+            "variant": "primary"
+          }
+        ],
+        "milestones": [
+          "Leer una novela italiana sin diccionario (p.ej. 'Le avventure di Pinocchio', 'Il barone rampante')",
+          "Entender series italianas en RaiPlay sin subtítulos",
+          "Escribir textos argumentativos de 400+ palabras con registro apropiado",
+          "Superar el examen CILS B2/C1 o CELI 4/5",
+          {
+            "text": "5000 palabras activas en SRS",
+            "type": "srs_learned",
+            "target": 5000,
+            "level": "c1"
+          }
+        ]
+      },
+      {
+        "name": "C2 — Maestría",
+        "duration": "16+ semanas",
+        "level": "c2",
+        "content": "Refinamiento de todos los sistemas. Tiempos literarios activos: trapassato remoto (ebbe detto), congiuntivo trapassato en hipótesis complejas. Vocabulario: 8000+ palabras incluyendo termini tecnici, arcaismi, regionalismi, proverbios. Registro: capacidad de producir texto en cualquier registro (burocratico, giornalistico, letterario, colloquiale, dialettale). Pragmática: humor, ironia, doppi sensi, referimenti culturali (Dante, commedia dell'arte, cinema neorealista). Lectura: Dante (Divina Commedia), Leopardi, Pavese, Pasolini. Consulta habitual de Treccani y Accademia della Crusca.",
+        "dailyGoal": "3+ horas: inmersión total — leer, escribir, ver y hablar en italiano como parte de la vida diaria, no como estudio",
+        "actions": [
+          {
+            "label": "Repasar tarjetas",
+            "route": "/study",
+            "variant": "primary"
+          }
+        ],
+        "milestones": [
+          "Entender cualquier texto italiano escrito u oral, incluyendo dialectos principales",
+          "Producir escritura literaria o académica de calidad nativa",
+          "Apreciar el humor, la ironía y los juegos de palabras en italiano",
+          "Superar el examen CILS C2 o CELI 6",
+          "Leer textos de Dante con notas mínimas"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "regular",
+    "name": "Ruta Regular",
+    "type": "standard",
+    "description": "Para quienes dedican 1–1.5 horas diarias. Objetivo: alcanzar B2 en ~18-24 meses, C1 en ~30 meses. VENTAJA DEL HISPANOHABLANTE: la alta similitud léxico-gramatical español-italiano permite avanzar con menos esfuerzo que en otros idiomas. Un hispanohablante en ruta regular alcanzará B1 en ~6-8 meses, algo imposible para un anglófono con la misma dedicación.",
+    "phases": [
+      {
+        "name": "A1 — Primeros pasos en italiano",
+        "duration": "5 semanas",
+        "level": "a1",
+        "content": "Gramática A1 a ritmo sostenible: essere y avere, artículos, presente indicativo de verbos regulares e irregulares básicos, género y número, c'è/ci sono, preposiciones básicas, números y expresiones de tiempo. Vocabulario: 400 palabras clave. Pronunciación: consonantes dobles, grupos gl/gn, c/g ante e-i. Lecturas muy cortas (50-80 palabras). Audio: primeras lecciones de Coffee Break Italian.",
+        "dailyGoal": "1-1.5 horas: 30min gramática (Assimil o Nuovo Espresso 1), 30min SRS vocabulario (Anki), 15-20min audio/lectura",
+        "actions": [
+          {
+            "label": "Empezar lecciones",
+            "route": "/lessons",
+            "variant": "primary"
+          }
+        ],
+        "milestones": [
+          "Presentarse y mantener un diálogo básico de presentación",
+          "Dominar la pronunciación de las consonantes dobles",
+          "Entender instrucciones simples en italiano",
+          {
+            "text": "400 palabras activas en SRS",
+            "type": "srs_learned",
+            "target": 400,
+            "level": "a1"
+          }
+        ]
+      },
+      {
+        "name": "A2 — Comunicación básica",
+        "duration": "8 semanas",
+        "level": "a2",
+        "content": "Gramática A2 completa: passato prossimo con essere/avere, imperfetto, verbos reflexivos, pronombres objeto directo e indirecto, comparativos y superlativos, futuro semplice, condizionale presente introducción. Vocabulario: 800-1000 palabras acumuladas. Pronunciación: entonación de pregunta italiana. PUNTO CRÍTICO: la elección del auxiliar essere/avere en passato prossimo — dedicar tiempo extra a este concepto que no existe en español. Coffee Break Italian temporada 1.",
+        "dailyGoal": "1-1.5 horas: 30min gramática, 30min SRS, 20min escucha (Coffee Break Italian)",
+        "actions": [
+          {
+            "label": "Repasar tarjetas",
+            "route": "/study",
+            "variant": "primary"
+          },
+          {
+            "label": "Nuevas lecciones",
+            "route": "/lessons",
+            "variant": "secondary"
+          }
+        ],
+        "milestones": [
+          "Narrar el pasado usando essere/avere correctamente",
+          "Pedir comida, comprar cosas y orientarse en una ciudad italiana",
+          "Entender conversaciones de hablantes nativos lentos",
+          {
+            "text": "900 palabras activas en SRS",
+            "type": "srs_learned",
+            "target": 900,
+            "level": "a2"
+          }
+        ]
+      },
+      {
+        "name": "B1 — Independencia",
+        "duration": "14 semanas",
+        "level": "b1",
+        "content": "Gramática B1: congiuntivo presente (más presente que en español cotidiano), trapassato prossimo, voz pasiva, pronombres combinados, ci y ne, gerundio, connettivi avanzados (nonostante + cong., benché + cong., purché + cong., a meno che non). Vocabulario: 1500-2000 palabras. Inmersión inicial: Simple Italian Podcast, News in Slow Italian nivel beginners. Escritura: emails y descripciones de 100-150 palabras.",
+        "dailyGoal": "1.5 horas: 30min gramática, 30min SRS, 30min inmersión (podcast o lectura)",
+        "actions": [
+          {
+            "label": "Repasar tarjetas",
+            "route": "/study",
+            "variant": "primary"
+          },
+          {
+            "label": "Nuevas lecciones",
+            "route": "/lessons",
+            "variant": "secondary"
+          }
+        ],
+        "milestones": [
+          "Usar el congiuntivo en contextos de duda y opinión",
+          "Entender Simple Italian Podcast con la transcripción como apoyo",
+          "Mantener conversaciones de 10+ minutos sobre temas cotidianos",
+          "Leer artículos adaptados de nivel B1",
+          {
+            "text": "1800 palabras activas en SRS",
+            "type": "srs_learned",
+            "target": 1800,
+            "level": "b1"
+          }
+        ]
+      },
+      {
+        "name": "B2 — Fluidez",
+        "duration": "20 semanas",
+        "level": "b2",
+        "content": "Gramática B2: congiuntivo imperfetto y trapassato, periodo ipotetico completo (realtà, possibilità, impossibilità), discorso indiretto con concordanza, registro formal e informal, fraseología y colocaciones. Vocabulario: 2500-3500 palabras + falsos amigos español-italiano. Inmersión intensiva: RaiPlay, periódicos italianos (online), News in Slow Italian intermedios. Primer contacto con literatura fácil (Rodari, novelas graduadas).",
+        "dailyGoal": "1.5 horas: 30min estudio formal, 30min SRS, 30min inmersión real (series, noticias, lectura)",
+        "actions": [
+          {
+            "label": "Repasar tarjetas",
+            "route": "/study",
+            "variant": "primary"
+          }
+        ],
+        "milestones": [
+          "Usar el periodo ipotetico en los tres tipos con naturalidad",
+          "Entender RaiPlay con subtítulos italianos",
+          "Leer artículos de prensa italiana con ayuda ocasional del diccionario",
+          "Conversaciones fluidas con nativos sobre temas variados",
+          {
+            "text": "3000 palabras activas en SRS",
+            "type": "srs_learned",
+            "target": 3000,
+            "level": "b2"
+          }
+        ]
+      },
+      {
+        "name": "C1 — Dominio",
+        "duration": "26 semanas",
+        "level": "c1",
+        "content": "Gramática C1: passato remoto en narrativa formal, costruzione assoluta, congiuntivo con valori avanzados, registro escrito formal. Vocabulario: 4500-6000 palabras + fraseología. Lectura: literatura italiana accesible (Calvino, Moravia). Escucha: RaiPlay sin subtítulos, RAI Radio. Producción: ensayos de 300+ palabras. Consulta habitual de Treccani y Accademia della Crusca.",
+        "dailyGoal": "1.5-2 horas: 20% estudio formal, 80% inmersión — lectura, escucha, producción",
+        "actions": [
+          {
+            "label": "Repasar tarjetas",
+            "route": "/study",
+            "variant": "primary"
+          }
+        ],
+        "milestones": [
+          "Leer una novela italiana sin diccionario",
+          "Entender series en RaiPlay sin subtítulos",
+          "Escribir textos elaborados con registro apropiado",
+          "Superar CILS B2 o CELI 4 (equivalente)"
+        ]
+      },
+      {
+        "name": "C2 — Perfeccionamiento",
+        "duration": "36+ semanas",
+        "level": "c2",
+        "content": "Refinamiento completo. Tiempos literarios, proverbios, regionalismos, registro formal escrito avanzado. Lectura: Dante, Leopardi, Pasolini. Producción near-native en todos los registros. Consulta de Accademia della Crusca para dudas normativas.",
+        "dailyGoal": "2 horas: inmersión total como rutina diaria — italiano integrado en la vida",
+        "actions": [
+          {
+            "label": "Repasar tarjetas",
+            "route": "/study",
+            "variant": "primary"
+          }
+        ],
+        "milestones": [
+          "Producción near-native oral y escrita en todos los registros",
+          "Comprensión de dialectos italianos principales",
+          "Humor, ironía y juegos de palabras en italiano con naturalidad",
+          "Superar CILS C2 o CELI 6"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "casual",
+    "name": "Ruta Casual",
+    "type": "casual",
+    "description": "Para quienes dedican 20-30 minutos diarios. Objetivo: alcanzar B1 en ~24-30 meses sin presión. Ideal para quienes aprenden italiano por placer, viajes o cultura, y valoran la consistencia por encima de la velocidad. NOTA PARA HISPANOHABLANTES: incluso a ritmo casual, la similitud español-italiano hace que el progreso perceptible llegue muy rápido — en pocas semanas podrás leer menús y señales italianas sin esfuerzo.",
+    "phases": [
+      {
+        "name": "Descubrimiento — A1",
+        "duration": "12 semanas",
+        "level": "a1",
+        "content": "Lo esencial sin agobio: saludos y presentaciones, essere y avere, artículos, verbos básicos en presente, números, días y meses, vocabulario de la vida cotidiana (6-8 palabras nuevas por día). Pronunciación: consonantes dobles (la diferencia más importante para sonara nativo), grupos gl/gn. Lecturas ultracortas (30-50 palabras). Duolingo como hábito diario complementario.",
+        "dailyGoal": "20-30 minutos: 10min vocabulario nuevo + SRS (Anki o Duolingo), 10min gramática o lectura, 10min audio (Coffee Break Italian ep. 1-5)",
+        "actions": [
+          {
+            "label": "Empezar lecciones",
+            "route": "/lessons",
+            "variant": "primary"
+          }
+        ],
+        "milestones": [
+          "Presentarse en italiano de forma natural",
+          "Leer un menú italiano y entender el 70%",
+          "Distinguir consonantes dobles al escuchar",
+          {
+            "text": "300 palabras en SRS",
+            "type": "srs_learned",
+            "target": 300,
+            "level": "a1"
+          }
+        ]
+      },
+      {
+        "name": "Base sólida — A2",
+        "duration": "20 semanas",
+        "level": "a2",
+        "content": "Gramática A2 a ritmo relajado: passato prossimo (con paciencia en essere/avere), imperfetto, comparativos. 5-6 palabras nuevas por día. Integrar contenido nuevo con repaso profundo de A1. Coffee Break Italian temporada 1 completa. Canciones italianas como material de inmersión placentera.",
+        "dailyGoal": "20-30 minutos: lo que te motive ese día — vocabulario, gramática, canción italiana o episodio de podcast",
+        "actions": [
+          {
+            "label": "Repasar tarjetas",
+            "route": "/study",
+            "variant": "primary"
+          },
+          {
+            "label": "Nuevas lecciones",
+            "route": "/lessons",
+            "variant": "secondary"
+          }
+        ],
+        "milestones": [
+          "A1 sólido y maduro (sin errores sistemáticos)",
+          "Entender canciones italianas simples (Volare, azzurro, Nel blu dipinto di blu)",
+          "Pedir comida y orientarse en una ciudad italiana en un viaje real",
+          {
+            "text": "700 palabras en SRS",
+            "type": "srs_learned",
+            "target": 700,
+            "level": "a2"
+          }
+        ]
+      },
+      {
+        "name": "Crecimiento — B1",
+        "duration": "36 semanas",
+        "level": "b1",
+        "content": "Gramática B1 gradual: congiuntivo presente, voz pasiva básica, ci y ne, connettivi. Vocabulario 1200-1500 palabras. Transición a contenido real: Simple Italian Podcast (comprensible, lento), noticias adaptadas, RaiPlay con subtítulos. Canciones italianas más complejas. Escritura ocasional: postcards, mensajes simples.",
+        "dailyGoal": "30 minutos: 10-15min estudio (gramática o vocabulario nuevo), 15-20min inmersión placentera (podcast, canción, vídeo en italiano)",
+        "actions": [
+          {
+            "label": "Repasar tarjetas",
+            "route": "/study",
+            "variant": "primary"
+          }
+        ],
+        "milestones": [
+          "Entender Simple Italian Podcast con la transcripción",
+          "Ver una película italiana sencilla con subtítulos en español",
+          "Viajar a Italia y comunicarse sin agobio",
+          "1200+ palabras activas en SRS"
+        ]
+      },
+      {
+        "name": "Consolidación — B2",
+        "duration": "48+ semanas",
+        "level": "b2",
+        "content": "Sin prisa hacia B2. Inmersión natural: series italianas en RaiPlay, News in Slow Italian, lectura por placer (Rodari, novelas fáciles). Gramática como refinamiento, no como estudio principal. Congiuntivo imperfetto y periodo ipotetico a medida que aparecen en el input natural.",
+        "dailyGoal": "30 minutos: inmersión placentera — lo que disfrutes en italiano",
+        "actions": [
+          {
+            "label": "Repasar tarjetas",
+            "route": "/study",
+            "variant": "primary"
+          }
+        ],
+        "milestones": [
+          "Disfrutar series y películas italianas como entretenimiento real",
+          "Entender la mayoría del contenido con subtítulos en italiano",
+          "Leer un libro italiano fácil por placer",
+          "Comunicarse con italianos nativos con fluidez razonable"
+        ]
+      }
+    ]
+  }
+]

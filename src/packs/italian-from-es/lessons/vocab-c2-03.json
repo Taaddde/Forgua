@@ -1,0 +1,95 @@
+{
+  "id": "vocab-c2-03",
+  "title": "Varietà regionali e dialettali",
+  "description": "Italia es un país lingüísticamente diversísimo. El italiano nativo no es un bloque monolítico: está atravesado por dialectos regionales, vocabulario local y fenómenos de code-switching que aparecen en el cine, la literatura y la música popular. Esta lección introduce las palabras regionales más conocidas y difundidas.",
+  "level": "c2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "sciuscià",
+      "back": "limpiabotas / (fig.) persona humilde que trabaja en la calle",
+      "reading": "/ʃuˈʃa/",
+      "explanation": "Del inglés 'shoe-shine' vía el dialecto napolitano. Inmortalizado por la película de Vittorio De Sica (1946). Uso regional del Sur de Italia. 'Il film Sciuscià di De Sica ritrae la miseria del dopoguerra napoletano.' Conocerlo es fundamental para entender el neorrealismo italiano."
+    },
+    {
+      "front": "guaglione",
+      "back": "chico / muchacho / joven (napolitanismo muy difundido)",
+      "reading": "/gwaˈʎone/",
+      "explanation": "Napoletanismo muy difundido. Equivale a 'ragazzo'. 'Era un guaglione di strada, ma aveva talento da vendere.' Usado afectuosamente en el sur y centro de Italia. Reconocido en toda Italia a través de la canzone napoletana y el cine."
+    },
+    {
+      "front": "magari",
+      "back": "ojalá / quizás / incluso / ¿por qué no? (multipropósito)",
+      "reading": "/maˈgari/",
+      "explanation": "Palabra con acepciones múltiples: DESEO ('magari venisse!' = ¡ojalá viniera!), POSIBILIDAD ('magari ha ragione' = quizás tiene razón), INCLUSO ('ci metto magari tre ore' = puede llevarme hasta tres horas). Origen siciliano-meridional pero de uso panitaliano actual. Fundamental en la conversación italiana."
+    },
+    {
+      "front": "pischello",
+      "back": "crío / chico joven (a veces despectivo) / novato",
+      "reading": "/pisˈkɛllo/",
+      "explanation": "Romanismo. Muy usado en Roma y el Lacio. 'Quel pischello ha ancora molto da imparare.' En el resto de Italia se reconoce por el cine y la televisión romanos. Connotación a veces despectiva (inexperto), a veces afectuosa."
+    },
+    {
+      "front": "pirla",
+      "back": "tonto / idiota (milanesismo/lombardismo)",
+      "reading": "/ˈpirla/",
+      "explanation": "Milanesismo/lombardismo ampliamente difundido. Originalmente una trompa de madera. Hoy equivale a 'stupido' con matiz algo más suave. 'Non fare il pirla, ci hanno già visto.' Reconocido en toda Italia a través de media milaneses y lombardi."
+    },
+    {
+      "front": "bacàjo / baccajone",
+      "back": "charlatán / persona que habla mucho y en voz alta",
+      "reading": "/baˈkajo/",
+      "explanation": "Venetismo. Usado en Veneto y norte de Italia para alguien que alborota o habla demasiado. 'Smettila di fare il baccajone in classe!' Del veneciano 'baccalà' (bacalao). Menos conocido fuera del Veneto pero relevante para entender la literatura y el cine veneciano."
+    },
+    {
+      "front": "campanilismo",
+      "back": "campanilismo / apego excesivo al pueblo natal / chauvinismo local",
+      "reading": "/kampaniˈlizmo/",
+      "explanation": "Concepto cultural fundamental de Italia. Del 'campanile' (campanario) de la iglesia local. Explica la fuerte identidad municipal y regional de los italianos. 'Il campanilismo italiano spiega perché ogni città abbia la sua pizza originale.' No es peyorativo per se — describe un fenómeno cultural arraigado."
+    },
+    {
+      "front": "terraferma",
+      "back": "tierra firme / continente (frente a las islas) / las tierras vénetas (histórico)",
+      "reading": "/terraˈfɛrma/",
+      "explanation": "Término histórico: designaba los dominios continentales de la República de Venecia. Hoy usado en contraposición a Venezia, Sicilia o Sardegna: 'vado in terraferma' = voy al continente. 'I veneziani chiamano terraferma tutto il Veneto continentale.'"
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El mapa dialectal italiano",
+      "instruction": "Italia tiene una variación regional más marcada que cualquier otro país de Europa occidental. No es 'incorrecto' usar términos dialectales — es propio de hablantes que dominan el code-switching entre italiano standard y registro regional. Esta lección no enseña dialectos, sino las palabras regionales que se han difundido a nivel nacional.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿De qué región procede?",
+      "instruction": "Para cada término, identifica su origen regional y explica en qué contexto lo escucharías en el italiano contemporáneo.",
+      "itemIndices": [0, 1, 3, 4, 5]
+    },
+    {
+      "type": "introduce",
+      "title": "Conceptos culturales regionales",
+      "instruction": "'Campanilismo' y 'terraferma' no son solo palabras: son conceptos que estructuran la identidad italiana. Sin 'campanilismo' es imposible entender por qué cada ciudad italiana defiende que su pizza, su acento o su calcio son los mejores.",
+      "itemIndices": [6, 7]
+    },
+    {
+      "type": "recall",
+      "title": "El término regional correcto",
+      "instruction": "Ves la definición o la descripción. Escribe el término regional o dialectal correspondiente.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Varietà linguistica in contesto",
+      "instruction": "Lee: 'Due guaglioni napoletani, un pischello romano e due veneti si trovano a discutere di calcio. Ognuno difende la sua squadra: puro campanilismo. Il romano li chiama pirle, ma il napoletano risponde magari sì, magari no.' ¿Cuántos regionalismos hay? ¿De dónde procede cada uno?",
+      "itemIndices": [1, 3, 4, 2, 6]
+    },
+    {
+      "type": "summary",
+      "title": "Varietà regionali — ventana cultural",
+      "instruction": "El italiano regional no es un error sino la realidad viva del italiano hablado. Para profundizar: mira películas de Sorrentino (napoletano), Moretti (romano), Verdone (romano), y lee Camilleri (siciliano). En cada uno encontrarás estos términos y muchos más en su hábitat natural.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

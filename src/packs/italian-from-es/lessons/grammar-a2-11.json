@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a2-11",
+  "title": "Ne — partitivo e riferimento",
+  "description": "La partícula 'ne' es única del italiano y no tiene equivalente directo en español. Se usa principalmente para expresar cantidad de algo ya mencionado. Es obligatorio en italiano donde el español simplemente omite la referencia.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Hai fratelli? — Sì, ne ho due.",
+      "back": "¿Tienes hermanos? — Sí, tengo dos.",
+      "reading": "",
+      "explanation": "NE PARTITIVO DE CANTIDAD: cuando ya se mencionó el sustantivo y se expresa cantidad, 'ne' es OBLIGATORIO en italiano. En español decimos 'Sí, tengo dos' (sin referencia). En italiano 'Sì, ne ho due' (ne = de ellos/hermanos)."
+    },
+    {
+      "front": "Quanti caffè bevi? — Ne bevo tre al giorno.",
+      "back": "¿Cuántos cafés tomas? — Tomo tres al día.",
+      "reading": "",
+      "explanation": "Pregunta con 'quanti/quante' → respuesta con NE. 'Quante persone ci sono?' → 'Ce ne sono dieci.' = ¿Cuántas personas hay? → Hay diez. Ne reemplaza el sustantivo en la respuesta."
+    },
+    {
+      "front": "Vuoi dell'acqua? — Sì, ne voglio un po'.",
+      "back": "¿Quieres agua? — Sí, quiero un poco.",
+      "reading": "",
+      "explanation": "NE con partitivo (del, dell', dello...). 'Ne voglio un po'' = quiero un poco (de ello). 'Ne prendo ancora.' = Tomo más (de ello)."
+    },
+    {
+      "front": "Parli di sport? — Sì, ne parlo spesso.",
+      "back": "¿Hablas de deportes? — Sí, hablo de ello a menudo.",
+      "reading": "",
+      "explanation": "NE con verbos que se construyen con 'di'. Parlare di qc → parlarne. 'Hai bisogno di aiuto?' → 'Ne ho bisogno.' = ¿Necesitas ayuda? → La necesito."
+    },
+    {
+      "front": "Torni da Roma? — Sì, ne torno adesso.",
+      "back": "¿Vuelves de Roma? — Sí, vuelvo de allí ahora.",
+      "reading": "",
+      "explanation": "NE DE LUGAR: reemplaza 'da + luogo'. 'Sei uscito dal ufficio?' → 'Sì, ne sono uscito.' = ¿Saliste de la oficina? → Sí, salí de allí. Menos común que il CI de lugar."
+    },
+    {
+      "front": "Ne ho comprate tre. (borsa, fem.)",
+      "back": "Compré tres (bolsos).",
+      "reading": "",
+      "explanation": "CON PASSATO PROSSIMO: quando NE reemplaza un objeto directo, el participio CONCUERDA en número (y género, si se sabe). 'Quante borse hai comprato?' → 'Ne ho comprate tre.' (borse = fem. pl. → -e)"
+    },
+    {
+      "front": "Se ne va / Me ne vado",
+      "back": "Se va / Me voy",
+      "reading": "",
+      "explanation": "ANDARSENE: irse (de un lugar). 'Me ne vado' = me voy (de aquí). 'Se ne va' = se va. Una expresión muy italiana que combina reflexivo + ne de lugar."
+    },
+    {
+      "front": "Ne ho abbastanza! / Non ne posso più!",
+      "back": "¡Ya tengo suficiente! / ¡Ya no puedo más!",
+      "reading": "",
+      "explanation": "ESPRESIONI FISSE con ne. 'Ne ho abbastanza' = ya es suficiente, estoy harto. 'Non ne posso più' = ya no aguanto más. Expresiones muy usadas en italiano coloquial."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Ne partitivo — el uso más importante",
+      "instruction": "Cuando se expresa CANTIDAD de algo ya mencionado, 'ne' es OBLIGATORIO. En español se omite la referencia.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cuántos? → Ne!",
+      "instruction": "Practica las respuestas con 'ne' cuando se pregunta por cantidad.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Ne con verbos de + infinitivo y de lugar",
+      "instruction": "'Ne' también reemplaza 'di + algo' y 'da + lugar'.",
+      "itemIndices": [3, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "Ne nel passato y expresiones fijas",
+      "instruction": "La concordancia del participio con ne y las expresiones más usadas.",
+      "itemIndices": [5, 6, 7]
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Usamos ne o no?",
+      "instruction": "Identifica cuándo es necesario usar 'ne' y cuándo la concordancia del participio es correcta.",
+      "itemIndices": [0, 1, 5, 6]
+    },
+    {
+      "type": "summary",
+      "title": "Ne — dominado",
+      "instruction": "REGLA: cuando en italiano preguntas '¿cuántos?' y respondes con un número/cantidad, 'ne' es OBLIGATORIO. También con verbos construidos con 'di': ne parlo, ne ho bisogno. Nel passato prossimo el participio puede concordar: ne ho comprate tre. 'Me ne vado' y 'Non ne posso più' son expresiones muy frecuentes.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

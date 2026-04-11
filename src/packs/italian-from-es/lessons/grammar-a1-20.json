@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a1-20",
+  "title": "Aggettivi possessivi — mio, tuo, suo, nostro...",
+  "description": "Los adjetivos posesivos del italiano. Similar al español pero con una diferencia crucial: en italiano se usa el artículo delante del posesivo EXCEPTO con nombres de familia en singular.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "mio/mia/miei/mie — mi/mis",
+      "back": "mi (masc. sing.) / mi (fem. sing.) / mis (masc. pl.) / mis (fem. pl.)",
+      "reading": "",
+      "explanation": "Los posesivos italianos concuerdan en género y número con el OBJETO poseído (no con el poseedor). 'Il mio libro' (m.sg.), 'la mia borsa' (f.sg.), 'i miei libri' (m.pl.), 'le mie borse' (f.pl.). En español: 'mi libro', 'mi bolsa', 'mis libros', 'mis bolsas'."
+    },
+    {
+      "front": "tuo/tua/tuoi/tue — tu/tus",
+      "back": "tu (m.sg.) / tu (f.sg.) / tus (m.pl.) / tus (f.pl.)",
+      "reading": "",
+      "explanation": "'Il tuo zaino' = tu mochila, 'la tua borsa' = tu cartera, 'i tuoi amici' = tus amigos, 'le tue cose' = tus cosas. Nota: 'tuoi' para masculino plural (no *tui). El artículo siempre está presente."
+    },
+    {
+      "front": "suo/sua/suoi/sue — su/sus (él/ella/usted)",
+      "back": "su (m.sg.) / su (f.sg.) / sus (m.pl.) / sus (f.pl.)",
+      "reading": "",
+      "explanation": "'Suo/sua/suoi/sue' funciona para él, ella Y el formal 'Lei' (usted). 'Il suo libro' = su libro (de él o de ella o de usted). El contexto determina de quién. 'La sua famiglia' = su familia."
+    },
+    {
+      "front": "nostro/nostra/nostri/nostre — nuestro/a/os/as",
+      "back": "nuestro (m.sg.) / nuestra (f.sg.) / nuestros (m.pl.) / nuestras (f.pl.)",
+      "reading": "",
+      "explanation": "'Il nostro professore' = nuestro profesor, 'la nostra casa' = nuestra casa, 'i nostri amici' = nuestros amigos, 'le nostre chiavi' = nuestras llaves. Similar al español."
+    },
+    {
+      "front": "vostro/vostra/vostri/vostre — su(s)/vuestro",
+      "back": "su / sus / vuestro/a/os/as",
+      "reading": "",
+      "explanation": "'Il vostro appartamento' = su/vuestro apartamento. 'La vostra macchina' = su/vuestra auto. 'I vostri figli' = sus/vuestros hijos. 'Le vostre chiavi' = sus/vuestras llaves. Para ustedes/vosotros."
+    },
+    {
+      "front": "loro — su/sus (ellos/ellas, invariable)",
+      "back": "su/sus (de ellos/ellas)",
+      "reading": "",
+      "explanation": "'Loro' es el único posesivo INVARIABLE en italiano. Siempre igual independientemente del género y número del poseído. 'Il loro figlio', 'la loro figlia', 'i loro figli', 'le loro figlie'. Siempre lleva artículo."
+    },
+    {
+      "front": "REGLA DEL ARTÍCULO: il mio libro, la tua casa... (artículo + posesivo + sustantivo)",
+      "back": "En italiano: artículo SIEMPRE antes del posesivo (excepto familia singular)",
+      "reading": "",
+      "explanation": "DIFERENCIA CLAVE con el español: en italiano el artículo va ANTES del posesivo. 'Il mio amico' (no *mio amico). 'La tua sorella' = tu hermana (PERO: 'mia sorella' sin artículo, porque 'sorella' es familia singular)."
+    },
+    {
+      "front": "EXCEPCIÓN: mia madre / tuo fratello / sua sorella (sin artículo)",
+      "back": "EXCEPCIÓN: mi madre / tu hermano / su hermana (familia singular, sin artículo)",
+      "reading": "",
+      "explanation": "Con nombres de familia en SINGULAR (madre, padre, fratello, sorella, figlio, figlia, marito, moglie, nonno, nonna) NO se usa artículo: 'mia madre', 'tuo padre', 'sua sorella'. CON 'loro' o en plural: 'la loro madre', 'i miei fratelli'. ¡Con 'loro' familia también lleva artículo!"
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Los posesivos italianos y el artículo",
+      "instruction": "En italiano los posesivos concuerdan con el objeto poseído (como en español) PERO además llevan artículo delante. 'Il mio libro' (mi libro), 'la tua casa' (tu casa). Hay UNA excepción importante.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "introduce",
+      "title": "La excepción: familia en singular sin artículo",
+      "instruction": "Con nombres de familia en singular y sin modificadores, NO va artículo: 'mia madre', 'tuo fratello'. En plural o con 'loro' sí: 'i miei fratelli', 'la loro madre'.",
+      "itemIndices": [7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál posesivo es correcto?",
+      "instruction": "Elegí el posesivo correcto (con la concordancia y el artículo adecuados).",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "Traducí al italiano",
+      "instruction": "Recordá: artículo + posesivo + sustantivo. Excepción: familia singular sin artículo.",
+      "itemIndices": [0, 2, 3, 7]
+    },
+    {
+      "type": "error-correction",
+      "title": "Corregí los errores",
+      "instruction": "Estas frases tienen errores típicos. Corregí el posesivo o el artículo.",
+      "itemIndices": [6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "Posesivos italianos: la regla del artículo",
+      "instruction": "mio/mia/miei/mie, tuo/tua/tuoi/tue, suo/sua/suoi/sue, nostro/nostra/nostri/nostre, vostro/vostra/vostri/vostre, loro (invariable). REGLA: artículo + posesivo siempre. EXCEPCIÓN: familia singular sin artículo (mia madre, tuo fratello). Con loro: siempre artículo.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

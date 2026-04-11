@@ -1,0 +1,101 @@
+{
+  "id": "grammar-b2-03",
+  "title": "Periodo ipotetico tipo 3 — l'irrealtà del passato",
+  "description": "El período hipotético de la irrealidad: 'Si hubiera estudia­do, habría aprobado.' Hipótesis sobre el pasado que ya no puede cumplirse. Estructura, variantes y uso real.",
+  "level": "b2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Se avessi preso l'ombrello, non ti saresti bagnato.",
+      "back": "Si hubieras cogido el paraguas, no te habrías mojado.",
+      "reading": "",
+      "explanation": "Estructura estándar: prótasis (Se + congiuntivo trapassato) + apódosis (condizionale passato). La situación es IRREALE: no tomaste el paraguas y te mojaste. El italiano y el español son perfectamente paralelos aquí."
+    },
+    {
+      "front": "Se fossero partiti prima, sarebbero arrivati in tempo.",
+      "back": "Si hubieran salido antes, habrían llegado a tiempo.",
+      "reading": "",
+      "explanation": "Verbo reflexivo/con essere en la apódosis: sarebbero arrivati (concordancia: arrivati, masculino plural). La prótasis también usa essere: fossero partiti (partire → essere). Atención a la concordancia del participio."
+    },
+    {
+      "front": "Non saremmo in questa situazione se avessimo fatto scelte diverse.",
+      "back": "No estaríamos en esta situación si hubiéramos tomado decisiones diferentes.",
+      "reading": "",
+      "explanation": "La apódosis puede ir ANTES de la prótasis. El significado no cambia. En escritura, la apódosis primera da más énfasis al resultado; la prótasis primera, a la condición. Ambos órdenes son igualmente correctos."
+    },
+    {
+      "front": "Se non avesse piovuto, saremmo usciti.",
+      "back": "Si no hubiera llovido, habríamos salido.",
+      "reading": "",
+      "explanation": "Negación en la prótasis: Se non avesse + participio. 'Avesse piovuto': piovere usa essere o avere? En italiano, 'piovere' può usare sia avere sia essere; con essere es ligeramente más formal."
+    },
+    {
+      "front": "Se avessimo investito allora, ora saremmo ricchi.",
+      "back": "Si hubiéramos invertido entonces, ahora seríamos ricos.",
+      "reading": "",
+      "explanation": "PERIODO IPOTETICO MISTO: prótasis con congiuntivo trapassato (passato) + apódosis con condizionale PRESENTE (ora). La condición está en el pasado pero la consecuencia se proyecta al presente. Frecuentísimo en conversación."
+    },
+    {
+      "front": "Avrei capito se me l'avessi spiegato.",
+      "back": "Lo habría entendido si me lo hubieras explicado.",
+      "reading": "",
+      "explanation": "Pronombres clíticos en el congiuntivo trapassato: 'me l'avessi spiegato' = me + lo + avessi spiegato (con elision). Los clíticos se colocan ANTES del verbo auxiliare 'avessi'. Muy común en la lengua hablada."
+    },
+    {
+      "front": "Se solo fossi rimasto a casa! / Avrei dovuto restare a casa!",
+      "back": "¡Si solo me hubiera quedado en casa! / ¡Debería haberme quedado en casa!",
+      "reading": "",
+      "explanation": "El periodo ipotetico tipo 3 puede aparecer como exclamación de arrepentimiento con solo la prótasis (el resultado se sobreentiende). 'Se solo...' = Si solo... (arrepentimiento). 'Avrei dovuto...' = Debería haber..."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "La estructura estándar",
+      "instruction": "Se + CONGIUNTIVO TRAPASSATO (prótasis) + CONDIZIONALE PASSATO (apódosis). Ambas partes están en el pasado. La situación es imposible: el momento ya pasó. Perfectamente paralelo al español 'Si hubiera... habría...'",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Variaciones de orden y negación",
+      "instruction": "La apódosis puede ir antes o después. La negación va en la prótasis: 'Se non avesse...' Mismo significado en cualquier orden.",
+      "itemIndices": [2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Periodo ipotetico misto: pasado → presente",
+      "instruction": "Un tipo especial: la condición es pasada pero la consecuencia es presente. Prótasis: congiuntivo trapassato. Apódosis: condizionale PRESENTE. 'Se avessi studiato medicina, ora sarei medico.'",
+      "itemIndices": [4]
+    },
+    {
+      "type": "introduce",
+      "title": "Con pronombres y como exclamación",
+      "instruction": "Los pronombres clíticos van antes del auxiliare. El arrepentimiento se expresa solo con la prótasis ('Se solo fossi rimasto!'). Muy expresivo en el habla.",
+      "itemIndices": [5, 6]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completa los periodi ipotetici tipo 3",
+      "instruction": "Conjuga los verbos en las formas correctas.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Construye hipótesis del pasado",
+      "instruction": "Construye periodi ipotetici tipo 3 a partir de situaciones dadas.",
+      "itemIndices": [0, 1, 4]
+    },
+    {
+      "type": "error-correction",
+      "title": "Errori frequenti — il condizionale nel 'se'",
+      "instruction": "NUNCA se usa el condizionale después de 'se'. 'Se avrei studiato' es INCORRECTO (aunque se oiga en el habla informal). Identifica y corrige este error frecuente.",
+      "itemIndices": [0, 2, 5]
+    },
+    {
+      "type": "summary",
+      "title": "Periodo ipotetico tipo 3 — dominato",
+      "instruction": "Estructura: Se + congiuntivo trapassato + condizionale passato. NUNCA: Se + condizionale (error muy frecuente). El orden puede invertirse. Misto: trapassato + condizionale PRESENTE (consecuencia en el presente). Exclamación de arrepentimiento: 'Se solo + trapassato!'",
+      "itemIndices": [0, 1, 2, 4, 6]
+    }
+  ]
+}

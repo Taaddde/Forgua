@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a1-06",
+  "title": "Numero: singolare e plurale",
+  "description": "El plural de los sustantivos en italiano. A diferencia del español que añade -S, el italiano cambia la vocal final.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Masculinos en -O → plurale in -I",
+      "back": "libro → libri / ragazzo → ragazzi",
+      "reading": "",
+      "explanation": "Masculinos en -O hacen el plural en -I: libro→libri, ragazzo→ragazzi, cane→cani... Espera: ¡cane termina en -E! Ver regla siguiente. libro/libri, gatto/gatti, tavolo/tavoli."
+    },
+    {
+      "front": "Femeninos en -A → plurale in -E",
+      "back": "casa → case / ragazza → ragazze",
+      "reading": "",
+      "explanation": "Femeninos en -A hacen el plural en -E: casa→case, ragazza→ragazze, pizza→pizze, madre→madri (¡cuidado: madre es -E, va diferente!). Siempre -A → -E para femeninos en -A."
+    },
+    {
+      "front": "Sustantivos en -E → plurale in -I",
+      "back": "padre → padri / madre → madri / pane → pani",
+      "reading": "",
+      "explanation": "Tanto masculinos como femeninos en -E hacen el plural en -I: il padre→i padri, la madre→le madri, il pane→i pani, la neve→le nevi, il cane→i cani."
+    },
+    {
+      "front": "Sustantivos en -CA/-GA → plurale in -CHE/-GHE",
+      "back": "amica → amiche / bottega → botteghe",
+      "reading": "",
+      "explanation": "Para mantener el sonido /k/ y /g/ ante -E del plural, se añade H: amica→amiche, banca→banche, bottega→botteghe, bottega→botteghe. Sin H el sonido cambiaría."
+    },
+    {
+      "front": "Sustantivos en -GO → plurale en -GHI (m.) o -GHE (f.)",
+      "back": "lungo → lunghi / albergo → alberghi",
+      "reading": "",
+      "explanation": "Masculinos en -GO → -GHI (para mantener /g/): albergo→alberghi, lungo→lunghi. Femeninos en -GA → -GHE: bottega→botteghe. Excepción: psicologo→psicologi (estudiada)."
+    },
+    {
+      "front": "Sustantivos invariables (vocal acentuada, préstamos)",
+      "back": "città → città / bar → bar / film → film",
+      "reading": "",
+      "explanation": "Invariables: sustantivos que terminan en vocal acentuada (città, università, caffè, virtù) y préstamos extranjeros (bar, film, sport, computer). No cambian en plural."
+    },
+    {
+      "front": "Plurales irregulares: uomo → uomini / uovo → uova",
+      "back": "hombre → hombres / huevo → huevos",
+      "reading": "",
+      "explanation": "Algunos plurales irregulares importantes: uomo→uomini, uovo→uova (femenino en plural), bue→buoi, mano→mani, braccio→le braccia (femenino en plural). Hay que memorizarlos."
+    },
+    {
+      "front": "l'amico → gli amici (con H para /k/)",
+      "back": "el amigo → los amigos",
+      "reading": "",
+      "explanation": "Masculinos en -CO: amico→amici (sin H porque el acento cae en la antepenúltima). Pero: banco→banchi (acento en penúltima). La regla de H es más compleja — por ahora: 'amici' sin H."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El plural en italiano — sin S",
+      "instruction": "En italiano el plural NO añade -S como en español. Las reglas son: -O→-I, -A→-E, -E→-I. ¡Importante! Las palabras en vocal acentuada o préstamos NO cambian.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Excepciones y casos especiales",
+      "instruction": "La H se añade para mantener el sonido /k/ y /g/. Algunos plurales son completamente irregulares.",
+      "itemIndices": [3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es el plural?",
+      "instruction": "Ves el singular. Elegí el plural correcto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "recall",
+      "title": "Formá el plural",
+      "instruction": "Ves el singular. Escribí el plural correcto en italiano.",
+      "itemIndices": [0, 1, 2, 3, 5, 7]
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Correcto o no?",
+      "instruction": "Corregí: 'le casas' → le case | 'i libros' → i libri | 'le amicas' → le amiche | 'le cittàs' → le città",
+      "itemIndices": [1, 0, 3, 5]
+    },
+    {
+      "type": "summary",
+      "title": "¡Il plurale!",
+      "instruction": "-O→-I (libro/libri), -A→-E (casa/case), -E→-I (padre/padri). Para mantener /k/: -CA→-CHE (amica/amiche), -CO→-CHI (banco/banchi). Invariables: città, bar, film. Irregulares: uomo/uomini, mano/mani.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

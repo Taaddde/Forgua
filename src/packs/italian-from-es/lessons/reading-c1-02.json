@@ -1,0 +1,89 @@
+{
+  "id": "reading-c1-02",
+  "title": "Calvino e la leggerezza: un programma estetico e morale",
+  "description": "Texto de análisis literario C1. Análisis de la primera 'proposta' de Italo Calvino en sus Lezioni Americane. Vocabulario estético-filosófico. Práctica de lectura crítica de un ensayo literario de alta densidad conceptual.",
+  "level": "c1",
+  "category": "reading",
+  "items": [
+    {
+      "front": "«La mia operazione è stata il più delle volte una sottrazione di peso» — Calvino",
+      "back": "La definición calviniana de leggerezza: no añadir sino restar, simplificar, desmaterializar.",
+      "reading": "",
+      "explanation": "'Sottrazione di peso' (sustracción/resta de peso) usa el lenguaje matemático metafóricamente. La escritura ligera no añade sino quita, simplifica, desmaterializa — es el opuesto del barocco literario. Esta frase es la definición más precisa del programa estético de Calvino."
+    },
+    {
+      "front": "morte prematura",
+      "back": "muerte prematura — Calvino murió en 1985 antes de las conferencias en Harvard.",
+      "reading": "",
+      "explanation": "Calvino murió de un derrame cerebral en septiembre de 1985, poco antes de las conferencias en Harvard. Las Lezioni Americane se publicaron póstumamente (1988). El título es un homenaje a lo que hubiera sido — seis conferencias para seis propuestas literarias para el tercer milenio."
+    },
+    {
+      "front": "ligure",
+      "back": "propio de Liguria (región noroeste de Italia, capital Génova)",
+      "reading": "/ˈligure/",
+      "explanation": "Calvino nació en Cuba (1923) pero se crió en Sanremo (Liguria), razón por la que se le llama 'narratore ligure'. La Liguria tiene una tradición literaria propia. El término 'ligure' se usa en crítica literaria para identificar regionalmente a los escritores."
+    },
+    {
+      "front": "Perseo che uccide la Medusa senza guardarla direttamente — guardandone il riflesso nello scudo lucido.",
+      "back": "La metáfora mitológica central: el artista que enfrenta la realidad pesada de manera obliqua, no frontal.",
+      "reading": "",
+      "explanation": "Mirar directamente a la Medusa = ser pietrificato (convertido en piedra). La estrategia de Perseo (el espejo del escudo) es la metáfora del artista que enfrenta la realtà pesante del mundo no oponiéndose a ella de frente, sino encontrando una angolazione obliqua. Es la figura del intelectuale che vola sopra le cose."
+    },
+    {
+      "front": "sub specie levitatis",
+      "back": "Expresión latina inventada por Calvino, parodiando el 'sub specie aeternitatis' de Spinoza.",
+      "reading": "",
+      "explanation": "Spinoza: 'sub specie aeternitatis' = desde la perspectiva de la eternidad. Calvino: 'sub specie levitatis' = desde la perspectiva de la levedad. La parodia del latinismo filosófico es típica del humor intelectual de Calvino: tomar una fórmula seria y resignificarla creativamente."
+    },
+    {
+      "front": "«Non è fuga dalla realtà, ma trasfigurazione.» — distinción clave del argumento",
+      "back": "Leggerezza ≠ evasión. Leggerezza = trasfigurazione (reconocer la realidad y transformarla a través de la forma artística).",
+      "reading": "",
+      "explanation": "Esta distinción es el núcleo moral del argumento calviniano. La 'fuga dalla realtà' sería evasión irresponsable. La 'trasfigurazione' reconoce el peso del mundo pero lo elabora, lo sublima, lo hace comprensible a través de la grazia della scrittura. Es una posición etica, non evasiva."
+    },
+    {
+      "front": "Sei proposte per la letteratura del terzo millennio: Leggerezza, Rapidità, Esattezza, Visibilità, Molteplicità, Consistenza.",
+      "back": "Las seis propuestas de Calvino — el sexto quedó inconcluso por su muerte.",
+      "reading": "",
+      "explanation": "Calvino planeó seis conferencias para seis valores literarios. Solo cinco quedaron completas: Leggerezza (ligereza), Rapidità (rapidez), Esattezza (exactitud), Visibilità (visibilidad), Molteplicità (multiplicidad). La Consistenza (consistencia) fue el que no llegó a completar."
+    },
+    {
+      "front": "pietrificato",
+      "back": "petrificado / convertido en piedra — metáfora del efecto de la realtà pesante sobre el artista",
+      "reading": "/pietriˈfikato/",
+      "explanation": "Del mito di Perseo: mirar directamente a la Medusa convertía en piedra. En la metáfora calviniana: quien enfrenta la realtà pesante sin la estrategia obliqua della leggerezza queda 'pietrificato' — parálisis, incapacidad de crear. La levedad es literalmente la condición de posibilidad del arte."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Antes de leer: el contexto calviniano",
+      "instruction": "Italo Calvino escribió las 'Lezioni Americane' (1988) como seis propuestas para la literatura del siglo XXI. La primera es 'Leggerezza' (Ligereza). Calvino argumenta que la leggerezza no es superficialidad sino precisión y determinazione — el resultado de un enorme esfuerzo intelectual. Lee el texto con esta clave interpretativa.",
+      "itemIndices": [6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Vocabulario literario-filosófico",
+      "instruction": "Estas palabras son clave para entender el argumento de Calvino. Intenta deducir el significado del contexto antes de leer la explicación: ¿qué connota 'sottrazione di peso' en un contexto literario? ¿Qué implica 'trasfigurazione' vs 'fuga'?",
+      "itemIndices": [0, 4, 5]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Comprensión e interpretación",
+      "instruction": "Responde: (1) ¿Por qué Calvino usa el mito de Perseo? (2) ¿Cuál es la distinción entre 'fuga' y 'trasfigurazione'? (3) ¿En qué sentido la leggerezza es 'profondamente morale'? Razón tus respuestas con referencia al texto.",
+      "itemIndices": [3, 5, 6]
+    },
+    {
+      "type": "recall",
+      "title": "El argumento de Calvino en italiano",
+      "instruction": "Reconstruye el argumento central de Calvino en italiano usando estas palabras clave. El objetivo: demostrar que puedes sintetizar en italiano un argumento complejo sin pasar por el español.",
+      "itemIndices": [0, 3, 5]
+    },
+    {
+      "type": "summary",
+      "title": "Lectura crítica completada",
+      "instruction": "Vocabulario clave adquirido: leggerezza, sottrazione di peso, pietrificato, trasfigurazione, sub specie levitatis. Concepto central: la leggerezza calviniana es la conquista del peso del vivere a través de la precisione linguistica. Para profundizar: leer 'Le città invisibili' (la novela más 'leggera' de Calvino) o 'Se una notte d'inverno un viaggiatore'.",
+      "itemIndices": [0, 4, 5, 6]
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "vocab-a1-10",
+  "title": "I mesi e le stagioni",
+  "description": "Los meses del año y las estaciones. En italiano los meses son todos masculinos y se escriben en minúscula.",
+  "level": "a1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "gennaio",
+      "back": "enero",
+      "reading": "/dʒenˈnaːjo/",
+      "explanation": "Gennaio. La 'gi' suena /dʒ/. Masculino, minúscula. 'A gennaio' = en enero (preposición 'a' con meses). 'Il primo gennaio' = el primero de enero."
+    },
+    {
+      "front": "febbraio",
+      "back": "febrero",
+      "reading": "/febˈbraːjo/",
+      "explanation": "Febbraio. Doble 'bb'. El mes más corto. 'Il 14 febbraio è San Valentino' = El 14 de febrero es San Valentín."
+    },
+    {
+      "front": "marzo",
+      "back": "marzo",
+      "reading": "/ˈmartso/",
+      "explanation": "Marzo. La 'z' en medio suena /ts/. Idéntico al español. 'L'8 marzo è la festa della donna' = El 8 de marzo es el Día de la Mujer."
+    },
+    {
+      "front": "aprile",
+      "back": "abril",
+      "reading": "/aˈpriːle/",
+      "explanation": "Aprile. Muy similar al español. 'Il 25 aprile è la Festa della Liberazione' = importante fiesta nacional italiana."
+    },
+    {
+      "front": "maggio",
+      "back": "mayo",
+      "reading": "/ˈmaddʒo/",
+      "explanation": "Maggio. La 'ggi' suena /ddʒ/. 'Il primo maggio è la Festa del Lavoro' = El 1° de mayo es el Día del Trabajo."
+    },
+    {
+      "front": "giugno",
+      "back": "junio",
+      "reading": "/ˈdʒuɲɲo/",
+      "explanation": "Giugno. La 'gn' suena /ɲ/ como ñ. La 'gi' inicial suena /dʒ/. 'A giugno inizia l'estate' = En junio empieza el verano."
+    },
+    {
+      "front": "luglio",
+      "back": "julio",
+      "reading": "/ˈluʎʎo/",
+      "explanation": "Luglio. La 'gli' suena /ʎʎ/ como 'll' rioplatense. Muy diferente al español 'julio'. 'Agosto e luglio sono i mesi delle vacanze' = Agosto y julio son los meses de vacaciones."
+    },
+    {
+      "front": "agosto",
+      "back": "agosto",
+      "reading": "/aˈɡosto/",
+      "explanation": "Agosto. Idéntico al español. 'Ferragosto' = el 15 de agosto (Asunción de la Virgen) — la fiesta de verano más importante de Italia. En agosto, muchos negocios cierran."
+    },
+    {
+      "front": "settembre",
+      "back": "septiembre",
+      "reading": "/setˈtembre/",
+      "explanation": "Settembre. Doble 't'. Muy similar al español. 'A settembre si torna a scuola' = En septiembre se vuelve a la escuela."
+    },
+    {
+      "front": "ottobre",
+      "back": "octubre",
+      "reading": "/otˈtobre/",
+      "explanation": "Ottobre. Doble 't'. Similar al español. 'In ottobre le foglie cambiano colore' = En octubre las hojas cambian de color."
+    },
+    {
+      "front": "novembre",
+      "back": "noviembre",
+      "reading": "/noˈvembre/",
+      "explanation": "Novembre. Muy similar al español. 'Il 2 novembre è la commemorazione dei defunti' = El 2 de noviembre es el Día de los Difuntos."
+    },
+    {
+      "front": "dicembre",
+      "back": "diciembre",
+      "reading": "/diˈtʃembre/",
+      "explanation": "Dicembre. La 'ce' suena /tʃe/ = che. 'A dicembre c'è il Natale' = En diciembre está la Navidad."
+    },
+    {
+      "front": "la primavera",
+      "back": "la primavera",
+      "reading": "/la primaˈvɛːra/",
+      "explanation": "Primavera. Idéntico al español. 'In primavera' = en primavera (sin artículo con estaciones en expresiones generales). Meses: marzo, aprile, maggio."
+    },
+    {
+      "front": "l'estate",
+      "back": "el verano",
+      "reading": "/leˈstaːte/",
+      "explanation": "Estate. Femenina. 'In estate fa caldo' = En verano hace calor. Meses: giugno, luglio, agosto. 'Estate italiana' es famosa por el turismo."
+    },
+    {
+      "front": "l'autunno",
+      "back": "el otoño",
+      "reading": "/lauˈtunno/",
+      "explanation": "Autunno. Masculino. Doble 'n'. Muy similar al español 'otoño'. 'In autunno le foglie cadono' = En otoño caen las hojas. Meses: settembre, ottobre, novembre."
+    },
+    {
+      "front": "l'inverno",
+      "back": "el invierno",
+      "reading": "/linˈverno/",
+      "explanation": "Inverno. Masculino. Similar al español. 'In inverno fa freddo' = En invierno hace frío. Meses: dicembre, gennaio, febbraio."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "I mesi — el patrón",
+      "instruction": "Los meses en italiano son masculinos y van en minúscula. Se usan con la preposición 'a': a gennaio, a febbraio. Muchos se parecen al español. Atención a luglio (/ˈluʎʎo/) y giugno (/ˈdʒuɲɲo/).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+    },
+    {
+      "type": "introduce",
+      "title": "Le stagioni",
+      "instruction": "Las cuatro estaciones. Se usan con 'in' (sin artículo): in primavera, in estate, in autunno, in inverno.",
+      "itemIndices": [12, 13, 14, 15]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué mes o estación?",
+      "instruction": "Ves la palabra en italiano. Elegí la traducción.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    },
+    {
+      "type": "recall",
+      "title": "Del español al italiano",
+      "instruction": "Ves el mes en español. Escribí el mes en italiano (en minúscula).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+    },
+    {
+      "type": "summary",
+      "title": "¡Mesi e stagioni!",
+      "instruction": "Enero=gennaio, feb=febbraio, mar=marzo, apr=aprile, mag=maggio, giu=giugno, lug=luglio, ago=agosto, set=settembre, ott=ottobre, nov=novembre, dic=dicembre. Estaciones: primavera, estate(verano), autunno, inverno. Con preposición 'A' con meses, 'IN' con estaciones.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    }
+  ]
+}

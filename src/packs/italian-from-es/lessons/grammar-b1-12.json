@@ -1,0 +1,83 @@
+{
+  "id": "grammar-b1-12",
+  "title": "Costruzioni con l'infinito",
+  "description": "Las construcciones preposicionales con el infinitivo en italiano: prima di, dopo aver, senza, invece di, per. Fundamentales para hablar con fluidez.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "prima di + infinito",
+      "back": "antes de + infinitivo",
+      "reading": "",
+      "explanation": "'Prima di uscire, chiudi la porta' = Antes de salir, cierra la puerta. Mismo sujeto → 'prima di + infinito'. Sujetos diferentes → 'prima che + congiuntivo': 'prima che tu esca'."
+    },
+    {
+      "front": "dopo aver/essere + participio",
+      "back": "después de haber + participio",
+      "reading": "",
+      "explanation": "¡REGOLA IMPORTANTE! 'Dopo' requiere el INFINITO PASSATO, no el presente. 'Dopo aver mangiato' (NOT 'dopo mangiare'). Con essere: 'dopo essere arrivato'. Esta es una diferencia con el español donde 'después de comer' es posible."
+    },
+    {
+      "front": "senza + infinito",
+      "back": "sin + infinitivo",
+      "reading": "",
+      "explanation": "'È uscito senza salutare' = Salió sin saludar. Mismo sujeto → infinito. Sujetos diferentes → 'senza che + congiuntivo': 'è uscito senza che nessuno lo vedesse'."
+    },
+    {
+      "front": "invece di + infinito",
+      "back": "en lugar de + infinitivo",
+      "reading": "",
+      "explanation": "'Invece di lamentarti, fai qualcosa!' = En lugar de quejarte, ¡haz algo! Siempre con infinito con el mismo sujeto. Para sujetos distintos: construcción alternativa o reescribir la frase."
+    },
+    {
+      "front": "per + infinito",
+      "back": "para + infinitivo (finalidad) / por + haber hecho (causa)",
+      "reading": "",
+      "explanation": "Doble uso de 'per': 1) Finalidad: 'Studio per imparare' (estudio para aprender). 2) Causa (passato): 'L'hanno premiato per aver vinto' (lo premiaron por haber ganado). Con el sentido de causa usa a menudo el infinito passato."
+    },
+    {
+      "front": "a forza di + infinito",
+      "back": "a fuerza de + infinitivo",
+      "reading": "",
+      "explanation": "'A forza di studiare, è diventato esperto' = A fuerza de estudiar, se volvió experto. Expresa que algo se logró por repetición o insistencia. No tiene equivalente directo preposicional en español estándar."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Prima di y senza",
+      "instruction": "'Prima di + infinito' y 'senza + infinito' funcionan igual que en español (antes de + inf., sin + inf.). Con sujetos diferentes: 'prima che / senza che + congiuntivo'.",
+      "itemIndices": [0, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Dopo: el infinito passato es obligatorio",
+      "instruction": "¡Diferencia crítica con el español! 'Dopo' SIEMPRE requiere el infinito PASSATO: 'dopo aver mangiato' (después de comer). Nunca *'dopo mangiare'. Con essere: 'dopo essere arrivato/a'.",
+      "itemIndices": [1]
+    },
+    {
+      "type": "introduce",
+      "title": "Per, invece di y a forza di",
+      "instruction": "'Per' tiene doble uso: finalidad (para) y causa-passato (por haber). 'Invece di' = en lugar de. 'A forza di' expresa logro por repetición — expresión muy italiana.",
+      "itemIndices": [3, 4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "¿Infinito o infinito passato?",
+      "instruction": "¿Prima di, senza, invece di → infinito presente o passato? ¿Y 'dopo'?",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "recall",
+      "title": "Traducí al italiano",
+      "instruction": "Completá con la construcción correcta.",
+      "itemIndices": [3, 4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "Resumen: Costruzioni con l'infinito",
+      "instruction": "Mapa: prima di + infinito | dopo + infinito PASSATO (¡obligatorio!) | senza + infinito | invece di + infinito | per + infinito (finalidad) o per + aver fatto (causa). La trampa más común: 'dopo mangiare' → ✗ | 'dopo aver mangiato' → ✓.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

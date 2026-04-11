@@ -1,0 +1,107 @@
+{
+  "id": "vocab-c1-04",
+  "title": "Espressioni idiomatiche I",
+  "description": "Los primeros 10 idioms más usados del italiano cotidiano y cultural. Dominar estas expresiones es la diferencia entre sonar avanzado y sonar nativo. Los idioms italianos tienen una lógica interna fascinante — muchos usan imágenes corporales, animales u objetos concretos para expresar realidades abstractas.",
+  "level": "c1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "avere le mani bucate",
+      "back": "ser un derrochador / el dinero no le dura",
+      "reading": "",
+      "explanation": "Literalmente 'tener las manos agujereadas'. El dinero se escapa por los agujeros. Ejemplo: 'Non dargli soldi, ha le mani bucate!' (¡No le des dinero, es un derrochador!). Opuesto: 'essere tirchio' (ser tacaño) o 'tenere il punto' (no ceder un centavo)."
+    },
+    {
+      "front": "fare orecchie da mercante",
+      "back": "hacerse el sordo / ignorar deliberadamente",
+      "reading": "",
+      "explanation": "Origen histórico: los mercaderes fingían no escuchar las ofertas desfavorables para negociar mejor. Hoy: actuar como si no se hubiera oído algo que incomoda. 'Gli ho detto mille volte di smettere ma fa orecchie da mercante.'"
+    },
+    {
+      "front": "prendere fischi per fiaschi",
+      "back": "confundirse completamente / equivocarse estrepitosamente",
+      "reading": "",
+      "explanation": "Literalmente 'tomar silbidos por frascos'. La rima entre fischi y fiaschi es la clave mnemotécnica. Similar al español 'tomar el rábano por las hojas'. 'Ha preso fischi per fiaschi: pensava che la riunione fosse domani.'"
+    },
+    {
+      "front": "andare a gonfie vele",
+      "back": "ir viento en popa / ir de maravilla",
+      "reading": "",
+      "explanation": "Imagen náutica: las velas henchidas de viento indican un barco que avanza estupendamente. 'Il suo nuovo ristorante va a gonfie vele.' Se usa para negocios, relaciones, proyectos. Siempre positivo."
+    },
+    {
+      "front": "tenere il punto",
+      "back": "mantener la posición / no ceder / defender la postura",
+      "reading": "",
+      "explanation": "'Nonostante le pressioni, tenne il punto senza cedere.' Metáfora militar/deportiva: el punto que defiende un soldado o atleta. En negociaciones y debates, es un elogio de la firmeza."
+    },
+    {
+      "front": "mettere i puntini sulle i",
+      "back": "poner los puntos sobre las íes / ser preciso y claro",
+      "reading": "",
+      "explanation": "'Permettimi di mettere i puntini sulle i: questa non era la nostra intesa.' Imagen tipográfica: la escritura antigua italiana a veces omitía los puntos sobre la i — ponerlos es añadir la precisión necesaria."
+    },
+    {
+      "front": "avere il fiato sul collo",
+      "back": "tener a alguien encima / estar bajo presión constante",
+      "reading": "",
+      "explanation": "'Con la scadenza domani, ho il capo che mi ha il fiato sul collo.' Imagen física: sentir la respiración de alguien en la nuca = alguien muy cerca, supervisando o presionando. Equivale al inglés 'breathing down one's neck'."
+    },
+    {
+      "front": "a carte scoperte",
+      "back": "con las cartas sobre la mesa / con transparencia total",
+      "reading": "",
+      "explanation": "Del juego de cartas: mostrar las cartas sin ocultarlas. 'Voglio trattare a carte scoperte: eccoti tutti i dati.' Opuesto: 'giocare a carte coperte' = guardar secretos, actuar con opacidad."
+    },
+    {
+      "front": "non ci piove",
+      "back": "no hay duda / está clarísimo / es innegable",
+      "reading": "",
+      "explanation": "'Che sia il migliore candidato non ci piove.' Literalmente 'sobre eso no llueve' (ninguna nube de duda lo cubre). Uso muy coloquial pero frecuente incluso en medios. Refuerza una afirmación evidente."
+    },
+    {
+      "front": "salvare la capra e i cavoli",
+      "back": "salvar los muebles / quedar bien con todos",
+      "reading": "",
+      "explanation": "Del acertijo lógico del barquero que debe cruzar una cabra, un lobo y una col sin que ninguno se coma al otro. 'Il politico cercava di salvare la capra e i cavoli, ma non ci riusciva.' Implica la dificultad (o la hipocresía) de querer contentar a todos."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Los idioms del cuerpo y los sentidos",
+      "instruction": "Los primeros cinco idioms usan imágenes de manos, orejas, confusión y movimiento. En italiano, el cuerpo es una fuente riquísima de expresiones idiomáticas. Observa la lógica interna de cada una — una vez que la ves, nunca la olvidas.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Qué significa en este contexto?",
+      "instruction": "Lee el contexto y elige el significado correcto del idiom. Atención: algunos tienen usos ligeramente distintos según el contexto (positivo/negativo, literario/coloquial).",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "5 idioms más del registro C1",
+      "instruction": "Los siguientes cinco idioms son especialmente útiles en contextos profesionales, políticos y de debate. 'Mettere i puntini sulle i', 'tenere il punto' y 'a carte scoperte' son casi de registro formal. 'Non ci piove' y 'salvare la capra e i cavoli' son más coloquiales pero reconocidos en todos los contextos.",
+      "itemIndices": [5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cuál es el idiom?",
+      "instruction": "Ves la descripción o la traducción española. Escribe el idiom italiano completo. Los idioms son fijos: no puedes cambiar palabras.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Los idioms en un diálogo real",
+      "instruction": "Lee este micro-diálogo: 'Marco vuole trattare a carte scoperte con il cliente, ma il suo socio fa sempre orecchie da mercante. A conti fatti, l'azienda va a gonfie vele, ma Marco ha il fiato sul collo per le scadenze.' ¿Cuántos idioms reconoces? ¿Qué dice el texto?",
+      "itemIndices": [3, 1, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "10 idioms dominados",
+      "instruction": "Recordá: los idioms son fijos — no los traduzcas literalmente ni cambies las palabras. Para aprenderlos: (1) escúchalos en contexto real (RAI, Netflix italiano, podcast italiani). (2) Úsalos activamente en conversación — los italianos los aprecian en un extranjero. En la próxima lección: 10 idioms más del registro C1.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

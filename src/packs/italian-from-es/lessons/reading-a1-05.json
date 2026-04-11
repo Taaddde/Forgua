@@ -1,0 +1,89 @@
+{
+  "id": "reading-a1-05",
+  "title": "Lettura: La mia città",
+  "description": "Quinta lectura A1. Una persona describe su ciudad: Florencia, sus atracciones, el barrio donde vive y por qué le gusta. Vocabulario de ciudad, lugares y piacere.",
+  "level": "a1",
+  "category": "reading",
+  "items": [
+    {
+      "front": "Abito a Firenze, una città bellissima nel centro dell'Italia.",
+      "back": "Vivo en Florencia, una ciudad hermosísima en el centro de Italia.",
+      "reading": "",
+      "explanation": "'Bellissima' = hermosísima (superlativo absoluto: bella + -issima). 'Nel centro dell'Italia' = en el centro de Italia (nel = in+il, dell' = di + l'). Florencia está efectivamente en el centro de la Toscana, en el centro-norte de Italia."
+    },
+    {
+      "front": "Firenze è famosa per i suoi musei e le sue chiese.",
+      "back": "Florencia es famosa por sus museos y sus iglesias.",
+      "reading": "",
+      "explanation": "'È famosa per' = es famosa por. 'I suoi musei' = sus museos (suoi concuerda con musei, m.pl.). 'Le sue chiese' = sus iglesias (sue concuerda con chiese, f.pl.). En español 'sus' es invariable; en italiano el posesivo concuerda con el poseído."
+    },
+    {
+      "front": "Il Duomo è il simbolo della città.",
+      "back": "El Duomo es el símbolo de la ciudad.",
+      "reading": "",
+      "explanation": "'Il Duomo' = la catedral (literalmente 'el domo'). En italiano 'il Duomo' es la catedral principal de una ciudad. El Duomo di Firenze (Santa Maria del Fiore) con su cúpula de Brunelleschi es uno de los monumentos más icónicos de Italia."
+    },
+    {
+      "front": "Nel centro storico ci sono molti turisti.",
+      "back": "En el casco histórico hay muchos turistas.",
+      "reading": "",
+      "explanation": "'Nel centro storico' = en el casco histórico (nel = in+il). 'Ci sono molti turisti' = hay muchos turistas (ci sono = hay, para plural). 'Il centro storico' = el casco antiguo/histórico, área típica de las ciudades italianas."
+    },
+    {
+      "front": "Io abito in un quartiere tranquillo vicino al centro.",
+      "back": "Yo vivo en un barrio tranquilo cerca del centro.",
+      "reading": "",
+      "explanation": "'Un quartiere tranquillo' = un barrio tranquilo. 'Vicino al centro' = cerca del centro (vicino a + al = vicino al). 'Quartiere' = barrio (similar a 'barrio', 'quartier' en francés). Los italianos describen mucho dónde viven en relación al centro."
+    },
+    {
+      "front": "Nel mio quartiere ci sono un supermercato, una farmacia e un bel parco.",
+      "back": "En mi barrio hay un supermercado, una farmacia y un lindo parque.",
+      "reading": "",
+      "explanation": "'Nel mio quartiere' = en mi barrio. 'Ci sono' = hay (plural, tres cosas). 'Un bel parco' = un lindo parque (bel = forma de bello ante consonante). ¿Qué hay en el barrio? Supermercato, farmacia, parco — vocabulario básico de lugares."
+    },
+    {
+      "front": "Mi piace molto la mia città perché è ricca di storia e cultura.",
+      "back": "Me gusta mucho mi ciudad porque es rica en historia y cultura.",
+      "reading": "",
+      "explanation": "'Mi piace molto' = me gusta mucho. 'Perché' = porque (respuesta) / por qué (pregunta). 'È ricca di storia e cultura' = es rica en historia y cultura ('ricca di' = rica en). 'La mia città' con artículo (posesivo en general lleva artículo)."
+    },
+    {
+      "front": "Vocabulario de ciudad: il quartiere, il centro storico, il parco, la farmacia, il supermercato",
+      "back": "el barrio, el casco histórico, el parque, la farmacia, el supermercado",
+      "reading": "",
+      "explanation": "Vocabulario de lugares en la ciudad. Otros lugares frecuentes: la piazza (la plaza), il bar (el bar/café), il ristorante (el restaurante), la chiesa (la iglesia), il museo (el museo), la stazione (la estación), l'ufficio postale (la oficina de correos), la banca (el banco)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "La mia città — Leemos juntos",
+      "instruction": "Texto completo: 'Abito a Firenze, una città bellissima nel centro dell'Italia. Firenze è famosa per i suoi musei e le sue chiese. Il Duomo è il simbolo della città. Nel centro storico ci sono molti turisti. Io abito in un quartiere tranquillo vicino al centro. Nel mio quartiere ci sono un supermercato, una farmacia e un bel parco. Mi piace molto la mia città perché è ricca di storia e cultura.'",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Vocabulario de ciudad en contexto",
+      "instruction": "Identificá y aprendé el vocabulario de ciudad: quartiere, centro storico, Duomo, parco, famosa per, ci sono.",
+      "itemIndices": [1, 3, 4, 5, 7]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Comprendé el texto",
+      "instruction": "¿Dónde está Florencia? ¿Por qué es famosa? ¿Qué hay en el barrio del narrador? ¿Por qué le gusta su ciudad?",
+      "itemIndices": [0, 1, 5, 6]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo es tu ciudad?",
+      "instruction": "Adaptá el texto para describir tu propia ciudad o barrio en italiano. Usá mi piace, ci sono, è famosa per...",
+      "itemIndices": [3, 5, 6]
+    },
+    {
+      "type": "summary",
+      "title": "La città italiana: vocabulario y estructuras",
+      "instruction": "Estructuras clave: 'È famosa per...' (es famosa por), 'ci sono...' (hay...), 'vicino a...' (cerca de), 'mi piace perché...' (me gusta porque). Vocabulario de ciudad: il Duomo (catedral), il centro storico (casco histórico), il quartiere (barrio), il parco (parque), la farmacia (farmacia), il supermercato (supermercado).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

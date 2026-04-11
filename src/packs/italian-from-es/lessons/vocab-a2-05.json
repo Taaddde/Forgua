@@ -1,0 +1,101 @@
+{
+  "id": "vocab-a2-05",
+  "title": "Il lavoro e la scuola",
+  "description": "Vocabulario del mundo laboral y académico italiano. Desde el ufficio hasta l'università, aprenderás a describir tu vida profesional y educativa.",
+  "level": "a2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "il lavoro",
+      "back": "el trabajo / el empleo",
+      "reading": "",
+      "explanation": "'Cerco lavoro' = Busco trabajo. 'È il mio lavoro' = Es mi trabajo. También: 'il posto di lavoro' = el puesto de trabajo."
+    },
+    {
+      "front": "l'ufficio",
+      "back": "la oficina",
+      "reading": "",
+      "explanation": "Cognado. 'Lavoro in ufficio' = Trabajo en la oficina. 'Vado in ufficio' (sin artículo, como en español 'voy a la oficina')."
+    },
+    {
+      "front": "il collega / la collega",
+      "back": "el/la colega / compañero/a de trabajo",
+      "reading": "",
+      "explanation": "Pl.: i colleghi / le colleghe. 'I miei colleghi sono simpatici.' = Mis compañeros de trabajo son simpáticos."
+    },
+    {
+      "front": "il capo / la capo (o: la capa)",
+      "back": "el/la jefe/a",
+      "reading": "",
+      "explanation": "'Il mio capo è molto esigente.' = Mi jefe es muy exigente. 'Capo' puede ser femenino invariable: 'la capo'."
+    },
+    {
+      "front": "la riunione",
+      "back": "la reunión",
+      "reading": "",
+      "explanation": "Cognado. 'Ho una riunione importante.' = Tengo una reunión importante. 'Essere in riunione' = estar en reunión."
+    },
+    {
+      "front": "lo stipendio",
+      "back": "el salario / el sueldo",
+      "reading": "",
+      "explanation": "'Quanto guadagni?' = ¿Cuánto ganas? 'Il mio stipendio è di 1500 euro al mese.' = Mi sueldo es de 1500 euros al mes."
+    },
+    {
+      "front": "l'esame",
+      "back": "el examen",
+      "reading": "",
+      "explanation": "'Dare un esame' = hacer/presentar un examen. 'Superare l'esame' = aprobar el examen. 'Bocciare all'esame' = reprobar."
+    },
+    {
+      "front": "il voto",
+      "back": "la nota / la calificación",
+      "reading": "",
+      "explanation": "En Italia el voto universitario es de 18 a 30 (30 = sobresaliente). 'Ho preso 28/30.' = Saqué 28 sobre 30."
+    },
+    {
+      "front": "l'università / la scuola media / il liceo",
+      "back": "la universidad / la secundaria / el bachillerato",
+      "reading": "",
+      "explanation": "Sistema educativo italiano: scuola elementare (6-11) → scuola media (11-14) → liceo/istituto tecnico (14-19) → università."
+    },
+    {
+      "front": "la laurea",
+      "back": "el título universitario / la licenciatura",
+      "reading": "",
+      "explanation": "'Prendere la laurea' = graduarse. 'Sono laureato in ingegneria.' = Soy licenciado en ingeniería. También: 'laurearsi' = licenciarse."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "En el trabajo — l'ufficio",
+      "instruction": "Vocabulario del entorno laboral italiano.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice en italiano?",
+      "instruction": "Practica el vocabulario laboral.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "introduce",
+      "title": "En la escuela y la universidad",
+      "instruction": "Vocabulario del sistema educativo italiano.",
+      "itemIndices": [6, 7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "Trabajo y estudios",
+      "instruction": "Practica todo el vocabulario de esta lección.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "Il lavoro e la scuola — consolidado",
+      "instruction": "Recuerda: en Italia el sistema de calificaciones universitarias va de 18 a 30 (con lode = con honor). 'Dare l'esame' = presentarse al examen (diferente al español 'dar clases').",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

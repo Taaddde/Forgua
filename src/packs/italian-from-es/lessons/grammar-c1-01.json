@@ -1,0 +1,83 @@
+{
+  "id": "grammar-c1-01",
+  "title": "Passato remoto avanzato",
+  "description": "El passato remoto tiene irregulares más complejos que los del B2, y su uso varía radicalmente entre norte y sur de Italia. En la literatura es el tiempo de la narración por excelencia. Dominar este nivel de detalle te permite leer textos históricos y literarios con fluidez.",
+  "level": "c1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "chiedere → chiesi / chiese / chiese / chiedemmo / chiedeste / CHIESERO",
+      "back": "El sistema 1-3-3: 1ª persona, 3ª singular y 3ª plural son irregulares; el resto es regular.",
+      "reading": "",
+      "explanation": "La clave del passato remoto de los verbos en -ere: solo la 1ª singular y la 3ª (singular y plural) son irregulares. Raíz: chied- → chies-. Igual para: risposi, presi, misi, lessi, scrissi, vissi, caddi, tenni, venni, vidi, seppi, volli."
+    },
+    {
+      "front": "Dante nacque a Firenze nel 1265 e morì a Ravenna nel 1321.",
+      "back": "Uso literario: passato remoto para eventos históricos en TODA Italia.",
+      "reading": "",
+      "explanation": "En narrativa histórica y literaria, el passato remoto es la norma en toda Italia, independientemente de la variación regional nord/sud. Contrasta con el norte donde en conversación se usa el passato prossimo incluso para eventos lejanos."
+    },
+    {
+      "front": "Nord Italia: 'Ieri ho mangiato bene' / Sud Italia: 'Ieri mangiai bene'",
+      "back": "Variación regional: norte = passato prossimo incluso para el pasado lejano / sur = passato remoto incluso para hoy.",
+      "reading": "",
+      "explanation": "Esta es la diferencia sociolingüística más marcada del italiano: en Milano, Torino, Bologna se usa il passato prossimo para todo. En Napoli, Palermo, Bari el passato remoto es normal para eventos recientes. Toscana e Italia Centrale usan una distinción más matizada."
+    },
+    {
+      "front": "Aprì la porta, entrò nella stanza e vide quello che non avrebbe mai voluto vedere. La luce filtrava debolmente dalla persiana.",
+      "back": "Narración literaria: passato remoto para acciones / imperfetto per stati e descrizioni.",
+      "reading": "",
+      "explanation": "Este es el sistema de la narración literaria italiana: las acciones puntuales = passato remoto; los estados y descripciones = imperfetto. 'Aprì/entrò/vide' (acciones) vs 'filtrava' (estado/descripción). Sistema idéntico al español con indefinido/imperfecto."
+    },
+    {
+      "front": "Garibaldi partì da Quarto con i Mille nel 1860. / Leopardi visse una vita di dolore ma creò poesie immortali.",
+      "back": "Passato remoto en textos históricos: narración de eventos del pasado como historia.",
+      "reading": "",
+      "explanation": "Para hablar de figuras históricas en textos escritos, el passato remoto es siempre correcto en toda Italia. Incluso en el norte, cuando se narra en modo histórico o literario, se usa el passato remoto."
+    },
+    {
+      "front": "essere → fui, fosti, fu, fummo, foste, furono / fare → feci, facesti, fece, fecemmo, faceste, fecero",
+      "back": "Irregolari fondamentali: essere y fare son completamente irregulares.",
+      "reading": "",
+      "explanation": "'Essere' y 'fare' son los más usados y más irregulares. 'Dare' tiene una doble forma: diedi/detti, diede/dette (ambas aceptables). 'Stare' sigue a essere: stetti, stesti, stette, stemmo, steste, stettero."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El sistema 1-3-3 de los irregolari",
+      "instruction": "La regla más importante del passato remoto C1: los verbos irregulares en -ere siguen un patrón de 3 formas irregulares (1ª sg, 3ª sg, 3ª pl) y 3 formas regulares. Una vez que internalizas este patrón, la mayoría de los irregulares dejan de ser memorización bruta.",
+      "itemIndices": [0, 5]
+    },
+    {
+      "type": "introduce",
+      "title": "La variación Nord/Sud",
+      "instruction": "Este es un fenómeno que debes conocer activamente: si hablas con un milanés, usando el passato remoto en conversación suenas 'del sur' (no es error, pero es marcador regional). Si hablas con un napolitano, el passato remoto en conversación es perfectamente natural. En escritura formal y literatura, el passato remoto es siempre apropiado.",
+      "itemIndices": [2]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completa con el passato remoto correcto",
+      "instruction": "Para cada verbo entre paréntesis, escribe la forma correcta del passato remoto. Usa el contexto para verificar que es narración literaria (passato remoto obligatorio).",
+      "itemIndices": [0, 1, 4, 5]
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Passato remoto o prossimo?",
+      "instruction": "Identifica qué tiempo verbal es más apropiado en cada contexto: ¿texto literario/histórico (passato remoto) o conversación informal del norte (passato prossimo)?",
+      "itemIndices": [1, 2, 3]
+    },
+    {
+      "type": "recall",
+      "title": "La narración literaria",
+      "instruction": "Lee el fragmento de narración literaria. Identifica qué verbos están en passato remoto y cuáles en imperfetto, y explica por qué.",
+      "itemIndices": [3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "Passato remoto avanzato — dominado",
+      "instruction": "Los tres puntos clave: (1) sistema 1-3-3 para los irregolari in -ere. (2) Uso literario/histórico = passato remoto en toda Italia. (3) Variación regional Nord/Sud en conversación. Para practicar la lectura: cualquier racconto italiano del Novecento (Moravia, Calvino, Pavese) usa el passato remoto narrativo.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "conv-b2-02",
+  "title": "Conversazione: Un colloquio di lavoro",
+  "description": "El italiano para una entrevista de trabajo: presentarse, hablar de experiencia y competencias, hacer preguntas sobre el puesto. Registro formal B2.",
+  "level": "b2",
+  "category": "conversation",
+  "items": [
+    {
+      "front": "Ho inviato il mio curriculum in risposta all'annuncio pubblicato il...",
+      "back": "Envié mi currículum en respuesta al anuncio publicado el...",
+      "reading": "",
+      "explanation": "'Ho inviato' = envié (passato prossimo di 'inviare'). 'In risposta a' = en respuesta a. 'L'annuncio' = el anuncio (de trabajo). Vocabulario del colloquio: 'il curriculum vitae' (el CV), 'l'annuncio di lavoro' (el anuncio de trabajo), 'la candidatura' (la candidatura/postulación), 'la lettera motivazionale' (carta de presentación), 'il colloquio' (la entrevista)."
+    },
+    {
+      "front": "Ho circa cinque anni di esperienza nel settore della comunicazione digitale.",
+      "back": "Tengo aproximadamente cinco años de experiencia en el sector de la comunicación digital.",
+      "reading": "",
+      "explanation": "'Ho X anni di esperienza' = tengo X años de experiencia. 'Nel settore di' = en el sector de. 'La comunicazione digitale' = la comunicación digital. Vocabulario de experiencia: 'Ho lavorato come...' (trabajé como...), 'Ho ricoperto il ruolo di...' (desempeñé el cargo de...), 'Ho gestito...' (gestioné...), 'Ho coordinato un team di...' (coordiné un equipo de...). 'Ricoprire un ruolo' es muy formal y profesional."
+    },
+    {
+      "front": "Sono una persona dinamica, flessibile e orientata ai risultati.",
+      "back": "Soy una persona dinámica, flexible y orientada a los resultados.",
+      "reading": "",
+      "explanation": "Aggettivi di self-presentazione en el colloquio: dinamico/a, flessibile, preciso/a, affidabile (confiable), organizzato/a, proattivo/a, orientato ai risultati, disponibile. ⚠️ Estas son las cualidades que los italianos suelen mencionar en entrevistas. Evita clichés vacíos: es mejor dar ejemplos concretos: 'Sono una persona precisa: ad esempio nel mio ultimo lavoro ho ridotto gli errori del 30%'."
+    },
+    {
+      "front": "Le mie competenze principali includono la gestione di progetti e la comunicazione con i clienti.",
+      "back": "Mis principales competencias incluyen la gestión de proyectos y la comunicación con los clientes.",
+      "reading": "",
+      "explanation": "'Le mie competenze' = mis competencias, mis habilidades. 'Includere' = incluir. 'La gestione di progetti' = la gestión de proyectos (nominalizzazione). 'La comunicazione con i clienti' = la comunicación con los clientes. Vocabulario de competencias: 'ho competenze in...' (tengo competencias en...), 'sono esperto/a di...' (soy experto/a en...), 'ho una buona padronanza di...' (tengo un buen dominio de...)."
+    },
+    {
+      "front": "Ho conseguito la laurea magistrale in Scienze della Comunicazione nel 2021.",
+      "back": "Obtuve el máster universitario en Ciencias de la Comunicación en 2021.",
+      "reading": "",
+      "explanation": "'Ho conseguito' = obtuve, logré (passato prossimo di 'conseguire' = lograr/obtener). 'La laurea magistrale' = el máster/título universitario de segundo nivel. 'Conseguire la laurea' = graduarse. 'Scienze della Comunicazione' = Ciencias de la Comunicación. Vocabulario de formación: 'ho frequentato un corso di...' (hice un curso de...), 'ho ottenuto una certificazione di...' (obtuve una certificación de...)."
+    },
+    {
+      "front": "Quali sarebbero le prospettive di crescita per questa posizione?",
+      "back": "¿Cuáles serían las perspectivas de crecimiento para esta posición?",
+      "reading": "",
+      "explanation": "'Quali sarebbero' = ¿cuáles serían? (condizionale, más cortés que 'quali sono'). 'Le prospettive di crescita' = las perspectivas de crecimiento. 'La posizione' = el puesto/cargo. Preguntas importantes en el colloquio italiano: 'Com'è composto il team con cui lavorerei?' (¿Cómo está formado el equipo con el que trabajaría?), 'Qual è la cultura aziendale?' (¿Cuál es la cultura empresarial?), 'È previsto un periodo di formazione?' (¿Hay un período de formación?)."
+    },
+    {
+      "front": "Sono molto motivato/a a lavorare in questa azienda perché...",
+      "back": "Estoy muy motivado/a para trabajar en esta empresa porque...",
+      "reading": "",
+      "explanation": "'Sono motivato/a a + infinitivo' = estoy motivado/a para hacer algo. Concordanza: motivato (m.), motivata (f.). 'In questa azienda' = en esta empresa. Siempre da una razón específica: 'perché credo nella vostra missione di...', 'perché ammiro la vostra reputazione nel settore di...'. La motivación específica muestra que investigaste la empresa (elemento muy valorado en Italia)."
+    },
+    {
+      "front": "Grazie per questa opportunità. Sono a disposizione per qualsiasi ulteriore informazione.",
+      "back": "Gracias por esta oportunidad. Quedo a disposición para cualquier información adicional.",
+      "reading": "",
+      "explanation": "CHIUSURA FORMALE del colloquio. 'Sono a disposizione per' = quedo a disposición para. 'Qualsiasi ulteriore informazione' = cualquier información adicional. 'Ulteriore' = adicional, posterior (más formal que 'aggiuntivo'). Otras frases de cierre: 'Resto in attesa di un vostro riscontro' (quedo a la espera de su respuesta), 'Grazie per il tempo dedicatomi' (gracias por el tiempo dedicado)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Estructura del colloquio di lavoro italiano",
+      "instruction": "Un colloquio italiano típico sigue: 1) Presentación ('Ho inviato il mio curriculum...'), 2) Formación ('Ho conseguito...'), 3) Experiencia ('Ho X anni di esperienza...'), 4) Competencias y cualidades, 5) Motivación, 6) Preguntas al entrevistador, 7) Cierre. Aprende cada fase.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Competencias y cualidades: cómo presentarse",
+      "instruction": "En italiano, presentarse bien en un colloquio requiere vocabulario específico: 'competenze', 'ricoprire un ruolo', 'orientato ai risultati', 'ho conseguito'. Evita los clichés vacíos: siempre da ejemplos concretos.",
+      "itemIndices": [2, 3, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "Preguntas al entrevistador y cierre",
+      "instruction": "Hacer preguntas al entrevistador es muy valorado en Italia: muestra interés y preparación. Usa el condizionale ('sarebbero') para suavizar las preguntas. El cierre formal ('sono a disposizione') es obligatorio.",
+      "itemIndices": [5, 6, 7]
+    },
+    {
+      "type": "conversation-script",
+      "title": "Simulación de colloquio di lavoro",
+      "instruction": "Practica un colloquio completo para un puesto de marketing digital. Usa todas las fórmulas de la lección. Primero eres el candidato, luego el entrevistador.",
+      "itemIndices": [0, 1, 4, 5, 7]
+    }
+  ]
+}

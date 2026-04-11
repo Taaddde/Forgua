@@ -1,0 +1,107 @@
+{
+  "id": "vocab-a2-02",
+  "title": "In viaggio",
+  "description": "Todo el vocabulario que necesitas para viajar en Italia: transporte, alojamiento, documentación y gestión de imprevistos.",
+  "level": "a2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "il viaggio",
+      "back": "el viaje",
+      "reading": "",
+      "explanation": "'Buon viaggio!' = ¡Buen viaje! 'Il viaggio dura due ore' = El viaje dura dos horas."
+    },
+    {
+      "front": "il biglietto",
+      "back": "el billete / el boleto / la entrada",
+      "reading": "",
+      "explanation": "Sirve para tren, autobús, teatro, museo... 'Un biglietto di sola andata' = Un billete solo de ida."
+    },
+    {
+      "front": "andata e ritorno",
+      "back": "ida y vuelta",
+      "reading": "",
+      "explanation": "Frase completa para pedir billete de ida y vuelta. 'Vorrei un biglietto andata e ritorno per Venezia.' = Quisiera un billete de ida y vuelta a Venecia."
+    },
+    {
+      "front": "la prenotazione",
+      "back": "la reserva",
+      "reading": "",
+      "explanation": "'Ho una prenotazione a nome Rossi.' = Tengo una reserva a nombre de Rossi. Del verbo 'prenotare' = reservar."
+    },
+    {
+      "front": "il ritardo",
+      "back": "el retraso",
+      "reading": "",
+      "explanation": "'Il treno ha un ritardo di 30 minuti.' = El tren tiene un retraso de 30 minutos. ¡Muy útil en Italia!"
+    },
+    {
+      "front": "la partenza / l'arrivo",
+      "back": "la salida / la llegada",
+      "reading": "",
+      "explanation": "Verás estos términos en tablones de horarios. 'Orario di partenza' = horario de salida."
+    },
+    {
+      "front": "la valigia",
+      "back": "la maleta",
+      "reading": "",
+      "explanation": "'Fare la valigia' = hacer la maleta. 'Ho dimenticato la valigia!' = ¡Olvidé la maleta!"
+    },
+    {
+      "front": "il passaporto",
+      "back": "el pasaporte",
+      "reading": "",
+      "explanation": "Cognado. 'Ho bisogno del passaporto?' = ¿Necesito el pasaporte?"
+    },
+    {
+      "front": "l'albergo / l'ostello",
+      "back": "el hotel / el albergue",
+      "reading": "",
+      "explanation": "Albergo = hotel (más formal). Ostello = hostal/albergue juvenil. 'Avete camere libere?' = ¿Tienen habitaciones disponibles?"
+    },
+    {
+      "front": "il binario",
+      "back": "el andén / la vía (tren)",
+      "reading": "",
+      "explanation": "'Il treno parte dal binario 3.' = El tren sale del andén 3. Imprescindible en las estaciones italianas."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Antes de salir — documentos y reservas",
+      "instruction": "Estas palabras necesitas antes del viaje: el pasaporte, la reserva, los billetes.",
+      "itemIndices": [3, 7, 0]
+    },
+    {
+      "type": "introduce",
+      "title": "En la estación y el aeropuerto",
+      "instruction": "Vocabulario para moverse en estaciones y aeropuertos italianos.",
+      "itemIndices": [1, 2, 5, 9, 4]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo lo dices en italiano?",
+      "instruction": "Traduce al italiano.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "introduce",
+      "title": "El equipaje y el alojamiento",
+      "instruction": "Una vez en destino: la maleta y donde quedarse.",
+      "itemIndices": [6, 8]
+    },
+    {
+      "type": "recall",
+      "title": "Vocabulario de viaje completo",
+      "instruction": "Practica todo el vocabulario de esta lección.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "In viaggio — consolidado",
+      "instruction": "Con este vocabulario puedes viajar por Italia independientemente: comprar billetes, hacer reservas, preguntar andenes y entender los tablones de llegadas y salidas.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

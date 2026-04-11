@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a2-20",
+  "title": "Da + tempo — Vivo qui da tre anni",
+  "description": "El uso de 'da' para expresar duración hasta el presente. Equivale al español 'desde hace' o 'hace X tiempo que'. Para hispanohablantes: la estructura es diferente — en italiano se usa el PRESENTE, no el pasado.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Vivo qui da tre anni.",
+      "back": "Vivo aquí desde hace tres años. / Hace tres años que vivo aquí.",
+      "reading": "",
+      "explanation": "DA + periodo di tempo = duración de una acción que EMPEZÓ en el pasado y CONTINÚA en el presente. En italiano se usa el PRESENTE (vivo), no el passato prossimo. En español: 'vivo aquí desde hace tres años' o 'hace tres años que vivo aquí'. La diferencia clave: italiano = presente simple."
+    },
+    {
+      "front": "Lavoro in questa ditta da cinque anni.",
+      "back": "Trabajo en esta empresa desde hace cinco años.",
+      "reading": "",
+      "explanation": "PRESENTE + DA + numero + unità di tempo. 'Da cinque anni' = desde hace cinco años. 'Studia l'italiano da sei mesi' = Estudia italiano desde hace seis meses. Siempre PRESENTE cuando la acción continúa ahora."
+    },
+    {
+      "front": "Da quanto tempo...? — ¿Desde cuándo...? / ¿Hace cuánto...?",
+      "back": "¿Cuánto tiempo hace que...? / ¿Desde hace cuánto...?",
+      "reading": "",
+      "explanation": "'Da quanto tempo studi l'italiano?' = ¿Hace cuánto tiempo que estudias italiano? / ¿Desde cuándo estudias italiano? Respuesta: 'Studio l'italiano da sei mesi' = Estudio italiano desde hace seis meses. Pregunta fundamental para esta estructura."
+    },
+    {
+      "front": "Da quando...? — ¿Desde cuándo?",
+      "back": "¿Desde cuándo? (punto de partida específico)",
+      "reading": "",
+      "explanation": "'Da quando' pregunta el MOMENTO de inicio (no la duración). 'Da quando lavori lì?' = ¿Desde cuándo trabajás ahí? Respuesta: 'Da marzo' (desde marzo), 'da lunedì' (desde el lunes), 'dall'anno scorso' (desde el año pasado). Diferente de 'da quanto tempo' (duración)."
+    },
+    {
+      "front": "Da + punto di tempo specifico: da lunedì / dal 2020 / dall'anno scorso",
+      "back": "desde el lunes / desde 2020 / desde el año pasado",
+      "reading": "",
+      "explanation": "DA también se usa con puntos de tiempo específicos (no solo duración). 'Lavoro qui dal 2020' = Trabajo aquí desde 2020. 'Non lo vedo da lunedì' = No lo veo desde el lunes. 'Da allora' = Desde entonces. 'Da ieri' = Desde ayer."
+    },
+    {
+      "front": "Non + verbo + da + tempo: Non lo vedo da una settimana.",
+      "back": "No lo veo desde hace una semana. / Hace una semana que no lo veo.",
+      "reading": "",
+      "explanation": "La estructura funciona también en negativo. 'Non mangio carne da due anni' = No como carne desde hace dos años. 'Non dormo bene da giorni' = No duermo bien desde hace días. En español: 'hace X que no + presente'."
+    },
+    {
+      "front": "Italiano vs Español: io vivo qui da tre anni ≠ yo viví aquí...",
+      "back": "Presente en italiano vs pasado en español (según construcción)",
+      "reading": "",
+      "explanation": "DIFERENCIA CLAVE: Español: 'Vivo aquí desde hace tres años' (presente, como en italiano). PERO en algunos contextos el español usa 'Hace tres años que vivo aquí' (presente) O 'Llevo tres años viviendo aquí' (con llevar + gerundio). En italiano solo existe la estructura PRESENTE + DA. No hay equivalente de 'llevar + gerundio'."
+    },
+    {
+      "front": "Da vs Per: duración en curso vs duración completada",
+      "back": "DA = desde hace (acción continúa) / PER = durante / por (acción completada)",
+      "reading": "",
+      "explanation": "DA: acción que SIGUE en el presente. 'Vivo qui DA tre anni' (y sigo viviendo). PER: duración de algo COMPLETADO. 'Ho vissuto a Roma PER tre anni' = Viví en Roma durante tres años (ya no vivo ahí). 'Ho studiato PER due ore' = Estudié durante dos horas. Esta distinción es muy importante."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Da + tempo: la acción continúa ahora",
+      "instruction": "PRESENTE + DA + duración = acción que empezó en el pasado y sigue ahora. 'Vivo qui da tre anni' = Vivo aquí desde hace tres años. En italiano: PRESENTE (no pasado).",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Preguntar, puntos de inicio y la diferencia da/per",
+      "instruction": "'Da quanto tempo?' (duración), 'Da quando?' (momento inicio). DA = acción continua. PER = acción completada. También funciona en negativo.",
+      "itemIndices": [3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Da o Per?",
+      "instruction": "Elegí la preposición correcta: DA (acción continúa) o PER (acción completada).",
+      "itemIndices": [7]
+    },
+    {
+      "type": "recall",
+      "title": "Traducí al italiano con DA",
+      "instruction": "Traducí estas frases usando PRESENTE + DA. Recordá: en italiano siempre presente.",
+      "itemIndices": [0, 1, 5, 6]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Respondé las preguntas con DA",
+      "instruction": "Respondé usando la estructura presente + da + tiempo.",
+      "itemIndices": [2, 3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "DA + tempo: la estructura del presente continuo",
+      "instruction": "ESTRUCTURA: PRESENTE + DA + periodo (vivo qui da tre anni). PREGUNTA: Da quanto tempo? (duración) / Da quando? (punto inicio). NEGATIVO: non + presente + da (non lo vedo da giorni). CONTRASTE: DA (acción continúa) vs PER (acción completada: ho studiato per due ore).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

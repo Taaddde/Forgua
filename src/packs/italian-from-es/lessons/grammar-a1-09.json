@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a1-09",
+  "title": "Verbi -ARE: parlare, lavorare, abitare",
+  "description": "Los verbos regulares en -ARE son los más numerosos del italiano. El patrón es muy similar al español.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "parlare → parl- + terminaciones",
+      "back": "hablar → raíz parl- + -o/-i/-a/-iamo/-ate/-ano",
+      "reading": "",
+      "explanation": "La raíz de parlare es 'parl-'. Las terminaciones del presente: -o (io), -i (tu), -a (lui/lei), -iamo (noi), -ate (voi), -ano (loro). Ejemplo completo: parlo, parli, parla, parliamo, parlate, parlano."
+    },
+    {
+      "front": "io parlo / tu parli",
+      "back": "yo hablo / vos hablás",
+      "reading": "",
+      "explanation": "-O para 'io', -I para 'tu'. Similar al español. 'Parlo italiano' = Hablo italiano. 'Parli bene!' = ¡Hablás bien! La terminación ya indica la persona — el pronombre es opcional."
+    },
+    {
+      "front": "lui parla / lei parla",
+      "back": "él/ella habla",
+      "reading": "",
+      "explanation": "-A para 3a persona singular. 'Lui parla troppo' = Él habla demasiado. 'Lei parla italiano?' = ¿Ella habla italiano? La forma es igual para él y ella."
+    },
+    {
+      "front": "noi parliamo / voi parlate",
+      "back": "nosotros hablamos / ustedes hablan",
+      "reading": "",
+      "explanation": "-IAMO para nosotros, -ATE para vosotros/ustedes. 'Parliamo in italiano!' = ¡Hablemos en italiano! 'Parlate lentamente, per favore' = Hablen despacio, por favor."
+    },
+    {
+      "front": "loro parlano",
+      "back": "ellos/ellas hablan",
+      "reading": "",
+      "explanation": "-ANO para 3a persona plural. El acento recae en la raíz: PARlano (no parLAno). 'Loro parlano molto' = Ellos hablan mucho."
+    },
+    {
+      "front": "mangiare: mangio / mangi / mangia",
+      "back": "comer: como / comés / come",
+      "reading": "",
+      "explanation": "Mangiare tiene gi- en la raíz. Para conservar el sonido /dʒ/, en noi se escribe 'mangiamo' (no 'manggiamo'). La i de -gi- ya está ahí: mangio, mangi, mangia, mangiamo, mangiate, mangiano."
+    },
+    {
+      "front": "cercare → cerco / cerchi (con H)",
+      "back": "buscar → busco / buscás",
+      "reading": "",
+      "explanation": "Verbos en -CARE y -GARE añaden H ante -I para mantener el sonido /k/ y /g/: cercare→cerchi (tu), cerchiamo (noi); pagare→paghi (tu), paghiamo (noi). Sin H el sonido cambiaría."
+    },
+    {
+      "front": "Verbos -ARE comunes: abitare, lavorare, studiare, ascoltare, camminare",
+      "back": "vivir, trabajar, estudiar, escuchar, caminar",
+      "reading": "",
+      "explanation": "Todos siguen el mismo patrón. abito/abiti/abita/abitiamo/abitate/abitano. 'Dove abiti?' = ¿Dónde vivís? 'Lavoro ogni giorno' = Trabajo todos los días."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El patrón -ARE: -o/-i/-a/-iamo/-ate/-ano",
+      "instruction": "Los verbos en -ARE son el grupo más grande. La raíz = infinitivo sin -ARE. Las terminaciones son: -o, -i, -a, -iamo, -ate, -ano. ¡Muy parecido al español!",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "Casos especiales: -GIARE, -CARE",
+      "instruction": "Verbos en -GIARE (mangiare, viaggiare): no añaden i extra. Verbos en -CARE/-GARE (cercare, pagare): añaden H ante i para mantener el sonido.",
+      "itemIndices": [5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es la forma correcta?",
+      "instruction": "Ves el sujeto y el infinitivo. Elegí la forma conjugada correcta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "Conjugá el verbo",
+      "instruction": "Ves el sujeto y el infinitivo. Escribí la forma conjugada.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Oraciones con verbos -ARE",
+      "instruction": "Ordená: italiano / Studiamo / insieme | in / Lavori / ufficio / un?",
+      "itemIndices": [0, 7]
+    },
+    {
+      "type": "summary",
+      "title": "¡Verbi -ARE!",
+      "instruction": "Raíz + -O(io)/-I(tu)/-A(lui/lei)/-IAMO(noi)/-ATE(voi)/-ANO(loro). Verbos -GIARE: mangio/mangi/mangia/mangiamo. Verbos -CARE/-GARE: cerchi(tu)/cerchiamo(noi) con H. El acento en LORO cae en la raíz: PARlano.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

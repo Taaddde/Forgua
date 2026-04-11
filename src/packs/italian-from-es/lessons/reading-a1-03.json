@@ -1,0 +1,89 @@
+{
+  "id": "reading-a1-03",
+  "title": "Lettura: La mia giornata",
+  "description": "Tercera lectura guiada. Un estudiante describe su día típico: levantarse, desayunar, ir a la universidad, estudiar y acostarse. Verbos reflexivos, horas y rutinas diarias.",
+  "level": "a1",
+  "category": "reading",
+  "items": [
+    {
+      "front": "Mi alzo alle sette di mattina.",
+      "back": "Me levanto a las siete de la mañana.",
+      "reading": "",
+      "explanation": "'Mi alzo' = me levanto (verbo reflexivo alzarsi). 'Alle sette' = a las siete (A + le → alle). 'Di mattina' = de la mañana (expresión fija, sin artículo). La mañana también: 'di mattino' o 'la mattina'."
+    },
+    {
+      "front": "Faccio colazione con un caffè e un cornetto.",
+      "back": "Desayuno con un café y una medialuna.",
+      "reading": "",
+      "explanation": "'Faccio colazione' = desayuno (literalmente 'hago el desayuno' — en italiano no existe el verbo *colazionare). 'Un cornetto' = una medialuna/croissant, el desayuno típico italiano en el bar. 'Caffè' al bar = espresso solo."
+    },
+    {
+      "front": "Poi vado all'università in autobus.",
+      "back": "Luego voy a la universidad en colectivo.",
+      "reading": "",
+      "explanation": "'Poi' = luego, después. 'Vado all'università' = voy a la universidad (A + l' = all'). 'In autobus' = en colectivo (medio de transporte usa 'in': in treno, in macchina, in bicicletta, a piedi)."
+    },
+    {
+      "front": "Le lezioni cominciano alle nove e finiscono alle tredici.",
+      "back": "Las clases empiezan a las nueve y terminan a la una (del mediodía).",
+      "reading": "",
+      "explanation": "'Cominciano' = empiezan (de 'cominciare', -ARE). 'Finiscono' = terminan (de 'finire', -ISC-). 'Tredici' = las 13:00 (el italiano usa con frecuencia el sistema de 24 horas para horarios). 13:00 = 'le tredici'."
+    },
+    {
+      "front": "A pranzo mangio con i miei amici alla mensa.",
+      "back": "Al mediodía como con mis amigos en el comedor universitario.",
+      "reading": "",
+      "explanation": "'A pranzo' = al mediodía / a la hora del almuerzo. 'La mensa' = el comedor universitario (o de empresa). 'I miei amici' = mis amigos (posesivo + artículo en plural). 'Pranzo' = almuerzo (el italiano 'pranzo' = comida del mediodía)."
+    },
+    {
+      "front": "Nel pomeriggio studio in biblioteca o in casa.",
+      "back": "Por la tarde estudio en la biblioteca o en casa.",
+      "reading": "",
+      "explanation": "'Nel pomeriggio' = por la tarde (nel = in+il). 'In biblioteca' = en la biblioteca (sin artículo). 'In casa' = en casa (sin artículo). 'Studio' = estudio (de 'studiare', -ARE). El pomeriggio = la tarde italiana (aprox. 13:00-18:00)."
+    },
+    {
+      "front": "La sera guardo un po' di televisione o leggo un libro.",
+      "back": "Por la noche miro un poco de televisión o leo un libro.",
+      "reading": "",
+      "explanation": "'La sera' = por la noche/tarde (la tarde-noche italiana). 'Guardo' = miro/veo (de 'guardare'). 'Un po' di televisione' = un poco de televisión. 'Leggo' = leo (de 'leggere', -ERE, irregular: leggo)."
+    },
+    {
+      "front": "Vado a letto verso le undici di sera.",
+      "back": "Me acuesto alrededor de las once de la noche.",
+      "reading": "",
+      "explanation": "'Vado a letto' = me acuesto (literalmente 'voy a la cama'). 'Verso le undici' = alrededor de las once ('verso' = hacia/alrededor de para tiempo aproximado). 'Di sera' = de la noche (la noche italiana: aprox. 18:00-24:00)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "La mia giornata — Leemos juntos",
+      "instruction": "Texto completo: 'Mi alzo alle sette di mattina. Faccio colazione con un caffè e un cornetto. Poi vado all'università in autobus. Le lezioni cominciano alle nove e finiscono alle tredici. A pranzo mangio con i miei amici alla mensa. Nel pomeriggio studio in biblioteca o in casa. La sera guardo un po' di televisione o leggo un libro. Vado a letto verso le undici di sera.' Identificá los verbos y las expresiones de tiempo.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Expresiones de tiempo y rutina",
+      "instruction": "Identificá y aprendé estas expresiones de tiempo: alle sette di mattina, poi, a pranzo, nel pomeriggio, la sera, verso le undici.",
+      "itemIndices": [0, 2, 4, 5, 6, 7]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "La jornada de Marco",
+      "instruction": "¿A qué hora se levanta? ¿Cómo va a la universidad? ¿Qué hace por la tarde? ¿A qué hora se acuesta?",
+      "itemIndices": [0, 2, 5, 7]
+    },
+    {
+      "type": "recall",
+      "title": "Describí tu jornada en italiano",
+      "instruction": "Adaptá el texto para describir TU jornada típica. Cambiá las horas y las actividades.",
+      "itemIndices": [0, 1, 3, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "Vocabulario de la jornada diaria",
+      "instruction": "Verbos de rutina: alzarsi (levantarse), fare colazione (desayunar), andare all'università (ir a la uni), mangiare (comer), studiare (estudiar), guardare la TV (ver la tele), leggere (leer), andare a letto (acostarse). Tiempo: alle sette (a las 7), a pranzo (al mediodía), nel pomeriggio (por la tarde), la sera (por la noche), verso le undici (alrededor de las 11).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

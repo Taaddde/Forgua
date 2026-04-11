@@ -1,0 +1,89 @@
+{
+  "id": "vocab-c2-05",
+  "title": "Riferimenti culturali italiani",
+  "description": "Italia tiene una densidad de referencias culturales que no tiene paralelo en otros países. Para entender una conversación italiana culta — o el cine, la música, la literatura italiana — es imprescindible conocer estos conceptos: desde la 'dolce vita' hasta el 'campanilismo', desde el 'bel canto' hasta el 'familismo amorale'.",
+  "level": "c2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "dolce vita",
+      "back": "la vida dulce / el estilo de vida italiano hedonista y elegante (Fellini, 1960)",
+      "reading": "/ˈdoltʃe ˈvita/",
+      "explanation": "Sintagma popularizado por Federico Fellini (1960). Denota el estilo de vida italiano de disfrute, elegancia y despreocupación. 'Roma degli anni '60 incarnava la dolce vita: moda, cinema, mondanità.' Hoy es una exportación cultural global, pero su origen es específicamente romano-italiano."
+    },
+    {
+      "front": "bella figura",
+      "back": "hacer buena impresión / quedar bien / la preocupación por la imagen social",
+      "reading": "/ˈbɛlla ˈfigura/",
+      "explanation": "Concepto cultural central. Hacer 'bella figura' = quedar bien socialmente, en apariencia y comportamiento. Su opuesto 'brutta figura' es una vergüenza social muy seria. 'Vestirsi bene è importante: bisogna sempre fare bella figura.' Fundamental para entender el comportamiento social italiano."
+    },
+    {
+      "front": "arte di arrangiarsi",
+      "back": "arte de apañárselas / ingenio pragmático para salir adelante",
+      "reading": "",
+      "explanation": "Concepto muy italiano: la habilidad de encontrar soluciones ingeniosas (a veces al margen de las normas) para resolver problemas. Relacionado con 'furbizia' (astucia). 'In Italia, l'arte di arrangiarsi è una necessità elevata a virtù.' No siempre positivo: puede implicar improvisación excesiva."
+    },
+    {
+      "front": "familismo (amorale)",
+      "back": "familismo / prioridad de la familia nuclear sobre cualquier vínculo social",
+      "reading": "/famiˈlizmo/",
+      "explanation": "Concepto sociológico (Edward Banfield, 1958): la tendencia a privilegiar los intereses de la familia nuclear sobre la sociedad. 'Il familismo amorale è stato identificato come freno allo sviluppo del Mezzogiorno.' Controversial pero de uso constante en el análisis social italiano."
+    },
+    {
+      "front": "trasformismo",
+      "back": "transformismo / cambio de partido u opinión política por oportunismo",
+      "reading": "/trasforˈmizmo/",
+      "explanation": "Concepto político italiano originado con Agostino Depretis (1876): la práctica de cooptar a adversarios políticos. Hoy designa el oportunismo político en general. 'Il trasformismo è una costante della politica italiana dall'Unità ad oggi.' Indispensable para entender la política italiana."
+    },
+    {
+      "front": "bel canto",
+      "back": "bel canto / técnica vocal operística italiana clásica",
+      "reading": "/bɛl ˈkanto/",
+      "explanation": "Técnica vocal operística desarrollada en Italia entre los siglos XVII-XIX: caracterizada por el legato, agilidad, registro amplio y virtuosismo. Asociada a Bellini, Donizetti, Rossini. 'Il bel canto richiede anni di studio per padroneggiare la tecnica del fiato.' Exportación cultural italiana por excelencia."
+    },
+    {
+      "front": "libretto (d'opera)",
+      "back": "libreto / el texto literario de una ópera",
+      "reading": "/liˈbrɛtto/",
+      "explanation": "'Il libretto del Rigoletto fu scritto da Francesco Maria Piave su testo di Hugo.' Los grandes librettisti italianos: Arrigo Boito (Otello, Falstaff para Verdi), Lorenzo Da Ponte (Don Giovanni, Le nozze di Figaro para Mozart). El libretto es una forma literaria independiente."
+    },
+    {
+      "front": "recitativo / aria",
+      "back": "recitativo (canto que hace avanzar la acción) / aria (pieza vocal independiente)",
+      "reading": "",
+      "explanation": "Distinción fundamental en ópera italiana: el 'recitativo' hace avanzar la acción dramática con melodía próxima al habla; el 'aria' detiene la acción para expresar el estado interior del personaje. 'Il recitativo secco, accompagnato solo dal clavicembalo, accelera il dramma.'"
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Conceptos culturales del comportamiento social italiano",
+      "instruction": "Los primeros tres conceptos (dolce vita, bella figura, arte di arrangiarsi) definen actitudes sociales específicas del italiano. No son solo palabras: son modelos de comportamiento. Sin estos conceptos, mucho del cine y la literatura italiana queda incomprensible.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "word-in-context",
+      "title": "El concepto cultural en acción",
+      "instruction": "Lee las situaciones y decide qué concepto cultural italiano describe mejor cada una. Algunos pueden aplicarse a más de una situación.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "Referencias a la cultura musical italiana",
+      "instruction": "Italia es la cuna de la ópera. Sin 'bel canto', 'libretto', 'aria' y 'recitativo', es imposible hablar de ópera en italiano. Estos términos también aparecen metafóricamente en la conversación culta italiana.",
+      "itemIndices": [5, 6, 7]
+    },
+    {
+      "type": "recall",
+      "title": "El concepto y su explicación",
+      "instruction": "Ves el nombre del concepto cultural italiano. Explica en español qué significa y cuál es su importancia en la cultura italiana.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "Cultura italiana — mapa de referencias",
+      "instruction": "Estos conceptos forman parte de lo que los italianos asumen que sus interlocutores cultos conocen. Para profundizar: el documental 'Fellini degli spiriti' para la dolce vita; 'Totò' para el arte di arrangiarsi; cualquier transmisión del Teatro alla Scala para el bel canto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

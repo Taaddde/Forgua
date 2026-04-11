@@ -1,175 +1,177 @@
-# Forgua — Ejercicios y Lecciones: Especificación Completa
+# Forgua — Exercises & Lessons: Full Specification
 
-Este documento describe todos los tipos de ejercicio disponibles en Forgua, cómo se estructuran en JSON, y cómo combinarlos para crear lecciones y niveles de un idioma completo.
+This document describes every exercise type available in Forgua, how to structure them in JSON, and how to combine them into complete lessons for any language.
 
----
-
-## Índice
-
-1. [Arquitectura general](#1-arquitectura-general)
-2. [Dos sistemas de ejercicios](#2-dos-sistemas-de-ejercicios)
-3. [Pasos de lección (LessonStep)](#3-pasos-de-lección-lessonstep)
-4. [Ejercicios SRS (Exercise)](#4-ejercicios-srs-exercise)
-5. [Nuevo: Conversaciones](#5-nuevo-conversaciones)
-6. [Estructura de una lección completa](#6-estructura-de-una-lección-completa)
-7. [Tabla de decisión pedagógica](#7-tabla-de-decisión-pedagógica)
-8. [Nomenclatura de archivos y orden](#8-nomenclatura-de-archivos-y-orden)
-9. [Errores comunes a evitar](#9-errores-comunes-a-evitar)
+> **Related:** See [PACK_SPEC.md](PACK_SPEC.md) for the content schemas (vocabulary, grammar, characters, readings) that lessons reference.
 
 ---
 
-## 1. Arquitectura general
+## Table of Contents
+
+1. [Architecture overview](#1-architecture-overview)
+2. [Two exercise systems](#2-two-exercise-systems)
+3. [Lesson steps (LessonStep)](#3-lesson-steps-lessonstep)
+4. [SRS exercises (Exercise)](#4-srs-exercises-exercise)
+5. [Conversations](#5-conversations)
+6. [Full lesson structure](#6-full-lesson-structure)
+7. [Pedagogical decision table](#7-pedagogical-decision-table)
+8. [File naming and ordering](#8-file-naming-and-ordering)
+9. [Common mistakes to avoid](#9-common-mistakes-to-avoid)
+
+---
+
+## 1. Architecture overview
 
 ```
 src/packs/<pack-id>/
   manifest.json
   vocabulary/<level>.json
   grammar/<level>.json
-  characters/<sistema>.json
-  characters/<sistema>/<level>.json
+  characters/<system>.json
+  characters/<system>/<level>.json
   readings/<level>.json
-  conversations/<level>.json     ← NUEVO
+  conversations/<level>.json
   lessons/
-    index.json                   ← índice de todas las lecciones
-    <id>.json                    ← una lección por archivo
+    index.json               ← index of all lessons
+    <id>.json                ← one file per lesson
   roadmaps.json
   resources.json
 ```
 
-Un **Language Pack** = datos en JSON. Cero código. Las lecciones orquestan los ejercicios. Los ejercicios activan las tarjetas en el SRS.
+A **Language Pack** = data in JSON. Zero code. Lessons orchestrate exercises. Exercises activate cards in the SRS.
 
-**Flujo del aprendiz:**
-1. Completa **lecciones** → aprende items nuevos → se agregan al SRS
-2. Hace **repaso SRS diario** → ejercicios de repaso → el motor SM-2 programa cuándo volver a ver cada tarjeta
+**Learner flow:**
+1. Completes **lessons** → learns new items → items are added to the SRS
+2. Does **daily SRS review** → review exercises → the SM-2 engine schedules when each card is seen again
 
 ---
 
-## 2. Dos sistemas de ejercicios
+## 2. Two exercise systems
 
-### Sistema A — Pasos de lección (`LessonStep`)
+### System A — Lesson steps (`LessonStep`)
 
-Se usan **dentro de una lección** para introducir y practicar items nuevos. Están controlados por el `LessonPlayer`. Operan sobre los `items[]` de la lección (referencias a tarjetas).
+Used **inside a lesson** to introduce and practice new items. Controlled by the `LessonPlayer`. They operate on the lesson's `items[]` (references to cards).
 
-**Tipos disponibles:**
-| Tipo | Descripción | Usa `itemIndices` | Usa `config` |
+**Available types:**
+| Type | Description | Uses `itemIndices` | Uses `config` |
 |------|-------------|-------------------|--------------|
-| `introduce` | Presentación del item (texto, audio, imagen, explicación) — sin respuesta | ✅ | — |
-| `recognize` | Multiple choice: ver el front, elegir el back | ✅ | — |
-| `recall` | Escribir la respuesta libre (ver back, escribir front) | ✅ | — |
-| `write` | Variante de recall para caracteres | ✅ | — |
-| `sentence-build` | Armar una oración reordenando fragmentos | ✅ | `sentences[]` |
-| `listen-identify` | Escuchar audio, elegir la palabra correcta | ✅ | — |
-| `listen-transcribe` | Escuchar audio, escribir lo que se oye (dictado) | ✅ | — |
-| `speak` | Leer en voz alta, evalúa pronunciación via STT | ✅ | — |
-| `fill-blank-multi` | Completar MÚLTIPLES espacios con chips o texto libre | — | `exercises[]` |
-| `word-in-context` | Palabra objetivo → elegir la oración donde se usa bien | — | `exercises[]` |
-| `error-correction` | ¿Esta oración tiene error? → sí/no → explicación | — | `exercises[]` |
-| `image-association` | Ver imagen → elegir la palabra/frase correcta | — | `exercises[]` |
-| `story-comprehension` | Leer texto → preguntas de comprensión | — | `passage` (inline ReadingText) |
-| `conversation-script` | Diálogo guiado por turnos | — | `script` (inline ConversationScript) |
-| `summary` | Pantalla de resumen — no es ejercicio, no tiene respuesta | ✅ | — |
+| `introduce` | Present the item (text, audio, image, explanation) — no answer required | ✅ | — |
+| `recognize` | Multiple choice: see the front, choose the back | ✅ | — |
+| `recall` | Free-text answer (see the back, write the front) | ✅ | — |
+| `write` | Variant of recall for characters | ✅ | — |
+| `sentence-build` | Build a sentence by reordering fragments | ✅ | `sentences[]` |
+| `listen-identify` | Hear audio, choose the correct word | ✅ | — |
+| `listen-transcribe` | Hear audio, write what you hear (dictation) | ✅ | — |
+| `speak` | Read aloud, pronunciation evaluated via STT | ✅ | — |
+| `fill-blank-multi` | Fill MULTIPLE blanks with chips or free text | — | `exercises[]` |
+| `word-in-context` | Target word → choose the sentence where it is used correctly | — | `exercises[]` |
+| `error-correction` | Does this sentence have an error? → yes/no → explanation | — | `exercises[]` |
+| `image-association` | See image → choose the correct word/phrase | — | `exercises[]` |
+| `story-comprehension` | Read text → comprehension questions | — | `passage` (inline ReadingText) |
+| `conversation-script` | Turn-based guided dialogue | — | `script` (inline ConversationScript) |
+| `summary` | Completion screen — not an exercise, no answer | ✅ | — |
 
-**Nota importante:** Los pasos que usan `config` (sistema B embebido) no requieren `itemIndices`. Pasá `"itemIndices": []` en el JSON de la lección. El componente obtiene todos sus datos del campo `config`.
+**Important note:** Steps that use `config` (embedded System B) do not require `itemIndices`. Pass `"itemIndices": []` in the lesson JSON. The component gets all its data from the `config` field.
 
-### Sistema B — Ejercicios SRS (`Exercise`)
+### System B — SRS exercises (`Exercise`)
 
-Se usan en el **repaso diario** y en ejercicios estándalones fuera de lecciones. Operan sobre tarjetas (`Card`) ya en el SRS.
+Used in the **daily review** and in standalone exercises outside lessons. They operate on cards (`Card`) already in the SRS.
 
-**Tipos disponibles:**
-| Tipo | Componente | Descripción |
+**Available types:**
+| Type | Component | Description |
 |------|-----------|-------------|
-| `flashcard` | FlashCard | Ver frente → revelar dorso → autoevaluar |
-| `multiple-choice` | MultipleChoice | 4 opciones, elegir la correcta |
-| `write-answer` | WriteAnswer | Campo de texto libre, evaluación fuzzy |
-| `fill-blank` | FillBlank | Completar UN espacio (con opciones o libre) |
-| `fill-blank-multi` | ClozeMulti | Completar MÚLTIPLES espacios |
-| `drag-reorder` | DragReorder | Ordenar fragmentos en secuencia correcta |
-| `matching` | Matching | Emparejar columna izquierda con columna derecha |
-| `dictation` | Dictation | Escuchar audio → escribir lo que se oye |
-| `speak` | SpeakExercise | Leer en voz alta → feedback de pronunciación |
-| `sentence-build` | SentenceBuild | Armar oración desde fragmentos dados + traducción |
-| `image-association` | ImageAssociation | Ver imagen → elegir la palabra/frase |
-| `word-in-context` | WordInContext | Palabra objetivo → elegir la oración donde se usa bien |
-| `error-correction` | ErrorCorrection | ¿Esta oración tiene error? → sí/no → explicación |
-| `conversation-script` | ConversationScript | Diálogo guiado por turnos |
-| `story-comprehension` | StoryComprehension | Leer texto → preguntas de comprensión |
+| `flashcard` | FlashCard | See front → reveal back → self-assess |
+| `multiple-choice` | MultipleChoice | 4 options, choose the correct one |
+| `write-answer` | WriteAnswer | Free-text field, fuzzy evaluation |
+| `fill-blank` | FillBlank | Fill ONE blank (with options or free text) |
+| `fill-blank-multi` | ClozeMulti | Fill MULTIPLE blanks |
+| `drag-reorder` | DragReorder | Order fragments into the correct sequence |
+| `matching` | Matching | Match left column with right column |
+| `dictation` | Dictation | Hear audio → write what you hear |
+| `speak` | SpeakExercise | Read aloud → pronunciation feedback |
+| `sentence-build` | SentenceBuild | Build sentence from given fragments + translation |
+| `image-association` | ImageAssociation | See image → choose the correct word/phrase |
+| `word-in-context` | WordInContext | Target word → choose the sentence where it is used correctly |
+| `error-correction` | ErrorCorrection | Does this sentence have an error? → yes/no → explanation |
+| `conversation-script` | ConversationScript | Turn-based guided dialogue |
+| `story-comprehension` | StoryComprehension | Read text → comprehension questions |
 
 ---
 
-## 3. Pasos de lección (`LessonStep`)
+## 3. Lesson steps (`LessonStep`)
 
-Cada lección tiene un array `steps`. Cada step tiene:
-- `type` — el tipo de paso
-- `title` — título visible al aprendiz
-- `instruction` — instrucción breve
-- `itemIndices` — qué items de la lección usa (índices en `lesson.items[]`)
-- `config` — configuración extra (opcional)
+Each lesson has a `steps` array. Each step has:
+- `type` — the step type
+- `title` — title visible to the learner
+- `instruction` — brief instruction
+- `itemIndices` — which items in the lesson are used (indices into `lesson.items[]`)
+- `config` — extra configuration (optional)
 
 ### 3.1 `introduce`
 
-Muestra el item: front, back, reading, explicación, audio (si hay). El aprendiz no responde nada. Es pura exposición al input comprensible.
+Shows the item: front, back, reading, explanation, audio (if available). The learner does not answer. This is pure exposure to comprehensible input.
 
 ```jsonc
 {
   "type": "introduce",
-  "title": "Nuevas palabras",
-  "instruction": "Leé cada palabra, escuchá su pronunciación y la explicación.",
+  "title": "New words",
+  "instruction": "Read each word, listen to its pronunciation and explanation.",
   "itemIndices": [0, 1, 2, 3, 4]
 }
 ```
 
-**Cuándo usar:** Siempre como primer paso de cualquier lección. Nunca omitirlo.
+**When to use:** Always as the first step of any lesson. Never skip it.
 
 ---
 
 ### 3.2 `recognize`
 
-Multiple choice: se muestra el `front` del item, el aprendiz elige entre 4 opciones cuál es el `back` correcto. Las 3 opciones incorrectas se generan automáticamente del mismo grupo de items.
+Multiple choice: the item's `front` is shown, the learner chooses among 4 options which is the correct `back`. The 3 wrong options are automatically generated from the same item group.
 
 ```jsonc
 {
   "type": "recognize",
-  "title": "¿Qué significa?",
-  "instruction": "Elegí el significado correcto de cada palabra.",
+  "title": "What does it mean?",
+  "instruction": "Choose the correct meaning for each word.",
   "itemIndices": [0, 1, 2, 3, 4]
 }
 ```
 
-**Cuándo usar:** Segundo paso, siempre después de `introduce`. Consolida reconocimiento.
+**When to use:** Second step, always after `introduce`. Consolidates recognition.
 
 ---
 
 ### 3.3 `recall`
 
-Muestra el `back` del item. El aprendiz escribe el `front` en el idioma meta. El adaptador normaliza y compara (romaji→kana, etc.).
+Shows the item's `back`. The learner writes the `front` in the target language. The adapter normalizes and compares (romaji→kana, accent-insensitive, etc.).
 
 ```jsonc
 {
   "type": "recall",
-  "title": "¿Cómo se dice?",
-  "instruction": "Escribí la palabra en japonés. Podés usar romaji.",
+  "title": "How do you say it?",
+  "instruction": "Write the word in the target language.",
   "itemIndices": [0, 1, 2, 3]
 }
 ```
 
-**Cuándo usar:** Tercer o cuarto paso. Requiere producción activa. Ideal para vocabulario y caracteres básicos.
+**When to use:** Third or fourth step. Requires active production. Best for vocabulary and basic characters.
 
 ---
 
 ### 3.4 `sentence-build`
 
-Muestra la traducción de una oración. El aprendiz arrastra/clica fragmentos en el orden correcto para construirla.
+Shows the translation of a sentence. The learner drags/clicks fragments in the correct order to build it.
 
 ```jsonc
 {
   "type": "sentence-build",
-  "title": "Armá la oración",
-  "instruction": "Ordená las palabras para formar la oración correcta.",
+  "title": "Build the sentence",
+  "instruction": "Order the words to form the correct sentence.",
   "itemIndices": [2],
   "config": {
     "sentences": [
       {
-        "translation": "Yo como arroz todos los días.",
+        "translation": "I eat rice every day.",
         "fragments": ["私は", "毎日", "ご飯を", "食べます"],
         "correctOrder": [0, 1, 2, 3]
       }
@@ -178,87 +180,87 @@ Muestra la traducción de una oración. El aprendiz arrastra/clica fragmentos en
 }
 ```
 
-**Cuándo usar:** Ideal para gramática. Siempre después de `introduce` y `recognize`.
+**When to use:** Best for grammar. Always after `introduce` and `recognize`.
 
 ---
 
 ### 3.5 `listen-identify`
 
-Reproduce el audio del item. El aprendiz elige entre 4 opciones cuál es la palabra que escuchó.
+Plays the item's audio. The learner chooses among 4 options which word they heard.
 
 ```jsonc
 {
   "type": "listen-identify",
-  "title": "Escuchá y elegí",
-  "instruction": "¿Cuál de estas palabras escuchás?",
+  "title": "Listen and choose",
+  "instruction": "Which of these words do you hear?",
   "itemIndices": [0, 1, 2, 3]
 }
 ```
 
-**Cuándo usar:** Para vocabulario con audio. Entrena el oído antes de pasar a recall.
+**When to use:** For vocabulary with audio. Trains the ear before moving to recall.
 
 ---
 
 ### 3.6 `listen-transcribe`
 
-Reproduce el audio. El aprendiz escribe lo que escucha (dictado).
+Plays the audio. The learner writes what they hear (dictation).
 
 ```jsonc
 {
   "type": "listen-transcribe",
-  "title": "Escuchá y escribí",
-  "instruction": "Escuchá la pronunciación y escribí la palabra.",
+  "title": "Listen and write",
+  "instruction": "Listen to the pronunciation and write the word.",
   "itemIndices": [0, 1, 2]
 }
 ```
 
-**Cuándo usar:** Después de `listen-identify`. Más exigente. Recomendado para caracteres y vocabulario.
+**When to use:** After `listen-identify`. More demanding. Recommended for characters and vocabulary.
 
 ---
 
 ### 3.7 `speak`
 
-Muestra el texto objetivo. El aprendiz lo lee en voz alta. STT evalúa pronunciación.
+Shows the target text. The learner reads it aloud. STT evaluates pronunciation.
 
 ```jsonc
 {
   "type": "speak",
-  "title": "Pronunciá",
-  "instruction": "Leé el texto en voz alta. Se evaluará tu pronunciación.",
+  "title": "Pronounce it",
+  "instruction": "Read the text aloud. Your pronunciation will be evaluated.",
   "itemIndices": [0, 1, 2, 3, 4]
 }
 ```
 
-**Cuándo usar:** Opcional. Requiere micrófono. Funciona solo en Chrome/Edge. Poner siempre al final de la lección.
+**When to use:** Optional. Requires a microphone. Works only in Chrome/Edge. Always place at the end of the lesson.
 
 ---
 
 ### 3.8 `summary`
 
-Pantalla de cierre. Resume lo aprendido. No tiene respuesta ni evaluación.
+Closing screen. Summarizes what was learned. No answer or evaluation.
 
 ```jsonc
 {
   "type": "summary",
-  "title": "¡Lección completada!",
-  "instruction": "Estas 5 palabras ahora están en tu repaso. Las verás de nuevo mañana.",
+  "title": "Lesson complete!",
+  "instruction": "These 5 words are now in your review queue. You will see them again tomorrow.",
   "itemIndices": [0, 1, 2, 3, 4]
 }
 ```
 
-**Cuándo usar:** Siempre como último paso. Obligatorio.
+**When to use:** Always as the last step. Required.
 
 ---
 
-### 3.9 `fill-blank-multi` (paso con `config`)
+### 3.9 `fill-blank-multi` (step with `config`)
 
-Completar múltiples espacios en una o varias oraciones. Ideal para gramática contextual, prep­osiciones y concordancia.
+Fill multiple blanks in one or several sentences. Best for contextual grammar, prepositions, and agreement.
 
 ```jsonc
 {
   "type": "fill-blank-multi",
-  "title": "Completá las oraciones",
-  "instruction": "Elegí la palabra correcta para cada espacio.",
+  "title": "Complete the sentences",
+  "instruction": "Choose the correct word for each blank.",
   "itemIndices": [],
   "config": {
     "exercises": [
@@ -266,7 +268,7 @@ Completar múltiples espacios en una o varias oraciones. Ideal para gramática c
         "template": "She {0} a book when the phone {1}.",
         "blanks": [
           { "answer": "was reading", "options": ["was reading", "is reading", "reads"] },
-          { "answer": "rang",         "options": ["rang", "rings", "was ringing"] }
+          { "answer": "rang",        "options": ["rang", "rings", "was ringing"] }
         ]
       }
     ]
@@ -274,19 +276,19 @@ Completar múltiples espacios en una o varias oraciones. Ideal para gramática c
 }
 ```
 
-**Cuándo usar:** Después de `introduce` + `recognize` en lecciones de gramática. Mínimo 2 blanks por exercise, 2-5 exercises por step.
+**When to use:** After `introduce` + `recognize` in grammar lessons. Minimum 2 blanks per exercise, 2–5 exercises per step.
 
 ---
 
-### 3.10 `word-in-context` (paso con `config`)
+### 3.10 `word-in-context` (step with `config`)
 
-Dado el vocablo objetivo, elegir la oración donde se usa correctamente.
+Given a target word, choose the sentence where it is used correctly.
 
 ```jsonc
 {
   "type": "word-in-context",
-  "title": "¿Dónde se usa bien?",
-  "instruction": "Elegí la oración donde la palabra está usada correctamente.",
+  "title": "Where is it used correctly?",
+  "instruction": "Choose the sentence where the word is used correctly.",
   "itemIndices": [],
   "config": {
     "exercises": [
@@ -306,19 +308,19 @@ Dado el vocablo objetivo, elegir la oración donde se usa correctamente.
 }
 ```
 
-**Cuándo usar:** A partir de B1 para consolidar uso de vocabulario. Mínimo 2 exercises por step. Las opciones incorrectas deben tener errores reales, no absurdos.
+**When to use:** From B1/intermediate onward to consolidate vocabulary use. Minimum 2 exercises per step. Wrong options must have real errors, not absurd ones.
 
 ---
 
-### 3.11 `error-correction` (paso con `config`)
+### 3.11 `error-correction` (step with `config`)
 
-Decidir si la oración tiene error, ver explicación.
+Decide if a sentence has an error, then see the explanation.
 
 ```jsonc
 {
   "type": "error-correction",
-  "title": "¿Error o correcta?",
-  "instruction": "Decidí si cada oración es correcta o tiene un error.",
+  "title": "Correct or incorrect?",
+  "instruction": "Decide whether each sentence is correct or has an error.",
   "itemIndices": [],
   "config": {
     "exercises": [
@@ -326,13 +328,13 @@ Decidir si la oración tiene error, ver explicación.
         "sentence": "She don't like coffee.",
         "isCorrect": false,
         "correction": "She doesn't like coffee.",
-        "explanation": "En tercera persona singular (she/he/it) se usa 'doesn't', no 'don't'.",
+        "explanation": "Third-person singular (she/he/it) requires 'doesn't', not 'don't'.",
         "errorType": "conjugation"
       },
       {
         "sentence": "He usually drinks tea in the morning.",
         "isCorrect": true,
-        "explanation": "Present simple correcto: 'drinks' (3ra persona) + adverbio de frecuencia 'usually' antes del verbo.",
+        "explanation": "Correct present simple: 'drinks' (3rd person) + frequency adverb 'usually' before the verb.",
         "errorType": "word-order"
       }
     ]
@@ -340,19 +342,19 @@ Decidir si la oración tiene error, ver explicación.
 }
 ```
 
-**Cuándo usar:** A partir de A2 para errores MUY comunes y claros; desde B1 en adelante con más libertad. Mezclar 50/50 correctas e incorrectas.
+**When to use:** From A2 for very common, clear errors; from B1 onward with more freedom. Mix ~50/50 correct and incorrect.
 
 ---
 
-### 3.12 `image-association` (paso con `config`)
+### 3.12 `image-association` (step with `config`)
 
-Ver imagen → elegir la palabra/frase correcta.
+See an image → choose the correct word/phrase.
 
 ```jsonc
 {
   "type": "image-association",
-  "title": "¿Qué ves?",
-  "instruction": "Mirá la imagen y elegí la palabra correcta.",
+  "title": "What do you see?",
+  "instruction": "Look at the image and choose the correct word.",
   "itemIndices": [],
   "config": {
     "exercises": [
@@ -367,19 +369,19 @@ Ver imagen → elegir la palabra/frase correcta.
 }
 ```
 
-**Cuándo usar:** Vocabulario concreto (animales, objetos, comida, lugares). Usar URLs externas públicas (Wikimedia Commons) o paths relativos al pack (`images/...`).
+**When to use:** Concrete vocabulary (animals, objects, food, places). Use publicly accessible URLs (Wikimedia Commons) or paths relative to the pack (`images/...`).
 
 ---
 
-### 3.13 `story-comprehension` (paso con `config`)
+### 3.13 `story-comprehension` (step with `config`)
 
-Leer texto → responder preguntas de comprensión.
+Read a text → answer comprehension questions.
 
 ```jsonc
 {
   "type": "story-comprehension",
-  "title": "Lectura",
-  "instruction": "Leé el texto y respondé las preguntas.",
+  "title": "Reading",
+  "instruction": "Read the text and answer the questions.",
   "itemIndices": [],
   "config": {
     "passage": {
@@ -402,24 +404,24 @@ Leer texto → responder preguntas de comprensión.
 }
 ```
 
-**Cuándo usar:** Lecciones de lectura (reading-<level>-NN.json). El passage se declara inline — no referencia readings/<level>.json por id.
+**When to use:** Reading lessons. The passage is declared inline — it does not reference `readings/<level>.json` by id.
 
 ---
 
-### 3.14 `conversation-script` (paso con `config`)
+### 3.14 `conversation-script` (step with `config`)
 
-Diálogo guiado por turnos con opciones múltiples.
+Turn-based guided dialogue with multiple-choice options.
 
 ```jsonc
 {
   "type": "conversation-script",
-  "title": "Conversación",
-  "instruction": "Elegí la mejor respuesta en cada turno.",
+  "title": "Conversation",
+  "instruction": "Choose the best response at each turn.",
   "itemIndices": [],
   "config": {
     "script": {
       "id": "conv-a1-hotel-checkin",
-      "scenario": "Check-in en un hotel",
+      "scenario": "Hotel check-in",
       "level": "a1",
       "turns": [
         {
@@ -431,9 +433,9 @@ Diálogo guiado por turnos con opciones múltiples.
           "speaker": "learner",
           "text": "",
           "options": [
-            { "text": "Hi, I have a reservation under the name Smith.", "isCorrect": true,  "feedback": "Perfecto — forma natural de anunciar tu reserva." },
-            { "text": "I want a book, please.",                           "isCorrect": false, "feedback": "'Book' es 'libro' — no tiene sentido aquí; querrás 'room'." },
-            { "text": "Goodbye!",                                          "isCorrect": false, "feedback": "Despedida antes del check-in — fuera de contexto." }
+            { "text": "Hi, I have a reservation under the name Smith.", "isCorrect": true,  "feedback": "Perfect — natural way to announce your reservation." },
+            { "text": "I want a book, please.",                          "isCorrect": false, "feedback": "'Book' means libro — it doesn't make sense here; you'd want 'room'." },
+            { "text": "Goodbye!",                                         "isCorrect": false, "feedback": "Saying goodbye before checking in is out of context." }
           ],
           "correctOptionIndex": 0
         }
@@ -443,324 +445,311 @@ Diálogo guiado por turnos con opciones múltiples.
 }
 ```
 
-**Cuándo usar:** Lecciones situacionales, reading o práctica conversacional. El script vive inline en el config, no en un archivo `conversations/`.
+**When to use:** Situational, reading, or conversational practice lessons. The script lives inline in config, not in a `conversations/` file.
 
 ---
 
-## 4. Ejercicios SRS (`Exercise`)
+## 4. SRS exercises (`Exercise`)
 
-Estos ejercicios se definen en los archivos de contenido del pack o son generados automáticamente por el motor a partir de las tarjetas. Los que necesitan ser definidos explícitamente en el pack son los que tienen datos específicos que el motor no puede generar solo.
+These exercises are defined in the pack's content files or generated automatically by the engine from cards. Those that need to be explicitly defined in the pack are the ones with specific data the engine cannot generate on its own.
 
-### 4.1 `fill-blank` — Un solo espacio
+### 4.1 `fill-blank` — Single blank
 
-Usa `___` como marcador en el texto.
+Use `___` as the placeholder in the text.
 
 ```json
 {
   "type": "fill-blank",
   "data": {
-    "sentence": "毎日ご飯を___。",
-    "options": ["食べます", "飲みます", "行きます", "来ます"],
-    "correctAnswer": "食べます"
+    "sentence": "I ___ to school every day.",
+    "options": ["go", "goes", "went", "going"],
+    "correctAnswer": "go"
   }
 }
 ```
 
-**Reglas:**
-- Exactamente un `___` en el texto
-- Si hay `options` → chips de selección; si no hay → campo de texto libre
-- Para texto libre, el adaptador normaliza antes de comparar
+**Rules:**
+- Exactly one `___` in the text
+- If `options` is present → selection chips; if absent → free-text field
+- For free text, the adapter normalizes before comparing
 
 ---
 
-### 4.2 `fill-blank-multi` — Múltiples espacios
+### 4.2 `fill-blank-multi` — Multiple blanks
 
-Usa `{0}`, `{1}`, `{2}` como marcadores numerados en el template.
+Use `{0}`, `{1}`, `{2}` as numbered placeholders in the template.
 
 ```json
 {
   "type": "fill-blank-multi",
   "data": {
-    "template": "{0}は毎日学校に{1}。",
+    "template": "{0} goes to school {1}.",
     "blanks": [
       {
-        "answer": "私",
-        "options": ["私", "あなた", "彼", "彼女"]
+        "answer": "She",
+        "options": ["She", "He", "They", "I"]
       },
       {
-        "answer": "行きます",
-        "options": ["行きます", "来ます", "食べます", "寝ます"]
+        "answer": "every day",
+        "options": ["every day", "yesterday", "tomorrow", "never"]
       }
     ]
   }
 }
 ```
 
-**Reglas:**
-- Los marcadores `{0}`, `{1}` van en orden estricto sin saltar números
-- Cada blank puede tener `options` (MC) o no tenerlas (texto libre)
-- Mezclar MC y libre en el mismo ejercicio está permitido
-- Mínimo 2 blanks (si hay 1, usar `fill-blank`)
+**Rules:**
+- Placeholders `{0}`, `{1}` must be consecutive from 0 — no gaps
+- Each blank can have `options` (multiple choice) or not (free text)
+- Mixing MC and free text in the same exercise is allowed
+- Minimum 2 blanks (if 1 blank, use `fill-blank`)
 
 ---
 
-### 4.3 `matching` — Emparejar columnas
+### 4.3 `matching` — Match columns
 
 ```json
 {
   "type": "matching",
   "data": {
     "pairs": [
-      { "left": "食べる", "right": "comer" },
-      { "left": "飲む", "right": "beber" },
-      { "left": "行く", "right": "ir" },
-      { "left": "来る", "right": "venir" },
-      { "left": "見る", "right": "ver" }
+      { "left": "eat",   "right": "comer" },
+      { "left": "drink", "right": "beber" },
+      { "left": "go",    "right": "ir" },
+      { "left": "come",  "right": "venir" },
+      { "left": "see",   "right": "ver" }
     ]
   }
 }
 ```
 
-**Reglas:**
-- Mínimo 3 pares, máximo 8
-- Los items de la columna derecha se barajan automáticamente
-- Ideal para vocabulario nuevo: 5 palabras del mismo nivel/categoría
+**Rules:**
+- Minimum 3 pairs, maximum 8
+- Right-column items are shuffled automatically
+- Best for new vocabulary: 5 words from the same level/category
 
 ---
 
-### 4.4 `drag-reorder` — Ordenar fragmentos
+### 4.4 `drag-reorder` — Order fragments
 
 ```json
 {
   "type": "drag-reorder",
   "data": {
-    "prompt": "Ordená las palabras para formar 'Yo como arroz todos los días'",
-    "fragments": ["私は", "ご飯を", "毎日", "食べます"],
-    "correctOrder": [0, 2, 1, 3]
+    "prompt": "Order the words to form 'I eat rice every day'",
+    "fragments": ["I", "rice", "every day", "eat"],
+    "correctOrder": [0, 3, 1, 2]
   }
 }
 ```
 
-**Reglas:**
-- `correctOrder` son los índices de `fragments` en el orden correcto
-- En el ejemplo: posición 0 → índice 0 ("私は"), posición 1 → índice 2 ("毎日"), etc.
-- Mínimo 3 fragmentos, máximo 8
-- Para oraciones largas, fragmentar por palabras o grupos gramaticales, NO por caracteres
+**Rules:**
+- `correctOrder` is the array of `fragments` indices in correct order
+- In the example: position 0 → index 0 ("I"), position 1 → index 3 ("eat"), etc.
+- Minimum 3 fragments, maximum 8
+- For long sentences, split by word or grammatical group, NOT by character
 
 ---
 
-### 4.5 `image-association` — Imagen → palabra
+### 4.5 `image-association` — Image → word
 
 ```json
 {
   "type": "image-association",
   "data": {
-    "imageUrl": "images/n5/taberu.jpg",
-    "imageAlt": "Persona comiendo",
-    "options": ["食べる (comer)", "飲む (beber)", "寝る (dormir)", "走る (correr)"],
+    "imageUrl": "images/a1/eat.jpg",
+    "imageAlt": "Person eating",
+    "options": ["eat", "drink", "sleep", "run"],
     "correctIndex": 0
   }
 }
 ```
 
-**Reglas:**
-- `imageUrl` es relativo a la raíz del pack
-- Las imágenes van en `images/` dentro del pack
-- `imageAlt` es obligatorio (accesibilidad)
-- Siempre 4 opciones
-- Muy efectivo para vocabulario concreto: objetos, acciones, lugares, animales, comida
+**Rules:**
+- `imageUrl` is relative to the pack root
+- Images go in `images/` inside the pack
+- `imageAlt` is required (accessibility)
+- Always 4 options
+- Very effective for concrete vocabulary: objects, actions, places, animals, food
 
 ---
 
-### 4.6 `word-in-context` — Elegir la oración correcta
+### 4.6 `word-in-context` — Choose the correct sentence
 
 ```json
 {
   "type": "word-in-context",
   "data": {
-    "targetWord": "食べる",
-    "translation": "comer",
+    "targetWord": "borrow",
+    "translation": "pedir prestado",
     "options": [
-      "私は毎日本を食べます。",
-      "毎朝コーヒーを食べます。",
-      "私は昼ご飯を食べます。",
-      "学校に食べます。"
+      "Can I borrow your car this weekend?",
+      "I borrow very tired after work.",
+      "She borrowed the sun yesterday.",
+      "They borrow at 8 o'clock every morning."
     ],
-    "correctIndex": 2
+    "correctIndex": 0
   }
 }
 ```
 
-**Reglas:**
-- Las 3 opciones incorrectas deben tener errores reales, no absurdos
-- Categorías de errores útiles: palabra equivocada, partícula incorrecta, orden incorrecto, registro inadecuado
-- Las oraciones deben ser del mismo nivel o uno más bajo
-- Ideal para N3 en adelante; en N5/N4 usarlo con moderación
+**Rules:**
+- The 3 wrong options must have real errors, not absurd ones
+- Useful error categories: wrong word, wrong preposition, wrong word order, wrong register
+- Sentences should be at the declared level or one level lower
+- Best from B1/intermediate onward; use sparingly at beginner levels
 
 ---
 
-### 4.7 `error-correction` — ¿Esta oración tiene error?
+### 4.7 `error-correction` — Does this sentence have an error?
 
 ```json
 {
   "type": "error-correction",
   "data": {
-    "sentence": "私は学校に食べます。",
+    "sentence": "She don't like coffee.",
     "isCorrect": false,
-    "correction": "私は学校に行きます。",
-    "explanation": "食べます (comer) no tiene sentido aquí. El verbo correcto es 行きます (ir).",
-    "errorType": "wrong-verb"
+    "correction": "She doesn't like coffee.",
+    "explanation": "'Don't' is for I/you/we/they. Third-person singular requires 'doesn't'.",
+    "errorType": "conjugation"
   }
 }
 ```
 
-También puede ser una oración correcta:
+Can also be a correct sentence:
 
 ```json
 {
   "type": "error-correction",
   "data": {
-    "sentence": "彼女は毎日学校に行きます。",
+    "sentence": "He usually drinks tea in the morning.",
     "isCorrect": true,
-    "explanation": "La oración es correcta. 彼女 (ella) + は (partícula de tema) + 毎日 (todos los días) + 学校に (a la escuela) + 行きます (va).",
-    "errorType": "particle"
+    "explanation": "Correct present simple: 'drinks' (3rd person) with frequency adverb 'usually' before the main verb.",
+    "errorType": "word-order"
   }
 }
 ```
 
-**Reglas:**
-- `errorType` es una etiqueta libre pero consistente. Valores recomendados: `particle`, `conjugation`, `word-order`, `wrong-verb`, `wrong-adjective`, `register`, `missing-particle`
-- En una serie de `error-correction`, mezclar oraciones correctas e incorrectas (50/50 aprox.)
-- La explicación debe ser pedagógica: NO solo decir qué está mal, sino POR QUÉ
-- Ideal para N3 en adelante; en N5 solo para errores muy comunes y claros
+**Rules:**
+- `errorType` is a free but consistent label. Recommended values: `particle`, `conjugation`, `word-order`, `wrong-verb`, `wrong-adjective`, `register`, `missing-particle`, `preposition`
+- In a set of `error-correction` exercises, mix correct and incorrect sentences (~50/50)
+- The explanation must be pedagogical: not just what is wrong, but WHY
+- Best from B1 onward; at beginner levels only for very common, clear errors
 
 ---
 
-### 4.8 `story-comprehension` — Leer texto + responder preguntas
+### 4.8 `story-comprehension` — Read text + answer questions
 
-Este ejercicio usa el schema de `ReadingText` del pack (archivo `readings/<level>.json`). La lección referencia el texto por su `id`.
+This exercise uses the `ReadingText` schema from the pack (file `readings/<level>.json`). The lesson references the text by its `id`.
 
 ```jsonc
-// En readings/n5.json — definición del texto
+// In readings/a2.json — text definition
 {
-  "id": "n5-uchi-no-kazoku",
-  "title": "Mi familia",
-  "level": "n5",
-  "text": "私は田中太郎です。家族は四人います。父と母と姉と私です。父は会社員で、母は先生です。姉は大学生です。私は高校生です。",
-  "reading": "わたしはたなかたろうです。かぞくはよにんいます。ちちとははとあねとわたしです...",
-  "translation": "Soy Taro Tanaka. Mi familia tiene cuatro personas. Mi padre, mi madre, mi hermana mayor y yo. Mi padre es oficinista y mi madre es profesora. Mi hermana es universitaria. Yo soy estudiante de secundaria.",
-  "vocabulary": ["家族", "父", "母", "姉", "会社員", "先生", "大学生", "高校生"],
+  "id": "a2-morning-routine",
+  "title": "Sarah's Morning",
+  "level": "a2",
+  "text": "Sarah wakes up at 6:30 every morning. She has a quick breakfast and takes the bus to work.",
+  "translation": "Sarah se despierta a las 6:30 todas las mañanas. Desayuna rápido y toma el autobús al trabajo.",
+  "vocabulary": ["wake up", "breakfast", "take the bus"],
   "questions": [
     {
-      "question": "¿Cuántas personas tiene la familia de Taro?",
-      "options": ["2 personas", "3 personas", "4 personas", "5 personas"],
-      "correctIndex": 2,
-      "explanation": "家族は四人います = la familia tiene cuatro personas (四 = 4)"
-    },
-    {
-      "question": "¿Cuál es la profesión de la madre?",
-      "options": ["Oficinista", "Profesora", "Universitaria", "Doctora"],
+      "question": "What time does Sarah wake up?",
+      "options": ["6:00", "6:30", "7:00", "8:00"],
       "correctIndex": 1,
-      "explanation": "母は先生です = la madre es profesora (先生 = sensei = maestro/a)"
+      "explanation": "The text says 'Sarah wakes up at 6:30 every morning'."
     },
     {
-      "question": "¿Qué es Taro?",
-      "options": ["Universitario", "Oficinista", "Profesor", "Estudiante de secundaria"],
-      "correctIndex": 3,
-      "explanation": "私は高校生です = yo soy estudiante de secundaria (高校生 = high school student)"
+      "question": "How does Sarah get to work?",
+      "options": ["By car", "By train", "By bus", "On foot"],
+      "correctIndex": 2,
+      "explanation": "'takes the bus to work' — she commutes by bus."
     }
   ]
 }
 ```
 
-**Reglas:**
-- Mínimo 2 preguntas, máximo 5
-- Las preguntas deben ser respondibles SOLO con la información del texto, nunca con conocimiento externo
-- Las opciones incorrectas deben ser plausibles, no absurdas
-- El texto debe usar únicamente vocabulario y gramática del nivel declarado o uno inferior
+**Rules:**
+- Minimum 2 questions, maximum 5
+- Questions must be answerable from the text alone — never from external knowledge
+- Wrong options must be plausible, not absurd
+- The text must use only vocabulary and grammar at the declared level or lower
 
 ---
 
-## 5. Nuevo: Conversaciones
+## 5. Conversations
 
-Las conversaciones son diálogos guiados. El aprendiz **elige** entre 2-4 opciones lo que su personaje diría. No escribe libremente — esto elimina falsos negativos y frustraciones.
+Conversations are guided dialogues. The learner **chooses** among 2–4 options what their character would say. They do not write freely — this eliminates false negatives and frustration.
 
-### 5.1 Archivo de conversaciones
+### 5.1 Conversations file
 
-`conversations/<level>.json` — array de `ConversationScript`.
+`conversations/<level>.json` — array of `ConversationScript`.
 
 ```jsonc
 [
   {
-    "id": "n5-tienda-compras",
-    "scenario": "En una tienda de ropa",
-    "level": "n5",
+    "id": "a1-shopping",
+    "scenario": "At a clothing store",
+    "level": "a1",
     "tags": ["shopping", "daily-life", "polite-speech"],
     "turns": [
       {
         "speaker": "npc",
-        "text": "いらっしゃいませ！",
-        "translation": "¡Bienvenido/a!",
-        "audio": "audio/conversations/irasshaimase.mp3"
+        "text": "Welcome! Can I help you?",
+        "translation": "¡Bienvenido/a! ¿En qué puedo ayudarle?",
+        "audio": "audio/conversations/welcome.mp3"
       },
       {
         "speaker": "learner",
         "text": "",
         "options": [
           {
-            "text": "Tシャツを探しています。",
+            "text": "I'm looking for a t-shirt.",
             "isCorrect": true,
-            "feedback": "Correcto. 探しています (sagashite imasu) = 'estoy buscando'. Forma perfecta para pedir ayuda.",
+            "feedback": "Correct. 'I'm looking for...' is the natural way to ask for help finding something.",
             "translation": "Estoy buscando una camiseta."
           },
           {
-            "text": "ありがとうございます。",
+            "text": "Thank you very much.",
             "isCorrect": false,
-            "feedback": "ありがとう es 'gracias'. No tiene sentido como respuesta al saludo del vendedor en esta situación.",
+            "feedback": "'Thank you' is a response to help received, not an opening to a shopping conversation.",
             "translation": "Muchas gracias."
           },
           {
-            "text": "さようなら。",
+            "text": "Goodbye!",
             "isCorrect": false,
-            "feedback": "さようなら es 'adiós'. No podés despedirte antes de entrar.",
-            "translation": "Adiós."
+            "feedback": "Saying goodbye before you've even started shopping doesn't make sense here.",
+            "translation": "¡Adiós!"
           }
         ],
         "correctOptionIndex": 0
       },
       {
         "speaker": "npc",
-        "text": "はい、こちらにございます。何色がよろしいですか？",
-        "translation": "Sí, están aquí. ¿Qué color prefiere?",
-        "audio": "audio/conversations/nani-iro.mp3"
+        "text": "Sure! What color would you like?",
+        "translation": "¡Claro! ¿Qué color le gustaría?",
+        "audio": "audio/conversations/what-color.mp3"
       },
       {
         "speaker": "learner",
         "text": "",
         "options": [
           {
-            "text": "青いのをお願いします。",
+            "text": "A blue one, please.",
             "isCorrect": true,
-            "feedback": "Perfecto. 青い (aoi) = azul + の = nominaliza + をお願いします = la manera educada de pedir.",
-            "translation": "La azul, por favor."
+            "feedback": "Perfect. Clear, polite, and appropriate answer to the color question.",
+            "translation": "Una azul, por favor."
           },
           {
-            "text": "私は学生です。",
+            "text": "I am a student.",
             "isCorrect": false,
-            "feedback": "Decir 'soy estudiante' no responde la pregunta sobre el color.",
+            "feedback": "Introducing yourself doesn't answer the question about color.",
             "translation": "Soy estudiante."
           },
           {
-            "text": "食べ物が好きです。",
-            "isCorrect": false,
-            "feedback": "Hablar de comida no tiene relación con la pregunta del vendedor.",
-            "translation": "Me gusta la comida."
-          },
-          {
-            "text": "赤いのをお願いします。",
+            "text": "A red one, please.",
             "isCorrect": true,
-            "feedback": "También es correcto. Rojo (赤い = akai) con la misma estructura educada.",
-            "translation": "La roja, por favor."
+            "feedback": "Also correct — same structure, different color. Both are equally valid.",
+            "translation": "Una roja, por favor."
           }
         ],
         "correctOptionIndex": 0
@@ -770,26 +759,26 @@ Las conversaciones son diálogos guiados. El aprendiz **elige** entre 2-4 opcion
 ]
 ```
 
-### 5.2 Reglas de conversaciones
+### 5.2 Conversation rules
 
-**Cantidad de opciones:** 2-4 por turno del aprendiz. 3 es ideal.
+**Number of options:** 2–4 per learner turn. 3 is ideal.
 
-**Una sola respuesta correcta vs. múltiples:** Se puede tener más de una `isCorrect: true`. En ese caso, el sistema marca bien cualquiera de las correctas. Usarlo cuando hay variantes igualmente válidas (como rojo/azul en el ejemplo). `correctOptionIndex` debe apuntar a la más recomendada para el feedback de la UI.
+**Single vs. multiple correct answers:** You can have more than one `isCorrect: true`. In that case the system accepts any correct option. Use this when there are equally valid variants (e.g. blue/red above). `correctOptionIndex` must point to the most recommended option for UI feedback purposes.
 
-**Calidad de las opciones incorrectas:** NO inventar errores absurdos. Las opciones incorrectas deben ser:
-- Palabras reales del nivel del aprendiz
-- Gramaticalmente posibles pero contextualmente incorrectas
-- Que ilustren confusiones reales (registro equivocado, respuesta no contextual, etc.)
+**Quality of wrong options:** Do NOT invent absurd errors. Wrong options must:
+- Be real words at the learner's level
+- Be grammatically possible but contextually wrong
+- Illustrate real confusions (wrong register, off-topic response, etc.)
 
-**Los turnos NPC:** Siempre incluir `translation`. El `audio` es opcional pero recomendado cuando hay archivos de audio en el pack.
+**NPC turns:** Always include `translation`. `audio` is optional but recommended when audio files are present in the pack.
 
-**Longitud:** 4-8 turnos por conversación. No más de 10. Demasiado largo fatiga.
+**Length:** 4–8 turns per conversation. No more than 10. Too long causes fatigue.
 
-**Nivel del vocabulario:** Todos los textos del NPC y opciones del aprendiz deben usar vocabulario del nivel declarado o inferior. Una conversación N5 no puede tener vocabulario N3.
+**Vocabulary level:** All NPC text and learner options must use vocabulary at the declared level or lower. An A1 conversation cannot contain B1 vocabulary.
 
 ---
 
-## 6. Estructura de una lección completa
+## 6. Full lesson structure
 
 ### 6.1 `lessons/index.json`
 
@@ -797,252 +786,271 @@ Las conversaciones son diálogos guiados. El aprendiz **elige** entre 2-4 opcion
 {
   "lessons": [
     {
-      "id": "hiragana-01",
-      "title": "Hiragana: あ行",
-      "description": "Las 5 primeras vocales del hiragana",
-      "level": "n5",
-      "category": "characters",
+      "id": "vocab-a1-01",
+      "title": "Basic Greetings",
+      "description": "The 8 survival words to get started",
+      "level": "a1",
+      "category": "vocabulary",
       "order": 1,
       "prerequisites": [],
       "estimatedMinutes": 10,
-      "newItemCount": 5
+      "newItemCount": 8
     },
     {
-      "id": "vocab-n5-01",
-      "title": "Saludos básicos",
-      "description": "Las 8 palabras de supervivencia para empezar",
-      "level": "n5",
-      "category": "vocabulary",
+      "id": "grammar-a1-01",
+      "title": "Present Simple: to be",
+      "description": "I am, you are, she is",
+      "level": "a1",
+      "category": "grammar",
       "order": 11,
-      "prerequisites": ["hiragana-01", "hiragana-02"],
+      "prerequisites": ["vocab-a1-01"],
       "estimatedMinutes": 12,
-      "newItemCount": 8
+      "newItemCount": 6
     }
   ]
 }
 ```
 
-**Reglas de `order`:** Ordenar ascendente dentro de cada nivel. El motor los muestra en este orden. Las lecciones de hiragana van primero (1-10), luego vocabulario (11+), luego gramática (21+), etc.
+**`order` rules:** Ascending within each level. The engine displays lessons in this order. Vocabulary lessons first, then grammar, then reading, etc. Use gaps between ranges (1–10 vocab, 11–20 grammar) so you can insert new lessons without renumbering everything.
 
-**`prerequisites`:** Array de `id` de lecciones que deben estar completadas antes. Vacío (`[]`) para la primera lección. No crear dependencias circulares.
+**`prerequisites`:** Array of lesson `id`s that must be completed first. Empty (`[]`) for the first lesson. Do not create circular dependencies.
 
 ---
 
-### 6.2 `lessons/<id>.json` — Anatomía de una lección
+### 6.2 `lessons/<id>.json` — Lesson anatomy
 
 ```jsonc
 {
-  "id": "vocab-n5-01",           // ← igual al nombre del archivo sin .json
-  "title": "Saludos básicos",
-  "description": "Las 8 palabras de supervivencia para empezar",
-  "level": "n5",
+  "id": "vocab-a1-01",           // ← must match the filename without .json
+  "title": "Basic Greetings",
+  "description": "The 8 survival words to get started",
+  "level": "a1",
   "category": "vocabulary",      // vocabulary | characters | grammar | mixed
 
-  // Items introducidos en esta lección
+  // Items introduced in this lesson
   "items": [
     {
-      "front": "こんにちは",          // Lo que el SRS muestra al frente
-      "back": "hola / buenas tardes", // La respuesta
-      "reading": "konnichiwa",        // Lectura fonética (obligatorio para CJK)
-      "explanation": "El saludo más universal. Se usa desde mediodía hasta la tarde.",
-      "mnemonic": "Suena como 'con ni chi wa'",  // Opcional
-      "imageUrl": "images/n5/konnichiwa.jpg",     // Opcional
-      "audio": "audio/n5/konnichiwa.mp3",         // Opcional
+      "front": "hello",                   // What the SRS shows on the front
+      "back": "hola",                     // The answer
+      "reading": "ˈhɛloʊ",               // Phonetic reading (required for CJK, optional for latin)
+      "explanation": "The most common greeting in English. Used any time of day.",
+      "mnemonic": "Sounds like 'ola' — like a wave (ola in Spanish).",  // Optional
+      "imageUrl": "images/a1/hello.jpg",  // Optional
+      "audio": "audio/a1/hello.mp3",      // Optional
       "cardRef": {
-        "category": "vocabulary",    // Debe coincidir con la categoría del item
-        "front": "こんにちは"          // Debe coincidir exactamente con vocabulary/n5.json
+        "category": "vocabulary",         // Must match the item's category
+        "front": "hello"                  // Must match exactly with vocabulary/a1.json "word" field
       }
     }
   ],
 
-  // Pasos de la lección en orden
+  // Lesson steps in order
   "steps": [...]
 }
 ```
 
-**Importante:** `cardRef.front` debe coincidir **exactamente** (mismo texto) con el campo `word` en `vocabulary/<level>.json`, `character` en `characters/`, o `front` en grammar. Si no coincide, el item no se agrega al SRS.
+**Important:** `cardRef.front` must match **exactly** (same text) the `word` field in `vocabulary/<level>.json`, the `character` field in `characters/`, or the `front` field in grammar. If it doesn't match, the item is not added to the SRS.
 
 ---
 
-### 6.3 Secuencias de pasos recomendadas por categoría
+### 6.3 Recommended step sequences by category
 
-#### Vocabulario (5-10 palabras nuevas)
+#### Vocabulary (5–10 new words)
 
 ```
 introduce → recognize → listen-identify → recall → [speak] → summary
 ```
 
-#### Vocabulario con imagen
+#### Vocabulary with images
 
 ```
-introduce → recognize → listen-identify → recall → summary
+introduce → image-association → recognize → recall → summary
 ```
-*(El `introduce` muestra la imagen, el `recognize` también)*
 
-#### Caracteres/Kana (5 caracteres nuevos)
+#### Characters / scripts (5 new characters)
 
 ```
 introduce → recognize → listen-identify → recall → listen-transcribe → [speak] → summary
 ```
 
-#### Gramática (1-3 patrones)
+#### Grammar (1–3 patterns)
 
 ```
-introduce → introduce (ejemplo completo) → recognize → sentence-build → recall → summary
+introduce → introduce (full example) → recognize → sentence-build → recall → summary
 ```
-*(Dos `introduce` es normal para gramática: primero las piezas, luego el patrón completo)*
 
-#### Mixta (vocabulario + gramática)
+*(Two `introduce` steps is normal for grammar: first the pieces, then the full pattern.)*
+
+#### Mixed (vocabulary + grammar)
 
 ```
 introduce → recognize → sentence-build → recall → summary
 ```
 
-#### Conversación (referencia a conversations/)
+#### Conversations
 
-Las conversaciones NO son lecciones: son ejercicios independientes. Se accederán desde la sección de práctica de conversación, no desde el flujo de lecciones estándar.
-
----
-
-## 7. Tabla de decisión pedagógica
-
-| Objetivo de aprendizaje | Tipo de ejercicio principal | Tipo de ejercicio secundario |
-|------------------------|---------------------------|------------------------------|
-| Vocabulario nuevo, reconocimiento | `recognize` (MC) | `matching` |
-| Vocabulario nuevo, producción | `recall` (write) | `fill-blank` |
-| Uso de vocabulario en contexto | `word-in-context` | `fill-blank-multi` |
-| Gramática, estructura | `sentence-build` | `drag-reorder` |
-| Gramática, corrección | `error-correction` | `fill-blank-multi` |
-| Caracteres, reconocimiento | `recognize` (MC) | `matching` |
-| Caracteres, escritura | `recall` + `write` | `character-draw` |
-| Comprensión auditiva | `listen-identify` | `dictation` |
-| Comprensión lectora | `story-comprehension` | — |
-| Producción oral | `speak` | — |
-| Comunicación situacional | `conversation-script` | — |
-| Asociación visual | `image-association` | — |
+Conversations are **not** lessons — they are standalone exercises. They are accessed from the conversation practice section, not from the standard lesson flow.
 
 ---
 
-### Cuándo introducir cada tipo de ejercicio por nivel
+## 7. Pedagogical decision table
 
-| Nivel | Tipos disponibles |
-|-------|------------------|
-| Principiante absoluto (A1/N5) | `introduce`, `recognize`, `listen-identify`, `recall`, `matching`, `fill-blank` |
-| Principiante (A2/N4) | + `sentence-build`, `drag-reorder`, `fill-blank-multi`, `image-association`, `conversation-script` |
-| Intermedio bajo (B1/N3) | + `word-in-context`, `error-correction`, `story-comprehension` |
-| Intermedio (B2/N2) | Todos los tipos disponibles |
-| Avanzado (C1+/N1) | Todos, con mayor complejidad por ejercicio |
+| Learning objective | Primary exercise type | Secondary exercise type |
+|-------------------|-----------------------|------------------------|
+| New vocabulary, recognition | `recognize` (MC) | `matching` |
+| New vocabulary, production | `recall` (write) | `fill-blank` |
+| Vocabulary in context | `word-in-context` | `fill-blank-multi` |
+| Grammar structure | `sentence-build` | `drag-reorder` |
+| Grammar correction | `error-correction` | `fill-blank-multi` |
+| Characters, recognition | `recognize` (MC) | `matching` |
+| Characters, writing | `recall` + `write` | `character-draw` |
+| Listening comprehension | `listen-identify` | `dictation` |
+| Reading comprehension | `story-comprehension` | — |
+| Oral production | `speak` | — |
+| Situational communication | `conversation-script` | — |
+| Visual association | `image-association` | — |
 
 ---
 
-## 8. Nomenclatura de archivos y orden
+### When to introduce each exercise type by level
 
-### Archivos de lecciones
+| Level | Available types |
+|-------|----------------|
+| Absolute beginner (A1 / N5) | `introduce`, `recognize`, `listen-identify`, `recall`, `matching`, `fill-blank` |
+| Beginner (A2 / N4) | + `sentence-build`, `drag-reorder`, `fill-blank-multi`, `image-association`, `conversation-script` |
+| Lower intermediate (B1 / N3) | + `word-in-context`, `error-correction`, `story-comprehension` |
+| Intermediate (B2 / N2) | All available types |
+| Advanced (C1+ / N1) | All types, with greater complexity per exercise |
 
-| Patrón | Categoría | Ejemplo |
-|--------|-----------|---------|
-| `hiragana-NN.json` | Caracteres hiragana | `hiragana-01.json` |
-| `katakana-NN.json` | Caracteres katakana | `katakana-01.json` |
-| `kanji-N5-NN.json` | Kanji por nivel | `kanji-n5-01.json` |
-| `vocab-N5-NN.json` | Vocabulario por nivel | `vocab-n5-01.json` |
-| `grammar-N5-NN.json` | Gramática por nivel | `grammar-n5-01.json` |
-| `reading-N5-NN.json` | Práctica de lectura | `reading-n5-01.json` |
+---
 
-Para idiomas con CEFR: `vocab-a1-01.json`, `grammar-b2-03.json`, etc.
+## 8. File naming and ordering
 
-### Orden de lecciones dentro de un nivel N5 (ejemplo japonés)
+### Lesson file naming
+
+Use a consistent pattern: `<category>-<level>-<NN>.json`
+
+| Pattern | Category | Example |
+|---------|----------|---------|
+| `vocab-<level>-NN.json` | Vocabulary | `vocab-a1-01.json` / `vocab-n5-01.json` |
+| `grammar-<level>-NN.json` | Grammar | `grammar-a2-03.json` / `grammar-n4-02.json` |
+| `reading-<level>-NN.json` | Reading practice | `reading-b1-01.json` / `reading-n3-01.json` |
+| `mixed-<level>-NN.json` | Mixed vocab + grammar | `mixed-a1-01.json` |
+
+For writing-system-intensive packs (e.g. Japanese, Korean, Arabic), add script-specific lessons before vocabulary:
+
+| Pattern | Category | Example |
+|---------|----------|---------|
+| `script-<name>-NN.json` | Writing system intro | `script-hiragana-01.json` |
+| `script-<name>-<level>-NN.json` | Characters by level | `script-kanji-n5-01.json` |
+
+The `<level>` segment must match a level `id` defined in `manifest.json`.
+
+---
+
+### Lesson ordering within a level
+
+For a **CEFR-based pack** (Spanish, French, Italian, English, etc.):
 
 ```
-1–10:   hiragana (5 vocales por lección = 2 lecciones, luego grupos de consonantes)
-11–15:  katakana (misma estructura)
-16–20:  primeras palabras en hiragana/katakana
-21–40:  vocabulario N5 (8-10 palabras por lección)
-41–55:  gramática N5 (1-2 patrones por lección)
-56–60:  lecturas cortas N5 (1 texto por lección)
+1–20:   vocabulary A1 (8–10 words per lesson)
+21–40:  grammar A1 (1–2 patterns per lesson)
+41–50:  reading A1 (1 text per lesson)
+51+:    A2 begins
 ```
 
-### Cuántas lecciones por nivel
+For a **script-heavy pack** (Japanese, Korean, Arabic, Hindi, etc.):
 
-| Nivel | Cantidad sugerida | Ítems nuevos por lección |
-|-------|-------------------|--------------------------|
-| N5 / A1 | 50-70 lecciones | 5-10 items |
-| N4 / A2 | 60-80 lecciones | 8-12 items |
-| N3 / B1 | 80-100 lecciones | 10-15 items |
-| N2 / B2 | 100+ lecciones | 10-15 items |
-| N1 / C1 | 100+ lecciones | 10-20 items |
+```
+1–10:   script group 1 (e.g. hiragana rows, hangul consonants)
+11–20:  script group 2
+21–30:  first vocabulary using the learned script
+31–50:  vocabulary at the level (8–10 words per lesson)
+51–65:  grammar (1–2 patterns per lesson)
+66–70:  reading
+```
+
+The specific grouping depends on the language's script structure — adapt as needed.
 
 ---
 
-## 9. Errores comunes a evitar
+### How many lessons per level
 
-### En lecciones
-
-❌ **Omitir `introduce`** — El motor no puede practicar lo que no se presentó.
-
-❌ **`itemIndices` fuera de rango** — Si la lección tiene 5 items (índices 0-4), no poner `itemIndices: [5]`.
-
-❌ **`cardRef.front` que no existe** — Si el vocabulario no está en `vocabulary/n5.json`, el item no se agrega al SRS. Verificar que el texto sea exactamente igual.
-
-❌ **Demasiados items por lección** — Máximo 15. La memoria de trabajo tiene límite. Para vocabulario, 8-10 es el sweet spot.
-
-❌ **Lección sin `summary`** — El `summary` es el que marca la lección como completada.
-
-### En ejercicios
-
-❌ **`fill-blank-multi` con `{0}` y `{2}` sin `{1}`** — Los índices deben ser consecutivos desde 0.
-
-❌ **`error-correction` con solo oraciones incorrectas** — Incluir mezcla de correctas e incorrectas para que el ejercicio no sea trivial.
-
-❌ **`matching` con pares que comparten parte del mismo texto** — El aprendiz puede usar la coincidencia visual en vez de el conocimiento real.
-
-❌ **`word-in-context` con opciones incorrectas absurdas** — "私は空を食べます" (como la comida, el cielo) es una distracción obvia que no entrena razonamiento real. Los distractores deben ser plausibles.
-
-### En conversaciones
-
-❌ **Turno del aprendiz con solo una opción** — Mínimo 2 opciones, máximo 4.
-
-❌ **Vocabulario del NPC fuera del nivel** — Si la conversación es N5, el NPC no puede usar palabras N3.
-
-❌ **`correctOptionIndex` incorrecto** — Verificar que apunta a la opción con `isCorrect: true`.
-
-❌ **Sin `translation` en los turnos del NPC** — El aprendiz necesita entender qué le está diciendo el NPC para poder responder.
+| Level | Suggested count | New items per lesson |
+|-------|----------------|----------------------|
+| A1 / N5 | 50–70 lessons | 5–10 items |
+| A2 / N4 | 60–80 lessons | 8–12 items |
+| B1 / N3 | 80–100 lessons | 10–15 items |
+| B2 / N2 | 100+ lessons | 10–15 items |
+| C1+ / N1 | 100+ lessons | 10–20 items |
 
 ---
 
-## Apéndice: Template de prompt para IA generadora
+## 9. Common mistakes to avoid
 
-```
-Eres un especialista en didáctica de idiomas. Genera contenido JSON para un Language Pack de Forgua.
+### In lessons
 
-IDIOMA OBJETIVO: [IDIOMA]
-NIVEL: [NIVEL] (ej: n5, a1, b2)
-FAMILIA DE ESCRITURA: [FAMILIA] (cjk-japanese | cjk-chinese | hangul | latin | cyrillic | arabic | devanagari)
-IDIOMA DE INSTRUCCIÓN: Español
+❌ **Skipping `introduce`** — The engine cannot practice what hasn't been presented.
 
-TIPO DE CONTENIDO A GENERAR: [TIPO]
+❌ **`itemIndices` out of range** — If a lesson has 5 items (indices 0–4), do not use `itemIndices: [5]`.
 
-Opciones para [TIPO]:
-A) vocabulary/<nivel>.json — vocabulario
-B) grammar/<nivel>.json — gramática
-C) characters/<sistema>.json — caracteres
-D) readings/<nivel>.json — textos de lectura con comprensión
-E) conversations/<nivel>.json — diálogos guiados
-F) lessons/<id>.json — una lección completa
-G) lessons/index.json — índice de lecciones
+❌ **`cardRef.front` that doesn't exist** — If the word is not in `vocabulary/<level>.json`, the item won't be added to the SRS. Verify the text matches exactly.
 
-REGLAS CRÍTICAS:
-1. PRECISIÓN OBLIGATORIA. Si no estás seguro de una lectura, un significado o una conjugación, omitilo o marcalo con un comentario.
-2. FUENTES DE REFERENCIA MENTAL: JMdict para japonés, CC-CEDICT para chino, diccionarios TOPIK para coreano, CEFR para europeos.
-3. EJEMPLOS NATURALES. Las oraciones de ejemplo deben sonar como lo que dice un hablante real, no un libro de texto de los 80.
-4. SIGNIFICADOS EN ESPAÑOL PRIMERO.
-5. NO INVENTAR PALABRAS NI NIVELES. Una palabra "común" no es necesariamente N5. Verificar contra listas oficiales.
-6. PARA CONVERSACIONES: Las opciones incorrectas del aprendiz deben ser plausibles pero contextualmente erróneas. No absurdas.
+❌ **Too many items per lesson** — Maximum 15. Working memory has limits. For vocabulary, 8–10 is the sweet spot.
 
-FORMATO DE SALIDA: JSON válido sin comentarios en el output final.
-
-Genera [CANTIDAD] entradas/lecciones para [IDIOMA] nivel [NIVEL], tipo [TIPO].
-```
+❌ **Lesson without `summary`** — The `summary` step is what marks the lesson as completed.
 
 ---
 
-*Documento mantenido por el equipo de Forgua. Última actualización: ver historial de git.*
+### In exercises
+
+❌ **`fill-blank-multi` with `{0}` and `{2}` but no `{1}`** — Indices must be consecutive starting from 0.
+
+❌ **`error-correction` with only incorrect sentences** — Include a mix of correct and incorrect so the exercise is not trivial.
+
+❌ **`matching` with pairs that share part of the same text** — Learners can use visual matching instead of actual knowledge.
+
+❌ **`word-in-context` with absurd wrong options** — "I eat the sky for breakfast" is an obvious distractor that doesn't train real reasoning. Distractors must be plausible.
+
+---
+
+### In conversations
+
+❌ **Learner turn with only one option** — Minimum 2 options, maximum 4.
+
+❌ **NPC vocabulary above the declared level** — If the conversation is A1, the NPC cannot use B1 words.
+
+❌ **`correctOptionIndex` pointing to the wrong option** — Verify it points to an option with `isCorrect: true`.
+
+❌ **NPC turns without `translation`** — The learner needs to understand what the NPC is saying in order to respond.
+
+---
+
+## Appendix: AI prompt template for content generation
+
+```
+You are a language teaching specialist. Generate JSON content for a Forgua Language Pack.
+
+TARGET LANGUAGE: [LANGUAGE]
+LEVEL: [LEVEL] (e.g. a1, n5, b2)
+WRITING FAMILY: [FAMILY] (cjk-japanese | cjk-chinese | hangul | latin | cyrillic | arabic | devanagari)
+INSTRUCTION LANGUAGE: [LANGUAGE OF EXPLANATIONS]
+
+CONTENT TYPE TO GENERATE: [TYPE]
+
+Options for [TYPE]:
+A) vocabulary/<level>.json — vocabulary
+B) grammar/<level>.json — grammar
+C) characters/<system>.json — characters
+D) readings/<level>.json — reading texts with comprehension questions
+E) conversations/<level>.json — guided dialogues
+F) lessons/<id>.json — a complete lesson
+G) lessons/index.json — lesson index
+
+CRITICAL RULES:
+1. ACCURACY IS MANDATORY. If you are unsure of a reading, meaning, or conjugation, omit it or flag it with a comment.
+2. REFERENCE SOURCES: JMdict for Japanese, CC-CEDICT for Chinese, TOPIK dictionaries for Korean, CEFR word lists for European languages.
+3. NATURAL EXAMPLES. Example sentences should sound like what a real speaker says, not an 80s textbook.
+4. TARGET LANGUAGE MEANINGS FIRST, then provide translations.
+5. DO NOT INVENT WORDS OR LEVELS. A "common" word is not necessarily A1. Verify against official word lists.
+```

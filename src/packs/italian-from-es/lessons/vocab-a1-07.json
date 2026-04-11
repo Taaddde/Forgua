@@ -1,0 +1,119 @@
+{
+  "id": "vocab-a1-07",
+  "title": "La casa",
+  "description": "Las partes de la casa y el mobiliario básico. Vocabulario esencial para describir dónde vivís y orientarse en un hogar italiano.",
+  "level": "a1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "la casa",
+      "back": "la casa",
+      "reading": "/la ˈkaːza/",
+      "explanation": "Casa. La 's' entre vocales en italiano suena /z/ (sonora). 'Casa' es femenino. 'A casa' = en casa (sin artículo en expresiones fijas). 'Tornare a casa' = volver a casa."
+    },
+    {
+      "front": "l'appartamento",
+      "back": "el apartamento / el departamento",
+      "reading": "/lappartaˈmento/",
+      "explanation": "Appartamento. En Italia es más común vivir en apartamentos que en casas unifamiliares, especialmente en las ciudades. 'Affittare un appartamento' = alquilar un apartamento."
+    },
+    {
+      "front": "la camera (da letto)",
+      "back": "el dormitorio / la habitación",
+      "reading": "/la ˈkamera/",
+      "explanation": "Camera. 'Camera da letto' = dormitorio (literalmente 'cuarto de cama'). 'Camera singola/doppia' = habitación individual/doble (en hoteles). No confundir con 'camera' = cámara fotográfica."
+    },
+    {
+      "front": "la cucina",
+      "back": "la cocina",
+      "reading": "/la kuˈtʃiːna/",
+      "explanation": "Cucina. La 'ci' suena /tʃ/. También significa 'la gastronomía' o 'el arte culinario': 'cucina italiana' = gastronomía italiana. 'Cucinare' = cocinar."
+    },
+    {
+      "front": "il bagno",
+      "back": "el baño",
+      "reading": "/il ˈbaɲɲo/",
+      "explanation": "Bagno. La 'gn' suena /ɲ/ como la 'ñ' española. Doble ñ en la pronunciación. 'Fare il bagno' = bañarse. 'Fare la doccia' = ducharse. 'Vasca da bagno' = bañera."
+    },
+    {
+      "front": "il salotto / il soggiorno",
+      "back": "el salón / la sala de estar",
+      "reading": "/il saˈlɔtto/ /il sodˈdʒorno/",
+      "explanation": "Salotto = sala de estar pequeña y acogedora. Soggiorno = sala de estar más grande (también 'estancia/estadía'). Ambas son correctas para el living."
+    },
+    {
+      "front": "la finestra",
+      "back": "la ventana",
+      "reading": "/la fiˈnestra/",
+      "explanation": "Finestra. Similar al español 'fenestra' (latín). 'Aprire/chiudere la finestra' = abrir/cerrar la ventana. 'Guardare dalla finestra' = mirar por la ventana."
+    },
+    {
+      "front": "la porta",
+      "back": "la puerta",
+      "reading": "/la ˈpɔrta/",
+      "explanation": "Porta. Idéntico al español. 'Aprire/chiudere la porta' = abrir/cerrar la puerta. 'Portone' = portón/entrada principal del edificio. 'Campanello' = timbre."
+    },
+    {
+      "front": "il tavolo",
+      "back": "la mesa",
+      "reading": "/il ˈtaːvolo/",
+      "explanation": "Tavolo. En el restaurante o bar se dice 'tavolo'. 'Apparecchiare la tavola' = poner la mesa (doméstico). Hay dos palabras: 'tavolo' (mesa genérica) y 'tavola' (mesa puesta para comer)."
+    },
+    {
+      "front": "la sedia",
+      "back": "la silla",
+      "reading": "/la ˈseːdja/",
+      "explanation": "Sedia. 'Sedersi sulla sedia' = sentarse en la silla. 'Poltrona' = sillón/butaca. 'Divano' = sofá. Todos son muebles para sentarse."
+    },
+    {
+      "front": "il letto",
+      "back": "la cama",
+      "reading": "/il ˈlɛtto/",
+      "explanation": "Letto. 'Andare a letto' = irse a la cama (expresión fija sin artículo). 'Fare il letto' = hacer la cama. 'Letto matrimoniale' = cama de dos plazas. 'Letto singolo' = cama de una plaza."
+    },
+    {
+      "front": "il divano",
+      "back": "el sofá / el sillón",
+      "reading": "/il diˈvaːno/",
+      "explanation": "Divano. En italiano 'divano' = sofá (para varias personas). 'Poltrona' = sillón (para una persona). 'Divano letto' = sofá cama."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Le stanze della casa",
+      "instruction": "Las habitaciones de la casa. Muchas palabras son similares al español. Prestá atención a 'bagno' (baño — se pronuncia BAÑ-ño) y 'cucina' (cocina — con ch).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "introduce",
+      "title": "I mobili — el mobiliario",
+      "instruction": "El mobiliario básico de la casa.",
+      "itemIndices": [8, 9, 10, 11]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué es?",
+      "instruction": "Ves la palabra en italiano. Elegí la traducción correcta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+    },
+    {
+      "type": "recall",
+      "title": "Del español al italiano",
+      "instruction": "Ves la habitación o mueble en español. Escribí la palabra italiana.",
+      "itemIndices": [0, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Describí la casa",
+      "instruction": "Ordená: La / è / grande / mia / camera | Il / sul / letto / tavolo / è",
+      "itemIndices": [2, 10]
+    },
+    {
+      "type": "summary",
+      "title": "¡La casa!",
+      "instruction": "casa/appartamento, camera/bagno/cucina/salotto, finestra/porta, tavolo/sedia/letto/divano. Recordá: 'andare a letto' (irse a la cama), 'fare il letto' (hacer la cama), 'a casa' (en casa — sin artículo).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+    }
+  ]
+}

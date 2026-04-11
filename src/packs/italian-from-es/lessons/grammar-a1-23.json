@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a1-23",
+  "title": "Le ore — Che ora è? / Sono le... / È mezzogiorno",
+  "description": "Cómo decir y preguntar la hora en italiano. La estructura es diferente al español: 'sono le' + número. Horas especiales: l'una, mezzogiorno, mezzanotte.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Che ora è? / Che ore sono?",
+      "back": "¿Qué hora es?",
+      "reading": "",
+      "explanation": "Dos formas de preguntar la hora: 'Che ora è?' (singular) y 'Che ore sono?' (plural). Ambas son correctas y comunes. 'Scusa, che ore sono?' = Perdón, ¿qué hora es? En el lenguaje formal: 'Potrebbe dirmi l'ora?' = ¿Podría decirme la hora?"
+    },
+    {
+      "front": "Sono le tre. / Sono le otto e mezza.",
+      "back": "Son las tres. / Son las ocho y media.",
+      "reading": "",
+      "explanation": "Para la mayoría de las horas se usa 'SONO LE + número'. 'Sono le tre' = Son las tres. 'Sono le otto e mezza' = Son las ocho y media. 'E mezza' (y media) o 'e mezzo' — en el habla coloquial se usa 'mezza' (femminile)."
+    },
+    {
+      "front": "È l'una. / È l'una e mezza.",
+      "back": "Es la una. / Es la una y media.",
+      "reading": "",
+      "explanation": "¡EXCEPCIÓN! Solo para la UNA se usa 'È L'UNA' (singular, no plural). 'Sono le due' pero 'È l'una'. También: 'È l'una e un quarto' = Es la una y cuarto. El artículo 'l'' es obligatorio: È l'una (no *È una)."
+    },
+    {
+      "front": "È mezzogiorno. / È mezzanotte.",
+      "back": "Es mediodía. / Es medianoche.",
+      "reading": "",
+      "explanation": "'Mezzogiorno' (mediodía) y 'mezzanotte' (medianoche) siempre usan 'È' sin artículo. 'È mezzogiorno' = Es mediodía. 'È mezzanotte passata' = Es medianoche pasada. Muy usados: 'pranzo a mezzogiorno' = almuerzo al mediodía."
+    },
+    {
+      "front": "e un quarto / e mezza / meno un quarto",
+      "back": "y cuarto / y media / menos cuarto",
+      "reading": "",
+      "explanation": "'E un quarto' = y cuarto (15 min). 'E mezza' = y media (30 min). 'Meno un quarto' = menos cuarto (45 min, es decir 15 min antes de la siguiente hora). 'Sono le tre e un quarto' = Son las tres y cuarto. 'Sono le quattro meno un quarto' = Son las cuatro menos cuarto (= las 3:45)."
+    },
+    {
+      "front": "Sono le tre e venti. / Sono le cinque e cinquanta.",
+      "back": "Son las tres y veinte. / Son las cinco y cincuenta.",
+      "reading": "",
+      "explanation": "Para minutos exactos: 'Sono le [hora] e [minutos]'. 'Sono le dieci e dieci' = Son las diez y diez. 'Sono le nove e quaranta' = Son las nueve y cuarenta. En Italia también se usa el sistema de 24 horas (orario continuato) en contextos formales."
+    },
+    {
+      "front": "A che ora...? — Alle tre. / All'una. / A mezzogiorno.",
+      "back": "¿A qué hora...? — A las tres. / A la una. / Al mediodía.",
+      "reading": "",
+      "explanation": "Para decir 'a qué hora' o 'a las...': 'A che ora parti?' = ¿A qué hora salís? 'Parto alle nove' = Salgo a las nueve. 'Alle' + número (plural), 'All'una' (la una), 'A mezzogiorno/mezzanotte' (sin artículo)."
+    },
+    {
+      "front": "di mattina / di pomeriggio / di sera / di notte",
+      "back": "de la mañana / de la tarde / de la noche (tarde) / de la noche (madrugada)",
+      "reading": "",
+      "explanation": "Para especificar el período: 'Sono le tre di pomeriggio' = Son las tres de la tarde (15:00). 'Sono le tre di notte' = Son las tres de la madrugada (03:00). En contextos formales se usa el horario de 24h: 'le quindici' = las 15:00."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "La hora en italiano: la estructura básica",
+      "instruction": "Para decir la hora: SONO LE + número. Excepción: la una = È L'UNA. Mediodía = È MEZZOGIORNO. Medianoche = È MEZZANOTTE. Pregunta: CHE ORA È? / CHE ORE SONO?",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Minutos, cuartos y a qué hora",
+      "instruction": "'E un quarto' = y cuarto, 'e mezza' = y media, 'meno un quarto' = menos cuarto. Para decir 'a las': ALLE + número, ALL'UNA, A MEZZOGIORNO.",
+      "itemIndices": [4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cómo se dice esta hora?",
+      "instruction": "Ves un reloj o una hora escrita — elegí cómo se dice correctamente en italiano.",
+      "itemIndices": [1, 2, 3, 4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "Di la hora en italiano",
+      "instruction": "Escribí cómo se dice esta hora en italiano. ¿È o sono le?",
+      "itemIndices": [1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá los diálogos sobre la hora",
+      "instruction": "Completá con la hora correcta o con 'a che ora / alle' según corresponda.",
+      "itemIndices": [6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "La hora italiana: resumen",
+      "instruction": "Preguntar: Che ora è? / Che ore sono? Responder: SONO LE [número] para casi todo. Excepciones: È L'UNA (la una), È MEZZOGIORNO, È MEZZANOTTE. Fracciones: e un quarto (y cuarto), e mezza (y media), meno un quarto (menos cuarto). Para 'a las': ALLE [número], ALL'UNA, A MEZZOGIORNO.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

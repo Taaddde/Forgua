@@ -1,0 +1,89 @@
+{
+  "id": "reading-a2-04",
+  "title": "Lettura: Cerco un appartamento",
+  "description": "Cuarta lectura A2. Un anuncio de búsqueda de apartamento y el diálogo para concertar una visita. Vocabulario de vivienda, negociación, preguntas prácticas sobre el alquiler.",
+  "level": "a2",
+  "category": "reading",
+  "items": [
+    {
+      "front": "ANNUNCIO: Cerco appartamento in affitto a Roma centro.",
+      "back": "ANUNCIO: Busco apartamento en alquiler en el centro de Roma.",
+      "reading": "",
+      "explanation": "'Cerco' = busco (1ª sing. di cercare). 'In affitto' = en alquiler (affittare = alquilar, l'affitto = el alquiler). 'A Roma centro' = en el centro de Roma. Para publicar: 'Affittasi' (se alquila) o 'Vendesi' (se vende) — forma impersonal típica de los anuncios."
+    },
+    {
+      "front": "Cerco un bilocale (camera da letto + soggiorno) con cucina separata.",
+      "back": "Busco un apartamento de dos ambientes (dormitorio + sala) con cocina separada.",
+      "reading": "",
+      "explanation": "'Un bilocale' = apartamento de dos habitaciones (salón + dormitorio). Nomenclatura italiana: monolocale (1 amb.), bilocale (2 amb.), trilocale (3 amb.), quadrilocale (4 amb.). 'La camera da letto' = el dormitorio. 'Il soggiorno' = el salón/living. 'La cucina separata' = cocina separada (no americana)."
+    },
+    {
+      "front": "Budget massimo: 900 euro al mese. Disponibile da settembre.",
+      "back": "Presupuesto máximo: 900 euros por mes. Disponible desde septiembre.",
+      "reading": "",
+      "explanation": "'Il budget massimo' = el presupuesto máximo. 'Al mese' = por mes (al + mese = artículo + mese). 'Disponibile da settembre' = disponible desde septiembre. Para los meses en italiano: settembre, ottobre, novembre, dicembre (sept., oct., nov., dic. — sin mayúscula)."
+    },
+    {
+      "front": "Ho un appartamento disponibile a Trastevere, è un bilocale al secondo piano con balcone. L'affitto è 850 euro al mese, le spese condominiali sono incluse.",
+      "back": "Tengo un apartamento disponible en Trastevere, es un dos ambientes en el segundo piso con balcón. El alquiler es 850 euros por mes, los gastos de comunidad están incluidos.",
+      "reading": "",
+      "explanation": "'Al secondo piano' = en el segundo piso. 'Il balcone' = el balcón. 'Le spese condominiali' = los gastos de comunidad (agua, limpieza, conserjería, ascensor...). 'Incluse' = incluidas (participio di includere, f.pl.). Trastevere = barrio histórico y popular de Roma."
+    },
+    {
+      "front": "Com'è la cucina? È separata?",
+      "back": "¿Cómo es la cocina? ¿Está separada?",
+      "reading": "",
+      "explanation": "'Com'è' = ¿cómo es? (come + è = com'è, contracción). En los alquileres italianos es importante saber si la cocina es 'separata' (un cuarto aparte) o 'cucina americana' (integrada al living). La cucina separata = cucina abitabile (cocina habitable, donde se puede comer)."
+    },
+    {
+      "front": "Sì, c'è una cucina abitabile con tutti gli elettrodomestici. C'è anche un piccolo balcone con vista sul cortile.",
+      "back": "Sí, hay una cocina habitable con todos los electrodomésticos. También hay un pequeño balcón con vista al patio.",
+      "reading": "",
+      "explanation": "'Gli elettrodomestici' = los electrodomésticos (lavarropas, heladera, microondas, etc.). 'Il cortile' = el patio interior del edificio. 'Vista sul cortile' = vista al patio (vista + su + articolo). 'Sul' = su+il. 'C'è anche' = también hay (c'è para singular)."
+    },
+    {
+      "front": "Posso venire a vederlo questo weekend?",
+      "back": "¿Puedo ir a verlo este fin de semana?",
+      "reading": "",
+      "explanation": "'Posso venire' = puedo venir (modale + infinito). 'A vederlo' = a verlo (vedere + lo, pronome oggetto unito all'infinito). 'Questo weekend' = este fin de semana. La struttura 'posso + venire + a + vedere + pronome' es muy natural en italiano."
+    },
+    {
+      "front": "Certo! Sabato alle undici va bene?",
+      "back": "¡Por supuesto! ¿El sábado a las once está bien?",
+      "reading": "",
+      "explanation": "'Certo!' = ¡Por supuesto! / ¡Claro! (más corto que 'naturalmente', muy coloquial). 'Va bene?' = ¿está bien? / ¿de acuerdo? (expresión fija con 'andare'). 'Sabato alle undici' = el sábado a las once (días de la semana sin artículo para días específicos)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Cerco un appartamento — Leemos el texto",
+      "instruction": "Texto completo: anuncio de búsqueda + diálogo entre la persona que busca y quien ofrece. Vocabulario de vivienda italiana: bilocale, spese condominiali, cucina abitabile, elettrodomestici, cortile.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Vocabulario de vivienda en italiano",
+      "instruction": "Aprendé el vocabulario de alquiler: in affitto, bilocale, camera da letto, soggiorno, cucina abitabile, spese condominiali, elettrodomestici, cortile, balcone.",
+      "itemIndices": [1, 3, 5, 7]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "El apartamento disponible",
+      "instruction": "¿Cuánto cuesta el apartamento? ¿Están incluidos los gastos de comunidad? ¿En qué piso está? ¿Cuándo van a visitarlo?",
+      "itemIndices": [3, 5, 7]
+    },
+    {
+      "type": "conversation-script",
+      "title": "Practicá el diálogo de alquiler",
+      "instruction": "Practicá el diálogo: primero el rol del buscador (preguntas), luego el del propietario (respuestas).",
+      "itemIndices": [4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "Vocabulario de vivienda italiana",
+      "instruction": "Tipos: monolocale (1amb), bilocale (2amb), trilocale (3amb). Habitaciones: camera da letto (dormitorio), soggiorno (salón), cucina (cocina), bagno (baño), balcone (balcón). Alquiler: in affitto (en alquiler), l'affitto (el alquiler), le spese condominiali (gastos de comunidad), gli elettrodomestici (los electrodomésticos). Preguntar: Com'è? Posso venire a vederlo? Va bene sabato?",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

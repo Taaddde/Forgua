@@ -1,0 +1,101 @@
+{
+  "id": "vocab-a1-13",
+  "title": "I vestiti",
+  "description": "La ropa y accesorios en italiano. Vocabulario útil para ir de compras, describir personas y situaciones cotidianas.",
+  "level": "a1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "la maglietta / la t-shirt",
+      "back": "la camiseta / la remera",
+      "reading": "/la maʎˈʎetta/",
+      "explanation": "Maglietta. La 'gli' suena /ʎʎ/. También se dice 't-shirt' (anglicismo). 'Maglia' = jersey/pullóver de punto (más grueso). Diferente al español 'malla' (=traje de baño en Argentina)."
+    },
+    {
+      "front": "la camicia",
+      "back": "la camisa",
+      "reading": "/la kaˈmiːtʃa/",
+      "explanation": "Camicia. La 'cia' suena /tʃa/. 'Camicia a quadri' = camisa a cuadros. 'Camicetta' = blusa (para mujer). 'Non avere la camicia' = no tener ni para comer."
+    },
+    {
+      "front": "i pantaloni",
+      "back": "los pantalones",
+      "reading": "/i pantaˈloːni/",
+      "explanation": "Pantaloni. Siempre en plural (como en español). 'Un paio di pantaloni' = un pantalón (un par de). 'Pantaloncini' = shorts/bermudas."
+    },
+    {
+      "front": "la gonna",
+      "back": "la falda",
+      "reading": "/la ˈɡɔnna/",
+      "explanation": "Gonna. Doble 'n'. Nada similar al español — hay que memorizarla. 'Gonna corta/lunga' = falda corta/larga. 'Gonna a righe' = falda de rayas."
+    },
+    {
+      "front": "il vestito / l'abito",
+      "back": "el vestido / el traje",
+      "reading": "/il vesˈtiːto/ /ˈlaːbito/",
+      "explanation": "'Vestito' = vestido (para mujer) o traje (para hombre). 'Abito' es más formal. 'Abito da sera' = vestido de noche. 'Vestirsi' = vestirse."
+    },
+    {
+      "front": "le scarpe",
+      "back": "los zapatos",
+      "reading": "/le ˈskarpe/",
+      "explanation": "Scarpe. Siempre en plural. 'Un paio di scarpe' = un par de zapatos. 'Scarpe col tacco' = zapatos de tacón. 'Scarpe da ginnastica' = zapatillas deportivas. 'Stivali' = botas."
+    },
+    {
+      "front": "le scarpe da ginnastica",
+      "back": "las zapatillas / las tenis",
+      "reading": "/le ˈskarpe da dʒinˈnastika/",
+      "explanation": "Scarpe da ginnastica. También: 'le sneakers' (anglicismo muy usado). 'da ginnastica' = de gimnasia/deporte. 'Ginnastica' = gimnasia."
+    },
+    {
+      "front": "il cappotto",
+      "back": "el abrigo",
+      "reading": "/il kapˈpɔtto/",
+      "explanation": "Cappotto. Doble 'pp' y doble 'tt'. 'Giacca' = chaqueta/campera. 'Giubbotto' = campera más casual/acolchada. 'Impermeabile' = impermeable/piloto."
+    },
+    {
+      "front": "la sciarpa",
+      "back": "la bufanda",
+      "reading": "/la ˈʃarpa/",
+      "explanation": "Sciarpa. La 'sci' suena /ʃ/. 'Il guanti' = los guantes. 'Il cappello' = el sombrero/gorro. 'Il berretto' = la gorra/boina."
+    },
+    {
+      "front": "la borsa",
+      "back": "la cartera / el bolso",
+      "reading": "/la ˈborsa/",
+      "explanation": "Borsa. También significa 'bolsa' y 'bolsa de valores' (Borsa di Milano). 'Borsetta' = carterita pequeña. 'Zaino' = mochila. 'Portafoglio' = billetera."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "I vestiti — la ropa",
+      "instruction": "La ropa en italiano. 'Gonna' (falda) es la más diferente al español. Los zapatos (scarpe) y pantalones (pantaloni) van siempre en plural.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué ropa es?",
+      "instruction": "Ves la prenda en italiano. Elegí la traducción.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "Del español al italiano",
+      "instruction": "Ves la prenda en español. Escribí la palabra italiana.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 7, 8, 9]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Qué llevas puesto?",
+      "instruction": "Completá: 'Oggi porto una ___ (camiseta) blu e i ___ (pantalones) neri. Ai piedi ho le ___ (zapatillas).'",
+      "itemIndices": [0, 2, 6]
+    },
+    {
+      "type": "summary",
+      "title": "¡I vestiti!",
+      "instruction": "maglietta(remera), camicia(camisa), pantaloni(pantalones), gonna(falda), vestito/abito(vestido/traje), scarpe(zapatos), cappotto(abrigo), sciarpa(bufanda), borsa(cartera). Recorda: scarpe y pantaloni siempre en plural.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

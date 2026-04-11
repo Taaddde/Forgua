@@ -1,0 +1,89 @@
+{
+  "id": "grammar-b1-21",
+  "title": "Stare per + infinito",
+  "description": "La construcción 'stare per + infinitivo' para expresar inminencia: estar a punto de hacer algo. Muy frecuente en el italiano cotidiano y narrativo.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Sto per uscire, arrivo tra cinque minuti.",
+      "back": "Estoy a punto de salir, llego en cinco minutos.",
+      "reading": "",
+      "explanation": "'Stare per + infinitivo' en PRESENTE: la acción es inminente, a punto de ocurrir ahora mismo. 'Sto per uscire' = estoy a punto de salir. Útil para avisar: 'Sto per chiamarti' (estoy a punto de llamarte). El verbo 'stare' se conjuga según el sujeto: sto, stai, sta, stiamo, state, stanno."
+    },
+    {
+      "front": "Stava per piovere quando siamo arrivati.",
+      "back": "Estaba a punto de llover cuando llegamos.",
+      "reading": "",
+      "explanation": "'Stare per' en IMPERFETTO: 'stava per piovere' = estaba a punto de llover (y quizás sí llovió después o quizás no). Muy útil para narración. La acción inminente puede haberse producido o no: 'Stava per piangere ma si è trattenuta' = Estaba a punto de llorar pero se contuvo."
+    },
+    {
+      "front": "Stavamo per perdere il treno!",
+      "back": "¡Estábamos a punto de perder el tren!",
+      "reading": "",
+      "explanation": "'Stavamo per' = estábamos a punto de. Primera persona plural del imperfetto di 'stare'. La exclamación implica que finalmente NO perdieron el tren. 'Stare per' en pasado expresa 'casi', 'por poco': 'Stavo per cadere' = casi me caigo, estuve a punto de caer."
+    },
+    {
+      "front": "Stava per dirmi qualcosa quando è arrivato il capo.",
+      "back": "Estaba a punto de decirme algo cuando llegó el jefe.",
+      "reading": "",
+      "explanation": "Uso narrativo clásico: una acción interrumpida en el momento de su inminencia. 'Stava per dirmi qualcosa' (estaba a punto de decirme, acción inminente interrumpida) + 'è arrivato il capo' (acción que interrumpe, passato prossimo). El imperfetto de 'stare' + passato prossimo del verbo que interrumpe: combinación narrativa B1."
+    },
+    {
+      "front": "Sono quasi le tre: sto per andare a letto.",
+      "back": "Son casi las tres: estoy a punto de irme a dormir.",
+      "reading": "",
+      "explanation": "'Sto per andare a letto' = voy a irme a dormir en un momento. La construcción admite verbos pronominali e irregolari: 'andarsene', 'sedersi', 'alzarsi'. 'Sta per alzarsi' = está a punto de levantarse. Contrastá: 'vado a letto' (voy a dormir, acción futura neutra) vs 'sto per andare a letto' (en este mismo instante, inminente)."
+    },
+    {
+      "front": "Stavo per dimenticarti! Buon compleanno!",
+      "back": "¡Estaba a punto de olvidarte! ¡Feliz cumpleaños!",
+      "reading": "",
+      "explanation": "Uso coloquial e irónico: 'stavo per dimenticarti' = casi me olvido (pero no me olvidé). Se usa para hacer humor sobre una situación de olvido casi-real. También: 'Stavo per perdere la pazienza' (estuve a punto de perder la paciencia). Muy expresivo en el habla italiana cotidiana."
+    },
+    {
+      "front": "Sto mangiando. (progressivo) / Sto per mangiare. (inminente)",
+      "back": "Estoy comiendo. (progresivo) / Estoy a punto de comer. (inminente)",
+      "reading": "",
+      "explanation": "CONTRASTE importante: 'stare + gerundio' (stare mangiando) = acción EN PROGRESO (progresivo). 'Stare per + infinitivo' (stare per mangiare) = acción INMINENTE (a punto de). El gerundio describe lo que está ocurriendo; el 'per + infinitivo' describe lo que está a punto de comenzar. ✗ *'Sto per mangiando' (combinación incorrecta)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Stare per + infinitivo: la inminencia",
+      "instruction": "Estructura: stare (conjugado) + per + infinitivo. Expresa que una acción está a punto de ocurrir, es inminente. Como el español 'estar a punto de'. Funciona en todos los tiempos verbales.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Usos narrativos y coloquiales",
+      "instruction": "En narración: 'stava per...' interrumpido por otra acción (imperfetto + passato prossimo). En habla coloquial: para avisar, disculparse o hacer humor sobre algo que casi pasa.",
+      "itemIndices": [2, 3, 5]
+    },
+    {
+      "type": "recognize",
+      "title": "Progresivo vs inminente: ¡ojo con la diferencia!",
+      "instruction": "¿Stare + gerundio (lo que ocurre AHORA) o stare per + infinitivo (lo que está a punto de ocurrir)? Son estructuras muy distintas con significados opuestos.",
+      "itemIndices": [6]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Conjugá stare + per",
+      "instruction": "Completá con la forma correcta de 'stare' en el tiempo indicado + per + el infinitivo.",
+      "itemIndices": [0, 1, 2, 4]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Construí oraciones de inminencia",
+      "instruction": "Usá 'stare per' para expresar acciones inminentes o casi-hechos. Probá con presente e imperfetto.",
+      "itemIndices": [0, 3, 5]
+    },
+    {
+      "type": "summary",
+      "title": "Stare per — consolidado",
+      "instruction": "FÓRMULA: stare (conjugado) + per + infinitivo. SIGNIFICADO: acción inminente = 'a punto de'. TIEMPOS: presente (sto per), imperfetto (stava per), futuro (starà per). CONTRASTE: stare + gerundio = progresivo; stare per + infinitivo = inminente. USO COLOQUIAL: 'stavo per...' = 'casi...' (algo que casi pasó pero no pasó del todo).",
+      "itemIndices": [0, 1, 6]
+    }
+  ]
+}

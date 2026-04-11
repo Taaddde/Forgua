@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a1-21",
+  "title": "Questo e Quello — este/ese/aquel con todos los géneros",
+  "description": "Los demostrativos italianos. Questo (este/esta/estos/estas) y Quello (ese/aquel — con formas especiales similares al artículo 'lo/gli/l'). Para hispanohablantes: Quello tiene formas sorprendentes.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "questo / questa — este / esta",
+      "back": "este (m.sg.) / esta (f.sg.) — lo que está cerca",
+      "reading": "",
+      "explanation": "'Questo' para masculino singular, 'questa' para femenino singular. 'Questo libro è interessante' = Este libro es interesante. 'Questa pizza è buonissima!' = ¡Esta pizza es buenísima! Indica proximidad al hablante."
+    },
+    {
+      "front": "questi / queste — estos / estas",
+      "back": "estos (m.pl.) / estas (f.pl.)",
+      "reading": "",
+      "explanation": "'Questi' para masculino plural, 'queste' para femenino plural. 'Questi panini sono ottimi' = Estos bocadillos están óptimos. 'Queste scarpe sono care' = Estos zapatos son caros. Regular y predecible."
+    },
+    {
+      "front": "quello / quella — ese/aquel / esa/aquella",
+      "back": "ese/aquel (m.sg.) / esa/aquella (f.sg.) — lo que está lejos",
+      "reading": "",
+      "explanation": "'Quello/quella' para alejado. PERO 'quello' tiene formas especiales según la consonante inicial del sustantivo siguiente — igual que el artículo 'il/lo/la'. 'Quel libro' (antes de consonante normal), 'quello zaino' (antes de z/s+cons), 'quell'albero' (antes de vocal)."
+    },
+    {
+      "front": "quel / quello / quell' — formas especiales masculino singular",
+      "back": "ese/aquel (ante consonante / ante z,s+cons / ante vocal)",
+      "reading": "",
+      "explanation": "Quello tiene 3 formas en m.sg.: QUEl (ante consonante normal: quel libro, quel ragazzo), QUELLO (ante z, s+cons, gn, ps: quello zaino, quello studente), QUELL' (ante vocal: quell'albero, quell'amico). Exactamente como il/lo/l'."
+    },
+    {
+      "front": "quei / quegli — formas especiales masculino plural",
+      "back": "esos/aquellos (ante consonante normal / ante z,s+cons,vocal)",
+      "reading": "",
+      "explanation": "Masculino plural: QUEi (ante consonante normal: quei ragazzi, quei libri), QUEGLI (ante z, s+cons, gn, vocales: quegli zaini, quegli studenti, quegli amici). Como i/gli."
+    },
+    {
+      "front": "quelle — femenino plural (regular)",
+      "back": "esas/aquellas (f.pl.)",
+      "reading": "",
+      "explanation": "'Quelle' es la única forma plural femenina — no tiene variantes. 'Quelle ragazze' = esas chicas, 'quelle scarpe' = esos zapatos, 'quelle amiche' = esas amigas. Siempre 'quelle'. Como 'le'."
+    },
+    {
+      "front": "Questo vs Quello — distancia",
+      "back": "questo = cercano (este) / quello = lejano (ese/aquel)",
+      "reading": "",
+      "explanation": "En italiano moderno se suele usar solo 2 grados de distancia (no 3 como en español antiguo: este/ese/aquel). 'Questo' = cerca del hablante. 'Quello' = lejos del hablante. 'Questo ristorante' (aquí) vs 'quel ristorante' (allá)."
+    },
+    {
+      "front": "Questo è bello! / Quello è brutto.",
+      "back": "¡Este/Esto es bonito! / Ese/Eso es feo.",
+      "reading": "",
+      "explanation": "Como pronombres (sin sustantivo): 'Questo è buono!' = ¡Esto/Este está bueno! 'Quello è meglio' = Ese/Aquel es mejor. Cuando funcionan como pronombres, se usan las formas simples: questo, questa, questi, queste, quello, quella, quelli, quelle."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Questo: sencillo y regular",
+      "instruction": "Questo/questa/questi/queste — 4 formas regulares para 'este/esta/estos/estas'. Indica proximidad al hablante. Muy fácil para hispanohablantes.",
+      "itemIndices": [0, 1, 6]
+    },
+    {
+      "type": "introduce",
+      "title": "Quello: las formas especiales",
+      "instruction": "Quello es más complejo porque sus formas dependen del sonido inicial del sustantivo siguiente — igual que el artículo. quel/quello/quell' (m.sg.), quei/quegli (m.pl.), quella/quell' (f.sg.), quelle (f.pl.).",
+      "itemIndices": [2, 3, 4, 5, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué forma de questo/quello?",
+      "instruction": "Elegí la forma correcta del demostrativo según el género, número y sonido inicial del sustantivo.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "Traducí los demostrativos",
+      "instruction": "Indicá la forma correcta de 'questo' o 'quello' para cada sustantivo.",
+      "itemIndices": [0, 1, 3, 4, 5]
+    },
+    {
+      "type": "error-correction",
+      "title": "Corregí los errores con quello",
+      "instruction": "Estas frases tienen errores en las formas de 'quello'. Encontrá y corregí.",
+      "itemIndices": [3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "Questo y Quello: resumen",
+      "instruction": "QUESTO (cercano): questo/questa/questi/queste — regular. QUELLO (lejano): m.sg. quel/quello/quell', m.pl. quei/quegli, f.sg. quella/quell', f.pl. quelle. Las formas de quello siguen el mismo patrón que il/lo/l'/i/gli/la/le. Como pronombres: formas simples questo/quella/quelli/quelle.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

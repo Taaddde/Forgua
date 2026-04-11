@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a2-22",
+  "title": "Anche, neanche, ancora, già — también/tampoco/todavía/ya",
+  "description": "Partículas muy frecuentes en el italiano cotidiano. Esenciales para estar de acuerdo, discrepar, preguntar sobre situaciones presentes y expresar expectativas. Similares al español pero con algunas diferencias.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "ANCHE — también / además",
+      "back": "también, también (afirmativo)",
+      "reading": "",
+      "explanation": "'Anche' = también (en afirmativo). 'Anch'io!' = ¡Yo también! (contracción: anche+io). 'Vengo anche io' = También voy yo. 'Marco è anche cuoco' = Marco es también cocinero. 'Anche tu parli italiano?' = ¿Vos también hablás italiano? Igual que 'también' en español."
+    },
+    {
+      "front": "Anch'io! / Anche lui! / Anche loro!",
+      "back": "¡Yo también! / ¡Él también! / ¡Ellos también!",
+      "reading": "",
+      "explanation": "Con pronombres: ANCHE + pronome (con apóstrofe ante vocal). anche + io = ANCH'IO. anche + essa = anch'essa. Pero: anche + lui = anche lui (sin apóstrofe porque 'lui' empieza con consonante). 'Mi piace!' / 'Anch'a me!' = ¡A mí también!"
+    },
+    {
+      "front": "NEANCHE / NEMMENO / NEPPURE — tampoco",
+      "back": "tampoco (negativo)",
+      "reading": "",
+      "explanation": "'Neanche' = tampoco. Las tres formas (neanche, nemmeno, neppure) son intercambiables. 'Neanche io!' = ¡Yo tampoco! 'Non mi piace neanche a me' = A mí tampoco me gusta. 'Non lo so nemmeno io' = Yo tampoco lo sé. En el habla, 'neanche' es la más frecuente."
+    },
+    {
+      "front": "ANCORA — todavía / aún / otra vez / más",
+      "back": "todavía, aún (en afirmativa) / otra vez, más (en otros contextos)",
+      "reading": "",
+      "explanation": "'Ancora' tiene varios significados. 1) Todavía: 'Studi ancora?' = ¿Todavía estudias? 'Aspetto ancora' = Todavía espero. 2) Otra vez: 'Ancora una volta' = Una vez más. 3) Más: 'Ancora un po'' = Un poco más. 'Ancora?' = ¿Otra vez? / ¿Todavía? El contexto determina el significado."
+    },
+    {
+      "front": "Non... ancora — todavía no / aún no",
+      "back": "todavía no / aún no (negativo de ancora)",
+      "reading": "",
+      "explanation": "'Non... ancora' = todavía no. 'Non ho ancora mangiato' = Todavía no he comido / Aún no comí. 'Non sei ancora pronto?' = ¿Todavía no estás listo? 'Non ancora' como respuesta = Todavía no. Con passato prossimo: ancora va entre l'ausiliare e il participio."
+    },
+    {
+      "front": "GIÀ — ya (acción completada antes de lo esperado)",
+      "back": "ya (acción que ya ocurrió)",
+      "reading": "",
+      "explanation": "'Già' = ya (acción que ya se ha realizado). 'Ho già mangiato' = Ya comí. 'Sei già arrivato?' = ¿Ya llegaste? 'Lo so già' = Ya lo sé. 'Non ancora' (todavía no) vs 'Già' (ya sí). En el passato prossimo: va entre ausiliare e participio. 'Già?' como pregunta = ¿En serio? / ¿Ya?"
+    },
+    {
+      "front": "Non... più — ya no / no más",
+      "back": "ya no (interrupción de algo que existía)",
+      "reading": "",
+      "explanation": "'Non... più' = ya no. 'Non abito più a Roma' = Ya no vivo en Roma. 'Non lo vedo più' = Ya no lo veo. 'Non esiste più' = Ya no existe. Expresa la interrupción de algo que era continuo. Diferente de 'non ancora' (todavía no ha empezado)."
+    },
+    {
+      "front": "Già, non ancora, non più: risposta rapida",
+      "back": "Respuestas rápidas: ya / todavía no / ya no",
+      "reading": "",
+      "explanation": "Respuestas frecuentes en conversación. '—Hai mangiato?' (¿Ya comiste?) '—Già' (Sí, ya). O '—Non ancora' (Todavía no). '—Lavori ancora lì?' (¿Todavía trabajás ahí?) '—No, non più' (No, ya no). '—Ti piace ancora?' '—No, non più.' Muy usadas en el habla cotidiana."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "También y tampoco: anche y neanche",
+      "instruction": "ANCHE = también (afirmativo). NEANCHE/NEMMENO/NEPPURE = tampoco (negativo). 'Anch'io!' (yo también), 'Neanche io!' (yo tampoco). Apóstrofe en 'anch'io' porque 'io' empieza con vocal.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Todavía, ya, ya no: ancora, già, non più",
+      "instruction": "ANCORA = todavía (afirmativo). Non...ANCORA = todavía no. GIÀ = ya. Non...PIÙ = ya no. Cuatro conceptos temporales esenciales.",
+      "itemIndices": [3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué partícula va aquí?",
+      "instruction": "Elegí la partícula correcta: anche, neanche, ancora, già, non più.",
+      "itemIndices": [0, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "recall",
+      "title": "Respondé como en italiano",
+      "instruction": "Dá respuestas cortas en italiano usando anche/neanche/già/non ancora/non più.",
+      "itemIndices": [1, 2, 7]
+    },
+    {
+      "type": "conversation-script",
+      "title": "Diálogo con estas partículas",
+      "instruction": "Practicá este mini-diálogo que usa anche, neanche, già y non ancora.",
+      "itemIndices": [7]
+    },
+    {
+      "type": "summary",
+      "title": "Partículas clave: anche, neanche, ancora, già, non più",
+      "instruction": "ANCHE (también): anch'io!, anche lui. NEANCHE/NEMMENO (tampoco): neanche io, non mi piace neanche. ANCORA (todavía): studi ancora?, ancora una volta. Non ancora (todavía no). GIÀ (ya): ho già mangiato, già? Non...PIÙ (ya no): non abito più lì. Estas cuatro partículas son de altísima frecuencia en el italiano hablado.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

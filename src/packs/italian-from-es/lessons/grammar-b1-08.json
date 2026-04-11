@@ -1,0 +1,89 @@
+{
+  "id": "grammar-b1-08",
+  "title": "Congiuntivo presente: Forme",
+  "description": "Las formas del subjuntivo italiano. Una de las estructuras más importantes del B1. Las formas son sorprendentes pero tienen lógica propia.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "che io/tu/lui parli",
+      "back": "que yo/tú/él hable",
+      "reading": "",
+      "explanation": "Congiuntivo presente de 'parlare' (-ARE). Las tres personas del singular son IDÉNTICAS: parli/parli/parli. Por eso el pronombre sujeto es casi obligatorio en congiuntivo para evitar ambigüedad. -ARE cambia -a final por -i."
+    },
+    {
+      "front": "che noi parliamo / voi parliate / loro parlino",
+      "back": "que nosotros hablemos / vosotros habléis / ellos hablen",
+      "reading": "",
+      "explanation": "Plural del congiuntivo -ARE: -iamo/-iate/-ino. 'Parliamo' es idéntico al indicativo, 'parliate' tiene la -i- que lo diferencia del indicativo 'parlate'. 'Parlino' = subjuntivo plural 3ª."
+    },
+    {
+      "front": "che io/tu/lui prenda",
+      "back": "que yo/tú/él tome",
+      "reading": "",
+      "explanation": "Congiuntivo de verbos -ERE: terminaciones -a/-a/-a (singular). Diferente de -ARE (-i). 'Prendere' → prend-a. Los verbos -ERE e -IRE tienen las MISMAS terminaciones de congiuntivo."
+    },
+    {
+      "front": "che io/tu/lui finisca",
+      "back": "que yo/tú/él termine",
+      "reading": "",
+      "explanation": "Congiuntivo de -IRE con -isc-: 'finire' → finisca. La -isc- del presente indicativo se mantiene en el congiuntivo. 'Capire' → capisca. 'Preferire' → preferisca."
+    },
+    {
+      "front": "che io sia / che tu sia / che lui sia",
+      "back": "que yo sea/esté / que tú seas/estés / que él sea/esté",
+      "reading": "",
+      "explanation": "Congiuntivo di ESSERE: sia/sia/sia/siamo/siate/siano. Totalmente irregular. 'Sia' es la forma más importante de memorizar — aparece en muchísimas frases. Equivale a 'sea' y 'esté' del español."
+    },
+    {
+      "front": "che io abbia / che tu abbia / che lui abbia",
+      "back": "que yo tenga / que tú tengas / que él tenga",
+      "reading": "",
+      "explanation": "Congiuntivo di AVERE: abbia/abbia/abbia/abbiamo/abbiate/abbiano. Irregular. 'Abbia' es fundamental — aparece como auxiliar en el congiuntivo passato: 'penso che abbia mangiato'."
+    },
+    {
+      "front": "che io faccia / vada / venga / dia / stia",
+      "back": "que yo haga / vaya / venga / dé / esté",
+      "reading": "",
+      "explanation": "Irregolari clave: faccia (fare), vada (andare), venga (venire), dia (dare), stia (stare), voglia (volere), possa (potere), sappia (sapere). La raíz sigue la 1ª persona del indicativo: faccio→faccia, vado→vada, vengo→venga."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Verbos -ARE en congiuntivo",
+      "instruction": "Terminaciones -ARE: -i/-i/-i/-iamo/-iate/-ino. Singular IDÉNTICO (¡usar pronombre!). Diferencia con indicativo: 'parla' (él habla) vs 'parli' (que él hable).",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Verbos -ERE e -IRE en congiuntivo",
+      "instruction": "Terminaciones -ERE/-IRE: -a/-a/-a/-iamo/-iate/-ano. ¡Los dos grupos comparten las mismas terminaciones! Verbos con -isc- mantienen la -isc-: finisca, capisca.",
+      "itemIndices": [2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Los irregolari fundamentales",
+      "instruction": "Memorizar: sia (essere), abbia (avere), faccia (fare), vada (andare), venga (venire). La regla de los irregolari: seguí la raíz de 'io' en el presente indicativo. 'Vengo' → 'venga'.",
+      "itemIndices": [4, 5, 6]
+    },
+    {
+      "type": "recall",
+      "title": "¿-i o -a?",
+      "instruction": "¿Qué terminación lleva el congiuntivo? -ARE → ? / -ERE → ? / -IRE → ?",
+      "itemIndices": [0, 2, 3]
+    },
+    {
+      "type": "recall",
+      "title": "Irregolari: completá la forma",
+      "instruction": "¿Cuál es el congiuntivo presente de essere/avere/fare/andare/venire?",
+      "itemIndices": [4, 5, 6]
+    },
+    {
+      "type": "summary",
+      "title": "Resumen: Congiuntivo presente — Forme",
+      "instruction": "Tabla mental: -ARE → sing. -i (parli), pl. -iamo/-iate/-ino. -ERE/-IRE → sing. -a (prenda, finisca), pl. -iamo/-iate/-ano. Irregolari: sia, abbia, faccia, vada, venga, dia, stia. Singular = idéntico → usar el pronombre. Próxima lección: CUÁNDO usar el congiuntivo.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    }
+  ]
+}

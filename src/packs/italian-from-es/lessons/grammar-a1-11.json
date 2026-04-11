@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a1-11",
+  "title": "Verbi -IRE: dormire, capire, finire...",
+  "description": "La 3ª conjugación tiene dos grupos: los normales (dormire) y los verbos en -ISC- (capire, finire). Este segundo grupo es el más numeroso y frecuente.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "dormire → dormo / dormi / dorme",
+      "back": "dormir → duermo / dormís / duerme",
+      "reading": "",
+      "explanation": "Dormire es -IRE del grupo NORMAL (sin -isc-). Raíz: dorm-. Terminaciones singular: -o, -i, -e. Igual que -ERE. 'Dormo otto ore' = Duermo ocho horas. 'Dormi bene?' = ¿Dormís bien?"
+    },
+    {
+      "front": "dormiamo / dormite / dormono",
+      "back": "dormimos / dormís (pl.) / duermen",
+      "reading": "",
+      "explanation": "Plural de dormire: -IAMO, -ITE, -ONO. La única diferencia con -ERE en plural: 2ª persona usa -ITE en lugar de -ETE. 'Dormite tardi il weekend?' = ¿Duermen hasta tarde el fin de semana?"
+    },
+    {
+      "front": "capire → cap-ISC-o / cap-ISC-i / cap-ISC-e",
+      "back": "entender → entiendo / entendés / entiende",
+      "reading": "",
+      "explanation": "Capire es -IRE del grupo -ISC-. En las formas SINGULARES y 3ª plural se inserta -ISC- entre raíz y terminación: capiSCo, capiSCi, capiSCe, capiSCono. Pero en noi/voi NO: capiamo, capite."
+    },
+    {
+      "front": "capiamo / capite / capiscono",
+      "back": "entendemos / entendéis / entienden",
+      "reading": "",
+      "explanation": "¡Atención! En noi y voi NO hay -isc-: capiamo, capite (no *capISCiamo). En 3ª plural SÍ hay -isc-: capISCono. Este patrón en forma de 'bota' (io/tu/lui + loro tienen isc-, noi/voi no) es típico del italiano."
+    },
+    {
+      "front": "finire → finisco / finisci / finisce",
+      "back": "terminar → termino / terminás / termina",
+      "reading": "",
+      "explanation": "Finire también es del grupo -ISC-. 'Finisco il lavoro alle sei' = Termino el trabajo a las seis. 'A che ora finisce la lezione?' = ¿A qué hora termina la clase? Muy usado para hablar de horarios."
+    },
+    {
+      "front": "preferire → preferisco / preferisci / preferisce",
+      "back": "preferir → prefiero / preferís / prefiere",
+      "reading": "",
+      "explanation": "Preferire es -ISC-. Igual que el español 'preferir'. 'Preferisco il caffè al tè' = Prefiero el café al té. 'Cosa preferisci, pizza o pasta?' = ¿Qué preferís, pizza o pasta?"
+    },
+    {
+      "front": "Verbi -IRE normales: dormire, partire, aprire, servire, sentire",
+      "back": "dormir, partir/salir, abrir, servir, sentir/oír",
+      "reading": "",
+      "explanation": "Estos verbos NO tienen -isc-. Patrón: dormo/dormi/dorme/dormiamo/dormite/dormono. 'Parto domani' = Parto/Salgo mañana. 'Apri la finestra!' = ¡Abrí la ventana! 'Non sento!' = ¡No escucho/oigo!"
+    },
+    {
+      "front": "Verbi -ISC- comunes: capire, finire, preferire, pulire, costruire, spedire",
+      "back": "entender, terminar, preferir, limpiar, construir, enviar",
+      "reading": "",
+      "explanation": "Estos verbos SIEMPRE llevan -ISC- en io/tu/lui/loro. Pulisco/pulisci/pulisce/puliamo/pulite/puliscono = limpiar. 'Pulisco la casa' = Limpio la casa. La mayoría de verbos -IRE son del tipo -ISC-, así que es el patrón por defecto."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Grupo 1: verbos -IRE normales (sin -isc-)",
+      "instruction": "Dormire, partire, aprire, servire, sentire. Patrón: -o/-i/-e/-iamo/-ite/-ono. La única diferencia con -ERE: 2ª plural es -ITE (no -ETE). Muy fácil.",
+      "itemIndices": [0, 1, 6]
+    },
+    {
+      "type": "introduce",
+      "title": "Grupo 2: verbos -ISC- (el más numeroso)",
+      "instruction": "La mayoría de verbos -IRE insertan -ISC- en: io/tu/lui/loro. En noi/voi NO. Este patrón en forma de 'bota' es clave. Verbo modelo: capire.",
+      "itemIndices": [2, 3, 4, 5, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Normal o -ISC-?",
+      "instruction": "Para cada forma verbal, identificá si el verbo es del grupo normal o del grupo -ISC-.",
+      "itemIndices": [0, 2, 4, 5, 6, 7]
+    },
+    {
+      "type": "recall",
+      "title": "Conjugá estos verbos -IRE",
+      "instruction": "Traducí al italiano. Prestá atención: ¿es normal o -ISC-?",
+      "itemIndices": [0, 2, 4, 5]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con la forma correcta",
+      "instruction": "Elegí la forma correcta del verbo -IRE (cuidado con el -ISC-).",
+      "itemIndices": [3, 4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "Verbos -IRE: dos grupos",
+      "instruction": "GRUPO 1 (sin isc-): dormire, partire, aprire, servire, sentire → dormo/dormi/dorme/dormiamo/dormite/dormono. GRUPO 2 (con isc-): capire, finire, preferire, pulire → capISCo/capISCi/capISCe/capiamo/capite/capISCono. La 'bota' italiana: isc en io/tu/lui/loro, NO en noi/voi.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

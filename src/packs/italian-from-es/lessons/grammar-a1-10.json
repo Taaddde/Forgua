@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a1-10",
+  "title": "Verbi -ERE: leggere, scrivere, vedere...",
+  "description": "Los verbos de la 2ª conjugación (-ere). Son el grupo más pequeño pero incluye verbos muy comunes. La diferencia clave con -ARE: 3ª singular termina en -E y 3ª plural en -ONO.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "leggere → leggo / leggi / legge",
+      "back": "leer → leo / leés / lee",
+      "reading": "",
+      "explanation": "Raíz: legg-. Las terminaciones de -ERE en singular: -o (io), -i (tu), -e (lui/lei). ¡OJO! La 3ª persona singular termina en -E, no en -A como en -ARE. 'Legge molto' = Lee mucho."
+    },
+    {
+      "front": "leggiamo / leggete / leggono",
+      "back": "leemos / leéis/leen (ustedes) / ellos leen",
+      "reading": "",
+      "explanation": "Plural: -IAMO (noi), -ETE (voi), -ONO (loro). La 3ª persona plural termina en -ONO en -ERE, igual que en -ARE. El acento: LEGgono (en la raíz). 'Leggono molto' = Leen mucho."
+    },
+    {
+      "front": "scrivere → scrivo / scrivi / scrive",
+      "back": "escribir → escribo / escribís / escribe",
+      "reading": "",
+      "explanation": "Otro verbo -ERE muy importante. Raíz: scriv-. 'Scrivo una mail' = Escribo un mail. 'Come si scrive?' = ¿Cómo se escribe? Nota: 'sc' delante de i/e suena /ʃ/ como en 'scena', pero aquí es 'scr-' = /skr/."
+    },
+    {
+      "front": "vedere → vedo / vedi / vede",
+      "back": "ver → veo / ves / ve",
+      "reading": "",
+      "explanation": "Raíz: ved-. 'Vedo il mare!' = ¡Veo el mar! 'Ci vediamo domani' = Nos vemos mañana (expresión muy usada). 'Vedi quella ragazza?' = ¿Ves a esa chica?"
+    },
+    {
+      "front": "vivere → vivo / vivi / vive",
+      "back": "vivir → vivo / vivís / vive",
+      "reading": "",
+      "explanation": "Raíz: viv-. Igual que el español. 'Dove vivi?' = ¿Dónde vivís? 'Vivo a Roma' = Vivo en Roma. Nota: para 'vivir en' se usa 'a' con ciudades y 'in' con países: 'vivo in Italia'."
+    },
+    {
+      "front": "prendere → prendo / prendi / prende",
+      "back": "tomar/coger/pedir → tomo / tomás / toma",
+      "reading": "",
+      "explanation": "'Prendere' es un verbo comodín: tomar (el tren), pedir (en el restaurante), agarrar. 'Prendo un caffè' = Tomo un café. 'Cosa prendi?' = ¿Qué pedís? (en el bar). Muy usado en la vida diaria."
+    },
+    {
+      "front": "mettere → metto / metti / mette",
+      "back": "poner → pongo / ponés / pone",
+      "reading": "",
+      "explanation": "Raíz: mett-. 'Mettere' = poner, colocar. 'Metto le chiavi sul tavolo' = Pongo las llaves en la mesa. 'Cosa metti?' = ¿Qué ponés? También: 'mettere + tempo' = tardar: 'Metto un'ora' = Tardo una hora."
+    },
+    {
+      "front": "-ARE vs -ERE: lui parla / lui legge",
+      "back": "-A vs -E en 3ª singular: él habla / él lee",
+      "reading": "",
+      "explanation": "DIFERENCIA CLAVE: 3ª persona singular: -ARE → -A (parla, lavora, abita), -ERE → -E (legge, scrive, vede). Esta es la única diferencia importante entre las dos conjugaciones en el presente. ¡No confundirlas!"
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Verbos -ERE: el grupo de la 2ª conjugación",
+      "instruction": "Los verbos -ERE se conjugan casi igual que los -ARE con dos diferencias: 3ª persona singular termina en -E (no -A) y la 2ª plural en -ETE (no -ATE). Patrón completo: -o, -i, -e, -iamo, -ete, -ono.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Más verbos -ERE esenciales",
+      "instruction": "Aprendé estos verbos -ERE de alta frecuencia: vivere (vivir), prendere (tomar/pedir), mettere (poner). Todos siguen el mismo patrón: raíz + terminaciones -ERE.",
+      "itemIndices": [4, 5, 6]
+    },
+    {
+      "type": "recognize",
+      "title": "-ARE vs -ERE: ¿cuál es cuál?",
+      "instruction": "La diferencia clave: 3ª singular -A (habla) vs -E (lee). Elegí la forma correcta del verbo indicado.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 7]
+    },
+    {
+      "type": "recall",
+      "title": "Conjugá los verbos -ERE",
+      "instruction": "Del español al italiano. Recordá: -o/-i/-e/-iamo/-ete/-ono.",
+      "itemIndices": [0, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá las oraciones",
+      "instruction": "Completá con la forma correcta del verbo -ERE entre paréntesis.",
+      "itemIndices": [3, 5, 6]
+    },
+    {
+      "type": "summary",
+      "title": "Verbos -ERE: ¡dominados!",
+      "instruction": "Recordá: -ERE termina en -O/-I/-E/-IAMO/-ETE/-ONO. La única diferencia con -ARE: 3ª sing. (-e vs -a) y 2ª pl. (-ete vs -ate). Los más usados: leggere, scrivere, vedere, vivere, prendere, mettere, correre, conoscere, credere, rispondere.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

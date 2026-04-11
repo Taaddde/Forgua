@@ -1,0 +1,95 @@
+{
+  "id": "grammar-b1-19",
+  "title": "Connettivi di fine e conseguenza",
+  "description": "Conectores de finalidad (affinché, per, in modo da) y de consecuencia (quindi, perciò, pertanto, dunque). Diferencias de registro y construcción.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Studio molto affinché mia figlia abbia un futuro migliore.",
+      "back": "Estudio mucho para que mi hija tenga un futuro mejor.",
+      "reading": "",
+      "explanation": "'Affinché' + CONGIUNTIVO: para que (sujetos diferentes). Es el conector de finalidad formal cuando hay cambio de sujeto. 'Abbia' = congiuntivo presente de 'avere'. Si el sujeto fuera el mismo, se usaría 'per + infinitivo': 'Studio molto per avere un futuro migliore'. Equivalente más coloquial: 'perché' + congiuntivo."
+    },
+    {
+      "front": "Parla piano per non svegliare il bambino.",
+      "back": "Habla bajito para no despertar al niño.",
+      "reading": "",
+      "explanation": "'Per + infinitivo': para (mismo sujeto). Es la construcción de finalidad más frecuente. El sujeto de 'parla' y de 'svegliare' es el mismo implícitamente. El infinitivo negativo: 'per non + infinitivo'. Compará: 'per svegliarsi' (para despertarse, mismo sujeto) vs 'affinché si svegli' (para que se despierte, sujeto diferente)."
+    },
+    {
+      "front": "Scrivo tutto in modo da non dimenticare niente.",
+      "back": "Escribo todo de modo que no olvide nada.",
+      "reading": "",
+      "explanation": "'In modo da + infinitivo': de modo que, de manera que (mismo sujeto). Expresa la manera que lleva al resultado. 'In modo da non' = de modo que no. Sinónimo: 'in modo tale da'. Con sujetos diferentes: 'in modo che + congiuntivo': 'Scrivo tutto in modo che tu non dimentichi niente'."
+    },
+    {
+      "front": "Era tardi, quindi siamo partiti subito.",
+      "back": "Era tarde, así que partimos enseguida.",
+      "reading": "",
+      "explanation": "'Quindi' = así que, entonces, por lo tanto. Es el conector de consecuencia más frecuente en italiano. Va al inicio de la oración resultado. Se puede usar en cualquier registro. Sinónimos: 'perciò', 'pertanto', 'dunque', 'di conseguenza'. Todos expresan consecuencia lógica."
+    },
+    {
+      "front": "Non mi ha risposto, perciò ho deciso di andare da solo.",
+      "back": "No me respondió, así que decidí ir solo.",
+      "reading": "",
+      "explanation": "'Perciò' = por eso, por ello, así que. Equivalente a 'quindi' pero con matiz de razón específica ('por esta razón'). 'Di conseguenza' es más formal: 'Non mi ha risposto; di conseguenza ho deciso di andare da solo'. 'Pertanto' es también formal: se usa en textos escritos y discursos."
+    },
+    {
+      "front": "Penso, dunque esisto.",
+      "back": "Pienso, luego existo.",
+      "reading": "",
+      "explanation": "'Dunque' = entonces, luego, por lo tanto. Es el conector filosófico y literario por excelencia (Descartes). En el habla cotidiana se usa también para resumir: 'Dunque...' = 'Entonces...', 'Pues bien...'. Es más formal que 'quindi' en el discurso oral elaborado."
+    },
+    {
+      "front": "Però ho deciso di restare. / Tuttavia ho deciso di restare.",
+      "back": "Pero decidí quedarme. / Sin embargo, decidí quedarme.",
+      "reading": "",
+      "explanation": "Conectores ADVERSATIVOS (contraste): 'però' = pero (posición más libre, frecuente en habla); 'tuttavia' = sin embargo (más formal, inicio de oración); 'eppure' = y sin embargo (expresa sorpresa); 'invece' = en cambio (contraste entre dos opciones); 'al contrario' = al contrario. Son cruciales para textos argumentativos."
+    },
+    {
+      "front": "Ha mangiato troppo; di conseguenza si è sentito male.",
+      "back": "Comió demasiado; en consecuencia se sintió mal.",
+      "reading": "",
+      "explanation": "'Di conseguenza' = en consecuencia, como resultado. Más formal que 'quindi'. Suele ir precedido de punto y coma o punto. Es típico de textos académicos y periodísticos. Contraste de registro: informal = 'quindi'; formal-escrito = 'di conseguenza', 'pertanto'."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Finalidad: affinché vs per + infinitivo",
+      "instruction": "Para expresar 'para que': MISMO sujeto → per + infinitivo ('Studio per imparare'). SUJETOS DIFERENTES → affinché/perché + congiuntivo ('Studio affinché tu impari'). Esta distinción es obligatoria.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Consecuencia: quindi, perciò, pertanto, dunque",
+      "instruction": "Todos equivalen a 'así que' / 'por lo tanto' pero varían en registro: quindi (neutral, frecuente), perciò (por eso), pertanto/dunque (formales). Todos van al inicio de la oración resultado.",
+      "itemIndices": [3, 4, 5]
+    },
+    {
+      "type": "introduce",
+      "title": "In modo da y conectores adversativos",
+      "instruction": "'In modo da + infinitivo' = de modo que (mismo sujeto). Los adversativos però, tuttavia, eppure, invece son necesarios para el discurso argumentativo B1.",
+      "itemIndices": [2, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué conector va aquí?",
+      "instruction": "Identificá si la relación lógica es finalidad, consecuencia o contraste, y elegí el conector correcto. Prestá atención al sujeto para la finalidad.",
+      "itemIndices": [0, 1, 3, 6]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con el conector adecuado",
+      "instruction": "Elegí entre affinché, per, quindi, perciò, però, tuttavia según el registro y la relación lógica.",
+      "itemIndices": [0, 1, 2, 4, 7]
+    },
+    {
+      "type": "summary",
+      "title": "Finalidad y consecuencia — consolidado",
+      "instruction": "FINALIDAD: per + infinitivo (mismo sujeto), affinché/perché + congiuntivo (sujetos diferentes), in modo da + infinitivo. CONSECUENCIA: quindi, perciò (informales-neutros), pertanto, dunque, di conseguenza (formales). CONTRASTE: però, tuttavia (sin embargo), eppure (y sin embargo), invece (en cambio).",
+      "itemIndices": [0, 1, 3, 4, 6]
+    }
+  ]
+}

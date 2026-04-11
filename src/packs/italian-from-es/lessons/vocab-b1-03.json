@@ -1,0 +1,107 @@
+{
+  "id": "vocab-b1-03",
+  "title": "Il mondo del lavoro",
+  "description": "Vocabulario avanzado del trabajo: contratos, salarios, sindicatos y la entrevista laboral. Para hablar de tu carrera en italiano.",
+  "level": "b1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "l'azienda",
+      "back": "la empresa",
+      "reading": "",
+      "explanation": "'Azienda' es la empresa en general. Para las grandes: 'impresa', 'società'. 'Azienda sanitaria' = empresa/organismo de salud pública. 'Fare azienda' = hacer empresa."
+    },
+    {
+      "front": "il contratto",
+      "back": "el contrato",
+      "reading": "",
+      "explanation": "'Contratto a tempo indeterminato' = contrato indefinido (el más deseado). 'Contratto a tempo determinato' = contrato temporal. 'Firmare/rescindere un contratto' = firmar/rescindir un contrato."
+    },
+    {
+      "front": "lo stipendio",
+      "back": "el sueldo (mensual)",
+      "reading": "",
+      "explanation": "Específicamente el sueldo mensual. 'Salario' es más general o por hora/día. 'Busta paga' = nómina, recibo de sueldo. '13ª mensilità' = decimotercer salario (aguinaldo) — muy común en Italia."
+    },
+    {
+      "front": "la disoccupazione",
+      "back": "el desempleo",
+      "reading": "",
+      "explanation": "'Tasso di disoccupazione' = tasa de desempleo. 'Essere disoccupato/a' = estar desempleado/a. 'Sussidio di disoccupazione' = seguro/subsidio de desempleo."
+    },
+    {
+      "front": "lo sciopero",
+      "back": "la huelga",
+      "reading": "",
+      "explanation": "'Fare sciopero' = hacer huelga. 'Sciopero generale' = huelga general. 'Scioperare' = hacer huelga (verbo). En Italia los scioperi de transporte público son frecuentes y afectan a trenes y metros."
+    },
+    {
+      "front": "il sindacato",
+      "back": "el sindicato",
+      "reading": "",
+      "explanation": "'Iscriversi al sindacato' = afiliarse al sindicato. En Italia los principales sindicatos son CGIL, CISL y UIL. 'Sindacalista' = sindicalista."
+    },
+    {
+      "front": "la promozione",
+      "back": "la promoción, el ascenso",
+      "reading": "",
+      "explanation": "'Ricevere una promozione' = recibir un ascenso. También: 'promozione' en sentido comercial (oferta, descuento). 'Essere promosso/a' = ser promovido/a."
+    },
+    {
+      "front": "il licenziamento",
+      "back": "el despido",
+      "reading": "",
+      "explanation": "'Essere licenziato/a' = ser despedido/a. 'Licenziamento ingiustificato' = despido injustificado. Verbo: 'licenziare' (despedir a alguien) / 'licenziarsi' (renunciar uno mismo)."
+    },
+    {
+      "front": "il colloquio (di lavoro)",
+      "back": "la entrevista de trabajo",
+      "reading": "",
+      "explanation": "'Sostenere un colloquio' = tener/afrontar una entrevista. 'Colloquio' también significa conversación formal (médico, directivo). 'Selezionatore/recruiter' = seleccionador de personal."
+    },
+    {
+      "front": "le mansioni",
+      "back": "las funciones, las tareas laborales",
+      "reading": "",
+      "explanation": "Siempre en plural en el contexto laboral. 'Le sue mansioni includono...' = Sus funciones incluyen... Palabra muy usada en contratos y descripciones de puesto."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "La empresa y el contrato",
+      "instruction": "Las bases del vocabulario laboral italiano. Nota la diferencia: 'licenziare' = despedir a alguien, 'licenziarsi' = renunciar uno mismo — confundir esto sería grave.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Sindicatos y huelgas",
+      "instruction": "El movimiento obrero tiene una historia larga en Italia. 'Sciopero' y 'sindacato' son parte del vocabulario cotidiano — los italianos hacen huelga con frecuencia.",
+      "itemIndices": [4, 5]
+    },
+    {
+      "type": "introduce",
+      "title": "Carrera y entrevistas",
+      "instruction": "Para hablar de la carrera profesional. 'Mansioni' siempre va en plural cuando hablás del puesto de trabajo.",
+      "itemIndices": [6, 7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice en italiano?",
+      "instruction": "Traducí al italiano.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cuál es el significado?",
+      "instruction": "Traducí al español.",
+      "itemIndices": [5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "Resumen: Il lavoro",
+      "instruction": "Clave para recordar: 'licenziare' (despedir) ≠ 'licenziarsi' (renunciar). 'Stipendio' = sueldo mensual. 'Sciopero' = huelga (fare sciopero = hacer huelga). 'Mansioni' = funciones (siempre plural en contexto laboral).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

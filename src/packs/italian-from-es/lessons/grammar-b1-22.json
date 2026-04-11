@@ -1,0 +1,89 @@
+{
+  "id": "grammar-b1-22",
+  "title": "Verbi pronominali: farcela, andarsene, cavarsela",
+  "description": "Los verbos pronominales complejos del italiano: farcela (lograrlo), andarsene (irse), cavarsela (arreglárselas), volerci (necesitar/tardar), metterci (tardar).",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Non ce la faccio più, sono esausto!",
+      "back": "¡Ya no puedo más, estoy agotado!",
+      "reading": "",
+      "explanation": "FARCELA = lograrlo, poder, aguantar. Estructura: fare + ci + la → ce la faccio (puedo/lo logro). La negación 'non ce la faccio più' = ya no puedo más. Conjugación: ce la faccio, ce la fai, ce la fa, ce la facciamo, ce la fate, ce la fanno. Forma reflexiva: 'Ce la farai!' = ¡Lo lograrás! / ¡Podrás! Implica superar una dificultad."
+    },
+    {
+      "front": "Me ne vado, ci vediamo domani.",
+      "back": "Me voy, nos vemos mañana.",
+      "reading": "",
+      "explanation": "ANDARSENE = irse, marcharse (connotación de despedida definitiva o enfática). Estructura: andare + si + ne → me ne vado. Conjugación: me ne vado, te ne vai, se ne va, ce ne andiamo, ve ne andate, se ne vanno. Passato: me ne sono andato/a. Más enfático que 'vado via' o 'parto'. 'Se n'è andato senza salutare' = se fue sin despedirse."
+    },
+    {
+      "front": "È difficile ma me la cavo abbastanza bene.",
+      "back": "Es difícil pero me las arreglo bastante bien.",
+      "reading": "",
+      "explanation": "CAVARSELA = arreglárselas, salir adelante, manejarse. Estructura: cavare + si + la → me la cavo. Conjugación: me la cavo, te la cavi, se la cava, ce la caviamo, ve la cavate, se la cavano. Passato: me la sono cavata. 'Come te la cavi con l'italiano?' = ¿Cómo te manejas con el italiano? 'Se la cava in tutte le situazioni' = Se las arregla en todas las situaciones."
+    },
+    {
+      "front": "Ci vuole un'ora per arrivare. / Ci vogliono due ore.",
+      "back": "Se necesita una hora para llegar. / Se necesitan dos horas.",
+      "reading": "",
+      "explanation": "VOLERCI = necesitar tiempo o esfuerzo, hacer falta. Siempre en 3ª persona: 'ci vuole' (singular) o 'ci vogliono' (plural). Para tiempo: 'Ci vuole mezz'ora' (se tarda media hora). Para esfuerzo: 'Ci vuole pazienza' (hace falta paciencia). ✗ 'Ci vuole due ore' (incorrecto) → ✓ 'Ci vogliono due ore' (dos horas → plural)."
+    },
+    {
+      "front": "Quanto ci metti ad arrivare? — Ci metto venti minuti.",
+      "back": "¿Cuánto tardas en llegar? — Tardo veinte minutos.",
+      "reading": "",
+      "explanation": "METTERCI = tardar (con sujeto específico). Estructura: mettere + ci → ci metto. Conjugación: ci metto, ci metti, ci mette, ci mettiamo, ci mettete, ci mettono. Contraste con volerci: 'Ci vuole un'ora' (impersonal: se necesita una hora) vs 'Ci metto un'ora' (yo tardo una hora). 'Quanto ci hai messo?' = ¿Cuánto tardaste?"
+    },
+    {
+      "front": "Non ce la faccio ad alzarmi presto. / Non riesce a farcela.",
+      "back": "No puedo levantarme temprano. / No logra hacerlo / no puede.",
+      "reading": "",
+      "explanation": "FARCELA con infinitivo: 'farcela + ad + infinitivo' = poder hacer algo. 'Ce la faccio ad alzarmi' = puedo levantarme. La negación es muy expresiva: 'Non ce la faccio più a studiare' = ya no puedo más estudiar. 'Farcela' de 3ª persona: 'Ce la fa' (lo logra), 'non ce la fa' (no puede). Muy frecuente para expresar límite físico o emocional."
+    },
+    {
+      "front": "Se ne sono andati senza aspettarmi.",
+      "back": "Se fueron sin esperarme.",
+      "reading": "",
+      "explanation": "ANDARSENE en passato prossimo: usa essere como ausiliare. Concordanza: 'se ne sono andati' (m.pl.), 'se ne è andata' (f.sg.). Nótese la posición de 'ne': siempre entre il pronome riflessivo e il verbo. Compará: 'sono andati' (se fueron) vs 'se ne sono andati' (se marcharon, con connotación más enfática de alejamiento definitivo)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Farcela: poder, lograrlo",
+      "instruction": "'Ce la faccio' = puedo / lo logro. Con negación: 'non ce la faccio più' = ya no puedo más. Es la expresión italiana más usada para hablar de capacidad o límites. Conjuga 'fare' y mantiene 'ce la' fijo.",
+      "itemIndices": [0, 5]
+    },
+    {
+      "type": "introduce",
+      "title": "Andarsene y cavarsela: irse y arreglárselas",
+      "instruction": "'Me ne vado' = me voy (enfático). 'Me la cavo' = me las arreglo. Ambos tienen los pronombres fusionados con el verbo. En passato prossimo usan essere: me ne sono andato, me la sono cavata.",
+      "itemIndices": [1, 2, 6]
+    },
+    {
+      "type": "introduce",
+      "title": "Volerci vs metterci: el tiempo",
+      "instruction": "VOLERCI (impersonal): ci vuole/vogliono — para tiempo o esfuerzo necesario en general. METTERCI (personal): ci metto/metti... — para indicar cuánto tarda UNA PERSONA específica. 'Ci vogliono 3 anni' vs 'Io ci metto 3 anni'.",
+      "itemIndices": [3, 4]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Conjugá los verbos pronominali",
+      "instruction": "Completá con la forma correcta de farcela, andarsene, cavarsela, volerci o metterci.",
+      "itemIndices": [0, 1, 2, 4]
+    },
+    {
+      "type": "error-correction",
+      "title": "Errori comuni",
+      "instruction": "Corregí los errores. Los más frecuentes: farcela sin los pronombres, volerci con sustantivo plural en singular.",
+      "itemIndices": [3, 5]
+    },
+    {
+      "type": "summary",
+      "title": "Verbos pronominali — consolidado",
+      "instruction": "FARCELA: ce la faccio = puedo/logro. Non ce la faccio più = ya no puedo más. ANDARSENE: me ne vado = me voy (enfático). Passato: me ne sono andato/a. CAVARSELA: me la cavo = me las arreglo. VOLERCI: ci vuole (sg) / ci vogliono (pl) = se necesita. METTERCI: ci metto = yo tardo.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    }
+  ]
+}

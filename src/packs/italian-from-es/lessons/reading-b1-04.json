@@ -1,0 +1,83 @@
+{
+  "id": "reading-b1-04",
+  "title": "Lettura: Il lavoro cambia",
+  "description": "Texto B1 sobre los cambios en el mundo laboral italiano: smart working, quiet quitting y fuga di cervelli. Vocabulario sociológico y de actualidad.",
+  "level": "b1",
+  "category": "reading",
+  "items": [
+    {
+      "front": "Le nuove generazioni hanno aspettative diverse rispetto ai loro genitori",
+      "back": "Las nuevas generaciones tienen expectativas diferentes respecto a sus padres",
+      "reading": "",
+      "explanation": "'Aspettative' = expectativas (singular: l'aspettativa). 'Rispetto a' = respecto a, en comparación con. 'Le nuove generazioni' = las nuevas generaciones. Esta frase introduce el cambio generacional como tema central. 'Avere aspettative' es una colocación frecuente. 'Rispetto a' es una preposición de comparación muy útil en el discurso argumentativo."
+    },
+    {
+      "front": "Lo smart working, diffuso per necessità durante la pandemia, è ora una realtà permanente",
+      "back": "El teletrabajo, extendido por necesidad durante la pandemia, es ahora una realidad permanente",
+      "reading": "",
+      "explanation": "'Lo smart working' = el teletrabajo (anglicismo adoptado en italiano). 'Diffuso per necessità' = extendido por necesidad ('diffuso' = extendido, participio di 'diffondere'). 'La pandemia' = la pandemia. 'Realtà permanente' = realidad permanente. El texto fue escrito en un contexto post-pandemia. Nótese el uso del artículo 'lo' ante palabras que empiezan con grupo consonántico."
+    },
+    {
+      "front": "faticano ad adattarsi: preferiscono la presenza fisica in ufficio",
+      "back": "tienen dificultades para adaptarse: prefieren la presencia física en la oficina",
+      "reading": "",
+      "explanation": "'Faticare a + infinitivo' = tener dificultades para, costar trabajo. 'Faticano' = 3ª pl. di 'faticare'. 'La presenza fisica' = la presencia física. 'Guardano con sospetto' = miran con sospecha. Vocabulario de resistencia al cambio: 'faticare ad adattarsi' (costarle adaptarse), 'guardare con sospetto' (mirar con desconfianza). El texto presenta las empresas tradicionales como conservadoras."
+    },
+    {
+      "front": "il «quiet quitting»: lavoratori che fanno esattamente quello che il contratto richiede, senza un minuto di più",
+      "back": "el 'quiet quitting': trabajadores que hacen exactamente lo que el contrato requiere, sin un minuto más",
+      "reading": "",
+      "explanation": "'Quiet quitting' es el anglicismo adoptado para el fenómeno. La definición italiana del texto es precisa: 'fare esattamente quello che il contratto richiede'. 'Senza un minuto di più' = sin un minuto más. La definición va seguida de la explicación de sus causas: stipendi fermi (sueldos congelados), mancanza di promozioni (falta de ascensos), scarso riconoscimento (escaso reconocimiento)."
+    },
+    {
+      "front": "Non è pigrizia — dicono i sociologi — ma una risposta a stipendi fermi",
+      "back": "No es pereza — dicen los sociólogos — sino una respuesta a sueldos congelados",
+      "reading": "",
+      "explanation": "'Pigrizia' = pereza (de 'pigro' = perezoso). 'I sociologi' = los sociólogos. 'Stipendi fermi' = sueldos congelados/estancados ('fermo' = quieto, que no se mueve). 'Una risposta a' = una respuesta a. La inserción 'dicono i sociologi' es una cita de autoridad que da objetividad. La estructura 'non X — [autoridad] — ma Y' es una fórmula argumentativa eficaz."
+    },
+    {
+      "front": "la «fuga di cervelli»: molti laureati scelgono di emigrare all'estero",
+      "back": "la 'fuga de cerebros': muchos graduados eligen emigrar al extranjero",
+      "reading": "",
+      "explanation": "'Fuga di cervelli' = fuga de cerebros (literal: fuga de cerebros). 'Laureati' = graduados universitarios (de 'laurea' = título universitario). 'Emigrare all'estero' = emigrar al extranjero. 'L'estero' = el extranjero (singular; 'all'estero' = en el extranjero). Dato real: Italia tiene una de las tasas más altas de emigración de jóvenes universitarios en Europa."
+    },
+    {
+      "front": "la disoccupazione giovanile rimane alta, specialmente nel Sud",
+      "back": "el desempleo juvenil sigue siendo alto, especialmente en el Sur",
+      "reading": "",
+      "explanation": "'La disoccupazione giovanile' = el desempleo juvenil (de 'disoccupato' = desempleado). 'Rimane alta' = sigue siendo alta ('rimanere + aggettivo' = seguir siendo). 'Specialmente nel Sud' = especialmente en el Sur. Esta frase conecta el tema del 'quiet quitting' con el problema estructural del divario Nord-Sud (que se verá más en textos B2)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Antes de leer: el mundo del trabajo en Italia",
+      "instruction": "El texto habla de cambios recientes en el trabajo italiano: smart working, quiet quitting, fuga di cervelli. ¿Conocés estos fenómenos en tu contexto? Identificá las palabras de origen inglés en el texto y piensa por qué el italiano los adoptó.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Vocabulario sociológico y laboral",
+      "instruction": "Este texto usa vocabulario de sociología y economía. Deduce el significado de estas expresiones del contexto. ¿Hay equivalentes en español?",
+      "itemIndices": [2, 3, 5, 6]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Comprensión y análisis crítico",
+      "instruction": "Respondé las preguntas del texto. Algunas requieren que evalúes el argumento del autor. ¿Cuál es la posición implícita del texto sobre estos fenómenos?",
+      "itemIndices": [3, 4, 6]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Vocabulario: completa las definiciones",
+      "instruction": "Usando el vocabulario del texto, completa las definiciones de los conceptos clave: quiet quitting, smart working, fuga di cervelli.",
+      "itemIndices": [1, 3, 5]
+    },
+    {
+      "type": "summary",
+      "title": "Lectura completada",
+      "instruction": "Vocabulario aprendido: aspettative, faticare ad, stipendi fermi, pigrizia, fuga di cervelli, laureati, disoccupazione giovanile. Tema cultural: el debate sobre smart working y quiet quitting es muy actual en Italia (y en el mundo). El 'divario Nord-Sud' en el desempleo juvenil es un problema estructural histórico.",
+      "itemIndices": [0, 4, 6]
+    }
+  ]
+}

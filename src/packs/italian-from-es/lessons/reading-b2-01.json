@@ -1,0 +1,83 @@
+{
+  "id": "reading-b2-01",
+  "title": "Lettura: La cucina italiana nel mondo",
+  "description": "Texto B2 argumentativo sobre la difusión global de la cocina italiana: autenticidad vs adaptación, reconocimiento UNESCO y la dimensión cultural del cibo.",
+  "level": "b2",
+  "category": "reading",
+  "items": [
+    {
+      "front": "si è diffusa in modo capillare",
+      "back": "se difundió de manera extendida, llegando a todos los rincones",
+      "reading": "",
+      "explanation": "'In modo capillare' = de modo capilar, llegando a todas partes como los capilares sanguíneos. Expresión idiomática B2 muy frecuente en textos periodísticos para describir una distribución masiva y exhaustiva. 'Diffondersi' = difundirse, extenderse. 'Si è diffusa' = se ha difundido (passato prossimo reflexivo, concuerda con 'la cucina', f.sg.)."
+    },
+    {
+      "front": "cosa si cela dietro questo fenomeno globale?",
+      "back": "¿qué hay detrás de este fenómeno global? / ¿qué se oculta detrás?",
+      "reading": "",
+      "explanation": "'Celarsi' = ocultarse, esconderse (formal/letterario). 'Si cela' = se oculta, hay (3ª sg. reflexiva). La pregunta retórica 'cosa si cela dietro?' es un recurso frecuente en la escritura periodística y ensayística para presentar la tesis central. Vocabulario B2: 'fenomeno globale' (fenómeno global), 'si cela' (se oculta/está escondido). 'Dietro' = detrás."
+    },
+    {
+      "front": "La filosofia culinaria italiana si basa su pochi elementi buoni piuttosto che su tecniche elaborate",
+      "back": "La filosofía culinaria italiana se basa en pocos ingredientes buenos más que en técnicas elaboradas",
+      "reading": "",
+      "explanation": "'Basarsi su' = basarse en. 'Piuttosto che' = más que, en lugar de (comparativo de preferencia). 'Tecniche elaborate' = técnicas elaboradas. Esta frase resume la clave de la cocina italiana: calidad de ingredientes simples sobre complejidad técnica. 'Filosofia culinaria' = filosofía culinaria. Una distinción con la alta cocina francesa, por ejemplo."
+    },
+    {
+      "front": "sarebbe ingenuo pensare che la diffusione sia avvenuta senza trasformazioni",
+      "back": "sería ingenuo pensar que la difusión haya ocurrido sin transformaciones",
+      "reading": "",
+      "explanation": "CONDIZIONALE + CONGIUNTIVO: 'sarebbe ingenuo' (condizionale, expresa juicio) + 'che ... sia avvenuta' (congiuntivo passato). 'Ingenuo' = ingenuo (cognado). 'La diffusione sia avvenuta' = que la difusión haya ocurrido. 'Avvenire' = ocurrir, tener lugar (irregular, como 'venire'). Este uso del condizionale para dar un juicio moderado y el congiuntivo para la subordinada es característico del registro B2+."
+    },
+    {
+      "front": "Si tratta di adattamenti locali che alcuni criticano come adulterazioni e altri accettano come evoluzione naturale",
+      "back": "Se trata de adaptaciones locales que algunos critican como adulteraciones y otros aceptan como evolución natural",
+      "reading": "",
+      "explanation": "'Si tratta di' = se trata de (expresión impersonal). 'Adulterazioni' = adulteraciones (de 'adulterare' = adulterar). 'Evoluzione naturale' = evolución natural. Esta frase presenta el debate central del texto: ¿son las adaptaciones adulteraciones o evolución? El autor no toma partido directamente aquí, presentando ambas posturas. Estructura retórica: 'che alcuni X e altri Y'."
+    },
+    {
+      "front": "a conti fatti, la cucina italiana è molto più di un insieme di ricette",
+      "back": "a fin de cuentas, la cocina italiana es mucho más que un conjunto de recetas",
+      "reading": "",
+      "explanation": "'A conti fatti' = a fin de cuentas, en definitiva. Expresión idiomática B2 muy frecuente en conclusiones argumentativas. 'Un insieme di' = un conjunto de. 'Molto più di' = mucho más que. Esta frase introduce la conclusión del texto. 'A conti fatti' tiene un tono de conclusión pragmática: 'si hacemos balance...'."
+    },
+    {
+      "front": "è un modo di stare insieme, di condividere il tempo e di esprimere un'identità culturale profonda",
+      "back": "es una forma de estar juntos, de compartir el tiempo y de expresar una identidad cultural profunda",
+      "reading": "",
+      "explanation": "'Un modo di + infinitivo' = una forma de hacer algo. Serie de tres infinitivos ('stare insieme, condividere, esprimere') coordinados por 'e' — estructura retórica de trícolon. 'Stare insieme' = estar juntos, reunirse. 'Condividere il tempo' = compartir el tiempo. 'Identità culturale profonda' = identidad cultural profunda. La conclusión del texto eleva la cocina a dimensión social y humana."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Antes de leer: estructura argumentativa B2",
+      "instruction": "Este texto es argumentativo: presenta una tesis, da argumentos y concluye. Identifica la estructura: introducción (fenomeno globale) → cuerpo (razones, debate) → conclusión (dimensione sociale). Observá también cómo el autor usa expresiones como 'sarebbe ingenuo', 'si tratta di', 'a conti fatti' para modular su posición.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Vocabulario avanzado en contexto",
+      "instruction": "Estas expresiones son características del registro B2 periodístico/ensayístico. Identificalas en el texto y entiende su función retórica además de su significado.",
+      "itemIndices": [0, 3, 5]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Comprensión crítica del texto",
+      "instruction": "Respondé estas preguntas que requieren comprensión profunda y pensamiento crítico. ¿Cuál es la postura del autor? ¿Cómo la expresa? ¿Qué argumentos usa?",
+      "itemIndices": [2, 4, 6]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Conectores y expresiones argumentativas",
+      "instruction": "Identifica todos los conectores y expresiones argumentativas del texto (tuttavia, sarebbe ingenuo, a conti fatti, si tratta di). ¿Qué función cumple cada uno en el argumento?",
+      "itemIndices": [3, 5, 6]
+    },
+    {
+      "type": "summary",
+      "title": "Lectura completada",
+      "instruction": "Vocabulario B2 aprendido: in modo capillare, celarsi, adulterazioni, a conti fatti. STRUTTURE: sarebbe + aggettivo + che + congiuntivo (juicio moderado), si tratta di (impersonal), trícolon de infinitivos. TEMA CULTURAL: el debate entre autenticidad y globalización en la gastronomía es un debate real en Italia, con denominaciones DOP y STG que protegen las producciones originales.",
+      "itemIndices": [0, 3, 5, 6]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": "vocab-a1-04",
+  "title": "La famiglia",
+  "description": "Los miembros de la familia en italiano. La mayoría son muy similares al español, pero hay algunas diferencias importantes en el uso de los posesivos.",
+  "level": "a1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "la madre / la mamma",
+      "back": "la madre / la mamá",
+      "reading": "/la ˈmaːdre/ /la ˈmamma/",
+      "explanation": "Madre = formal, mamma = afectuoso. En italiano los posesivos con familia singular NO llevan artículo: 'mia madre' (no 'la mia madre'). Excepción: con 'mamma' sí se usa: 'la mia mamma'."
+    },
+    {
+      "front": "il padre / il papà",
+      "back": "el padre / el papá",
+      "reading": "/il ˈpaːdre/ /il paˈpa/",
+      "explanation": "Padre = formal, papà = afectuoso (con acento en la última sílaba). 'Mio padre' (sin artículo). Igual que madre: 'il mio papà' (con artículo cuando se usa la forma afectiva)."
+    },
+    {
+      "front": "il fratello",
+      "back": "el hermano",
+      "reading": "/il fraˈtɛllo/",
+      "explanation": "Fratello. Doble 'l'. 'Mio fratello' (sin artículo). Plural: i fratelli. 'Fratello maggiore' = hermano mayor, 'fratello minore' = hermano menor."
+    },
+    {
+      "front": "la sorella",
+      "back": "la hermana",
+      "reading": "/la soˈrɛlla/",
+      "explanation": "Sorella. Doble 'l'. 'Mia sorella' (sin artículo). Similar al español 'sorella' — raíz latina compartida. Plural: le sorelle."
+    },
+    {
+      "front": "il figlio / la figlia",
+      "back": "el hijo / la hija",
+      "reading": "/il ˈfiʎʎo/ /la ˈfiʎʎa/",
+      "explanation": "'Gli' en figlio/figlia suena como la 'll' rioplatense. 'Mio figlio' / 'mia figlia' (sin artículo). Plural: i figli / le figlie."
+    },
+    {
+      "front": "il nonno / la nonna",
+      "back": "el abuelo / la abuela",
+      "reading": "/il ˈnɔnno/ /la ˈnɔnna/",
+      "explanation": "Nonno/nonna — doble 'n'. 'Mio nonno' / 'mia nonna'. En plural: i nonni (abuelos = abuelo y abuela juntos). 'I nonni' puede referirse a ambos abuelos."
+    },
+    {
+      "front": "lo zio / la zia",
+      "back": "el tío / la tía",
+      "reading": "/lo ˈdziːo/ /la ˈdziːa/",
+      "explanation": "Ojo: 'lo zio' (con 'lo', no 'il') porque 'z' inicial requiere 'lo'. La 'z' de zio suena /dz/ (como 'ds'). 'Mio zio' / 'mia zia'. Plural: gli zii (con 'gli' por la misma razón)."
+    },
+    {
+      "front": "il cugino / la cugina",
+      "back": "el primo / la prima",
+      "reading": "/il kuˈdʒiːno/ /la kuˈdʒiːna/",
+      "explanation": "Cugino/cugina — la 'g' ante 'i' suena /dʒ/ como 'y' argentina. 'Mio cugino' / 'mia cugina'. Plural: i cugini / le cugine."
+    },
+    {
+      "front": "il marito / la moglie",
+      "back": "el esposo / la esposa",
+      "reading": "/il maˈriːto/ /la ˈmɔʎʎe/",
+      "explanation": "Marito = marido/esposo. Moglie (ˈmɔʎʎe) — la 'gli' suena /ʎʎ/ como 'll' rioplatense. 'Mio marito' / 'mia moglie'. Plural: i mariti / le mogli."
+    },
+    {
+      "front": "i genitori",
+      "back": "los padres (padre y madre)",
+      "reading": "/i dʒeniˈtoːri/",
+      "explanation": "Genitori = los padres (plural de genitore). En italiano, para decir 'mis padres' se dice 'i miei genitori'. No hay una sola palabra para el par padre-madre como el español 'padres'."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "La famiglia italiana",
+      "instruction": "La mayoría de los términos familiares se parecen al español. La regla más importante: con familia en singular, los posesivos NO llevan artículo: 'mia madre', 'mio padre', 'mio fratello'.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Quién es?",
+      "instruction": "Ves el término en italiano. Elegí la traducción correcta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "Del español al italiano",
+      "instruction": "Ves el término en español. Escribí la palabra italiana.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Posesivos con la familia",
+      "instruction": "Completá con el posesivo correcto (SIN artículo con familia singular): ___ madre, ___ padre, ___ fratello, ___ sorella",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Describí tu familia",
+      "instruction": "Ordená las palabras: Ho / fratello / un / maggiore | Mia / simpatica / sorella / molto / è",
+      "itemIndices": [2, 3]
+    },
+    {
+      "type": "summary",
+      "title": "¡La famiglia!",
+      "instruction": "madre/padre, fratello/sorella, figlio/figlia, nonno/nonna, zio/zia, cugino/cugina, marito/moglie, genitori. REGLA DE ORO: familia singular sin artículo → mia madre, mio padre (nunca 'la mia madre').",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

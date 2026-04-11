@@ -1,0 +1,83 @@
+{
+  "id": "reading-b2-04",
+  "title": "Lettura: Italiani nel Belpaese digitale",
+  "description": "Texto B2 sobre la paradoja digital italiana: uso masivo de redes sociales pero retraso estructural en infraestructura, competencias y digitalización empresarial.",
+  "level": "b2",
+  "category": "reading",
+  "items": [
+    {
+      "front": "gli italiani vantano un settore della moda e del design che ha fatto della creatività digitale un punto di forza",
+      "back": "los italianos ostentan un sector de la moda y el diseño que ha hecho de la creatividad digital un punto fuerte",
+      "reading": "",
+      "explanation": "'Vantare' = ostentar, enorgullecerse de poseer. 'Fare di X un punto di forza' = hacer de X un punto fuerte. 'Il punto di forza' = el punto fuerte. 'Vantare' no es reflexivo en este uso (no significa 'jactarse' sino 'contar con, poseer'). Contrastá: 'Si vanta di essere il migliore' (se jacta de ser el mejor, tono negativo) vs 'Vanta una lunga tradizione' (cuenta con una larga tradición, neutro)."
+    },
+    {
+      "front": "il Paese soffre di un ritardo strutturale nella trasformazione digitale che rischia di compromettere la sua competitività",
+      "back": "el País sufre un retraso estructural en la transformación digital que amenaza comprometer su competitividad",
+      "reading": "",
+      "explanation": "'Soffrire di' = sufrir de, padecer de. 'Un ritardo strutturale' = un retraso estructural (que no es coyuntural sino parte de la estructura del sistema). 'Rischia di compromettere' = corre el riesgo de comprometer / amenaza con comprometer. 'La competitività' = la competitividad. El adjetivo 'strutturale' es clave: indica que el problema no es casual sino sistémico."
+    },
+    {
+      "front": "L'indice DESI colloca l'Italia sistematicamente tra gli ultimi posti",
+      "back": "El índice DESI coloca a Italia sistemáticamente entre los últimos puestos",
+      "reading": "",
+      "explanation": "'L'indice DESI' = Digital Economy and Society Index de la UE (indicador que mide la digitalización de los países europeos). 'Collocare' = colocar, posicionar. 'Sistematicamente' = sistemáticamente. 'Tra gli ultimi posti' = entre los últimos puestos. El DESI evalúa: conectividad, competencias digitales, uso de servicios online, integración de tecnología digital, servicios públicos digitales."
+    },
+    {
+      "front": "quasi un quarto degli italiani non usa mai internet",
+      "back": "casi una cuarta parte de los italianos nunca usa internet",
+      "reading": "",
+      "explanation": "'Quasi un quarto' = casi una cuarta parte (un quarto = 1/4). 'Non usa mai' = nunca usa. Este dato (del Istat, el instituto italiano de estadística) es impactante dado que Italia es un país del G7. 'Il digital divide' (la brecha digital) tiene en Italia dos dimensiones: generacional (anziani/giovani) y geográfica (Nord/Sud, urbano/rurale)."
+    },
+    {
+      "front": "si sovrappongono il digital divide generazionale e quello geografico",
+      "back": "se superponen la brecha digital generacional y la geográfica",
+      "reading": "",
+      "explanation": "'Sovrapporsi' = superponerse, coincidir y potenciarse. 'Si sovrappongono' = se superponen (3ª pl. riflessivo). Nótese la inversión del sujeto: 'si sovrappongono il divide X e quello Y' (el sujeto compuesto está después del verbo). 'Generazionale' = generacional. La superposición de estos dos factores hace que las regiones meridionali sean doblemente afectadas: más anziani y más rurales."
+    },
+    {
+      "front": "Ciononostante, segnali positivi non mancano",
+      "back": "A pesar de todo esto, no faltan señales positivas",
+      "reading": "",
+      "explanation": "'Ciononostante' = a pesar de todo eso, sin embargo (connettore adversativo formale). Equivalente formal de 'nonostante tutto questo'. 'Non mancano' = no faltan (mancano = faltan). Esta construcción 'non mancano X' es más elegante que 'ci sono X'. 'Ciononostante' es una conjunción adversativa de registro formal/periodístico, característica del discurso B2+."
+    },
+    {
+      "front": "Il futuro dipenderà dalla capacità del sistema italiano di trasformare le risorse disponibili in cambiamenti strutturali reali",
+      "back": "El futuro dependerá de la capacidad del sistema italiano de transformar los recursos disponibles en cambios estructurales reales",
+      "reading": "",
+      "explanation": "'Dipenderà da' = dependerá de (futuro di 'dipendere'). 'La capacità di + infinitivo' = la capacidad de hacer algo. 'Trasformare X in Y' = transformar X en Y. 'Cambiamenti strutturali reali' = cambios estructurales reales (con el adjetivo 'reali' el autor sugiere que los cambios superficiales no son suficientes). El futuro aquí es real (no condizionale), pero el adjetivo 'reali' aporta el escepticismo."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "La paradoja digital italiana",
+      "instruction": "El texto presenta una paradoja: los italianos son muy activos en redes sociales pero Italia tiene retraso en digitalización estructural. ¿Cómo es posible? Identifica esta contradición en el primer párrafo y sigue el argumento del texto.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Vocabulario técnico-periodístico",
+      "instruction": "Este texto usa vocabulario técnico de economía digital, estadística y política. Identifica las expresiones clave y entiende su función en el argumento.",
+      "itemIndices": [1, 2, 3, 5]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Análisis crítico: ¿es optimista o pesimista el autor?",
+      "instruction": "¿El autor del texto es optimista o pesimista sobre el futuro digital de Italia? Justifica tu respuesta con citas del texto. ¿Qué evidencia apoya el optimismo y qué evidencia el pesimismo?",
+      "itemIndices": [4, 5, 6]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Conectores adversativos y de contraste",
+      "instruction": "El texto usa: da un lato... dall'altro... tuttavia... ciononostante. Identifica cómo cada uno organiza el contraste entre el aspecto positivo y negativo del panorama digital italiano.",
+      "itemIndices": [0, 5, 6]
+    },
+    {
+      "type": "summary",
+      "title": "Lectura completada",
+      "instruction": "Vocabulario B2 aprendido: vantare, soffrire di, ritardo strutturale, rischiare di, sistematicamente, sovrapporsi, ciononostante, dipenderà da. TEMA CULTURAL: el PNRR (Piano Nazionale di Ripresa e Resilienza) con fondos europeos post-COVID es el principal instrumento para la transición digital italiana. El debate entre promesas y resultados reales es muy actual.",
+      "itemIndices": [1, 4, 6]
+    }
+  ]
+}

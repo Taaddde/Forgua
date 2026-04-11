@@ -1,0 +1,119 @@
+{
+  "id": "vocab-a1-03",
+  "title": "Numeri 21-100",
+  "description": "Las decenas y cómo combinarlas. Las reglas son simples pero hay que aprender las excepciones con 'uno' y 'otto'.",
+  "level": "a1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "21 — ventuno",
+      "back": "veintiuno",
+      "reading": "/venˈtuno/",
+      "explanation": "Venti + uno → ventuno (venti pierde la -i final ante uno). Regla: todas las decenas pierden la vocal final ante uno y otto. ¡Nunca 'ventiuno'!"
+    },
+    {
+      "front": "22 — ventidue",
+      "back": "veintidós",
+      "reading": "/ventiˈdue/",
+      "explanation": "Venti + due → ventidue. A partir del 22, las unidades se añaden directamente (sin espacio ni guión)."
+    },
+    {
+      "front": "23 — ventitré",
+      "back": "veintitrés",
+      "reading": "/ventiˈtrɛ/",
+      "explanation": "Venti + tre → ventitré. Cuando 'tre' va al final de un número compuesto, lleva acento: ventitré, trentatré, quarantatré, ecc."
+    },
+    {
+      "front": "28 — ventotto",
+      "back": "veintiocho",
+      "reading": "/venˈtɔtto/",
+      "explanation": "Venti + otto → ventotto (venti pierde la -i ante otto). Igual: trentotto, quarantotto, ecc."
+    },
+    {
+      "front": "30 — trenta",
+      "back": "treinta",
+      "reading": "/ˈtrenta/",
+      "explanation": "Trenta. Muy similar al español 'treinta'. Decenas: trenta, quaranta, cinquanta, sessanta, settanta, ottanta, novanta."
+    },
+    {
+      "front": "40 — quaranta",
+      "back": "cuarenta",
+      "reading": "/kwaˈranta/",
+      "explanation": "Quaranta. La 'qu' suena /kw/. Combinación: quarantadue (42), quarantuno (41), ecc."
+    },
+    {
+      "front": "50 — cinquanta",
+      "back": "cincuenta",
+      "reading": "/tʃiŋˈkwanta/",
+      "explanation": "Cinquanta. Similar al español 'cincuenta'. Pronunciar: chin-KWAN-ta."
+    },
+    {
+      "front": "60 — sessanta",
+      "back": "sesenta",
+      "reading": "/sesˈsanta/",
+      "explanation": "Sessanta. Doble 's'. Pronunciar: ses-SAN-ta."
+    },
+    {
+      "front": "70 — settanta",
+      "back": "setenta",
+      "reading": "/setˈtanta/",
+      "explanation": "Settanta. Doble 't'. Pronunciar: set-TAN-ta."
+    },
+    {
+      "front": "80 — ottanta",
+      "back": "ochenta",
+      "reading": "/otˈtanta/",
+      "explanation": "Ottanta. Doble 't'. Pronunciar: ot-TAN-ta."
+    },
+    {
+      "front": "90 — novanta",
+      "back": "noventa",
+      "reading": "/noˈvanta/",
+      "explanation": "Novanta. Muy similar al español 'noventa'. Pronunciar: no-VAN-ta."
+    },
+    {
+      "front": "100 — cento",
+      "back": "cien / ciento",
+      "reading": "/ˈtʃento/",
+      "explanation": "'Cento' es invariable: cento non toma artículo. 101=centouno, 200=duecento, 300=trecento. 'Gli anni Settanta' = los años setenta (la década)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Las decenas: trenta, quaranta...",
+      "instruction": "Todas las decenas terminan en -anta (excepto venti y cento). ¡Son muy regulares! Mirá el patrón.",
+      "itemIndices": [4, 5, 6, 7, 8, 9, 10, 11]
+    },
+    {
+      "type": "introduce",
+      "title": "Combinaciones con las decenas",
+      "instruction": "Para combinar decenas con unidades: decena + unidad (todo junto, sin espacio). Las decenas pierden la vocal final ante uno y otto.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué número es?",
+      "instruction": "Ves el número en italiano. Elegí la cifra.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+    },
+    {
+      "type": "recall",
+      "title": "Escribí en italiano",
+      "instruction": "Ves la cifra. Escribí el número correctamente en italiano.",
+      "itemIndices": [0, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá los números",
+      "instruction": "Completá: 21=vent___o, 23=ventit___é, 28=vent___tto, 31=trent___uno",
+      "itemIndices": [0, 2, 3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "¡Numeri 21-100!",
+      "instruction": "Decenas: trenta(30), quaranta(40), cinquanta(50), sessanta(60), settanta(70), ottanta(80), novanta(90), cento(100). Regla: decena pierde vocal final ante UNO y OTTO. TRE al final lleva acento: ventitré.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+    }
+  ]
+}

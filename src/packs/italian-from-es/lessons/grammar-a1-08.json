@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a1-08",
+  "title": "Pronomi soggetto",
+  "description": "Los pronombres personales sujeto en italiano. Son opcionales (el verbo ya indica la persona) pero importantes para el énfasis.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "io",
+      "back": "yo",
+      "reading": "/ˈiːo/",
+      "explanation": "'Io' = yo. En italiano se escribe en MINÚSCULA (a diferencia del inglés 'I'). Se usa para énfasis o contraste: 'Io non ho capito' (Yo no entendí — énfasis). Sin énfasis: 'Non ho capito'."
+    },
+    {
+      "front": "tu",
+      "back": "vos / tú (informal)",
+      "reading": "/ˈtuː/",
+      "explanation": "'Tu' = siempre informal. No confundir con el uso español donde 'tú' puede ser más formal que 'vos' según el país. En italiano 'tu' = siempre el trato informal entre iguales."
+    },
+    {
+      "front": "lui / lei",
+      "back": "él / ella",
+      "reading": "/ˈlui/ /ˈlɛi/",
+      "explanation": "'Lui' = él, 'lei' = ella. En lenguaje coloquial se usan mucho. Forma literaria/antigua: 'egli' (él), 'essa/ella' (ella) — raro en la conversación moderna."
+    },
+    {
+      "front": "Lei (mayúscula)",
+      "back": "Usted (formal)",
+      "reading": "/ˈlɛi/",
+      "explanation": "'Lei' con mayúscula = Usted (formal). Usa la 3a persona singular: 'Lei è professore?' (¿Usted es profesor?). En textos formales se escribe con mayúscula para distinguirlo de 'lei' (ella)."
+    },
+    {
+      "front": "noi",
+      "back": "nosotros",
+      "reading": "/ˈnɔi/",
+      "explanation": "'Noi' = nosotros/as. En italiano coloquial a veces se usa 'noi' con la 3a persona plural en algunas regiones, pero lo estándar es 'noi + siamo/abbiamo/etc.'"
+    },
+    {
+      "front": "voi",
+      "back": "vosotros / ustedes",
+      "reading": "/ˈvɔi/",
+      "explanation": "'Voi' cubre tanto 'vosotros' (España) como 'ustedes' (América Latina). No hay distinción en italiano. 'Voi siete pronti?' = ¿Están listos? (a un grupo, formal o informal)."
+    },
+    {
+      "front": "loro",
+      "back": "ellos / ellas",
+      "reading": "/ˈloːro/",
+      "explanation": "'Loro' = ellos/ellas. Como pronombre formal para Ustedes ('Loro') es muy arcaico y solo en contextos extremadamente formales (hoteles de lujo, etc.). En la práctica, 'voi' lo reemplaza."
+    },
+    {
+      "front": "Pronombres opcionales: parlo vs io parlo",
+      "back": "Hablo vs Yo hablo (énfasis)",
+      "reading": "",
+      "explanation": "En italiano el pronombre sujeto es OPCIONAL porque la terminación verbal indica la persona. 'Parlo italiano' y 'Io parlo italiano' son igualmente correctos. El pronombre añade énfasis."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Los pronombres en italiano",
+      "instruction": "io/tu/lui·lei/noi/voi/loro. Son OPCIONALES — el verbo ya indica la persona. Se usan para énfasis, contraste o cuando no está claro quién actúa. 'Lei' con mayúscula = Usted.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué pronombre es?",
+      "instruction": "Ves el pronombre en italiano. Elegí la traducción correcta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "recall",
+      "title": "Del español al italiano",
+      "instruction": "Ves el pronombre en español. Escribí el pronombre italiano correcto.",
+      "itemIndices": [0, 1, 2, 4, 5, 6]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Lei o lei? ¿Formal o informal?",
+      "instruction": "¿Cuándo usar 'Lei' (Usted) y cuándo 'tu'? Decidí según el contexto: hablando con tu amigo, con un desconocido, con un médico, con un compañero de clase.",
+      "itemIndices": [1, 3]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Con o sin pronombre",
+      "instruction": "Las dos oraciones son correctas. Identificá cuál tiene énfasis: 'Studio ogni giorno.' vs 'Io studio ogni giorno, tu no.'",
+      "itemIndices": [0, 7]
+    },
+    {
+      "type": "summary",
+      "title": "¡Pronomi soggetto!",
+      "instruction": "io(yo), tu(vos-informal), lui/lei(él/ella), Lei(Usted-formal), noi(nosotros), voi(ustedes), loro(ellos). OPCIONALES en italiano. 'Lei' con mayúscula = Usted. No hay distinción vosotros/ustedes — solo 'voi' para todos.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "grammar-b1-23",
+  "title": "Registro formale e informale",
+  "description": "El sistema de cortesía italiano: Lei vs tu, vocabulario formal vs informal, diferencias de registro escrito y oral. Cómo adaptar el italiano al contexto.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Formale: 'Buongiorno, Dottoressa Ricci. Come sta? Ha un appuntamento?'",
+      "back": "Buenos días, Doctora Ricci. ¿Cómo está? ¿Tiene cita?",
+      "reading": "",
+      "explanation": "El registro FORMAL usa: 1) 'Lei' (con L mayúscula en escrito) = usted, con verbo en 3ª persona singular. 2) Títulos: Dottore/Dottoressa, Professore/Professoressa, Signore/Signora, Avvocato, Ingegnere. 3) Fórmula de saludo: Buongiorno + título + apellido. 4) 'Come sta?' (3ª persona), no 'Come stai?' (2ª)."
+    },
+    {
+      "front": "Informale: 'Ciao Maria! Come stai? Hai un po' di tempo?'",
+      "back": "¡Hola María! ¿Cómo estás? ¿Tenés un rato?",
+      "reading": "",
+      "explanation": "El registro INFORMAL usa: 1) 'tu' = vos/tú, verbo en 2ª persona singular. 2) Nombre de pila. 3) 'Ciao' (hola/chao) o 'Salve' (menos íntimo que ciao, más que buongiorno). 4) 'Come stai?' (2ª persona). En Italia entre jóvenes y en ambientes laborales modernos, el tuteo ('darsi del tu') es muy extendido."
+    },
+    {
+      "front": "Lei è molto gentile, Signor Rossi. / Tu sei molto gentile, Marco.",
+      "back": "Usted es muy amable, Señor Rossi. / Sos muy amable, Marco.",
+      "reading": "",
+      "explanation": "CONCORDANZA con 'Lei': siempre 3ª persona singular aunque el interlocutor sea masculino o femenino. ✗ 'Lei sei molto gentile' (incorrecto) → ✓ 'Lei è molto gentile'. El pronombre 'Lei' (usted) usa la misma conjugación que 'lei' (ella): 'Lei parla bene', 'Lei ha un appuntamento', 'Lei può entrare'."
+    },
+    {
+      "front": "Formale: 'Le sarei grato se potesse rispondermi al più presto.'",
+      "back": "Le estaría agradecido si pudiera responderme cuanto antes.",
+      "reading": "",
+      "explanation": "Registro FORMAL ESCRITO (cartas, emails): 1) Condizionale per cortesia: 'Le sarei grato', 'Vorrei chiederLe', 'SareLe possibile?'. 2) Maiuscola per i pronomi di cortesia: Lei, La, Le, Loro. 3) Fórmulas fijas: 'In attesa di una Sua risposta, porgo distinti saluti'. 4) Congiuntivo: 'se potesse', 'qualora fosse possibile'."
+    },
+    {
+      "front": "Formale: 'Si accomodi pure.' / Informale: 'Siediti!'",
+      "back": "Formal: 'Siéntese, por favor.' / Informal: '¡Sentate!'",
+      "reading": "",
+      "explanation": "Imperativo FORMALE: imperativo di cortesia = congiuntivo presente di Lei. 'Si accomodi' (siéntese), 'Venga' (venga), 'Aspetti' (espere), 'Mi dica' (dígame). Imperativo INFORMALE: forma regular. 'Siediti' (sentate), 'Vieni' (vení), 'Aspetta' (esperá), 'Dimmi' (decime). 'Mi dica' (formal) vs 'Dimmi' (informal)."
+    },
+    {
+      "front": "Vocabolario: mangiare/nutrirsi | morire/decedere | casa/abitazione | andare/recarsi",
+      "back": "Comer/alimentarse | morir/fallecer | casa/vivienda | ir/dirigirse",
+      "reading": "",
+      "explanation": "PARES FORMAL/INFORMAL de vocabulario: mangiare (informal) vs nutrirsi, alimentarsi (formal). Morire (informal/neutro) vs decedere, venire a mancare (formal, eufemistico). Casa (coloquial) vs abitazione, domicilio (burocrático). Andare (neutro) vs recarsi (formal: 'Mi sono recato all'ufficio' = Fui a la oficina). Fare vs effettuare (formal: 'effettuare un pagamento')."
+    },
+    {
+      "front": "Segnali discorsivi informali: sai, vedi, dai, beh, mah, insomma, cioè",
+      "back": "Marcadores conversacionales: sabes, mira, vamos, bueno, pues/qué sé yo, en fin, o sea",
+      "reading": "",
+      "explanation": "SEGNALI DISCORSIVI INFORMALI son marcadores del habla coloquial italiana: 'Sai, non so cosa fare' (sabes, no sé qué hacer). 'Dai!' = ¡Venga! ¡Vamos! (también para animar). 'Beh...' = bueno... (duda). 'Mah...' = qué sé yo, no sé (escepticismo). 'Insomma' = en fin, vamos (conclusión o queja). 'Cioè' = o sea (aclaración). Son rarísimos en el registro formal."
+    },
+    {
+      "front": "In un negozio: 'Desidero?' (formale) / 'Cosa prendi?' (informale tra amici)",
+      "back": "¿Qué desea? (formal) / ¿Qué tomás? (informal entre amigos)",
+      "reading": "",
+      "explanation": "El registro depende del contexto social: negozio/ristorante → empleado usa formale con cliente desconocido: 'Desidera?', 'Cosa prende?' (prende = 3ª sg., Lei). Entre amigos: 'Cosa prendi?', 'Cosa vuoi?'. En bares italianos el barista dice 'Prego?' (¿Sí? ¿Qué quiere?) — brevísima fórmula formal. Notar: 'Come va?' es semi-informal; 'Come sta?' es formal."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El sistema Lei vs tu",
+      "instruction": "LEI (formal) = usted: verbo en 3ª persona singular. TU (informal) = vos/tú: 2ª persona. La regla de oro: Lei → 3ª sg. SIEMPRE, aunque el interlocutor sea hombre o mujer. Títulos en registro formal: Dottore/ssa, Prof., Sig./Sig.ra.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Registro formal: imperativo, escrito y vocabulario",
+      "instruction": "Imperativo formal = congiuntivo presente: Si accomodi, Venga, Aspetti. Escrito formal: condizionale (Le sarei grato, Vorrei...) + pronombres con mayúscula. Vocabulario formal: recarsi, decedere, abitazione, effettuare.",
+      "itemIndices": [3, 4, 5]
+    },
+    {
+      "type": "introduce",
+      "title": "Habla informal: segnali discorsivi",
+      "instruction": "El italiano coloquial usa marcadores conversacionales: sai, vedi, dai, beh, mah, insomma, cioè. Aprende a reconocerlos en la conversación real. Son señales del registro informal.",
+      "itemIndices": [6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Formal o informal?",
+      "instruction": "Clasificá cada ejemplo como registro formal o informal. Observá: el pronombre (Lei/tu), el vocabulario, los marcadores discursivos y la fórmula de saludo.",
+      "itemIndices": [0, 1, 4, 7]
+    },
+    {
+      "type": "error-correction",
+      "title": "Errori di registro",
+      "instruction": "Corregí estos errores de concordanza con Lei y de mezcla de registro.",
+      "itemIndices": [2, 3]
+    },
+    {
+      "type": "summary",
+      "title": "Registro formal e informal — consolidado",
+      "instruction": "FORMAL: Lei + 3ª singular, títulos, Buongiorno/ArrivederLa, imperativo = congiuntivo (si accomodi), vocabulario culto (recarsi, decedere, abitazione). INFORMAL: tu + 2ª singular, nome di battesimo, Ciao, imperativo normal, marcadores (sai, dai, insomma). El tuteo se extiende en contextos laborales modernos: preguntar antes de tutear es siempre correcto.",
+      "itemIndices": [0, 1, 4, 5, 6]
+    }
+  ]
+}

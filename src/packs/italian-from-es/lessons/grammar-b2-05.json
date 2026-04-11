@@ -1,0 +1,101 @@
+{
+  "id": "grammar-b2-05",
+  "title": "Concordanza dei tempi nel congiuntivo",
+  "description": "La concordancia de tiempos en el subjuntivo: qué tiempo de congiuntivo usar según el tiempo del verbo principal. Una tabla sistemática con ejemplos de cada combinación.",
+  "level": "b2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Penso che Marco VENGA domani.",
+      "back": "Pienso que Marco viene mañana / vendrá mañana.",
+      "reading": "",
+      "explanation": "PRESENTE → CONGIUNTIVO PRESENTE. Acción subordinada simultánea o posterior al presente del verbo principal. 'Penso' (presente) + 'che' + 'venga' (congiuntivo presente). En español equivale al presente/futuro de indicativo o subjuntivo presente."
+    },
+    {
+      "front": "Penso che Marco SIA VENUTO ieri.",
+      "back": "Pienso que Marco vino ayer.",
+      "reading": "",
+      "explanation": "PRESENTE → CONGIUNTIVO PASSATO. La acción subordinada es ANTERIOR al presente del verbo principal. 'Penso' (presente) + 'che' + 'sia venuto' (congiuntivo passato). En español: presente + que + indicativo pasado o subjuntivo perfecto."
+    },
+    {
+      "front": "Pensavo che Marco VENISSE quel giorno.",
+      "back": "Pensaba que Marco vendría / venía ese día.",
+      "reading": "",
+      "explanation": "PASSATO → CONGIUNTIVO IMPERFETTO. Acción subordinada simultánea o posterior al pasado del verbo principal. 'Pensavo' (imperfetto) + 'che' + 'venisse' (congiuntivo imperfetto). La acción subordinada ocurre al mismo tiempo que 'pensava'."
+    },
+    {
+      "front": "Pensavo che Marco FOSSE VENUTO il giorno prima.",
+      "back": "Pensaba que Marco había venido el día anterior.",
+      "reading": "",
+      "explanation": "PASSATO → CONGIUNTIVO TRAPASSATO. La acción subordinada es ANTERIOR al pasado del verbo principal. 'Pensavo' (imperfetto) + 'che' + 'fosse venuto' (congiuntivo trapassato). En español: pasado + que + pluscuamperfecto de subjuntivo."
+    },
+    {
+      "front": "Spero che tu possa venire.",
+      "back": "Espero que puedas venir.",
+      "reading": "",
+      "explanation": "PRESENTE → CONGIUNTIVO PRESENTE. 'Sperare' al presente → congiuntivo presente para acción posterior. En español: esperar + que + subjuntivo presente. Muy frecuente con verbos de esperanza, deseo y emoción en presente."
+    },
+    {
+      "front": "Speravo che tu potessi venire.",
+      "back": "Esperaba que pudieras venir.",
+      "reading": "",
+      "explanation": "PASSATO → CONGIUNTIVO IMPERFETTO. 'Speravo' (imperfetto) → congiuntivo imperfetto para acción simultánea/posterior. La esperanza era sobre algo del mismo momento: quería que vinieras en ese momento."
+    },
+    {
+      "front": "Speravo che tu fossi già partito.",
+      "back": "Esperaba que ya te hubieras ido.",
+      "reading": "",
+      "explanation": "PASSATO → CONGIUNTIVO TRAPASSATO. La acción subordinada (partire) es ANTERIOR a cuando yo esperaba (speravo). 'Già' refuerza la anterioridad. Diferencia crucial con el ejemplo anterior."
+    },
+    {
+      "front": "È necessario che tu venga subito.",
+      "back": "Es necesario que vengas enseguida.",
+      "reading": "",
+      "explanation": "COSTRUZIONE IMPERSONALE presente → CONGIUNTIVO PRESENTE. Las construcciones impersonales (è necessario, è importante, bisogna che...) en presente siempre toman congiuntivo presente para la subordinada simultánea o futura."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "La tabla de concordanza",
+      "instruction": "REGLA: Presente/Futuro → Congiuntivo presente (simultaneidad) o passato (anterioridad). Passato/Condizionale → Congiuntivo imperfetto (simultaneidad) o trapassato (anterioridad). Dos ejes: tiempo del principal y relación temporal de la subordinada.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Verbo principale al passato",
+      "instruction": "Después de un passato (imperfetto, passato prossimo, passato remoto) o condizionale: imperfetto si la subordinada es simultánea/posterior; trapassato si la subordinada es anterior.",
+      "itemIndices": [2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Verbos frecuentes que rigen congiuntivo",
+      "instruction": "Sperare, credere, pensare, volere, temere + che → siempre congiuntivo. La concordanza aplica igual en todos. Practica con 'sperare' como modelo.",
+      "itemIndices": [4, 5, 6]
+    },
+    {
+      "type": "introduce",
+      "title": "Costruzioni impersonali",
+      "instruction": "È necessario/importante/probabile che → congiuntivo presente (si el principal está en presente). La regla de concordanza es la misma.",
+      "itemIndices": [7]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Aplica la concordanza",
+      "instruction": "Identifica el tiempo del verbo principal y elige el congiuntivo correcto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "error-correction",
+      "title": "Errori di concordanza",
+      "instruction": "Corrige el error de concordanza en estas frases.",
+      "itemIndices": [2, 4, 6]
+    },
+    {
+      "type": "summary",
+      "title": "Concordanza dei tempi — dominata",
+      "instruction": "Tabla completa: Presente + simultáneo → Cong. PRESENTE. Presente + anterior → Cong. PASSATO. Passato + simultáneo → Cong. IMPERFETTO. Passato + anterior → Cong. TRAPASSATO. Pregúntate siempre: (1) ¿qué tiempo tiene el verbo principal? (2) ¿la acción subordinada es simultánea o anterior?",
+      "itemIndices": [0, 1, 2, 3, 5, 6]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "grammar-b2-06",
+  "title": "Discorso indiretto avanzato",
+  "description": "El estilo indirecto avanzado: transformación sistemática de tiempos verbales, pronombres y adverbios. El cambio de perspectiva al reportar lo que alguien dijo.",
+  "level": "b2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "DD: 'Mangio la pizza.' → DI (passato): Ha detto che mangiava la pizza.",
+      "back": "DD: 'Como pizza.' → DI: Dijo que comía pizza.",
+      "reading": "",
+      "explanation": "Presente → Imperfetto. El tiempo MÁS IMPORTANTE de recordar. DD: presente indicativo → DI (verbo introduttore al passato): imperfetto indicativo. 'Dico' → 'diceva'. En español también: dijo que comía."
+    },
+    {
+      "front": "DD: 'Ho mangiato.' → DI: Ha detto che aveva mangiato.",
+      "back": "DD: 'He comido.' → DI: Dijo que había comido.",
+      "reading": "",
+      "explanation": "Passato prossimo → Trapassato prossimo. DD: 'ho mangiato' → DI: 'aveva mangiato'. En español: dijo que había comido. Este cambio marca que la acción del discurso directo es anterior al momento del reporte."
+    },
+    {
+      "front": "DD: 'Mangerò domani.' → DI: Ha detto che avrebbe mangiato il giorno dopo.",
+      "back": "DD: 'Comeré mañana.' → DI: Dijo que comería al día siguiente.",
+      "reading": "",
+      "explanation": "Futuro → Condizionale passato. DD: 'mangerò' → DI: 'avrebbe mangiato'. TAMBIÉN: 'domani' → 'il giorno dopo/l'indomani'. Dos cambios: tiempo verbal Y adverbio de tiempo. El futuro retrocede al condizionale."
+    },
+    {
+      "front": "DD: 'Mangia!' → DI: Gli ha detto di mangiare.",
+      "back": "DD: '¡Come!' → DI: Le dijo que comiera. / Le dijo que comiera.",
+      "reading": "",
+      "explanation": "Imperativo → Di + infinito. El imperativo en DD se convierte en 'di + infinito' en DI. 'Ha detto di fare / di venire / di aspettare'. No se usa congiuntivo aquí. 'Ha ordinato di / Ha chiesto di' también funcionan."
+    },
+    {
+      "front": "DD: 'Dove vai?' → DI: Mi ha chiesto dove andassi.",
+      "back": "DD: '¿Adónde vas?' → DI: Me preguntó adónde iba.",
+      "reading": "",
+      "explanation": "Domanda diretta → Domanda indiretta. (1) Si/No → 'se': 'Vieni?' → Ha chiesto SE venivo. (2) Con interrogativo → mantiene el interrogativo + congiuntivo imperfetto: 'Dove vai?' → Ha chiesto DOVE ANDASSI."
+    },
+    {
+      "front": "DD: 'Sono qui oggi.' → DI: Ha detto che era lì quel giorno.",
+      "back": "DD: 'Estoy aquí hoy.' → DI: Dijo que estaba allí ese día.",
+      "reading": "",
+      "explanation": "CAMBIOS DEITTICOS: qui/qua → lì/là. oggi → quel giorno. ieri → il giorno prima/la vigilia. domani → il giorno dopo/l'indomani. adesso/ora → allora, in quel momento. questo → quello. io → lui/lei (según contexto)."
+    },
+    {
+      "front": "DD: 'L'ho comprato ieri.' → DI: Ha detto che l'aveva comprato il giorno prima.",
+      "back": "DD: 'Lo compré ayer.' → DI: Dijo que lo había comprado el día anterior.",
+      "reading": "",
+      "explanation": "Dos cambios simultáneos: (1) passato prossimo → trapassato prossimo; (2) ieri → il giorno prima. Es frecuente que en la misma frase cambien tanto el tiempo verbal como el deictic temporal."
+    },
+    {
+      "front": "Ha affermato che sarebbe venuto l'indomani.",
+      "back": "Afirmó que vendría al día siguiente.",
+      "reading": "",
+      "explanation": "Verbos introductori: 'dire' es el más básico, pero en el registro formal se usan: affermare, dichiarare, sostenere, spiegare, precisare, aggiungere, concludere, ammettere, negare, ribadire. El tiempo del verbo introduttore rige la concordanza."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Los cambios de tiempo verbal",
+      "instruction": "Tabla: Presente → Imperfetto. Passato prossimo/remoto → Trapassato prossimo. Futuro → Condizionale passato. Imperfetto → Imperfetto (sin cambio). Condizionale → Condizionale passato. Imperativo → di + infinito.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Preguntas indirectas",
+      "instruction": "Domanda sì/no → HA CHIESTO SE + indicativo (concordanza normal). Domanda con interrogativo → HA CHIESTO DOVE/COSA/QUANDO/COME + congiuntivo imperfetto.",
+      "itemIndices": [4]
+    },
+    {
+      "type": "introduce",
+      "title": "Cambios deícticos",
+      "instruction": "Cuando el verbo introduttore está en passato, los adverbios de tiempo, lugar y los pronombres también cambian. Memoriza los pares: qui→lì, oggi→quel giorno, domani→il giorno dopo, ieri→il giorno prima, questo→quello.",
+      "itemIndices": [5, 6]
+    },
+    {
+      "type": "introduce",
+      "title": "Verbos introductori variados",
+      "instruction": "Más allá de 'dire': affermare, sostenere, dichiarare, spiegare, precisare, aggiungere, ammettere, negare, ribadire. Cada uno añade un matiz al reporte.",
+      "itemIndices": [7]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Transforma al discorso indiretto",
+      "instruction": "Convierte estas frases al estilo indirecto.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "error-correction",
+      "title": "Errori di trasformazione",
+      "instruction": "Identifica qué cambio falta en estas transformaciones al discorso indiretto.",
+      "itemIndices": [0, 2, 5]
+    },
+    {
+      "type": "summary",
+      "title": "Discorso indiretto — dominato",
+      "instruction": "Cambios de tiempo: Presente→Imperfetto (más importante). Passato prossimo→Trapassato. Futuro→Condizionale passato. Imperativo→di+infinito. Domande: se (sì/no) o interrogativo + congiuntivo imperfetto. Deittici: qui→lì, oggi→quel giorno, domani→il giorno dopo, ieri→il giorno prima.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    }
+  ]
+}

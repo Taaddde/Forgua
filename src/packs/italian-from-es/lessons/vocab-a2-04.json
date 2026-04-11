@@ -1,0 +1,107 @@
+{
+  "id": "vocab-a2-04",
+  "title": "Emozioni e stati d'animo",
+  "description": "Vocabulario para expresar emociones y estados de ánimo en italiano. Te permitirá hablar de cómo te sientes y describir a los demás con matiz.",
+  "level": "a2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "felice",
+      "back": "feliz",
+      "reading": "",
+      "explanation": "Cognado. 'Sono molto felice!' = ¡Estoy muy feliz! Invariable en género pero cambia en número: felici (pl.)."
+    },
+    {
+      "front": "triste",
+      "back": "triste",
+      "reading": "",
+      "explanation": "Cognado perfecto. 'Perché sei triste?' = ¿Por qué estás triste? Invariable en género: triste/tristi."
+    },
+    {
+      "front": "arrabbiato/a",
+      "back": "enojado / enfadado",
+      "reading": "",
+      "explanation": "'Sono arrabbiato con te!' = ¡Estoy enojado contigo! 'Mi sono arrabbiato' = Me enojé. Del verbo arrabbiarsi."
+    },
+    {
+      "front": "sorpreso/a",
+      "back": "sorprendido",
+      "reading": "",
+      "explanation": "Cognado cercano. 'Sono rimasto sorpreso dalla notizia.' = Me quedé sorprendido con la noticia."
+    },
+    {
+      "front": "stanco/a",
+      "back": "cansado",
+      "reading": "",
+      "explanation": "'Sono stanchissimo!' = ¡Estoy agotadísimo! 'Ho sonno' (tengo sueño) es diferente de 'sono stanco' (estoy cansado)."
+    },
+    {
+      "front": "annoiato/a",
+      "back": "aburrido",
+      "reading": "",
+      "explanation": "Del verbo 'annoiare' (aburrir). OJO: 'noioso' = aburrido (que aburre, adjetivo permanente). 'Sono annoiato' = Estoy aburrido (en este momento)."
+    },
+    {
+      "front": "preoccupato/a",
+      "back": "preocupado",
+      "reading": "",
+      "explanation": "Cognado. 'Sono preoccupato per te.' = Estoy preocupado por ti. Del verbo 'preoccuparsi' = preocuparse."
+    },
+    {
+      "front": "emozionato/a",
+      "back": "emocionado / entusiasmado",
+      "reading": "",
+      "explanation": "Cognado. 'Sono emozionato per il concerto!' = ¡Estoy emocionado por el concierto! Puede ser emoción positiva o negativa."
+    },
+    {
+      "front": "nervoso/a",
+      "back": "nervioso",
+      "reading": "",
+      "explanation": "Cognado. 'Mi sento nervoso prima dell'esame.' = Me siento nervioso antes del examen."
+    },
+    {
+      "front": "contento/a",
+      "back": "contento / satisfecho",
+      "reading": "",
+      "explanation": "Más concreto que 'felice': satisfacción con algo específico. 'Sono contento del risultato.' = Estoy satisfecho con el resultado."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Emociones positivas",
+      "instruction": "Aprende primero a expresar emociones positivas. Fíjate en los cognados con el español.",
+      "itemIndices": [0, 9, 3, 7]
+    },
+    {
+      "type": "introduce",
+      "title": "Emociones negativas y neutras",
+      "instruction": "Las emociones menos agradables también son importantes para expresarse con autenticidad.",
+      "itemIndices": [1, 2, 4, 5, 6, 8]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo estás? — ¿Cómo te sientes?",
+      "instruction": "Practicá expresar emociones en italiano.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Correcto o incorrecto?",
+      "instruction": "Estas oraciones pueden tener errores de concordancia de género. Corrígelas si es necesario.",
+      "itemIndices": [2, 4, 6, 7]
+    },
+    {
+      "type": "recall",
+      "title": "Emociones — práctica completa",
+      "instruction": "Practica todas las emociones de la lección.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "Emozioni — consolidado",
+      "instruction": "Recuerda: los adjetivos de emoción concuerdan en género y número con el sujeto: sono stanco/a, siamo stanchi/e. Felice y triste son invariables en género (solo cambian en plural: felici, tristi).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

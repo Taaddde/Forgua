@@ -1,0 +1,107 @@
+{
+  "id": "vocab-c1-05",
+  "title": "Espressioni idiomatiche II",
+  "description": "La segunda tanda de idioms del italiano C1: expresiones del mundo cotidiano, refranes cortos y construcciones idiomáticas con animales y situaciones concretas. Estas 10 expresiones completan el repertorio básico del hablante avanzado.",
+  "level": "c1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "a mani basse",
+      "back": "fácilmente / sin esfuerzo / ampliamente (en una competición)",
+      "reading": "",
+      "explanation": "'Ha vinto a mani basse: nessuno era al suo livello.' Literalmente 'con las manos bajas' — sin necesidad de esforzarse, como un boxeador que gana sin elevar la guardia. Se usa para victorias o logros claros."
+    },
+    {
+      "front": "perdere il filo del discorso",
+      "back": "perder el hilo del discurso / desorientarse al hablar",
+      "reading": "",
+      "explanation": "'L'oratore era così emozionato che perse il filo del discorso.' Imagen del hilo (Ariadna en el laberinto): el hilo narrativo o argumentativo que guía el discurso. 'Riprendere il filo' = retomar el hilo."
+    },
+    {
+      "front": "far finta di niente",
+      "back": "ignorar / hacer como si nada / disimular",
+      "reading": "",
+      "explanation": "'Quando ci siamo incontrati ha fatto finta di niente.' Diferencia de 'fingere': 'far finta' es más coloquial y se refiere a no reconocer que algo ha pasado. 'Far finta di non capire' = hacerse el que no entiende."
+    },
+    {
+      "front": "togliersi un peso dal cuore",
+      "back": "quitarse un peso de encima / sentir gran alivio",
+      "reading": "",
+      "explanation": "'Dopo aver confessato la verità si tolse un peso dal cuore.' La versión italiana usa el corazón (cuore) en lugar del genérico 'de encima'. Similar a 'levare un macigno dal petto'. Muy emotivo y frecuente."
+    },
+    {
+      "front": "fare di necessità virtù",
+      "back": "hacer de la necesidad virtud / sacar el mejor partido de una situación difícil",
+      "reading": "",
+      "explanation": "'Senza fondi extra, fecero di necessità virtù e trovarono soluzioni creative.' Expresión de origen latino (San Jerónimo). Más literaria que coloquial, pero usada también en conversación cuando se quiere parecer reflexivo."
+    },
+    {
+      "front": "menare il can per l'aia",
+      "back": "andar con rodeos / no ir al grano",
+      "reading": "",
+      "explanation": "'Smettila di menare il can per l'aia e dimmi cosa è successo.' Literalmente 'llevar el perro por el patio de trilla'. Imagen agrícola: dar vueltas sin avanzar. Equivale al inglés 'beating around the bush'."
+    },
+    {
+      "front": "non c'è trippa per gatti",
+      "back": "no hay nada que hacer / no hay de qué / no hay posibilidad",
+      "reading": "",
+      "explanation": "'Hai chiesto un aumento? Non c'è trippa per gatti quest'anno.' Expresión tipicamente romana. Origen: un pregonero municipal en Roma anunciaba que ya no pagarían tripas para los gatos callejeros. Hoy = no hay nada disponible."
+    },
+    {
+      "front": "avere sale in zucca",
+      "back": "tener cabeza / ser listo y sensato",
+      "reading": "",
+      "explanation": "'Ha preso la decisione giusta: ha davvero sale in zucca.' La 'zucca' (calabaza) es la cabeza en dialecto toscano. La sal = sabiduría y buen juicio. Opuesto: 'non avere sale in zucca' = ser imprudente o tonto."
+    },
+    {
+      "front": "restare in ballo",
+      "back": "seguir en el juego / continuar involucrado / quedar pendiente",
+      "reading": "",
+      "explanation": "'La proposta è ancora in ballo: vedremo cosa decide il consiglio.' Del juego de baile: quedarse en la pista. Se usa para situaciones, propuestas o personas que siguen siendo relevantes en un proceso."
+    },
+    {
+      "front": "prendere la palla al balzo",
+      "back": "aprovechar la oportunidad / no dejar escapar el momento",
+      "reading": "",
+      "explanation": "'Appena sentì che cercavano un traduttore, prese la palla al balzo.' Imagen del rebote de una pelota: hay un momento óptimo para atraparla — si lo dejas pasar, la oportunidad se va. Similar al inglés 'seize the opportunity'."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Idioms de competición y actitud",
+      "instruction": "Los primeros tres idioms (a mani basse, perdere il filo, far finta di niente) son muy cotidianos y de uso frecuente en conversación y medios. Obsérvalos: 'a mani basse' describe habilidad; los otros dos, fallos comunicativos o disimulo.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Idioms emocionales y estratégicos",
+      "instruction": "Los siguientes (togliersi un peso, fare di necessità virtù, menare il can per l'aia) trabajan con emociones y estrategias comunicativas. 'Fare di necessità virtù' tiene tono levemente literario; los otros son muy conversacionales.",
+      "itemIndices": [3, 4, 5]
+    },
+    {
+      "type": "word-in-context",
+      "title": "El idiom correcto en contexto",
+      "instruction": "Elige el idiom que mejor encaja en cada situación. Atención a los matices entre expresiones similares.",
+      "itemIndices": [0, 2, 5, 6, 7, 9]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cuál es el idiom?",
+      "instruction": "Ves la traducción o la descripción del significado. Escribe el idiom italiano completo. Los idioms son fórmulas fijas.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Los idioms en situación real",
+      "instruction": "Lee: 'Lucia aveva sale in zucca: invece di menare il can per l'aia, prese la palla al balzo e propose subito la sua candidatura. C'era poco tempo, ma non c'era trippa per gatti: o si agiva ora o non se ne faceva niente.' ¿Cuántos idioms hay? ¿Qué está describiendo el texto?",
+      "itemIndices": [7, 5, 9, 6]
+    },
+    {
+      "type": "summary",
+      "title": "20 idioms del C1 — todos dominados",
+      "instruction": "Con las dos lecciones de idioms, tienes 20 expresiones idiomáticas del italiano C1. Estrategia para activarlas: (1) cuando hablas en italiano, prueba a usar un idiom por conversación. (2) Escúchalos en contexto real. (3) No los mezcles: son fórmulas fijas. La próxima lección: la lengua académica y saggistica.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

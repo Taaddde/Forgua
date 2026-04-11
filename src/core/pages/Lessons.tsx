@@ -1,19 +1,20 @@
 /**
- * Lessons page — lists all lessons with progress states.
+ * Lessons page — lists lessons grouped by level with collapsible sections.
+ * Lesson index is cached in the Zustand store to avoid reloading on navigation.
  * Opens LessonPlayer when user starts/replays a lesson.
  */
 
-import { useState, useEffect, useCallback, useMemo } from 'react';
+import { useState, useEffect, useCallback, useMemo, useRef } from 'react';
 import { useTranslation } from 'react-i18next';
 import { useNavigate } from 'react-router-dom';
-import { Lightbulb, Lock, CheckCircle, Clock, ChevronRight, Play, RotateCcw, Loader2 } from 'lucide-react';
+import { Lightbulb, Lock, CheckCircle, Clock, ChevronRight, ChevronDown, Play, RotateCcw, Loader2 } from 'lucide-react';
 import { useAppStore } from '../store/useAppStore';
 import { useLessonProgress, completeLesson } from '../hooks/useLesson';
 import { LessonPlayer } from '../components/lesson/LessonPlayer';
 import { Button } from '../components/common/Button';
 import { loadLessonIndex, loadLesson } from '../packs';
 import { isLessonUnlocked } from '../utils/lesson-unlock';
-import type { Lesson, LessonMeta, LessonIndex } from '../types/lesson';
+import type { Lesson, LessonMeta } from '../types/lesson';
 
 type LessonStatus = 'locked' | 'available' | 'completed';
 
@@ -22,36 +23,35 @@ export function Lessons() {
   const navigate = useNavigate();
   const activePack = useAppStore((s) => s.activePack);
   const devUnlockAll = useAppStore((s) => s.devUnlockAll);
-  const packId = activePack?.id ?? null;
+  const lessonIndex = useAppStore((s) => s.lessonIndex);
+  const lessonIndexPackId = useAppStore((s) => s.lessonIndexPackId);
+  const setLessonIndex = useAppStore((s) => s.setLessonIndex);
 
+  const packId = activePack?.id ?? null;
   const lessonProgress = useLessonProgress(packId);
-  const [lessonIndex, setLessonIndex] = useState<LessonIndex | null>(null);
-  const [loadedForPack, setLoadedForPack] = useState<string | null>(null);
+
   const [activeLesson, setActiveLesson] = useState<Lesson | null>(null);
   const [loadingLesson, setLoadingLesson] = useState<string | null>(null);
 
-  const loadingIndex = packId !== null && packId !== loadedForPack;
+  // true while the index for the current pack hasn't been stored yet
+  const loadingIndex = packId !== null && lessonIndexPackId !== packId;
 
-  // Load lesson index dynamically for the active pack
+  // Load lesson index — skips the fetch if the store already has it for this pack
   useEffect(() => {
-    if (!packId) return;
+    if (!packId || lessonIndexPackId === packId) return;
     let cancelled = false;
     loadLessonIndex(packId)
       .then((result) => {
-        if (!cancelled) {
-          setLessonIndex(result);
-          setLoadedForPack(packId);
-        }
+        if (!cancelled) setLessonIndex(packId, result);
       })
       .catch((err) => {
         if (!cancelled) {
           console.warn('Failed to load lesson index:', err);
-          setLessonIndex(null);
-          setLoadedForPack(packId);
+          setLessonIndex(packId, null);
         }
       });
     return () => { cancelled = true; };
-  }, [packId]);
+  }, [packId, lessonIndexPackId, setLessonIndex]);
 
   const lessons = lessonIndex?.lessons ?? [];
 
@@ -78,6 +78,37 @@ export function Lessons() {
     },
     [completedIds, devUnlockAll],
   );
+
+  // Group lessons by level, preserving the insertion order from the index.
+  // Fully agnostic: works with any level string ("n5", "a1", "beginner", etc.)
+  const groupedLevels = useMemo(() => {
+    const map = new Map<string, LessonMeta[]>();
+    for (const lesson of lessons) {
+      const arr = map.get(lesson.level) ?? [];
+      arr.push(lesson);
+      map.set(lesson.level, arr);
+    }
+    return Array.from(map.entries()).map(([level, items]) => ({ level, items }));
+  }, [lessons]);
+
+  // Collapsible level sections — expand all by default when the index first loads
+  const [expandedLevels, setExpandedLevels] = useState<Set<string>>(new Set());
+  const lastInitPackRef = useRef<string | null>(null);
+
+  useEffect(() => {
+    if (groupedLevels.length === 0 || packId === lastInitPackRef.current) return;
+    lastInitPackRef.current = packId;
+    setExpandedLevels(new Set(groupedLevels.map((g) => g.level)));
+  }, [packId, groupedLevels]);
+
+  const toggleLevel = useCallback((level: string) => {
+    setExpandedLevels((prev) => {
+      const next = new Set(prev);
+      if (next.has(level)) next.delete(level);
+      else next.add(level);
+      return next;
+    });
+  }, []);
 
   const handleStartLesson = useCallback(
     async (meta: LessonMeta) => {
@@ -128,7 +159,6 @@ export function Lessons() {
     );
   }
 
-  // No lessons for this pack
   if (!lessonIndex || lessons.length === 0) {
     return (
       <div className="flex flex-col items-center justify-center min-h-[60vh] text-center px-4">
@@ -138,7 +168,6 @@ export function Lessons() {
     );
   }
 
-  // Active lesson — show player
   if (activeLesson) {
     return (
       <LessonPlayer
@@ -149,11 +178,11 @@ export function Lessons() {
     );
   }
 
-  // Lesson list
   const completedCount = lessons.filter((l) => completedIds.has(l.id)).length;
 
   return (
     <div className="max-w-3xl mx-auto">
+      {/* Page header */}
       <div className="flex items-center justify-between mb-6">
         <div>
           <h1 className="text-2xl font-bold text-slate-900 dark:text-slate-100">{t('lessons.title')}</h1>
@@ -174,7 +203,7 @@ export function Lessons() {
         </div>
       </div>
 
-      {/* Progress bar */}
+      {/* Global progress bar */}
       <div className="w-full h-2 bg-slate-200 dark:bg-slate-800 rounded-full mb-8">
         <div
           className="h-full bg-emerald-500 rounded-full transition-all duration-300"
@@ -182,24 +211,68 @@ export function Lessons() {
         />
       </div>
 
-      {/* Lesson cards */}
-      <div className="space-y-3">
-        {lessons.map((meta) => {
-          const status = getLessonStatus(meta);
-          const progress = progressMap.get(meta.id);
-          const isLoading = loadingLesson === meta.id;
+      {/* Level groups */}
+      <div className="space-y-6">
+        {groupedLevels.map(({ level, items }) => {
+          // Level display name comes from the pack manifest — fully agnostic
+          const levelName =
+            (activePack.levels ?? []).find((l) => l.id === level)?.name ?? level.toUpperCase();
+          const levelCompleted = items.filter((m) => completedIds.has(m.id)).length;
+          const isExpanded = expandedLevels.has(level);
 
           return (
-            <LessonCard
-              key={meta.id}
-              meta={meta}
-              status={status}
-              score={progress?.score}
-              timesCompleted={progress?.timesCompleted ?? 0}
-              isLoading={isLoading}
-              onStart={() => handleStartLesson(meta)}
-              t={t}
-            />
+            <div key={level}>
+              {/* Level header — acts as collapse/expand toggle */}
+              <button
+                onClick={() => toggleLevel(level)}
+                className="w-full flex items-center justify-between py-2 px-1 group"
+                aria-expanded={isExpanded}
+              >
+                <div className="flex items-center gap-3">
+                  <h2 className="text-sm font-semibold text-slate-700 dark:text-slate-300 uppercase tracking-wide">
+                    {levelName}
+                  </h2>
+                  <span className="text-xs text-slate-500 tabular-nums">
+                    {levelCompleted}/{items.length}
+                  </span>
+                  <div className="w-16 h-1 bg-slate-200 dark:bg-slate-800 rounded-full overflow-hidden">
+                    <div
+                      className="h-full bg-emerald-500 rounded-full transition-all duration-300"
+                      style={{ width: `${(levelCompleted / items.length) * 100}%` }}
+                    />
+                  </div>
+                </div>
+                <ChevronDown
+                  className={`w-4 h-4 text-slate-500 transition-transform duration-200 ${
+                    isExpanded ? 'rotate-180' : ''
+                  }`}
+                />
+              </button>
+
+              {/* Lesson cards — only rendered when the level is expanded */}
+              {isExpanded && (
+                <div className="space-y-3 mt-2">
+                  {items.map((meta) => {
+                    const status = getLessonStatus(meta);
+                    const progress = progressMap.get(meta.id);
+                    const isLoading = loadingLesson === meta.id;
+
+                    return (
+                      <LessonCard
+                        key={meta.id}
+                        meta={meta}
+                        status={status}
+                        score={progress?.score}
+                        timesCompleted={progress?.timesCompleted ?? 0}
+                        isLoading={isLoading}
+                        onStart={() => handleStartLesson(meta)}
+                        t={t}
+                      />
+                    );
+                  })}
+                </div>
+              )}
+            </div>
           );
         })}
       </div>
@@ -250,8 +323,8 @@ function LessonCard({
             <h3 className="font-semibold text-slate-500 text-sm truncate">{meta.title}</h3>
             <p className="text-xs text-slate-600 truncate">{meta.description}</p>
             <div className="flex items-center gap-2 mt-1">
-              <span className="text-[10px] font-medium px-1.5 py-0.5 rounded uppercase text-slate-500 bg-slate-200/80 dark:bg-slate-800/60">
-                {meta.level}
+              <span className={`text-[10px] font-medium px-1.5 py-0.5 rounded ${categoryColor}`}>
+                {meta.category}
               </span>
             </div>
           </div>
@@ -274,7 +347,9 @@ function LessonCard({
         <div className={`w-10 h-10 rounded-xl flex items-center justify-center shrink-0 ${
           status === 'completed' ? 'bg-emerald-500/10' : 'bg-indigo-500/10'
         }`}>
-          {status === 'completed' ? (
+          {isLoading ? (
+            <Loader2 className="w-5 h-5 text-slate-400 animate-spin" />
+          ) : status === 'completed' ? (
             <CheckCircle className="w-5 h-5 text-emerald-400" />
           ) : (
             <Play className="w-5 h-5 text-indigo-400" />
@@ -284,9 +359,6 @@ function LessonCard({
           <h3 className="font-semibold text-slate-900 dark:text-slate-100 text-sm truncate">{meta.title}</h3>
           <p className="text-xs text-slate-400 truncate">{meta.description}</p>
           <div className="flex items-center gap-3 mt-1.5">
-            <span className="text-[10px] font-medium px-1.5 py-0.5 rounded uppercase text-slate-600 dark:text-slate-300 bg-slate-200/80 dark:bg-slate-700/50">
-              {meta.level}
-            </span>
             <span className={`text-[10px] font-medium px-1.5 py-0.5 rounded ${categoryColor}`}>
               {meta.category}
             </span>

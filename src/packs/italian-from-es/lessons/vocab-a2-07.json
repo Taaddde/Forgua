@@ -1,0 +1,107 @@
+{
+  "id": "vocab-a2-07",
+  "title": "Lo sport",
+  "description": "El deporte es una pasión italiana, especialmente el calcio. Aprende a hablar de deportes, competiciones y actividad física.",
+  "level": "a2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "il calcio",
+      "back": "el fútbol",
+      "reading": "",
+      "explanation": "OJO: 'calcio' en italiano = fútbol (porque se da una patada al balón). 'Football' en inglés. 'Giocare a calcio' = jugar al fútbol."
+    },
+    {
+      "front": "il nuoto",
+      "back": "la natación",
+      "reading": "",
+      "explanation": "Del verbo 'nuotare' = nadar. 'Vado in piscina a nuotare' = Voy a la piscina a nadar. 'Il/la nuotatore/nuotatrice' = el/la nadador/a."
+    },
+    {
+      "front": "la palestra",
+      "back": "el gimnasio",
+      "reading": "",
+      "explanation": "'Andare in palestra' = ir al gimnasio. 'Mi sono iscritto in palestra' = Me apunté al gimnasio. 'Fare palestra' = hacer ejercicio en el gimnasio."
+    },
+    {
+      "front": "correre / la corsa",
+      "back": "correr / la carrera",
+      "reading": "",
+      "explanation": "'Corro ogni mattina nel parco.' = Corro cada mañana en el parque. 'Fare jogging' también se usa. 'La maratona' = la maratón."
+    },
+    {
+      "front": "la squadra",
+      "back": "el equipo",
+      "reading": "",
+      "explanation": "'La squadra nazionale' = la selección nacional. 'Fare il tifo per una squadra' = ser hincha de un equipo. 'La Juventus è la mia squadra del cuore'."
+    },
+    {
+      "front": "la partita",
+      "back": "el partido / el encuentro",
+      "reading": "",
+      "explanation": "'Guardare una partita' = ver un partido. 'Giocare una partita' = jugar un partido. 'La partita di calcio' = el partido de fútbol."
+    },
+    {
+      "front": "vincere / perdere",
+      "back": "ganar / perder",
+      "reading": "",
+      "explanation": "'Abbiamo vinto!' = ¡Ganamos! 'Abbiamo perso.' = Perdimos. Participios irregolari: vinto, perso. Usano AVERE nel passato prossimo."
+    },
+    {
+      "front": "il campionato / il torneo",
+      "back": "el campeonato / el torneo",
+      "reading": "",
+      "explanation": "Cognados. 'Il Campionato di Serie A' = La Liga italiana de fútbol. 'Il torneo di tennis' = el torneo de tenis."
+    },
+    {
+      "front": "allenarsi",
+      "back": "entrenarse",
+      "reading": "",
+      "explanation": "Verbo reflexivo. 'Mi alleno tre volte a settimana.' = Me entreno tres veces a la semana. 'L'allenamento' = el entrenamiento."
+    },
+    {
+      "front": "fare sport",
+      "back": "hacer deporte",
+      "reading": "",
+      "explanation": "Expresión general. 'Fai sport?' = ¿Haces deporte? 'Fare sport fa bene alla salute.' = Hacer deporte es bueno para la salud."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Deportes principales",
+      "instruction": "Los deportes más populares en Italia. OJO: il calcio = el fútbol, no 'el calcio'.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Competiciones y resultados",
+      "instruction": "Vocabulario para hablar de partidos, equipos y resultados.",
+      "itemIndices": [4, 5, 6, 7]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice en italiano?",
+      "instruction": "Traduce el vocabulario deportivo.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "introduce",
+      "title": "El entrenamiento",
+      "instruction": "Vocabulario para hablar de entrenar y hacer actividad física.",
+      "itemIndices": [8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "Vocabulario deportivo completo",
+      "instruction": "Practica todo el vocabulario deportivo.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "Lo sport — consolidado",
+      "instruction": "Recuerda: 'vincere' y 'perdere' tienen participi irregolari (vinto, perso) y usan AVERE. 'Allenarsi' es reflexivo, usa ESSERE nel passato prossimo.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

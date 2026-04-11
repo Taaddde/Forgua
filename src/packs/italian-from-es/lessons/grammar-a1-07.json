@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a1-07",
+  "title": "Accordo degli aggettivi",
+  "description": "Los adjetivos en italiano concuerdan en género y número con el sustantivo. El patrón es similar al español pero con algunas diferencias.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Adjetivos en -O/-A/-I/-E (4 formas)",
+      "back": "bello/bella/belli/belle",
+      "reading": "",
+      "explanation": "La mayoría de adjetivos tienen 4 formas: -O (m.s.), -A (f.s.), -I (m.pl.), -E (f.pl.). Ejemplos: rosso/rossa/rossi/rosse, nuovo/nuova/nuovi/nuove, piccolo/piccola/piccoli/piccole."
+    },
+    {
+      "front": "Adjetivos en -E (2 formas: sg. y pl.)",
+      "back": "grande/grandi / felice/felici / interessante/interessanti",
+      "reading": "",
+      "explanation": "Adjetivos en -E son iguales en m. y f. Solo cambian en plural (-I): grande/grandi, felice/felici, interessante/interessanti, triste/tristi. ¡Solo 2 formas, no 4!"
+    },
+    {
+      "front": "un ragazzo alto / una ragazza alta",
+      "back": "un chico alto / una chica alta",
+      "reading": "",
+      "explanation": "Concordancia básica: adjetivo concuerda en género con el sustantivo. 'Alto' (m.) → 'alta' (f.). 'I ragazzi alti' / 'le ragazze alte' — también en número."
+    },
+    {
+      "front": "Posición: después del sustantivo (general)",
+      "back": "una macchina rossa / un vino buono",
+      "reading": "",
+      "explanation": "En italiano la posición más natural del adjetivo es DESPUÉS del sustantivo: una macchina rossa, un libro interessante. Diferente al español donde ambas posiciones son comunes."
+    },
+    {
+      "front": "Adjetivos que van ANTES (cualidad subjetiva)",
+      "back": "un bel ragazzo / una bella ragazza",
+      "reading": "",
+      "explanation": "Algunos adjetivos van ANTES del sustantivo por convención: bello/bel, buono/buon, grande/gran, piccolo, brutto, vecchio, nuovo, giovane, lungo. Antes del sust. pueden apocoparse."
+    },
+    {
+      "front": "bel/bell'/bello/bella/bei/begli/belle",
+      "back": "lindo/bella/bello (formas de bello antes del sustantivo)",
+      "reading": "",
+      "explanation": "'Bello' antes del sustantivo sigue el patrón del artículo determinado: bel libro (=il), bell'uomo (=l'), bello zaino (=lo), bella casa (=la), bei libri (=i), begli zaini (=gli), belle case (=le)."
+    },
+    {
+      "front": "Due adjetivi: El mio libro vecchio e interessante",
+      "back": "Mi libro viejo e interesante (con 'e' entre adjetivos)",
+      "reading": "",
+      "explanation": "Con dos adjetivos se usa 'e' (y) entre ellos o se ponen antes y después: 'un libro vecchio e interessante' o 'un interessante libro vecchio'. Ambos deben concordar."
+    },
+    {
+      "front": "Adjetivos invariables: blu, rosa, viola, arancione...",
+      "back": "Un cielo blu / Una macchina blu / Occhi viola",
+      "reading": "",
+      "explanation": "Algunos adjetivos de color son invariables: blu, rosa, viola. No cambian nunca. 'Una borsa blu' (no 'blua'). 'Gli occhi viola' (no 'violi'). Arancione cambia solo en plural: arancioni."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Concordancia de adjetivos",
+      "instruction": "Los adjetivos concuerdan en género Y número con el sustantivo. El patrón es igual que en español. La diferencia: en italiano los adjetivos suelen ir DESPUÉS del sustantivo.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Posición y formas especiales",
+      "instruction": "Algunos adjetivos van antes y tienen formas especiales. 'Bello' cambia como el artículo determinado.",
+      "itemIndices": [4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Concuerda correctamente?",
+      "instruction": "Elegí la forma del adjetivo que concuerda con el sustantivo dado.",
+      "itemIndices": [0, 1, 2, 3, 5]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Concordá el adjetivo",
+      "instruction": "Completá con la forma correcta: 'La casa è ___' (grande/grandi/grande). 'I libri sono ___' (interessante/interessanti). 'Un bel ___' (libro/zaino/uomo).",
+      "itemIndices": [1, 1, 5]
+    },
+    {
+      "type": "error-correction",
+      "title": "Errores de concordancia",
+      "instruction": "Corregí: 'una borsa rosso' → rossa | 'i libri grande' → grandi | 'una macchina blu' → ¡correcto! (invariable)",
+      "itemIndices": [0, 1, 7]
+    },
+    {
+      "type": "summary",
+      "title": "¡Accordo degli aggettivi!",
+      "instruction": "4 formas (-o/-a/-i/-e): rosso/rossa/rossi/rosse. 2 formas (-e/-i): grande/grandi. Posición: DESPUÉS del sustantivo (general), ANTES para bello/buono/grande/piccolo. Bello sigue el patrón del artículo. Invariables: blu, rosa, viola.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

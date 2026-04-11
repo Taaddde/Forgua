@@ -1,0 +1,83 @@
+{
+  "id": "conv-b1-03",
+  "title": "Conversazione: Fare un reclamo",
+  "description": "Cómo hacer un reclamo formal en italiano: en una tienda, restaurante, hotel u oficina de servicios. Fórmulas para expresar insatisfacción con cortesía pero firmeza.",
+  "level": "b1",
+  "category": "conversation",
+  "items": [
+    {
+      "front": "Vorrei fare un reclamo riguardo a...",
+      "back": "Quisiera hacer un reclamo/queja sobre...",
+      "reading": "",
+      "explanation": "'Vorrei fare un reclamo' = quisiera hacer un reclamo (condizionale di cortesia). 'Riguardo a' = respecto a, sobre. En italiano, la palabra 'reclamo' es la más formal y apropiada. Alternativas: 'Vorrei fare un rilievo' (más formal), 'Ho un problema con...' (más directo). 'Presentare un reclamo scritto' = presentar un reclamo escrito. En Italia, los reclami scritti son muy comunes y tienen valor legal."
+    },
+    {
+      "front": "Il prodotto non funziona / è difettoso / è rotto.",
+      "back": "El producto no funciona / es defectuoso / está roto.",
+      "reading": "",
+      "explanation": "Vocabulario para describir el problema: 'non funziona' (no funciona), 'è difettoso' (es defectuoso), 'è rotto' (está roto). También: 'non corrisponde a quello che ho ordinato' (no corresponde a lo que pedí), 'è in cattive condizioni' (está en malas condiciones), 'manca di...' (le falta...). Para servicios: 'il servizio è stato pessimo' (el servicio fue pésimo)."
+    },
+    {
+      "front": "Desidero parlare con il responsabile / il direttore.",
+      "back": "Deseo hablar con el responsable / el director.",
+      "reading": "",
+      "explanation": "'Desidero' = deseo (presente di 'desiderare' — más formal que 'voglio'). 'Il responsabile' = el responsable (di 'responsabile' = adj. → il responsabile = el encargado). 'Il direttore' = el director. Esta frase es útil cuando el empleado no puede solucionar el problema. Más directo: 'C'è un responsabile?' (¿Hay un responsable?). En Italia, pedir hablar con 'il responsabile' suele acelerar la resolución del problema."
+    },
+    {
+      "front": "Mi aspetto un rimborso / una sostituzione / delle scuse.",
+      "back": "Espero un reembolso / un reemplazo / una disculpa.",
+      "reading": "",
+      "explanation": "'Mi aspetto' = espero, me espero (aspettarsi = esperar algo, anticipar). 'Un rimborso' = un reembolso. 'Una sostituzione' = un reemplazo. 'Delle scuse' = unas disculpas (scusa = disculpa, perdón). La expresión 'mi aspetto' implica que es lo mínimo razonable. Más directo: 'Voglio un rimborso'. Más formal/educado: 'Gradirei un rimborso' (agradecería un reembolso)."
+    },
+    {
+      "front": "Sono molto deluso/a dal vostro servizio.",
+      "back": "Estoy muy decepcionado/a por su servicio.",
+      "reading": "",
+      "explanation": "'Sono deluso/a' = estoy decepcionado/a (di 'deludere'). 'Molto deluso/a' = muy decepcionado/a. Concordanza: deluso (m.), delusa (f.). 'Dal vostro servizio' = por vuestro/su servicio (vostro para referirse a la empresa). Otras formas de expresar insatisfacción: 'Sono insoddisfatto/a' (estoy insatisfecho/a), 'Non sono soddisfatto/a' (no estoy satisfecho/a), 'La situazione è inaccettabile' (la situación es inaceptable)."
+    },
+    {
+      "front": "Ho acquistato questo articolo il [data] e ho lo scontrino.",
+      "back": "Compré este artículo el [fecha] y tengo el recibo.",
+      "reading": "",
+      "explanation": "'Ho acquistato' = compré, adquirí (passato prossimo di 'acquistare' — más formal que 'comprare'). 'Lo scontrino' = el ticket/recibo de caja. 'Ho lo scontrino' = tengo el recibo. En Italia, conservar el recibo es esencial para cualquier reclamo. También: 'ho la ricevuta' (tengo el recibo), 'ho la fattura' (tengo la factura — para compras empresariales), 'ho ancora l'imballaggio originale' (tengo el embalaje original)."
+    },
+    {
+      "front": "Vi chiedo di risolvere questo problema al più presto.",
+      "back": "Les pido que resuelvan este problema lo antes posible.",
+      "reading": "",
+      "explanation": "'Vi chiedo di + infinitivo' = les pido que hagan algo (chiedo a voi di). 'Risolvere il problema' = resolver el problema. 'Al più presto' = lo antes posible (frase fija). Más formal: 'La preghiamo di voler provvedere al più presto' (les rogamos que tengan a bien resolver cuanto antes). En cartas de reclamo: 'In attesa di un riscontro, porgo distinti saluti' (a la espera de su respuesta...)."
+    },
+    {
+      "front": "Se non verrà risolto, sarò costretto/a a rivolgermi a...",
+      "back": "Si no se resuelve, me veré obligado/a a dirigirme a...",
+      "reading": "",
+      "explanation": "PERIODO IPOTETICO TIPO 1 con tono de ultimátum: 'Se non verrà risolto' (se + futuro pasivo = si no se resuelve). 'Sarò costretto/a a' = me veré obligado/a a. 'Rivolgersi a' = dirigirse a, acudir a. Los destinos posibles: 'l'associazione dei consumatori' (la asociación de consumidores), 'le autorità competenti' (las autoridades competentes), 'un avvocato' (un abogado). Esta frase escalada el reclamo sin perder la formalidad."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Cómo iniciar un reclamo en italiano",
+      "instruction": "En Italia, un reclamo efectivo tiene una estructura: 1) Presentación formal ('Vorrei fare un reclamo'), 2) Descripción del problema, 3) Expectativa de solución, 4) Si es necesario, escalada. Aprende estas cuatro fases.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Expresar insatisfacción con cortesía",
+      "instruction": "El registro del reclamo italiano es FORMAL pero FIRME: usa condizionale (vorrei, gradirei), desiderare en vez de volere, mi aspetto para indicar expectativas. Evita el tono agresivo: resulta contraproducente en contextos institucionales.",
+      "itemIndices": [3, 4, 5]
+    },
+    {
+      "type": "conversation-script",
+      "title": "Diálogo: reclamo en una tienda",
+      "instruction": "Practica este diálogo: compraste un electrodoméstico defectuoso hace tres días y querés un reembolso. Tenés el recibo. El empleado se muestra reticente. Escalás al responsable.",
+      "itemIndices": [0, 2, 3, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "Fare un reclamo — consolidado",
+      "instruction": "INICIO: 'Vorrei fare un reclamo riguardo a...'. PROBLEMA: 'Non funziona / è difettoso / è rotto'. ESCALADA: 'Desidero parlare con il responsabile'. EXPECTATIVA: 'Mi aspetto un rimborso/sostituzione'. EMOZIONE: 'Sono molto deluso/a'. DOCUMENTO: 'Ho lo scontrino'. ULTIMÁTUM FORMAL: 'Se non verrà risolto, sarò costretto a...'",
+      "itemIndices": [0, 2, 3, 4, 7]
+    }
+  ]
+}

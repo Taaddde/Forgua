@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a2-08",
+  "title": "Pronomi diretti — lo, la, li, le",
+  "description": "Los pronombres de objeto directo reemplazan al objeto directo. Son similares al español (lo, la, los, las) pero hay diferencias importantes, especialmente con el passato prossimo.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "lo (masc. sing.) → Lo vedo.",
+      "back": "lo → Lo veo.",
+      "reading": "",
+      "explanation": "LO reemplaza a un sustantivo masculino singular. 'Vedi Marco? — Sì, lo vedo.' = ¿Ves a Marco? — Sí, lo veo. También: 'Questo libro? Lo leggo domani.' = ¿Este libro? Lo leo mañana."
+    },
+    {
+      "front": "la (fem. sing.) → La chiamo.",
+      "back": "la → La llamo.",
+      "reading": "",
+      "explanation": "LA reemplaza a un sustantivo femenino singular. 'Hai la chiave? — Sì, ce l'ho.' = ¿Tienes la llave? — Sí, la tengo. La → l' ante vocale: 'L'aspetto.' = La espero."
+    },
+    {
+      "front": "li (masc. plur.) → Li ho incontrati.",
+      "back": "los → Los encontré.",
+      "reading": "",
+      "explanation": "LI reemplaza a un sustantivo masculino plural. 'I tuoi amici? Non li conosco.' = ¿Tus amigos? No los conozco. Con essere (participio concuerda): 'li ho incontrati' (concuerda -i)."
+    },
+    {
+      "front": "le (fem. plur.) → Le ho chiamate.",
+      "back": "las → Las llamé.",
+      "reading": "",
+      "explanation": "LE reemplaza a un sustantivo femenino plural. 'Le tue sorelle? Le ho chiamate ieri.' = ¿Tus hermanas? Las llamé ayer. Con avere + le/li: el participio CONCUERDA."
+    },
+    {
+      "front": "mi / ti / ci / vi",
+      "back": "me / te / nos / os",
+      "reading": "",
+      "explanation": "Pronombres de primera y segunda persona. 'Mi chiami stasera?' = ¿Me llamas esta noche? 'Ti vedo domani.' = Te veo mañana. 'Ci invita alla festa?' = ¿Nos invita a la fiesta?"
+    },
+    {
+      "front": "L'ho comprata / Le ho comprate",
+      "back": "La compré / Las compré",
+      "reading": "",
+      "explanation": "REGLA CRUCIAL: Con avere + pronombres diretti LO/LA/LI/LE, el participio passato CONCUERDA con el pronombre. 'Ho comprato la torta.' → 'L'ho comprata.' (torta = fem. → -a)"
+    },
+    {
+      "front": "Voglio vederlo. / Lo voglio vedere.",
+      "back": "Quiero verlo.",
+      "reading": "",
+      "explanation": "Con il verbo modale + infinitivo: el pronombre puede ir ANTES del modal O DESPUÉS e incorporado al infinitivo. Ambas son correctas. En italiano formal, la forma enclítica (vederlo) es más elegante."
+    },
+    {
+      "front": "La (maiuscola) = lei formale",
+      "back": "La (mayúscula) = usted (forma de cortesía)",
+      "reading": "",
+      "explanation": "En el italiano formal, 'La' (mayúscula) = usted como objeto directo. 'La ringrazio, signora.' = Le agradezco, señora. 'La chiamo domani.' = La llamo mañana (usted)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Los cuatro pronombres directi",
+      "instruction": "LO (él/lo), LA (ella/la), LI (ellos/los), LE (ellas/las). Posición: ANTES del verbo conjugado.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "recall",
+      "title": "¿Qué pronombre usar?",
+      "instruction": "Según el género y número del sustantivo, elige el pronombre correcto.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "Concordanza nel passato prossimo",
+      "instruction": "REGLA IMPORTANTE: Con avere + lo/la/li/le, el participio passato concuerda en género y número con el pronombre.",
+      "itemIndices": [5]
+    },
+    {
+      "type": "introduce",
+      "title": "Pronombres con modali e infinito",
+      "instruction": "Con los verbos modales el pronombre puede ir antes o enclítico. Ambas formas son correctas.",
+      "itemIndices": [6, 7]
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Concordanza correcta?",
+      "instruction": "Identifica si el participio concuerda correctamente con el pronombre directo.",
+      "itemIndices": [3, 5, 6]
+    },
+    {
+      "type": "summary",
+      "title": "Pronomi diretti — dominados",
+      "instruction": "LO/LA/LI/LE van antes del verbo. Con avere nel passato, el participio concuerda: L'ho vista (fem.), Li ho visti (masc. pl.), Le ho viste (fem. pl.). Mi/ti/ci/vi no causan concordancia. En español el participio no concuerda — este es el punto más difícil para hispanohablantes.",
+      "itemIndices": [0, 1, 2, 3, 5, 6]
+    }
+  ]
+}

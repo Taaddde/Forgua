@@ -1,0 +1,83 @@
+{
+  "id": "grammar-b1-04",
+  "title": "Passivo con essere",
+  "description": "La voz pasiva con essere en italiano: equivalente a la pasiva con 'ser' en español. Más regular de lo que parece.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Il libro è scritto da uno scrittore famoso.",
+      "back": "El libro es escrito por un escritor famoso.",
+      "reading": "",
+      "explanation": "Passivo al presente: essere (presente) + participio passato. El participio concuerda con el sujeto: 'Il libro' (masc. sing.) → 'scritto'. El agente se introduce con 'da' (por)."
+    },
+    {
+      "front": "La legge è stata approvata dal parlamento.",
+      "back": "La ley fue aprobada por el parlamento.",
+      "reading": "",
+      "explanation": "Passivo al passato prossimo: essere (passato prossimo) + participio passato. Doble participio: 'è stata' (essere in passato prossimo) + 'approvata'. 'La legge' (fem.) → approvata."
+    },
+    {
+      "front": "Le case saranno costruite l'anno prossimo.",
+      "back": "Las casas serán construidas el año próximo.",
+      "reading": "",
+      "explanation": "Passivo al futuro: essere (futuro) + participio passato. 'Le case' (fem. pl.) → 'saranno costruite'. La concordancia del participio sigue el género y número del sujeto."
+    },
+    {
+      "front": "Il premio viene assegnato ogni anno.",
+      "back": "El premio es asignado cada año.",
+      "reading": "",
+      "explanation": "¡Aquí el hablante elige VENIRE en lugar de ESSERE para expresar el proceso habitual! Con essere: 'è assegnato' (puede parecer resultado/estado). Con venire: énfasis en el proceso. Ambos son correctos."
+    },
+    {
+      "front": "I documenti sono stati firmati ieri.",
+      "back": "Los documentos fueron firmados ayer.",
+      "reading": "",
+      "explanation": "Passivo al passato prossimo, plural: 'sono stati firmati'. Sujeto plural masculino → participio 'stati' (essere) + 'firmati' (verbo principal). Concordancia en ambos participios."
+    },
+    {
+      "front": "La città era stata fondata dai romani.",
+      "back": "La ciudad había sido fundada por los romanos.",
+      "reading": "",
+      "explanation": "Passivo al trapassato prossimo: erano/era stati/stata + participio. Para acciones pasivas que ocurrieron antes de otro evento pasado. Doble participio con essere."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Estructura de la voz pasiva con essere",
+      "instruction": "Formula: ESSERE (tiempo conjugado) + participio passato (concordado con el sujeto). El agente va precedido de 'DA'. La concordancia del participio es OBLIGATORIA.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Pasiva en diferentes tiempos",
+      "instruction": "La pasiva se puede usar en TODOS los tiempos. Futuro: 'sarà costruito'. Trapassato: 'era stato costruito'. El participio SIEMPRE concuerda con el sujeto.",
+      "itemIndices": [2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Concordanza obligatoria",
+      "instruction": "¡Error frecuente! El participio debe concordar: 'i documenti sono stati firmati' (masc. pl.), 'la lettera è stata scritta' (fem. sing.). Con essere EN LA PASIVA la concordanza es siempre necesaria.",
+      "itemIndices": [4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cuál es el agente?",
+      "instruction": "¿Cómo se introduce el agente (quien hace la acción) en la pasiva italiana?",
+      "itemIndices": [0, 1, 5]
+    },
+    {
+      "type": "recall",
+      "title": "Concordancia del participio",
+      "instruction": "¿Cómo concuerda el participio con el sujeto en la pasiva?",
+      "itemIndices": [2, 3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "Resumen: Passivo con essere",
+      "instruction": "Reglas: 1) ESSERE + participio + concordanza. 2) Agente: DA (non 'di'). 3) Se puede usar en TODOS los tiempos. 4) Participio concuerda con el SUJETO en género y número. Próxima lección: passivo con VENIRE (matiz de proceso).",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

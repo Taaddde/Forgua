@@ -1,0 +1,89 @@
+{
+  "id": "conv-a1-01",
+  "title": "Conversazione: Presentarsi",
+  "description": "Tu primera conversación real en italiano. Cómo presentarse, preguntar nombres, origen y profesión. Las frases más importantes para el primer contacto en italiano.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Come ti chiami? / Come si chiama?",
+      "back": "¿Cómo te llamás? / ¿Cómo se llama usted?",
+      "reading": "",
+      "explanation": "'Come ti chiami?' = informal (tu). 'Come si chiama?' = formal (Lei). En italiano el formal usa la 3ª persona singular del verbo — igual que 'usted' en español. El verbo reflexivo 'chiamarsi' funciona igual que 'llamarse': ti chiami (tú), si chiama (él/ella/usted)."
+    },
+    {
+      "front": "Mi chiamo [nome]. Piacere!",
+      "back": "Me llamo [nombre]. ¡Mucho gusto!",
+      "reading": "",
+      "explanation": "'Piacere!' es la forma más común para decir 'mucho gusto' al presentarse. También: 'Molto piacere!', 'Piacere di conoscerti!' (informal), 'Piacere di conoscerla!' (formal). En respuesta se puede decir 'Piacere!' o 'Il piacere è mio!' (El placer es mío)."
+    },
+    {
+      "front": "Di dove sei? / Di dov'è?",
+      "back": "¿De dónde sos/eres? / ¿De dónde es usted?",
+      "reading": "",
+      "explanation": "'Di dove sei?' = informal. 'Di dov'è?' = formal (dov' = dove ante è). 'Vengo da...' (vengo de) o 'Sono di...' (soy de) son las respuestas más comunes. Para origen: 'Sono di Buenos Aires', 'Vengo dall'Argentina'. Para ciudades: 'di', para países: 'dall'/dal/dalla'."
+    },
+    {
+      "front": "Sono di [città] / Vengo da [città/paese]",
+      "back": "Soy de [ciudad] / Vengo de [ciudad/país]",
+      "reading": "",
+      "explanation": "Dos formas de decir el origen. 'Sono di Roma' (de ciudad). 'Sono italiano/a' (nacionalidad). 'Vengo dalla Spagna / dall'Argentina / dal Brasile / dal Messico' (de país). 'Vengo da Barcellona' (de ciudad). Ambas formas se usan y son correctas."
+    },
+    {
+      "front": "Che lavoro fai? / Qual è la sua professione?",
+      "back": "¿Qué hacés/trabajás? / ¿Cuál es su profesión?",
+      "reading": "",
+      "explanation": "'Che lavoro fai?' = informal y muy natural. 'Qual è la tua/sua professione?' = más formal. Para responder: 'Sono + professione' (sin artículo). 'Sono medico/a', 'sono ingegnere', 'sono studente/ssa', 'sono insegnante'. O: 'Faccio il/la + professione': 'Faccio l'avvocato'."
+    },
+    {
+      "front": "— Ciao! Come ti chiami?\n— Mi chiamo Marco. E tu?\n— Io sono Sara. Piacere!\n— Piacere! Di dove sei?\n— Sono di Milano. E tu?\n— Vengo dall'Argentina. Che lavoro fai?\n— Sono studente. E tu?\n— Faccio la grafica.",
+      "back": "— ¡Hola! ¿Cómo te llamás?\n— Me llamo Marco. ¿Y vos?\n— Yo soy Sara. ¡Mucho gusto!\n— ¡Mucho gusto! ¿De dónde sos?\n— Soy de Milán. ¿Y vos?\n— Vengo de Argentina. ¿A qué te dedicás?\n— Soy estudiante. ¿Y vos?\n— Soy diseñadora gráfica.",
+      "reading": "",
+      "explanation": "Diálogo completo de presentación informal. Notá: 'E tu?' = ¿Y vos? (informal). 'E lei?' = ¿Y usted? (formal). La pregunta 'E tu?' devuelve la pregunta de forma muy natural. 'Faccio la grafica' = soy diseñadora gráfica (fare + la + professione es otra opción)."
+    },
+    {
+      "front": "Quanti anni hai? / Ho [numero] anni.",
+      "back": "¿Cuántos años tenés? / Tengo [número] años.",
+      "reading": "",
+      "explanation": "'Quanti anni hai?' = ¿Cuántos años tenés? (informal). 'Quanti anni ha?' = ¿Cuántos años tiene usted? (formal). 'Ho venticinque anni' = Tengo 25 años. Recordá: en italiano se usa AVERE (tener) para la edad, como en español."
+    },
+    {
+      "front": "Parli italiano? / Quante lingue parli?",
+      "back": "¿Hablás italiano? / ¿Cuántos idiomas hablás?",
+      "reading": "",
+      "explanation": "'Parli italiano?' = ¿Hablás italiano? 'Sì, un po'' = Sí, un poco. 'Non molto bene, sto imparando' = No muy bien, estoy aprendiendo. 'Parlo spagnolo e sto imparando l'italiano' = Hablo español y estoy aprendiendo italiano. ¡Muy útil para explicar tu situación!"
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Las frases clave para presentarse",
+      "instruction": "Cinco preguntas/respuestas fundamentales para el primer contacto: nombre, origen, profesión, edad, idiomas. Recordá la distinción informal (tu) vs formal (Lei).",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "conversation-script",
+      "title": "Un diálogo real de presentación",
+      "instruction": "Practicá este diálogo completo. Primero leé el rol de Marco, luego el de Sara. ¿Podés hacerlo de memoria?",
+      "itemIndices": [5]
+    },
+    {
+      "type": "recall",
+      "title": "Respondé las preguntas en italiano",
+      "instruction": "Respondé estas preguntas sobre vos mismo en italiano usando las estructuras aprendidas.",
+      "itemIndices": [0, 2, 4, 6, 7]
+    },
+    {
+      "type": "speak",
+      "title": "Presentate en italiano",
+      "instruction": "Presentate en italiano: decí tu nombre, de dónde sos, qué hacés y cuántos años tenés. Intentá hablar durante al menos 30 segundos.",
+      "itemIndices": [1, 3, 4, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "¡Ya podés presentarte en italiano!",
+      "instruction": "Fórmulas aprendidas: Come ti chiami? / Mi chiamo... / Di dove sei? / Sono di... / Vengo da... / Che lavoro fai? / Sono [professione] / Quanti anni hai? / Ho X anni / Piacere! Informal: tu + forme verbali 2ª sing. Formal: Lei + forme verbali 3ª sing.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

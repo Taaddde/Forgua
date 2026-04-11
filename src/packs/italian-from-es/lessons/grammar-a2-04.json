@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a2-04",
+  "title": "L'imperfetto — ero, avevo, facevo...",
+  "description": "El imperfetto italiano es el equivalente del pretérito imperfecto español (-aba, -ía). Se usa para hábitos pasados, descripciones y acciones en curso. ¡Muy buenas noticias: funciona casi igual que en español!",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "parlavo / parlavi / parlava",
+      "back": "hablaba / hablabas / hablaba",
+      "reading": "",
+      "explanation": "Verbos -ARE: raíz + -avo, -avi, -ava, -avamo, -avate, -avano. Muy similar al español -aba. 'Da piccolo parlavo sempre.' = De pequeño hablaba siempre."
+    },
+    {
+      "front": "parlavamo / parlavate / parlavano",
+      "back": "hablábamos / hablabais / hablaban",
+      "reading": "",
+      "explanation": "Plural del imperfetto -ARE. Las terminaciones son MUY regulares y fáciles de aprender."
+    },
+    {
+      "front": "leggevo / leggevi / leggeva",
+      "back": "leía / leías / leía",
+      "reading": "",
+      "explanation": "Verbos -ERE: raíz + -evo, -evi, -eva, -evamo, -evate, -evano. 'Ogni sera leggevo un libro.' = Cada noche leía un libro."
+    },
+    {
+      "front": "dormivo / dormivi / dormiva",
+      "back": "dormía / dormías / dormía",
+      "reading": "",
+      "explanation": "Verbos -IRE: raíz + -ivo, -ivi, -iva, -ivamo, -ivate, -ivano. 'Da bambino dormivo molto.' = De niño dormía mucho."
+    },
+    {
+      "front": "ero / eri / era / eravamo / eravate / erano",
+      "back": "era / eras / era / éramos / erais / eran",
+      "reading": "",
+      "explanation": "ESSERE es irregular en imperfetto — ¡hay que memorizarlo! 'Ero stanco.' = Estaba cansado. 'Era una bella giornata.' = Era un día bonito."
+    },
+    {
+      "front": "avevo / avevi / aveva / avevamo / avevate / avevano",
+      "back": "tenía / tenías / tenía / teníamos / teníais / tenían",
+      "reading": "",
+      "explanation": "AVERE en imperfetto — regular. 'Avevo fame.' = Tenía hambre. 'Non avevamo tempo.' = No teníamos tiempo."
+    },
+    {
+      "front": "facevo / facevi / faceva...",
+      "back": "hacía / hacías / hacía...",
+      "reading": "",
+      "explanation": "FARE en imperfetto — irregular pero fácil. 'Cosa facevi di bello?' = ¿Qué hacías de bueno? 'Faceva molto freddo.' = Hacía mucho frío."
+    },
+    {
+      "front": "dicevo / dicevi / diceva...",
+      "back": "decía / decías / decía...",
+      "reading": "",
+      "explanation": "DIRE en imperfetto. 'Cosa dicevi?' = ¿Qué decías? Otros con raíz especial: 'bevevo' (bere), 'stavo' (stare), 'venivo' (venire — regular)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El imperfetto regular",
+      "instruction": "-ARE → -avo/-avi/-ava/-avamo/-avate/-avano. -ERE → -evo. -IRE → -ivo. ¡Muy parecido al español -aba/-ía!",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "recall",
+      "title": "Conjuga en imperfetto",
+      "instruction": "Practica las formas regulares del imperfetto.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Irregolari clave: essere, avere, fare",
+      "instruction": "Estos tres irregolari son los más importantes y más usados del imperfetto.",
+      "itemIndices": [4, 5, 6, 7]
+    },
+    {
+      "type": "recall",
+      "title": "¿Regular o irregular?",
+      "instruction": "Ves el verbo y la persona. Da la forma correcta del imperfetto.",
+      "itemIndices": [4, 5, 6, 7, 0, 2, 3]
+    },
+    {
+      "type": "recall",
+      "title": "Imperfetto — práctica completa",
+      "instruction": "Traduce al italiano usando el imperfetto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "L'imperfetto — dominado",
+      "instruction": "El imperfetto funciona casi igual que el pretérito imperfecto español. Irregolari principales: essere (ero), avere (avevo), fare (facevo), dire (dicevo), bere (bevevo), stare (stavo). Los usos son prácticamente idénticos al español.",
+      "itemIndices": [0, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

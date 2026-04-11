@@ -1,0 +1,113 @@
+{
+  "id": "vocab-a1-08",
+  "title": "La città e i luoghi",
+  "description": "La ciudad y los lugares más importantes. Vocabulario esencial para moverse por ciudades italianas y pedir indicaciones.",
+  "level": "a1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "la città",
+      "back": "la ciudad",
+      "reading": "/la tʃitˈta/",
+      "explanation": "Città. Acento en la última sílaba (es invariable: la città / le città). La 'ci' suena /tʃ/ = ch. 'Centro città' = centro de la ciudad. 'In città' = en la ciudad."
+    },
+    {
+      "front": "la via / il corso",
+      "back": "la calle / la avenida",
+      "reading": "/la ˈviːa/ /il ˈkorso/",
+      "explanation": "'Via' = calle (en direcciones: Via Roma, Via Garibaldi). 'Corso' = avenida principal/bulevar. En las direcciones italianas se dice 'Abito in via Manzoni, numero 5'."
+    },
+    {
+      "front": "la piazza",
+      "back": "la plaza",
+      "reading": "/la ˈpjattsa/",
+      "explanation": "Piazza. Doble 'z' suena /tts/. Las piazze son el corazón de las ciudades italianas. Piazza del Duomo, Piazza Navona, Piazza San Marco. 'In piazza' = en la plaza."
+    },
+    {
+      "front": "la stazione",
+      "back": "la estación (de tren/autobús)",
+      "reading": "/la statˈtsjone/",
+      "explanation": "Stazione. La 'zione' suena /tsjone/. 'Stazione ferroviaria' = estación de trenes. 'Stazione degli autobus' = terminal de autobuses. Trenitalia es la empresa de trenes principal."
+    },
+    {
+      "front": "l'aeroporto",
+      "back": "el aeropuerto",
+      "reading": "/laeˈrɔːporto/",
+      "explanation": "Aeroporto. Muy similar al español. 'All'aeroporto' = en el aeropuerto. 'Partenze' = salidas, 'Arrivi' = llegadas. 'Imbarco' = embarque."
+    },
+    {
+      "front": "il supermercato",
+      "back": "el supermercado",
+      "reading": "/il supermərˈkaːto/",
+      "explanation": "Supermercato. Igual al español. 'Fare la spesa' = hacer las compras (en el super). 'Carrello' = carrito de compras. 'Cassa' = caja registradora."
+    },
+    {
+      "front": "il ristorante",
+      "back": "el restaurante",
+      "reading": "/il ristoˈrante/",
+      "explanation": "Ristorante. Muy similar al español. 'Tavola calda' = restaurante de comida rápida/self-service. 'Trattoria' = restaurante tradicional informal. 'Osteria' = taberna con comida."
+    },
+    {
+      "front": "il bar",
+      "back": "el bar / cafetería",
+      "reading": "/il ˈbar/",
+      "explanation": "En Italia el 'bar' NO es solo para alcohol — es la cafetería donde se toma café, se desayuna y se comen bocadillos. Es el lugar más frecuentado del día. 'Barista' = quien atiende el bar (no DJ)."
+    },
+    {
+      "front": "la scuola / l'università",
+      "back": "la escuela / la universidad",
+      "reading": "/la ˈskwɔːla/ /luniversiˈta/",
+      "explanation": "Scuola (k/w) / università (acento final, invariable). 'Andare a scuola' = ir a la escuela (sin artículo). 'Iscrizione all'università' = inscripción en la universidad."
+    },
+    {
+      "front": "l'ospedale",
+      "back": "el hospital",
+      "reading": "/lospˈdaːle/",
+      "explanation": "Ospedale. Masculino. 'Pronto soccorso' = urgencias/guardia. 'Medico di base' = médico de cabecera. 'Ambulatorio' = consultorio médico."
+    },
+    {
+      "front": "la farmacia",
+      "back": "la farmacia",
+      "reading": "/la farˈmatʃa/",
+      "explanation": "Farmacia. Muy similar al español. Se identifica con una cruz verde. 'Farmacista' = farmacéutico/a. 'In Italia, le farmacie fanno turno' = hacen guardia rotativa."
+    },
+    {
+      "front": "il museo",
+      "back": "el museo",
+      "reading": "/il muˈzɛːo/",
+      "explanation": "Museo. Idéntico al español. Italia tiene más museos por habitante que cualquier otro país. 'Biglietteria' = boletería. 'Orario di apertura' = horario de apertura."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "I luoghi della città",
+      "instruction": "Los lugares de la ciudad. La mayoría son reconocibles del español. Ojo: 'bar' en Italia es la cafetería (no una cantina de alcohol).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Adónde voy?",
+      "instruction": "Ves el lugar en italiano. Elegí la traducción correcta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+    },
+    {
+      "type": "recall",
+      "title": "Del español al italiano",
+      "instruction": "Ves el lugar en español. Escribí la palabra italiana.",
+      "itemIndices": [0, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Adónde vas?",
+      "instruction": "Completá: Vado alla ___ (farmacia) perché sono malato. Andiamo al ___ (restaurante) stasera. Prendo l'autobus in ___ (estación).",
+      "itemIndices": [10, 6, 3]
+    },
+    {
+      "type": "summary",
+      "title": "¡I luoghi!",
+      "instruction": "città, via/corso, piazza, stazione, aeroporto, supermercato, ristorante, bar(=cafetería!), scuola/università, ospedale, farmacia, museo. Recordá: el bar italiano sirve café y desayuno — ¡no es una cantina!",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+    }
+  ]
+}

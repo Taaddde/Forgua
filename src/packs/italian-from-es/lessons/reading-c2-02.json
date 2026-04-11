@@ -1,0 +1,89 @@
+{
+  "id": "reading-c2-02",
+  "title": "La crisi del merito: quando la competenza non basta più",
+  "description": "Texto de periodismo de calidad C2. Un editorial sobre la paradoja de la sociedad del conocimiento: más educados pero decisiones políticas más irracionales. Vocabulario sociológico y filosófico avanzado. Práctica de comprensión crítica y evaluación de argumentos complejos.",
+  "level": "c2",
+  "category": "reading",
+  "items": [
+    {
+      "front": "«Non siamo mai stati così istruiti, così connessi, così informati — eppure le decisioni politiche sembrano sempre più svincolate dalla competenza.»",
+      "back": "La paradoja central del texto: más conocimiento colectivo, pero decisiones políticas menos competentes.",
+      "reading": "",
+      "explanation": "La estructura de la frase (climax tripartito 'così... così... così...' + eppure adversativo + consecuencia contraintuitiva) es la captatio benevolentiae del testo. El 'eppure' es la clave: no es una transición suave sino una ruptura. El paradosso è il motore dell'argomento."
+    },
+    {
+      "front": "svincolate (dalla competenza)",
+      "back": "desvinculadas / liberadas de la restricción — decisiones políticas que ya no tienen que rendir cuentas a la competencia técnica.",
+      "reading": "/zvinˈkolate/",
+      "explanation": "De 'svincolare' = liberar de un vínculo. 'Decisioni svincolate dalla competenza' implica que la relación normal (o esperada) entre competencia técnica y decisión política se ha roto. El término es deliberadamente fuerte: 'svincolate' evoca liberación de un nodo, de una obligación."
+    },
+    {
+      "front": "«tirannia del merito» (Michael Sandel)",
+      "back": "La ilusión de que el éxito premia solo el talento — ignorando las estructuras de privilegio que determinan las oportunidades de partida.",
+      "reading": "",
+      "explanation": "Michael Sandel (The Tyranny of Merit, 2020) critica la ideología del mérito: el éxito se atribuye solo a talento y esfuerzo individuales, invisibilizando las estruture di privilegio (familia, clase social, capital culturale) que lo determinan. Implica culpabilización de los que 'fracasan' y arrogancia de los que 'triunfan'."
+    },
+    {
+      "front": "autoriproduce (la classe politica)",
+      "back": "se autorreproduce — la clase política que perpetúa a sus propios miembros, no a los más competentes.",
+      "reading": "/autoriproˈdutʃe/",
+      "explanation": "Concepto sociológico (Mosca, Pareto): la classe politica tiende a cooptare nuovi membri por criterios de lealtad interna y compatibilità ideologica, no por competenza externa. El verbo 'autoriproduce' (reflexivo) captura la naturaleza cerrada y autorreferencial del proceso."
+    },
+    {
+      "front": "schizofrenia collettiva (nel caso della pandemia)",
+      "back": "Metáfora psiquiátrica: la actitud social contradictoria de invocar la ciencia y simultáneamente desconfiar de ella.",
+      "reading": "",
+      "explanation": "El autor usa 'schizofrenia collettiva' como metáfora (no diagnóstico clínico) para describir la doble actitud social ante la pandemia: convocare la scienza con urgenza + trasformare virologi in opinionisti + valutare le loro affermazioni per gradimento popolare. Es una figura retórica potente e deliberatamente provocatoria."
+    },
+    {
+      "front": "«sfera pubblica deliberativa» (Jürgen Habermas)",
+      "back": "El espacio público donde ciudadanos debaten racionalmente los asuntos comunes — alternativa al binomio tecnocracia/populismo.",
+      "reading": "",
+      "explanation": "Habermas (Strukturwandel der Öffentlichkeit, 1962): la sfera pubblica es el espacio donde los ciudadanos debaten racionalmente (communicazione razionale) los asuntos comunes, sin que el poder o el dinero distorsionen el discurso. 'Deliberativa' = basada en el razonamiento argumentativo, no en la votación o el mercado."
+    },
+    {
+      "front": "«pendolo italiano» — oscillazione tra tecnocrazia e populismo",
+      "back": "Metáfora del péndulo político italiano: la oscilación histórica entre extremos sin un punto de equilibrio estable.",
+      "reading": "",
+      "explanation": "Imagen recurrente nel saggismo politico italiano: la storia italiana è caratterizzata da oscillazioni tra estremi (fascismo/antifascismo, stato forte/stato debole, tecnocrazia/populismo) senza trovare un equilibrio stabile. Il 'pendolo' sugiere movimiento perpetuo senza progresso."
+    },
+    {
+      "front": "Mosca / Pareto / Sandel / Habermas — quattro pensatori con quattro contributi specifici",
+      "back": "Sandel: critica del merito. Mosca: storicizzazione. Pareto: circolazione irrazionale delle élite. Habermas: via d'uscita.",
+      "reading": "",
+      "explanation": "Il testo usa quattro pensatori strategicamente: Sandel define il problema (presente). Mosca lo storicizza (l'Ottocento italiano lo prevedeva già). Pareto lo teorizza con dignità sociologica classica. Habermas offre la prospettiva di soluzione. È una struttura argomentativa sofisticata: il problema è antico e difficile, ma non irrisolvibile."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Antes de leer: la paradoja de la sociedad del conocimiento",
+      "instruction": "El texto parte de una paradoja: nunca hemos tenido más información, pero las decisiones políticas parecen cada vez menos guiadas por la competencia técnica. Es un argomento che tocca tutti i sistemi democratici contemporanei, con una especificidad italiana. Mientras lees, identifica cómo el autor construye el argumento y qué pensadores moviliza.",
+      "itemIndices": [0, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Vocabulario filosófico y sociológico",
+      "instruction": "Estos términos son del léxico de la filosofia politica e della sociologia. Algunos son italianos propios (svincolate, autoriproduce); otros son referencias a pensatori específici con una tradición de debate (Sandel, Habermas). Analiza cada término en su contexto argumental.",
+      "itemIndices": [1, 2, 3, 4]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Análisis del argumento",
+      "instruction": "Responde: (1) ¿Cuál es el paradosso della società della conoscenza? (2) ¿Qué contribución específica hace cada pensador (Sandel, Mosca, Pareto, Habermas) al argomento? (3) ¿Qué reveló la pandemia sobre la tensión ciencia-democracia? (4) ¿Cuáles son las posibles críticas a la proposta habermasiana en el contexto italiano?",
+      "itemIndices": [0, 5, 6, 7]
+    },
+    {
+      "type": "recall",
+      "title": "Evaluación crítica del argumento",
+      "instruction": "El texto propone la 'sfera pubblica deliberativa' de Habermas como solución. ¿Cuáles son sus fortalezas en el contexto italiano? ¿Cuáles son sus debilidades? Argumenta en italiano con referencia a los conceptos del texto.",
+      "itemIndices": [5, 6]
+    },
+    {
+      "type": "summary",
+      "title": "Periodismo de calidad C2 — completado",
+      "instruction": "Vocabulario clave: svincolate, tirannia del merito, schizofrenia collettiva, sfera pubblica deliberativa, pendolo italiano. Argomento centrale: la crisi della competenza non è un fallimento della democrazia ma una sua tensione strutturale che richiede una sfera pubblica più qualificata. Para profundizar: Michael Sandel, 'La tirannia del merito' (traduzione italiana Feltrinelli, 2021); Habermas, 'Storia e critica dell'opinione pubblica' (trad. it. Laterza).",
+      "itemIndices": [0, 3, 4, 5, 6, 7]
+    }
+  ]
+}

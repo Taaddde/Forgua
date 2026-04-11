@@ -1,0 +1,95 @@
+{
+  "id": "grammar-b2-08",
+  "title": "Passato remoto — forme",
+  "description": "Las formas del passato remoto: el tiempo narrativo del pasado, de la historia y la literatura italiana. Irregolari fundamentales con patrones reconocibles.",
+  "level": "b2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Dante nacque a Firenze nel 1265 e morì a Ravenna nel 1321.",
+      "back": "Dante nació en Florencia en 1265 y murió en Rávena en 1321.",
+      "reading": "",
+      "explanation": "El PASSATO REMOTO es el tiempo del pasado histórico, narrativo y literario. 'Nacque' = 3ª sg. de 'nascere' (nacer), pasato remoto irregular. 'Morì' = 3ª sg. de 'morire' (regular: -IRE → morii/morì/morì/morì). Para eventos históricos y biográficos vistos como hechos alejados del presente, el passato remoto es el tiempo estándar en Italia central y en la escritura formal."
+    },
+    {
+      "front": "Formas regulares: parlai/parlasti/parlò/parlammo/parlaste/parlarono",
+      "back": "(-ARE): hablé/hablaste/habló/hablamos/hablasteis/hablaron",
+      "reading": "",
+      "explanation": "FORMAS REGULARES de -ARE: terminaciones: -ai, -asti, -ò, -ammo, -aste, -arono. Ojo: la 3ª persona singular lleva acento: 'parlò'. Ejemplos: amare → amai, lavorare → lavorai, studiare → studiai, tornare → tornai. La 1ª y 2ª plural son iguales al imperfetto en aspecto pero con diferente terminación: parlammo/parlaste (no parlàvamo/parlàvate)."
+    },
+    {
+      "front": "Formas regulares -ERE/-IRE: credetti/credesti/credette/credemmo/credeste/credettero",
+      "back": "(-ERE): creí/creíste/creyó/creímos/creísteis/creyeron",
+      "reading": "",
+      "explanation": "FORMAS REGULARES de -ERE: terminaciones: -ei/-etti, -esti, -é/-ette, -emmo, -este, -erono/-ettero. Los verbos -ere tienen variante doble: 'credei' o 'credetti' (ambas correctas). -IRE: terminaciones -ii, -isti, -ì, -immo, -iste, -irono. Ejemplo finire: finii/finisti/finì/finimmo/finiste/finirono."
+    },
+    {
+      "front": "fui/fosti/fu/fummo/foste/furono (essere) | ebbi/avesti/ebbe/avemmo/aveste/ebbero (avere)",
+      "back": "fui/fuiste/fue/fuimos/fuisteis/fueron | hube/hubiste/hubo/hubimos/hubisteis/hubieron",
+      "reading": "",
+      "explanation": "IRREGOLARI FONDAMENTALI — essere y avere: essere es completamente irregular (fui, fosti, fu...). Avere tiene 1ª y 3ª sg. + 3ª pl. irregulares (ebbi, ebbe, ebbero), las demás regulares (avesti, avemmo, aveste). PATRÓN general de muchos irregolari: 1ª sg., 3ª sg. y 3ª pl. son 'fuertes' (irregulares); 2ª sg., 1ª pl., 2ª pl. son regulares."
+    },
+    {
+      "front": "feci/facesti/fece/facemmo/faceste/fecero (fare) | venni/venisti/venne/venimmo/veniste/vennero (venire)",
+      "back": "hice/hiciste/hizo/hicimos/hicisteis/hicieron | vine/viniste/vino/vinimos/vinisteis/vinieron",
+      "reading": "",
+      "explanation": "FARE: feci-fece-fecero (irregulares), facesti-facemmo-faceste (regulares). VENIRE: venni-venne-vennero tienen consonante doble 'nn'; las regulares: venisti-venimmo-veniste. VOLERE: volli/volesti/volle. POTERE: potei/potesti/poté. DOVERE: dovetti/dovesti/dovette. Muchos irregolari siguen el patrón de consonante doble en 1ª sg. y 3ª sg./pl."
+    },
+    {
+      "front": "dissi/dicesti/disse/dicemmo/diceste/dissero (dire) | misi/mettesti/mise/mettemmo/metteste/misero (mettere)",
+      "back": "dije/dijiste/dijo/dijimos/dijisteis/dijeron | puse/pusiste/puso/pusimos/pusisteis/pusieron",
+      "reading": "",
+      "explanation": "DIRE: dissi-disse-dissero (irregular, base 'diss-'); dicesti-dicemmo-diceste (regulares con base 'dice-'). METTERE: misi-mise-misero (irregular, base 'mis-'). SCRIVERE: scrissi-scrisse-scrissero. LEGGERE: lessi-lesse-lessero. VEDERE: vidi-vide-videro. PRENDERE: presi-prese-presero. El patrón: base strong + -i, -e, -ero para 1ª sg., 3ª sg., 3ª pl."
+    },
+    {
+      "front": "Garibaldi partì da Quarto con i Mille nel 1860.",
+      "back": "Garibaldi partió de Quarto con los Mil en 1860.",
+      "reading": "",
+      "explanation": "Eventos históricos del siglo XIX o anteriores → siempre passato remoto. 'Partì' = 3ª sg. di 'partire' (regular -IRE). Este evento (la spedizione dei Mille) es un hito del Risorgimento italiano. Usar passato prossimo aquí ('è partito') sonaría inadecuado en registro estándar para eventos tan alejados del presente."
+    },
+    {
+      "front": "Ieri Marco andò al cinema. (Sud) / Ieri Marco è andato al cinema. (Nord)",
+      "back": "Ayer Marco fue al cine. (variante regional)",
+      "reading": "",
+      "explanation": "VARIAZIONE REGIONALE: En el Sur de Italia se usa il passato remoto para eventos recientes (incluso 'ieri' = ayer). En el Norte se prefiere sempre il passato prossimo. En el centro (Roma, Toscana) hay una zona de transición. Para el learner: en la escritura usa passato remoto para eventos históricos/literarios; en la conversación, sigue la variedad de tu interlocutor."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Formas regulares del passato remoto",
+      "instruction": "Tres conjunciones regulares: -ARE (-ai/-asti/-ò/-ammo/-aste/-arono), -ERE (-ei o -etti/-esti/-é o -ette/-emmo/-este/-erono o -ettero), -IRE (-ii/-isti/-ì/-immo/-iste/-irono). El PATRÓN: 3ª sg. lleva acento (parlò, finì). Practicalos con verbos conocidos.",
+      "itemIndices": [1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "El patrón de los irregolari",
+      "instruction": "CLAVE: 1ª sg., 3ª sg. y 3ª pl. son irregulares ('strong forms'); 2ª sg., 1ª pl. y 2ª pl. son regulares. Aprende los 'strong': feci/fece/fecero, venni/venne/vennero, dissi/disse/dissero. Las demás siguen la raíz del presente.",
+      "itemIndices": [3, 4, 5]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuándo usar el passato remoto?",
+      "instruction": "Eventos históricos, biográficos o literarios vistos como alejados del presente. En la escritura formal: siempre para narrativa histórica. En el habla: depende de la región. Identificá el tiempo correcto.",
+      "itemIndices": [0, 6, 7]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Conjugá los irregolari fundamentales",
+      "instruction": "Completá con la forma correcta del passato remoto de essere, avere, fare, venire, dire.",
+      "itemIndices": [3, 4, 5, 6]
+    },
+    {
+      "type": "error-correction",
+      "title": "Errori comuni nei passato remoto",
+      "instruction": "Corregí los errores en las formas del passato remoto, especialmente los irregolari.",
+      "itemIndices": [4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "Passato remoto — consolidado",
+      "instruction": "REGULARES: -ARE: -ai/-asti/-ò/-ammo/-aste/-arono. -ERE: -etti/-esti/-ette/-emmo/-este/-ettero. -IRE: -ii/-isti/-ì. IRREGOLARI (strong 1a-3a-3pl): essere: fui/fu/furono. Avere: ebbi/ebbe/ebbero. Fare: feci/fece/fecero. Venire: venni/venne/vennero. Dire: dissi/disse/dissero. PATRÓN: 2ª sg., 1ª pl., 2ª pl. → siempre regulares.",
+      "itemIndices": [0, 3, 4, 5, 6]
+    }
+  ]
+}

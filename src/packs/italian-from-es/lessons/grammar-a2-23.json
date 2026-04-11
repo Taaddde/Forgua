@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a2-23",
+  "title": "Bello e buono — forme speciali: bel, bell', bello, bei, begli...",
+  "description": "Los adjetivos 'bello' (hermoso/bello) y 'buono' (bueno) tienen formas especiales cuando preceden al sustantivo, similares al artículo. Una de las características más típicas del italiano.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "BELLO davanti al nome — formas como l'articolo",
+      "back": "bello ante sustantivo: varía como il/lo/la/l'/i/gli/le",
+      "reading": "",
+      "explanation": "Cuando BELLO va ANTES del sustantivo, sus formas siguen el patrón del artículo definido: BEL (ante consonante: bel ragazzo), BELLO (ante z/s+cons/gn: bello zaino), BELL' (ante vocal: bell'uomo), BEI (m.pl. ante consonante: bei ragazzi), BEGLI (m.pl. ante z/s+cons/vocal: begli occhi), BELLA (f.sg.: bella ragazza), BELLE (f.pl.: belle ragazze)."
+    },
+    {
+      "front": "bel / bello / bell' — maschile singolare",
+      "back": "bello (ante consonante normal / ante z,s+cons / ante vocal)",
+      "reading": "",
+      "explanation": "M.SG.: BEL ragazzo (ante consonante), BELLO zaino / BELLO studente (ante z, s+cons, gn, ps), BELL'uomo / BELL'amico (ante vocal). 'Che bel ragazzo!' = ¡Qué chico tan guapo! 'È un bell'appartamento!' = ¡Es un bello apartamento! 'È uno bello zaino' = Es una mochila bonita."
+    },
+    {
+      "front": "bei / begli — maschile plurale",
+      "back": "bellos (ante consonante normal / ante z,s+cons,vocal)",
+      "reading": "",
+      "explanation": "M.PL.: BEI ragazzi (ante consonante normal), BEGLI zaini / BEGLI studenti / BEGLI amici (ante z, s+cons, gn, vocales). 'Che bei capelli!' = ¡Qué pelo tan bonito! (capelli = cabello, m.pl.). 'Begli occhi!' = ¡Ojos preciosos! (occhi = ojos, m.pl. ante vocal)."
+    },
+    {
+      "front": "bella / belle — femminile sing. e plur.",
+      "back": "bella (f.sg.) / belle (f.pl.) — regulares",
+      "reading": "",
+      "explanation": "F.SG.: BELLA (sin variantes). 'Una bella ragazza' = Una chica guapa. 'Che bella giornata!' = ¡Qué día tan lindo! 'Una bell'idea' (ante vocal). F.PL.: BELLE. 'Belle scarpe!' = ¡Zapatos bonitos! 'Che belle vacanze!' = ¡Qué lindas vacaciones!"
+    },
+    {
+      "front": "BUONO davanti al nome — formas como un/uno/una",
+      "back": "buono ante sustantivo: varía como el artículo indefinido",
+      "reading": "",
+      "explanation": "BUONO antes del sustantivo sigue el patrón del ARTÍCULO INDEFINIDO (un/uno/una/un'). M.SG.: BUON (ante consonante: buon giorno, buon amico), BUONO (ante z/s+cons: buono zaino, buono studente). F.SG.: BUONA (ante consonante: buona sera), BUON' o BUONA (ante vocal: buon'idea o buona idea). 'Buongiorno!' es una sola palabra."
+    },
+    {
+      "front": "buon / buono / buona / buone / buoni — ejemplos",
+      "back": "Formas de buono en contexto",
+      "reading": "",
+      "explanation": "Ejemplos prácticos: 'Buon giorno!' (buen día), 'Buon appetito!' (buen provecho), 'Buon anno!' (feliz año nuevo), 'Buona sera!' (buenas tardes/noches), 'Buona notte!' (buenas noches), 'Buona fortuna!' (buena suerte), 'Buoni amici' (buenos amigos), 'Buone feste!' (felices fiestas)."
+    },
+    {
+      "front": "Bello/Buono dopo il verbo: è bello / è buono (formas regulares)",
+      "back": "Es hermoso / Está bueno (después del verbo: formas normales)",
+      "reading": "",
+      "explanation": "IMPORTANTE: cuando bello y buono van DESPUÉS del verbo (en posición predicativa), usan sus formas normales regulares. 'Il ragazzo è bello' (no *è bel). 'Questo caffè è buono' (no *è buon). Las formas especiales solo se usan ANTES del sustantivo. 'Una bella casa' (ante el nombre) pero 'La casa è bella' (después del verbo)."
+    },
+    {
+      "front": "Che bello! / Che buono! — esclamazioni",
+      "back": "¡Qué bonito! / ¡Qué bueno!",
+      "reading": "",
+      "explanation": "Exclamaciones muy frecuentes. 'Che bello!' = ¡Qué bonito! / ¡Qué bien! 'Che buono questo tiramisù!' = ¡Qué rico este tiramisú! 'Che bella sorpresa!' = ¡Qué linda sorpresa! 'Che begli occhi hai!' = ¡Qué ojos tan hermosos tenés! Estas exclamaciones con 'che' son muy características del italiano hablado."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Bello ante sustantivo: formas como el artículo",
+      "instruction": "Bello antes del nombre usa formas que DEPENDEN del sonido inicial del sustantivo siguiente, igual que el artículo. bel/bello/bell' (m.sg.), bei/begli (m.pl.), bella/bell' (f.sg.), belle (f.pl.).",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Buono ante sustantivo y formas predicativas",
+      "instruction": "Buono sigue el patrón del artículo indefinido. Formas especiales solo ANTES del sustantivo. Después del verbo: formas regulares normales.",
+      "itemIndices": [4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué forma de bello va aquí?",
+      "instruction": "Elegí la forma correcta de bello/buono según el género, número y sonido inicial del sustantivo.",
+      "itemIndices": [1, 2, 3, 4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "Completá con la forma correcta",
+      "instruction": "Completá con la forma apropiada de bello o buono.",
+      "itemIndices": [1, 2, 3, 5, 6]
+    },
+    {
+      "type": "error-correction",
+      "title": "Corregí los errores",
+      "instruction": "Estas frases tienen errores en las formas especiales de bello/buono. Corregí.",
+      "itemIndices": [6]
+    },
+    {
+      "type": "summary",
+      "title": "Bello e buono: formas especiales",
+      "instruction": "BELLO ante sustantivo (= artículo definido): bel/bello/bell' (m.sg.), bei/begli (m.pl.), bella/bell' (f.sg.), belle (f.pl.). BUONO ante sustantivo (= artículo indefinido): buon/buono (m.sg.), buona/buon' (f.sg.). DESPUÉS del verbo: formas normales (è bello, è buono). Expresiones: Buongiorno!, Buona sera!, Buon appetito!, Buona notte!",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

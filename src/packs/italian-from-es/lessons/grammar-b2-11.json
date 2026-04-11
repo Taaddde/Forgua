@@ -1,0 +1,95 @@
+{
+  "id": "grammar-b2-11",
+  "title": "Gerundio avanzato con pronomi clitici",
+  "description": "El gerundio italiano con pronombres clíticos enclíticos (vedendola, scrivendogli, parlandone), sus usos modales, causales, temporales, condicionales y concessivos con 'pur'.",
+  "level": "b2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Vedendola piangere, cercò di consolarla.",
+      "back": "Al verla llorar, intentó consolarla.",
+      "reading": "",
+      "explanation": "GERUNDIO + PRONOME CLITICO ENCLITICO: el pronombre se adhiere al gerundio. 'Vedendola' = vedendo + la. En español los clíticos van DELANTE del gerundio ('viéndola'), en italiano van DETRÁS (enclíticos). Otros ejemplos: scrivendogli (escribiéndole), parlandone (hablando de ello), guardandomi (mirándome), incontrandoli (encontrándolos)."
+    },
+    {
+      "front": "Scrivendogli ogni giorno, ha mantenuto il loro rapporto.",
+      "back": "Escribiéndole todos los días, mantuvo su relación.",
+      "reading": "",
+      "explanation": "'Scrivendogli' = scrivendo + gli (a él). VALOR MODALE: el gerundio describe cómo se realizó la acción principal. 'Scrivendogli ogni giorno' describe el MODO en que mantuvo la relación. Los clíticos se fusionan sin espacio: scrivendo + gli → scrivendogli; vedere + la → vedendola; parlare + ne → parlandone."
+    },
+    {
+      "front": "Parlandone con lei, ho capito il problema.",
+      "back": "Hablando de ello con ella, entendí el problema.",
+      "reading": "",
+      "explanation": "'Parlandone' = parlando + ne ('de ello'). VALOR CAUSALE: el gerundio expresa la causa de la acción principal. 'Al hablar de ello' → 'entendí'. El 'ne' indica el argumento del que se habla (de esto, de ello). Otros ejemplos con ne: rendendosene conto (dándose cuenta de ello), occupandosene (ocupándose de ello)."
+    },
+    {
+      "front": "Pur lavorando molto, guadagna poco.",
+      "back": "Aunque trabaja mucho, gana poco.",
+      "reading": "",
+      "explanation": "GERUNDIO CONCESSIVO con 'pur': expresa concesión (aunque...). 'Pur + gerundio' equivale a 'sebbene/benché + congiuntivo'. Muy frecuente en el registro intermedio-alto. Ejemplos: 'Pur sapendo la risposta, non ha parlato' (aunque sabía la respuesta, no habló). 'Pur essendo stanca, ha continuato' (aunque estaba cansada, continuó). 'Pur' es siempre seguido por el gerundio (no por indicativo ni congiuntivo)."
+    },
+    {
+      "front": "Avendo già mangiato, non aveva fame.",
+      "back": "Habiendo comido ya, no tenía hambre.",
+      "reading": "",
+      "explanation": "GERUNDIO COMPOSTO (passato): avendo/essendo + participio passato. Expresa una acción ANTERIOR al verbo principal. 'Avendo mangiato' = habiendo comido (acción completada antes). Con essere: 'Essendo arrivata in ritardo, non trovò posto' (Habiendo llegado tarde, no encontró asiento). La concordanza del participio: con essere concuerda, con avere no."
+    },
+    {
+      "front": "Volendo, potrei aiutarti.",
+      "back": "Si quisieras / Queriendo, podría ayudarte.",
+      "reading": "",
+      "explanation": "GERUNDIO CONDIZIONALE: equivale a 'se + congiuntivo'. 'Volendo' = si quisieras/quisiera, en caso de querer. Muy frecuente en el habla. 'Potendo, verrei' = si pudiera, vendría. 'Sapendo guidare, potresti aiutarmi' = si supieras manejar, podrías ayudarme. El gerundio condizionale es menos formal que el período hipotético completo."
+    },
+    {
+      "front": "Rendendosi conto dell'errore, si scusò subito.",
+      "back": "Dándose cuenta del error, se disculpó enseguida.",
+      "reading": "",
+      "explanation": "GERUNDIO REFLEXIVO con clítico enclitico: 'rendendosi' = rendendo + si. El pronome riflessivo se adhiere al gerundio. Otros reflexivos: alzandosi (levantándose), accorgendosi (dándose cuenta), fidandosi (confiando en). ACORTAMIENTO: algunos gerundi se acortan: fare → facendo, bere → bevendo, dire → dicendo, porre → ponendo."
+    },
+    {
+      "front": "Studiando ogni giorno, imparerai l'italiano velocemente.",
+      "back": "Estudiando todos los días, aprenderás el italiano rápidamente.",
+      "reading": "",
+      "explanation": "GERUNDIO TEMPORALE/CONDIZIONALE: 'studiando ogni giorno' = si studi ogni giorno / studiando (condición-descripción). Expresa la condición o el medio para lograr el resultado. REGOLA FONDAMENTALE: el gerundio italiano siempre tiene EL MISMO SUJETO que la frase principal. Si los sujetos son diferentes, se usa una proposizione subordinada completa."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Posición de los clíticos: enclitica en italiano",
+      "instruction": "A diferencia del español (viéndola / al verla), en italiano los pronombres clíticos van DESPUÉS del gerundio, adheridos: vedendola, scrivendogli, parlandone, guardandomi. La regla: gerundio + clítico sin espacio. Practica con los pronombres más frecuentes: lo/la/li/le, gli, ne, si, ci.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Pur + gerundio: el concessivo",
+      "instruction": "'Pur + gerundio' = aunque + indicativo / sebbene + congiuntivo. Es una construcción muy elegante y frecuente en el registro B2+. El sujeto de 'pur + gerundio' es siempre el mismo que el sujeto principal.",
+      "itemIndices": [3]
+    },
+    {
+      "type": "introduce",
+      "title": "Gerundio composto y condizionale",
+      "instruction": "GERUNDIO PASSATO (composto): avendo/essendo + participio = acción anterior. GERUNDIO CONDIZIONALE: gerundio simple = 'si + congiuntivo'. Ambas son estructuras elegantes para comprimir oraciones complejas.",
+      "itemIndices": [4, 5, 6]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con gerundio + clítico",
+      "instruction": "Forma el gerundio con el pronombre clítico enclítico según el contexto.",
+      "itemIndices": [0, 1, 2, 6]
+    },
+    {
+      "type": "error-correction",
+      "title": "Errori con il gerundio",
+      "instruction": "Los errores más frecuentes: poner el clítico delante del gerundio (como en español), usar sujetos diferentes sin subordinada. Corregí estos ejemplos.",
+      "itemIndices": [7]
+    },
+    {
+      "type": "summary",
+      "title": "Gerundio avanzato — consolidado",
+      "instruction": "CLITICI ENCLITICOS: gerundio + clítico = vedendola, scrivendogli, parlandone. PUR + GERUNDIO: valor concesivo = aunque. GERUNDIO COMPOSTO: avendo/essendo + participio = acción anterior. GERUNDIO CONDIZIONALE: volendo = si quisieras. REGOLA: sujeto del gerundio = sujeto principal (siempre).",
+      "itemIndices": [0, 3, 4, 5, 7]
+    }
+  ]
+}

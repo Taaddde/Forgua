@@ -1,0 +1,83 @@
+{
+  "id": "grammar-c2-03",
+  "title": "La variazione dell'italiano",
+  "description": "El italiano no es un bloque monolítico. Existe una variación sociolingüística enorme que va del dialetto locale al neostandard urbano al registro formale scritto. Un hablante C2 comprende todos estos registros, sabe cuándo se producen los code-switching, y puede analizar la variación lingüística como fenómeno cultural.",
+  "level": "c2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "STANDARD: 'Non ho visto nessuno.' / NEOSTANDARD PARLATO: 'Non ho visto nessuno.' / NAPOLETANO: 'Nun aggio visto nisciuno.' / VENEZIANO: 'No go visto nisun.'",
+      "back": "El mismo contenido en cuatro variedades: estándar, coloquial, napolitano, veneciano.",
+      "reading": "",
+      "explanation": "El italiano estándar y el neostandard son prácticamente idénticos en este caso. El napolitano cambia: 'nun' (non), 'aggio' (ho), 'nisciuno' (nessuno). El veneziano: 'no' (non), 'go' (ho), 'nisun' (nessuno). Reconocer estas diferencias fonéticas y léxicas es fundamental para entender el cine regional italiano."
+    },
+    {
+      "front": "Dislocazione a sinistra: 'Il libro, l'ho già letto.' [neostandard] / Frase scissa: 'È lui che ha vinto.' [neostandard]",
+      "back": "Fenómenos del italiano neostandard: estructuras del habla urbana aceptadas hoy como normales.",
+      "reading": "",
+      "explanation": "Fenómenos del neostandard (D'Achille, 2003): 1) Dislocazione a sinistra: 'Il libro, l'ho comprato' (anticipación con ripresa pronominale). 2) Frase scissa: 'È lui che ha vinto' (focalizzazione). 3) Ci attualizzante: 'C'è Marco che ti cerca'. 4) Gli per 'a lei/a loro'."
+    },
+    {
+      "front": "'Gli per 'a lei/a loro' nel parlato: 'Gli ho detto di venire' (= le ho detto / ho detto loro)",
+      "back": "En el habla, 'gli' sustituye 'le' (a lei) y 'a loro' — fenómeno neostandard aceptado en el parlato.",
+      "reading": "",
+      "explanation": "En italiano normativo: 'gli' = a lui; 'le' = a lei; 'a loro/loro' = a ellos. Pero en el parlato neostandard, 'gli' se usa para todos: 'gli ho detto a Maria', 'gli ho detto a tutti'. En scrittura formale siempre se mantiene la distinción. Reconocer este fenómeno evita confusiones al escuchar italiano hablado."
+    },
+    {
+      "front": "Code-switching napolitano: «Uè, 'o sai che ho fatto? Ho presentato il progetto e il direttore ha detto che il contributo è stato significativo.»",
+      "back": "El code-switching mezcla dialetto y italiano estándar en la misma conversación — fenómeno normal y frecuente.",
+      "reading": "",
+      "explanation": "'Uè' = ¡oye! (napolitano). ''o sai' = lo sai (napolitano). El resto en italiano estándar. El code-switching ocurre cuando se habla con conocidos del mismo origen (dialetto) pero se quiere ser comprendido más ampliamente (italiano). Señal de identidad regional y competencia comunicativa."
+    },
+    {
+      "front": "Il neostandard non è 'sbagliato': è la varietà parlata urbana di riferimento riconosciuta dai linguisti.",
+      "back": "El neostandard no es italiano incorrecto: es la variedad hablada de referencia de los italianos urbanos.",
+      "reading": "",
+      "explanation": "Concepto fundamental de la sociolingüística italiana (De Mauro, D'Achille): el 'italiano dell'uso medio' o 'neostandard' es la variedad efectivamente hablada por los italianos cultos en contextos informales. No es 'sbagliato' — es diferente del formale scritto. Un C2 comprende esta distinción."
+    },
+    {
+      "front": "'Accordo a senso' nel neostandard: 'La maggioranza degli italiani pensano che...'",
+      "back": "Concordanza con il senso (non col soggetto grammaticale) — fenómeno neostandard aceptado en el habla.",
+      "reading": "",
+      "explanation": "'La maggioranza' es singular → la norma requiere 'pensa'. Pero 'a senso' (ad sensum) el verbo concuerda con el significado colectivo ('gli italiani' = plural) → 'pensano'. En scrittura formale: siempre acuerdo gramatical. En el parlato: el acuerdo a senso es frecuente y no percibido como error."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El continuum varietale italiano",
+      "instruction": "La situación lingüística italiana no es una línea entre 'correcto' e 'incorrecto': es un CONTINUUM con cuatro polos. El C2 comprende todos los registros y sabe cuándo cada uno es apropiado. Esta lección te da el mapa conceptual de la variación italiana.",
+      "itemIndices": [0]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Qué variedad lingüística es esta?",
+      "instruction": "Escucha/lee cada fragmento y determina qué variedad representa: italiano standard, neostandard parlato, italiano regionale o dialetto. Identifica los marcadores específicos.",
+      "itemIndices": [0, 1, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Los fenómenos del neostandard",
+      "instruction": "El neostandard es la variedad urbana hablada por italianos cultos en contextos informales. Sus fenómenos (dislocazione, frase scissa, gli generalizzato, accordo a senso) no son 'errori' sino marcas del habla contemporánea. Reconocerlos es indispensable para entender el italiano auténtico.",
+      "itemIndices": [1, 2, 5]
+    },
+    {
+      "type": "error-correction",
+      "title": "Estándar escrito vs neostandard hablado",
+      "instruction": "Para cada oración, indica si es apropiada para: (a) escritura formal; (b) habla neostandard; (c) ambas; (d) ninguna. Si solo es oral, reescríbela en versión formal.",
+      "itemIndices": [1, 2, 5]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Análisis del code-switching",
+      "instruction": "Lee el fragmento de code-switching napolitano (ítem 4). Identifica: (1) qué elementos son dialectales; (2) qué elementos son italiano standard; (3) ¿por qué el hablante mezcla las dos variedades?",
+      "itemIndices": [3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "Variazione linguistica — comprensione totale",
+      "instruction": "El C2 no solo habla correcto: comprende por qué los italianos hablan como hablan. Para profundizar: el documental 'Caro diario' di Nanni Moretti muestra el italiano romano. Le serie 'Gomorra' el napoletano. 'Suburra' il romano popolare. 'Il Commissario Montalbano' il siciliano italianizzato.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

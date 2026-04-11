@@ -1,0 +1,107 @@
+{
+  "id": "vocab-b1-01",
+  "title": "La società",
+  "description": "Vocabulario de la vida cívica y la sociedad italiana. Estas palabras te permiten hablar de política, leyes y convivencia ciudadana.",
+  "level": "b1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "la società",
+      "back": "la sociedad",
+      "reading": "",
+      "explanation": "Sustantivo femenino. 'Viviamo in una società complessa' = Vivimos en una sociedad compleja. También significa 'empresa' en contextos comerciales: 'società anonima' (SA)."
+    },
+    {
+      "front": "il governo",
+      "back": "el gobierno",
+      "reading": "",
+      "explanation": "'Il governo ha approvato una legge' = El gobierno aprobó una ley. Relacionado: governare (gobernar), governante (gobernante)."
+    },
+    {
+      "front": "la politica",
+      "back": "la política",
+      "reading": "",
+      "explanation": "Semejante al español. 'Fare politica' = hacer política. Político/a = politico/a (adj.) o il/la politico/a (persona)."
+    },
+    {
+      "front": "le elezioni",
+      "back": "las elecciones",
+      "reading": "",
+      "explanation": "Plural de 'elezione'. 'Si tengono le elezioni' = Se celebran las elecciones. 'Candidarsi alle elezioni' = candidatearse a las elecciones."
+    },
+    {
+      "front": "la legge",
+      "back": "la ley",
+      "reading": "",
+      "explanation": "Pronunciar la 'g' suave, no como en español. 'Rispettare la legge' = respetar la ley. 'Fuori legge' = fuera de la ley."
+    },
+    {
+      "front": "la giustizia",
+      "back": "la justicia",
+      "reading": "",
+      "explanation": "'Ministero della Giustizia' = Ministerio de Justicia. 'Fare giustizia' = hacer justicia. Giusto/a (adj.) = justo/a."
+    },
+    {
+      "front": "la sicurezza",
+      "back": "la seguridad",
+      "reading": "",
+      "explanation": "Del adj. sicuro (seguro). 'Sicurezza pubblica' = seguridad pública. 'Cintura di sicurezza' = cinturón de seguridad."
+    },
+    {
+      "front": "l'inquinamento",
+      "back": "la contaminación, la polución",
+      "reading": "",
+      "explanation": "'Inquinamento atmosferico/acustico' = contaminación atmosférica/acústica. Verbo: inquinare (contaminar). Falso amigo con 'inquieto' (no relacionado)."
+    },
+    {
+      "front": "la cittadinanza",
+      "back": "la ciudadanía",
+      "reading": "",
+      "explanation": "'Ottenere la cittadinanza' = obtener la ciudadanía. 'Educazione alla cittadinanza' = educación cívica. Cittadino/a = ciudadano/a."
+    },
+    {
+      "front": "l'immigrazione",
+      "back": "la inmigración",
+      "reading": "",
+      "explanation": "'Il fenomeno dell'immigrazione' = el fenómeno de la inmigración. Contraste: immigrazione (entrar al país) / emigrazione (salir del país)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El Estado y la sociedad",
+      "instruction": "Las palabras fundamentales para hablar del gobierno y las leyes. Muchas son cognados del español — ¡aprovéchalas!",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Ley, justicia y seguridad",
+      "instruction": "El vocabulario del sistema legal y la convivencia ciudadana. Notas las similitudes con el español pero también las pequeñas diferencias.",
+      "itemIndices": [4, 5, 6]
+    },
+    {
+      "type": "introduce",
+      "title": "Ciudadanía y migración",
+      "instruction": "Temas fundamentales de la Italia contemporánea. 'Inquinamento' es la voz más diferente del español — no olvides que 'inquieto' es otro campo semántico.",
+      "itemIndices": [7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice en italiano?",
+      "instruction": "Traducí estas palabras del español al italiano. Recordá los patrones: -ción → -zione, -dad → -tà.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cuál es el significado?",
+      "instruction": "Ahora en la dirección opuesta: italiano → español.",
+      "itemIndices": [6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "Resumen: La società",
+      "instruction": "Repasaste 10 palabras clave de la vida cívica italiana. Recordá: la maggior parte de estas palabras son cognados del español. El desafío está en el género y en algunos casos como 'inquinamento' (contaminación, no inquietud).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

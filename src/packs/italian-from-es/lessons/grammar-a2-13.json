@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a2-13",
+  "title": "I modali al passato — ho dovuto, ho potuto...",
+  "description": "Los verbos modales (dovere, potere, volere) en el passato prossimo. La regla principal para A2: usa AVERE con todos — es la forma más segura y natural.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "ho dovuto + infinitivo",
+      "back": "tuve que + infinitivo",
+      "reading": "",
+      "explanation": "'Ho dovuto lavorare tutto il giorno.' = Tuve que trabajar todo el día. 'Ha dovuto partire presto.' = Tuvo que partir pronto. AVERE + dovuto + infinitivo."
+    },
+    {
+      "front": "ho potuto + infinitivo",
+      "back": "pude + infinitivo",
+      "reading": "",
+      "explanation": "'Non ho potuto dormire.' = No pude dormir. 'Abbiamo potuto finire in tempo.' = Pudimos terminar a tiempo. AVERE + potuto + infinitivo."
+    },
+    {
+      "front": "ho voluto + infinitivo",
+      "back": "quise + infinitivo",
+      "reading": "",
+      "explanation": "'Ho voluto provare la cucina giapponese.' = Quise probar la cocina japonesa. 'Non ha voluto venire.' = No quiso venir. AVERE + voluto + infinitivo."
+    },
+    {
+      "front": "Non ho potuto venire alla festa.",
+      "back": "No pude venir a la fiesta.",
+      "reading": "",
+      "explanation": "Ejemplo completo con negación. La negación va antes del modal: 'Non ho potuto'. El infinitivo va siempre al final."
+    },
+    {
+      "front": "Ho dovuto andare dal medico.",
+      "back": "Tuve que ir al médico.",
+      "reading": "",
+      "explanation": "Uso de dovuto. 'Dal medico' = al médico (en italiano 'andare dal medico', no 'al medico'). Ejemplo de uso frecuente."
+    },
+    {
+      "front": "Perché non sei venuto? — Ho dovuto lavorare.",
+      "back": "¿Por qué no viniste? — Tuve que trabajar.",
+      "reading": "",
+      "explanation": "Diálogo típico. Los modali al passato son muy frecuentes en conversación para dar explicaciones."
+    },
+    {
+      "front": "Variante con essere: Sono dovuto andare. (più formale)",
+      "back": "Tuve que ir. (variante más formal)",
+      "reading": "",
+      "explanation": "VARIANTE FORMAL: cuando el infinitivo que sigue usa essere (andare, uscire...), el modal puede usar essere. 'Sono dovuto andare via.' Però en la lengua hablada se usa avere: 'Ho dovuto andare via' — ambas son correctas."
+    },
+    {
+      "front": "Non ho voluto disturbarti.",
+      "back": "No quise molestarte.",
+      "reading": "",
+      "explanation": "Uso de voluto con negación. Muy frecuente para dar excusas educadas. 'Non ho voluto disturbarti' expresa que conscientemente eligiste no molestar."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Los tres modali al passato",
+      "instruction": "Dovuto, potuto, voluto — todos con AVERE en la lengua estándar hablada.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "recall",
+      "title": "Traduce al passato",
+      "instruction": "Da el passato prossimo del modal con el infinitivo indicado.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "En conversación",
+      "instruction": "Los modali al passato son muy útiles para dar explicaciones y excusas.",
+      "itemIndices": [5, 6, 7]
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Forma correcta?",
+      "instruction": "Identifica si el modal al passato está usado correctamente.",
+      "itemIndices": [0, 1, 3, 5]
+    },
+    {
+      "type": "recall",
+      "title": "Modali al passato — completo",
+      "instruction": "Practica todos los usos de los modali nel passato prossimo.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "Modali al passato — dominados",
+      "instruction": "Para A2: usa siempre AVERE con los modali al passato (ho dovuto/potuto/voluto) — es la forma más segura. La variante con essere existe pero es más formal y compleja. La estructura es siempre: ho/hai/ha... + dovuto/potuto/voluto + infinitivo.",
+      "itemIndices": [0, 1, 2, 4, 5]
+    }
+  ]
+}

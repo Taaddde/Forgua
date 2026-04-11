@@ -1,0 +1,38 @@
+{
+  "id": "italian-from-es",
+  "name": "Italiano (desde español)",
+  "nativeName": "Italiano",
+  "sourceLanguage": "es",
+  "icon": "🇮🇹",
+  "version": "1.0.0",
+  "authors": ["Forgua Team"],
+  "license": "MIT",
+  "aiGenerated": true,
+  "family": "latin",
+  "speech": {
+    "recognitionLang": "it-IT",
+    "ttsLang": "it-IT",
+    "defaultRate": 0.85
+  },
+  "direction": "ltr",
+  "writingSystems": [
+    { "id": "latin-alphabet", "name": "Alfabeto latino" }
+  ],
+  "features": {
+    "pitchAccent": false,
+    "toneMarks": false,
+    "furigana": false,
+    "inputConversion": null,
+    "tokenization": false,
+    "placement": true
+  },
+  "levels": [
+    { "id": "a1", "name": "CEFR A1", "order": 1, "description": "Principiante — Supervivencia" },
+    { "id": "a2", "name": "CEFR A2", "order": 2, "description": "Elemental — Comunicación básica" },
+    { "id": "b1", "name": "CEFR B1", "order": 3, "description": "Intermedio — Usuario independiente" },
+    { "id": "b2", "name": "CEFR B2", "order": 4, "description": "Intermedio alto — Profesional" },
+    { "id": "c1", "name": "CEFR C1", "order": 5, "description": "Avanzado — Dominio operativo" },
+    { "id": "c2", "name": "CEFR C2", "order": 6, "description": "Maestría — Casi nativo" }
+  ],
+  "categories": ["vocabulary", "grammar", "reading", "listening"]
+}

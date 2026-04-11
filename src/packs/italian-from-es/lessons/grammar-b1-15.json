@@ -1,0 +1,83 @@
+{
+  "id": "grammar-b1-15",
+  "title": "Discorso indiretto — trasformazioni",
+  "description": "El estilo indirecto en italiano: cómo transformar lo que alguien dijo. Las reglas de concordancia de tiempos son similares al español con una diferencia clave en el futuro.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "«Studio italiano.» → Ha detto che studiava italiano.",
+      "back": "\"Estudio italiano.\" → Dijo que estudiaba italiano.",
+      "reading": "",
+      "explanation": "Verbo principale en PASADO: presente indicativo → imperfetto. 'Studio' (presente) → 'studiava' (imperfetto). Esta es la transformación más frecuente. El tiempo retrocede un paso."
+    },
+    {
+      "front": "«Ho finito il lavoro.» → Ha detto che aveva finito il lavoro.",
+      "back": "\"Terminé el trabajo.\" → Dijo que había terminado el trabajo.",
+      "reading": "",
+      "explanation": "Passato prossimo → trapassato prossimo. 'Ho finito' → 'aveva finito'. Un paso hacia atrás en el pasado. Igual que en español: 'terminé' → 'había terminado'."
+    },
+    {
+      "front": "«Verrò domani.» → Ha detto che sarebbe venuto il giorno dopo.",
+      "back": "\"Vendré mañana.\" → Dijo que vendría al día siguiente.",
+      "reading": "",
+      "explanation": "¡DIFERENCIA CLAVE! Futuro → condizionale PASSATO (no presente) en italiano. 'Verrò' → 'sarebbe venuto'. En español: 'vendré' → 'que vendría' (cond. presente). En italiano es el condizionale passato. ¡Error muy frecuente!"
+    },
+    {
+      "front": "«Vieni con me!» → Mi ha detto di venire con lui.",
+      "back": "\"¡Ven conmigo!\" → Me dijo que fuera con él.",
+      "reading": "",
+      "explanation": "Imperativo → 'di + infinito' (mismo sujeto del interlocutor). En español: 'me dijo que fuera' (subjuntivo). En italiano: 'mi ha detto di venire' (di + infinito). Esta diferencia es importante — evita el congiuntivo."
+    },
+    {
+      "front": "Cambiamenti di luogo/tempo: oggi → quel giorno, qui → lì, domani → il giorno dopo",
+      "back": "Cambios: hoy → ese día, aquí → allí, mañana → al día siguiente",
+      "reading": "",
+      "explanation": "En el discorso indiretto cambian los deícticos: oggi→quel giorno, ieri→il giorno prima, domani→il giorno dopo, qui/qua→lì/là, questo→quello, adesso→in quel momento. Igual que en español."
+    },
+    {
+      "front": "«Non so dove sia.» → Ha detto che non sapeva dove fosse.",
+      "back": "\"No sé dónde está.\" → Dijo que no sabía dónde estaba.",
+      "reading": "",
+      "explanation": "Congiuntivo en discorso indiretto: si el discurso directo ya tenía congiuntivo (o una subordinada con congiuntivo), en el indiretto el congiuntivo también retrocede: presente → imperfetto ('sia' → 'fosse')."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Las transformaciones de tiempo verbal",
+      "instruction": "Cuando el verbo principal está en PASADO, los tiempos del discurso directo retroceden: presente → imperfetto; passato prossimo → trapassato prossimo.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "El futuro en el discorso indiretto — regla italiana",
+      "instruction": "¡La regla más diferente del español! En italiano: futuro → condizionale PASSATO (no presente). 'Verrò' → 'sarebbe venuto'. En español decimos 'vendría' (cond. presente). Esta diferencia hay que memorizar.",
+      "itemIndices": [2]
+    },
+    {
+      "type": "introduce",
+      "title": "Imperativo y cambios deícticos",
+      "instruction": "Imperativo → 'di + infinito' (en italiano, no congiuntivo). Deícticos que cambian: oggi→quel giorno, qui→lì, domani→il giorno dopo, questo→quello.",
+      "itemIndices": [3, 4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "Transformá al discorso indiretto",
+      "instruction": "Cambiá del discorso diretto al indiretto (verbo principale al passato).",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "recall",
+      "title": "Imperativo y deícticos",
+      "instruction": "Transformá el imperativo y los deícticos al discorso indiretto.",
+      "itemIndices": [3, 4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "Resumen: Discorso indiretto",
+      "instruction": "Tabla: presente→imperfetto | passato prossimo→trapassato | futuro→condizionale PASSATO (¡no presente!). Imperativo→di+infinito. Deícticos: oggi→quel giorno, qui→lì, domani→il giorno dopo, questo→quello. La diferencia más importante con el español: futuro→condizionale passato.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a2-15",
+  "title": "Superlativo relativo e assoluto (-issimo)",
+  "description": "El superlativo en italiano tiene dos formas: relativo (el más de un grupo) y absoluto (muy/muchísimo, sin comparación). El superlativo absoluto en -issimo es muy expresivo y típicamente italiano.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Superlativo relativo: il/la più + agg. + di/del gruppo",
+      "back": "el/la más + adj. + de (el más de su grupo)",
+      "reading": "",
+      "explanation": "Superlativo relativo: artículo + PIÙ + adjetivo. 'Marco è il più alto della classe' = Marco es el más alto de la clase. 'È la città più bella d'Italia' = Es la ciudad más bella de Italia. 'Il meno' también existe: 'il meno caro' = el menos caro."
+    },
+    {
+      "front": "Superlativo assoluto: bello → bellissimo",
+      "back": "muy hermoso / hermosísimo (sin grupo de referencia)",
+      "reading": "",
+      "explanation": "Superlativo absoluto: raíz del adjetivo + -ISSIMO/A/I/E. bella → bellissima. Expresa 'muy/muchísimo' sin comparar con nada. 'Roma è bellissima!' = ¡Roma es hermosísima! Regla: se quita la vocal final y se añade -issimo. 'grande' → grandissimo, 'facile' → facilissimo."
+    },
+    {
+      "front": "caro → carissimo / buono → buonissimo / cattivo → cattivissimo",
+      "back": "carísimo / buenísimo / malísimo",
+      "reading": "",
+      "explanation": "Ejemplos de superlativo absoluto regular. El adjetivo pierde la vocal final y toma -ISSIMO: 'Il caffè è buonissimo!' = ¡El café está buenísimo! 'Questo ristorante è carissimo' = Este restaurante es carísimo. 'Il tempo è cattivissimo' = El tiempo está pésimo."
+    },
+    {
+      "front": "Ortografía especial: -co/-go → ch/gh ante -issimo",
+      "back": "Cambio ortográfico para mantener el sonido /k/ y /g/",
+      "reading": "",
+      "explanation": "Adjetivos en -CO/-GO: deben añadir H para mantener el sonido: 'stanco' (cansado) → stanchissimo, 'lungo' (largo) → lunghissimo, 'ricco' (rico) → ricchissimo. Sin H el sonido cambiaría. Igual que en la conjugación verbal."
+    },
+    {
+      "front": "Superlativi irregolari: buono→ottimo / cattivo→pessimo / grande→massimo / piccolo→minimo",
+      "back": "bueno→óptimo / malo→pésimo / grande→máximo / pequeño→mínimo",
+      "reading": "",
+      "explanation": "Superlativos irregolares de origen latino. Muy usados en el lenguaje formal y cotidiano. 'Il film è ottimo!' = ¡La película es excelente/óptima! 'Il servizio è pessimo' = El servicio es pésimo. 'È di massima importanza' = Es de máxima importancia."
+    },
+    {
+      "front": "Molto vs -issimo: equivalencia",
+      "back": "molto bello = bellissimo / molto buono = buonissimo",
+      "reading": "",
+      "explanation": "'MOLTO + adjetivo' y 'adjetivo + -ISSIMO' son equivalentes. 'Molto bello' = 'bellissimo'. En el habla, -ISSIMO es más enfático y expresivo, muy característico del italiano. Los italianos usan -issimo con mucha frecuencia: 'Buonissimo!' 'Bellissima!' 'Bravissimo!'"
+    },
+    {
+      "front": "Superlativo assoluto de adverbios: molto bene → benissimo / molto tardi → tardissimo",
+      "back": "muy bien → buenísimo (excellentísimamente) / muy tarde → tardísimo",
+      "reading": "",
+      "explanation": "Los adverbios también tienen superlativo absoluto. 'bene' → benissimo, 'male' → malissimo, 'tardi' → tardissimo, 'presto' → prestissimo. 'Stai benissimo!' = ¡Estás muy bien! 'È tardissimo!' = ¡Es tardísimo! 'Pianoforte' significa literalmente 'piano-forte' (suave-fuerte)."
+    },
+    {
+      "front": "Uso expresivo: Buonissimo! Bellissima! Bravissimo!",
+      "back": "¡Buenísimo! ¡Hermosísima! ¡Bravísimo!",
+      "reading": "",
+      "explanation": "El superlativo absoluto se usa mucho para expresar entusiasmo y dar opiniones. 'Questo tiramisù è buonissimo!' = ¡Este tiramisú está buenísimo! 'Bravissimo!' = ¡Muy bien! / ¡Bravísimo! (aplauso). 'Bellissima idea!' = ¡Excelente idea! Muy italiano y muy expresivo."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Superlativo relativo: il più/meno",
+      "instruction": "Superlativo relativo = artículo + PIÙ/MENO + adjetivo + DI/DEL gruppo. 'Il più alto della classe.' Indica la posición extrema dentro de un grupo.",
+      "itemIndices": [0]
+    },
+    {
+      "type": "introduce",
+      "title": "Superlativo absoluto: -issimo",
+      "instruction": "Superlativo absoluto = raíz + -ISSIMO/A/I/E. Sin comparación con grupo. Equivale a 'muy/muchísimo'. Muy usado y expresivo en italiano.",
+      "itemIndices": [1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Relativo o absoluto?",
+      "instruction": "Identificá si el superlativo es relativo (el más de un grupo) o absoluto (muy/muchísimo).",
+      "itemIndices": [0, 1, 2, 4, 7]
+    },
+    {
+      "type": "recall",
+      "title": "Formá el superlativo absoluto",
+      "instruction": "Formá el superlativo absoluto de estos adjetivos. Cuidado con las irregulares y con -co/-go.",
+      "itemIndices": [2, 3, 4, 6]
+    },
+    {
+      "type": "speak",
+      "title": "Expresá entusiasmo con -issimo",
+      "instruction": "Describí estas cosas usando el superlativo absoluto. ¡Sé expresivo como un italiano!",
+      "itemIndices": [7]
+    },
+    {
+      "type": "summary",
+      "title": "Superlativo: relativo y absoluto",
+      "instruction": "RELATIVO: il/la più/meno + agg. + di (il più bello della città). ASSOLUTO: raíz + -ISSIMO/A/I/E (bellissimo). Muy = molto (bello) = bellissimo. Irregolari assoluti: ottimo (buonissimo), pessimo (cattivissimo). -CO/-GO ante -issimo: stanchissimo, ricchissimo. El -issimo es muy típico y expresivo en italiano.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

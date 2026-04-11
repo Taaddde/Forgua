@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a2-10",
+  "title": "Ci — luogo e funzione",
+  "description": "La partícula 'ci' tiene múltiples funciones en italiano. La más importante para A2: 'ci' de lugar (equivale a 'ahí/allí'). No tiene equivalente directo en español.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Ci vado domani. (= Vado lì domani.)",
+      "back": "Voy allí mañana.",
+      "reading": "",
+      "explanation": "CI DE LUGAR: reemplaza expresiones de lugar ya mencionadas. 'Vai spesso a Roma?' → 'Sì, ci vado spesso.' = ¿Vas a menudo a Roma? → Sí, voy a menudo (allí). En español simplemente omitimos el 'ci'."
+    },
+    {
+      "front": "Sei mai stato a Venezia? — Sì, ci sono stato.",
+      "back": "¿Has estado alguna vez en Venecia? — Sí, he estado (allí).",
+      "reading": "",
+      "explanation": "CI nel passato prossimo. 'Ci sono stato' (hombre) / 'Ci sono stata' (mujer). 'Ci sono stati' / 'ci sono state'. El participio concuerda porque 'essere' es auxiliare."
+    },
+    {
+      "front": "Ci vediamo / Ci incontriamo",
+      "back": "Nos vemos / Nos encontramos",
+      "reading": "",
+      "explanation": "CI REFLEXIVO/RECÍPROCO: nos. 'Ci vediamo domani!' = ¡Nos vemos mañana! Esta es una de las despedidas más comunes en italiano. 'Ci siamo incontrati per caso.' = Nos encontramos por casualidad."
+    },
+    {
+      "front": "C'è / Ci sono",
+      "back": "Hay (sing./plural)",
+      "reading": "",
+      "explanation": "CI EXISTENCIAL (de A1). 'C'è un problema.' = Hay un problema. 'Ci sono molti turisti.' = Hay muchos turistas. Forma negativa: 'Non c'è nessuno.' = No hay nadie."
+    },
+    {
+      "front": "Ci vuole un'ora. / Ci vogliono due ore.",
+      "back": "Se necesita una hora. / Se necesitan dos horas.",
+      "reading": "",
+      "explanation": "CI VUOLE (con sing.) / CI VOGLIONO (con plur.): hacer falta, necesitar tiempo o cosas. 'Quanto ci vuole per arrivare?' = ¿Cuánto se tarda en llegar? 'Ci vogliono tre uova per questa ricetta.' = Hacen falta tres huevos para esta receta."
+    },
+    {
+      "front": "Non ci capisco niente.",
+      "back": "No entiendo nada de esto.",
+      "reading": "",
+      "explanation": "CI con 'capire': 'Ci capisci qualcosa?' = ¿Entiendes algo de esto? El 'ci' introduce el tema de referencia. Expresión muy coloquial."
+    },
+    {
+      "front": "Ce la faccio! / Non ce la faccio.",
+      "back": "¡Puedo hacerlo! / No puedo.",
+      "reading": "",
+      "explanation": "ESPRESIONE FISSA: 'farcela' = poder hacerlo, lograrlo. 'Ce la fai?' = ¿Puedes/te las arreglas? 'Ce la faccio' = Lo logro. El 'ce' es 'ci' + particella 'la'."
+    },
+    {
+      "front": "Ci tengo molto.",
+      "back": "Me importa mucho. / Le tengo mucho aprecio.",
+      "reading": "",
+      "explanation": "'Tenerci' = importar mucho, apreciar algo. 'Ci tengo alla mia famiglia.' = Mi familia me importa mucho. Expresión muy italiana, sin equivalente directo en español."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Ci de lugar — la función más importante",
+      "instruction": "CI reemplaza complementos de lugar ya mencionados. En español simplemente se omite — en italiano es OBLIGATORIO.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Ci reflexivo y existencial",
+      "instruction": "CI reflexivo (nos), CI existencial (c'è/ci sono = hay).",
+      "itemIndices": [2, 3]
+    },
+    {
+      "type": "recall",
+      "title": "¿Qué función tiene este 'ci'?",
+      "instruction": "Identifica la función del 'ci' en cada oración.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "Expresiones fijas con ci",
+      "instruction": "Ci vuole, ce la faccio, ci tengo — expresiones idiomáticas importantes.",
+      "itemIndices": [4, 5, 6, 7]
+    },
+    {
+      "type": "recall",
+      "title": "Ci — práctica completa",
+      "instruction": "Traduce al italiano incluyendo el 'ci' cuando corresponde.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "Ci — dominado",
+      "instruction": "Las funciones del CI: 1) Lugar (ci vado = voy allí), 2) Reflexivo/recíproco (ci vediamo), 3) Existencial (c'è/ci sono), 4) Ci vuole (se necesita), 5) Expresiones fijas (farcela, tenerci). El error más común de hispanohablantes: omitirlo cuando debe ir de lugar.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a1-19",
+  "title": "C'è e ci sono — hay (singular y plural)",
+  "description": "C'è y ci sono equivalen al 'hay' del español. C'è para singular (hay uno), ci sono para plural (hay varios). Para hispanohablantes: en español 'hay' es invariable, en italiano cambia.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "C'è = ci + è — hay (singular)",
+      "back": "Hay (para un solo elemento)",
+      "reading": "",
+      "explanation": "'C'è' es la contracción de 'ci' + 'è' (3ª sing. de essere). Se usa con sustantivos SINGULARES. 'C'è un supermercato' = Hay un supermercado. 'C'è un problema' = Hay un problema. La apóstrofe es obligatoria: c'è (no *ci è en el habla)."
+    },
+    {
+      "front": "Ci sono — hay (plural)",
+      "back": "Hay (para varios elementos)",
+      "reading": "",
+      "explanation": "'Ci sono' = 'ci' + 'sono' (3ª plural de essere). Se usa con sustantivos PLURALES. 'Ci sono molti turisti' = Hay muchos turistas. 'Ci sono tre camere' = Hay tres habitaciones. No hay apóstrofe en 'ci sono'."
+    },
+    {
+      "front": "C'è un bar vicino?",
+      "back": "¿Hay un bar cerca?",
+      "reading": "",
+      "explanation": "Pregunta muy práctica. 'C'è una farmacia qui vicino?' = ¿Hay una farmacia cerca de aquí? 'C'è il bagno?' = ¿Hay/Está el baño? También funciona para preguntar si algo ESTÁ en un lugar específico."
+    },
+    {
+      "front": "Ci sono molte persone in centro.",
+      "back": "Hay mucha gente en el centro.",
+      "reading": "",
+      "explanation": "'Molte persone' es plural → ci sono. 'Ci sono tanti negozi' = Hay muchas tiendas. 'Ci sono due chiese nella piazza' = Hay dos iglesias en la plaza. El verbo concuerda en número con el sustantivo."
+    },
+    {
+      "front": "Non c'è nessuno. / Non ci sono posti.",
+      "back": "No hay nadie. / No hay lugares/sitios.",
+      "reading": "",
+      "explanation": "Negación: 'non c'è' / 'non ci sono'. 'Non c'è nessuno in casa' = No hay nadie en casa. 'Non ci sono più biglietti' = Ya no hay más entradas. 'Non c'è problema!' = ¡No hay problema!"
+    },
+    {
+      "front": "C'è vs Ci sono: la diferencia con el español",
+      "back": "Español: 'hay' (invariable). Italiano: c'è (sing.) / ci sono (pl.)",
+      "reading": "",
+      "explanation": "En español 'hay' es la misma forma para singular y plural: 'hay una persona', 'hay tres personas'. En italiano SIEMPRE hay que elegir: 'c'è' (singular) o 'ci sono' (plural). Error típico: *'c'è molte persone' — incorrecto. Correcto: 'ci sono molte persone'."
+    },
+    {
+      "front": "C'è anche... / Ci sono anche...",
+      "back": "También hay...",
+      "reading": "",
+      "explanation": "'Anche' = también. 'C'è anche un parco' = También hay un parque. 'Ci sono anche molti musei' = También hay muchos museos. 'Non c'è neanche un bar' = No hay ni un bar."
+    },
+    {
+      "front": "Dov'è...? / Dove sono...?",
+      "back": "¿Dónde está...? / ¿Dónde están...?",
+      "reading": "",
+      "explanation": "'Dov'è' (= dove + è) para preguntar DÓNDE ESTÁ algo específico (ya sabemos que existe). 'Dov'è il bagno?' = ¿Dónde está el baño? — diferente de 'C'è un bagno?' = ¿Hay un baño? Distinguí existencia (c'è) de ubicación (dov'è)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "C'è y ci sono: el 'hay' italiano",
+      "instruction": "En italiano 'hay' se dice con DOS formas: C'È para singular y CI SONO para plural. Esta distinción no existe en español — en español 'hay' es siempre igual. En italiano el verbo concuerda en número.",
+      "itemIndices": [0, 1, 5]
+    },
+    {
+      "type": "introduce",
+      "title": "En preguntas, negaciones y contexto",
+      "instruction": "C'è y ci sono funcionan en preguntas (¿hay?), negaciones (non c'è / non ci sono), y con 'anche' (también hay). Además: Dov'è = ¿dónde está? (diferente de c'è).",
+      "itemIndices": [2, 3, 4, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿C'è o Ci sono?",
+      "instruction": "Mirá el sustantivo: ¿es singular o plural? Elegí la forma correcta.",
+      "itemIndices": [0, 1, 2, 3, 4, 6]
+    },
+    {
+      "type": "recall",
+      "title": "Traducí al italiano con c'è / ci sono",
+      "instruction": "Del español al italiano. Recordá: 'hay' siempre se traduce con c'è (sing.) o ci sono (pl.).",
+      "itemIndices": [2, 3, 4, 7]
+    },
+    {
+      "type": "error-correction",
+      "title": "Corregí los errores",
+      "instruction": "Estas frases tienen errores de hispanohablantes. Identificá y corregí.",
+      "itemIndices": [5, 6]
+    },
+    {
+      "type": "summary",
+      "title": "C'è y ci sono: regla simple",
+      "instruction": "Un sustantivo → C'È (c'è un bar, c'è un problema). Más de uno → CI SONO (ci sono due bar, ci sono molti problemi). Negación: non c'è / non ci sono. Pregunta: c'è...? / ci sono...? Ubicación: Dov'è...? / Dove sono...? (diferente de existencia).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

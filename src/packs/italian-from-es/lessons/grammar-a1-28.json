@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a1-28",
+  "title": "La negazione — non + verbo, non... mai, non... niente",
+  "description": "La negación en italiano es muy similar al español. La doble negación es gramatical y obligatoria. Para hispanohablantes: las mismas estructuras que conocés funcionan en italiano.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "NON + verbo — negación simple",
+      "back": "NO + verbo",
+      "reading": "",
+      "explanation": "La negación básica: 'non' se coloca ANTES del verbo. 'Non parlo inglese' = No hablo inglés. 'Non capisco' = No entiendo. 'Non sono italiano' = No soy italiano. Igual que 'no' en español pero sin variaciones."
+    },
+    {
+      "front": "Non... MAI — no... nunca",
+      "back": "No... nunca / jamás",
+      "reading": "",
+      "explanation": "'Non... mai' = no... nunca. Estructura: NON + verbo + MAI. 'Non vado mai al cinema' = No voy nunca al cine / Nunca voy al cine. 'Non mangio mai carne' = No como nunca carne. MAI solo no puede iniciar una frase negativa (diferente del inglés). ¡La doble negación es OBLIGATORIA!"
+    },
+    {
+      "front": "Non... NIENTE / NULLA — no... nada",
+      "back": "No... nada",
+      "reading": "",
+      "explanation": "'Non... niente/nulla' = no... nada. 'Non capisco niente' = No entiendo nada. 'Non ho fatto niente' = No hice nada. 'Niente' es más coloquial, 'nulla' más formal/literario. Estructura: NON + verbo + NIENTE/NULLA."
+    },
+    {
+      "front": "Non... NESSUNO — no... nadie",
+      "back": "No... nadie / ninguno",
+      "reading": "",
+      "explanation": "'Non... nessuno' = nadie. 'Non conosco nessuno qui' = No conozco a nadie aquí. 'Non c'è nessuno' = No hay nadie. Cuando 'nessuno' va DESPUÉS del verbo, siempre lleva 'non'. Como pronombre: 'Nessuno lo sa' = Nadie lo sabe (puede ir antes)."
+    },
+    {
+      "front": "Non... ANCORA — no... todavía / no... aún",
+      "back": "No... todavía / No... aún",
+      "reading": "",
+      "explanation": "'Non... ancora' = no... todavía. 'Non ho ancora mangiato' = No he comido todavía. 'Non sei ancora pronto?' = ¿Todavía no estás listo? 'Non ancora' como respuesta corta = Todavía no. Muy frecuente."
+    },
+    {
+      "front": "Non... PIÙ — no... más / ya no",
+      "back": "Ya no / no... más",
+      "reading": "",
+      "explanation": "'Non... più' = ya no. 'Non abito più a Roma' = Ya no vivo en Roma. 'Non voglio più aspettare' = Ya no quiero esperar / No quiero esperar más. 'Non lavora più lì' = Ya no trabaja ahí. Muy común para expresar cambios de estado."
+    },
+    {
+      "front": "Doppia negazione — la doble negación es OBLIGATORIA",
+      "back": "En italiano (y español) la doble negación es gramatical",
+      "reading": "",
+      "explanation": "En italiano la doble negación es correcta y NECESARIA cuando un negativo sigue al verbo: 'Non faccio NIENTE' (no hago nada), 'Non viene MAI' (no viene nunca), 'Non conosco NESSUNO' (no conozco a nadie). Igual que en español. Si el negativo va ANTES del verbo, no lleva 'non': 'NESSUNO viene' = Nadie viene."
+    },
+    {
+      "front": "Mica — negación enfática / mitigadora",
+      "back": "Expresión negativa coloquial (ni siquiera / para nada)",
+      "reading": "",
+      "explanation": "'Mica' es una partícula negativa informal muy italiana. 'Non è mica stupido' = No es nada tonto / Para nada es tonto. 'Mica male!' = ¡Nada mal! 'Non è mica vero' = No es para nada verdad. Indica que algo no es como se esperaba. Muy coloquial."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "La negación simple: NON",
+      "instruction": "La negación básica en italiano usa NON antes del verbo. ¡Nada más! 'Non parlo italiano' = No hablo italiano. Simple y consistente.",
+      "itemIndices": [0, 6]
+    },
+    {
+      "type": "introduce",
+      "title": "Las negaciones compuestas: non...mai, niente, nessuno, più, ancora",
+      "instruction": "Para 'nunca', 'nada', 'nadie', 'ya no', 'todavía no': NON + verbo + palabra negativa. La doble negación es obligatoria cuando la palabra negativa va después del verbo — igual que en español.",
+      "itemIndices": [1, 2, 3, 4, 5, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué negación va aquí?",
+      "instruction": "Elegí la expresión negativa correcta para cada contexto.",
+      "itemIndices": [1, 2, 3, 4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "Negá estas afirmaciones",
+      "instruction": "Transformá estas frases positivas en negativas usando la expresión indicada.",
+      "itemIndices": [0, 1, 2, 4, 5]
+    },
+    {
+      "type": "error-correction",
+      "title": "Corregí los errores de negación",
+      "instruction": "Estas frases tienen errores en la doble negación. Corregí.",
+      "itemIndices": [6]
+    },
+    {
+      "type": "summary",
+      "title": "La negación italiana: como en español",
+      "instruction": "NON (no): antes del verbo siempre. Non...MAI (nunca). Non...NIENTE/NULLA (nada). Non...NESSUNO (nadie). Non...ANCORA (todavía no). Non...PIÙ (ya no). La doble negación es OBLIGATORIA cuando el negativo va después del verbo — igual que en español. Excepción: si el negativo va antes, no lleva non: 'Nessuno viene'.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

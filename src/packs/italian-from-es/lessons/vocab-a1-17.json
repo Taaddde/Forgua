@@ -1,0 +1,107 @@
+{
+  "id": "vocab-a1-17",
+  "title": "Verbi essenziali II",
+  "description": "Verbos regulares y semirregulares esenciales para la vida cotidiana: mangiare, bere, parlare, lavorare, studiare y más.",
+  "level": "a1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "mangiare",
+      "back": "comer",
+      "reading": "/manˈdʒaːre/",
+      "explanation": "Mangiare. Conjugación: mangio, mangi, mangia, mangiamo, mangiate, mangiano. La 'gi' suena /dʒ/. 'Cosa mangi?' = ¿Qué comés? 'Mangiamo!' = ¡Comamos!"
+    },
+    {
+      "front": "bere",
+      "back": "beber / tomar",
+      "reading": "/ˈbɛːre/",
+      "explanation": "Bere es irregular (-ERE, raíz bev-). Conjugación: bevo, bevi, beve, beviamo, bevete, bevono. 'Cosa bevi?' = ¿Qué tomás? 'Bevo un caffè' = Tomo un café."
+    },
+    {
+      "front": "parlare",
+      "back": "hablar",
+      "reading": "/parˈlaːre/",
+      "explanation": "Parlare. Regular -ARE. Conjugación: parlo, parli, parla, parliamo, parlate, parlano. 'Parlo italiano' = Hablo italiano. 'Parliamo?' = ¿Hablamos? Muy similar al español."
+    },
+    {
+      "front": "lavorare",
+      "back": "trabajar",
+      "reading": "/lavoˈraːre/",
+      "explanation": "Lavorare. Regular -ARE. Conjugación: lavoro, lavori, lavora, lavoriamo, lavorate, lavorano. 'Dove lavori?' = ¿Dónde trabajás? 'Lavoro in un ufficio' = Trabajo en una oficina."
+    },
+    {
+      "front": "studiare",
+      "back": "estudiar",
+      "reading": "/stuˈdjaːre/",
+      "explanation": "Studiare. Regular -ARE. Conjugación: studio, studi, studia, studiamo, studiate, studiano. 'Studi italiano?' = ¿Estudiás italiano? 'Studio ogni giorno' = Estudio todos los días."
+    },
+    {
+      "front": "abitare / vivere",
+      "back": "vivir / residir",
+      "reading": "/abiˈtaːre/ /ˈviːvere/",
+      "explanation": "'Abitare' = vivir/residir en un lugar. 'Vivere' = vivir en sentido más amplio. 'Dove abiti?' = ¿Dónde vivís? 'Abito a Milano' = Vivo en Milán. 'Vivo bene' = Vivo bien."
+    },
+    {
+      "front": "venire",
+      "back": "venir",
+      "reading": "/veˈniːre/",
+      "explanation": "Venire. Irregular. Conjugación: vengo, vieni, viene, veniamo, venite, vengono. 'Da dove vieni?' = ¿De dónde venís? 'Vengo con te' = Vengo con vos."
+    },
+    {
+      "front": "capire",
+      "back": "entender / comprender",
+      "reading": "/kaˈpiːre/",
+      "explanation": "Capire. Grupo -ISC-. Conjugación: capisco, capisci, capisce, capiamo, capite, capiscono. 'Capisci?' = ¿Entendés? 'Non capisco' = No entiendo. Muy útil al aprender italiano."
+    },
+    {
+      "front": "leggere",
+      "back": "leer",
+      "reading": "/ˈlɛddʒere/",
+      "explanation": "Leggere. Regular -ERE. Conjugación: leggo, leggi, legge, leggiamo, leggete, leggono. 'Leggi molto?' = ¿Leés mucho? 'Leggo un libro' = Leo un libro."
+    },
+    {
+      "front": "scrivere",
+      "back": "escribir",
+      "reading": "/ˈskriːvere/",
+      "explanation": "Scrivere. Regular -ERE. Conjugación: scrivo, scrivi, scrive, scriviamo, scrivete, scrivono. 'Scrivi bene in italiano' = Escribís bien en italiano. 'Scrivimi!' = ¡Escríbeme!"
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Verbos cotidianos",
+      "instruction": "Estos verbos son los que más usarás en el día a día. Los verbos en -ARE son los más regulares. Capire usa el grupo -ISC- (capisco, capisci...).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué verbo es?",
+      "instruction": "Ves el infinitivo en italiano. Elegí la traducción.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "Conjugá en primera persona",
+      "instruction": "Ves el verbo en español. Escribí la forma 'io' (yo) en italiano.",
+      "itemIndices": [0, 1, 2, 3, 4, 7, 8, 9]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá las oraciones",
+      "instruction": "Completá con el verbo correcto conjugado: '(Yo) ___ italiano.' (hablar) | '¿(Vos) ___ mucho?' (leer) | 'Non ___ (yo).' (entender)",
+      "itemIndices": [2, 8, 7]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Oraciones completas",
+      "instruction": "Ordená: italiano / Parlo / ogni / giorno / bene | Non / capisco / questa / parola",
+      "itemIndices": [2, 7]
+    },
+    {
+      "type": "summary",
+      "title": "¡Verbi essenziali II!",
+      "instruction": "mangiare(mangio), bere(bevo/irregolare), parlare(parlo), lavorare(lavoro), studiare(studio), abitare(abito), venire(vengo/irregolare), capire(capisco/-isc-), leggere(leggo), scrivere(scrivo). ¡Capisco = entiendo!",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

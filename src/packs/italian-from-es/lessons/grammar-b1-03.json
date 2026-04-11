@@ -1,0 +1,83 @@
+{
+  "id": "grammar-b1-03",
+  "title": "Condizionale passato",
+  "description": "El 'habría hecho' italiano: para hipótesis sobre el pasado y el futuro en el pasado (discurso indirecto).",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "avrei fatto",
+      "back": "habría hecho",
+      "reading": "",
+      "explanation": "Condizionale passato con avere: condizionale presente di avere (avrei/avresti/avrebbe/avremmo/avreste/avrebbero) + participio passato. Equivale al 'habría + participio' español."
+    },
+    {
+      "front": "sarei andato/a",
+      "back": "habría ido",
+      "reading": "",
+      "explanation": "Condizionale passato con essere. Participio concuerda con el sujeto. 'Sarei andata in Italia ma non avevo i soldi' = Habría ido a Italia pero no tenía dinero."
+    },
+    {
+      "front": "Se avessi avuto tempo, sarei venuto.",
+      "back": "Si hubiera tenido tiempo, habría venido.",
+      "reading": "",
+      "explanation": "Periodo ipotetico del passato (tipo 3): se + congiuntivo trapassato → condizionale passato. Para situaciones hipotéticas en el pasado que NO ocurrieron. La forma más compleja de hipótesis."
+    },
+    {
+      "front": "Avrei voluto dirti la verità.",
+      "back": "Habría querido decirte la verdad.",
+      "reading": "",
+      "explanation": "'Avrei voluto' = habría querido. Expresa un deseo del pasado que no se realizó. Similar al español pero muy frecuente en italiano para expresar lamentaciones o cortesía."
+    },
+    {
+      "front": "Ha detto che sarebbe arrivato tardi.",
+      "back": "Dijo que llegaría tarde. (futuro en el pasado)",
+      "reading": "",
+      "explanation": "Uso en discorso indiretto: cuando el verbo principal es en pasado, el futuro del discurso directo se convierte en condizionale PASSATO (no presente). 'Verrò' (directo) → 'Ha detto che sarebbe venuto' (indiretto). ¡Diferencia con el español!"
+    },
+    {
+      "front": "Pensava che avremmo finito prima.",
+      "back": "Pensaba que habríamos terminado antes. / Pensaba que terminaríamos antes.",
+      "reading": "",
+      "explanation": "Futuro en el pasado con soggetto diverso. 'Pensava che avremmo finito' = creía que terminaríamos. En italiano formal, SIEMPRE condizionale passato para el futuro en el pasado (no condizionale presente)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "La estructura del condizionale passato",
+      "instruction": "Forma: condizionale presente di avere/essere + participio passato. Mismas reglas essere/avere de siempre. Participio concuerda con sujeto cuando se usa essere.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Hipótesis sobre el pasado",
+      "instruction": "Con el periodo ipotetico del passato: se + congiuntivo trapassato → condizionale passato. Para situaciones que NO ocurrieron en el pasado. Esta es la estructura más avanzada.",
+      "itemIndices": [2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Futuro en el pasado — discorso indiretto",
+      "instruction": "¡Regla italiana específica! En discorso indiretto con verbo principal en pasado: futuro simple → condizionale PASSATO (no presente). 'Verrò' → 'Ha detto che sarebbe venuto'. En español usamos condicional simple ('vendría'), en italiano el pasado.",
+      "itemIndices": [4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "Hipótesis pasadas",
+      "instruction": "Completá con el condizionale passato.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "recall",
+      "title": "Futuro en el pasado",
+      "instruction": "Transformá el discurso directo en indirecto.",
+      "itemIndices": [4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "Resumen: Condizionale passato",
+      "instruction": "Dos usos clave: 1) HIPÓTESIS PASADA — Se + congiuntivo trapassato → condizionale passato. 2) FUTURO EN EL PASADO — en discorso indiretto siempre condizionale PASSATO (no presente). La frase 'avrei voluto' es muy italiana y muy útil para expresar deseos no realizados.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

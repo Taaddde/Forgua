@@ -1,0 +1,83 @@
+{
+  "id": "grammar-b1-06",
+  "title": "Si passivante",
+  "description": "El 'si passivante' italiano: equivalente al 'se' pasivo español. La clave está en la concordancia verbal con el sujeto.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Si vende un appartamento.",
+      "back": "Se vende un apartamento.",
+      "reading": "",
+      "explanation": "Si passivante con sujeto SINGULAR: verbo en 3ª persona singular. 'Un appartamento' → singular → 'si vende' (singular). El sujeto (la cosa que se vende) determina el número del verbo."
+    },
+    {
+      "front": "Si vendono due appartamenti.",
+      "back": "Se venden dos apartamentos.",
+      "reading": "",
+      "explanation": "Si passivante con sujeto PLURAL: verbo en 3ª persona PLURAL. '¡OJO! 'Due appartamenti' → plural → 'si vendono'. En español decimos siempre 'se vende/se venden' pero el italiano EXIGE concordancia."
+    },
+    {
+      "front": "Si cercano collaboratori esperti.",
+      "back": "Se buscan colaboradores expertos.",
+      "reading": "",
+      "explanation": "Típico de anuncios y carteles. Sujeto plural → verbo plural. Equivalente a la pasiva: 'Vengono cercati collaboratori esperti'. El si passivante es más frecuente en la práctica."
+    },
+    {
+      "front": "In Italia si mangia la pasta ogni giorno.",
+      "back": "En Italia se come pasta cada día.",
+      "reading": "",
+      "explanation": "Si passivante con artículo definido. 'La pasta' (sing.) → 'si mangia' (sing.). Aquí la pasta es el sujeto gramatical. La frase habla de un hábito general de la pasta (el objeto de la acción)."
+    },
+    {
+      "front": "Si parla italiano qui. / Si parlano molte lingue qui.",
+      "back": "Se habla italiano aquí. / Se hablan muchos idiomas aquí.",
+      "reading": "",
+      "explanation": "Contraste singular/plural: 'italiano' (sing.) → 'si parla'. 'Molte lingue' (pl.) → 'si parlano'. La concordancia con el sujeto es la diferencia fundamental entre si passivante e si impersonale."
+    },
+    {
+      "front": "Si affitta una stanza.",
+      "back": "Se alquila una habitación.",
+      "reading": "",
+      "explanation": "Si passivante muy frecuente en anuncios de alquiler e inmobiliarias. 'Affittasi' es la forma contracta (affitta + si) usada en carteles. 'Vendesi' (se vende), 'affittasi' (se alquila)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "¿Qué es el si passivante?",
+      "instruction": "El si passivante expresa acciones donde el SUJETO es una cosa (no persona). Es equivalente a 'se vende', 'se busca', 'se habla'. Clave: el verbo CONCUERDA con el sujeto (singular o plural).",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "La concordanza — la regla más importante",
+      "instruction": "¡La diferencia con el español! En español a veces se usa 'se vende' aunque el sujeto sea plural. En italiano es OBLIGATORIO concordar: 'si vende' (1 cosa) / 'si vendono' (más de 1 cosa).",
+      "itemIndices": [2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Si passivante en contextos reales",
+      "instruction": "En anuncios: 'Affittasi stanza' / 'Cercasi collaboratori'. En conversación: 'Si parla italiano'. La forma contracta (verbosi) es típica de carteles y anuncios inmobiliarios.",
+      "itemIndices": [4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "Singular o plural",
+      "instruction": "¿Si vende o si vendono? Aplicá la concordanza correcta.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "recall",
+      "title": "Traducí con concordanza",
+      "instruction": "Traducí estas frases al italiano con si passivante, prestando atención al número del verbo.",
+      "itemIndices": [3, 4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "Resumen: Si passivante",
+      "instruction": "Regla de oro: el verbo concuerda con el SUJETO (la cosa). 'Un libro' → 'si vende'. 'Tre libri' → 'si vendono'. El si passivante se usa con COSAS como sujeto. Para personas como sujeto → si impersonale (próxima lección). Formas contractas en anuncios: vendesi, cercasi, affittasi.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

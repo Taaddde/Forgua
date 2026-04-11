@@ -1,0 +1,83 @@
+{
+  "id": "grammar-c1-04",
+  "title": "Costruzioni con l'infinito",
+  "description": "El infinitivo en italiano puede construir cláusulas implícitas equivalentes a las subjuntivas explícitas. Este sistema, de herencia latina, es esencial en el italiano culto y formal: permite expresar más en menos palabras, con un efecto de mayor elegancia y precisión estilística.",
+  "level": "c1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "L'ho visto entrare senza bussare. / Sentii la porta aprirsi lentamente.",
+      "back": "Verbos de percepción + objeto + infinitivo (accusativo con infinitivo): más elegante que 'che + indicativo'.",
+      "reading": "",
+      "explanation": "Con verbos de percepción (vedere, sentire, udire, guardare): VERBO + OGGETTO + INFINITO. 'Vedo Mario partire' = Veo a Mario marcharse. Alternativa menos elegante: 'Vedo che Mario parte'. La estructura con infinitivo es más compacta y estilísticamente preferida en registro alto."
+    },
+    {
+      "front": "Ritengo di essere nel giusto. / Sa di aver sbagliato. / Crede di poter risolvere tutto.",
+      "back": "Mismo sujeto: verbos de opinión + 'di' + infinitivo. Diferente sujeto: verbo + 'che' + congiuntivo.",
+      "reading": "",
+      "explanation": "Regla clave: si el sujeto del infinitivo COINCIDE con el sujeto principal → 'di' + infinitivo. Si los sujetos son DIFERENTES → 'che' + congiuntivo. 'Credo di avere ragione' (yo creo que yo tengo) vs 'Credo CHE lui ABBIA ragione' (yo creo que él tiene)."
+    },
+    {
+      "front": "Ritengo opportuno precisare che il progetto non è ancora concluso.",
+      "back": "Ritenere + aggettivo + infinitivo: construcción impersonal-formal muy frecuente.",
+      "reading": "",
+      "explanation": "'Ritengo opportuno precisare' = Considero oportuno precisar. Esta construcción (ritenere/trovare/considerare + adjetivo + infinito) es característica del italiano formale scritto. Otros ejemplos: 'Trovare utile specificare', 'Considerare necessario chiarire'."
+    },
+    {
+      "front": "Si credeva destinato a grandi cose. / Lo ritenevo essere il candidato più adatto.",
+      "back": "Accusativo con infinitivo: construcción culta de herencia latina con verbos de opinión + oggetto + essere.",
+      "reading": "",
+      "explanation": "'Si credeva destinato' (se creía destinado) y 'Lo ritenevo essere il candidato' (lo consideraba el candidato) son construcciones latinas de registro muy alto. La segunda ('Lo ritenevo essere...') es típica del italiano letterario elevato. En el habla es rara pero reconocible."
+    },
+    {
+      "front": "La guardavo dormire. / Ho sentito Maria cantare.",
+      "back": "Verbos de percepción con soggetto terza persona: la estructura implícita es muy frecuente en narrativa.",
+      "reading": "",
+      "explanation": "'La guardavo dormire' (la miraba dormir) — no hay nexo explícito entre 'guardavo' y 'dormire'. El objeto ('la') es simultáneamente objeto del verbo de percepción y sujeto lógico del infinitivo. Construcción muy elegante y frecuente en narrativa literaria italiana."
+    },
+    {
+      "front": "Dopo aver parlato con lui, capii tutto. / Pur avendo studiato, non passò l'esame.",
+      "back": "Infinitivo passato (aver + participio): uso temporal y concesivo en proposizioni implicite.",
+      "reading": "",
+      "explanation": "'Dopo aver parlato' = después de haber hablado. 'Pur avendo studiato' = aunque habiendo estudiado. Estas construcciones con infinito passato son más económicas que las subordinate esplicite y son marca del registro scritto e letterario."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El infinitivo como cláusula implícita",
+      "instruction": "En italiano, el infinitivo no es solo la forma base del verbo: es una herramienta sintáctica que permite condensar cláusulas enteras. El principio clave: cuando el sujeto del infinitivo puede ser inferido del contexto (es el mismo del verbo principal, o es el objeto del verbo principal), se puede omitir la subordinada explícita.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Infinitivo o 'che' + congiuntivo?",
+      "instruction": "Para cada oración, decide si usar 'di' + infinitivo (mismo sujeto) o 'che' + congiuntivo (sujetos distintos). Esta distinción es la más importante de la lección.",
+      "itemIndices": [1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Los verbos de percepción y el accusativo",
+      "instruction": "Los verbos de percepción (vedere, sentire, udire) tienen una construcción especial: el objeto del verbo de percepción también actúa como sujeto lógico del infinitivo. Esta es la herencia más directa del latín en el italiano contemporáneo y es señal de escritura elevada.",
+      "itemIndices": [0, 4]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Cuál es la construcción más elegante?",
+      "instruction": "Para cada par de oraciones (una con infinitivo implícito, otra con subordinada explícita), identifica cuál corresponde al registro literario y cuál al habla informal.",
+      "itemIndices": [0, 3, 5]
+    },
+    {
+      "type": "recall",
+      "title": "Construye con infinitivo",
+      "instruction": "Reescribe cada oración usando una construcción con infinitivo (donde sea gramaticalmente posible) en lugar de la subordinada explícita.",
+      "itemIndices": [0, 1, 4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "Costruzioni con l'infinito — dominate",
+      "instruction": "Las cuatro construcciones clave: (1) Verbos de percepción + objeto + infinitivo. (2) Mismo sujeto → 'di' + infinitivo. (3) 'Ritenere/trovare + aggettivo + infinitivo' (formal). (4) Infinitivo passato en proposizioni implicite temporali e concessive. Para practicar: en cualquier texto de Calvino o Moravia, subraya las construccioni con infinito.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

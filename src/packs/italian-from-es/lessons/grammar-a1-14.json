@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a1-14",
+  "title": "Venire (presente) — vengo, vieni, viene...",
+  "description": "Venire (venir) es otro verbo irregular esencial. Muy usado para hablar de origen y movimiento hacia el interlocutor. Para hispanohablantes: el patrón es diferente al español 'venir'.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "io vengo",
+      "back": "yo vengo",
+      "reading": "",
+      "explanation": "'Vengo' — con -NG- como en 'tengo' (tener). 'Vengo da Milano' = Vengo de Milán / Soy de Milán. 'Vengo subito!' = ¡Ya voy! (cuando alguien te llama). 'Vengo anch'io' = Yo también voy."
+    },
+    {
+      "front": "tu vieni",
+      "back": "vos/tú venís/vienes",
+      "reading": "",
+      "explanation": "'Vieni' — con dipthongo 'ie'. 'Vieni al cinema con me?' = ¿Venís al cine conmigo? 'Da dove vieni?' = ¿De dónde venís? (para preguntar el origen). 'Vieni!' = ¡Vení! (informal, como imperativo)."
+    },
+    {
+      "front": "lui/lei viene",
+      "back": "él/ella viene",
+      "reading": "",
+      "explanation": "'Viene' — con dipthongo 'ie'. 'Da dove viene?' = ¿De dónde es? 'Viene anche lui?' = ¿Viene él también? 'La pizza viene dall'Italia' = La pizza viene/es de Italia. Origen o procedencia."
+    },
+    {
+      "front": "noi veniamo",
+      "back": "nosotros/as venimos",
+      "reading": "",
+      "explanation": "'Veniamo' — sin dipthongo, con la raíz 'ven-'. 'Veniamo subito!' = ¡Ya vamos! 'Non veniamo alla festa' = No vamos a la fiesta. Notar: noi/voi recuperan la vocal simple 'e' sin dipthongo."
+    },
+    {
+      "front": "voi venite",
+      "back": "ustedes vienen / vosotros venís",
+      "reading": "",
+      "explanation": "'Venite' — 2ª plural. 'Venite anche voi?' = ¿Vienen también ustedes? 'Venite con noi!' = ¡Vengan con nosotros! 'Da dove venite?' = ¿De dónde son (ustedes)?"
+    },
+    {
+      "front": "loro vengono",
+      "back": "ellos/ellas vienen",
+      "reading": "",
+      "explanation": "'Vengono' — con -NG- como la 1ª persona. 'Vengono dall'Argentina' = Vienen de Argentina / Son de Argentina. Patrón: VENGO-VIENI-VIENE-veniamo-venite-VENGONO. Las formas 'fuertes' (io/loro) tienen -NG-."
+    },
+    {
+      "front": "venire da + luogo",
+      "back": "venir de + lugar / ser de + lugar",
+      "reading": "",
+      "explanation": "'Venire da' expresa ORIGEN. 'Vengo dall'Argentina' = Soy de Argentina. 'Viene da Roma' = Es de Roma / Viene de Roma. Ojo: 'da' + articolo: dall'Argentina, dal Messico, dalla Spagna, da Milano (sin artículo con ciudades)."
+    },
+    {
+      "front": "Venire vs Andare — diferencia clave",
+      "back": "Venir (hacia aquí) vs Ir (hacia allá)",
+      "reading": "",
+      "explanation": "Mismo que en español: 'venire' = movimiento HACIA el hablante o punto de referencia. 'Vieni qui!' = ¡Vení acá! 'Vado lì' = Voy allá. En italiano el uso es igual que en español: vengo = me acerco a ti, vado = me alejo de ti."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Venire: conjugación irregular",
+      "instruction": "Venire tiene patrón irregular. Las formas 'fuertes' (io y loro) llevan -NG-: VENGO, VENGONO. Las formas medias tienen diptongo: VIENI, VIENE. Noi y voi son regulares: veniamo, venite.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "introduce",
+      "title": "Venire da = origen/procedencia",
+      "instruction": "'Da dove vieni?' = ¿De dónde sos? 'Vengo da...' = Soy de... / Vengo de... Fundamental para hablar de origen.",
+      "itemIndices": [6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál forma de venire es correcta?",
+      "instruction": "Elegí la forma correcta de 'venire'.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "Conjugá venire",
+      "instruction": "Escribí la forma correcta. Recordá el patrón -NG- en io y loro.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿De dónde venís? — Venire da",
+      "instruction": "Practicá las expresiones de origen con venire + da.",
+      "itemIndices": [6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "Venire: todo dominado",
+      "instruction": "Conjugación: VENGO/VIENI/VIENE/veniamo/venite/VENGONO. Patrón: io y loro tienen -NG- (vengo/vengono), las formas centrales tienen diptongo 'ie' (vieni/viene), noi y voi son regulares. Uso clave: 'venire da' = ser de / proceder de. 'Da dove vieni?' = ¿De dónde sos?",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

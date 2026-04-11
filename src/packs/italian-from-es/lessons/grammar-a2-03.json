@@ -1,0 +1,101 @@
+{
+  "id": "grammar-a2-03",
+  "title": "Participio passato irregolari",
+  "description": "Los participios irregulares más importantes del italiano. La mayoría son verbos -ere. Memorizarlos es fundamental porque son los verbos más usados en el passato prossimo.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "fare → fatto",
+      "back": "hacer → hecho",
+      "reading": "",
+      "explanation": "'Ho fatto i compiti.' = Hice los deberes. Uno de los participi più irregolari e più usati. 'Cosa hai fatto?' = ¿Qué hiciste?"
+    },
+    {
+      "front": "dire → detto",
+      "back": "decir → dicho",
+      "reading": "",
+      "explanation": "'Cosa hai detto?' = ¿Qué dijiste? 'Ti ho detto la verità.' = Te dije la verdad. Paralelo con el español: dicho/detto."
+    },
+    {
+      "front": "scrivere → scritto",
+      "back": "escribir → escrito",
+      "reading": "",
+      "explanation": "'Ho scritto una lettera.' = Escribí una carta. Paralelo español: escrito/scritto. 'Hai scritto il compito?' = ¿Escribiste la tarea?"
+    },
+    {
+      "front": "leggere → letto",
+      "back": "leer → leído",
+      "reading": "",
+      "explanation": "'Ho letto un libro interessante.' = Leí un libro interesante. OJO: 'letto' también significa 'cama' (il letto). El contexto aclara."
+    },
+    {
+      "front": "mettere → messo",
+      "back": "poner → puesto",
+      "reading": "",
+      "explanation": "'Ho messo le chiavi sul tavolo.' = Puse las llaves en la mesa. Igual al español: puesto/messo. También: 'permettere → permesso', 'commettere → commesso'."
+    },
+    {
+      "front": "vedere → visto",
+      "back": "ver → visto",
+      "reading": "",
+      "explanation": "'Ho visto un bel film.' = Vi una buena película. Paralelo exacto con el español: visto/visto. También forma alternativa: 'veduto' (menos usada)."
+    },
+    {
+      "front": "aprire → aperto / chiudere → chiuso",
+      "back": "abrir → abierto / cerrar → cerrado",
+      "reading": "",
+      "explanation": "Paralelos con el español: aperto/abierto, chiuso/cerrado. 'Ho aperto la finestra.' = Abrí la ventana. 'Ho chiuso la porta.' = Cerré la puerta."
+    },
+    {
+      "front": "prendere → preso / rispondere → risposto",
+      "back": "tomar/coger → tomado / responder → respondido",
+      "reading": "",
+      "explanation": "'Ho preso un taxi.' = Tomé un taxi. 'Ho risposto alla domanda.' = Respondí la pregunta. Otros similares: 'chiedere → chiesto', 'spendere → speso'."
+    },
+    {
+      "front": "venire → venuto / rimanere → rimasto",
+      "back": "venir → venido / quedarse → quedado",
+      "reading": "",
+      "explanation": "Estos usan ESSERE. 'È venuto tardi.' = Llegó tarde. 'Sono rimasto a casa.' = Me quedé en casa. Participi con essere siempre concuerdan."
+    },
+    {
+      "front": "bere → bevuto / vivere → vissuto",
+      "back": "beber → bebido / vivir → vivido",
+      "reading": "",
+      "explanation": "'Ho bevuto troppo caffè.' = Bebí demasiado café. 'Ho vissuto a Milano per tre anni.' = Viví en Milán durante tres años. 'Vissuto' usa AVERE."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Los participi irregolari más usados",
+      "instruction": "Estos verbos son cotidianos y sus participios hay que memorizar. Fíjate en los paralelos con el español.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cuál es el participio?",
+      "instruction": "Ves el infinitivo. Escribe el participio passato.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "introduce",
+      "title": "Más participi irregolari",
+      "instruction": "Otros participi importantes. Fíjate cuáles usan essere (venire, rimanere).",
+      "itemIndices": [4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "Participi irregolari — todos",
+      "instruction": "Traduce las oraciones usando el participio passato correcto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "Participi irregolari — dominados",
+      "instruction": "Los más importantes: fare→fatto, dire→detto, scrivere→scritto, leggere→letto, mettere→messo, vedere→visto, aprire→aperto, chiudere→chiuso, prendere→preso, venire→venuto. Muchos tienen paralelos con el español.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

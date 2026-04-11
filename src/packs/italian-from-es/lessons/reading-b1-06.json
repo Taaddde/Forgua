@@ -1,0 +1,83 @@
+{
+  "id": "reading-b1-06",
+  "title": "Lettura: Il sistema scolastico italiano",
+  "description": "Texto B1 sobre la estructura del sistema educativo italiano: ciclos, exámenes y particularidades. Vocabulario institucional y comparación con el sistema hispanohablante.",
+  "level": "b1",
+  "category": "reading",
+  "items": [
+    {
+      "front": "Il sistema scolastico italiano è suddiviso in diversi cicli",
+      "back": "El sistema escolar italiano está dividido en diferentes ciclos",
+      "reading": "",
+      "explanation": "'Suddiviso' = dividido, subdividido (participio di 'suddividere'). 'In diversi cicli' = en diferentes ciclos. La estructura pasiva 'è suddiviso' da objetividad al texto descriptivo-expositivo. 'Ciclo' = ciclo (educativo). Este texto tiene estructura expositiva típica de un texto informativo: define, describe y explica el sistema paso a paso."
+    },
+    {
+      "front": "le cosiddette «medie» (11-14 anni)",
+      "back": "las llamadas 'medias' (escuela secundaria de primer grado, 11-14 años)",
+      "reading": "",
+      "explanation": "'Cosiddette' = las llamadas/los así llamados (participio di 'cosiddetto' = così detto). Se usa para introducir nombres coloquiales o informales de conceptos formales. 'Le medie' es el nombre coloquial de la 'scuola secondaria di primo grado'. En el habla cotidiana italiana: 'Dove vai a scuola?' / 'Vado alle medie'. Similar: 'le elementari' = la scuola primaria."
+    },
+    {
+      "front": "il liceo (classico, scientifico, linguistico, artistico)",
+      "back": "el liceo (clásico, científico, lingüístico, artístico)",
+      "reading": "",
+      "explanation": "'Il liceo' es el tipo de secundaria más académico en Italia, que prepara para la universidad. Variedades: classico (latín y griego), scientifico (ciencias y matemáticas), linguistico (idiomas), artistico (artes). La elección del tipo de liceo a los 13-14 años tiene un impacto significativo en la trayectoria académica. El liceo dura 5 años y culmina con la 'maturità'."
+    },
+    {
+      "front": "si conclude con la maturità, l'esame finale che dà accesso all'università",
+      "back": "concluye con la 'maturità', el examen final que da acceso a la universidad",
+      "reading": "",
+      "explanation": "'Si conclude' = concluye, se concluye (riflessivo impersonale). 'La maturità' = el examen de madurez/bachillerato. Es el equivalente italiano de la selectividad española o el PAES chileno. Consta de pruebas escritas y un examen oral. 'Dà accesso a' = da acceso a. La maturità es un rito de paso muy importante en la cultura italiana, celebrado con fiestas y tradiciones."
+    },
+    {
+      "front": "la laurea triennale (tre anni) e la laurea magistrale (due anni aggiuntivi)",
+      "back": "la licenciatura de tres años y el máster universitario (dos años adicionales)",
+      "reading": "",
+      "explanation": "'La laurea triennale' = título universitario de tres años (equivalente al 'grado' español o 'licenciatura'). 'La laurea magistrale' = máster universitario (dos años adicionales). 'Aggiuntivi' = adicionales. El sistema italiano adoptó el sistema de Bolonia (3+2). 'Laurearsi' = graduarse. 'Il dottore/la dottoressa' en Italia designa a cualquier graduado universitario, no solo a médicos."
+    },
+    {
+      "front": "il dottorato di ricerca per chi vuole fare carriera accademica",
+      "back": "el doctorado de investigación para quien quiere hacer carrera académica",
+      "reading": "",
+      "explanation": "'Il dottorato di ricerca' = el doctorado de investigación (PhD). 'Per chi vuole' = para quien quiere (chi = quien). 'Fare carriera' = hacer carrera, progresar profesionalmente. 'Accademica' = académica. El sistema educativo italiano completo: scuola dell'infanzia (3-6) → primaria (6-11) → medie (11-14) → superiori (14-19) → laurea triennale (3 anni) → magistrale (2 anni) → dottorato (3 anni)."
+    },
+    {
+      "front": "letteratura, storia e filosofia rimangono centrali in quasi tutti i percorsi",
+      "back": "literatura, historia y filosofía siguen siendo centrales en casi todos los recorridos/trayectorias",
+      "reading": "",
+      "explanation": "'Rimangono centrali' = siguen siendo centrales ('rimanere + aggettivo' = seguir siendo). 'Quasi tutti i percorsi' = casi todos los recorridos/trayectorias. 'I percorsi' = las trayectorias, los caminos educativos. Este dato es significativo: incluso en el liceo scientifico, la filosofía y la literatura italiana son asignaturas obligatorias. Refleja la tradición humanista italiana."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El sistema educativo italiano: estructura general",
+      "instruction": "Antes de leer, comparad el sistema italiano con el de tu país. El texto describe un sistema en 5 niveles. ¿Cuántos niveles tiene el sistema de tu país? Observá el vocabulario técnico: ciclo, obbligatoria, liceo, maturità, laurea.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Vocabulario educativo institucional",
+      "instruction": "Estos términos son específicos del sistema educativo italiano. Algunos tienen equivalentes en español, otros no. Identifica cuáles son cognados y cuáles son falsos amigos o terms sin equivalente directo.",
+      "itemIndices": [2, 3, 4, 5]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Comprensión del sistema educativo",
+      "instruction": "Respondé las preguntas sobre el sistema educativo italiano. Algunas requieren que compares con tu propio sistema educativo. ¿Qué te sorprende del sistema italiano?",
+      "itemIndices": [3, 5, 6]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completa el esquema del sistema educativo",
+      "instruction": "Usando el vocabulario del texto, completa la estructura del sistema educativo italiano con los nombres de cada nivel y las edades correspondientes.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "Lectura completada",
+      "instruction": "Vocabulario aprendido: suddiviso, cosiddette/cosiddetti, liceo, maturità, laurea triennale/magistrale, dottorato, percorsi. Nota cultural: en Italia, el título universitario de cualquier campo convierte en 'dottore/dottoressa' y es un título social usado activamente. La filosofía y la literatura son obligatorias en todos los licei — dato que sorprende a muchos extranjeros.",
+      "itemIndices": [2, 4, 6]
+    }
+  ]
+}

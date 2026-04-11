@@ -1,0 +1,107 @@
+{
+  "id": "vocab-a1-09",
+  "title": "I giorni della settimana",
+  "description": "Los días de la semana en italiano. Todos terminan en -ì (con acento) excepto sabato y domenica. Son masculinos excepto domenica.",
+  "level": "a1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "lunedì",
+      "back": "lunes",
+      "reading": "/luneˈdi/",
+      "explanation": "Lunedì. Del latín 'lunae dies' (día de la luna). Acento en la última sílaba. En italiano los días NO se escriben con mayúscula. 'Il lunedì' = los lunes (habitual). 'Lunedì' (sin artículo) = este lunes."
+    },
+    {
+      "front": "martedì",
+      "back": "martes",
+      "reading": "/marteˈdi/",
+      "explanation": "Martedì. Del latín 'Martis dies' (día de Marte). Acento en la última sílaba. 'Martedì grasso' = Martes de Carnaval (el día antes del Miércoles de Ceniza)."
+    },
+    {
+      "front": "mercoledì",
+      "back": "miércoles",
+      "reading": "/merkoleˈdi/",
+      "explanation": "Mercoledì. Del latín 'Mercurii dies' (día de Mercurio). La palabra más larga de los días. Acento en la última sílaba."
+    },
+    {
+      "front": "giovedì",
+      "back": "jueves",
+      "reading": "/dʒoveˈdi/",
+      "explanation": "Giovedì. Del latín 'Iovis dies' (día de Júpiter). La 'gio' suena /dʒo/. Acento en la última sílaba."
+    },
+    {
+      "front": "venerdì",
+      "back": "viernes",
+      "reading": "/venerˈdi/",
+      "explanation": "Venerdì. Del latín 'Veneris dies' (día de Venus). Acento en la última sílaba. 'Il venerdì mangiamo pesce' = los viernes comemos pescado (tradición italiana)."
+    },
+    {
+      "front": "sabato",
+      "back": "sábado",
+      "reading": "/ˈsaːbato/",
+      "explanation": "Sabato. Del latín 'sabbatum'. Acento en la primera sílaba (SAH-ba-to) — diferente a los otros días. Masculino. 'Il sabato sera' = el sábado a la noche."
+    },
+    {
+      "front": "domenica",
+      "back": "domingo",
+      "reading": "/doˈmenika/",
+      "explanation": "Domenica. Del latín 'dies Dominica' (día del Señor). Femenino (la única excepción). 'La domenica' = los domingos. Acento en la segunda sílaba (do-MÉ-ni-ca)."
+    },
+    {
+      "front": "la settimana",
+      "back": "la semana",
+      "reading": "/la settiˈmaːna/",
+      "explanation": "Settimana. Doble 't'. 'La settimana prossima' = la semana próxima/que viene. 'La settimana scorsa' = la semana pasada. 'Durante la settimana' = durante la semana."
+    },
+    {
+      "front": "oggi / ieri / domani",
+      "back": "hoy / ayer / mañana",
+      "reading": "/ˈɔddʒi/ /ˈjɛːri/ /doˈmaːni/",
+      "explanation": "Oggi (hoy), ieri (ayer), domani (mañana). 'Oggi è lunedì' = hoy es lunes. 'L'altro ieri' = anteayer. 'Dopodomani' = pasado mañana."
+    },
+    {
+      "front": "il fine settimana / il weekend",
+      "back": "el fin de semana",
+      "reading": "/il ˈfine settiˈmaːna/",
+      "explanation": "Fine settimana o weekend (anglicismo muy usado en Italia). 'Cosa fai questo fine settimana?' = ¿Qué hacés este fin de semana? 'Il weekend' es más coloquial."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "I giorni della settimana",
+      "instruction": "En italiano los días terminan en -DÌ (con acento) excepto sabato y domenica. Origen latino: luna, Marte, Mercurio, Giove(Júpiter), Venere. Se escriben en MINÚSCULA.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "introduce",
+      "title": "Expresiones de tiempo",
+      "instruction": "Palabras esenciales para hablar del tiempo: la settimana, oggi/ieri/domani, il fine settimana.",
+      "itemIndices": [7, 8, 9]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué día es?",
+      "instruction": "Ves el día en italiano. Elegí la traducción.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "Del español al italiano",
+      "instruction": "Ves el día en español. Escribí el día en italiano (sin mayúscula).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Oraciones con los días",
+      "instruction": "Ordená: Il / vado / lunedì / scuola / a | Domenica / famiglia / mangio / con / la",
+      "itemIndices": [0, 6]
+    },
+    {
+      "type": "summary",
+      "title": "¡I giorni!",
+      "instruction": "lunedì(L), martedì(M), mercoledì(M), giovedì(J), venerdì(V), sabato(S), domenica(D). Minúsculas siempre. Domenica es femenina (la domenica). oggi=hoy, ieri=ayer, domani=mañana.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

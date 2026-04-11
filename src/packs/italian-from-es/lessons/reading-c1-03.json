@@ -1,0 +1,89 @@
+{
+  "id": "reading-c1-03",
+  "title": "La Costituzione italiana: un testo vivente",
+  "description": "Texto de análisis cívico C1. La Constitución italiana de 1948 como documento legal, cultural y casi literario. Vocabulario constitucional y jurídico. Práctica de comprensión de un texto con densidad conceptual alta y relevancia cívica.",
+  "level": "c1",
+  "category": "reading",
+  "items": [
+    {
+      "front": "«È compito della Repubblica rimuovere gli ostacoli di ordine economico e sociale che, limitando di fatto la libertà e l'eguaglianza dei cittadini, impediscono il pieno sviluppo della persona umana.» — Art. 3.2",
+      "back": "El artículo 3, segundo comma: el mandato de igualdad sustancial (no solo formal) de la Costituzione.",
+      "reading": "",
+      "explanation": "Este artículo es el núcleo del proyecto político de la Costituzione. No declara solo igualdad formal ('tutti uguali di fronte alla legge') sino igualdad sostanziale: la República tiene el deber activo de RIMUOVERE (eliminar) los obstáculos materiales. Es un mandato de trasformazione sociale."
+    },
+    {
+      "front": "personalista",
+      "back": "que pone a la persona humana en el centro de los valores",
+      "reading": "/personaˈlista/",
+      "explanation": "La democrazia personalista italiana, en la Costituzione, implica que el Estado existe para el pleno desarrollo de la persona, no viceversa. Concepto de origen filosófico (Emmanuel Mounier, 1930s) que los costituenti adoptaron como fundamento anti-totalitario."
+    },
+    {
+      "front": "antifascista",
+      "back": "opuesto al fascismo — uno de los valores constitutivos de la Costituzione italiana del 1948",
+      "reading": "/antifaˈʃista/",
+      "explanation": "El origen histórico de la Costituzione (Assemblea Costituente, 1946-1948) en la experiencia del fascismo y la guerra hace del antifascismo uno de sus valores constitutivos. Este no es un accidente: es diseño deliberado de los costituenti para prevenir el retorno del totalitarismo."
+    },
+    {
+      "front": "legalesé",
+      "back": "neologismo italiano: lenguaje jurídico excesivamente técnico e incomprensible para el ciudadano",
+      "reading": "/legaˈleze/",
+      "explanation": "De 'legale' + sufijo peyorativo -ese (como 'burocratese', 'politichese'). El texto señala que la Costituzione NO está escrita en legalesé — es una de sus grandezze. Los costituenti eligieron conscientemente una prosa meditata e quasi letteraria para que el testo fosse leggibile da tutti i cittadini."
+    },
+    {
+      "front": "redattori",
+      "back": "redactores / autores del texto — la Assemblea Costituente (1946-1948)",
+      "reading": "/redatˈtori/",
+      "explanation": "La Assemblea Costituente fue elegida democráticamente en 1946 (primera vez que votaron las mujeres italianas). Sus 556 miembros incluían a Piero Calamandrei (jurista), Luigi Einaudi (economista y luego presidente), Aldo Moro (democristiano), Palmiro Togliatti (comunista) — un arco amplísimo."
+    },
+    {
+      "front": "poema civile",
+      "back": "metáfora elevada: la Constitución como texto poético de valor civil, no solo como ley.",
+      "reading": "",
+      "explanation": "Piero Calamandrei sostenía que la Costituzione era anche un documento di cultura. La imagen 'poema civile' (poema cívico) captura esta doble naturaleza: es un texto jurídico vinculante Y un documento de valores y aspiraciones culturales compartidas. La metáfora literaliza la dimensión estética de la Costituzione."
+    },
+    {
+      "front": "Le due sfide del costituzionalismo contemporaneo: interpretativa (adattare il 1948 al mondo digitale) + culturale (riappropriarsi del testo).",
+      "back": "Las dos grandes tensiones del constitucionalismo italiano contemporáneo.",
+      "reading": "",
+      "explanation": "La sfida interpretativa: cómo aplicar normas de 1948 a situaciones no previstas (internet, globalización, biotecnología). La sfida culturale: cómo hacer que los cittadini vivan la Costituzione como propia — no como documento de élites jurídicas. Las dos sfide son inseparables: sin apropiación cultural, la interpretación jurídica queda en manos de pocos."
+    },
+    {
+      "front": "contratto sociale e poema civile",
+      "back": "La doble naturaleza de la Costituzione: acuerdo fundamental entre ciudadanos y Estado + texto de valores culturales compartidos.",
+      "reading": "",
+      "explanation": "Como 'contratto sociale' (Rousseau): la Costituzione es el acuerdo de fundación de la comunità politica italiana. Como 'poema civile': tiene una dignità culturale propia que trasciende la norma jurídica. Esta dualidad hace de la Costituzione uno de los textos más importantes de la civiltà italiana del Novecento."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Antes de leer: la Costituzione como texto",
+      "instruction": "La Costituzione italiana (1948) es considerada por los constitucionalistas una de las más avanzadas de Occidente. Nació de la experiencia del fascismo y la guerra. Lo que la hace única no es solo su contenido jurídico sino su calidad textual: fue escrita con conciencia literaria. Lee el texto identificando esta doble dimensión (jurídica + cultural).",
+      "itemIndices": [0, 2]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Vocabulario cívico-jurídico",
+      "instruction": "Estos términos son específicos del discurso constitucional y jurídico italiano. Algunos tienen equivalentes exactos en español; otros son específicamente italianos (legalesé). Deducí el significado del contexto antes de leer la explicación.",
+      "itemIndices": [1, 3, 4]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Comprensión e análisis",
+      "instruction": "Responde: (1) ¿Cuál es la novedad del Art. 3.2 de la Costituzione? (2) ¿Por qué fue escrita en prosa meditada y no en legalesé? (3) ¿Cuáles son las dos sfide del costituzionalismo contemporaneo? (4) ¿Qué significa 'contratto sociale e poema civile'?",
+      "itemIndices": [0, 5, 6, 7]
+    },
+    {
+      "type": "recall",
+      "title": "El argumento del texto",
+      "instruction": "Reconstruye el argomento principale del texto: por qué la Costituzione italiana es un testo 'vivente' — qué implica esa metáfora en el contexto del artículo.",
+      "itemIndices": [0, 5, 6]
+    },
+    {
+      "type": "summary",
+      "title": "Lettura cívica completada",
+      "instruction": "Vocabulario clave: personalista, antifascista, legalesé, poema civile, contratto sociale. Concetto centrale: la Costituzione italiana es unique porque combina rigor jurídico con calidad literaria y mandato de transformación social activa. Para profundizar: leer 'Calamandrei presenta la Costituzione agli studenti' (discurso de 1955, disponible online) — uno de los textos más bellos sobre la Costituzione.",
+      "itemIndices": [0, 5, 6, 7]
+    }
+  ]
+}

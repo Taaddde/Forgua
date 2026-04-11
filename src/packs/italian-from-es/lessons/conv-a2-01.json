@@ -1,0 +1,95 @@
+{
+  "id": "conv-a2-01",
+  "title": "Conversazione: Al supermercato",
+  "description": "Hacer las compras en el supermercado italiano. Pedir información sobre productos, preguntar precios, ubicación de secciones y hablar con la cajera. Vocabulario de comida y cantidades.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Scusi, dove si trovano le verdure?",
+      "back": "Perdón, ¿dónde están las verduras?",
+      "reading": "",
+      "explanation": "'Dove si trovano' = ¿dónde se encuentran? (si trova/trovano = forma impersonal). Más natural que solo 'dov'è'. 'Le verdure' = las verduras. 'La frutta' = la fruta (colectivo, f.sg. en italiano). 'I latticini' = los lácteos. 'La carne' = la carne. 'Il pane' = el pan."
+    },
+    {
+      "front": "Cerco l'olio d'oliva. Sa dove si trova?",
+      "back": "Busco el aceite de oliva. ¿Sabe dónde está?",
+      "reading": "",
+      "explanation": "'Cerco' = busco. 'Sa dove si trova?' = ¿sabe dónde está? (formal, 3ª sing. di sapere). 'Sai dove si trova?' = ¿sabés dónde está? (informal). Esta estructura 'sa/sai dove si trova?' es muy natural para preguntar sobre la ubicación de un producto."
+    },
+    {
+      "front": "È al terzo corridoio, a sinistra.",
+      "back": "Está en el tercer pasillo, a la izquierda.",
+      "reading": "",
+      "explanation": "'Il corridoio' = el pasillo (del supermercado). 'Al terzo corridoio' = en el tercer pasillo. 'A sinistra' = a la izquierda. 'A destra' = a la derecha. 'In fondo' = al fondo. 'Vicino alle casse' = cerca de las cajas."
+    },
+    {
+      "front": "Quanto costa questo? / Quanto costano questi?",
+      "back": "¿Cuánto cuesta esto? / ¿Cuánto cuestan estos?",
+      "reading": "",
+      "explanation": "'Quanto costa?' = ¿cuánto cuesta? (sing.). 'Quanto costano?' = ¿cuánto cuestan? (pl.). 'Che prezzo ha?' = ¿qué precio tiene? 'È in offerta?' = ¿está en oferta? 'Il prezzo' = el precio. 'Lo sconto' = el descuento. 'L'offerta' = la oferta/promoción."
+    },
+    {
+      "front": "Prendo un chilo di pomodori e mezzo chilo di mozzarella.",
+      "back": "Tomo/llevo un kilo de tomates y medio kilo de mozzarella.",
+      "reading": "",
+      "explanation": "Unidades de medida en el super: 'un chilo di...' = un kilo de, 'mezzo chilo' = medio kilo (500g), 'un etto' = 100 grammos (muy usado en Italia para salchichería), 'una confezione di' = un paquete de, 'un litro di' = un litro de. 'I pomodori' = los tomates (m.pl.)."
+    },
+    {
+      "front": "— Buongiorno! Ha la tessera fedeltà?\n— No, non ce l'ho. Posso farne una?\n— Certo! Compila questo modulo.\n— Pago con carta di credito?\n— Sì, certo. Carta o contanti?\n— Carta, grazie.\n— Ecco lo scontrino. Arrivederci!\n— Grazie, buona giornata!",
+      "back": "— ¡Buenos días! ¿Tiene la tarjeta de fidelidad?\n— No, no la tengo. ¿Puedo hacerme una?\n— ¡Por supuesto! Complete este formulario.\n— ¿Pago con tarjeta de crédito?\n— Sí, claro. ¿Tarjeta o efectivo?\n— Tarjeta, gracias.\n— Aquí está el ticket. ¡Hasta luego!\n— ¡Gracias, que tenga buen día!",
+      "reading": "",
+      "explanation": "Diálogo en la caja del supermercado. 'La tessera fedeltà' = la tarjeta de fidelidad (muy común en supermercados italianos). 'Non ce l'ho' = no la tengo (ce l' = particella). 'Compila questo modulo' = complete este formulario (imperativo formale). 'I contanti' = el efectivo. 'Lo scontrino' = el ticket/recibo."
+    },
+    {
+      "front": "Ha i sacchetti? / Vuole un sacchetto?",
+      "back": "¿Tiene bolsas? / ¿Quiere una bolsa?",
+      "reading": "",
+      "explanation": "'Il sacchetto' = la bolsa de plástico/compras. En Italia las bolsas de plástico cuestan (ley medioambiental). La alternativa: 'la borsa della spesa' = la bolsa de la compra (reutilizable). 'Fare la spesa' = hacer las compras (expresión fija con fare). 'La spesa' = las compras del supermercado."
+    },
+    {
+      "front": "Devo fare la spesa: ho bisogno di latte, uova, pane e frutta.",
+      "back": "Tengo que hacer las compras: necesito leche, huevos, pan y fruta.",
+      "reading": "",
+      "explanation": "'Fare la spesa' = hacer las compras (en el supermercado). 'Ho bisogno di' = necesito (avere bisogno di). 'Il latte' = la leche. 'Le uova' = los huevos (f.pl., singular: l'uovo, m.sg. — irregular). 'Il pane' = el pan. 'La frutta' = la fruta. Una lista de la compra típica."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "En el supermercado: vocabulario y preguntas",
+      "instruction": "Para orientarse: 'Dove si trovano...?' y 'Cerco...'. Para precios: 'Quanto costa/costano?' y 'È in offerta?'. Unidades: chilo, mezzo chilo, etto, litro, confezione.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "En la caja y hacer la spesa",
+      "instruction": "Fórmulas en la caja: tessera fedeltà, carta/contanti, scontrino. Vocabulario de la spesa: latte, uova, pane, frutta, verdure.",
+      "itemIndices": [5, 6, 7]
+    },
+    {
+      "type": "conversation-script",
+      "title": "En la caja del supermercato",
+      "instruction": "Practicá el diálogo en la caja. Primero el cliente, luego la cassiera (cajera).",
+      "itemIndices": [5]
+    },
+    {
+      "type": "recall",
+      "title": "Preguntas y respuestas del super",
+      "instruction": "Traducí al italiano estas situaciones del supermercado.",
+      "itemIndices": [0, 1, 3, 4, 7]
+    },
+    {
+      "type": "speak",
+      "title": "Hacé la compra en italiano",
+      "instruction": "Estás en un supermercado italiano. Decí qué necesitás comprar, preguntá dónde está un producto y cuánto cuesta. Luego pagá con tarjeta.",
+      "itemIndices": [0, 3, 4, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "Al supermercato: dominado",
+      "instruction": "Pedir ubicación: 'Dove si trovano...? / Cerco..., sa dove si trova?' Secciones: verdure, frutta, latticini, carne, pane. Cantidad: un chilo, mezzo chilo, un etto, un litro, una confezione. Precio: Quanto costa/costano? È in offerta? En la caja: tessera fedeltà, pagare con carta/contanti, lo scontrino. Bolsa: il sacchetto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

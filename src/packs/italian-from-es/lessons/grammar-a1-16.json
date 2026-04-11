@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a1-16",
+  "title": "Verbi modali: Potere, Volere, Dovere",
+  "description": "Los verbos modales italianos equivalen a poder, querer y deber del español. Son irregulares pero muy frecuentes. Se combinan con el infinitivo del verbo principal.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "POTERE: posso / puoi / può / possiamo / potete / possono",
+      "back": "PODER: puedo / podés / puede / podemos / podéis / pueden",
+      "reading": "",
+      "explanation": "Potere = poder. Patrón irregular: POSSO-PUOI-PUÒ-possiamo-potete-POSSONO. Las formas de io y loro llevan doble S. 'Posso entrare?' = ¿Puedo entrar? 'Non posso venire' = No puedo venir."
+    },
+    {
+      "front": "VOLERE: voglio / vuoi / vuole / vogliamo / volete / vogliono",
+      "back": "QUERER: quiero / querés / quiere / queremos / queréis / quieren",
+      "reading": "",
+      "explanation": "Volere = querer. Muy irregular: VOGLIO-VUOI-VUOLE-vogliamo-volete-VOGLIONO. 'Voglio un caffè' = Quiero un café. 'Cosa vuoi fare?' = ¿Qué querés hacer? 'Vogliamo andare al cinema' = Queremos ir al cine."
+    },
+    {
+      "front": "DOVERE: devo / devi / deve / dobbiamo / dovete / devono",
+      "back": "DEBER/TENER QUE: debo / debés / debe / debemos / debéis / deben",
+      "reading": "",
+      "explanation": "Dovere = deber, tener que. DEVO-DEVI-DEVE-dobbiamo-dovete-DEVONO. Cuidado: noi es 'dobbiamo' (no *doviamo). 'Devo studiare' = Tengo que estudiar. 'Dobbiamo andare' = Tenemos que ir."
+    },
+    {
+      "front": "Modale + INFINITO: posso mangiare / voglio dormire / devo lavorare",
+      "back": "Modal + INFINITIVO: puedo comer / quiero dormir / debo trabajar",
+      "reading": "",
+      "explanation": "Los modales siempre van seguidos del INFINITIVO del verbo principal (sin 'di' entre ellos). 'Posso mangiare?' = ¿Puedo comer? 'Vuole venire?' = ¿Quiere venir? 'Devo studiare' = Tengo que estudiar. Exactamente igual que en español."
+    },
+    {
+      "front": "Non posso / non voglio / non devo",
+      "back": "No puedo / no quiero / no debo",
+      "reading": "",
+      "explanation": "La negación va ANTES del modal: 'non posso venire' = no puedo venir. 'Non voglio mangiare' = No quiero comer. 'Non devi preoccuparti' = No tenés que preocuparte. Igual que en español."
+    },
+    {
+      "front": "Vorrei... (condicional de volere)",
+      "back": "Quisiera... / Me gustaría...",
+      "reading": "",
+      "explanation": "'Vorrei' es el condicional de 'volere' y se usa para pedir cortésmente. 'Vorrei un caffè, per favore' = Quisiera un café, por favor. Mucho más educado que 'voglio' en situaciones formales como bares o restaurantes."
+    },
+    {
+      "front": "Potere per chiedere permesso: Posso...?",
+      "back": "Pedir permiso: ¿Puedo...?",
+      "reading": "",
+      "explanation": "'Posso aprire la finestra?' = ¿Puedo abrir la ventana? 'Posso usare il bagno?' = ¿Puedo usar el baño? 'Posso' es la forma más directa. Para más cortesía: 'Potrei...?' (condicional) = ¿Podría...?"
+    },
+    {
+      "front": "Dovere vs Doversi: devo andare / mi devo lavare",
+      "back": "Tener que ir / Tener que lavarme",
+      "reading": "",
+      "explanation": "Con verbos reflexivos, el pronombre reflexivo puede ir antes del modal o unido al infinitivo. 'Mi devo lavare' = 'Devo lavarmi' (ambas formas son correctas). Esta flexibilidad es igual que en español: 'me tengo que lavar' = 'tengo que lavarme'."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Los tres verbos modales clave",
+      "instruction": "POTERE (poder), VOLERE (querer), DOVERE (deber/tener que). Todos son irregulares y se combinan con el infinitivo. Memorizá las conjugaciones — las usarás constantemente.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Modal + infinitivo: la estructura",
+      "instruction": "Modal conjugado + INFINITIVO (sin preposición entre ellos). 'Posso mangiare', 'voglio dormire', 'devo lavorare'. Igual que en español.",
+      "itemIndices": [3, 4, 5, 6]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál forma modal es correcta?",
+      "instruction": "Elegí la forma correcta del verbo modal para cada sujeto.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "recall",
+      "title": "Conjugá los modales",
+      "instruction": "Escribí la forma correcta del modal indicado.",
+      "itemIndices": [0, 1, 2, 5, 6]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Construí oraciones con modales",
+      "instruction": "Usá el modal correcto + infinitivo para cada situación.",
+      "itemIndices": [3, 4, 7]
+    },
+    {
+      "type": "summary",
+      "title": "Modales: potere, volere, dovere",
+      "instruction": "POTERE: posso/puoi/può/possiamo/potete/possono. VOLERE: voglio/vuoi/vuole/vogliamo/volete/vogliono. DOVERE: devo/devi/deve/dobbiamo/dovete/devono. Estructura: MODAL + INFINITIVO. Cortesía: 'vorrei' (quisiera) en lugar de 'voglio'. 'Posso...?' para pedir permiso.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "grammar-b2-15",
+  "title": "Ne avanzato — accordo del participio",
+  "description": "Los usos avanzados del pronombre 'ne' y la concordancia obligatoria del participio pasado cuando 'ne' tiene valor partitivo como complemento directo.",
+  "level": "b2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Quante email hai ricevuto? Ne ho ricevute tante.",
+      "back": "¿Cuántos correos recibiste? Recibí muchos.",
+      "reading": "",
+      "explanation": "NE PARTITIVO + ACCORDO DEL PARTICIPIO: cuando 'ne' es complemento oggetto diretto con valore partitivo, el participio CONCUERDA con el nombre al que se refiere. 'Email' es femenino plural → 'ricevute'. FORMAZIONE DELL'ACCORDO: ne concuerda como si el sustantivo estuviera explícito. ✗ 'Ne ho ricevuto tante' (incorrecto) → ✓ 'Ne ho ricevute tante'."
+    },
+    {
+      "front": "Quanti vini hai assaggiato? Ne ho assaggiati solo due.",
+      "back": "¿Cuántos vinos probaste? Solo probé dos.",
+      "reading": "",
+      "explanation": "'Vini' es masculino plural → participio 'assaggiati' (m.pl.). La concordanza funciona igual que con i pronomi diretti lo/la/li/le: el participio concuerda con el género y número del nombre al que se refiere 'ne'. Contraste: 'Li ho assaggiati' (accordo obbligatorio con li) = mismo valor que 'Ne ho assaggiati due'."
+    },
+    {
+      "front": "Hai bevuto del vino? Ne ho bevuto un bicchiere.",
+      "back": "¿Bebiste vino? Bebí un vaso.",
+      "reading": "",
+      "explanation": "Cuando 'ne' es partitivo pero la cantidad especificada es singular, el participio puede quedar en forma base (m.sg.) si la cantidad es indeterminada o singular. 'Un bicchiere' es singular → 'bevuto' (m.sg.) es aceptable. VARIABILITÀ: en la práctica, hay cierta permisividad con el singular, pero en el plural la concordanza es muy marcada: 'Ne ho mangiate tre' (torte, f.pl.)."
+    },
+    {
+      "front": "Di quel problema ne abbiamo già parlato.",
+      "back": "De ese problema ya hemos hablado.",
+      "reading": "",
+      "explanation": "'Ne' CON VALORE DI 'DI + PRONOME': aquí 'ne' = 'di quello/di esso'. No hay accordo del participio porque 'parlare' es verbo intransitivo (no tiene complemento oggetto diretto). La regla del accordo se aplica SOLO cuando 'ne' es complemento oggetto diretto (con verbos transitivos y valore partitivo). Con verbos intransitivi o preposizionali → NO accordo."
+    },
+    {
+      "front": "Sei andato in montagna? Sì, ne sono appena tornato.",
+      "back": "¿Fuiste a la montaña? Sí, acabo de volver de allí.",
+      "reading": "",
+      "explanation": "'Ne' LOCATIVO (= da lì, da quel posto): 'tornare' es intransitivo + participio concuerda con il soggetto ('tornato' m.sg.). Aquí 'ne' = 'da lì', no es objeto directo → NO accordo per il ne. El participio concuerda con il soggetto (normale regola di accordo con essere). No confundas: ne locativo ≠ ne partitivo. Solo el ne PARTITIVO como oggetto diretto provoca accordo."
+    },
+    {
+      "front": "Quante torte ha fatto? Ne ha fatte tre.",
+      "back": "¿Cuántas tartas hizo? Hizo tres.",
+      "reading": "",
+      "explanation": "'Torte' (f.pl.) → 'fatte' (f.pl.). La concordanza es clara: tre torte = fatte. Compará: 'Quanti panini ha fatto? Ne ha fatti quattro' (panini m.pl. → fatti). REGOLA RIASSUNTIVA: ne partitivo come oggetto diretto → participio concuerda con il genere e numero del sustantivo referido. La 'persona' (grammaticale) del sujeto no influye: ne ho mangiati (io), ne ha mangiati (lui), ne hanno mangiati (loro)."
+    },
+    {
+      "front": "Me ne sono accorto subito. / Non me ne sono accorta per niente.",
+      "back": "Me di cuenta enseguida. / No me di cuenta para nada.",
+      "reading": "",
+      "explanation": "ACCORGERSI + NE: verbo riflessivo con 'ne'. El participio concuerda con il soggetto (verbo essere). 'Me ne sono accorto' (io, m.) / 'me ne sono accorta' (io, f.). Aquí 'ne' = 'di quella cosa', no es partitivo → participio concuerda con soggetto, no con 'ne'. Molto comune in situazione reale: 'Non te ne sei accorto?' = ¿No te diste cuenta?"
+    },
+    {
+      "front": "Avevi del pane? Ne avevo moltissimo. / Avevi delle mele? Ne avevo molte.",
+      "back": "¿Tenías pan? Tenía muchísimo. / ¿Tenías manzanas? Tenía muchas.",
+      "reading": "",
+      "explanation": "Ne con avere al imperfetto: sin accordo del participio porque el imperfecto no lleva participio. El accordo del participio con 'ne' se aplica SOLO en los tempi composti (con avere ausiliare). En el presente, imperfetto, futuro... no hay participio → no hay problema de accordo. La regla es: participio passato in tempo composto con avere + ne partitivo come oggetto diretto → accordo."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "La regla del accordo con ne partitivo",
+      "instruction": "Cuando 'ne' reemplaza un complemento oggetto diretto con valore partitivo (cuántos, una parte de), el participio pasado concuerda con el sustantivo sustituido. Ne ho mangiati (m.pl.), ne ho mangiate (f.pl.), ne ho mangiato (m.sg.).",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Cuándo NO hay accordo: ne locativo y preposizionale",
+      "instruction": "NE LOCATIVO (= da lì): no hay accordo especial, el participio concuerda con el soggetto. NE PREPOSIZIONALE (= di quello, con verbi intransitivi): no hay accordo porque no hay oggetto diretto. La clave: ¿'ne' reemplaza un oggetto diretto partitivo? Sí → accordo. No → regla normal.",
+      "itemIndices": [3, 4]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Accordo o no? Identifica el tipo de 'ne'",
+      "instruction": "Para cada frase, decide si 'ne' es partitivo-oggetto diretto (accordo) o locativo/preposizionale (sin accordo especial). Esta distinción es la clave del nivel B2.",
+      "itemIndices": [3, 4, 5, 7]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con el participio correcto",
+      "instruction": "Elige la forma correcta del participio pasado según el tipo de 'ne' y el sustantivo referido.",
+      "itemIndices": [0, 1, 5, 6]
+    },
+    {
+      "type": "error-correction",
+      "title": "Errori di accordo con ne",
+      "instruction": "El error más frecuente: no aplicar el accordo cuando es partitivo, o aplicarlo erróneamente cuando es locativo.",
+      "itemIndices": [0, 4]
+    },
+    {
+      "type": "summary",
+      "title": "Ne avanzato — accordo del participio consolidado",
+      "instruction": "REGOLA: ne partitivo come oggetto diretto + tempo composto con avere → participio concuerda con il sustantivo referido. Ne ho mangiati (panini, m.pl.), ne ho mangiate (torte, f.pl.). NO accordo speciale: ne locativo (tornato si acuerda con soggetto), ne preposizionale (no oggetto diretto). La clave: ¿ne reemplaza un oggetto diretto? ¿Hay partitivo?",
+      "itemIndices": [0, 1, 3, 4, 5]
+    }
+  ]
+}

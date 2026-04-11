@@ -1,0 +1,198 @@
+{
+  "id": "vocab-b2-02",
+  "title": "Diritto e amministrazione",
+  "description": "Vocabulario jurídico y administrativo italiano. Esencial para entender documentos legales, noticias sobre política y burocracia italiana.",
+  "level": "b2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "la legge",
+      "back": "la ley",
+      "reading": "",
+      "explanation": "Plural: 'le leggi'. 'La legge entra in vigore' = la ley entra en vigor. 'Secondo la legge' = según la ley. 'Fare la legge' = dictar la ley. Verbo: legiferare (legislar)."
+    },
+    {
+      "front": "il decreto",
+      "back": "el decreto",
+      "reading": "",
+      "explanation": "Plural: 'i decreti'. Tipos: 'decreto legge' (DL) = decreto ley; 'decreto legislativo' (D.Lgs.) = decreto legislativo. 'Emanare un decreto' = emitir un decreto."
+    },
+    {
+      "front": "il regolamento",
+      "back": "el reglamento / la normativa",
+      "reading": "",
+      "explanation": "Norm di rango inferiore alla legge. 'Il regolamento UE' = el reglamento de la UE. 'Il regolamento interno' = el reglamento interno (de una empresa/institución)."
+    },
+    {
+      "front": "la norma",
+      "back": "la norma / la regla / la disposición",
+      "reading": "",
+      "explanation": "'Le norme vigenti' = las normas vigentes. 'A norma di legge' = conforme a la ley. 'Norma tecnica' = norma técnica. Aggettivo: 'normale', 'normativo'."
+    },
+    {
+      "front": "l'articolo (m.)",
+      "back": "el artículo (de ley)",
+      "reading": "",
+      "explanation": "En contexto legal: artículo de una ley o reglamento. 'L'articolo 18' = el artículo 18. 'Ai sensi dell'articolo 5' = en virtud del artículo 5. También: artículo periodístico."
+    },
+    {
+      "front": "il comma",
+      "back": "el inciso / el apartado (de un artículo de ley)",
+      "reading": "",
+      "explanation": "Subdivisión de un artículo legal. 'Il comma 3 dell'articolo 5' = el apartado 3 del artículo 5. No confundir con 'virgola' (la coma de puntuación)."
+    },
+    {
+      "front": "il contratto",
+      "back": "el contrato",
+      "reading": "",
+      "explanation": "'Stipulare / firmare un contratto' = celebrar / firmar un contrato. 'Contratto di lavoro' = contrato de trabajo. 'Contratto a tempo determinato/indeterminato' = contrato temporal/indefinido."
+    },
+    {
+      "front": "l'accordo (m.)",
+      "back": "el acuerdo / el pacto",
+      "reading": "",
+      "explanation": "'Raggiungere un accordo' = alcanzar un acuerdo. 'Essere d'accordo' = estar de acuerdo. 'Accordo commerciale' = acuerdo comercial. 'Accordo quadro' = acuerdo marco."
+    },
+    {
+      "front": "la sentenza",
+      "back": "la sentencia judicial",
+      "reading": "",
+      "explanation": "'Emettere una sentenza' = dictar/emitir una sentencia. 'Sentenza di condanna/assoluzione' = sentencia condenatoria/absolutoria. 'Passare in giudicato' = adquirir firmeza."
+    },
+    {
+      "front": "il ricorso",
+      "back": "el recurso (legal) / la apelación",
+      "reading": "",
+      "explanation": "'Presentare/fare ricorso' = presentar recurso. 'Ricorso al TAR' = recurso ante el tribunal administrativo regional. También: 'far ricorso a' (recurrir a algo)."
+    },
+    {
+      "front": "l'appello (m.)",
+      "back": "la apelación (segunda instancia judicial)",
+      "reading": "",
+      "explanation": "'Il tribunale d'appello' = el tribunal de apelación. 'Fare appello' = apelar. También: 'fare appello a' = apelar/invocar algo, como 'fare appello alla coscienza'."
+    },
+    {
+      "front": "la procedura",
+      "back": "el procedimiento / el trámite",
+      "reading": "",
+      "explanation": "'Procedura burocratica' = trámite burocrático. 'Procedura d'infrazione' = procedimiento de infracción (de la UE). Aggettivo: procedurale. 'Vizio procedurale' = defecto de procedimiento."
+    },
+    {
+      "front": "l'autorità competente",
+      "back": "la autoridad competente",
+      "reading": "",
+      "explanation": "Plural: 'le autorità competenti'. En Italia hay muchas autoridades independientes: AGCOM, AGCM, ecc. 'Rivolgersi all'autorità competente' = dirigirse a la autoridad competente."
+    },
+    {
+      "front": "vigente",
+      "back": "vigente / en vigor",
+      "reading": "",
+      "explanation": "De 'vigere' (estar en vigor). 'La normativa vigente' = la normativa vigente. 'Entrare in vigore' = entrar en vigor. Contrario: abrogato, abrogata (derogado)."
+    },
+    {
+      "front": "competente",
+      "back": "competente / con jurisdicción",
+      "reading": "",
+      "explanation": "Dos sentidos: (1) con habilidad/pericia (un avvocato competente); (2) con jurisdicción/competencia legal (il giudice competente). Sustantivo: 'la competenza'."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Fuentes del derecho italiano",
+      "instruction": "En Italia, la jerarquía de fuentes es: Constitución > Leggi > Decreti > Regolamenti. Conocer estos términos es indispensable para leer noticias políticas.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Contratos y acuerdos",
+      "instruction": "Términos para el derecho privado y comercial: contratti, accordi y las garantías.",
+      "itemIndices": [
+        6,
+        7
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "El sistema judicial",
+      "instruction": "Sentenze, ricorsi, appelli: el vocabulario de los tribunales italianos.",
+      "itemIndices": [
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Adjetivos jurídicos clave",
+      "instruction": "'Vigente' y 'competente' aparecen constantemente en textos legales y administrativos.",
+      "itemIndices": [
+        13,
+        14
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "Repaso general",
+      "instruction": "Repasa todo el vocabulario jurídico-administrativo.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completa el texto legal",
+      "instruction": "Elige el término correcto para cada contexto.",
+      "itemIndices": [
+        0,
+        2,
+        6,
+        8,
+        9,
+        13,
+        14
+      ]
+    },
+    {
+      "type": "summary",
+      "title": "Diritto e amministrazione — dominado",
+      "instruction": "Has aprendido el vocabulario básico del derecho italiano. Recuerda: legge > decreto > regolamento (jerarquía). Sentenza → ricorso → appello (proceso de impugnación). 'Vigente' = en vigor, 'competente' tiene doble sentido.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        6,
+        7,
+        8,
+        9,
+        10,
+        13,
+        14
+      ]
+    }
+  ]
+}

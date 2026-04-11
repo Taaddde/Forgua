@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a1-27",
+  "title": "Piacere — Mi piace / Mi piacciono",
+  "description": "Piacere es el verbo 'gustar' del italiano. Como en español 'me gusta/me gustan', en italiano el verbo concuerda con lo que gusta (singular o plural), no con la persona.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Mi piace — me gusta (+ singular o infinitivo)",
+      "back": "Me gusta (una cosa / una acción)",
+      "reading": "",
+      "explanation": "'Mi piace' = me gusta. Se usa con: sustantivos SINGULARES ('Mi piace il caffè' = Me gusta el café) e INFINITIVOS ('Mi piace ballare' = Me gusta bailar). 'Mi piace' usa la 3ª persona singular de piacere."
+    },
+    {
+      "front": "Mi piacciono — me gustan (+ plural)",
+      "back": "Me gustan (varias cosas)",
+      "reading": "",
+      "explanation": "'Mi piacciono' = me gustan. Se usa con sustantivos PLURALES. 'Mi piacciono le pizze' = Me gustan las pizzas. 'Mi piacciono i gatti' = Me gustan los gatos. La diferencia: piace (sing.) vs piacciono (pl.)."
+    },
+    {
+      "front": "Ti piace? / Ti piacciono?",
+      "back": "¿Te gusta? / ¿Te gustan?",
+      "reading": "",
+      "explanation": "'Ti piace il calcio?' = ¿Te gusta el fútbol? 'Ti piacciono i film d'azione?' = ¿Te gustan las películas de acción? El pronombre cambia (mi/ti/gli/le/ci/vi/gli) pero la estructura es igual."
+    },
+    {
+      "front": "Gli piace (a lui) / Le piace (a lei)",
+      "back": "Le gusta (a él) / Le gusta (a ella)",
+      "reading": "",
+      "explanation": "3ª persona singular: 'gli' (a él) o 'le' (a ella). 'A Marco piace la musica' = A Marco le gusta la música. 'Gli piace molto' = Le gusta mucho (a él). 'Le piace cucinare' = Le gusta cocinar (a ella). El contexto determina si es él o ella."
+    },
+    {
+      "front": "Ci piace / Vi piace / Gli piace (a loro)",
+      "back": "Nos gusta / Os/Les gusta / Les gusta (a ellos)",
+      "reading": "",
+      "explanation": "Plural: 'ci piace/piacciono' (a nosotros), 'vi piace/piacciono' (a vosotros/ustedes), 'gli piace/piacciono' (a ellos — mismo pronombre que 'a él' en italiano moderno). 'Ci piace l'Italia' = Nos gusta Italia."
+    },
+    {
+      "front": "Non mi piace / Non mi piacciono",
+      "back": "No me gusta / No me gustan",
+      "reading": "",
+      "explanation": "Negación: 'non' antes del pronombre o del verbo. 'Non mi piace il pesce' = No me gusta el pescado. 'Non mi piacciono i funghi' = No me gustan los hongos. Simple: non + mi piace/piacciono."
+    },
+    {
+      "front": "Mi piace molto / Mi piace tantissimo / Non mi piace per niente",
+      "back": "Me gusta mucho / Me gusta muchísimo / No me gusta para nada",
+      "reading": "",
+      "explanation": "Con intensificadores: 'molto' (mucho), 'tantissimo' (muchísimo), 'abbastanza' (bastante), 'un po'' (un poco), 'per niente/affatto' (para nada). 'Mi piace tantissimo la musica italiana!' = ¡Me gusta muchísimo la música italiana!"
+    },
+    {
+      "front": "Cosa ti piace? / Cosa ti piace fare?",
+      "back": "¿Qué te gusta? / ¿Qué te gusta hacer?",
+      "reading": "",
+      "explanation": "Preguntas frecuentes. 'Cosa ti piace?' = ¿Qué te gusta? 'Cosa ti piace fare nel tempo libero?' = ¿Qué te gusta hacer en tu tiempo libre? 'Quale musica ti piace?' = ¿Qué música te gusta? Muy útil para conocer personas."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Piacere: el verbo 'gustar' del italiano",
+      "instruction": "Como en español 'me gusta/me gustan', en italiano el verbo concuerda con LO QUE GUSTA. MI PIACE para singular/infinitivo, MI PIACCIONO para plural. El pronombre (mi/ti/gli...) indica A QUIÉN le gusta.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Todos los pronombres con piacere",
+      "instruction": "mi piace (a mí), ti piace (a ti), gli/le piace (a él/ella), ci piace (a nosotros), vi piace (a vosotros), gli piace (a ellos). Más negación e intensificadores.",
+      "itemIndices": [3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Piace o piacciono?",
+      "instruction": "Mirá lo que gusta: ¿es singular o plural? Elige la forma correcta.",
+      "itemIndices": [0, 1, 2, 3, 5]
+    },
+    {
+      "type": "recall",
+      "title": "Traducí con piacere",
+      "instruction": "Del español al italiano. Elegí el pronombre y la forma verbal correcta.",
+      "itemIndices": [0, 1, 3, 5, 6]
+    },
+    {
+      "type": "speak",
+      "title": "¿Qué te gusta?",
+      "instruction": "Usá piacere para hablar de tus gustos en italiano. Decí 3 cosas que te gustan y 2 que no te gustan.",
+      "itemIndices": [7]
+    },
+    {
+      "type": "summary",
+      "title": "Piacere: igual que el español 'gustar'",
+      "instruction": "PIACE (sing./infinitivo): Mi piace la pizza. Mi piace ballare. PIACCIONO (pl.): Mi piacciono le pizze. Pronombres: mi/ti/gli(le)/ci/vi/gli + piace/piacciono. Negación: non mi piace/piacciono. Como en español: el verbo concuerda con lo que gusta, no con quién lo experimenta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

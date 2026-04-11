@@ -1,0 +1,83 @@
+{
+  "id": "grammar-b2-04",
+  "title": "Periodi ipotetici misti",
+  "description": "Hipótesis que mezclan tiempos: condición en el pasado con consecuencia en el presente, o al revés. Muy frecuentes en conversación sobre vida y decisiones.",
+  "level": "b2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Se avessi studiato medicina, ora sarei medico.",
+      "back": "Si hubiera estudiado medicina, ahora sería médico.",
+      "reading": "",
+      "explanation": "TIPO MISTO A: condición pasada (avessi studiato) → consecuencia PRESENTE (sarei). La prótasis habla del pasado; la apódosis describe el estado actual que resultaría. 'Ora' señala el presente. Muy frecuente para hablar de decisiones de vida."
+    },
+    {
+      "front": "Se fossi nato in Italia, parlerei italiano perfettamente.",
+      "back": "Si hubiera nacido en Italia, hablaría italiano perfectamente.",
+      "reading": "",
+      "explanation": "Condición pasada permanente (nacer) → consecuencia presente (hablar). 'Fossi nato' = congiuntivo trapassato con essere. Nota: 'nato' concuerda con el sujeto (nato para masculino, nata para femenino)."
+    },
+    {
+      "front": "Se fossi più giovane, avrei fatto quel viaggio l'anno scorso.",
+      "back": "Si fuera más joven, habría hecho ese viaje el año pasado.",
+      "reading": "",
+      "explanation": "TIPO MISTO B: condición presente (fossi più giovane) → consecuencia PASADA (avrei fatto l'anno scorso). La prótasis es el estado actual hipotético; la apódosis habla del pasado. Menos frecuente pero posible."
+    },
+    {
+      "front": "Se vivessi a Roma, sarei andato a quella mostra ieri.",
+      "back": "Si viviera en Roma, habría ido a esa exposición ayer.",
+      "reading": "",
+      "explanation": "Situación permanente hipotética presente (vivessi) → acción pasada hipotética (sarei andato ieri). La palabra clave es el avverbio temporal: 'ieri' pone la consecuencia en el pasado."
+    },
+    {
+      "front": "Se fossero venuti ieri, adesso sapremmo già la risposta.",
+      "back": "Si hubieran venido ayer, ahora ya sabríamos la respuesta.",
+      "reading": "",
+      "explanation": "Condición pasada específica (ieri) → consecuencia presente (adesso). Combina congiuntivo trapassato (fossero venuti) con condizionale presente (sapremmo). 'Adesso' y 'ieri' son las señales temporales clave."
+    },
+    {
+      "front": "Se avessi più esperienza, avrei ottenuto quel lavoro.",
+      "back": "Si tuviera más experiencia, habría obtenido ese trabajo.",
+      "reading": "",
+      "explanation": "Estado presente hipotético (avessi più esperienza, situación actual) → resultado pasado hipotético (avrei ottenuto). La persona no tiene experiencia suficiente ahora y por eso no obtuvo el trabajo."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Tipo A: condición pasada → consecuencia presente",
+      "instruction": "Se + CONGIUNTIVO TRAPASSATO → CONDIZIONALE PRESENTE. 'Se avessi studiato di più, ora saprei di più.' La condición es del pasado; el resultado se refleja en el presente. Muy común al hablar de decisiones de vida.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Tipo B: condición presente → consecuencia pasada",
+      "instruction": "Se + CONGIUNTIVO IMPERFETTO → CONDIZIONALE PASSATO. 'Se fossi ricco, avrei comprato quella casa.' La condición describe el estado actual; el resultado habla del pasado.",
+      "itemIndices": [2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Señales temporales: la clave para identificar el tipo",
+      "instruction": "Busca los adverbios de tiempo: 'ora/adesso/ancora' en la apódosis → tipo A (consecuencia presente). 'Ieri/l'anno scorso/allora' en la apódosis → tipo B (consecuencia pasada). El tipo de avverbio indica qué tiempo usar.",
+      "itemIndices": [4, 5]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completa el periodo ipotetico misto",
+      "instruction": "Identifica si la consecuencia es presente o pasada y usa el tiempo correcto.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Construye periodi misti",
+      "instruction": "Habla sobre decisiones de vida usando periodi ipotetici misti.",
+      "itemIndices": [0, 2, 4]
+    },
+    {
+      "type": "summary",
+      "title": "Periodi ipotetici misti — dominato",
+      "instruction": "Tipo A (más común): Se + congiuntivo trapassato + condizionale PRESENTE. 'Se avessi studiato, ORA saprei.' Tipo B: Se + congiuntivo imperfetto + condizionale PASSATO. 'Se fossi ricco, IERI avrei comprato.' Clave: el adverbio temporal en la apódosis te dice si la consecuencia es presente o pasada.",
+      "itemIndices": [0, 1, 2, 4]
+    }
+  ]
+}

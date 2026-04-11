@@ -1,0 +1,136 @@
+{
+  "id": "grammar-b2-07",
+  "title": "Passato remoto — forme",
+  "description": "Las formas del passato remoto: el tiempo del pasado narrativo, histórico y literario. Verbos regulares e irregolari fundamentales con sus patrones.",
+  "level": "b2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "parlai / parlasti / parlò / parlammo / parlaste / parlarono",
+      "back": "hablé / hablaste / habló / hablamos / hablasteis / hablaron",
+      "reading": "",
+      "explanation": "Passato remoto de 'parlare' (-ARE). Patrón: radical + ai/asti/ò/ammo/aste/arono. Acento en la 3ª singular (parlò: circunflejo indica pasado remoto). La acentuación de parlarono: parLArono (ante penúltima)."
+    },
+    {
+      "front": "credei / credesti / credé / credemmo / credeste / crederono",
+      "back": "creí / creíste / creyó / creímos / creísteis / creyeron",
+      "reading": "",
+      "explanation": "Passato remoto de 'credere' (-ERE). Forma alternativa: credetti/credette/credettero (también aceptada). Los verbos -ERE tienen DOBLE FORMA en 1ª/3ª singular y 3ª plural. Usa la forma -ei/-é/-erono o -etti/-ette/-ettero."
+    },
+    {
+      "front": "sentii / sentisti / sentì / sentimmo / sentiste / sentirono",
+      "back": "sentí / sentiste / sintió / sentimos / sentisteis / sintieron",
+      "reading": "",
+      "explanation": "Passato remoto de 'sentire' (-IRE). Patrón: radical + ii/isti/ì/immo/iste/irono. La 3ª singular lleva acento: sentì. Nota: la 1ª singular tiene doble 'i' (sentii)."
+    },
+    {
+      "front": "fui / fosti / fu / fummo / foste / furono",
+      "back": "fui / fuiste / fue / fuimos / fuisteis / fueron",
+      "reading": "",
+      "explanation": "Passato remoto di 'essere'. COMPLETAMENTE IRREGULAR. Muy frecuente. 'Garibaldi fu un eroe.' La forma 'fu' también es 3ª singular de 'essere' en passato remoto — no confundir con el congiuntivo presente 'sia'."
+    },
+    {
+      "front": "feci / facesti / fece / facemmo / faceste / fecero",
+      "back": "hice / hiciste / hizo / hicimos / hicisteis / hicieron",
+      "reading": "",
+      "explanation": "Passato remoto di 'fare'. Patrón de los irregolari 'forti': 1ª y 3ª singular + 3ª plural tienen radical irregular (fec-); 2ª sing., 1ª y 2ª plural toman el radical normal (facesti, facemmo, faceste)."
+    },
+    {
+      "front": "venni / venisti / venne / venimmo / veniste / vennero",
+      "back": "vine / viniste / vino / vinimos / vinisteis / vinieron",
+      "reading": "",
+      "explanation": "Passato remoto di 'venire'. Radical fuerte: venn- (1ª-3ª sg., 3ª pl.); radical normal: veni- (2ª sg., 1ª-2ª pl.). Igual patrón: tenni (tenere), ottenni (ottenere), rimasi (rimanere)."
+    },
+    {
+      "front": "dissi / dicesti / disse / dicemmo / diceste / dissero",
+      "back": "dije / dijiste / dijo / dijimos / dijisteis / dijeron",
+      "reading": "",
+      "explanation": "Passato remoto di 'dire'. Radical fuerte: diss- (solo 1ª sing. y 3ª sing. y pl. — nota: forma plural 'dissero'). Irregolari similares: visse (vivere), rimase (rimanere), accorse (accorgersi)."
+    },
+    {
+      "front": "presi / prendesti / prese / prendemmo / prendeste / presero",
+      "back": "tomé / tomaste / tomó / tomamos / tomasteis / tomaron",
+      "reading": "",
+      "explanation": "Passato remoto di 'prendere'. Radical fuerte: pres- (1ª/3ª sg. + 3ª pl.). Similares: scrissi (scrivere), lessi (leggere), chiesi (chiedere), risposi (rispondere), misi (mettere), vidi (vedere)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Formas regulares: -ARE e -IRE",
+      "instruction": "-ARE: ai/asti/ò/ammo/aste/arono (parlai, amasti, cercò...). -IRE: ii/isti/ì/immo/iste/irono (sentii, dormisti, partì...). La 3ª singular siempre lleva acento gráfico.",
+      "itemIndices": [
+        0,
+        2
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Formas regulares: -ERE (con doble forma)",
+      "instruction": "-ERE tiene doble forma en 1ª/3ª singular y 3ª plural: credei/credetti, credé/credette, crederono/credettero. Ambas formas son correctas. La forma -etti es más común.",
+      "itemIndices": [
+        1
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Irregolari tipo 'forte': el patrón de 1ª-3ª",
+      "instruction": "MUCHOS irregolari siguen este patrón: 1ª singular, 3ª singular y 3ª plural son irregolari; 2ª singular, 1ª plural y 2ª plural son regulares. Ej: FECI / facesti / FECE / facemmo / faceste / FECERO.",
+      "itemIndices": [
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Más irregolari frecuentes",
+      "instruction": "Dissi (dire), presi (prendere), scrissi (scrivere), lessi (leggere), chiesi (chiedere), risposi (rispondere), misi (mettere), vidi (vedere), conobbi (conoscere).",
+      "itemIndices": [
+        6,
+        7
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "Drilla los irregolari",
+      "instruction": "Los irregolari del passato remoto son los más difíciles de memorizar. Practica hasta que sean automáticos.",
+      "itemIndices": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Conjuga en passato remoto",
+      "instruction": "Escribe la forma correcta del passato remoto.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "summary",
+      "title": "Passato remoto: forme — dominate",
+      "instruction": "-ARE: -ai/-asti/-ò/-ammo/-aste/-arono. -IRE: -ii/-isti/-ì/-immo/-iste/-irono. -ERE: dos formas posibles. Irregolari clave: fui (essere), feci (fare), venni (venire), dissi (dire), presi (prendere), vidi (vedere). Patrón 'forte': 1ª/3ª sg. y 3ª pl. irregolari; resto regular.",
+      "itemIndices": [
+        0,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  ]
+}

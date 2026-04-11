@@ -1,0 +1,89 @@
+{
+  "id": "reading-a2-02",
+  "title": "Lettura: Il mio lavoro",
+  "description": "Segunda lectura A2. Valentina describe su trabajo como diseñadora gráfica en Milán: horarios, colegas, rutinas laborales. Presente de indicativo, expresiones de trabajo y 'da + tiempo'.",
+  "level": "a2",
+  "category": "reading",
+  "items": [
+    {
+      "front": "Mi chiamo Valentina e lavoro come graphic designer in un'agenzia pubblicitaria a Milano.",
+      "back": "Me llamo Valentina y trabajo como diseñadora gráfica en una agencia publicitaria en Milán.",
+      "reading": "",
+      "explanation": "'Lavoro come...' = trabajo como... (profesión precedida por 'come'). 'Un'agenzia pubblicitaria' = una agencia de publicidad. 'Pubblicitario/a' = publicitario/a, de publicidad. 'A Milano' = en Milán (ciudad → preposición 'a')."
+    },
+    {
+      "front": "Lavoro qui da tre anni.",
+      "back": "Trabajo aquí desde hace tres años.",
+      "reading": "",
+      "explanation": "PRESENTE + DA = acción que sigue en el presente. 'Lavoro qui da tre anni' = trabajo aquí desde hace tres años (y sigo trabajando). En español: 'hace tres años que trabajo aquí' o 'llevo tres años trabajando aquí'. En italiano: siempre PRESENTE + DA."
+    },
+    {
+      "front": "Ogni mattina mi sveglio alle sette e prendo la metropolitana alle otto meno un quarto.",
+      "back": "Cada mañana me despierto a las siete y tomo el metro a las ocho menos cuarto.",
+      "reading": "",
+      "explanation": "'Mi sveglio' = me despierto (verbo reflexivo svegliarsi). 'Ogni mattina' = cada mañana. 'Prendo la metropolitana' = tomo el metro. 'Alle otto meno un quarto' = a las ocho menos cuarto (= 7:45). 'La metropolitana' = el metro (ferrocarril subterráneo)."
+    },
+    {
+      "front": "Il mio ufficio è al quinto piano e ho una scrivania vicino alla finestra.",
+      "back": "Mi oficina está en el quinto piso y tengo un escritorio cerca de la ventana.",
+      "reading": "",
+      "explanation": "'Al quinto piano' = en el quinto piso (al = a+il). 'La scrivania' = el escritorio/escritorium (mueble de trabajo). 'Vicino alla finestra' = cerca de la ventana (vicino a + alla). Los pisos en Italia: pianoterra (PB), primo piano (1er piso), secondo piano (2do piso), etc."
+    },
+    {
+      "front": "I miei colleghi sono molto simpatici — spesso pranziamo insieme.",
+      "back": "Mis colegas son muy simpáticos — a menudo almorzamos juntos.",
+      "reading": "",
+      "explanation": "'I miei colleghi' = mis colegas (m.pl. con artículo). 'Simpatici' = simpáticos (cuidado: en italiano 'simpatico' = agradable/simpático, no tiene el matiz negativo del 'simpático' coloquial argentino). 'Pranziamo' = almorzamos (de 'pranzare')."
+    },
+    {
+      "front": "Di solito finisco di lavorare alle sei di sera, ma quando c'è una scadenza rimango fino alle sette o anche alle otto.",
+      "back": "Normalmente termino de trabajar a las seis de la tarde, pero cuando hay una fecha límite me quedo hasta las siete o incluso las ocho.",
+      "reading": "",
+      "explanation": "'Finisco di lavorare' = termino de trabajar (finire + DI + infinito). 'La scadenza' = el plazo, la fecha límite, el deadline. 'Rimango' = me quedo (1ª sing. di 'rimanere'). 'Fino alle' = hasta las. 'Anche' aquí = incluso (también puede significar 'incluso')."
+    },
+    {
+      "front": "Il lavoro è stressante a volte, ma mi piace molto essere creativa.",
+      "back": "El trabajo es estresante a veces, pero me gusta mucho ser creativa.",
+      "reading": "",
+      "explanation": "'A volte' = a veces. 'Mi piace molto essere creativa' = me gusta mucho ser creativa (piacere + infinito). 'Stressante' = estresante (anglicanismo adoptado en italiano). 'Creativa' concuerda con el sujeto femenino (Valentina)."
+    },
+    {
+      "front": "Lo stipendio non è altissimo, ma sono contenta della mia carriera.",
+      "back": "El sueldo no es muy alto, pero estoy contenta con mi carrera.",
+      "reading": "",
+      "explanation": "'Lo stipendio' = el sueldo/salario (masculino con articolo 'lo' porque empieza por 'st-'). 'Altissimo' = muy alto (superlativo absoluto: alto → altissimo). 'Sono contenta di' = estoy contenta con (di = preposición de complemento). 'La carriera' = la carrera profesional."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Il mio lavoro — Leemos juntos",
+      "instruction": "Texto completo de Valentina: trabajo como graphic designer en Milán, lleva tres años, va en metro, tiene colegas simpáticos, a veces trabaja hasta tarde, le gusta ser creativa. Texto en presente: rutinas habituales.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Vocabulario de trabajo",
+      "instruction": "Vocabulario laboral clave: agenzia pubblicitaria, scrivania, colleghi, scadenza, stipendio, carriera, piano, metropolitana.",
+      "itemIndices": [0, 3, 4, 5, 7]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "El día de Valentina",
+      "instruction": "¿Cuánto tiempo lleva en la empresa? ¿Cómo va al trabajo? ¿En qué piso está su oficina? ¿Cuándo trabaja hasta tarde?",
+      "itemIndices": [1, 2, 3, 5]
+    },
+    {
+      "type": "recall",
+      "title": "Describí tu trabajo o rutina en italiano",
+      "instruction": "Usá el texto como modelo. Describí tu trabajo, estudio o rutina diaria en italiano.",
+      "itemIndices": [0, 1, 2, 4, 6]
+    },
+    {
+      "type": "summary",
+      "title": "Vocabulario y estructuras laborales",
+      "instruction": "Estructuras clave: 'lavoro come...' (trabajo como), PRESENTE + DA (llevo/hace X que), 'finisco di + infinito' (termino de), 'rimango fino alle' (me quedo hasta las). Vocabulario: lo stipendio (el sueldo), la scrivania (el escritorio), il collega (el colega), la scadenza (el plazo), al quinto piano (en el 5to piso).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

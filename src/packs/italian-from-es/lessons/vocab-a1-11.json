@@ -1,0 +1,119 @@
+{
+  "id": "vocab-a1-11",
+  "title": "Il corpo umano",
+  "description": "Las partes del cuerpo humano. Vocabulario importante para visitas al médico, describir síntomas y conversaciones cotidianas.",
+  "level": "a1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "la testa",
+      "back": "la cabeza",
+      "reading": "/la ˈtɛsta/",
+      "explanation": "Testa. 'Ho mal di testa' = Tengo dolor de cabeza. 'Mal di testa' usa avere, no essere. Expresión: 'Avere la testa fra le nuvole' = estar en las nubes."
+    },
+    {
+      "front": "i capelli",
+      "back": "el pelo / el cabello",
+      "reading": "/i kaˈpɛlli/",
+      "explanation": "Capelli. Siempre en plural. Doble 'l'. 'Avere i capelli lunghi/corti' = tener el pelo largo/corto. 'Capello' singular = un pelo (una sola hebra)."
+    },
+    {
+      "front": "gli occhi",
+      "back": "los ojos",
+      "reading": "/ʎi ˈɔkki/",
+      "explanation": "Occhi. Plural de 'occhio' (ojo). Doble 'cc'. Se usa casi siempre en plural. 'Avere gli occhi azzurri/verdi/neri' = tener los ojos celestes/verdes/negros."
+    },
+    {
+      "front": "il naso",
+      "back": "la nariz",
+      "reading": "/il ˈnaːzo/",
+      "explanation": "Naso. La 's' entre vocales suena /z/. 'Ho il naso chiuso' = Tengo la nariz tapada. 'Naso aquilino' = nariz aguileña. Diferencia de género: 'naso' en italiano es masculino."
+    },
+    {
+      "front": "la bocca",
+      "back": "la boca",
+      "reading": "/la ˈbɔkka/",
+      "explanation": "Bocca. Doble 'cc'. Muy similar al español. 'Aprire/chiudere la bocca' = abrir/cerrar la boca. 'In bocca al lupo!' = ¡Buena suerte! (expresión)."
+    },
+    {
+      "front": "l'orecchio",
+      "back": "la oreja / el oído",
+      "reading": "/loˈrɛkkjo/",
+      "explanation": "Orecchio. Masculino (en español 'oreja' es femenino). Plural: le orecchie (femenino en plural, irregular). 'Ho mal di orecchie' = Tengo dolor de oídos."
+    },
+    {
+      "front": "il collo",
+      "back": "el cuello",
+      "reading": "/il ˈkɔllo/",
+      "explanation": "Collo. Doble 'l'. 'Ho mal di gola' = Tengo dolor de garganta (gola = garganta). 'Collana' = collar. 'Cravatta' = corbata (va al cuello)."
+    },
+    {
+      "front": "la spalla",
+      "back": "el hombro",
+      "reading": "/la ˈspalla/",
+      "explanation": "Spalla. Doble 'l'. 'Alzare le spalle' = encogerse de hombros. 'Borsa a tracolla' = bolso que va cruzado sobre el hombro."
+    },
+    {
+      "front": "il braccio",
+      "back": "el brazo",
+      "reading": "/il ˈbrattʃo/",
+      "explanation": "Braccio. Plural irregular: le braccia (femenino en plural). 'Aprire le braccia' = abrir los brazos. 'Braccio di ferro' = pulseada (también metáfora)."
+    },
+    {
+      "front": "la mano",
+      "back": "la mano",
+      "reading": "/la ˈmaːno/",
+      "explanation": "Mano. ATENCIÓN: es FEMENINO aunque termina en -o (excepción). Plural: le mani (también femenino). 'Dare la mano' = dar la mano. 'Lavare le mani' = lavarse las manos."
+    },
+    {
+      "front": "la gamba",
+      "back": "la pierna",
+      "reading": "/la ˈɡamba/",
+      "explanation": "Gamba. 'In gamba' = hábil/capaz/en forma (expresión coloquial). 'Ho mal di gambe' = Tengo dolor de piernas. 'Gambe lunghe' = piernas largas."
+    },
+    {
+      "front": "il piede",
+      "back": "el pie",
+      "reading": "/il ˈpjɛːde/",
+      "explanation": "Piede. Plural: i piedi. 'Avere i piedi piatti' = tener los pies planos. 'A piedi' = a pie/caminando (sin artículo en esta expresión). 'Andare a piedi' = ir caminando."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Il corpo — la parte superior",
+      "instruction": "Las partes del cuerpo. Ojo con las excepciones de género: 'la mano' es femenino aunque termina en -o, 'il braccio' tiene plural femenino (le braccia).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "introduce",
+      "title": "Il corpo — la parte inferior",
+      "instruction": "Extremidades y expresiones útiles.",
+      "itemIndices": [8, 9, 10, 11]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué parte del cuerpo?",
+      "instruction": "Ves la palabra en italiano. Elegí la traducción.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+    },
+    {
+      "type": "recall",
+      "title": "Del español al italiano",
+      "instruction": "Ves la parte del cuerpo en español. Escribí la palabra italiana.",
+      "itemIndices": [0, 2, 3, 4, 5, 7, 8, 9, 10, 11]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "¿Ho mal di...?",
+      "instruction": "Completá: 'Ho mal di ___' (cabeza=testa, garganta=gola, piernas=gambe, espalda=schiena).",
+      "itemIndices": [0, 6, 10]
+    },
+    {
+      "type": "summary",
+      "title": "¡Il corpo umano!",
+      "instruction": "testa, capelli, occhi, naso, bocca, orecchio, collo, spalla, braccio(pl.braccia), mano(f.!pl.mani), gamba, piede. 'Ho mal di testa/gola/schiena' = tengo dolor de cabeza/garganta/espalda. 'A piedi' = caminando.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+    }
+  ]
+}

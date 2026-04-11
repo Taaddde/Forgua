@@ -1,0 +1,161 @@
+{
+  "id": "vocab-a1-02",
+  "title": "Numeri 1-20",
+  "description": "Los números del 1 al 20. Los primeros 16 son irregulares y hay que memorizarlos. Del 17 al 19 siguen una lógica combinatoria.",
+  "level": "a1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "1 — uno / una",
+      "back": "uno / una",
+      "reading": "/ˈuːno/",
+      "explanation": "Uno (m.) / una (f.). Como artículo indefinido, 'uno' pierde la -o ante sustantivos masculinos normales: 'un libro'. Ante sustantivos femeninos con vocal: 'un'amica'."
+    },
+    {
+      "front": "2 — due",
+      "back": "dos",
+      "reading": "/ˈduːe/",
+      "explanation": "Due. Pronunciar las dos vocales: du-e. En relojes: 'Sono le due' = Son las dos."
+    },
+    {
+      "front": "3 — tre",
+      "back": "tres",
+      "reading": "/ˈtrɛ/",
+      "explanation": "Tre. Cuando forma parte de un número compuesto al final, toma acento: ventitré, trentatré, quarantatré."
+    },
+    {
+      "front": "4 — quattro",
+      "back": "cuatro",
+      "reading": "/ˈkwattro/",
+      "explanation": "Quattro. Doble 't' — se pronuncia más larga. 'Qu' en italiano siempre suena /kw/ como en español 'cuando'."
+    },
+    {
+      "front": "5 — cinque",
+      "back": "cinco",
+      "reading": "/ˈtʃiŋkwe/",
+      "explanation": "Cinque. La 'c' ante 'i' suena /tʃ/ (como 'ch'). Pronunciar: CHIN-kwe."
+    },
+    {
+      "front": "6 — sei",
+      "back": "seis",
+      "reading": "/ˈsɛi/",
+      "explanation": "Sei. Cuidado: 'sei' también significa 'sos/eres' (segunda persona de essere). El contexto aclara el significado."
+    },
+    {
+      "front": "7 — sette",
+      "back": "siete",
+      "reading": "/ˈsɛtte/",
+      "explanation": "Sette. Doble 't'. Pronunciar: SET-te (con la 't' larga)."
+    },
+    {
+      "front": "8 — otto",
+      "back": "ocho",
+      "reading": "/ˈɔtto/",
+      "explanation": "Otto. Doble 't'. También es un nombre masculino italiano (Otto). En los años se usa mucho: 'le otto' = las ocho."
+    },
+    {
+      "front": "9 — nove",
+      "back": "nueve",
+      "reading": "/ˈnɔːve/",
+      "explanation": "Nove. Similar al español 'nueve'. En la pronunciación la 'o' es abierta /ɔ/."
+    },
+    {
+      "front": "10 — dieci",
+      "back": "diez",
+      "reading": "/ˈdjɛtʃi/",
+      "explanation": "Dieci. La 'ci' final suena /tʃi/. Pronunciar: DJEH-chi."
+    },
+    {
+      "front": "11 — undici",
+      "back": "once",
+      "reading": "/ˈunditʃi/",
+      "explanation": "Undici = uno + dieci. Pronunciar: UN-di-chi."
+    },
+    {
+      "front": "12 — dodici",
+      "back": "doce",
+      "reading": "/ˈdoːditʃi/",
+      "explanation": "Dodici = due + dieci. Pronunciar: DÓ-di-chi."
+    },
+    {
+      "front": "13 — tredici",
+      "back": "trece",
+      "reading": "/ˈtrɛːditʃi/",
+      "explanation": "Tredici = tre + dieci."
+    },
+    {
+      "front": "14 — quattordici",
+      "back": "catorce",
+      "reading": "/kwatˈtorditʃi/",
+      "explanation": "Quattordici = quattro + dieci."
+    },
+    {
+      "front": "15 — quindici",
+      "back": "quince",
+      "reading": "/ˈkwinditʃi/",
+      "explanation": "Quindici = cinque (reducido) + dieci. Un cuarto de hora en relojes: 'un quarto' = quindici minuti."
+    },
+    {
+      "front": "16 — sedici",
+      "back": "dieciséis",
+      "reading": "/ˈseːditʃi/",
+      "explanation": "Sedici = sei + dieci."
+    },
+    {
+      "front": "17 — diciassette",
+      "back": "diecisiete",
+      "reading": "/ditʃasˈsɛtte/",
+      "explanation": "Diciassette = dieci + a + sette. A partir de aquí, el orden cambia: 'dieci' va primero y se fusiona con la unidad."
+    },
+    {
+      "front": "18 — diciotto",
+      "back": "dieciocho",
+      "reading": "/diˈtʃɔtto/",
+      "explanation": "Diciotto = dieci + otto. La 'i' de dieci se pierde ante vocales."
+    },
+    {
+      "front": "19 — diciannove",
+      "back": "diecinueve",
+      "reading": "/ditʃanˈnɔve/",
+      "explanation": "Diciannove = dieci + a + nove."
+    },
+    {
+      "front": "20 — venti",
+      "back": "veinte",
+      "reading": "/ˈventi/",
+      "explanation": "Venti. Ante uno y otto pierde la vocal final: ventuno (21), ventotto (28). 'Venti' también significa 'vientos' — contexto aclara."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Números 1-10",
+      "instruction": "Los primeros diez números son todos irregulares. Hay que memorizarlos. ¡Muchos se parecen al español!",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "introduce",
+      "title": "Números 11-20",
+      "instruction": "Del 11 al 16: uno + dieci (al revés). Del 17 al 19: dieci + a + unidad. ¡El 20 es venti!",
+      "itemIndices": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué número es?",
+      "instruction": "Ves el número en italiano. Elegí la cifra correcta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    },
+    {
+      "type": "recall",
+      "title": "Escribí el número en italiano",
+      "instruction": "Ves la cifra. Escribí el número en italiano.",
+      "itemIndices": [0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 19]
+    },
+    {
+      "type": "summary",
+      "title": "¡Numeri 1-20!",
+      "instruction": "1=uno, 2=due, 3=tre, 4=quattro, 5=cinque, 6=sei, 7=sette, 8=otto, 9=nove, 10=dieci. Del 11-16: unità+dieci. Del 17-19: dieci+a+unità. 20=venti. Recordá: 3 al final de número compuesto → trentatré.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
+    }
+  ]
+}

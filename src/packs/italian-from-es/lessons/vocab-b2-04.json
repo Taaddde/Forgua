@@ -1,0 +1,191 @@
+{
+  "id": "vocab-b2-04",
+  "title": "Scienza e tecnologia",
+  "description": "Vocabulario científico-tecnológico y medioambiental. Para entender artículos de ciencia, innovación y sostenibilidad en italiano.",
+  "level": "b2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "la ricerca",
+      "back": "la investigación / la búsqueda",
+      "reading": "",
+      "explanation": "'Ricerca scientifica' = investigación científica. 'Fare ricerca' = hacer investigación. 'Ricercatore/ricercatrice' = investigador/a. 'Motore di ricerca' = motor de búsqueda."
+    },
+    {
+      "front": "la scoperta",
+      "back": "el descubrimiento",
+      "reading": "",
+      "explanation": "De 'scoprire' (descubrir). 'Una scoperta rivoluzionaria' = un descubrimiento revolucionario. 'La scoperta dell'America' = el descubrimiento de América. Contrario: invenzione (se crea algo nuevo)."
+    },
+    {
+      "front": "l'invenzione (f.)",
+      "back": "la invención / el invento",
+      "reading": "",
+      "explanation": "De 'inventare' (inventar). 'L'invenzione della stampa' = la invención de la imprenta. Diferencia con scoperta: la scoperta trova ciò che esiste; l'invenzione crea ciò che non esisteva."
+    },
+    {
+      "front": "il brevetto",
+      "back": "la patente (de invención)",
+      "reading": "",
+      "explanation": "'Depositare/registrare un brevetto' = registrar una patente. 'Brevetto europeo' = patente europea. 'Violare un brevetto' = violar una patente. Verbo: 'brevettare' (patentar)."
+    },
+    {
+      "front": "l'innovazione (f.)",
+      "back": "la innovación",
+      "reading": "",
+      "explanation": "'Innovazione tecnologica/sociale' = innovación tecnológica/social. 'Startup innovativa' = startup innovadora. 'Eco-innovazione' = ecoinnovación. Aggettivo: innovativo, innovativo."
+    },
+    {
+      "front": "i dati (m.pl.)",
+      "back": "los datos",
+      "reading": "",
+      "explanation": "Singular raro 'il dato'. 'Dati sensibili' = datos sensibles/personales. 'Analisi dei dati' = análisis de datos. 'Data scientist' = científico/a de datos. 'Database' = base de datos."
+    },
+    {
+      "front": "l'elaborazione (f.)",
+      "back": "el procesamiento / la elaboración",
+      "reading": "",
+      "explanation": "'Elaborazione dei dati' = procesamiento de datos. 'Elaborazione di un progetto' = elaboración de un proyecto. 'Centro di elaborazione dati (CED)' = centro de proceso de datos."
+    },
+    {
+      "front": "l'algoritmo (m.)",
+      "back": "el algoritmo",
+      "reading": "",
+      "explanation": "Plural: 'gli algoritmi'. 'Algoritmo di raccomandazione' = algoritmo de recomendación. 'Algoritmo predittivo' = algoritmo predictivo. El término viene del nombre del matemático Al-Khwarizmi."
+    },
+    {
+      "front": "l'intelligenza artificiale (IA)",
+      "back": "la inteligencia artificial (IA)",
+      "reading": "",
+      "explanation": "Abreviado: IA (italiano) o AI (anglicismo). 'IA generativa' = IA generativa. 'Algoritmi di IA' = algoritmos de IA. 'L'IA Act' = el Reglamento europeo de IA."
+    },
+    {
+      "front": "l'automazione (f.)",
+      "back": "la automatización",
+      "reading": "",
+      "explanation": "'Automazione industriale' = automatización industrial. 'Automazione dei processi' = automatización de procesos. 'Rischio di automazione' (del posto di lavoro) = riesgo de automatización del empleo."
+    },
+    {
+      "front": "la sostenibilità",
+      "back": "la sostenibilidad",
+      "reading": "",
+      "explanation": "Invariable. 'Sostenibilità ambientale/economica/sociale' = sostenibilidad ambiental/económica/social. 'Sviluppo sostenibile' = desarrollo sostenible. Aggettivo: sostenibile."
+    },
+    {
+      "front": "rinnovabile",
+      "back": "renovable",
+      "reading": "",
+      "explanation": "'Energia rinnovabile' = energía renovable. 'Fonti rinnovabili' = fuentes renovables. 'Il parco eolico' (la planta eólica). Contrario: 'non rinnovabile', 'fossile'."
+    },
+    {
+      "front": "le emissioni (f.pl.)",
+      "back": "las emisiones (contaminantes)",
+      "reading": "",
+      "explanation": "'Emissioni di CO2' = emisiones de CO2. 'Ridurre le emissioni' = reducir las emisiones. 'Emissioni zero' = emisiones cero. 'Mercato delle emissioni' = mercado de emisiones."
+    },
+    {
+      "front": "il carbonio",
+      "back": "el carbono",
+      "reading": "",
+      "explanation": "'Impronta di carbonio / carbon footprint' = huella de carbono. 'Neutralità carbonica' = neutralidad de carbono. 'Cattura del carbonio' = captura de carbono. Simbolo: C."
+    },
+    {
+      "front": "il cambiamento climatico",
+      "back": "el cambio climático",
+      "reading": "",
+      "explanation": "También: 'crisi climatica' (crisis climática, término más urgente). 'Accordo di Parigi sul cambiamento climatico' = Acuerdo de París sobre el cambio climático. 'Clima' vs 'tempo' = clima vs tiempo (meteorológico)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Investigación e innovación",
+      "instruction": "La cadena del conocimiento científico: ricerca → scoperta o invenzione → brevetto → innovazione.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Tecnología digital",
+      "instruction": "El vocabulario de la era digital: datos, algoritmos e inteligencia artificial.",
+      "itemIndices": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Medioambiente y sostenibilidad",
+      "instruction": "Vocabulario imprescindible para el debate medioambiental contemporáneo.",
+      "itemIndices": [
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "Repaso: Scienza e tecnologia",
+      "instruction": "Practica todo el vocabulario científico-tecnológico.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Artículos científicos",
+      "instruction": "Completa estos fragmentos de artículos sobre ciencia y tecnología.",
+      "itemIndices": [
+        0,
+        3,
+        7,
+        8,
+        11,
+        12,
+        14
+      ]
+    },
+    {
+      "type": "summary",
+      "title": "Scienza e tecnologia — dominado",
+      "instruction": "Cadena de la innovación: ricerca → scoperta/invenzione → brevetto → innovazione. Digital: dati, algoritmo, IA, automazione. Medioambiente: sostenibilità, rinnovabile, emissioni, carbonio, cambiamento climatico.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        7,
+        8,
+        10,
+        11,
+        12,
+        14
+      ]
+    }
+  ]
+}

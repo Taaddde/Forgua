@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a2-05",
+  "title": "Imperfetto vs Passato prossimo — la scelta giusta",
+  "description": "La distinción más importante del italiano A2: ¿cuándo usar el imperfetto y cuándo el passato prossimo? Funciona parecido al español (imperfecto vs indefinido) pero con matices propios.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Dormivo (imp.) quando ha suonato (p.p.) il telefono.",
+      "back": "Dormía cuando sonó el teléfono.",
+      "reading": "",
+      "explanation": "PATRÓN CLÁSICO: Imperfetto = fondo/acción en curso. Passato prossimo = evento que interrumpe. Exactamente igual que en español: 'dormía' (imperfecto) + 'sonó' (indefinido)."
+    },
+    {
+      "front": "Da bambino giocavo a calcio ogni giorno.",
+      "back": "De niño jugaba al fútbol todos los días.",
+      "reading": "",
+      "explanation": "HÁBITO PASADO → siempre imperfetto. Las señales son: 'ogni' (cada), 'sempre' (siempre), 'di solito' (normalmente), 'da bambino' (de niño)."
+    },
+    {
+      "front": "Ieri ho giocato a calcio.",
+      "back": "Ayer jugué al fútbol.",
+      "reading": "",
+      "explanation": "EVENTO ÚNICO → passato prossimo. Las señales son: 'ieri' (ayer), 'stamattina' (esta mañana), 'una volta' (una vez), 'l'anno scorso' (el año pasado)."
+    },
+    {
+      "front": "La casa era grande e aveva un bel giardino.",
+      "back": "La casa era grande y tenía un bonito jardín.",
+      "reading": "",
+      "explanation": "DESCRIPCIÓN → imperfetto. Cuando describes cómo eran las cosas, las personas o las situaciones en el pasado, siempre imperfetto."
+    },
+    {
+      "front": "Ho incontrato Maria al supermercato.",
+      "back": "Me encontré con María en el supermercado.",
+      "reading": "",
+      "explanation": "EVENTO ESPECÍFICO COMPLETADO → passato prossimo. El verbo 'incontrare' expresa un evento puntual completado."
+    },
+    {
+      "front": "Mentre mangiavo, ho ricevuto una notizia.",
+      "back": "Mientras comía, recibí una noticia.",
+      "reading": "",
+      "explanation": "'Mentre' + imperfetto (acción de fondo) + passato prossimo (evento). 'Mentre' suele ir con imperfetto. Idéntico al español: 'mientras comía' + 'recibí'."
+    },
+    {
+      "front": "L'estate scorsa siamo andati al mare. Faceva caldo e il cielo era limpido.",
+      "back": "El verano pasado fuimos al mar. Hacía calor y el cielo estaba despejado.",
+      "reading": "",
+      "explanation": "Combinación típica: passato prossimo para el evento (fuimos) + imperfetto para las condiciones de fondo (hacía calor, estaba despejado)."
+    },
+    {
+      "front": "Avevo (imp.) diciotto anni quando ho conosciuto (p.p.) mia moglie.",
+      "back": "Tenía dieciocho años cuando conocí a mi esposa.",
+      "reading": "",
+      "explanation": "Edad y estado físico/mental → imperfetto. El evento que ocurrió en ese estado → passato prossimo. Paralelo exacto al español."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El patrón fondo + evento",
+      "instruction": "Fondo = imperfetto. Evento que interrumpe = passato prossimo. Como en español: 'dormía' (fondo) + 'sonó' (evento).",
+      "itemIndices": [0, 5]
+    },
+    {
+      "type": "introduce",
+      "title": "Señales de imperfetto vs passato prossimo",
+      "instruction": "Señales del imperfetto: ogni, sempre, di solito, da bambino. Señales del passato prossimo: ieri, una volta, stamattina.",
+      "itemIndices": [1, 2, 3, 4]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cuál tiempo usarías?",
+      "instruction": "Para cada oración, decide si debes usar imperfetto o passato prossimo y traduce al italiano.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "introduce",
+      "title": "Mezcla de tiempos — textos narrativos",
+      "instruction": "En narrativas largas aparecen ambos tiempos. El passato prossimo avanza la historia; el imperfetto da el contexto.",
+      "itemIndices": [6, 7]
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Correcto o incorrecto?",
+      "instruction": "Identifica si se usó el tiempo correcto.",
+      "itemIndices": [0, 1, 2, 3, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "Imperfetto vs Passato prossimo — dominados",
+      "instruction": "REGLA: Imperfetto = hábito, descripción, fondo, estado. Passato prossimo = evento único, acción completada. Funciona prácticamente igual que en español. La diferencia más notable: en italiano los hábitos pasados van SIEMPRE en imperfetto, sin excepción.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

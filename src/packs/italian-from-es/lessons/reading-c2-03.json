@@ -1,0 +1,95 @@
+{
+  "id": "reading-c2-03",
+  "title": "Il bello nell'estetica italiana: dalla bellezza naturale alla forma",
+  "description": "Texto de ensayo filosófico C2. La tradición estética italiana entre Croce y Vitruvio: el bello como expresión (crociano) vs el bello como proporción matemática (vitruviano). Vocabulario estético-filosófico de máxima densidad. Práctica de comprensión e interpretación de un texto filosófico de alto nivel.",
+  "level": "c2",
+  "category": "reading",
+  "items": [
+    {
+      "front": "«kalós» — kalokagathia: la bellezza sensibile + la bontà morale in un unico concetto.",
+      "back": "El ideal griego: kalokagathia (kalos = bello + agathos = bueno) que el italiano no puede capturar con una sola palabra.",
+      "reading": "",
+      "explanation": "'Kalokagathia' = la unión de belleza física y excelencia moral como ideal del ciudadano griego. Las palabras italianas (bello, vago, leggiadro, avvenente) capturan solo la dimensione estetico-sensoriale, no la dimensione etica. La conseguenza: la tradizione italiana ha dovuto sviluppare separatamente i discorsi sul bello e sul buono."
+    },
+    {
+      "front": "espressione riuscita (Benedetto Croce)",
+      "back": "Expresión lograda/conseguida — la fórmula central de la estética crociana: el arte como coincidencia perfecta de intuición e expresión.",
+      "reading": "",
+      "explanation": "Croce (1902, Estetica): bello è ciò che è ben fatto — la espressione che cattura pienamente l'intuizione interiore. 'Riuscita' = lograda, conseguida (de 'riuscire' = conseguir). Implica que no hay exceso ni defecto: la forma coincide exactamente con el contenido. El bello es siempre singular, no categorizable."
+    },
+    {
+      "front": "intuizione che si fa espressione",
+      "back": "La fórmula central de la estética crociana: el arte es el proceso por el que la intuición se convierte en expresión comunicable.",
+      "reading": "",
+      "explanation": "Croce distingue: 'intuizione' = conoscenza immediata, pre-concettuale (la imagen interior del artista). 'Espressione' = la forma comunicable (el poema, el cuadro). El arte es el momento en que la intuizione diventa espressione — no el resultado material, sino el proceso. Il bello è questo processo, non l'oggetto fisico."
+    },
+    {
+      "front": "proporzione matematicamente definibile (Vitruvio, Alberti, Palladio)",
+      "back": "La tradición formalista: el bello como proporción objetiva y calculable entre las partes y el todo.",
+      "reading": "",
+      "explanation": "Vitruvio (De Architectura, siglo I a.C.): el bello arquitectónico = firmitas + utilitas + venustas (resistencia + utilidad + belleza). Leon Battista Alberti (De re aedificatoria, 1452) y Palladio (I quattro libri dell'architettura, 1570) desarrollaron esta tradición: el bello es proporzione misurabile. Es objetivista y racionalista."
+    },
+    {
+      "front": "petrarchismo",
+      "back": "Sistema poético basado en la imitación de Petrarca — codifica la belleza en un sistema de metáforas fijas.",
+      "reading": "/petraˈrkismo/",
+      "explanation": "Francesco Petrarca (1304-1374): sus Rime sparse codificaron la bellezza femminile en tropi fissi (cabellos de oro, dientes de perla, labios de coral). El 'petrarchismo' = la imitazione di questi tropi por los poetas europeos del siglo XV-XVII. En el texto: 'il petrarchismo codifica la bellezza come sistema di tropi fissi'."
+    },
+    {
+      "front": "contrappunto",
+      "back": "contrapunto — técnica musical en la que dos o más voces melódicas independientes se combinan según reglas armónicas.",
+      "reading": "/kontraˈpunto/",
+      "explanation": "El dominio del contrappunto se considera el máximo de la belleza estructural en música (Bach, Palestrina). En Italia, la Scuola romana di Palestrina desarrolló il contrappunto rinascimentale. La forma sonata (Haydn, Mozart) busca el bello en la estructura formal, no en el ornamento. El contrappunto = bello come struttura razionale."
+    },
+    {
+      "front": "«In Calvino, il bello è leggerezza: l'esattezza come grazia.»",
+      "back": "La síntesis calviniana: esattezza (tradición formalista) + grazia/leggerezza (tradición expresivista) en una sola propuesta estética.",
+      "reading": "",
+      "explanation": "'Esattezza' richiama la tradizione formalista (precisione, proporzione, misura). 'Grazia/leggerezza' richiama la tradizione espressivistica (qualità non misurabile dell'opera riuscita). Calvino supera l'opposizione: l'esattezza formale, se raggiunta pienamente, genera la grazia espressiva. È la sintesi più originale dell'estetica italiana contemporanea."
+    },
+    {
+      "front": "bello / vago / leggiadro / avvenente / grazioso — cinque parole per il greco kalós",
+      "back": "El italiano necesita cinco palabras para capturar lo que el griego 'kalós' unificaba en un solo concepto.",
+      "reading": "",
+      "explanation": "'Bello' = neutro y general. 'Vago' = de contornos imprecisos, misterioso (Leopardi: 'vago e bello'). 'Leggiadro' = ligero y gracioso, con movimiento. 'Avvenente' = atractivo, llamativo. 'Grazioso' = con grazia, delicadeza. Cada término captura un aspecto del bello sensibile, pero ninguno incluye la dimensione etica del kalokagathia griego."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Antes de leer: dos tradiciones del bello en Italia",
+      "instruction": "El texto analiza dos grandes tradiciones estéticas italianas: la crociana (bello come espressione riuscita = subjetivista/expresivista) y la vitruviana (bello come proporzione matematica = objetivista/formalista). Estas no son tradiciones abstractas: determinan cómo Italia ha entendido el arte, la arquitectura y la música durante siglos.",
+      "itemIndices": [0, 3]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Vocabulario estético-filosófico",
+      "instruction": "Estos términos son el léxico específico de la filosofia dell'arte italiana. Algunos son conceptos de Croce (espressione riuscita, intuizione), otros de la tradición musicale (contrappunto) o letteraria (petrarchismo). Analiza cada uno en su contexto específico.",
+      "itemIndices": [1, 2, 4, 5]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Comprensión filosófica",
+      "instruction": "Responde: (1) ¿Por qué 'kalós' no tiene equivalente italiano? (2) ¿Cuál es la diferencia fundamental entre la tradición crociana y la vitruviana? (3) ¿Cómo sintetiza Calvino las dos tradiciones? (4) ¿El bello es subjetivo u objetivo para la tradición italiana?",
+      "itemIndices": [0, 1, 2, 3, 6]
+    },
+    {
+      "type": "recall",
+      "title": "Las dos tradiciones y Calvino",
+      "instruction": "Explica en italiano la diferencia entre la tradizione crociana e la tradizione vitruviana del bello. Luego analiza cómo la frase calviniana 'l'esattezza come grazia' sintetiza ambas.",
+      "itemIndices": [1, 3, 6]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "El término estético correcto",
+      "instruction": "Para cada concepto estético descrito, escribe el término técnico italiano correcto: ¿cuál es el término de Croce para 'la belleza como proceso'? ¿Cuál es el término de Vitruvio para 'la belleza como número'? ¿Cómo se llama el sistema poético de imitación de Petrarca?",
+      "itemIndices": [2, 4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "Estetica italiana — dominata",
+      "instruction": "Conceptos clave: kalokagathia, espressione riuscita, intuizione, proporzione matematica, petrarchismo, contrappunto. Las dos tradizioni: crociana (bello = espressione soggettiva unica) vs vitruviana (bello = proporzione oggettiva misurabile). La sintesi calviniana: esattezza + grazia. Para profundizar: Benedetto Croce, 'Estetica come scienza dell'espressione e linguistica generale' (1902) — el texto fundacional. Leon Battista Alberti, 'De re aedificatoria' — per la tradizione formalista.",
+      "itemIndices": [0, 1, 2, 3, 6, 7]
+    }
+  ]
+}

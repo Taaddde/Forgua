@@ -1,0 +1,89 @@
+{
+  "id": "reading-a1-02",
+  "title": "Lettura: La mia famiglia",
+  "description": "Segunda lectura guiada. Una persona describe a su familia: número de integrantes, edades, profesiones y hobbies. Vocabulario de familia y verbos de actividad en presente.",
+  "level": "a1",
+  "category": "reading",
+  "items": [
+    {
+      "front": "La mia famiglia non è grande. Siamo in quattro.",
+      "back": "Mi familia no es grande. Somos cuatro.",
+      "reading": "",
+      "explanation": "'Siamo in quattro' = somos cuatro (expresión típica italiana para el número de integrantes familiares). Literalmente 'estamos en cuatro'. Esta expresión es diferente al español 'somos cuatro' — en italiano la construcción usa 'in' + número."
+    },
+    {
+      "front": "Mia madre si chiama Elena e ha quarantacinque anni.",
+      "back": "Mi madre se llama Elena y tiene cuarenta y cinco años.",
+      "reading": "",
+      "explanation": "'Mia madre' = mi madre (sin artículo — familia singular). 'ha quarantacinque anni' = tiene cuarenta y cinco años. 45 en italiano: quarantacinque (una sola palabra). 'ha' = tiene (3ª sing. de avere)."
+    },
+    {
+      "front": "È insegnante di matematica.",
+      "back": "Es maestra de matemáticas.",
+      "reading": "",
+      "explanation": "'È insegnante' = es maestra/docente (sin artículo con professione + essere). 'insegnante' viene de 'insegnare' = enseñar. Nota: 'insegnante' es invariable: il/la insegnante (tanto para masculino como femenino)."
+    },
+    {
+      "front": "Lui lavora in banca.",
+      "back": "Él trabaja en un banco.",
+      "reading": "",
+      "explanation": "'Lavora in banca' = trabaja en un banco. 'in banca' sin artículo (expresión fija, como 'in ufficio', 'in ospedale'). 'Lui' se usa para énfasis o contraste — normalmente se omite el pronombre sujeto en italiano."
+    },
+    {
+      "front": "Mia sorella Sofia ha sedici anni e va al liceo.",
+      "back": "Mi hermana Sofia tiene dieciséis años y va al liceo (secundaria).",
+      "reading": "",
+      "explanation": "'Mia sorella' = mi hermana (sin artículo). 'Sedici anni' = 16 años. 'Va al liceo' = va al liceo (tipo de secundaria italiana, preparatoria). 'il liceo' = la escuela secundaria / el bachillerato italiano."
+    },
+    {
+      "front": "Lei adora la musica e suona la chitarra.",
+      "back": "Ella adora la música y toca la guitarra.",
+      "reading": "",
+      "explanation": "'Suona la chitarra' = toca la guitarra. En italiano los instrumentos musicales llevan 'suonare' + artículo. 'Suono il piano' = Toco el piano. 'Suona la chitarra' = Toca la guitarra. Igual que en español 'tocar un instrumento'."
+    },
+    {
+      "front": "Io invece preferisco lo sport: gioco a calcio tutti i sabati.",
+      "back": "Yo en cambio prefiero el deporte: juego al fútbol todos los sábados.",
+      "reading": "",
+      "explanation": "'Invece' = en cambio (NO significa 'en vez'). 'Preferisco' = prefiero (verbo -ISC-). 'Gioco a calcio' = juego al fútbol. 'Calcio' = fútbol en italiano (¡no football!). 'Tutti i sabati' = todos los sábados (plural con tutti + articolo + giorno)."
+    },
+    {
+      "front": "invece — en cambio / al contrario",
+      "back": "en cambio, sin embargo (FALSO AMIGO: no es 'en vez')",
+      "reading": "",
+      "explanation": "FALSO AMIGO importante: 'invece' NO significa 'en vez'. Significa 'en cambio', 'sin embargo', 'al contrario'. 'Io invece...' = 'Yo en cambio...'. 'In vece di' (dos palabras) o 'al posto di' = en lugar de. 'Invece' es un conector de contraste muy frecuente."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "La mia famiglia — Leemos juntos",
+      "instruction": "Texto completo: 'La mia famiglia non è grande. Siamo in quattro: io, mia sorella Sofia, mia madre e mio padre. Mia madre si chiama Elena e ha quarantacinque anni. È insegnante di matematica. Mio padre si chiama Roberto e ha quarantotto anni. Lui lavora in banca. Mia sorella Sofia ha sedici anni e va al liceo. Lei adora la musica e suona la chitarra. Io invece preferisco lo sport: gioco a calcio tutti i sabati.'",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Vocabulario clave del texto",
+      "instruction": "Prestá atención a: 'siamo in quattro' (somos cuatro), 'suona la chitarra' (toca la guitarra), 'invece' (en cambio — no 'en vez'), 'gioco a calcio' (juego al fútbol).",
+      "itemIndices": [0, 3, 6, 7]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "¿Entendiste la familia?",
+      "instruction": "Respondé: ¿Cuántos son en la familia? ¿Cuál es el trabajo de la madre? ¿Qué le gusta a Sofia? ¿Qué hace el narrador los sábados?",
+      "itemIndices": [0, 2, 5, 6]
+    },
+    {
+      "type": "recall",
+      "title": "Describí una familia en italiano",
+      "instruction": "Usando el vocabulario del texto, describí a un integrante de tu familia en italiano.",
+      "itemIndices": [1, 2, 5, 6]
+    },
+    {
+      "type": "summary",
+      "title": "Vocabulario de familia aprendido",
+      "instruction": "Vocabulario clave: siamo in quattro (somos 4), insegnante (maestro/a), lavora in banca (trabaja en banco), va al liceo (va al secundario), suona la chitarra (toca guitarra), gioco a calcio (juego fútbol), invece (en cambio). Posesivos de familia sin artículo: mio padre, mia madre, mia sorella.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

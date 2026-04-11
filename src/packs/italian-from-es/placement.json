@@ -1,0 +1,407 @@
+{
+  "passThreshold": 0.75,
+  "questionsPerLevel": 8,
+  "levels": [
+    {
+      "levelId": "a1",
+      "canDoStatements": [
+        "Entiendo saludos, presentaciones y frases básicas en italiano.",
+        "Reconozco los artículos, los números y el vocabulario cotidiano esencial.",
+        "Puedo conjugar essere y avere en presente y hacer preguntas simples."
+      ],
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "¿Cómo se dice 'gracias' en italiano?",
+          "options": ["Prego", "Ciao", "Grazie", "Arrivederci"],
+          "correctIndex": 2
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "Completa: 'Io ___ uno studente.'",
+          "options": ["ho", "sono", "sei", "siamo"],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "¿Qué significa 'casa' en italiano?",
+          "options": ["Calle", "Plaza", "Casa", "Tienda"],
+          "correctIndex": 2
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "¿Cuál es el artículo correcto para 'libro' (masculino singular)?",
+          "options": ["la", "le", "il", "lo"],
+          "correctIndex": 2
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "¿Cómo se dice 'agua' en italiano?",
+          "options": ["Vino", "Latte", "Caffè", "Acqua"],
+          "correctIndex": 3
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "Completa: 'Tu ___ fame?' (¿Tienes hambre?)",
+          "options": ["sei", "stai", "hai", "fai"],
+          "correctIndex": 2
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "¿Qué número es 'quindici'?",
+          "options": ["12", "13", "14", "15"],
+          "correctIndex": 3
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "¿Cuál es el artículo correcto para 'amica' (femenino singular)?",
+          "options": ["il", "un", "la", "lo"],
+          "correctIndex": 2
+        }
+      ]
+    },
+    {
+      "levelId": "a2",
+      "canDoStatements": [
+        "Hablo de experiencias pasadas usando el passato prossimo.",
+        "Uso verbos reflexivos, pronombres objeto y comparativos.",
+        "Me desenvuelvo en situaciones cotidianas: compras, transporte, restaurantes."
+      ],
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "Completa: 'Ieri io ___ al cinema.' (Ayer fui al cine.)",
+          "options": ["vado", "sono andato", "andavo", "ho andato"],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "¿Qué auxiliar usa 'mangiare' en passato prossimo?",
+          "options": ["essere", "avere", "stare", "fare"],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "¿Qué significa 'veloce'?",
+          "options": ["Lento", "Alto", "Rápido", "Pesado"],
+          "correctIndex": 2
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "Completa: 'Maria è ___ bella di Lucia.' (María es más bonita que Lucía.)",
+          "options": ["tanto", "molto", "più", "meno di"],
+          "correctIndex": 2
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "¿Cuál es la forma correcta del verbo reflexivo? 'Io ___ alle 7.' (Me despierto a las 7.)",
+          "options": ["mi sveglio", "sveglio", "si sveglio", "mi sveglia"],
+          "correctIndex": 0
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "Completa con el pronombre objeto: '___ vedo domani.' (Te veo mañana.)",
+          "options": ["Si", "Ti", "Mi", "Ci"],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "¿Qué significa 'supermercato'?",
+          "options": ["Mercado tradicional", "Frutería", "Supermercado", "Panadería"],
+          "correctIndex": 2
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "¿Cuál es el participio pasado de 'scrivere'?",
+          "options": ["scritto", "scrivuto", "scrivo", "scrivendo"],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "levelId": "b1",
+      "canDoStatements": [
+        "Expreso opiniones, deseos y dudas usando el congiuntivo presente.",
+        "Uso las partículas 'ci' y 'ne' con fluidez en contexto.",
+        "Entiendo textos de noticias y artículos sencillos sobre temas conocidos."
+      ],
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "Completa: 'Penso che lui ___ stanco.' (Creo que él está cansado.)",
+          "options": ["è", "sia", "essere", "fosse"],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "¿Qué expresa la partícula 'ne' en 'Ne ho due'?",
+          "options": ["Lugar de procedencia", "Cantidad de algo ya mencionado", "Movimiento hacia un lugar", "Negación enfática"],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "¿Qué significa la expresión 'nonostante'?",
+          "options": ["Por lo tanto", "A causa de", "A pesar de", "Siempre que"],
+          "correctIndex": 2
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "Completa: 'Il libro è stato scritto ___ Calvino.' (El libro fue escrito por Calvino.)",
+          "options": ["da", "di", "per", "con"],
+          "correctIndex": 0
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "Elige la forma correcta: 'Ci ___ molte persone alla festa.'",
+          "options": ["è", "sono", "hanno", "siamo"],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "¿Qué significa 'affollato'?",
+          "options": ["Silencioso", "Lleno de gente / concurrido", "Aburrido", "Lejos"],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "Completa: 'Prima di ___ a casa, ho comprato il pane.' (Antes de ir a casa...)",
+          "options": ["andare", "andato", "vado", "andai"],
+          "correctIndex": 0
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "¿Cuál es la voz pasiva correcta? 'Qualcuno ha preparato la cena' → 'La cena ___'",
+          "options": ["è stata preparata", "ha preparato", "viene preparare", "fu preparava"],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "levelId": "b2",
+      "canDoStatements": [
+        "Uso el congiuntivo imperfecto y el periodo ipotetico con soltura.",
+        "Entiendo textos literarios y artículos de opinión con vocabulario variado.",
+        "Reformulo el discurso directo en indirecto y manejo estructuras complejas."
+      ],
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "Completa: 'Se avessi tempo, ___ in Italia.' (Si tuviera tiempo, iría a Italia.)",
+          "options": ["andrei", "vado", "sono andato", "andrò"],
+          "correctIndex": 0
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "Discorso indiretto: 'Lui ha detto: «Vengo domani».' → 'Lui ha detto che ___.'",
+          "options": ["viene domani", "veniva il giorno dopo", "venne domani", "venga domani"],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "¿Qué significa 'sancire'?",
+          "options": ["Eliminar", "Establecer / consagrar formalmente", "Discutir", "Interrumpir"],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "Completa con congiuntivo imperfetto: 'Vorrei che tu ___ di più.' (Quisiera que estudiaras más.)",
+          "options": ["studiassi", "studi", "studieresti", "studi"],
+          "correctIndex": 0
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "Periodo ipotetico dell'impossibilità: 'Se fossi ricco, ___ una villa.'",
+          "options": ["compro", "comprerei", "compravo", "comprassi"],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "¿Cuál es el significado de 'scaltro'?",
+          "options": ["Torpe", "Astuto / listo", "Generoso", "Tranquilo"],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "Elige el congiuntivo passato correcto: 'Non credo che loro ___ la verità.' (No creo que hayan dicho la verdad.)",
+          "options": ["hanno detto", "abbiano detto", "avessero detto", "dicessero"],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "¿Qué significa la locución 'a prescindere da'?",
+          "options": ["Gracias a", "Independientemente de", "A causa de", "Junto con"],
+          "correctIndex": 1
+        }
+      ]
+    },
+    {
+      "levelId": "c1",
+      "canDoStatements": [
+        "Uso el passato remoto y los tiempos literarios con naturalidad.",
+        "Manejo registros formales e informales y expresiones idiomáticas complejas.",
+        "Produzco textos elaborados con matices de significado precisos."
+      ],
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "Passato remoto: ¿Cuál es la forma correcta de 'essere' en 3ª persona singular?",
+          "options": ["era", "è stato", "fu", "è"],
+          "correctIndex": 2
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "Periodo ipotetico nel passato: 'Se avesse studiato, ___.' (Si hubiera estudiado, habría aprobado.)",
+          "options": ["avrebbe passato", "avrebbe passare", "passerebbe", "avesse passato"],
+          "correctIndex": 0
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "¿Cuál es el significado de la expresión idiomática 'avere il coltello dalla parte del manico'?",
+          "options": ["Estar en una situación difícil", "Tener la sartén por el mango / tener ventaja", "Ser muy tacaño", "Estar muy nervioso"],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "¿Qué diferencia hay entre 'benché' y 'sebbene' en cuanto al modo verbal requerido?",
+          "options": ["Ninguna, ambos requieren indicativo", "Ninguna, ambos requieren congiuntivo", "Benché requiere indicativo, sebbene requiere congiuntivo", "Depende del tiempo verbal de la oración principal"],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "¿Qué significa el verbo 'tergiversare'?",
+          "options": ["Resumir claramente", "Traducir con precisión", "Hablar sin decir nada claro / dar rodeos", "Mejorar progresivamente"],
+          "correctIndex": 2
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "En registro formal escrito, ¿qué construcción es más apropiada para 'como si fuera cierto'?",
+          "options": ["come se è vero", "come se fosse vero", "come fosse che vero", "come se sarà vero"],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "¿Cuál es la diferencia de registro entre 'chiedere' y 'domandare'?",
+          "options": ["Son completamente sinónimos sin diferencia", "Chiedere es más formal en tono escrito; domandare es más coloquial", "Domandare solo se usa en escritura literaria antigua", "Chiedere solo se usa en el Sur de Italia"],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "Completa con el gerundio compuesto correcto: '___ l'articolo, ho capito il problema.' (Habiendo leído el artículo...)",
+          "options": ["Avendo letto", "Leggendo", "Avuto letto", "Letto avendo"],
+          "correctIndex": 0
+        }
+      ]
+    },
+    {
+      "levelId": "c2",
+      "canDoStatements": [
+        "Comprendo y produzco textos literarios, académicos y periodísticos sin dificultad.",
+        "Domino los tiempos literarios (trapassato remoto, congiuntivo trapassato) y la retórica italiana.",
+        "Expreso matices sutiles, ironía y humor con precisión y naturalidad nativas."
+      ],
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "¿Qué tiempo verbal es 'ebbe detto' y en qué contexto se usa?",
+          "options": ["Trapassato prossimo, usado en conversación", "Trapassato remoto, usado después de 'quando' con passato remoto", "Congiuntivo trapassato, usado en hipótesis", "Futuro anteriore con significado concesivo"],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "¿Qué significa el proverbio italiano 'Chi va piano va sano e va lontano'?",
+          "options": ["Los que viajan en tren llegan más lejos", "La lentitud y la constancia llevan al éxito", "Solo los valientes llegan a su destino", "El que mucho corre pronto llega"],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "¿Cuál de estas oraciones contiene un error de uso del congiuntivo trapassato?",
+          "options": [
+            "Benché fosse partito prima, arrivò tardi.",
+            "Sebbene avesse studiato, non superò l'esame.",
+            "Quantunque avesse piovuto, uscirono lo stesso.",
+            "Nonostante avrebbe lavorato tanto, non ottenne il premio."
+          ],
+          "correctIndex": 3
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "¿Cuál es la diferencia precisa entre 'lacunoso' y 'lacunosamente'?",
+          "options": ["Son variantes ortográficas del mismo adjetivo", "Lacunoso es adjetivo (incompleto, con lagunas); lacunosamente es el adverbio derivado", "Lacunoso se refiere a textos; lacunosamente solo a personas", "Lacunoso es anticuado; lacunosamente es moderno"],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "En retórica italiana, ¿qué figura usa la frase 'La vita è un palcoscenico e noi siamo gli attori'?",
+          "options": ["Metonimia", "Metafora", "Litote", "Anafora"],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "¿Qué connotación tiene 'sciupare' respecto a 'sprecare'?",
+          "options": ["Sciupare implica despilfarrar dinero; sprecare implica dañar algo", "Sciupare incluye el matiz de dañar o estropear algo al malgastarlo; sprecare es más neutro", "Son exactamente sinónimos", "Sprecare es más literario; sciupare es de registro formal"],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "grammar",
+          "prompt": "¿Qué función tiene la costruzione assolutà en este fragmento de Manzoni? 'Finita la messa, don Abbondio si ritirò...'",
+          "options": ["Indica causa explícita con valor condicional", "Expresa una acción anterior a la de la oración principal de forma compacta y literaria", "Introduce una oración relativa restrictiva", "Sustituye al gerundio simple en registro coloquial"],
+          "correctIndex": 1
+        },
+        {
+          "type": "multiple-choice",
+          "category": "vocabulary",
+          "prompt": "¿Cuál de estas palabras es un falso amigo para hispanohablantes con 'librería' en español?",
+          "options": ["Libreria (italiano) = librería en español", "Libreria (italiano) = biblioteca en español", "Libreria (italiano) = editorial en español", "Libreria (italiano) = libreto en español"],
+          "correctIndex": 0
+        }
+      ]
+    }
+  ]
+}

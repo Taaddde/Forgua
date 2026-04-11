@@ -1,0 +1,95 @@
+{
+  "id": "grammar-b2-14",
+  "title": "Costruzioni impersonali avanzate + congiuntivo",
+  "description": "Las construcciones impersonales que exigen congiuntivo: è necessario che, occorre che, bisogna che, è opportuno che, è probabile che. Con infinitivo cuando el sujeto es genérico.",
+  "level": "b2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "È necessario che tutti i partecipanti firmino il modulo.",
+      "back": "Es necesario que todos los participantes firmen el formulario.",
+      "reading": "",
+      "explanation": "COSTRUZIONE IMPERSONALE + CHE + CONGIUNTIVO: 'è necessario che' + congiuntivo presente. 'Firmino' = congiuntivo presente de 'firmare' (3ª pl.). Cuando el sujeto de la subordinada es ESPECÍFICO, se usa obbligatoriamente 'che + congiuntivo'. ⚠️ Si el sujeto es genérico/indeterminado: 'È necessario firmare il modulo' (infinitivo, sujeto indefinido)."
+    },
+    {
+      "front": "Occorre che tu prenda una decisione entro domani.",
+      "back": "Es necesario/hace falta que tomes una decisión antes de mañana.",
+      "reading": "",
+      "explanation": "'Occorre che' = es necesario que / hace falta que. Equivalente a 'bisogna che' y 'è necessario che'. Muy frecuente en el registro formal oral y escrito. 'Occorre' deriva de 'occorrere' (ser necesario). Con el mismo valor pero más enfático: 'È indispensabile che', 'È imperativo che'. Concordanza dei tempi: verbo principale presente → congiuntivo presente ('prenda')."
+    },
+    {
+      "front": "Sarebbe opportuno che lei si scusasse con il cliente.",
+      "back": "Sería conveniente que usted se disculpara con el cliente.",
+      "reading": "",
+      "explanation": "CONDIZIONALE PRINCIPALE → congiuntivo imperfetto: 'sarebbe opportuno che' + congiuntivo imperfetto ('si scusasse'). La concordanza: si el verbo principal está en condizionale (o in passato), la subordinada usa congiuntivo IMPERFETTO. 'Sarebbe meglio che venisse' (sería mejor que viniera). 'Era preferibile che partisse' (era preferible que partiera)."
+    },
+    {
+      "front": "Bisogna che si trovi una soluzione rapidamente.",
+      "back": "Es necesario que se encuentre una solución rápidamente.",
+      "reading": "",
+      "explanation": "'Bisogna che' + congiuntivo: uno de los más frecuentes. 'Si trovi' = 'si' pasivante/impersonale + congiuntivo di 'trovare'. Esta construcción expresa urgencia o necesidad. ALTERNATIVA: 'Bisogna trovare una soluzione' (infinitivo, sujeto genérico). La elección entre 'che + congiuntivo' e infinitivo depende de si el sujeto es específico o genérico."
+    },
+    {
+      "front": "È probabile che arrivino in ritardo.",
+      "back": "Es probable que lleguen tarde.",
+      "reading": "",
+      "explanation": "'È probabile che' + congiuntivo: expresa probabilidad. 'Arrivino' = congiuntivo presente de 'arrivare' (3ª pl.). Para probabilidad también: 'È possibile che venga' (es posible que venga), 'È improbabile che sappia' (es improbable que sepa). CONTRASTE: 'È certo che + indicativo' (es cierto que → indicativo, no congiuntivo, porque expresa certeza)."
+    },
+    {
+      "front": "È strano che non abbiano risposto. / Peccato che tu non possa venire.",
+      "back": "Es extraño que no hayan respondido. / Qué pena que no puedas venir.",
+      "reading": "",
+      "explanation": "EMOZIONI E GIUDIZI + che + congiuntivo: 'è strano che', 'è normale che', 'è assurdo che', 'peccato che'. 'Abbiano risposto' = congiuntivo passato di 'rispondere' (acción anterior al verbo principal). 'Possa venire' = congiuntivo presente di 'potere'. 'Peccato che...' es una de las expresiones más coloquiales de este grupo: muy usada para expresar arrepentimiento."
+    },
+    {
+      "front": "È necessario studiare. (generico) / È necessario che tu studi. (specifico)",
+      "back": "Es necesario estudiar. (genérico) / Es necesario que tú estudies. (específico)",
+      "reading": "",
+      "explanation": "LA DISTINCIÓN CLAVE: sujeto GENÉRICO (nadie específico) → infinitivo: 'è necessario studiare', 'bisogna rispettare le regole'. Sujeto ESPECÍFICO (alguien identificado) → che + congiuntivo: 'è necessario che TU studi', 'bisogna che LUI rispetti'. ✗ 'È necessario che studiare' (incorrecto) → ✓ 'È necessario studiare' o 'È necessario che si studi'."
+    },
+    {
+      "front": "È chiaro che ha ragione. (certezza → indicativo) / È possibile che abbia ragione. (possibilità → congiuntivo)",
+      "back": "Está claro que tiene razón. / Es posible que tenga razón.",
+      "reading": "",
+      "explanation": "CERTEZZA vs POSSIBILITÀ: 'è chiaro che', 'è ovvio che', 'è evidente che' + indicativo (certeza). 'È possibile che', 'è probabile che', 'è dubbio che' + congiuntivo (incerteza). Esta distinción es crucial: el congiuntivo marca epistémicamente la incerteza. ✗ 'È ovvio che sia vero' (incorrecto, con certeza se usa indicativo) → ✓ 'È ovvio che è vero'."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "La regla fundamental: impersonale + che + congiuntivo",
+      "instruction": "Las costruzioni impersonali siguen la regla: necesidad, conveniencia, posibilidad, emoción → che + congiuntivo. Lista esencial: è necessario, occorre, bisogna, è opportuno, è preferibile, è possibile, è strano, peccato + che + congiuntivo.",
+      "itemIndices": [0, 1, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "Concordanza dei tempi",
+      "instruction": "Verbo principale PRESENTE/FUTURO → subordinata: congiuntivo PRESENTE. Verbo principale PASSATO/CONDIZIONALE → subordinata: congiuntivo IMPERFETTO. Esta regla es absoluta.",
+      "itemIndices": [2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "La excepción: certeza usa indicativo",
+      "instruction": "CON CERTEZA → indicativo: è chiaro che, è ovvio che, è evidente che, è certo che. CON INCERTEZA → congiuntivo: è possibile, è probabile, è strano. La marca epistémica determina el modo.",
+      "itemIndices": [7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Infinitivo o che + congiuntivo?",
+      "instruction": "Sujeto GENÉRICO → infinitivo. Sujeto ESPECÍFICO → che + congiuntivo. Practica esta distinción que es obligatoria en italiano.",
+      "itemIndices": [6]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con congiuntivo presente o imperfetto",
+      "instruction": "Elige el tiempo correcto del congiuntivo según el verbo principal y el tipo de expresión impersonal.",
+      "itemIndices": [0, 1, 2, 5, 8]
+    },
+    {
+      "type": "summary",
+      "title": "Costruzioni impersonali — consolidadas",
+      "instruction": "NECESIDAD: è necessario, occorre, bisogna + che + congiuntivo. CONVENIENCIA: è opportuno, sarebbe meglio, conviene. POSIBILIDAD: è possibile, è probabile. EMOCIÓN: è strano, è normale, peccato che. CERTEZA → indicativo: è chiaro/ovvio/evidente. Genérico → infinitivo. Específico → che + congiuntivo.",
+      "itemIndices": [0, 2, 4, 6, 7]
+    }
+  ]
+}

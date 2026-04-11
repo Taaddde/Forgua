@@ -1,0 +1,101 @@
+{
+  "id": "vocab-a1-01",
+  "title": "Saluti e basi",
+  "description": "Los saludos y expresiones básicas del italiano. Muchas son similares al español, pero hay algunas diferencias importantes en el uso.",
+  "level": "a1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "ciao",
+      "back": "hola / adiós (informal)",
+      "reading": "/ˈtʃao/",
+      "explanation": "Ciao es el saludo informal más usado en italiano. Sirve tanto para saludar como para despedirse, igual que 'hola' y 'chau' en Argentina. La 'c' ante 'i' suena /tʃ/ como la 'ch' española."
+    },
+    {
+      "front": "buongiorno",
+      "back": "buenos días",
+      "reading": "/bwonˈdʒorno/",
+      "explanation": "Saludo formal para la mañana y primera parte del día. Se divide en 'buon' (buen) + 'giorno' (día). Se usa hasta aproximadamente las 13-14hs. La 'gi' suena /dʒ/ como la 'y' argentina o la 'j' inglesa."
+    },
+    {
+      "front": "buonasera",
+      "back": "buenas tardes / buenas noches (al llegar)",
+      "reading": "/bwona'sera/",
+      "explanation": "Saludo formal de la tarde-noche. Se usa desde las 13-14hs en adelante cuando llegás a un lugar. 'Buona' + 'sera' (tarde/noche). No confundir con buonanotte (al irse a dormir)."
+    },
+    {
+      "front": "buonanotte",
+      "back": "buenas noches (al despedirse para dormir)",
+      "reading": "/bwona'nɔtte/",
+      "explanation": "Solo se usa al despedirse cuando alguien va a dormir. 'Buona' + 'notte' (noche). Notá la doble 'tt' — se pronuncia más larga que en español. Diferencia clave: buonasera = al llegar a la noche, buonanotte = al irse a dormir."
+    },
+    {
+      "front": "arrivederci",
+      "back": "hasta luego / adiós (formal)",
+      "reading": "/arriˈvederˌtʃi/",
+      "explanation": "Despedida formal. Literalmente significa 'hasta volver a vernos' (a + rivedere + ci). En contextos informales se dice 'ciao'. Existe también 'arrivederla' (más formal, con Usted)."
+    },
+    {
+      "front": "grazie",
+      "back": "gracias",
+      "reading": "/ˈɡrattsje/",
+      "explanation": "Gracias. Muy similar al español. 'Grazie mille' = muchas gracias (literalmente 'mil gracias'). 'Grazie tante' = muchas gracias también. Respuesta: 'prego' (de nada)."
+    },
+    {
+      "front": "prego",
+      "back": "de nada / por favor (al invitar) / adelante / dígame",
+      "reading": "/ˈpreɡo/",
+      "explanation": "Prego es muy versátil: 1) Respuesta a 'grazie' (de nada), 2) Al ofrecer algo (¡tome!), 3) Al invitar a pasar (¡adelante!), 4) Al contestar el teléfono (¿dígame?). Es de 'pregare' (rogar/rezar)."
+    },
+    {
+      "front": "per favore",
+      "back": "por favor",
+      "reading": "/per faˈvore/",
+      "explanation": "Por favor. Idéntico en significado al español. 'Per piacere' es un sinónimo. Se coloca al final de la frase normalmente: 'Un caffè, per favore.' Hay también 'per cortesia' (por cortesía)."
+    },
+    {
+      "front": "scusi",
+      "back": "disculpe / perdón (formal)",
+      "reading": "/ˈskuːzi/",
+      "explanation": "Disculpa formal. Se usa con desconocidos, personas mayores, en tiendas, etc. La forma informal es 'scusa' (para amigos). También existe 'mi scusi' (más enfático). Se usa para llamar la atención o pedir disculpas."
+    },
+    {
+      "front": "sì / no",
+      "back": "sí / no",
+      "reading": "/si/ /nɔ/",
+      "explanation": "Sì con acento (para diferenciarlo de 'si' = se/si reflexivo). 'No' es igual al español. 'Sì, certo' = sí, claro. 'No, grazie' = no, gracias. La pronunciación de 'sì' es igual al español."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Saludos italianos — similares pero no iguales",
+      "instruction": "El italiano tiene saludos formales e informales. 'Ciao' es universal entre amigos; con desconocidos usás 'buongiorno' o 'salve'. Mirá estas 10 expresiones esenciales.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Ves la palabra en italiano. Elegí la traducción correcta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "Del español al italiano",
+      "instruction": "Ves el español. Escribí la expresión italiana correcta.",
+      "itemIndices": [0, 1, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Formal o informal?",
+      "instruction": "Decidí qué saludo usar según el contexto: con tu amigo, con el médico, al entrar a una tienda, al despedirte de noche.",
+      "itemIndices": [0, 1, 2, 3, 4, 8]
+    },
+    {
+      "type": "summary",
+      "title": "¡Saluti aprendidos!",
+      "instruction": "Recordá: ciao = informal (hola/chau), buongiorno = formal mañana, buonasera = formal tarde-noche, buonanotte = al dormir, arrivederci = hasta luego formal, grazie/prego = gracias/de nada.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

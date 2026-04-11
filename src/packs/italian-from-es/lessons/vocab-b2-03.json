@@ -1,0 +1,190 @@
+{
+  "id": "vocab-b2-03",
+  "title": "Economia e finanza",
+  "description": "El vocabulario económico y financiero: bilanci, investimenti, concorrenza. Imprescindible para leer el Sole 24 Ore y entender el mundo de los negocios en Italia.",
+  "level": "b2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "il bilancio",
+      "back": "el balance / el presupuesto / las cuentas",
+      "reading": "",
+      "explanation": "Múltiples usos: 'bilancio aziendale' = balance empresarial; 'bilancio dello Stato' = presupuestos del Estado; 'bilancio in attivo/passivo' = balance positivo/negativo. 'Fare il bilancio' = hacer balance (también en sentido figurado)."
+    },
+    {
+      "front": "la fattura",
+      "back": "la factura",
+      "reading": "",
+      "explanation": "'Emettere/emitir una fattura' = emitir una factura. 'Fattura elettronica' = factura electrónica (obligatoria en Italia desde 2019). No confundir con 'scontrino' (ticket/recibo de caja)."
+    },
+    {
+      "front": "il preventivo",
+      "back": "el presupuesto estimado / el presupuesto previo",
+      "reading": "",
+      "explanation": "Estimación de costes antes de realizar un trabajo. 'Chiedere/fare un preventivo' = pedir/hacer un presupuesto. Diferente de 'bilancio' (que es el resultado final)."
+    },
+    {
+      "front": "il budget",
+      "back": "el presupuesto disponible / el budget",
+      "reading": "",
+      "explanation": "Los recursos económicos disponibles para un proyecto. 'Siamo nel budget' = estamos dentro del presupuesto. 'Budget annuale' = presupuesto anual. Anglicismo integrado en italiano."
+    },
+    {
+      "front": "investire",
+      "back": "invertir",
+      "reading": "",
+      "explanation": "Verbo regular (investisco). 'Investire in borsa' = invertir en bolsa. 'Investire in formazione' = invertir en formación. Sustantivo: 'l'investimento'. Persona: 'l'investitore'."
+    },
+    {
+      "front": "finanziare",
+      "back": "financiar",
+      "reading": "",
+      "explanation": "'Finanziare un progetto' = financiar un proyecto. Sustantivo: 'il finanziamento' (la financiación). 'Il finanziamento pubblico/privato' = la financiación pública/privada."
+    },
+    {
+      "front": "il rendimento",
+      "back": "el rendimiento / el retorno / la rentabilidad",
+      "reading": "",
+      "explanation": "'Rendimento annuo' = rendimiento anual. 'Alto/basso rendimento' = alto/bajo rendimiento. También en educación: 'il rendimento scolastico' = el rendimiento escolar."
+    },
+    {
+      "front": "il rischio",
+      "back": "el riesgo",
+      "reading": "",
+      "explanation": "'Correre un rischio' = correr un riesgo. 'Rischio finanziario/operativo' = riesgo financiero/operativo. 'A rischio' = en riesgo. 'Gestione del rischio' = gestión del riesgo. Aggettivo: rischioso."
+    },
+    {
+      "front": "la garanzia",
+      "back": "la garantía",
+      "reading": "",
+      "explanation": "'Dare/offrire garanzia' = dar/ofrecer garantía. 'Garanzia bancaria' = garantía bancaria. 'In garanzia' = bajo garantía (del produto). Verbo: garantire (garantizar)."
+    },
+    {
+      "front": "la quotazione",
+      "back": "la cotización / el precio en bolsa",
+      "reading": "",
+      "explanation": "'La quotazione del titolo' = la cotización del valor. 'Quotare in borsa' = salir a bolsa, cotizar. 'Quotazione dell'euro' = cotización del euro. 'Quotarsi' = cotizarse."
+    },
+    {
+      "front": "l'azionista (m./f.)",
+      "back": "el/la accionista",
+      "reading": "",
+      "explanation": "De 'azione' (acción, participación bursátil). 'Azionista di maggioranza/minoranza' = accionista mayoritario/minoritario. 'L'assemblea degli azionisti' = la junta de accionistas."
+    },
+    {
+      "front": "il dividendo",
+      "back": "el dividendo",
+      "reading": "",
+      "explanation": "'Distribuire dividendi' = distribuir dividendos. 'Dividendo per azione' = dividendo por acción. También en matemáticas: el dividendo en una división."
+    },
+    {
+      "front": "la fusione",
+      "back": "la fusión (empresarial)",
+      "reading": "",
+      "explanation": "'Fusione per incorporazione' = fusión por absorción. 'Fusione tra pari' = fusión entre iguales. También: fusione nucleare (fusión nuclear). Verbo: fondere (fundir)."
+    },
+    {
+      "front": "l'acquisizione (f.)",
+      "back": "la adquisición / la compra de empresa",
+      "reading": "",
+      "explanation": "'Acquisizione ostile' = adquisición hostil. 'Acquisizione di conoscenze' = adquisición de conocimientos. Verbo: acquisire. 'Acquisire competenze' = adquirir competencias."
+    },
+    {
+      "front": "la concorrenza",
+      "back": "la competencia (empresarial)",
+      "reading": "",
+      "explanation": "'La concorrenza di mercato' = la competencia de mercado. 'Concorrenza sleale' = competencia desleal. 'L'Autorità Garante della Concorrenza e del Mercato (AGCM)' = la autoridad antitrust italiana."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Documentos financieros",
+      "instruction": "En Italia, las empresas tienen obligación de emitir facturas electrónicas y presentar el bilancio anual. Estas tres palabras son la base.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Inversión y financiación",
+      "instruction": "Verbos e sustantivos del mundo de la inversión y la financiación.",
+      "itemIndices": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Bolsa y operaciones corporativas",
+      "instruction": "Vocabulario para entender las noticias financieras: cotizaciones, accionistas, fusiones y adquisiciones.",
+      "itemIndices": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "Repaso general de economía",
+      "instruction": "Practica todo el vocabulario económico-financiero.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Titulares económicos",
+      "instruction": "Completa estos titulares del Corriere della Sera Economia con la palabra correcta.",
+      "itemIndices": [
+        0,
+        4,
+        7,
+        9,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "type": "summary",
+      "title": "Economia e finanza — dominado",
+      "instruction": "Documentos: fattura (emessa), preventivo (stimato), bilancio (risultato). Inversión: investire → investimento, finanziare → finanziamento. Bolsa: quotazione, azionista, dividendo. Operaciones: fusione, acquisizione.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        4,
+        5,
+        7,
+        9,
+        12,
+        13,
+        14
+      ]
+    }
+  ]
+}

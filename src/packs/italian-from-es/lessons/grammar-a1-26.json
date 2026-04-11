@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a1-26",
+  "title": "Sapere vs Conoscere — saber vs conocer",
+  "description": "Una de las distinciones más importantes para hispanohablantes: en italiano sapere y conoscere NO son intercambiables. Las reglas son las mismas que en español: saber (hechos/cómo) vs conocer (personas/lugares).",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "SAPERE: so / sai / sa / sappiamo / sapete / sanno",
+      "back": "SABER: sé / sabés / sabe / sabemos / sabéis / saben",
+      "reading": "",
+      "explanation": "Sapere es irregular. Patrón: SO-SAI-SA-sappiamo-sapete-SANNO. 'So parlare italiano' = Sé hablar italiano. 'Sai dove abita?' = ¿Sabés dónde vive? 'Non so' = No sé. ¡Muy útil! 'Lo sanno tutti' = Todo el mundo lo sabe."
+    },
+    {
+      "front": "CONOSCERE: conosco / conosci / conosce / conosciamo / conoscete / conoscono",
+      "back": "CONOCER: conozco / conocés / conoce / conocemos / conocéis / conocen",
+      "reading": "",
+      "explanation": "Conoscere es regular (-ERE). 'Conosco bene Roma' = Conozco bien Roma. 'Conosci Marco?' = ¿Conocés a Marco? 'Non conosco questa canzone' = No conozco esta canción. Muy similar al español 'conocer'."
+    },
+    {
+      "front": "Sapere + infinito — saber hacer algo",
+      "back": "Saber + infinitivo (habilidad, destrezas)",
+      "reading": "",
+      "explanation": "SAPERE + INFINITO = tener la habilidad de hacer algo. 'So cucinare' = Sé cocinar. 'Sa suonare la chitarra' = Sabe tocar la guitarra. 'Non so nuotare' = No sé nadar. Igual que en español: 'saber + infinitivo' para habilidades."
+    },
+    {
+      "front": "Sapere + che / dove / come / quando — saber información",
+      "back": "Saber + que / dónde / cómo / cuándo (información factual)",
+      "reading": "",
+      "explanation": "SAPERE + proposición subordinada = conocer un hecho. 'Sai che arriva domani?' = ¿Sabés que llega mañana? 'Non so dove abita' = No sé dónde vive. 'Sai a che ora parte il treno?' = ¿Sabés a qué hora sale el tren?"
+    },
+    {
+      "front": "Conoscere + persona — conocer a alguien",
+      "back": "Conocer a alguien (en persona)",
+      "reading": "",
+      "explanation": "CONOSCERE + persona = haber conocido a alguien, tener relación. 'Conosco Marco da anni' = Conozco a Marco desde hace años. 'Non conosco nessuno qui' = No conozco a nadie aquí. 'Piacere di conoscerti!' = ¡Mucho gusto en conocerte!"
+    },
+    {
+      "front": "Conoscere + luogo / opera d'arte — conocer un lugar u obra",
+      "back": "Conocer un lugar, obra o tema (familiaridad)",
+      "reading": "",
+      "explanation": "CONOSCERE + lugar/obra = estar familiarizado con algo. 'Conosci Firenze?' = ¿Conocés Florencia? 'Conosci questo film?' = ¿Conocés esta película? 'Conosco bene la musica italiana' = Conozco bien la música italiana."
+    },
+    {
+      "front": "Sapere vs Conoscere: la prueba del español",
+      "back": "¿'Saber' o 'conocer'? → la respuesta es la misma en italiano",
+      "reading": "",
+      "explanation": "La distinción es IDÉNTICA al español. Si en español usarías 'saber': usa SAPERE. Si usarías 'conocer': usa CONOSCERE. Prueba: 'Sé dónde vive' → 'So dove abita'. 'Conozco a tu hermano' → 'Conosco tuo fratello'. Esta transferencia funciona perfectamente."
+    },
+    {
+      "front": "Non so / Non conosco — Errores comunes",
+      "back": "No sé / No conozco — diferencia crucial",
+      "reading": "",
+      "explanation": "'Non so' = No sé (respuesta a '¿sabes dónde...? ¿sabes qué...?'). 'Non conosco' = No conozco (a una persona, un lugar). Error típico: *'Non so questa persona' (incorrecto). Correcto: 'Non conosco questa persona'. Error: *'Non conosco dove abita'. Correcto: 'Non so dove abita'."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Sapere: conjugación y uso",
+      "instruction": "SAPERE = saber. Irregular: SO/SAI/SA/sappiamo/sapete/SANNO. Usos: saber hechos (so che...), saber información (so dove...), saber hacer algo (so nuotare + infinito).",
+      "itemIndices": [0, 2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Conoscere: conjugación y uso",
+      "instruction": "CONOSCERE = conocer. Regular -ERE. Usos: conocer personas, lugares, obras. Idéntico al uso del español 'conocer'.",
+      "itemIndices": [1, 4, 5, 6]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Sapere o Conoscere?",
+      "instruction": "En cada oración, decidí si corresponde sapere o conoscere.",
+      "itemIndices": [2, 3, 4, 5, 7]
+    },
+    {
+      "type": "recall",
+      "title": "Conjugá sapere y conoscere",
+      "instruction": "Completá con la forma correcta de sapere o conoscere.",
+      "itemIndices": [0, 1, 2, 4]
+    },
+    {
+      "type": "error-correction",
+      "title": "Corregí los errores de sapere/conoscere",
+      "instruction": "Estas frases confunden sapere y conoscere. Identificá el error y corregí.",
+      "itemIndices": [7]
+    },
+    {
+      "type": "summary",
+      "title": "Sapere vs Conoscere: como en español",
+      "instruction": "SAPERE (saber): SO/SAI/SA/sappiamo/sapete/SANNO. Uso: hechos, información, habilidades (so + infinito, so che/dove/come/quando). CONOSCERE (conocer): regular -ERE. Uso: personas, lugares, obras. La distinción es IDÉNTICA al español — transferencia directa. Si dudás: pensá en español primero.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

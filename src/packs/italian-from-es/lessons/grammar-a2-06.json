@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a2-06",
+  "title": "Il futuro semplice",
+  "description": "El futuro simple italiano funciona igual que el español (-é, -ás, -á). Se forma con el infinitivo (sin -e) + terminaciones. Hay irregolari importantes, pero son paralelos a los del español.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "parlerò / parlerai / parlerà",
+      "back": "hablaré / hablarás / hablará",
+      "reading": "",
+      "explanation": "Verbos -ARE: infinitivo sin -e → +ò, +ai, +à. Hay cambio vocálico: parlare → parler-. OJO: parlare → parlerò (NO parlarò). Las terminaciones son: -ò, -ai, -à, -emo, -ete, -anno."
+    },
+    {
+      "front": "parleremo / parlerete / parleranno",
+      "back": "hablaremos / hablaréis / hablarán",
+      "reading": "",
+      "explanation": "Plural del futuro -ARE. 'L'anno prossimo parleremo italiano perfettamente.' = El año que viene hablaremos italiano perfectamente."
+    },
+    {
+      "front": "andrò / andrai / andrà / andremo / andrete / andranno",
+      "back": "iré / irás / irá / iremos / iréis / irán",
+      "reading": "",
+      "explanation": "ANDARE es irregular: pierde la vocal del infinitivo. 'L'estate prossima andrò in Spagna.' = El próximo verano iré a España."
+    },
+    {
+      "front": "sarò / sarai / sarà / saremo / sarete / saranno",
+      "back": "seré / serás / será / seremos / seréis / serán",
+      "reading": "",
+      "explanation": "ESSERE irregular en futuro. 'Sarà difficile.' = Será difícil. 'Dove sarete domani?' = ¿Dónde estaréis mañana?"
+    },
+    {
+      "front": "avrò / avrai / avrà / avremo / avrete / avranno",
+      "back": "tendré / tendrás / tendrá / tendremos / tendréis / tendrán",
+      "reading": "",
+      "explanation": "AVERE irregular. 'Avrò tempo domani.' = Tendré tiempo mañana. Paralelo con el español: avere → avrò / haber → habré."
+    },
+    {
+      "front": "verrò / verrai / verrà / verremo / verrete / verranno",
+      "back": "vendré / vendrás / vendrá / vendremos / vendréis / vendrán",
+      "reading": "",
+      "explanation": "VENIRE irregular (raíz doble r). 'Verranno tutti alla festa?' = ¿Vendrán todos a la fiesta?"
+    },
+    {
+      "front": "vorrò / vorrai / vorrà...",
+      "back": "querré / querrás / querrá...",
+      "reading": "",
+      "explanation": "VOLERE irregular. 'Vorrò visitare il Giappone un giorno.' = Querré visitar Japón un día. También: 'dovrò' (deberé), 'potrò' (podré), 'saprò' (sabré)."
+    },
+    {
+      "front": "Futuro per congettura: saranno le tre.",
+      "back": "Serán las tres. (conjetura en el presente)",
+      "reading": "",
+      "explanation": "USO ESPECIAL: el futuro italiano se usa para expresar conjetura sobre el presente. 'Quanto costerà?' = ¿Cuánto costará? (¿cuánto cuesta, no lo sé exactamente). Diferente del español."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El futuro regular",
+      "instruction": "Infinitivo (sin -e) + terminaciones: -ò, -ai, -à, -emo, -ete, -anno. OJO: los verbos -are cambian la -a-: parlare → parler-, mangiare → mangerò.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Los irregolari principales",
+      "instruction": "Los irregolari del futuro italiano son paralelos a los del español futuro.",
+      "itemIndices": [2, 3, 4, 5, 6]
+    },
+    {
+      "type": "recall",
+      "title": "Conjuga en futuro",
+      "instruction": "Da la forma correcta del futuro semplice.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "introduce",
+      "title": "El futuro de conjetura",
+      "instruction": "El futuro italiano también sirve para hacer suposiciones sobre el presente.",
+      "itemIndices": [7]
+    },
+    {
+      "type": "recall",
+      "title": "Futuro semplice — práctica completa",
+      "instruction": "Traduce al italiano usando el futuro semplice.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "Futuro semplice — dominado",
+      "instruction": "Terminaciones: -ò, -ai, -à, -emo, -ete, -anno. Irregolari clave: essere (sarò), avere (avrò), andare (andrò), venire (verrò), volere (vorrò), potere (potrò), dovere (dovrò). En el habla cotidiana, el presente puede sustituir al futuro: 'Domani vado' = Mañana voy/iré.",
+      "itemIndices": [0, 2, 3, 4, 5, 6]
+    }
+  ]
+}

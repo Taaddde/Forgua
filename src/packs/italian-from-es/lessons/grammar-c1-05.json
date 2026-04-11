@@ -1,0 +1,83 @@
+{
+  "id": "grammar-c1-05",
+  "title": "Metafora grammaticale e nominalizzazione",
+  "description": "La 'metáfora gramatical' (Halliday) es el proceso por el que una cláusula verbal se comprime en un sintagma nominal. Es la marca por excelencia del italiano accademico y saggistico. Dominarla te permite no solo leer textos académicos con fluidez, sino producirlos con el estilo apropiado.",
+  "level": "c1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "'L'economia è cresciuta rapidamente' → 'la rapida crescita dell'economia'",
+      "back": "Nominalización: cláusula verbal → sintagma nominal (verbo → sustantivo, adjetivo predicativo → adjetivo atributivo).",
+      "reading": "",
+      "explanation": "La nominalización transforma la estructura: el verbo se convierte en sustantivo ('crescere' → 'crescita'), el adverbio en adjetivo ('rapidamente' → 'rapida'). El resultado permite encadenar información más densa en un sintagma."
+    },
+    {
+      "front": "La decisione del governo di aumentare le tasse ha provocato proteste. [= Il governo ha deciso di aumentare le tasse → questo ha provocato proteste]",
+      "back": "La nominalización permite condensar dos cláusulas en un sintagma nominal complejo.",
+      "reading": "",
+      "explanation": "En lugar de 'Il governo ha deciso di aumentare le tasse. Questo ha provocato proteste.' (dos cláusulas), el texto académico usa la nominalización para comprimirlo en un sintagma nominal que funciona como sujeto de la frase. Esto es característico del registro accademico-giornalistico."
+    },
+    {
+      "front": "Suffissi principali: -zione/-sione (realizzazione, inclusione) / -mento (trattamento) / -ità (disponibilità) / -ezza (bellezza)",
+      "back": "Los sufijos de nominalización más productivos del italiano académico.",
+      "reading": "",
+      "explanation": "-zione/-sione = realizzare→realizzazione; includere→inclusione / -mento = trattare→trattamento / -ità = disponibile→disponibilità; capace→capacità / -ezza = bello→bellezza; grande→grandezza / -tura = aprire→apertura / infinito sostantivato = il vivere, lo scrivere."
+    },
+    {
+      "front": "L'implementazione di politiche redistributive richiede un'attenta valutazione degli impatti.",
+      "back": "Texto académico con alta densidad nominal: dos nominalizaciones en una sola frase.",
+      "reading": "",
+      "explanation": "'Implementazione' (de 'implementare') y 'valutazione' (de 'valutare') son las dos nominalizaciones. La paráfrasis verbal sería: 'Se si implementano politiche redistributive, bisogna valutare attentamente gli impatti'. La versión nominal es más compacta y característica del registro saggistico."
+    },
+    {
+      "front": "Sinestesia: 'silenzio assordante' / 'voce calda' / 'luce tagliente' / 'colori strillanti'",
+      "back": "La sinestesia combina percepciones de sentidos distintos — figura muy productiva en la prosa italiana de calidad.",
+      "reading": "",
+      "explanation": "'Silenzio assordante' (el silencio no puede ser ensordecedor), 'voce calda' (tacto + sonido), 'luce tagliente' (tacto + vista). La sinestesia es una 'metáfora de los sentidos' y es característica de la prosa poetica italiana, de Calvino a De André."
+    },
+    {
+      "front": "Saper riconoscere la nominalizzazione = saper leggere l'italiano accademico.",
+      "back": "La nominalización es el principal marcador del registro académico e periodístico de calidad en italiano.",
+      "reading": "",
+      "explanation": "Cuando lees un testo accademico italiano, la alta densidad de sustantivos abstractos en -zione/-mento es la señal más clara del registro. Aprender a 'deshacer' las nominalizaciones (convertirlas en cláusulas verbales) es la técnica básica de comprensión lectora a nivel C1."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "¿Qué es la nominalización?",
+      "instruction": "La nominalización es la operación gramatical más productiva del italiano académico y periodístico. Transforma información dinámica (verbal) en información estática (nominal), permitiendo encadenar más información en menos espacio. Es la señal más fiable del registro saggistico.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Nominaliza la cláusula",
+      "instruction": "Transforma cada cláusula verbal en un sintagma nominal equivalente usando el sufijo correcto. Recuerda: el adverbio se convierte en adjetivo, el verbo en sustantivo.",
+      "itemIndices": [0, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Los sufijos de nominalización",
+      "instruction": "Los cuatro sufijos más productivos son -zione/-sione, -mento, -ità y -ezza. Aprende a reconocerlos automáticamente al leer: cuando ves un sustantivo en -zione, siempre hay un verbo subyacente que lo origina.",
+      "itemIndices": [2, 3]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Cuál es el verbo subyacente?",
+      "instruction": "Para cada sintagma nominal, identifica el verbo (o adjetivo) que lo origina y reconstruye la cláusula verbal equivalente.",
+      "itemIndices": [3, 4]
+    },
+    {
+      "type": "recall",
+      "title": "Registro nominal vs verbal",
+      "instruction": "Para cada par de oraciones (una nominal/académica, otra verbal/coloquial), identifica cuál corresponde al texto de calidad y cuál al habla.",
+      "itemIndices": [0, 1, 5]
+    },
+    {
+      "type": "summary",
+      "title": "Nominalizzazione — strumento del C1",
+      "instruction": "Las tres habilidades de esta lección: (1) Reconocer nominalizaciones en textos académicos. (2) Deshacer nominalizaciones (convertir a cláusulas verbales) para entender el sentido. (3) Producir nominalizaciones en escritura formal. Para practicar: lee la sezione 'Abstract' de cualquier rivista accademica italiana.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

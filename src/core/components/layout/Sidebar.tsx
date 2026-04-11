@@ -13,6 +13,7 @@ import {
   Settings,
   X,
   Lightbulb,
+  Heart,
 } from 'lucide-react';
 import { useAppStore } from '../../store/useAppStore';
 
@@ -115,8 +116,8 @@ export function Sidebar() {
           })}
         </nav>
 
-        {/* Settings link at bottom */}
-        <div className="px-3 pb-4 border-t border-slate-200 dark:border-slate-800 pt-3">
+        {/* Settings + Donate links at bottom */}
+        <div className="px-3 pb-4 border-t border-slate-200 dark:border-slate-800 pt-3 space-y-1">
           <NavLink
             to="/settings"
             onClick={() => setSidebarOpen(false)}
@@ -131,6 +132,16 @@ export function Sidebar() {
             <Settings className="w-5 h-5 shrink-0" />
             <span>{t('nav.settings')}</span>
           </NavLink>
+
+          <a
+            href="https://github.com/sponsors/taaddde"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="flex items-center gap-3 px-3 py-2.5 rounded-lg text-sm font-medium transition-colors text-slate-400 hover:text-rose-400 hover:bg-rose-500/10 group"
+          >
+            <Heart className="w-5 h-5 shrink-0 group-hover:fill-rose-400 transition-colors" />
+            <span>{t('nav.support')}</span>
+          </a>
         </div>
       </aside>
     </>

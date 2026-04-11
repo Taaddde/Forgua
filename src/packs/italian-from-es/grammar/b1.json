@@ -1,0 +1,860 @@
+[
+  {
+    "id": "b1-trapassato-prossimo",
+    "title": "Trapassato prossimo",
+    "level": "b1",
+    "explanation": "El trapassato prossimo equivale al pretérito pluscuamperfecto español (había hecho, había comido). Se forma con el imperfecto de essere o avere + participio passato. La elección de essere o avere sigue las mismas reglas que el passato prossimo. Se usa para expresar una acción pasada anterior a otra acción también pasada.",
+    "formula": "imperfetto di essere/avere + participio passato",
+    "notes": "Para hispanohablantes: la lógica es idéntica al español. 'Quando sono arrivato, lui era già partito' = 'Cuando llegué, él ya se había ido'. La dificultad está en recordar cuándo usar essere vs avere, lo mismo que en passato prossimo. Los verbos de movimiento y reflexivos llevan essere.",
+    "examples": [
+      {
+        "italian": "Quando sono arrivato, Marco era già partito.",
+        "spanish": "Cuando llegué, Marco ya se había ido.",
+        "sentence": "Esempio: Trapassato prossimo",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Non avevo mai mangiato la pizza napoletana prima di quel viaggio.",
+        "spanish": "Nunca había comido la pizza napolitana antes de ese viaje.",
+        "sentence": "Esempio: Trapassato prossimo",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Era stanca perché aveva lavorato tutta la notte.",
+        "spanish": "Estaba cansada porque había trabajado toda la noche.",
+        "sentence": "Esempio: Trapassato prossimo",
+        "translation": "ver explicación"
+      }
+    ],
+    "commonErrors": [
+      "Usar avere con verbos que requieren essere: ✗ 'aveva andato' → ✓ 'era andato'",
+      "Olvidar el acuerdo del participio con essere: ✗ 'era arrivato' (para mujer) → ✓ 'era arrivata'"
+    ],
+    "pattern": "avevo/ero + participio passato",
+    "meaning": "pluscuamperfecto (había hecho, había comido)"
+  },
+  {
+    "id": "b1-futuro-anteriore",
+    "title": "Futuro anteriore",
+    "level": "b1",
+    "explanation": "El futuro anteriore expresa una acción futura que ocurrirá antes que otra acción futura. Equivale al 'habré + participio' del español. También se usa en italiano para expresar una suposición sobre algo pasado (uso muy común en la lengua hablada).",
+    "formula": "futuro di essere/avere + participio passato",
+    "notes": "Para hispanohablantes: el uso para expresar suposición es muy característico del italiano. 'Avrà dimenticato' = 'Habrá olvidado' (supongo que olvidó). Este uso es más frecuente que en español. Con congiunzioni temporales (quando, appena, dopo che) se usa el futuro anteriore donde en español podríamos usar el perfecto: 'Quando avrai finito, dimmi' = 'Cuando hayas terminado, dime'.",
+    "examples": [
+      {
+        "italian": "Quando avrò finito il lavoro, uscirò.",
+        "spanish": "Cuando haya terminado el trabajo, saldré.",
+        "sentence": "Esempio: Futuro anteriore",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Avrà dimenticato il nostro appuntamento.",
+        "spanish": "Habrá olvidado nuestra cita. (supongo que olvidó)",
+        "sentence": "Esempio: Futuro anteriore",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Appena sarò arrivato, ti chiamo.",
+        "spanish": "En cuanto haya llegado, te llamo.",
+        "sentence": "Esempio: Futuro anteriore",
+        "translation": "ver explicación"
+      }
+    ],
+    "commonErrors": [
+      "Usar el futuro simple donde se necesita el futuro anteriore: ✗ 'Quando finirò' (incorrecto en italiano formal) → ✓ 'Quando avrò finito'",
+      "Confundir con el condizionale passato en contexto hipotético"
+    ],
+    "pattern": "avrò/sarò + participio passato",
+    "meaning": "futuro perfecto (habré hecho, habrás llegado)"
+  },
+  {
+    "id": "b1-condizionale-passato",
+    "title": "Condizionale passato",
+    "level": "b1",
+    "explanation": "El condizionale passato equivale al 'habría/habrías/habría hecho' del español. Se forma con el condizionale presente di essere/avere + participio passato. Tiene dos usos principales: 1) expresar lo que habría ocurrido en una condición hipotética (el pasado de las hipótesis), 2) el futuro en el pasado (en discurso indirecto).",
+    "formula": "condizionale presente di essere/avere + participio passato",
+    "notes": "Para hispanohablantes: la estructura es la misma. 'Sarei andato' = 'Habría ido'. El uso más difícil para hispanohablantes es el 'futuro nel passato' en el discorso indiretto: 'Ha detto che sarebbe venuto' = 'Dijo que vendría'. En italiano se usa el condizionale passato, no el condizionale presente, para referirse al futuro desde el pasado.",
+    "examples": [
+      {
+        "italian": "Se avessi avuto più tempo, avrei studiato di più.",
+        "spanish": "Si hubiera tenido más tiempo, habría estudiado más.",
+        "sentence": "Esempio: Condizionale passato",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Ha detto che sarebbe arrivato tardi.",
+        "spanish": "Dijo que llegaría tarde. (futuro en el pasado)",
+        "sentence": "Esempio: Condizionale passato",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Avrei voluto dirti la verità.",
+        "spanish": "Habría querido decirte la verdad.",
+        "sentence": "Esempio: Condizionale passato",
+        "translation": "ver explicación"
+      }
+    ],
+    "commonErrors": [
+      "En discurso indirecto: ✗ 'Ha detto che verrebbe' → ✓ 'Ha detto che sarebbe venuto'",
+      "Confundir con el condizionale presente: 'vorrei' (quisiera) vs 'avrei voluto' (habría querido)"
+    ],
+    "pattern": "avrei/sarei + participio passato",
+    "meaning": "condicional pasado (habría hecho, habría comido)"
+  },
+  {
+    "id": "b1-passivo-essere",
+    "title": "Passivo con essere",
+    "level": "b1",
+    "explanation": "La voz pasiva en italiano se forma con essere + participio passato (igual que con ser en español). El sujeto recibe la acción. El agente (quien hace la acción) se introduce con 'da'. El participio concuerda en género y número con el sujeto.",
+    "formula": "essere (tiempo conjugado) + participio passato (concordado)",
+    "notes": "Para hispanohablantes: la estructura es muy similar a la pasiva con 'ser' en español. La diferencia es que en italiano la pasiva con essere se puede usar en TODOS los tiempos, mientras que en español a veces es más natural otra construcción. La concordancia del participio es obligatoria: 'La lettera è stata scritta' (femenino singular).",
+    "examples": [
+      {
+        "italian": "Il libro è scritto da uno scrittore famoso.",
+        "spanish": "El libro está/es escrito por un escritor famoso.",
+        "sentence": "Esempio: Passivo con essere",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "La legge è stata approvata dal parlamento.",
+        "spanish": "La ley fue aprobada por el parlamento.",
+        "sentence": "Esempio: Passivo con essere",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Le case saranno costruite l'anno prossimo.",
+        "spanish": "Las casas serán construidas el año próximo.",
+        "sentence": "Esempio: Passivo con essere",
+        "translation": "ver explicación"
+      }
+    ],
+    "commonErrors": [
+      "Olvidar concordar el participio: ✗ 'Le lettere sono stato scritto' → ✓ 'Le lettere sono state scritte'",
+      "Usar 'di' en lugar de 'da' para el agente: ✗ 'scritto di Marco' → ✓ 'scritto da Marco'"
+    ],
+    "pattern": "[soggetto] + essere (coniugato) + participio (-o/-a/-i/-e)",
+    "meaning": "voz pasiva con essere (es construido, fue hecho)"
+  },
+  {
+    "id": "b1-passivo-venire",
+    "title": "Passivo con venire — il processo",
+    "level": "b1",
+    "explanation": "En italiano existe una segunda forma de pasiva: con venire + participio passato. La diferencia con essere es de matiz: essere pasiva describe un ESTADO (resultado), mientras que venire pasiva describe el PROCESO o acción en curso. Venire NO se puede usar con tiempos compuestos (no existe *venuto scritto). Se usa solo en tiempos simples.",
+    "formula": "venire (tiempos simples) + participio passato",
+    "notes": "Esta distinción NO existe en español, es un reto auténtico para hispanohablantes. 'La porta è chiusa' = la puerta está cerrada (estado/resultado). 'La porta viene chiusa alle 8' = la puerta es cerrada (proceso, acción habitual) a las 8. Si hay un agente específico (da + persona) se prefiere essere. Venire es más dinámico y procesual.",
+    "examples": [
+      {
+        "italian": "I pacchi vengono consegnati ogni mattina.",
+        "spanish": "Los paquetes son entregados cada mañana. (proceso habitual)",
+        "sentence": "Esempio: Passivo con venire — il processo",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "I documenti venivano firmati dal direttore.",
+        "spanish": "Los documentos eran firmados por el director. (proceso imperfecto)",
+        "sentence": "Esempio: Passivo con venire — il processo",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Il premio verrà assegnato domani.",
+        "spanish": "El premio será entregado mañana. (proceso futuro)",
+        "sentence": "Esempio: Passivo con venire — il processo",
+        "translation": "ver explicación"
+      }
+    ],
+    "commonErrors": [
+      "Usar venire en tiempos compuestos: ✗ 'è venuto fatto' → ✓ 'è stato fatto'",
+      "No ver la diferencia: 'la porta è chiusa' (estado) vs 'la porta viene chiusa' (acción) — importante en contexto"
+    ],
+    "pattern": "[soggetto] + venire (coniugato) + participio (proceso)",
+    "meaning": "voz pasiva con venire (proceso en curso)"
+  },
+  {
+    "id": "b1-si-passivante",
+    "title": "Si passivante",
+    "level": "b1",
+    "explanation": "El si passivante (o si pasivante) se usa cuando el sujeto de la frase es una cosa (no una persona) y no se menciona el agente. El verbo concuerda con el sujeto en número. Se construye: si + verbo en 3ª persona (singular o plural). Es muy frecuente en Italia en titulares, instrucciones y señales.",
+    "formula": "si + verbo 3ª sing./plural (según el sujeto)",
+    "notes": "Para hispanohablantes: ¡Ojo! En español usamos 'se' de forma muy similar, pero la concordancia verbal es diferente. En español decimos siempre 'se vende' aunque el sujeto sea plural ('se venden pisos'). En italiano el verbo DEBE concordar: 'si vende un appartamento' pero 'si vendono due appartamenti'. El si passivante NO se usa con personas como sujeto (eso es el si impersonale). La diferencia: si + verbo sing. = sujeto singular; si + verbo plural = sujeto plural.",
+    "examples": [
+      {
+        "italian": "Si vendono appartamenti in centro.",
+        "spanish": "Se venden apartamentos en el centro.",
+        "sentence": "Esempio: Si passivante",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "In Italia si mangia la pasta ogni giorno.",
+        "spanish": "En Italia se come pasta cada día.",
+        "sentence": "Esempio: Si passivante",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Si cercano collaboratori esperti.",
+        "spanish": "Se buscan colaboradores expertos.",
+        "sentence": "Esempio: Si passivante",
+        "translation": "ver explicación"
+      }
+    ],
+    "commonErrors": [
+      "No hacer concordar: ✗ 'Si vende due macchine' → ✓ 'Si vendono due macchine'",
+      "Confundir con si impersonale: en si passivante el 'sujeto' es la cosa; en si impersonale no hay sujeto real"
+    ],
+    "pattern": "si + verbo (3ª persona) + [soggetto]",
+    "meaning": "se pasiva (se dice, se vende, se habla)"
+  },
+  {
+    "id": "b1-si-impersonale",
+    "title": "Si impersonale",
+    "level": "b1",
+    "explanation": "El si impersonale se usa para hacer afirmaciones generales sin un sujeto específico, equivale al 'se' impersonal español o al 'uno' / 'la gente'. A diferencia del si passivante, aquí el verbo siempre va en TERCERA PERSONA SINGULAR, y la 'acción' la realizan personas indeterminadas. Con verbos reflexivos, el si impersonale usa 'ci si' para evitar dos 'si' seguidos.",
+    "formula": "si + verbo 3ª sing. (siempre) | reflexivos: ci si + verbo",
+    "notes": "Para hispanohablantes: el si impersonale es como el 'se' impersonal + 'uno' en español. 'Si mangia bene qui' = 'Se come bien aquí' / 'Uno come bien aquí'. ¡Punto crítico! Con aggettivi (adjetivos), en si impersonale el adjetivo va al PLURAL masculino aunque el verbo sea singular: 'Si è felici quando si ha salute' (aunque 'si è' es singular, 'felici' es plural). Con si + essere, el predicativo es plural: 'Si è stanchi' = Uno está cansado (lit. se está cansados). Esto NO existe en español.",
+    "examples": [
+      {
+        "italian": "Si mangia bene in questo ristorante.",
+        "spanish": "Se come bien en este restaurante.",
+        "sentence": "Esempio: Si impersonale",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "In Italia si parla molto con le mani.",
+        "spanish": "En Italia se habla mucho con las manos.",
+        "sentence": "Esempio: Si impersonale",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Ci si sveglia presto in campagna.",
+        "spanish": "Uno se despierta temprano en el campo.",
+        "sentence": "Esempio: Si impersonale",
+        "translation": "ver explicación"
+      }
+    ],
+    "commonErrors": [
+      "Adjetivo singular con si impersonale: ✗ 'Si è stanco' → ✓ 'Si è stanchi'",
+      "Reflexivo doble: ✗ 'si si alza' → ✓ 'ci si alza'"
+    ],
+    "pattern": "si + verbo (3ª persona singolare)",
+    "meaning": "se impersonal (se come bien aquí)"
+  },
+  {
+    "id": "b1-congiuntivo-presente",
+    "title": "Congiuntivo presente — Forme",
+    "level": "b1",
+    "explanation": "El congiuntivo presente es uno de los tiempos más importantes del B1 italiano. Se forma con terminaciones específicas por grupo verbal. -ARE → -i/-i/-i/-iamo/-iate/-ino. -ERE → -a/-a/-a/-iamo/-iate/-ano. -IRE → -a/-a/-a/-iamo/-iate/-ano (o -isca con verbos como finire). Irregulares más importantes: essere→sia, avere→abbia, fare→faccia, andare→vada, venire→venga, dare→dia, stare→stia, volere→voglia, potere→possa, sapere→sappia.",
+    "formula": "-ARE: parl-i/i/i/iamo/iate/ino | -ERE/-IRE: pren-a/a/a/iamo/iate/ano",
+    "notes": "Para hispanohablantes: el español también tiene subjuntivo, pero con diferencias importantes. En italiano: 1) las tres personas del singular son IDÉNTICAS (che io/tu/lui parli), por eso el pronombre sujeto es casi obligatorio en congiuntivo; 2) los verbos -ERE e -IRE tienen las MISMAS terminaciones de congiuntivo; 3) muchos irregulares del congiuntivo siguen la raíz de la 1ª persona del presente indicativo (vengo→venga, faccio→faccia). En español el subjuntivo tiene personas distintas; en italiano la ambigüedad se resuelve con el pronombre.",
+    "examples": [
+      {
+        "italian": "Spero che tu venga domani.",
+        "spanish": "Espero que vengas mañana.",
+        "sentence": "Esempio: Congiuntivo presente — Forme",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Voglio che lui parli con me.",
+        "spanish": "Quiero que él hable conmigo.",
+        "sentence": "Esempio: Congiuntivo presente — Forme",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "È necessario che tutti siano presenti.",
+        "spanish": "Es necesario que todos estén presentes.",
+        "sentence": "Esempio: Congiuntivo presente — Forme",
+        "translation": "ver explicación"
+      }
+    ],
+    "conjugationTable": {
+      "parlare": [
+        "parli",
+        "parli",
+        "parli",
+        "parliamo",
+        "parliate",
+        "parlino"
+      ],
+      "prendere": [
+        "prenda",
+        "prenda",
+        "prenda",
+        "prendiamo",
+        "prendiate",
+        "prendano"
+      ],
+      "finire": [
+        "finisca",
+        "finisca",
+        "finisca",
+        "finiamo",
+        "finiate",
+        "finiscano"
+      ],
+      "essere": [
+        "sia",
+        "sia",
+        "sia",
+        "siamo",
+        "siate",
+        "siano"
+      ],
+      "avere": [
+        "abbia",
+        "abbia",
+        "abbia",
+        "abbiamo",
+        "abbiate",
+        "abbiano"
+      ]
+    },
+    "commonErrors": [
+      "No usar el pronombre sujeto: ✗ 'Spero che venga' (ambiguo) → ✓ 'Spero che lui venga' (claro)",
+      "Usar terminaciones de -are para -ere: ✗ 'che prendi' → ✓ 'che prenda'",
+      "Irregular essere: ✗ 'che è' / 'che sta' → ✓ 'che sia'"
+    ],
+    "pattern": "-are: -i/-i/-i/-iamo/-iate/-ino | -ere/-ire: -a/-a/-a/-iamo/-iate/-ano",
+    "meaning": "formas del subjuntivo presente"
+  },
+  {
+    "id": "b1-congiuntivo-usi",
+    "title": "Quando si usa il congiuntivo",
+    "level": "b1",
+    "explanation": "El congiuntivo presente se usa en oraciones subordinadas en varios contextos. GRUPO 1 — verbos de deseo/emoción/opinión: volere che, sperare che, desiderare che, temere che, essere contento che. GRUPO 2 — verbos de duda/creencia: pensare che, credere che, ritenere che, dubitare che, sembrare che. GRUPO 3 — verbos impersonales: è necessario che, è importante che, bisogna che, è strano che, è possibile che. GRUPO 4 — conjunciones concesivas y condicionales: sebbene, benché, nonostante (che), affinché, perché (final), prima che, senza che, purché, a meno che.",
+    "formula": "verbo principale + che + congiuntivo (sujetos diferentes) | conjunción + congiuntivo",
+    "notes": "Para hispanohablantes: ¡Atención! En español muchos de estos verbos también llevan subjuntivo, PERO hay diferencias clave: 1) En italiano se usa congiuntivo incluso con 'pensare che' aunque la persona piense que es CIERTO ('Penso che sia vero' - aunque lo considere verdad). En español decimos 'Pienso que ES verdad' (indicativo). 2) La regla de sujetos diferentes es igual: mismo sujeto = infinitivo ('voglio andare'), sujetos diferentes = che + congiuntivo ('voglio che tu venga'). 3) 'nonostante' en italiano requiere siempre congiuntivo, a diferencia del español 'a pesar de que' que puede ir con indicativo.",
+    "examples": [
+      {
+        "italian": "Penso che questo film sia molto bello.",
+        "spanish": "Pienso que esta película ES muy bonita. (indicativo en español, congiuntivo en italiano)",
+        "sentence": "Esempio: Quando si usa il congiuntivo",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Sebbene sia stanco, continua a lavorare.",
+        "spanish": "Aunque está cansado, sigue trabajando.",
+        "sentence": "Esempio: Quando si usa il congiuntivo",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Ti telefono prima che tu parta.",
+        "spanish": "Te llamo antes de que partas.",
+        "sentence": "Esempio: Quando si usa il congiuntivo",
+        "translation": "ver explicación"
+      }
+    ],
+    "triggerVerbs": {
+      "deseo": [
+        "volere che",
+        "desiderare che",
+        "sperare che",
+        "preferire che"
+      ],
+      "emoción": [
+        "essere contento che",
+        "dispiacere che",
+        "temere che",
+        "aver paura che"
+      ],
+      "opinión/duda": [
+        "pensare che",
+        "credere che",
+        "ritenere che",
+        "sembrare che",
+        "dubitare che"
+      ],
+      "impersonales": [
+        "è necessario che",
+        "è importante che",
+        "bisogna che",
+        "è possibile che",
+        "è strano che"
+      ],
+      "conjunciones": [
+        "sebbene",
+        "benché",
+        "nonostante (che)",
+        "affinché",
+        "purché",
+        "prima che",
+        "senza che",
+        "a meno che non"
+      ]
+    },
+    "commonErrors": [
+      "Usar indicativo con 'pensare che': ✗ 'Penso che è bello' → ✓ 'Penso che sia bello'",
+      "Usar congiuntivo con mismo sujeto: ✗ 'Voglio che io vada' → ✓ 'Voglio andare'",
+      "Usar indicativo con 'sebbene': ✗ 'Sebbene è stanco' → ✓ 'Sebbene sia stanco'"
+    ],
+    "pattern": "pensare/credere/volere/sperare + che + congiuntivo",
+    "meaning": "cuándo se usa el subjuntivo italiano"
+  },
+  {
+    "id": "b1-congiuntivo-passato",
+    "title": "Congiuntivo passato",
+    "level": "b1",
+    "explanation": "El congiuntivo passato expresa una acción pasada en una oración subordinada en subjuntivo. Se forma con il congiuntivo presente di essere o avere + participio passato. Se usa cuando la acción subordinada es anterior a la acción de la oración principal (que está en presente o futuro). Corresponde al 'haya hecho / haya venido' del español.",
+    "formula": "abbia/sia (congiuntivo presente) + participio passato",
+    "notes": "Para hispanohablantes: funciona igual que el pretérito perfecto de subjuntivo español. 'Penso che sia arrivato' = 'Creo que haya llegado'. La dificultad es la elección essere/avere (mismas reglas que en passato prossimo). Con essere el participio concuerda: 'Penso che Maria sia arrivata'. Cronología: si la acción subordinada ocurre AL MISMO TIEMPO que la principal → congiuntivo presente. Si la acción subordinada ocurre ANTES → congiuntivo passato.",
+    "examples": [
+      {
+        "italian": "Penso che Marco sia già partito.",
+        "spanish": "Creo que Marco ya ha partido / se haya ido.",
+        "sentence": "Esempio: Congiuntivo passato",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Sono contenta che tu abbia studiato.",
+        "spanish": "Estoy contenta de que hayas estudiado.",
+        "sentence": "Esempio: Congiuntivo passato",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Sebbene abbia piovuto, siamo usciti.",
+        "spanish": "Aunque ha llovido, hemos salido.",
+        "sentence": "Esempio: Congiuntivo passato",
+        "translation": "ver explicación"
+      }
+    ],
+    "commonErrors": [
+      "Usar congiuntivo presente para acción anterior: ✗ 'Penso che parta ieri' → ✓ 'Penso che sia partito ieri'",
+      "Concordanza con essere: ✗ 'Penso che lei sia arrivato' → ✓ 'Penso che lei sia arrivata'"
+    ],
+    "pattern": "abbia/sia + participio passato",
+    "meaning": "subjuntivo pasado (que haya venido, que hayas hecho)"
+  },
+  {
+    "id": "b1-gerundio",
+    "title": "Gerundio — modo e tempo",
+    "level": "b1",
+    "explanation": "El gerundio italiano corresponde al gerundio español (-ando/-endo) pero su uso tiene matices importantes. GERUNDIO PRESENTE: -are → -ando; -ere/-ire → -endo. GERUNDIO PASSATO: essendo/avendo + participio passato. Se usa: 1) manera/modo ('caminando'); 2) causa ('al estar cansado'); 3) tiempo simultáneo ('mientras hacía'); 4) condición ('estudiando, aprobarás'); 5) Con stare + gerundio = acción en progreso.",
+    "formula": "-ARE → -ando | -ERE/-IRE → -endo | passato: avendo/essendo + participio",
+    "notes": "Para hispanohablantes: el gerundio italiano es MÁS RESTRINGIDO que el español. En italiano NO se puede usar el gerundio como sujeto u objeto de una frase (esto se expresa con el infinitivo). En español decimos 'Estudiar es importante' pero también coloquialmente 'Estudiando se aprende'. En italiano, el gerundio tiene siempre el mismo sujeto que la oración principal — esto es la regla más importante. Con el gerundio passato, la acción del gerundio es anterior: 'Avendo studiato, ha superato l'esame' = 'Habiendo estudiado, pasó el examen'.",
+    "examples": [
+      {
+        "italian": "Studiando ogni giorno, migliorerai velocemente.",
+        "spanish": "Estudiando cada día, mejorarás rápidamente.",
+        "sentence": "Esempio: Gerundio — modo e tempo",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Essendo stanca, è andata a letto presto.",
+        "spanish": "Estando cansada, se fue a dormir temprano.",
+        "sentence": "Esempio: Gerundio — modo e tempo",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Avendo finito il lavoro, siamo usciti.",
+        "spanish": "Habiendo terminado el trabajo, salimos.",
+        "sentence": "Esempio: Gerundio — modo e tempo",
+        "translation": "ver explicación"
+      }
+    ],
+    "commonErrors": [
+      "Sujetos diferentes para el gerundio: ✗ 'Essendo tardi, lui non è venuto' (si il soggetto di 'essendo' è diverso) → usar una frase subordinata",
+      "Usar gerundio como soggetto: ✗ 'Studiando è importante' → ✓ 'Studiare è importante'"
+    ],
+    "pattern": "verbo-ando (-are) | verbo-endo (-ere/-ire)",
+    "meaning": "gerundio (hablando, comiendo, haciendo)"
+  },
+  {
+    "id": "b1-infinito-negativo",
+    "title": "Costruzioni con l'infinito",
+    "level": "b1",
+    "explanation": "El infinitivo en italiano se usa en varias construcciones preposicionales equivalentes al español. Las más importantes para B1: prima di + infinitivo (antes de hacer), dopo + infinitivo passato (después de haber hecho), senza + infinitivo (sin hacer), invece di + infinitivo (en lugar de hacer), per + infinitivo (para hacer / por haber hecho), a forza di + infinitivo (a fuerza de hacer). El INFINITIVO NEGATIVO se forma poniendo 'non' ANTES del infinitivo: 'non fare', 'per non sbagliare'.",
+    "formula": "preposición + infinitivo presente/passato",
+    "notes": "Para hispanohablantes: en español con estas preposiciones se puede usar el infinitivo o el subjuntivo. En italiano se DEBE usar el infinitivo cuando el sujeto es el mismo. 'Prima di uscire' (antes de salir — mismo sujeto). Si los sujetos son diferentes: 'prima che tu esca' (usando congiuntivo). La construcción 'dopo + infinitivo passato' es importante: 'Dopo aver mangiato, ho dormito' = 'Después de comer, dormí'. No se dice *'dopo mangiare' sino 'dopo aver mangiato'.",
+    "examples": [
+      {
+        "italian": "Prima di uscire, chiudi la finestra.",
+        "spanish": "Antes de salir, cierra la ventana.",
+        "sentence": "Esempio: Costruzioni con l'infinito",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Dopo aver mangiato, è andato a dormire.",
+        "spanish": "Después de comer, se fue a dormir.",
+        "sentence": "Esempio: Costruzioni con l'infinito",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "È uscito senza dire niente.",
+        "spanish": "Salió sin decir nada.",
+        "sentence": "Esempio: Costruzioni con l'infinito",
+        "translation": "ver explicación"
+      }
+    ],
+    "commonErrors": [
+      "Usar infinitivo presente con dopo: ✗ 'dopo mangiare' → ✓ 'dopo aver mangiato'",
+      "Confundir 'per' (para/por): 'Studia per imparare' (para aprender) vs 'La ringrazio per essere venuta' (por haber venido)"
+    ],
+    "pattern": "prima di / senza / invece di / per + infinitivo",
+    "meaning": "construcciones con infinitivo (antes de, sin, en lugar de)"
+  },
+  {
+    "id": "b1-pronomi-relativi",
+    "title": "Pronomi relativi: che, cui, il quale",
+    "level": "b1",
+    "explanation": "Los pronombres relativos enlazan una oración subordinada con su antecedente. CHE: sujeto o objeto directo; no cambia con género/número. CUI: se usa después de PREPOSICIÓN (a cui, di cui, con cui, in cui, da cui). IL QUALE/LA QUALE/I QUALI/LE QUALI: variante formal concordada de 'che' o 'cui con preposición' — se usa para evitar ambigüedad o en registros formales. Genitivo CUI: 'il libro, il cui autore è famoso' = 'el libro cuyo autor es famoso'.",
+    "formula": "che (suj/OD sin prep) | preposizione + cui (con prep) | il quale (formal, concordado)",
+    "notes": "Para hispanohablantes: el español tiene 'que, quien, cuyo, donde, cuando, cual'. En italiano: NO existe 'quien/cuyo' como tal — se usa 'cui' con preposición. 'La persona con cui parlo' = 'la persona con quien hablo'. El 'cuyo' español = 'il cui/la cui/i cui/le cui'. El uso de 'dove' es posible para lugar. Importante: 'che' nunca va precedido de preposición en italiano. Si hay preposición, se usa 'cui' o 'il quale'.",
+    "examples": [
+      {
+        "italian": "Il libro che ho letto è bellissimo.",
+        "spanish": "El libro que leí es bellísimo.",
+        "sentence": "Esempio: Pronomi relativi: che, cui, il quale",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "La città in cui abito si chiama Milano.",
+        "spanish": "La ciudad en la que vivo se llama Milán.",
+        "sentence": "Esempio: Pronomi relativi: che, cui, il quale",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "È un autore i cui romanzi sono famosi in tutto il mondo.",
+        "spanish": "Es un autor cuyos romances son famosos en todo el mundo.",
+        "sentence": "Esempio: Pronomi relativi: che, cui, il quale",
+        "translation": "ver explicación"
+      }
+    ],
+    "commonErrors": [
+      "Usar 'che' con preposición: ✗ 'la persona con che parlo' → ✓ 'la persona con cui parlo'",
+      "No concordar 'il quale': ✗ 'le ragazze il quale' → ✓ 'le ragazze le quali'"
+    ],
+    "pattern": "[antecedente] + che (sogg./ogg.) | cui (prep.) | il quale/la quale",
+    "meaning": "pronombres relativos (que, cuyo, el cual)"
+  },
+  {
+    "id": "b1-pronomi-combinati",
+    "title": "Pronomi combinati: me lo, te la, glielo...",
+    "level": "b1",
+    "explanation": "Cuando un pronombre de objeto indirecto (mi, ti, gli/le, ci, vi, si) y uno de objeto directo (lo, la, li, le) se combinan, forman pronombres dobles. El indirecto va primero, el directo segundo. Las formas: mi+lo=me lo, mi+la=me la, mi+li=me li, mi+le=me le. ti+lo=te lo, ti+la=te la. gli/le+lo=glielo, gli/le+la=gliela, gli/le+li=glieli, gli/le+le=gliele. ci+lo=ce lo. vi+lo=ve lo. si+lo=se lo. Con gli (a lui/lei/loro) las formas se 'fusionan' en 'glie-' = glielo, gliela, glieli, gliele.",
+    "formula": "pronome indiretto + pronome diretto → forma combinata",
+    "notes": "Para hispanohablantes: en español también existen: 'te lo doy', 'me lo dice'. La dificultad en italiano es la forma especial de gli: 'gliel-'. En español el indirecto de 3ª persona es siempre 'se' (se lo doy), en italiano es 'glie-' y se FUSIONA con el directo: 'Glielo do' (a él/ella/Ud/ellos se lo doy). La posición es la misma que en español: antes del verbo conjugado o después/unido al infinitivo/gerundio/imperativo.",
+    "examples": [
+      {
+        "italian": "Me lo dai? — Sì, te lo do subito.",
+        "spanish": "¿Me lo das? — Sí, te lo doy enseguida.",
+        "sentence": "Esempio: Pronomi combinati: me lo, te la, glielo...",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Il professore glielo ha spiegato.",
+        "spanish": "El profesor se lo explicó (a él/ella).",
+        "sentence": "Esempio: Pronomi combinati: me lo, te la, glielo...",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Posso darglielo domani?",
+        "spanish": "¿Puedo dárselo mañana?",
+        "sentence": "Esempio: Pronomi combinati: me lo, te la, glielo...",
+        "translation": "ver explicación"
+      }
+    ],
+    "commonErrors": [
+      "Forma de 3ª persona: ✗ 'le lo' / 'li lo' → ✓ 'glielo' (para lui, lei, loro, Lei)",
+      "Orden incorrecto: ✗ 'lo mi dai' → ✓ 'me lo dai'"
+    ],
+    "pattern": "me lo/me la/me li/me le | te lo... | glielo/gliela...",
+    "meaning": "pronombres combinados (me lo, te la, glielo)"
+  },
+  {
+    "id": "b1-discorso-indiretto",
+    "title": "Discorso indiretto — trasformazioni",
+    "level": "b1",
+    "explanation": "El discurso indirecto (el estilo indirecto) transforma lo que alguien dijo. Las transformaciones principales cuando el verbo introductor está en pasado: Presente → Imperfetto ('studio' → 'studiava'). Passato prossimo → Trapassato prossimo ('ho studiato' → 'aveva studiato'). Futuro semplice → Condizionale passato ('studierò' → 'avrebbe studiato'). Imperativo → di + infinitivo ('vieni' → 'di venire'). También cambian: questo → quello, qui/qua → lì/là, oggi → quel giorno, ieri → il giorno prima, domani → il giorno dopo.",
+    "formula": "dice che + ind. presente | ha detto che + ind. imperfetto",
+    "notes": "Para hispanohablantes: el italiano y el español tienen un sistema muy similar en el discurso indirecto. La diferencia más importante: en italiano el futuro → condizionale PASSATO ('avrebbe fatto'), no condizionale presente. El imperativo → 'di + infinitivo': 'mi ha detto di venire' = 'me dijo que viniera'. En español decimos 'dijo que viniera' (subjuntivo), en italiano es 'di + infinitivo' (si mismo sujeto) o 'che + congiuntivo imperfetto' (sujetos diferentes).",
+    "examples": [
+      {
+        "italian": "«Vengo domani» → Ha detto che veniva il giorno dopo.",
+        "spanish": "\"Vengo mañana\" → Dijo que vendría al día siguiente.",
+        "sentence": "Esempio: Discorso indiretto — trasformazioni",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "«Chiamami!» → Mi ha detto di chiamarla.",
+        "spanish": "\"¡Llámame!\" → Me dijo que la llamara.",
+        "sentence": "Esempio: Discorso indiretto — trasformazioni",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "«Ho finito il lavoro» → Ha detto che aveva finito il lavoro.",
+        "spanish": "\"Terminé el trabajo\" → Dijo que había terminado el trabajo.",
+        "sentence": "Esempio: Discorso indiretto — trasformazioni",
+        "translation": "ver explicación"
+      }
+    ],
+    "commonErrors": [
+      "Futuro en discurso indirecto: ✗ 'Ha detto che verrebbe' → ✓ 'Ha detto che sarebbe venuto'",
+      "Imperativo en discurso indirecto: ✗ 'Mi ha detto che vengo' → ✓ 'Mi ha detto di venire'"
+    ],
+    "pattern": "dice che... | ha detto che... | (trasformación de tiempos)",
+    "meaning": "estilo indirecto (dijo que vendría)"
+  },
+  {
+    "id": "b1-periodo-ipotetico-1",
+    "title": "Periodo ipotetico tipo 1 — reale",
+    "level": "b1",
+    "explanation": "El período hipotético tipo 1 (reale/possibile nel presente e futuro) expresa una condición que se considera real o muy probable. Estructura: se + indicativo presente (o futuro) → indicativo presente/futuro/imperativo. Es la hipótesis más simple y directa. Equivale en español a 'Si estudias, aprendes' o 'Si estudias, aprenderás'.",
+    "formula": "se + indicativo presente → indicativo presente/futuro/imperativo",
+    "notes": "Para hispanohablantes: es la hipótesis más fácil porque funciona igual que en español. 'Se studi, impari' = 'Si estudias, aprendes'. 'Se studi, imparerai' = 'Si estudias, aprenderás'. NO se usa il futuro después de 'se' (a diferencia del inglés pero similar al español): ✗ 'se studierò' → ✓ 'se studio'. También se puede usar se + futuro en italiano cuando la condición es genuinamente futura y puntual, pero en español también hay excepciones.",
+    "examples": [
+      {
+        "italian": "Se mangi troppo, ingrassi.",
+        "spanish": "Si comes demasiado, engordas.",
+        "sentence": "Esempio: Periodo ipotetico tipo 1 — reale",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Se hai fame, mangia qualcosa.",
+        "spanish": "Si tienes hambre, come algo.",
+        "sentence": "Esempio: Periodo ipotetico tipo 1 — reale",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Se piove domani, resteremo a casa.",
+        "spanish": "Si llueve mañana, nos quedaremos en casa.",
+        "sentence": "Esempio: Periodo ipotetico tipo 1 — reale",
+        "translation": "ver explicación"
+      }
+    ],
+    "commonErrors": [
+      "Futuro en la prótasis: ✗ 'Se studierò' → ✓ 'Se studio' (la condición en presente)",
+      "Confundir con tipo 2: tipo 1 = situación real/probable; tipo 2 = poco probable o hipotética"
+    ],
+    "pattern": "se + presente/futuro + futuro/imperativo",
+    "meaning": "período hipotético real (si vienes, comemos)"
+  },
+  {
+    "id": "b1-periodo-ipotetico-2",
+    "title": "Periodo ipotetico tipo 2 — possibile/impossibile nel presente",
+    "level": "b1",
+    "explanation": "El período hipotético tipo 2 (o 'della possibilità') expresa una condición imaginaria, poco probable, hipotética o contraria a la realidad en el presente. Estructura: se + congiuntivo imperfetto → condizionale presente. Equivale en español a 'Si estudiara/estudiase, aprendería'. Para el pasado: se + congiuntivo trapassato → condizionale passato ('Si hubiera estudiado, habría aprendido').",
+    "formula": "se + congiuntivo imperfetto → condizionale presente | se + congiuntivo trapassato → condizionale passato",
+    "notes": "Para hispanohablantes: ¡Atención importante! En español usamos el subjuntivo imperfecto (-ra/-se) en la condición: 'Si tuviera dinero, viviría en Italia'. En italiano se usa TAMBIÉN el congiuntivo imperfetto: 'Se avessi soldi, vivrei in Italia'. El congiuntivo imperfetto italiano es similar al subjuntivo imperfecto -ra español. Para el trapassato: 'Se avessi avuto' = 'Si hubiera tenido'. La apódosis (resultado) usa SIEMPRE condizionale, nunca congiuntivo (al contrario del español oral que a veces dice 'si hubiera... hubiera').",
+    "examples": [
+      {
+        "italian": "Se avessi più tempo, studierei di più.",
+        "spanish": "Si tuviera más tiempo, estudiaría más.",
+        "sentence": "Esempio: Periodo ipotetico tipo 2 — possibile/impossibile nel presente",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Se fossi ricco, comprerei una villa in Toscana.",
+        "spanish": "Si fuera rico, compraría una villa en la Toscana.",
+        "sentence": "Esempio: Periodo ipotetico tipo 2 — possibile/impossibile nel presente",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Se avesse studiato, avrebbe superato l'esame.",
+        "spanish": "Si hubiera estudiado, habría pasado el examen.",
+        "sentence": "Esempio: Periodo ipotetico tipo 2 — possibile/impossibile nel presente",
+        "translation": "ver explicación"
+      }
+    ],
+    "commonErrors": [
+      "Usar condizionale en la prótasis: ✗ 'Se avrei soldi' → ✓ 'Se avessi soldi'",
+      "Mezclar tipo 1 y tipo 2: ✗ 'Se studio, imparerei' → ✓ 'Se studiassi, imparerei' (tipo 2)"
+    ],
+    "pattern": "se + congiuntivo imperfetto + condizionale presente",
+    "meaning": "período hipotético posible (si vinieras, comeríamos)"
+  },
+  {
+    "id": "b1-connettivi",
+    "title": "Connettivi di causa e concessione",
+    "level": "b1",
+    "explanation": "Los conectores de causa y concesión son fundamentales para textos B1. CAUSA (porque/ya que): perché + indicativo (razón directa), poiché/siccome + indicativo (ya que, causa conocida — nunca al final), dato che/visto che + indicativo (dado que). CONCESIÓN (aunque): sebbene/benché/nonostante (che)/malgrado (che) + CONGIUNTIVO; nonostante + sostantivo (sin verbo); anche se + indicativo (aunque — más coloquial). Distinción clave: 'perché' causal no lleva congiuntivo; 'perché' final (para que) sí lleva congiuntivo.",
+    "formula": "causa: perché/poiché/siccome + indicativo | concesión: sebbene/benché + congiuntivo | anche se + indicativo",
+    "notes": "Para hispanohablantes: 'siccome' y 'poiché' equivalen a 'ya que' y van SIEMPRE al inicio de la oración o antes de la consecuencia — nunca al final. 'Perché' puede ir en cualquier posición. Concesión: 'anche se' + indicativo es coloquial ('aunque'); 'sebbene/benché' + congiuntivo es formal ('aunque/si bien'). 'Nonostante' puede preceder a un sustantivo o a 'che' + congiuntivo: 'nonostante la pioggia' / 'nonostante che piova'.",
+    "examples": [
+      {
+        "italian": "Non è venuto perché era malato.",
+        "spanish": "No vino porque estaba enfermo.",
+        "sentence": "Esempio: Connettivi di causa e concessione",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Siccome pioveva, siamo rimasti a casa.",
+        "spanish": "Ya que llovía, nos quedamos en casa.",
+        "sentence": "Esempio: Connettivi di causa e concessione",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Sebbene fosse stanco, ha continuato a lavorare.",
+        "spanish": "Aunque estaba cansado, siguió trabajando.",
+        "sentence": "Esempio: Connettivi di causa e concessione",
+        "translation": "ver explicación"
+      }
+    ],
+    "commonErrors": [
+      "'Perché' final lleva congiuntivo: 'Ti telefono perché tu sappia la verità' (para que sepas) — distinto a 'perché' causal",
+      "Siccome al final: ✗ 'Sono rimasto a casa, siccome pioveva' → ✓ 'Siccome pioveva, sono rimasto a casa'"
+    ],
+    "pattern": "perché/poiché/siccome + indicativo | benché/sebbene + congiuntivo",
+    "meaning": "conectores de causa y concesión"
+  },
+  {
+    "id": "b1-connettivi-fine",
+    "title": "Connettivi di fine e conseguenza",
+    "level": "b1",
+    "explanation": "FINALIDAD (para que/con el fin de): affinché/perché + congiuntivo (sujetos diferentes), per + infinitivo (mismo sujeto), in modo da + infinitivo (de modo que, mismo sujeto). CONSECUENCIA (así que/por lo tanto): quindi/quindi + indicativo, perciò, pertanto, dunque, così, per cui, di conseguenza. CONTRASTE/ADVERSATIVO: però (pero), tuttavia, eppure (y sin embargo), invece (en cambio), al contrario.",
+    "formula": "finalidad: affinché + congiuntivo | per + infinitivo | consecuencia: quindi/perciò/pertanto + indicativo",
+    "notes": "Para hispanohablantes: 'affinché' y 'perché' (cuando es final) son equivalentes a 'para que' y requieren congiuntivo si los sujetos son diferentes. Con el mismo sujeto, siempre 'per + infinitivo'. 'Quindi', 'perciò', 'pertanto', 'dunque' son todos equivalentes a 'así que/por lo tanto' — se usan al comienzo de la oración resultado. 'Dunque' también tiene uso filosófico ('Cogito ergo sum' — 'dunque esisto').",
+    "examples": [
+      {
+        "italian": "Studio molto affinché mia figlia abbia un futuro migliore.",
+        "spanish": "Estudio mucho para que mi hija tenga un futuro mejor.",
+        "sentence": "Esempio: Connettivi di fine e conseguenza",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Era tardi, quindi siamo partiti.",
+        "spanish": "Era tarde, así que partimos.",
+        "sentence": "Esempio: Connettivi di fine e conseguenza",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Parliamo piano in modo da non svegliare il bambino.",
+        "spanish": "Hablamos bajito de modo que no despertemos al niño.",
+        "sentence": "Esempio: Connettivi di fine e conseguenza",
+        "translation": "ver explicación"
+      }
+    ],
+    "commonErrors": [
+      "Affinché + indicativo: ✗ 'affinché viene' → ✓ 'affinché venga'",
+      "Quindi al inicio de oración (es correcto, a diferencia de algunos contextos en español)"
+    ],
+    "pattern": "affinché/perché + congiuntivo | quindi/perciò/dunque + indicativo",
+    "meaning": "conectores de finalidad y consecuencia"
+  },
+  {
+    "id": "b1-molto-poco-troppo",
+    "title": "Molto/poco/troppo/abbastanza come modificatori",
+    "level": "b1",
+    "explanation": "Molto, poco, troppo y abbastanza tienen varias funciones: como aggettivi (con sustantivos, concordados), como avverbi (con adjetivos o verbos, invariables) y como pronomi (invariables). AGGETTIVI (concordados): molto/a/i/e, poco/a/chi/che, troppo/a/i/e. AVVERBI (invariables): Parla molto, è molto brava. ABBASTANZA: siempre invariable. También: 'molto' en comparativas → 'molto più bello / molto meno caro'.",
+    "formula": "aggettivo: molto/a/i/e + sostantivo | avverbio: molto/poco/troppo + aggettivo/verbo (invariabile)",
+    "notes": "Para hispanohablantes: el error más frecuente es concordar 'molto' cuando es adverbio. 'Sono molto stanchi' (correcto, molto no concuerda) vs 'Hanno molti amici' (correcto, molti concuerda con amici). 'Abbastanza' es siempre invariable: 'abbastanza bravo', 'abbastanza brave'. 'Poco' como aggettivo tiene formas irregulares: poco/poca/pochi/poche (¡no 'pocos'!). 'Troppo' funciona igual que 'molto'.",
+    "examples": [
+      {
+        "italian": "Ho mangiato troppo. / Ho mangiato troppa pizza.",
+        "spanish": "Comí demasiado. / Comí demasiada pizza.",
+        "sentence": "Esempio: Molto/poco/troppo/abbastanza come modificatori",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Parla molto bene italiano. (avverbio)",
+        "spanish": "Habla muy bien italiano.",
+        "sentence": "Esempio: Molto/poco/troppo/abbastanza come modificatori",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Ci sono pochi studenti oggi. (aggettivo, pl.)",
+        "spanish": "Hay pocos estudiantes hoy.",
+        "sentence": "Esempio: Molto/poco/troppo/abbastanza come modificatori",
+        "translation": "ver explicación"
+      }
+    ],
+    "commonErrors": [
+      "Concordar molto avverbio: ✗ 'sono molti stanchi' → ✓ 'sono molto stanchi'",
+      "Poco plurale: ✗ 'pocos amici' (no existe) → ✓ 'pochi amici'"
+    ],
+    "pattern": "molto/poco/troppo/abbastanza + [aggettivo/avverbio/nome]",
+    "meaning": "mucho/poco/demasiado/bastante como modificadores"
+  },
+  {
+    "id": "b1-stare-per",
+    "title": "Stare per + infinito",
+    "level": "b1",
+    "explanation": "La construcción stare per + infinitivo expresa una acción que está a punto de ocurrir, inminente. Equivale al español 'estar a punto de + infinitivo'. Se puede usar en cualquier tiempo verbal: sto per uscire (estoy a punto de salir), stavo per chiamarti (estaba a punto de llamarte), starò per partire (estaré a punto de partir). Es muy frecuente en italiano coloquial.",
+    "formula": "stare (conjugado) + per + infinitivo",
+    "notes": "Para hispanohablantes: la traducción directa es 'estar a punto de'. En español también existe esta construcción, así que no hay dificultad conceptual. Noten que 'stare' aquí no es 'estar' en sentido de estado/posición, sino auxiliar de aspecto. 'Stavo per dirti una cosa' = 'Estaba a punto de decirte algo' — implica que finalmente quizás no lo dijo. Muy útil para narración: 'Stava per piovere quando siamo arrivati' = 'Estaba a punto de llover cuando llegamos'.",
+    "examples": [
+      {
+        "italian": "Sto per uscire, arrivo tra cinque minuti.",
+        "spanish": "Estoy a punto de salir, llego en cinco minutos.",
+        "sentence": "Esempio: Stare per + infinito",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Stava per dire qualcosa quando è squillato il telefono.",
+        "spanish": "Estaba a punto de decir algo cuando sonó el teléfono.",
+        "sentence": "Esempio: Stare per + infinito",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Stavamo per perdere il treno!",
+        "spanish": "¡Estábamos a punto de perder el tren!",
+        "sentence": "Esempio: Stare per + infinito",
+        "translation": "ver explicación"
+      }
+    ],
+    "commonErrors": [
+      "Confundir con stare + gerundio (progresivo): 'sto mangiando' (estoy comiendo) vs 'sto per mangiare' (estoy a punto de comer)",
+      "No usar 'per': ✗ 'sto uscire' → ✓ 'sto per uscire'"
+    ],
+    "pattern": "[soggetto] + stare (pres.) + per + infinitivo",
+    "meaning": "estar a punto de (acción inminente)"
+  },
+  {
+    "id": "b1-farcela",
+    "title": "Verbi pronominali: farcela, andarsene, cavarsela",
+    "level": "b1",
+    "explanation": "Los verbos pronominales son verbos que incorporan pronombres átonos que modifican el significado. Los más importantes para B1: FARCELA (poder, conseguirlo): farcela = fare + ci + la → ce la faccio (puedo/lo logro), non ce la faccio più (ya no puedo más). ANDARSENE (irse, marcharse): andarsene = andare + si + ne → me ne vado (me voy), se n'è andato (se fue). CAVARSELA (arreglárselas, salir adelante): cavarsela → me la cavo (me las arreglo). VOLERCI (necesitar, llevar tiempo): ci vuole + sing., ci vogliono + pl. METTERCI (tardar, poner): ci metto un'ora.",
+    "formula": "ce la faccio (farcela) | me ne vado (andarsene) | me la cavo (cavarsela) | ci vuole / ci metto",
+    "notes": "Para hispanohablantes: estos verbos no tienen equivalente directo morfológico en español pero sí semántico. Son muy frecuentes en el italiano coloquial. 'Non ce la faccio' = 'No puedo', 'no aguanto más'. 'Dammela vinta' / 'Farcela' implica superación de dificultad. 'Andarsene' es más definitivo que 'andare': 'Vado al cinema' (voy al cine) vs 'Me ne vado' (me voy, me marcho). 'Volerci': sempre in 3ª persona: 'Ci vuole un'ora' (se necesita una hora) / 'Ci vogliono due ore' (se necesitan dos horas).",
+    "examples": [
+      {
+        "italian": "Non ce la faccio più, sono esausto!",
+        "spanish": "¡Ya no puedo más, estoy agotado!",
+        "sentence": "Esempio: Verbi pronominali: farcela, andarsene, cavarsela",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Me ne vado, a domani.",
+        "spanish": "Me voy, hasta mañana.",
+        "sentence": "Esempio: Verbi pronominali: farcela, andarsene, cavarsela",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Per imparare l'italiano ci vogliono anni di studio.",
+        "spanish": "Para aprender italiano se necesitan años de estudio.",
+        "sentence": "Esempio: Verbi pronominali: farcela, andarsene, cavarsela",
+        "translation": "ver explicación"
+      }
+    ],
+    "commonErrors": [
+      "Farcela sin i pronomi: ✗ 'non faccio più' → ✓ 'non ce la faccio più'",
+      "Volerci en plural: ✗ 'ci vuole due ore' → ✓ 'ci vogliono due ore'"
+    ],
+    "pattern": "farcela (riuscire) | andarsene (irse) | cavarsela (arreglárselas)",
+    "meaning": "verbos pronominales complejos (lograrlo, irse, arreglárselas)"
+  },
+  {
+    "id": "b1-lessico-formale",
+    "title": "Registro formale e informale",
+    "level": "b1",
+    "explanation": "El italiano tiene distintos registros de formalidad. FORMAL: Lei (pronombre de cortesía), verbo en 3ª singular, título (Signore/Signora/Dottore), vocabolario elevato, niente troncamenti. INFORMALE: tu, contrazioni ('non lo so' → 'nun lo so' en dialecto; 'com'è?' = '¿cómo está?'), interiezioni, pronomi tonici per enfasi. ESCRITO FORMALE: uso del congiuntivo, periodi lunghi, connettivi formali (pertanto, tuttavia, altresì). SEGNALI DISCORSIVI INFORMALI: sai, vedi, dai, anzi, beh, mah, insomma.",
+    "formula": "formal: Lei + 3ª sing. | informal: tu + 2ª sing. | titoli: Dott./Prof./Sig./Sig.ra",
+    "notes": "Para hispanohablantes: la distinción formal/informal en italiano es muy similar al español usted/tú. La diferencia más importante: en italiano el 'usted' equivalente es 'Lei' (con L mayúscula en escritura) y usa la 3ª persona singular del verbo: 'Lei parla bene l'italiano, Signora García?' (¿Usted habla bien el italiano, Señora García?). En Italia, especialmente entre jóvenes y en contextos laborales modernos, el tuteo es muy extendido. El 'voi' como tratamiento de cortesía (equivalente al 'usted/ustedes' de algunas regiones) existe pero es poco común hoy.",
+    "examples": [
+      {
+        "italian": "Formale: 'Buongiorno, Dottoressa Ricci. Come sta? Ha un appuntamento?' | Informale: 'Ciao Maria! Come stai? Hai un po' di tempo?'",
+        "spanish": "Formal: '¡Buenos días, Doctora Ricci. ¿Cómo está? ¿Tiene cita?' | Informal: '¡Hola María! ¿Cómo estás? ¿Tenés un momento?'",
+        "sentence": "Esempio: Registro formale e informale",
+        "translation": "ver explicación"
+      },
+      {
+        "italian": "Formale: 'Le sarei grato se potesse rispondere al più presto.' | Informale: 'Potresti rispondermi presto?'",
+        "spanish": "Formal: 'Le estaría agradecido si pudiera responder cuanto antes.' | Informal: '¿Podrías responderme pronto?'",
+        "sentence": "Esempio: Registro formale e informale",
+        "translation": "ver explicación"
+      }
+    ],
+    "commonErrors": [
+      "Usar tu con desconocidos mayores: siempre verificar antes de tutear",
+      "Concordancia con Lei: ✗ 'Lei sei molto gentile' → ✓ 'Lei è molto gentile'"
+    ],
+    "pattern": "[colloquiale] → [formale]: mangiare → nutrirsi, andare → recarsi",
+    "meaning": "registro formal vs informal"
+  }
+]

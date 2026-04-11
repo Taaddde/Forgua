@@ -1,0 +1,107 @@
+{
+  "id": "vocab-a2-14",
+  "title": "Verbi utili A2",
+  "description": "Verbos esenciales de nivel A2 que te permitirán expresar acciones cotidianas complejas. Presta atención al auxiliar que usan en el passato prossimo.",
+  "level": "a2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "ricordare / ricordarsi",
+      "back": "recordar / acordarse de",
+      "reading": "",
+      "explanation": "'Non ricordo il suo nome.' = No recuerdo su nombre. 'Mi ricordo di quel giorno.' = Me acuerdo de ese día. Ricordarsi = reflexivo, más personal."
+    },
+    {
+      "front": "dimenticare / dimenticarsi",
+      "back": "olvidar / olvidarse de",
+      "reading": "",
+      "explanation": "'Ho dimenticato l'ombrello.' = Olvidé el paraguas. 'Mi sono dimenticato di chiamarti.' = Se me olvidó llamarte. Dimenticarsi = olvidarse involuntariamente."
+    },
+    {
+      "front": "sperare",
+      "back": "esperar / desear (que algo suceda)",
+      "reading": "",
+      "explanation": "'Spero che tu stia bene.' = Espero que estés bien. 'Sperare di + infinito': 'Spero di venire.' = Espero poder venir. AVERE nel passato."
+    },
+    {
+      "front": "credere",
+      "back": "creer",
+      "reading": "",
+      "explanation": "'Non ci credo!' = ¡No me lo creo! 'Credo di sì / di no.' = Creo que sí / que no. 'Credere in qc.' = creer en algo. AVERE nel passato."
+    },
+    {
+      "front": "aspettare",
+      "back": "esperar (a alguien/algo)",
+      "reading": "",
+      "explanation": "'Ti aspetto davanti al bar.' = Te espero delante del bar. 'Aspetta! = ¡Espera! 'Aspettarsi' = esperar/anticipar. AVERE nel passato."
+    },
+    {
+      "front": "incontrare",
+      "back": "encontrarse con / quedar con / conocer",
+      "reading": "",
+      "explanation": "'Ho incontrato Marco per caso.' = Me encontré con Marco por casualidad. 'Incontrarsi' = quedar (los dos se encuentran). AVERE nel passato."
+    },
+    {
+      "front": "lasciare",
+      "back": "dejar / abandonar / olvidar (algo en un lugar)",
+      "reading": "",
+      "explanation": "Múltiples usos: 'Lasciami in pace!' = ¡Déjame en paz! 'Ho lasciato le chiavi a casa.' = Dejé las llaves en casa. 'Lasciare il lavoro' = dejar el trabajo."
+    },
+    {
+      "front": "riuscire a + infinito",
+      "back": "lograr / conseguir / poder (con esfuerzo)",
+      "reading": "",
+      "explanation": "'Non riesco a dormire.' = No consigo dormir. 'Ci sei riuscito!' = ¡Lo lograste! ESSERE nel passato prossimo: 'Sono riuscito a finirlo.' = Logré terminarlo."
+    },
+    {
+      "front": "provare a + infinito",
+      "back": "intentar / probar (hacer algo)",
+      "reading": "",
+      "explanation": "'Ho provato a chiamarti.' = Intenté llamarte. 'Proviamo!' = ¡Intentémoslo! / ¡Probemos! 'Prova questo piatto!' = ¡Prueba este plato!"
+    },
+    {
+      "front": "cambiare / decidere",
+      "back": "cambiar / decidir",
+      "reading": "",
+      "explanation": "'Ho cambiato idea.' = Cambié de opinión. 'Abbiamo deciso di partire.' = Decidimos partir. Ambos AVERE nel passato. 'Decidere di + infinito' = decidir + infinitivo."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Verbos mentales y emocionales",
+      "instruction": "Verbos para hablar de procesos mentales: recordar, olvidar, esperar, creer.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se conjugan?",
+      "instruction": "Traduce y recuerda si usan avere o essere nel passato prossimo.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "Verbos de acción e interacción",
+      "instruction": "Verbos para hablar de acciones con otras personas y logros.",
+      "itemIndices": [4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "error-correction",
+      "title": "Auxiliar: essere o avere?",
+      "instruction": "Para cada verbo, indica si usa AVERE o ESSERE nel passato prossimo.",
+      "itemIndices": [7, 0, 5, 9]
+    },
+    {
+      "type": "recall",
+      "title": "Verbos A2 — completo",
+      "instruction": "Practica todos los verbos de la lección.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "Verbi utili — consolidado",
+      "instruction": "OJO con 'riuscire' → usa ESSERE nel passato. Los demás de esta lección usan AVERE. 'Riuscire a' + infinito es la forma italiana de 'conseguir/lograr + infinitivo'.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

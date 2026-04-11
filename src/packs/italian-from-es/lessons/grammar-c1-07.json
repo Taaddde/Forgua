@@ -1,0 +1,83 @@
+{
+  "id": "grammar-c1-07",
+  "title": "Registro linguistico: dal colloquiale al letterario",
+  "description": "El italiano tiene una diglosia notable entre el registro coloquial, el formal escrito, el burocrático-administrativo y el literario. Reconocer y producir cada registro es la marca del hablante avanzado. Esta lección trabaja la conciencia de registro como habilidad activa.",
+  "level": "c1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "COLLOQUIALE: 'Devo dirti una cosa importante.' / FORMALE: 'Desidero comunicarLe una questione di una certa rilevanza.'",
+      "back": "El registro se marca en el léxico (devo→desidero; cosa→questione), en la sintaxis y en el uso del Lei de cortesía.",
+      "reading": "",
+      "explanation": "Las marcas del registro formal: (1) verbo più elaborato ('desidero' > 'voglio' > 'devo'); (2) sostantivo più preciso ('questione' > 'cosa'); (3) Lei maiuscolo (usted) en lugar de tu; (4) 'di una certa rilevanza' en lugar de 'importante'."
+    },
+    {
+      "front": "BUROCRATICO: 'Si comunica all'interessato che, in ottemperanza alla normativa vigente, risulta necessario...'",
+      "back": "Registro burocrático: forma passiva impersonale, nominalizaciones, latinismi, periodi lunghissimi.",
+      "reading": "",
+      "explanation": "Marcas del registro burocrático: (1) forma passiva ('si comunica'); (2) 'all'interessato' (el destinatario en tercera persona); (3) latinismo ('in ottemperanza a'); (4) nominalizaciones ('normativa vigente'); (5) verbos modali formali ('risulta necessario' > 'è necessario')."
+    },
+    {
+      "front": "LETTERARIO: 'Gravoso comunicarle ciò che pesava nel petto da giorni.'",
+      "back": "Registro literario: inversiones sintácticas, léxico raro, omisión del sujeto y verbo auxiliar.",
+      "reading": "",
+      "explanation": "Marcas del registro literario: (1) 'Gravoso' como predicativo inicial (inversión); (2) omisión de 'Era' o 'Risultava'; (3) 'ciò che' (literario) en lugar de 'quello che'; (4) 'pesava nel petto' (imagen somática literaria). El registro literario admite estructuras que el estándar rechazaría."
+    },
+    {
+      "front": "Il 'che' polivalente nel parlato: 'Il giorno che ci siamo incontrati' [= in cui] / 'Vieni, che voglio parlarti' [= perché]",
+      "back": "El 'che' polivalente sustituye cualquier conjunción o pronombre relativo — marca del habla informal, PROHIBIDO en escritura formal.",
+      "reading": "",
+      "explanation": "En el habla informal, 'che' puede ser relativo ('il giorno che = in cui'), causal ('vieni, che voglio = perché voglio'), temporale ('è un po' che non ci vedo = da un po'). En la escritura formal hay que usar siempre la conjunción específica correcta."
+    },
+    {
+      "front": "Dislocazione a sinistra: 'Il libro, l'ho comprato.' / Dislocazione a destra: 'L'ho comprato, il libro.'",
+      "back": "Dislocaciones: construcciones del italiano neostandard hablado — identificadas, aceptadas, pero no para escritura formal.",
+      "reading": "",
+      "explanation": "La dislocazione a sinistra anticipa el objeto ('il libro') con una ripresa pronominale ('l'ho'). La dislocazione a destra coloca el objeto al final. Son características del italiano neostandard hablado. En escritura formal se prefiere el orden canónico: 'Ho comprato il libro'."
+    },
+    {
+      "front": "Il registro determina: il verbo scelto, la congiunzione usata, la densità nominale e l'ordine delle parole.",
+      "back": "Las cuatro variables que marcan el registro: léxico verbale, connettivi, nominalizzazioni, sintassi.",
+      "reading": "",
+      "explanation": "Para evaluar el registro de un texto, analiza: (1) ¿Qué verbos usa? (devo vs desidero vs si richede). (2) ¿Qué conjunciones? (ma vs tuttavia vs ciononostante). (3) ¿Hay nominalizaciones? (ho deciso vs la mia decisione). (4) ¿Hay inversiones sintácticas? Estas cuatro variables determinan el registro."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "La scala dei registri",
+      "instruction": "En italiano, el mismo contenido puede expresarse en cuatro registros distintos: coloquial, formal estándar, burocrático-administrativo y literario. Cada uno tiene sus marcas lingüísticas específicas. Un hablante C1 reconoce estos registros y puede producir al menos los tres primeros de manera fluida.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Qué registro es este?",
+      "instruction": "Lee cada fragmento de texto e identifica su registro (coloquiale, formale, burocratico o letterario). Identifica las marcas lingüísticas que te llevan a esa conclusión.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Los fenómenos del neostandard",
+      "instruction": "El 'che' polivalente y las dislocazioni son los dos fenómenos del italiano neostandard más importantes de conocer. Son incorrectos en escritura formal pero omnipresentes en el habla. Reconocerlos es necesario para entender el italiano auténtico hablado.",
+      "itemIndices": [3, 4]
+    },
+    {
+      "type": "error-correction",
+      "title": "Adapta al registro formal",
+      "instruction": "Cada oración usa un fenómeno del registro coloquial (che polivalente, dislocazione, lessico informale). Reescríbela en registro formale scritto.",
+      "itemIndices": [3, 4]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "El registro apropiado",
+      "instruction": "Para cada contexto (carta aziendale, racconto letterario, testo accademico, conversazione), elige la expresión del registro correcto.",
+      "itemIndices": [0, 1, 5]
+    },
+    {
+      "type": "summary",
+      "title": "Registro linguistico — coscienza acquisita",
+      "instruction": "Las cuatro variables del registro: léxico verbale, connettivi, densità nominale, sintassi. Para practicar la conciencia de registro: toma cualquier testo burocratico italiano (circolare ministeriale, regolamento universitario) y reescríbelo en registro colloquiale. El ejercicio inverso (colloquiale → formale) es aún más útil para la produzione scritta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

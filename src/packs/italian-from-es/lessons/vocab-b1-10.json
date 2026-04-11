@@ -1,0 +1,107 @@
+{
+  "id": "vocab-b1-10",
+  "title": "Falsi amici avanzati e parole insidiose",
+  "description": "Las trampas léxicas más peligrosas del B1: falsos amigos avanzados y palabras que parecen iguales al español pero tienen significados distintos. ¡Esta lección puede salvarte de malentendidos embarazosos!",
+  "level": "b1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "romanzo (it.) ≠ romance (es.)",
+      "back": "romanzo = novela | romance (es.) = storia d'amore / romanticismo",
+      "reading": "",
+      "explanation": "'Ho letto un romanzo di Eco' = Leí una novela de Eco. Si querés decir 'romance' en italiano: 'storia d'amore' (historia de amor) o 'idillio' (idilio). 'Romantico' (romántico) SÍ es igual."
+    },
+    {
+      "front": "educato/a (it.) ≠ educado/a (es.)",
+      "back": "educato = bien educado, cortés | 'educado' (es.) = istruito/a, formato/a",
+      "reading": "",
+      "explanation": "'È molto educato' = Es muy cortés/bien educado (modales). Para 'una persona educada' en sentido de instrucción: 'una persona istruita/colta'. 'Maleducato' = maleducado, grosero."
+    },
+    {
+      "front": "sensibile (it.) ≠ sensible (es.)",
+      "back": "sensibile = sensible (con sentimientos) | sensible (es.) = ragionevole, sensato/a",
+      "reading": "",
+      "explanation": "'È una persona molto sensibile' = Es una persona muy sensible (emotiva). Para 'sensato/razonable' en italiano: 'ragionevole', 'sensato'. ¡Error frecuente!"
+    },
+    {
+      "front": "annoiare / annoiato/a",
+      "back": "aburrir / aburrido — NO molestar",
+      "reading": "",
+      "explanation": "'Sono annoiato' = Estoy aburrido (NOT molestado). Para 'molestar': 'disturbare', 'infastidire'. Para 'Que me molesta': 'Mi dà fastidio'. 'Annoia' = aburre. Error muy común de hispanohablantes."
+    },
+    {
+      "front": "pretendere",
+      "back": "exigir, esperar (algo que se cree merecer) — NO pretender",
+      "reading": "",
+      "explanation": "'Pretende troppo' = Exige demasiado. Para 'pretender/fingir': 'fingere', 'fare finta di'. 'Pretendere di + infinitivo' = exigir que / pretender (con arrogancia) hacer algo."
+    },
+    {
+      "front": "argomento",
+      "back": "el tema, el asunto — NO el argumento (lógico)",
+      "reading": "",
+      "explanation": "'Di che argomento parla il libro?' = ¿De qué tema habla el libro? Para 'argumento' (razonamiento): 'argomentazione', 'ragionamento'. 'Argomento' = tema, asunto."
+    },
+    {
+      "front": "parente",
+      "back": "el pariente, el familiar — NO el padre/la madre",
+      "reading": "",
+      "explanation": "'I miei parenti' = Mis parientes/familiares. Para 'padre': 'il padre' / 'il papà'. Para 'madre': 'la madre' / 'la mamma'. 'Parente' NUNCA significa 'padre/madre'."
+    },
+    {
+      "front": "attuale",
+      "back": "actual (de hoy en día), presente — NO actual (real)",
+      "reading": "",
+      "explanation": "'La situazione attuale' = La situación actual (hoy). Para 'actual' en sentido de 'real': 'reale', 'vero', 'concreto'. 'Attualmente' = actualmente, en este momento."
+    },
+    {
+      "front": "bravo/a",
+      "back": "bueno, hábil, capaz — también: ¡bravo! (aprobación)",
+      "reading": "",
+      "explanation": "'È brava in matematica' = Es buena en matemáticas. 'Bravo!' = ¡Bien hecho! En italiano 'bravo' es elogio de habilidad, no solo de comportamiento moral. 'Buono/a' = bueno en sentido moral."
+    },
+    {
+      "front": "eventualmente",
+      "back": "posiblemente, si se da el caso — NO eventualmente (tarde o temprano)",
+      "reading": "",
+      "explanation": "'Eventualmente posso aiutarti' = Si es el caso / Posiblemente puedo ayudarte. Para 'eventualmente' español (en algún momento): 'alla fine', 'prima o poi', 'col tempo'. ¡Trampa para hispanohablantes!"
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Los falsos amigos más peligrosos",
+      "instruction": "Los errores que más cometen los hispanohablantes en italiano. 'Romanzo' y 'sensibile' son los que más sorprenden.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Verbos y sustantivos trampa",
+      "instruction": "'Pretendere' NO es pretender sino exigir. 'Argomento' NO es argumento sino tema. Estos errores pueden crear confusiones serias.",
+      "itemIndices": [4, 5, 6]
+    },
+    {
+      "type": "introduce",
+      "title": "Adjetivos traicioneros",
+      "instruction": "'Attuale' = de hoy, no real. 'Eventualmente' = posiblemente, no tarde o temprano. 'Bravo' = hábil/capaz, no solo 'bueno'.",
+      "itemIndices": [7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "¿Trampa o cognado real?",
+      "instruction": "¿Cómo se traduce correctamente al italiano?",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "recall",
+      "title": "Falsos amigos en contexto",
+      "instruction": "¿Qué significa realmente en español?",
+      "itemIndices": [5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "Los 10 falsos amigos más peligrosos del B1",
+      "instruction": "Repasá: romanzo=novela, sensibile=sensible(emotivo), annoiato=aburrido, pretendere=exigir, argomento=tema, parente=familiar, attuale=actual(hoy), eventualmente=posiblemente. Estos son los errores más comunes de hispanohablantes en italiano.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

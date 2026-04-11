@@ -1,0 +1,185 @@
+{
+  "id": "vocab-b2-07",
+  "title": "Psicologia e comportamento",
+  "description": "Vocabulario psicológico y conductual. Para hablar de emociones, comportamientos y bienestar mental con precisión en italiano.",
+  "level": "b2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "la psicologia",
+      "back": "la psicología",
+      "reading": "",
+      "explanation": "'Psicologia cognitiva/comportamentale/analitica' = psicología cognitiva/conductual/analítica. 'Psicologo/psicologa' = psicólogo/a. 'Psicoterapia' = psicoterapia. 'Psicanalisi' (Freud) = psicoanálisis."
+    },
+    {
+      "front": "l'emozione (f.)",
+      "back": "la emoción",
+      "reading": "",
+      "explanation": "'Emozioni primarie' (gioia, tristezza, paura, rabbia, disgusto, sorpresa). 'Gestione delle emozioni' = gestión emocional. 'Intelligenza emotiva' = inteligencia emocional. Aggettivo: emotivo."
+    },
+    {
+      "front": "la motivazione",
+      "back": "la motivación",
+      "reading": "",
+      "explanation": "'Motivazione intrinseca/estrinseca' = motivación intrínseca/extrínseca. 'Essere motivato' = estar motivado. 'La motivazione al cambiamento' = la motivación para el cambio. Verbo: motivare."
+    },
+    {
+      "front": "il comportamento",
+      "back": "el comportamiento / la conducta",
+      "reading": "",
+      "explanation": "'Comportamento aggressivo/passivo' = comportamiento agresivo/pasivo. 'Analisi del comportamento' = análisis de conducta. 'Terapia cognitivo-comportamentale (TCC)' = terapia cognitivo-conductual."
+    },
+    {
+      "front": "l'abitudine (f.)",
+      "back": "el hábito / la costumbre",
+      "reading": "",
+      "explanation": "'Creare/formare un'abitudine' = crear un hábito. 'Abitudini sane/malsane' = hábitos sanos/malsanos. 'Per abitudine' = por costumbre, por hábito. 'Rompere un'abitudine' = romper un hábito."
+    },
+    {
+      "front": "la dipendenza",
+      "back": "la dependencia / la adicción",
+      "reading": "",
+      "explanation": "'Dipendenza da alcol/droghe/smartphone' = adicción al alcohol/drogas/smartphone. 'Dipendenza affettiva' = dependencia afectiva. 'Centro per le dipendenze' = centro de tratamiento de adicciones."
+    },
+    {
+      "front": "il trauma",
+      "back": "el trauma",
+      "reading": "",
+      "explanation": "'Trauma infantile/di guerra' = trauma infantil/de guerra. 'PTSD' = trastorno de estrés postraumático (in italiano: DPTS). 'Rielaborare un trauma' = reelaborar un trauma. Aggettivo: traumatico."
+    },
+    {
+      "front": "la resilienza",
+      "back": "la resiliencia",
+      "reading": "",
+      "explanation": "Dal lat. 'resilire' (rebotar). 'Sviluppare la resilienza' = desarrollar la resiliencia. 'Resilienza psicologica/delle comunità' = resiliencia psicológica/de las comunidades. Aggettivo: resiliente."
+    },
+    {
+      "front": "l'empatia (f.)",
+      "back": "la empatía",
+      "reading": "",
+      "explanation": "'Mostrare empatia' = mostrar empatía. 'Persona empatica' = persona empática. 'Empatia cognitiva vs affettiva' = empatía cognitiva vs afectiva. Contrario: mancanza di empatia, freddezza."
+    },
+    {
+      "front": "la consapevolezza",
+      "back": "la conciencia / la consciencia / la awareness",
+      "reading": "",
+      "explanation": "'Consapevolezza di sé' = autoconciencia. 'Mindfulness' si traduce spesso con 'consapevolezza'. 'Essere consapevole di' = ser consciente de. Verbo: consapevolizzare."
+    },
+    {
+      "front": "l'autoconsapevolezza (f.)",
+      "back": "la autoconciencia / el autoconocimiento",
+      "reading": "",
+      "explanation": "Parola composta: auto + consapevolezza. Equivale a 'self-awareness'. Fondamento dell'intelligenza emotiva (Goleman). 'Sviluppare l'autoconsapevolezza' = desarrollar el autoconocimiento."
+    },
+    {
+      "front": "l'inconscio (m.)",
+      "back": "el inconsciente",
+      "reading": "",
+      "explanation": "Concetto freudiano. 'L'inconscio collettivo' (Jung) = el inconsciente colectivo. 'Processi inconsci' = procesos inconscientes. Aggettivo: inconscio/inconsapevole. Contrario: conscio, consapevole."
+    },
+    {
+      "front": "la proiezione",
+      "back": "la proyección (psicológica)",
+      "reading": "",
+      "explanation": "'Meccanismo di proiezione' = mecanismo de proyección (atribuire agli altri caratteristiche proprie inaccettabili). Anche: proiezione cinematografica, proiezione geografica. Verbo: proiettare."
+    },
+    {
+      "front": "la rimozione",
+      "back": "la represión (psicológica) / la eliminación",
+      "reading": "",
+      "explanation": "'Meccanismo di difesa' secondo Freud: allontanare dalla coscienza ricordi dolorosi. 'Rimozione del disagio' = eliminación del problema. Verbo: rimuovere (quitar también literalmente)."
+    },
+    {
+      "front": "la terapia cognitivo-comportamentale",
+      "back": "la terapia cognitivo-conductual (TCC)",
+      "reading": "",
+      "explanation": "Abreviado: TCC o CBT (inglese). Una delle psicoterapie più efficaci e diffuse. 'Sesión di terapia' = sesión de terapia. 'Psicoterapeuta' = psicoterapeuta (debe estar inscrito al albo)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Fundamentos psicológicos",
+      "instruction": "Psicologia, emozione, motivazione, comportamento: las categorías básicas de la psicología.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Hábitos, adicciones y trauma",
+      "instruction": "Conceptos sobre el comportamiento y sus patologías: abitudini, dipendenze, trauma.",
+      "itemIndices": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Competencias emocionales",
+      "instruction": "Resilienza, empatia, consapevolezza: el vocabulario del bienestar emocional.",
+      "itemIndices": [
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Conceptos psicoanalíticos",
+      "instruction": "Inconscio, proiezione, rimozione: la herencia de Freud en el vocabulario cotidiano.",
+      "itemIndices": [
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "Repaso: Psicologia e comportamento",
+      "instruction": "Practica todo el vocabulario psicológico.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "type": "summary",
+      "title": "Psicologia e comportamento — dominado",
+      "instruction": "Psicología: emozione, motivazione, comportamento. Patologías: dipendenza, trauma. Competencias: resilienza, empatia, consapevolezza. Psicoanálisis: inconscio, proiezione, rimozione. Terapia: cognitivo-comportamentale.",
+      "itemIndices": [
+        1,
+        2,
+        3,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11,
+        12,
+        13,
+        14
+      ]
+    }
+  ]
+}

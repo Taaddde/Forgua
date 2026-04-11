@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a1-13",
+  "title": "Fare (presente) — faccio, fai, fa...",
+  "description": "Fare (hacer) es uno de los verbos más frecuentes del italiano. Aparece en decenas de expresiones fijas: fare colazione, fare sport, fare una domanda. Conjugación muy irregular.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "io faccio",
+      "back": "yo hago",
+      "reading": "",
+      "explanation": "'Faccio' — irregular con doble C. 'Cosa faccio stasera?' = ¿Qué hago esta noche? 'Faccio colazione' = Desayuno (literalmente 'hago el desayuno'). 'Faccio una domanda' = Hago una pregunta."
+    },
+    {
+      "front": "tu fai",
+      "back": "vos/tú hacés",
+      "reading": "",
+      "explanation": "'Fai' — muy corto, sin relación con 'far-'. 'Cosa fai di bello?' = ¿Qué hacés de bueno? / ¿Qué hay de nuevo? (saludo coloquial). 'Fai sport?' = ¿Hacés deporte?"
+    },
+    {
+      "front": "lui/lei fa",
+      "back": "él/ella hace",
+      "reading": "",
+      "explanation": "'Fa' — cortísimo. 'Fa caldo/freddo' = Hace calor/frío (tiempo meteorológico). 'Fa il medico' = Es médico (trabaja de médico). 'Che tempo fa?' = ¿Qué tiempo hace? — pregunta MUY útil."
+    },
+    {
+      "front": "noi facciamo",
+      "back": "nosotros/as hacemos",
+      "reading": "",
+      "explanation": "'Facciamo' — con doble C. 'Facciamo una passeggiata?' = ¿Damos un paseo? 'Facciamo insieme' = Lo hacemos juntos. 'Facciamo finta' = Fingimos / Hagamos de cuenta."
+    },
+    {
+      "front": "voi fate",
+      "back": "ustedes hacen / vosotros hacéis",
+      "reading": "",
+      "explanation": "'Fate' — 2ª persona plural. 'Cosa fate questo weekend?' = ¿Qué hacen este fin de semana? 'Fate attenzione!' = ¡Presten atención! / ¡Tengan cuidado!"
+    },
+    {
+      "front": "loro fanno",
+      "back": "ellos/ellas hacen",
+      "reading": "",
+      "explanation": "'Fanno' — con doble N. 'Fanno una festa' = Hacen una fiesta. 'Fanno tanto rumore' = Hacen mucho ruido. Patrón: FACCIO-FAI-FA-facciamo-fate-FANNO."
+    },
+    {
+      "front": "fare colazione / fare sport / fare una passeggiata",
+      "back": "desayunar / hacer deporte / dar un paseo",
+      "reading": "",
+      "explanation": "En italiano 'fare' se usa donde el español usa verbos específicos: 'fare colazione' (no *colazionare), 'fare una doccia' = ducharse, 'fare la spesa' = hacer las compras, 'fare una domanda' = hacer una pregunta, 'fare finta' = fingir."
+    },
+    {
+      "front": "Che tempo fa? — Fa caldo / Fa freddo / Fa bello",
+      "back": "¿Qué tiempo hace? — Hace calor / Hace frío / Hace buen tiempo",
+      "reading": "",
+      "explanation": "El tiempo meteorológico usa 'fare' en 3ª singular. 'Fa caldo' = Hace calor. 'Fa freddo' = Hace frío. 'Fa bello' = Hace buen tiempo. 'Fa brutto' = Hace mal tiempo. También: 'c'è sole' (hay sol), 'piove' (llueve), 'nevica' (nieva)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Fare: conjugación irregular",
+      "instruction": "Fare tiene patrón irregular. Las formas clave: FACCIO (io), FAI (tu), FA (lui/lei), facciamo (noi), fate (voi), FANNO (loro). Notá: faccio y fanno tienen doble consonante.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "introduce",
+      "title": "Fare en expresiones fijas — imprescindibles",
+      "instruction": "Fare aparece en decenas de expresiones del uso diario. Estas no se pueden traducir literalmente del español — hay que aprenderlas de memoria.",
+      "itemIndices": [6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál forma de fare es correcta?",
+      "instruction": "Elegí la forma correcta de 'fare' para cada contexto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "Conjugá fare y completá las expresiones",
+      "instruction": "Escribí la forma correcta de 'fare' y recordá las expresiones fijas.",
+      "itemIndices": [0, 2, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Fare en contexto real",
+      "instruction": "¿Qué significan estas expresiones con fare? Conectá con su equivalente en español.",
+      "itemIndices": [6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "Fare: un verbo que vale por diez",
+      "instruction": "Conjugación: FACCIO/FAI/FA/facciamo/fate/FANNO. Expresiones clave: fare colazione (desayunar), fare sport (hacer deporte), fare la spesa (hacer compras), fare una doccia (ducharse), che tempo fa? (¿qué tiempo hace?), fa caldo/freddo (hace calor/frío).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

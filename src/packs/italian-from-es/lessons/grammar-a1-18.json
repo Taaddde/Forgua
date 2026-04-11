@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a1-18",
+  "title": "Preposizioni articolate — del, della, al, alla, nel...",
+  "description": "En italiano las preposiciones di, a, da, in, su se fusionan con el artículo determinado formando preposiciones articuladas. En español esto solo ocurre con 'del' y 'al'.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "DI + il = DEL / di + la = DELLA / di + i = DEI / di + le = DELLE",
+      "back": "del / de la / de los / de las",
+      "reading": "",
+      "explanation": "Di se fusiona con el artículo: di+il=DEL, di+lo=DELLO, di+la=DELLA, di+l'=DELL', di+i=DEI, di+gli=DEGLI, di+le=DELLE. 'Il libro del professore' = El libro del profesor. 'La borsa della ragazza' = La cartera de la chica."
+    },
+    {
+      "front": "A + il = AL / a + la = ALLA / a + i = AI / a + le = ALLE",
+      "back": "al / a la / a los / a las",
+      "reading": "",
+      "explanation": "A se fusiona: a+il=AL, a+lo=ALLO, a+la=ALLA, a+l'=ALL', a+i=AI, a+gli=AGLI, a+le=ALLE. 'Vado al cinema' = Voy al cine. 'Vado alla scuola' = Voy a la escuela. 'Alle tre' = A las tres."
+    },
+    {
+      "front": "DA + il = DAL / da + la = DALLA / da + i = DAI",
+      "back": "del (origen/desde) / de la / de los",
+      "reading": "",
+      "explanation": "Da se fusiona: da+il=DAL, da+lo=DALLO, da+la=DALLA, da+l'=DALL', da+i=DAI, da+gli=DAGLI, da+le=DALLE. 'Vengo dal supermercato' = Vengo del supermercado. 'Torno dalla palestra' = Vuelvo del gimnasio."
+    },
+    {
+      "front": "IN + il = NEL / in + la = NELLA / in + i = NEI / in + le = NELLE",
+      "back": "en el / en la / en los / en las",
+      "reading": "",
+      "explanation": "In se fusiona: in+il=NEL, in+lo=NELLO, in+la=NELLA, in+l'=NELL', in+i=NEI, in+gli=NEGLI, in+le=NELLE. 'Nel centro storico' = En el casco histórico. 'Nella mia borsa' = En mi cartera. 'Nel pomeriggio' = Por la tarde."
+    },
+    {
+      "front": "SU + il = SUL / su + la = SULLA / su + i = SUI",
+      "back": "en el/sobre el / en la / en los",
+      "reading": "",
+      "explanation": "Su se fusiona: su+il=SUL, su+lo=SULLO, su+la=SULLA, su+l'=SULL', su+i=SUI, su+gli=SUGLI, su+le=SULLE. 'Il libro è sul tavolo' = El libro está sobre la mesa. 'Sull'aereo' = En el avión."
+    },
+    {
+      "front": "CON + il = COL (poco usado) / PER y TRA no se fusionan",
+      "back": "Con, per y tra NO forman contracciones obligatorias",
+      "reading": "",
+      "explanation": "CON puede formar 'col' (con+il) pero hoy se prefiere 'con il'. PER y TRA/FRA nunca se fusionan con el artículo: 'per il treno' (no *pel treno), 'tra i ragazzi' (no *trai). Esto simplifica las cosas."
+    },
+    {
+      "front": "Vado al cinema / Torno dal cinema",
+      "back": "Voy al cine / Vuelvo del cine",
+      "reading": "",
+      "explanation": "Nota cómo cambia la preposición articulada: 'AL' para dirección (voy hacia), 'DAL' para origen (vengo desde). 'Vado al supermercato' (voy al super) vs 'Torno dal supermercato' (vuelvo del super)."
+    },
+    {
+      "front": "Nel pomeriggio / Alla sera / Di mattina",
+      "back": "Por la tarde / Por la noche / Por la mañana",
+      "reading": "",
+      "explanation": "Expresiones de tiempo con preposiciones articuladas. 'Nel pomeriggio' = por la tarde. 'Alla sera' o 'la sera' = por la noche/tarde. 'Di mattina' = por la mañana (sin artículo). 'Di notte' = de noche. Estos usos hay que memorizarlos."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Las preposiciones se fusionan con el artículo",
+      "instruction": "En italiano, 5 preposiciones (di, a, da, in, su) SIEMPRE se fusionan con el artículo determinado. Esto es obligatorio — no podés decir 'di il' en lugar de 'del'. En español solo pasa con 'de+el=del' y 'a+el=al'.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "Con, per y tra/fra: no se fusionan",
+      "instruction": "Buenas noticias: CON, PER y TRA nunca forman contracciones obligatorias con el artículo.",
+      "itemIndices": [5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál preposición articulada es correcta?",
+      "instruction": "Completá con la preposición articulada correcta según la preposición y el género/número del sustantivo.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "recall",
+      "title": "Formá preposiciones articuladas",
+      "instruction": "Combiná la preposición y el artículo para formar la preposición articulada.",
+      "itemIndices": [0, 1, 3, 4]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Preposiciones articuladas en oraciones",
+      "instruction": "Identificá y traducí las preposiciones articuladas en estas frases.",
+      "itemIndices": [6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "Preposiciones articuladas: tabla completa",
+      "instruction": "DI: del/dello/della/dell'/dei/degli/delle. A: al/allo/alla/all'/ai/agli/alle. DA: dal/dallo/dalla/dall'/dai/dagli/dalle. IN: nel/nello/nella/nell'/nei/negli/nelle. SU: sul/sullo/sulla/sull'/sui/sugli/sulle. CON/PER/TRA: no se fusionan.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

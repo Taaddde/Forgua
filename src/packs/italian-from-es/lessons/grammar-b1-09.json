@@ -1,0 +1,89 @@
+{
+  "id": "grammar-b1-09",
+  "title": "Quando si usa il congiuntivo",
+  "description": "Los contextos que desencadenan el congiuntivo en italiano. Diferencias importantes con el español — los verbos de 'pensar/creer' son los más sorprendentes.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Voglio che tu venga.",
+      "back": "Quiero que vengas.",
+      "reading": "",
+      "explanation": "DESEO: 'volere che' + congiuntivo. Sujetos distintos (yo quiero / tú vienes) → congiuntivo. Mismo sujeto: 'Voglio venire' (quiero venir, sin 'che'). Igual que en español: 'quiero que + subjuntivo'."
+    },
+    {
+      "front": "Spero che tu stia bene.",
+      "back": "Espero que estés bien.",
+      "reading": "",
+      "explanation": "SPERANZA: 'sperare che' + congiuntivo. 'Stia' = congiuntivo presente di stare. La esperanza va seguida de congiuntivo en italiano, igual que en español."
+    },
+    {
+      "front": "Penso che questo film sia bellissimo.",
+      "back": "Pienso que esta película es bellísima.",
+      "reading": "",
+      "explanation": "¡DIFERENCIA CLAVE CON EL ESPAÑOL! 'Pensare che' + congiuntivo en italiano, aunque la persona CREA que es verdad. En español: 'Pienso que ES bellísima' (indicativo). En italiano SIEMPRE congiuntivo con 'pensare che', 'credere che', 'ritenere che'."
+    },
+    {
+      "front": "Credo che Marco abbia ragione.",
+      "back": "Creo que Marco tiene razón.",
+      "reading": "",
+      "explanation": "'Credere che' + congiuntivo. En español: 'Creo que Marco tiene razón' (indicativo). En italiano: congiuntivo siempre. Esta diferencia sorprende a hispanohablantes — recuerden: en italiano la incertidumbre subjetiva activa el congiuntivo."
+    },
+    {
+      "front": "È necessario che tutti siano presenti.",
+      "back": "Es necesario que todos estén presentes.",
+      "reading": "",
+      "explanation": "IMPERSONALI: 'è necessario che', 'è importante che', 'è strano che', 'bisogna che', 'è possibile che' + congiuntivo. Igual que el español 'es necesario que + subjuntivo'."
+    },
+    {
+      "front": "Sebbene sia stanco, lavora ancora.",
+      "back": "Aunque esté cansado, sigue trabajando.",
+      "reading": "",
+      "explanation": "CONCESSIONE: 'sebbene', 'benché', 'nonostante (che)', 'malgrado (che)' + congiuntivo. A diferencia del español donde 'aunque + indicativo' es posible en muchos contextos, en italiano estas conjunciones SIEMPRE llevan congiuntivo."
+    },
+    {
+      "front": "Ti chiamo prima che tu parta.",
+      "back": "Te llamo antes de que partas.",
+      "reading": "",
+      "explanation": "CONGIUNZIONI: 'prima che' (antes de que), 'affinché' (para que), 'senza che' (sin que), 'purché' (con tal de que), 'a meno che non' (a menos que) + congiuntivo. Igual que en español."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Verbos de deseo y emoción — fáciles",
+      "instruction": "Estos funcionan igual que en español: volere che, sperare che, desiderare che, avere paura che, essere contento che + congiuntivo. Sujetos diferentes → congiuntivo. Mismo sujeto → infinitivo.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Pensare/credere che — la gran diferencia",
+      "instruction": "¡ESTA ES LA DIFERENCIA MÁS IMPORTANTE! En español 'pienso que ES' (indicativo). En italiano 'Penso che SIA' (congiuntivo). Verbos de opinión/creencia en italiano SIEMPRE llevan congiuntivo: pensare, credere, ritenere, sembrare, dubitare.",
+      "itemIndices": [2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Impersonales y conjunciones concesivas",
+      "instruction": "È necessario/importante/possibile/strano che + congiuntivo. Las conjunciones sebbene/benché/nonostante SIEMPRE congiuntivo (no hay opción de indicativo como en español con 'aunque').",
+      "itemIndices": [4, 5, 6]
+    },
+    {
+      "type": "recall",
+      "title": "¿Indicativo o congiuntivo?",
+      "instruction": "¿Esta frase lleva indicativo o congiuntivo? ¿Por qué?",
+      "itemIndices": [0, 2, 3, 4]
+    },
+    {
+      "type": "recall",
+      "title": "Construí la frase",
+      "instruction": "Completá con la forma correcta del congiuntivo.",
+      "itemIndices": [1, 5, 6]
+    },
+    {
+      "type": "summary",
+      "title": "Resumen: Cuándo usar el congiuntivo",
+      "instruction": "Mapa mental: 1) Deseo/emoción: volere, sperare, temere, essere contento → congiuntivo. 2) Opinión: pensare, credere, ritenere, sembrare → congiuntivo (¡diferencia con español!). 3) Impersonales: è necessario/importante/strano → congiuntivo. 4) Sebbene/benché/nonostante → SIEMPRE congiuntivo. 5) Prima che, affinché, senza che, purché → congiuntivo.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    }
+  ]
+}

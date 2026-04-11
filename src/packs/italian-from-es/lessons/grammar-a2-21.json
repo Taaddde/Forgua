@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a2-21",
+  "title": "Prima di / Dopo di + infinito — antes/después de hacer algo",
+  "description": "Cómo expresar secuencia de acciones en italiano. Prima di + infinito = antes de hacer algo. Dopo di/aver/essere + participio = después de haber hecho algo. Estructuras muy útiles para narrar.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "prima di + INFINITO — antes de hacer algo",
+      "back": "antes de + infinitivo",
+      "reading": "",
+      "explanation": "PRIMA DI + INFINITO (del mismo verbo que en español). 'Prima di mangiare, mi lavo le mani' = Antes de comer, me lavo las manos. 'Prima di uscire, chiudi la finestra!' = ¡Antes de salir, cerrá la ventana! El infinitivo es siempre el del verbo principal, no el presente."
+    },
+    {
+      "front": "dopo di + INFINITO PASSATO (avere/essere + participio) — después de haber hecho algo",
+      "back": "después de + infinitivo compuesto (haber hecho)",
+      "reading": "",
+      "explanation": "DOPO + INFINITO PASSATO (avere/essere + participio passato). 'Dopo aver mangiato, vado a correre' = Después de comer, voy a correr. 'Dopo essere uscito, ha chiamato' = Después de salir, llamó. El 'di' es opcional: 'dopo aver mangiato' = 'dopo di aver mangiato'."
+    },
+    {
+      "front": "Dopo aver/avere + participio: dopo aver mangiato / dopo aver studiato",
+      "back": "Después de haber comido / Después de haber estudiado",
+      "reading": "",
+      "explanation": "Con verbos que usan AVERE en el passato prossimo: DOPO AVER + participio passato. 'Dopo aver lavorato tutto il giorno, ero stanchissimo' = Después de haber trabajado todo el día, estaba agotadísimo. 'Dopo aver capito il problema, ho trovato la soluzione' = Después de entender el problema, encontré la solución."
+    },
+    {
+      "front": "Dopo essere + participio: dopo essere arrivato / dopo essere andato",
+      "back": "Después de llegar / Después de irse",
+      "reading": "",
+      "explanation": "Con verbos que usan ESSERE en el passato prossimo: DOPO ESSERE + participio (con concordancia). 'Dopo essere arrivata a casa, ho chiamato mia madre' = Después de llegar a casa, llamé a mi madre. 'Dopo essere usciti, abbiamo incontrato Marco' = Después de salir, encontramos a Marco."
+    },
+    {
+      "front": "Prima che vs Prima di: sujetos diferentes",
+      "back": "Prima di = mismo sujeto / Prima che + congiuntivo = sujetos diferentes",
+      "reading": "",
+      "explanation": "PRIMA DI + infinito: cuando el sujeto de ambas acciones es el MISMO. 'Prima di dormire, leggo' (yo leo, yo duermo). PRIMA CHE + congiuntivo: cuando los sujetos son DIFERENTES. 'Prima che arrivi lui, dobbiamo pulire' = Antes de que llegue él, tenemos que limpiar. A nivel A2 basta con reconocer esta distinción."
+    },
+    {
+      "front": "Espressioni di sequenza: prima / poi / dopo / infine / alla fine",
+      "back": "primero / luego/después / después / finalmente / al final",
+      "reading": "",
+      "explanation": "Adverbios de secuencia muy frecuentes. 'Prima faccio la doccia, poi faccio colazione' = Primero me ducho, después desayuno. 'Infine' y 'alla fine' marcan el final de una secuencia: 'Alla fine abbiamo trovato un ristorante' = Al final encontramos un restaurante."
+    },
+    {
+      "front": "Prima di dormire... / Dopo aver mangiato... — uso narrativo",
+      "back": "Expresar secuencia temporal en una narración",
+      "reading": "",
+      "explanation": "Estas estructuras son clave para narrar: 'Prima di partire, ho salutato tutti' = Antes de irme, saludé a todos. 'Dopo aver visitato il Duomo, siamo andati agli Uffizi' = Después de visitar el Duomo, fuimos a los Uffizi. Muy útiles al contar qué hiciste."
+    },
+    {
+      "front": "Senza + infinito — sin hacer algo",
+      "back": "sin + infinitivo",
+      "reading": "",
+      "explanation": "'Senza + infinito' para expresar ausencia de una acción. 'Senza pensare' = Sin pensar. 'È uscita senza salutare' = Salió sin despedirse. 'Non puoi capire senza studiare' = No podés entender sin estudiar. La misma estructura que en español: 'senza' + infinitivo."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Prima di + infinito: antes de",
+      "instruction": "PRIMA DI + INFINITO (mismo sujeto). 'Prima di mangiare' = antes de comer. Igual que en español: antes de + infinitivo. Simple y directo.",
+      "itemIndices": [0, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "Dopo aver/essere + participio: después de",
+      "instruction": "DOPO + INFINITO PASSATO. Con avere: 'dopo aver mangiato'. Con essere: 'dopo essere arrivato/a'. Expresan 'después de haber hecho algo'.",
+      "itemIndices": [1, 2, 3, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "Prima di o Dopo aver/essere?",
+      "instruction": "Elegí la estructura correcta para expresar la secuencia temporal.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "recall",
+      "title": "Construí frases de secuencia",
+      "instruction": "Traducí estas frases usando prima di / dopo aver-essere.",
+      "itemIndices": [0, 2, 3, 7]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá la narración",
+      "instruction": "Completá el relato usando prima di, dopo aver/essere y los adverbios de secuencia.",
+      "itemIndices": [5, 6]
+    },
+    {
+      "type": "summary",
+      "title": "Sequenza temporale: prima di, dopo, senza",
+      "instruction": "PRIMA DI + infinito (antes de comer: prima di mangiare). DOPO AVER + participio (después de comer: dopo aver mangiato). DOPO ESSERE + participio (después de llegar: dopo essere arrivato/a). SENZA + infinito (sin comer: senza mangiare). Secuencia narrativa: prima... poi... dopo... infine/alla fine.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

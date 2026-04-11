@@ -1,0 +1,83 @@
+{
+  "id": "grammar-c2-02",
+  "title": "Costruzioni latineggianti nel formale scritto",
+  "description": "El italiano formal escrito, especialmente el jurídico-administrativo y el académico, conserva construcciones de herencia latina que no existen en el habla cotidiana. Su dominio es señal de máxima competencia escrita. Esta lección trabaja las fórmulas de apertura jurídica, el accusativo con infinitivo y las locuciones latinas de uso corriente.",
+  "level": "c2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Tanto premesso e considerato, la Corte ritiene che...",
+      "back": "'Tanto premesso' = establecido lo anterior — fórmula de apertura de sentencias y actas jurídicas.",
+      "reading": "",
+      "explanation": "Fórmulas de premessa jurídica: 'Tanto premesso' / 'Ciò posto' / 'Fermo quanto detto' / 'Premesso quanto sopra'. Son participios absolutos que resumen lo argumentado antes de la conclusión. Omnipresentes en sentenze, decreti e atti notarili italianos."
+    },
+    {
+      "front": "Si ritiene la proposta essere inaccettabile. [formale alto] / Si ritiene che la proposta sia inaccettabile. [standard]",
+      "back": "Accusativo con infinitivo: herencia latina activa en el italiano jurídico y literario elevado.",
+      "reading": "",
+      "explanation": "'Si ritiene la proposta essere inaccettabile' (accusativo + infinitivo, muy formal/literario) vs 'Si ritiene che la proposta sia inaccettabile' (subordinata con congiuntivo, estándar). La primera es más compacta y de registro ultra-alto. Común en textos diplomaticos e letterari."
+    },
+    {
+      "front": "sub iudice / prima facie / ultra vires / in pectore",
+      "back": "Latinismos jurídicos de uso habitual en el italiano contemporáneo.",
+      "reading": "",
+      "explanation": "'Sub iudice' = pendiente de resolución judicial. 'Prima facie' = a primera vista. 'Ultra vires' = más allá de las competencias atribuidas. 'In pectore' = en secreto, reservado (del latín 'en el pecho'). Todos se usan en artículos jurídicos y en la prensa de calidad."
+    },
+    {
+      "front": "de facto / de iure / motu proprio / ipso facto / sine die",
+      "back": "Latinismos generales de uso culto en italiano contemporáneo.",
+      "reading": "",
+      "explanation": "'De facto' = de hecho. 'De iure' = de derecho. 'Motu proprio' = por iniciativa propia. 'Ipso facto' = inmediatamente, por ese mismo hecho. 'Sine die' = sin fecha fija. Todos estos aparecen en periodismo de calidad, ensayos académicos y textos políticos."
+    },
+    {
+      "front": "pro quota / ex nunc / ex tunc / in primis",
+      "back": "Latinismos jurídicos de uso técnico: cuota proporcional / desde ahora / desde entonces / en primer lugar.",
+      "reading": "",
+      "explanation": "'Pro quota' = en proporción a la cuota/parte. 'Ex nunc' = desde ahora (efectos ex nunc = no retroactivos). 'Ex tunc' = desde entonces (efectos retroactivos). 'In primis' = en primer lugar (también 'in primis et ante omnia' = ante todo). Esenciales en contratti e sentenze."
+    },
+    {
+      "front": "alma mater / curriculum vitae / curriculum studiorum / honoris causa",
+      "back": "Latinismos académicos de uso habitual en el italiano contemporáneo.",
+      "reading": "",
+      "explanation": "'Alma mater' = la universidad donde uno se licenció (literalmente 'madre nutricia'). 'Curriculum vitae' = CV. 'Curriculum studiorum' = expediente académico. 'Honoris causa' = doctorado honorífico. Todos estos son de uso cotidiano en el contexto universitario italiano."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El latín vivo del italiano jurídico",
+      "instruction": "El italiano jurídico y académico conserva latinismos que otras lenguas latinas han perdido. En una sentencia della Corte Costituzionale italiana es perfectamente normal encontrar 'sub iudice', 'prima facie' y 'tanto premesso' en la misma página. No son arcaísmos para mostrar erudición: son el vocabulario técnico vivo del sistema jurídico italiano.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "word-in-context",
+      "title": "El latinismo en su contexto",
+      "instruction": "Para cada fragmento de texto jurídico o académico, identifica qué latinismo corresponde y explica qué significa en ese contexto.",
+      "itemIndices": [2, 3, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "El accusativo con infinitivo",
+      "instruction": "La construcción accusativo + infinitivo, heredada del latín, aparece en el italiano formal cuando el sujeto del infinitivo es diferente del sujeto principal. Es más compacta que la subordinada con 'che' + congiuntivo. Su uso marca el máximo registro formal escrito.",
+      "itemIndices": [1]
+    },
+    {
+      "type": "recall",
+      "title": "Latinismo → significado y campo de uso",
+      "instruction": "Para cada latinismo, escribe su significado y especifica si es de uso principalmente jurídico, académico, político o general culto.",
+      "itemIndices": [2, 3, 4, 5]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "El latinismo correcto",
+      "instruction": "Completa cada fragmento de texto con el latinismo correcto de los presentados en la lección.",
+      "itemIndices": [0, 2, 3, 4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "Costruzioni latineggianti — eredità attiva",
+      "instruction": "Estos latinismos no son decoración: son la terminología técnica viva del italiano dotto. Para consolidarlos: lee le sentenze della Corte Costituzionale (cortecostituzionale.it) y los discorsi del Presidente della Repubblica. En cada texto los encontrarás en uso activo.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

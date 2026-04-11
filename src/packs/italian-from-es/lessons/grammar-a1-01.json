@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a1-01",
+  "title": "Essere: sono, sei, è...",
+  "description": "El verbo más importante del italiano. Equivale parcialmente a 'ser' y 'estar'. Aprendé todas las formas del presente.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "io sono",
+      "back": "yo soy / yo estoy",
+      "reading": "",
+      "explanation": "Primera persona singular. El pronombre 'io' es opcional — normalmente se omite. 'Sono italiano' = Soy italiano. 'Sono stanco' = Estoy cansado."
+    },
+    {
+      "front": "tu sei",
+      "back": "vos sos / tú eres",
+      "reading": "",
+      "explanation": "Segunda persona singular informal. 'Sei pronto?' = ¿Estás listo? 'Sei molto simpatico' = Sos muy simpático."
+    },
+    {
+      "front": "lui / lei è",
+      "back": "él es / ella es",
+      "reading": "",
+      "explanation": "'È' lleva acento grave para diferenciarlo de 'e' (=y). 'Lui è medico' = Él es médico. 'Lei è bella' = Ella es linda. Con mayúscula: 'Lei è' = Usted es (formal)."
+    },
+    {
+      "front": "noi siamo",
+      "back": "nosotros somos / estamos",
+      "reading": "",
+      "explanation": "'Siamo' = somos/estamos. 'Siamo italiani' = Somos italianos. 'Siamo stanchi' = Estamos cansados. 'Siamo a casa' = Estamos en casa."
+    },
+    {
+      "front": "voi siete",
+      "back": "vosotros sois / ustedes son",
+      "reading": "",
+      "explanation": "'Siete' = sois/son. 'Siete pronti?' = ¿Están listos? En Argentina: 'ustedes son'. 'Voi' es la forma para grupos (informal y formal)."
+    },
+    {
+      "front": "loro sono",
+      "back": "ellos/ellas son / están",
+      "reading": "",
+      "explanation": "'Loro sono' tiene la misma forma que 'io sono'. 'Loro sono studenti' = Ellos son estudiantes. Se diferencia por el contexto y el pronombre."
+    },
+    {
+      "front": "Sono stanco. (no: sto stanco)",
+      "back": "Estoy cansado.",
+      "reading": "",
+      "explanation": "Para estados físicos y mentales se usa ESSERE, no stare. 'Sono stanco/stanca/stanchi/stanche' según género/número. Error típico: NO se dice 'sto stanco'."
+    },
+    {
+      "front": "Sei di Roma?",
+      "back": "¿Sos de Roma?",
+      "reading": "",
+      "explanation": "Essere + di + ciudad = ser de. 'Sono di Milano' = Soy de Milán. 'Di dove sei?' = ¿De dónde sos? 'Siamo di Buenos Aires' = Somos de Buenos Aires."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Essere — las 6 formas",
+      "instruction": "En italiano 'essere' combina 'ser' y 'estar'. Las 6 formas son completamente irregulares — hay que memorizarlas. Los pronombres son opcionales.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es la forma correcta?",
+      "instruction": "Elegí la forma de 'essere' que corresponde a cada sujeto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "Del español al italiano",
+      "instruction": "Ves el pronombre en español. Escribí la forma correcta de 'essere'.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Essere en contexto",
+      "instruction": "Ordená las palabras para formar oraciones: italiano / Sono / di / Milano | stanchi / Siamo / molto / oggi",
+      "itemIndices": [6, 7]
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Essere o stare?",
+      "instruction": "Identificá el error: 'Sto stanco' → debería ser 'Sono stanco'. En italiano los estados se expresan con ESSERE.",
+      "itemIndices": [6]
+    },
+    {
+      "type": "summary",
+      "title": "¡Essere dominado!",
+      "instruction": "sono(io), sei(tu), è(lui/lei), siamo(noi), siete(voi), sono(loro). Recordá: 'Sono stanco' = Estoy cansado (usar essere, no stare para estados). 'È' con acento = es/está. 'e' sin acento = y.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

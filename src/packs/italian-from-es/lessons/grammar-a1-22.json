@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a1-22",
+  "title": "Numeri 1-100 — los números y su uso en contexto",
+  "description": "Los números del 1 al 100 en italiano. Muy similares al español con algunas diferencias ortográficas. Los números compuestos (21-99) forman una sola palabra en italiano.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "1-10: uno, due, tre, quattro, cinque, sei, sette, otto, nove, dieci",
+      "back": "uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez",
+      "reading": "",
+      "explanation": "Los números del 1 al 10. Casi todos reconocibles. Cuidado: 'tre' (tres, sin acento), 'sei' (seis), 'otto' (ocho). 'Sei' también significa 'sos/eres' (2ª persona de essere) — contexto lo aclara. 'Tre caffè, per favore' = Tres cafés, por favor."
+    },
+    {
+      "front": "11-19: undici, dodici, tredici, quattordici, quindici, sedici, diciassette, diciotto, diciannove",
+      "back": "11, 12, 13, 14, 15, 16, 17, 18, 19",
+      "reading": "",
+      "explanation": "Los teen numbers: 11=undici, 12=dodici, 13=tredici, 14=quattordici, 15=quindici, 16=sedici, 17=diciassette, 18=diciotto, 19=diciannove. Son irregulares, hay que memorizarlos. 'Ho diciotto anni' = Tengo 18 años."
+    },
+    {
+      "front": "20, 30, 40, 50, 60, 70, 80, 90, 100: venti, trenta, quaranta, cinquanta, sessanta, settanta, ottanta, novanta, cento",
+      "back": "veinte, treinta, cuarenta, cincuenta, sesenta, setenta, ochenta, noventa, cien",
+      "reading": "",
+      "explanation": "Las decenas son muy similares al español. 'Venti' (20), 'trenta' (30), 'quaranta' (40) — notá la -A final. 'Cento' (100). Para decenas + unidades, las decenas se combinan con las unidades: 'ventuno' (21), 'trentadue' (32), etc."
+    },
+    {
+      "front": "21: ventuno / 22: ventidue / 23: ventitrè",
+      "back": "veintiuno / veintidós / veintitrés",
+      "reading": "",
+      "explanation": "¡IMPORTANTE! 21 y 31, 41, etc. se escriben sin la vocal final de la decena: ventUNO (no *venteuno), trentUNO (no *trentouno). 23 y 33, 43 etc.: ventitRÈ, trentaTRÈ — 'tre' lleva acento cuando está al final. UNO y TRE al final de número cambian."
+    },
+    {
+      "front": "28: ventotto / 38: trentotto / 48: quarantotto",
+      "back": "veintiocho / treintayocho / cuarentayocho",
+      "reading": "",
+      "explanation": "Con OTTO también se pierde la vocal: ventOTTO (no *ventaotto), trentOTTO, quarantOTTO. La regla: cuando la unidad empieza con vocal (uno, otto), se elimina la vocal final de la decena. Venti → vent- + uno/otto."
+    },
+    {
+      "front": "Ho ventidue anni. / Costa trenta euro.",
+      "back": "Tengo 22 años. / Cuesta 30 euros.",
+      "reading": "",
+      "explanation": "Usos prácticos. Para la edad: 'Ho + número + anni'. 'Quanti anni hai?' = ¿Cuántos años tenés? Para precios: 'Costa + numero + euro'. 'Quanto costa?' = ¿Cuánto cuesta? Euro es invariable en italiano: 'due euro', 'cento euro' (no *euros)."
+    },
+    {
+      "front": "primo / secondo / terzo / quarto / quinto (ordinales básicos)",
+      "back": "primero / segundo / tercero / cuarto / quinto",
+      "reading": "",
+      "explanation": "Los ordinales del 1 al 5 son irregulares: primo, secondo, terzo, quarto, quinto. Del 6 en adelante son regulares: sesto, settimo, ottavo, nono, decimo. Usos: 'il primo piano' = el primer piso, 'la seconda porta' = la segunda puerta."
+    },
+    {
+      "front": "Quanti...? / Quanto costa?",
+      "back": "¿Cuántos/as...? / ¿Cuánto cuesta?",
+      "reading": "",
+      "explanation": "'Quanti' (m.pl.) / 'quante' (f.pl.) para preguntar cantidad. 'Quanti anni hai?' = ¿Cuántos años tenés? 'Quante persone?' = ¿Cuántas personas? 'Quanto costa?' = ¿Cuánto cuesta? 'Quanto' es invariable cuando pregunta precio."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Números 1-20: memorizá la base",
+      "instruction": "Los números del 1 al 20 son la base. Del 1 al 10 son simples, del 11 al 19 hay que memorizarlos. Son muy parecidos al español.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Decenas y números compuestos 21-100",
+      "instruction": "Las decenas (20, 30, 40...) + unidades forman UNA SOLA PALABRA. Regla clave: ante UNO y OTTO se pierde la vocal final de la decena. 21=ventUNO, 28=ventOTTO, 31=trentUNO.",
+      "itemIndices": [2, 3, 4, 5]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es el número correcto en italiano?",
+      "instruction": "Elegí la escritura correcta del número en italiano.",
+      "itemIndices": [3, 4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "Di el número en italiano",
+      "instruction": "Escribí los números en italiano. Recordá las reglas de combinación.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Números en contexto real",
+      "instruction": "Practicá los números en situaciones reales: edad, precio, cantidad.",
+      "itemIndices": [5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "Números 1-100: reglas clave",
+      "instruction": "1-10: uno/due/tre/quattro/cinque/sei/sette/otto/nove/dieci. 11-19: memorizar. Decenas: venti/trenta/quaranta/cinquanta/sessanta/settanta/ottanta/novanta/cento. Compuestos: una sola palabra. Regla especial: ante UNO y OTTO se pierde vocal final (ventUNO, ventOTTO). 'Tre' al final lleva acento: ventitrè.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

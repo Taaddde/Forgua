@@ -1,0 +1,83 @@
+{
+  "id": "grammar-b1-16",
+  "title": "Periodo ipotetico tipo 1 — reale",
+  "description": "La hipótesis real en italiano: para condiciones posibles o probables en el presente y futuro. La más fácil de las tres.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Se studi, impari.",
+      "back": "Si estudias, aprendes.",
+      "reading": "",
+      "explanation": "Tipo 1 con presente: se + presente → presente. Para hechos generales, verdades o situaciones habituales. Como el condicional cero en inglés. Igual que en español."
+    },
+    {
+      "front": "Se piove domani, restiamo a casa.",
+      "back": "Si llueve mañana, nos quedamos en casa.",
+      "reading": "",
+      "explanation": "Tipo 1 con futuro implícito: se + presente → presente/futuro. La condición se expresa en PRESENTE (no futuro) después de 'se'. 'Se pioverà' sería incorrecto en este uso. Igual que en español: 'si llueve' (presente)."
+    },
+    {
+      "front": "Se hai fame, mangia qualcosa!",
+      "back": "Si tienes hambre, ¡come algo!",
+      "reading": "",
+      "explanation": "Tipo 1 con imperativo en la apódosis: se + presente → imperativo. Para instrucciones o consejos condicionales. Muy frecuente en el habla cotidiana."
+    },
+    {
+      "front": "Se vieni alla festa, ci divertiremo molto.",
+      "back": "Si vienes a la fiesta, nos divertiremos mucho.",
+      "reading": "",
+      "explanation": "Tipo 1 con futuro en la apódosis: se + presente → futuro semplice. Cuando la consecuencia es una predicción futura. La condición sigue en presente (no futuro después de 'se')."
+    },
+    {
+      "front": "Se puoi, aiutami.",
+      "back": "Si puedes, ayúdame.",
+      "reading": "",
+      "explanation": "Tipo 1 coloquial con potere: 'Se puoi' = si puedes. Brevísima condición real muy frecuente en el habla. La apódosis puede ser un imperativo. 'Puoi' = presente indicativo de 'potere'."
+    },
+    {
+      "front": "Se lavori sodo, raggiungerai i tuoi obiettivi.",
+      "back": "Si trabajas duro, alcanzarás tus objetivos.",
+      "reading": "",
+      "explanation": "Tipo 1 motivacional: se + presente → futuro. Para dar ánimos, consejos. La condición es percibida como real/probable. Contraste con tipo 2: si alguien duda de la condición → 'Se lavorassi sodo...' (tipo 2)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "La estructura del tipo 1",
+      "instruction": "Fórmula: se + indicativo presente → indicativo presente, futuro o imperativo. Para condiciones REALES o probables. Igual que en español en estructura.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Tipo 1 con imperativo y futuro",
+      "instruction": "Tres opciones para la apódosis (resultado): presente (verdades generales), futuro (predicciones), imperativo (instrucciones/consejos). La prótasis (condición) SIEMPRE en presente.",
+      "itemIndices": [2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Uso coloquial del tipo 1",
+      "instruction": "En el habla cotidiana el tipo 1 es muy frecuente. 'Se puoi' = si puedes. 'Se vuoi' = si quieres. Son fórmulas de cortesía y oferta muy comunes.",
+      "itemIndices": [4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "¿Qué tiempo verbal después de 'se'?",
+      "instruction": "¿Se usa el futuro o el presente después de 'se' en el tipo 1?",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "recall",
+      "title": "Tipo 1 en oraciones reales",
+      "instruction": "Construí oraciones de tipo 1 con las combinaciones: presente/presente, presente/futuro, presente/imperativo.",
+      "itemIndices": [3, 4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "Resumen: Periodo ipotetico tipo 1",
+      "instruction": "Fórmula: SE + presente → presente/futuro/imperativo. Para condiciones reales o probables. La prótasis SIEMPRE en presente (no futuro). Error frecuente: ✗ 'Se pioverà' → ✓ 'Se piove'. Próxima lección: tipo 2 (possibile/impossibile) con congiuntivo imperfetto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

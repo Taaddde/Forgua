@@ -1,0 +1,2738 @@
+{
+  "lessons": [
+    {
+      "id": "vocab-a1-01",
+      "title": "Saluti e basi",
+      "description": "Los saludos y expresiones básicas del italiano. Muchas son similares al español, pero hay algunas diferencias importantes en el uso.",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 1,
+      "prerequisites": [],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a1-02",
+      "title": "Numeri 1-20",
+      "description": "Los números del 1 al 20. Los primeros 16 son irregulares y hay que memorizarlos. Del 17 al 19 siguen una lógica combinatoria.",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 2,
+      "prerequisites": [
+        "vocab-a1-01"
+      ],
+      "estimatedMinutes": 30,
+      "newItemCount": 20
+    },
+    {
+      "id": "vocab-a1-03",
+      "title": "Numeri 21-100",
+      "description": "Las decenas y cómo combinarlas. Las reglas son simples pero hay que aprender las excepciones con 'uno' y 'otto'.",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 3,
+      "prerequisites": [
+        "vocab-a1-02"
+      ],
+      "estimatedMinutes": 29,
+      "newItemCount": 12
+    },
+    {
+      "id": "vocab-a1-04",
+      "title": "La famiglia",
+      "description": "Los miembros de la familia en italiano. La mayoría son muy similares al español, pero hay algunas diferencias importantes en el uso de los posesivos.",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 4,
+      "prerequisites": [
+        "vocab-a1-03"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a1-05",
+      "title": "I colori",
+      "description": "Los colores en italiano. La mayoría son reconocibles para hispanohablantes. Recordá que los adjetivos de color concuerdan en género y número con el sustantivo.",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 5,
+      "prerequisites": [
+        "vocab-a1-04"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a1-06",
+      "title": "Il cibo e le bevande",
+      "description": "Comida y bebida italiana — tema esencial para viajar y cotidianidad. Muchas palabras las conocés de la cultura italiana, pero la pronunciación puede sorprenderte.",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 6,
+      "prerequisites": [
+        "vocab-a1-05"
+      ],
+      "estimatedMinutes": 29,
+      "newItemCount": 12
+    },
+    {
+      "id": "vocab-a1-07",
+      "title": "La casa",
+      "description": "Las partes de la casa y el mobiliario básico. Vocabulario esencial para describir dónde vivís y orientarse en un hogar italiano.",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 7,
+      "prerequisites": [
+        "vocab-a1-06"
+      ],
+      "estimatedMinutes": 29,
+      "newItemCount": 12
+    },
+    {
+      "id": "vocab-a1-08",
+      "title": "La città e i luoghi",
+      "description": "La ciudad y los lugares más importantes. Vocabulario esencial para moverse por ciudades italianas y pedir indicaciones.",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 8,
+      "prerequisites": [
+        "vocab-a1-07"
+      ],
+      "estimatedMinutes": 29,
+      "newItemCount": 12
+    },
+    {
+      "id": "vocab-a1-09",
+      "title": "I giorni della settimana",
+      "description": "Los días de la semana en italiano. Todos terminan en -ì (con acento) excepto sabato y domenica. Son masculinos excepto domenica.",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 9,
+      "prerequisites": [
+        "vocab-a1-08"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a1-10",
+      "title": "I mesi e le stagioni",
+      "description": "Los meses del año y las estaciones. En italiano los meses son todos masculinos y se escriben en minúscula.",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 10,
+      "prerequisites": [
+        "vocab-a1-09"
+      ],
+      "estimatedMinutes": 30,
+      "newItemCount": 16
+    },
+    {
+      "id": "vocab-a1-11",
+      "title": "Il corpo umano",
+      "description": "Las partes del cuerpo humano. Vocabulario importante para visitas al médico, describir síntomas y conversaciones cotidianas.",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 11,
+      "prerequisites": [
+        "vocab-a1-10"
+      ],
+      "estimatedMinutes": 29,
+      "newItemCount": 12
+    },
+    {
+      "id": "vocab-a1-12",
+      "title": "Gli animali",
+      "description": "Los animales más comunes en italiano. Vocabulario útil para conversaciones cotidianas y comprensión de textos simples.",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 12,
+      "prerequisites": [
+        "vocab-a1-11"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a1-13",
+      "title": "I vestiti",
+      "description": "La ropa y accesorios en italiano. Vocabulario útil para ir de compras, describir personas y situaciones cotidianas.",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 13,
+      "prerequisites": [
+        "vocab-a1-12"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a1-14",
+      "title": "I trasporti",
+      "description": "Los medios de transporte en italiano. Vocabulario esencial para moverse por Italia, comprar tickets y pedir información.",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 14,
+      "prerequisites": [
+        "vocab-a1-13"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a1-15",
+      "title": "Aggettivi base",
+      "description": "Los adjetivos fundamentales del italiano. Aprenderás a describir personas, cosas y situaciones. Recordá que los adjetivos concuerdan con el sustantivo.",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 15,
+      "prerequisites": [
+        "vocab-a1-14"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a1-16",
+      "title": "Verbi essenziali I",
+      "description": "Los cuatro verbos más importantes del italiano: essere, avere, fare, andare. Son todos irregulares y los necesitarás en cada conversación.",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 16,
+      "prerequisites": [
+        "vocab-a1-15"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a1-17",
+      "title": "Verbi essenziali II",
+      "description": "Verbos regulares y semirregulares esenciales para la vida cotidiana: mangiare, bere, parlare, lavorare, studiare y más.",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 17,
+      "prerequisites": [
+        "vocab-a1-16"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a1-18",
+      "title": "Il tempo atmosferico",
+      "description": "El tiempo meteorológico en italiano. Vocabulario esencial para conversaciones cotidianas y para entender el pronóstico del tiempo.",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 18,
+      "prerequisites": [
+        "vocab-a1-17"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a1-19",
+      "title": "Professioni e nazionalità",
+      "description": "Las profesiones y nacionalidades en italiano. En italiano la profesión frecuentemente cambia de género. Las nacionalidades concuerdan con el sustantivo.",
+      "level": "a1",
+      "category": "vocabulary",
+      "order": 19,
+      "prerequisites": [
+        "vocab-a1-18"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "grammar-a1-01",
+      "title": "Essere: sono, sei, è...",
+      "description": "El verbo más importante del italiano. Equivale parcialmente a 'ser' y 'estar'. Aprendé todas las formas del presente.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 20,
+      "prerequisites": [],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a1-02",
+      "title": "Avere: ho, hai, ha...",
+      "description": "El verbo 'tener' del italiano. Esencial para la edad, posesión y expresiones físicas. La H siempre es muda.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 21,
+      "prerequisites": [
+        "grammar-a1-01"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a1-03",
+      "title": "Articoli determinativi: il, la, lo, l'...",
+      "description": "Los artículos definidos del italiano. Hay 7 formas diferentes según género, número y la inicial del sustantivo. Es el tema más desafiante para hispanohablantes.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 22,
+      "prerequisites": [
+        "grammar-a1-02"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a1-04",
+      "title": "Articoli indeterminativi: un, una, uno, un'",
+      "description": "Los artículos indefinidos del italiano. Hay 4 formas según género y la inicial del sustantivo.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 23,
+      "prerequisites": [
+        "grammar-a1-03"
+      ],
+      "estimatedMinutes": 19,
+      "newItemCount": 7
+    },
+    {
+      "id": "grammar-a1-05",
+      "title": "Genere: maschile e femminile",
+      "description": "El género de los sustantivos en italiano. Las reglas básicas son similares al español, pero hay diferencias importantes que hay que memorizar.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 24,
+      "prerequisites": [
+        "grammar-a1-04"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a1-06",
+      "title": "Numero: singolare e plurale",
+      "description": "El plural de los sustantivos en italiano. A diferencia del español que añade -S, el italiano cambia la vocal final.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 25,
+      "prerequisites": [
+        "grammar-a1-05"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a1-07",
+      "title": "Accordo degli aggettivi",
+      "description": "Los adjetivos en italiano concuerdan en género y número con el sustantivo. El patrón es similar al español pero con algunas diferencias.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 26,
+      "prerequisites": [
+        "grammar-a1-06"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a1-08",
+      "title": "Pronomi soggetto",
+      "description": "Los pronombres personales sujeto en italiano. Son opcionales (el verbo ya indica la persona) pero importantes para el énfasis.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 27,
+      "prerequisites": [
+        "grammar-a1-07"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a1-09",
+      "title": "Verbi -ARE: parlare, lavorare, abitare",
+      "description": "Los verbos regulares en -ARE son los más numerosos del italiano. El patrón es muy similar al español.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 28,
+      "prerequisites": [
+        "grammar-a1-08"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a1-10",
+      "title": "Verbi -ERE: leggere, scrivere, vedere...",
+      "description": "Los verbos de la 2ª conjugación (-ere). Son el grupo más pequeño pero incluye verbos muy comunes. La diferencia clave con -ARE: 3ª singular termina en -E y 3ª plural en -ONO.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 29,
+      "prerequisites": [
+        "grammar-a1-09"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a1-11",
+      "title": "Verbi -IRE: dormire, capire, finire...",
+      "description": "La 3ª conjugación tiene dos grupos: los normales (dormire) y los verbos en -ISC- (capire, finire). Este segundo grupo es el más numeroso y frecuente.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 30,
+      "prerequisites": [
+        "grammar-a1-10"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a1-12",
+      "title": "Andare (presente) — vado, vai, va...",
+      "description": "Andare (ir) es uno de los verbos más irregulares e importantes del italiano. Imprescindible para hablar de movimiento y destinos. Para hispanohablantes: el patrón irregular es muy diferente.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 31,
+      "prerequisites": [
+        "grammar-a1-11"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a1-13",
+      "title": "Fare (presente) — faccio, fai, fa...",
+      "description": "Fare (hacer) es uno de los verbos más frecuentes del italiano. Aparece en decenas de expresiones fijas: fare colazione, fare sport, fare una domanda. Conjugación muy irregular.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 32,
+      "prerequisites": [
+        "grammar-a1-12"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a1-14",
+      "title": "Venire (presente) — vengo, vieni, viene...",
+      "description": "Venire (venir) es otro verbo irregular esencial. Muy usado para hablar de origen y movimiento hacia el interlocutor. Para hispanohablantes: el patrón es diferente al español 'venir'.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 33,
+      "prerequisites": [
+        "grammar-a1-13"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a1-15",
+      "title": "Stare + gerundio — sto mangiando, stai parlando...",
+      "description": "El presente progresivo italiano: stare + gerundio. Equivale al 'estar + gerundio' del español. Para hispanohablantes es muy fácil — el concepto es idéntico.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 34,
+      "prerequisites": [
+        "grammar-a1-14"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a1-16",
+      "title": "Verbi modali: Potere, Volere, Dovere",
+      "description": "Los verbos modales italianos equivalen a poder, querer y deber del español. Son irregulares pero muy frecuentes. Se combinan con el infinitivo del verbo principal.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 35,
+      "prerequisites": [
+        "grammar-a1-15"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a1-17",
+      "title": "Preposizioni semplici — di, a, da, in, con, su, per, tra/fra",
+      "description": "Las preposiciones simples del italiano. Muy similares al español pero con diferencias importantes. Son la base para construir frases correctas.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 36,
+      "prerequisites": [
+        "grammar-a1-16"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a1-18",
+      "title": "Preposizioni articolate — del, della, al, alla, nel...",
+      "description": "En italiano las preposiciones di, a, da, in, su se fusionan con el artículo determinado formando preposiciones articuladas. En español esto solo ocurre con 'del' y 'al'.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 37,
+      "prerequisites": [
+        "grammar-a1-17"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a1-19",
+      "title": "C'è e ci sono — hay (singular y plural)",
+      "description": "C'è y ci sono equivalen al 'hay' del español. C'è para singular (hay uno), ci sono para plural (hay varios). Para hispanohablantes: en español 'hay' es invariable, en italiano cambia.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 38,
+      "prerequisites": [
+        "grammar-a1-18"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a1-20",
+      "title": "Aggettivi possessivi — mio, tuo, suo, nostro...",
+      "description": "Los adjetivos posesivos del italiano. Similar al español pero con una diferencia crucial: en italiano se usa el artículo delante del posesivo EXCEPTO con nombres de familia en singular.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 39,
+      "prerequisites": [
+        "grammar-a1-19"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a1-21",
+      "title": "Questo e Quello — este/ese/aquel con todos los géneros",
+      "description": "Los demostrativos italianos. Questo (este/esta/estos/estas) y Quello (ese/aquel — con formas especiales similares al artículo 'lo/gli/l'). Para hispanohablantes: Quello tiene formas sorprendentes.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 40,
+      "prerequisites": [
+        "grammar-a1-20"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a1-22",
+      "title": "Numeri 1-100 — los números y su uso en contexto",
+      "description": "Los números del 1 al 100 en italiano. Muy similares al español con algunas diferencias ortográficas. Los números compuestos (21-99) forman una sola palabra en italiano.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 41,
+      "prerequisites": [
+        "grammar-a1-21"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a1-23",
+      "title": "Le ore — Che ora è? / Sono le... / È mezzogiorno",
+      "description": "Cómo decir y preguntar la hora en italiano. La estructura es diferente al español: 'sono le' + número. Horas especiales: l'una, mezzogiorno, mezzanotte.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 42,
+      "prerequisites": [
+        "grammar-a1-22"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a1-24",
+      "title": "Avverbi di frequenza — sempre, spesso, a volte, mai...",
+      "description": "Los adverbios de frecuencia del italiano. Imprescindibles para describir rutinas y hábitos. Muy similares al español pero con algunas diferencias de posición en la oración.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 43,
+      "prerequisites": [
+        "grammar-a1-23"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a1-25",
+      "title": "Le interrogative — dove? quando? come? quanto? perché? chi? che cosa?",
+      "description": "Las palabras interrogativas del italiano. Casi idénticas al español con pequeñas diferencias. Esenciales para hacer preguntas y mantener conversaciones.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 44,
+      "prerequisites": [
+        "grammar-a1-24"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a1-26",
+      "title": "Sapere vs Conoscere — saber vs conocer",
+      "description": "Una de las distinciones más importantes para hispanohablantes: en italiano sapere y conoscere NO son intercambiables. Las reglas son las mismas que en español: saber (hechos/cómo) vs conocer (personas/lugares).",
+      "level": "a1",
+      "category": "grammar",
+      "order": 45,
+      "prerequisites": [
+        "grammar-a1-25"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a1-27",
+      "title": "Piacere — Mi piace / Mi piacciono",
+      "description": "Piacere es el verbo 'gustar' del italiano. Como en español 'me gusta/me gustan', en italiano el verbo concuerda con lo que gusta (singular o plural), no con la persona.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 46,
+      "prerequisites": [
+        "grammar-a1-26"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a1-28",
+      "title": "La negazione — non + verbo, non... mai, non... niente",
+      "description": "La negación en italiano es muy similar al español. La doble negación es gramatical y obligatoria. Para hispanohablantes: las mismas estructuras que conocés funcionan en italiano.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 47,
+      "prerequisites": [
+        "grammar-a1-27"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a1-29",
+      "title": "Espressioni con avere — ho fame, ho sete, ho sonno, ho anni...",
+      "description": "En italiano muchas sensaciones físicas usan AVERE (tener) en lugar de ESSERE (ser/estar). Para hispanohablantes: exactamente igual que en español — 'tener hambre', 'tener sed', etc.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 48,
+      "prerequisites": [
+        "grammar-a1-28"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "reading-a1-01",
+      "title": "Lettura: Mi presento",
+      "description": "Primera lectura guiada en italiano. Un joven italiano se presenta: nombre, origen, edad, estudios, familia y dónde vive. Vocabulario A1 con énfasis en essere, avere y los verbos en presente.",
+      "level": "a1",
+      "category": "mixed",
+      "order": 49,
+      "prerequisites": [],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "reading-a1-02",
+      "title": "Lettura: La mia famiglia",
+      "description": "Segunda lectura guiada. Una persona describe a su familia: número de integrantes, edades, profesiones y hobbies. Vocabulario de familia y verbos de actividad en presente.",
+      "level": "a1",
+      "category": "mixed",
+      "order": 50,
+      "prerequisites": [
+        "reading-a1-01"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "reading-a1-03",
+      "title": "Lettura: La mia giornata",
+      "description": "Tercera lectura guiada. Un estudiante describe su día típico: levantarse, desayunar, ir a la universidad, estudiar y acostarse. Verbos reflexivos, horas y rutinas diarias.",
+      "level": "a1",
+      "category": "mixed",
+      "order": 51,
+      "prerequisites": [
+        "reading-a1-02"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "reading-a1-04",
+      "title": "Lettura: Al ristorante",
+      "description": "Cuarta lectura: un diálogo en un restaurante italiano. Hacer una reserva, pedir platos y bebidas, fórmulas de cortesía. Vocabulario esencial para comer fuera en Italia.",
+      "level": "a1",
+      "category": "mixed",
+      "order": 52,
+      "prerequisites": [
+        "reading-a1-03"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "reading-a1-05",
+      "title": "Lettura: La mia città",
+      "description": "Quinta lectura A1. Una persona describe su ciudad: Florencia, sus atracciones, el barrio donde vive y por qué le gusta. Vocabulario de ciudad, lugares y piacere.",
+      "level": "a1",
+      "category": "mixed",
+      "order": 53,
+      "prerequisites": [
+        "reading-a1-04"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "conv-a1-01",
+      "title": "Conversazione: Presentarsi",
+      "description": "Tu primera conversación real en italiano. Cómo presentarse, preguntar nombres, origen y profesión. Las frases más importantes para el primer contacto en italiano.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 54,
+      "prerequisites": [],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "conv-a1-02",
+      "title": "Conversazione: Al bar",
+      "description": "El bar italiano es el corazón social de Italia. Aquí aprendés cómo pedir en el mostrador, ordenar café y otras bebidas, pagar y usar las fórmulas sociales del bar. Una de las experiencias más italianas.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 55,
+      "prerequisites": [
+        "conv-a1-01"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "conv-a1-03",
+      "title": "Conversazione: Chiedere informazioni",
+      "description": "Cómo pedir indicaciones y orientarse en una ciudad italiana. Dónde está la estación, el hotel, el museo. Expresiones para indicar dirección y para pedir que repitan más lento.",
+      "level": "a1",
+      "category": "grammar",
+      "order": 56,
+      "prerequisites": [
+        "conv-a1-02"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-a2-01",
+      "title": "Fare la spesa",
+      "description": "Vocabulario esencial para comprar en el supermercado y en tiendas. Aprenderás a moverte con soltura en cualquier comercio italiano.",
+      "level": "a2",
+      "category": "vocabulary",
+      "order": 57,
+      "prerequisites": [],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a2-02",
+      "title": "In viaggio",
+      "description": "Todo el vocabulario que necesitas para viajar en Italia: transporte, alojamiento, documentación y gestión de imprevistos.",
+      "level": "a2",
+      "category": "vocabulary",
+      "order": 58,
+      "prerequisites": [
+        "vocab-a2-01"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a2-03",
+      "title": "La salute",
+      "description": "Vocabulario para hablar de salud, ir al médico y a la farmacia. Esencial para cualquier situación de emergencia o malestar durante tu estancia en Italia.",
+      "level": "a2",
+      "category": "vocabulary",
+      "order": 59,
+      "prerequisites": [
+        "vocab-a2-02"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a2-04",
+      "title": "Emozioni e stati d'animo",
+      "description": "Vocabulario para expresar emociones y estados de ánimo en italiano. Te permitirá hablar de cómo te sientes y describir a los demás con matiz.",
+      "level": "a2",
+      "category": "vocabulary",
+      "order": 60,
+      "prerequisites": [
+        "vocab-a2-03"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a2-05",
+      "title": "Il lavoro e la scuola",
+      "description": "Vocabulario del mundo laboral y académico italiano. Desde el ufficio hasta l'università, aprenderás a describir tu vida profesional y educativa.",
+      "level": "a2",
+      "category": "vocabulary",
+      "order": 61,
+      "prerequisites": [
+        "vocab-a2-04"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a2-06",
+      "title": "La natura e il tempo libero",
+      "description": "Vocabulario para hablar de la naturaleza, el paisaje italiano y las actividades de tiempo libre. Italia tiene una geografía extraordinariamente variada.",
+      "level": "a2",
+      "category": "vocabulary",
+      "order": 62,
+      "prerequisites": [
+        "vocab-a2-05"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a2-07",
+      "title": "Lo sport",
+      "description": "El deporte es una pasión italiana, especialmente el calcio. Aprende a hablar de deportes, competiciones y actividad física.",
+      "level": "a2",
+      "category": "vocabulary",
+      "order": 63,
+      "prerequisites": [
+        "vocab-a2-06"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a2-08",
+      "title": "La tecnologia",
+      "description": "Vocabulario del mundo digital y tecnológico. Mucho vocabulario tecnológico es compartido con el español o el inglés — ¡una ventaja!",
+      "level": "a2",
+      "category": "vocabulary",
+      "order": 64,
+      "prerequisites": [
+        "vocab-a2-07"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a2-09",
+      "title": "Il ristorante",
+      "description": "Vocabulario avanzado para comer en restaurantes italianos. Aprende la estructura de la comida italiana y cómo pedir con naturalidad.",
+      "level": "a2",
+      "category": "vocabulary",
+      "order": 65,
+      "prerequisites": [
+        "vocab-a2-08"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a2-10",
+      "title": "I vestiti e la moda",
+      "description": "Italia es la cuna de la moda mundial. Aprende el vocabulario de la ropa, los complementos y las descripciones de estilo.",
+      "level": "a2",
+      "category": "vocabulary",
+      "order": 66,
+      "prerequisites": [
+        "vocab-a2-09"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a2-11",
+      "title": "La casa II — Mobili e faccende",
+      "description": "Vocabulario avanzado del hogar: muebles, habitaciones específicas y las tareas domésticas. Construye sobre lo que aprendiste en A1.",
+      "level": "a2",
+      "category": "vocabulary",
+      "order": 67,
+      "prerequisites": [
+        "vocab-a2-10"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a2-12",
+      "title": "I mezzi di trasporto",
+      "description": "Vocabulario detallado de los medios de transporte en Italia. Desde el tren de alta velocidad hasta la bicicleta, aprende a moverte como un italiano.",
+      "level": "a2",
+      "category": "vocabulary",
+      "order": 68,
+      "prerequisites": [
+        "vocab-a2-11"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a2-13",
+      "title": "Numeri grandi e percentuali",
+      "description": "Aprende a usar números grandes, fracciones y porcentajes en italiano. Esencial para entender precios, estadísticas y datos cotidianos.",
+      "level": "a2",
+      "category": "vocabulary",
+      "order": 69,
+      "prerequisites": [
+        "vocab-a2-12"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a2-14",
+      "title": "Verbi utili A2",
+      "description": "Verbos esenciales de nivel A2 que te permitirán expresar acciones cotidianas complejas. Presta atención al auxiliar que usan en el passato prossimo.",
+      "level": "a2",
+      "category": "vocabulary",
+      "order": 70,
+      "prerequisites": [
+        "vocab-a2-13"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-a2-15",
+      "title": "False friends italiano-spagnolo",
+      "description": "Los falsos amigos más peligrosos entre el italiano y el español. Estas palabras parecen similares pero significan cosas completamente distintas. ¡Aprenderlos evitará malentendidos embarazosos!",
+      "level": "a2",
+      "category": "vocabulary",
+      "order": 71,
+      "prerequisites": [
+        "vocab-a2-14"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "grammar-a2-01",
+      "title": "Passato prossimo con avere",
+      "description": "El tiempo pasado más importante del italiano. Similar al pretérito perfecto del español, pero se usa MUCHO más — equivale tanto al pretérito indefinido como al perfecto. Con 'avere' para la mayoría de los verbos transitivos.",
+      "level": "a2",
+      "category": "grammar",
+      "order": 72,
+      "prerequisites": [],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a2-02",
+      "title": "Passato prossimo con essere",
+      "description": "El aspecto más difícil del passato prossimo: elegir ESSERE en lugar de avere. Essere se usa con verbos de movimiento, cambio de estado y todos los reflexivos. El participio CONCUERDA con el sujeto — ¡esto no existe en español!",
+      "level": "a2",
+      "category": "grammar",
+      "order": 73,
+      "prerequisites": [
+        "grammar-a2-01"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a2-03",
+      "title": "Participio passato irregolari",
+      "description": "Los participios irregulares más importantes del italiano. La mayoría son verbos -ere. Memorizarlos es fundamental porque son los verbos más usados en el passato prossimo.",
+      "level": "a2",
+      "category": "grammar",
+      "order": 74,
+      "prerequisites": [
+        "grammar-a2-02"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "grammar-a2-04",
+      "title": "L'imperfetto — ero, avevo, facevo...",
+      "description": "El imperfetto italiano es el equivalente del pretérito imperfecto español (-aba, -ía). Se usa para hábitos pasados, descripciones y acciones en curso. ¡Muy buenas noticias: funciona casi igual que en español!",
+      "level": "a2",
+      "category": "grammar",
+      "order": 75,
+      "prerequisites": [
+        "grammar-a2-03"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a2-05",
+      "title": "Imperfetto vs Passato prossimo — la scelta giusta",
+      "description": "La distinción más importante del italiano A2: ¿cuándo usar el imperfetto y cuándo el passato prossimo? Funciona parecido al español (imperfecto vs indefinido) pero con matices propios.",
+      "level": "a2",
+      "category": "grammar",
+      "order": 76,
+      "prerequisites": [
+        "grammar-a2-04"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a2-06",
+      "title": "Il futuro semplice",
+      "description": "El futuro simple italiano funciona igual que el español (-é, -ás, -á). Se forma con el infinitivo (sin -e) + terminaciones. Hay irregolari importantes, pero son paralelos a los del español.",
+      "level": "a2",
+      "category": "grammar",
+      "order": 77,
+      "prerequisites": [
+        "grammar-a2-05"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a2-07",
+      "title": "Verbi riflessivi — mi chiamo, mi alzo...",
+      "description": "Los verbos reflexivos italianos funcionan igual que los españoles. El gran detalle: en el passato prossimo, TODOS usan ESSERE y el participio concuerda con el sujeto.",
+      "level": "a2",
+      "category": "grammar",
+      "order": 78,
+      "prerequisites": [
+        "grammar-a2-06"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a2-08",
+      "title": "Pronomi diretti — lo, la, li, le",
+      "description": "Los pronombres de objeto directo reemplazan al objeto directo. Son similares al español (lo, la, los, las) pero hay diferencias importantes, especialmente con el passato prossimo.",
+      "level": "a2",
+      "category": "grammar",
+      "order": 79,
+      "prerequisites": [
+        "grammar-a2-07"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a2-09",
+      "title": "Pronomi indiretti — mi, ti, gli, le",
+      "description": "Los pronombres de objeto indirecto responden a '¿a quién?'. La diferencia clave con el español: en italiano 'gli' = a él y 'le' = a ella. ¡No los confundas!",
+      "level": "a2",
+      "category": "grammar",
+      "order": 80,
+      "prerequisites": [
+        "grammar-a2-08"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a2-10",
+      "title": "Ci — luogo e funzione",
+      "description": "La partícula 'ci' tiene múltiples funciones en italiano. La más importante para A2: 'ci' de lugar (equivale a 'ahí/allí'). No tiene equivalente directo en español.",
+      "level": "a2",
+      "category": "grammar",
+      "order": 81,
+      "prerequisites": [
+        "grammar-a2-09"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a2-11",
+      "title": "Ne — partitivo e riferimento",
+      "description": "La partícula 'ne' es única del italiano y no tiene equivalente directo en español. Se usa principalmente para expresar cantidad de algo ya mencionado. Es obligatorio en italiano donde el español simplemente omite la referencia.",
+      "level": "a2",
+      "category": "grammar",
+      "order": 82,
+      "prerequisites": [
+        "grammar-a2-10"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a2-12",
+      "title": "Condizionale presente — vorrei, potrei, dovrei",
+      "description": "El condizionale presente es el equivalente del condicional español (-ría). Úsalo para peticiones corteses, deseos y consejos. Las tres formas más útiles: vorrei (quisiera), potrei (podría), dovrei (debería).",
+      "level": "a2",
+      "category": "grammar",
+      "order": 83,
+      "prerequisites": [
+        "grammar-a2-11"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a2-13",
+      "title": "I modali al passato — ho dovuto, ho potuto...",
+      "description": "Los verbos modales (dovere, potere, volere) en el passato prossimo. La regla principal para A2: usa AVERE con todos — es la forma más segura y natural.",
+      "level": "a2",
+      "category": "grammar",
+      "order": 84,
+      "prerequisites": [
+        "grammar-a2-12"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a2-14",
+      "title": "Comparativi — più...di, meno...di, tanto...quanto",
+      "description": "Las comparaciones en italiano. Más fácil que en otros idiomas porque son muy similares al español. Las tres estructuras: superioridad (più...di), inferioridad (meno...di) e igualdad (tanto...quanto / come).",
+      "level": "a2",
+      "category": "grammar",
+      "order": 85,
+      "prerequisites": [
+        "grammar-a2-13"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a2-15",
+      "title": "Superlativo relativo e assoluto (-issimo)",
+      "description": "El superlativo en italiano tiene dos formas: relativo (el más de un grupo) y absoluto (muy/muchísimo, sin comparación). El superlativo absoluto en -issimo es muy expresivo y típicamente italiano.",
+      "level": "a2",
+      "category": "grammar",
+      "order": 86,
+      "prerequisites": [
+        "grammar-a2-14"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a2-16",
+      "title": "Avverbi in -mente — velocemente, facilmente...",
+      "description": "Los adverbios en -mente son el equivalente italiano de los adverbios en -mente del español. La formación es casi idéntica: adjetivo femenino + -mente. Una transferencia casi perfecta.",
+      "level": "a2",
+      "category": "grammar",
+      "order": 87,
+      "prerequisites": [
+        "grammar-a2-15"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a2-17",
+      "title": "Pronomi tonici — me, te, lui, lei, noi, voi, loro",
+      "description": "Los pronombres tónicos (o disjuntivos) son los pronombres de sujeto usados después de preposiciones o para dar énfasis. Muy similares al español (mí, ti, él, ella, nosotros...) con pequeñas diferencias.",
+      "level": "a2",
+      "category": "grammar",
+      "order": 88,
+      "prerequisites": [
+        "grammar-a2-16"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a2-18",
+      "title": "Imperativo formale e informale — parla! / parli!",
+      "description": "El imperativo italiano para dar órdenes, instrucciones y recomendaciones. Tiene formas informales (tú) y formales (usted/Lei). Para hispanohablantes: el imperativo informal es idéntico al presente.",
+      "level": "a2",
+      "category": "grammar",
+      "order": 89,
+      "prerequisites": [
+        "grammar-a2-17"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a2-19",
+      "title": "Stare + gerundio — sto mangiando (presente continuo A2)",
+      "description": "Revisión y profundización del presente continuo con stare + gerundio. A nivel A2, se amplía con más verbos irregulares en el gerundio, verbos reflexivos y contextos de uso más variados.",
+      "level": "a2",
+      "category": "grammar",
+      "order": 90,
+      "prerequisites": [
+        "grammar-a2-18"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a2-20",
+      "title": "Da + tempo — Vivo qui da tre anni",
+      "description": "El uso de 'da' para expresar duración hasta el presente. Equivale al español 'desde hace' o 'hace X tiempo que'. Para hispanohablantes: la estructura es diferente — en italiano se usa el PRESENTE, no el pasado.",
+      "level": "a2",
+      "category": "grammar",
+      "order": 91,
+      "prerequisites": [
+        "grammar-a2-19"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a2-21",
+      "title": "Prima di / Dopo di + infinito — antes/después de hacer algo",
+      "description": "Cómo expresar secuencia de acciones en italiano. Prima di + infinito = antes de hacer algo. Dopo di/aver/essere + participio = después de haber hecho algo. Estructuras muy útiles para narrar.",
+      "level": "a2",
+      "category": "grammar",
+      "order": 92,
+      "prerequisites": [
+        "grammar-a2-20"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a2-22",
+      "title": "Anche, neanche, ancora, già — también/tampoco/todavía/ya",
+      "description": "Partículas muy frecuentes en el italiano cotidiano. Esenciales para estar de acuerdo, discrepar, preguntar sobre situaciones presentes y expresar expectativas. Similares al español pero con algunas diferencias.",
+      "level": "a2",
+      "category": "grammar",
+      "order": 93,
+      "prerequisites": [
+        "grammar-a2-21"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-a2-23",
+      "title": "Bello e buono — forme speciali: bel, bell', bello, bei, begli...",
+      "description": "Los adjetivos 'bello' (hermoso/bello) y 'buono' (bueno) tienen formas especiales cuando preceden al sustantivo, similares al artículo. Una de las características más típicas del italiano.",
+      "level": "a2",
+      "category": "grammar",
+      "order": 94,
+      "prerequisites": [
+        "grammar-a2-22"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "reading-a2-01",
+      "title": "Lettura: Un weekend a Firenze",
+      "description": "Primera lectura A2. Una persona narra un fin de semana en Florencia usando el passato prossimo. Vocabulario de viajes, museos y gastronomía toscana. Narración en pasado.",
+      "level": "a2",
+      "category": "mixed",
+      "order": 95,
+      "prerequisites": [],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "reading-a2-02",
+      "title": "Lettura: Il mio lavoro",
+      "description": "Segunda lectura A2. Valentina describe su trabajo como diseñadora gráfica en Milán: horarios, colegas, rutinas laborales. Presente de indicativo, expresiones de trabajo y 'da + tiempo'.",
+      "level": "a2",
+      "category": "mixed",
+      "order": 96,
+      "prerequisites": [
+        "reading-a2-01"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "reading-a2-03",
+      "title": "Lettura: Una ricetta italiana — pasta al pomodoro",
+      "description": "Tercera lectura A2. Una receta italiana en forma de instrucciones: ingredientes y pasos para hacer pasta al pomodoro. Imperativo plural, vocabulario de cocina y secuencia de acciones.",
+      "level": "a2",
+      "category": "mixed",
+      "order": 97,
+      "prerequisites": [
+        "reading-a2-02"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "reading-a2-04",
+      "title": "Lettura: Cerco un appartamento",
+      "description": "Cuarta lectura A2. Un anuncio de búsqueda de apartamento y el diálogo para concertar una visita. Vocabulario de vivienda, negociación, preguntas prácticas sobre el alquiler.",
+      "level": "a2",
+      "category": "mixed",
+      "order": 98,
+      "prerequisites": [
+        "reading-a2-03"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "reading-a2-05",
+      "title": "Lettura: L'estate scorsa",
+      "description": "Quinta lectura A2. Una persona narra sus vacaciones de verano pasado en Cerdeña. Combina passato prossimo (acciones completas) e imperfetto (hábitos y descripciones). Narración de vacaciones.",
+      "level": "a2",
+      "category": "mixed",
+      "order": 99,
+      "prerequisites": [
+        "reading-a2-04"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "conv-a2-01",
+      "title": "Conversazione: Al supermercato",
+      "description": "Hacer las compras en el supermercado italiano. Pedir información sobre productos, preguntar precios, ubicación de secciones y hablar con la cajera. Vocabulario de comida y cantidades.",
+      "level": "a2",
+      "category": "grammar",
+      "order": 100,
+      "prerequisites": [],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "conv-a2-02",
+      "title": "Conversazione: Prenotare un albergo",
+      "description": "Reservar una habitación de hotel por teléfono o en persona. Preguntar disponibilidad, tipos de habitación, servicios incluidos y confirmar la reserva. Vocabulario de alojamiento italiano.",
+      "level": "a2",
+      "category": "grammar",
+      "order": 101,
+      "prerequisites": [
+        "conv-a2-01"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "conv-a2-03",
+      "title": "Conversazione: Dal medico",
+      "description": "En el consultorio médico italiano. Describir síntomas, hacer una cita, entender las instrucciones del médico. Vocabulario del cuerpo humano y expresiones para describir cómo uno se siente.",
+      "level": "a2",
+      "category": "grammar",
+      "order": 102,
+      "prerequisites": [
+        "conv-a2-02"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-b1-01",
+      "title": "La società",
+      "description": "Vocabulario de la vida cívica y la sociedad italiana. Estas palabras te permiten hablar de política, leyes y convivencia ciudadana.",
+      "level": "b1",
+      "category": "vocabulary",
+      "order": 103,
+      "prerequisites": [],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-b1-02",
+      "title": "I media e la comunicazione",
+      "description": "El vocabulario de los medios de comunicación y la era digital. Esencial para hablar de noticias, redes sociales y opiniones.",
+      "level": "b1",
+      "category": "vocabulary",
+      "order": 104,
+      "prerequisites": [
+        "vocab-b1-01"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-b1-03",
+      "title": "Il mondo del lavoro",
+      "description": "Vocabulario avanzado del trabajo: contratos, salarios, sindicatos y la entrevista laboral. Para hablar de tu carrera en italiano.",
+      "level": "b1",
+      "category": "vocabulary",
+      "order": 105,
+      "prerequisites": [
+        "vocab-b1-02"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-b1-04",
+      "title": "L'istruzione",
+      "description": "El sistema educativo y el vocabulario académico en italiano. Desde la universidad hasta la investigación.",
+      "level": "b1",
+      "category": "vocabulary",
+      "order": 106,
+      "prerequisites": [
+        "vocab-b1-03"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-b1-05",
+      "title": "Arte e cultura",
+      "description": "El mundo del arte, la música, el cine y la literatura en italiano. La cultura es el corazón de Italia.",
+      "level": "b1",
+      "category": "vocabulary",
+      "order": 107,
+      "prerequisites": [
+        "vocab-b1-04"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-b1-06",
+      "title": "L'economia",
+      "description": "Los fundamentos del vocabulario económico en italiano: mercados, comercio, banca e inflación.",
+      "level": "b1",
+      "category": "vocabulary",
+      "order": 108,
+      "prerequisites": [
+        "vocab-b1-05"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-b1-07",
+      "title": "La salute avanzata",
+      "description": "Vocabulario de salud para el B1: sistema sanitario, prevención, diagnósticos y bienestar. Para hablar con médicos y entender el sistema de salud italiano.",
+      "level": "b1",
+      "category": "vocabulary",
+      "order": 109,
+      "prerequisites": [
+        "vocab-b1-06"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-b1-08",
+      "title": "Concetti astratti",
+      "description": "El vocabulario de los conceptos abstractos: ideas, causas, efectos, cambios. Fundamental para el pensamiento crítico en italiano.",
+      "level": "b1",
+      "category": "vocabulary",
+      "order": 110,
+      "prerequisites": [
+        "vocab-b1-07"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-b1-09",
+      "title": "Verbi utili B1",
+      "description": "Los verbos más útiles del B1 italiano: expresan acciones complejas de argumentación, negociación y cambio. Dominarlos mejora dramáticamente tu expresión oral y escrita.",
+      "level": "b1",
+      "category": "vocabulary",
+      "order": 111,
+      "prerequisites": [
+        "vocab-b1-08"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-b1-10",
+      "title": "Falsi amici avanzati e parole insidiose",
+      "description": "Las trampas léxicas más peligrosas del B1: falsos amigos avanzados y palabras que parecen iguales al español pero tienen significados distintos. ¡Esta lección puede salvarte de malentendidos embarazosos!",
+      "level": "b1",
+      "category": "vocabulary",
+      "order": 112,
+      "prerequisites": [
+        "vocab-b1-09"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "grammar-b1-01",
+      "title": "Trapassato prossimo",
+      "description": "El 'había hecho' italiano: para narrar secuencias de eventos en el pasado. Más fácil de lo que parece para hispanohablantes.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 113,
+      "prerequisites": [],
+      "estimatedMinutes": 17,
+      "newItemCount": 6
+    },
+    {
+      "id": "grammar-b1-02",
+      "title": "Futuro anteriore",
+      "description": "El 'habré hecho' italiano: para el futuro perfecto y para expresar suposiciones sobre el pasado.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 114,
+      "prerequisites": [
+        "grammar-b1-01"
+      ],
+      "estimatedMinutes": 17,
+      "newItemCount": 6
+    },
+    {
+      "id": "grammar-b1-03",
+      "title": "Condizionale passato",
+      "description": "El 'habría hecho' italiano: para hipótesis sobre el pasado y el futuro en el pasado (discurso indirecto).",
+      "level": "b1",
+      "category": "grammar",
+      "order": 115,
+      "prerequisites": [
+        "grammar-b1-02"
+      ],
+      "estimatedMinutes": 17,
+      "newItemCount": 6
+    },
+    {
+      "id": "grammar-b1-04",
+      "title": "Passivo con essere",
+      "description": "La voz pasiva con essere en italiano: equivalente a la pasiva con 'ser' en español. Más regular de lo que parece.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 116,
+      "prerequisites": [
+        "grammar-b1-03"
+      ],
+      "estimatedMinutes": 17,
+      "newItemCount": 6
+    },
+    {
+      "id": "grammar-b1-05",
+      "title": "Passivo con venire — il processo",
+      "description": "La segunda forma de pasiva italiana: venire + participio. Expresa procesos y acciones en curso, a diferencia de essere que puede describir estados.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 117,
+      "prerequisites": [
+        "grammar-b1-04"
+      ],
+      "estimatedMinutes": 17,
+      "newItemCount": 6
+    },
+    {
+      "id": "grammar-b1-06",
+      "title": "Si passivante",
+      "description": "El 'si passivante' italiano: equivalente al 'se' pasivo español. La clave está en la concordancia verbal con el sujeto.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 118,
+      "prerequisites": [
+        "grammar-b1-05"
+      ],
+      "estimatedMinutes": 17,
+      "newItemCount": 6
+    },
+    {
+      "id": "grammar-b1-07",
+      "title": "Si impersonale",
+      "description": "El 'si impersonale' italiano: para hacer afirmaciones generales. Reglas especiales con adjetivos y verbos reflexivos.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 119,
+      "prerequisites": [
+        "grammar-b1-06"
+      ],
+      "estimatedMinutes": 17,
+      "newItemCount": 6
+    },
+    {
+      "id": "grammar-b1-08",
+      "title": "Congiuntivo presente: Forme",
+      "description": "Las formas del subjuntivo italiano. Una de las estructuras más importantes del B1. Las formas son sorprendentes pero tienen lógica propia.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 120,
+      "prerequisites": [
+        "grammar-b1-07"
+      ],
+      "estimatedMinutes": 19,
+      "newItemCount": 7
+    },
+    {
+      "id": "grammar-b1-09",
+      "title": "Quando si usa il congiuntivo",
+      "description": "Los contextos que desencadenan el congiuntivo en italiano. Diferencias importantes con el español — los verbos de 'pensar/creer' son los más sorprendentes.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 121,
+      "prerequisites": [
+        "grammar-b1-08"
+      ],
+      "estimatedMinutes": 19,
+      "newItemCount": 7
+    },
+    {
+      "id": "grammar-b1-10",
+      "title": "Congiuntivo passato",
+      "description": "El subjuntivo pasado italiano: para expresar acciones pasadas en oraciones subordinadas que requieren congiuntivo.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 122,
+      "prerequisites": [
+        "grammar-b1-09"
+      ],
+      "estimatedMinutes": 17,
+      "newItemCount": 6
+    },
+    {
+      "id": "grammar-b1-11",
+      "title": "Gerundio — modo e tempo",
+      "description": "El gerundio italiano: más restringido que el español pero muy útil para expresar manera, causa y acciones simultáneas.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 123,
+      "prerequisites": [
+        "grammar-b1-10"
+      ],
+      "estimatedMinutes": 17,
+      "newItemCount": 6
+    },
+    {
+      "id": "grammar-b1-12",
+      "title": "Costruzioni con l'infinito",
+      "description": "Las construcciones preposicionales con el infinitivo en italiano: prima di, dopo aver, senza, invece di, per. Fundamentales para hablar con fluidez.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 124,
+      "prerequisites": [
+        "grammar-b1-11"
+      ],
+      "estimatedMinutes": 17,
+      "newItemCount": 6
+    },
+    {
+      "id": "grammar-b1-13",
+      "title": "Pronomi relativi: che, cui, il quale",
+      "description": "Los pronombres relativos en italiano: que, quien, cuyo, donde. Sistema diferente al español con algunas trampas.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 125,
+      "prerequisites": [
+        "grammar-b1-12"
+      ],
+      "estimatedMinutes": 17,
+      "newItemCount": 6
+    },
+    {
+      "id": "grammar-b1-14",
+      "title": "Pronomi combinati: me lo, te la, glielo...",
+      "description": "Los pronombres dobles en italiano: cuando un pronombre de objeto indirecto y uno de objeto directo se combinan. La forma 'glie-' es la más diferente.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 126,
+      "prerequisites": [
+        "grammar-b1-13"
+      ],
+      "estimatedMinutes": 17,
+      "newItemCount": 6
+    },
+    {
+      "id": "grammar-b1-15",
+      "title": "Discorso indiretto — trasformazioni",
+      "description": "El estilo indirecto en italiano: cómo transformar lo que alguien dijo. Las reglas de concordancia de tiempos son similares al español con una diferencia clave en el futuro.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 127,
+      "prerequisites": [
+        "grammar-b1-14"
+      ],
+      "estimatedMinutes": 17,
+      "newItemCount": 6
+    },
+    {
+      "id": "grammar-b1-16",
+      "title": "Periodo ipotetico tipo 1 — reale",
+      "description": "La hipótesis real en italiano: para condiciones posibles o probables en el presente y futuro. La más fácil de las tres.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 128,
+      "prerequisites": [
+        "grammar-b1-15"
+      ],
+      "estimatedMinutes": 17,
+      "newItemCount": 6
+    },
+    {
+      "id": "grammar-b1-17",
+      "title": "Periodo ipotetico tipo 2: Se venissi, mangerei",
+      "description": "El período hipotético de posibilidad o irrealidad en el presente: SE + congiuntivo imperfetto + condizionale presente. Equivale al español 'Si vinieras, comería'.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 129,
+      "prerequisites": [
+        "grammar-b1-16"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-b1-18",
+      "title": "Connettivi di causa e concessione",
+      "description": "Los conectores de causa (perché, poiché, siccome) y concesión (sebbene, benché, nonostante). Diferencias de posición, registro y modo verbal.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 130,
+      "prerequisites": [
+        "grammar-b1-17"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-b1-19",
+      "title": "Connettivi di fine e conseguenza",
+      "description": "Conectores de finalidad (affinché, per, in modo da) y de consecuencia (quindi, perciò, pertanto, dunque). Diferencias de registro y construcción.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 131,
+      "prerequisites": [
+        "grammar-b1-18"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-b1-20",
+      "title": "Molto/poco/troppo/abbastanza come modificatori",
+      "description": "Molto, poco, troppo y abbastanza como adjetivos (concordados), adverbios (invariables) y pronombres. El error más frecuente para hispanohablantes: concordar quando non serve.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 132,
+      "prerequisites": [
+        "grammar-b1-19"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-b1-21",
+      "title": "Stare per + infinito",
+      "description": "La construcción 'stare per + infinitivo' para expresar inminencia: estar a punto de hacer algo. Muy frecuente en el italiano cotidiano y narrativo.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 133,
+      "prerequisites": [
+        "grammar-b1-20"
+      ],
+      "estimatedMinutes": 19,
+      "newItemCount": 7
+    },
+    {
+      "id": "grammar-b1-22",
+      "title": "Verbi pronominali: farcela, andarsene, cavarsela",
+      "description": "Los verbos pronominales complejos del italiano: farcela (lograrlo), andarsene (irse), cavarsela (arreglárselas), volerci (necesitar/tardar), metterci (tardar).",
+      "level": "b1",
+      "category": "grammar",
+      "order": 134,
+      "prerequisites": [
+        "grammar-b1-21"
+      ],
+      "estimatedMinutes": 19,
+      "newItemCount": 7
+    },
+    {
+      "id": "grammar-b1-23",
+      "title": "Registro formale e informale",
+      "description": "El sistema de cortesía italiano: Lei vs tu, vocabulario formal vs informal, diferencias de registro escrito y oral. Cómo adaptar el italiano al contexto.",
+      "level": "b1",
+      "category": "grammar",
+      "order": 135,
+      "prerequisites": [
+        "grammar-b1-22"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "reading-b1-01",
+      "title": "Lettura: Un italiano nel mondo",
+      "description": "Texto B1 sobre la experiencia de un italiano que vive en el extranjero. Practicás conectores de concesión, vocabulario de identidad cultural y reflexión sobre la emigración.",
+      "level": "b1",
+      "category": "mixed",
+      "order": 136,
+      "prerequisites": [],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "reading-b1-02",
+      "title": "Lettura: Gastronomia regionale italiana",
+      "description": "Texto B1 sobre las cocinas regionales de Italia. Practicás vocabulario gastronómico, uso de conectores y la estructura argumentativa del texto.",
+      "level": "b1",
+      "category": "mixed",
+      "order": 137,
+      "prerequisites": [
+        "reading-b1-01"
+      ],
+      "estimatedMinutes": 19,
+      "newItemCount": 7
+    },
+    {
+      "id": "reading-b1-03",
+      "title": "Lettura: Roma — storia e modernità",
+      "description": "Texto B1 sobre Roma como ciudad de paradojas: historia milenaria y problemas modernos. Practicás vocabulario urbano, conectores adversativos y el uso del condizionale.",
+      "level": "b1",
+      "category": "mixed",
+      "order": 138,
+      "prerequisites": [
+        "reading-b1-02"
+      ],
+      "estimatedMinutes": 19,
+      "newItemCount": 7
+    },
+    {
+      "id": "reading-b1-04",
+      "title": "Lettura: Il lavoro cambia",
+      "description": "Texto B1 sobre los cambios en el mundo laboral italiano: smart working, quiet quitting y fuga di cervelli. Vocabulario sociológico y de actualidad.",
+      "level": "b1",
+      "category": "mixed",
+      "order": 139,
+      "prerequisites": [
+        "reading-b1-03"
+      ],
+      "estimatedMinutes": 19,
+      "newItemCount": 7
+    },
+    {
+      "id": "reading-b1-05",
+      "title": "Lettura: Lo zaino dimenticato",
+      "description": "Texto narrativo B1 con tiempos verbales del pasado (imperfetto, passato prossimo, trapassato prossimo). Una historia de una mañana caótica que termina bien gracias a una hermana.",
+      "level": "b1",
+      "category": "mixed",
+      "order": 140,
+      "prerequisites": [
+        "reading-b1-04"
+      ],
+      "estimatedMinutes": 19,
+      "newItemCount": 7
+    },
+    {
+      "id": "reading-b1-06",
+      "title": "Lettura: Il sistema scolastico italiano",
+      "description": "Texto B1 sobre la estructura del sistema educativo italiano: ciclos, exámenes y particularidades. Vocabulario institucional y comparación con el sistema hispanohablante.",
+      "level": "b1",
+      "category": "mixed",
+      "order": 141,
+      "prerequisites": [
+        "reading-b1-05"
+      ],
+      "estimatedMinutes": 19,
+      "newItemCount": 7
+    },
+    {
+      "id": "conv-b1-01",
+      "title": "Conversazione: Esprimere un'opinione",
+      "description": "Cómo expresar opiniones, estar de acuerdo o en desacuerdo y construir argumentos en italiano (registros formal e informal). Fórmulas clave para el debate B1.",
+      "level": "b1",
+      "category": "mixed",
+      "order": 142,
+      "prerequisites": [],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "conv-b1-02",
+      "title": "Conversazione: In banca e in ufficio",
+      "description": "Lenguaje formal para trámites en banco, correo, oficina pública y otros contextos institucionales italianos. Fórmulas de cortesía esenciales.",
+      "level": "b1",
+      "category": "mixed",
+      "order": 143,
+      "prerequisites": [
+        "conv-b1-01"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "conv-b1-03",
+      "title": "Conversazione: Fare un reclamo",
+      "description": "Cómo hacer un reclamo formal en italiano: en una tienda, restaurante, hotel u oficina de servicios. Fórmulas para expresar insatisfacción con cortesía pero firmeza.",
+      "level": "b1",
+      "category": "mixed",
+      "order": 144,
+      "prerequisites": [
+        "conv-b1-02"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-b2-01",
+      "title": "Linguaggio accademico e intellettuale",
+      "description": "Vocabulario esencial para textos académicos, ensayos y debate intelectual. Estas palabras te permitirán leer y escribir en contextos universitarios y culturales.",
+      "level": "b2",
+      "category": "vocabulary",
+      "order": 145,
+      "prerequisites": [],
+      "estimatedMinutes": 30,
+      "newItemCount": 20
+    },
+    {
+      "id": "vocab-b2-02",
+      "title": "Diritto e amministrazione",
+      "description": "Vocabulario jurídico y administrativo italiano. Esencial para entender documentos legales, noticias sobre política y burocracia italiana.",
+      "level": "b2",
+      "category": "vocabulary",
+      "order": 146,
+      "prerequisites": [
+        "vocab-b2-01"
+      ],
+      "estimatedMinutes": 30,
+      "newItemCount": 15
+    },
+    {
+      "id": "vocab-b2-03",
+      "title": "Economia e finanza",
+      "description": "El vocabulario económico y financiero: bilanci, investimenti, concorrenza. Imprescindible para leer el Sole 24 Ore y entender el mundo de los negocios en Italia.",
+      "level": "b2",
+      "category": "vocabulary",
+      "order": 147,
+      "prerequisites": [
+        "vocab-b2-02"
+      ],
+      "estimatedMinutes": 30,
+      "newItemCount": 15
+    },
+    {
+      "id": "vocab-b2-04",
+      "title": "Scienza e tecnologia",
+      "description": "Vocabulario científico-tecnológico y medioambiental. Para entender artículos de ciencia, innovación y sostenibilidad en italiano.",
+      "level": "b2",
+      "category": "vocabulary",
+      "order": 148,
+      "prerequisites": [
+        "vocab-b2-03"
+      ],
+      "estimatedMinutes": 30,
+      "newItemCount": 15
+    },
+    {
+      "id": "vocab-b2-05",
+      "title": "Discorso politico e sociale",
+      "description": "Vocabulario para el debate político y social contemporáneo: democracia, globalización, desigualdad y reforma. Esencial para seguir la actualidad italiana.",
+      "level": "b2",
+      "category": "vocabulary",
+      "order": 149,
+      "prerequisites": [
+        "vocab-b2-04"
+      ],
+      "estimatedMinutes": 30,
+      "newItemCount": 15
+    },
+    {
+      "id": "vocab-b2-06",
+      "title": "Letteratura e estetica",
+      "description": "Vocabulario literario y estético para hablar sobre obras, autores y movimientos culturales. Imprescindible para la cultura italiana.",
+      "level": "b2",
+      "category": "vocabulary",
+      "order": 150,
+      "prerequisites": [
+        "vocab-b2-05"
+      ],
+      "estimatedMinutes": 29,
+      "newItemCount": 12
+    },
+    {
+      "id": "vocab-b2-07",
+      "title": "Psicologia e comportamento",
+      "description": "Vocabulario psicológico y conductual. Para hablar de emociones, comportamientos y bienestar mental con precisión en italiano.",
+      "level": "b2",
+      "category": "vocabulary",
+      "order": 151,
+      "prerequisites": [
+        "vocab-b2-06"
+      ],
+      "estimatedMinutes": 30,
+      "newItemCount": 15
+    },
+    {
+      "id": "vocab-b2-08",
+      "title": "Verbi ed espressioni sofisticate",
+      "description": "Verbos matizados y expresiones formales que elevan el registro. Esenciales para sonar natural en contextos profesionales, académicos y formales.",
+      "level": "b2",
+      "category": "vocabulary",
+      "order": 152,
+      "prerequisites": [
+        "vocab-b2-07"
+      ],
+      "estimatedMinutes": 30,
+      "newItemCount": 15
+    },
+    {
+      "id": "vocab-b2-09",
+      "title": "Connettivi e espressioni idiomatiche B2",
+      "description": "Los conectores formales y las expresiones idiomáticas que hacen que tu italiano suene natural y sofisticado. Esenciales para textos escritos y conversación avanzada.",
+      "level": "b2",
+      "category": "vocabulary",
+      "order": 153,
+      "prerequisites": [
+        "vocab-b2-08"
+      ],
+      "estimatedMinutes": 30,
+      "newItemCount": 15
+    },
+    {
+      "id": "grammar-b2-01",
+      "title": "Congiuntivo imperfetto — forme e uso",
+      "description": "El subjuntivo imperfecto italiano: indispensable para hipótesis, deseos y subordinadas con verbo principal en pasado o condicional. Similar al imperfecto de subjuntivo español pero con triggers específicos.",
+      "level": "b2",
+      "category": "grammar",
+      "order": 154,
+      "prerequisites": [],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "grammar-b2-02",
+      "title": "Congiuntivo trapassato",
+      "description": "El pluscuamperfecto de subjuntivo: avesse mangiato, fosse venuto. Para acciones anteriores al verbo principal en pasado o condicional pasado. Esencial para el periodo ipotetico tipo 3.",
+      "level": "b2",
+      "category": "grammar",
+      "order": 155,
+      "prerequisites": [
+        "grammar-b2-01"
+      ],
+      "estimatedMinutes": 19,
+      "newItemCount": 7
+    },
+    {
+      "id": "grammar-b2-03",
+      "title": "Periodo ipotetico tipo 3 — l'irrealtà del passato",
+      "description": "El período hipotético de la irrealidad: 'Si hubiera estudia­do, habría aprobado.' Hipótesis sobre el pasado que ya no puede cumplirse. Estructura, variantes y uso real.",
+      "level": "b2",
+      "category": "grammar",
+      "order": 156,
+      "prerequisites": [
+        "grammar-b2-02"
+      ],
+      "estimatedMinutes": 19,
+      "newItemCount": 7
+    },
+    {
+      "id": "grammar-b2-04",
+      "title": "Periodi ipotetici misti",
+      "description": "Hipótesis que mezclan tiempos: condición en el pasado con consecuencia en el presente, o al revés. Muy frecuentes en conversación sobre vida y decisiones.",
+      "level": "b2",
+      "category": "grammar",
+      "order": 157,
+      "prerequisites": [
+        "grammar-b2-03"
+      ],
+      "estimatedMinutes": 17,
+      "newItemCount": 6
+    },
+    {
+      "id": "grammar-b2-05",
+      "title": "Concordanza dei tempi nel congiuntivo",
+      "description": "La concordancia de tiempos en el subjuntivo: qué tiempo de congiuntivo usar según el tiempo del verbo principal. Una tabla sistemática con ejemplos de cada combinación.",
+      "level": "b2",
+      "category": "grammar",
+      "order": 158,
+      "prerequisites": [
+        "grammar-b2-04"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-b2-06",
+      "title": "Discorso indiretto avanzato",
+      "description": "El estilo indirecto avanzado: transformación sistemática de tiempos verbales, pronombres y adverbios. El cambio de perspectiva al reportar lo que alguien dijo.",
+      "level": "b2",
+      "category": "grammar",
+      "order": 159,
+      "prerequisites": [
+        "grammar-b2-05"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-b2-07",
+      "title": "Passato remoto — forme",
+      "description": "Las formas del passato remoto: el tiempo del pasado narrativo, histórico y literario. Verbos regulares e irregolari fundamentales con sus patrones.",
+      "level": "b2",
+      "category": "grammar",
+      "order": 160,
+      "prerequisites": [
+        "grammar-b2-06"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-b2-08",
+      "title": "Passato remoto — forme",
+      "description": "Las formas del passato remoto: el tiempo narrativo del pasado, de la historia y la literatura italiana. Irregolari fundamentales con patrones reconocibles.",
+      "level": "b2",
+      "category": "grammar",
+      "order": 161,
+      "prerequisites": [
+        "grammar-b2-07"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-b2-09",
+      "title": "Passato remoto vs Passato prossimo",
+      "description": "La diferencia temporal y regional entre passato remoto y passato prossimo: una de las características más llamativas del italiano. Cómo navegar la variación Norte/Sur.",
+      "level": "b2",
+      "category": "grammar",
+      "order": 162,
+      "prerequisites": [
+        "grammar-b2-08"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-b2-10",
+      "title": "Proposizione participiale assoluta",
+      "description": "El participio absoluto italiano: construcciones participiales que equivalen a cláusulas temporales, causales o concesivas. Características de la lengua escrita formal y periodística.",
+      "level": "b2",
+      "category": "grammar",
+      "order": 163,
+      "prerequisites": [
+        "grammar-b2-09"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-b2-11",
+      "title": "Gerundio avanzato con pronomi clitici",
+      "description": "El gerundio italiano con pronombres clíticos enclíticos (vedendola, scrivendogli, parlandone), sus usos modales, causales, temporales, condicionales y concessivos con 'pur'.",
+      "level": "b2",
+      "category": "grammar",
+      "order": 164,
+      "prerequisites": [
+        "grammar-b2-10"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-b2-12",
+      "title": "Nominalizzazione dell'infinito",
+      "description": "El infinitivo sustantivado (il mangiare, il decidere) y la nominalizzazione con sufijos (-zione, -mento, -tura). Características del estilo nominal en el italiano formal y periodístico.",
+      "level": "b2",
+      "category": "grammar",
+      "order": 165,
+      "prerequisites": [
+        "grammar-b2-11"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-b2-13",
+      "title": "Suffissi alterativi: diminutivi, accrescitivi, peggiorativi",
+      "description": "Los sufijos modificadores del italiano: -ino/-etto (diminutivos), -one (aumentativos), -accio/-astro (peyorativos). Sus matices afectivos, connotativos y casos de lexicalización.",
+      "level": "b2",
+      "category": "grammar",
+      "order": 166,
+      "prerequisites": [
+        "grammar-b2-12"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-b2-14",
+      "title": "Costruzioni impersonali avanzate + congiuntivo",
+      "description": "Las construcciones impersonales que exigen congiuntivo: è necessario che, occorre che, bisogna che, è opportuno che, è probabile che. Con infinitivo cuando el sujeto es genérico.",
+      "level": "b2",
+      "category": "grammar",
+      "order": 167,
+      "prerequisites": [
+        "grammar-b2-13"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-b2-15",
+      "title": "Ne avanzato — accordo del participio",
+      "description": "Los usos avanzados del pronombre 'ne' y la concordancia obligatoria del participio pasado cuando 'ne' tiene valor partitivo como complemento directo.",
+      "level": "b2",
+      "category": "grammar",
+      "order": 168,
+      "prerequisites": [
+        "grammar-b2-14"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-b2-16",
+      "title": "Lingua scritta formale e burocratica",
+      "description": "El registro escrito formal del italiano: construcciones burocráticas, administrativas y académicas. Cómo leer y producir cartas formales, emails institucionales y documentos oficiales.",
+      "level": "b2",
+      "category": "grammar",
+      "order": 169,
+      "prerequisites": [
+        "grammar-b2-15"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "reading-b2-01",
+      "title": "Lettura: La cucina italiana nel mondo",
+      "description": "Texto B2 argumentativo sobre la difusión global de la cocina italiana: autenticidad vs adaptación, reconocimiento UNESCO y la dimensión cultural del cibo.",
+      "level": "b2",
+      "category": "mixed",
+      "order": 170,
+      "prerequisites": [],
+      "estimatedMinutes": 19,
+      "newItemCount": 7
+    },
+    {
+      "id": "reading-b2-02",
+      "title": "Lettura: Il divario Nord-Sud",
+      "description": "Texto B2 sobre la brecha socioeconómica entre el Norte y el Sur de Italia: causas históricas, datos económicos y la dimensión cultural del problema.",
+      "level": "b2",
+      "category": "mixed",
+      "order": 171,
+      "prerequisites": [
+        "reading-b2-01"
+      ],
+      "estimatedMinutes": 19,
+      "newItemCount": 7
+    },
+    {
+      "id": "reading-b2-03",
+      "title": "Lettura: Dante e la lingua italiana",
+      "description": "Texto B2 sobre Dante Alighieri como padre de la lengua italiana: el volgare fiorentino, la Divina Commedia y la herencia lingüística en el italiano moderno.",
+      "level": "b2",
+      "category": "mixed",
+      "order": 172,
+      "prerequisites": [
+        "reading-b2-02"
+      ],
+      "estimatedMinutes": 19,
+      "newItemCount": 7
+    },
+    {
+      "id": "reading-b2-04",
+      "title": "Lettura: Italiani nel Belpaese digitale",
+      "description": "Texto B2 sobre la paradoja digital italiana: uso masivo de redes sociales pero retraso estructural en infraestructura, competencias y digitalización empresarial.",
+      "level": "b2",
+      "category": "mixed",
+      "order": 173,
+      "prerequisites": [
+        "reading-b2-03"
+      ],
+      "estimatedMinutes": 19,
+      "newItemCount": 7
+    },
+    {
+      "id": "reading-b2-05",
+      "title": "Lettura letteraria: La lettera",
+      "description": "Texto narrativo literario B2: una mujer encuentra una carta no enviada de su pasado. Practicás el periodo ipotetico tipo 3, el uso del trapassato en narrativa literaria y el simbolismo.",
+      "level": "b2",
+      "category": "mixed",
+      "order": 174,
+      "prerequisites": [
+        "reading-b2-04"
+      ],
+      "estimatedMinutes": 19,
+      "newItemCount": 7
+    },
+    {
+      "id": "conv-b2-01",
+      "title": "Conversazione: Partecipare a un dibattito",
+      "description": "Cómo participar en un debate formal italiano: tomar la palabra, conceder puntos, contradecir con elegancia y hacer precisiones. Registro formal oral B2.",
+      "level": "b2",
+      "category": "mixed",
+      "order": 175,
+      "prerequisites": [],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "conv-b2-02",
+      "title": "Conversazione: Un colloquio di lavoro",
+      "description": "El italiano para una entrevista de trabajo: presentarse, hablar de experiencia y competencias, hacer preguntas sobre el puesto. Registro formal B2.",
+      "level": "b2",
+      "category": "mixed",
+      "order": 176,
+      "prerequisites": [
+        "conv-b2-01"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "conv-b2-03",
+      "title": "Conversazione: Discutere di attualità",
+      "description": "Cómo discutir temas de actualidad con matices, hacer distinciones, evitar generalizaciones y proponer enfoques equilibrados. Registro periodístico-conversacional B2.",
+      "level": "b2",
+      "category": "mixed",
+      "order": 177,
+      "prerequisites": [
+        "conv-b2-02"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-c1-01",
+      "title": "Vocabolario filosofico e intellettuale",
+      "description": "Las palabras con las que se piensa el mundo. El vocabulario filosófico es la base para leer ensayos, argumentar con precisión y comprender el pensamiento italiano de alto nivel. Estos 20 términos cubren los sistemas filosóficos fundamentales.",
+      "level": "c1",
+      "category": "vocabulary",
+      "order": 178,
+      "prerequisites": [],
+      "estimatedMinutes": 30,
+      "newItemCount": 20
+    },
+    {
+      "id": "vocab-c1-02",
+      "title": "Figure retoriche e linguaggio letterario",
+      "description": "Las figuras retóricas son el corazón del estilo literario italiano. Dominar estos términos te permite leer crítica literaria, escribir análisis de textos y comprender por qué Dante, Leopardi o Calvino son genios del lenguaje.",
+      "level": "c1",
+      "category": "vocabulary",
+      "order": 179,
+      "prerequisites": [
+        "vocab-c1-01"
+      ],
+      "estimatedMinutes": 29,
+      "newItemCount": 12
+    },
+    {
+      "id": "vocab-c1-03",
+      "title": "Verbi sofisticati C1",
+      "description": "Estos verbos son la diferencia entre un italiano B2 y uno que suena culto y preciso. Son los verbos que aparecen en la prensa de calidad, en los ensayos y en la conversación académica. Dominarlos te permite expresar matices que el vocabulario básico no permite.",
+      "level": "c1",
+      "category": "vocabulary",
+      "order": 180,
+      "prerequisites": [
+        "vocab-c1-02"
+      ],
+      "estimatedMinutes": 29,
+      "newItemCount": 12
+    },
+    {
+      "id": "vocab-c1-04",
+      "title": "Espressioni idiomatiche I",
+      "description": "Los primeros 10 idioms más usados del italiano cotidiano y cultural. Dominar estas expresiones es la diferencia entre sonar avanzado y sonar nativo. Los idioms italianos tienen una lógica interna fascinante — muchos usan imágenes corporales, animales u objetos concretos para expresar realidades abstractas.",
+      "level": "c1",
+      "category": "vocabulary",
+      "order": 181,
+      "prerequisites": [
+        "vocab-c1-03"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-c1-05",
+      "title": "Espressioni idiomatiche II",
+      "description": "La segunda tanda de idioms del italiano C1: expresiones del mundo cotidiano, refranes cortos y construcciones idiomáticas con animales y situaciones concretas. Estas 10 expresiones completan el repertorio básico del hablante avanzado.",
+      "level": "c1",
+      "category": "vocabulary",
+      "order": 182,
+      "prerequisites": [
+        "vocab-c1-04"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-c1-06",
+      "title": "Lingua accademica e saggistica",
+      "description": "El italiano académico y de ensayo tiene una sintaxis y un léxico propios. Estas expresiones son las que aparecen en artículos científicos, tesis, informes formales y el periodismo de calidad. Dominarlas te permite leer y producir textos de registro alto.",
+      "level": "c1",
+      "category": "vocabulary",
+      "order": 183,
+      "prerequisites": [
+        "vocab-c1-05"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-c1-07",
+      "title": "Proverbi italiani e loro uso",
+      "description": "Los proverbios italianos revelan la sabiduría popular y la visión del mundo de una cultura. Muchos tienen equivalentes en español, pero las diferencias son informativas. Un hablante avanzado conoce estos refranes y los usa en el momento oportuno — son señales de competencia cultural profunda.",
+      "level": "c1",
+      "category": "vocabulary",
+      "order": 184,
+      "prerequisites": [
+        "vocab-c1-06"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "grammar-c1-01",
+      "title": "Passato remoto avanzato",
+      "description": "El passato remoto tiene irregulares más complejos que los del B2, y su uso varía radicalmente entre norte y sur de Italia. En la literatura es el tiempo de la narración por excelencia. Dominar este nivel de detalle te permite leer textos históricos y literarios con fluidez.",
+      "level": "c1",
+      "category": "grammar",
+      "order": 185,
+      "prerequisites": [],
+      "estimatedMinutes": 17,
+      "newItemCount": 6
+    },
+    {
+      "id": "grammar-c1-02",
+      "title": "Lo stile indiretto letterario",
+      "description": "El estilo indirecto en italiano literario implica una concordanza dei tempi (consecutio temporum) más compleja que en el habla cotidiana. Dominar las transformaciones temporales y el uso del congiuntivo en el discurso indirecto es marca del hablante culto y del escritor avanzado.",
+      "level": "c1",
+      "category": "grammar",
+      "order": 186,
+      "prerequisites": [
+        "grammar-c1-01"
+      ],
+      "estimatedMinutes": 17,
+      "newItemCount": 6
+    },
+    {
+      "id": "grammar-c1-03",
+      "title": "Il periodo ipotetico letterario",
+      "description": "El período hipotético literario italiano permite construcciones que se alejan del esquema estándar B2: la inversión sintáctica con congiuntivo trapassato sin 'se', el período mixto presente/pasado, y la condena firme al uso del condizionale en la protasi. Dominar esto eleva inmediatamente el nivel de escritura.",
+      "level": "c1",
+      "category": "grammar",
+      "order": 187,
+      "prerequisites": [
+        "grammar-c1-02"
+      ],
+      "estimatedMinutes": 17,
+      "newItemCount": 6
+    },
+    {
+      "id": "grammar-c1-04",
+      "title": "Costruzioni con l'infinito",
+      "description": "El infinitivo en italiano puede construir cláusulas implícitas equivalentes a las subjuntivas explícitas. Este sistema, de herencia latina, es esencial en el italiano culto y formal: permite expresar más en menos palabras, con un efecto de mayor elegancia y precisión estilística.",
+      "level": "c1",
+      "category": "grammar",
+      "order": 188,
+      "prerequisites": [
+        "grammar-c1-03"
+      ],
+      "estimatedMinutes": 17,
+      "newItemCount": 6
+    },
+    {
+      "id": "grammar-c1-05",
+      "title": "Metafora grammaticale e nominalizzazione",
+      "description": "La 'metáfora gramatical' (Halliday) es el proceso por el que una cláusula verbal se comprime en un sintagma nominal. Es la marca por excelencia del italiano accademico y saggistico. Dominarla te permite no solo leer textos académicos con fluidez, sino producirlos con el estilo apropiado.",
+      "level": "c1",
+      "category": "grammar",
+      "order": 189,
+      "prerequisites": [
+        "grammar-c1-04"
+      ],
+      "estimatedMinutes": 17,
+      "newItemCount": 6
+    },
+    {
+      "id": "grammar-c1-06",
+      "title": "La punteggiatura italiana avanzata",
+      "description": "La puntuación en italiano tiene convenciones propias que difieren del español y del inglés. El uso correcto del punto e virgola, i due punti, la lineetta, le virgolette y le parentesi es señal de maestría estilística. En escritura formal y literaria, la puntuación es parte del estilo, no solo de la gramática.",
+      "level": "c1",
+      "category": "grammar",
+      "order": 190,
+      "prerequisites": [
+        "grammar-c1-05"
+      ],
+      "estimatedMinutes": 17,
+      "newItemCount": 6
+    },
+    {
+      "id": "grammar-c1-07",
+      "title": "Registro linguistico: dal colloquiale al letterario",
+      "description": "El italiano tiene una diglosia notable entre el registro coloquial, el formal escrito, el burocrático-administrativo y el literario. Reconocer y producir cada registro es la marca del hablante avanzado. Esta lección trabaja la conciencia de registro como habilidad activa.",
+      "level": "c1",
+      "category": "grammar",
+      "order": 191,
+      "prerequisites": [
+        "grammar-c1-06"
+      ],
+      "estimatedMinutes": 17,
+      "newItemCount": 6
+    },
+    {
+      "id": "grammar-c1-08",
+      "title": "I 20 errori più comuni dei parlanti B2",
+      "description": "Los 20 errores más persistentes que cometen los hispanohablantes de nivel B2 al intentar alcanzar C1. Muchos son por interferencia del español, otros son fossilizaciones por reglas que parecen similares pero no lo son. Identificar y corregir estos errores es el camino más directo al C1.",
+      "level": "c1",
+      "category": "grammar",
+      "order": 192,
+      "prerequisites": [
+        "grammar-c1-07"
+      ],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "reading-c1-01",
+      "title": "L'italiano nel mondo: potenza culturale senza eserciti",
+      "description": "Texto argumentativo C1 sobre el poder del italiano como lengua cultural global. Práctica de vocabulario del ensayo (soft power, gerarchia, seduttività), comprensión inferencial y análisis crítico del argumento principal.",
+      "level": "c1",
+      "category": "mixed",
+      "order": 193,
+      "prerequisites": [],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "reading-c1-02",
+      "title": "Calvino e la leggerezza: un programma estetico e morale",
+      "description": "Texto de análisis literario C1. Análisis de la primera 'proposta' de Italo Calvino en sus Lezioni Americane. Vocabulario estético-filosófico. Práctica de lectura crítica de un ensayo literario de alta densidad conceptual.",
+      "level": "c1",
+      "category": "mixed",
+      "order": 194,
+      "prerequisites": [
+        "reading-c1-01"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "reading-c1-03",
+      "title": "La Costituzione italiana: un testo vivente",
+      "description": "Texto de análisis cívico C1. La Constitución italiana de 1948 como documento legal, cultural y casi literario. Vocabulario constitucional y jurídico. Práctica de comprensión de un texto con densidad conceptual alta y relevancia cívica.",
+      "level": "c1",
+      "category": "mixed",
+      "order": 195,
+      "prerequisites": [
+        "reading-c1-02"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "reading-c1-04",
+      "title": "Il dibattito sugli anglicismi: l'italiano sotto assedio?",
+      "description": "Texto editorial C1 sobre el debate de los anglicismos en el italiano contemporáneo. Vocabulario de sociolingüística y política linguistica. Práctica de comprensión de un texto que presenta dos posiciones en tensión y las evalúa con matiz.",
+      "level": "c1",
+      "category": "mixed",
+      "order": 196,
+      "prerequisites": [
+        "reading-c1-03"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "conv-c1-01",
+      "title": "Tenere una presentazione",
+      "description": "Cómo estructurar y presentar una exposición académica o profesional en italiano. Las fórmulas de inicio, transición, ilustración de datos, síntesis y apertura a preguntas que marcan al presentador competente en contextos formales italianos.",
+      "level": "c1",
+      "category": "mixed",
+      "order": 197,
+      "prerequisites": [],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "conv-c1-02",
+      "title": "Discussione letteraria",
+      "description": "Cómo hablar de literatura italiana en contexto académico o cultural al nivel C1. Las fórmulas para situar una obra en su tradición, analizar el narrador, identificar el tema central, comentar las elecciones estilísticas y contextualizar históricamente. Imprescindible para estudiantes de lettere, cinéfilos y lectores avanzados.",
+      "level": "c1",
+      "category": "mixed",
+      "order": 198,
+      "prerequisites": [
+        "conv-c1-01"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-c2-01",
+      "title": "Registro letterario e arcaismi",
+      "description": "El italiano literario clásico, de Dante a Leopardi, usa un léxico que se aleja del estándar moderno. Para leer textos literarios originales, comprender la crítica literaria italiana al más alto nivel y apreciar la prosa elevada, es imprescindible reconocer estos arcaísmos y sus equivalentes modernos.",
+      "level": "c2",
+      "category": "vocabulary",
+      "order": 199,
+      "prerequisites": [],
+      "estimatedMinutes": 25,
+      "newItemCount": 10
+    },
+    {
+      "id": "vocab-c2-02",
+      "title": "Distinzioni lessicali sottili",
+      "description": "La diferencia entre un hablante muy avanzado y un nativo está en la elección precisa entre sinónimos. El italiano tiene series de verbos y adjetivos que parecen equivalentes pero que difieren en registro, fuerza, connotación o contexto de uso. Esta lección trabaja las distinciones más relevantes.",
+      "level": "c2",
+      "category": "vocabulary",
+      "order": 200,
+      "prerequisites": [
+        "vocab-c2-01"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-c2-03",
+      "title": "Varietà regionali e dialettali",
+      "description": "Italia es un país lingüísticamente diversísimo. El italiano nativo no es un bloque monolítico: está atravesado por dialectos regionales, vocabulario local y fenómenos de code-switching que aparecen en el cine, la literatura y la música popular. Esta lección introduce las palabras regionales más conocidas y difundidas.",
+      "level": "c2",
+      "category": "vocabulary",
+      "order": 201,
+      "prerequisites": [
+        "vocab-c2-02"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-c2-04",
+      "title": "Tecnicismi avanzati",
+      "description": "El italiano de especialidad — jurídico, económico, médico, académico — tiene un léxico técnico que incluye latinismos, anglicismos integrados y expresiones específicas de cada campo. Para leer la prensa económica italiana, textos jurídicos o artículos científicos, estos términos son indispensables.",
+      "level": "c2",
+      "category": "vocabulary",
+      "order": 202,
+      "prerequisites": [
+        "vocab-c2-03"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-c2-05",
+      "title": "Riferimenti culturali italiani",
+      "description": "Italia tiene una densidad de referencias culturales que no tiene paralelo en otros países. Para entender una conversación italiana culta — o el cine, la música, la literatura italiana — es imprescindible conocer estos conceptos: desde la 'dolce vita' hasta el 'campanilismo', desde el 'bel canto' hasta el 'familismo amorale'.",
+      "level": "c2",
+      "category": "vocabulary",
+      "order": 203,
+      "prerequisites": [
+        "vocab-c2-04"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-c2-06",
+      "title": "Connotazioni e sfumature: registro formale e accademico",
+      "description": "El italiano formal escrito — jurídico, académico, administrativo — conserva un conjunto de latinismos y fórmulas de referencia que son invisibles para el hablante básico pero omnipresentes en los textos especializados. Esta lección trabaja las expresiones del registro más alto del italiano contemporáneo.",
+      "level": "c2",
+      "category": "vocabulary",
+      "order": 204,
+      "prerequisites": [
+        "vocab-c2-05"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "grammar-c2-01",
+      "title": "L'italiano scritto letterario",
+      "description": "El italiano literario clásico, desde Dante hasta Leopardi y D'Annunzio, utiliza formas morfológicas y sintácticas que se alejan del estándar moderno. Para leer (y excepcionalmente escribir) en registro ultra-elevado, es necesario reconocer estas estructuras. Esta lección es para quienes aspiran a la comprensión plena del canon literario italiano.",
+      "level": "c2",
+      "category": "grammar",
+      "order": 205,
+      "prerequisites": [],
+      "estimatedMinutes": 17,
+      "newItemCount": 6
+    },
+    {
+      "id": "grammar-c2-02",
+      "title": "Costruzioni latineggianti nel formale scritto",
+      "description": "El italiano formal escrito, especialmente el jurídico-administrativo y el académico, conserva construcciones de herencia latina que no existen en el habla cotidiana. Su dominio es señal de máxima competencia escrita. Esta lección trabaja las fórmulas de apertura jurídica, el accusativo con infinitivo y las locuciones latinas de uso corriente.",
+      "level": "c2",
+      "category": "grammar",
+      "order": 206,
+      "prerequisites": [
+        "grammar-c2-01"
+      ],
+      "estimatedMinutes": 17,
+      "newItemCount": 6
+    },
+    {
+      "id": "grammar-c2-03",
+      "title": "La variazione dell'italiano",
+      "description": "El italiano no es un bloque monolítico. Existe una variación sociolingüística enorme que va del dialetto locale al neostandard urbano al registro formale scritto. Un hablante C2 comprende todos estos registros, sabe cuándo se producen los code-switching, y puede analizar la variación lingüística como fenómeno cultural.",
+      "level": "c2",
+      "category": "grammar",
+      "order": 207,
+      "prerequisites": [
+        "grammar-c2-02"
+      ],
+      "estimatedMinutes": 17,
+      "newItemCount": 6
+    },
+    {
+      "id": "grammar-c2-04",
+      "title": "Connotazione e denotazione: precisione lessicale",
+      "description": "La denotación es el significado literal; la connotación es la carga emocional, social, histórica o pragmática de una palabra. A nivel C2, la elección entre sinónimos depende enteramente de estas connotaciones. Esta lección trabaja la habilidad que distingue al hablante casi-nativo del avanzado.",
+      "level": "c2",
+      "category": "grammar",
+      "order": 208,
+      "prerequisites": [
+        "grammar-c2-03"
+      ],
+      "estimatedMinutes": 17,
+      "newItemCount": 6
+    },
+    {
+      "id": "grammar-c2-05",
+      "title": "L'arte della polemica italiana",
+      "description": "La tradición retórica italiana es antiquísima. Del De Oratore de Cicerón a los escritos de Machiavelli, Vico, Croce, Pasolini, el ensayo argumentativo es el género por excelencia de la prosa italiana elevada. Esta lección enseña las estructuras de la argumentación italiana de alto nivel: cómo convencer, refutar y concluir en italiano.",
+      "level": "c2",
+      "category": "grammar",
+      "order": 209,
+      "prerequisites": [
+        "grammar-c2-04"
+      ],
+      "estimatedMinutes": 17,
+      "newItemCount": 6
+    },
+    {
+      "id": "reading-c2-01",
+      "title": "Le città invisibili: il catalogo dell'impossibile",
+      "description": "Texto literario C2. Análisis de un fragmento al estilo de 'Le città invisibili' de Italo Calvino (1972). Vocabulario estético-filosófico de altísima densidad. Práctica de lectura crítica literaria al más alto nivel: intertextualidad, análisis de la poetica calviniana, filosofía del lenguaje.",
+      "level": "c2",
+      "category": "mixed",
+      "order": 210,
+      "prerequisites": [],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "reading-c2-02",
+      "title": "La crisi del merito: quando la competenza non basta più",
+      "description": "Texto de periodismo de calidad C2. Un editorial sobre la paradoja de la sociedad del conocimiento: más educados pero decisiones políticas más irracionales. Vocabulario sociológico y filosófico avanzado. Práctica de comprensión crítica y evaluación de argumentos complejos.",
+      "level": "c2",
+      "category": "mixed",
+      "order": 211,
+      "prerequisites": [
+        "reading-c2-01"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "reading-c2-03",
+      "title": "Il bello nell'estetica italiana: dalla bellezza naturale alla forma",
+      "description": "Texto de ensayo filosófico C2. La tradición estética italiana entre Croce y Vitruvio: el bello como expresión (crociano) vs el bello como proporción matemática (vitruviano). Vocabulario estético-filosófico de máxima densidad. Práctica de comprensión e interpretación de un texto filosófico de alto nivel.",
+      "level": "c2",
+      "category": "mixed",
+      "order": 212,
+      "prerequisites": [
+        "reading-c2-02"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "conv-c2-01",
+      "title": "Saggistica argomentativa",
+      "description": "Cómo construir y sostener un argumento en el ensayo académico italiano al nivel C2. La estructura retórica clásica del saggio italiano, las fórmulas para enunciar la tesis, presentar la antítesis, confutar las objeciones y concluir con apertura crítica. Imprescindible para quien escribe op-eds, ensayos universitarios o participa en debates públicos de alto nivel.",
+      "level": "c2",
+      "category": "mixed",
+      "order": 213,
+      "prerequisites": [],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    },
+    {
+      "id": "conv-c2-02",
+      "title": "Negoziazione diplomatica",
+      "description": "El lenguaje de la negociación de alto nivel en italiano. Las fórmulas para demostrar comprensión del interlocutor, proponer acuerdos, rechazar posiciones sin romper el diálogo, reservarse tiempo de evaluación y mantener principios no negociables. Indispensable para contextos diplomáticos, empresariales y jurídicos de máximo nivel.",
+      "level": "c2",
+      "category": "mixed",
+      "order": 214,
+      "prerequisites": [
+        "conv-c2-01"
+      ],
+      "estimatedMinutes": 21,
+      "newItemCount": 8
+    }
+  ]
+}

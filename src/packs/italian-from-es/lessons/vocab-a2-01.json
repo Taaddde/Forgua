@@ -1,0 +1,107 @@
+{
+  "id": "vocab-a2-01",
+  "title": "Fare la spesa",
+  "description": "Vocabulario esencial para comprar en el supermercado y en tiendas. Aprenderás a moverte con soltura en cualquier comercio italiano.",
+  "level": "a2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "il supermercato",
+      "back": "el supermercado",
+      "reading": "",
+      "explanation": "Cognado perfecto con el español. 'Vado al supermercato' = Voy al supermercado."
+    },
+    {
+      "front": "il negozio",
+      "back": "la tienda",
+      "reading": "",
+      "explanation": "Más general que supermercato. 'un negozio di scarpe' = una tienda de zapatos."
+    },
+    {
+      "front": "il prezzo",
+      "back": "el precio",
+      "reading": "",
+      "explanation": "Cognado directo. '¿Qual è il prezzo?' = ¿Cuál es el precio?"
+    },
+    {
+      "front": "lo sconto",
+      "back": "el descuento",
+      "reading": "",
+      "explanation": "'C'è uno sconto?' = ¿Hay un descuento? — muy útil para regatear o buscar ofertas."
+    },
+    {
+      "front": "pagare",
+      "back": "pagar",
+      "reading": "",
+      "explanation": "'Posso pagare con la carta?' = ¿Puedo pagar con tarjeta? 'Pago io!' = ¡Pago yo!"
+    },
+    {
+      "front": "costare",
+      "back": "costar",
+      "reading": "",
+      "explanation": "'Quanto costa?' = ¿Cuánto cuesta? 'Costa troppo' = Cuesta demasiado."
+    },
+    {
+      "front": "il saldo / i saldi",
+      "back": "la rebaja / las rebajas",
+      "reading": "",
+      "explanation": "En Italia los saldi son temporadas de rebajas (gennaio e luglio). 'Sono in saldo' = Está rebajado."
+    },
+    {
+      "front": "la taglia",
+      "back": "la talla (ropa)",
+      "reading": "",
+      "explanation": "'Che taglia porti?' = ¿Qué talla usas? Las tallas son: XS, S, M, L, XL o numeración (38, 40, 42...)."
+    },
+    {
+      "front": "la misura",
+      "back": "el número (zapatos) / la medida",
+      "reading": "",
+      "explanation": "'Che misura di scarpe hai?' = ¿Qué número de zapatos tienes? También se usa para medidas en general."
+    },
+    {
+      "front": "la ricevuta",
+      "back": "el recibo / el ticket",
+      "reading": "",
+      "explanation": "'Posso avere la ricevuta?' = ¿Me puede dar el recibo? Importante para devoluciones."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "En el supermercato y il negozio",
+      "instruction": "Estas palabras te permitirán comprar en cualquier tienda italiana. Fíjate en los cognados con el español — muchas son casi idénticas.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Pagare e prezzi",
+      "instruction": "El vocabulario esencial para pagar y preguntar precios. 'Quanto costa?' será tu frase más usada.",
+      "itemIndices": [4, 5, 6]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice en italiano?",
+      "instruction": "Ve la palabra en español y escribe la traducción italiana.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "introduce",
+      "title": "Taglia e misura",
+      "instruction": "Para comprar ropa y zapatos, necesitas saber pedir tu talla.",
+      "itemIndices": [7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "Vocabulario completo de compras",
+      "instruction": "Practica todo el vocabulario de esta lección.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "Fare la spesa — consolidado",
+      "instruction": "Con este vocabulario puedes comprar en cualquier tienda italiana: preguntar precios, buscar descuentos, pedir tu talla y solicitar el recibo.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

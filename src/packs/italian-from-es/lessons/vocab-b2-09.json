@@ -1,0 +1,189 @@
+{
+  "id": "vocab-b2-09",
+  "title": "Connettivi e espressioni idiomatiche B2",
+  "description": "Los conectores formales y las expresiones idiomáticas que hacen que tu italiano suene natural y sofisticado. Esenciales para textos escritos y conversación avanzada.",
+  "level": "b2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "nondimeno",
+      "back": "sin embargo / no obstante / con todo",
+      "reading": "",
+      "explanation": "Conector adversativo formal, equivalente a 'tuttavia' o 'ciononostante' pero algo más literario. Siempre en posición inicial o media. 'I dati sono incompleti; nondimeno, le conclusioni sembrano valide.'"
+    },
+    {
+      "front": "ciononostante",
+      "back": "a pesar de ello / no obstante / aun así",
+      "reading": "",
+      "explanation": "Formado por 'ciò + non + ostante'. Equivale a 'nonostante ciò'. Muy frecuente en periodismo. 'C'erano molte difficoltà; ciononostante, il progetto fu completato.' Formal pero no arcaico."
+    },
+    {
+      "front": "a prescindere da",
+      "back": "prescindiendo de / independientemente de / al margen de",
+      "reading": "",
+      "explanation": "'A prescindere dal risultato' = independientemente del resultado. 'A prescindere da chi ha torto o ragione' = al margen de quién tiene razón. Sinónimo: 'indipendentemente da'. Muy formal."
+    },
+    {
+      "front": "in quanto",
+      "back": "en tanto que / dado que / puesto que / como",
+      "reading": "",
+      "explanation": "Múltiples usos: (1) causal: 'Non posso farlo, in quanto sono occupato' = no puedo hacerlo, dado que estoy ocupado. (2) calificativo: 'In quanto direttore, è responsabile' = en tanto que director, es responsable."
+    },
+    {
+      "front": "laddove",
+      "back": "donde / en el caso de que / mientras que (contraste)",
+      "reading": "",
+      "explanation": "Formal y burocrático. (1) locativo: 'laddove è previsto' = donde está previsto. (2) condicional: 'Laddove non sia possibile...' = en caso de que no sea posible... (3) adversativo: 'laddove X, Y' = mientras X, Y."
+    },
+    {
+      "front": "fermo restando",
+      "back": "sin perjuicio de / quedando fijo que",
+      "reading": "",
+      "explanation": "Expresión burocrática y legal. 'Fermo restando l'obbligo di notifica' = sin perjuicio de la obligación de notificación. Indica una condición que no cambia aunque se afirme otra cosa. Muy formal."
+    },
+    {
+      "front": "tenuto conto di",
+      "back": "teniendo en cuenta / considerando",
+      "reading": "",
+      "explanation": "Expresión participial fija. 'Tenuto conto di tutti i fattori' = teniendo en cuenta todos los factores. Equivalente a 'considerando', 'alla luce di'. Muy frecuente en documentos oficiales y sentencias."
+    },
+    {
+      "front": "a condizione che + congiuntivo",
+      "back": "a condición de que / siempre que",
+      "reading": "",
+      "explanation": "Conjunción condicional + congiuntivo. 'Accetto, a condizione che tu venga.' = Acepto, a condición de que vengas. Sinónimos: 'purché', 'sempre che', 'a patto che'. Todas + congiuntivo."
+    },
+    {
+      "front": "avere il coraggio delle proprie opinioni",
+      "back": "tener el coraje de las propias opiniones / defender sus convicciones",
+      "reading": "",
+      "explanation": "Expresión idiomática: implica no solo tener opiniones sino defenderlas públicamente aunque sean impopulares. 'Pochi politici hanno il coraggio delle proprie opinioni.'"
+    },
+    {
+      "front": "a conti fatti",
+      "back": "a fin de cuentas / al fin y al cabo",
+      "reading": "",
+      "explanation": "Literalmente: 'hechas las cuentas'. Equivale a 'in fondo', 'tutto sommato'. 'A conti fatti, la strategia non ha funzionato.' Siempre en posición inicial o final de la cláusula."
+    },
+    {
+      "front": "nel migliore dei casi",
+      "back": "en el mejor de los casos",
+      "reading": "",
+      "explanation": "Contrario: 'nel peggiore dei casi' = en el peor de los casos. Ambas expresiones sirven para establecer los extremos de un escenario. 'Nel migliore dei casi, finiremo in ritardo di un'ora.'"
+    },
+    {
+      "front": "a prima vista",
+      "back": "a primera vista",
+      "reading": "",
+      "explanation": "Equivalente al español 'a primera vista'. 'A prima vista sembra facile.' = A primera vista parece fácil. Contrario implícito: 'a un'analisi più approfondita' = tras un análisis más profundo."
+    },
+    {
+      "front": "in ultima analisi",
+      "back": "en última instancia / en última análisis / a la postre",
+      "reading": "",
+      "explanation": "Expresión de cierre argumentativo. 'In ultima analisi, la decisione spetta a te.' = En última instancia, la decisión es tuya. Sinónimos: 'in definitiva', 'in fin dei conti', 'alla fine'."
+    },
+    {
+      "front": "tutto sommato",
+      "back": "en definitiva / considerándolo todo / a grandes rasgos",
+      "reading": "",
+      "explanation": "Similar a 'a conti fatti' e 'in definitiva'. 'Tutto sommato, non è andata così male.' = En definitiva, no fue tan mal. Introduce una valoración de conjunto."
+    },
+    {
+      "front": "sotto ogni aspetto",
+      "back": "en todos los aspectos / desde todos los puntos de vista",
+      "reading": "",
+      "explanation": "'Il progetto è stato un successo sotto ogni aspetto.' = El proyecto fue un éxito en todos los aspectos. Sinónimo: 'da ogni punto di vista', 'in ogni senso'. Muy positivo o totalizador."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Conectores adversativos formales",
+      "instruction": "Nondimeno, ciononostante: dos conectores adversativos de registro elevado que demuestran dominio del italiano escrito.",
+      "itemIndices": [
+        0,
+        1
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Conectores de condición y marco",
+      "instruction": "A prescindere da, in quanto, laddove, fermo restando, tenuto conto di, a condizione che: el vocabulario conector de documentos formales.",
+      "itemIndices": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Expresiones idiomáticas de valoración",
+      "instruction": "Las expresiones idiomáticas que enmarcan y valoran situaciones: esenciales para sonar natural en conversación avanzada.",
+      "itemIndices": [
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "Repaso: conectores e idiomas",
+      "instruction": "Practica todos los conectores y expresiones idiomáticas B2.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Construye frases argumentativas",
+      "instruction": "Usa los conectores para construir argumentaciones coherentes.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        7,
+        12,
+        13
+      ]
+    },
+    {
+      "type": "summary",
+      "title": "Connettivi e idiomi B2 — dominato",
+      "instruction": "Adversativos: nondimeno, ciononostante. Condición/marco: a prescindere da, in quanto, laddove, fermo restando, tenuto conto di, a condizione che. Valoración: a conti fatti, nel migliore dei casi, in ultima analisi, tutto sommato.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        7,
+        9,
+        12,
+        13
+      ]
+    }
+  ]
+}

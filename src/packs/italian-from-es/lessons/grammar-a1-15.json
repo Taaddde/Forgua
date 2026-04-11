@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a1-15",
+  "title": "Stare + gerundio — sto mangiando, stai parlando...",
+  "description": "El presente progresivo italiano: stare + gerundio. Equivale al 'estar + gerundio' del español. Para hispanohablantes es muy fácil — el concepto es idéntico.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Stare (presente): sto / stai / sta / stiamo / state / stanno",
+      "back": "estar: estoy / estás / está / estamos / estáis / están",
+      "reading": "",
+      "explanation": "Stare es irregular. Patrón: STO-STAI-STA-stiamo-state-STANNO. Igual que 'andare' y 'fare', las formas de io/loro son más irregulares. 'Come stai?' = ¿Cómo estás? 'Sto bene' = Estoy bien."
+    },
+    {
+      "front": "Gerundio de -ARE: parl-ANDO → parlando",
+      "back": "Gerundio de -ARE: habl-ANDO → hablando",
+      "reading": "",
+      "explanation": "Para verbos -ARE: raíz + -ANDO. Igual que el español -ANDO. parlare → parlando, mangiare → mangiando, lavorare → lavorando, studiare → studiando, ascoltare → ascoltando."
+    },
+    {
+      "front": "Gerundio de -ERE/-IRE: scriv-ENDO → scrivendo",
+      "back": "Gerundio de -ERE/-IRE: escrib-IENDO → escribiendo",
+      "reading": "",
+      "explanation": "Para verbos -ERE y -IRE: raíz + -ENDO. Esto difiere del español (que usa -iendo). leggere → leggendo, vedere → vedendo, scrivere → scrivendo, dormire → dormendo, finire → finendo."
+    },
+    {
+      "front": "Sto mangiando",
+      "back": "Estoy comiendo",
+      "reading": "",
+      "explanation": "mangiare → mangiando. 'Non posso parlare, sto mangiando' = No puedo hablar, estoy comiendo. El uso es IDÉNTICO al español: acciones en progreso en este momento."
+    },
+    {
+      "front": "Stai parlando al telefono?",
+      "back": "¿Estás hablando por teléfono?",
+      "reading": "",
+      "explanation": "'Parlare → parlando. 'Stai parlando con me?' = ¿Estás hablando conmigo? 'Con chi stai parlando?' = ¿Con quién estás hablando? Uso idéntico al español."
+    },
+    {
+      "front": "Sta leggendo un libro",
+      "back": "Está leyendo un libro",
+      "reading": "",
+      "explanation": "leggere → leggendo (con -ENDO). 'Sta leggendo in camera' = Está leyendo en su habitación. '(Lui/Lei) sta dormendo' = Está durmiendo. dormire → dormendo."
+    },
+    {
+      "front": "Stiamo studiando italiano",
+      "back": "Estamos estudiando italiano",
+      "reading": "",
+      "explanation": "studiare → studiando. 'Cosa state facendo?' = ¿Qué están haciendo? 'Stiamo aspettando' = Estamos esperando. Este tiempo se usa igual que en español para acciones en curso."
+    },
+    {
+      "front": "Stare + gerundio vs Presente semplice",
+      "back": "Estar haciendo (ahora mismo) vs Hacer (en general)",
+      "reading": "",
+      "explanation": "En italiano, el presente simple puede indicar tanto acciones habituales como acciones en curso: 'Mangio' puede significar 'Como (habitualmente)' O 'Estoy comiendo (ahora)'. 'Sto mangiando' enfatiza que la acción sucede JUSTO AHORA. En italiano, el presente simple se usa más que en español para el progresivo."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Stare: el auxiliar para el progresivo",
+      "instruction": "Primero memorizá la conjugación de 'stare': STO/STAI/STA/stiamo/state/STANNO. También se usa para 'estar' (de salud/estado): 'Come stai? Sto bene!'",
+      "itemIndices": [0]
+    },
+    {
+      "type": "introduce",
+      "title": "El gerundio italiano",
+      "instruction": "-ARE verbs → -ANDO (como español). -ERE/-IRE verbs → -ENDO (diferente al español -iendo). Después: STARE conjugado + GERUNDIO = progresivo.",
+      "itemIndices": [1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es el gerundio correcto?",
+      "instruction": "Formá el gerundio correcto del verbo indicado. Recordá: -ARE → -ANDO, -ERE/-IRE → -ENDO.",
+      "itemIndices": [1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "recall",
+      "title": "Del español al italiano: progresivo",
+      "instruction": "Traducí estas frases usando stare + gerundio.",
+      "itemIndices": [3, 4, 5, 6]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Progresivo o presente simple?",
+      "instruction": "Entendé la diferencia entre el presente progresivo y el presente simple en italiano.",
+      "itemIndices": [7]
+    },
+    {
+      "type": "summary",
+      "title": "Progresivo italiano: ¡igual que el español!",
+      "instruction": "Stare conjugado + gerundio: STO/STAI/STA/stiamo/state/STANNO + verbo. Gerundio: -ARE→-ANDO (parlando), -ERE/-IRE→-ENDO (leggendo, dormendo). Uso: acción en progreso AHORA MISMO. Diferencia: en italiano el presente simple ya puede expresar progreso, el progresivo solo enfatiza la simultaneidad.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "vocab-c2-02",
+  "title": "Distinzioni lessicali sottili",
+  "description": "La diferencia entre un hablante muy avanzado y un nativo está en la elección precisa entre sinónimos. El italiano tiene series de verbos y adjetivos que parecen equivalentes pero que difieren en registro, fuerza, connotación o contexto de uso. Esta lección trabaja las distinciones más relevantes.",
+  "level": "c2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "parlare / discorrere / conversare",
+      "back": "hablar (neutro) / charlar extensamente / conversar (refinado)",
+      "reading": "/parˈlare/ /diskorˈrere/ /konverˈsare/",
+      "explanation": "MATIZ: 'Parlare' = verbo neutro y general. 'Discorrere' = hablar de manera distendida y razonada, a veces extensamente (discorrere di filosofia). 'Conversare' = intercambio recíproco y refinado, más formal (contexto de salotto o convite). En la prosa de Leopardi: 'Dialogo della Natura e di un Islandese' = convegno, non semplice parlare."
+    },
+    {
+      "front": "guardare / osservare / spiare",
+      "back": "mirar (sin intención) / observar (con metodología) / espiar (ocultamente)",
+      "reading": "/gwarˈdare/ /osserˈvare/ /ˈspjare/",
+      "explanation": "'Guardava la pioggia' (mirar sin propósito) / 'Osservava i comportamenti' (observar con atención analítica) / 'Spiava dalla finestra' (mirar ocultamente). También: 'fissare' = mirar fijamente; 'contemplare' = contemplar con admiración; 'scrutare' = escrutar con intensidad."
+    },
+    {
+      "front": "paura / timore / spavento / terrore",
+      "back": "miedo / temor (respetuoso) / susto (repentino) / terror (extremo)",
+      "reading": "/paˈura/ /tiˈmore/ /spaˈvento/ /terˈrore/",
+      "explanation": "Gradación creciente de intensidad: 'Timore' = temor respetuoso, reverente (timore reverenziale). 'Paura' = miedo común e instintivo. 'Spavento' = susto repentino (e improvviso). 'Terrore' = miedo extremo que paraliza. 'Angoscia' = angustia difusa sin objeto claro."
+    },
+    {
+      "front": "vecchio / anziano / attempato / decrepito",
+      "back": "viejo / anciano (respeto) / entrada en años (eufemismo) / decrépito",
+      "reading": "/ˈvɛkkjo/ /anˈtsjano/ /attɛmˈpato/ /deˈkrɛpito/",
+      "explanation": "REGISTRO: 'Vecchio' puede ser despectivo para personas (evitar). 'Anziano' = forma neutra y respetuosa para personas mayores. 'Attempato' = eufemismo elegante ('una signora attempata ma elegante'). 'Decrepito' = muy negativo, implica deterioro extremo. Para objetos: solo 'vecchio' (un libro vecchio)."
+    },
+    {
+      "front": "mangiare / cibarsi / nutrirsi / ingozzarsi",
+      "back": "comer (neutro) / alimentarse (literario) / nutrirse / atiborrarse",
+      "reading": "/manˈdʒare/ /tʃiˈbarsi/ /nutrirˈsi/ /ingotˈsarsi/",
+      "explanation": "'Mangiare' = neutro. 'Cibarsi' = elevado, literario; puede ser figurado ('cibarsi di illusioni' = alimentarse de ilusiones). 'Nutrirsi' = nutrir el cuerpo o el espíritu ('nutrirsi di speranza'). 'Ingozzarsi' = comer con glotonería, connotación negativa. 'Sgranocchiare' = picotear cosas crujientes."
+    },
+    {
+      "front": "dire / affermare / asserire / sostenere / dichiarare",
+      "back": "decir / afirmar con convicción / aseverar / sostener / declarar (formal)",
+      "reading": "",
+      "explanation": "MATIZ ACADÉMICO: 'Dire' = neutro. 'Affermare' = afirmar con convicción. 'Asserire' = aseverar (más formal/técnico). 'Sostenere' = sostener una posición intelectual (el más usado en ensayo). 'Dichiarare' = declarar (acto formal/público). En textos académicos: 'l'autore sostiene che' > 'l'autore dice che'."
+    },
+    {
+      "front": "scegliere / optare / prediligere / privilegiare",
+      "back": "elegir (neutro) / optar por (formal) / tener predilección por (literario) / dar prioridad a (académico)",
+      "reading": "",
+      "explanation": "'Scegliere' = neutro. 'Optare per' = más formal, implica deliberación entre opciones. 'Prediligere' = tener predilección, literario ('predilige la poesia classica'). 'Privilegiare' = dar prioridad sistematicamente, típico del discurso académico y administrativo."
+    },
+    {
+      "front": "venire / giungere / arrivare / pervenire / sopraggiungere",
+      "back": "venir / llegar (literario) / llegar / hacer llegar / llegar de improviso",
+      "reading": "",
+      "explanation": "'Arrivare' = llegar a un destino (más frecuente). 'Giungere' = más literario/formal. 'Pervenire' = hacer llegar documentos, alcanzar un resultado ('pervenire a una conclusione'). 'Sopraggiungere' = llegar inesperadamente (la policía, un problema)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Las series de sinónimos del italiano avanzado",
+      "instruction": "En italiano C2, las distinciones entre sinónimos son marca de maestría. Cada serie presentada en esta lección funciona en distintos registros: neutro, literario, académico, coloquial. La clave está en preguntarse siempre: ¿cuál es el registro del texto? ¿Cuál es la connotación emocional que quiero?",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Cuál es el matiz correcto?",
+      "instruction": "Lee cada contexto y elige el término de la serie que mejor encaja. Razón tu elección: hay diferencias de registro, connotación e intensidad.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "Distinciones académicas y literarias",
+      "instruction": "Las últimas tres series (dire/affermare/sostenere, scegliere/prediligere, venire/giungere) son especialmente relevantes para la escritura académica. En textos formales italianos, 'sostenere' o 'affermare' siempre superan a 'dire'.",
+      "itemIndices": [5, 6, 7]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "El término más preciso",
+      "instruction": "Para cada oración, elige entre los sinónimos de la serie el que produce el matiz estilístico más adecuado al contexto dado.",
+      "itemIndices": [0, 1, 3, 5, 6, 7]
+    },
+    {
+      "type": "recall",
+      "title": "Describir la distinción",
+      "instruction": "Para cada par de sinónimos, explica en pocas palabras cuál es la diferencia de registro, connotación o uso.",
+      "itemIndices": [2, 4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "La precisión lexical del C2",
+      "instruction": "Estas distinciones no se aprenden de una vez: se interiorizan leyendo mucho en italiano. Para cada texto que leas, observa qué verbo de la serie usa el autor y pregúntate por qué eligió ese y no otro. Esa pregunta es la del crítico literario, no solo del estudiante.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

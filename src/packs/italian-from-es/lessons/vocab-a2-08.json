@@ -1,0 +1,107 @@
+{
+  "id": "vocab-a2-08",
+  "title": "La tecnologia",
+  "description": "Vocabulario del mundo digital y tecnológico. Mucho vocabulario tecnológico es compartido con el español o el inglés — ¡una ventaja!",
+  "level": "a2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "il telefono / lo smartphone",
+      "back": "el teléfono / el smartphone",
+      "reading": "",
+      "explanation": "'Chiamare sul telefono' = llamar por teléfono. 'Il cellulare' = el móvil/celular (más coloquial que smartphone)."
+    },
+    {
+      "front": "il computer / il laptop",
+      "back": "la computadora / el ordenador / la laptop",
+      "reading": "",
+      "explanation": "En italiano ambos se usan. 'Lavorare al computer' = trabajar en la computadora. 'Il tablet' también es igual."
+    },
+    {
+      "front": "internet / la connessione",
+      "back": "internet / la conexión",
+      "reading": "",
+      "explanation": "'C'è la connessione internet?' = ¿Hay conexión a internet? 'La password del WiFi' = la contraseña del WiFi."
+    },
+    {
+      "front": "l'email / il messaggio",
+      "back": "el correo electrónico / el mensaje",
+      "reading": "",
+      "explanation": "'Mandare un'email' = enviar un correo. 'Mandare un messaggio' = enviar un mensaje. 'Il messaggio vocale' = el mensaje de voz."
+    },
+    {
+      "front": "i social media / i social",
+      "back": "las redes sociales",
+      "reading": "",
+      "explanation": "En italiano coloquial también se dice 'i social'. 'Usare i social' = usar las redes sociales. 'Seguire qualcuno' = seguir a alguien."
+    },
+    {
+      "front": "l'applicazione / l'app",
+      "back": "la aplicación / la app",
+      "reading": "",
+      "explanation": "Ambas formas se usan. 'Scaricare un'app' = descargar una app. 'L'app non funziona' = la app no funciona."
+    },
+    {
+      "front": "la foto / il video",
+      "back": "la foto / el video",
+      "reading": "",
+      "explanation": "'Fare / scattare una foto' = sacar una foto. 'Girare un video' = grabar un video. 'Condividere' = compartir."
+    },
+    {
+      "front": "la televisione / la TV",
+      "back": "la televisión / la tele",
+      "reading": "",
+      "explanation": "Cognado. 'Guardare la TV' = ver la tele. 'Il telegiornale' = el telediario/informativo. 'La serie TV' = la serie de TV."
+    },
+    {
+      "front": "navigare in internet",
+      "back": "navegar por internet",
+      "reading": "",
+      "explanation": "Expresión directa. 'Navigare su internet' también se dice. 'Cercare su Google' = buscar en Google."
+    },
+    {
+      "front": "caricare / scaricare",
+      "back": "cargar (subir) / descargar",
+      "reading": "",
+      "explanation": "'Caricare un video' = subir un video. 'Scaricare una canzone' = descargar una canción. 'Aggiornare' = actualizar."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Dispositivos y conectividad",
+      "instruction": "Mucho vocabulario tecnológico es internacional. Aprende las particularidades italianas.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Comunicación digital",
+      "instruction": "Cómo hablar de redes sociales, mensajes y aplicaciones en italiano.",
+      "itemIndices": [3, 4, 5, 6]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice en italiano?",
+      "instruction": "Traduce el vocabulario tecnológico.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "introduce",
+      "title": "Acciones digitales",
+      "instruction": "Verbos para hablar de lo que hacemos con la tecnología.",
+      "itemIndices": [7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "La tecnologia — completo",
+      "instruction": "Practica todo el vocabulario tecnológico.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "La tecnologia — consolidado",
+      "instruction": "El vocabulario tecnológico italiano es muy similar al español y al inglés. Recuerda: 'il cellulare' (coloquial) o 'lo smartphone'. 'Navigare in internet', 'caricare' (subir), 'scaricare' (bajar/descargar).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

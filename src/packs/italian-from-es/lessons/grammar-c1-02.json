@@ -1,0 +1,83 @@
+{
+  "id": "grammar-c1-02",
+  "title": "Lo stile indiretto letterario",
+  "description": "El estilo indirecto en italiano literario implica una concordanza dei tempi (consecutio temporum) más compleja que en el habla cotidiana. Dominar las transformaciones temporales y el uso del congiuntivo en el discurso indirecto es marca del hablante culto y del escritor avanzado.",
+  "level": "c1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "«Domani partirò per Roma» → Disse che il giorno seguente sarebbe partito per Roma.",
+      "back": "Futuro semplice → Condizionale passato en el discurso indirecto con verbo introductor en pasado.",
+      "reading": "",
+      "explanation": "La transformación más importante: el futuro ('partirò') se convierte en condizionale passato ('sarebbe partito') cuando el verbo introductor está en pasado. Esta regla se aplica sin excepciones en el italiano escrito formal y literario."
+    },
+    {
+      "front": "«Ho fame» → Disse che aveva fame. / «Verrò» → Disse che sarebbe venuto.",
+      "back": "Presente → Imperfetto. Passato prossimo → Trapassato prossimo.",
+      "reading": "",
+      "explanation": "Las reglas completas de trasformazione temporale: Presente → Imperfetto / Futuro → Condizionale passato / Passato prossimo → Trapassato prossimo / Imperativo → 'di' + infinito. Todo ello cuando el verbo introduttore está en pasado."
+    },
+    {
+      "front": "«Oggi sono qui per voi» → Disse che quel giorno era lì per loro.",
+      "back": "Los deícticos también cambian: oggi→quel giorno, qui→lì, questo→quello, io/tu→lui/lei.",
+      "reading": "",
+      "explanation": "El discurso indirecto no solo transforma los tiempos: también cambia los pronombres y los adverbios deícticos. Qui/qua → lì/là / Oggi → quel giorno / Ieri → il giorno prima / Domani → il giorno dopo / L'indomani = el día siguiente / Questo → quello."
+    },
+    {
+      "front": "Sosteneva che la poesia FOSSE l'unica forma d'arte capace di fermare il tempo.",
+      "back": "Estilo literario: congiuntivo imperfetto en completivas con verbo de pensamiento — marca de registro culto.",
+      "reading": "",
+      "explanation": "DISTINCIÓN DE REGISTRO: 'Pensava che ERA tardi' (aceptable en el habla) vs 'Pensava che FOSSE tardi' (estilo literario y académico). El congiuntivo en completivas con verbos de pensamiento es OBLIGATORIO en escritura formal italiana. Es la marca del escritor cuidadoso."
+    },
+    {
+      "front": "Credeva che quegli anni fossero stati i più felici della sua vita.",
+      "back": "Congiuntivo trapassato en completiva en pasado: 'credeva che + congiuntivo trapassato'.",
+      "reading": "",
+      "explanation": "'Credeva che quegli anni FOSSERO STATI' = creía que aquellos años habían sido. El trapassato del congiuntivo (fosse stato/avesse fatto) en discurso indirecto y completivas literarias es la forma más avanzada de la concordanza dei tempi italiana."
+    },
+    {
+      "front": "«Non so se riuscirò a finire» → Ammise che non sapeva se sarebbe riuscito a finire.",
+      "back": "Construcción compleja: verbo introductor en pasado + interrogativa indiretta + condizionale passato.",
+      "reading": "",
+      "explanation": "Las interrogativas indirectas en discurso indirecto siguen las mismas reglas de trasformazione temporale. 'Non so se riuscirò' (futuro + interrogativa) → 'non sapeva se sarebbe riuscito' (condizionale passato)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "La concordanza dei tempi",
+      "instruction": "El principio fundamental: cuando el verbo introduttore (disse, affermò, pensava, credeva) está en pasado, todos los tiempos del discurso citado se desplazan hacia atrás. En italiano escrito y literario, esta regla se aplica rigurosamente — en el habla coloquial se relaja a menudo.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Transforma al discurso indirecto",
+      "instruction": "Transforma cada oración del discurso directo al indirecto, aplicando todos los cambios: tiempo verbal, pronombres y deícticos.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "El congiuntivo literario en completivas",
+      "instruction": "Esta es la distinción de registro más importante del discurso indirecto italiano: la escritura literaria y académica PREFIERE el congiuntivo en las completivas con verbos de pensamiento. No es obligatorio en el habla, pero es marcador de nivel culto en la escritura.",
+      "itemIndices": [3, 4]
+    },
+    {
+      "type": "error-correction",
+      "title": "Habla vs escritura literaria",
+      "instruction": "Para cada oración, identifica si el tiempo verbal es apropiado para (a) el habla informal o (b) la escritura literaria/académica. Corrige si es necesario para el nivel culto.",
+      "itemIndices": [3, 4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "Las reglas completas",
+      "instruction": "Para cada tiempo verbal en discurso directo, escribe cuál es la transformación correcta en discurso indirecto cuando el verbo introductor está en pasado.",
+      "itemIndices": [0, 1, 3, 5]
+    },
+    {
+      "type": "summary",
+      "title": "Stile indiretto letterario — dominato",
+      "instruction": "Los puntos clave: (1) Futuro → Condizionale passato (la regla más olvidada). (2) Congiuntivo en completivas = escritura cuidadosa. (3) Cambiar deícticos temporales y locativos. Para practicar: toma cualquier discorso diretto de una novela italiana y transfórmalo en indiretto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a2-19",
+  "title": "Stare + gerundio — sto mangiando (presente continuo A2)",
+  "description": "Revisión y profundización del presente continuo con stare + gerundio. A nivel A2, se amplía con más verbos irregulares en el gerundio, verbos reflexivos y contextos de uso más variados.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Gerundi irregolari: fare → facendo / dire → dicendo / bere → bevendo",
+      "back": "haciendo / diciendo / bebiendo",
+      "reading": "",
+      "explanation": "Algunos verbos tienen gerundio irregular. FARE → FACENDO (no *farendo). DIRE → DICENDO (no *direndo). BERE → BEVENDO (de la forma latina 'bevere'). 'Cosa stai facendo?' = ¿Qué estás haciendo? 'Sta dicendo la verità?' = ¿Está diciendo la verdad? 'Sto bevendo il caffè' = Estoy tomando el café."
+    },
+    {
+      "front": "Stare + gerundio con verbi riflessivi: mi sto lavando / si sta alzando",
+      "back": "Me estoy lavando / Se está levantando",
+      "reading": "",
+      "explanation": "Con verbos reflexivos, el pronombre puede ir ANTES de 'stare' o UNIDO al gerundio. 'MI sto lavando' = 'Sto lavandoMI'. Ambas son correctas. 'TI stai divertendo?' = '¿Stai divertendoTI?' Ambas equivalen a '¿Te estás divirtiendo?'"
+    },
+    {
+      "front": "Stare + gerundio vs Presente semplice: sfumature d'uso",
+      "back": "Diferencias de matiz entre el progresivo y el presente simple",
+      "reading": "",
+      "explanation": "El presente simple puede expresar acciones en curso en italiano ('Mangio' = como/estoy comiendo). Stare + gerundio ENFATIZA que la acción ocurre JUSTO AHORA, en ese preciso momento. 'Stai chiamando?' = ¿Me estás llamando (ahora mismo)? vs 'Chiami spesso?' = ¿Llamás seguido?"
+    },
+    {
+      "front": "Stare + gerundio al passato: stavo mangiando — estaba comiendo",
+      "back": "Estaba + gerundio (acción en progreso en el pasado)",
+      "reading": "",
+      "explanation": "El imperfecto de stare + gerundio = pasado continuo. 'Stavo mangiando quando hai chiamato' = Estaba comiendo cuando llamaste. 'Cosa stavi facendo?' = ¿Qué estabas haciendo? Formación: imperfecto di stare (stavo/stavi/stava/stavamo/stavate/stavano) + gerundio."
+    },
+    {
+      "front": "stavo / stavi / stava / stavamo / stavate / stavano (imperfetto di stare)",
+      "back": "estaba / estabas / estaba / estábamos / estabais / estaban",
+      "reading": "",
+      "explanation": "El imperfecto de STARE es regular: stavo, stavi, stava, stavamo, stavate, stavano. 'Stava dormendo' = Estaba durmiendo. 'Stavamo mangiando' = Estábamos comiendo. 'Cosa stavate facendo ieri sera?' = ¿Qué estaban haciendo anoche?"
+    },
+    {
+      "front": "Sto + gerundio per indicare futuro imminente",
+      "back": "Progresivo para indicar futuro inmediato",
+      "reading": "",
+      "explanation": "Igual que en español, el progresivo puede indicar futuro muy cercano. 'Sto partendo!' = ¡Me estoy yendo! / ¡Ya me voy! 'Stanno arrivando' = Están llegando (= ya casi están aquí). Similar a: 'We're leaving!' en inglés para futuro inmediato."
+    },
+    {
+      "front": "Stare + gerundio con avverbi: sto lavorando ancora / sto già mangiando",
+      "back": "Todavía estoy trabajando / Ya estoy comiendo",
+      "reading": "",
+      "explanation": "Los adverbios se colocan entre 'stare' y el gerundio o después del gerundio. 'Sto ancora lavorando' o 'Sto lavorando ancora' = Todavía estoy trabajando. 'Sto già mangiando' = Ya estoy comiendo. 'Sta ancora dormendo!' = ¡Todavía está durmiendo!"
+    },
+    {
+      "front": "Frasi utili: Cosa stai facendo? / Stavo pensando... / Stavo giusto pensando a te!",
+      "back": "¿Qué estás haciendo? / Estaba pensando... / ¡Justo estaba pensando en ti!",
+      "reading": "",
+      "explanation": "Expresiones cotidianas muy útiles. 'Cosa stai facendo?' = ¿Qué estás haciendo? (pregunta frecuente por teléfono). 'Niente, stavo guardando la TV' = Nada, estaba mirando la tele. 'Stavo giusto pensando a te!' = ¡Justo estaba pensando en ti! — expresión típica cuando alguien aparece de sorpresa."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Gerundi irregolari y reflexivos",
+      "instruction": "Tres gerundios irregulares clave: fare→FACENDO, dire→DICENDO, bere→BEVENDO. Con reflexivos: MI sto lavando = sto lavandoMI (el pronombre puede ir antes o unido).",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Stare + gerundio al passato (imperfetto)",
+      "instruction": "Imperfecto de stare (stavo/stavi/stava...) + gerundio = estaba + gerundio. Útil para narrar acciones en progreso en el pasado.",
+      "itemIndices": [2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál gerundio es correcto?",
+      "instruction": "Formá el gerundio de estos verbos (incluyendo los irregulares).",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "recall",
+      "title": "Presente y pasado continuo",
+      "instruction": "Traducí estas oraciones en presente continuo o pasado continuo según corresponda.",
+      "itemIndices": [3, 4, 5, 7]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con stare + gerundio",
+      "instruction": "Completá con la forma correcta de stare + gerundio (presente o imperfetto).",
+      "itemIndices": [5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "Stare + gerundio: avanzado",
+      "instruction": "Gerundi irregolari: fare→facendo, dire→dicendo, bere→bevendo. Reflexivi: mi sto lavando = sto lavandomi. Pasado continuo: STAVO/STAVI/STAVA... + gerundio (stavo mangiando = estaba comiendo). Uso: acción en progreso exactamente ahora (presente) o en ese momento del pasado.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

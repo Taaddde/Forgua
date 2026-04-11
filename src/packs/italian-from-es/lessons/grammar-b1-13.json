@@ -1,0 +1,83 @@
+{
+  "id": "grammar-b1-13",
+  "title": "Pronomi relativi: che, cui, il quale",
+  "description": "Los pronombres relativos en italiano: que, quien, cuyo, donde. Sistema diferente al español con algunas trampas.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "il libro che ho letto",
+      "back": "el libro que leí",
+      "reading": "",
+      "explanation": "'Che' = que. Se usa como sujeto o objeto directo. Invariable. NUNCA va precedido de preposición. Ejemplos: 'La ragazza che parla' (sujeto), 'il libro che leggo' (objeto directo)."
+    },
+    {
+      "front": "la persona con cui parlo",
+      "back": "la persona con quien hablo",
+      "reading": "",
+      "explanation": "'Cui' se usa DESPUÉS DE PREPOSICIÓN. Reemplaza a 'che' cuando hay preposición. 'Con cui' = con quien/con el/la que. 'Di cui' = de quien/del que. 'In cui' = en el/la que. 'Da cui' = de quien/del que (origen)."
+    },
+    {
+      "front": "la città in cui abito",
+      "back": "la ciudad en la que vivo",
+      "reading": "",
+      "explanation": "'In cui' = en la que/en el que/en donde. En italiano informal también se puede decir 'dove': 'la città dove abito'. Pero 'in cui' es más correcto y frecuente en la lengua escrita."
+    },
+    {
+      "front": "un autore i cui romanzi sono famosi",
+      "back": "un autor cuyos romances (novelas) son famosos",
+      "reading": "",
+      "explanation": "CUI como genitivo (= 'cuyo/a/os/as'): artículo + cui. El artículo concuerda con la COSA poseída (no con el poseedor). 'I romanzi' (masc. pl.) → 'i cui romanzi'. 'La voce' (fem.) → 'la cui voce'."
+    },
+    {
+      "front": "il quale / la quale / i quali / le quali",
+      "back": "el cual / la cual / los cuales / las cuales",
+      "reading": "",
+      "explanation": "'Il quale' y sus variantes son formas de 'che' más formales y concordadas. Se usan para evitar ambigüedad o en registro formal. Con preposición: 'al quale', 'della quale', 'nei quali'. Equivalen a 'el/la cual' del español."
+    },
+    {
+      "front": "Ho parlato con il direttore, il quale mi ha detto...",
+      "back": "Hablé con el director, el cual me dijo...",
+      "reading": "",
+      "explanation": "Uso típico de 'il quale': cuando el antecedente está lejos o podría confundirse. En lugar de 'che' para más claridad. 'Ho incontrato la sorella di Marco, la quale lavora a Roma' (evita ambigüedad sobre quién trabaja en Roma)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Che: el pronombre relativo básico",
+      "instruction": "'Che' = que. Funciona como sujeto u objeto directo. Invariable. Regla fácil de recordar: si NO hay preposición → 'che'.",
+      "itemIndices": [0]
+    },
+    {
+      "type": "introduce",
+      "title": "Cui: preposición + pronombre",
+      "instruction": "Si HAY preposición → 'cui' (no 'che'). En español usamos 'que' incluso con preposición ('con que', 'en que'), en italiano es obligatorio 'cui'. También 'dove' para lugar (informal).",
+      "itemIndices": [1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Cui genitivo (cuyo) e il quale",
+      "instruction": "'Cuyo' en italiano = artículo + cui. El artículo concuerda con la cosa poseída. 'Il quale' es la versión formal y concordada, útil para claridad.",
+      "itemIndices": [3, 4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "¿Che o cui?",
+      "instruction": "¿Qué pronombre relativo usás cuando hay preposición?",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "recall",
+      "title": "El genitivo (cuyo)",
+      "instruction": "¿Cómo se dice 'cuyo/a' en italiano? ¿Con qué concuerda el artículo?",
+      "itemIndices": [3, 4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "Resumen: Pronomi relativi",
+      "instruction": "Esquema: 'che' (sin preposición: sujeto/OD) | preposizione + 'cui' (con preposición) | artículo + 'cui' (genitivo = cuyo, artículo concuerda con lo poseído) | 'il quale' (formal, concordado). Trampa: en italiano nunca 'con che', siempre 'con cui'.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

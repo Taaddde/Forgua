@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a2-07",
+  "title": "Verbi riflessivi — mi chiamo, mi alzo...",
+  "description": "Los verbos reflexivos italianos funcionan igual que los españoles. El gran detalle: en el passato prossimo, TODOS usan ESSERE y el participio concuerda con el sujeto.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "mi sveglio / ti svegli / si sveglia",
+      "back": "me despierto / te despiertas / se despierta",
+      "reading": "",
+      "explanation": "svegliarsi = despertarse. Los pronombres reflexivos van ANTES del verbo conjugado: mi, ti, si, ci, vi, si. Igual que en español."
+    },
+    {
+      "front": "ci svegliamo / vi svegliate / si svegliano",
+      "back": "nos despertamos / os despertáis / se despiertan",
+      "reading": "",
+      "explanation": "Plural de svegliarsi. 'A che ora vi svegliate?' = ¿A qué hora os despertáis? Los pronombres cambian pero el patrón es el mismo."
+    },
+    {
+      "front": "mi sono svegliato/a",
+      "back": "me desperté",
+      "reading": "",
+      "explanation": "PASSATO PROSSIMO de verbos reflexivos → siempre ESSERE. El participio concuerda: 'mi sono svegliato' (hombre), 'mi sono svegliata' (mujer)."
+    },
+    {
+      "front": "alzarsi / vestirsi / lavarsi",
+      "back": "levantarse / vestirse / lavarse",
+      "reading": "",
+      "explanation": "Verbos reflexivos de rutina. 'Mi alzo, mi vesto, mi lavo i denti' = Me levanto, me visto, me lavo los dientes. Verbos de la rutina diaria son casi siempre reflexivos."
+    },
+    {
+      "front": "sentirsi / chiamarsi / sedersi",
+      "back": "sentirse / llamarse / sentarse",
+      "reading": "",
+      "explanation": "'Come ti chiami?' = ¿Cómo te llamas? 'Come si sente oggi?' = ¿Cómo se siente hoy? 'Siediti!' = ¡Siéntate! (imperativo)."
+    },
+    {
+      "front": "divertirsi / annoiarsi / preoccuparsi",
+      "back": "divertirse / aburrirse / preocuparse",
+      "reading": "",
+      "explanation": "Verbos reflexivos de estado emocional. 'Ci siamo divertiti molto!' = ¡Nos divertimos mucho! 'Non ti preoccupare!' = ¡No te preocupes!"
+    },
+    {
+      "front": "Mi lavo le mani. (NO: mi lavo mie mani)",
+      "back": "Me lavo las manos.",
+      "reading": "",
+      "explanation": "DIFERENCIA CON EL ESPAÑOL: con partes del cuerpo, en italiano se usa el artículo DETERMINADO, NO el posesivo. 'Mi lavo i capelli.' = Me lavo el pelo. 'Mi faccio male al ginocchio.' = Me lastimo la rodilla."
+    },
+    {
+      "front": "Incontrarsi / vedersi / parlarsi",
+      "back": "encontrarse (mutuamente) / verse / hablarse",
+      "reading": "",
+      "explanation": "USO RECÍPROCO: los reflexivos plurales pueden expresar acción mutua. 'Ci vediamo domani!' = ¡Nos vemos mañana! 'Si sono incontrati per caso.' = Se encontraron por casualidad."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Los verbos reflexivos en presente",
+      "instruction": "Pronombres reflexivos: mi, ti, si, ci, vi, si — VAN ANTES del verbo conjugado. Igual que en español.",
+      "itemIndices": [0, 1, 3, 4]
+    },
+    {
+      "type": "recall",
+      "title": "Conjuga los reflexivos",
+      "instruction": "Conjuga el verbo reflexivo en la persona indicada.",
+      "itemIndices": [0, 1, 3, 4, 5]
+    },
+    {
+      "type": "introduce",
+      "title": "Reflexivos en el passato prossimo",
+      "instruction": "REGLA FUNDAMENTAL: todos los reflexivos usan ESSERE nel passato. El participio concuerda con el sujeto.",
+      "itemIndices": [2, 5]
+    },
+    {
+      "type": "introduce",
+      "title": "Uso recíproco y diferencias con el español",
+      "instruction": "Reflexivos recíprocos (mutuos) y la diferencia con el artículo con las partes del cuerpo.",
+      "itemIndices": [6, 7]
+    },
+    {
+      "type": "recall",
+      "title": "Verbi riflessivi — completo",
+      "instruction": "Practica todos los verbos reflexivos incluyendo el passato prossimo.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "Riflessivi — dominados",
+      "instruction": "Pronombres: mi, ti, si, ci, vi, si — antes del verbo. Nel passato prossimo: SIEMPRE essere + participio concordado. Con partes del cuerpo: artículo determinado (le mani, i capelli) NO posesivo. 'Ci vediamo!' es la despedida italiana más informal y frecuente.",
+      "itemIndices": [0, 2, 3, 5, 6, 7]
+    }
+  ]
+}

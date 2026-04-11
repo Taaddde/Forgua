@@ -1,0 +1,107 @@
+{
+  "id": "vocab-b1-09",
+  "title": "Verbi utili B1",
+  "description": "Los verbos más útiles del B1 italiano: expresan acciones complejas de argumentación, negociación y cambio. Dominarlos mejora dramáticamente tu expresión oral y escrita.",
+  "level": "b1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "affrontare",
+      "back": "enfrentar, afrontar",
+      "reading": "",
+      "explanation": "'Affrontare un problema' = afrontar un problema. 'Affrontare una situazione difficile' = enfrentar una situación difícil. Participio: 'affrontato'. Verbo regular -are."
+    },
+    {
+      "front": "raggiungere",
+      "back": "alcanzar, llegar a",
+      "reading": "",
+      "explanation": "Verbo irregular. Participio: 'raggiunto'. 'Raggiungere un obiettivo' = alcanzar un objetivo. 'Raggiungere un accordo' = alcanzar un acuerdo. 'Raggiungere qualcuno' = alcanzar a alguien (físicamente)."
+    },
+    {
+      "front": "ottenere",
+      "back": "obtener, conseguir",
+      "reading": "",
+      "explanation": "Conjugado como 'tenere' (irregular). Participio: 'ottenuto'. 'Ottenere un visto/permesso' = obtener un visado/permiso. 'Ottenere buoni risultati' = obtener buenos resultados."
+    },
+    {
+      "front": "sostenere",
+      "back": "sostener, apoyar, mantener",
+      "reading": "",
+      "explanation": "Conjugado como 'tenere'. Participio: 'sostenuto'. Triple significado: 1) apoyar físicamente; 2) apoyar una opinión: 'Sostiene che...'; 3) 'sostenere un esame' = rendir un examen. ¡Muy versátil!"
+    },
+    {
+      "front": "difendere",
+      "back": "defender",
+      "reading": "",
+      "explanation": "Participio irregular: 'difeso'. 'Difendere la propria opinione' = defender la propia opinión. 'Difendersi' = defenderse. 'La difesa' = la defensa."
+    },
+    {
+      "front": "proporre",
+      "back": "proponer",
+      "reading": "",
+      "explanation": "Irregular (come 'porre'). Participio: 'proposto'. 'Propongo di...' = Propongo... 'Una proposta' = una propuesta. 'Proposta di matrimonio' = propuesta de matrimonio."
+    },
+    {
+      "front": "rifiutare",
+      "back": "rechazar, negarse",
+      "reading": "",
+      "explanation": "Regular. 'Rifiutare un'offerta' = rechazar una oferta. 'Rifiutarsi di + infinitivo' = negarse a: 'Si è rifiutato di parlare' = Se negó a hablar. 'Il rifiuto' = el rechazo."
+    },
+    {
+      "front": "migliorare",
+      "back": "mejorar",
+      "reading": "",
+      "explanation": "Regular. Intransitivo ('il mio italiano migliora') o transitivo ('sto migliorando il mio italiano'). 'Miglioramento' = mejora. Opuesto: 'peggiorare' = empeorar."
+    },
+    {
+      "front": "aumentare",
+      "back": "aumentar, incrementar",
+      "reading": "",
+      "explanation": "Regular. 'I prezzi aumentano' = los precios aumentan. 'Aumentare di peso' = aumentar de peso. 'Un aumento' = un aumento. Opuesto: 'diminuire' = disminuir."
+    },
+    {
+      "front": "concordare / discordare",
+      "back": "concordar / discordar, (no) estar de acuerdo",
+      "reading": "",
+      "explanation": "'Concordare con qualcuno su qualcosa' = concordar con alguien en algo. Más formal que 'essere d'accordo'. 'Discordare' = no estar de acuerdo. Alternativamente: 'Sono d'accordo' / 'Non sono d'accordo'."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Verbos de acción y logro",
+      "instruction": "Verbos para hablar de desafíos y resultados. 'Raggiungere' tiene participio irregular: raggiunto. 'Ottenere' se conjuga como 'tenere'.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Verbos de argumentación",
+      "instruction": "'Sostenere che...' = sostener que... (para argumentar). 'Proporre' tiene participio 'proposto'. 'Difendere' tiene participio 'difeso'.",
+      "itemIndices": [3, 4, 5]
+    },
+    {
+      "type": "introduce",
+      "title": "Verbos de cambio y acuerdo",
+      "instruction": "Los pares de opuestos: migliorare/peggiorare, aumentare/diminuire, concordare/discordare. Son muy útiles para describir tendencias.",
+      "itemIndices": [6, 7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cuál es el participio?",
+      "instruction": "¿Cuál es el participio pasado de estos verbos irregulares?",
+      "itemIndices": [1, 2, 3, 4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice en italiano?",
+      "instruction": "Traducí los verbos al italiano.",
+      "itemIndices": [0, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "Resumen: Verbi B1",
+      "instruction": "Participios irregulares clave: raggiunto, ottenuto, sostenuto, difeso, proposto. 'Sostenere' tiene tres significados: sostener (físico), apoyar (argumento), rendir (examen). 'Rifiutarsi di + infinitivo' = negarse a hacer algo.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

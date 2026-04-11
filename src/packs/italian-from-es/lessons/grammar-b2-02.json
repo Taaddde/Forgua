@@ -1,0 +1,89 @@
+{
+  "id": "grammar-b2-02",
+  "title": "Congiuntivo trapassato",
+  "description": "El pluscuamperfecto de subjuntivo: avesse mangiato, fosse venuto. Para acciones anteriores al verbo principal en pasado o condicional pasado. Esencial para el periodo ipotetico tipo 3.",
+  "level": "b2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "avessi mangiato",
+      "back": "hubiera comido",
+      "reading": "",
+      "explanation": "Congiuntivo trapassato con AVERE: avessi/avessi/avesse/avessimo/aveste/avessero + participio passato. Nota: el participio NO concuerda con el sujeto (a diferencia del passato prossimo con essere)."
+    },
+    {
+      "front": "fossi venuto/a",
+      "back": "hubiera venido",
+      "reading": "",
+      "explanation": "Congiuntivo trapassato con ESSERE: fossi/fossi/fosse/fossimo/foste/fossero + participio passato. El participio SÍ concuerda en género y número: fossi venuto (m.) / fossi venuta (f.) / fossero venuti (m.pl.)."
+    },
+    {
+      "front": "Se avessi studiato, avrei passato l'esame.",
+      "back": "Si hubiera estudiado, habría aprobado el examen.",
+      "reading": "",
+      "explanation": "PERIODO IPOTETICO TIPO 3 (del passato/dell'irrealtà): Se + congiuntivo trapassato + condizionale passato. Hipótesis IMPOSIBLE porque el momento ya pasó. Estructura completamente paralela al español 'Si hubiera... habría...'."
+    },
+    {
+      "front": "Era contento che fosse arrivato in tempo.",
+      "back": "Estaba contento de que hubiera llegado a tiempo.",
+      "reading": "",
+      "explanation": "Verbo principale al passato (era) + che → congiuntivo trapassato para acción ANTERIOR al passato principal. Si fuera simultánea: 'Era contento che arrivasse in tempo' (congiuntivo imperfetto)."
+    },
+    {
+      "front": "Sebbene avesse studiato molto, non superò l'esame.",
+      "back": "Aunque hubiera estudiado mucho, no aprobó el examen.",
+      "reading": "",
+      "explanation": "Conectores concesivos (sebbene, benché, nonostante, quantunque) + congiuntivo trapassato cuando la acción concesiva es ANTERIOR al verbo principal en passato. 'Benché avesse mangiato, aveva ancora fame.'"
+    },
+    {
+      "front": "Parlava come se non fosse successo niente.",
+      "back": "Hablaba como si no hubiera pasado nada.",
+      "reading": "",
+      "explanation": "'Come se' con verbo principale al passato → congiuntivo trapassato para situación pasada irreal. 'Come se fosse successo' — en realidad algo sí había pasado. Diferencia: 'come se non sapesse' (imperfetto, presente irreal)."
+    },
+    {
+      "front": "Non avrei creduto che potesse farlo.",
+      "back": "No habría creído que pudiera hacerlo.",
+      "reading": "",
+      "explanation": "Condizionale passato (avrei creduto) → congiuntivo trapassato. La acción es anterior o simultánea al momento hipotético. Nota la diferencia: 'Non credo che possa farlo' (presente → congiuntivo presente)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Formación del congiuntivo trapassato",
+      "instruction": "Con AVERE: avessi/avesse/avessero + participio (sin concordancia). Con ESSERE: fossi/fosse/fossero + participio (CON concordancia de género y número). Es el pluscuamperfecto de subjuntivo.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Uso principal: periodo ipotetico tipo 3",
+      "instruction": "Se + congiuntivo trapassato + condizionale passato = hipótesis imposible del pasado. Es el 'Si hubiera... habría...' del español. La situación es irreal porque el momento ya pasó.",
+      "itemIndices": [2]
+    },
+    {
+      "type": "introduce",
+      "title": "Otros usos del congiuntivo trapassato",
+      "instruction": "Después de verbo principal en passato cuando la subordinada es ANTERIOR: era contento che fosse arrivato. Con sebbene/benché + passato. Con 'come se' + passato.",
+      "itemIndices": [3, 4, 5, 6]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Forma el congiuntivo trapassato",
+      "instruction": "Conjuga el verbo entre paréntesis en congiuntivo trapassato.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "error-correction",
+      "title": "Congiuntivo imperfetto vs trapassato",
+      "instruction": "Decide si se necesita congiuntivo imperfetto (simultaneidad) o trapassato (anterioridad).",
+      "itemIndices": [3, 4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "Congiuntivo trapassato — dominato",
+      "instruction": "Formación: avessi/fosse + participio. Con avere: sin concordancia. Con essere: concordancia de género/número. Usos: (1) periodo ipotetico tipo 3 (Se + trapassato + condizionale passato), (2) después de passato cuando la subordinada es anterior, (3) come se + passato, (4) sebbene/benché + passato.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "grammar-b1-02",
+  "title": "Futuro anteriore",
+  "description": "El 'habré hecho' italiano: para el futuro perfecto y para expresar suposiciones sobre el pasado.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "avrò mangiato",
+      "back": "habré comido",
+      "reading": "",
+      "explanation": "Futuro anteriore con avere: futuro semplice di avere (avrò/avrai/avrà/avremo/avrete/avranno) + participio passato. Para acciones que se completarán antes de otra acción futura."
+    },
+    {
+      "front": "sarò partito/a",
+      "back": "habré partido",
+      "reading": "",
+      "explanation": "Futuro anteriore con essere. Participio concuerda con el sujeto. Verbos de movimiento y reflexivos usan essere, igual que en passato prossimo y trapassato."
+    },
+    {
+      "front": "Quando avrai finito, chiamami.",
+      "back": "Cuando hayas terminado, llámame.",
+      "reading": "",
+      "explanation": "Uso temporal: con 'quando' (cuando), 'appena' (en cuanto), 'dopo che' (después de que) el italiano usa futuro anteriore donde el español usa presente de subjuntivo o perfecto. Diferencia importante."
+    },
+    {
+      "front": "Appena sarò arrivato, ti mando un messaggio.",
+      "back": "En cuanto llegue / haya llegado, te mando un mensaje.",
+      "reading": "",
+      "explanation": "'Appena + futuro anteriore' = en cuanto + subjuntivo/presente español. En italiano formal y escrito, dopo le congiunzioni temporali con futuro → futuro anteriore (non presente o passato)."
+    },
+    {
+      "front": "Avrà dimenticato il nostro appuntamento.",
+      "back": "Habrá olvidado nuestra cita. (supongo que lo olvidó)",
+      "reading": "",
+      "explanation": "Uso de suposición: el futuro anteriore expresa una suposición sobre algo pasado. Equivale a 'debe de haber + participio' o 'supongo que habrá + participio'. Muy frecuente en italiano hablado."
+    },
+    {
+      "front": "Sarà andata a dormire, non risponde.",
+      "back": "Habrá ido a dormir, no contesta.",
+      "reading": "",
+      "explanation": "Suposición en futuro anteriore con essere. Noten: la acción es pasada pero se usa el futuro italiano para expresar probabilidad pasada. En español: 'Debe de haber ido / Se habrá ido a dormir'."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "La estructura del futuro anteriore",
+      "instruction": "Forma: futuro di avere/essere + participio passato. Mismas reglas essere/avere de siempre. Es el equivalente del 'habré + participio' español.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Uso temporal: cuando, en cuanto, después",
+      "instruction": "¡Diferencia clave con el español! Con 'quando', 'appena', 'dopo che' + futuro → en italiano se usa futuro anteriore (NO presente). 'Cuando hayas terminado' → 'Quando avrai finito'.",
+      "itemIndices": [2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Suposición sobre el pasado",
+      "instruction": "Uso muy frecuente en italiano hablado: futuro anteriore para especular sobre lo que ocurrió. 'Avrà dimenticato' = 'Debe de haber olvidado / Supongo que olvidó'.",
+      "itemIndices": [4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "Formá el futuro anteriore",
+      "instruction": "Construí el futuro anteriore de: finire (io), arrivare (lei), dimenticare (lui).",
+      "itemIndices": [0, 1, 4]
+    },
+    {
+      "type": "recall",
+      "title": "Temporale vs suposición",
+      "instruction": "Traducí estas frases al italiano usando el futuro anteriore.",
+      "itemIndices": [2, 3, 5]
+    },
+    {
+      "type": "summary",
+      "title": "Resumen: Futuro anteriore",
+      "instruction": "Dos usos: 1) TEMPORAL — con quando/appena/dopo che + futuro → futuro anteriore (diferencia con el español). 2) SUPOSICIÓN — sobre algo que probablemente pasó ('Avrà dimenticato' = supongo que olvidó). Estructura: futuro di avere/essere + participio.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

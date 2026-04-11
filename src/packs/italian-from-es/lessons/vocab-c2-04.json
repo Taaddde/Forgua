@@ -1,0 +1,89 @@
+{
+  "id": "vocab-c2-04",
+  "title": "Tecnicismi avanzati",
+  "description": "El italiano de especialidad — jurídico, económico, médico, académico — tiene un léxico técnico que incluye latinismos, anglicismos integrados y expresiones específicas de cada campo. Para leer la prensa económica italiana, textos jurídicos o artículos científicos, estos términos son indispensables.",
+  "level": "c2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "giurisprudenza",
+      "back": "jurisprudencia / derecho (como disciplina académica)",
+      "reading": "/dʒurispruˈdɛntsa/",
+      "explanation": "'La Corte di Cassazione ha consolidato questa giurisprudenza.' En italiano, 'giurisprudenza' = las sentencias judiciales que crean precedente. También designa la carrera universitaria de Derecho ('facoltà di Giurisprudenza'). Diferente del español donde 'jurisprudencia' tiene solo el primer sentido."
+    },
+    {
+      "front": "ratio legis",
+      "back": "razón de la ley / finalidad de la norma",
+      "reading": "/ˈratsjo ˈledʒis/",
+      "explanation": "'La ratio legis di questa norma è tutelare i consumatori.' Latinismo jurídico de uso cotidiano en el derecho italiano. La razón o propósito que motivó la creación de una norma. Fundamental para la interpretación teleológica del derecho."
+    },
+    {
+      "front": "fallimento (giuridico)",
+      "back": "quiebra (jurídica) / procedimiento concursal",
+      "reading": "/falliˈmento/",
+      "explanation": "'L'azienda ha dichiarato fallimento dopo anni di perdite.' En derecho italiano, 'fallimento' es el procedimiento concursal formal. Nota: en 2022 se reformó el Codice della crisi d'impresa, sustituyendo 'fallimento' por 'liquidazione giudiziale' en el texto legal."
+    },
+    {
+      "front": "dolo / colpa grave",
+      "back": "dolo (intención delictiva) / culpa grave (negligencia grave)",
+      "reading": "/ˈdɔlo/ /ˈkolpa ˈgrave/",
+      "explanation": "Distinción jurídica fundamental: 'colpa' = negligencia. 'Colpa grave' = negligencia grave, imprudencia seria. 'Dolo' = intención deliberada de causar daño. 'Si risponde per dolo o colpa grave; non per colpa lieve.' Esencial para entender textos de responsabilità civile y penale."
+    },
+    {
+      "front": "PIL (Prodotto Interno Lordo)",
+      "back": "PIB (Producto Interior Bruto)",
+      "reading": "/ˈpil/",
+      "explanation": "'Il PIL italiano è cresciuto dell'1,5% nell'ultimo anno.' El acrónimo italiano es PIL, no PIB. En la prensa económica italiana: variazione del PIL, crescita del PIL, PIL pro capite. Equivalente al español PIB o inglés GDP."
+    },
+    {
+      "front": "spread (finanzario)",
+      "back": "diferencial de rentabilidad (entre bonos soberanos)",
+      "reading": "/ˈsprɛd/",
+      "explanation": "'Lo spread tra BTP e Bund è sceso sotto i 100 punti base.' Anglicismo financiero completamente integrado en el italiano. Se refiere específicamente al diferencial entre el BTP italiano y el Bund alemán, indicador de la percepción de riesgo de Italia en los mercados."
+    },
+    {
+      "front": "prognosi riservata",
+      "back": "pronóstico reservado (médico-legal)",
+      "reading": "/ˈprɔɲɲozi rizerˈvata/",
+      "explanation": "'Il paziente è ricoverato in terapia intensiva con prognosi riservata.' Término médico-legal: cuando el médico no puede aún determinar la evolución de la enfermedad. Aparece frecuentemente en crónicas policiales y de accidentes."
+    },
+    {
+      "front": "peer review / ceteris paribus",
+      "back": "revisión por pares / en igualdad de condiciones",
+      "reading": "",
+      "explanation": "'Lo studio è stato pubblicato su una rivista con peer review.' / 'Ceteris paribus, un aumento dei tassi riduce la domanda.' El primero es un anglicismo académico plenamente integrado. El segundo es un latinismo económico de uso cotidiano en economía y en la prensa financiera italiana."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El léxico jurídico italiano",
+      "instruction": "Los primeros cuatro términos (giurisprudenza, ratio legis, fallimento, dolo/colpa grave) son los más básicos del léxico jurídico italiano. El italiano jurídico tiene una larga tradición de latinismos vivos que el español abandonó hace tiempo. En Italia, estos términos aparecen en los periódicos, no solo en los tribunales.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "word-in-context",
+      "title": "El término correcto en el texto",
+      "instruction": "Lee cada fragmento de texto periodístico o académico e identifica el término técnico que lo define. Atención a las diferencias con el español: 'giurisprudenza' no es exactamente 'jurisprudencia'.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Léxico económico y médico-legal",
+      "instruction": "PIL, spread, prognosi riservata: tres términos que aparecen constantemente en la prensa italiana. 'Spread' es un anglicismo que los italianos adoptaron sin traducción durante la crisis del euro; hoy es imposible entender el debate económico italiano sin saberlo.",
+      "itemIndices": [4, 5, 6, 7]
+    },
+    {
+      "type": "recall",
+      "title": "Tecnicismo → significado",
+      "instruction": "Ves el término técnico italiano. Explica su significado y en qué contexto se usa (jurídico, económico, académico, médico).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "Tecnicismi avanzati — base consolidata",
+      "instruction": "Para profundizar en el léxico jurídico italiano: lee las sentenze della Corte Costituzionale (disponibles online). Para economía: Il Sole 24 Ore. Para medicina: le cronache di salute del Corriere della Sera. Estos textos usan exactamente estos términos en contexto real.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

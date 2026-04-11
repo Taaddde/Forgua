@@ -1,0 +1,83 @@
+{
+  "id": "reading-b2-05",
+  "title": "Lettura letteraria: La lettera",
+  "description": "Texto narrativo literario B2: una mujer encuentra una carta no enviada de su pasado. Practicás el periodo ipotetico tipo 3, el uso del trapassato en narrativa literaria y el simbolismo.",
+  "level": "b2",
+  "category": "reading",
+  "items": [
+    {
+      "front": "una busta gialla, ingiallita dal tempo, con la sua grafia — dalla curva ampia e infantile",
+      "back": "un sobre amarillo, amarillento por el tiempo, con su caligrafía — de curva amplia e infantil",
+      "reading": "",
+      "explanation": "'Una busta' = un sobre (de carta). 'Ingiallita' = amarillenta (dal tempo = por el tiempo; 'ingiallire' = ponerse amarillo). 'La grafia' = la caligrafía, la letra manuscrita. 'Dalla curva ampia e infantile' = de curva amplia e infantil — descripción que sugiere que la carta fue escrita de joven. El adjetivo 'infantile' referido a la grafia tiene una carga emocional: es la letra de la Giulia joven."
+    },
+    {
+      "front": "Lo lesse in piedi, appoggiata allo spigolo del cassetto.",
+      "back": "Lo leyó de pie, apoyada en el filo/borde del cajón.",
+      "reading": "",
+      "explanation": "'Lo lesse' = lo leyó (passato remoto di 'leggere': lessi/leggesti/lesse). 'In piedi' = de pie (expresión fija). 'Appoggiata' = apoyada (participio di 'appoggiarsi', acuerda con el sujeto femenino). 'Lo spigolo' = el filo, el borde anguloso. 'Il cassetto' = el cajón. La postura 'in piedi, appoggiata allo spigolo' es una imagen física de provisionalidad: no se sienta a leer cómodamente — insinúa que la carta la sorprende."
+    },
+    {
+      "front": "Gli aveva chiesto di aspettarla sotto il tiglio, alle sei, e lui non era venuto.",
+      "back": "Le había pedido que la esperara bajo el tilo, a las seis, y él no había venido.",
+      "reading": "",
+      "explanation": "TRAPASSATO PROSSIMO narrativo: 'aveva chiesto' y 'non era venuto'. Ambos son anteriores al momento en que Giulia lee la carta. 'Il tiglio' = el tilo (árbol, frecuente en plazas italianas). 'Sotto il tiglio' es un topos literario romántico. La negación 'lui non era venuto' es el corazón emocional del texto: el no-aparecer que lo cambió todo."
+    },
+    {
+      "front": "'Se tu fossi venuto, tutto sarebbe stato diverso.'",
+      "back": "'Si hubieras venido, todo habría sido diferente.'",
+      "reading": "",
+      "explanation": "PERIODO IPOTETICO TIPO 3 en discorso diretto: 'se tu fossi venuto' (congiuntivo trapassato) + 'tutto sarebbe stato diverso' (condizionale passato). Hipótesis imposible del pasado. Esta frase es el núcleo emocional de la carta: la condición no cumplida y su consecuencia imaginada. La carta nunca enviada contiene lo que Giulia no pudo decir. El tipo 3 aquí tiene una carga irreparablemente melancólica."
+    },
+    {
+      "front": "'Avrei avuto il coraggio di dirti ciò che non ho mai detto.'",
+      "back": "'Habría tenido el coraje de decirte lo que nunca te dije.'",
+      "reading": "",
+      "explanation": "Continuación del periodo ipotetico tipo 3: 'avrei avuto il coraggio' = habría tenido el coraje. 'Dirti' = decirte (diteli, dire + ti). 'Ciò che non ho mai detto' = lo que nunca dije. La frase sugiere una declaración no hecha: amor, quizás, o algo importante que quedó sin decir. 'Il coraggio' = el coraje, la valentía. El condizionale passato acumula la irreversibilidad."
+    },
+    {
+      "front": "Ripiegò il foglio con attenzione, lo rimise nella busta, la busta nel cassetto. Poi chiuse il cassetto a chiave.",
+      "back": "Dobló la hoja con cuidado, la devolvió al sobre, el sobre al cajón. Luego cerró el cajón con llave.",
+      "reading": "",
+      "explanation": "Serie de PASSATO REMOTO: ripiegò, rimise, chiuse. La cuidadosa serie de acciones (riplegar, devolver, cerrar) es simbólica: Giulia cierra deliberadamente el pasado. 'Rimise' = volvió a poner (passato remoto di 'rimettere'). 'Chiuse il cassetto A CHIAVE' — la llave que no había usado en años: el gesto de cerrar definitivamente. 'A chiave' = con llave."
+    },
+    {
+      "front": "'Il presente, pensò, ha il grande vantaggio di essere già qui.'",
+      "back": "'El presente, pensó, tiene la gran ventaja de estar ya aquí.'",
+      "reading": "",
+      "explanation": "La frase final del cuento: una reflexión filosófica levemente irónica y pragmática. 'Il grande vantaggio di + infinitivo' = la gran ventaja de hacer algo. 'Essere già qui' = estar ya aquí. El presente tiene la ventaja de ser real, tangible, mientras el pasado solo existe en cartas no enviadas. El tono es de aceptación serena, no de amargura. La frase tiene algo de humor filosófico suave."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Lectura literaria: estructura narrativa y símbolos",
+      "instruction": "Antes de analizar la gramática, identifica la estructura narrativa: 1) Giulia encuentra la carta. 2) Recuerda lo que había pasado. 3) Lee la carta. 4) La cierra. 5) Reflexión final. ¿Qué simboliza la carta no enviada? ¿Y el gesto de cerrar el cajón con llave?",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Vocabulario literario y emocional",
+      "instruction": "El cuento usa vocabulario preciso y cargado de significado. Identifica las connotaciones de: ingiallita, lo spigolo, il tiglio, il coraggio. ¿Por qué el autor eligió estas palabras específicas?",
+      "itemIndices": [0, 1, 3]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Comprensión profunda y análisis literario",
+      "instruction": "Respondé las preguntas críticas sobre el texto. ¿Qué revelan las elecciones lingüísticas del autor sobre el estado emocional de Giulia? ¿Qué sugiere la frase final?",
+      "itemIndices": [3, 5, 6]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "El período hipotético tipo 3 en literatura",
+      "instruction": "El cuento usa el tipo 3 en discorso diretto. Identifica los elementos: se + congiuntivo trapassato + condizionale passato. ¿Por qué es perfectamente apropiado el tipo 3 aquí y no el tipo 2?",
+      "itemIndices": [3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "Lectura literaria completada",
+      "instruction": "Vocabulario literario aprendido: la busta, la grafia, ingiallita, lo spigolo, il tiglio, ripiegare, a chiave. GRAMMATICA LETTERARIA: trapassato narrativo, tipo 3 in discorso diretto, passato remoto en serie (acciones rápidas y deliberadas). SIMBOLISMO: la carta no enviada = los sentimientos no expresados; cerrar el cajón con llave = decisión de cerrar el pasado.",
+      "itemIndices": [2, 5, 6]
+    }
+  ]
+}

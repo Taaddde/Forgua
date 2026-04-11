@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a1-25",
+  "title": "Le interrogative — dove? quando? come? quanto? perché? chi? che cosa?",
+  "description": "Las palabras interrogativas del italiano. Casi idénticas al español con pequeñas diferencias. Esenciales para hacer preguntas y mantener conversaciones.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Dove? / Dov'è?",
+      "back": "¿Dónde? / ¿Dónde está?",
+      "reading": "",
+      "explanation": "'Dove' = dónde. 'Dove vai?' = ¿Adónde vas? 'Dove abiti?' = ¿Dónde vivís? Ante vocal o 'è': contracción obligatoria → 'Dov'è il bagno?' = ¿Dónde está el baño? 'Dov'è?' es la forma más usada con essere."
+    },
+    {
+      "front": "Quando?",
+      "back": "¿Cuándo?",
+      "reading": "",
+      "explanation": "'Quando' = cuándo. 'Quando arrivi?' = ¿Cuándo llegás? 'Quando è il tuo compleanno?' = ¿Cuándo es tu cumpleaños? 'Da quando?' = ¿Desde cuándo? 'Fino a quando?' = ¿Hasta cuándo?"
+    },
+    {
+      "front": "Come?",
+      "back": "¿Cómo? (manera, estado)",
+      "reading": "",
+      "explanation": "'Come' = cómo. 'Come stai?' = ¿Cómo estás? 'Come si chiama?' = ¿Cómo se llama? 'Come mai?' = ¿Cómo es que...? / ¿Por qué? (expresión coloquial). 'Come si dice...?' = ¿Cómo se dice...? — muy útil para aprender idiomas."
+    },
+    {
+      "front": "Quanto? / Quanta? / Quanti? / Quante?",
+      "back": "¿Cuánto/a/os/as?",
+      "reading": "",
+      "explanation": "'Quanto' concuerda con el sustantivo que modifica: 'Quanto costa?' (precio, masc.), 'Quanta acqua?' (f.sg.), 'Quanti anni hai?' (m.pl.), 'Quante persone?' (f.pl.). Como adverbio invariable: 'Quanto è lontano?' = ¿Qué tan lejos está?"
+    },
+    {
+      "front": "Perché?",
+      "back": "¿Por qué? / Porque",
+      "reading": "",
+      "explanation": "'Perché' sirve para DOS funciones: pregunta (¿por qué?) y respuesta (porque). 'Perché non vieni?' = ¿Por qué no venís? 'Perché sono stanco' = Porque estoy cansado. En español necesitamos dos palabras distintas ('por qué' vs 'porque'). En italiano es la misma."
+    },
+    {
+      "front": "Chi?",
+      "back": "¿Quién? / ¿Quiénes?",
+      "reading": "",
+      "explanation": "'Chi' = quién/quiénes (invariable, no cambia para plural). 'Chi è?' = ¿Quién es? 'Chi viene stasera?' = ¿Quién viene esta noche? 'Con chi vai?' = ¿Con quién vas? 'Di chi è?' = ¿De quién es? Chi no varía en plural (como en inglés 'who')."
+    },
+    {
+      "front": "Che cosa? / Cosa? / Che?",
+      "back": "¿Qué? (objeto/acción)",
+      "reading": "",
+      "explanation": "Tres formas para '¿qué?': 'Che cosa' (formal), 'Cosa' (más coloquial, muy común), 'Che' (más informal). 'Cosa fai?' = ¿Qué hacés? 'Cosa vuoi mangiare?' = ¿Qué querés comer? 'Che significa?' = ¿Qué significa? En el habla cotidiana 'Cosa?' es la más frecuente."
+    },
+    {
+      "front": "Quale? / Quali? — ¿Cuál? / ¿Cuáles?",
+      "back": "¿Cuál? (singular) / ¿Cuáles? (plural)",
+      "reading": "",
+      "explanation": "'Quale' (sing.) / 'quali' (pl.) = cuál/cuáles. 'Quale preferisci?' = ¿Cuál preferís? 'Qual è il tuo numero?' = ¿Cuál es tu número? (Qual ante 'è' por euffonía). 'Quali sono i tuoi hobby?' = ¿Cuáles son tus hobbies?"
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Las 8 palabras interrogativas esenciales",
+      "instruction": "DOVE (dónde), QUANDO (cuándo), COME (cómo), QUANTO/A/I/E (cuánto/a/os/as), PERCHÉ (por qué/porque), CHI (quién), COSA/CHE COSA (qué), QUALE/QUALI (cuál/cuáles).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué interrogativo va aquí?",
+      "instruction": "Elegí el interrogativo correcto para completar cada pregunta.",
+      "itemIndices": [0, 1, 2, 4, 5, 6, 7]
+    },
+    {
+      "type": "recall",
+      "title": "Formulá la pregunta en italiano",
+      "instruction": "Traducí estas preguntas al italiano. Elegí el interrogativo correcto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Interrogativos en diálogos reales",
+      "instruction": "Mirá estos mini-diálogos e identificá el interrogativo usado.",
+      "itemIndices": [0, 2, 4, 6, 7]
+    },
+    {
+      "type": "error-correction",
+      "title": "Corregí las preguntas",
+      "instruction": "Estas preguntas tienen el interrogativo incorrecto o mal formado. Corregí.",
+      "itemIndices": [3, 5, 7]
+    },
+    {
+      "type": "summary",
+      "title": "Interrogativos italianos: tabla completa",
+      "instruction": "DOVE? (dónde) — DOV'È (dónde está). QUANDO? (cuándo). COME? (cómo). QUANTO/A/I/E? (cuánto). PERCHÉ? (por qué / porque — igual para ambos). CHI? (quién, invariable). COSA? / CHE COSA? / CHE? (qué). QUALE/QUALI? (cuál/cuáles). Perché tiene la ventaja de funcionar en ambos sentidos.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

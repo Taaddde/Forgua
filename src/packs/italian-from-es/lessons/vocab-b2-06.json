@@ -1,0 +1,164 @@
+{
+  "id": "vocab-b2-06",
+  "title": "Letteratura e estetica",
+  "description": "Vocabulario literario y estético para hablar sobre obras, autores y movimientos culturales. Imprescindible para la cultura italiana.",
+  "level": "b2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "lo stile",
+      "back": "el estilo",
+      "reading": "",
+      "explanation": "'Stile narrativo/poetico' = estilo narrativo/poético. 'Stile di vita' = estilo de vida. 'Stilistico' = estilístico. 'Stilista' = diseñador/a de moda (en italiano). 'Moda e stile' = moda y estilo."
+    },
+    {
+      "front": "il genere",
+      "back": "el género (literario/gramatical/cinematográfico)",
+      "reading": "",
+      "explanation": "'Genere letterario' = género literario (romanzo, poesia, teatro). 'Genere grammaticale' = género gramatical. 'Genere cinematografico' = género cinematográfico. 'Di genere' = de género (como tema)."
+    },
+    {
+      "front": "la narrativa",
+      "back": "la narrativa / la ficción en prosa",
+      "reading": "",
+      "explanation": "Tutto ciò che è narrativo in prosa: romanzi, racconti, novelle. 'Narrativa contemporanea' = narrativa contemporánea. 'Tecnica narrativa' = técnica narrativa. Aggettivo: narrativo."
+    },
+    {
+      "front": "l'ironia (f.)",
+      "back": "la ironía",
+      "reading": "",
+      "explanation": "'Ironia amara/sottile' = ironía amarga/sutil. 'Con ironia' = irónicamente. 'Registro ironico' = registro irónico. Tipi: ironia socratica, ironia romantica. Aggettivo: ironico."
+    },
+    {
+      "front": "la metafora",
+      "back": "la metáfora",
+      "reading": "",
+      "explanation": "'Metafora estesa' = metáfora extendida. 'Usare una metafora' = usar una metáfora. 'Metaforico' = metafórico. 'Il linguaggio è pieno di metafore morte' (metáforas lexicalizadas). Differenza con similitudine (simil)."
+    },
+    {
+      "front": "l'allegoria (f.)",
+      "back": "la alegoría",
+      "reading": "",
+      "explanation": "Figura retorica in cui personaggi/eventi rappresentano concetti astratti. 'La Divina Commedia è un'allegoria morale.' Aggettivo: allegorico. Distinta dalla metafora: è più sistematica e sostenuta."
+    },
+    {
+      "front": "il simbolismo",
+      "back": "el simbolismo",
+      "reading": "",
+      "explanation": "Como movimiento literario-artístico (fine '800). Come tecnica: uso de símbolos para evocar ideas. 'Il simbolismo di Pascoli'. 'Valore simbolico' = valor simbólico. 'Il fiore bianco ha valore simbolico di purezza.'"
+    },
+    {
+      "front": "il realismo",
+      "back": "el realismo",
+      "reading": "",
+      "explanation": "'Verismo' es la variante italiana del realismo (Verga, Capuana). 'Neorealismo' = neorrealismo (pos-guerra: Pavese, Calvino, Pasolini en cine). 'Realismo magico' = realismo mágico."
+    },
+    {
+      "front": "il modernismo",
+      "back": "el modernismo (literario)",
+      "reading": "",
+      "explanation": "En literatura italiana: Pirandello, Svevo, prime avanguardie. No confundir con 'modernismo' español (que es más parecido al simbolismo). 'Romanzo modernista' = novela modernista."
+    },
+    {
+      "front": "il postmoderno",
+      "back": "el posmodernismo / lo posmoderno",
+      "reading": "",
+      "explanation": "En literatura: metanarrazione, intertestualità, ironia. Umberto Eco ('Il nome della rosa') = massimo esempio italiano. 'Condizione postmoderna' = condición posmoderna (Lyotard)."
+    },
+    {
+      "front": "l'avanguardia (f.)",
+      "back": "la vanguardia (artística)",
+      "reading": "",
+      "explanation": "Le avanguardie italiane: Futurismo (Marinetti), Ermetismo, Novissimi. 'Avanguardia letteraria/artistica'. 'Essere all'avanguardia' = estar a la vanguardia, en sentido figurado = ser pionero."
+    },
+    {
+      "front": "il canone",
+      "back": "el canon (literario)",
+      "reading": "",
+      "explanation": "'Il canone letterario italiano' = el canon literario italiano (Dante, Petrarca, Boccaccio, Ariosto, Leopardi, Manzoni). 'Canonical' = canónico. 'Decostruzione del canone' = deconstrucción del canon."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Elementos del texto literario",
+      "instruction": "Stile, genere, narrativa: las categorías básicas para hablar de literatura.",
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Figuras retóricas",
+      "instruction": "Ironia, metafora, allegoria, simbolismo: las figuras que definen el lenguaje literario.",
+      "itemIndices": [
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "type": "introduce",
+      "title": "Movimientos literarios",
+      "instruction": "Realismo, modernismo, postmoderno, avanguardia, canone: los grandes movimientos de la literatura italiana.",
+      "itemIndices": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "type": "recognize",
+      "title": "Repaso: Letteratura e estetica",
+      "instruction": "Practica todos los términos literarios y estéticos.",
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Análisis literario",
+      "instruction": "Completa estas oraciones de crítica literaria.",
+      "itemIndices": [
+        0,
+        3,
+        4,
+        7,
+        10,
+        11
+      ]
+    },
+    {
+      "type": "summary",
+      "title": "Letteratura e estetica — dominado",
+      "instruction": "Categorías: stile, genere, narrativa. Figuras: ironia (Pirandello), metafora, allegoria (Dante), simbolismo. Movimientos: verismo (Verga) → modernismo → avanguardie → neorealismo → postmoderno (Eco). Il canone: Dante, Petrarca, Boccaccio.",
+      "itemIndices": [
+        0,
+        1,
+        3,
+        4,
+        5,
+        7,
+        8,
+        10,
+        11
+      ]
+    }
+  ]
+}

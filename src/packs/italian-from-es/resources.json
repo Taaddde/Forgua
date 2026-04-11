@@ -1,0 +1,617 @@
+[
+  {
+    "name": "Nuovo Espresso 1 (A1)",
+    "author": "Maria Balì, Luciana Ziglio",
+    "type": "book",
+    "level": "a1",
+    "areas": ["grammar", "vocabulary", "listening", "conversation"],
+    "instructionLanguage": "italiano",
+    "url": "https://www.almaedizioni.it/en/catalogo/new-italian-espresso/",
+    "price": "paid",
+    "priceApprox": "~€25-30 EUR/libro",
+    "communityRating": "4.7/5",
+    "description": "La serie de manuales de italiano para extranjeros más adoptada en el mundo (Alma Edizioni). Cubren los 6 niveles CEFR de A1 a C2. Enfoque comunicativo con actividades orales, textos reales y referencia gramatical integrada. Los libros 1 y 2 cubren A1-B1.",
+    "pros": [
+      "Serie de referencia mundial para italiano LE",
+      "Actividades orales desde la primera lección",
+      "Gramática explicada con ejemplos contextualizados",
+      "Audio y vídeo incluidos en la edición digital"
+    ],
+    "cons": [
+      "Las instrucciones están en italiano (sin traducción al español)",
+      "Precio elevado si se compran todos los niveles"
+    ],
+    "recommendedOrder": 1,
+    "complementaryResources": ["Nuovo Espresso 2 (A2-B1)", "Nuovo Espresso 3 (B1-B2)"]
+  },
+  {
+    "name": "Nuovo Espresso 2 (A2–B1)",
+    "author": "Maria Balì, Luciana Ziglio",
+    "type": "book",
+    "level": "a2",
+    "areas": ["grammar", "vocabulary", "listening", "conversation"],
+    "instructionLanguage": "italiano",
+    "url": "https://www.almaedizioni.it/en/catalogo/new-italian-espresso/",
+    "price": "paid",
+    "priceApprox": "~€25-30 EUR/libro",
+    "communityRating": "4.7/5",
+    "description": "Segundo libro de la serie Nuovo Espresso. Introduce el passato prossimo, los verbos reflexivos, pronombres objeto y comparativos. Actividades comunicativas con situaciones de la vida real.",
+    "pros": [
+      "Progresión gradual y bien estructurada",
+      "Integración de las 4 destrezas",
+      "Materiales de audio de alta calidad"
+    ],
+    "cons": [
+      "Sin explicaciones en español",
+      "Necesita guía del profesor o mucha autonomía"
+    ],
+    "recommendedOrder": 2,
+    "complementaryResources": ["Nuovo Espresso 1", "Nuovo Espresso 3"]
+  },
+  {
+    "name": "Nuovo Espresso 3–5 (B1–C2)",
+    "author": "Maria Balì, Giovanna Rizzo",
+    "type": "book",
+    "level": "b1",
+    "areas": ["grammar", "vocabulary", "reading", "listening", "conversation"],
+    "instructionLanguage": "italiano",
+    "url": "https://www.almaedizioni.it/en/catalogo/new-italian-espresso/",
+    "price": "paid",
+    "priceApprox": "~€28-35 EUR/libro",
+    "communityRating": "4.6/5",
+    "description": "Libros 3, 4 y 5 de la serie para niveles B1, B2 y C1-C2. Incorporan textos literarios, argumentación, registro formal y estructuras complejas. Ideales para preparar certificaciones CILS o CELI.",
+    "pros": [
+      "Cobertura completa hasta C2",
+      "Textos auténticos literarios y periodísticos",
+      "Preparación para certificaciones oficiales"
+    ],
+    "cons": [
+      "Solo recomendable con base sólida de B1 previa",
+      "Algunas actividades requieren un profesor"
+    ],
+    "recommendedOrder": 3,
+    "complementaryResources": ["Treccani Vocabolario", "Grammatica italiana per tutti"]
+  },
+  {
+    "name": "Via del Corso (A1–B2)",
+    "author": "Telis Marin, Pierangela Diadori",
+    "type": "book",
+    "level": "a1",
+    "areas": ["grammar", "vocabulary", "listening", "reading", "conversation"],
+    "instructionLanguage": "italiano",
+    "url": "https://www.edilingua.it/en/5-via-del-corso",
+    "price": "paid",
+    "priceApprox": "~€22-28 EUR/libro",
+    "communityRating": "4.5/5",
+    "description": "Manual de italiano de Edilingua organizado en 4 niveles (A1, A2, B1, B2). Construido alrededor de una historia de ficción ambientada en Roma y Florencia, narrada como sit-com y novela gráfica. Muy visual y motivador. Existe edición específica para angloparlantes ('Via del Corso for English Speakers').",
+    "pros": [
+      "Narrativa integrada que hace el aprendizaje inmersivo",
+      "Muy visual con formato de novela gráfica",
+      "Cultura italiana integrada en cada unidad",
+      "Versión para anglófonos disponible"
+    ],
+    "cons": [
+      "No existe edición específica para hispanohablantes",
+      "El hilo narrativo puede distraer de la gramática sistemática"
+    ],
+    "recommendedOrder": 4,
+    "complementaryResources": ["Nuovo Espresso", "Grammatica italiana per tutti"]
+  },
+  {
+    "name": "Assimil — El italiano sin esfuerzo (L'italiano senza sforzo)",
+    "author": "Giovanna Galdo",
+    "type": "method",
+    "level": "a1",
+    "areas": ["grammar", "vocabulary", "listening", "reading"],
+    "instructionLanguage": "español",
+    "url": "https://www.assimil.com/en/with-ease/214-italiano-9782700504217.html",
+    "price": "paid",
+    "priceApprox": "~€28-35 EUR (libro + audio)",
+    "communityRating": "4.6/5",
+    "description": "El método Assimil más conocido para aprender italiano desde español. 100 lecciones progresivas con diálogos bilingües (italiano-español), notas gramaticales y audios nativos. Lleva al estudiante de A1 a B2 aproximadamente. Ideal para autodidactas disciplinados. VENTAJA: Las instrucciones y traducciones están en español.",
+    "pros": [
+      "Instrucciones y traducciones en español",
+      "Método probado durante décadas",
+      "Diálogos naturales con audio nativo",
+      "Ideal para autoaprendizaje sin profesor"
+    ],
+    "cons": [
+      "Requiere disciplina diaria para ser efectivo",
+      "La gramática se introduce de forma inductiva (puede frustrar a perfeccionistas)",
+      "El audio físico (CDs) está quedando obsoleto"
+    ],
+    "recommendedOrder": 5,
+    "complementaryResources": ["Nuovo Espresso 1", "Coffee Break Italian"]
+  },
+  {
+    "name": "Pimsleur Italian (Niveles 1–5)",
+    "author": "Pimsleur / Simon & Schuster",
+    "type": "audio",
+    "level": "a1",
+    "areas": ["listening", "conversation", "pronunciation"],
+    "instructionLanguage": "inglés",
+    "url": "https://www.pimsleur.com/learn-italian/",
+    "price": "paid",
+    "priceApprox": "~$20 USD/mes (suscripción) o ~$150 USD/nivel",
+    "communityRating": "4.4/5",
+    "description": "Curso de audio con 5 niveles de 30 lecciones cada uno (~150 horas totales). Cada lección dura 30 minutos y se basa en repetición espaciada oral. Excelente para pronunciación y expresión oral. Las instrucciones están en inglés, no en español, pero el contenido italiano es de alta calidad.",
+    "pros": [
+      "Excelente para pronunciación y producción oral",
+      "Se puede usar mientras se conduce o camina",
+      "5 niveles que cubren hasta B2 aprox.",
+      "Prueba gratuita de 7 días"
+    ],
+    "cons": [
+      "Las instrucciones están en inglés, no español",
+      "No desarrolla lectura ni escritura",
+      "Precio elevado para el contenido ofrecido"
+    ],
+    "recommendedOrder": 6,
+    "complementaryResources": ["Nuovo Espresso", "Coffee Break Italian"]
+  },
+  {
+    "name": "Duolingo Italiano",
+    "author": "Duolingo Inc.",
+    "type": "app",
+    "level": "a1",
+    "areas": ["vocabulary", "grammar", "reading"],
+    "instructionLanguage": "español",
+    "url": "https://www.duolingo.com/course/it/es/",
+    "price": "freemium",
+    "priceApprox": "$0-7 USD/mes",
+    "communityRating": "4.3/5",
+    "description": "El curso de italiano de Duolingo disponible desde español. Lecciones gamificadas de 5-10 minutos. Cubre vocabulario y gramática básica hasta aproximadamente A2-B1. Útil para crear el hábito de estudio diario y como complemento, pero insuficiente como recurso único.",
+    "pros": [
+      "Totalmente gratuito en versión básica",
+      "Instrucciones en español",
+      "Gamificación que crea hábito",
+      "Disponible en móvil y web"
+    ],
+    "cons": [
+      "No profundiza en gramática",
+      "No llega más allá de B1",
+      "Se vuelve repetitivo y desmotivador a largo plazo"
+    ],
+    "recommendedOrder": 7,
+    "complementaryResources": ["Nuovo Espresso 1", "Coffee Break Italian"]
+  },
+  {
+    "name": "ItalianPod101",
+    "author": "Innovative Language Learning",
+    "type": "website",
+    "level": "a1",
+    "areas": ["listening", "vocabulary", "grammar", "conversation"],
+    "instructionLanguage": "inglés",
+    "url": "https://www.italianpod101.com/",
+    "price": "freemium",
+    "priceApprox": "$0-10 USD/mes",
+    "communityRating": "4.2/5",
+    "description": "Plataforma con miles de lecciones en formato podcast y video desde A1 hasta C1. Cada episodio incluye diálogos con transcripción, notas de vocabulario y gramática. Las explicaciones están en inglés. Acceso básico gratuito con registro; planes premium desbloquean todo el contenido.",
+    "pros": [
+      "Enorme biblioteca de contenido por nivel",
+      "Formato podcast cómodo para escuchar en movimiento",
+      "Transcripciones y notas de vocabulario completas"
+    ],
+    "cons": [
+      "Instrucciones en inglés, no español",
+      "El contenido premium requiere suscripción de pago",
+      "La calidad varía entre episodios"
+    ],
+    "recommendedOrder": 8,
+    "complementaryResources": ["Coffee Break Italian", "Nuovo Espresso"]
+  },
+  {
+    "name": "RaiPlay",
+    "author": "RAI — Radiotelevisione Italiana",
+    "type": "video",
+    "level": "b1",
+    "areas": ["listening", "vocabulary"],
+    "instructionLanguage": "italiano",
+    "url": "https://www.raiplay.it/",
+    "price": "free",
+    "communityRating": "4.6/5",
+    "description": "La plataforma oficial de streaming gratuito de la televisión pública italiana. Ofrece series, películas, documentales, programas de cultura y entretenimiento 100% en italiano nativo. Perfecta para inmersión desde B1 en adelante. Desde fuera de Italia, parte del catálogo puede estar geobloqueado, pero los canales de noticias en directo suelen estar disponibles.",
+    "pros": [
+      "Contenido auténtico 100% nativo",
+      "Completamente gratuito y legal",
+      "Enorme variedad: noticias, series, cultura, cine",
+      "Disponible en app para móvil"
+    ],
+    "cons": [
+      "Parte del catálogo geobloqueado fuera de Italia",
+      "Sin subtítulos en español",
+      "Requiere nivel B1 mínimo para aprovecharla"
+    ],
+    "recommendedOrder": 9,
+    "complementaryResources": ["Treccani Vocabolario", "News in Slow Italian"]
+  },
+  {
+    "name": "Treccani — Vocabolario online",
+    "author": "Istituto della Enciclopedia Italiana",
+    "type": "website",
+    "level": "b1",
+    "areas": ["vocabulary"],
+    "instructionLanguage": "italiano",
+    "url": "https://www.treccani.it/vocabolario/",
+    "price": "free",
+    "communityRating": "4.9/5",
+    "description": "El diccionario monolingüe italiano de referencia absoluta, equivalente a la RAE para el español. Incluye el Vocabolario Treccani, el Dizionario della Lingua Italiana y la Enciclopedia. Etimologías, ejemplos literarios, sinónimos y antónimos. Autoridad normativa del italiano estándar.",
+    "pros": [
+      "Autoridad normativa máxima del italiano",
+      "Completamente gratuito online",
+      "Etimologías y ejemplos literarios",
+      "Enciclopedia integrada"
+    ],
+    "cons": [
+      "Solo en italiano (monolingüe)",
+      "Requiere nivel B1+ para usarlo con fluidez"
+    ],
+    "recommendedOrder": 10,
+    "complementaryResources": ["Dizionari Zanichelli", "Accademia della Crusca"]
+  },
+  {
+    "name": "Dizionari Zanichelli online",
+    "author": "Zanichelli Editore",
+    "type": "website",
+    "level": "a2",
+    "areas": ["vocabulary"],
+    "instructionLanguage": "italiano",
+    "url": "https://dizionari.zanichelli.it/",
+    "price": "freemium",
+    "priceApprox": "Versión básica gratuita; Pro ~€29/año",
+    "communityRating": "4.7/5",
+    "description": "Los diccionarios bilingües y monolingües de Zanichelli, la editorial italiana de referencia académica. Incluye el Dizionario italiano Zingarelli y diccionarios bilingüe italiano-español. La versión gratuita online permite búsquedas básicas; la versión completa (DizioPiù) es de pago.",
+    "pros": [
+      "Referencia académica italiana de primer nivel",
+      "Incluye diccionario bilingüe italiano-español",
+      "Conjugador verbal integrado",
+      "App disponible para móvil"
+    ],
+    "cons": [
+      "El acceso completo requiere suscripción de pago",
+      "La app completa es de pago en iOS/Android"
+    ],
+    "recommendedOrder": 11,
+    "complementaryResources": ["Treccani Vocabolario"]
+  },
+  {
+    "name": "Loescher Editore — Italiano per stranieri (recursos gratuitos)",
+    "author": "Loescher Editore",
+    "type": "website",
+    "level": "a1",
+    "areas": ["grammar", "vocabulary", "reading"],
+    "instructionLanguage": "italiano",
+    "url": "https://italianoperstranieri.loescher.it/",
+    "price": "free",
+    "communityRating": "4.4/5",
+    "description": "Plataforma gratuita de Loescher con materiales didácticos para aprender italiano como lengua extranjera. Incluye fichas de gramática descargables (A1–C1), archivos de léxico, ejercicios de comprensión lectora y materiales para profesores. Especialmente útil para repaso sistemático de gramática.",
+    "pros": [
+      "Materiales gratuitos y descargables",
+      "Fichas de gramática muy claras y estructuradas",
+      "Organizado por nivel CEFR",
+      "Excelente para autoaprendizaje sistemático"
+    ],
+    "cons": [
+      "Diseño web austero",
+      "No tiene ejercicios interactivos online"
+    ],
+    "recommendedOrder": 12,
+    "complementaryResources": ["Grammatica italiana per tutti", "Nuovo Espresso"]
+  },
+  {
+    "name": "Grammatica italiana per tutti",
+    "author": "Alessandra Latino, Marida Muscolino",
+    "type": "book",
+    "level": "a1",
+    "areas": ["grammar"],
+    "instructionLanguage": "italiano",
+    "url": "https://www.amazon.com/Grammatica-Italiana-Tutti-Alessandra-Latino/dp/9607706706",
+    "price": "paid",
+    "priceApprox": "~€18-22 EUR",
+    "communityRating": "4.5/5",
+    "description": "Gramática de referencia y práctica para todos los niveles (A1–C2). Explicaciones claras con abundantes ejemplos y ejercicios. Muy apreciada por su accesibilidad: combina reglas bien explicadas con aplicación práctica inmediata. El estándar de referencia gramatical para italiano LE.",
+    "pros": [
+      "Cubre todos los niveles A1–C2 en un solo volumen",
+      "Explicaciones accesibles sin sacrificar rigor",
+      "Ejercicios integrados con las explicaciones",
+      "Precio razonable"
+    ],
+    "cons": [
+      "Instrucciones en italiano (no en español)",
+      "No incluye audio"
+    ],
+    "recommendedOrder": 13,
+    "complementaryResources": ["Nuevo Espresso", "Loescher Italiano per stranieri"]
+  },
+  {
+    "name": "Coffee Break Italian",
+    "author": "Radio Lingua Network (Mark Robertson & Francesca)",
+    "type": "audio",
+    "level": "a1",
+    "areas": ["grammar", "vocabulary", "listening", "conversation"],
+    "instructionLanguage": "inglés",
+    "url": "https://coffeebreaklanguages.com/coffeebreakitalian/",
+    "price": "free",
+    "communityRating": "4.8/5",
+    "description": "Podcast de italiano en inglés con 4 temporadas que cubren de A1 a C1. Las lecciones duran 20-30 minutos y combinan explicaciones en inglés con inmersión progresiva en italiano. La temporada 1 es A1-A2, la 4 es C1. Uno de los mejores podcasts para aprender italiano de manera estructurada y gratuita.",
+    "pros": [
+      "Completamente gratuito",
+      "4 temporadas con progresión A1–C1",
+      "Presentadores amenos y comprensibles",
+      "Disponible en Spotify, Apple Podcasts y web"
+    ],
+    "cons": [
+      "Explicaciones en inglés, no en español",
+      "La temporada 1 puede ser lenta para hispanohablantes que avanzan muy rápido"
+    ],
+    "recommendedOrder": 14,
+    "complementaryResources": ["News in Slow Italian", "Simple Italian Podcast"]
+  },
+  {
+    "name": "News in Slow Italian",
+    "author": "Linguistica360",
+    "type": "audio",
+    "level": "b1",
+    "areas": ["listening", "vocabulary", "grammar"],
+    "instructionLanguage": "italiano",
+    "url": "https://www.newsinslowitalian.com/",
+    "price": "freemium",
+    "priceApprox": "$0 (episodios básicos) / $19 USD/mes (premium)",
+    "communityRating": "4.7/5",
+    "description": "Podcast semanal de noticias internacionales narradas en italiano a ritmo lento. Episodios para principiantes (B1), intermedios (B2) y avanzados (C1). Los episodios premium incluyen transcripciones, notas de vocabulario y ejercicios. El formato 'noticias reales en italiano pausado' es perfecto para el salto de la clase a la inmersión real.",
+    "pros": [
+      "Contenido de actualidad en italiano nativo",
+      "Velocidad reducida sin sonar artificial",
+      "Episodios gratuitos disponibles semanalmente",
+      "Transcripciones completas en versión premium"
+    ],
+    "cons": [
+      "La versión completa es de pago",
+      "Requiere nivel B1 consolidado"
+    ],
+    "recommendedOrder": 15,
+    "complementaryResources": ["RaiPlay", "Coffee Break Italian"]
+  },
+  {
+    "name": "Simple Italian Podcast",
+    "author": "Simone Pols",
+    "type": "audio",
+    "level": "b1",
+    "areas": ["listening", "vocabulary"],
+    "instructionLanguage": "italiano",
+    "url": "https://simonepols.com/simple-italian-podcast/",
+    "price": "free",
+    "communityRating": "4.6/5",
+    "description": "Podcast en italiano comprensible para estudiantes de nivel intermedio. Cada episodio está narrado lentamente con vocabulario cotidiano, sin simplificar artificialmente la lengua. Basado en la metodología de input comprensible de Krashen. Especialmente útil para el tránsito de B1 a B2. Disponible también en español como 'Podcast para aprender italiano fácil'.",
+    "pros": [
+      "Completamente gratuito",
+      "Input comprensible auténtico en italiano nativo",
+      "Transcripciones disponibles",
+      "El autor tiene recursos en español para hispanohablantes"
+    ],
+    "cons": [
+      "No desarrolla gramática de forma explícita",
+      "Requiere nivel B1 para aprovechar sin frustrarse"
+    ],
+    "recommendedOrder": 16,
+    "complementaryResources": ["News in Slow Italian", "Coffee Break Italian"]
+  },
+  {
+    "name": "Learn Italian with Lucrezia (YouTube)",
+    "author": "Lucrezia Oddone",
+    "type": "video",
+    "level": "a2",
+    "areas": ["vocabulary", "listening", "grammar"],
+    "instructionLanguage": "italiano",
+    "url": "https://www.youtube.com/@LearnItalianwithLucrezia",
+    "price": "free",
+    "communityRating": "4.8/5",
+    "description": "Canal de YouTube con más de 1.4M de suscriptores. Lucrezia, profesora italiana nativa, enseña con vídeos temáticos: vocabulario, dialectos, cultura, errores comunes, expresiones idiomáticas y vlog en italiano. El 'Italian with Lucrezia' es uno de los canales más recomendados por la comunidad de aprendices de italiano.",
+    "pros": [
+      "Italiana nativa con pronunciación estándar clara",
+      "Enorme variedad de temas y formatos",
+      "Completamente gratuito",
+      "Comunidad activa en los comentarios"
+    ],
+    "cons": [
+      "Los vídeos en italiano puro requieren nivel A2+ mínimo",
+      "No sigue un programa curricular lineal"
+    ],
+    "recommendedOrder": 17,
+    "complementaryResources": ["Italy Made Easy", "RaiPlay"]
+  },
+  {
+    "name": "Italy Made Easy (YouTube y curso)",
+    "author": "Manu Venditti",
+    "type": "video",
+    "level": "a1",
+    "areas": ["grammar", "vocabulary", "conversation", "listening"],
+    "instructionLanguage": "inglés",
+    "url": "https://italymadeeasy.com/",
+    "price": "freemium",
+    "priceApprox": "$0 (YouTube) / cursos desde $197 USD",
+    "communityRating": "4.7/5",
+    "description": "Canal de YouTube y plataforma de cursos de Manu Venditti, un australiano-italiano que enseña desde cero con explicaciones en inglés muy detalladas. Su canal gratuito de YouTube tiene cientos de vídeos estructurados por nivel. Sus cursos de pago son considerados de los mejores para autoaprendizaje profundo de italiano.",
+    "pros": [
+      "Explicaciones muy detalladas y claras",
+      "Canal de YouTube gratuito enorme",
+      "Cubre A1 hasta C1",
+      "Profesor bilingüe con perspectiva de aprendiz"
+    ],
+    "cons": [
+      "Explicaciones en inglés, no español",
+      "Los cursos estructurados de pago son caros"
+    ],
+    "recommendedOrder": 18,
+    "complementaryResources": ["Nuovo Espresso", "Grammatica italiana per tutti"]
+  },
+  {
+    "name": "Forvo Italiano",
+    "author": "Forvo Media SL",
+    "type": "website",
+    "level": "a1",
+    "areas": ["pronunciation"],
+    "instructionLanguage": "múltiple",
+    "url": "https://es.forvo.com/languages/it/",
+    "price": "free",
+    "communityRating": "4.5/5",
+    "description": "La mayor base de datos de pronunciación del mundo con pronunciaciones grabadas por hablantes nativos italianos de diversas regiones. Útil para verificar la pronunciación de palabras específicas, especialmente dobles consonantes (palla/pala, notte/note) y palabras con acento abierto/cerrado.",
+    "pros": [
+      "Pronunciaciones de nativos reales de distintas regiones",
+      "Completamente gratuito",
+      "Interfaz disponible en español"
+    ],
+    "cons": [
+      "Solo pronunciación de palabras aisladas",
+      "No frases ni entonación contextual"
+    ],
+    "recommendedOrder": 19,
+    "complementaryResources": ["RaiPlay", "Learn Italian with Lucrezia"]
+  },
+  {
+    "name": "Edilingua — recursos gratuitos online",
+    "author": "Edilingua",
+    "type": "website",
+    "level": "a1",
+    "areas": ["grammar", "vocabulary", "reading"],
+    "instructionLanguage": "italiano",
+    "url": "https://www.edilingua.it/",
+    "price": "free",
+    "communityRating": "4.4/5",
+    "description": "Editorial italiana especializada en italiano para extranjeros (publica Via del Corso, Progetto italiano, etc.). Su web incluye materiales de muestra gratuitos, tests de nivel y recursos para profesores. Útil para acceder a muestras de los mejores manuales antes de comprarlos.",
+    "pros": [
+      "Muestras gratuitas de los mejores manuales",
+      "Tests de nivel gratuitos",
+      "Recursos complementarios para sus libros"
+    ],
+    "cons": [
+      "Solo ofrece muestras, no el contenido completo gratuito"
+    ],
+    "recommendedOrder": 20,
+    "complementaryResources": ["Via del Corso", "Nuovo Espresso"]
+  },
+  {
+    "name": "Accademia della Crusca — consultas lingüísticas",
+    "author": "Accademia della Crusca (Florencia)",
+    "type": "website",
+    "level": "c1",
+    "areas": ["grammar", "vocabulary"],
+    "instructionLanguage": "italiano",
+    "url": "https://accademiadellacrusca.it/",
+    "price": "free",
+    "communityRating": "4.8/5",
+    "description": "La institución normativa de la lengua italiana desde 1583, equivalente a la RAE para el español. Su sitio web incluye artículos sobre usos correctos e incorrectos, etimologías y consultas lingüísticas respondidas por expertos. Imprescindible para niveles C1–C2 que buscan rigor normativo.",
+    "pros": [
+      "Autoridad normativa máxima de la lengua italiana",
+      "Artículos de divulgación lingüística gratuitos",
+      "Archivo histórico del italiano",
+      "Respuestas a consultas de dudas lingüísticas"
+    ],
+    "cons": [
+      "Solo en italiano, sin traducciones",
+      "Orientado a nivel avanzado C1–C2"
+    ],
+    "recommendedOrder": 21,
+    "complementaryResources": ["Treccani Vocabolario", "Dizionari Zanichelli"]
+  },
+  {
+    "name": "Anki — mazos de italiano",
+    "author": "Damien Elmes (Anki) + comunidad",
+    "type": "app",
+    "level": "a1",
+    "areas": ["vocabulary"],
+    "instructionLanguage": "múltiple",
+    "url": "https://apps.ankiweb.net/",
+    "price": "freemium",
+    "priceApprox": "$0 desktop y Android / $24.99 USD iOS",
+    "communityRating": "4.7/5",
+    "description": "Sistema de flashcards con repetición espaciada. Gratis en desktop y Android. La comunidad de AnkiWeb ofrece mazos de vocabulario italiano organizados por frecuencia, CEFR y temáticas. Complementa perfectamente el estudio de gramática con Nuevo Espresso. PARA HISPANOHABLANTES: buscar el mazo 'Italian Frequency Dictionary' o 'Core Italian Vocab'.",
+    "pros": [
+      "SRS científicamente probado para vocabulario",
+      "Cientos de mazos de italiano compartidos gratuitamente",
+      "Desktop gratuito, Android gratuito",
+      "Totalmente personalizable"
+    ],
+    "cons": [
+      "Interfaz austero con curva de aprendizaje",
+      "iOS de pago ($24.99)",
+      "Requiere configurar los mazos adecuados"
+    ],
+    "recommendedOrder": 22,
+    "complementaryResources": ["Nuovo Espresso", "ItalianPod101"]
+  },
+  {
+    "name": "WordReference — diccionario italiano-español",
+    "author": "Michael Kellogg",
+    "type": "website",
+    "level": "a1",
+    "areas": ["vocabulary"],
+    "instructionLanguage": "español",
+    "url": "https://www.wordreference.com/ites/",
+    "price": "free",
+    "communityRating": "4.7/5",
+    "description": "Diccionario bilingüe italiano-español de referencia con foros de discusión donde nativos de ambos idiomas debaten matices de traducción. VENTAJA PARA HISPANOHABLANTES: la dirección italiano→español es muy completa y los foros revelan las diferencias sutiles entre falsos amigos (es: 'camera' = habitación, no cámara).",
+    "pros": [
+      "Bilingüe italiano-español muy completo",
+      "Foros con discussioni de nativos",
+      "Revela falsos amigos italiano-español",
+      "Completamente gratuito"
+    ],
+    "cons": [
+      "Sin contenido estructurado de aprendizaje",
+      "Interfaz anticuada"
+    ],
+    "recommendedOrder": 23,
+    "complementaryResources": ["Treccani Vocabolario", "Dizionari Zanichelli"]
+  },
+  {
+    "name": "Italiano fácil para hispanohablantes (recursos en español)",
+    "author": "Varios autores — colección Espasa/Larousse",
+    "type": "book",
+    "level": "a1",
+    "areas": ["grammar", "vocabulary"],
+    "instructionLanguage": "español",
+    "url": "https://www.planetadelibros.com/",
+    "price": "paid",
+    "priceApprox": "~€10-18 EUR",
+    "communityRating": "4.0/5",
+    "description": "Colección de gramáticas y diccionarios de italiano diseñados específicamente para hispanohablantes, editados por Espasa, Larousse y Anaya. Incluyen gramáticas comparativas español-italiano y diccionarios de falsos amigos. Recurso puente ideal para el inicio del aprendizaje antes de pasar a materiales exclusivamente en italiano. NOTA: Buscar títulos como 'Gramática del italiano para hispanohablantes' (Espasa) o 'Italiano fácil' (Larousse).",
+    "pros": [
+      "Instrucciones y explicaciones en español",
+      "Análisis contrastivo español-italiano",
+      "Precio accesible",
+      "Sección dedicada a falsos amigos español-italiano"
+    ],
+    "cons": [
+      "Menos rigurosos que los manuales en italiano",
+      "Cobertura gramatical más superficial",
+      "Difíciles de encontrar en Latinoamérica"
+    ],
+    "recommendedOrder": 24,
+    "complementaryResources": ["Assimil L'italiano senza sforzo", "WordReference italiano-español"]
+  },
+  {
+    "name": "Rai Radio 1 / Rai News24 en directo",
+    "author": "RAI — Radiotelevisione Italiana",
+    "type": "audio",
+    "level": "b2",
+    "areas": ["listening", "vocabulary"],
+    "instructionLanguage": "italiano",
+    "url": "https://www.rainews.it/",
+    "price": "free",
+    "communityRating": "4.5/5",
+    "description": "Radio y televisión de noticias en directo de la RAI, completamente gratuita y accesible desde cualquier país. El italiano de los presentadores es estándar, articulado y sin dialecto. Ideal para exposición intensiva al italiano formal nativo desde nivel B2 en adelante.",
+    "pros": [
+      "Italiano nativo estándar de alta calidad",
+      "Accesible globalmente sin restricciones",
+      "Actualizado las 24 horas",
+      "Completamente gratuito"
+    ],
+    "cons": [
+      "Requiere nivel B2 para seguir sin perderse",
+      "Sin subtítulos disponibles online"
+    ],
+    "recommendedOrder": 25,
+    "complementaryResources": ["RaiPlay", "News in Slow Italian"]
+  }
+]

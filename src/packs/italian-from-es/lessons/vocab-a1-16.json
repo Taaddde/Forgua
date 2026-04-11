@@ -1,0 +1,107 @@
+{
+  "id": "vocab-a1-16",
+  "title": "Verbi essenziali I",
+  "description": "Los cuatro verbos más importantes del italiano: essere, avere, fare, andare. Son todos irregulares y los necesitarás en cada conversación.",
+  "level": "a1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "essere — io sono",
+      "back": "ser/estar — yo soy/estoy",
+      "reading": "/ˈɛssere/",
+      "explanation": "Essere: io sono, tu sei, lui/lei è, noi siamo, voi siete, loro sono. Cubre 'ser' y 'estar' parcialmente. 'Sono stanco' = Estoy cansado. 'Sono italiano' = Soy italiano."
+    },
+    {
+      "front": "essere — tu sei",
+      "back": "ser/estar — vos sos/tú eres",
+      "reading": "/ˈsɛi/",
+      "explanation": "Tu sei. Solo forma informal. Para formal: 'Lei è' (usted es). 'Sei pronto?' = ¿Estás listo? 'Sei bello/a' = Eres lindo/a."
+    },
+    {
+      "front": "essere — lui/lei è",
+      "back": "ser/estar — él/ella es/está",
+      "reading": "/ɛ/",
+      "explanation": "Lui/lei è. Con acento grave (è) para diferenciarlo de 'e' (=y). '(Lui) è in ritardo' = Él está atrasado. '(Lei) è medica' = Ella es médica."
+    },
+    {
+      "front": "avere — io ho",
+      "back": "tener — yo tengo",
+      "reading": "/ɔ/",
+      "explanation": "Avere: io ho, tu hai, lui/lei ha, noi abbiamo, voi avete, loro hanno. La H es muda. 'Ho fame/sete/sonno' = Tengo hambre/sed/sueño."
+    },
+    {
+      "front": "avere — tu hai / lui ha",
+      "back": "tener — vos tenés / él tiene",
+      "reading": "/ˈai/ /a/",
+      "explanation": "Hai y ha — H muda. 'Quanti anni hai?' = ¿Cuántos años tenés? 'Lui ha una macchina rossa' = Él tiene un auto rojo."
+    },
+    {
+      "front": "fare — io faccio / tu fai",
+      "back": "hacer — yo hago / vos hacés",
+      "reading": "/ˈfattʃo/ /fai/",
+      "explanation": "Fare: io faccio, tu fai, lui fa, noi facciamo, voi fate, loro fanno. 'Che cosa fai?' = ¿Qué hacés? 'Faccio colazione' = Desayuno. 'Fa caldo' = Hace calor."
+    },
+    {
+      "front": "fare — noi facciamo / loro fanno",
+      "back": "hacer — nosotros hacemos / ellos hacen",
+      "reading": "/fatˈtʃamo/ /ˈfanno/",
+      "explanation": "Facciamo y fanno son las formas más irregulares. 'Facciamo una passeggiata?' = ¿Damos un paseo? 'Cosa fanno stasera?' = ¿Qué hacen esta noche?"
+    },
+    {
+      "front": "andare — io vado / tu vai",
+      "back": "ir — yo voy / vos vas",
+      "reading": "/ˈvaːdo/ /ˈvai/",
+      "explanation": "Andare: io vado, tu vai, lui va, noi andiamo, voi andate, loro vanno. 'Vado a casa' = Voy a casa. 'Vai al lavoro?' = ¿Vas al trabajo?"
+    },
+    {
+      "front": "andare — lui va / loro vanno",
+      "back": "ir — él va / ellos van",
+      "reading": "/va/ /ˈvanno/",
+      "explanation": "'Va bene' = Está bien/OK (expresión muy usada). 'Come va?' = ¿Cómo va? 'Vanno in vacanza' = Van de vacaciones. 'Va a finire male' = Va a terminar mal."
+    },
+    {
+      "front": "andare a + infinitivo",
+      "back": "ir a + infinitivo (futuro próximo)",
+      "reading": "",
+      "explanation": "'Vado a mangiare' = Voy a comer. 'Andiamo a studiare' = Vamos a estudiar. Funciona igual que en español para futuro próximo. 'Va a piovere' = Va a llover."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Essere — el verbo más importante",
+      "instruction": "Essere combina 'ser' y 'estar'. Conjugación: sono, sei, è, siamo, siete, sono. La è con acento se diferencia de 'e' (=y).",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Avere — tener",
+      "instruction": "Avere: ho, hai, ha, abbiamo, avete, hanno. La H siempre es muda. Se usa para edad, hambre, sed y como auxiliar.",
+      "itemIndices": [3, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "Fare y andare",
+      "instruction": "Fare (hacer) y andare (ir) — ambos muy irregulares. Andare a + infinitivo = ir a + infinitivo (futuro próximo).",
+      "itemIndices": [5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué forma es?",
+      "instruction": "Ves la forma verbal en italiano. Elegí la traducción y persona correcta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "type": "recall",
+      "title": "Conjugá los verbos",
+      "instruction": "Ves el pronombre y el verbo infinitivo. Escribí la forma conjugada correcta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "type": "summary",
+      "title": "¡Verbi essenziali I!",
+      "instruction": "ESSERE: sono/sei/è/siamo/siete/sono. AVERE: ho/hai/ha/abbiamo/avete/hanno (H muda). FARE: faccio/fai/fa/facciamo/fate/fanno. ANDARE: vado/vai/va/andiamo/andate/vanno. Andare a + inf. = ir a + inf.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

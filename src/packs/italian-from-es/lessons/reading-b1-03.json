@@ -1,0 +1,83 @@
+{
+  "id": "reading-b1-03",
+  "title": "Lettura: Roma — storia e modernità",
+  "description": "Texto B1 sobre Roma como ciudad de paradojas: historia milenaria y problemas modernos. Practicás vocabulario urbano, conectores adversativos y el uso del condizionale.",
+  "level": "b1",
+  "category": "reading",
+  "items": [
+    {
+      "front": "nessun altro posto sa mescolare duemila anni di storia con la vita quotidiana",
+      "back": "ningún otro lugar sabe mezclar dos mil años de historia con la vida cotidiana",
+      "reading": "",
+      "explanation": "'Nessun altro posto' = ningún otro lugar (nessun = ningún, apocopado antes de consonante). 'Sa mescolare' = sabe mezclar (sapere + infinitivo = saber hacer). 'La vita quotidiana' = la vida cotidiana (de 'quotidiano' = diario/cotidiano). 'Con tanta naturalezza' = con tanta naturalidad. Esta apertura establece la singularidad de Roma como premisa del texto."
+    },
+    {
+      "front": "Ogni scavo per costruire una linea ferroviaria diventa un'avventura archeologica",
+      "back": "Cada excavación para construir una línea ferroviaria se convierte en una aventura arqueológica",
+      "reading": "",
+      "explanation": "'Scavo' = excavación (de 'scavare'). 'Linea ferroviaria' = línea ferroviaria. 'Diventa' = se convierte en (diventare = convertirse, volverse). Vocabulario urbano: 'scavo', 'binario' (andén), 'cantiere' (obra/construcción). El texto describe una realidad real: construcción de nuevas líneas de metro en Roma genera constantemente hallazgos arqueológicos."
+    },
+    {
+      "front": "si ferma tutto, si chiama il soprintendente, si aspetta",
+      "back": "se para todo, se llama al superintendente arqueológico, se espera",
+      "reading": "",
+      "explanation": "SI IMPERSONALE en serie: tres verbos impersonales seguidos. 'Il soprintendente' = el superintendente (arqueológico, del patrimonio cultural). Esta serie de si impersonale describe el procedimiento burocrático con cierto tono irónico: la inevitabilidad de la espera ante los hallazgos. Nótese el ritmo: tres frases cortas que crean una sensación de procedimiento rutinario."
+    },
+    {
+      "front": "Molti romani si lamentano, ma pochi rinuncerebbero a vivere lì.",
+      "back": "Muchos romanos se quejan, pero pocos renunciarían a vivir allí.",
+      "reading": "",
+      "explanation": "'Si lamentano' = se quejan (lamentarsi = quejarse). 'Rinuncerebbero' = renunciarían — CONDIZIONALE PRESENTE de 'rinunciare'. Este contraste (lamentarse pero no querer irse) es la paradoja central del texto. El condizionale aquí expresa hipótesis: si tuvieran que elegir, no se irían. 'Rinunciare a' = renunciar a."
+    },
+    {
+      "front": "È una città impossibile, ma una volta che ti entra nel sangue, non riesci a immaginare di stare altrove.",
+      "back": "Es una ciudad imposible, pero una vez que te entra en la sangre, no podés imaginar estar en otro lugar.",
+      "reading": "",
+      "explanation": "'Entrare nel sangue' = entrar en la sangre (metáfora de apego profundo). 'Non riesci a + infinitivo' = no podés / no lográs (riuscire a = lograr, poder). 'Altrove' = en otro lugar (forma arcaica-literaria de 'altrove' = en otra parte). La cita directa de la 'amica romana' da autenticidad al texto. El uso de 'ma' adversativo crea la estructura retórica del texto."
+    },
+    {
+      "front": "il traffico caotico, la gestione dei rifiuti, i ritardi nel trasporto pubblico",
+      "back": "el tráfico caótico, la gestión de residuos, los retrasos en el transporte público",
+      "reading": "",
+      "explanation": "Vocabulario de problemas urbanos modernos: 'traffico caotico' (tráfico caótico), 'gestione dei rifiuti' (gestión de residuos/basura), 'ritardi nel trasporto pubblico' (retrasos en el transporte público). 'La gestione' = la gestión (di 'gestire'). 'I rifiuti' = los residuos, la basura (singular: il rifiuto). 'I ritardi' = los retrasos (singular: il ritardo)."
+    },
+    {
+      "front": "la contraddizione tra bellezza eterna e difficoltà quotidiane la rende irresistibile",
+      "back": "la contradicción entre la belleza eterna y las dificultades cotidianas la hace irresistible",
+      "reading": "",
+      "explanation": "La TESI CONCLUSIVA del texto: la paradoja de Roma es su atractivo. 'La contraddizione tra X e Y' = la contradicción entre X e Y. 'La rende irresistibile' = la hace irresistible ('rendere + aggettivo' = hacer + adjetivo). 'Eterna' = eterna (cognado). 'Quotidiane' = cotidianas. Esta estructura argumental — problema → paradoja → conclusión — es típica del texto expositivo-argumentativo."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Roma: la ciudad de las paradojas",
+      "instruction": "El texto presenta Roma como un lugar de contradicciones: belleza histórica y problemas modernos. Identificá los conectores adversativos (però, ma, tuttavia) y cómo organizan el argumento del texto.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Vocabulario urbano y cultural en contexto",
+      "instruction": "Estas frases contienen vocabulario urbano y cultural B1. Identificá el significado desde el contexto y la función en el argumento.",
+      "itemIndices": [2, 3, 5, 6]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Comprensión e inferencia",
+      "instruction": "Respondé las preguntas sobre el texto. Algunas requieren inferencia (la respuesta no está textualmente). ¿Cuál es la paradoja central de Roma según el texto?",
+      "itemIndices": [3, 4, 6]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Usos del condizionale e del si impersonale",
+      "instruction": "El texto usa: condizionale presente (rinuncerebbero), si impersonale (si ferma, si chiama, si aspetta). Identificá estos usos y explica su función. ¿Por qué el autor eligió el condizionale y no el futuro?",
+      "itemIndices": [2, 3]
+    },
+    {
+      "type": "summary",
+      "title": "Lectura completada",
+      "instruction": "Vocabulario clave: scavo, soprintendente, lamentarsi, rinunciare a, altrove, contraddizione. Estructuras: si impersonale en serie, condizionale per ipotesi, metáfora 'entrare nel sangue'. Tema cultural: Roma como ciudad de paradojas es un topos muy frecuente en la cultura italiana. ¿Hay una ciudad equivalente en tu experiencia?",
+      "itemIndices": [0, 4, 6]
+    }
+  ]
+}

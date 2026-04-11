@@ -1,0 +1,95 @@
+{
+  "id": "conv-c1-02",
+  "title": "Discussione letteraria",
+  "description": "Cómo hablar de literatura italiana en contexto académico o cultural al nivel C1. Las fórmulas para situar una obra en su tradición, analizar el narrador, identificar el tema central, comentar las elecciones estilísticas y contextualizar históricamente. Imprescindible para estudiantes de lettere, cinéfilos y lectores avanzados.",
+  "level": "c1",
+  "category": "conversation",
+  "items": [
+    {
+      "front": "L'opera si inscrive nel filone del...",
+      "back": "La obra se inscribe en la corriente del... / La obra pertenece a la tradición del...",
+      "reading": "",
+      "explanation": "'Iscriversi in un filone' = inscribirse en una corriente o tradición literaria. Ejemplos: 'L'opera si inscrive nel filone del neorealismo italiano', 'nel filone della narrativa psicologica', 'del romanzo storico'. 'Filone' (vena/veta) es el término estándar de la critica letteraria italiana."
+    },
+    {
+      "front": "Il narratore assume una prospettiva...",
+      "back": "El narrador adopta una perspectiva... / El punto de vista narrativo es...",
+      "reading": "",
+      "explanation": "'Narratore onnisciente' (omnisciente), 'narratore intradiagetico' (personaje que narra), 'narratore inaffidabile' (narrador poco fiable). 'Assumere una prospettiva' = asumir, adoptar. La discussione sul narratore è centrale nella critica italiana contemporánea (Genette, Bal)."
+    },
+    {
+      "front": "Il tema centrale ruota attorno a...",
+      "back": "El tema central gira en torno a... / El tema principal del texto es...",
+      "reading": "",
+      "explanation": "'Ruotare attorno a' es la metáfora orbital estándar de la critica letteraria italiana. Alternativas: 'Il tema dominante è...', 'L'opera esplora la questione di...', 'Il nodo tematico principale è...'. El 'nodo' (nudo) es también metáfora frecuente en la crítica italiana."
+    },
+    {
+      "front": "La scelta stilistica di Calvino/Eco/Manzoni è...",
+      "back": "La elección estilística de Calvino/Eco/Manzoni es... / El autor opta estilísticamente por...",
+      "reading": "",
+      "explanation": "'Scelta stilistica' = elección estilística (consciente, deliberada). En la crítica italiana, las scelte stilistiche (léxicas, sintácticas, prosodicas) se consideran portadoras de sentido: cada elección formal tiene una motivazione estética o ideologica."
+    },
+    {
+      "front": "Il testo riflette il contesto storico-culturale di...",
+      "back": "El texto refleja el contexto histórico-cultural de... / La obra es un reflejo de la época de...",
+      "reading": "",
+      "explanation": "'Riflettere il contesto' = reflejar, ser espejo de. En crítica marxista y storicistica, el texto es specchio della società. En critica autonomista, il testo crea il proprio contesto. Usar esta fórmula implica conocimiento del historicismo literario — un enfoque muy arraigado en la tradizione accademica italiana."
+    },
+    {
+      "front": "La struttura narrativa si articola in...",
+      "back": "La estructura narrativa se articula en... / El texto está organizado en...",
+      "reading": "",
+      "explanation": "'Articolarsi in' = articularse en, dividirse en partes. Término muy productivo en critica letteraria: 'La trama si articola in tre sequenze', 'Il romanzo si articola attorno a due filoni narrativi'. Implica que la struttura è organica, no casual."
+    },
+    {
+      "front": "A livello stilistico, si nota...",
+      "back": "A nivel estilístico, se observa... / En el plano del estilo, el autor...",
+      "reading": "",
+      "explanation": "'A livello di' + dominio di analisi = fórmula estándar de la analisi testuale italiana. 'A livello tematico', 'a livello narrativo', 'a livello lessicale', 'a livello sintattico'. Permite estructurar el análisis en capas analíticas separadas."
+    },
+    {
+      "front": "In conclusione, l'opera può essere letta come...",
+      "back": "En conclusión, la obra puede ser leída como... / Para concluir, el texto es interpretable como...",
+      "reading": "",
+      "explanation": "'Può essere letta come' = puede ser leída/interpretada como. La forma passiva modala ('può essere letta') deja la interpretación abierta — no impone una lectura única sino que propone una possibilità interpretativa. Es la forma epistemológicamente más rigurosa de concluir una analisi letteraria."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El metalenguaje de la crítica literaria italiana",
+      "instruction": "La discussione letteraria in italiano usa un metalenguaje específico: 'filone', 'narratore', 'tema centrale', 'scelta stilistica', 'contesto storico-culturale'. Estas fórmulas son las que usan los professori universitari, i critici letterari y los giornalisti culturali. Dominarlas te permite participar en cualquier discussione letteraria italiana de nivel.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿En qué nivel de análisis?",
+      "instruction": "La critica letteraria italiana analiza los textos en niveles distintos: tematico, narrativo, stilistico, storico-culturale. Para cada fórmula, identifica en qué nivel de análisis opera.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Construye el análisis literario",
+      "instruction": "Completa este mini-análisis de 'Il fu Mattia Pascal' di Pirandello usando las fórmulas aprendidas: 'L'opera si inscrive nel filone del... Il narratore assume una prospettiva... Il tema centrale ruota attorno a... A livello stilistico, si nota...'",
+      "itemIndices": [0, 1, 2, 6]
+    },
+    {
+      "type": "recall",
+      "title": "La fórmula de análisis",
+      "instruction": "Ves la descripción de lo que quieres expresar en la discusión literaria. Escribe la fórmula italiana estándar que lo expresa.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "conversation-script",
+      "title": "Simula una discussione letteraria",
+      "instruction": "Usa las fórmulas para hacer un breve análisis (3-5 frases) de una obra italiana que conozcas (I promessi sposi, Le avventure di Pinocchio, Se questo è un uomo, Il nome della rosa...). Usa al menos cuatro fórmulas de la lección.",
+      "itemIndices": [0, 2, 3, 5, 7]
+    },
+    {
+      "type": "summary",
+      "title": "Discussione letteraria — a livello accademico",
+      "instruction": "Las 8 fórmulas del análisis letterario italiano: iscriversi in un filone / assumere una prospettiva / ruotare attorno a / scelta stilistica / riflettere il contesto / articolarsi in / a livello stilistico / può essere letta come. Para practicar: lee le recensioni letterarie de 'Il sole 24 ore' o 'La lettura' (supplemento culturale del Corriere della Sera) — verás estas fórmulas en acción.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

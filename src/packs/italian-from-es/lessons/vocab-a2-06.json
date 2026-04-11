@@ -1,0 +1,101 @@
+{
+  "id": "vocab-a2-06",
+  "title": "La natura e il tempo libero",
+  "description": "Vocabulario para hablar de la naturaleza, el paisaje italiano y las actividades de tiempo libre. Italia tiene una geografía extraordinariamente variada.",
+  "level": "a2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "il mare",
+      "back": "el mar",
+      "reading": "",
+      "explanation": "'Andare al mare' = ir al mar/a la playa (destino). Italia tiene más de 8.000 km de costa. 'Il Mar Mediterraneo'."
+    },
+    {
+      "front": "la montagna",
+      "back": "la montaña",
+      "reading": "",
+      "explanation": "'Andare in montagna' = ir a la montaña. Las Alpes al norte, los Apeninos en el centro-sur. 'Fare escursioni in montagna' = hacer excursiones en la montaña."
+    },
+    {
+      "front": "il lago",
+      "back": "el lago",
+      "reading": "",
+      "explanation": "Italia tiene lagos famosísimos: Lago di Garda, Lago di Como, Lago Maggiore. 'Passeggiare sul lago' = pasear junto al lago."
+    },
+    {
+      "front": "il bosco / la foresta",
+      "back": "el bosque / la selva",
+      "reading": "",
+      "explanation": "Bosco = bosque pequeño; foresta = bosque grande/selva. 'Una passeggiata nel bosco' = un paseo por el bosque."
+    },
+    {
+      "front": "il fiume",
+      "back": "el río",
+      "reading": "",
+      "explanation": "Cognado. 'Il Po' es el río más largo de Italia. 'Lungo il fiume' = a lo largo del río."
+    },
+    {
+      "front": "la spiaggia",
+      "back": "la playa",
+      "reading": "",
+      "explanation": "'Stare in spiaggia' = estar en la playa. 'Spiaggia libera' = playa pública gratuita. 'Spiaggia attrezzata' = playa con servicios."
+    },
+    {
+      "front": "il sole / la pioggia / la neve",
+      "back": "el sol / la lluvia / la nieve",
+      "reading": "",
+      "explanation": "'C'è il sole' = hace sol. 'Piove' = llueve. 'Nevica' = nieva. Il tempo = el tiempo (meteorológico)."
+    },
+    {
+      "front": "la vacanza",
+      "back": "las vacaciones",
+      "reading": "",
+      "explanation": "OJO: siempre en plural en italiano cuando se refiere al periodo vacacional. 'Sono in vacanza' = Estoy de vacaciones. 'Le vacanze estive' = las vacaciones de verano."
+    },
+    {
+      "front": "il tempo libero",
+      "back": "el tiempo libre / el ocio",
+      "reading": "",
+      "explanation": "'Nel mio tempo libero leggo molto.' = En mi tiempo libre leo mucho. 'Passare il tempo' = pasar el tiempo."
+    },
+    {
+      "front": "fare una passeggiata",
+      "back": "dar un paseo",
+      "reading": "",
+      "explanation": "Expresión muy italiana. 'Andiamo a fare una passeggiata?' = ¿Vamos a dar un paseo? También: 'fare una gita' = hacer una excursión de un día."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El paisaje italiano",
+      "instruction": "Italia tiene una geografía increíblemente variada. Aprende el vocabulario para describirla.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice en italiano?",
+      "instruction": "Traduce del español al italiano.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "introduce",
+      "title": "El tiempo y las actividades al aire libre",
+      "instruction": "El tiempo meteorológico y qué hacer en el tiempo libre.",
+      "itemIndices": [6, 7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "Naturaleza y tiempo libre — completo",
+      "instruction": "Practica todo el vocabulario de la lección.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "La natura — consolidado",
+      "instruction": "Recuerda: 'le vacanze' siempre en plural en italiano (como en francés 'les vacances'). 'Andare al mare' vs 'andare in montagna' — el mar usa 'al', la montagna usa 'in'.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

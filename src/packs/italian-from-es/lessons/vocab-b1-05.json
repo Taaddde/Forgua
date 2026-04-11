@@ -1,0 +1,107 @@
+{
+  "id": "vocab-b1-05",
+  "title": "Arte e cultura",
+  "description": "El mundo del arte, la música, el cine y la literatura en italiano. La cultura es el corazón de Italia.",
+  "level": "b1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "la letteratura",
+      "back": "la literatura",
+      "reading": "",
+      "explanation": "'Letteratura italiana' incluye Dante, Petrarca, Boccaccio (clásicos), Manzoni, Leopardi (siglo XIX), Calvino, Eco, Morante (siglo XX). 'Letterario/a' = literario/a."
+    },
+    {
+      "front": "il cinema",
+      "back": "el cine",
+      "reading": "",
+      "explanation": "También: 'sala cinematografica' (sala de cine). 'Andare al cinema' = ir al cine. El neorrealismo italiano (De Sica, Rossellini) y directores como Fellini, Visconti, Sorrentino son referentes mundiales."
+    },
+    {
+      "front": "lo spettacolo",
+      "back": "el espectáculo, la función",
+      "reading": "",
+      "explanation": "'Andare a uno spettacolo' = ir a un espectáculo. 'Mondo dello spettacolo' = mundo del espectáculo/entretenimiento. 'Spettacolare' (adj.) = espectacular."
+    },
+    {
+      "front": "il romanzo",
+      "back": "la novela",
+      "reading": "",
+      "explanation": "¡Atención! 'Romanzo' ≠ 'romance'. Un 'romanzo' es una novela. 'Un roman' (francés) → 'un romanzo' (ital.). 'Romanzo storico' = novela histórica. 'Romanziere/a' = novelista."
+    },
+    {
+      "front": "il racconto",
+      "back": "el cuento, el relato",
+      "reading": "",
+      "explanation": "Historia corta. 'Raccolta di racconti' = colección de cuentos. También: 'racconto' como narración de lo sucedido: 'il racconto dei fatti' = el relato de los hechos."
+    },
+    {
+      "front": "la poesia",
+      "back": "la poesía, el poema",
+      "reading": "",
+      "explanation": "'Una poesia' = un poema (concreto). 'La poesia' = la poesía (el arte). 'Poeta/poetessa' = poeta. Dante escribió la 'Divina Commedia' — una delle opere più importanti della letteratura mondiale."
+    },
+    {
+      "front": "il pittore / la pittrice",
+      "back": "el pintor / la pintora",
+      "reading": "",
+      "explanation": "'Pittore rinascimentale' = pintor renacentista. 'Dipingere' = pintar. 'Dipinto' = cuadro, pintura. 'Quadro' = cuadro. 'Pittura' = pintura (arte/obra). Italia tiene los más famosos pittori del mundo."
+    },
+    {
+      "front": "il regista / la regista",
+      "back": "el/la director/a de cine o teatro",
+      "reading": "",
+      "explanation": "Invariable en género en la terminación: il regista (hombre) / la regista (mujer). 'Dirigere un film' = dirigir una película. 'Regia' = dirección. No confundir con 'direttore d'orchestra' (director de orquesta)."
+    },
+    {
+      "front": "l'attore / l'attrice",
+      "back": "el actor / la actriz",
+      "reading": "",
+      "explanation": "'Recitare' = actuar. 'Recita' = función teatral, actuación. 'Premio Oscar per il miglior attore' = Premio Óscar al mejor actor. 'Attorale' = actoral (adj. poco común)."
+    },
+    {
+      "front": "il teatro",
+      "back": "el teatro",
+      "reading": "",
+      "explanation": "'Andare a teatro' (sin artículo) = ir al teatro. 'Teatro dell'opera' = teatro de ópera. La ópera italiana (Verdi, Puccini, Rossini) es un patrimonio mundial. 'Teatrale' = teatral."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Literatura y artes narrativas",
+      "instruction": "¡Atención al falso amigo principal! 'Romanzo' = novela (NO romance). Una 'storia d'amore' = una historia de amor; 'romanzo rosa' = novela romántica.",
+      "itemIndices": [0, 3, 4, 5]
+    },
+    {
+      "type": "introduce",
+      "title": "Cine y teatro",
+      "instruction": "El cine y teatro italianos son referencias mundiales. 'Regista' tiene la misma forma para masculino y femenino — solo cambia el artículo.",
+      "itemIndices": [1, 2, 7, 8, 9]
+    },
+    {
+      "type": "introduce",
+      "title": "Las artes plásticas",
+      "instruction": "Para hablar de pintores y escultores. En Italia, el Renacimiento cambió el arte mundial — conocer este vocabulario enriquece visitas a museos.",
+      "itemIndices": [6]
+    },
+    {
+      "type": "recall",
+      "title": "Falso amigo crítico",
+      "instruction": "'Romanzo' en italiano significa... (¡No es romance!)",
+      "itemIndices": [3, 4, 5, 0]
+    },
+    {
+      "type": "recall",
+      "title": "El mundo del espectáculo",
+      "instruction": "Traducí al italiano.",
+      "itemIndices": [1, 2, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "Resumen: Arte e cultura",
+      "instruction": "El falso amigo más importante: 'romanzo' = novela. La distinción regista/attore es fundamental. Italia tiene una riqueza cultural sin par: literatura, cine, ópera, pintura — este vocabulario te abrirá muchas conversaciones.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

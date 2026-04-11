@@ -1,0 +1,506 @@
+[
+  {
+    "id": "c1-passato-remoto-avanzato",
+    "title": "Passato remoto avanzato: irregolari, uso letterario e variazione regionale",
+    "level": "c1",
+    "explanation": "El passato remoto tiene irregulares complejos que van más allá de los aprendidos en B1-B2. Además, su uso varía radicalmente entre el norte y el sur de Italia, y tiene un papel privilegiado en la literatura.",
+    "sections": [
+      {
+        "title": "Irregolari avanzati di seconda coniugazione",
+        "content": "Los verbos en -ere tienen las irregularidades más complejas. La clave es el sistema 1-3-3: la 1ª persona singular, la 3ª singular y la 3ª plural son irregulares; el resto es regular.\n\nEjemplos:\n• Chiedere → chiesi, chiedesti, chiese, chiedemmo, chiedeste, CHIESERO\n• Rispondere → risposi, rispondesti, rispose...\n• Prendere → presi, prendesti, prese...\n• Mettere → misi, mettesti, mise...\n• Leggere → lessi, leggesti, lesse...\n• Scrivere → scrissi, scrivesti, scrisse...\n• Vivere → vissi, vivesti, visse...\n• Cadere → caddi, cadesti, cadde...\n• Tenere → tenni, tenesti, tenne...\n• Venire → venni, venisti, venne...\n• Vedere → vidi, vedesti, vide...\n• Sapere → seppi, sapesti, seppe...\n• Volere → volli, volesti, volle...\n• Potere → potei/poté, potesti, poté...\n• Essere → fui, fosti, fu, fummo, foste, furono\n• Fare → feci, facesti, fece, facemmo, faceste, fecero\n• Dare → diedi/detti, desti, diede/dette...",
+        "examples": [
+          {
+            "italian": "Quando lo vidi, capii subito che qualcosa non andava.",
+            "translation": "Cuando lo vi, entendí enseguida que algo no iba bien."
+          },
+          {
+            "italian": "Si mise a piangere senza dire una parola.",
+            "translation": "Se puso a llorar sin decir una palabra."
+          }
+        ]
+      },
+      {
+        "title": "La variazione regionale: Nord vs Sud",
+        "content": "Esta es una de las diferencias sociolingüísticas más marcadas del italiano:\n\n**NORD ITALIA (Milano, Torino, Venezia, Bologna):**\nUsan el PASSATO PROSSIMO para hablar de eventos pasados, incluso remotos o históricos.\n'Ieri Napoleone ha perso a Waterloo' (para un milanés, es normal si lo está contando ahora)\n'Stamattina mi sono alzato alle sette' ✓\n'Ieri ho mangiato bene' ✓\n\n**SUD ITALIA (Napoli, Palermo, Bari):**\nUsan el PASSATO REMOTO para eventos recientes e incluso cotidianos.\n'Stamattina mi alzai alle sette' ✓ (completamente normal en Nápoles)\n'Ieri mangiai bene' ✓\n\n**TOSCANA e ITALIA CENTRALE:**\nUsan el passato prossimo pero con el limite más claro: si el evento tiene relevancia presente = prossimo; si es puramente narración histórica = remoto.\n\nCONSEJO PRÁCTICO: En conversación formal o escrita standard, el passato prossimo es siempre seguro en el norte y el centro. En el sur, el passato remoto en conversación no sorprende. En literatura y ensayo, el passato remoto domina.",
+        "examples": [
+          {
+            "italian": "«Dante nacque a Firenze nel 1265 e morì a Ravenna nel 1321.» (letterario — passato remoto per eventi storici in tutta Italia)",
+            "translation": "'Dante nació en Florencia en 1265 y murió en Rávena en 1321.' (literario — passato remoto para eventos históricos en toda Italia)"
+          }
+        ]
+      },
+      {
+        "title": "Uso letterario del passato remoto",
+        "content": "En la narración literaria, el passato remoto es el tiempo de la narración por excelencia, independientemente de la región del autor. Esta es la convenzione letteraria italiana:\n\n• Narración en tercera persona → passato remoto\n• Dialogi e pensieri interiori → possono usare il passato prossimo\n• Descrizioni di stato → imperfetto\n\nEste sistema (passato remoto per azioni, imperfetto per stati) es la base del racconto letterario italiano.",
+        "examples": [
+          {
+            "italian": "Aprì la porta, entrò nella stanza e vide quello che non avrebbe mai voluto vedere. La luce filtrava debolmente dalla persiana. Rimase immobile per qualche secondo.",
+            "translation": "Abrió la puerta, entró en la habitación y vio lo que nunca habría querido ver. La luz filtraba débilmente por la persiana. Se quedó inmóvil durante unos segundos."
+          }
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "type": "fill-blank",
+        "instruction": "Completa con el passato remoto correcto del verbo indicado.",
+        "items": [
+          {
+            "sentence": "Dante ___ (scrivere) la Divina Commedia tra il 1308 e il 1321.",
+            "answer": "scrisse"
+          },
+          {
+            "sentence": "Garibaldi ___ (partire) da Quarto con i Mille nel 1860.",
+            "answer": "partì"
+          },
+          {
+            "sentence": "Leopardi ___ (vivere) una vita di dolore ma ___ (creare) poesie immortali.",
+            "answer": "visse / creò"
+          }
+        ]
+      }
+    ],
+    "pattern": "irregolari forti: 1ª/3ª/3ª pl. | uso letterario vs regionale (nord/sud)",
+    "meaning": "passato remoto avanzado — irregolari y uso literario/regional",
+    "examples": [
+      {
+        "sentence": "Dante nacque a Firenze nel 1265.",
+        "translation": "Dante nació en Florencia en 1265.",
+        "breakdown": [
+          "nacque = nació (passato remoto di nascere)",
+          "nació = nacque"
+        ]
+      },
+      {
+        "sentence": "Garibaldi partì per il Sud con i suoi Mille.",
+        "translation": "Garibaldi partió hacia el Sur con sus Mil.",
+        "breakdown": [
+          "partì = partió",
+          "i suoi Mille = sus Mil (soldados)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c1-stile-indiretto-letterario",
+    "title": "Lo stile indiretto nei testi letterari e giornalistici",
+    "level": "c1",
+    "explanation": "El estilo indirecto en italiano literario implica una serie de transformaciones temporales (concordanza dei tempi) que en el nivel B2 se aprenden parcialmente. En C1, el dominio incluye los casos más complejos, incluido el uso del congiuntivo en el discurso indirecto literario.",
+    "sections": [
+      {
+        "title": "Concordanza dei tempi nel discorso indiretto",
+        "content": "REGLA GENERAL: Si el verbo introductor está en pasado, el tiempo del discurso indirecto se desplaza:\n\nDiscorso diretto → Discorso indiretto (con verbo introduttore al passato)\n• Presente → Imperfetto: 'Ho fame' → Disse che aveva fame\n• Futuro semplice → Condizionale passato: 'Verrò' → Disse che sarebbe venuto\n• Passato prossimo → Trapassato prossimo: 'Ho mangiato' → Disse che aveva mangiato\n• Imperativo → di + infinito: 'Vieni!' → Gli disse di venire\n• Congiuntivo presente → Congiuntivo imperfetto: 'Credo che venga' → Credeva che venisse\n• Congiuntivo passato → Congiuntivo trapassato: 'Credo che sia venuto' → Credeva che fosse venuto",
+        "examples": [
+          {
+            "italian": "«Domani partirò per Roma» → Disse che il giorno seguente sarebbe partito per Roma.",
+            "translation": "'Mañana partiré a Roma' → Dijo que al día siguiente partiría a Roma."
+          },
+          {
+            "italian": "«Non so se riuscirò a finire» → Ammise che non sapeva se sarebbe riuscito a finire.",
+            "translation": "'No sé si podré terminar' → Admitió que no sabía si podría terminar."
+          }
+        ]
+      },
+      {
+        "title": "Il congiuntivo nel discorso indiretto letterario",
+        "content": "Una característica del italiano literario y formal es el uso del CONGIUNTIVO en las oraciones completivas con verbo de pensamiento o percepción, incluso cuando el verbo introductor no lo requeriría en el habla cotidiana:\n\nESTILO NEUTRO: 'Pensava che era tardi' (accettabile nel parlato)\nESTILO LETTERARIO: 'Pensava che fosse tardi' (preferito nella scrittura)\n\nEsta distinción es marca de registro: el subjuntivo en completivas marca cuidado estilístico y es obligatorio en escritura formal.",
+        "examples": [
+          {
+            "italian": "Sosteneva che la poesia fosse l'unica forma d'arte capace di fermare il tempo.",
+            "translation": "Sostenía que la poesía era la única forma de arte capaz de detener el tiempo."
+          },
+          {
+            "italian": "Credeva che quegli anni fossero stati i più felici della sua vita.",
+            "translation": "Creía que aquellos años habían sido los más felices de su vida."
+          }
+        ]
+      },
+      {
+        "title": "Modifiche di pronomi e avverbi",
+        "content": "El discurso indirecto también requiere cambios deícticos:\n• Qui/qua → lì/là\n• Oggi → quel giorno\n• Ieri → il giorno prima / la vigilia\n• Domani → il giorno dopo / l'indomani\n• L'anno scorso → l'anno prima\n• Questo → quello\n• Io/tu → lui/lei/loro (según contexto)",
+        "examples": [
+          {
+            "italian": "«Oggi sono qui per voi» → Disse che quel giorno era lì per loro.",
+            "translation": "'Hoy estoy aquí para vosotros' → Dijo que aquel día estaba allí para ellos."
+          }
+        ]
+      }
+    ],
+    "pattern": "concordanza dei tempi in stile indiretto letterario e giornalistico",
+    "meaning": "estilo indirecto en textos literarios y periodísticos",
+    "examples": [
+      {
+        "sentence": "Disse che sarebbe partito il giorno seguente.",
+        "translation": "Dijo que partiría al día siguiente.",
+        "breakdown": [
+          "disse = dijo",
+          "sarebbe partito = habría partido (condiz. passato nel discorso indiretto)"
+        ]
+      },
+      {
+        "sentence": "Affermò di non aver visto nessuno.",
+        "translation": "Afirmó no haber visto a nadie.",
+        "breakdown": [
+          "affermò = afirmó",
+          "di non aver visto = de no haber visto (infinito nel discorso indiretto)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c1-periodo-ipotetico-letterario",
+    "title": "Il periodo ipotetico letterario e l'inversione dell'ordine",
+    "level": "c1",
+    "explanation": "El período hipotético literario italiano permite construcciones que se alejan del esquema estándar B2. En estilo elevado y poético, la inversión sintáctica y el uso del congiuntivo trapassato donde se esperaría condizionale passato son marcas de registro alto.",
+    "sections": [
+      {
+        "title": "I tre tipi di periodo ipotetico (revisión avanzada)",
+        "content": "TIPO 1 — Reale (probabilidad alta): Se hai tempo, vienimi a trovare.\nTIPO 2 — Possibile (hipotético presente): Se avessi tempo, verrei a trovarti. [cong.imperf. + condiz.pres.]\nTIPO 3 — Impossibile (hipotético pasado): Se avessi avuto tempo, sarei venuto. [cong.trapassato + condiz.passato]\n\nMEZZO TIPO (presente impossibile + futuro): Se fossi ricco, comprerei una casa. [regolare]\n\nMEZZO TIPO (passato/presente misto): Se avessi studiato di più, adesso sarei medico. [cong.trapassato + condiz.pres.]",
+        "examples": [
+          {
+            "italian": "Se avessi saputo la verità, non avrei mai accettato quel compromesso.",
+            "translation": "Si hubiera sabido la verdad, nunca habría aceptado ese compromiso."
+          }
+        ]
+      },
+      {
+        "title": "Inversione letteraria: la protasi con il congiuntivo trapassato invertito",
+        "content": "En italiano literario y poético, la cláusula 'se' puede OMITIRSE y sustituirse por una inversión con il congiuntivo:\n\nESTANDO: 'Se avessi potuto scegliere, avrei scelto la solitudine'\nLITERARIO: 'Avessi potuto scegliere, avrei scelto la solitudine'\n\nEsta construcción, equivalente al español 'De haber podido elegir...', es característica de la prosa literaria italiana desde el Ottocento. La encontramos en Leopardi, Verga y la narrativa novecentesca.",
+        "examples": [
+          {
+            "italian": "Avessi vissuto in un'altra epoca, forse sarei stato felice.",
+            "translation": "De haber vivido en otra época, quizás habría sido feliz."
+          },
+          {
+            "italian": "Avesse parlato, tutto sarebbe cambiato.",
+            "translation": "De haber hablado, todo habría cambiado."
+          }
+        ]
+      },
+      {
+        "title": "Usi non standard: il condizionale nella protasi",
+        "content": "En el italiano parlato colloquiale del sur y en ciertas regiones, se usa el condizionale en la protasi (incorrecto según la norma):\n\nCOLLOQUIALE (SCORRETTO): 'Se avrebbe saputo, sarebbe venuto'\nCORRECTO: 'Se avesse saputo, sarebbe venuto'\n\nEsta forma está FIRMEMENTE CONDENADA por la norma, aunque sea muy común en el habla coloquial. Reconocerla es necesario para entender el italiano auténtico, pero nunca escribirla.",
+        "examples": [
+          {
+            "italian": "❌ Se avrei avuto i soldi, avrei comprato la casa. ✓ Se avessi avuto i soldi, avrei comprato la casa.",
+            "translation": "❌ Si habría tenido el dinero... ✓ Si hubiera tenido el dinero, habría comprado la casa."
+          }
+        ]
+      }
+    ],
+    "pattern": "inversione: fosse venuto, avrei... | pur + participio/gerundio",
+    "meaning": "período hipotético literario con inversión del orden",
+    "examples": [
+      {
+        "sentence": "Fosse vissuto più a lungo, avrebbe scritto altri capolavori.",
+        "translation": "Si hubiera vivido más tiempo, habría escrito otras obras maestras.",
+        "breakdown": [
+          "fosse vissuto = hubiera vivido (inversión literaria)",
+          "avrebbe scritto = habría escrito"
+        ]
+      },
+      {
+        "sentence": "Pur avendo studiato molto, non riuscì a superare l'esame.",
+        "translation": "Aunque había estudiado mucho, no logró superar el examen.",
+        "breakdown": [
+          "pur avendo = aunque habiendo (gerundio concessivo)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c1-proposizioni-infinitive",
+    "title": "Costruzioni con l'infinito: accusativo e proposizioni implicite",
+    "level": "c1",
+    "explanation": "El infinitivo en italiano puede construir cláusulas implícitas equivalentes a las subjuntivas explícitas. Este sistema, de herencia latina, es esencial en el italiano culto y formal.",
+    "sections": [
+      {
+        "title": "Infinito con cambio di soggetto: verbi di percezione",
+        "content": "Con verbos de percepción (vedere, sentire, udire, guardare), si el sujeto del infinitivo es diferente del sujeto principal, se usa la estructura:\nVerbo di percezione + OGGETTO + INFINITO (= accusativo con infinitivo latino)\n\nEJEMPLOS:\n• Vedo Mario partire = Veo a Mario marcharse\n• Ho sentito Maria cantare = He oído a María cantar\n• La guardavo dormire = La miraba dormir\n\nAlternativa con subordinata esplicita:\n• Vedo che Mario parte (menos elegante)\n• Ho sentito che Maria cantava",
+        "examples": [
+          {
+            "italian": "L'ho visto entrare senza bussare.",
+            "translation": "Lo vi entrar sin llamar."
+          },
+          {
+            "italian": "Sentii la porta aprirsi lentamente.",
+            "translation": "Oí la puerta abrirse lentamente."
+          }
+        ]
+      },
+      {
+        "title": "Verbi di opinione e dichiarazione con infinito",
+        "content": "En italiano culto, verbos como 'ritenere', 'considerare', 'credere', 'sapere', 'affermare' pueden construirse con infinito cuando el sujeto de la completiva coincide con el objeto:\n\n• 'Ritengo di essere nel giusto' (= Ritengo che io sia nel giusto)\n• 'Sa di aver sbagliato' (= Sa che ha sbagliato)\n• 'Crede di poter risolvere tutto' (mismo sujeto → infinito)\n\nCuando los sujetos son DIFERENTES, es obligatoria la subordinata con 'che':\n• 'Credo CHE lui abbia ragione' (sujetos distintos → che + congiuntivo)",
+        "examples": [
+          {
+            "italian": "Ritengo opportuno precisare che il progetto non è ancora concluso.",
+            "translation": "Considero oportuno precisar que el proyecto no está aún concluido."
+          },
+          {
+            "italian": "Si credeva destinato a grandi cose.",
+            "translation": "Se creía destinado a grandes cosas."
+          }
+        ]
+      },
+      {
+        "title": "Lo so essere difficile: costruzione dotta",
+        "content": "Una construcción especialmente culta, de herencia latina, usa el accusativo con infinitivo con verbos como 'sapere', 'credere', 'ritenere' con objeto explícito:\n\n• 'Lo sapevo essere una persona onesta'\n• 'La ritengo essere la soluzione migliore'\n• 'Lo conosco essere avaro'\n\nEstas construcciones son propias del italiano formale scritto y de la prosa saggistica. En el habla son raras pero reconocibles como cultas.",
+        "examples": [
+          {
+            "italian": "Lo ritenevo essere il candidato più adatto.",
+            "translation": "Lo consideraba el candidato más adecuado."
+          },
+          {
+            "italian": "La sapevo essere capace di molto di più.",
+            "translation": "Sabía que era capaz de mucho más."
+          }
+        ]
+      }
+    ],
+    "pattern": "[verbo percettivo/causativo] + [soggetto] + infinitivo",
+    "meaning": "construcciones con infinitivo: acusativo y proposiciones implícitas",
+    "examples": [
+      {
+        "sentence": "Lo ritengo capace di gestire la situazione.",
+        "translation": "Lo considero capaz de manejar la situación.",
+        "breakdown": [
+          "ritengo... capace di = considero... capaz de",
+          "infinito dopo aggettivo predicativo"
+        ]
+      },
+      {
+        "sentence": "Sento qualcuno suonare il pianoforte.",
+        "translation": "Escucho a alguien tocar el piano.",
+        "breakdown": [
+          "sento + infinito = escucho + infinitivo (verbo percettivo)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c1-sinestesia-metafora-grammaticale",
+    "title": "Metafora grammaticale: nominalizzazione e compressione clausale",
+    "level": "c1",
+    "explanation": "La 'metafora grammaticale' (Halliday) es el proceso por el que una cláusula verbal se comprime en un sintagma nominal. Es la marca por excelencia del italiano accademico y saggistico. Dominarla es esencial para leer y producir textos académicos en italiano.",
+    "sections": [
+      {
+        "title": "Che cos'è la nominalizzazione",
+        "content": "La nominalización transforma verbos y adjetivos en sustantivos, comprimiendo información:\n\nCLÁUSULA VERBAL: 'L'economia è cresciuta rapidamente'\n→ NOMINALIZZAZIONE: 'la rapida crescita dell'economia'\n\nCLÁUSULA VERBAL: 'I costi sono aumentati perché la domanda è aumentata'\n→ NOMINALIZZAZIONE: 'l'aumento dei costi dovuto all'incremento della domanda'\n\nEste proceso permite encadenar más información en menos espacio, típico del registro accademico e giuridico.",
+        "examples": [
+          {
+            "italian": "La decisione del governo di aumentare le tasse ha provocato proteste.",
+            "translation": "La decisión del gobierno de subir los impuestos provocó protestas. (= Il governo ha deciso di aumentare le tasse → questo ha provocato proteste)"
+          }
+        ]
+      },
+      {
+        "title": "Suffissi principali di nominalizzazione",
+        "content": "Principales sufijos de nominalización en italiano:\n• -zione/-sione: realizzare → realizzazione; includere → inclusione\n• -mento: sviluppare → sviluppo; trattare → trattamento\n• -ità: disponibile → disponibilità; capace → capacità\n• -ezza: bello → bellezza; grande → grandezza\n• -tura: aprire → apertura; coprire → copertura\n• -aggio: montare → montaggio; arbitrare → arbitraggio\n• Infinito sostantivato: il vivere, lo scrivere, il potere\n\nEn texto académico, la alta densidad de nombres abstractos en -zione y -mento es característica del registro.",
+        "examples": [
+          {
+            "italian": "L'implementazione di politiche redistributive richiede un'attenta valutazione degli impatti.",
+            "translation": "La implementación de políticas redistributivas requiere una evaluación cuidadosa de los impactos."
+          }
+        ]
+      },
+      {
+        "title": "Sinestesia come figura grammaticale",
+        "content": "La sinestesia combina percepciones de sentidos distintos y es frecuente en la prosa poetica italiana:\n\n• 'un silenzio fragoroso' (el silencio no puede ser fragoroso)\n• 'voce calda' / 'voce fredda' (tacto + sonido)\n• 'luce tagliente' (tatto + vista)\n• 'sapore aspro delle parole' (gusto + linguaggio)\n• 'colori strillanti' (udito + vista)\n\nEsta figura es muy productiva en el italiano letterario e giornalistico. Nabokov, Calvino y Eco la usaban magistralmente.",
+        "examples": [
+          {
+            "italian": "Il suo tono gelido mi raggiunse come una lama.",
+            "translation": "Su tono gélido me alcanzó como una hoja."
+          }
+        ]
+      }
+    ],
+    "pattern": "[clausola verbale] → [sintagma nominale] (nominalizzazione)",
+    "meaning": "metáfora gramatical y nominalización",
+    "examples": [
+      {
+        "sentence": "Il rallentamento dell'economia preoccupa i mercati.",
+        "translation": "La desaceleración de la economía preocupa a los mercados.",
+        "breakdown": [
+          "il rallentamento = la desaceleración (nominalizzazione di rallentare)",
+          "dell'economia = de la economía"
+        ]
+      },
+      {
+        "sentence": "La riduzione dei costi ha permesso l'espansione.",
+        "translation": "La reducción de costos permitió la expansión.",
+        "breakdown": [
+          "la riduzione = la reducción (nominalizzazione)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c1-punteggiatura-avanzata",
+    "title": "La punteggiatura italiana avanzata: ; : — ( ) e funzioni stilistiche",
+    "level": "c1",
+    "explanation": "La puntuación en italiano tiene convenciones propias que difieren del español y del inglés. En el registro culto, el uso correcto de punto e virgola, due punti, lineetta y parentesi es señal de maestría estilística.",
+    "sections": [
+      {
+        "title": "Il punto e virgola (;)",
+        "content": "El punto y coma italiano coordina cláusulas estrechamente relacionadas que merecen más separación que una coma pero menos que un punto:\n\nUSOS PRINCIPALES:\n1. Separar elementos de una enumeración larga cuando cada elemento ya contiene comas.\n2. Unir dos cláusulas independientes con relación lógica (causa-efecto, contraste, paralelismo).\n3. En el estilo saggistico, hacer pausas meditativas.\n\nEJEMPLO DE ENUMERACIÓN:\n'In borsa ho trovato: il portafoglio, con dentro le carte di credito; le chiavi, tra cui quella del garage; il telefono, ormai scarico; e un misterioso biglietto.'",
+        "examples": [
+          {
+            "italian": "Aveva studiato tutta la notte; eppure, all'esame, la mente rimase vuota.",
+            "translation": "Había estudiado toda la noche; sin embargo, en el examen, la mente quedó en blanco."
+          }
+        ]
+      },
+      {
+        "title": "I due punti (:)",
+        "content": "Los dos puntos en italiano anuncian o explican lo que sigue:\n\n1. ANUNCIO: introducen una lista, una cita o un discurso directo.\n2. SPIEGAZIONE: la segunda parte explica la primera ('causa/consecuencia invertida').\n3. RIFORMULAZIONE: reformulan o amplían la frase anterior.\n\nCONVENCIÓN TIPOGRÁFICA: tras los dos puntos, en italiano, generalmente minúscula (salvo cita directa).\n\n'Esistono tre soluzioni: accettare, rifiutare o rimandare.'\n'Non poteva dormire: il rumore era insopportabile.'\n'Lo capì subito: era tutto perduto.'",
+        "examples": [
+          {
+            "italian": "La risposta era ovvia: nessuno l'aveva voluta vedere.",
+            "translation": "La respuesta era obvia: nadie había querido verla."
+          }
+        ]
+      },
+      {
+        "title": "La lineetta (—) e il trattino (-)",
+        "content": "Distinción importante en tipografía italiana:\n\nTRATTINO CORTO (-): une parole composte (socio-culturale, nord-europeo).\nLINEETTA LUNGA (—): marca di inciso. Equivale a las rayas españolas.\n\nUSOS DE LA LINEETTA:\n1. Inciso: 'Il romanzo — scritto in tre anni — è considerato il suo capolavoro.'\n2. Brusca interrupción narrativa: 'Si avvicinò lentamente — poi si fermò.'\n3. Discorso diretto (en lugar de comillas en muchos textos literarios italianos):\n— Dove vai?\n— A casa, — rispose lui.\n\nNOTA: Muchos editores italiani usan la lineetta para el diálogo en lugar de las comillas francesi («»).",
+        "examples": [
+          {
+            "italian": "La sua voce — tesa, quasi metallica — riempì il silenzio della stanza.",
+            "translation": "Su voz —tensa, casi metálica— llenó el silencio de la habitación."
+          }
+        ]
+      },
+      {
+        "title": "Virgolette e parentesi",
+        "content": "VIRGOLETTE ITALIANE:\n• « » (caporali/virgolette alte): citas textuales largas, titoli di opere.\n• \" \" (virgolette doppie): uso anglosassone/americano, común en prensa.\n• ' ' (virgolette singole): títulos dentro de títulos, uso técnico.\n\nEn italiano se prefieren «» para citas en textos académicos.\n\nPARENTESI TONDE ( ): información adicional, incidentale o tecnica.\nPARENTESI QUADRE [ ]: en citas, para indicar adiciones del editor; omisiones se indican con [...]\n\n'Nel testo si legge: «Era notte fonda [enfasi nell'originale] quando arrivò la notizia».'",
+        "examples": [
+          {
+            "italian": "Come affermava Leopardi: «Sempre caro mi fu quest'ermo colle [...]».",
+            "translation": "Como afirmaba Leopardi: 'Siempre me fue querida esta colina solitaria [...]'."
+          }
+        ]
+      }
+    ],
+    "pattern": "; (pausa media) | : (introduzione) | — (inciso) | ( ) (parentetica)",
+    "meaning": "puntuación italiana avanzada y funciones estilísticas",
+    "examples": [
+      {
+        "sentence": "Arrivai; lei non c'era.",
+        "translation": "Llegué; ella no estaba.",
+        "breakdown": [
+          "punto e virgola = pausa media entre proposiciones relacionadas"
+        ]
+      },
+      {
+        "sentence": "C'era tutto: libri, quaderni, penne e matite.",
+        "translation": "Había de todo: libros, cuadernos, bolígrafos y lápices.",
+        "breakdown": [
+          "due punti = dos puntos (introducen enumeración o explicación)"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c1-registro-variazione",
+    "title": "Registro linguistico: dal colloquiale al burocratico al letterario",
+    "level": "c1",
+    "explanation": "El italiano tiene una diglosia notable entre el estándar hablado, el formal escrito, el burocrático-administrativo y el literario. Reconocer y producir cada registro es la marca del hablante avanzado.",
+    "sections": [
+      {
+        "title": "La scala dei registri",
+        "content": "REGISTRO INFORMALE/COLLOQUIALE:\n• Frase brevi, ellissi, frasi nominali.\n• Uso di 'che' polivalente: 'il libro che ti ho detto', 'vieni che parliamo'.\n• Dislocazione: 'Il libro, l'ho già letto'.\n• Ci attualizzante: 'C'è Mario che ti cerca'.\n• Molto + avverbio: 'molto bene', 'tantissimo'.\n\nREGISTRO FORMALE/STANDARD SCRITTO:\n• Frasi più lunghe, subordinazione più ricca.\n• Uso del congiuntivo nelle subordinate.\n• Lessico più preciso: non 'cosa' ma 'questione/tema/aspetto'.\n\nREGISTRO BUROCRATICO-AMMINISTRATIVO:\n• Nominalizzazioni abbondanti.\n• Forme passive: 'viene disposto', 'è stato deliberato'.\n• Frasi lunghissime con molti incisi.\n• Latinismi: 'a latere', 'de facto', 'pro tempore'.\n\nREGISTRO LETTERARIO:\n• Inversioni sintattiche.\n• Lessico raro e arcaico.\n• Congiuntivo anche dove non sarebbe obbligatorio.",
+        "examples": [
+          {
+            "italian": "COLLOQUIALE: 'Devo dirti una cosa importante.'\nFORMALE: 'Desidero comunicarLe una questione di una certa rilevanza.'\nBUROCRATICO: 'Si comunica all'interessato che, in ottemperanza alla normativa vigente, risulta necessario...'\nLETTERARIO: 'Gravoso comunicarle ciò che pesava nel petto da giorni.'",
+            "translation": "COLOQUIAL: 'Tengo que decirte algo importante.'\nFORMAL: 'Deseo comunicarle un asunto de cierta relevancia.'\nBUROCRÁTICO: 'Se comunica al interesado que, en cumplimiento de la normativa vigente, resulta necesario...'\nLITERARIO: 'Gravoso comunicarle lo que pesaba en el pecho desde hacía días.'"
+          }
+        ]
+      },
+      {
+        "title": "Il 'che' polivalente nel parlato",
+        "content": "En el habla informal, 'che' puede sustituir casi cualquier conjunción o pronombre relativo. Es un fenómeno de norma emergente estudiado por sociolingüistas:\n\n• RELATIVO: 'Il giorno che ci siamo incontrati' (= in cui ci siamo incontrati)\n• CAUSALE: 'Vieni, che voglio parlarti' (= perché voglio parlarti)\n• CONSECUTIVO: 'Era così stanco, che dormiva in piedi' (standard)\n• TEMPORALE: 'Sarà un po' che non ci vediamo' (= da un po' di tempo)\n\nEs comprensible en el habla pero va EVITATO nello scritto formale.",
+        "examples": [
+          {
+            "italian": "PARLATO: 'Il momento che è arrivato, ho capito tutto.'\nSCRITTO FORMALE: 'Nel momento in cui è arrivato, ho capito tutto.'",
+            "translation": "HABLADO: 'En el momento que llegó, lo entendí todo.'\nESCRITO FORMAL: 'En el momento en que llegó, lo entendí todo.'"
+          }
+        ]
+      }
+    ],
+    "pattern": "[colloquiale] ↔ [standard] ↔ [formale] ↔ [burocratico] ↔ [letterario]",
+    "meaning": "variación de registro: del coloquial al literario",
+    "examples": [
+      {
+        "sentence": "Colloquiale: \"Dai, andiamo!\" → Formale: \"Vi propongo di procedere.\"",
+        "translation": "Coloquial: \"¡Vamos!\" → Formal: \"Les propongo que procedamos.\"",
+        "breakdown": [
+          "registro colloquiale vs formale"
+        ]
+      },
+      {
+        "sentence": "Burocratico: \"In ottemperanza alla normativa vigente...\"",
+        "translation": "Burocrático: \"En cumplimiento de la normativa vigente...\"",
+        "breakdown": [
+          "in ottemperanza a = en cumplimiento de",
+          "stile burocratico italiano"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c1-errori-persistenti",
+    "title": "I 20 errori più comuni dei parlanti B2 che diventano C1",
+    "level": "c1",
+    "explanation": "Existen errores sistemáticos que los hispanohablantes cometen incluso a nivel B2. Estos errores de interferencia son los más difíciles de eliminar porque son transferencias inconscientes del español al italiano. Aquí los 20 más frecuentes con la corrección.",
+    "sections": [
+      {
+        "title": "Errori morfosintattici",
+        "content": "1. **'QUALSIASI' invariabile**: En español 'cualquier' concuerda con género. En italiano 'qualsiasi' es INVARIABLE.\n❌ 'Qualsiasi problema piccola' ✓ 'Qualsiasi problema piccolo'\n\n2. **CONGIUNTIVO após 'secondo me'**: En español 'según yo' no requiere subjuntivo. En italiano, 'secondo me' lleva INDICATIVO (es una opinión directa, no hipotética).\n❌ 'Secondo me, abbia ragione' ✓ 'Secondo me, ha ragione'\n\n3. **'ANDARE' + participio passato**: Confusión con 'essere andato'.\n❌ 'Sono andato via ieri' (correcto) ≠ 'Vado andato' (inesistente)\nTrapa real: usar 'andare' como ausiliare invece di 'essere': ❌ 'Ho andato' ✓ 'Sono andato'\n\n4. **ARTICOLO con nomi propri**: En español no se usa. En italiano, con nomi di donna famosi y con apellidos en algunas regiones SÍ: 'la Callas', 'il Manzoni'.\n\n5. **PREPOSIZIONE 'a' vs 'in' con luoghi**: 'Vado A Roma/Milano/Parigi' (città) pero 'Vado IN Italia/Spagna/Francia' (paesi), 'IN Toscana/Sicilia' (regioni).",
+        "examples": [
+          {
+            "italian": "✓ Secondo me, questa è la soluzione migliore. (non 'sia')\n✓ Vado a Roma domani. (città → a)\n✓ Andrò in Sicilia quest'estate. (isola/regione → in)",
+            "translation": "✓ En mi opinión, esta es la mejor solución.\n✓ Voy a Roma mañana.\n✓ Iré a Sicilia este verano."
+          }
+        ]
+      },
+      {
+        "title": "Errori lessicali e di interferenza",
+        "content": "6. **'ANNOIATO' vs 'noioso'**: 'Sono annoiato' = Estoy aburrido (estado de la persona). 'Questo film è noioso' = Esta película es aburrida (cualidad). En español se usa el mismo adjetivo.\n\n7. **'INTERESSATO' vs 'interessante'**: 'Sono interessato' = estoy interesado. 'Il libro è interessante' = el libro es interesante.\n\n8. **DOUBLE NEGATIVE**: En italiano la doble negación es OBBLIGATORIA: 'Non ho visto nessuno' (no he visto a nadie). Un italohablante no dice 'Ho visto nessuno'.\n\n9. **'SICURAMENTE' vs 'certamente' vs 'di sicuro'**: Todos significan 'seguramente/ciertamente' pero con matices de certeza decreciente. Sicuramente > certamente > probabilmente.\n\n10. **'ANCORA' polivalente**: ancora = todavía ('ancora qui') / ya ('ancora non capisci?') / también ('ancora?') / de nuevo. Interferencia con el español 'aún/todavía/ya'.",
+        "examples": [
+          {
+            "italian": "Non ho ancora finito. (todavía no he terminado)\nNon ho finito ancora? (¿Aún no he terminado?)\nAnche questo? Ancora! (¿También esto? ¡Otra vez!)",
+            "translation": "Todavía no he terminado.\n¿Aún no he terminado?\n¿También esto? ¡Otra vez!"
+          }
+        ]
+      },
+      {
+        "title": "Errori di pronuncia e ortografia sistematici",
+        "content": "11. **GN**: siempre /ɲ/ (como 'ñ'): gnomo, segnare, bagno. Nunca pronunciar la G.\n12. **GLI**: /ʎ/ palatale: figlio, famiglia, scegliere. No es ni /gl/ ni /li/.\n13. **SC + e/i**: /ʃ/: scena, sciopero. SC + a/o/u = /sk/: scala, scuola.\n14. **Doppie**: Son fonológicas. Obligatorio distinguir: pena/penna, caro/carro, ano/anno.\n15. **Accento tonico**: 'àncora' (herramienta) vs 'ancóra' (todavía). El acento tónico distingue significados.\n\n16. **'STARE' vs 'ESSERE'**: En español 'estar' funciona para ambos. En italiano:\n- STARE: acciones/posición temporal ('sto lavorando', 'sto bene')\n- ESSERE: identidad, características ('sono italiano', 'sono a Roma')\nSutil pero importante: '❌Sono stanco di stare qui' ✓ (aquí ambos son correctos en distintos usos)\n\n17. **'PER' vs 'DA' con duraciones**: 'Ho aspettato PER due ore' (duración del evento) vs 'Aspetto DA due ore' (acción que continúa hasta ahora).\n\n18. **PIACERE con sujeto**: 'Mi piace il libro' (no: 'Io piaccio il libro'). El sujeto de 'piacere' es la cosa que gusta, no la persona.\n\n19. **'CI' e 'NE' pronominali**: Ci = ci/vi/a ciò: 'non ci credo'. Ne = di quello/da lì: 'ne parlerò'. Interferencia con el español donde no existen.\n\n20. **Accordo del participio passato**: Con 'avere' + oggetto diretto + pronome, il participio CONCORDA: 'Le ho viste' (ho visto le ragazze → le = femminile plurale). Con 'essere': sempre concorda: 'Sono andato/andata'.",
+        "examples": [
+          {
+            "italian": "✓ Le ho lette tutte (le lettere). / ✓ Ho aspettato per un'ora. / ✓ Aspetto da un'ora.",
+            "translation": "✓ Las leí todas (las cartas). / ✓ Esperé una hora. / ✓ Llevo una hora esperando."
+          }
+        ]
+      }
+    ],
+    "pattern": "[forma errata] → [forma corretta] + regola spiegata",
+    "meaning": "los 20 errores más comunes en la transición B2→C1",
+    "examples": [
+      {
+        "sentence": "❌ \"Sono andato e ho tornato\" → ✅ \"Sono andato e sono tornato.\"",
+        "translation": "❌ \"Fui y he vuelto\" → ✅ \"Fui y volví.\"",
+        "breakdown": [
+          "tornare usa ESSERE come ausiliare"
+        ]
+      },
+      {
+        "sentence": "❌ \"Spero che tu vieni\" → ✅ \"Spero che tu venga.\"",
+        "translation": "❌ \"Espero que tú vienes\" → ✅ \"Espero que vengas.\"",
+        "breakdown": [
+          "sperare che + CONGIUNTIVO, non indicativo"
+        ]
+      }
+    ]
+  }
+]

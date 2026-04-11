@@ -1,0 +1,95 @@
+{
+  "id": "conv-a2-03",
+  "title": "Conversazione: Dal medico",
+  "description": "En el consultorio médico italiano. Describir síntomas, hacer una cita, entender las instrucciones del médico. Vocabulario del cuerpo humano y expresiones para describir cómo uno se siente.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Non mi sento bene. Ho mal di testa e la febbre.",
+      "back": "No me siento bien. Tengo dolor de cabeza y fiebre.",
+      "reading": "",
+      "explanation": "'Non mi sento bene' = no me siento bien (sentirsi = sentirse, verbo reflexivo). 'Ho mal di testa' = tengo dolor de cabeza (mal di + parte del corpo). 'Ho la febbre' = tengo fiebre (AVERE la febbre — con artículo). Otras: 'ho mal di stomaco' (dolor de estómago), 'ho mal di gola' (dolor de garganta)."
+    },
+    {
+      "front": "Vorrei fissare un appuntamento con il medico.",
+      "back": "Quisiera hacer una cita con el médico.",
+      "reading": "",
+      "explanation": "'Fissare un appuntamento' = hacer/fijar una cita. 'Il medico' = el médico (general). 'Il dottore/la dottoressa' = el doctor/la doctora. 'Il medico di base' = el médico de cabecera/médico de familia. En Italia el sistema de salud pública (SSN) requiere primero ir al médico de base."
+    },
+    {
+      "front": "Da quanto tempo ha questi sintomi?",
+      "back": "¿Desde cuándo tiene estos síntomas?",
+      "reading": "",
+      "explanation": "'Da quanto tempo' = ¿desde cuándo? / ¿hace cuánto? (DA + tempo). 'Ha questi sintomi?' = ¿tiene estos síntomas? (formal). 'I sintomi' = los síntomas. Respuesta: 'Da ieri' = desde ayer, 'da tre giorni' = desde hace tres días, 'da una settimana' = desde hace una semana."
+    },
+    {
+      "front": "Ho mal di gola da due giorni e ho anche la tosse.",
+      "back": "Tengo dolor de garganta desde hace dos días y también tos.",
+      "reading": "",
+      "explanation": "'Ho mal di gola' = tengo dolor de garganta. 'Da due giorni' = desde hace dos días (PRESENTE + DA). 'Ho la tosse' = tengo tos (con artículo). 'Ho il naso che cola' = tengo el nariz que gotea / tengo mocos. 'Ho il raffreddore' = tengo resfrío/gripe."
+    },
+    {
+      "front": "Prenda queste compresse tre volte al giorno, dopo i pasti.",
+      "back": "Tome estas pastillas tres veces al día, después de las comidas.",
+      "reading": "",
+      "explanation": "'Prenda' = tome (imperativo formale di prendere). 'Le compresse' = las pastillas/comprimidos. 'Tre volte al giorno' = tres veces al día. 'Dopo i pasti' = después de las comidas (i pasti = las comidas). 'Prima dei pasti' = antes de las comidas. 'A stomaco vuoto' = con el estómago vacío."
+    },
+    {
+      "front": "— Buongiorno, dottoressa.\n— Buongiorno. Come si sente?\n— Non bene. Ho la febbre da ieri e mi fa male la gola.\n— Apra la bocca... Ha la gola infiammata. Le faccio una ricetta per un antibiotico.\n— Devo riposare?\n— Sì, stia a casa almeno due giorni e beva molta acqua.\n— Grazie, dottoressa.\n— Prego. Si riprenda presto!",
+      "back": "— Buenos días, doctora.\n— Buenos días. ¿Cómo se siente?\n— No bien. Tengo fiebre desde ayer y me duele la garganta.\n— Abra la boca... Tiene la garganta inflamada. Le receto un antibiótico.\n— ¿Debo descansar?\n— Sí, quédese en casa al menos dos días y beba mucha agua.\n— Gracias, doctora.\n— De nada. ¡Que se mejore pronto!",
+      "reading": "",
+      "explanation": "Diálogo completo en el consultorio. 'Mi fa male la gola' = me duele la garganta (fare male + parte del corpo). 'La gola infiammata' = la garganta inflamada. 'Le faccio una ricetta' = le hago una receta. 'Stia a casa' = quédese en casa (imperativo formale di stare). 'Si riprenda presto!' = ¡que se mejore pronto! (espressione di auguri per la salute)."
+    },
+    {
+      "front": "Mi fa male la schiena / Mi fanno male le gambe.",
+      "back": "Me duele la espalda / Me duelen las piernas.",
+      "reading": "",
+      "explanation": "'Fare male' = doler. 'MI FA MALE' (sing.): mi fa male la schiena (me duele la espalda), mi fa male il ginocchio (me duele la rodilla). 'MI FANNO MALE' (pl.): mi fanno male le gambe (me duelen las piernas), mi fanno male i denti (me duelen los dientes). El verbo concuerda con la parte del cuerpo."
+    },
+    {
+      "front": "Ho bisogno di una ricetta / di un certificato medico.",
+      "back": "Necesito una receta / un certificado médico.",
+      "reading": "",
+      "explanation": "'La ricetta' = la receta médica. 'Il certificato medico' = el certificado médico (necesario para el trabajo). 'La prescrizione' = la prescripción. 'La farmacia' = la farmacia. 'Il farmacista' = el farmacéutico. 'La mutua' = el seguro médico/cobertura médica. 'Il pronto soccorso' = urgencias/emergencias."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Describir síntomas al médico",
+      "instruction": "'Non mi sento bene.' Para síntomas con AVERE: ho mal di testa/gola/stomaco, ho la febbre/tosse/raffreddore. Para dolor: mi fa male + parte del corpo (sing.) / mi fanno male + parte del corpo (pl.).",
+      "itemIndices": [0, 3, 6]
+    },
+    {
+      "type": "introduce",
+      "title": "En el consultorio: preguntas, diagnóstico e instrucciones",
+      "instruction": "Hacer cita: vorrei fissare un appuntamento. El médico pregunta: da quanto tempo? Instrucciones del médico: prenda/stia/beva (imperativo formale). Vocabulario: ricetta, antibiotico, compresse.",
+      "itemIndices": [1, 2, 4, 5, 7]
+    },
+    {
+      "type": "conversation-script",
+      "title": "Dal medico: el diálogo completo",
+      "instruction": "Practicá el diálogo completo. Primero el paciente (tú), luego la dottoressa.",
+      "itemIndices": [5]
+    },
+    {
+      "type": "recall",
+      "title": "Describí tus síntomas en italiano",
+      "instruction": "Traducí estas descripciones de síntomas al italiano.",
+      "itemIndices": [0, 3, 4, 6]
+    },
+    {
+      "type": "speak",
+      "title": "¿Cómo te sentís hoy en italiano?",
+      "instruction": "Describí cómo te sentís hoy usando las expresiones médicas: non mi sento bene / ho mal di..., ho la..., mi fa male...",
+      "itemIndices": [0, 3, 6]
+    },
+    {
+      "type": "summary",
+      "title": "Dal medico: vocabulario y estructuras",
+      "instruction": "SÍNTOMAS: non mi sento bene, ho mal di [parte], ho la febbre/tosse/raffreddore, mi fa male [sing.], mi fanno male [pl.]. CITA: vorrei fissare un appuntamento. PREGUNTA: da quanto tempo ha questi sintomi? INSTRUCCIONES (imperativo formale): prenda, stia, beva. VOCABULARIO: la ricetta (la receta), le compresse (las pastillas), il certificato medico, il pronto soccorso (urgencias).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

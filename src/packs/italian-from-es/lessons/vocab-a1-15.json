@@ -1,0 +1,107 @@
+{
+  "id": "vocab-a1-15",
+  "title": "Aggettivi base",
+  "description": "Los adjetivos fundamentales del italiano. Aprenderás a describir personas, cosas y situaciones. Recordá que los adjetivos concuerdan con el sustantivo.",
+  "level": "a1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "grande / piccolo",
+      "back": "grande / pequeño",
+      "reading": "/ˈɡrande/ /ˈpikkolo/",
+      "explanation": "'Grande' es igual en m. y f. (solo cambia en plural: grandi). 'Piccolo' concuerda: piccolo/piccola/piccoli/piccole. 'Gran' (apocopado) va antes del sustantivo: 'un gran uomo'."
+    },
+    {
+      "front": "bello / brutto",
+      "back": "lindo / feo",
+      "reading": "/ˈbɛllo/ /ˈbrutto/",
+      "explanation": "'Bello' tiene formas especiales antes del sustantivo (como el artículo): bel libro, bell'uomo, bella casa, bello zaino. Después del verbo es siempre bello/bella/belli/belle."
+    },
+    {
+      "front": "buono / cattivo",
+      "back": "bueno / malo",
+      "reading": "/ˈbwɔːno/ /katˈtiːvo/",
+      "explanation": "'Buono' antes del sustantivo se acopla: buon amico, buona pizza, buon vino. 'Cattivo' = malo (en calidad) y también 'malvado' (persona). 'Cattivo' NO es 'cautivo' — falso amigo."
+    },
+    {
+      "front": "nuovo / vecchio",
+      "back": "nuevo / viejo",
+      "reading": "/ˈnwɔːvo/ /ˈvɛkkjo/",
+      "explanation": "'Nuovo' concuerda: nuovo/nuova/nuovi/nuove. 'Vecchio' concuerda: vecchio/vecchia/vecchi/vecchie. 'Vecchio' puede ser ofensivo con personas — preferir 'anziano' (anciano/mayor)."
+    },
+    {
+      "front": "alto / basso",
+      "back": "alto / bajo",
+      "reading": "/ˈalto/ /ˈbasso/",
+      "explanation": "'Alto' y 'basso' concuerdan normalmente. 'Basso' también = bajo (de precio o calidad). 'Parlare ad alta voce' = hablar en voz alta. 'A bassa voce' = en voz baja. 'Bassezza' = bajeza."
+    },
+    {
+      "front": "lungo / corto",
+      "back": "largo / corto",
+      "reading": "/ˈluŋɡo/ /ˈkorto/",
+      "explanation": "'Lungo' = largo (extensión). Cuidado: 'largo' en italiano = ancho (¡falso amigo!). 'Un viaggio lungo' = un viaje largo. 'Capelli corti' = pelo corto. 'Lungo' también = espresso diluido."
+    },
+    {
+      "front": "caro / economico",
+      "back": "caro / barato",
+      "reading": "/ˈkaːro/ /ekoˈnɔmiko/",
+      "explanation": "'Caro' = caro (precio) y también 'querido' (afecto). 'Economico' = económico/barato. 'A buon prezzo' = a buen precio. 'Costoso' = caro/costoso."
+    },
+    {
+      "front": "facile / difficile",
+      "back": "fácil / difícil",
+      "reading": "/ˈfaːtʃile/ /difˈfiːtʃile/",
+      "explanation": "'Facile' e 'difficile' son invariables en género (solo cambia en plural: facili/difficili). 'Non è facile!' = ¡No es fácil! 'Italiani facili' — ¡el italiano es fácil para hispanohablantes!"
+    },
+    {
+      "front": "simpatico / antipatico",
+      "back": "simpático / antipático",
+      "reading": "/simˈpaːtiko/ /antiˈpaːtiko/",
+      "explanation": "'Simpatico' = simpático/agradable. Muy parecido al español pero atención: en inglés 'sympathetic' no significa lo mismo. 'Essere simpatico a qualcuno' = caerle bien a alguien."
+    },
+    {
+      "front": "stanco / riposato",
+      "back": "cansado / descansado",
+      "reading": "/ˈstaŋko/ /ripoˈzaːto/",
+      "explanation": "'Stanco' concuerda: stanco/stanca/stanchi/stanche. 'Sono stanco' = Estoy cansado (usa ESSERE). 'Mi sento stanco' = Me siento cansado. 'Riposarsi' = descansar."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Aggettivi opposti — pares de opuestos",
+      "instruction": "Los adjetivos en pares de opuestos. Recordá que todos concuerdan con el sustantivo. ¡Ojo con el falso amigo 'lungo' (=largo, no 'amplio')!",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Ves el adjetivo en italiano. Elegí la traducción correcta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "Del español al italiano",
+      "instruction": "Ves el adjetivo en español. Escribí la palabra italiana.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "error-correction",
+      "title": "Falsos amigos",
+      "instruction": "¿Cuál es el error? 'Il vestito è largo' (si querés decir 'el vestido es largo' → debería ser 'lungo'). 'largo' en italiano = ancho.",
+      "itemIndices": [5]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Describí con adjetivos",
+      "instruction": "Concordá el adjetivo: 'La casa è (grande/piccolo)' → grande. 'Il libro è (facile/difficile)' → ?",
+      "itemIndices": [0, 7]
+    },
+    {
+      "type": "summary",
+      "title": "¡Aggettivi base!",
+      "instruction": "grande/piccolo, bello/brutto, buono/cattivo, nuovo/vecchio, alto/basso, lungo/corto, caro/economico, facile/difficile, simpatico/antipatico, stanco/riposato. FALSO AMIGO: 'lungo' = largo (no ancho). 'largo' = ancho.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

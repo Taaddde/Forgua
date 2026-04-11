@@ -1,0 +1,95 @@
+{
+  "id": "conv-c1-01",
+  "title": "Tenere una presentazione",
+  "description": "Cómo estructurar y presentar una exposición académica o profesional en italiano. Las fórmulas de inicio, transición, ilustración de datos, síntesis y apertura a preguntas que marcan al presentador competente en contextos formales italianos.",
+  "level": "c1",
+  "category": "conversation",
+  "items": [
+    {
+      "front": "Inizierò illustrando...",
+      "back": "Comenzaré ilustrando... / Voy a empezar explicando...",
+      "reading": "",
+      "explanation": "Fórmula de apertura formal para presentaciones. Alternativas: 'Procederò presentando...', 'La struttura della mia presentazione è la seguente:'. El futuro semplice ('inizierò') da más formalidad que il presente ('inizio'). Usada en università, convegni académicos, presentazioni aziendali."
+    },
+    {
+      "front": "Il tema che intendo affrontare è...",
+      "back": "El tema que pretendo abordar es... / El objeto de mi presentación es...",
+      "reading": "",
+      "explanation": "'Intendo affrontare' = intendo trattare (variante más directa). La fórmula marco el tema y el approccio del presentador. Alternativas: 'L'oggetto di questa presentazione è...', 'Mi propongo di analizzare...', 'Questa presentazione si concentra su...'"
+    },
+    {
+      "front": "Come si evince da questi dati...",
+      "back": "Como se deduce de estos datos... / Estos datos nos muestran que...",
+      "reading": "",
+      "explanation": "'Evincere' = deducir, inferir (literario/formal). 'Si evince' (pasiva impersonale) es la forma estándar en presentaciones. Alternativas: 'Come emerge da questi dati...', 'Questi dati mostrano chiaramente che...', 'Come attestano le statistiche...'"
+    },
+    {
+      "front": "In sintesi, possiamo affermare che...",
+      "back": "En síntesis, podemos afirmar que... / Para resumir, podemos concluir que...",
+      "reading": "",
+      "explanation": "Fórmula de síntesis/conclusión intermedia o final. Alternativas: 'In conclusione...', 'Per concludere...', 'Ricapitolando...', 'Per sintetizzare...'. El 'possiamo' (inclusivo) crea complicità con il pubblico. 'Affermare' > 'dire' en registro formale."
+    },
+    {
+      "front": "Sono disponibile a rispondere alle domande.",
+      "back": "Estoy disponible para responder preguntas. / Con gusto respondo a sus preguntas.",
+      "reading": "",
+      "explanation": "Fórmula de cierre de presentación para abrir el turno de preguntas. Alternativas: 'A questo punto, sono lieto/a di rispondere alle vostre domande.', 'Se avete domande, sono a vostra disposizione.', 'Passo la parola al pubblico per le eventuali domande.'"
+    },
+    {
+      "front": "Passando al secondo punto...",
+      "back": "Pasando al segundo punto... / Continuando con...",
+      "reading": "",
+      "explanation": "Fórmula de transición entre secciones de la presentación. Alternativas: 'Venendo ora al tema di...', 'Affrontiamo adesso la questione di...', 'Passo ora ad analizzare...', 'Il secondo aspetto che intendo trattare è...'"
+    },
+    {
+      "front": "Come ho accennato in precedenza...",
+      "back": "Como mencioné anteriormente... / Como ya indiqué antes...",
+      "reading": "",
+      "explanation": "'Accennare' = mencionar brevemente, aludir (más elegante que 'dire' o 'citare'). 'In precedenza' = anteriormente (formal). Sirve para hacer referencias cruzadas internas a la presentación, demostrando estructura lógica."
+    },
+    {
+      "front": "A titolo esemplificativo...",
+      "back": "A título de ejemplo... / Para ilustrar con un ejemplo...",
+      "reading": "",
+      "explanation": "'A titolo esemplificativo' = a modo de ejemplo ilustrativo (muy formal). Alternativas: 'A mo' di esempio...', 'Per fare un esempio concreto...', 'Si pensi, ad esempio, al caso di...', 'Basti citare il caso di...'"
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "La estructura de la presentazione italiana",
+      "instruction": "Una presentazione italiana formal tiene cuatro momentos clave: (1) apertura con il tema e la struttura, (2) sviluppo con transiciones claras, (3) illustrazione con dati ed esempi, (4) conclusione con síntesis y apertura a domande. Las fórmulas de esta lección corresponden a cada momento. Obsérvalas en el orden en que aparecerían en una presentación real.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿En qué momento de la presentación?",
+      "instruction": "Para cada fórmula, identifica en qué momento de la presentación se usaría: apertura, transición, ilustración de datos, síntesis o conclusión con apertura a preguntas.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Construye tu presentazione",
+      "instruction": "Completa este esquema de presentación con las fórmulas correctas. El tema: 'L'impatto dell'intelligenza artificiale sul mercato del lavoro italiano'. Elige qué fórmula va en cada momento (apertura, transizione, dati, sintesi, domande).",
+      "itemIndices": [0, 1, 3, 5, 4]
+    },
+    {
+      "type": "recall",
+      "title": "La fórmula italiana",
+      "instruction": "Ves el equivalente español. Escribe la fórmula italiana correspondiente. En presentaciones formales, la precisión de las fórmulas es señal de preparación.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "conversation-script",
+      "title": "Simula una presentazione",
+      "instruction": "Usando las fórmulas aprendidas, construye el guión (2-3 minutos) de la apertura, una transición, la síntesis y el cierre con domande de una presentazione su un tema de tu elección. Recuerda: el tono es formale, il pubblico è un collegio accademico o un team aziendale.",
+      "itemIndices": [0, 1, 5, 3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "Presentazione in italiano — padroneggiata",
+      "instruction": "Las 8 fórmulas clave: apertura (inizierò/il tema che intendo), illustrazione dati (come si evince), transizioni (passando al secondo punto/come ho accennato), esempi (a titolo esemplificativo), sintesi (in sintesi possiamo affermare), conclusione (sono disponibile). Per praticare: guarda TED Talks in italiano su ted.com — le strutture delle presentazioni ti sono ora familiari.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

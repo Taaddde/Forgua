@@ -1,0 +1,89 @@
+{
+  "id": "reading-a2-03",
+  "title": "Lettura: Una ricetta italiana — pasta al pomodoro",
+  "description": "Tercera lectura A2. Una receta italiana en forma de instrucciones: ingredientes y pasos para hacer pasta al pomodoro. Imperativo plural, vocabulario de cocina y secuencia de acciones.",
+  "level": "a2",
+  "category": "reading",
+  "items": [
+    {
+      "front": "La pasta al pomodoro è uno dei piatti più semplici e amati della cucina italiana.",
+      "back": "La pasta al pomodoro es uno de los platos más simples y queridos de la cocina italiana.",
+      "reading": "",
+      "explanation": "'Uno dei piatti più semplici' = uno de los platos más simples (superlativo relativo: i più + aggettivo). 'Amati' = queridos, amados (participio di amare). 'La cucina italiana' = la cocina italiana. 'Dei' = di + i (preposizione articulata). Estructura: uno dei + superlativo."
+    },
+    {
+      "front": "Gli ingredienti per quattro persone: 400 grammi di spaghetti, 500 grammi di pomodori pelati, uno spicchio d'aglio, olio d'oliva, sale, pepe e basilico fresco.",
+      "back": "Los ingredientes para cuatro personas: 400 gramos de espaguetis, 500 gramos de tomates pelados, un diente de ajo, aceite de oliva, sal, pimienta y albahaca fresca.",
+      "reading": "",
+      "explanation": "'I pomodori pelati' = los tomates pelados (en conserva). 'Uno spicchio d'aglio' = un diente de ajo. 'L'olio d'oliva' = el aceite de oliva. 'Il basilico' = la albahaca (hierba aromática esencial de la cocina italiana). 'Il pepe' = la pimienta."
+    },
+    {
+      "front": "Prima di tutto, scaldate l'olio in una padella grande e fate soffriggere l'aglio per un minuto.",
+      "back": "Antes que nada, calienten el aceite en una sartén grande y sofríen el ajo por un minuto.",
+      "reading": "",
+      "explanation": "'Prima di tutto' = antes que nada / en primer lugar. 'Scaldate' = calienten (imperativo voi di scaldare). 'Una padella' = una sartén. 'Fate soffriggere' = sofríen (fare + infinito = causativo). 'Soffriggere' = sofreír. Los imperativos en las recetas usan la 2ª plural (voi)."
+    },
+    {
+      "front": "Poi aggiungete i pomodori pelati e fate cuocere la salsa per venti minuti a fuoco medio.",
+      "back": "Luego agreguen los tomates pelados y cocinen la salsa durante veinte minutos a fuego medio.",
+      "reading": "",
+      "explanation": "'Aggiungete' = agreguen (imperativo voi di aggiungere). 'Fate cuocere' = cocinen (fare + cuocere = causativo). 'A fuoco medio' = a fuego medio. 'A fuoco alto' = a fuego alto. 'A fuoco basso' = a fuego bajo. 'Cuocere' = cocinar/cocer."
+    },
+    {
+      "front": "Nel frattempo, cuocete gli spaghetti in abbondante acqua salata.",
+      "back": "Mientras tanto, cocinen los espaguetis en abundante agua salada.",
+      "reading": "",
+      "explanation": "'Nel frattempo' = mientras tanto (expresión muy usada en recetas y narraciones). 'Cuocete' = cocinen (imperativo voi di cuocere). 'Abbondante acqua salata' = abundante agua salada. En Italia se insiste mucho en usar mucha agua y salarla bien para la pasta."
+    },
+    {
+      "front": "Scolateli al dente e aggiungeteli alla salsa.",
+      "back": "Escúrranlos al dente y agréguenlos a la salsa.",
+      "reading": "",
+      "explanation": "'Scolateli' = escúrranlos (scolate + li). 'Al dente' = al dente (pasta cocida que aún tiene consistencia/resistencia). 'Aggiungeteli' = agréguenlos (aggiungete + li). Los pronombres van unidos al imperativo: scolate + li = scolateli."
+    },
+    {
+      "front": "Mescolate bene e servite con foglie di basilico fresco.",
+      "back": "Mezclen bien y sirvan con hojas de albahaca fresca.",
+      "reading": "",
+      "explanation": "'Mescolate' = mezclen (imperativo voi di mescolare). 'Servite' = sirvan (imperativo voi di servire). 'Le foglie di basilico' = las hojas de albahaca. 'Fresco' concuerda con 'basilico' (m.sg.). El basilico fresco al final es fundamental — no se agrega durante la cocción."
+    },
+    {
+      "front": "Buon appetito! / Vocabolario di cucina: padella, pentola, coltello, mestolo",
+      "back": "¡Buen provecho! / Vocabulario de cocina: sartén, olla, cuchillo, cucharón",
+      "reading": "",
+      "explanation": "Vocabulario de cocina: la padella (la sartén), la pentola (la olla), il coltello (el cuchillo), il mestolo (el cucharón), il tagliere (la tabla de cortar), il forno (el horno), la griglia (la parrilla), il frigorifero (la heladera). 'Buon appetito!' = ¡Buen provecho! (se dice siempre antes de comer en Italia)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "La ricetta — Leemos juntos",
+      "instruction": "Texto completo de la receta de pasta al pomodoro. Notá el uso del imperativo plural (voi) para las instrucciones de la receta: scaldate, fate, aggiungete, cuocete, scolate, mescolate, servite.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Vocabulario de cocina e ingredientes",
+      "instruction": "Aprendé el vocabulario culinario: pomodori pelati, spicchio d'aglio, olio d'oliva, basilico fresco, padella, al dente.",
+      "itemIndices": [1, 2, 3, 7]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "¿Entendiste la receta?",
+      "instruction": "¿Para cuántas personas es la receta? ¿Cuánto tiempo se cocina la salsa? ¿Cómo debe quedar la pasta? ¿Qué se pone al final?",
+      "itemIndices": [1, 3, 5, 6]
+    },
+    {
+      "type": "recall",
+      "title": "Ordená los pasos de la receta",
+      "instruction": "Usando prima, poi, nel frattempo, infine: ordená los pasos de la receta en italiano.",
+      "itemIndices": [2, 3, 4, 5, 6]
+    },
+    {
+      "type": "summary",
+      "title": "Recetas en italiano: imperativo y secuencia",
+      "instruction": "Las recetas usan IMPERATIVO PLURAL (voi): scaldate, aggiungete, cuocete, mescolate, servite. Conectores de secuencia: prima di tutto, poi, nel frattempo. Vocabulario clave: pomodori pelati (tomates pelados), spicchio d'aglio (diente de ajo), a fuoco medio (a fuego medio), al dente, foglie di basilico (hojas de albahaca). ¡Ahora podés hacer la receta!",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

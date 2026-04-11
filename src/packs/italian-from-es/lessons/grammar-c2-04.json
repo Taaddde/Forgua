@@ -1,0 +1,83 @@
+{
+  "id": "grammar-c2-04",
+  "title": "Connotazione e denotazione: precisione lessicale",
+  "description": "La denotación es el significado literal; la connotación es la carga emocional, social, histórica o pragmática de una palabra. A nivel C2, la elección entre sinónimos depende enteramente de estas connotaciones. Esta lección trabaja la habilidad que distingue al hablante casi-nativo del avanzado.",
+  "level": "c2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "mangiare / cibarsi / nutrirsi / ingozzarsi / sgranocchiare / banchettare",
+      "back": "Serie de 'comer': neutro / literario-figurado / fisiológico / glotón (negativo) / picotear / banquetear (festivo).",
+      "reading": "",
+      "explanation": "'Mangiare' = neutro. 'Cibarsi' = elevado, literario, puede ser figurado ('cibarsi di illusioni'). 'Nutrirsi' = nutrir cuerpo o espíritu ('nutrirsi di speranza'). 'Ingozzarsi' = glotonería, negativo. 'Sgranocchiare' = picotear algo crujiente. 'Banchettare' = banquetear, festivo y positivo. Cada uno crea un efecto emocional completamente diferente."
+    },
+    {
+      "front": "povero / bisognoso / indigente / nullatenente / spiantato",
+      "back": "Serie de 'pobre': neutro / necesitado (piedad) / formal (extrema pobreza) / sin bienes (jurídico) / arruinado (coloquial).",
+      "reading": "",
+      "explanation": "'Povero' = neutro (y también 'povero ragazzo' = el pobre chico, connotación de compasión). 'Bisognoso' = necesitado, registro de caridad/asistencia social. 'Indigente' = formal/burocrático, situación extrema. 'Nullatenente' = término jurídico (sin bienes declarables). 'Spiantato' = coloquial, completamente arruinado."
+    },
+    {
+      "front": "TERRONI / POLENTONI: términos peyorativos regionales con carga histórica.",
+      "back": "'Terroni' = peyorativo para los del sur. 'Polentoni' = peyorativo para los del norte. Uso delicado/ofensivo pero culturalmente relevante.",
+      "reading": "",
+      "explanation": "La tensión norte/sur es uno de los temas más presentes en la cultura italiana. 'Terrone' (de 'terra', del sur) y 'polentone' (de 'polenta', del norte) son términos históricos de difamación recíproca. Hoy su uso directo es ofensivo, pero reconocerlos es indispensable para entender la letteratura, il cinema e il dibattito político italiano."
+    },
+    {
+      "front": "'COMPAGNO': militante de izquierda (siglo XX) → hoy más neutro pero con connotación política residual.",
+      "back": "'Compagno' tenía fuerte connotación di sinistra en el siglo XX. Hoy más neutro pero el matiz político persiste.",
+      "reading": "",
+      "explanation": "'Compagno di scuola' = compañero de clase (neutro). Pero 'compagno' a secas, en contextos políticos del siglo XX, era el término de los comunistas y socialistas para dirigirse entre sí. En ciertas regiones del 'rosso' (Emilia-Romagna, Toscana) este uso todavía puede escucharse con cierta intencionalidad."
+    },
+    {
+      "front": "'RESISTENZA' (con mayúscula): siempre se refiere a la Resistenza partigiana (1943-1945). Carga identitaria central.",
+      "back": "Connotación histórica específica: 'la Resistenza' = el movimiento partisano antifascista en Italia, fundamental para la identidad nacional.",
+      "reading": "",
+      "explanation": "'La Resistenza fu la più bella pagina della storia italiana del Novecento.' La palabra con mayúscula tiene un peso histórico e identitario único. Está en el DNA de la Costituzione italiana. Cualquier uso de 'resistenza' en contexto político italiano activa esta connotación histórica."
+    },
+    {
+      "front": "Calvino: 'LEGGEREZZA' vs 'PESANTEZZA' / 'ESATTEZZA' vs 'APPROSSIMAZIONE'",
+      "back": "Pares léxicos con carga filosófico-estética en Calvino: no son solo palabras físicas sino metáforas de un modo de estar.",
+      "reading": "",
+      "explanation": "En las Lezioni Americane, Calvino convierte estas palabras ordinarias en conceptos estéticos y éticos. 'Leggerezza' no es ligereza física: es la precisión que libera del peso. 'Esattezza' no es exactitud matemática: es la responsabilidad ética del escritor. Elegir 'leggerezza' en lugar de 'leggerità' (forma regular) es ya una decisión estética de Calvino."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "La connotación como habilidad activa",
+      "instruction": "Las series de sinónimos no son intercambiables: cada palabra tiene una posición en un espacio multidimensional de registro, connotación emocional, implicaciones culturales e históricas. A nivel C2, elegir entre 'bisognoso' e 'indigente' no es una cuestión de vocabulario: es una cuestión de ética y de efecto comunicativo.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Qué connotación tiene en este contexto?",
+      "instruction": "Para cada uso de la palabra en contexto, identifica: (1) la denotación (significado literal); (2) la connotación (carga emocional, social o histórica). ¿Es positivo, negativo, neutro? ¿Formal o informal? ¿Tiene implicaciones históricas?",
+      "itemIndices": [2, 3, 4]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "La palabra con la connotación correcta",
+      "instruction": "Para cada contexto dado, elige entre los sinónimos de la serie el que produce la connotación correcta (formal/informal, positivo/negativo, distanciamiento/empatía).",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "recall",
+      "title": "Connotación histórica y cultural",
+      "instruction": "Para cada término con carga histórica o cultural (terroni/polentoni, compagno, resistenza, dolce vita), explica en qué contexto se puede usar sin ofender y cuándo es problemático.",
+      "itemIndices": [2, 3, 4]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Calvino y la connotación estética",
+      "instruction": "Lee el par 'leggerezza/esattezza' de Calvino. Explica: (1) ¿cuál es la denotación de cada término? (2) ¿cuál es la connotación que Calvino les da en su programa estético? (3) ¿por qué esta elección léxica es ya un programa poético?",
+      "itemIndices": [5]
+    },
+    {
+      "type": "summary",
+      "title": "Connotazione e denotazione — maestria lessicale",
+      "instruction": "La precisión léxica del C2 es la conciencia constante de que cada palabra tiene una denotación Y una connotación. Para desarrollar esta sensibilidad: (1) cuando leas un texto italiano, pregúntate siempre por qué el autor eligió ESA palabra y no un sinónimo. (2) Usa el dizionario dei sinonimi e contrari italiano (Treccani online). (3) Lee les recensioni letterarie italiane — allí la elección léxica se analiza explícitamente.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

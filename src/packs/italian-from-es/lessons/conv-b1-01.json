@@ -1,0 +1,83 @@
+{
+  "id": "conv-b1-01",
+  "title": "Conversazione: Esprimere un'opinione",
+  "description": "Cómo expresar opiniones, estar de acuerdo o en desacuerdo y construir argumentos en italiano (registros formal e informal). Fórmulas clave para el debate B1.",
+  "level": "b1",
+  "category": "conversation",
+  "items": [
+    {
+      "front": "Secondo me, questo film è troppo lungo.",
+      "back": "Según yo / En mi opinión, esta película es demasiado larga.",
+      "reading": "",
+      "explanation": "'Secondo me' = según yo, en mi opinión. La fórmula más frecuente para dar opinión personal. Nivel informal/neutro. Variantes de registro: 'A mio avviso' (más formal), 'A mio parere' (formal), 'Personalmente penso che...' (personal y explícito). 'Secondo + pronome': secondo me, secondo te, secondo lui/lei, secondo noi, secondo voi, secondo loro."
+    },
+    {
+      "front": "A mio avviso, sarebbe meglio aspettare.",
+      "back": "A mi juicio, sería mejor esperar.",
+      "reading": "",
+      "explanation": "'A mio avviso' = a mi juicio, en mi opinión (registro más formal que 'secondo me'). 'Sarebbe meglio' = sería mejor (condizionale per cortesia). Esta combinación es muy elegante: avviso + condizionale. Alternativas formales: 'A mio parere' (a mi parecer), 'Dal mio punto di vista' (desde mi punto de vista), 'Per quanto mi riguarda' (en lo que a mí respecta)."
+    },
+    {
+      "front": "Non sono (del tutto) d'accordo perché penso che sia diverso.",
+      "back": "No estoy (del todo) de acuerdo porque creo que es diferente.",
+      "reading": "",
+      "explanation": "'Non sono d'accordo' = no estoy de acuerdo. 'Del tutto' = del todo (suaviza el desacuerdo: 'no del todo'). 'Perché penso che sia diverso' = porque creo que es diferente (pensare che + congiuntivo). La estructura completa: desacuerdo + razón con congiuntivo. Para desacuerdo parcial: 'Non sono del tutto d'accordo' es más diplomático que 'Non sono d'accordo'."
+    },
+    {
+      "front": "Hai ragione, però bisogna anche considerare che...",
+      "back": "Tenés razón, pero también hay que considerar que...",
+      "reading": "",
+      "explanation": "'Hai ragione' = tenés/tienes razón. 'Però' = pero (adversativo). 'Bisogna anche considerare che' = también hay que considerar que. Esta fórmula ('sí, pero...') es clave en el debate educado: reconoces el punto del otro ('Hai ragione') antes de introducir tu contrargumento ('però'). Es más persuasivo que un desacuerdo directo."
+    },
+    {
+      "front": "Da un lato capisco la tua posizione, dall'altro credo che...",
+      "back": "Por un lado entiendo tu posición, por otro creo que...",
+      "reading": "",
+      "explanation": "'Da un lato... dall'altro...' = por un lado... por otro... Estructura argumentativa para presentar dos perspectivas. 'Capisco' = entiendo (verbo capire). 'La tua posizione' = tu posición. Esta estructura muestra que el hablante considera ambos lados: es una señal de pensamiento crítico y madurez argumentativa. Muy valorada en los exámenes de italiano y en debates reales."
+    },
+    {
+      "front": "In effetti, hai un punto. / In effetti, hai ragione su questo.",
+      "back": "En efecto, tenés un punto. / En efecto, tenés razón en esto.",
+      "reading": "",
+      "explanation": "'In effetti' = en efecto, en realidad. Expresa acuerdo con algo que te han señalado, a veces con cierta sorpresa positiva. 'Hai un punto' = tenés un punto (válido argumento). Alternativas de acuerdo: 'Esatto!' (¡Exacto!), 'Precisamente!' (¡Precisamente!), 'Sì, capisco' (Sí, entiendo), 'Concordo' (Concuerdo — más formal), 'Sono d'accordo' (Estoy de acuerdo)."
+    },
+    {
+      "front": "Mi sembra che questa soluzione non funzioni bene.",
+      "back": "Me parece que esta solución no funciona bien.",
+      "reading": "",
+      "explanation": "'Mi sembra che' + CONGIUNTIVO: me parece que (+ subjuntivo). 'Funzioni' = congiuntivo presente di 'funzionare'. Expresar opinión con 'sembrare' + che + congiuntivo es más tentativo/modesto que 'penso che'. 'Mi sembra' = me parece (a mí me parece). Contrastá: 'Sembra che non funzioni' (parece que no funciona — sin posesivo, más impersonal)."
+    },
+    {
+      "front": "Per concludere, la mia opinione è che dobbiamo trovare un compromesso.",
+      "back": "Para concluir, mi opinión es que tenemos que encontrar un compromiso.",
+      "reading": "",
+      "explanation": "'Per concludere' = para concluir. Marcador discursivo para cerrar un argumento. 'La mia opinione è che' + indicativo (quando si esprime come fatto). 'Trovare un compromesso' = encontrar un compromiso. Otros marcadores de conclusión: 'In sintesi' (en síntesis), 'In conclusione' (en conclusión), 'Quindi, secondo me' (entonces, según yo). La estructura 'opinione è che' + indicativo — aquí no se usa congiuntivo porque se presenta como hecho."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Fórmulas para dar opinión",
+      "instruction": "INFORMAL: 'Secondo me...' / FORMAL: 'A mio avviso...', 'A mio parere...', 'Dal mio punto di vista...'. Con verbi di opinione: 'Penso che + congiuntivo', 'Credo che + congiuntivo', 'Mi sembra che + congiuntivo'. Practica las tres fórmulas principales.",
+      "itemIndices": [0, 1, 6]
+    },
+    {
+      "type": "introduce",
+      "title": "Acuerdo y desacuerdo educado",
+      "instruction": "ACUERDO: 'Sì, hai ragione', 'In effetti...', 'Concordo', 'Esatto!'. DESACUERDO DIRECTO: 'Non sono d'accordo'. DESACUERDO DIPLOMÁTICO: 'Non sono del tutto d'accordo, però...' / 'Hai ragione, ma...'. En italiano, el desacuerdo directo sin suavizar puede sonar agresivo.",
+      "itemIndices": [3, 4, 5]
+    },
+    {
+      "type": "conversation-script",
+      "title": "Mini-diálogo: debate sobre smart working",
+      "instruction": "Practicá este diálogo sobre el teletrabajo usando las fórmulas aprendidas. Después, improvisa tu propia opinión sobre el tema.",
+      "itemIndices": [0, 2, 3, 7]
+    },
+    {
+      "type": "summary",
+      "title": "Expresar opiniones — consolidado",
+      "instruction": "OPINIÓN: Secondo me / A mio avviso / Mi sembra che + congiuntivo. ACUERDO: Hai ragione / In effetti / Concordo / Esatto. DESACUERDO: Non sono d'accordo / Non sono del tutto d'accordo. CONCESIÓN-CONTRASTE: Hai ragione, però... / Da un lato... dall'altro... CONCLUSIÓN: Per concludere / In sintesi...",
+      "itemIndices": [0, 1, 3, 4, 7]
+    }
+  ]
+}

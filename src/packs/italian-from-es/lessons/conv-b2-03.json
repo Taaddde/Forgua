@@ -1,0 +1,83 @@
+{
+  "id": "conv-b2-03",
+  "title": "Conversazione: Discutere di attualità",
+  "description": "Cómo discutir temas de actualidad con matices, hacer distinciones, evitar generalizaciones y proponer enfoques equilibrados. Registro periodístico-conversacional B2.",
+  "level": "b2",
+  "category": "conversation",
+  "items": [
+    {
+      "front": "La situazione attuale è preoccupante perché manca ancora una risposta strutturale al problema.",
+      "back": "La situación actual es preocupante porque todavía falta una respuesta estructural al problema.",
+      "reading": "",
+      "explanation": "'La situazione attuale' = la situación actual. 'Preoccupante' = preocupante. 'Manca ancora una risposta strutturale' = todavía falta una respuesta estructural. 'Strutturale' (estructural) vs 'puntuale' (puntual/específico): la distinción entre soluciones de fondo y soluciones parciales es clave en el debate italiano sobre políticas públicas. 'Risposta strutturale' = solución de fondo."
+    },
+    {
+      "front": "Bisogna distinguere tra il fenomeno in sé e le sue cause profonde.",
+      "back": "Hay que distinguir entre el fenómeno en sí y sus causas profundas.",
+      "reading": "",
+      "explanation": "'Bisogna distinguere tra X e Y' = hay que distinguir entre X e Y. 'Il fenomeno in sé' = el fenómeno en sí mismo ('in sé' = en sí, de por sí). 'Le cause profonde' = las causas profundas. Hacer distinciones es una señal de pensamiento crítico. Otras distinciones frecuentes: 'tra breve e lungo periodo' (entre corto y largo plazo), 'tra il piano teorico e quello pratico' (entre el plano teórico y el práctico)."
+    },
+    {
+      "front": "Il problema di fondo è che manca una visione d'insieme.",
+      "back": "El problema de fondo es que falta una visión de conjunto.",
+      "reading": "",
+      "explanation": "'Il problema di fondo' = el problema de fondo, el problema subyacente. 'Manca una visione d'insieme' = falta una visión de conjunto. 'D'insieme' = de conjunto, global (literalmente: de conjunto). Alternativas: 'il nodo centrale è...' (el nudo central es...), 'il punto cruciale è...' (el punto crucial es...). 'Visione d'insieme' es muy frecuente en el debate político italiano."
+    },
+    {
+      "front": "Non si può generalizzare: la realtà è molto più complessa e sfaccettata.",
+      "back": "No se puede generalizar: la realidad es mucho más compleja y multifacética.",
+      "reading": "",
+      "explanation": "'Non si può generalizzare' = no se puede generalizar. 'Sfaccettata' = multifacética (di 'sfaccettare' = dar facetas, como una gema). Vocabulario de matización: 'fare di tutta l'erba un fascio' (meter todo en el mismo saco — expresión coloquial que equivale a 'generalizar'). 'È necessario contestualizzare' (es necesario contextualizar). 'La realtà è sfaccettata' es una frase muy útil para matizar generalizaciones."
+    },
+    {
+      "front": "Occorre un approccio più equilibrato che tenga conto di tutti gli attori coinvolti.",
+      "back": "Es necesario un enfoque más equilibrado que tenga en cuenta a todos los actores involucrados.",
+      "reading": "",
+      "explanation": "'Occorre un approccio più equilibrato' = es necesario un enfoque más equilibrado. 'Che tenga conto di' = que tenga en cuenta (congiuntivo presente nella relativa). 'Gli attori coinvolti' = los actores involucrados. 'Occorrere' (ser necesario) es más formal que 'bisognare'. 'Approccio' = enfoque, aproximación. 'Equilibrato' (equilibrado) implica considerar todos los ángulos."
+    },
+    {
+      "front": "È un tema controverso su cui le opinioni sono molto divise.",
+      "back": "Es un tema controvertido sobre el cual las opiniones están muy divididas.",
+      "reading": "",
+      "explanation": "'Un tema controverso' = un tema controvertido. 'Le opinioni sono divise' = las opiniones están divididas. 'Su cui' = sobre el cual (preposizione + pronome relativo 'cui'). En el debate italiano, reconocer que un tema es 'controverso' antes de dar tu opinión muestra madurez intelectual. Es la premisa del pensamiento crítico: 'Riconosco che è un tema controverso, tuttavia ritengo che...'."
+    },
+    {
+      "front": "Detto questo, credo che la soluzione passi necessariamente per...",
+      "back": "Dicho esto, creo que la solución pasa necesariamente por...",
+      "reading": "",
+      "explanation": "'Detto questo' = dicho esto (costruzione participiale assoluta). 'La soluzione passa per' = la solución pasa por (passare per = pasar por, implicar). 'Necessariamente' = necesariamente. 'Credo che + congiuntivo': 'passi' = congiuntivo presente di 'passare'. Esta fórmula es elegante: reconoce los puntos previos ('detto questo') y luego avanza hacia una propuesta."
+    },
+    {
+      "front": "In definitiva, quello che emerge è che il cambiamento richiede tempo e volontà politica.",
+      "back": "En definitiva, lo que emerge es que el cambio requiere tiempo y voluntad política.",
+      "reading": "",
+      "explanation": "'In definitiva' = en definitiva, en última instancia. 'Quello che emerge' = lo que emerge, lo que surge. 'La volontà politica' = la voluntad política. 'Richiedere' = requerir, necesitar. Esta frase de conclusión combina un conector de cierre ('in definitiva') con una observación matizada y realista. 'La volontà politica' es una expresión clave en el debate político italiano."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario para hablar de actualidad con matices",
+      "instruction": "El italiano B2 para la actualidad requiere: 'la situazione attuale' (la situación actual), 'il problema di fondo' (el problema subyacente), 'la risposta strutturale' (la respuesta estructural). Distingue entre análisis superficiales y análisis de fondo.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Evitar generalizaciones y proponer enfoques",
+      "instruction": "El pensamiento crítico requiere: 'non si può generalizzare', 'la realtà è sfaccettata', 'occorre contestualizzare'. Para proponer: 'occorre un approccio equilibrato che + congiuntivo'. Son señales de madurez argumentativa.",
+      "itemIndices": [3, 4, 5]
+    },
+    {
+      "type": "introduce",
+      "title": "Conectores de síntesis y conclusión",
+      "instruction": "'Detto questo' + propuesta = estructurar el argumento tras reconocer complejidad. 'In definitiva, quello che emerge è...' = cierre reflexivo. Son fórmulas que muestran que puedes sintetizar un debate complejo.",
+      "itemIndices": [6, 7]
+    },
+    {
+      "type": "conversation-script",
+      "title": "Debate: la digitalizzazione in Italia",
+      "instruction": "Practica un debate sobre la digitalización en Italia. Usa las fórmulas de la lección: analiza el problema de fondo, distingue fenómenos, evita generalizaciones, propone un enfoque equilibrado y concluye.",
+      "itemIndices": [0, 2, 3, 5, 7]
+    }
+  ]
+}

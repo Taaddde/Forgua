@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a1-17",
+  "title": "Preposizioni semplici — di, a, da, in, con, su, per, tra/fra",
+  "description": "Las preposiciones simples del italiano. Muy similares al español pero con diferencias importantes. Son la base para construir frases correctas.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "DI — de / del",
+      "back": "de, del, de la (posesión, origen, materia, argumento)",
+      "reading": "",
+      "explanation": "DI expresa: posesión (il libro di Marco = el libro de Marco), origen (sono di Roma = soy de Roma), materia (una borsa di pelle = una cartera de cuero), argumento (parlo di lavoro = hablo de trabajo). Igual que 'de' en español."
+    },
+    {
+      "front": "A — a / en (con ciudades y tiempos)",
+      "back": "a, en (destino con ciudades, hora, complemento indirecto)",
+      "reading": "",
+      "explanation": "A expresa: destino con ciudades (vado a Roma), hora (alle tre = a las tres), complemento indirecto (do il libro a Marco = le doy el libro a Marco). Con países NO se usa A sino IN: 'vado in Italia' (no *vado a Italia)."
+    },
+    {
+      "front": "DA — desde / de / por / en casa de",
+      "back": "desde, de (origen/punto de partida), en casa de, desde hace",
+      "reading": "",
+      "explanation": "DA expresa: origen/punto de partida (vengo da Milano = vengo de Milán), 'en casa de' (vado da Marco = voy a casa de Marco), duración hasta el presente (vivo qui da tre anni = vivo aquí desde hace tres años), función (occhiali da sole = gafas de sol)."
+    },
+    {
+      "front": "IN — en / a (con países, habitaciones, transportes)",
+      "back": "en, a (países, regiones, habitaciones, meses, medios de transporte)",
+      "reading": "",
+      "explanation": "IN expresa: países (in Italia, in Spagna), regiones (in Toscana), habitaciones (in camera, in cucina, in bagno), meses (in gennaio), medios de transporte (in macchina, in treno, in autobus). ¡No confundir con A para ciudades!"
+    },
+    {
+      "front": "CON — con",
+      "back": "con (compañía, instrumento)",
+      "reading": "",
+      "explanation": "CON = con. Igual que en español: compañía (vado con Marco = voy con Marco), instrumento (scrivo con la penna = escribo con el bolígrafo). Mucho más simple que otras preposiciones. 'Un caffè con latte' = un café con leche."
+    },
+    {
+      "front": "SU — en / sobre / encima de",
+      "back": "en, sobre, encima de (posición), aproximadamente",
+      "reading": "",
+      "explanation": "SU = sobre, en. 'Il libro è sul tavolo' = El libro está sobre la mesa. 'Abito sul mare' = Vivo junto al mar. 'Su' también expresa aproximación de edad o precio: 'sui quarant'anni' = alrededor de los cuarenta años."
+    },
+    {
+      "front": "PER — para / por",
+      "back": "para (destino, finalidad) / por (duración, causa)",
+      "reading": "",
+      "explanation": "PER expresa: destino (il treno per Roma = el tren para Roma), finalidad (studio per l'esame = estudio para el examen), duración (ho studiato per due ore = estudié por/durante dos horas), razón (grazie per tutto = gracias por todo)."
+    },
+    {
+      "front": "TRA / FRA — entre / dentro de (tiempo)",
+      "back": "entre (dos cosas/personas), dentro de (tiempo futuro)",
+      "reading": "",
+      "explanation": "TRA y FRA son intercambiables. Expresan: posición entre dos cosas (tra Marco e Sofia = entre Marco y Sofia), tiempo futuro (arrivo tra dieci minuti = llego en diez minutos / llegó dentro de diez minutos). ¡Ojo! Para tiempo futuro = 'dentro de' en español."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Las 8 preposiciones simples del italiano",
+      "instruction": "di, a, da, in, con, su, per, tra/fra. Aprendé cada una con su uso principal. Las más complejas son A/IN (a menudo confunden a hispanohablantes) y DA (con usos muy específicos del italiano).",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Con, su, per, tra — más directas",
+      "instruction": "Estas cuatro tienen usos más parecidos al español. CON=con, SU=sobre, PER=para/por, TRA=entre.",
+      "itemIndices": [4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué preposición va aquí?",
+      "instruction": "Elegí la preposición correcta para completar cada frase.",
+      "itemIndices": [0, 1, 2, 3, 4, 6]
+    },
+    {
+      "type": "recall",
+      "title": "A vs IN: la diferencia crucial",
+      "instruction": "Con ciudades → A (vado a Roma). Con países/regiones → IN (vado in Italia). ¡Esta distinción es clave!",
+      "itemIndices": [1, 3]
+    },
+    {
+      "type": "error-correction",
+      "title": "Corregí los errores de preposición",
+      "instruction": "Estas frases tienen errores típicos de hispanohablantes. Identificá y corregí el error.",
+      "itemIndices": [1, 2, 3, 7]
+    },
+    {
+      "type": "summary",
+      "title": "Las 8 preposiciones simples",
+      "instruction": "DI=de (posesión/origen), A=a (ciudades, hora, OI), DA=desde/de/en casa de/desde hace, IN=en (países/habitaciones/meses/transportes), CON=con, SU=sobre, PER=para/por, TRA/FRA=entre/dentro de. Regla clave: A con ciudades, IN con países.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

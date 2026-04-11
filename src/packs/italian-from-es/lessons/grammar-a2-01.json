@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a2-01",
+  "title": "Passato prossimo con avere",
+  "description": "El tiempo pasado más importante del italiano. Similar al pretérito perfecto del español, pero se usa MUCHO más — equivale tanto al pretérito indefinido como al perfecto. Con 'avere' para la mayoría de los verbos transitivos.",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "ho mangiato",
+      "back": "comí / he comido",
+      "reading": "",
+      "explanation": "io + ho + participio passato. 'mangiato' es el participio de 'mangiare' (-are → -ato). En italiano el passato prossimo es el tiempo pasado dominante en la lengua hablada, equivale tanto al pretérito indefinido como al perfecto del español."
+    },
+    {
+      "front": "hai lavorato",
+      "back": "trabajaste / has trabajado",
+      "reading": "",
+      "explanation": "tu + hai + participio. 'lavorato' de 'lavorare' (-are → -ato). '¿Hai lavorato ieri?' = ¿Trabajaste ayer?"
+    },
+    {
+      "front": "ha venduto",
+      "back": "vendió / ha vendido",
+      "reading": "",
+      "explanation": "lui/lei + ha + participio. 'venduto' de 'vendere' (-ere → -uto). Los verbos -ERE regulares forman el participio con -uto."
+    },
+    {
+      "front": "abbiamo dormito",
+      "back": "dormimos / hemos dormido",
+      "reading": "",
+      "explanation": "noi + abbiamo + participio. 'dormito' de 'dormire' (-ire → -ito). Los verbos -IRE regulares forman el participio con -ito."
+    },
+    {
+      "front": "avete capito",
+      "back": "entendisteis / habéis entendido",
+      "reading": "",
+      "explanation": "voi + avete + participio. 'capito' de 'capire'. Los verbos -isc- (tipo finire, capire) también forman el participio con -ito."
+    },
+    {
+      "front": "hanno finito",
+      "back": "terminaron / han terminado",
+      "reading": "",
+      "explanation": "loro + hanno + participio. 'finito' de 'finire'. REGLA: con AVERE, el participio NO cambia de género/número — siempre la misma forma."
+    },
+    {
+      "front": "NON ho studiato",
+      "back": "no estudié",
+      "reading": "",
+      "explanation": "La negación va ANTES del auxiliare: NON + ho/hai/ha... + participio. 'Non ho studiato abbastanza.' = No estudié suficiente."
+    },
+    {
+      "front": "hai mangiato? / ho mangiato",
+      "back": "¿comiste? / comí",
+      "reading": "",
+      "explanation": "Para preguntas, solo cambias la entonación o inviertes el sujeto: 'Hai mangiato?' o 'Hai mangiato tu?' El orden de palabras es flexible."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El passato prossimo con avere",
+      "instruction": "Passato prossimo = avere conjugado + participio passato. Con AVERE para los verbos transitivos. El participio: -ARE → -ATO, -ERE → -UTO, -IRE → -ITO.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Todas las personas",
+      "instruction": "Avere: ho, hai, ha, abbiamo, avete, hanno. El participio NO cambia con avere.",
+      "itemIndices": [3, 4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "Conjugá el passato prossimo",
+      "instruction": "Ves el infinitivo y la persona. Escribe la forma correcta del passato prossimo.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "introduce",
+      "title": "Negación y preguntas",
+      "instruction": "La negación: NON va antes del auxiliare. Las preguntas se hacen con entonación.",
+      "itemIndices": [6, 7]
+    },
+    {
+      "type": "recall",
+      "title": "Passato prossimo — práctica completa",
+      "instruction": "Traduce al italiano usando el passato prossimo con avere.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "Passato prossimo con avere — dominado",
+      "instruction": "Recuerda: ho/hai/ha/abbiamo/avete/hanno + participio. -ARE → -ATO (parlato), -ERE → -UTO (veduto), -IRE → -ITO (dormito). ¡Pero hay muchos participi irregolari! Los aprenderás en la próxima lección.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

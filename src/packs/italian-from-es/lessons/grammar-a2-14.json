@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a2-14",
+  "title": "Comparativi — più...di, meno...di, tanto...quanto",
+  "description": "Las comparaciones en italiano. Más fácil que en otros idiomas porque son muy similares al español. Las tres estructuras: superioridad (più...di), inferioridad (meno...di) e igualdad (tanto...quanto / come).",
+  "level": "a2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "PIÙ + aggettivo/avverbio + DI — más... que",
+      "back": "más + adjetivo/adverbio + que",
+      "reading": "",
+      "explanation": "Comparativo de superioridad: PIÙ + adjetivo + DI. 'Marco è più alto di Luca' = Marco es más alto que Luca. 'Roma è più grande di Firenze' = Roma es más grande que Florencia. 'DI' se contrae con artículo: più alto del mio amico."
+    },
+    {
+      "front": "MENO + aggettivo + DI — menos... que",
+      "back": "menos + adjetivo + que",
+      "reading": "",
+      "explanation": "Comparativo de inferioridad: MENO + adjetivo + DI. 'L'italiano è meno difficile del giapponese' = El italiano es menos difícil que el japonés. 'Questo ristorante è meno caro di quello' = Este restaurante es menos caro que aquel."
+    },
+    {
+      "front": "TANTO... QUANTO / COSÌ... COME — tan... como / igual que",
+      "back": "tan... como (comparativo de igualdad)",
+      "reading": "",
+      "explanation": "Comparativo de igualdad: TANTO + adjetivo + QUANTO (o COSÌ + adj + COME). 'Marco è tanto alto quanto Luca' = Marco es tan alto como Luca. En el habla cotidiana se omite a menudo el 'tanto': 'È (tanto) intelligente quanto bello'. 'Come' es más coloquial que 'quanto'."
+    },
+    {
+      "front": "Più di vs Più che — cuándo usar cada uno",
+      "back": "Más de (comparando cantidades) / Más que (comparando dos cualidades del mismo sujeto)",
+      "reading": "",
+      "explanation": "PIÙ DI: cuando se comparan dos ELEMENTOS DISTINTOS. 'Ho più amici di te' = Tengo más amigos que vos. PIÙ CHE: cuando se comparan dos ADJETIVOS, VERBOS o ADVERBIOS referidos al MISMO elemento. 'È più intelligente che bella' = Es más inteligente que hermosa. 'Mi piace più cantare che ballare' = Me gusta más cantar que bailar."
+    },
+    {
+      "front": "Comparativi irregolari: buono → migliore / cattivo → peggiore",
+      "back": "bueno → mejor / malo → peor",
+      "reading": "",
+      "explanation": "Comparativos irregulares: buono (bueno) → MIGLIORE (mejor), cattivo (malo) → PEGGIORE (peor), grande (grande) → MAGGIORE (mayor), piccolo (pequeño) → MINORE (menor). 'Questo vino è migliore' = Este vino es mejor. También existen las formas regulares: più buono, più cattivo."
+    },
+    {
+      "front": "bene → meglio / male → peggio (avverbi)",
+      "back": "bien → mejor / mal → peor (adverbios)",
+      "reading": "",
+      "explanation": "Los adverbios también tienen comparativos irregulares: bene (bien) → MEGLIO (mejor), male (mal) → PEGGIO (peor). 'Parla meglio di me' = Habla mejor que yo. 'Oggi mi sento meglio' = Hoy me siento mejor. 'Va tutto peggio' = Todo va peor."
+    },
+    {
+      "front": "Più di quanto + congiuntivo (riferimento a proposizioni)",
+      "back": "Más de lo que... (comparación con cláusula)",
+      "reading": "",
+      "explanation": "Para comparar con una frase completa: 'più di quanto + congiuntivo'. 'È più difficile di quanto pensassi' = Es más difícil de lo que pensaba. En el habla coloquial se usa también el indicativo: 'più di quanto pensavo'. A nivel A2 es suficiente reconocerla."
+    },
+    {
+      "front": "Espressioni comparative utili: come vs quanto",
+      "back": "Expresiones de comparación en contexto",
+      "reading": "",
+      "explanation": "'È bello come te' = Es tan guapo como vos. 'Costa quanto il mio appartamento!' = ¡Cuesta tanto como mi apartamento! 'Lavora più di tutti' = Trabaja más que todos. 'Studia meno di prima' = Estudia menos que antes. Practicá estas combinaciones naturales."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Los tres tipos de comparación",
+      "instruction": "SUPERIORIDAD: più...di (más que). INFERIORIDAD: meno...di (menos que). IGUALDAD: tanto...quanto / così...come (tan...como). Muy similares al español.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Irregulares y distinción più di/che",
+      "instruction": "PIÙ DI = más que (dos cosas distintas). PIÙ CHE = más que (dos cualidades del mismo sujeto). Irregulares: buono→migliore, cattivo→peggiore, bene→meglio, male→peggio.",
+      "itemIndices": [3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué comparativo va aquí?",
+      "instruction": "Elegí la estructura comparativa correcta: più di, meno di, tanto quanto, o el comparativo irregular.",
+      "itemIndices": [0, 1, 2, 4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "Construí comparaciones en italiano",
+      "instruction": "Traducí estas oraciones comparativas al italiano.",
+      "itemIndices": [0, 1, 2, 4, 5]
+    },
+    {
+      "type": "error-correction",
+      "title": "Corregí los errores",
+      "instruction": "Estas comparaciones tienen errores (di vs che, irregulares). Corregí.",
+      "itemIndices": [3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "Comparativi: resumen",
+      "instruction": "SUPERIORITÀ: più + agg. + di. INFERIORITÀ: meno + agg. + di. UGUAGLIANZA: tanto + agg. + quanto (o così + agg. + come). Di vs Che: 'di' ante sustantivo/pronombre, 'che' ante adjetivo/verbo del mismo sujeto. Irregolari: buono→migliore, cattivo→peggiore, bene→meglio, male→peggio.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "id": "vocab-b1-08",
+  "title": "Concetti astratti",
+  "description": "El vocabulario de los conceptos abstractos: ideas, causas, efectos, cambios. Fundamental para el pensamiento crítico en italiano.",
+  "level": "b1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "il concetto",
+      "back": "el concepto",
+      "reading": "",
+      "explanation": "'Concettuale' = conceptual. 'Spiegare un concetto' = explicar un concepto. 'Concettualmente' = conceptualmente. Similar al español con algunas diferencias de uso."
+    },
+    {
+      "front": "il principio",
+      "back": "el principio",
+      "reading": "",
+      "explanation": "Doble sentido como en español: 1) principio moral: 'agire secondo i propri principi'; 2) principio (inicio): 'all'inizio' / 'in principio'. 'Di principio' = por principio."
+    },
+    {
+      "front": "il valore",
+      "back": "el valor, el precio",
+      "reading": "",
+      "explanation": "'Valori morali/culturali' = valores morales/culturales. 'Valore monetario' = valor monetario. 'Di valore' = valioso. 'Valorizzare' = valorizar."
+    },
+    {
+      "front": "lo scopo",
+      "back": "el propósito, el objetivo, la meta",
+      "reading": "",
+      "explanation": "'A che scopo?' = ¿Para qué propósito? 'Con lo scopo di' = con el propósito de. Similar a 'obiettivo' pero más filosófico. 'Senza scopo' = sin propósito."
+    },
+    {
+      "front": "la causa",
+      "back": "la causa, la razón",
+      "reading": "",
+      "explanation": "'Causa ed effetto' = causa y efecto. 'A causa di' = a causa de (por culpa de). 'Combattere per una causa' = luchar por una causa."
+    },
+    {
+      "front": "l'effetto",
+      "back": "el efecto",
+      "reading": "",
+      "explanation": "'Effetto collaterale' = efecto secundario. 'Effetto serra' = efecto invernadero. 'Fare effetto' = hacer efecto. 'Effettivamente' = efectivamente, en efecto."
+    },
+    {
+      "front": "il cambiamento",
+      "back": "el cambio",
+      "reading": "",
+      "explanation": "'Cambiamento climatico' = cambio climático. 'Un cambiamento radicale' = un cambio radical. 'Resistere al cambiamento' = resistir al cambio. Verbo: 'cambiare'."
+    },
+    {
+      "front": "lo sviluppo",
+      "back": "el desarrollo",
+      "reading": "",
+      "explanation": "'Sviluppo sostenibile' = desarrollo sostenible. 'Sviluppo economico' = desarrollo económico. 'Paese in via di sviluppo' = país en vías de desarrollo. 'Sviluppare' = desarrollar."
+    },
+    {
+      "front": "la crisi",
+      "back": "la crisis",
+      "reading": "",
+      "explanation": "Plural invariable: 'le crisi' (no 'le crisis'). 'Crisi economica/politica' = crisis económica/política. 'Essere in crisi' = estar en crisis."
+    },
+    {
+      "front": "la soluzione",
+      "back": "la solución",
+      "reading": "",
+      "explanation": "'Trovare una soluzione' = encontrar una solución. 'Soluzione definitiva/temporanea' = solución definitiva/temporal. 'Risolvere' (verbo) = resolver (nótese el cambio de raíz)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Ideas y principios",
+      "instruction": "Los conceptos abstractos siguen patrones muy predecibles para hispanohablantes. La trampa está en el plural: 'le crisi' (invariable, no 'le crisis').",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Causa y efecto",
+      "instruction": "'A causa di' = a causa de. 'Effetto serra' = efecto invernadero. Estas colocaciones son muy frecuentes en textos académicos y periodísticos.",
+      "itemIndices": [4, 5, 6]
+    },
+    {
+      "type": "introduce",
+      "title": "Cambio y solución",
+      "instruction": "'Sviluppo sostenibile', 'cambiamento climatico', 'crisi economica' — estas frases aparecen en casi todos los debates actuales en Italia.",
+      "itemIndices": [7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "Traducí al italiano",
+      "instruction": "Del español al italiano.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "Plural irregular",
+      "instruction": "¿Cuál es el plural de 'la crisi'?",
+      "itemIndices": [8, 7, 6, 9]
+    },
+    {
+      "type": "summary",
+      "title": "Resumen: Concetti astratti",
+      "instruction": "Punto clave: 'le crisi' (plural invariable). 'A causa di' = a causa de (preposición). 'Sviluppo sostenibile' y 'cambiamento climatico' son temas de debate constante en Italia — este vocabulario te permite participar.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "vocab-a1-12",
+  "title": "Gli animali",
+  "description": "Los animales más comunes en italiano. Vocabulario útil para conversaciones cotidianas y comprensión de textos simples.",
+  "level": "a1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "il cane",
+      "back": "el perro",
+      "reading": "/il ˈkaːne/",
+      "explanation": "Cane. La 'e' final es átona. 'Cagnolino' = perrito (diminutivo). 'Il cane da guardia' = el perro guardián. Expresión: 'Fare una vita da cane' = tener una vida de perros."
+    },
+    {
+      "front": "il gatto",
+      "back": "el gato",
+      "reading": "/il ˈɡatto/",
+      "explanation": "Gatto. Doble 't'. Femenino: 'la gatta'. 'Gattino' = gatito. 'Fare le fusa' = ronronear. Italia tiene una gran cultura de gatos callejeros (especialmente en Roma)."
+    },
+    {
+      "front": "il cavallo",
+      "back": "el caballo",
+      "reading": "/il kaˈvallo/",
+      "explanation": "Cavallo. Doble 'l'. 'Andare a cavallo' = montar a caballo. 'Cavallino' = caballito. 'Forza Italia' en deporte se asocia con el símbolo del caballo rampante."
+    },
+    {
+      "front": "la mucca / il bue",
+      "back": "la vaca / el buey",
+      "reading": "/la ˈmukka/ /il ˈbuːe/",
+      "explanation": "Mucca = vaca. Bue = buey/toro castrado. 'La bistecca di manzo' = el bistec de ternera (manzo = buey/vaca adulta). 'Occhi di bue' = ojos de buey (tipo de ventana)."
+    },
+    {
+      "front": "il maiale",
+      "back": "el cerdo / el chancho",
+      "reading": "/il maˈjaːle/",
+      "explanation": "Maiale. Muy usado en gastronomía: 'prosciutto di maiale' = jamón de cerdo. 'Mangiare come un maiale' = comer como un chancho (expresión). 'Porcellino' = chanchito."
+    },
+    {
+      "front": "il pollo",
+      "back": "el pollo",
+      "reading": "/il ˈpɔllo/",
+      "explanation": "Pollo. Idéntico al español y con el mismo significado (el animal y la carne). 'Pollo arrosto' = pollo asado. 'Brodo di pollo' = caldo de pollo."
+    },
+    {
+      "front": "il pesce",
+      "back": "el pez / el pescado",
+      "reading": "/il ˈpeʃʃe/",
+      "explanation": "Pesce. La 'sc' ante 'e' suena /ʃ/ = sh. 'Pesce rosso' = pez dorado/pecera. 'Pesce fresco' = pescado fresco (la comida). '1 aprile = il pesce d'aprile' = el Día de los Inocentes."
+    },
+    {
+      "front": "l'uccello",
+      "back": "el pájaro",
+      "reading": "/lutˈtʃɛllo/",
+      "explanation": "Uccello. Doble 'cc'. La 'cci' suena /ttʃ/. 'Uccello cantante' = pájaro cantor. 'Gabbia per uccelli' = jaula para pájaros. 'Uccelino' = pajarito."
+    },
+    {
+      "front": "il coniglio",
+      "back": "el conejo",
+      "reading": "/il koˈniʎʎo/",
+      "explanation": "Coniglio. La 'gli' suena /ʎʎ/ como 'll' rioplatense. 'Coniglietto' = conejito. 'Veloce come un coniglio' — en realidad los conejos son más bien símbolo de miedo en italiano."
+    },
+    {
+      "front": "il topo",
+      "back": "el ratón / la rata",
+      "reading": "/il ˈtɔːpo/",
+      "explanation": "Topo. 'Topino' = ratoncito. 'Topo di biblioteca' = ratón de biblioteca (persona que lee mucho). Diferente al español 'topo' (=toupee/ronca) — falso amigo."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Gli animali domestici e comuni",
+      "instruction": "Los animales en italiano. Muchos son reconocibles del español. Prestá atención a la pronunciación: pesce=/PEʃʃe/, uccello=/utˈtʃɛllo/.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué animal es?",
+      "instruction": "Ves el animal en italiano. Elegí la traducción.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "Del español al italiano",
+      "instruction": "Ves el animal en español. Escribí la palabra italiana.",
+      "itemIndices": [0, 1, 2, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Falsos amigos",
+      "instruction": "'topo' en italiano NO es topo (=pelo/mole), es el ratón. Identificá el falso amigo y usá la palabra correcta.",
+      "itemIndices": [9]
+    },
+    {
+      "type": "summary",
+      "title": "¡Gli animali!",
+      "instruction": "cane(perro), gatto(gato), cavallo(caballo), mucca(vaca), maiale(cerdo), pollo(pollo), pesce(pez/pescado), uccello(pájaro), coniglio(conejo), topo(ratón). Ojo: 'topo' = ratón (no topo del español).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

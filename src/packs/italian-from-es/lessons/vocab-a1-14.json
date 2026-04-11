@@ -1,0 +1,101 @@
+{
+  "id": "vocab-a1-14",
+  "title": "I trasporti",
+  "description": "Los medios de transporte en italiano. Vocabulario esencial para moverse por Italia, comprar tickets y pedir información.",
+  "level": "a1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "il treno",
+      "back": "el tren",
+      "reading": "/il ˈtrɛːno/",
+      "explanation": "Treno. Idéntico al español. 'Prendere il treno' = tomar el tren. 'Trenitalia' y 'Italo' son las principales empresas. 'Biglietto del treno' = ticket de tren. 'Binario' = andén/vía."
+    },
+    {
+      "front": "l'autobus / il bus",
+      "back": "el autobús / el colectivo",
+      "reading": "/ˈlautobus/",
+      "explanation": "Autobus. Invariable en plural (gli autobus). 'Prendere l'autobus' = tomar el colectivo. 'Fermata dell'autobus' = parada de autobús. 'L'autobus numero 8' = el colectivo número 8."
+    },
+    {
+      "front": "la metropolitana / la metro",
+      "back": "el subte / el metro",
+      "reading": "/la metropoliˈtana/",
+      "explanation": "Metropolitana. En el habla cotidiana se dice 'la metro'. Roma y Milano tienen metro. 'Prendere la metro' = tomar el subte. 'Cambio di linea' = transbordo."
+    },
+    {
+      "front": "il taxi / il tassì",
+      "back": "el taxi",
+      "reading": "/il ˈtaksi/",
+      "explanation": "Taxi. Igual al español. 'Prendere un taxi' = tomar un taxi. 'Chiamare un taxi' = llamar un taxi. En Italia los taxis son blancos en la mayoría de ciudades."
+    },
+    {
+      "front": "la macchina / l'auto",
+      "back": "el auto / el coche",
+      "reading": "/la ˈmakkina/ /ˈlauto/",
+      "explanation": "Macchina (carro/coche) — literalmente 'máquina', pero coloquialmente siempre es el auto. 'Auto' es la forma abreviada de 'automobile'. 'Guidare la macchina' = manejar el auto."
+    },
+    {
+      "front": "la moto / la motocicletta",
+      "back": "la moto / la motocicleta",
+      "reading": "/la ˈmɔːto/",
+      "explanation": "Moto. Abreviación de motocicletta. Femenino. En Italia la moto es muy popular en el tráfico urbano. 'Andare in moto' = ir en moto. Famosas marcas italianas: Ducati, Vespa."
+    },
+    {
+      "front": "la bicicletta / la bici",
+      "back": "la bicicleta",
+      "reading": "/la bitʃiˈkletta/",
+      "explanation": "Bicicletta / bici (abreviación). 'Andare in bicicletta' = ir en bicicleta. 'Pista ciclabile' = ciclovía. El ciclismo es muy popular en Italia (Giro d'Italia)."
+    },
+    {
+      "front": "l'aereo",
+      "back": "el avión",
+      "reading": "/ˈlaɛreo/",
+      "explanation": "Aereo. Masculino. 'Prendere l'aereo' = tomar el avión. 'Volo' = vuelo. 'Decollo' = despegue. 'Atterraggio' = aterrizaje. 'Compagnia aerea' = aerolínea."
+    },
+    {
+      "front": "il traghetto / la nave",
+      "back": "el ferry / el barco",
+      "reading": "/il traˈɡetto/ /la ˈnaːve/",
+      "explanation": "Traghetto = ferry/transbordador. Nave = barco grande. Italia tiene muchas islas y conexiones marítimas. 'Prendere il traghetto per la Sicilia' = tomar el ferry a Sicilia."
+    },
+    {
+      "front": "il biglietto",
+      "back": "el boleto / el ticket",
+      "reading": "/il biʎˈʎetto/",
+      "explanation": "Biglietto. La 'gli' suena /ʎʎ/. 'Comprare il biglietto' = comprar el boleto. 'Biglietteria' = boletería. 'Biglietto di andata e ritorno' = ida y vuelta. 'Convalidare il biglietto' = validar/picar el boleto."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "I mezzi di trasporto",
+      "instruction": "Los medios de transporte. La mayoría son reconocibles. En Italia se dice 'macchina' (no 'carro') para el auto, y 'prendere' (tomar) para todos los transportes.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué transporte?",
+      "instruction": "Ves el medio de transporte en italiano. Elegí la traducción.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "Del español al italiano",
+      "instruction": "Ves el transporte en español. Escribí la palabra italiana.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Cómo vas?",
+      "instruction": "Completá con el transporte correcto: 'Vado a Roma in ___ (tren). In città prendo la ___ (metro). Per le isole c'è il ___ (ferry).'",
+      "itemIndices": [0, 2, 8]
+    },
+    {
+      "type": "summary",
+      "title": "¡I trasporti!",
+      "instruction": "treno, autobus, metropolitana/metro, taxi, macchina/auto, moto, bicicletta/bici, aereo, traghetto/nave, biglietto. Recordá: 'prendere' = tomar (el transporte). 'macchina' = auto (no 'máquina'). 'biglietto' = ticket/boleto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

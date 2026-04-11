@@ -1,0 +1,107 @@
+{
+  "id": "vocab-a2-03",
+  "title": "La salute",
+  "description": "Vocabulario para hablar de salud, ir al médico y a la farmacia. Esencial para cualquier situación de emergencia o malestar durante tu estancia en Italia.",
+  "level": "a2",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "il medico / il dottore",
+      "back": "el médico / el doctor",
+      "reading": "",
+      "explanation": "'Devo andare dal medico' = Tengo que ir al médico. En italiano se dice 'dal medico' (no 'al medico')."
+    },
+    {
+      "front": "l'ospedale",
+      "back": "el hospital",
+      "reading": "",
+      "explanation": "Cognado perfecto. 'Devo andare all'ospedale' = Tengo que ir al hospital."
+    },
+    {
+      "front": "la farmacia",
+      "back": "la farmacia",
+      "reading": "",
+      "explanation": "Cognado. En Italia se reconoce por una cruz verde luminosa. 'Dov'è la farmacia più vicina?' = ¿Dónde está la farmacia más cercana?"
+    },
+    {
+      "front": "stare male / stare bene",
+      "back": "estar mal / estar bien",
+      "reading": "",
+      "explanation": "'Come stai?' — 'Sto male, ho la febbre.' = ¿Cómo estás? — Estoy mal, tengo fiebre. La pregunta básica sobre la salud."
+    },
+    {
+      "front": "la febbre",
+      "back": "la fiebre",
+      "reading": "",
+      "explanation": "'Ho la febbre' = Tengo fiebre. 'Ho la febbre alta' = Tengo fiebre alta. En italiano 'avere la febbre'."
+    },
+    {
+      "front": "il raffreddore",
+      "back": "el resfriado / el catarro",
+      "reading": "",
+      "explanation": "'Ho preso il raffreddore' = Me resfrié / Pillé un catarro. 'Ho il naso chiuso' = Tengo la nariz tapada."
+    },
+    {
+      "front": "il mal di testa / il mal di stomaco",
+      "back": "el dolor de cabeza / el dolor de estómago",
+      "reading": "",
+      "explanation": "Estructura 'mal di + parte del corpo'. También: mal di schiena (espalda), mal di gola (garganta), mal di denti (muelas)."
+    },
+    {
+      "front": "la medicina / il farmaco",
+      "back": "el medicamento / la medicina",
+      "reading": "",
+      "explanation": "'Ho bisogno di una medicina per il mal di testa.' = Necesito un medicamento para el dolor de cabeza."
+    },
+    {
+      "front": "guarire",
+      "back": "sanar / recuperarse / curarse",
+      "reading": "",
+      "explanation": "Verbo que usa ESSERE en el passato prossimo: 'Sono guarito in una settimana.' = Me recuperé en una semana."
+    },
+    {
+      "front": "il dolore",
+      "back": "el dolor",
+      "reading": "",
+      "explanation": "'Sento un dolore qui.' = Siento un dolor aquí. 'Ho un forte dolore al petto.' = Tengo un fuerte dolor en el pecho."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Los lugares de salud",
+      "instruction": "Primero aprende dónde ir cuando no te encuentras bien.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "Describir cómo te encuentras",
+      "instruction": "Expresiones para describir tu estado de salud al médico.",
+      "itemIndices": [3, 4, 5, 6]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice en italiano?",
+      "instruction": "Traduce del español al italiano.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "introduce",
+      "title": "Medicamentos y recuperación",
+      "instruction": "Vocabulario para pedir ayuda y hablar de la recuperación.",
+      "itemIndices": [7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "Vocabulario de salud completo",
+      "instruction": "Practica todo el vocabulario de salud.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "La salute — consolidado",
+      "instruction": "Con este vocabulario puedes describir síntomas, ir al médico y a la farmacia, y explicar cómo te encuentras. Recuerda 'guarire' usa essere en el passato prossimo.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

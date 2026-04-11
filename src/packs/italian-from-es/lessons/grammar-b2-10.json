@@ -1,0 +1,95 @@
+{
+  "id": "grammar-b2-10",
+  "title": "Proposizione participiale assoluta",
+  "description": "El participio absoluto italiano: construcciones participiales que equivalen a cláusulas temporales, causales o concesivas. Características de la lengua escrita formal y periodística.",
+  "level": "b2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Detto questo, non ho altro da aggiungere.",
+      "back": "Dicho esto, no tengo nada más que añadir.",
+      "reading": "",
+      "explanation": "'Detto questo' es una COSTRUZIONE FISSA muy frecuente en debates, discursos y presentaciones. El participio passato 'detto' (de 'dire') funciona como cláusula subordinada temporal/causal. Equivale a 'dopo aver detto questo' o 'una volta detto questo'. Este tipo de construcción es característico del registro formal escrito y oral elaborado."
+    },
+    {
+      "front": "Chiusa la seduta, i deputati lasciarono l'aula.",
+      "back": "Cerrada la sesión, los diputados abandonaron la sala.",
+      "reading": "",
+      "explanation": "VALORE TEMPORALE: 'chiusa la seduta' = cuando se cerró la sesión. El participio 'chiusa' concuerda con el sujeto de la participial: 'la seduta' (f.sg.) → 'chiusa'. CONCORDANZA obligatoria: el participio concuerda en género y número con el sustantivo al que se refiere. ✗ 'Chiuso la seduta' → ✓ 'Chiusa la seduta'."
+    },
+    {
+      "front": "Esaminati tutti i candidati, la commissione deliberò.",
+      "back": "Examinados todos los candidatos, la comisión deliberó.",
+      "reading": "",
+      "explanation": "CONCORDANZA en plural masculino: 'i candidati' (m.pl.) → 'esaminati' (m.pl.). La participial assoluta tiene su propio sujeto ('i candidati') diferente del sujeto principal ('la commissione'). Valor causal/temporal: 'dopo aver esaminato tutti i candidati' / 'una volta esaminati'. Muy frecuente en textos legales, académicos y periodísticos."
+    },
+    {
+      "front": "Considerato il ritardo accumulato, il progetto fu sospeso.",
+      "back": "Dada la demora acumulada, el proyecto fue suspendido.",
+      "reading": "",
+      "explanation": "VALORE CAUSALE: 'considerato il ritardo' = dado que / en vista del retraso. 'Considerato' (m.sg., concuerda con 'il ritardo'). La causa es la razón que lleva a la conclusión. Otras construcciones fisse causali: 'Visto che...', 'Rilevato che...', 'Premesso che...'. Muy usadas en documentos administrativos."
+    },
+    {
+      "front": "Costruzioni fisse: Detto questo... / Chiarito ciò... / Premesso che... / Stabilito che... / Tenuto conto di...",
+      "back": "Dicho esto... / Aclarado esto... / Dado que (como premisa)... / Establecido que... / Teniendo en cuenta...",
+      "reading": "",
+      "explanation": "COSTRUZIONI FISSE DEL LINGUAGGIO FORMALE: estas expresiones aparecen constantemente en textos legales, administrativos, académicos y discursos. Son 'bloques' que se aprenden como unidades: 'Tenuto conto di quanto esposto...' (Teniendo en cuenta lo expuesto...). 'Fatta eccezione per...' (Con excepción de...). 'Fatto salvo...' (Sin perjuicio de...)."
+    },
+    {
+      "front": "Finiti i compiti, i bambini uscirono a giocare.",
+      "back": "Terminados los deberes, los niños salieron a jugar.",
+      "reading": "",
+      "explanation": "'Finiti' concuerda con 'i compiti' (m.pl.). El sujeto de la participial ('i compiti') PUEDE o no coincidir con el principal ('i bambini'). En este caso son diferentes: los deberes se terminan, los niños salen. VALORE TEMPORALE: 'dopo che i compiti furono finiti'. La participial assoluta es una forma de nominalizar y comprimir la información."
+    },
+    {
+      "front": "Completata la relazione, la direttrice uscì dall'ufficio.",
+      "back": "Completado el informe, la directora salió del despacho.",
+      "reading": "",
+      "explanation": "CONCORDANZA femminile: 'la relazione' (f.sg.) → 'completata'. Notar: el sujeto de la participial ('la relazione') y el sujeto principal ('la direttrice') son diferentes. La relazione se completó, y entonces la direttrice salió. El participio absoluto tiene un sujeto propio, a diferencia del gerundio que comparte sujeto con la frase principal."
+    },
+    {
+      "front": "Risolto il problema, potremo procedere. / Una volta risolto il problema, potremo procedere.",
+      "back": "Resuelto el problema, podremos continuar. / Una vez resuelto el problema, podremos continuar.",
+      "reading": "",
+      "explanation": "'Una volta + participio + oggetto' es una variante muy común de la costruzione participiale. 'Una volta risolto' = una vez resuelto. La presencia de 'una volta' subraya la temporalidad (cuando se haya resuelto). Muy frecuente en el habla incluso semi-formal. 'Risolto il problema' es más conciso y típico de registros escritos elevados."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Estructura y concordanza de la participial",
+      "instruction": "ESTRUCTURA: Participio passato (concordado) + sujeto propio → frase principal. CONCORDANZA obligatoria: el participio debe concordar en género y número con el sustantivo que le corresponde. Finiti i compiti (m.pl.), Chiusa la porta (f.sg.), Detto questo (m.sg.).",
+      "itemIndices": [1, 2, 6]
+    },
+    {
+      "type": "introduce",
+      "title": "Valores semánticos: temporal, causal",
+      "instruction": "La participial puede expresar: TEMPO ('quando...', 'dopo che...') o CAUSA ('dato che...', 'visto che...'). El contexto determina cuál. Praticate las construcciones fisse del discurso formale.",
+      "itemIndices": [0, 3, 4, 5]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál es la concordanza correcta?",
+      "instruction": "Para cada participial, identifica el sustantivo con el que debe concordar el participio y elige la forma correcta.",
+      "itemIndices": [1, 2, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Costruzioni fisse en contexto real",
+      "instruction": "Estas expresiones aparecen en textos periodísticos, legales y discursos. Identificalas y tradúcelas. Luego úsalas en tus propios textos.",
+      "itemIndices": [0, 4, 8]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá la costruzione participiale",
+      "instruction": "Elige la forma correcta del participio concordado para completar cada frase.",
+      "itemIndices": [0, 2, 3, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "Participiale assoluta — consolidada",
+      "instruction": "STRUTTURA: participio passato (concordado con su sujeto propio) + resto de la frase. CONCORDANZA: obligatoria con el sustantivo correspondiente (m.sg., f.sg., m.pl., f.pl.). VALORI: temporale (una volta, dopo), causale (visto, dato). COSTRUZIONI FISSE: Detto questo, Chiarito ciò, Premesso che, Tenuto conto di, Fatta eccezione per.",
+      "itemIndices": [0, 1, 4, 5, 7]
+    }
+  ]
+}

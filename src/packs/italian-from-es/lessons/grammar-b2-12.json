@@ -1,0 +1,95 @@
+{
+  "id": "grammar-b2-12",
+  "title": "Nominalizzazione dell'infinito",
+  "description": "El infinitivo sustantivado (il mangiare, il decidere) y la nominalizzazione con sufijos (-zione, -mento, -tura). Características del estilo nominal en el italiano formal y periodístico.",
+  "level": "b2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Il saper comunicare è fondamentale nel mondo del lavoro.",
+      "back": "Saber comunicarse es fundamental en el mundo laboral.",
+      "reading": "",
+      "explanation": "INFINITO SUSTANTIVADO como sujeto: il + infinitivo. 'Il saper comunicare' = el saber comunicarse. El artículo 'il' convierte el infinitivo en sustantivo. El verbo que sigue va en 3ª persona singular. Vocabulario elevado: 'il saper fare' (el saber hacer), 'il non detto' (lo no dicho), 'il vissuto' (lo vivido, la experiencia). Muy frecuente en títulos y ensayos."
+    },
+    {
+      "front": "Il decidere troppo in fretta porta a errori.",
+      "back": "El decidir demasiado rápido lleva a errores.",
+      "reading": "",
+      "explanation": "'Il decidere' = el acto de decidir / la toma de decisión. Como sujeto de la frase. Compará con la alternativa: 'Decidere troppo in fretta porta a errori' (infinitivo sin artículo, también correcto). Con artículo el infinitivo se focaliza más como concepto abstracto. En español también: 'el decidir' vs 'decidir'. La versión con artículo es más elevada."
+    },
+    {
+      "front": "Nominalizzazione con -zione/-sione: produrre→produzione, decidere→decisione, dividere→divisione",
+      "back": "Producción, decisión, división",
+      "reading": "",
+      "explanation": "SUFIJO -ZIONE/-SIONE: forma sustantivos abstractos de proceso/resultado. La mayoría son femeninos. Equivalen a '-ción' en español. 'Produzione' (producción), 'decisione' (decisión), 'organizzazione' (organización), 'comunicazione' (comunicación), 'connessione' (conexión), 'costruzione' (construcción). Son cognados directos del español."
+    },
+    {
+      "front": "Nominalizzazione con -mento: comportarsi→comportamento, sviluppare→sviluppo, trattare→trattamento",
+      "back": "Comportamiento, desarrollo, tratamiento",
+      "reading": "",
+      "explanation": "SUFIJO -MENTO: formas sustantivos de proceso. Equivale a '-miento' en español. 'Comportamento' (comportamiento), 'trattamento' (tratamiento), 'miglioramento' (mejoramiento/mejora), 'sviluppo' (desarrollo — nota: aquí el sufijo es diferente), 'ampliamento' (ampliación). También: 'movimento', 'sentimento', 'ragionamento'."
+    },
+    {
+      "front": "Stile verbale: 'La situazione sta peggiorando.' → Stile nominale: 'Si sta assistendo a un peggioramento della situazione.'",
+      "back": "Estilo verbal vs estilo nominal",
+      "reading": "",
+      "explanation": "STILE NOMINALE: preferencia por sustantivos en vez de verbos. Característica del italiano formal, periodístico y burocrático. 'Si sta assistendo a un peggioramento' = nominalizzazione di 'peggiorare'. El estilo nominal crea distancia y objetividad. Más ejemplos: 'la realizzazione del progetto' (en vez de 'realizzare il progetto'), 'il verificarsi di eventi' (en vez de 'verificarsi eventi')."
+    },
+    {
+      "front": "Nominalizzazione con -tura/-ura: aprire→apertura, rompere→rottura, scrivere→scrittura, partire→partenza",
+      "back": "Apertura, ruptura, escritura, partida",
+      "reading": "",
+      "explanation": "SUFIJOS -TURA/-URA/-ANZA/-ENZA: para sustantivos de estado o acción. '-tura': apertura (apertura), rottura (rotura/ruptura), lettura (lectura), scrittura (escritura). '-anza/-enza': conoscenza (conocimiento), dipendenza (dependencia), speranza (esperanza). Muchos tienen cognados en español: lettura/lectura, scrittura/escritura."
+    },
+    {
+      "front": "L'eccesso nel mangiare fa male alla salute. / Il camminare fa bene.",
+      "back": "El exceso en el comer perjudica la salud. / Caminar hace bien.",
+      "reading": "",
+      "explanation": "INFINITO SUSTANTIVADO en varias posiciones sintácticas: como complemento de un sustantivo ('l'eccesso nel mangiare'), como soggetto ('il camminare fa bene'), como complemento oggetto ('Amo il camminare'). El artículo determinativo masculino singular 'il/lo' precede el infinitivo. 'Lo scrivere' (lo de escribir), 'il leggere' (el leer). Con 'lo' ante s + consonante: 'lo scrivere', 'lo studiare' (cuando empieza con s + cons.)."
+    },
+    {
+      "front": "STILE FORMALE: 'La presa di decisione è avvenuta in tempi brevi.' vs INFORMALE: 'Hanno deciso in poco tempo.'",
+      "back": "Toma de decisión vs decidieron rápido",
+      "reading": "",
+      "explanation": "El STILE NOMINALE es una marca de registro formal. En textos periodísticos, administrativos y académicos, las acciones se expresan como sustantivos. 'La presa di decisione' en vez de 'decidere'. 'Il verificarsi di eventi imprevisti' en vez de 'eventi imprevisti si verificano'. Esto da objetividad pero puede volverse oscuro: los lingüistas critican el abuso del stile nominale en la burocrazia italiana."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El infinitivo como sustantivo",
+      "instruction": "STRUTTURA: il/lo + infinitivo = sustantivo masculino singular. 'Il mangiare', 'il decidere', 'il vivere'. Funciona como sujeto, objeto o complemento. El artículo lo hace sustantivo: 'mangiare è bello' (más coloquial) vs 'il mangiare è piacevole' (más elaborado).",
+      "itemIndices": [0, 1, 6]
+    },
+    {
+      "type": "introduce",
+      "title": "Sufijos nominales: -zione, -mento, -tura",
+      "instruction": "Los tres sufijos más productivos para crear sustantivos de verbos: -zione/-sione (producción → process/result), -mento (comportamiento → proceso), -tura/-ura (apertura → resultado/estado). Muchos son cognados directos del español.",
+      "itemIndices": [2, 3, 5]
+    },
+    {
+      "type": "introduce",
+      "title": "Estilo nominal: el italiano formal",
+      "instruction": "El italiano formal prefiere sustantivos a verbos. 'La decisione è stata presa' vs 'hanno deciso'. Reconocer este estilo es esencial para leer textos periodísticos, académicos y burocráticos italianos.",
+      "itemIndices": [4, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Nominalizzazioni en textos reales",
+      "instruction": "Identifica los sustantivos nominalizados en estas frases y reformula en estilo verbal equivalente.",
+      "itemIndices": [4, 7]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Transforma: verbo → nominale",
+      "instruction": "Convierte las frases verbales en frases con nominalizzazione usando el sufijo adecuado.",
+      "itemIndices": [2, 3, 5]
+    },
+    {
+      "type": "summary",
+      "title": "Nominalizzazione — consolidada",
+      "instruction": "INFINITO SUSTANTIVADO: il/lo + infinitivo → sustantivo. SUFIJOS: -zione/-sione (producción, decisión), -mento (comportamiento, tratamiento), -tura (apertura, escritura), -anza/-enza (conoscenza, speranza). STILE NOMINALE: característica del registro formal/periodístico. Nominalizar = mayor objetividad y distancia.",
+      "itemIndices": [0, 2, 3, 4, 7]
+    }
+  ]
+}

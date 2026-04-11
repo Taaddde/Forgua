@@ -1,0 +1,95 @@
+{
+  "id": "grammar-a1-12",
+  "title": "Andare (presente) — vado, vai, va...",
+  "description": "Andare (ir) es uno de los verbos más irregulares e importantes del italiano. Imprescindible para hablar de movimiento y destinos. Para hispanohablantes: el patrón irregular es muy diferente.",
+  "level": "a1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "io vado",
+      "back": "yo voy",
+      "reading": "",
+      "explanation": "'Vado' — forma totalmente irregular, no relacionada con 'and-'. 'Vado a scuola' = Voy a la escuela. 'Vado a casa' = Voy a casa. 'Vado bene?' = ¿Estoy bien? (también se usa figurativamente)."
+    },
+    {
+      "front": "tu vai",
+      "back": "vos/tú vas",
+      "reading": "",
+      "explanation": "'Vai' — también irregular. 'Dove vai?' = ¿Adónde vas? 'Vai a lavorare?' = ¿Vas a trabajar? 'Come vai?' = ¿Cómo estás? (expresión coloquial muy común en Italia)."
+    },
+    {
+      "front": "lui/lei va",
+      "back": "él/ella va",
+      "reading": "",
+      "explanation": "'Va' — tercera persona singular. 'Va bene!' = ¡Está bien! / ¡De acuerdo! (expresión MUY frecuente). 'Come va?' = ¿Cómo va? / ¿Cómo estás? 'Va a Roma ogni anno' = Va a Roma cada año."
+    },
+    {
+      "front": "noi andiamo",
+      "back": "nosotros/as vamos",
+      "reading": "",
+      "explanation": "'Andiamo' — aquí vuelve la raíz 'and-'. 'Andiamo al cinema stasera?' = ¿Vamos al cine esta noche? 'Andiamo!' = ¡Vamos! (para proponer/animar). Primera persona plural = noi + andiamo, siempre regular."
+    },
+    {
+      "front": "voi andate",
+      "back": "ustedes/vosotros van/vais",
+      "reading": "",
+      "explanation": "'Andate' — 2ª plural, también con la raíz 'and-'. 'Andate a piedi o in macchina?' = ¿Van a pie o en auto? 'Andate sempre al mare d'estate?' = ¿Siempre van al mar en verano?"
+    },
+    {
+      "front": "loro vanno",
+      "back": "ellos/ellas van",
+      "reading": "",
+      "explanation": "'Vanno' — vuelve la irregularidad. 'Vanno a lavorare in treno' = Van a trabajar en tren. Patrón completo: VADO-VAI-VA-andiamo-andate-VANNO. Las formas con raíz 'v-' son las irregulares."
+    },
+    {
+      "front": "Andare + A + ciudad/lugar",
+      "back": "ir a + ciudad/lugar",
+      "reading": "",
+      "explanation": "Con ciudades se usa 'a': 'vado a Milano', 'vai a Roma', 'va a Napoli'. Con países se usa 'in': 'vado in Italia', 'vai in Spagna'. Con lugares genéricos: 'a casa', 'a scuola', 'a lavorare', 'al cinema', 'in ufficio'."
+    },
+    {
+      "front": "Va bene! / Come va? / Andiamo!",
+      "back": "¡De acuerdo! / ¿Cómo estás? / ¡Vamos!",
+      "reading": "",
+      "explanation": "Expresiones fijas con 'andare' de uso cotidiano. 'Va bene' = de acuerdo, está bien, OK. 'Come va?' = ¿Cómo va la vida? / ¿Cómo estás? 'Andiamo!' = ¡Vámonos! 'Non va bene' = Esto no está bien."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Andare: el verbo más irregular de A1",
+      "instruction": "Andare tiene DOS raíces: 'V-' para io/tu/lui/loro (formas irregulares) y 'AND-' para noi/voi (formas regulares). Memorización visual: VADO / VAI / VA / andiamo / andate / VANNO.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Cuál forma de andare es correcta?",
+      "instruction": "Elegí la forma correcta de 'andare' para cada sujeto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "Conjugá andare",
+      "instruction": "Escribí la forma correcta de 'andare' para cada persona.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Andare + preposiciones de lugar",
+      "instruction": "'A' con ciudades, 'in' con países, 'al/alla' con lugares con artículo. Practicá estas combinaciones.",
+      "itemIndices": [6, 7]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Construí oraciones con andare",
+      "instruction": "Ordená las palabras para formar oraciones correctas con 'andare'.",
+      "itemIndices": [0, 3, 6]
+    },
+    {
+      "type": "summary",
+      "title": "¡Andare: dominado!",
+      "instruction": "Conjugación: VADO / VAI / VA / andiamo / andate / VANNO. Usos: ir a un lugar (vado a Roma, vado in Italia), preguntar cómo está alguien (come va?), expresar acuerdo (va bene!). ¡Este verbo lo usarás en cada conversación!",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

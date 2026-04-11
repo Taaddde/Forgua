@@ -1,0 +1,83 @@
+{
+  "id": "grammar-b1-14",
+  "title": "Pronomi combinati: me lo, te la, glielo...",
+  "description": "Los pronombres dobles en italiano: cuando un pronombre de objeto indirecto y uno de objeto directo se combinan. La forma 'glie-' es la más diferente.",
+  "level": "b1",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "me lo / me la / me li / me le",
+      "back": "me lo / me la / me los / me las",
+      "reading": "",
+      "explanation": "Combinaciones con 'mi' (a mí): mi + lo = me lo, mi + la = me la, mi + li = me li, mi + le = me le. La -i de 'mi' se convierte en -e cuando se combina. Igual en español: 'me lo das'."
+    },
+    {
+      "front": "te lo / te la / te li / te le",
+      "back": "te lo / te la / te los / te las",
+      "reading": "",
+      "explanation": "Combinaciones con 'ti' (a ti): ti + lo = te lo, ti + la = te la, etc. La -i de 'ti' se convierte en -e. 'Te lo dico domani' = Te lo digo mañana."
+    },
+    {
+      "front": "glielo / gliela / glieli / gliele",
+      "back": "se lo / se la / se los / se las (a él/ella/Ud./ellos)",
+      "reading": "",
+      "explanation": "¡La forma más italiana! Gli/Le (a él/ella/usted/ellos) + lo/la/li/le = GLIELO/GLIELA/GLIELI/GLIELE. Se fusionan en una sola palabra. En español sería 'se lo, se la' para todos. 'Glielo dico' = Se lo digo (a él/ella/Ud)."
+    },
+    {
+      "front": "ce lo / ce la / ve lo / ve la",
+      "back": "nos lo / nos la / os lo / os la",
+      "reading": "",
+      "explanation": "Ci + lo/la/li/le = ce lo/ce la/ce li/ce le. Vi + lo/la = ve lo/ve la. 'Ce lo dice' = nos lo dice. 'Ve lo mando' = os lo mando."
+    },
+    {
+      "front": "Me lo dai? — Sì, te lo do subito.",
+      "back": "¿Me lo das? — Sí, te lo doy enseguida.",
+      "reading": "",
+      "explanation": "Uso en pregunta y respuesta. Posición: antes del verbo conjugado en afirmativas/interrogativas. Después del verbo (unido) en: imperativo, infinitivo, gerundio. 'Dammelo!' = ¡Dámelo! 'Posso darglielo?' = ¿Puedo dárselo?"
+    },
+    {
+      "front": "Il professore glielo ha spiegato.",
+      "back": "El profesor se lo explicó (a él/ella).",
+      "reading": "",
+      "explanation": "En tiempos compuestos: il pronome combinato va ANTES dell'ausiliare, unito. 'Glielo ha spiegato' (no 'ha glielo spiegato'). El participio puede concordar con il pronome diretto: 'gliela ha data' (la cosa dada, fem.)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Las combinaciones con mi/ti",
+      "instruction": "Las formas más simples: mi/ti + lo/la/li/le = me/te + lo/la/li/le. La -i del pronombre indirecto cambia a -e. Mismo sistema que en español.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Glielo: la forma speciale italiana",
+      "instruction": "¡Esta es la forma más diferente! Gli/Le se fusionan con el OD: glielo, gliela, glieli, gliele. En español decimos 'se lo' para todos, en italiano es 'glie-'. Se escribe en UNA sola palabra.",
+      "itemIndices": [2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Posición del pronome combinato",
+      "instruction": "Antes del verbo conjugado normalmente. Después del verbo (unido) en imperativo/infinitivo/gerundio. 'Dammelo!' (dámelo), 'darglielo' (dárselo), 'dandoglielo' (dándoselo).",
+      "itemIndices": [4, 5]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cuál es la combinación?",
+      "instruction": "Combiná los pronombres: mi + lo = ? / gli + la = ? / ci + li = ?",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "recall",
+      "title": "Glielo en contexto",
+      "instruction": "Traducí usando glielo/gliela/glieli/gliele.",
+      "itemIndices": [4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "Resumen: Pronomi combinati",
+      "instruction": "Tabla mental: mi→me, ti→te, gli/le→glie (fusionado), ci→ce, vi→ve. Luego + lo/la/li/le. Forma especial: glielo/gliela/glieli/gliele (una palabra). Posición: ANTES del verbo conjugado; DESPUÉS (unido) en imperativo/infinitivo/gerundio.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "vocab-c1-07",
+  "title": "Proverbi italiani e loro uso",
+  "description": "Los proverbios italianos revelan la sabiduría popular y la visión del mundo de una cultura. Muchos tienen equivalentes en español, pero las diferencias son informativas. Un hablante avanzado conoce estos refranes y los usa en el momento oportuno — son señales de competencia cultural profunda.",
+  "level": "c1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "Il lupo perde il pelo ma non il vizio",
+      "back": "El leopardo no puede cambiar sus manchas / Genio y figura hasta la sepultura",
+      "reading": "",
+      "explanation": "'Ha promesso di cambiare, ma il lupo perde il pelo ma non il vizio.' La naturaleza del lobo no cambia aunque mude el pelo. Más intenso que el equivalente español: implica que el vicio es inseparable de la persona."
+    },
+    {
+      "front": "Non è tutto oro quello che luccica",
+      "back": "No es oro todo lo que reluce",
+      "reading": "",
+      "explanation": "'L'offerta sembra ottima, ma non è tutto oro quello che luccica.' Equivalente exacto al español. De Shakespeare ('The Merchant of Venice'), pero integrado en el refranero italiano. Uno de los más usados."
+    },
+    {
+      "front": "Chi tardi arriva male alloggia",
+      "back": "El que llega tarde, mal le va / A quien madruga, Dios le ayuda (versión invertida)",
+      "reading": "",
+      "explanation": "'Arrivò ultimo e non trovò posto: chi tardi arriva male alloggia.' Literalmente 'el que llega tarde, encuentra mal alojamiento'. Imagen de la posada medieval: las mejores habitaciones se dan a los primeros."
+    },
+    {
+      "front": "Meglio tardi che mai",
+      "back": "Más vale tarde que nunca",
+      "reading": "",
+      "explanation": "'Hai finalmente imparato a nuotare a quarant'anni? Meglio tardi che mai!' Equivalente exacto al español. Se usa para algo positivo que llega con retraso. Muy frecuente en respuesta a noticias tardías pero bienvenidas."
+    },
+    {
+      "front": "Paese che vai, usanze che trovi",
+      "back": "A donde fueres, haz lo que vieres / Cada tierra con su guerra",
+      "reading": "",
+      "explanation": "'In Giappone ci si toglie le scarpe entrando in casa: paese che vai, usanze che trovi.' Aconseja adaptarse a las costumbres del lugar. Equivale al latín 'cum Romae facito ut Romani faciunt'."
+    },
+    {
+      "front": "La notte porta consiglio",
+      "back": "La noche da consejo / Consultar con la almohada",
+      "reading": "",
+      "explanation": "'Non decidere adesso: la notte porta consiglio.' Aconseja diferir las decisiones importantes para el día siguiente. La 'notte' no es solo el sueño sino el tiempo de reflexión. Muy usado en situaciones de decisión difícil."
+    },
+    {
+      "front": "A caval donato non si guarda in bocca",
+      "back": "A caballo regalado no le mires el diente",
+      "reading": "",
+      "explanation": "'Il regalo non ti piace? A caval donato non si guarda in bocca.' Equivalente exacto al español. Los dientes del caballo revelan su edad: no se juzga lo que se da gratuitamente. Muy usado para aceptar algo con buena cara."
+    },
+    {
+      "front": "Chi la fa l'aspetti",
+      "back": "El que la hace, la paga / Quien siembra vientos, recoge tempestades",
+      "reading": "",
+      "explanation": "'L'ha trattato male per anni, poi si è trovato solo: chi la fa l'aspetti.' Ley del karma italiana: quien causa daño puede esperar que le llegue la consecuencia. Más conciso y contundente que el español."
+    },
+    {
+      "front": "Dimmi con chi vai e ti dirò chi sei",
+      "back": "Dime con quién andas y te diré quién eres",
+      "reading": "",
+      "explanation": "'Guarda le persone che frequenta: dimmi con chi vai e ti dirò chi sei.' Equivalente exacto al español. Juzgar a alguien por sus compañías. Muy usado en contextos de consejos a jóvenes o en critica social."
+    },
+    {
+      "front": "L'appetito vien mangiando",
+      "back": "El apetito viene comiendo / Cuanto más tienes, más quieres",
+      "reading": "",
+      "explanation": "'Prima non voleva nemmeno provarci; ora non si ferma più: l'appetito vien mangiando.' Paradoja: para querer algo hay que empezar a tenerlo. También se usa para describir la escalada de ambición o codicia."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Proverbios con equivalente español",
+      "instruction": "Los primeros cinco proverbios tienen equivalentes directos o muy cercanos en español. Fíjate en las diferencias: el italiano a menudo es más concreto (el lobo, el pelo) donde el español es más abstracto. Esta concreción es característica del refranero italiano.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Qué proverbio encaja?",
+      "instruction": "Lee cada situación y elige el proverbio italiano que la resume mejor. Los proverbios italianos se usan en momentos concretos de conversación, no como citas abstractas.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "introduce",
+      "title": "Proverbios de consecuencias y sabiduría práctica",
+      "instruction": "Los últimos cinco proverbios tratan de consecuencias, tiempo y relaciones sociales. 'Chi la fa l'aspetti' y 'Dimmi con chi vai' son los más usados en el habla actual. 'L'appetito vien mangiando' tiene uso tanto positivo (la motivación crece) como negativo (la codicia crece).",
+      "itemIndices": [5, 6, 7, 8, 9]
+    },
+    {
+      "type": "recall",
+      "title": "Completa el proverbio",
+      "instruction": "Ves la primera parte del proverbio o su equivalente español. Escribe el proverbio italiano completo.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    },
+    {
+      "type": "summary",
+      "title": "10 proverbios italianos — en contexto",
+      "instruction": "Los proverbios no se aprenden de memoria: se aprenden en situación. La próxima vez que converses en italiano, cuando surja una situación de tardanza, de malas compañías o de cambio de hábitos, usa el proverbio correspondiente. Los italianos los usarán y agradecerán que los conozcas.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+    }
+  ]
+}

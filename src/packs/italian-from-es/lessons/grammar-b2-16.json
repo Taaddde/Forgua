@@ -1,0 +1,95 @@
+{
+  "id": "grammar-b2-16",
+  "title": "Lingua scritta formale e burocratica",
+  "description": "El registro escrito formal del italiano: construcciones burocráticas, administrativas y académicas. Cómo leer y producir cartas formales, emails institucionales y documentos oficiales.",
+  "level": "b2",
+  "category": "grammar",
+  "items": [
+    {
+      "front": "Con la presente si comunica che la domanda è stata accettata.",
+      "back": "Por la presente se comunica que la solicitud ha sido aceptada.",
+      "reading": "",
+      "explanation": "FORMULA EPISTOLARE DI APERTURA: 'Con la presente si comunica che...' es la fórmula estándar para comunicados oficiales. 'Con la presente' = fórmula fija. 'Si comunica' = passivo impersonale (se comunica). 'La domanda è stata accettata' = passivo (la solicitud ha sido aceptada). Este tipo de apertura aparece en cartas de instituciones, empresas y organismos públicos."
+    },
+    {
+      "front": "Ai sensi dell'art. 15 del regolamento, il sottoscritto chiede...",
+      "back": "En virtud del art. 15 del reglamento, el abajo firmante solicita...",
+      "reading": "",
+      "explanation": "LOCUZIONI BUROCRATICHE TIPICHE: 'Ai sensi di' = en virtud de, con arreglo a. 'Il sottoscritto' = el abajo firmante (para identificarse formalmente). Se usa en solicitudes, declaraciones juradas y formularios. También: 'in ottemperanza a' (en cumplimiento de), 'a norma di legge' (con arreglo a la ley), 'in conformità con' (en conformidad con)."
+    },
+    {
+      "front": "In attesa di un Suo cortese riscontro, porgo distinti saluti.",
+      "back": "A la espera de su amable respuesta, le saluda atentamente.",
+      "reading": "",
+      "explanation": "FORMULA DI CHIUSURA STANDARD per lettere ed email formali. 'Distinti saluti' es la fórmula de cierre más común en el italiano formal. Alternativas: 'Cordiali saluti' (menos formal que distinti), 'Con ossequio' (muy formal, casi en desuso), 'I miei più cordiali saluti'. 'Riscontro' = respuesta (formal). 'Cortese' = amable (fórmula de cortesía ritual)."
+    },
+    {
+      "front": "Si è proceduto all'esame delle domande pervenute.",
+      "back": "Se ha procedido al examen de las solicitudes recibidas.",
+      "reading": "",
+      "explanation": "PASSIVO IMPERSONALE: 'si è proceduto' = se ha procedido. En el italiano burocrático, las acciones se expresan en passivo impersonale para crear distancia y objetividad. 'Si è proceduto', 'si è deliberato', 'si è deciso', 'si è verificato'. 'Pervenute' = llegadas/recibidas (di 'pervenire', participio f.pl. per 'le domande')."
+    },
+    {
+      "front": "Con riferimento alla Sua del 15 aprile, Le comunichiamo che...",
+      "back": "Con referencia a su [carta/email] del 15 de abril, le comunicamos que...",
+      "reading": "",
+      "explanation": "FORMULA PER RISPONDERE A CORRISPONDENZA: 'Con riferimento alla Sua del [data]' = en respuesta a su [carta] del [fecha]. 'Alla Sua' = a la suya (la carta/email de usted). Nótese la mayúscula en 'Sua' y 'Le': en el italiano formal escrito, los pronomi di cortesia (Lei, La, Le, Suo/Sua) se escriben con mayúscula. 'Le comunichiamo' = le comunicamos (3ª pl. con Lei)."
+    },
+    {
+      "front": "Il sottoscritto dichiara di essere in possesso dei requisiti previsti.",
+      "back": "El abajo firmante declara reunir los requisitos establecidos.",
+      "reading": "",
+      "explanation": "'Il sottoscritto dichiara di + infinitivo': fórmula para autodeclaraciones y solicitudes. 'Essere in possesso di' = poseer, tener. 'Previsti' = establecidos, previstos. Otras fórmulas de autodeclaración: 'Il sottoscritto attesta che...', 'Il sottoscritto chiede di essere ammesso a...', 'Il sottoscritto si impegna a...'. En solicitudes universitarias, de trabajo y trámites públicos."
+    },
+    {
+      "front": "La preghiamo di voler fornire i documenti richiesti entro il 30 del mese.",
+      "back": "Le rogamos que se sirva proporcionarnos los documentos solicitados antes del día 30 del mes.",
+      "reading": "",
+      "explanation": "FORMA DI CORTESIA PLURALE: 'La preghiamo di voler...' (le rogamos que tenga a bien...). La forma 'voler + infinitivo' = tener la bondad de / servirse de. Muy educada y formal. La persona gramática: 'La preghiamo' (3ª sg. Lei, oggetto diretto). Alternativas: 'Le chiediamo di...', 'Le siamo grati se potesse...'. 'Fornire' (proporcionar), 'trasmettere' (remitir), 'far pervenire' (hacer llegar)."
+    },
+    {
+      "front": "Si allega: 1) Copia del documento di identità; 2) Curriculum vitae; 3) Attestati di formazione.",
+      "back": "Se adjunta: 1) Copia del documento de identidad; 2) Currículum vitae; 3) Certificados de formación.",
+      "reading": "",
+      "explanation": "ALLEGATI E LISTA: 'Si allega' = se adjunta (passivo impersonale). Los documentos adjuntos a cartas formales se listan numerados. Otras fórmulas: 'In allegato si trasmette...' (se transmite en adjunto), 'Alla presente si allegano i seguenti documenti' (a la presente se adjuntan los siguientes documentos). En emails: 'In allegato troverà...' (adjunto encontrará...)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Fórmulas de apertura y cierre de cartas formales",
+      "instruction": "APERTURA: 'Con la presente si comunica che...' / 'Con riferimento alla Sua del [data]...' / 'In risposta alla Sua richiesta...'. CHIUSURA: 'In attesa di un Suo cortese riscontro, porgo distinti saluti.' / 'Cordiali saluti'. Aprende estos bloques como fórmulas fijas.",
+      "itemIndices": [0, 2, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "Locuzioni burocratiche y passivo impersonale",
+      "instruction": "PASSIVO IMPERSONALE: si comunica, si allega, si è proceduto, si è deliberato — para distancia y objetividad. LOCUZIONI: ai sensi di, in ottemperanza a, a norma di legge, di cui sopra, in calce. Son bloques preformados que se aprenden como unidades.",
+      "itemIndices": [1, 3, 7]
+    },
+    {
+      "type": "introduce",
+      "title": "Il sottoscritto y fórmulas de solicitud",
+      "instruction": "Para solicitudes e instancias: 'Il sottoscritto [nombre] chiede di...' / 'dichiara di...' / 'attesta che...'. Para rogar: 'La preghiamo di voler...', 'Le chiediamo gentilmente di...'. Las mayúsculas en pronombres de cortesía (Lei, La, Sua) son obligatorias en el escrito formal.",
+      "itemIndices": [5, 6]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Locuzioni formali en contexto",
+      "instruction": "Identifica estas expresiones burocráticas en contextos reales y tradúcelas a un italiano más coloquial. ¿Qué expresaría lo mismo en un registro informal?",
+      "itemIndices": [1, 2, 3, 4]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completa la carta formal",
+      "instruction": "Completa esta carta formal institucional con las fórmulas correctas. Prestá atención al registro y a los pronombres de cortesía.",
+      "itemIndices": [0, 2, 5, 7]
+    },
+    {
+      "type": "summary",
+      "title": "Lingua burocratica — consolidada",
+      "instruction": "APERTURA: Con la presente si comunica / Con riferimento alla Sua del... CHIUSURA: Distinti saluti / Cordiali saluti. PASSIVO IMPERSONALE: si è proceduto, si allega, si comunica. LOCUZIONI: ai sensi di, il sottoscritto, in ottemperanza a. MAIUSCOLE DI CORTESIA: Lei/La/Sua/Loro con maiuscola en el escrito formal. SOLICITUD: La preghiamo di voler...",
+      "itemIndices": [0, 1, 2, 3, 5]
+    }
+  ]
+}

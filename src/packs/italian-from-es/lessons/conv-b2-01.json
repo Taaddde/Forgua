@@ -1,0 +1,83 @@
+{
+  "id": "conv-b2-01",
+  "title": "Conversazione: Partecipare a un dibattito",
+  "description": "Cómo participar en un debate formal italiano: tomar la palabra, conceder puntos, contradecir con elegancia y hacer precisiones. Registro formal oral B2.",
+  "level": "b2",
+  "category": "conversation",
+  "items": [
+    {
+      "front": "Vorrei aggiungere un elemento a quanto appena detto.",
+      "back": "Quisiera agregar un elemento a lo recién dicho.",
+      "reading": "",
+      "explanation": "'Vorrei aggiungere' = quisiera agregar (condizionale di cortesia para pedir la palabra). 'A quanto appena detto' = a lo recién dicho (riferimento a l'intervento precedente). Esta fórmula muestra que el hablante escucha al otro antes de intervenir. Alternativas: 'Vorrei intervenire su questo punto' (quisiera intervenir sobre este punto), 'Se mi è concessa la parola...' (si se me concede la palabra)."
+    },
+    {
+      "front": "Permettetemi di precisare un aspetto fondamentale.",
+      "back": "Permítanme precisar un aspecto fundamental.",
+      "reading": "",
+      "explanation": "'Permettetemi di + infinitivo' = permítanme hacer algo (imperativo pl. di 'permettere' + mi). Fórmula para hacer una precisión importante. 'Precisare' = precisar, aclarar. Variantes: 'Permettami di chiarire un punto' (con Lei), 'Mi preme precisare che...' (me urge precisar que...). 'Mi preme' (me urge, me importa) es una expresión muy formal que da urgencia a la intervención."
+    },
+    {
+      "front": "Concordo in linea di massima, tuttavia occorre fare alcune distinzioni.",
+      "back": "Concuerdo en líneas generales, sin embargo hace falta hacer algunas distinciones.",
+      "reading": "",
+      "explanation": "'In linea di massima' = en líneas generales, en principio. Expresión de acuerdo parcial. 'Tuttavia' = sin embargo (connettore avversativo formale). 'Occorre fare' = hace falta hacer, es necesario hacer. Esta frase es perfecta para el debate: concedes el punto general pero introduces una matización. Es más sofisticado que el simple 'sì, ma...' del B1."
+    },
+    {
+      "front": "È opportuno sottolineare che i dati disponibili mostrano tutt'altro.",
+      "back": "Es conveniente subrayar que los datos disponibles muestran todo lo contrario.",
+      "reading": "",
+      "explanation": "'È opportuno + infinitivo' = es conveniente, es oportuno. 'Sottolineare' = subrayar, destacar. 'Tutt'altro' = todo lo contrario (literalmente: 'todo otro'). 'I dati disponibili' = los datos disponibles. Este tipo de frase — referencia a evidencia empírica ('i dati mostrano') — es característica del debate académico y político italiano. 'Tutt'altro' es una negación muy enfática."
+    },
+    {
+      "front": "La questione va vista in un'ottica più ampia, che tenga conto di...",
+      "back": "La cuestión debe verse desde una perspectiva más amplia, que tenga en cuenta...",
+      "reading": "",
+      "explanation": "'Va vista in un'ottica più ampia' = debe verse desde una perspectiva más amplia. 'Andare + participio passato' = deber ser (passivo necessità). 'Un'ottica' = una óptica, una perspectiva (literalmente: lente). 'Che tenga conto di' = que tenga en cuenta (congiuntivo presente di 'tenere conto', nella relativa). Frase muy elegante para ampliar el debate y cuestionar el marco."
+    },
+    {
+      "front": "Con tutto il rispetto, non posso condividere questa posizione perché...",
+      "back": "Con todo el respeto, no puedo compartir esta posición porque...",
+      "reading": "",
+      "explanation": "'Con tutto il rispetto' = con todo el respeto (fórmula de cortesía que introduce desacuerdo). 'Non posso condividere' = no puedo compartir (en el sentido de 'no estoy de acuerdo con'). Es más elegante que 'non sono d'accordo'. En el debate formal italiano, esta fórmula permite el desacuerdo sin hostilidad. Más suave: 'Pur rispettando la sua opinione, ritengo che...'."
+    },
+    {
+      "front": "Per quanto riguarda il punto sollevato da X, ritengo che...",
+      "back": "En cuanto al punto planteado por X, considero que...",
+      "reading": "",
+      "explanation": "'Per quanto riguarda' = en cuanto a, por lo que respecta a. Preposición compleja para referirse a un punto específico. 'Il punto sollevato da X' = el punto planteado por X ('sollevare un punto' = plantear/levantar un punto). 'Ritengo che + congiuntivo' = considero que (más formal que 'penso che'). 'Ritenere' es el verbo de opinión formal por excelencia."
+    },
+    {
+      "front": "Prima di concludere il mio intervento, vorrei ribadire che...",
+      "back": "Antes de concluir mi intervención, quisiera reiterar que...",
+      "reading": "",
+      "explanation": "'Prima di concludere il mio intervento' = antes de concluir mi intervención. 'Ribadire' = reiterar, insistir sobre. Fórmula de cierre que resume el argumento principal. 'Il mio intervento' = mi intervención (en el debate). Otros cierres: 'In conclusione, voglio sottolineare...' (en conclusión, quiero subrayar...), 'Permettetemi di riassumere brevemente...' (permítanme resumir brevemente...)."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Cómo tomar la palabra en un debate formal",
+      "instruction": "Las fórmulas para pedir la palabra en un debate: 'Vorrei aggiungere...', 'Permettetemi di precisare...', 'Se posso intervenire...'. En Italia, interrumpir sin estas fórmulas puede parecer maleducado en contextos formales.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Acuerdo parcial, concesión y contrargumento",
+      "instruction": "El debate sofisticado no es un enfrentamiento sino un diálogo: concedes parte ('concordo in linea di massima') y luego introduces tu matización ('tuttavia...'). Esto muestra que escuchaste al otro.",
+      "itemIndices": [2, 3, 5]
+    },
+    {
+      "type": "introduce",
+      "title": "Ampliar el marco y cerrar la intervención",
+      "instruction": "'La questione va vista in un'ottica più ampia' permite reformular el debate. 'Prima di concludere, vorrei ribadire che...' = cierre clásico de intervención formal. Aprende estas fórmulas de apertura y cierre.",
+      "itemIndices": [4, 7]
+    },
+    {
+      "type": "conversation-script",
+      "title": "Simulación de debate: ¿el trabajo remoto es beneficioso?",
+      "instruction": "Practica un debate corto sobre el smart working. Un participante defiende el trabajo remoto, el otro plantea dudas. Usa las fórmulas de la lección para tomar la palabra, conceder y contrargumentar.",
+      "itemIndices": [0, 2, 5, 6, 7]
+    }
+  ]
+}

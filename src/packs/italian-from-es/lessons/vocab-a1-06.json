@@ -1,0 +1,119 @@
+{
+  "id": "vocab-a1-06",
+  "title": "Il cibo e le bevande",
+  "description": "Comida y bebida italiana — tema esencial para viajar y cotidianidad. Muchas palabras las conocés de la cultura italiana, pero la pronunciación puede sorprenderte.",
+  "level": "a1",
+  "category": "vocabulary",
+  "items": [
+    {
+      "front": "la pizza",
+      "back": "la pizza",
+      "reading": "/la ˈpittsa/",
+      "explanation": "Pizza se pronuncia PITT-sa, con doble 't' y 'z' = /ts/. En italiano la 'zz' suena /tts/ (sorda). La pizza en Italia tiene muchas variantes regionales: margherita, marinara, quattro stagioni."
+    },
+    {
+      "front": "la pasta",
+      "back": "la pasta / los fideos",
+      "reading": "/la ˈpasta/",
+      "explanation": "Pasta es el término genérico para todos los tipos de fideos. En Argentina hay muchas variedades de pasta italiana: spaghetti, penne, rigatoni, fusilli, tagliatelle, ecc."
+    },
+    {
+      "front": "il pane",
+      "back": "el pan",
+      "reading": "/il ˈpaːne/",
+      "explanation": "Pane. En Italia el pan es fundamental en cada comida. 'Panino' = pancito/sándwich. 'Pane integrale' = pan integral. 'Panetteria/forno' = panadería."
+    },
+    {
+      "front": "il formaggio",
+      "back": "el queso",
+      "reading": "/il forˈmaddʒo/",
+      "explanation": "Formaggio. La 'ggi' suena /ddʒ/. Italia tiene más de 400 tipos de queso: parmigiano (parmesano), mozzarella, gorgonzola, pecorino. 'Formaggio' es singular colectivo."
+    },
+    {
+      "front": "la carne",
+      "back": "la carne",
+      "reading": "/la ˈkarne/",
+      "explanation": "Carne. Idéntico al español. 'Carne macinata' = carne picada, 'bistecca' = bistec/churrasco, 'pollo' = pollo, 'manzo' = ternera/vaca, 'maiale' = cerdo."
+    },
+    {
+      "front": "il pesce",
+      "back": "el pescado / el pez",
+      "reading": "/il ˈpeʃʃe/",
+      "explanation": "Pesce. La 'sc' ante 'e/i' suena /ʃ/ como 'sh'. Doble sonido en 'pesce' → /ˈpeʃʃe/. 'Pescivendolo' = pescadería. 'Fritto misto di pesce' = mix de mariscos fritos."
+    },
+    {
+      "front": "la frutta",
+      "back": "la fruta",
+      "reading": "/la ˈfrutta/",
+      "explanation": "Frutta. Doble 't'. En italiano 'frutta' es colectivo (como 'ropa'). Para tipos específicos: 'la mela' (manzana), 'la pera' (pera), 'il limone' (limón), 'l'uva' (uva), 'la fragola' (fresa)."
+    },
+    {
+      "front": "la verdura",
+      "back": "la verdura / las verduras",
+      "reading": "/la verˈduːra/",
+      "explanation": "Verdura. Idéntico al español. Colectivo. Verduras comunes: 'il pomodoro' (tomate), 'la carota' (zanahoria), 'la cipolla' (cebolla), 'l'aglio' (ajo), 'la zucchina' (zapallito)."
+    },
+    {
+      "front": "l'acqua",
+      "back": "el agua",
+      "reading": "/ˈlakkwa/",
+      "explanation": "Acqua. En Italia se pide 'acqua naturale' (agua sin gas) o 'acqua frizzante' (agua con gas). Es femenino: l'acqua (artículo elidido). Un litro d'acqua = un litro de agua."
+    },
+    {
+      "front": "il caffè",
+      "back": "el café",
+      "reading": "/il kafˈfɛ/",
+      "explanation": "Caffè. Acento en la última sílaba. En Italia el café es un ritual: 'espresso' es la norma (no 'cappuccino' después del mediodía — culturalmente inusual). 'Caffè macchiato' = café con gotas de leche."
+    },
+    {
+      "front": "il vino",
+      "back": "el vino",
+      "reading": "/il ˈviːno/",
+      "explanation": "Vino. Idéntico al español. 'Vino rosso' (vino tinto), 'vino bianco' (vino blanco), 'vino rosato' (vino rosado). Italia es uno de los mayores productores mundiales."
+    },
+    {
+      "front": "la birra",
+      "back": "la cerveza",
+      "reading": "/la ˈbirra/",
+      "explanation": "Birra. Doble 'r'. 'Birra alla spina' = cerveza de barril. 'Birra artigianale' = cerveza artesanal. 'Chiara' (rubia) o 'scura' (negra) según el tipo."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Cibo italiano — lo básico",
+      "instruction": "La cultura gastronómica italiana es famosa mundialmente. Muchas palabras ya las conocés. Prestá atención a la pronunciación de 'pizza' /PITT-sa/ y 'pesce' /PEʃ-ʃe/.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "introduce",
+      "title": "Le bevande",
+      "instruction": "Las bebidas italianas más importantes. El café es una institución cultural en Italia.",
+      "itemIndices": [8, 9, 10, 11]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué es?",
+      "instruction": "Ves la palabra en italiano. Elegí la traducción.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+    },
+    {
+      "type": "recall",
+      "title": "Del español al italiano",
+      "instruction": "Ves la comida/bebida en español. Escribí la palabra italiana.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+    },
+    {
+      "type": "word-in-context",
+      "title": "En el restaurante",
+      "instruction": "Usá las palabras para completar: 'Per primo voglio ___ (pasta). Per secondo ___ (pescado). Da bere, un ___ (vino) rosso.'",
+      "itemIndices": [1, 5, 10]
+    },
+    {
+      "type": "summary",
+      "title": "¡Cibo e bevande!",
+      "instruction": "pizza(/PITT-sa/), pasta, pane, formaggio, carne, pesce(/PEʃʃe/), frutta, verdura, acqua, caffè, vino, birra. Recordá: en Italia el café se pide sin más (= espresso). 'Acqua naturale o frizzante?' siempre te van a preguntar.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+    }
+  ]
+}

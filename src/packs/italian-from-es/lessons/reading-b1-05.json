@@ -1,0 +1,83 @@
+{
+  "id": "reading-b1-05",
+  "title": "Lettura: Lo zaino dimenticato",
+  "description": "Texto narrativo B1 con tiempos verbales del pasado (imperfetto, passato prossimo, trapassato prossimo). Una historia de una mañana caótica que termina bien gracias a una hermana.",
+  "level": "b1",
+  "category": "reading",
+  "items": [
+    {
+      "front": "Era una mattina di marzo e Giulia stava correndo per non perdere il treno",
+      "back": "Era una mañana de marzo y Giulia estaba corriendo para no perder el tren",
+      "reading": "",
+      "explanation": "TIEMPI NARRATIVI: 'era' (imperfetto di essere = descripción de contexto) + 'stava correndo' (stare + gerundio = progresivo in corso). El imperfetto di stare + gerundio describe una acción en progreso en el pasado. Compará: 'stava correndo' (estaba corriendo, en progreso) vs 'corse' (corrió, evento puntual). El contraste imperfetto/passato es clave para la narración italiana."
+    },
+    {
+      "front": "Aveva passato la notte a finire la presentazione e si era svegliata tardi",
+      "back": "Había pasado la noche terminando la presentación y se había despertado tarde",
+      "reading": "",
+      "explanation": "TRAPASSATO PROSSIMO: 'aveva passato' y 'si era svegliata' = acciones ANTERIORES a la acción principal (arrivar al binario). El trapassato sitúa eventos previos al pasado principal. 'Passare la notte a + infinitivo' = pasar la noche haciendo algo. Nótese 'si era svegliata' (riflessivo): essere + participio che concuerda: svegliata (f.sg.)."
+    },
+    {
+      "front": "cercò il biglietto nel suo zaino — ma lo zaino non c'era. L'aveva dimenticato a casa, sul divano.",
+      "back": "buscó el boleto en su mochila — pero la mochila no estaba. La había olvidado en casa, en el sofá.",
+      "reading": "",
+      "explanation": "PASSATO REMOTO narrativo: 'cercò' (3ª sg. passato remoto di 'cercare'). Seguido de IMPERFETTO: 'non c'era' (no estaba, descripción del estado). Luego TRAPASSATO: 'l'aveva dimenticato' (la había olvidado, acción anterior). Esta secuencia temporal es perfecta: narrativa puntual → estado → anterior. 'Il divano' = el sofá."
+    },
+    {
+      "front": "Elena arrivò in cinque minuti, con lo zaino in mano e i capelli arruffati",
+      "back": "Elena llegó en cinco minutos, con la mochila en la mano y el pelo despeinado",
+      "reading": "",
+      "explanation": "'Arrivò' = llegó (passato remoto di 'arrivare'). 'In cinque minuti' = en cinco minutos. 'I capelli arruffati' = el pelo despeinado. 'Arruffato' = despeinado, revuelto (de 'arruffare' = despeinar, revolver). La imagen de Elena con los capelli arruffati y en pijama es cómica y afectuosa. Frase típica: 'Hai i capelli in disordine' / 'Hai i capelli arruffati'."
+    },
+    {
+      "front": "Salì sul treno nell'ultimo secondo, mentre le porte si chiudevano.",
+      "back": "Subió al tren en el último segundo, mientras las puertas se cerraban.",
+      "reading": "",
+      "explanation": "'Salì' = subió (passato remoto di 'salire', irregolare: salii/salisti/salì). 'Nell'ultimo secondo' = en el último segundo. 'Mentre le porte si chiudevano' = mientras las puertas se cerraban (imperfetto di 'chiudersi': acción simultánea en progreso). Este contraste passato remoto/imperfetto crea el clímax cinematográfico: la acción puntual de subir y el proceso continuo del cierre de puertas."
+    },
+    {
+      "front": "Quella mattina aveva imparato una cosa: i fratelli sono insostituibili.",
+      "back": "Esa mañana había aprendido algo: los hermanos son insustituibles.",
+      "reading": "",
+      "explanation": "'Aveva imparato' = había aprendido (trapassato, pero aquí con valor de reflexión posterior). 'I fratelli sono insostituibili' = los hermanos son insustituibles. 'Insostituibile' = insustituible (di 'sostituire' = sustituir). Esta es la conclusión moral del texto. 'I fratelli' puede referirse a hermanos en general (incluyendo hermanas): en italiano 'i fratelli' puede ser genérico para siblings."
+    },
+    {
+      "front": "Aprì il computer e sorrise: la presentazione c'era.",
+      "back": "Abrió la computadora y sonrió: la presentación estaba.",
+      "reading": "",
+      "explanation": "'Aprì' = abrió (passato remoto di 'aprire', irregolare: aprii/apristi/aprì). 'Sorrise' = sonrió (passato remoto di 'sorridere'). 'La presentazione c'era' = la presentación estaba (imperfetto di esserci). El alivio de Giulia se expresa con dos verbos puntuales (aprì, sorrise) y un estado (c'era). El cierre del texto es visual y emocional: el sonrisa que confirma que todo salió bien."
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Narración en italiano: tres tiempos del pasado",
+      "instruction": "Este texto usa tres tiempos del pasado coordinados: TRAPASSATO (aveva dimenticato = había olvidado, el más anterior), PASSATO PROSSIMO/REMOTO (cercò, arrivò, salì = los eventos), IMPERFETTO (era, stava correndo, si chiudevano = contexto y acciones en progreso). Identificá los tres en el primer párrafo.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "word-in-context",
+      "title": "Vocabulario narrativo en contexto",
+      "instruction": "Estas frases tienen vocabulario narrativo B1. Deducí el significado desde el contexto de la historia.",
+      "itemIndices": [3, 4, 5]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Comprensión de la historia",
+      "instruction": "Reconstruí la secuencia temporal de la historia. ¿Qué pasó PRIMERO, en SEGUNDO lugar, etc.? ¿Cómo terminó todo?",
+      "itemIndices": [0, 3, 5, 6]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "¿Passato remoto, imperfetto o trapassato?",
+      "instruction": "Para cada verbo del texto, identifica qué tiempo usa y por qué. ¿Es una acción puntual, una descripción de contexto, o una acción anterior a otra?",
+      "itemIndices": [1, 2, 4]
+    },
+    {
+      "type": "summary",
+      "title": "Lectura completada",
+      "instruction": "Vocabulario narrativo aprendido: il binario, il divano, i capelli arruffati, nell'ultimo secondo, insostituibile. TIEMPI: trapassato (havia...) para acciones previas, passato remoto para eventos narrativos, imperfetto para contexto/simultáneo. La conclusión moral ('i fratelli sono insostituibili') da cierre al texto.",
+      "itemIndices": [0, 4, 6]
+    }
+  ]
+}

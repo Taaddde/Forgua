@@ -109,6 +109,38 @@
       "errors": "{{count}} errors",
       "perfect": "Perfect, no errors!",
       "complete": "Complete!"
+    },
+    "imageAssociation": "Image association",
+    "wordInContext": "Choose the correct usage",
+    "wordInContextHint": "In which sentence is «{{word}}» used correctly?",
+    "fillBlankMulti": "Fill in the blanks",
+    "errorCorrection": {
+      "instruction": "Is this sentence correct?",
+      "yes": "Yes, it's correct",
+      "no": "No, there's an error",
+      "correct": "Correct!",
+      "incorrect": "Incorrect",
+      "explanation": "Explanation",
+      "correction": "Correct form",
+      "wellSpotted": "Well spotted!",
+      "actuallyCorrect": "The sentence was correct — there was no error"
+    },
+    "conversation": {
+      "scenario": "Scenario",
+      "chooseResponse": "Choose your response",
+      "correct": "Well said!",
+      "incorrect": "Hmm, not quite",
+      "continue": "Continue",
+      "complete": "Conversation complete!",
+      "score": "{{correct}} of {{total}} turns correct"
+    },
+    "story": {
+      "reading": "Reading",
+      "comprehension": "Comprehension questions",
+      "question": "Question {{current}} of {{total}}",
+      "score": "{{correct}}/{{total}} correct",
+      "complete": "Comprehension complete!",
+      "showQuestions": "Show questions"
     }
   },
   "lessons": {

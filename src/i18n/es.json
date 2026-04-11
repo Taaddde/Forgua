@@ -109,6 +109,38 @@
       "errors": "{{count}} errores",
       "perfect": "¡Perfecto, sin errores!",
       "complete": "¡Completado!"
+    },
+    "imageAssociation": "Asociá la imagen",
+    "wordInContext": "Elegí el uso correcto",
+    "wordInContextHint": "¿En qué oración se usa correctamente «{{word}}»?",
+    "fillBlankMulti": "Completá los espacios",
+    "errorCorrection": {
+      "instruction": "¿Esta oración es correcta?",
+      "yes": "Sí, es correcta",
+      "no": "No, hay un error",
+      "correct": "¡Correcto!",
+      "incorrect": "Incorrecto",
+      "explanation": "Explicación",
+      "correction": "Forma correcta",
+      "wellSpotted": "¡Bien visto!",
+      "actuallyCorrect": "La oración estaba bien — no había error"
+    },
+    "conversation": {
+      "scenario": "Escenario",
+      "chooseResponse": "Elegí tu respuesta",
+      "correct": "¡Bien dicho!",
+      "incorrect": "Hmm, no exactamente",
+      "continue": "Continuar",
+      "complete": "¡Conversación completada!",
+      "score": "{{correct}} de {{total}} turnos correctos"
+    },
+    "story": {
+      "reading": "Lectura",
+      "comprehension": "Preguntas de comprensión",
+      "question": "Pregunta {{current}} de {{total}}",
+      "score": "{{correct}}/{{total}} correctas",
+      "complete": "¡Comprensión completada!",
+      "showQuestions": "Ver preguntas"
     }
   },
   "lessons": {

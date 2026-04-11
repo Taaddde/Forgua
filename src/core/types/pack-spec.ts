@@ -234,6 +234,35 @@ export interface RoadmapPhase {
   actions?: RoadmapPhaseAction[];
 }
 
+/** A single option for a learner turn in a conversation */
+export interface ConversationOption {
+  text: string;
+  isCorrect: boolean;
+  feedback?: string;     // Why this is right or wrong, shown after selection
+  translation?: string;
+}
+
+/** A single turn in a conversation script */
+export interface ConversationTurn {
+  speaker: 'npc' | 'learner';
+  text: string;
+  audio?: string;
+  translation?: string;
+  // Only present on learner turns:
+  options?: ConversationOption[];
+  correctOptionIndex?: number;
+}
+
+/** A scripted conversation exercise defined in conversations/[level].json */
+export interface ConversationScript {
+  id: string;
+  scenario: string;     // Brief context: "En la estación de tren"
+  imageUrl?: string;
+  level: string;
+  tags?: string[];
+  turns: ConversationTurn[];
+}
+
 /** Resource entry in resources.json */
 export interface ResourceEntry {
   name: string;

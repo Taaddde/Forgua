@@ -16,6 +16,9 @@ const Roadmap = lazy(() => import('./core/pages/Roadmap'));
 const Settings = lazy(() => import('./core/pages/Settings'));
 const PackSelector = lazy(() => import('./core/pages/PackSelector'));
 const Placement = lazy(() => import('./core/pages/Placement'));
+const ExerciseDebug = import.meta.env.DEV
+  ? lazy(() => import('./core/pages/ExerciseDebug'))
+  : null;
 
 function Page({ children }: { children: React.ReactNode }) {
   return (
@@ -44,6 +47,9 @@ export default function App() {
             <Route path="/settings" element={<Page><Settings /></Page>} />
             <Route path="/pack-selector" element={<Page><PackSelector /></Page>} />
             <Route path="/placement" element={<Page><Placement /></Page>} />
+            {ExerciseDebug && (
+              <Route path="/debug/exercises" element={<Page><ExerciseDebug /></Page>} />
+            )}
           </Route>
         </Routes>
       </BrowserRouter>

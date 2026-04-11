@@ -149,3 +149,61 @@ export function scoreMatching(errors: number, totalPairs: number): ScoreResult {
     similarity: Math.max(0, 1 - errors / (totalPairs * 2)),
   };
 }
+
+/**
+ * Score a multi-blank cloze exercise.
+ * All correct → Easy, partial → Hard, none → Again.
+ */
+export function scoreClozeMulti(
+  correctCount: number,
+  totalBlanks: number,
+): ScoreResult {
+  const ratio = totalBlanks > 0 ? correctCount / totalBlanks : 0;
+  let grade: ReviewGradeValue;
+  if (ratio === 1) grade = ReviewGrade.Easy;
+  else if (ratio >= 0.5) grade = ReviewGrade.Hard;
+  else grade = ReviewGrade.Again;
+
+  return { correct: ratio === 1, grade, similarity: ratio };
+}
+
+/**
+ * Score an error-correction exercise.
+ * Correct identification → Good, wrong → Again.
+ */
+export function scoreErrorCorrection(userSaidCorrect: boolean, actuallyCorrect: boolean): ScoreResult {
+  const isRight = userSaidCorrect === actuallyCorrect;
+  return {
+    correct: isRight,
+    grade: isRight ? ReviewGrade.Good : ReviewGrade.Again,
+  };
+}
+
+/**
+ * Score a guided conversation based on correct turns out of total learner turns.
+ */
+export function scoreConversation(correctTurns: number, totalTurns: number): ScoreResult {
+  const ratio = totalTurns > 0 ? correctTurns / totalTurns : 1;
+  let grade: ReviewGradeValue;
+  if (ratio === 1) grade = ReviewGrade.Easy;
+  else if (ratio >= 0.6) grade = ReviewGrade.Good;
+  else if (ratio >= 0.3) grade = ReviewGrade.Hard;
+  else grade = ReviewGrade.Again;
+
+  return { correct: ratio >= 0.6, grade, similarity: ratio };
+}
+
+/**
+ * Score a story comprehension exercise.
+ * Based on ratio of correct MC answers.
+ */
+export function scoreStoryComprehension(correct: number, total: number): ScoreResult {
+  const ratio = total > 0 ? correct / total : 0;
+  let grade: ReviewGradeValue;
+  if (ratio === 1) grade = ReviewGrade.Easy;
+  else if (ratio >= 0.7) grade = ReviewGrade.Good;
+  else if (ratio >= 0.4) grade = ReviewGrade.Hard;
+  else grade = ReviewGrade.Again;
+
+  return { correct: ratio >= 0.7, grade, similarity: ratio };
+}

@@ -105,8 +105,15 @@ export type ExerciseType =
   | 'speak'
   | 'character-draw'
   | 'fill-blank'
+  | 'fill-blank-multi'
   | 'matching'
-  | 'reading-quiz';
+  | 'reading-quiz'
+  | 'sentence-build'
+  | 'image-association'
+  | 'word-in-context'
+  | 'error-correction'
+  | 'conversation-script'
+  | 'story-comprehension';
 
 /** Generic exercise definition — the pack generates these from its JSON data */
 export interface Exercise {

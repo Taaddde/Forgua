@@ -11,7 +11,6 @@ import type { UILanguage, ThemeMode } from '../store/useAppStore';
 const languages: { value: UILanguage; label: string }[] = [
   { value: 'es', label: 'Español' },
   { value: 'en', label: 'English' },
-  { value: 'pt', label: 'Português' },
 ];
 
 const themes: { value: ThemeMode; labelKey: string }[] = [

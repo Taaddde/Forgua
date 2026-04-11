@@ -10,7 +10,7 @@ import type { AbstractAdapter } from '../types/adapter';
 import { getAdapter } from '../adapters/registry';
 import { installPack } from '../db/seeds';
 
-export type UILanguage = 'es' | 'en' | 'pt';
+export type UILanguage = 'es' | 'en';
 export type ThemeMode = 'light' | 'dark' | 'system';
 
 interface AppState {
@@ -102,6 +102,11 @@ export const useAppStore = create<AppState>()(
         theme: state.theme,
         sidebarOpen: state.sidebarOpen,
       }),
+      merge: (persisted, current) => {
+        const p = (persisted ?? {}) as Partial<AppState>;
+        const validLang: UILanguage = p.uiLanguage === 'en' || p.uiLanguage === 'es' ? p.uiLanguage : 'es';
+        return { ...current, ...p, uiLanguage: validLang };
+      },
     }
   )
 );

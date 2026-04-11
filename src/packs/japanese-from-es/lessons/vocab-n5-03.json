@@ -82,6 +82,12 @@
       "itemIndices": [0, 1, 2, 3]
     },
     {
+      "type": "write",
+      "title": "Escribí en japonés",
+      "instruction": "Ves el significado en español. Escribí la palabra o expresión en japonés.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
       "type": "recall",
       "title": "Del español al japonés",
       "instruction": "Ves la palabra en español. Recordá la palabra en japonés.",

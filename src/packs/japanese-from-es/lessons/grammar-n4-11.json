@@ -1,0 +1,165 @@
+{
+  "id": "grammar-n4-11",
+  "title": "Apariencia e información: そうだ / みたいだ / らしい / ようだ",
+  "description": "Aprendé las cuatro formas de expresar 'parece que' en japonés. Cada una tiene un matiz diferente según la fuente de información y el grado de certeza.",
+  "level": "n4",
+  "category": "grammar",
+  "prerequisites": ["grammar-n4-01"],
+  "items": [
+    {
+      "front": "〜そうだ (apariencia)",
+      "back": "parece que / tiene pinta de (V-stem + そう — basado en lo que ves)",
+      "reading": "sou da (apariencia)",
+      "explanation": "〜そうだ de apariencia se forma con el STEM del verbo o el stem del adjetivo + そう. NO usa el plain form completo. Ejemplos: おいしそう (parece delicioso — ves la comida), 降りそう (parece que va a llover — ves el cielo oscuro). Es una reacción inmediata a lo que percibís visualmente.",
+      "cardRef": { "category": "grammar", "front": "〜そうだ (apariencia)" }
+    },
+    {
+      "front": "〜そうだ (información de terceros)",
+      "back": "dicen que... / oí que... (plain form + そうだ — transmitir info de otros)",
+      "reading": "sou da (información)",
+      "explanation": "〜そうだ de información se forma con el PLAIN FORM completo del verbo/adjetivo/sustantivo + そうだ. Ejemplos: 雨が降るそうです (dicen que va a llover — lo leíste en el pronóstico). La diferencia clave con el de apariencia es la forma: stem+そう vs plain form+そう. Mismo sonido, distinta forma, distinto significado.",
+      "cardRef": { "category": "grammar", "front": "〜そうだ (información de terceros)" }
+    },
+    {
+      "front": "〜みたいだ",
+      "back": "parece que... (informal — basado en evidencia directa)",
+      "reading": "mitai da",
+      "explanation": "〜みたいだ (mitai da) expresa suposición basada en evidencia, de forma INFORMAL. Se usa con el plain form directo: 彼は疲れているみたいだ (parece que él está cansado — lo notás). También se usa para comparaciones: 子供みたいだ (parece un niño). Es la versión coloquial de ようだ y más natural en conversación.",
+      "cardRef": { "category": "grammar", "front": "〜みたいだ" }
+    },
+    {
+      "front": "〜らしい",
+      "back": "parece que... (basado en info externa / lo que se espera)",
+      "reading": "rashii",
+      "explanation": "〜らしい (rashii) tiene dos usos: 1) Información de terceros/rumor: 彼は来ないらしい (parece que él no viene — alguien te lo dijo). 2) Comportamiento típico: あの人は日本人らしい (esa persona es muy japonesa, actúa como japonesa). El segundo uso es único de らしい. Se adjunta al plain form.",
+      "cardRef": { "category": "grammar", "front": "〜らしい" }
+    },
+    {
+      "front": "〜ようだ",
+      "back": "parece que... (formal — basado en evidencia directa y observación)",
+      "reading": "you da",
+      "explanation": "〜ようだ (yō da) es la versión FORMAL de みたいだ. Basado en evidencia directa y observable. 外は雨のようだ (parece que afuera llueve — escuchás la lluvia). Se adjunta al plain form. También se usa para comparaciones formales: まるで夢のようだ (es como un sueño). En escritura y discurso formal, preferí ようだ sobre みたいだ.",
+      "cardRef": { "category": "grammar", "front": "〜ようだ" }
+    },
+    {
+      "front": "おいしそう",
+      "back": "parece delicioso (apariencia visual inmediata)",
+      "reading": "おいしそう",
+      "explanation": "おいしそう (oishisō): adjetivo おいしい → stem おいし + そう. Clásico ejemplo de そうだ de apariencia. Lo decís cuando VES la comida y tiene buena pinta. NO podés decir おいしいそう (eso sería información de terceros: 'dicen que está delicioso'). La diferencia ortográfica: おいしそう vs おいしいそうです.",
+      "cardRef": { "category": "grammar", "front": "おいしそう" }
+    },
+    {
+      "front": "雨が降るそうです",
+      "back": "Dicen que va a llover / Se pronostica lluvia",
+      "reading": "あめがふるそうです",
+      "explanation": "雨が降るそうです (ame ga furu sō desu): 降る (plain form) + そうです. Usás esto cuando leíste el pronóstico o alguien te lo dijo. Compará con 雨が降りそうです (stem 降り + そう) = 'parece que va a llover' (ves el cielo oscuro). ¡Un carácter de diferencia y significado totalmente distinto!",
+      "cardRef": { "category": "grammar", "front": "雨が降るそうです" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "そうだ: dos usos muy distintos",
+      "instruction": "そうだ tiene DOS usos completamente distintos. 1) APARIENCIA (V-stem/Adj-stem + そう): 'tiene pinta de' — reacción visual. おいしそう (parece rico), 降りそう (parece que lloverá). 2) INFORMACIÓN (plain form + そうだ): 'dicen que' — transmitís info de otro. 雨が降るそうです (el pronóstico dice que lloverá). La diferencia está en la FORMA que precede a そう.",
+      "itemIndices": [0, 1, 5, 6]
+    },
+    {
+      "type": "introduce",
+      "title": "みたいだ, らしい y ようだ — tres matices de 'parece que'",
+      "instruction": "Los tres expresan suposición basada en evidencia, pero difieren en formalidad y fuente: みたいだ (informal, conversación cotidiana), ようだ (formal, escritura), らしい (info externa o comportamiento típico). Una regla práctica: con amigos → みたいだ. Por escrito → ようだ. Cuando alguien te lo contó → らしい o 〜そうだ de información.",
+      "itemIndices": [2, 3, 4]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué tipo de 'parece que' es?",
+      "instruction": "Elegí el significado correcto. Prestá atención al tipo de evidencia o información que hay detrás.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "write",
+      "title": "Escribí la forma correcta",
+      "instruction": "Ves la descripción en español y la fuente de información. Escribí la expresión japonesa correcta.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Elegí la forma correcta de 'parece que'",
+      "instruction": "Completá cada oración con la forma más apropiada según el contexto.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "この料理は{0}。（見た目がとてもいい）",
+            "blanks": [
+              { "answer": "おいしそうだ", "options": ["おいしそうだ", "おいしいそうだ", "おいしいらしい", "おいしいみたいだ"] }
+            ]
+          },
+          {
+            "template": "天気予報によると、明日は雪が降る{0}。",
+            "blanks": [
+              { "answer": "そうです", "options": ["そうです", "そうにあります", "らしいです", "ようです"] }
+            ]
+          },
+          {
+            "template": "彼女は最近忙しい{0}。（彼女が直接言っていた）",
+            "blanks": [
+              { "answer": "みたいだ", "options": ["みたいだ", "そうだ", "らしい", "ようだ"] }
+            ]
+          },
+          {
+            "template": "彼は本当に日本人{0}礼儀正しい。（典型的な日本人っぽい）",
+            "blanks": [
+              { "answer": "らしく", "options": ["らしく", "みたいで", "そうで", "ようで"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Correcto o incorrecto?",
+      "instruction": "Analizá cada oración. ¿Se usa correctamente la forma de 'parece que'?",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "このケーキはおいしいそうだ。（見た目がすごくいい）",
+            "isCorrect": false,
+            "explanation": "Incorrecto para apariencia visual. Si ves el pastel y tiene buena pinta, usás el stem + そう: おいしそうだ. おいしいそうだ (plain form + そう) significa 'dicen que está rico' — información de terceros.",
+            "errorType": "sou-da-form"
+          },
+          {
+            "sentence": "外は寒そうだ。（窓から見ると、みんなコートを着ている）",
+            "isCorrect": true,
+            "explanation": "Correcto. 寒そうだ (stem 寒 + そう) expresa apariencia basada en evidencia visual: ves a la gente con abrigos. Es el uso correcto de そうだ de apariencia.",
+            "errorType": "sou-da-form"
+          },
+          {
+            "sentence": "田中さんは来年結婚するらしい。（友達に聞いた）",
+            "isCorrect": true,
+            "explanation": "Correcto. らしい es perfecto cuando la información viene de terceros. Escuchaste el rumor o alguien te lo contó.",
+            "errorType": "rashii-usage"
+          },
+          {
+            "sentence": "彼女は疲れているようだ。（顔が真っ青で声も元気がない）",
+            "isCorrect": true,
+            "explanation": "Correcto. ようだ basado en evidencia directa observable (cara pálida, voz sin energía). Es la forma formal de みたいだ. Perfectamente correcto.",
+            "errorType": "you-da-usage"
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "Expresá apariencia e información",
+      "instruction": "Ves la situación en español. Escribí en japonés con la forma correcta según el contexto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "summary",
+      "title": "¡Las cuatro formas de 'parece que' dominadas!",
+      "instruction": "Aprendiste cuatro formas con matices distintos: そうだ (apariencia — stem+そう / información — plain form+そう), みたいだ (informal, evidencia directa), らしい (info externa o conducta típica), ようだ (formal, evidencia directa). La trampa clásica es おいしそう (apariencia) vs おいしいそう (información). Acordate: stem+そう = lo que ves; plain form+そう = lo que te dijeron.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    }
+  ]
+}

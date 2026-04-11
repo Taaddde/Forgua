@@ -1,0 +1,141 @@
+{
+  "id": "vocab-n4-07",
+  "title": "Expresiones de tiempo y frecuencia N4",
+  "description": "Adverbios temporales y de frecuencia que hacen que tu japonés sea más preciso y natural. Imprescindibles para hablar del pasado, presente y futuro.",
+  "level": "n4",
+  "category": "vocabulary",
+  "prereq": ["vocab-n4-02"],
+  "items": [
+    {
+      "front": "最近",
+      "back": "últimamente, recientemente",
+      "reading": "さいきん",
+      "explanation": "最近 (saikin) — últimamente, recientemente, en estos tiempos. Ejemplo: 最近どう？ (¿Cómo estás últimamente?), 最近忙しい (estoy ocupado/a últimamente). Se refiere a un período cercano al presente.",
+      "cardRef": { "category": "vocabulary", "front": "最近" }
+    },
+    {
+      "front": "以前",
+      "back": "antes, anteriormente",
+      "reading": "いぜん",
+      "explanation": "以前 (izen) — antes o en el pasado, con sentido de 'en una época anterior'. Ejemplo: 以前は東京に住んでいました (antes vivía en Tokio). Más formal que むかし. También significa 'previo a': 結婚以前 (antes del matrimonio).",
+      "cardRef": { "category": "vocabulary", "front": "以前" }
+    },
+    {
+      "front": "将来",
+      "back": "futuro, en el futuro",
+      "reading": "しょうらい",
+      "explanation": "将来 (shourai) — el futuro, especialmente el futuro personal. Ejemplo: 将来の夢 (sueños para el futuro), 将来は医者になりたい (en el futuro quiero ser médico). A diferencia de 未来, 将来 se enfoca en el futuro probable de una persona.",
+      "cardRef": { "category": "vocabulary", "front": "将来" }
+    },
+    {
+      "front": "突然",
+      "back": "de repente",
+      "reading": "とつぜん",
+      "explanation": "突然 (totsuzen) — de repente, súbitamente, sin aviso. Ejemplo: 突然雨が降った (de repente llovió), 突然電話が来た (de repente recibí una llamada). Más formal que 急に, aunque son intercambiables en muchos contextos.",
+      "cardRef": { "category": "vocabulary", "front": "突然" }
+    },
+    {
+      "front": "なかなか",
+      "back": "bastante; [+ neg] no fácilmente",
+      "reading": "なかなか",
+      "explanation": "なかなか (nakanaka) tiene dos usos clave: con positivos = 'bastante, realmente' (なかなかいい = bastante bueno); con negativos = 'no fácilmente' (なかなか来ない = no viene de ninguna manera / tarda en venir). El contexto es esencial.",
+      "cardRef": { "category": "vocabulary", "front": "なかなか" }
+    },
+    {
+      "front": "ほとんど",
+      "back": "casi todo, casi siempre",
+      "reading": "ほとんど",
+      "explanation": "ほとんど (hotondo) — casi todo o casi siempre. Ejemplo: ほとんど食べた (comí casi todo), ほとんど毎日 (casi todos los días). Con negación: ほとんどない (casi no hay), ほとんど来ない (casi nunca viene).",
+      "cardRef": { "category": "vocabulary", "front": "ほとんど" }
+    },
+    {
+      "front": "だいたい",
+      "back": "aproximadamente, generalmente",
+      "reading": "だいたい",
+      "explanation": "だいたい (daitai) — aproximadamente o en general. Ejemplo: だいたい三時間かかる (tarda aproximadamente 3 horas), だいたいわかった (entendí más o menos). Es más coloquial que 約 (yaku) para 'aproximadamente'.",
+      "cardRef": { "category": "vocabulary", "front": "だいたい" }
+    },
+    {
+      "front": "かならず",
+      "back": "con certeza, sin falta",
+      "reading": "かならず",
+      "explanation": "かならず (kanarazu) — con certeza, sin falta, sin excepción. Ejemplo: かならず来てください (vení sin falta), かならず成功する (va a tener éxito con certeza). Más fuerte que きっと. Kanji: 必ず.",
+      "cardRef": { "category": "vocabulary", "front": "かならず" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El tiempo en japonés",
+      "instruction": "Estos adverbios te permiten hablar sobre cuándo ocurren las cosas y con qué frecuencia. Algunos como なかなか cambian de sentido según si la oración es positiva o negativa. Leé los ejemplos con atención.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto. Para なかなか y ほとんど, fijate si la oración es positiva o negativa.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "En oraciones completas",
+      "instruction": "Elegí la oración que usa el adverbio correctamente en contexto.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "なかなか",
+            "translation": "no fácilmente (con negativo)",
+            "options": [
+              "この問題はなかなか難しくて、解けない。",
+              "この問題はなかなか簡単だ。",
+              "この問題はなかなか解けた。",
+              "この問題はなかなかよかった。"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "かならず",
+            "translation": "con certeza, sin falta",
+            "options": [
+              "かならず宿題をやってください。",
+              "かならず宿題やらなくていいです。",
+              "かならず宿題が出ました。",
+              "かならず宿題は難しいです。"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "だいたい",
+            "translation": "aproximadamente",
+            "options": [
+              "駅までだいたい十分かかります。",
+              "駅までだいたい十分かかりません。",
+              "駅がだいたい十分かかります。",
+              "駅にだいたい十分かかります。"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "listen-identify",
+      "title": "Escuchá el adverbio",
+      "instruction": "Escuchá la pronunciación e identificá el adverbio correcto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Ves el español. Escribí el adverbio en japonés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "¡El tiempo bajo control!",
+      "instruction": "Aprendiste: 最近 (últimamente), 以前 (antes), 将来 (futuro), 突然 (de repente), なかなか (bastante / no fácilmente), ほとんど (casi todo), だいたい (aproximadamente) y かならず (sin falta). Estos adverbios le dan precisión temporal a cualquier oración.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

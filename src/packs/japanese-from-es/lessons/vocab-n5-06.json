@@ -95,6 +95,12 @@
       "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8]
     },
     {
+      "type": "write",
+      "title": "Escribí en japonés",
+      "instruction": "Ves el significado en español. Escribí la palabra o expresión en japonés.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
       "type": "summary",
       "title": "¡Lección completa!",
       "instruction": "Aprendiste 今、今日、明日、昨日、朝、夜、天気、雨、晴れ. Ya podés hablar del tiempo y del clima. Estas palabras se suman a tu repaso diario.",

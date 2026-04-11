@@ -1,0 +1,164 @@
+{
+  "id": "grammar-n5-15",
+  "title": "Conectores de sustantivos: と y や",
+  "description": "Aprendé a unir sustantivos en japonés con と (lista completa) y や (lista parcial). Son los equivalentes del 'y' español, pero con una diferencia importante: と es exhaustivo, や implica que hay más cosas.",
+  "level": "n5",
+  "category": "grammar",
+  "prereqs": ["grammar-n5-03"],
+  "items": [
+    {
+      "front": "と (conector de sustantivos)",
+      "back": "y (lista exhaustiva/completa)",
+      "reading": "と",
+      "explanation": "と (to) une sustantivos de forma exhaustiva: la lista que das ES la lista completa. りんごとみかんを買いました = 'Compré manzanas Y naranjas' (solo esas dos cosas). と implica que no hay nada más fuera de lo mencionado. Solo conecta sustantivos, no oraciones ni verbos.",
+      "cardRef": { "category": "grammar", "front": "と (conector — lista exhaustiva)" }
+    },
+    {
+      "front": "や (conector de sustantivos)",
+      "back": "y, entre otros (lista parcial/ejemplificativa)",
+      "reading": "や",
+      "explanation": "や (ya) une sustantivos de forma parcial: la lista que das es solo una muestra, hay más cosas implícitas. りんごやみかんを買いました = 'Compré manzanas, naranjas y otras cosas'. や sugiere que la lista no está completa. Se usa seguido frecuentemente de など.",
+      "cardRef": { "category": "grammar", "front": "や (conector — lista parcial)" }
+    },
+    {
+      "front": "など",
+      "back": "etc. / entre otras cosas",
+      "reading": "など",
+      "explanation": "など (nado) significa 'etc.' o 'entre otras cosas'. Se combina con や para reforzar la idea de que la lista es parcial: りんごやみかんなどを買いました = 'Compré manzanas, naranjas, etc.' など puede usarse solo o después de un sustantivo para sugerir que hay más ejemplos similares.",
+      "cardRef": { "category": "grammar", "front": "など (etc.)" }
+    },
+    {
+      "front": "りんごとみかん",
+      "back": "manzanas y naranjas (solo esas)",
+      "reading": "りんごとみかん",
+      "explanation": "りんごとみかん (ringo to mikan) = 'manzanas y naranjas'. Al usar と, estás diciendo que ESA es la lista completa. Si alguien te pregunta qué compraste y respondés 'りんごとみかん', eso es todo lo que compraste.",
+      "cardRef": { "category": "grammar", "front": "りんごとみかん" }
+    },
+    {
+      "front": "りんごやみかん（など）",
+      "back": "manzanas, naranjas y otras cosas",
+      "reading": "りんごやみかん（など）",
+      "explanation": "りんごやみかん (ringo ya mikan) = 'manzanas, naranjas y otras cosas'. や implica que hay más frutas u otras cosas que no estás mencionando. Si agregás など queda más explícita la idea de 'etcétera'. Es más vago que と — no estás enumerando todo.",
+      "cardRef": { "category": "grammar", "front": "りんごやみかん（など）" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "と: la lista completa",
+      "instruction": "と es el 'y' que lo dice todo. Cuando usás と, estás dando una lista exhaustiva: lo que mencionás es exactamente todo. 'ペンと本があります' = 'Hay un lápiz y un libro' (solo esos dos). と no deja lugar a la duda — lo que listaste es todo.",
+      "itemIndices": [0, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "や y など: la lista incompleta",
+      "instruction": "や es el 'y' que abre la puerta: cuando lo usás, estás dando ejemplos, no la lista completa. 'ペンや本があります' = 'Hay lápices, libros y más cosas'. など refuerza esto y significa 'etc.' En japonés es importante distinguir si tu lista es total o parcial.",
+      "itemIndices": [1, 2, 4]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Lista completa o parcial?",
+      "instruction": "Identificá si la oración implica una lista completa (と) o parcial (や) y elegí el significado correcto.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "write",
+      "title": "Escribí con el conector correcto",
+      "instruction": "Ves los elementos y el tipo de lista. Escribí la frase usando と o や según corresponda.",
+      "itemIndices": [3, 4]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿Qué conector corresponde?",
+      "instruction": "Elegí la oración donde と o や se usa correctamente según el significado esperado.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "と (lista exhaustiva de hermanos)",
+            "translation": "Tengo un hermano y una hermana (solo esos dos)",
+            "options": [
+              "兄や姉がいます。",
+              "兄と姉がいます。",
+              "兄など姉がいます。",
+              "兄も姉がいます。"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "や (lista de ejemplo de cosas en la mochila)",
+            "translation": "En la mochila hay libros, lápices y otras cosas",
+            "options": [
+              "かばんに本と鉛筆があります。",
+              "かばんに本の鉛筆があります。",
+              "かばんに本や鉛筆などがあります。",
+              "かばんに本は鉛筆があります。"
+            ],
+            "correctIndex": 2
+          },
+          {
+            "targetWord": "と (lista exacta de idiomas que estudiás)",
+            "translation": "Estudio japonés y español (exactamente esos dos)",
+            "options": [
+              "日本語やスペイン語を勉強します。",
+              "日本語とスペイン語を勉強します。",
+              "日本語などスペイン語を勉強します。",
+              "日本語かスペイン語を勉強します。"
+            ],
+            "correctIndex": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Correcto o incorrecto?",
+      "instruction": "Algunas de estas oraciones usan と o や de forma incorrecta. Identificá el error y cómo corregirlo.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "私は猫や犬を二匹だけ飼っています。",
+            "isCorrect": false,
+            "correction": "私は猫と犬を二匹だけ飼っています。",
+            "explanation": "Si decís 'solo dos mascotas' (二匹だけ), la lista es completa. Hay que usar と (lista exhaustiva), no や (lista parcial).",
+            "errorType": "particle-usage"
+          },
+          {
+            "sentence": "冷蔵庫にりんごとみかんなど野菜があります。",
+            "isCorrect": false,
+            "correction": "冷蔵庫にりんごやみかんなど野菜があります。",
+            "explanation": "など implica que la lista no está completa. No se puede combinar と (exhaustivo) con など (etc.). Hay que usar や (parcial) + など.",
+            "errorType": "particle-usage"
+          },
+          {
+            "sentence": "テーブルの上にペンと本があります。",
+            "isCorrect": true,
+            "correction": "テーブルの上にペンと本があります。",
+            "explanation": "Correcto. と indica que sobre la mesa hay exactamente un lápiz y un libro, nada más.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "スーパーで肉と魚と野菜などを買いました。",
+            "isCorrect": false,
+            "correction": "スーパーで肉や魚や野菜などを買いました。",
+            "explanation": "No podés mezclar と con など en la misma lista. Si usás など, toda la lista debe ir con や para mantener el sentido de 'parcial'.",
+            "errorType": "particle-usage"
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "Expresá la lista correcta",
+      "instruction": "Ves la descripción en español. Recordá si la lista es completa (と) o parcial (や) y formá la frase en japonés.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste と y や: dos formas de decir 'y' entre sustantivos con significados distintos. と enumera todo (lista exhaustiva): 'りんごとみかん' = solo esas dos frutas. や da ejemplos (lista parcial): 'りんごやみかん(など)' = esas y más cosas. Acordate: antes de elegir, preguntate si tu lista es completa o solo una muestra.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    }
+  ]
+}

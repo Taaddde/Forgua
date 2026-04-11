@@ -88,6 +88,12 @@
       "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
     },
     {
+      "type": "write",
+      "title": "Escribí en japonés",
+      "instruction": "Ves el significado en español. Escribí la palabra o expresión en japonés.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
       "type": "summary",
       "title": "¡Lección completa!",
       "instruction": "Ahora conocés 水、ご飯、パン、魚、肉、野菜、果物、お茶. Ya podés hablar de comida básica en japonés. Estas palabras se suman a tu repaso diario.",

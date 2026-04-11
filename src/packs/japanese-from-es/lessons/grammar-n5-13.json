@@ -1,0 +1,134 @@
+{
+  "id": "grammar-n5-13",
+  "title": "Negación y formalidad: だ、ではない、じゃありません",
+  "description": "Aprendé a negar en japonés tanto en el registro informal como en el formal. だ es la cópula casual, mientras que ではない/じゃない y ではありません/じゃありません son sus negaciones.",
+  "level": "n5",
+  "category": "grammar",
+  "prereqs": ["grammar-n5-01"],
+  "items": [
+    {
+      "front": "だ",
+      "back": "es / soy (cópula informal)",
+      "reading": "da",
+      "explanation": "だ (da) es la versión informal de です. Se usa con amigos, familia o en contextos relajados. 私は学生だ = 'Soy estudiante' (informal). No se usa con personas de mayor estatus o en situaciones formales.",
+      "cardRef": { "category": "grammar", "front": "だ (cópula informal)" }
+    },
+    {
+      "front": "じゃない / ではない",
+      "back": "no es / no soy (negación informal)",
+      "reading": "じゃない / ではない",
+      "explanation": "じゃない (ja nai) y ではない (de wa nai) son las formas informales de negar. じゃない es más coloquial y común en el habla cotidiana. ではない es ligeramente más formal dentro del registro informal. Ambas significan 'no es' o 'no soy'.",
+      "cardRef": { "category": "grammar", "front": "じゃない / ではない (negación informal)" }
+    },
+    {
+      "front": "じゃありません / ではありません",
+      "back": "no es / no soy (negación formal)",
+      "reading": "じゃありません / ではありません",
+      "explanation": "じゃありません (ja arimasen) y ではありません (de wa arimasen) son las formas formales de negar. ではありません es más formal y se usa en situaciones oficiales o al escribir. じゃありません es formal pero más natural en el habla cotidiana educada.",
+      "cardRef": { "category": "grammar", "front": "じゃありません / ではありません (negación formal)" }
+    },
+    {
+      "front": "学生じゃない",
+      "back": "no soy estudiante (informal)",
+      "reading": "がくせいじゃない",
+      "explanation": "学生じゃない (gakusei ja nai) = 'no soy/es estudiante' en registro informal. Estructura: [sustantivo] + じゃない. Se usa entre amigos o con personas de confianza. También podés decir 学生ではない con el mismo significado pero un tono algo más formal.",
+      "cardRef": { "category": "grammar", "front": "学生じゃない" }
+    },
+    {
+      "front": "日本語じゃありません",
+      "back": "no es japonés (formal)",
+      "reading": "にほんごじゃありません",
+      "explanation": "日本語じゃありません (nihongo ja arimasen) = 'no es japonés' en registro formal. Estructura: [sustantivo] + じゃありません. Es la forma apropiada para usar con personas de mayor estatus, en el trabajo o en situaciones educadas.",
+      "cardRef": { "category": "grammar", "front": "日本語じゃありません" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "だ y la negación informal",
+      "instruction": "En japonés, el nivel de formalidad es fundamental. だ es la cópula informal ('es/soy' en contexto casual). Para negar de manera informal usás じゃない o ではない. La diferencia: じゃない es más coloquial, ではない es levemente más formal pero sigue siendo informal. Ejemplo: 学生だ (soy estudiante, informal) → 学生じゃない (no soy estudiante, informal).",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Negación formal: じゃありません y ではありません",
+      "instruction": "En situaciones formales usás じゃありません o ではありません. Recordá la escala de formalidad: だ (informal) → です (formal) → じゃない (negación informal) → じゃありません/ではありません (negación formal). Mirá los ejemplos completos: 学生じゃない (casual) vs 学生じゃありません (formal).",
+      "itemIndices": [2, 3, 4]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Formal o informal?",
+      "instruction": "Identificá si cada expresión es formal o informal y cuál es su significado.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "write",
+      "title": "Escribí la negación correcta",
+      "instruction": "Ves la forma afirmativa. Escribí su negación (en el registro indicado).",
+      "itemIndices": [3, 4]
+    },
+    {
+      "type": "sentence-build",
+      "title": "De formal a informal",
+      "instruction": "Ordená las piezas para formar oraciones negativas. Prestá atención al registro (formal vs informal).",
+      "itemIndices": [3, 4],
+      "config": {
+        "sentences": [
+          {
+            "fragments": ["私", "は", "学生", "じゃない"],
+            "correctOrder": [0, 1, 2, 3],
+            "translation": "No soy estudiante (informal)"
+          },
+          {
+            "fragments": ["これ", "は", "日本語", "じゃありません"],
+            "correctOrder": [0, 1, 2, 3],
+            "translation": "Esto no es japonés (formal)"
+          },
+          {
+            "fragments": ["田中さん", "は", "先生", "ではありません"],
+            "correctOrder": [0, 1, 2, 3],
+            "translation": "El señor Tanaka no es profesor (formal)"
+          }
+        ]
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "¿Qué forma corresponde?",
+      "instruction": "Completá los espacios en blanco eligiendo entre las formas informal y formal según el contexto de cada oración.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "友だちとの会話: 「あの人は田中さん{0}よ」",
+            "blanks": [{ "answer": "じゃない", "options": ["じゃない", "じゃありません", "ではありません", "ではない"] }]
+          },
+          {
+            "template": "会社の会議で: 「この書類は正式なもの{0}」",
+            "blanks": [{ "answer": "ではありません", "options": ["じゃない", "ではない", "ではありません", "だ"] }]
+          },
+          {
+            "template": "先生への返事: 「私の答え{0}、すみません」",
+            "blanks": [{ "answer": "じゃありません", "options": ["じゃない", "じゃありません", "だ", "です"] }]
+          },
+          {
+            "template": "家族との会話: 「これはお母さんのかばん{0}よ」",
+            "blanks": [{ "answer": "じゃない", "options": ["じゃない", "じゃありません", "ではありません", "です"] }]
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "Recordá la forma correcta",
+      "instruction": "Ves la descripción en español. Recordá cómo expresarlo en japonés en el registro correcto.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste el sistema de formalidad en la negación: だ (informal: es/soy) / じゃない・ではない (negación informal) / じゃありません・ではありません (negación formal). Recordá: siempre elegí el registro según con quién hablás. Con amigos: じゃない. Con profesores, jefes o desconocidos: じゃありません o ではありません.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    }
+  ]
+}

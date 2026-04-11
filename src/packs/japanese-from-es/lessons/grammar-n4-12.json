@@ -1,0 +1,156 @@
+{
+  "id": "grammar-n4-12",
+  "title": "Acciones con dirección y resultado: 〜ていく / 〜てくる / 〜てしまう / 〜ておく",
+  "description": "Aprendé cuatro combinaciones de te-form con verbos auxiliares que agregan matices de dirección, finalización, lamento y preparación.",
+  "level": "n4",
+  "category": "grammar",
+  "prerequisites": ["grammar-n4-01"],
+  "items": [
+    {
+      "front": "〜ていく",
+      "back": "ir haciendo X / seguir haciendo X (alejándose o hacia el futuro)",
+      "reading": "te iku",
+      "explanation": "〜ていく (te iku) tiene dos sentidos principales: 1) DIRECCIÓN de alejamiento: 持っていく (llevar — llevás algo y te alejás). 2) CONTINUACIÓN hacia el futuro: 日本語の勉強を続けていく (voy a seguir estudiando japonés — hacia el futuro). En ambos casos, hay movimiento o progresión 'hacia afuera' desde el punto actual.",
+      "cardRef": { "category": "grammar", "front": "〜ていく" }
+    },
+    {
+      "front": "〜てくる",
+      "back": "venir haciendo X / empezar a X (acercándose o desde el pasado)",
+      "reading": "te kuru",
+      "explanation": "〜てくる (te kuru) también tiene dos sentidos: 1) DIRECCIÓN de acercamiento: 持ってくる (traer — agarrás algo y venís). 2) INICIO o cambio desde el pasado: 寒くなってきた (empezó a hacer frío / fue haciendo frío). En ambos casos, hay movimiento o progresión 'hacia acá' — desde el pasado o desde afuera.",
+      "cardRef": { "category": "grammar", "front": "〜てくる" }
+    },
+    {
+      "front": "〜てしまう",
+      "back": "terminar de hacer X / lamentablemente sucedió X",
+      "reading": "te shimau",
+      "explanation": "〜てしまう (te shimau) expresa COMPLETITUD de una acción, a veces con matiz de lamento o accidente. 食べてしまった: me lo comí todo (puede ser contento o arrepentido según el contexto). 財布を忘れてしまった (olvidé la billetera — ¡qué gaffe!). En conversación se contrae a 〜ちゃう/〜じゃう: 食べちゃった, 死んじゃった.",
+      "cardRef": { "category": "grammar", "front": "〜てしまう" }
+    },
+    {
+      "front": "〜ておく",
+      "back": "hacer X de antemano / dejar hecho X (preparación)",
+      "reading": "te oku",
+      "explanation": "〜ておく (te oku) expresa hacer algo DE ANTEMANO o dejarlo listo para más adelante. 予約しておく (reservar de antemano). 読んでおく (leer antes — para estar preparado). Implica preparación intencional. En conversación: 〜とく (予約しとく, 読んどく). Contrasta con 〜てしまう (que ya pasó) — ておく es planificado.",
+      "cardRef": { "category": "grammar", "front": "〜ておく" }
+    },
+    {
+      "front": "持っていく",
+      "back": "llevar (te llevás algo a otro lugar)",
+      "reading": "もっていく",
+      "explanation": "持っていく (motte iku): 持って (te-form de 持つ) + いく. Llevás algo desde donde estás hacia otro lugar. Ejemplo: 傘を持っていったほうがいい (es mejor que lleves paraguas). Compará con 持ってくる (traer — agarrás algo y lo traés hacia donde estás ahora).",
+      "cardRef": { "category": "grammar", "front": "持っていく" }
+    },
+    {
+      "front": "持ってくる",
+      "back": "traer (agarrás algo y lo traés hacia acá)",
+      "reading": "もってくる",
+      "explanation": "持ってくる (motte kuru): 持って (te-form de 持つ) + くる. Agarrás algo en otro lugar y lo traés hacia donde estás o hacia donde va el receptor. Ejemplo: ペンを持ってきて (traé un bolígrafo). La dirección lo es todo: いく = alejarse, くる = acercarse.",
+      "cardRef": { "category": "grammar", "front": "持ってくる" }
+    },
+    {
+      "front": "食べてしまった",
+      "back": "me lo comí todo / lo comí (sin querer / con arrepentimiento)",
+      "reading": "たべてしまった",
+      "explanation": "食べてしまった (tabete shimatta): 食べて + しまった (pasado de しまう). El matiz de lamento depende del contexto: si eras a dieta y comiste de más, es arrepentimiento. Si terminaste un plato riquísimo, puede ser satisfacción ('¡me lo acabé!'). La contracción coloquial: 食べちゃった.",
+      "cardRef": { "category": "grammar", "front": "食べてしまった" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "ていく y てくる: dirección y progresión",
+      "instruction": "ていく y てくる agregan dirección a las acciones. Con movimiento físico: 持っていく (llevar — te alejás), 持ってくる (traer — te acercás). Con cambios: 暑くなっていく (irá haciendo calor — hacia el futuro), 暑くなってきた (fue haciendo calor — desde el pasado). La dirección de いく y くる se traslada al tiempo y al espacio.",
+      "itemIndices": [0, 1, 4, 5]
+    },
+    {
+      "type": "introduce",
+      "title": "てしまう y ておく: completitud y preparación",
+      "instruction": "てしまう indica que la acción se COMPLETÓ, a veces con lamento. En conversación: 〜ちゃう/〜じゃう. ておく indica que hacés algo DE ANTEMANO para estar preparado. En conversación: 〜とく. Ejemplo típico: 旅行の前に計画を立てておく (hago el plan antes del viaje — ておく), pero 財布を忘れてしまった (olvidé la billetera — てしまう).",
+      "itemIndices": [2, 3, 6]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué matiz agrega?",
+      "instruction": "Elegí el significado correcto de cada expresión con te-form auxiliar.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "write",
+      "title": "Escribí la forma correcta",
+      "instruction": "Ves la oración en español. Escribí en japonés con el auxiliar correcto (ていく, てくる, てしまう, ておく).",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá oraciones con te-form + auxiliar",
+      "instruction": "Arrastrá las piezas para formar oraciones correctas.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6],
+      "config": {
+        "sentences": [
+          {
+            "fragments": ["傘", "を", "持って", "いった", "ほうがいい"],
+            "correctOrder": [0, 1, 2, 3, 4],
+            "translation": "Es mejor que lleves paraguas"
+          },
+          {
+            "fragments": ["財布", "を", "忘れて", "しまった"],
+            "correctOrder": [0, 1, 2, 3],
+            "translation": "Olvidé la billetera (qué gaffe)"
+          },
+          {
+            "fragments": ["旅行の前に", "ホテルを", "予約して", "おく"],
+            "correctOrder": [0, 1, 2, 3],
+            "translation": "Reservo el hotel de antemano antes del viaje"
+          }
+        ]
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con el auxiliar correcto",
+      "instruction": "Elegí el auxiliar que completa correctamente cada oración según el contexto.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "明日の会議に資料を持って{0}ください。",
+            "blanks": [
+              { "answer": "きて", "options": ["きて", "いって", "しまって", "おいて"] }
+            ]
+          },
+          {
+            "template": "日本語がだんだん上手になって{0}。（時間と共に進歩している）",
+            "blanks": [
+              { "answer": "きた", "options": ["きた", "いった", "しまった", "おいた"] }
+            ]
+          },
+          {
+            "template": "試験の前に全部読んで{0}。",
+            "blanks": [
+              { "answer": "おいた", "options": ["おいた", "しまった", "きた", "いった"] }
+            ]
+          },
+          {
+            "template": "全部食べて{0}！（もう残っていない）",
+            "blanks": [
+              { "answer": "しまった", "options": ["しまった", "おいた", "きた", "いった"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "Producí la expresión correcta",
+      "instruction": "Ves la situación en español. Escribí en japonés con el auxiliar adecuado.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "summary",
+      "title": "¡Cuatro auxiliares de te-form dominados!",
+      "instruction": "Aprendiste cuatro auxiliares clave: 〜ていく (alejamiento/hacia el futuro), 〜てくる (acercamiento/desde el pasado), 〜てしまう (completitud/lamento — coloquial: 〜ちゃう), 〜ておく (preparación/dejar hecho — coloquial: 〜とく). Con 持つ: 持っていく (llevar) vs 持ってくる (traer). Esta distinción de dirección es fundamental y aparece en casi toda conversación en japonés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    }
+  ]
+}

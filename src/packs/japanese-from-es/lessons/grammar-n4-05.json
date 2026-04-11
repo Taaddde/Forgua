@@ -1,0 +1,172 @@
+{
+  "id": "grammar-n4-05",
+  "title": "Condicionales: なら y 〜と",
+  "description": "Aprendé dos condicionales con matices distintos al たら y ば que ya conocés. なら expresa condición basada en información previa, y と indica resultados naturales o automáticos.",
+  "level": "n4",
+  "category": "grammar",
+  "prerequisites": ["grammar-n4-02"],
+  "items": [
+    {
+      "front": "〜なら",
+      "back": "si (dado que / suponiendo que) — basado en info previa",
+      "reading": "nara",
+      "explanation": "なら (nara) se usa cuando reaccionás a algo que acabás de escuchar o suponer. No es una condición en el vacío — está anclada en información que ya tenés. Ejemplo: 日本語が話せるなら、ガイドになれる (si podés hablar japonés [como decís], podés ser guía). Fijate que presuponés que la condición es real.",
+      "cardRef": { "category": "grammar", "front": "〜なら" }
+    },
+    {
+      "front": "〜と",
+      "back": "cuando... / si... (resultado natural o automático)",
+      "reading": "to",
+      "explanation": "〜と (to) expresa que cuando ocurre X, siempre ocurre Y — como una ley natural o mecánica. Se forma con el plain form del verbo + と. Ejemplo: 春になると、桜が咲く (cuando llega la primavera, los cerezos florecen). No se puede usar para acciones voluntarias del hablante en la cláusula principal.",
+      "cardRef": { "category": "grammar", "front": "〜と" }
+    },
+    {
+      "front": "日本語が話せるなら、ガイドになれる",
+      "back": "Si podés hablar japonés, podés ser guía",
+      "reading": "にほんごがはなせるなら、ガイドになれる",
+      "explanation": "Este ejemplo muestra なら reaccionando a información previa: la persona ya dijo o demostró que habla japonés. なら toma eso como punto de partida y extrae una consecuencia. La conclusión (ガイドになれる) es lo nuevo que aportás.",
+      "cardRef": { "category": "grammar", "front": "日本語が話せるなら、ガイドになれる" }
+    },
+    {
+      "front": "春になると、桜が咲く",
+      "back": "Cuando llega la primavera, los cerezos florecen",
+      "reading": "はるになると、さくらがさく",
+      "explanation": "Este es el uso clásico de 〜と para resultados naturales. La llegada de la primavera siempre produce la floración — es automático, no depende de una decisión. と funciona como una flecha causal infalible entre dos eventos.",
+      "cardRef": { "category": "grammar", "front": "春になると、桜が咲く" }
+    },
+    {
+      "front": "なら vs たら/ば",
+      "back": "なら: basado en info previa / たら: secuencial / ば: hipotético",
+      "reading": "nara vs tara/ba",
+      "explanation": "La diferencia clave: なら presupone que la condición ya se cumple o se dijo antes. たら es para secuencias ('cuando X ocurra, hacé Y'). ば es más hipotético ('si X ocurriera, Y'). Con なら podés tener la consecuencia antes de la condición cronológicamente.",
+      "cardRef": { "category": "grammar", "front": "なら vs たら/ば" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "なら: condicional basado en info previa",
+      "instruction": "なら no crea una condición en el vacío — reacciona a algo ya dicho o supuesto. Si alguien dice '日本語が話せる' (sé hablar japonés), vos respondés 'なら、ガイドになれる' (entonces podés ser guía). La condición ya existe; vos sacás una conclusión de ella.",
+      "itemIndices": [0, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "〜と: resultado natural e inevitable",
+      "instruction": "〜と conecta dos eventos donde el segundo es consecuencia automática del primero: leyes de la naturaleza, instrucciones de máquinas, rutinas fijas. Ejemplo: このボタンを押すと、ドアが開く (si apretás este botón, la puerta se abre). NO se usa para pedir favores o expresar voluntad propia en la cláusula principal.",
+      "itemIndices": [1, 3]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué condicional es?",
+      "instruction": "Elegí el significado correcto de cada forma condicional. Prestá atención a si hay presupuesto previo o si es un resultado automático.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "write",
+      "title": "Escribí el condicional correcto",
+      "instruction": "Ves la oración en español. Completá con なら o 〜と según corresponda.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá oraciones condicionales",
+      "instruction": "Arrastrá las piezas para formar oraciones con なら y 〜と.",
+      "itemIndices": [2, 3],
+      "config": {
+        "sentences": [
+          {
+            "fragments": ["行く", "なら", "電車", "で", "行って"],
+            "correctOrder": [0, 1, 2, 3, 4],
+            "translation": "Si vas (como dicen que vas), andá en tren"
+          },
+          {
+            "fragments": ["春", "に", "なると", "桜", "が", "咲く"],
+            "correctOrder": [0, 1, 2, 3, 4, 5],
+            "translation": "Cuando llega la primavera, los cerezos florecen"
+          },
+          {
+            "fragments": ["日本語", "が", "話せる", "なら", "ガイド", "に", "なれる"],
+            "correctOrder": [0, 1, 2, 3, 4, 5, 6],
+            "translation": "Si podés hablar japonés, podés ser guía"
+          }
+        ]
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con el condicional correcto",
+      "instruction": "Elegí la partícula o forma verbal que completa correctamente cada oración.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "このボタン{0}押す{1}、ドアが開く。",
+            "blanks": [
+              { "answer": "を", "options": ["を", "が", "は", "に"] },
+              { "answer": "と", "options": ["と", "なら", "たら", "ば"] }
+            ]
+          },
+          {
+            "template": "日本に行く{0}、富士山を見たい。",
+            "blanks": [
+              { "answer": "なら", "options": ["なら", "と", "たら", "ば"] }
+            ]
+          },
+          {
+            "template": "右{0}曲がる{1}、駅が見える。",
+            "blanks": [
+              { "answer": "に", "options": ["に", "を", "が", "は"] },
+              { "answer": "と", "options": ["と", "なら", "たら", "ば"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Correcto o incorrecto?",
+      "instruction": "Analizá cada oración. Decí si es correcta o no, y por qué.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "春になると、花見をしましょう。",
+            "isCorrect": false,
+            "explanation": "Incorrecto. 〜と no puede usarse con propuestas o voluntad del hablante (しましょう) en la cláusula principal. Usá たら: 春になったら、花見をしましょう.",
+            "errorType": "conditional-usage"
+          },
+          {
+            "sentence": "東京に行くなら、新幹線が便利ですよ。",
+            "isCorrect": true,
+            "explanation": "Correcto. なら reacciona a la información previa de que vas a Tokio y agrega un consejo. Es uso típico y natural de なら.",
+            "errorType": "conditional-usage"
+          },
+          {
+            "sentence": "このスイッチを押すと、電気がつく。",
+            "isCorrect": true,
+            "explanation": "Correcto. と conecta una acción mecánica (presionar el interruptor) con su resultado automático (la luz se enciende). Uso perfecto de 〜と.",
+            "errorType": "conditional-usage"
+          },
+          {
+            "sentence": "安いなら買いましょうか。",
+            "isCorrect": true,
+            "explanation": "Correcto. なら asume que el precio ya se mencionó o es conocido. La propuesta (買いましょうか) en la cláusula principal es válida con なら.",
+            "errorType": "conditional-usage"
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "Producí la forma condicional",
+      "instruction": "Ves la situación en español. Escribí la oración en japonés usando なら o 〜と.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "¡Dos condicionales más dominados!",
+      "instruction": "Aprendiste なら (condición basada en info previa — reaccionás a algo ya dicho) y 〜と (resultado natural o automático — como una ley). Ahora conocés cuatro condicionales: たら (el más versátil), ば (hipotético), なら (reactivo) y と (automático). La clave es el contexto y el matiz que querés transmitir.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "id": "grammar-n4-14",
+  "title": "Comparación y grado: 〜より〜ほう / 〜すぎる / 〜にくい・やすい",
+  "description": "Aprendé a comparar cosas, expresar exceso y describir la facilidad o dificultad de una acción. Tres estructuras para matizar con precisión.",
+  "level": "n4",
+  "category": "grammar",
+  "prerequisites": ["grammar-n4-05"],
+  "items": [
+    {
+      "front": "〜より〜ほうが",
+      "back": "... es más ... que ... / prefiero ... a ...",
+      "reading": "yori ~ hou ga",
+      "explanation": "〜より〜ほうが (yori ~ hō ga) es la estructura de comparación. Ejemplo: 電車より車のほうが便利です (el coche es más conveniente que el tren). La cosa que 'gana' va con ほう, la que 'pierde' va con より. Para preferencias: バスよりも電車のほうが好きです (prefiero el tren al colectivo). ほう se puede usar solo para sugerir: こちらのほうがいいですよ (este es mejor).",
+      "cardRef": { "category": "grammar", "front": "〜より〜ほうが" }
+    },
+    {
+      "front": "〜すぎる",
+      "back": "demasiado... / exceso de...",
+      "reading": "sugiru",
+      "explanation": "〜すぎる (sugiru) expresa exceso. Se adjunta al stem del verbo o adjetivo: 食べすぎる (comer demasiado), 高すぎる (demasiado caro), 静かすぎる (demasiado silencioso). Para adjetivos-na: 真面目すぎる (demasiado serio). En pasado: 食べすぎた (comí demasiado). El sustantivo derivado: 食べすぎ (exceso en la comida). Muy frecuente en conversación.",
+      "cardRef": { "category": "grammar", "front": "〜すぎる" }
+    },
+    {
+      "front": "〜にくい",
+      "back": "difícil de hacer... / costoso de...",
+      "reading": "nikui",
+      "explanation": "〜にくい (nikui) significa que una acción es difícil, incómoda o costosa de realizar. Se forma: V-stem + にくい. この漢字は書きにくいです (este kanji es difícil de escribir). 読みにくい字 (letra difícil de leer). Nota: describe dificultad inherente a la tarea o al objeto, no a la habilidad personal del hablante.",
+      "cardRef": { "category": "grammar", "front": "〜にくい" }
+    },
+    {
+      "front": "〜やすい",
+      "back": "fácil de hacer... / propenso a...",
+      "reading": "yasui",
+      "explanation": "〜やすい (yasui) significa que una acción es fácil de realizar o que algo es propenso a ocurrir. Se forma: V-stem + やすい. 使いやすいアプリ (una app fácil de usar). 風邪をひきやすい (propenso a resfriarse). 分かりやすい (fácil de entender). Tiene ambos matices: facilidad y propensión/tendencia.",
+      "cardRef": { "category": "grammar", "front": "〜やすい" }
+    },
+    {
+      "front": "電車より車のほうが便利です",
+      "back": "El coche es más conveniente que el tren",
+      "reading": "でんしゃよりくるまのほうがべんりです",
+      "explanation": "電車より (que el tren) + 車のほうが (el coche es) + 便利です (conveniente). La estructura completa: A より B のほうが [adjetivo/verbo]. Podés omitir の en conversación casual: 電車より車のほうが便利. ほうが es lo que señala el 'ganador' de la comparación.",
+      "cardRef": { "category": "grammar", "front": "電車より車のほうが便利です" }
+    },
+    {
+      "front": "食べすぎた",
+      "back": "Comí demasiado",
+      "reading": "たべすぎた",
+      "explanation": "食べすぎた (tabesugita): 食べ (stem de 食べる) + すぎた (pasado de すぎる). Expresa que el exceso ya ocurrió. Es una expresión muy común después de una comida abundante. Para el futuro/advertencia: 食べすぎないようにして (intentá no comer de más). 食べすぎ (sin conjugar) es el sustantivo: 食べすぎはよくない (comer de más no es bueno).",
+      "cardRef": { "category": "grammar", "front": "食べすぎた" }
+    },
+    {
+      "front": "この漢字は書きにくいです",
+      "back": "Este kanji es difícil de escribir",
+      "reading": "このかんじはかきにくいです",
+      "explanation": "書きにくいです: 書き (stem de 書く) + にくい + です. Describe que el kanji en sí es complicado de escribir — es inherente al kanji, no a tu habilidad. Comparado con 書けない (no puedo escribirlo — problema de habilidad personal), にくい es más objetivo y menos personal.",
+      "cardRef": { "category": "grammar", "front": "この漢字は書きにくいです" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Comparación con より〜ほうが",
+      "instruction": "Para comparar dos cosas: [lo inferior] より [lo superior] のほうが [característica]. El 'ganador' siempre va con ほう. Ejemplo: バスより電車のほうが速い (el tren es más rápido que el colectivo). Para preguntar qué prefieren: どちらのほうが好きですか (¿cuál preferís?). Para responder solo con ほう: こっちのほうがいい (este es mejor).",
+      "itemIndices": [0, 4]
+    },
+    {
+      "type": "introduce",
+      "title": "すぎる, にくい y やすい: grado y facilidad",
+      "instruction": "すぎる: V-stem/Adj-stem + すぎる = exceso (食べすぎる, 高すぎる). にくい: V-stem + にくい = difícil de hacer (書きにくい, 読みにくい). やすい: V-stem + やすい = fácil de hacer / propenso a (使いやすい, 壊れやすい). Los tres se conjugan como adjetivos-i: にくかった, やすくない, すぎます.",
+      "itemIndices": [1, 2, 3, 5, 6]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué expresa cada estructura?",
+      "instruction": "Elegí el significado correcto. Prestá atención a si es comparación, exceso o facilidad/dificultad.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "write",
+      "title": "Escribí con la estructura correcta",
+      "instruction": "Ves la oración en español. Escribí en japonés con より〜ほう, すぎる, にくい o やすい.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá oraciones de comparación y grado",
+      "instruction": "Arrastrá las piezas para formar oraciones correctas.",
+      "itemIndices": [0, 1, 2, 4, 5, 6],
+      "config": {
+        "sentences": [
+          {
+            "fragments": ["電車", "より", "車", "の", "ほうが", "便利です"],
+            "correctOrder": [0, 1, 2, 3, 4, 5],
+            "translation": "El coche es más conveniente que el tren"
+          },
+          {
+            "fragments": ["昨日", "食べ", "すぎた"],
+            "correctOrder": [0, 1, 2],
+            "translation": "Ayer comí demasiado"
+          },
+          {
+            "fragments": ["この", "漢字", "は", "書き", "にくい", "です"],
+            "correctOrder": [0, 1, 2, 3, 4, 5],
+            "translation": "Este kanji es difícil de escribir"
+          }
+        ]
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con la estructura correcta",
+      "instruction": "Elegí la forma correcta para completar cada comparación o descripción de grado.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "コーヒーより紅茶の{0}好きです。",
+            "blanks": [
+              { "answer": "ほうが", "options": ["ほうが", "ほど", "より", "ため"] }
+            ]
+          },
+          {
+            "template": "この説明は{0}。（理解するのが難しい）",
+            "blanks": [
+              { "answer": "わかりにくいです", "options": ["わかりにくいです", "わかりやすいです", "わかりすぎます", "わかりません"] }
+            ]
+          },
+          {
+            "template": "仕事が{0}て、全然眠れなかった。",
+            "blanks": [
+              { "answer": "忙しす", "options": ["忙しす", "忙しすぎ", "忙しくすぎ", "忙し"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Correcto o incorrecto?",
+      "instruction": "Analizá cada oración. ¿Se usan correctamente las estructuras de comparación y grado?",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "バスより電車ほうが便利です。",
+            "isCorrect": false,
+            "explanation": "Falta の antes de ほうが. La estructura correcta es: バスより電車のほうが便利です. の es necesario cuando ほうが sigue a un sustantivo o plain form.",
+            "errorType": "comparison-structure"
+          },
+          {
+            "sentence": "このスマホはとても使いやすいです。",
+            "isCorrect": true,
+            "explanation": "Correcto. 使いやすい (stem de 使う + やすい) expresa que el smartphone es fácil de usar. とても lo intensifica.",
+            "errorType": "yasui-usage"
+          },
+          {
+            "sentence": "昨日、飲みすぎました。",
+            "isCorrect": true,
+            "explanation": "Correcto. 飲みすぎました (stem de 飲む + すぎました) expresa que tomaste de más. Uso correcto y muy natural.",
+            "errorType": "sugiru-usage"
+          },
+          {
+            "sentence": "この本は読みにくかったです。",
+            "isCorrect": true,
+            "explanation": "Correcto. にくい se conjuga como adjetivo-i: にくい→にくかった (pasado). 読みにくかった = fue difícil de leer. Perfecto.",
+            "errorType": "nikui-conjugation"
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "Expresá comparación y grado",
+      "instruction": "Ves la situación en español. Escribí en japonés con la estructura apropiada.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    },
+    {
+      "type": "summary",
+      "title": "¡Comparación y grado dominados!",
+      "instruction": "Aprendiste tres estructuras de N4: 〜より〜ほうが (comparación — A より B のほうが), 〜すぎる (exceso — V/Adj-stem + すぎる), 〜にくい (difícil de — V-stem + にくい) y 〜やすい (fácil de / propenso a — V-stem + やすい). Recordá: にくい y やすい son adjetivos-i y se conjugan como 高い. すぎる se aplica a verbos Y adjetivos.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6]
+    }
+  ]
+}

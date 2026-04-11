@@ -1,0 +1,141 @@
+{
+  "id": "vocab-n4-08",
+  "title": "Adjetivos N4: personalidad y sentimientos",
+  "description": "Adjetivos que describen personalidades, actitudes y estados emocionales. Muchos de estos son difíciles de traducir porque capturan matices culturales únicos del japonés.",
+  "level": "n4",
+  "category": "vocabulary",
+  "prereq": ["vocab-n4-05"],
+  "items": [
+    {
+      "front": "丁寧な",
+      "back": "cortés, cuidadoso",
+      "reading": "ていねいな",
+      "explanation": "丁寧な (teinei na) — cortés, cuidadoso o esmerado. Ejemplo: 丁寧な言葉 (lenguaje cortés), 丁寧に書く (escribir con cuidado). Describe tanto modales como la calidad en la ejecución de algo.",
+      "cardRef": { "category": "vocabulary", "front": "丁寧な" }
+    },
+    {
+      "front": "正直な",
+      "back": "honesto",
+      "reading": "しょうじきな",
+      "explanation": "正直な (shoujiki na) — honesto, sincero. Ejemplo: 正直に言う (decir honestamente), 正直な人 (una persona honesta). El sustantivo 正直 se usa en la expresión 正直に言うと (para ser honesto...).",
+      "cardRef": { "category": "vocabulary", "front": "正直な" }
+    },
+    {
+      "front": "親切な",
+      "back": "amable, bondadoso",
+      "reading": "しんせつな",
+      "explanation": "親切な (shinsetsu na) — amable o bondadoso con otros. Ejemplo: 親切な人 (una persona amable), 親切にする (ser amable). Es la amabilidad en acción: hacer algo por otros. Se puede usar como sustantivo: ご親切にありがとうございます.",
+      "cardRef": { "category": "vocabulary", "front": "親切な" }
+    },
+    {
+      "front": "複雑な",
+      "back": "complicado",
+      "reading": "ふくざつな",
+      "explanation": "複雑な (fukuzatsu na) — complicado, complejo. Ejemplo: 複雑な気持ち (sentimientos complicados), 複雑な問題 (un problema complejo). 複雑な気持ち es una expresión muy usada cuando tenés emociones encontradas.",
+      "cardRef": { "category": "vocabulary", "front": "複雑な" }
+    },
+    {
+      "front": "面倒な",
+      "back": "molesto, complicado (requiere esfuerzo)",
+      "reading": "めんどうな",
+      "explanation": "面倒な (mendou na) — algo que es una molestia porque requiere demasiado esfuerzo. Ejemplo: 面倒な仕事 (trabajo pesado/latoso), 面倒くさい (qué fastidio). 面倒くさい es la versión coloquial muy común. 面倒をみる = cuidar a alguien.",
+      "cardRef": { "category": "vocabulary", "front": "面倒な" }
+    },
+    {
+      "front": "珍しい",
+      "back": "raro, inusual",
+      "reading": "めずらしい",
+      "explanation": "珍しい (mezurashii) — raro o inusual, pero no necesariamente con connotación negativa. Ejemplo: 珍しい花 (una flor poco común), 珍しいね！(¡Qué raro / Qué inusual!). Es diferente de 変な (extraño con connotación negativa).",
+      "cardRef": { "category": "vocabulary", "front": "珍しい" }
+    },
+    {
+      "front": "悔しい",
+      "back": "frustrante, da rabia (por algo injusto)",
+      "reading": "くやしい",
+      "explanation": "悔しい (kuyashii) — la sensación de rabia y frustración cuando algo sale mal o te parece injusto. Ejemplo: 試合に負けて悔しい (perder el partido da rabia). Es un sentimiento muy específico: es más que frustración, hay un componente de 'no debería haber pasado'.",
+      "cardRef": { "category": "vocabulary", "front": "悔しい" }
+    },
+    {
+      "front": "羨ましい",
+      "back": "envidioso (qué suerte tenés)",
+      "reading": "うらやましい",
+      "explanation": "羨ましい (urayamashii) — envidia positiva, como '¡qué suerte tenés!' Ejemplo: 海外旅行に行けていいな、羨ましい！(¡Qué bueno que podés viajar al exterior, te envidio!). Es envidia sin resentimiento, más cercana a '¡qué afortunado!'.",
+      "cardRef": { "category": "vocabulary", "front": "羨ましい" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Adjetivos con matiz",
+      "instruction": "Estos adjetivos son especialmente ricos porque capturan matices emocionales y culturales del japonés. Prestá atención a 悔しい y 羨ましい — no tienen traducción exacta al español. Son adjetivos en -い y adjetivos en -な. Fijate en las terminaciones.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto. Prestá atención a los matices — algunas palabras parecen similares pero describen situaciones distintas.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "En contexto emocional",
+      "instruction": "Elegí la oración que usa el adjetivo de manera natural.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "悔しい",
+            "translation": "frustrante, da rabia",
+            "options": [
+              "テストで100点を取った友だちが羨ましい。",
+              "テストに落ちて悔しい。",
+              "テストが複雑だった。",
+              "テストは面倒だった。"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "丁寧な",
+            "translation": "cortés, cuidadoso",
+            "options": [
+              "あの店員さんは丁寧な対応をしてくれた。",
+              "あの店員さんは珍しい対応をしてくれた。",
+              "あの店員さんは正直な対応をしてくれた。",
+              "あの店員さんは面倒な対応をしてくれた。"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "羨ましい",
+            "translation": "envidioso (qué suerte tenés)",
+            "options": [
+              "彼は仕事が忙しくて悔しそうだ。",
+              "彼は毎日旅行できていいな、羨ましい！",
+              "彼は面倒な人だ。",
+              "彼は親切だから複雑だ。"
+            ],
+            "correctIndex": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "listen-identify",
+      "title": "Escuchá el adjetivo",
+      "instruction": "Escuchá la pronunciación e identificá el adjetivo correcto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Ves el español. Escribí el adjetivo en japonés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "¡Adjetivos con alma!",
+      "instruction": "Aprendiste: 丁寧な (cortés), 正直な (honesto), 親切な (amable), 複雑な (complicado), 面倒な (latoso), 珍しい (inusual), 悔しい (frustrante/da rabia) y 羨ましい (envidia positiva). Estos adjetivos le dan profundidad emocional a tu japonés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

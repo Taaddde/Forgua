@@ -1,0 +1,162 @@
+{
+  "id": "grammar-n5-18",
+  "title": "Partículas modales y marcadores: ね、よ、から、まで",
+  "description": "Aprendé las partículas finales ね y よ para matizar tu tono conversacional, y から/まで para indicar puntos de inicio y fin en el tiempo o el espacio.",
+  "level": "n5",
+  "category": "grammar",
+  "prereqs": ["grammar-n5-02"],
+  "items": [
+    {
+      "front": "ね (partícula final)",
+      "back": "¿verdad? / ¿no? (confirmación y acuerdo)",
+      "reading": "ね",
+      "explanation": "ね (ne) es una partícula final que busca confirmación o expresa acuerdo. いいですね = '¡Qué bueno, ¿verdad?!'. Se usa cuando asumís que el oyente comparte tu opinión o conocimiento. En tono neutro: 今日は寒いですね (hoy hace frío, ¿no?). En tono ascendente: busca confirmación activa. Crea un tono cálido y conversacional.",
+      "cardRef": { "category": "grammar", "front": "ね (confirmación/acuerdo)" }
+    },
+    {
+      "front": "よ (partícula final)",
+      "back": "¡te digo que! / énfasis en información nueva",
+      "reading": "よ",
+      "explanation": "よ (yo) es una partícula final que informa o enfatiza algo que el oyente no sabe. あそこに田中さんがいますよ = '¡El señor Tanaka está allá!' (información que el oyente no tenía). A diferencia de ね, よ no busca acuerdo — asegura que lo que decís es un dato. Puede sonar brusco si se usa demasiado; usalo con moderación.",
+      "cardRef": { "category": "grammar", "front": "よ (énfasis/información nueva)" }
+    },
+    {
+      "front": "から (desde / porque)",
+      "back": "desde (origen) / porque (causa)",
+      "reading": "から",
+      "explanation": "から (kara) tiene dos usos principales: 1) Indica origen o punto de partida: 東京から大阪まで = 'desde Tokio hasta Osaka', 朝から = 'desde la mañana'. 2) Indica causa o razón: 雨が降っているから、家にいます = 'Porque está lloviendo, me quedo en casa'. El contexto determina cuál de los dos usos aplica.",
+      "cardRef": { "category": "grammar", "front": "から (desde / porque)" }
+    },
+    {
+      "front": "まで (hasta)",
+      "back": "hasta (punto final de tiempo o espacio)",
+      "reading": "まで",
+      "explanation": "まで (made) indica el punto final, ya sea en el tiempo o el espacio. 何時まで働きますか = '¿Hasta qué hora trabajás?'. 駅まで歩きます = 'Camino hasta la estación'. Se combina naturalmente con から: から〜まで = 'desde〜hasta'. También: までに significa 'para [una fecha/hora]', indicando un límite.",
+      "cardRef": { "category": "grammar", "front": "まで (hasta)" }
+    },
+    {
+      "front": "東京から大阪まで",
+      "back": "desde Tokio hasta Osaka",
+      "reading": "とうきょうからおおさかまで",
+      "explanation": "東京から大阪まで (Tokyo kara Osaka made) = 'desde Tokio hasta Osaka'. Esta estructura から〜まで indica el rango completo: punto de inicio (から) y punto de llegada (まで). Se usa tanto para espacio (distancia) como para tiempo: 月曜日から金曜日まで = 'desde el lunes hasta el viernes'.",
+      "cardRef": { "category": "grammar", "front": "東京から大阪まで" }
+    },
+    {
+      "front": "いいですね",
+      "back": "¡Qué bueno! / ¡Está bien! (¿verdad?)",
+      "reading": "いいですね",
+      "explanation": "いいですね (ii desu ne) es una de las expresiones más frecuentes del japonés. いい = bueno/bien, です = cópula formal, ね = ¿verdad?/¿no? Se usa para mostrar acuerdo, aprobación o envidia suave: 'Voy a Japón en verano' → 'いいですね！' (¡Qué bien!). Es fundamental en conversaciones cotidianas para mostrar que escuchás y respondés.",
+      "cardRef": { "category": "grammar", "front": "いいですね" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "ね y よ: el tono de la conversación",
+      "instruction": "Las partículas finales ね y よ cambian el tono de tu oración sin cambiar su significado literal. ね busca acuerdo o confirmación — es una invitación a que el oyente esté de acuerdo. よ da información nueva o enfatiza algo que el oyente no sabe. Una forma de recordarlos: ね = '¿no?', よ = '¡te digo!'. Usarlos bien suena mucho más natural en japonés.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "から y まで: rangos y orígenes",
+      "instruction": "から indica el punto de partida (tiempo, lugar o causa). まで indica el punto de llegada o límite. Juntos forman la estructura más útil para expresar rangos: から〜まで = 'desde〜hasta'. Recordá también que から después de una oración puede significar 'porque': 疲れているから、早く寝ます = 'Porque estoy cansado, me duermo temprano'.",
+      "itemIndices": [2, 3, 4, 5]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué partícula es y qué hace?",
+      "instruction": "Identificá la función de cada partícula o expresión y elegí su significado correcto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "write",
+      "title": "Completá con la partícula correcta",
+      "instruction": "Ves la oración con un espacio en blanco. Escribí la partícula modal o marcador correcto.",
+      "itemIndices": [4, 5]
+    },
+    {
+      "type": "word-in-context",
+      "title": "¿ね o よ en este contexto?",
+      "instruction": "Elegí la oración donde ね o よ se usa de forma correcta y natural según el contexto.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "ね (compartir observación)",
+            "translation": "Hoy hace buen tiempo, ¿verdad? (el hablante y el oyente ambos ven el clima)",
+            "options": [
+              "今日はいい天気ですね。",
+              "今日はいい天気ですよ。",
+              "今日はいい天気からね。",
+              "今日はいい天気までよ。"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "よ (dar información nueva)",
+            "translation": "Esta tienda es muy buena (el hablante lo sabe, el oyente no)",
+            "options": [
+              "このお店はとてもいいね。",
+              "このお店はとてもいいよ。",
+              "このお店はとてもいいから。",
+              "このお店はとてもいいまで。"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "ね (reacción de acuerdo/envidia suave)",
+            "translation": "¡Qué buena idea! / ¡Qué bien! (reaccionando a algo que dijo el otro)",
+            "options": [
+              "それはいいですよ。",
+              "それはいいですね。",
+              "それはいいからです。",
+              "それはいいまでです。"
+            ],
+            "correctIndex": 1
+          }
+        ]
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con から、まで、ね o よ",
+      "instruction": "Elegí la partícula correcta para cada oración según el contexto y el significado.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "授業は9時{0}12時{1}です。",
+            "blanks": [
+              { "answer": "から", "options": ["から", "まで", "ね", "よ"] },
+              { "answer": "まで", "options": ["から", "まで", "ね", "よ"] }
+            ]
+          },
+          {
+            "template": "雨が降っている{0}、今日は家にいます。",
+            "blanks": [{ "answer": "から", "options": ["から", "まで", "ね", "よ"] }]
+          },
+          {
+            "template": "（友人に）明日のパーティーは5時に終わります{0}。",
+            "blanks": [{ "answer": "よ", "options": ["ね", "よ", "から", "まで"] }]
+          },
+          {
+            "template": "（一緒に見ながら）この映画、面白いです{0}。",
+            "blanks": [{ "answer": "ね", "options": ["ね", "よ", "から", "まで"] }]
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "Recordá la partícula o expresión",
+      "instruction": "Ves la descripción en español. Recordá la partícula japonesa correcta y úsala en el contexto apropiado.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste cuatro partículas clave: ね (busca acuerdo, tono cálido), よ (informa algo nuevo, énfasis), から (desde / porque), まで (hasta). La combinación から〜まで es muy usada para rangos: 東京から大阪まで (desde Tokio hasta Osaka), 月曜日から金曜日まで (del lunes al viernes). いいですね es una de las expresiones más naturales para mostrar reacción positiva en una conversación.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

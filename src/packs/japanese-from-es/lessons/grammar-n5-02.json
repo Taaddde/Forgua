@@ -35,10 +35,51 @@
       "itemIndices": [0, 1, 2]
     },
     {
+      "type": "introduce",
+      "title": "Pregunta y respuesta",
+      "instruction": "Observá el patrón completo: ですか？forma la pregunta, y en la respuesta solo se repite el predicado con はい o いいえ. El tema se omite porque se entiende del contexto.",
+      "itemIndices": [1, 2]
+    },
+    {
       "type": "recognize",
       "title": "¿Qué significa cada oración?",
       "instruction": "Elegí la traducción correcta para cada elemento.",
       "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "write",
+      "title": "Escribí la estructura",
+      "instruction": "Escribí la expresión japonesa correspondiente a cada descripción.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Formá la pregunta",
+      "instruction": "Completá para convertir la oración afirmativa en pregunta.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "学生です{0}",
+            "blanks": [
+              { "answer": "か？", "options": ["か？", "ね？", "よ？", "。"] }
+            ]
+          },
+          {
+            "template": "日本人{0}か？",
+            "blanks": [
+              { "answer": "です", "options": ["です", "ます", "だ", "でした"] }
+            ]
+          },
+          {
+            "template": "これ{0}本{1}か？",
+            "blanks": [
+              { "answer": "は", "options": ["は", "が", "を", "で"] },
+              { "answer": "です", "options": ["です", "ます", "だ", "います"] }
+            ]
+          }
+        ]
+      }
     },
     {
       "type": "recall",

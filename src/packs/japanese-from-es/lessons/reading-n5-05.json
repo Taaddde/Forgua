@@ -1,0 +1,109 @@
+{
+  "id": "reading-n5-05",
+  "title": "Lectura N5: レストランで",
+  "description": "En el restaurante. Aprenderás a pedir comida, describir sabores y hablar de experiencias gastronómicas en japonés.",
+  "level": "n5",
+  "category": "mixed",
+  "prereq": ["reading-n5-04"],
+  "items": [
+    {
+      "front": "ちゅうもん",
+      "back": "pedido, orden",
+      "reading": "ちゅうもん",
+      "explanation": "注文 (chuumon) — el pedido en un restaurante o tienda. El verbo es 注文する (pedir/ordenar). Ejemplo del texto: 'てんぷらと ごはんを ちゅうもんしました' = pedí tempura y arroz. Para llamar al mozo: すみません、ちゅうもんしてもいいですか。",
+      "cardRef": { "category": "vocabulary", "front": "注文" }
+    },
+    {
+      "front": "メニュー",
+      "back": "menú",
+      "reading": "メニュー",
+      "explanation": "メニュー (menyuu) — menú del restaurante. Es una palabra de origen inglés (menu). Ejemplo: メニューを みせてください (por favor, mostrame el menú). Se puede pedir también en japonés puro: こんだて (献立), pero メニュー es más común.",
+      "cardRef": { "category": "vocabulary", "front": "メニュー" }
+    },
+    {
+      "front": "おいしい",
+      "back": "delicioso, rico",
+      "reading": "おいしい",
+      "explanation": "美味しい (oishii) — delicioso o rico (comida). Pasado: おいしかったです (estaba delicioso). En el texto: 'てんぷらは とても おいしかったです' = la tempura estaba muy deliciosa. Forma en -そう: おいしそう = que parece delicioso.",
+      "cardRef": { "category": "vocabulary", "front": "おいしい" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario del restaurante",
+      "instruction": "Antes de leer, aprendé estas palabras esenciales para el restaurante. Fijate en おいしそう en el texto — eso es el adjetivo + そうです, que significa 'parece + adjetivo' (se ve delicioso, parece sabroso). Esta forma es muy útil en conversación.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Lectura: レストランで",
+      "instruction": "Leé el texto sobre la experiencia en el restaurante. Prestá atención a la diferencia entre lo que el narrador pidió y lo que pidió su amigo.",
+      "itemIndices": [],
+      "config": {
+        "passage": {
+          "id": "n5-reading-restaurant",
+          "title": "レストランで",
+          "level": "n5",
+          "text": "きのう、ともだちと にほんの レストランに いきました。わたしは てんぷらと ごはんを ちゅうもんしました。ともだちは ラーメンを ちゅうもんしました。てんぷらは とても おいしかったです。ともだちの ラーメンも おいしそうでした。のみものは おちゃを のみました。しょくじの あとで、デザートも たべました。ケーキが とても あまくて、おいしかったです。ぜんぶで にせんはっぴゃくえんでした。",
+          "translation": "Ayer fui a un restaurante japonés con un amigo. Yo pedí tempura y arroz. Mi amigo pidió ramen. La tempura estaba muy deliciosa. El ramen de mi amigo también se veía delicioso. De bebida, tomé té. Después de la comida, también comimos postre. El pastel estaba muy dulce y delicioso. En total fueron dos mil ochocientos yenes.",
+          "vocabulary": [
+            "レストラン - restaurante",
+            "てんぷら - tempura",
+            "ごはん - arroz/comida",
+            "ちゅうもんする - pedir/ordenar",
+            "ラーメン - ramen",
+            "おいしい - delicioso",
+            "おいしそう - que se ve delicioso",
+            "のみもの - bebida",
+            "おちゃ - té",
+            "しょくじ - comida/meal",
+            "デザート - postre",
+            "ケーキ - pastel",
+            "あまい - dulce",
+            "ぜんぶで - en total",
+            "にせんはっぴゃくえん - 2800 yenes"
+          ],
+          "questions": [
+            {
+              "question": "わたしは なにを ちゅうもんしましたか。",
+              "options": ["ラーメンを ちゅうもんしました。", "てんぷらと ごはんを ちゅうもんしました。", "すしを ちゅうもんしました。", "カレーを ちゅうもんしました。"],
+              "correctIndex": 1,
+              "explanation": "テキストに「てんぷらと ごはんを ちゅうもんしました」とあります。(En el texto dice 'pedí tempura y arroz'.)"
+            },
+            {
+              "question": "なにを のみましたか。",
+              "options": ["みずを のみました。", "コーヒーを のみました。", "おちゃを のみました。", "ジュースを のみました。"],
+              "correctIndex": 2,
+              "explanation": "テキストに「おちゃを のみました」とあります。(En el texto dice 'tomé té'.)"
+            },
+            {
+              "question": "ぜんぶで いくらでしたか。",
+              "options": ["せんえんでした。", "にせんえんでした。", "にせんごひゃくえんでした。", "にせんはっぴゃくえんでした。"],
+              "correctIndex": 3,
+              "explanation": "テキストに「ぜんぶで にせんはっぴゃくえんでした」とあります。(En el texto dice 'en total fueron 2800 yenes'.)"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "recognize",
+      "title": "Vocabulario del restaurante",
+      "instruction": "Elegí el significado correcto de cada palabra.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se escribe?",
+      "instruction": "Ves el español. Escribí la palabra en japonés.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "summary",
+      "title": "¡Japonés en el restaurante!",
+      "instruction": "Aprendiste a hablar de experiencias gastronómicas. Estructuras clave: ちゅうもんする (pedir), おいしかったです (estaba delicioso), adjetivo + そうです (parece...), ぜんぶで + precio (en total, cuesta X), しょくじのあとで (después de comer). Ahora podés pedir comida y describir tu experiencia en japonés.",
+      "itemIndices": [0, 1, 2]
+    }
+  ]
+}

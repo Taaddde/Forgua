@@ -1,0 +1,141 @@
+{
+  "id": "vocab-n4-03",
+  "title": "Verbos N4: つける/つく, 直す/直る y más",
+  "description": "Cuatro pares de verbos transitivos e intransitivos esenciales del N4. Dominar estos pares es clave para hablar japonés con precisión.",
+  "level": "n4",
+  "category": "vocabulary",
+  "prereq": ["vocab-n4-01"],
+  "items": [
+    {
+      "front": "つける",
+      "back": "encender, poner (transitivo)",
+      "reading": "つける",
+      "explanation": "つける (tsukeru) es TRANSITIVO: alguien enciende o pone algo. Ejemplo: エアコンをつける (enciendo el aire acondicionado). El kanji es 付ける o 点ける según el contexto.",
+      "cardRef": { "category": "vocabulary", "front": "つける" }
+    },
+    {
+      "front": "つく",
+      "back": "encenderse, adherirse (intransitivo)",
+      "reading": "つく",
+      "explanation": "つく (tsuku) es INTRANSITIVO: algo se enciende solo. Ejemplo: 電気がつく (la luz se enciende). El patrón ける→く es muy común en pares transitivo/intransitivo.",
+      "cardRef": { "category": "vocabulary", "front": "つく" }
+    },
+    {
+      "front": "直す",
+      "back": "arreglar, corregir (transitivo)",
+      "reading": "なおす",
+      "explanation": "直す (naosu) es TRANSITIVO: alguien arregla o corrige algo. Ejemplo: パソコンを直す (arreglo la computadora). También significa 'corregir' errores: 間違いを直す.",
+      "cardRef": { "category": "vocabulary", "front": "直す" }
+    },
+    {
+      "front": "直る",
+      "back": "arreglarse, curarse (intransitivo)",
+      "reading": "なおる",
+      "explanation": "直る (naoru) es INTRANSITIVO: algo se arregla solo o alguien se cura. Ejemplo: 風邪が直る (el resfrío se cura). Observá el patrón す→る.",
+      "cardRef": { "category": "vocabulary", "front": "直る" }
+    },
+    {
+      "front": "落とす",
+      "back": "dejar caer, perder (transitivo)",
+      "reading": "おとす",
+      "explanation": "落とす (otosu) es TRANSITIVO: alguien deja caer o pierde algo. Ejemplo: 財布を落とす (pierdo la billetera). También tiene el sentido de 'bajar' algo: 成績を落とす (bajar las notas).",
+      "cardRef": { "category": "vocabulary", "front": "落とす" }
+    },
+    {
+      "front": "落ちる",
+      "back": "caer (intransitivo)",
+      "reading": "おちる",
+      "explanation": "落ちる (ochiru) es INTRANSITIVO: algo cae solo. Ejemplo: りんごが落ちる (la manzana cae). También se usa para 'reprobar': 試験に落ちる (reprobar el examen).",
+      "cardRef": { "category": "vocabulary", "front": "落ちる" }
+    },
+    {
+      "front": "壊す",
+      "back": "romper (transitivo)",
+      "reading": "こわす",
+      "explanation": "壊す (kowasu) es TRANSITIVO: alguien rompe algo. Ejemplo: おもちゃを壊す (rompo el juguete). Cuidado: implica una acción deliberada o accidental de una persona.",
+      "cardRef": { "category": "vocabulary", "front": "壊す" }
+    },
+    {
+      "front": "壊れる",
+      "back": "romperse (intransitivo)",
+      "reading": "こわれる",
+      "explanation": "壊れる (kowareru) es INTRANSITIVO: algo se rompe solo. Ejemplo: 時計が壊れた (el reloj se rompió). El patrón す→れる es otro patrón frecuente en estos pares.",
+      "cardRef": { "category": "vocabulary", "front": "壊れる" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Cuatro pares clave",
+      "instruction": "Estos cuatro pares son muy comunes en el japonés cotidiano. El truco es simple: los TRANSITIVOS necesitan を (alguien actúa sobre algo), los INTRANSITIVOS usan が (algo pasa solo). Fijate en los patrones de terminación: す→る, す→れる, ける→く.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Transitivo o intransitivo?",
+      "instruction": "Elegí el significado correcto. Prestá atención a si el verbo indica que alguien hace algo (transitivo) o que algo pasa por sí solo (intransitivo).",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "En oraciones reales",
+      "instruction": "Elegí la oración que usa el verbo correctamente según el contexto.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "壊す",
+            "translation": "romper (transitivo)",
+            "options": [
+              "子どもがおもちゃを壊した。",
+              "おもちゃが壊した。",
+              "おもちゃを壊れた。",
+              "子どもがおもちゃに壊した。"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "落ちる",
+            "translation": "caer (intransitivo)",
+            "options": [
+              "本を落ちた。",
+              "本が落ちた。",
+              "本に落ちた。",
+              "本は落とした。"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "直す",
+            "translation": "arreglar (transitivo)",
+            "options": [
+              "自転車が直した。",
+              "自転車に直した。",
+              "自転車を直した。",
+              "自転車は直れた。"
+            ],
+            "correctIndex": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "listen-identify",
+      "title": "Escuchá el par",
+      "instruction": "Escuchá la pronunciación e identificá cuál de los dos verbos del par estás escuchando.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recall",
+      "title": "Del español al japonés",
+      "instruction": "Ves el significado en español. Escribí el verbo correcto en japonés. Acordate del par correspondiente.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "¡Cuatro pares dominados!",
+      "instruction": "Aprendiste つける↔つく (encender), 直す↔直る (arreglar/curarse), 落とす↔落ちる (dejar caer/caer) y 壊す↔壊れる (romper/romperse). Recordá: transitivo con を, intransitivo con が. Estos verbos van a aparecer constantemente en tus lecturas.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

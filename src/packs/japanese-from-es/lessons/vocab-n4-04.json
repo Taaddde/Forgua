@@ -1,0 +1,147 @@
+{
+  "id": "vocab-n4-04",
+  "title": "Sustantivos abstractos N4: 経験、意見、関係、文化",
+  "description": "Sustantivos abstractos esenciales del N4. Con estas palabras podés hablar de ideas, relaciones y conceptos sociales en japonés.",
+  "level": "n4",
+  "category": "vocabulary",
+  "prereq": ["vocab-n4-02"],
+  "items": [
+    {
+      "front": "経験",
+      "back": "experiencia",
+      "reading": "けいけん",
+      "explanation": "経験 (keiken) — experiencia acumulada. Ejemplo: 海外での経験があります (tengo experiencia en el exterior). Se usa mucho en entrevistas laborales. El verbo 経験する = experimentar.",
+      "cardRef": { "category": "vocabulary", "front": "経験" }
+    },
+    {
+      "front": "意見",
+      "back": "opinión",
+      "reading": "いけん",
+      "explanation": "意見 (iken) — opinión o punto de vista. Ejemplo: 意見を言う (dar una opinión), 意見が違う (las opiniones difieren). Muy útil en discusiones y reuniones.",
+      "cardRef": { "category": "vocabulary", "front": "意見" }
+    },
+    {
+      "front": "関係",
+      "back": "relación",
+      "reading": "かんけい",
+      "explanation": "関係 (kankei) — relación entre personas o cosas. Ejemplo: 人間関係 (relaciones humanas), 関係ない (no tiene relación / no es asunto mío). Esta última expresión es muy coloquial.",
+      "cardRef": { "category": "vocabulary", "front": "関係" }
+    },
+    {
+      "front": "文化",
+      "back": "cultura",
+      "reading": "ぶんか",
+      "explanation": "文化 (bunka) — cultura en sentido amplio: tradiciones, arte, costumbres. Ejemplo: 日本文化に興味があります (me interesa la cultura japonesa). 文化祭 (festival cultural escolar) es muy conocido.",
+      "cardRef": { "category": "vocabulary", "front": "文化" }
+    },
+    {
+      "front": "社会",
+      "back": "sociedad",
+      "reading": "しゃかい",
+      "explanation": "社会 (shakai) — sociedad o mundo social. Ejemplo: 社会に出る (entrar al mundo laboral/adulto). 社会人 (shakaijin) es la persona que ya trabaja, opuesto a estudiante.",
+      "cardRef": { "category": "vocabulary", "front": "社会" }
+    },
+    {
+      "front": "問題",
+      "back": "problema",
+      "reading": "もんだい",
+      "explanation": "問題 (mondai) — problema o pregunta (en un examen). Ejemplo: 問題がある (hay un problema), 問題ない (no hay problema). También significa 'ejercicio' en el contexto escolar.",
+      "cardRef": { "category": "vocabulary", "front": "問題" }
+    },
+    {
+      "front": "原因",
+      "back": "causa",
+      "reading": "げんいん",
+      "explanation": "原因 (gen'in) — causa o motivo de algo negativo. Ejemplo: 事故の原因 (la causa del accidente). Se usa generalmente para explicar por qué algo malo ocurrió.",
+      "cardRef": { "category": "vocabulary", "front": "原因" }
+    },
+    {
+      "front": "結果",
+      "back": "resultado",
+      "reading": "けっか",
+      "explanation": "結果 (kekka) — resultado o consecuencia. Ejemplo: テストの結果 (el resultado del examen). La expresión 結果として (como resultado) es muy útil en escritura formal.",
+      "cardRef": { "category": "vocabulary", "front": "結果" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Palabras para hablar de ideas",
+      "instruction": "Estos sustantivos abstractos son fundamentales para hablar de conceptos, relaciones y situaciones en japonés. Son palabras que aparecen en conversaciones serias, noticias y textos académicos. Prestá atención a las lecturas — muchas son compuestos de kanji.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto de cada palabra. Fijate en los kanji para encontrar pistas.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "En oraciones completas",
+      "instruction": "Elegí la oración que usa la palabra con las partículas correctas.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "意見",
+            "translation": "opinión",
+            "options": [
+              "意見を言ってもいいですか。",
+              "意見が言ってもいいですか。",
+              "意見に言ってもいいですか。",
+              "意見は言います。"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "原因",
+            "translation": "causa",
+            "options": [
+              "事故の原因が調べています。",
+              "事故の原因を調べています。",
+              "事故の原因は調べた。",
+              "事故に原因を調べています。"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "関係",
+            "translation": "relación",
+            "options": [
+              "それは私に関係ない。",
+              "それは私が関係ない。",
+              "それは私を関係ない。",
+              "それは私で関係ない。"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "listen-identify",
+      "title": "Escuchá la palabra",
+      "instruction": "Escuchá la pronunciación e identificá la palabra correcta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "write",
+      "title": "Escribí en japonés",
+      "instruction": "Escribí la palabra en japonés (kanji o hiragana).",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Ves el español. Escribí la palabra en japonés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "¡Vocabulario abstracto incorporado!",
+      "instruction": "Ahora manejás: 経験 (experiencia), 意見 (opinión), 関係 (relación), 文化 (cultura), 社会 (sociedad), 問題 (problema), 原因 (causa) y 結果 (resultado). Estas palabras son esenciales para conversaciones más profundas en japonés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

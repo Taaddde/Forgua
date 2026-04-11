@@ -1,0 +1,141 @@
+{
+  "id": "vocab-n4-06",
+  "title": "Verbos de movimiento y cambio N4",
+  "description": "Verbos que describen movimientos, desplazamientos y cambios de situación. Indispensables para contar historias y dar instrucciones.",
+  "level": "n4",
+  "category": "vocabulary",
+  "prereq": ["vocab-n4-03"],
+  "items": [
+    {
+      "front": "引っ越す",
+      "back": "mudarse",
+      "reading": "ひっこす",
+      "explanation": "引っ越す (hikkosu) — mudarse de casa. Ejemplo: 来月、東京に引っ越します (el mes que viene me mudo a Tokio). El sustantivo es 引っ越し (la mudanza). 引越し業者 = empresa de mudanzas.",
+      "cardRef": { "category": "vocabulary", "front": "引っ越す" }
+    },
+    {
+      "front": "集まる",
+      "back": "reunirse",
+      "reading": "あつまる",
+      "explanation": "集まる (atsumaru) — reunirse, juntarse (intransitivo). Ejemplo: 友だちが公園に集まった (los amigos se juntaron en el parque). El par transitivo es 集める (reunir/recolectar algo).",
+      "cardRef": { "category": "vocabulary", "front": "集まる" }
+    },
+    {
+      "front": "別れる",
+      "back": "separarse, despedirse",
+      "reading": "わかれる",
+      "explanation": "別れる (wakareru) — separarse de alguien, despedirse, o terminar una relación. Ejemplo: 駅で別れた (nos despedimos en la estación), 彼女と別れた (terminé con mi novia). No confundir con 分かれる (dividirse en caminos).",
+      "cardRef": { "category": "vocabulary", "front": "別れる" }
+    },
+    {
+      "front": "渡る",
+      "back": "cruzar (puente, calle)",
+      "reading": "わたる",
+      "explanation": "渡る (wataru) — cruzar algo (puente, calle, río). Ejemplo: 橋を渡る (cruzar el puente), 信号を渡る (cruzar en el semáforo). El par transitivo es 渡す (pasar algo a alguien).",
+      "cardRef": { "category": "vocabulary", "front": "渡る" }
+    },
+    {
+      "front": "曲がる",
+      "back": "doblar, girar",
+      "reading": "まがる",
+      "explanation": "曲がる (magaru) — doblar o girar en una dirección. Ejemplo: 角を曲がる (doblar en la esquina), 右に曲がってください (doble a la derecha). Esencial para dar direcciones.",
+      "cardRef": { "category": "vocabulary", "front": "曲がる" }
+    },
+    {
+      "front": "止まる",
+      "back": "detenerse",
+      "reading": "とまる",
+      "explanation": "止まる (tomaru) — detenerse, parar (intransitivo). Ejemplo: バスが止まる (el colectivo para). El par transitivo es 止める (detener algo). También: 心臓が止まる (el corazón se detiene).",
+      "cardRef": { "category": "vocabulary", "front": "止まる" }
+    },
+    {
+      "front": "動く",
+      "back": "moverse",
+      "reading": "うごく",
+      "explanation": "動く (ugoku) — moverse, funcionar. Ejemplo: 機械が動く (la máquina funciona), 動かないで (no te muevas). El par transitivo es 動かす (mover algo). También se usa para 'funcionar' con aparatos.",
+      "cardRef": { "category": "vocabulary", "front": "動く" }
+    },
+    {
+      "front": "逃げる",
+      "back": "escaparse, huir",
+      "reading": "にげる",
+      "explanation": "逃げる (nigeru) — escaparse o huir de algo. Ejemplo: 猫が逃げた (el gato se escapó), 問題から逃げる (huir de los problemas). Desde el punto の se usa に o から para indicar de qué se huye.",
+      "cardRef": { "category": "vocabulary", "front": "逃げる" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Verbos que describen movimiento",
+      "instruction": "Estos verbos describen cómo las personas y cosas se mueven o cambian de lugar. Son esenciales para dar direcciones, contar historias y describir situaciones. Prestá atención: algunos son intransitivos (algo ocurre) y otros pueden usarse en ambos modos.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto de cada verbo.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "En oraciones reales",
+      "instruction": "Elegí la oración que usa el verbo correctamente.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "曲がる",
+            "translation": "doblar, girar",
+            "options": [
+              "次の角を右に曲がってください。",
+              "次の角が右に曲がってください。",
+              "次の角に右で曲がってください。",
+              "次は角を右に曲げてください。"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "止まる",
+            "translation": "detenerse",
+            "options": [
+              "バスを止まりました。",
+              "バスが止まりました。",
+              "バスに止まりました。",
+              "バスは止めました。"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "渡る",
+            "translation": "cruzar",
+            "options": [
+              "橋が渡ります。",
+              "橋に渡ります。",
+              "橋を渡ります。",
+              "橋で渡ります。"
+            ],
+            "correctIndex": 2
+          }
+        ]
+      }
+    },
+    {
+      "type": "listen-identify",
+      "title": "Escuchá el verbo",
+      "instruction": "Escuchá la pronunciación e identificá el verbo correcto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Ves el español. Escribí el verbo en japonés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "¡Verbos de movimiento dominados!",
+      "instruction": "Aprendiste: 引っ越す (mudarse), 集まる (reunirse), 別れる (separarse), 渡る (cruzar), 曲がる (doblar), 止まる (detenerse), 動く (moverse) y 逃げる (escaparse). Con estos verbos podés dar direcciones y contar historias de movimiento.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

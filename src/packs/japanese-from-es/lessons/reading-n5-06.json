@@ -1,0 +1,110 @@
+{
+  "id": "reading-n5-06",
+  "title": "Lectura N5: しゅうまつ",
+  "description": "El fin de semana en japonés. Narración de eventos del pasado con la forma て + verbos encadenados. Integra todo el vocabulario N5.",
+  "level": "n5",
+  "category": "mixed",
+  "prereq": ["reading-n5-05"],
+  "items": [
+    {
+      "front": "しゅうまつ",
+      "back": "fin de semana",
+      "reading": "しゅうまつ",
+      "explanation": "週末 (shuumatsu) — fin de semana. 週 = semana + 末 = final. Ejemplo del texto: 'せんしゅうの しゅうまつは とても たのしかったです' = el fin de semana pasado fue muy divertido. Fines de semana específicos: どようび (sábado) y にちようび (domingo).",
+      "cardRef": { "category": "vocabulary", "front": "週末" }
+    },
+    {
+      "front": "やすむ",
+      "back": "descansar",
+      "reading": "やすむ",
+      "explanation": "休む (yasumu) — descansar o tomar un día libre. Verbo godan. En el texto, la idea de descanso aparece como 'ゆっくりする' (descansar tranquilamente). やすむ también significa 'faltar' (a clase o al trabajo): がっこうをやすむ (faltar a la escuela).",
+      "cardRef": { "category": "vocabulary", "front": "休む" }
+    },
+    {
+      "front": "ゆっくり",
+      "back": "tranquilamente, despacio",
+      "reading": "ゆっくり",
+      "explanation": "ゆっくり (yukkuri) — tranquilamente, despacio o con calma. Ejemplo del texto: 'いえで ゆっくりしました' = descansé tranquilamente en casa. También se usa para pedir que alguien hable más despacio: ゆっくり はなしてください (hablá más despacio, por favor).",
+      "cardRef": { "category": "vocabulary", "front": "ゆっくり" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario del fin de semana",
+      "instruction": "Esta es la última lectura N5. El texto usa muchos verbos encadenados con la forma て: 'おきて、えいがをみました' (me levanté y vi una película). Esta estructura conecta acciones en secuencia. Aprendé estas palabras antes de leer.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Lectura: しゅうまつ",
+      "instruction": "Leé el texto sobre el fin de semana pasado. Prestá atención a cómo se describen las actividades del sábado y del domingo por separado.",
+      "itemIndices": [],
+      "config": {
+        "passage": {
+          "id": "n5-reading-weekend",
+          "title": "しゅうまつ",
+          "level": "n5",
+          "text": "せんしゅうの しゅうまつは とても たのしかったです。どようびの あさ、こうえんで ジョギングを しました。それから、うちに かえって シャワーを あびました。ごごは ともだちと カフェで あいました。いっしょに コーヒーを のみながら、たくさん はなしました。にちようびは いえで ゆっくり しました。あさ おそく おきて、えいがを みました。よるは すこし にほんごを べんきょうして、はやく ねました。いい しゅうまつでした。",
+          "translation": "El fin de semana pasado fue muy divertido. El sábado por la mañana hice jogging en el parque. Después, volví a casa y me duché. Por la tarde me encontré con un amigo en un café. Hablamos mucho mientras tomábamos café juntos. El domingo descansé tranquilamente en casa. Me levanté tarde y vi una película. Por la noche estudié un poco de japonés y me acosté temprano. Fue un buen fin de semana.",
+          "vocabulary": [
+            "せんしゅう - la semana pasada",
+            "しゅうまつ - fin de semana",
+            "たのしい - divertido",
+            "どようび - sábado",
+            "こうえん - parque",
+            "ジョギング - jogging",
+            "シャワーをあびる - ducharse",
+            "カフェ - café (lugar)",
+            "あう - encontrarse",
+            "たくさん - mucho",
+            "はなす - hablar",
+            "にちようび - domingo",
+            "ゆっくり - tranquilamente",
+            "おそく - tarde",
+            "よる - noche",
+            "はやく - temprano"
+          ],
+          "questions": [
+            {
+              "question": "どようびの あさ なにを しましたか。",
+              "options": ["えいがを みました。", "べんきょうしました。", "こうえんで ジョギングを しました。", "カフェに いきました。"],
+              "correctIndex": 2,
+              "explanation": "テキストに「どようびの あさ、こうえんで ジョギングを しました」とあります。(En el texto dice 'el sábado por la mañana hizo jogging en el parque'.)"
+            },
+            {
+              "question": "にちようびに なにを しましたか。",
+              "options": ["ともだちと あいました。", "いえで ゆっくり しました。", "かいものに いきました。", "ジョギングを しました。"],
+              "correctIndex": 1,
+              "explanation": "テキストに「にちようびは いえで ゆっくり しました」とあります。(En el texto dice 'el domingo descansó tranquilamente en casa'.)"
+            },
+            {
+              "question": "にちようびの よる なにを しましたか。",
+              "options": ["えいがを みました。", "ともだちと はなしました。", "にほんごを べんきょうしました。", "ジョギングを しました。"],
+              "correctIndex": 2,
+              "explanation": "テキストに「よるは すこし にほんごを べんきょうして」とあります。(En el texto dice 'por la noche estudió un poco de japonés'.)"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "recognize",
+      "title": "Vocabulario del fin de semana",
+      "instruction": "Elegí el significado correcto de cada palabra.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se escribe?",
+      "instruction": "Ves el español. Escribí la palabra en japonés.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lecturas N5 completadas!",
+      "instruction": "Terminaste las seis lecturas N5. Estructuras del texto: verbo-て + verbo (secuencia de acciones), 〜ながら (mientras...), 〜て、〜て、〜ました (hice X, Y y Z). Palabras nuevas: ゆっくり (tranquilamente), おそく/はやく (tarde/temprano), それから (después/a continuación). ¡Ahora podés leer japonés real del nivel N5!",
+      "itemIndices": [0, 1, 2]
+    }
+  ]
+}

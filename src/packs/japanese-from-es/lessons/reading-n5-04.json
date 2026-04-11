@@ -1,0 +1,111 @@
+{
+  "id": "reading-n5-04",
+  "title": "Lectura N5: かいもの",
+  "description": "Ir de compras en japonés. Pasado, precios, colores y adjetivos en acción. Primera lectura con verbos en tiempo pasado (〜ました).",
+  "level": "n5",
+  "category": "mixed",
+  "prereq": ["reading-n5-03", "vocab-n5-04"],
+  "items": [
+    {
+      "front": "みせ / てんぽ",
+      "back": "tienda",
+      "reading": "みせ",
+      "explanation": "店 (mise) — tienda, local. Ejemplo: この みせの シャツは たかい (las camisas de esta tienda son caras). En el texto se habla de un デパート (centro comercial) que tiene varias tiendas por piso.",
+      "cardRef": { "category": "vocabulary", "front": "店" }
+    },
+    {
+      "front": "かう",
+      "back": "comprar",
+      "reading": "かう",
+      "explanation": "買う (kau) — comprar. Verbo godan. Forma pasada: かいました. Ejemplo del texto: 'くろい くつを かいました' = compré zapatos negros. La partícula を marca lo que se compra.",
+      "cardRef": { "category": "vocabulary", "front": "買う" }
+    },
+    {
+      "front": "たかい",
+      "back": "caro (precio) / alto (altura)",
+      "reading": "たかい",
+      "explanation": "高い (takai) — caro en precio o alto en altura, según el contexto. En el texto: 'すこし たかかったです' = era un poco cara (forma pasada de adjetivo -い). El opuesto de 'caro' es やすい (barato).",
+      "cardRef": { "category": "vocabulary", "front": "高い" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario de compras",
+      "instruction": "Este texto está en PASADO — las cosas ya ocurrieron. El pasado de 〜ます es 〜ました. El pasado de adjetivos -い es -かったです (たかい → たかかったです). Aprendé estas palabras antes de leer.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Lectura: かいもの",
+      "instruction": "Leé el texto sobre la experiencia de compras. Prestá atención a los verbos en pasado y a cómo se expresan los precios.",
+      "itemIndices": [],
+      "config": {
+        "passage": {
+          "id": "n5-reading-shopping",
+          "title": "かいもの",
+          "level": "n5",
+          "text": "きょう、デパートに かいものに いきました。あたらしい ふくが ほしかったです。まず、にかいで シャツを みました。あおい シャツが きれいでしたが、すこし たかかったです。さんぜんえんでした。つぎに、さんがいで くつを みました。くろい くつを かいました。にせんごひゃくえんでした。さいごに、いっかいで ともだちの たんじょうびプレゼントを かいました。たのしい かいものでした。",
+          "translation": "Hoy fui de compras al centro comercial. Quería ropa nueva. Primero, miré camisas en el segundo piso. La camisa azul era bonita, pero era un poco cara. Costaba tres mil yenes. Después, miré zapatos en el tercer piso. Compré zapatos negros. Costaban dos mil quinientos yenes. Por último, en el primer piso compré un regalo de cumpleaños para un amigo. Fueron unas compras divertidas.",
+          "vocabulary": [
+            "デパート - centro comercial",
+            "かいもの - compras",
+            "あたらしい - nuevo",
+            "ふく - ropa",
+            "ほしい - querer/desear",
+            "にかい - segundo piso",
+            "シャツ - camisa",
+            "あおい - azul",
+            "きれい - bonito",
+            "すこし - un poco",
+            "たかい - caro",
+            "さんぜんえん - 3000 yenes",
+            "くつ - zapatos",
+            "くろい - negro",
+            "にせんごひゃくえん - 2500 yenes",
+            "プレゼント - regalo",
+            "たのしい - divertido"
+          ],
+          "questions": [
+            {
+              "question": "あおい シャツは いくらでしたか。",
+              "options": ["にせんえんでした。", "にせんごひゃくえんでした。", "さんぜんえんでした。", "よんせんえんでした。"],
+              "correctIndex": 2,
+              "explanation": "テキストに あおいシャツは「さんぜんえんでした」とあります。(En el texto dice que la camisa azul 'costaba 3000 yenes'.)"
+            },
+            {
+              "question": "なにを かいましたか。",
+              "options": ["シャツと くつを かいました。", "くろい くつと プレゼントを かいました。", "あおい シャツを かいました。", "ふくだけ かいました。"],
+              "correctIndex": 1,
+              "explanation": "テキストによると、くろいくつと ともだちのプレゼントを かいました。シャツは たかくて かいませんでした。(Compró zapatos negros y un regalo. No compró la camisa porque era cara.)"
+            },
+            {
+              "question": "プレゼントは だれに あげますか。",
+              "options": ["おかあさんに あげます。", "せんせいに あげます。", "ともだちに あげます。", "いもうとに あげます。"],
+              "correctIndex": 2,
+              "explanation": "テキストに「ともだちの たんじょうびプレゼント」とあります。(En el texto dice 'regalo de cumpleaños para un amigo'.)"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "recognize",
+      "title": "Vocabulario de compras",
+      "instruction": "Elegí el significado correcto de cada palabra.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se escribe?",
+      "instruction": "Ves el español. Escribí la palabra en japonés.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "summary",
+      "title": "¡Compras en japonés!",
+      "instruction": "Aprendiste a hablar de compras en pasado. Estructuras clave: verbo + ました (pasado positivo), adjetivo-い → -かったです (pasado de adjetivos), 〜が ほしかったです (quería...), まず / つぎに / さいごに (primero / luego / por último). Estos conectores son muy útiles para narrar eventos en orden.",
+      "itemIndices": [0, 1, 2]
+    }
+  ]
+}

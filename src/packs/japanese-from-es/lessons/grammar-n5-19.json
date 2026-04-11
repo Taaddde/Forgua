@@ -1,0 +1,158 @@
+{
+  "id": "grammar-n5-19",
+  "title": "Peticiones y permisos con て-form: てください、てもいい、てはいけない",
+  "description": "Aprendé a hacer pedidos educados (てください), pedir o dar permiso (てもいい) y expresar prohibiciones (てはいけない). Estas tres estructuras son fundamentales para la comunicación cotidiana.",
+  "level": "n5",
+  "category": "grammar",
+  "prereqs": ["grammar-n5-11"],
+  "items": [
+    {
+      "front": "てください",
+      "back": "por favor, hacé... (pedido educado)",
+      "reading": "てください",
+      "explanation": "〜てください (te kudasai) es la forma educada de pedir que alguien haga algo. Se forma con la て-form del verbo + ください. 待ってください = 'Por favor esperá'. 書いてください = 'Por favor escribí'. Es la forma estándar de dar instrucciones educadas — se usa con conocidos, en clases, en servicios, etc.",
+      "cardRef": { "category": "grammar", "front": "〜てください (por favor hacé...)" }
+    },
+    {
+      "front": "てもいい",
+      "back": "está bien si... / podés... (permiso)",
+      "reading": "てもいい",
+      "explanation": "〜てもいいです (te mo ii desu) da permiso o pregunta si algo es aceptable. Para dar permiso: 入ってもいいです = 'Podés entrar / Está bien que entres'. Para pedir permiso, se agrega か: 入ってもいいですか = '¿Puedo entrar?'. La estructura: て-form + もいい(です). Si la respuesta es negativa: てもいいけど... o いいえ、〜てはいけません.",
+      "cardRef": { "category": "grammar", "front": "〜てもいい (permiso)" }
+    },
+    {
+      "front": "てはいけない / てはいけません",
+      "back": "no está permitido... / no se puede... (prohibición)",
+      "reading": "てはいけない / てはいけません",
+      "explanation": "〜てはいけません (te wa ikemasen) expresa prohibición. て-form + はいけません (formal) o はいけない (informal). ここでタバコを吸ってはいけません = 'No se puede fumar aquí'. 走ってはいけない = 'No corras' (informal). Es más fuerte que 〜ないでください (por favor no hagas). Se usa para reglas, normas y prohibiciones.",
+      "cardRef": { "category": "grammar", "front": "〜てはいけない (prohibición)" }
+    },
+    {
+      "front": "座ってください",
+      "back": "Por favor sentate / Por favor siéntese",
+      "reading": "すわってください",
+      "explanation": "座ってください (suwatte kudasai) = 'Por favor sentate/siéntese'. 座る (suwaru) = sentarse. て-form: 座って. + ください = forma la petición. Se usa en clase, en consultas médicas, en entrevistas. Para hacerlo más informal entre amigos: 座って (sin ください). Para hacerlo más formal: お座りください (con prefijo honorífico).",
+      "cardRef": { "category": "grammar", "front": "座ってください" }
+    },
+    {
+      "front": "入ってもいいですか",
+      "back": "¿Puedo entrar? / ¿Está bien si entro?",
+      "reading": "はいってもいいですか",
+      "explanation": "入ってもいいですか (haitte mo ii desu ka) = '¿Puedo entrar?'. 入る (hairu) = entrar. て-form: 入って. + もいいですか = pedir permiso formalmente. Respuestas posibles: はい、どうぞ (sí, adelante), はい、入ってもいいです (sí, podés entrar), いいえ、入ってはいけません (no, no podés entrar).",
+      "cardRef": { "category": "grammar", "front": "入ってもいいですか" }
+    },
+    {
+      "front": "ここでタバコを吸ってはいけません",
+      "back": "No se puede fumar aquí",
+      "reading": "ここでタバコをすってはいけません",
+      "explanation": "ここでタバコを吸ってはいけません (koko de tabako wo sutte wa ikemasen) = 'No se puede fumar aquí'. ここで = aquí (lugar de acción), タバコを = cigarrillo (objeto), 吸って (sutte) = て-form de 吸う (aspirar/fumar), はいけません = prohibición formal. Esta oración expresa una regla o norma, no una preferencia personal.",
+      "cardRef": { "category": "grammar", "front": "ここでタバコを吸ってはいけません" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "てください: pedidos educados",
+      "instruction": "Para pedir que alguien haga algo de forma educada, usás la て-form del verbo + ください. Es el equivalente del 'por favor hacé' en japonés formal. 食べてください (por favor comé), 話してください (por favor hablá). Sin ください suena como una orden entre amigos: 食べて (comé). Para hacerlo aún más educado: 〜ていただけますか (¿podría...?).",
+      "itemIndices": [0, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "てもいい y てはいけない: el sistema de permisos",
+      "instruction": "Para el permiso (positivo) usás て-form + もいい(です). Para la prohibición (negativo) usás て-form + はいけない/いけません. Son los dos extremos del sistema: 入ってもいいです (podés entrar) vs 入ってはいけません (no podés entrar). Para pedir permiso agregás か al final: 入ってもいいですか (¿puedo entrar?).",
+      "itemIndices": [1, 2, 4, 5]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Pedido, permiso o prohibición?",
+      "instruction": "Identificá si la oración es un pedido (てください), un permiso (てもいい) o una prohibición (てはいけない).",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "write",
+      "title": "Formá la estructura correcta",
+      "instruction": "Ves el verbo y el tipo de estructura. Escribí la forma completa: てください, てもいい o てはいけない.",
+      "itemIndices": [3, 4, 5]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Construí peticiones y permisos",
+      "instruction": "Ordená las piezas para formar oraciones completas con てください, てもいい o てはいけない.",
+      "itemIndices": [3, 4, 5],
+      "config": {
+        "sentences": [
+          {
+            "fragments": ["座って", "ください"],
+            "correctOrder": [0, 1],
+            "translation": "Por favor sentate"
+          },
+          {
+            "fragments": ["入って", "も", "いい", "です", "か"],
+            "correctOrder": [0, 1, 2, 3, 4],
+            "translation": "¿Puedo entrar?"
+          },
+          {
+            "fragments": ["ここ", "で", "タバコ", "を", "吸って", "は", "いけません"],
+            "correctOrder": [0, 1, 2, 3, 4, 5, 6],
+            "translation": "No se puede fumar aquí"
+          },
+          {
+            "fragments": ["ゆっくり", "話して", "ください"],
+            "correctOrder": [0, 1, 2],
+            "translation": "Por favor hablá despacio"
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Correcto o incorrecto?",
+      "instruction": "Algunas de estas oraciones tienen errores en el uso de てください, てもいい o てはいけない. Identificá el error y cómo se corrige.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "ここで写真を撮ってもいけません。",
+            "isCorrect": false,
+            "correction": "ここで写真を撮ってはいけません。",
+            "explanation": "La prohibición es てはいけません, no てもいけません. て + は + いけません (prohibición) vs て + も + いい (permiso). Son estructuras diferentes.",
+            "errorType": "grammar-structure"
+          },
+          {
+            "sentence": "窓を開けてください。",
+            "isCorrect": true,
+            "correction": "窓を開けてください。",
+            "explanation": "Correcto. 開ける (abrir) → て-form: 開けて + ください = 'Por favor abrí la ventana'. Estructura correcta para un pedido educado.",
+            "errorType": "none"
+          },
+          {
+            "sentence": "このペンを使いてもいいですか。",
+            "isCorrect": false,
+            "correction": "このペンを使ってもいいですか。",
+            "explanation": "使う es un verbo godan (う-verbo), su て-form es 使って (no 使いて). La regla: verbos en う → って: 買う→買って, 使う→使って.",
+            "errorType": "te-form-conjugation"
+          },
+          {
+            "sentence": "授業中に話してはいけません。",
+            "isCorrect": true,
+            "correction": "授業中に話してはいけません。",
+            "explanation": "Correcto. 話す → て-form: 話して + はいけません = 'No está permitido hablar durante la clase'. Estructura de prohibición bien formada.",
+            "errorType": "none"
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "Expresá el pedido, permiso o prohibición",
+      "instruction": "Ves la situación en español. Recordá la estructura japonesa correcta y formá la oración.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste tres estructuras con la て-form: てください (pedido educado: 'por favor hacé'), てもいい(ですか) (permiso: 'podés hacer / ¿puedo hacer?') y てはいけない/いけません (prohibición: 'no se puede hacer'). Todas usan la て-form como base. Recordá: て + も + いい (permiso positivo) vs て + は + いけない (prohibición). Son opuestos complementarios.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

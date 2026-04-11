@@ -1,0 +1,141 @@
+{
+  "id": "vocab-n4-10",
+  "title": "Vocabulario N4 de revisión mixta",
+  "description": "Ocho palabras de alto impacto que integran los temas del N4. Conceptos sobre el yo, los demás, las situaciones y la necesidad. Lección de cierre del bloque N4.",
+  "level": "n4",
+  "category": "vocabulary",
+  "prereq": ["vocab-n4-09"],
+  "items": [
+    {
+      "front": "自分",
+      "back": "uno mismo, yo",
+      "reading": "じぶん",
+      "explanation": "自分 (jibun) — 'uno mismo' o 'yo' con énfasis reflexivo. Ejemplo: 自分でやる (hacerlo uno mismo), 自分の意見 (mi propia opinión). También se usa como pronombre en ciertos contextos: 自分は... (yo, en primera persona informal masculina).",
+      "cardRef": { "category": "vocabulary", "front": "自分" }
+    },
+    {
+      "front": "相手",
+      "back": "la otra parte, interlocutor",
+      "reading": "あいて",
+      "explanation": "相手 (aite) — la otra persona en una interacción, el interlocutor, el rival. Ejemplo: 相手の気持ちを考える (pensar en los sentimientos del otro), 試合の相手 (el rival del partido). Es una palabra muy versátil en japonés.",
+      "cardRef": { "category": "vocabulary", "front": "相手" }
+    },
+    {
+      "front": "気持ち",
+      "back": "sentimiento, emoción",
+      "reading": "きもち",
+      "explanation": "気持ち (kimochi) — sentimiento, emoción o estado de ánimo. Ejemplo: 気持ちがいい (se siente bien), 気持ちを伝える (transmitir los sentimientos). 気持ち悪い (da asco / se siente mal) es una expresión muy común.",
+      "cardRef": { "category": "vocabulary", "front": "気持ち" }
+    },
+    {
+      "front": "様子",
+      "back": "aspecto, situación, apariencia",
+      "reading": "ようす",
+      "explanation": "様子 (yousu) — el aspecto externo o la situación de algo/alguien. Ejemplo: 様子を見る (ver cómo va la cosa / esperar y observar), 様子がおかしい (algo anda raro). Es una palabra de observación — describís lo que percibís desde afuera.",
+      "cardRef": { "category": "vocabulary", "front": "様子" }
+    },
+    {
+      "front": "場合",
+      "back": "caso, situación, circunstancia",
+      "reading": "ばあい",
+      "explanation": "場合 (baai) — caso o circunstancia específica. Ejemplo: その場合は... (en ese caso...), 緊急の場合 (en caso de emergencia). Se usa mucho en instrucciones y condiciones: 〜の場合は〜してください.",
+      "cardRef": { "category": "vocabulary", "front": "場合" }
+    },
+    {
+      "front": "必要",
+      "back": "necesario, necesidad",
+      "reading": "ひつよう",
+      "explanation": "必要 (hitsuyou) — necesario o la necesidad de algo. Ejemplo: 必要なものを買う (comprar lo necesario), その必要はない (no hay necesidad de eso). Como adjetivo: 必要な + sustantivo. Como sustantivo: 必要がある (hay necesidad).",
+      "cardRef": { "category": "vocabulary", "front": "必要" }
+    },
+    {
+      "front": "特に",
+      "back": "especialmente, en particular",
+      "reading": "とくに",
+      "explanation": "特に (toku ni) — especialmente o en particular, para destacar algo sobre lo demás. Ejemplo: 特に問題ない (no hay ningún problema en particular), 特に好きな食べ物 (la comida que me gusta especialmente). Con negativo: 特に〜ない = no particularmente.",
+      "cardRef": { "category": "vocabulary", "front": "特に" }
+    },
+    {
+      "front": "以上",
+      "back": "más de, o más; eso es todo (al concluir)",
+      "reading": "いじょう",
+      "explanation": "以上 (ijou) tiene dos usos principales: 1) '...o más / más de...': 三十人以上 (más de treinta personas); 2) 'eso es todo / concluye' al final de un discurso o lista formal. Ejemplo: 以上です (eso es todo). El par opuesto es 以下 (ijou) = 'o menos / lo siguiente'.",
+      "cardRef": { "category": "vocabulary", "front": "以上" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Palabras de cierre N4",
+      "instruction": "Esta lección reúne conceptos de alto valor que integran todo lo aprendido en el N4. Palabras sobre el yo (自分), los demás (相手), los sentimientos (気持ち), las situaciones (様子, 場合) y la necesidad (必要). Son palabras que vas a ver en casi cualquier texto japonés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto. Atención a 以上 — tiene dos usos muy distintos según el contexto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "En oraciones naturales",
+      "instruction": "Elegí la oración que usa la palabra correctamente.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "場合",
+            "translation": "caso, situación",
+            "options": [
+              "緊急の場合は、すぐに連絡してください。",
+              "緊急の様子は、すぐに連絡してください。",
+              "緊急の必要は、すぐに連絡してください。",
+              "緊急の以上は、すぐに連絡してください。"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "自分",
+            "translation": "uno mismo",
+            "options": [
+              "相手でやってみてください。",
+              "自分でやってみてください。",
+              "様子でやってみてください。",
+              "以上でやってみてください。"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "以上",
+            "translation": "eso es todo (al concluir)",
+            "options": [
+              "発表は以上です。ありがとうございました。",
+              "発表は必要です。ありがとうございました。",
+              "発表は特にです。ありがとうございました。",
+              "発表は場合です。ありがとうございました。"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "listen-identify",
+      "title": "Escuchá la palabra",
+      "instruction": "Escuchá la pronunciación e identificá la palabra correcta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Ves el español. Escribí la palabra en japonés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "¡N4 completado!",
+      "instruction": "Terminaste el bloque de vocabulario N4. Aprendiste las palabras de cierre: 自分 (uno mismo), 相手 (el otro), 気持ち (sentimiento), 様子 (aspecto/situación), 場合 (caso/circunstancia), 必要 (necesario), 特に (especialmente) y 以上 (más de / eso es todo). ¡Estos conceptos van a aparecer constantemente en tus lecturas y conversaciones!",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

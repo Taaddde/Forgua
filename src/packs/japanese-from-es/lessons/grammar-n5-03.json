@@ -7,21 +7,21 @@
   "items": [
     {
       "front": "は",
-      "back": "partícula de tema (wa)",
+      "back": "partícula de tema",
       "reading": "wa",
       "explanation": "Marca el TEMA de la oración. 'En cuanto a X...' → 私は = 'En cuanto a mí...'",
       "cardRef": { "category": "grammar", "front": "は（partícula） ([tema] + は + [comentario])" }
     },
     {
       "front": "を",
-      "back": "partícula de objeto directo (wo/o)",
+      "back": "partícula de objeto directo",
       "reading": "o",
       "explanation": "Marca el OBJETO del verbo. ごはんを食べる = 'comer arroz' (arroz es el objeto).",
       "cardRef": { "category": "grammar", "front": "を（partícula） ([objeto directo] + を + [verbo])" }
     },
     {
       "front": "に",
-      "back": "partícula de dirección/tiempo (ni)",
+      "back": "partícula de dirección/tiempo",
       "reading": "ni",
       "explanation": "Marca DESTINO, TIEMPO, o DESTINATARIO. 学校に行く = 'ir a la escuela'.",
       "cardRef": { "category": "grammar", "front": "に（partícula） ([destino/tiempo/lugar] + に)" }

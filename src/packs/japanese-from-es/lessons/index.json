@@ -221,12 +221,56 @@
       "newItemCount": 3
     },
     {
+      "id": "grammar-n5-13",
+      "title": "Negación y formalidad: だ、ではない、じゃありません",
+      "description": "Aprendé a negar en japonés tanto en el registro informal como en el formal",
+      "level": "n5",
+      "category": "grammar",
+      "order": 21,
+      "prerequisites": ["grammar-n5-01"],
+      "estimatedMinutes": 18,
+      "newItemCount": 5
+    },
+    {
+      "id": "grammar-n5-16",
+      "title": "Demostrativos: これ/それ/あれ y この/その/あの",
+      "description": "El sistema ko-so-a-do para señalar objetos según su distancia",
+      "level": "n5",
+      "category": "grammar",
+      "order": 22,
+      "prerequisites": ["grammar-n5-01"],
+      "estimatedMinutes": 15,
+      "newItemCount": 5
+    },
+    {
+      "id": "grammar-n5-17",
+      "title": "Interrogativos: 何、どこ、いつ、だれ",
+      "description": "Las palabras interrogativas básicas del japonés para hacer preguntas completas",
+      "level": "n5",
+      "category": "grammar",
+      "order": 23,
+      "prerequisites": ["grammar-n5-02"],
+      "estimatedMinutes": 15,
+      "newItemCount": 6
+    },
+    {
+      "id": "grammar-n5-18",
+      "title": "Partículas modales y marcadores: ね、よ、から、まで",
+      "description": "Matices conversacionales y marcadores de inicio y fin en tiempo y espacio",
+      "level": "n5",
+      "category": "grammar",
+      "order": 24,
+      "prerequisites": ["grammar-n5-02"],
+      "estimatedMinutes": 15,
+      "newItemCount": 6
+    },
+    {
       "id": "vocab-n5-03",
       "title": "Personas y familia",
       "description": "わたし、せんせい、ともだち — las personas a tu alrededor",
       "level": "n5",
       "category": "vocabulary",
-      "order": 21,
+      "order": 25,
       "prerequisites": ["grammar-n5-01"],
       "estimatedMinutes": 12,
       "newItemCount": 8
@@ -237,9 +281,31 @@
       "description": "Sujeto は Objeto を Verbo — la columna vertebral del japonés",
       "level": "n5",
       "category": "grammar",
-      "order": 22,
+      "order": 26,
       "prerequisites": ["grammar-n5-02", "vocab-n5-03"],
       "estimatedMinutes": 20,
+      "newItemCount": 5
+    },
+    {
+      "id": "grammar-n5-14",
+      "title": "Partículas de lugar y movimiento: で y へ",
+      "description": "Indicar dónde ocurre una acción con で y hacia dónde te movés con へ",
+      "level": "n5",
+      "category": "grammar",
+      "order": 27,
+      "prerequisites": ["grammar-n5-03"],
+      "estimatedMinutes": 15,
+      "newItemCount": 5
+    },
+    {
+      "id": "grammar-n5-15",
+      "title": "Conectores de sustantivos: と y や",
+      "description": "と (lista exhaustiva) y や (lista parcial con más implícito) — dos formas de decir 'y'",
+      "level": "n5",
+      "category": "grammar",
+      "order": 28,
+      "prerequisites": ["grammar-n5-03"],
+      "estimatedMinutes": 15,
       "newItemCount": 5
     },
     {
@@ -248,7 +314,7 @@
       "description": "みず、ごはん、パン — lo esencial para no morirte de hambre",
       "level": "n5",
       "category": "vocabulary",
-      "order": 23,
+      "order": 29,
       "prerequisites": ["vocab-n5-03"],
       "estimatedMinutes": 12,
       "newItemCount": 8
@@ -259,7 +325,7 @@
       "description": "La forma más importante para empezar a hablar japonés educadamente",
       "level": "n5",
       "category": "grammar",
-      "order": 24,
+      "order": 30,
       "prerequisites": ["grammar-n5-03"],
       "estimatedMinutes": 18,
       "newItemCount": 6
@@ -270,7 +336,7 @@
       "description": "がっこう、えき、びょういん — los lugares del día a día",
       "level": "n5",
       "category": "vocabulary",
-      "order": 25,
+      "order": 31,
       "prerequisites": ["vocab-n5-04"],
       "estimatedMinutes": 12,
       "newItemCount": 8
@@ -281,7 +347,7 @@
       "description": "Aprendé a hablar en pasado usando la forma educada",
       "level": "n5",
       "category": "grammar",
-      "order": 26,
+      "order": 32,
       "prerequisites": ["grammar-n5-04"],
       "estimatedMinutes": 18,
       "newItemCount": 6
@@ -292,7 +358,7 @@
       "description": "いま、きょう、あした — orientarse en el tiempo",
       "level": "n5",
       "category": "vocabulary",
-      "order": 27,
+      "order": 33,
       "prerequisites": ["vocab-n5-05"],
       "estimatedMinutes": 12,
       "newItemCount": 9
@@ -303,7 +369,7 @@
       "description": "Los adjetivos い se conjugan como verbos — presente, negativo, pasado",
       "level": "n5",
       "category": "grammar",
-      "order": 28,
+      "order": 34,
       "prerequisites": ["grammar-n5-04"],
       "estimatedMinutes": 15,
       "newItemCount": 5
@@ -314,7 +380,7 @@
       "description": "El segundo tipo de adjetivos del japonés y sus conjugaciones",
       "level": "n5",
       "category": "grammar",
-      "order": 29,
+      "order": 35,
       "prerequisites": ["grammar-n5-06"],
       "estimatedMinutes": 15,
       "newItemCount": 5
@@ -325,7 +391,7 @@
       "description": "食べる、飲む、見る — las acciones esenciales del día a día",
       "level": "n5",
       "category": "vocabulary",
-      "order": 30,
+      "order": 36,
       "prerequisites": ["vocab-n5-06"],
       "estimatedMinutes": 12,
       "newItemCount": 9
@@ -336,7 +402,7 @@
       "description": "書く、読む、話す — más verbos para tu arsenal",
       "level": "n5",
       "category": "vocabulary",
-      "order": 31,
+      "order": 37,
       "prerequisites": ["vocab-n5-07"],
       "estimatedMinutes": 12,
       "newItemCount": 8
@@ -347,7 +413,7 @@
       "description": "Posesión con の y 'también' con も",
       "level": "n5",
       "category": "grammar",
-      "order": 32,
+      "order": 38,
       "prerequisites": ["grammar-n5-03"],
       "estimatedMinutes": 12,
       "newItemCount": 4
@@ -358,7 +424,7 @@
       "description": "Dos verbos para 'existir': ある para objetos, いる para seres vivos",
       "level": "n5",
       "category": "grammar",
-      "order": 33,
+      "order": 39,
       "prerequisites": ["grammar-n5-04"],
       "estimatedMinutes": 15,
       "newItemCount": 5
@@ -369,7 +435,7 @@
       "description": "大きい、小さい、高い — describir el mundo a tu alrededor",
       "level": "n5",
       "category": "vocabulary",
-      "order": 34,
+      "order": 40,
       "prerequisites": ["vocab-n5-08"],
       "estimatedMinutes": 14,
       "newItemCount": 10
@@ -380,7 +446,7 @@
       "description": "きれい、静か、とても — más formas de describir y matizar",
       "level": "n5",
       "category": "vocabulary",
-      "order": 35,
+      "order": 41,
       "prerequisites": ["vocab-n5-09"],
       "estimatedMinutes": 12,
       "newItemCount": 9
@@ -391,7 +457,7 @@
       "description": "El sistema de contadores japonés — contar objetos, personas y más",
       "level": "n5",
       "category": "grammar",
-      "order": 36,
+      "order": 42,
       "prerequisites": ["grammar-n5-04"],
       "estimatedMinutes": 18,
       "newItemCount": 6
@@ -402,7 +468,7 @@
       "description": "La forma て — una de las construcciones más versátiles del japonés",
       "level": "n5",
       "category": "grammar",
-      "order": 37,
+      "order": 43,
       "prerequisites": ["grammar-n5-05"],
       "estimatedMinutes": 18,
       "newItemCount": 5
@@ -413,10 +479,32 @@
       "description": "Expresar lo que querés hacer y proponer actividades",
       "level": "n5",
       "category": "grammar",
-      "order": 38,
+      "order": 44,
       "prerequisites": ["grammar-n5-04"],
       "estimatedMinutes": 15,
       "newItemCount": 5
+    },
+    {
+      "id": "grammar-n5-19",
+      "title": "Peticiones y permisos: てください、てもいい、てはいけない",
+      "description": "Pedidos educados, permisos y prohibiciones usando la forma て",
+      "level": "n5",
+      "category": "grammar",
+      "order": 45,
+      "prerequisites": ["grammar-n5-11"],
+      "estimatedMinutes": 18,
+      "newItemCount": 6
+    },
+    {
+      "id": "grammar-n5-20",
+      "title": "Conectores y negación con て: でも/しかし、そして/それから、ないで/なくて",
+      "description": "Conectores discursivos y las dos formas de negación con te-form",
+      "level": "n5",
+      "category": "grammar",
+      "order": 46,
+      "prerequisites": ["grammar-n5-11"],
+      "estimatedMinutes": 15,
+      "newItemCount": 8
     },
     {
       "id": "kanji-n5-01",
@@ -424,7 +512,7 @@
       "description": "一、二、三... Los kanji más básicos, empezando por los números",
       "level": "n5",
       "category": "characters",
-      "order": 39,
+      "order": 47,
       "prerequisites": ["hiragana-10", "vocab-n5-02"],
       "estimatedMinutes": 20,
       "newItemCount": 18
@@ -435,7 +523,7 @@
       "description": "Personas, tamaños y elementos de la naturaleza",
       "level": "n5",
       "category": "characters",
-      "order": 40,
+      "order": 48,
       "prerequisites": ["kanji-n5-01"],
       "estimatedMinutes": 18,
       "newItemCount": 15
@@ -446,7 +534,7 @@
       "description": "Comer, beber, leer, escribir... Los verbos esenciales en kanji",
       "level": "n5",
       "category": "characters",
-      "order": 41,
+      "order": 49,
       "prerequisites": ["kanji-n5-02"],
       "estimatedMinutes": 18,
       "newItemCount": 15
@@ -457,10 +545,76 @@
       "description": "Arriba, abajo, puntos cardinales y conceptos de lugar",
       "level": "n5",
       "category": "characters",
-      "order": 42,
+      "order": 50,
       "prerequisites": ["kanji-n5-03"],
       "estimatedMinutes": 18,
       "newItemCount": 15
+    },
+    {
+      "id": "reading-n5-01",
+      "title": "Lectura N5: わたしのいちにち",
+      "description": "Tu primera lectura en japonés real — un día típico en presente simple",
+      "level": "n5",
+      "category": "mixed",
+      "order": 51,
+      "prerequisites": ["grammar-n5-04", "vocab-n5-06"],
+      "estimatedMinutes": 15,
+      "newItemCount": 3
+    },
+    {
+      "id": "reading-n5-02",
+      "title": "Lectura N5: わたしのかぞく",
+      "description": "Describí tu familia en japonés — edades, profesiones y la forma ている",
+      "level": "n5",
+      "category": "mixed",
+      "order": 52,
+      "prerequisites": ["reading-n5-01", "vocab-n5-03"],
+      "estimatedMinutes": 15,
+      "newItemCount": 3
+    },
+    {
+      "id": "reading-n5-03",
+      "title": "Lectura N5: がっこう",
+      "description": "La vida universitaria — horarios, materias y actividades académicas",
+      "level": "n5",
+      "category": "mixed",
+      "order": 53,
+      "prerequisites": ["reading-n5-02"],
+      "estimatedMinutes": 15,
+      "newItemCount": 3
+    },
+    {
+      "id": "reading-n5-04",
+      "title": "Lectura N5: かいもの",
+      "description": "Ir de compras — pasado, precios y adjetivos en acción",
+      "level": "n5",
+      "category": "mixed",
+      "order": 54,
+      "prerequisites": ["reading-n5-03", "vocab-n5-04"],
+      "estimatedMinutes": 15,
+      "newItemCount": 3
+    },
+    {
+      "id": "reading-n5-05",
+      "title": "Lectura N5: レストランで",
+      "description": "En el restaurante — pedir comida, describir sabores, experiencias gastronómicas",
+      "level": "n5",
+      "category": "mixed",
+      "order": 55,
+      "prerequisites": ["reading-n5-04"],
+      "estimatedMinutes": 15,
+      "newItemCount": 3
+    },
+    {
+      "id": "reading-n5-06",
+      "title": "Lectura N5: しゅうまつ",
+      "description": "El fin de semana — verbos encadenados con て-form e integración del vocabulario N5",
+      "level": "n5",
+      "category": "mixed",
+      "order": 56,
+      "prerequisites": ["reading-n5-05"],
+      "estimatedMinutes": 15,
+      "newItemCount": 3
     },
     {
       "id": "vocab-n4-01",
@@ -468,7 +622,7 @@
       "description": "開ける↔開く, 閉める↔閉まる — pares de verbos que cambian tu japonés",
       "level": "n4",
       "category": "vocabulary",
-      "order": 43,
+      "order": 57,
       "prerequisites": ["grammar-n5-11"],
       "estimatedMinutes": 15,
       "newItemCount": 8
@@ -479,8 +633,96 @@
       "description": "もちろん, たぶん, やっぱり — adverbios para sonar natural",
       "level": "n4",
       "category": "vocabulary",
-      "order": 44,
+      "order": 58,
       "prerequisites": ["vocab-n4-01"],
+      "estimatedMinutes": 12,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-n4-03",
+      "title": "Verbos N4: つける/つく, 直す/直る y más",
+      "description": "Cuatro pares de verbos transitivos e intransitivos esenciales del N4",
+      "level": "n4",
+      "category": "vocabulary",
+      "order": 59,
+      "prerequisites": ["vocab-n4-01"],
+      "estimatedMinutes": 15,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-n4-04",
+      "title": "Sustantivos abstractos N4: 経験、意見、関係、文化",
+      "description": "Sustantivos de ideas, relaciones y conceptos sociales",
+      "level": "n4",
+      "category": "vocabulary",
+      "order": 60,
+      "prerequisites": ["vocab-n4-02"],
+      "estimatedMinutes": 12,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-n4-05",
+      "title": "Sustantivos de comunicación y trabajo N4",
+      "description": "Vocabulario clave para el mundo laboral y la comunicación formal",
+      "level": "n4",
+      "category": "vocabulary",
+      "order": 61,
+      "prerequisites": ["vocab-n4-04"],
+      "estimatedMinutes": 12,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-n4-06",
+      "title": "Verbos de movimiento y cambio N4",
+      "description": "Verbos que describen movimientos, desplazamientos y cambios de situación",
+      "level": "n4",
+      "category": "vocabulary",
+      "order": 62,
+      "prerequisites": ["vocab-n4-03"],
+      "estimatedMinutes": 12,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-n4-07",
+      "title": "Expresiones de tiempo y frecuencia N4",
+      "description": "最近, 以前, 突然 — adverbios temporales para un japonés más preciso",
+      "level": "n4",
+      "category": "vocabulary",
+      "order": 63,
+      "prerequisites": ["vocab-n4-02"],
+      "estimatedMinutes": 12,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-n4-08",
+      "title": "Adjetivos N4: personalidad y sentimientos",
+      "description": "丁寧, 正直, 悔しい — adjetivos que capturan matices culturales únicos",
+      "level": "n4",
+      "category": "vocabulary",
+      "order": 64,
+      "prerequisites": ["vocab-n4-05"],
+      "estimatedMinutes": 14,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-n4-09",
+      "title": "Expresiones N4: やっぱり, せっかく y más",
+      "description": "Marcadores discursivos que le dan sabor y naturalidad al japonés",
+      "level": "n4",
+      "category": "vocabulary",
+      "order": 65,
+      "prerequisites": ["vocab-n4-07"],
+      "estimatedMinutes": 12,
+      "newItemCount": 8
+    },
+    {
+      "id": "vocab-n4-10",
+      "title": "Vocabulario N4 de revisión mixta",
+      "description": "自分, 相手, 場合 — ocho palabras de alto impacto para cerrar el bloque N4",
+      "level": "n4",
+      "category": "vocabulary",
+      "order": 66,
+      "prerequisites": ["vocab-n4-09"],
       "estimatedMinutes": 12,
       "newItemCount": 8
     },
@@ -490,7 +732,7 @@
       "description": "Acción en progreso y estados resultantes con ている",
       "level": "n4",
       "category": "grammar",
-      "order": 45,
+      "order": 67,
       "prerequisites": ["grammar-n5-11"],
       "estimatedMinutes": 18,
       "newItemCount": 5
@@ -501,7 +743,7 @@
       "description": "Dos formas de decir 'si...' en japonés",
       "level": "n4",
       "category": "grammar",
-      "order": 46,
+      "order": 68,
       "prerequisites": ["grammar-n4-01"],
       "estimatedMinutes": 18,
       "newItemCount": 5
@@ -512,7 +754,7 @@
       "description": "El sistema japonés de dar y recibir — quién da a quién",
       "level": "n4",
       "category": "grammar",
-      "order": 47,
+      "order": 69,
       "prerequisites": ["grammar-n4-01"],
       "estimatedMinutes": 18,
       "newItemCount": 5
@@ -523,10 +765,120 @@
       "description": "Voz pasiva y la pasiva de sufrimiento, única del japonés",
       "level": "n4",
       "category": "grammar",
-      "order": 48,
+      "order": 70,
       "prerequisites": ["grammar-n4-02"],
       "estimatedMinutes": 18,
       "newItemCount": 5
+    },
+    {
+      "id": "grammar-n4-05",
+      "title": "Condicionales: なら y 〜と",
+      "description": "Dos condicionales con matices distintos: condición basada en información y resultado automático",
+      "level": "n4",
+      "category": "grammar",
+      "order": 71,
+      "prerequisites": ["grammar-n4-02"],
+      "estimatedMinutes": 18,
+      "newItemCount": 5
+    },
+    {
+      "id": "grammar-n4-06",
+      "title": "Causativo: 〜させる / 〜せる",
+      "description": "Hacer que alguien haga algo o permitirle hacerlo — la voz causativa",
+      "level": "n4",
+      "category": "grammar",
+      "order": 72,
+      "prerequisites": ["grammar-n4-01"],
+      "estimatedMinutes": 18,
+      "newItemCount": 6
+    },
+    {
+      "id": "grammar-n4-07",
+      "title": "Potencial: 〜できる / 〜える / 〜られる",
+      "description": "Expresar capacidad y habilidad — y la ambigüedad con la voz pasiva",
+      "level": "n4",
+      "category": "grammar",
+      "order": 73,
+      "prerequisites": ["grammar-n4-01"],
+      "estimatedMinutes": 18,
+      "newItemCount": 6
+    },
+    {
+      "id": "grammar-n4-08",
+      "title": "Obligación y permiso: 〜なければならない / 〜なくてもいい",
+      "description": "Expresar lo que hay que hacer y lo que no es necesario hacer",
+      "level": "n4",
+      "category": "grammar",
+      "order": 74,
+      "prerequisites": ["grammar-n4-01"],
+      "estimatedMinutes": 18,
+      "newItemCount": 5
+    },
+    {
+      "id": "grammar-n4-09",
+      "title": "Intención y planes: 〜つもり / 〜予定",
+      "description": "La diferencia entre una intención personal y un plan ya programado",
+      "level": "n4",
+      "category": "grammar",
+      "order": 75,
+      "prerequisites": ["grammar-n4-01"],
+      "estimatedMinutes": 18,
+      "newItemCount": 5
+    },
+    {
+      "id": "grammar-n4-10",
+      "title": "Cambio de estado: 〜ようにする / 〜ようになる",
+      "description": "Esforzarse por cambiar una conducta vs. cambios graduales logrados con el tiempo",
+      "level": "n4",
+      "category": "grammar",
+      "order": 76,
+      "prerequisites": ["grammar-n4-01"],
+      "estimatedMinutes": 18,
+      "newItemCount": 5
+    },
+    {
+      "id": "grammar-n4-11",
+      "title": "Apariencia e información: そうだ / みたいだ / らしい / ようだ",
+      "description": "Cuatro formas de decir 'parece que' — cada una con matices distintos de evidencia",
+      "level": "n4",
+      "category": "grammar",
+      "order": 77,
+      "prerequisites": ["grammar-n4-01"],
+      "estimatedMinutes": 20,
+      "newItemCount": 7
+    },
+    {
+      "id": "grammar-n4-12",
+      "title": "Acciones con dirección y resultado: 〜ていく / 〜てくる / 〜てしまう / 〜ておく",
+      "description": "Cuatro combinaciones de te-form que agregan dirección, finalización, lamento y preparación",
+      "level": "n4",
+      "category": "grammar",
+      "order": 78,
+      "prerequisites": ["grammar-n4-01"],
+      "estimatedMinutes": 20,
+      "newItemCount": 7
+    },
+    {
+      "id": "grammar-n4-13",
+      "title": "Nominalización con こと: ことがある / ことにする / ことになる",
+      "description": "Experiencias, decisiones propias y resultados de circunstancias externas con こと",
+      "level": "n4",
+      "category": "grammar",
+      "order": 79,
+      "prerequisites": ["grammar-n4-09"],
+      "estimatedMinutes": 18,
+      "newItemCount": 6
+    },
+    {
+      "id": "grammar-n4-14",
+      "title": "Comparación y grado: 〜より〜ほう / 〜すぎる / 〜にくい・やすい",
+      "description": "Comparar cosas, expresar exceso y describir la facilidad o dificultad de una acción",
+      "level": "n4",
+      "category": "grammar",
+      "order": 80,
+      "prerequisites": ["grammar-n4-05"],
+      "estimatedMinutes": 18,
+      "newItemCount": 7
     }
   ]
 }

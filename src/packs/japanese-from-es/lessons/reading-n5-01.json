@@ -1,0 +1,114 @@
+{
+  "id": "reading-n5-01",
+  "title": "Lectura N5: わたしのいちにち",
+  "description": "Tu primera lectura en japonés real. Vocabulario del día a día en presente simple con partículas básicas. Un día típico descripto en hiragana.",
+  "level": "n5",
+  "category": "mixed",
+  "prereq": ["grammar-n5-04", "vocab-n5-06"],
+  "items": [
+    {
+      "front": "おきる",
+      "back": "levantarse",
+      "reading": "おきる",
+      "explanation": "起きる (okiru) — levantarse, despertarse. Verbo ichidan. En el texto: 'しちじに おきます' = me levanto a las siete. La partícula に indica la hora exacta.",
+      "cardRef": { "category": "vocabulary", "front": "起きる" }
+    },
+    {
+      "front": "たべる",
+      "back": "comer",
+      "reading": "たべる",
+      "explanation": "食べる (taberu) — comer. Verbo ichidan. En el texto: 'あさごはんを たべます' = desayuno (lit. como el desayuno). La partícula を marca el objeto directo.",
+      "cardRef": { "category": "vocabulary", "front": "食べる" }
+    },
+    {
+      "front": "はたらく",
+      "back": "trabajar",
+      "reading": "はたらく",
+      "explanation": "働く (hataraku) — trabajar. Verbo godan. En el texto: 'ごじまで はたらきます' = trabajo hasta las cinco. La partícula まで indica el límite de tiempo.",
+      "cardRef": { "category": "vocabulary", "front": "働く" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario del texto",
+      "instruction": "Antes de leer, conocé estas tres palabras clave del texto. Fijate en las partículas que las acompañan: に (tiempo/lugar), を (objeto directo), まで (hasta).",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Lectura: わたしのいちにち",
+      "instruction": "Leé el texto completo con atención. Usá el glosario de ayuda si necesitás. Después respondé las preguntas de comprensión.",
+      "itemIndices": [],
+      "config": {
+        "passage": {
+          "id": "n5-reading-my-day",
+          "title": "わたしのいちにち",
+          "level": "n5",
+          "text": "わたしは まいにち しちじに おきます。かおを あらって、あさごはんを たべます。あさごはんは いつも パンと たまごです。はちじに いえを でて、でんしゃで かいしゃに いきます。かいしゃで ごじまで はたらきます。しごとの あとで、スーパーで かいものを します。いえに かえって、ばんごはんを つくります。じゅういちじごろ ねます。",
+          "translation": "Me levanto todos los días a las siete. Me lavo la cara y desayuno. El desayuno siempre es pan y huevo. A las ocho salgo de casa y voy a la empresa en tren. Trabajo en la empresa hasta las cinco. Después del trabajo, hago las compras en el supermercado. Vuelvo a casa y preparo la cena. Me acuesto alrededor de las once.",
+          "vocabulary": [
+            "まいにち - todos los días",
+            "しちじ - las siete",
+            "おきます - levantarse",
+            "かお - cara",
+            "あらう - lavar",
+            "あさごはん - desayuno",
+            "いつも - siempre",
+            "たまご - huevo",
+            "いえ - casa",
+            "でる - salir",
+            "でんしゃ - tren",
+            "かいしゃ - empresa",
+            "はたらく - trabajar",
+            "しごと - trabajo",
+            "あとで - después",
+            "かいもの - compras",
+            "かえる - volver",
+            "ばんごはん - cena",
+            "つくる - preparar/hacer",
+            "ねる - acostarse/dormir"
+          ],
+          "questions": [
+            {
+              "question": "この ひとは なんじに おきますか。",
+              "options": ["ろくじに おきます。", "しちじに おきます。", "はちじに おきます。", "くじに おきます。"],
+              "correctIndex": 1,
+              "explanation": "テキストに「しちじに おきます」とあります。(En el texto dice 'se levanta a las siete'.)"
+            },
+            {
+              "question": "かいしゃに なにで いきますか。",
+              "options": ["バスで いきます。", "くるまで いきます。", "でんしゃで いきます。", "あるいて いきます。"],
+              "correctIndex": 2,
+              "explanation": "テキストに「でんしゃで かいしゃに いきます」とあります。(En el texto dice 'va a la empresa en tren'.)"
+            },
+            {
+              "question": "しごとの あとで なにを しますか。",
+              "options": ["えいがを みます。", "ともだちに あいます。", "スーパーで かいものを します。", "こうえんを さんぽします。"],
+              "correctIndex": 2,
+              "explanation": "テキストに「スーパーで かいものを します」とあります。(En el texto dice 'hace compras en el supermercado'.)"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "recognize",
+      "title": "Vocabulario del texto",
+      "instruction": "Elegí el significado correcto de cada palabra.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se escribe?",
+      "instruction": "Ves el español. Escribí la palabra en japonés (hiragana está bien).",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "summary",
+      "title": "¡Primera lectura completada!",
+      "instruction": "Leíste tu primera historia completa en japonés. El texto usa presente simple (〜ます), partículas básicas (に, を, で, と) y vocabulario del día a día. Las estructuras clave: [hora]に + verbo (me levanto a las siete), [lugar]で + verbo (trabajo en la empresa), [lugar]に + いきます/かえります (ir / volver a un lugar).",
+      "itemIndices": [0, 1, 2]
+    }
+  ]
+}

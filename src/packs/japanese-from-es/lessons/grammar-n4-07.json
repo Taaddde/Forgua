@@ -1,0 +1,177 @@
+{
+  "id": "grammar-n4-07",
+  "title": "Potencial: 〜できる / 〜える / 〜られる",
+  "description": "Aprendé a expresar capacidad o habilidad ('poder hacer algo') en japonés. Incluye la ambigüedad entre potencial y pasiva, un punto clave de N4.",
+  "level": "n4",
+  "category": "grammar",
+  "prerequisites": ["grammar-n4-01"],
+  "items": [
+    {
+      "front": "できる",
+      "back": "poder hacer (con sustantivos de acción o suru-verbs)",
+      "reading": "できる",
+      "explanation": "できる (dekiru) es la forma potencial de する y se usa con sustantivos de acción: 日本語が話すことができる (puedo hablar japonés). También se usa solo: できた (¡lo logré! / ¡pude!). Con sustantivos: 料理ができる (puedo cocinar / sé cocinar). Nota: el objeto del potencial suele ir con が, no を.",
+      "cardRef": { "category": "grammar", "front": "できる" }
+    },
+    {
+      "front": "〜える / 〜られる",
+      "back": "poder hacer (forma potencial directa)",
+      "reading": "eru / rareru",
+      "explanation": "La forma potencial de los verbos se forma así: Verbos godan: cambiás la última sílaba a la columna え (話す→話せる, 書く→書ける, 飲む→飲める). Verbos ichidan: sacás る y ponés られる (食べる→食べられる, 見る→見られる). El objeto suele tomar が en vez de を, aunque を también es aceptado en japonés moderno.",
+      "cardRef": { "category": "grammar", "front": "〜える / 〜られる" }
+    },
+    {
+      "front": "話せる",
+      "back": "poder hablar",
+      "reading": "はなせる",
+      "explanation": "話せる (hanaseru) viene de 話す (godan): 話す → 話せる. Ejemplo: 日本語が話せる (puedo hablar japonés). Fijate que el objeto de hablar (日本語) toma が, no を. Esto es típico del potencial: el 'objeto' se convierte en sujeto de la capacidad.",
+      "cardRef": { "category": "grammar", "front": "話せる" }
+    },
+    {
+      "front": "読める",
+      "back": "poder leer",
+      "reading": "よめる",
+      "explanation": "読める (yomeru) viene de 読む (godan): 読む → 読める. Ejemplo: 漢字が読める (puedo leer kanji). Es la forma potencial godan donde む→める. Con el tiempo, cuando podás leer naturalmente, vas a usar esta forma sin pensar.",
+      "cardRef": { "category": "grammar", "front": "読める" }
+    },
+    {
+      "front": "来られる",
+      "back": "poder venir",
+      "reading": "こられる",
+      "explanation": "来られる (korareru) es el potencial del verbo irregular 来る (kuru). 来る → 来られる. Ejemplo: 明日来られますか (¿podés venir mañana?). Es un verbo irregular como する — hay que memorizarlo. En japonés coloquial moderno también se dice 来れる, pero られる es el estándar.",
+      "cardRef": { "category": "grammar", "front": "来られる" }
+    },
+    {
+      "front": "食べられる (ambigüedad)",
+      "back": "poder comer (potencial) O ser comido (pasiva)",
+      "reading": "たべられる",
+      "explanation": "食べられる (taberareru) puede ser POTENCIAL (poder comer) o PASIVA (ser comido). Ambos se forman igual en verbos ichidan. El contexto lo aclara: 私はナットウが食べられる (puedo comer nattō — potencial). ケーキが食べられた (el pastel fue comido — pasiva). Esta ambigüedad es real y los japoneses la resuelven con contexto.",
+      "cardRef": { "category": "grammar", "front": "食べられる (ambigüedad)" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Dos formas de expresar 'poder'",
+      "instruction": "En japonés hay dos caminos para decir 'puedo hacer algo': 1) できる con sustantivos de acción (日本語が話すことができる). 2) La forma potencial directa: godan → columna え (話す→話せる, 読む→読める), ichidan → られる (食べる→食べられる). Ambos son correctos; la forma directa suena más natural.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Potencial vs pasiva — la ambigüedad de られる",
+      "instruction": "Los verbos ichidan en potencial (〜られる) son idénticos a la forma pasiva. 食べられる puede ser 'puedo comer' o 'ser comido'. El contexto siempre aclara cuál es. Además, come られる (来られる) como potencial es distinto a venir pasiva — con 来る solo tiene forma potencial. Prestá atención al sujeto y al contexto.",
+      "itemIndices": [4, 5]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa esta forma?",
+      "instruction": "Elegí el significado correcto. Con ichidan, fijate si es potencial o pasiva según el contexto.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "write",
+      "title": "Formá el potencial",
+      "instruction": "Ves el verbo en forma de diccionario. Escribí su forma potencial.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá oraciones con el potencial",
+      "instruction": "Arrastrá las piezas para formar oraciones usando la forma potencial.",
+      "itemIndices": [2, 3, 4],
+      "config": {
+        "sentences": [
+          {
+            "fragments": ["日本語", "が", "話せる"],
+            "correctOrder": [0, 1, 2],
+            "translation": "Puedo hablar japonés"
+          },
+          {
+            "fragments": ["漢字", "が", "読める", "ように", "なった"],
+            "correctOrder": [0, 1, 2, 3, 4],
+            "translation": "Llegué a poder leer kanji"
+          },
+          {
+            "fragments": ["明日", "来られます", "か"],
+            "correctOrder": [0, 1, 2],
+            "translation": "¿Podés venir mañana?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con la forma potencial correcta",
+      "instruction": "Elegí la forma potencial adecuada según el verbo.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "この漢字が{0}か？",
+            "blanks": [
+              { "answer": "読めます", "options": ["読めます", "読まれます", "読みます", "読ませます"] }
+            ]
+          },
+          {
+            "template": "私は辛い物が{0}ません。",
+            "blanks": [
+              { "answer": "食べられ", "options": ["食べられ", "食べさせ", "食べられさせ", "食べ"] }
+            ]
+          },
+          {
+            "template": "子供でも{0}問題だ。",
+            "blanks": [
+              { "answer": "できる", "options": ["できる", "できさせる", "できられる", "できさせられる"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Correcto o incorrecto?",
+      "instruction": "Analizá cada oración. Decí si el uso del potencial es correcto.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "日本語を話せる。",
+            "isCorrect": false,
+            "explanation": "Con la forma potencial, el objeto normalmente toma が (o puede omitirse). Decir 日本語が話せる es más natural. Aunque を es aceptado en japonés moderno, が es el estándar del potencial.",
+            "errorType": "particle-usage"
+          },
+          {
+            "sentence": "この映画が見られます。",
+            "isCorrect": true,
+            "explanation": "Correcto. 見られます es la forma potencial (puedo ver) de 見る. El objeto con が es correcto en potencial. Contextualmente queda claro que es potencial y no pasiva.",
+            "errorType": "potential-usage"
+          },
+          {
+            "sentence": "私はピアノができる。",
+            "isCorrect": true,
+            "explanation": "Correcto. できる con un sustantivo (ピアノ) expresa habilidad: 'sé tocar el piano' / 'puedo tocar el piano'. Este es un uso estándar de できる.",
+            "errorType": "potential-usage"
+          },
+          {
+            "sentence": "明日来れますか？",
+            "isCorrect": false,
+            "explanation": "来れる es una forma coloquial moderna (ra-nuki), pero el estándar N4 es 来られる. En examen escribí 来られますか. En conversación cotidiana se acepta 来れる.",
+            "errorType": "potential-usage"
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "Producí la forma potencial",
+      "instruction": "Ves la oración en español. Escribí en japonés usando la forma potencial correcta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "¡Potencial dominado!",
+      "instruction": "Aprendiste la forma potencial: godan → columna え (話す→話せる, 読む→読める), ichidan → られる (食べる→食べられる), する→できる, くる→来られる. Recordá: el objeto en potencial suele tomar が. Y con ichidan, られる puede ser potencial o pasiva — el contexto lo aclara siempre.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

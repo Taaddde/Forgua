@@ -1,0 +1,172 @@
+{
+  "id": "grammar-n4-08",
+  "title": "Obligación y permiso: 〜なければならない / 〜なくてもいい",
+  "description": "Aprendé a expresar obligación ('tengo que hacer') y ausencia de obligación ('no es necesario hacer'). Estructuras esenciales para el japonés cotidiano y formal.",
+  "level": "n4",
+  "category": "grammar",
+  "prerequisites": ["grammar-n4-01"],
+  "items": [
+    {
+      "front": "〜なければならない",
+      "back": "tener que... / deber... (obligación)",
+      "reading": "nakereba naranai",
+      "explanation": "〜なければならない (nakereba naranai) expresa obligación: 'tengo que / debo hacer X'. Se forma: forma negativa del verbo sin い (nai-form sin い) + ければならない. 食べる → 食べなければならない (tengo que comer). Literalmente: 'si no lo hago, no está bien'. Es formal pero muy común.",
+      "cardRef": { "category": "grammar", "front": "〜なければならない" }
+    },
+    {
+      "front": "〜なきゃ / 〜なきゃいけない",
+      "back": "tengo que... (forma informal de 〜なければならない)",
+      "reading": "nakya / nakya ikenai",
+      "explanation": "〜なきゃ (nakya) es la contracción coloquial de なければ. 行かなければならない → 行かなきゃ. También se dice 行かなきゃいけない, que es igual de informal. En conversación cotidiana vas a escuchar estas formas constantemente. En writing formal siempre usá なければならない.",
+      "cardRef": { "category": "grammar", "front": "〜なきゃ / 〜なきゃいけない" }
+    },
+    {
+      "front": "〜なくてもいい",
+      "back": "no es necesario... / no hace falta... (ausencia de obligación)",
+      "reading": "nakutemo ii",
+      "explanation": "〜なくてもいい (nakutemo ii) expresa que algo NO es necesario o no hace falta. Se forma: forma negativa te-form (なくて) + もいい. 来る → 来なくてもいいです (no es necesario que vengas). Ojo: no es 'no podés hacer' — es 'no TENÉS que hacer'. Distinción clave.",
+      "cardRef": { "category": "grammar", "front": "〜なくてもいい" }
+    },
+    {
+      "front": "宿題をしなければならない",
+      "back": "tengo que hacer la tarea",
+      "reading": "しゅくだいをしなければならない",
+      "explanation": "宿題をしなければならない (shukudai o shinakereba naranai): する → しなければならない. Es el ejemplo prototípico de obligación. Fijate que する se vuelve し para la nai-form: する→しない, entonces →しなければ. Podés también decir 宿題をしなきゃ en conversación.",
+      "cardRef": { "category": "grammar", "front": "宿題をしなければならない" }
+    },
+    {
+      "front": "今日は来なくてもいいです",
+      "back": "No es necesario que vengas hoy",
+      "reading": "きょうはこなくてもいいです",
+      "explanation": "今日は来なくてもいいです (kyō wa konakutemo ii desu): 来る → 来ない → 来なくて + もいい. Es una forma muy útil para liberar a alguien de una obligación. En japonés, decir esto es un gesto amable — 'no te preocupes, no hace falta que vengas'.",
+      "cardRef": { "category": "grammar", "front": "今日は来なくてもいいです" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Expresar obligación con 〜なければならない",
+      "instruction": "Para decir 'tengo que hacer X', usás la nai-form del verbo (sin い) + ければならない. 食べる→食べない→食べなければならない. 行く→行かない→行かなければならない. En conversación, se acorta a なきゃ o なきゃいけない. El significado es literalmente 'si no lo hago, no está bien'.",
+      "itemIndices": [0, 1, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "Ausencia de obligación: 〜なくてもいい",
+      "instruction": "Para decir 'no es necesario hacer X', usás la te-form negativa (なくて) + もいい. 来る→来ない→来なくて→来なくてもいい. Cuidado con la diferencia: なくてもいい (no hace falta) vs てはいけない (no podés / está prohibido). Son opuestos importantes.",
+      "itemIndices": [2, 4]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Obligación o no necesario?",
+      "instruction": "Elegí el significado correcto. Prestá atención a si expresa obligación o ausencia de obligación.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "write",
+      "title": "Escribí la obligación o el permiso",
+      "instruction": "Ves el verbo. Escribí la forma 〜なければならない o 〜なくてもいい según la indicación.",
+      "itemIndices": [0, 2, 3, 4]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá oraciones de obligación y permiso",
+      "instruction": "Arrastrá las piezas para formar oraciones completas.",
+      "itemIndices": [0, 2, 3, 4],
+      "config": {
+        "sentences": [
+          {
+            "fragments": ["宿題", "を", "しなければ", "ならない"],
+            "correctOrder": [0, 1, 2, 3],
+            "translation": "Tengo que hacer la tarea"
+          },
+          {
+            "fragments": ["今日", "は", "来なくて", "も", "いいです"],
+            "correctOrder": [0, 1, 2, 3, 4],
+            "translation": "No es necesario que vengas hoy"
+          },
+          {
+            "fragments": ["明日", "までに", "レポート", "を", "出さなければ", "いけない"],
+            "correctOrder": [0, 1, 2, 3, 4, 5],
+            "translation": "Tengo que entregar el informe para mañana"
+          }
+        ]
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con la forma correcta",
+      "instruction": "Elegí la forma que expresa correctamente obligación o ausencia de obligación.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "毎日薬{0}飲まなければ{1}。",
+            "blanks": [
+              { "answer": "を", "options": ["を", "が", "は", "に"] },
+              { "answer": "なりません", "options": ["なりません", "いけません", "なります", "いきます"] }
+            ]
+          },
+          {
+            "template": "制服{0}着なくて{1}いいですか？",
+            "blanks": [
+              { "answer": "は", "options": ["は", "を", "が", "も"] },
+              { "answer": "も", "options": ["も", "は", "が", "で"] }
+            ]
+          },
+          {
+            "template": "急がなきゃ{0}！",
+            "blanks": [
+              { "answer": "いけない", "options": ["いけない", "ならない", "いい", "だめ"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Correcto o incorrecto?",
+      "instruction": "Analizá cada oración. ¿El uso de la obligación o el permiso es correcto?",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "もう帰らなくてもいけない。",
+            "isCorrect": false,
+            "explanation": "Incorrecto. なくてもいけない mezcla dos estructuras. Para obligación: 帰らなければいけない (tengo que irme). Para ausencia de obligación: 帰らなくてもいい (no hace falta que me vaya). No combinés los dos.",
+            "errorType": "obligation-structure"
+          },
+          {
+            "sentence": "学生は毎日学校に来なければなりません。",
+            "isCorrect": true,
+            "explanation": "Correcto. 来なければなりません es la forma polite de 来なければならない. La estructura es perfecta: 来ない→来なければ→来なければなりません.",
+            "errorType": "obligation-structure"
+          },
+          {
+            "sentence": "今日は残業しなきゃいけないな。",
+            "isCorrect": true,
+            "explanation": "Correcto. なきゃいけない es la forma coloquial de なければならない. Es completamente natural en conversación casual.",
+            "errorType": "obligation-structure"
+          },
+          {
+            "sentence": "宿題をしなければいいです。",
+            "isCorrect": false,
+            "explanation": "Incorrecto. なければいいです no es la estructura correcta. Para decir 'no hace falta hacer la tarea': 宿題をしなくてもいいです. Para obligación: 宿題をしなければなりません.",
+            "errorType": "obligation-structure"
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "Producí la forma correcta",
+      "instruction": "Ves la situación en español. Escribí en japonés usando 〜なければならない o 〜なくてもいい.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "¡Obligación y permiso dominados!",
+      "instruction": "Aprendiste dos estructuras clave: 〜なければならない / 〜なきゃ (tengo que, formal/informal) y 〜なくてもいい (no hace falta). Formación: nai-form sin い + ければならない para obligación; te-form negativa (なくて) + もいい para ausencia de obligación. En conversación: なきゃ es lo que vas a escuchar siempre.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    }
+  ]
+}

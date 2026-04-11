@@ -1,0 +1,141 @@
+{
+  "id": "vocab-n4-09",
+  "title": "Expresiones N4: やっぱり, せっかく y más",
+  "description": "Expresiones que le dan sabor y naturalidad al japonés. Estas palabras son difíciles de traducir directamente pero son clave para sonar como un hablante real.",
+  "level": "n4",
+  "category": "vocabulary",
+  "prereq": ["vocab-n4-07"],
+  "items": [
+    {
+      "front": "やはり / やっぱり",
+      "back": "como era de esperar, después de todo",
+      "reading": "やっぱり",
+      "explanation": "やっぱり (yappari) — expresa que algo confirma lo que ya se esperaba. Ejemplo: やっぱり彼が来なかった (como era de esperar, él no vino). やはり es la forma más formal. Es la sensación de 'lo sabía'.",
+      "cardRef": { "category": "vocabulary", "front": "やっぱり" }
+    },
+    {
+      "front": "せっかく",
+      "back": "habiendo hecho el esfuerzo de... / ya que (aprovechando)",
+      "reading": "せっかく",
+      "explanation": "せっかく (sekkaku) — expresa que algo se hace con esfuerzo especial y sería una lástima no aprovecharlo. Ejemplo: せっかく来たんだから楽しもう (ya que viniste con todo el esfuerzo, disfrutemos). También: せっかくの機会 (una oportunidad que no debe perderse).",
+      "cardRef": { "category": "vocabulary", "front": "せっかく" }
+    },
+    {
+      "front": "なるほど",
+      "back": "ah, ya veo / tiene sentido",
+      "reading": "なるほど",
+      "explanation": "なるほど (naruhodo) — 'ya veo', 'tiene sentido', 'ahá'. Se usa cuando algo te resulta claro después de una explicación. Ejemplo: なるほど、そういうことか (ah, ya veo, eso es lo que significa). Es muy común en conversaciones.",
+      "cardRef": { "category": "vocabulary", "front": "なるほど" }
+    },
+    {
+      "front": "ところで",
+      "back": "a propósito, cambiando de tema",
+      "reading": "ところで",
+      "explanation": "ところで (tokoro de) — 'a propósito' o 'cambiando de tema'. Se usa para introducir un tema nuevo en conversación. Ejemplo: ところで、来週の予定は？(A propósito, ¿qué planes tenés la semana que viene?). Es un marcador de discurso muy útil.",
+      "cardRef": { "category": "vocabulary", "front": "ところで" }
+    },
+    {
+      "front": "それに",
+      "back": "además, y encima de eso",
+      "reading": "それに",
+      "explanation": "それに (sore ni) — 'además' o 'y encima de eso', agrega información complementaria. Ejemplo: 高い。それに、遠い。(Es caro. Y encima, está lejos). Conecta oraciones adicionando argumentos en la misma dirección.",
+      "cardRef": { "category": "vocabulary", "front": "それに" }
+    },
+    {
+      "front": "ところが",
+      "back": "sin embargo (resultado inesperado)",
+      "reading": "ところが",
+      "explanation": "ところが (tokoro ga) — 'sin embargo', pero introduce un resultado inesperado o contrario a lo que se esperaba. Ejemplo: 急いだ。ところが、電車が遅れた。(Me apuré. Sin embargo, el tren se atrasó). Diferente de でも — ところが implica sorpresa.",
+      "cardRef": { "category": "vocabulary", "front": "ところが" }
+    },
+    {
+      "front": "わざわざ",
+      "back": "especialmente, tomándose la molestia",
+      "reading": "わざわざ",
+      "explanation": "わざわざ (wazawaza) — hacer algo especialmente o tomándose la molestia de hacerlo. Ejemplo: わざわざ来てくれてありがとう (gracias por venir especialmente / por tomarte la molestia). Puede tener tono positivo (agradecimiento) o negativo (innecesario).",
+      "cardRef": { "category": "vocabulary", "front": "わざわざ" }
+    },
+    {
+      "front": "どうせ",
+      "back": "de todas formas, de todos modos (con resignación)",
+      "reading": "どうせ",
+      "explanation": "どうせ (douse) — 'de todas formas' o 'de todos modos', con un tono de resignación o pesimismo. Ejemplo: どうせ無理だ (de todas formas es imposible), どうせ来ないでしょ (de todos modos no va a venir, ¿no?). Tiene un tono cínico o resignado.",
+      "cardRef": { "category": "vocabulary", "front": "どうせ" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Expresiones con alma",
+      "instruction": "Estas expresiones son el corazón del japonés conversacional. No tienen traducción directa al español — cada una carga un matiz específico. Leé los ejemplos con atención y tratá de sentir el tono de cada una antes de memorizarla.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué expresa esta palabra?",
+      "instruction": "Elegí el significado correcto. Prestá atención a los matices — muchas parecen sinónimos pero se usan en contextos muy distintos.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "En conversación real",
+      "instruction": "Elegí la oración que usa la expresión de manera natural y correcta.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "せっかく",
+            "translation": "habiendo hecho el esfuerzo / ya que...",
+            "options": [
+              "せっかく日本に来たんだから、富士山を見よう。",
+              "どうせ日本に来たんだから、富士山を見よう。",
+              "なるほど日本に来たんだから、富士山を見よう。",
+              "ところが日本に来たんだから、富士山を見よう。"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "ところが",
+            "translation": "sin embargo (resultado inesperado)",
+            "options": [
+              "一生懸命勉強した。それに、合格した。",
+              "一生懸命勉強した。ところが、不合格だった。",
+              "一生懸命勉強した。どうせ、合格した。",
+              "一生懸命勉強した。なるほど、不合格だった。"
+            ],
+            "correctIndex": 1
+          },
+          {
+            "targetWord": "なるほど",
+            "translation": "ah, ya veo / tiene sentido",
+            "options": [
+              "「この漢字はこう読みます。」「なるほど！」",
+              "「この漢字はこう読みます。」「どうせ！」",
+              "「この漢字はこう読みます。」「ところが！」",
+              "「この漢字はこう読みます。」「それに！」"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "listen-identify",
+      "title": "Escuchá la expresión",
+      "instruction": "Escuchá la pronunciación e identificá la expresión correcta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Ves el español. Escribí la expresión en japonés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "¡Expresiones de conversación incorporadas!",
+      "instruction": "Aprendiste: やっぱり (como esperaba), せっかく (aprovechando el esfuerzo), なるほど (ya veo), ところで (cambiando de tema), それに (además), ところが (sin embargo / resultado inesperado), わざわざ (tomándose la molestia) y どうせ (de todas formas, con resignación). ¡Estas expresiones son las que hacen que suenes japonés!",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

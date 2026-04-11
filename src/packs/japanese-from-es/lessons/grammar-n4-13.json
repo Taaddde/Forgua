@@ -1,0 +1,149 @@
+{
+  "id": "grammar-n4-13",
+  "title": "Nominalización con こと: ことがある / ことにする / ことになる",
+  "description": "Aprendé a usar こと para nominalizar verbos y crear tres expresiones esenciales: hablar de experiencias, decisiones propias y resultados de circunstancias externas.",
+  "level": "n4",
+  "category": "grammar",
+  "prerequisites": ["grammar-n4-09"],
+  "items": [
+    {
+      "front": "〜ことがある",
+      "back": "hay veces que... / a veces (hábito) — o: tener la experiencia de...",
+      "reading": "koto ga aru",
+      "explanation": "〜ことがある (koto ga aru) tiene dos usos distintos según el tiempo verbal: 1) PRESENTE: 時々遅刻することがある (a veces llego tarde — hábito ocasional). 2) PASADO + こと: 日本へ行ったことがあります (he estado en Japón — tengo la experiencia). La diferencia es el tiempo del verbo: present plain form vs 〜た form.",
+      "cardRef": { "category": "grammar", "front": "〜ことがある" }
+    },
+    {
+      "front": "〜ことにする",
+      "back": "decidir hacer... (decisión propia voluntaria)",
+      "reading": "koto ni suru",
+      "explanation": "〜ことにする (koto ni suru) expresa una DECISIÓN PROPIA, tomada por el hablante. Plain form + ことにする. Ejemplo: 明日から運動することにしました (decidí hacer ejercicio desde mañana). Es un acto de voluntad del hablante. Para decisión negativa: 〜ないことにする (decidir no hacer). Contrasta con ことになる (decisión externa).",
+      "cardRef": { "category": "grammar", "front": "〜ことにする" }
+    },
+    {
+      "front": "〜ことになる",
+      "back": "resultar que... / quedar decidido que... (decisión externa o circunstancias)",
+      "reading": "koto ni naru",
+      "explanation": "〜ことになる (koto ni naru) expresa que algo se decidió o resultó por circunstancias externas, no por voluntad del hablante. Ejemplo: 来月転勤することになりました (quedó decidido que me transfieren el mes que viene — no fue mi decisión). Es la forma educada de dar malas noticias o cambios que te impusieron.",
+      "cardRef": { "category": "grammar", "front": "〜ことになる" }
+    },
+    {
+      "front": "日本へ行ったことがあります",
+      "back": "He estado en Japón / Tengo la experiencia de haber ido a Japón",
+      "reading": "にほんへいったことがあります",
+      "explanation": "行ったことがあります: 行った (pasado) + ことがあります. Es la fórmula para hablar de EXPERIENCIAS. Para negar: 行ったことがありません / 行ったことがない (nunca he ido). Es exactamente como en español: 'he + participado' pero con la estructura た + こと + があります. Una de las construcciones más usadas en N4.",
+      "cardRef": { "category": "grammar", "front": "日本へ行ったことがあります" }
+    },
+    {
+      "front": "明日から運動することにしました",
+      "back": "Decidí hacer ejercicio desde mañana",
+      "reading": "あしたからうんどうすることにしました",
+      "explanation": "運動することにしました: 運動する (plain form) + ことにしました (decidí). Es una decisión personal que anunciás. En japonés es muy común anunciar decisiones así, especialmente cambios de conducta. La versión en curso: ことにしています (tengo por costumbre / tengo la política de). Ejemplo: タバコを吸わないことにしています (tengo por norma no fumar).",
+      "cardRef": { "category": "grammar", "front": "明日から運動することにしました" }
+    },
+    {
+      "front": "来月転勤することになりました",
+      "back": "Quedó decidido que me transfieren el mes que viene",
+      "reading": "らいげつてんきんすることになりました",
+      "explanation": "転勤することになりました: 転勤する (plain form) + ことになりました. Usás esto cuando el cambio no fue tu decisión: tu empresa te transfirió, las circunstancias lo determinaron. Es una forma muy japonesa de distanciarse de la responsabilidad de una decisión. En conversación es muy común y suena educado y humilde.",
+      "cardRef": { "category": "grammar", "front": "来月転勤することになりました" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "ことがある: hábitos y experiencias",
+      "instruction": "ことがある con PRESENT plain form habla de hábitos ocasionales: 遅刻することがある (a veces llego tarde). Con PASADO (〜た form) habla de experiencias: 日本へ行ったことがある (he estado en Japón). La diferencia de tiempo del verbo cambia todo el significado. Para preguntar por experiencias: 〜たことがありますか?",
+      "itemIndices": [0, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "ことにする vs ことになる: decisión propia vs externa",
+      "instruction": "ことにする = VOS decidís. ことになる = algo fue decidido por fuera. Ejemplo clave: 来月転勤することにしました (decidí transferirme — fue tu elección) vs 来月転勤することになりました (me transfieren — fue decisión de la empresa). ことになる es muy útil en Japón para dar noticias de cambios sin asumir responsabilidad directa.",
+      "itemIndices": [1, 2, 4, 5]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué expresa cada expresión con こと?",
+      "instruction": "Elegí el significado correcto. Prestá atención al tiempo verbal y al verbo final (ある, する, なる).",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "write",
+      "title": "Escribí con la estructura de こと correcta",
+      "instruction": "Ves la oración en español. Escribí en japonés con ことがある, ことにする o ことになる.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá oraciones con こと",
+      "instruction": "Arrastrá las piezas para formar oraciones correctas.",
+      "itemIndices": [0, 1, 2, 3, 4, 5],
+      "config": {
+        "sentences": [
+          {
+            "fragments": ["日本へ", "行った", "こと", "が", "あります"],
+            "correctOrder": [0, 1, 2, 3, 4],
+            "translation": "He estado en Japón"
+          },
+          {
+            "fragments": ["明日から", "運動する", "こと", "に", "しました"],
+            "correctOrder": [0, 1, 2, 3, 4],
+            "translation": "Decidí hacer ejercicio desde mañana"
+          },
+          {
+            "fragments": ["来月", "転勤する", "こと", "に", "なりました"],
+            "correctOrder": [0, 1, 2, 3, 4],
+            "translation": "Quedó decidido que me transfieren el mes que viene"
+          }
+        ]
+      }
+    },
+    {
+      "type": "error-correction",
+      "title": "¿Correcto o incorrecto?",
+      "instruction": "Analizá cada oración. ¿Se usa la estructura correcta con こと?",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "sentence": "来年日本へ行くことがあります。（旅行の計画を話している）",
+            "isCorrect": false,
+            "explanation": "Incorrecto para hablar de un plan futuro. 行くことがあります puede interpretarse como 'a veces voy a Japón' (hábito). Para hablar de un plan futuro: 行くつもりです o 行く予定です. Para hablar de experiencia pasada: 行ったことがあります.",
+            "errorType": "koto-ga-aru-usage"
+          },
+          {
+            "sentence": "タバコを吸わないことにしています。",
+            "isCorrect": true,
+            "explanation": "Correcto. ことにしています (presente continuo) expresa una política personal o costumbre establecida: 'tengo por norma no fumar'. Es el uso habitual de ことにする en el presente.",
+            "errorType": "koto-ni-suru-usage"
+          },
+          {
+            "sentence": "結婚することになりました。（自分で決めた）",
+            "isCorrect": false,
+            "explanation": "Si vos tomaste la decisión de casarte, debería ser ことにしました. ことになりました implica que las circunstancias o algo externo lo decidió. Para una decisión propia y feliz como casarse: 結婚することにしました.",
+            "errorType": "koto-ni-naru-usage"
+          },
+          {
+            "sentence": "富士山に登ったことがありますか？",
+            "isCorrect": true,
+            "explanation": "Correcto. 登ったことがありますか es la forma estándar de preguntar por experiencias. 〜たことがあります/ありますか es la estructura clásica de experiencia.",
+            "errorType": "koto-ga-aru-usage"
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "Producí la estructura correcta",
+      "instruction": "Ves la situación en español. Escribí en japonés con ことがある, ことにする o ことになる.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "¡Nominalización con こと dominada!",
+      "instruction": "Aprendiste tres usos clave de こと: ことがある (た + こと = experiencia, present + こと = hábito ocasional), ことにする (decisión propia — vos elegiste), ことになる (resultado externo — las circunstancias decidieron). Esta diferencia entre する (activo, yo decido) y なる (pasivo, ocurrió) es un patrón que vas a ver en todo el japonés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

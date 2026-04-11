@@ -82,6 +82,44 @@
       "itemIndices": [0, 1, 2, 3]
     },
     {
+      "type": "word-in-context",
+      "title": "¿Qué saludo usarías?",
+      "instruction": "Elegí la oración donde el saludo se usa correctamente según el contexto.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "こんにちは",
+            "translation": "hola / buenas tardes",
+            "options": [
+              "午後2時に田中さんに会ったので「こんにちは」と言いました。",
+              "朝8時に友だちに「こんにちは」と言いました。",
+              "夜9時に「こんにちは」と言いました。",
+              "寝る前に「こんにちは」と言いました。"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "すみません",
+            "translation": "disculpe / perdón",
+            "options": [
+              "落としたものを拾ってもらったので「すみません」と言いました。",
+              "ありがとうの代わりに「すみません」とは言いません。",
+              "「すみません」は怒ったときだけ使います。",
+              "友達に「すみません」と言うのは失礼です。"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "write",
+      "title": "Escribí en japonés",
+      "instruction": "Ves el significado en español. Escribí la palabra o expresión en japonés.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
       "type": "recall",
       "title": "¿Cómo se dice...?",
       "instruction": "Ves el significado en español. Escribí la palabra en japonés.",

@@ -1,0 +1,136 @@
+{
+  "id": "grammar-n4-09",
+  "title": "Intención y planes: 〜つもり / 〜予定",
+  "description": "Aprendé a expresar intenciones personales y planes concretos en japonés. La diferencia entre lo que querés hacer y lo que ya está programado.",
+  "level": "n4",
+  "category": "grammar",
+  "prerequisites": ["grammar-n4-01"],
+  "items": [
+    {
+      "front": "〜つもり",
+      "back": "tener intención de... / pensar hacer... (propósito subjetivo)",
+      "reading": "tsumori",
+      "explanation": "〜つもり (tsumori) expresa la intención o propósito PERSONAL del hablante — algo que planea hacer pero que todavía no está confirmado externamente. Se usa con el plain form del verbo + つもり. Ejemplo: 来年日本へ行くつもりです (tengo intención de ir a Japón el año que viene). Es tu decisión interna, no un evento confirmado.",
+      "cardRef": { "category": "grammar", "front": "〜つもり" }
+    },
+    {
+      "front": "〜予定",
+      "back": "estar programado para... / estar planeado (plan objetivo/confirmado)",
+      "reading": "yotei",
+      "explanation": "〜予定 (yotei) expresa un plan MÁS CONCRETO y confirmado, muchas veces por circunstancias externas o acuerdo mutuo. Se usa con el plain form del verbo + 予定 o como sustantivo: 〜の予定. Ejemplo: 来週会議の予定があります (hay una reunión programada la semana que viene). Suena más objetivo que つもり.",
+      "cardRef": { "category": "grammar", "front": "〜予定" }
+    },
+    {
+      "front": "来年日本へ行くつもりです",
+      "back": "Tengo intención de ir a Japón el año que viene",
+      "reading": "らいねんにほんへいくつもりです",
+      "explanation": "行くつもりです: 行く (plain form) + つもりです. Este es el uso estándar de つもり para intención personal. El plan existe en tu cabeza, pero puede cambiar. Si alguien te pregunta ¿cuáles son tus planes? y respondés con つもり, la otra persona entiende que es tu intención, no algo 100% fijo.",
+      "cardRef": { "category": "grammar", "front": "来年日本へ行くつもりです" }
+    },
+    {
+      "front": "来週会議の予定があります",
+      "back": "Hay una reunión programada la semana que viene",
+      "reading": "らいしゅうかいぎのよていがあります",
+      "explanation": "会議の予定があります: 予定 como sustantivo + があります. Esta forma indica que algo está en el calendario, confirmado. También podés decir 来週会議をする予定です (tengo programado hacer una reunión la semana que viene). 予定 da más certeza y formalidad que つもり.",
+      "cardRef": { "category": "grammar", "front": "来週会議の予定があります" }
+    },
+    {
+      "front": "つもり vs 予定",
+      "back": "つもり: intención personal / 予定: plan concreto/confirmado",
+      "reading": "tsumori vs yotei",
+      "explanation": "La diferencia clave: つもり es tu decisión interna, subjetiva, que puede cambiar. 予定 es un plan más objetivo, ya acordado o programado — como una cita en el calendario. Ejemplo: 卒業したら就職するつもりです (pienso conseguir trabajo cuando me reciba — intención). 来月から新しい仕事を始める予定です (está programado que empiece un nuevo trabajo el mes que viene — confirmado).",
+      "cardRef": { "category": "grammar", "front": "つもり vs 予定" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "〜つもり: la intención personal",
+      "instruction": "つもり expresa lo que VOS querés hacer — tu plan interno. Se forma con el plain form del verbo + つもり (です). Para la negativa: 〜ないつもりです (no tengo intención de). Ejemplo: タバコをやめるつもりです (tengo intención de dejar de fumar). Es más subjetivo — puede cambiar.",
+      "itemIndices": [0, 2]
+    },
+    {
+      "type": "introduce",
+      "title": "〜予定: el plan confirmado",
+      "instruction": "予定 es más formal y objetivo — algo ya programado. Dos formas: 1) verbo plain + 予定です (来月引っ越す予定です — está planeado que me mudo el mes que viene). 2) sustantivo + の予定があります (会議の予定があります — hay una reunión en el calendario). 予定 implica que hay acuerdo o compromiso externo.",
+      "itemIndices": [1, 3]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Intención o plan confirmado?",
+      "instruction": "Elegí el significado correcto. Fijate si es una intención personal o un plan ya programado.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "write",
+      "title": "Escribí la intención o el plan",
+      "instruction": "Ves la oración en español. Escribí en japonés con つもり o 予定 según corresponda.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá oraciones de intención y planes",
+      "instruction": "Arrastrá las piezas para formar oraciones correctas.",
+      "itemIndices": [0, 1, 2, 3],
+      "config": {
+        "sentences": [
+          {
+            "fragments": ["来年", "日本へ", "行く", "つもりです"],
+            "correctOrder": [0, 1, 2, 3],
+            "translation": "Tengo intención de ir a Japón el año que viene"
+          },
+          {
+            "fragments": ["来週", "会議", "の", "予定", "があります"],
+            "correctOrder": [0, 1, 2, 3, 4],
+            "translation": "Hay una reunión programada la semana que viene"
+          },
+          {
+            "fragments": ["卒業したら", "就職する", "つもりです"],
+            "correctOrder": [0, 1, 2],
+            "translation": "Pienso conseguir trabajo cuando me reciba"
+          }
+        ]
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con つもり o 予定",
+      "instruction": "Elegí la estructura correcta según el contexto de cada oración.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "来月から運動する{0}です。まだジムを探しています。",
+            "blanks": [
+              { "answer": "つもり", "options": ["つもり", "予定", "はず", "こと"] }
+            ]
+          },
+          {
+            "template": "明日の午後、病院の{0}があります。",
+            "blanks": [
+              { "answer": "予定", "options": ["予定", "つもり", "はず", "こと"] }
+            ]
+          },
+          {
+            "template": "タバコ{0}やめるつもりです。",
+            "blanks": [
+              { "answer": "を", "options": ["を", "が", "に", "は"] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "Expresá intención o plan",
+      "instruction": "Ves la situación en español. Escribí en japonés con つもり o 予定.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
+      "type": "summary",
+      "title": "¡Intención y planes dominados!",
+      "instruction": "Aprendiste la diferencia entre 〜つもり (intención personal, subjetiva — plain form + つもりです) y 〜予定 (plan confirmado, objetivo — plain form + 予定です, o sustantivo + の予定があります). Usá つもり cuando sea tu decisión interna; usá 予定 cuando el plan ya esté en el calendario o acordado con otros.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    }
+  ]
+}

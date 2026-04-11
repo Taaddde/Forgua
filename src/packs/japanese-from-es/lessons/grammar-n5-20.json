@@ -1,0 +1,164 @@
+{
+  "id": "grammar-n5-20",
+  "title": "Conectores y negación con て: でも/しかし、そして/それから、ないで/なくて",
+  "description": "Aprendé a conectar oraciones con pero (でも/しかし), y además (そして/それから), y las dos formas de negación con て-form: ないで (sin hacer) y なくて (porque no / y no).",
+  "level": "n5",
+  "category": "grammar",
+  "prereqs": ["grammar-n5-11"],
+  "items": [
+    {
+      "front": "でも",
+      "back": "pero (informal / conversacional)",
+      "reading": "でも",
+      "explanation": "でも (demo) significa 'pero' y se usa en el registro informal o conversacional. Va al inicio de una oración nueva, conectando con la anterior. 高いです。でも買います = 'Es caro. Pero lo compro'. No va en medio de una oración. Es la forma más natural de decir 'pero' en el habla cotidiana entre amigos o en situaciones relajadas.",
+      "cardRef": { "category": "grammar", "front": "でも (pero — informal)" }
+    },
+    {
+      "front": "しかし",
+      "back": "sin embargo (formal / escrito)",
+      "reading": "しかし",
+      "explanation": "しかし (shikashi) significa 'sin embargo' o 'pero' en registro formal. Se usa en escritura, presentaciones, noticias y discursos. Al igual que でも, va al inicio de una oración nueva. 価格が高いです。しかし、品質も高いです = 'El precio es alto. Sin embargo, la calidad también es alta'. Es el equivalente formal de でも.",
+      "cardRef": { "category": "grammar", "front": "しかし (sin embargo — formal)" }
+    },
+    {
+      "front": "そして",
+      "back": "y además / y luego (adición y secuencia suave)",
+      "reading": "そして",
+      "explanation": "そして (soshite) conecta oraciones con una idea de adición o secuencia. Puede significar 'y además' (adición) o 'y luego' (secuencia temporal suave). 朝ごはんを食べました。そして、学校へ行きました = 'Desayuné. Y luego fui a la escuela'. También indica adición: 田中さんは頭がいいです。そして、やさしいです = 'Tanaka es inteligente. Y además es amable'.",
+      "cardRef": { "category": "grammar", "front": "そして (y además/luego)" }
+    },
+    {
+      "front": "それから",
+      "back": "y después de eso / luego (secuencia temporal explícita)",
+      "reading": "それから",
+      "explanation": "それから (sorekara) indica una secuencia temporal clara: 'y después de eso' o 'luego'. Enfatiza el orden cronológico más que そして. 昼ごはんを食べました。それから、昼寝をしました = 'Almorcé. Después de eso, dormí la siesta'. La diferencia con そして: それから es más explícitamente temporal, そして puede indicar adición simple.",
+      "cardRef": { "category": "grammar", "front": "それから (y después de eso)" }
+    },
+    {
+      "front": "ないで",
+      "back": "sin hacer X, hacé Y (dos acciones: la segunda sin la primera)",
+      "reading": "ないで",
+      "explanation": "〜ないで (naide) se forma con la base negativa del verbo + で. Significa 'sin hacer X' cuando describe el estado en que se realiza la segunda acción. 朝ごはんを食べないで学校に行きました = 'Fui a la escuela sin desayunar'. El sujeto de las dos oraciones es el mismo. También se usa para pedidos negativos suaves: 笑わないで = 'No te rías (por favor)'.",
+      "cardRef": { "category": "grammar", "front": "〜ないで (sin hacer X)" }
+    },
+    {
+      "front": "なくて",
+      "back": "porque no X / no X y... (causa negativa o lista con negación)",
+      "reading": "なくて",
+      "explanation": "〜なくて (nakute) es la て-form negativa. Se forma con el adjetivo negativo ない + て: ない → なくて. Se usa para: 1) Causa: お金がなくて、買えませんでした = 'Como no tenía dinero, no pude comprarlo' (la negación es la causa). 2) Lista/secuencia: 高くなくて、いい商品です = 'No es caro y es un buen producto'. Diferencia clave con ないで: なくて implica causa o contraste, ないで implica simultaneidad o instrucción negativa.",
+      "cardRef": { "category": "grammar", "front": "〜なくて (porque no / y no)" }
+    },
+    {
+      "front": "高いです。でも買います",
+      "back": "Es caro. Pero lo compro.",
+      "reading": "たかいです。でもかいます",
+      "explanation": "高いです。でも買います (takai desu. demo kaimasu) = 'Es caro. Pero lo compro'. Ejemplo clásico de でも conectando dos oraciones con contraste. でも va al inicio de la segunda oración, no en medio. La primera oración establece un hecho, でも introduce la oración que va en contra de lo esperado.",
+      "cardRef": { "category": "grammar", "front": "高いです。でも買います" }
+    },
+    {
+      "front": "朝ごはんを食べないで学校に行きました",
+      "back": "Fui a la escuela sin desayunar",
+      "reading": "あさごはんをたべないでがっこうにいきました",
+      "explanation": "朝ごはんを食べないで学校に行きました = 'Fui a la escuela sin desayunar'. 食べる → base negativa: 食べない → + で: 食べないで. Describe que la acción de 'ir a la escuela' ocurrió sin que se realizara 'desayunar'. El mismo sujeto (yo) está involucrado en ambas acciones (o en este caso, la no-acción).",
+      "cardRef": { "category": "grammar", "front": "朝ごはんを食べないで学校に行きました" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Conectores de contraste y secuencia",
+      "instruction": "Para conectar oraciones en japonés usás conectores al inicio de la nueva oración. でも (pero, informal) y しかし (sin embargo, formal) expresan contraste. そして (y además/luego) y それから (y después de eso) expresan adición o secuencia. Todos van al inicio de la segunda oración. La diferencia clave: でも vs しかし es de registro (informal vs formal); そして vs それから es de énfasis (adición vs secuencia temporal).",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "introduce",
+      "title": "ないで y なくて: negación con て",
+      "instruction": "Dos formas de negar con て-form. ないで = 'sin hacer': 食べないで寝る (dormirse sin comer). なくて = 'porque no' o 'y no': お金がなくて困る (estar en problemas porque no hay dinero). La forma: verbo → base negativa (ない) → + で (ないで) o → ない → なくて (el ない cambia a なくて). Confundirlas cambia el significado completamente.",
+      "itemIndices": [4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué conector o negación es?",
+      "instruction": "Identificá el tipo de conexión (contraste, secuencia, negación sin, negación causa) y el registro (formal/informal) de cada expresión.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "write",
+      "title": "Escribí el conector correcto",
+      "instruction": "Ves la relación entre dos oraciones. Escribí el conector o la forma negativa correspondiente.",
+      "itemIndices": [6, 7]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Conectá las oraciones",
+      "instruction": "Ordená las piezas para formar oraciones conectadas correctamente.",
+      "itemIndices": [6, 7],
+      "config": {
+        "sentences": [
+          {
+            "fragments": ["高い", "です", "。", "でも", "買い", "ます"],
+            "correctOrder": [0, 1, 2, 3, 4, 5],
+            "translation": "Es caro. Pero lo compro."
+          },
+          {
+            "fragments": ["朝ごはん", "を", "食べ", "ないで", "学校", "に", "行き", "まし", "た"],
+            "correctOrder": [0, 1, 2, 3, 4, 5, 6, 7, 8],
+            "translation": "Fui a la escuela sin desayunar"
+          },
+          {
+            "fragments": ["映画", "を", "見", "まし", "た", "。", "それから", "ご飯", "を", "食べ", "まし", "た"],
+            "correctOrder": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11],
+            "translation": "Vi una película. Después de eso, comí."
+          },
+          {
+            "fragments": ["お金", "が", "なく", "て", "、", "買え", "ませ", "ん", "でし", "た"],
+            "correctOrder": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
+            "translation": "Como no tenía dinero, no pude comprarlo"
+          }
+        ]
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Elegí el conector o negación correcta",
+      "instruction": "Completá los espacios con el conector o la forma negativa correcta según el contexto.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "（報告書に）コストが高い。{0}、品質は優秀だ。",
+            "blanks": [{ "answer": "しかし", "options": ["でも", "しかし", "そして", "それから"] }]
+          },
+          {
+            "template": "（友だちに）疲れてる。{0}、行くよ。",
+            "blanks": [{ "answer": "でも", "options": ["でも", "しかし", "そして", "それから"] }]
+          },
+          {
+            "template": "シャワーを浴び{0}、朝ごはんを食べました。",
+            "blanks": [{ "answer": "てから", "options": ["てから", "ないで", "なくて", "でも"] }]
+          },
+          {
+            "template": "宿題をし{0}テレビを見ています。（宿題をせずに見ている）",
+            "blanks": [{ "answer": "ないで", "options": ["ないで", "なくて", "てから", "でも"] }]
+          },
+          {
+            "template": "時間が{0}困っています。（時間不足が原因）",
+            "blanks": [{ "answer": "なくて", "options": ["ないで", "なくて", "でも", "しかし"] }]
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "Expresá la conexión en japonés",
+      "instruction": "Ves la relación entre dos ideas en español. Recordá el conector japonés correcto y formá las oraciones conectadas.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste seis formas de conectar ideas en japonés. Contraste: でも (informal) / しかし (formal). Secuencia/adición: そして (adición o secuencia suave) / それから (secuencia temporal explícita). Negación con て: ないで (sin hacer X, hacé Y — mismo sujeto, acción simultánea no realizada) / なくて (porque no / y no — causa negativa o enlace de cláusulas negativas). Dominar estos conectores hace tu japonés mucho más fluido y natural.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

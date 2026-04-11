@@ -7,7 +7,7 @@
   "items": [
     {
       "front": "は",
-      "back": "partícula de tema (wa)",
+      "back": "partícula de tema",
       "reading": "wa",
       "explanation": "は es la partícula de tema. Se escribe は (ha) pero se pronuncia 'wa' cuando funciona como partícula. Marca el tema de la oración: lo que estás describiendo o de lo que hablás.",
       "cardRef": { "category": "grammar", "front": "は（partícula） ([tema] + は + [comentario])" }
@@ -45,6 +45,43 @@
       "title": "¿Qué significa cada parte?",
       "instruction": "Elegí el significado correcto para cada elemento gramatical.",
       "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "write",
+      "title": "Escribí la estructura",
+      "instruction": "Escribí la expresión japonesa correspondiente a cada descripción.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "Completá con は o です",
+      "instruction": "Elegí la partícula o cópula correcta para completar la oración.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "私{0}学生{1}。",
+            "blanks": [
+              { "answer": "は", "options": ["は", "が", "を", "で"] },
+              { "answer": "です", "options": ["です", "ます", "だ", "でした"] }
+            ]
+          },
+          {
+            "template": "田中さん{0}先生{1}。",
+            "blanks": [
+              { "answer": "は", "options": ["は", "が", "の", "で"] },
+              { "answer": "です", "options": ["です", "ます", "だ", "でした"] }
+            ]
+          },
+          {
+            "template": "これ{0}本{1}。",
+            "blanks": [
+              { "answer": "は", "options": ["は", "が", "を", "に"] },
+              { "answer": "です", "options": ["です", "ます", "だ", "います"] }
+            ]
+          }
+        ]
+      }
     },
     {
       "type": "recall",

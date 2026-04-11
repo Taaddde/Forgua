@@ -89,8 +89,8 @@ export function WriteStep({ items, onComplete }: WriteStepProps) {
   // What to show as prompt and what to reveal on error
   const promptLabel = isReversed
     ? t('exercise.writeReading')
-    : (item.reading ?? item.back);
-  const promptText = isReversed ? item.front : (item.reading ?? item.back);
+    : t('exercise.writeAnswer');
+  const promptText = isReversed ? item.front : item.back;
   const correctAnswer = isReversed ? item.back : item.front;
 
   return (

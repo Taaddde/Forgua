@@ -102,6 +102,12 @@
       "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
     },
     {
+      "type": "write",
+      "title": "Escribí en japonés",
+      "instruction": "Ves el significado en español. Escribí la palabra o expresión en japonés.",
+      "itemIndices": [0, 1, 2, 3, 4]
+    },
+    {
       "type": "summary",
       "title": "¡Lección completa!",
       "instruction": "Aprendiste 大きい、小さい、高い、安い、新しい、古い、いい、悪い、おいしい、暑い. Ya podés describir cosas en japonés. Estas palabras se suman a tu repaso diario.",

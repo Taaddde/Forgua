@@ -1,0 +1,110 @@
+{
+  "id": "reading-n5-02",
+  "title": "Lectura N5: わたしのかぞく",
+  "description": "Describí tu familia en japonés. Este texto introduce edades, profesiones y la forma て-いる para estados continuos.",
+  "level": "n5",
+  "category": "mixed",
+  "prereq": ["reading-n5-01", "vocab-n5-03"],
+  "items": [
+    {
+      "front": "かぞく",
+      "back": "familia",
+      "reading": "かぞく",
+      "explanation": "家族 (kazoku) — familia. Ejemplo: わたしのかぞくは ごにんです (mi familia tiene cinco personas). Al hablar de tu propia familia usás palabras humildes: ちち (mi padre), はは (mi madre). Al hablar de la familia ajena usás palabras honoríficas: おとうさん, おかあさん.",
+      "cardRef": { "category": "vocabulary", "front": "家族" }
+    },
+    {
+      "front": "りょうしん",
+      "back": "padres (ambos)",
+      "reading": "りょうしん",
+      "explanation": "両親 (ryoushin) — los padres (padre y madre juntos). 両 significa 'ambos'. Ejemplo: りょうしんは げんきです (mis padres están bien). Diferente de おやthinks que puede ser solo uno.",
+      "cardRef": { "category": "vocabulary", "front": "両親" }
+    },
+    {
+      "front": "すんでいる",
+      "back": "estar viviendo, vivir (en un lugar)",
+      "reading": "すんでいる",
+      "explanation": "住んでいる (sundeiru) — vivir en un lugar de manera continua. Forma て-いる del verbo 住む (sumu). Ejemplo: とうきょうに すんでいます (vivo en Tokio). La forma て-いる indica un estado continuo, no una acción puntual.",
+      "cardRef": { "category": "vocabulary", "front": "住んでいる" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario familiar",
+      "instruction": "Antes de leer, aprendé estas palabras clave. Fijate especialmente en すんでいる — es la forma て-いる, que indica un estado continuo. Esta estructura aparece mucho cuando describimos situaciones actuales: はたらいています, すんでいます.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Lectura: わたしのかぞく",
+      "instruction": "Leé el texto y respondé las preguntas. Fijate en cómo se describen las edades (〜さい) y las profesiones.",
+      "itemIndices": [],
+      "config": {
+        "passage": {
+          "id": "n5-reading-my-family",
+          "title": "わたしのかぞく",
+          "level": "n5",
+          "text": "わたしの かぞくは ごにんです。ちちと ははと あにと いもうとと わたしです。ちちは ごじゅっさいで、かいしゃいんです。ははは よんじゅうはっさいで、びょういんで はたらいています。あには にじゅうごさいの だいがくいんせいです。いもうとは じゅうろくさいの こうこうせいです。わたしたちは とうきょうに すんでいます。しゅうまつは よく いっしょに しょくじを します。",
+          "translation": "Mi familia tiene cinco personas. Somos mi padre, mi madre, mi hermano mayor, mi hermana menor y yo. Mi padre tiene cincuenta años y es empleado de empresa. Mi madre tiene cuarenta y ocho años y trabaja en un hospital. Mi hermano mayor tiene veinticinco años y es estudiante de posgrado. Mi hermana menor tiene dieciséis años y es estudiante de preparatoria. Vivimos en Tokio. Los fines de semana, frecuentemente comemos juntos.",
+          "vocabulary": [
+            "かぞく - familia",
+            "ごにん - cinco personas",
+            "ちち - mi padre",
+            "はは - mi madre",
+            "あに - mi hermano mayor",
+            "いもうと - mi hermana menor",
+            "かいしゃいん - empleado de empresa",
+            "びょういん - hospital",
+            "はたらく - trabajar",
+            "だいがくいんせい - estudiante de posgrado",
+            "こうこうせい - estudiante de preparatoria",
+            "すんでいる - vivir (estar viviendo)",
+            "しゅうまつ - fin de semana",
+            "よく - frecuentemente",
+            "いっしょに - juntos",
+            "しょくじ - comida/meal"
+          ],
+          "questions": [
+            {
+              "question": "かぞくは なんにんですか。",
+              "options": ["さんにんです。", "よにんです。", "ごにんです。", "ろくにんです。"],
+              "correctIndex": 2,
+              "explanation": "テキストに「かぞくは ごにんです」とあります。(En el texto dice 'la familia tiene cinco personas'.)"
+            },
+            {
+              "question": "おかあさんは どこで はたらいていますか。",
+              "options": ["がっこうで はたらいています。", "びょういんで はたらいています。", "かいしゃで はたらいています。", "レストランで はたらいています。"],
+              "correctIndex": 1,
+              "explanation": "テキストに「びょういんで はたらいています」とあります。(En el texto dice 'trabaja en un hospital'.)"
+            },
+            {
+              "question": "どこに すんでいますか。",
+              "options": ["おおさかに すんでいます。", "きょうとに すんでいます。", "よこはまに すんでいます。", "とうきょうに すんでいます。"],
+              "correctIndex": 3,
+              "explanation": "テキストに「とうきょうに すんでいます」とあります。(En el texto dice 'viven en Tokio'.)"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "recognize",
+      "title": "Vocabulario de la familia",
+      "instruction": "Elegí el significado correcto de cada palabra.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se escribe?",
+      "instruction": "Ves el español. Escribí la palabra en japonés.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "summary",
+      "title": "¡Familia descripta!",
+      "instruction": "Aprendiste a hablar de la familia en japonés. Puntos clave: 1) Para tu propia familia: ちち, はは, あに, いもうと (palabras humildes). 2) Estructura de edad: [número]さいです. 3) Profesión: [trabajo]です. 4) Estado continuo: 〜ています (はたらいています, すんでいます).",
+      "itemIndices": [0, 1, 2]
+    }
+  ]
+}

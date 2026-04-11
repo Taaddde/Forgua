@@ -1,0 +1,109 @@
+{
+  "id": "reading-n5-03",
+  "title": "Lectura N5: がっこう",
+  "description": "La vida universitaria en japonés. Aprenderás a hablar de horarios, materias y actividades académicas usando estructuras de tiempo y lugar.",
+  "level": "n5",
+  "category": "mixed",
+  "prereq": ["reading-n5-02"],
+  "items": [
+    {
+      "front": "じゅぎょう",
+      "back": "clase",
+      "reading": "じゅぎょう",
+      "explanation": "授業 (jugyou) — clase o lección. Ejemplo: じゅぎょうが あります (hay clase), じゅぎょうに でる (asistir a clase). En el texto: 'くじから さんじまで じゅぎょうが あります' = tengo clases de las 9 a las 3.",
+      "cardRef": { "category": "vocabulary", "front": "授業" }
+    },
+    {
+      "front": "きょうしつ",
+      "back": "aula",
+      "reading": "きょうしつ",
+      "explanation": "教室 (kyoushitsu) — el aula o salón de clases. 教 = enseñar + 室 = habitación. Ejemplo: きょうしつで べんきょうします (estudio en el aula). Diferente de としょかん (biblioteca) y しょくどう (cafetería).",
+      "cardRef": { "category": "vocabulary", "front": "教室" }
+    },
+    {
+      "front": "べんきょうする",
+      "back": "estudiar",
+      "reading": "べんきょうする",
+      "explanation": "勉強する (benkyou suru) — estudiar. Es un verbo suru (sustantivo + する). Ejemplo: にほんごを べんきょうします (estudio japonés). En el texto aparece también 'べんきょうしています' — forma continua, indica que está estudiando esas materias en este período.",
+      "cardRef": { "category": "vocabulary", "front": "勉強する" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Vocabulario académico",
+      "instruction": "Antes de leer, aprendé estas palabras del mundo escolar. Fijate en べんきょうしています — es una forma continua que indica actividades habituales o en curso. La diferencia: べんきょうします (voy a estudiar / estudio) vs べんきょうしています (estoy estudiando / estudio regularmente).",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "story-comprehension",
+      "title": "Lectura: がっこう",
+      "instruction": "Leé el texto sobre la vida universitaria. Prestá atención a la estructura [hora]から[hora]まで para indicar rangos de tiempo.",
+      "itemIndices": [],
+      "config": {
+        "passage": {
+          "id": "n5-reading-school",
+          "title": "がっこう",
+          "level": "n5",
+          "text": "わたしは だいがくせいです。まいにち くじから さんじまで じゅぎょうが あります。にほんごと すうがくと れきしを べんきょうしています。にほんごの じゅぎょうが いちばん すきです。ひるやすみに しょくどうで ともだちと ひるごはんを たべます。ごごは としょかんで しゅくだいを します。ときどき ともだちと いっしょに べんきょうします。",
+          "translation": "Soy estudiante universitario. Todos los días tengo clases de las nueve a las tres. Estudio japonés, matemáticas e historia. La clase de japonés es la que más me gusta. En el descanso del mediodía, almuerzo con amigos en la cafetería. Por la tarde, hago la tarea en la biblioteca. A veces estudio junto con amigos.",
+          "vocabulary": [
+            "だいがくせい - estudiante universitario",
+            "じゅぎょう - clase",
+            "すうがく - matemáticas",
+            "れきし - historia",
+            "べんきょうする - estudiar",
+            "いちばん - el más / el mejor",
+            "すき - gustar",
+            "ひるやすみ - descanso del mediodía",
+            "しょくどう - cafetería/comedor",
+            "ともだち - amigo",
+            "ひるごはん - almuerzo",
+            "ごご - tarde",
+            "としょかん - biblioteca",
+            "しゅくだい - tarea",
+            "ときどき - a veces"
+          ],
+          "questions": [
+            {
+              "question": "じゅぎょうは なんじから なんじまでですか。",
+              "options": ["はちじから にじまでです。", "くじから さんじまでです。", "じゅうじから よじまでです。", "くじから ごじまでです。"],
+              "correctIndex": 1,
+              "explanation": "テキストに「くじから さんじまで じゅぎょうが あります」とあります。(En el texto dice 'tiene clases de las 9 a las 3'.)"
+            },
+            {
+              "question": "どの じゅぎょうが いちばん すきですか。",
+              "options": ["すうがくが いちばん すきです。", "れきしが いちばん すきです。", "にほんごが いちばん すきです。", "えいごが いちばん すきです。"],
+              "correctIndex": 2,
+              "explanation": "テキストに「にほんごの じゅぎょうが いちばん すきです」とあります。(En el texto dice 'la clase de japonés es la que más le gusta'.)"
+            },
+            {
+              "question": "ごご どこで しゅくだいを しますか。",
+              "options": ["しょくどうで します。", "いえで します。", "きょうしつで します。", "としょかんで します。"],
+              "correctIndex": 3,
+              "explanation": "テキストに「としょかんで しゅくだいを します」とあります。(En el texto dice 'hace la tarea en la biblioteca'.)"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "type": "recognize",
+      "title": "Vocabulario académico",
+      "instruction": "Elegí el significado correcto de cada palabra.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se escribe?",
+      "instruction": "Ves el español. Escribí la palabra en japonés.",
+      "itemIndices": [0, 1, 2]
+    },
+    {
+      "type": "summary",
+      "title": "¡Vida escolar en japonés!",
+      "instruction": "Aprendiste a describir la vida académica. Estructuras clave del texto: [hora]から[hora]まで (de X a X horas), いちばん + adjetivo (el más...), [lugar]で + acción (hacer algo en un lugar). Vocabulario nuevo: じゅぎょう (clase), としょかん (biblioteca), しゅくだい (tarea), ときどき (a veces).",
+      "itemIndices": [0, 1, 2]
+    }
+  ]
+}

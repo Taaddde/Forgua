@@ -1,0 +1,150 @@
+{
+  "id": "grammar-n5-17",
+  "title": "Interrogativos: 何、どこ、いつ、だれ",
+  "description": "Aprendé las palabras interrogativas básicas del japonés para preguntar sobre cosas, lugares, tiempo y personas. Con estos interrogativos podés formar preguntas completas en cualquier situación.",
+  "level": "n5",
+  "category": "grammar",
+  "prereqs": ["grammar-n5-02"],
+  "items": [
+    {
+      "front": "何 (なに / なん)",
+      "back": "qué",
+      "reading": "なに / なん",
+      "explanation": "何 (nani/nan) = 'qué'. Se pronuncia なに (nani) cuando va solo o antes de partículas como を, が, は: 何を食べますか (¿qué comés?). Se pronuncia なん (nan) antes de です, でも, で y con contadores: 何ですか (¿qué es?), 何人ですか (¿cuántas personas?). La lectura cambia según el contexto.",
+      "cardRef": { "category": "grammar", "front": "何 (なに/なん — qué)" }
+    },
+    {
+      "front": "どこ",
+      "back": "dónde",
+      "reading": "どこ",
+      "explanation": "どこ (doko) = 'dónde'. Se usa con partículas de lugar: どこに行きますか (¿adónde vas?), どこで食べますか (¿dónde comés?), どこから来ましたか (¿de dónde viniste?). También existe どちら (dochira) que es la versión más formal de どこ.",
+      "cardRef": { "category": "grammar", "front": "どこ (dónde)" }
+    },
+    {
+      "front": "いつ",
+      "back": "cuándo",
+      "reading": "いつ",
+      "explanation": "いつ (itsu) = 'cuándo'. No lleva partícula de tiempo cuando se usa en una pregunta directa: いつ来ますか (¿cuándo venís?). Puede combinarse con partículas para otros matices: いつから (desde cuándo), いつまで (hasta cuándo). También: いつも (siempre) e いつか (algún día) son expresiones relacionadas muy comunes.",
+      "cardRef": { "category": "grammar", "front": "いつ (cuándo)" }
+    },
+    {
+      "front": "だれ",
+      "back": "quién",
+      "reading": "だれ",
+      "explanation": "だれ (dare) = 'quién'. Se usa con las partículas correspondientes a personas: だれが来ましたか (¿quién vino?), だれに電話しますか (¿a quién llamás?), だれの本ですか (¿de quién es este libro?). La versión formal es どなた (donata): どなたですか (¿quién es usted?).",
+      "cardRef": { "category": "grammar", "front": "だれ (quién)" }
+    },
+    {
+      "front": "どんな",
+      "back": "qué tipo de / cómo es",
+      "reading": "どんな",
+      "explanation": "どんな (donna) = 'qué tipo de' o 'cómo es'. Es un adjetivo interrogativo: siempre va seguido de un sustantivo. どんな人ですか (¿qué tipo de persona es?), どんな音楽が好きですか (¿qué tipo de música te gusta?). No confundir con どう (cómo — sobre una situación o estado).",
+      "cardRef": { "category": "grammar", "front": "どんな (qué tipo de)" }
+    },
+    {
+      "front": "これは何ですか / どこへ行きますか",
+      "back": "¿Qué es esto? / ¿Adónde vas?",
+      "reading": "これはなんですか / どこへいきますか",
+      "explanation": "Dos preguntas modelo con interrogativos. これは何ですか (kore wa nan desu ka): これ = esto, は = tema, 何 = qué (pronunciado なん antes de です), ですか = pregunta formal. どこへ行きますか (doko e ikimasu ka): どこ = dónde, へ = hacia (partícula de dirección), 行きますか = ¿vas? Los interrogativos ocupan la posición del elemento que preguntan en la oración.",
+      "cardRef": { "category": "grammar", "front": "これは何ですか / どこへ行きますか" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "Los interrogativos básicos",
+      "instruction": "En japonés, los interrogativos (何、どこ、いつ、だれ) van en la misma posición que la respuesta que esperás, no al principio como en español. '¿Qué comés?' = 何を食べますか (literalmente: 'qué-[objeto] comés?'). La estructura de la oración no cambia; solo sustituís el elemento desconocido por el interrogativo.",
+      "itemIndices": [0, 1]
+    },
+    {
+      "type": "introduce",
+      "title": "Más interrogativos y oraciones completas",
+      "instruction": "いつ (cuándo) e いつも (siempre) son pares útiles. だれ (quién) toma las mismas partículas que los sustantivos que se refieren a personas. どんな (qué tipo de) siempre modifica un sustantivo. Mirá las oraciones completas para ver cómo se posicionan estos interrogativos.",
+      "itemIndices": [2, 3, 4, 5]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué interrogativo es?",
+      "instruction": "Identificá el significado de cada interrogativo y elegí la traducción correcta de cada oración.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "write",
+      "title": "Completá la pregunta",
+      "instruction": "Ves la oración con una pregunta incompleta. Escribí el interrogativo correcto.",
+      "itemIndices": [0, 1, 2, 3]
+    },
+    {
+      "type": "sentence-build",
+      "title": "Armá la pregunta completa",
+      "instruction": "Ordená las piezas para formar preguntas completas con interrogativos. Recordá que el interrogativo va donde iría la respuesta.",
+      "itemIndices": [5],
+      "config": {
+        "sentences": [
+          {
+            "fragments": ["これ", "は", "何", "です", "か"],
+            "correctOrder": [0, 1, 2, 3, 4],
+            "translation": "¿Qué es esto?"
+          },
+          {
+            "fragments": ["どこ", "へ", "行き", "ます", "か"],
+            "correctOrder": [0, 1, 2, 3, 4],
+            "translation": "¿Adónde vas?"
+          },
+          {
+            "fragments": ["いつ", "日本", "に", "来", "まし", "た", "か"],
+            "correctOrder": [0, 1, 2, 3, 4, 5, 6],
+            "translation": "¿Cuándo viniste a Japón?"
+          },
+          {
+            "fragments": ["だれ", "が", "先生", "です", "か"],
+            "correctOrder": [0, 1, 2, 3, 4],
+            "translation": "¿Quién es el/la profesor/a?"
+          }
+        ]
+      }
+    },
+    {
+      "type": "fill-blank-multi",
+      "title": "¿Qué interrogativo corresponde?",
+      "instruction": "Completá las preguntas con el interrogativo correcto según lo que se quiere saber.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "template": "（場所を聞く）図書館は{0}ですか？",
+            "blanks": [{ "answer": "どこ", "options": ["どこ", "いつ", "だれ", "何"] }]
+          },
+          {
+            "template": "（時間を聞く）授業は{0}始まりますか？",
+            "blanks": [{ "answer": "いつ", "options": ["どこ", "いつ", "だれ", "どんな"] }]
+          },
+          {
+            "template": "（物を聞く）あの建物は{0}ですか？",
+            "blanks": [{ "answer": "何", "options": ["だれ", "いつ", "何", "どこ"] }]
+          },
+          {
+            "template": "（人を聞く）あの人は{0}ですか？",
+            "blanks": [{ "answer": "だれ", "options": ["何", "いつ", "どんな", "だれ"] }]
+          },
+          {
+            "template": "（種類を聞く）{0}音楽が好きですか？",
+            "blanks": [{ "answer": "どんな", "options": ["何", "どこ", "どんな", "いつ"] }]
+          }
+        ]
+      }
+    },
+    {
+      "type": "recall",
+      "title": "Formá la pregunta",
+      "instruction": "Ves la pregunta en español. Recordá el interrogativo japonés correcto y formá la pregunta completa.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "¡Lección completa!",
+      "instruction": "Aprendiste los interrogativos básicos del japonés: 何(なに/なん) = qué, どこ = dónde, いつ = cuándo, だれ = quién, どんな = qué tipo de. Recordá: en japonés el interrogativo va en el lugar de la respuesta, no al inicio. 何 se pronuncia なん antes de です y contadores. だれ y どこ toman partículas normales. どなた y どちら son las versiones formales de だれ y どこ respectivamente.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    }
+  ]
+}

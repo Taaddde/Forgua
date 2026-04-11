@@ -1,0 +1,147 @@
+{
+  "id": "vocab-n4-05",
+  "title": "Sustantivos de comunicación y trabajo N4",
+  "description": "Vocabulario clave para el mundo laboral y la comunicación formal. Estas palabras aparecen en correos, reuniones y presentaciones.",
+  "level": "n4",
+  "category": "vocabulary",
+  "prereq": ["vocab-n4-04"],
+  "items": [
+    {
+      "front": "方法",
+      "back": "método, manera",
+      "reading": "ほうほう",
+      "explanation": "方法 (houhou) — método o manera de hacer algo. Ejemplo: 勉強の方法 (método de estudio), 方法を考える (pensar en una manera). Es más formal que やり方.",
+      "cardRef": { "category": "vocabulary", "front": "方法" }
+    },
+    {
+      "front": "理由",
+      "back": "razón, motivo",
+      "reading": "りゆう",
+      "explanation": "理由 (riyuu) — razón o motivo que justifica algo. Ejemplo: 理由を説明する (explicar el motivo), 理由がある (hay una razón). Más formal que わけ.",
+      "cardRef": { "category": "vocabulary", "front": "理由" }
+    },
+    {
+      "front": "目的",
+      "back": "objetivo, propósito",
+      "reading": "もくてき",
+      "explanation": "目的 (mokuteki) — objetivo o propósito de una acción. Ejemplo: 旅行の目的 (el propósito del viaje), 目的を達成する (lograr el objetivo). 目 = ojo/punto, 的 = blanco.",
+      "cardRef": { "category": "vocabulary", "front": "目的" }
+    },
+    {
+      "front": "計画",
+      "back": "plan",
+      "reading": "けいかく",
+      "explanation": "計画 (keikaku) — plan o proyecto concreto. Ejemplo: 旅行の計画を立てる (hacer planes de viaje), 計画通りに (según lo planeado). El verbo es 計画する.",
+      "cardRef": { "category": "vocabulary", "front": "計画" }
+    },
+    {
+      "front": "説明",
+      "back": "explicación",
+      "reading": "せつめい",
+      "explanation": "説明 (setsumei) — explicación de algo. Ejemplo: 説明する (explicar), 説明書 (manual de instrucciones). En contextos laborales: 説明会 (sesión informativa). Es una palabra muy activa — siempre se combina con する.",
+      "cardRef": { "category": "vocabulary", "front": "説明" }
+    },
+    {
+      "front": "報告",
+      "back": "informe, reporte",
+      "reading": "ほうこく",
+      "explanation": "報告 (houkoku) — informe o reporte, especialmente en contextos laborales. Ejemplo: 報告書 (informe escrito), 報告する (reportar). En empresas japonesas: 報告・連絡・相談 (reportar, comunicar, consultar) es la triada básica.",
+      "cardRef": { "category": "vocabulary", "front": "報告" }
+    },
+    {
+      "front": "連絡",
+      "back": "contacto, comunicación",
+      "reading": "れんらく",
+      "explanation": "連絡 (renraku) — comunicación o aviso. Ejemplo: 連絡する (ponerse en contacto), 連絡先 (datos de contacto), 連絡が取れない (no puedo comunicarme). Es una de las palabras más usadas en japonés cotidiano.",
+      "cardRef": { "category": "vocabulary", "front": "連絡" }
+    },
+    {
+      "front": "確認",
+      "back": "confirmación, verificación",
+      "reading": "かくにん",
+      "explanation": "確認 (kakunin) — confirmación o verificación. Ejemplo: 予約を確認する (confirmar la reserva), ご確認ください (por favor, verifique). Muy usado en emails formales y contextos laborales.",
+      "cardRef": { "category": "vocabulary", "front": "確認" }
+    }
+  ],
+  "steps": [
+    {
+      "type": "introduce",
+      "title": "El vocabulario del trabajo",
+      "instruction": "Estas palabras son fundamentales en el mundo laboral y la comunicación formal japonesa. Muchas funcionan como verbos cuando se les agrega する: 説明する, 報告する, 連絡する, 確認する. Aprendelas en pares: la palabra + する.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "recognize",
+      "title": "¿Qué significa?",
+      "instruction": "Elegí el significado correcto. Atención a las diferencias sutiles entre palabras similares.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "word-in-context",
+      "title": "En contexto laboral",
+      "instruction": "Elegí la oración que usa la palabra correctamente.",
+      "itemIndices": [],
+      "config": {
+        "exercises": [
+          {
+            "targetWord": "連絡",
+            "translation": "contacto, comunicación",
+            "options": [
+              "明日、連絡します。",
+              "明日、連絡があります。",
+              "明日に連絡をします。",
+              "明日は連絡された。"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "確認",
+            "translation": "confirmación, verificación",
+            "options": [
+              "予約を確認してください。",
+              "予約が確認してください。",
+              "予約に確認します。",
+              "予約は確認した。"
+            ],
+            "correctIndex": 0
+          },
+          {
+            "targetWord": "理由",
+            "translation": "razón, motivo",
+            "options": [
+              "遅刻の理由を教えてください。",
+              "遅刻の理由が教えてください。",
+              "遅刻に理由を教えてください。",
+              "遅刻は理由を教えます。"
+            ],
+            "correctIndex": 0
+          }
+        ]
+      }
+    },
+    {
+      "type": "listen-identify",
+      "title": "Escuchá y reconocé",
+      "instruction": "Escuchá la pronunciación e identificá la palabra correcta.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    },
+    {
+      "type": "write",
+      "title": "Escribí en japonés",
+      "instruction": "Escribí la palabra en japonés (kanji o hiragana).",
+      "itemIndices": [0, 1, 2, 4, 6]
+    },
+    {
+      "type": "recall",
+      "title": "¿Cómo se dice?",
+      "instruction": "Ves el español. Escribí la palabra en japonés.",
+      "itemIndices": [0, 1, 2, 3, 4, 5]
+    },
+    {
+      "type": "summary",
+      "title": "¡Vocabulario profesional listo!",
+      "instruction": "Ahora manejás: 方法 (método), 理由 (razón), 目的 (objetivo), 計画 (plan), 説明 (explicación), 報告 (informe), 連絡 (contacto) y 確認 (confirmación). Estas palabras te van a abrir las puertas del japonés formal y laboral.",
+      "itemIndices": [0, 1, 2, 3, 4, 5, 6, 7]
+    }
+  ]
+}

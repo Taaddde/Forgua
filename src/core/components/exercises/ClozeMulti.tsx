@@ -128,7 +128,6 @@ export function ClozeMulti({ template, blanks, onAnswer }: ClozeMultiProps) {
           if (part.type === 'text') {
             return <span key={i}>{part.value}</span>;
           }
-          const blank = blanks[part.index];
           return (
             <span key={i} className={getInputStyle(part.index)}>
               {values[part.index] ?? '___'}

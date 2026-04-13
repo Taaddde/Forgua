@@ -2,10 +2,16 @@
   {
     "word": "始める",
     "reading": "はじめる",
-    "meanings": ["empezar (transitivo)", "to start (transitive)"],
+    "meanings": [
+      "empezar (transitivo)",
+      "to start (transitive)"
+    ],
     "pos": "verb-ichidan",
     "level": "n4",
-    "tags": ["transitive", "pair:始まる"],
+    "tags": [
+      "transitive",
+      "pair:始まる"
+    ],
     "examples": [
       {
         "text": "授業を始めましょう。",
@@ -17,10 +23,16 @@
   {
     "word": "始まる",
     "reading": "はじまる",
-    "meanings": ["empezar (intransitivo)", "to start (intransitive)"],
+    "meanings": [
+      "empezar (intransitivo)",
+      "to start (intransitive)"
+    ],
     "pos": "verb-godan",
     "level": "n4",
-    "tags": ["intransitive", "pair:始める"],
+    "tags": [
+      "intransitive",
+      "pair:始める"
+    ],
     "examples": [
       {
         "text": "映画はもう始まりました。",
@@ -32,10 +44,16 @@
   {
     "word": "集める",
     "reading": "あつめる",
-    "meanings": ["reunir", "to collect"],
+    "meanings": [
+      "reunir",
+      "to collect"
+    ],
     "pos": "verb-ichidan",
     "level": "n4",
-    "tags": ["transitive", "pair:集まる"],
+    "tags": [
+      "transitive",
+      "pair:集まる"
+    ],
     "examples": [
       {
         "text": "切手を集めるのが趣味です。",
@@ -47,10 +65,16 @@
   {
     "word": "集まる",
     "reading": "あつまる",
-    "meanings": ["reunirse", "to gather"],
+    "meanings": [
+      "reunirse",
+      "to gather"
+    ],
     "pos": "verb-godan",
     "level": "n4",
-    "tags": ["intransitive", "pair:集める"],
+    "tags": [
+      "intransitive",
+      "pair:集める"
+    ],
     "examples": [
       {
         "text": "公園に人が集まっています。",
@@ -62,10 +86,16 @@
   {
     "word": "決める",
     "reading": "きめる",
-    "meanings": ["decidir", "to decide"],
+    "meanings": [
+      "decidir",
+      "to decide"
+    ],
     "pos": "verb-ichidan",
     "level": "n4",
-    "tags": ["transitive", "pair:決まる"],
+    "tags": [
+      "transitive",
+      "pair:決まる"
+    ],
     "examples": [
       {
         "text": "旅行の日を決めました。",
@@ -77,10 +107,16 @@
   {
     "word": "決まる",
     "reading": "きまる",
-    "meanings": ["decidirse", "to be decided"],
+    "meanings": [
+      "decidirse",
+      "to be decided"
+    ],
     "pos": "verb-godan",
     "level": "n4",
-    "tags": ["intransitive", "pair:決める"],
+    "tags": [
+      "intransitive",
+      "pair:決める"
+    ],
     "examples": [
       {
         "text": "会議の時間が決まりました。",
@@ -92,10 +128,16 @@
   {
     "word": "変える",
     "reading": "かえる",
-    "meanings": ["cambiar (transitivo)", "to change (transitive)"],
+    "meanings": [
+      "cambiar (transitivo)",
+      "to change (transitive)"
+    ],
     "pos": "verb-ichidan",
     "level": "n4",
-    "tags": ["transitive", "pair:変わる"],
+    "tags": [
+      "transitive",
+      "pair:変わる"
+    ],
     "examples": [
       {
         "text": "予定を変えてもいいですか。",
@@ -107,10 +149,16 @@
   {
     "word": "変わる",
     "reading": "かわる",
-    "meanings": ["cambiar (intransitivo)", "to change (intransitive)"],
+    "meanings": [
+      "cambiar (intransitivo)",
+      "to change (intransitive)"
+    ],
     "pos": "verb-godan",
     "level": "n4",
-    "tags": ["intransitive", "pair:変える"],
+    "tags": [
+      "intransitive",
+      "pair:変える"
+    ],
     "examples": [
       {
         "text": "季節が変わると気温も変わります。",
@@ -122,10 +170,16 @@
   {
     "word": "届ける",
     "reading": "とどける",
-    "meanings": ["entregar", "to deliver"],
+    "meanings": [
+      "entregar",
+      "to deliver"
+    ],
     "pos": "verb-ichidan",
     "level": "n4",
-    "tags": ["transitive", "pair:届く"],
+    "tags": [
+      "transitive",
+      "pair:届く"
+    ],
     "examples": [
       {
         "text": "荷物を届けてください。",
@@ -137,10 +191,16 @@
   {
     "word": "届く",
     "reading": "とどく",
-    "meanings": ["llegar (entrega)", "to arrive (delivery)"],
+    "meanings": [
+      "llegar (entrega)",
+      "to arrive (delivery)"
+    ],
     "pos": "verb-godan",
     "level": "n4",
-    "tags": ["intransitive", "pair:届ける"],
+    "tags": [
+      "intransitive",
+      "pair:届ける"
+    ],
     "examples": [
       {
         "text": "手紙が届きました。",
@@ -152,10 +212,16 @@
   {
     "word": "見つける",
     "reading": "みつける",
-    "meanings": ["encontrar", "to find"],
+    "meanings": [
+      "encontrar",
+      "to find"
+    ],
     "pos": "verb-ichidan",
     "level": "n4",
-    "tags": ["transitive", "pair:見つかる"],
+    "tags": [
+      "transitive",
+      "pair:見つかる"
+    ],
     "examples": [
       {
         "text": "いい仕事を見つけました。",
@@ -167,10 +233,16 @@
   {
     "word": "見つかる",
     "reading": "みつかる",
-    "meanings": ["ser encontrado", "to be found"],
+    "meanings": [
+      "ser encontrado",
+      "to be found"
+    ],
     "pos": "verb-godan",
     "level": "n4",
-    "tags": ["intransitive", "pair:見つける"],
+    "tags": [
+      "intransitive",
+      "pair:見つける"
+    ],
     "examples": [
       {
         "text": "なくした鍵が見つかりました。",
@@ -182,10 +254,16 @@
   {
     "word": "壊す",
     "reading": "こわす",
-    "meanings": ["romper (transitivo)", "to break (transitive)"],
+    "meanings": [
+      "romper (transitivo)",
+      "to break (transitive)"
+    ],
     "pos": "verb-godan",
     "level": "n4",
-    "tags": ["transitive", "pair:壊れる"],
+    "tags": [
+      "transitive",
+      "pair:壊れる"
+    ],
     "examples": [
       {
         "text": "弟がおもちゃを壊しました。",
@@ -197,10 +275,16 @@
   {
     "word": "壊れる",
     "reading": "こわれる",
-    "meanings": ["romperse", "to break (intransitive)"],
+    "meanings": [
+      "romperse",
+      "to break (intransitive)"
+    ],
     "pos": "verb-ichidan",
     "level": "n4",
-    "tags": ["intransitive", "pair:壊す"],
+    "tags": [
+      "intransitive",
+      "pair:壊す"
+    ],
     "examples": [
       {
         "text": "パソコンが壊れてしまいました。",
@@ -212,10 +296,16 @@
   {
     "word": "落とす",
     "reading": "おとす",
-    "meanings": ["dejar caer", "to drop"],
+    "meanings": [
+      "dejar caer",
+      "to drop"
+    ],
     "pos": "verb-godan",
     "level": "n4",
-    "tags": ["transitive", "pair:落ちる"],
+    "tags": [
+      "transitive",
+      "pair:落ちる"
+    ],
     "examples": [
       {
         "text": "財布を落としてしまいました。",
@@ -227,10 +317,16 @@
   {
     "word": "落ちる",
     "reading": "おちる",
-    "meanings": ["caer", "to fall"],
+    "meanings": [
+      "caer",
+      "to fall"
+    ],
     "pos": "verb-ichidan",
     "level": "n4",
-    "tags": ["intransitive", "pair:落とす"],
+    "tags": [
+      "intransitive",
+      "pair:落とす"
+    ],
     "examples": [
       {
         "text": "木から葉が落ちました。",
@@ -242,10 +338,16 @@
   {
     "word": "上げる",
     "reading": "あげる",
-    "meanings": ["subir (transitivo)", "to raise"],
+    "meanings": [
+      "subir (transitivo)",
+      "to raise"
+    ],
     "pos": "verb-ichidan",
     "level": "n4",
-    "tags": ["transitive", "pair:上がる"],
+    "tags": [
+      "transitive",
+      "pair:上がる"
+    ],
     "examples": [
       {
         "text": "手を上げてください。",
@@ -257,10 +359,16 @@
   {
     "word": "上がる",
     "reading": "あがる",
-    "meanings": ["subir (intransitivo)", "to rise"],
+    "meanings": [
+      "subir (intransitivo)",
+      "to rise"
+    ],
     "pos": "verb-godan",
     "level": "n4",
-    "tags": ["intransitive", "pair:上げる"],
+    "tags": [
+      "intransitive",
+      "pair:上げる"
+    ],
     "examples": [
       {
         "text": "温度が上がりました。",
@@ -272,10 +380,16 @@
   {
     "word": "下げる",
     "reading": "さげる",
-    "meanings": ["bajar (transitivo)", "to lower"],
+    "meanings": [
+      "bajar (transitivo)",
+      "to lower"
+    ],
     "pos": "verb-ichidan",
     "level": "n4",
-    "tags": ["transitive", "pair:下がる"],
+    "tags": [
+      "transitive",
+      "pair:下がる"
+    ],
     "examples": [
       {
         "text": "音を下げてください。",
@@ -287,10 +401,16 @@
   {
     "word": "下がる",
     "reading": "さがる",
-    "meanings": ["bajar (intransitivo)", "to go down"],
+    "meanings": [
+      "bajar (intransitivo)",
+      "to go down"
+    ],
     "pos": "verb-godan",
     "level": "n4",
-    "tags": ["intransitive", "pair:下げる"],
+    "tags": [
+      "intransitive",
+      "pair:下げる"
+    ],
     "examples": [
       {
         "text": "気温が下がりました。",
@@ -302,10 +422,16 @@
   {
     "word": "つける",
     "reading": "つける",
-    "meanings": ["encender, poner", "to turn on, to attach"],
+    "meanings": [
+      "encender, poner",
+      "to turn on, to attach"
+    ],
     "pos": "verb-ichidan",
     "level": "n4",
-    "tags": ["transitive", "pair:つく"],
+    "tags": [
+      "transitive",
+      "pair:つく"
+    ],
     "examples": [
       {
         "text": "電気をつけてください。",
@@ -317,10 +443,16 @@
   {
     "word": "つく",
     "reading": "つく",
-    "meanings": ["encenderse, pegarse", "to turn on, to stick"],
+    "meanings": [
+      "encenderse, pegarse",
+      "to turn on, to stick"
+    ],
     "pos": "verb-godan",
     "level": "n4",
-    "tags": ["intransitive", "pair:つける"],
+    "tags": [
+      "intransitive",
+      "pair:つける"
+    ],
     "examples": [
       {
         "text": "電気がつきました。",
@@ -332,10 +464,16 @@
   {
     "word": "直す",
     "reading": "なおす",
-    "meanings": ["arreglar, corregir", "to fix, to correct"],
+    "meanings": [
+      "arreglar, corregir",
+      "to fix, to correct"
+    ],
     "pos": "verb-godan",
     "level": "n4",
-    "tags": ["transitive", "pair:直る"],
+    "tags": [
+      "transitive",
+      "pair:直る"
+    ],
     "examples": [
       {
         "text": "時計を直してもらいました。",
@@ -347,10 +485,16 @@
   {
     "word": "直る",
     "reading": "なおる",
-    "meanings": ["arreglarse, curarse", "to be fixed, to heal"],
+    "meanings": [
+      "arreglarse, curarse",
+      "to be fixed, to heal"
+    ],
     "pos": "verb-godan",
     "level": "n4",
-    "tags": ["intransitive", "pair:直す"],
+    "tags": [
+      "intransitive",
+      "pair:直す"
+    ],
     "examples": [
       {
         "text": "風邪が直りました。",
@@ -362,10 +506,16 @@
   {
     "word": "沸かす",
     "reading": "わかす",
-    "meanings": ["hervir (transitivo)", "to boil (transitive)"],
+    "meanings": [
+      "hervir (transitivo)",
+      "to boil (transitive)"
+    ],
     "pos": "verb-godan",
     "level": "n4",
-    "tags": ["transitive", "pair:沸く"],
+    "tags": [
+      "transitive",
+      "pair:沸く"
+    ],
     "examples": [
       {
         "text": "お湯を沸かしてください。",
@@ -377,10 +527,15 @@
   {
     "word": "経験",
     "reading": "けいけん",
-    "meanings": ["experiencia", "experience"],
+    "meanings": [
+      "experiencia",
+      "experience"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["abstract"],
+    "tags": [
+      "abstract"
+    ],
     "examples": [
       {
         "text": "日本での経験は大切です。",
@@ -392,10 +547,15 @@
   {
     "word": "意見",
     "reading": "いけん",
-    "meanings": ["opinión", "opinion"],
+    "meanings": [
+      "opinión",
+      "opinion"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["abstract"],
+    "tags": [
+      "abstract"
+    ],
     "examples": [
       {
         "text": "あなたの意見を聞かせてください。",
@@ -407,10 +567,15 @@
   {
     "word": "関係",
     "reading": "かんけい",
-    "meanings": ["relación", "relationship"],
+    "meanings": [
+      "relación",
+      "relationship"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["abstract"],
+    "tags": [
+      "abstract"
+    ],
     "examples": [
       {
         "text": "二人の関係はとても良いです。",
@@ -422,10 +587,15 @@
   {
     "word": "文化",
     "reading": "ぶんか",
-    "meanings": ["cultura", "culture"],
+    "meanings": [
+      "cultura",
+      "culture"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["abstract"],
+    "tags": [
+      "abstract"
+    ],
     "examples": [
       {
         "text": "日本の文化に興味があります。",
@@ -437,10 +607,15 @@
   {
     "word": "社会",
     "reading": "しゃかい",
-    "meanings": ["sociedad", "society"],
+    "meanings": [
+      "sociedad",
+      "society"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["abstract"],
+    "tags": [
+      "abstract"
+    ],
     "examples": [
       {
         "text": "社会のルールを守りましょう。",
@@ -452,10 +627,16 @@
   {
     "word": "将来",
     "reading": "しょうらい",
-    "meanings": ["futuro", "future"],
+    "meanings": [
+      "futuro",
+      "future"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["abstract", "time"],
+    "tags": [
+      "abstract",
+      "time"
+    ],
     "examples": [
       {
         "text": "将来、医者になりたいです。",
@@ -467,10 +648,15 @@
   {
     "word": "政治",
     "reading": "せいじ",
-    "meanings": ["política", "politics"],
+    "meanings": [
+      "política",
+      "politics"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["abstract"],
+    "tags": [
+      "abstract"
+    ],
     "examples": [
       {
         "text": "政治に関心がありますか。",
@@ -482,10 +668,15 @@
   {
     "word": "経済",
     "reading": "けいざい",
-    "meanings": ["economía", "economy"],
+    "meanings": [
+      "economía",
+      "economy"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["abstract"],
+    "tags": [
+      "abstract"
+    ],
     "examples": [
       {
         "text": "日本の経済は変わっています。",
@@ -497,10 +688,15 @@
   {
     "word": "教育",
     "reading": "きょういく",
-    "meanings": ["educación", "education"],
+    "meanings": [
+      "educación",
+      "education"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["abstract"],
+    "tags": [
+      "abstract"
+    ],
     "examples": [
       {
         "text": "教育はとても大切です。",
@@ -512,10 +708,16 @@
   {
     "word": "研究",
     "reading": "けんきゅう",
-    "meanings": ["investigación", "research"],
+    "meanings": [
+      "investigación",
+      "research"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["abstract", "academic"],
+    "tags": [
+      "abstract",
+      "academic"
+    ],
     "examples": [
       {
         "text": "大学で日本語の研究をしています。",
@@ -527,10 +729,15 @@
   {
     "word": "技術",
     "reading": "ぎじゅつ",
-    "meanings": ["tecnología, técnica", "technology, technique"],
+    "meanings": [
+      "tecnología, técnica",
+      "technology, technique"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["abstract"],
+    "tags": [
+      "abstract"
+    ],
     "examples": [
       {
         "text": "新しい技術が発展しています。",
@@ -542,10 +749,15 @@
   {
     "word": "原因",
     "reading": "げんいん",
-    "meanings": ["causa", "cause"],
+    "meanings": [
+      "causa",
+      "cause"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["abstract"],
+    "tags": [
+      "abstract"
+    ],
     "examples": [
       {
         "text": "事故の原因を調べています。",
@@ -557,10 +769,15 @@
   {
     "word": "結果",
     "reading": "けっか",
-    "meanings": ["resultado", "result"],
+    "meanings": [
+      "resultado",
+      "result"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["abstract"],
+    "tags": [
+      "abstract"
+    ],
     "examples": [
       {
         "text": "試験の結果はまだ分かりません。",
@@ -572,10 +789,15 @@
   {
     "word": "目的",
     "reading": "もくてき",
-    "meanings": ["objetivo, propósito", "purpose, objective"],
+    "meanings": [
+      "objetivo, propósito",
+      "purpose, objective"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["abstract"],
+    "tags": [
+      "abstract"
+    ],
     "examples": [
       {
         "text": "旅行の目的は何ですか。",
@@ -587,10 +809,15 @@
   {
     "word": "習慣",
     "reading": "しゅうかん",
-    "meanings": ["hábito, costumbre", "habit, custom"],
+    "meanings": [
+      "hábito, costumbre",
+      "habit, custom"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["abstract"],
+    "tags": [
+      "abstract"
+    ],
     "examples": [
       {
         "text": "早起きの習慣をつけたいです。",
@@ -602,10 +829,16 @@
   {
     "word": "歴史",
     "reading": "れきし",
-    "meanings": ["historia", "history"],
+    "meanings": [
+      "historia",
+      "history"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["abstract", "academic"],
+    "tags": [
+      "abstract",
+      "academic"
+    ],
     "examples": [
       {
         "text": "日本の歴史を勉強しています。",
@@ -617,10 +850,15 @@
   {
     "word": "自然",
     "reading": "しぜん",
-    "meanings": ["naturaleza", "nature"],
+    "meanings": [
+      "naturaleza",
+      "nature"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["abstract"],
+    "tags": [
+      "abstract"
+    ],
     "examples": [
       {
         "text": "自然の中で過ごすのが好きです。",
@@ -632,10 +870,15 @@
   {
     "word": "人口",
     "reading": "じんこう",
-    "meanings": ["población", "population"],
+    "meanings": [
+      "población",
+      "population"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["abstract"],
+    "tags": [
+      "abstract"
+    ],
     "examples": [
       {
         "text": "東京の人口はとても多いです。",
@@ -647,10 +890,15 @@
   {
     "word": "事故",
     "reading": "じこ",
-    "meanings": ["accidente", "accident"],
+    "meanings": [
+      "accidente",
+      "accident"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["abstract"],
+    "tags": [
+      "abstract"
+    ],
     "examples": [
       {
         "text": "交通事故に気をつけてください。",
@@ -662,10 +910,16 @@
   {
     "word": "地震",
     "reading": "じしん",
-    "meanings": ["terremoto", "earthquake"],
+    "meanings": [
+      "terremoto",
+      "earthquake"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["abstract", "nature"],
+    "tags": [
+      "abstract",
+      "nature"
+    ],
     "examples": [
       {
         "text": "昨日、大きい地震がありました。",
@@ -677,10 +931,15 @@
   {
     "word": "簡単",
     "reading": "かんたん",
-    "meanings": ["sencillo, fácil", "simple, easy"],
+    "meanings": [
+      "sencillo, fácil",
+      "simple, easy"
+    ],
     "pos": "adjective-na",
     "level": "n4",
-    "tags": ["na-adjective"],
+    "tags": [
+      "na-adjective"
+    ],
     "examples": [
       {
         "text": "この問題は簡単です。",
@@ -692,10 +951,15 @@
   {
     "word": "複雑",
     "reading": "ふくざつ",
-    "meanings": ["complejo, complicado", "complex, complicated"],
+    "meanings": [
+      "complejo, complicado",
+      "complex, complicated"
+    ],
     "pos": "adjective-na",
     "level": "n4",
-    "tags": ["na-adjective"],
+    "tags": [
+      "na-adjective"
+    ],
     "examples": [
       {
         "text": "東京の電車は複雑です。",
@@ -707,10 +971,15 @@
   {
     "word": "大切",
     "reading": "たいせつ",
-    "meanings": ["importante, valioso", "important, precious"],
+    "meanings": [
+      "importante, valioso",
+      "important, precious"
+    ],
     "pos": "adjective-na",
     "level": "n4",
-    "tags": ["na-adjective"],
+    "tags": [
+      "na-adjective"
+    ],
     "examples": [
       {
         "text": "家族は大切な存在です。",
@@ -722,10 +991,15 @@
   {
     "word": "必要",
     "reading": "ひつよう",
-    "meanings": ["necesario", "necessary"],
+    "meanings": [
+      "necesario",
+      "necessary"
+    ],
     "pos": "adjective-na",
     "level": "n4",
-    "tags": ["na-adjective"],
+    "tags": [
+      "na-adjective"
+    ],
     "examples": [
       {
         "text": "パスポートが必要です。",
@@ -737,10 +1011,15 @@
   {
     "word": "特別",
     "reading": "とくべつ",
-    "meanings": ["especial", "special"],
+    "meanings": [
+      "especial",
+      "special"
+    ],
     "pos": "adjective-na",
     "level": "n4",
-    "tags": ["na-adjective"],
+    "tags": [
+      "na-adjective"
+    ],
     "examples": [
       {
         "text": "今日は特別な日です。",
@@ -752,10 +1031,15 @@
   {
     "word": "自由",
     "reading": "じゆう",
-    "meanings": ["libre, libertad", "free, freedom"],
+    "meanings": [
+      "libre, libertad",
+      "free, freedom"
+    ],
     "pos": "adjective-na",
     "level": "n4",
-    "tags": ["na-adjective"],
+    "tags": [
+      "na-adjective"
+    ],
     "examples": [
       {
         "text": "週末は自由な時間があります。",
@@ -767,10 +1051,15 @@
   {
     "word": "安全",
     "reading": "あんぜん",
-    "meanings": ["seguro, seguridad", "safe, safety"],
+    "meanings": [
+      "seguro, seguridad",
+      "safe, safety"
+    ],
     "pos": "adjective-na",
     "level": "n4",
-    "tags": ["na-adjective"],
+    "tags": [
+      "na-adjective"
+    ],
     "examples": [
       {
         "text": "この町は安全です。",
@@ -782,10 +1071,15 @@
   {
     "word": "丁寧",
     "reading": "ていねい",
-    "meanings": ["cortés, cuidadoso", "polite, careful"],
+    "meanings": [
+      "cortés, cuidadoso",
+      "polite, careful"
+    ],
     "pos": "adjective-na",
     "level": "n4",
-    "tags": ["na-adjective"],
+    "tags": [
+      "na-adjective"
+    ],
     "examples": [
       {
         "text": "先生は丁寧に教えてくれます。",
@@ -797,10 +1091,15 @@
   {
     "word": "便利",
     "reading": "べんり",
-    "meanings": ["conveniente, práctico", "convenient"],
+    "meanings": [
+      "conveniente, práctico",
+      "convenient"
+    ],
     "pos": "adjective-na",
     "level": "n4",
-    "tags": ["na-adjective"],
+    "tags": [
+      "na-adjective"
+    ],
     "examples": [
       {
         "text": "駅の近くに住むのは便利です。",
@@ -812,10 +1111,15 @@
   {
     "word": "不便",
     "reading": "ふべん",
-    "meanings": ["inconveniente", "inconvenient"],
+    "meanings": [
+      "inconveniente",
+      "inconvenient"
+    ],
     "pos": "adjective-na",
     "level": "n4",
-    "tags": ["na-adjective"],
+    "tags": [
+      "na-adjective"
+    ],
     "examples": [
       {
         "text": "車がないと不便です。",
@@ -827,10 +1131,15 @@
   {
     "word": "熱心",
     "reading": "ねっしん",
-    "meanings": ["entusiasta, dedicado", "enthusiastic, eager"],
+    "meanings": [
+      "entusiasta, dedicado",
+      "enthusiastic, eager"
+    ],
     "pos": "adjective-na",
     "level": "n4",
-    "tags": ["na-adjective"],
+    "tags": [
+      "na-adjective"
+    ],
     "examples": [
       {
         "text": "彼は熱心に勉強しています。",
@@ -842,10 +1151,15 @@
   {
     "word": "正確",
     "reading": "せいかく",
-    "meanings": ["exacto, preciso", "accurate, precise"],
+    "meanings": [
+      "exacto, preciso",
+      "accurate, precise"
+    ],
     "pos": "adjective-na",
     "level": "n4",
-    "tags": ["na-adjective"],
+    "tags": [
+      "na-adjective"
+    ],
     "examples": [
       {
         "text": "正確な時間を教えてください。",
@@ -857,10 +1171,15 @@
   {
     "word": "適当",
     "reading": "てきとう",
-    "meanings": ["apropiado, casual", "appropriate, casual"],
+    "meanings": [
+      "apropiado, casual",
+      "appropriate, casual"
+    ],
     "pos": "adjective-na",
     "level": "n4",
-    "tags": ["na-adjective"],
+    "tags": [
+      "na-adjective"
+    ],
     "examples": [
       {
         "text": "適当な答えを選んでください。",
@@ -872,10 +1191,15 @@
   {
     "word": "無理",
     "reading": "むり",
-    "meanings": ["imposible, excesivo", "impossible, unreasonable"],
+    "meanings": [
+      "imposible, excesivo",
+      "impossible, unreasonable"
+    ],
     "pos": "adjective-na",
     "level": "n4",
-    "tags": ["na-adjective"],
+    "tags": [
+      "na-adjective"
+    ],
     "examples": [
       {
         "text": "無理をしないでください。",
@@ -887,10 +1211,15 @@
   {
     "word": "珍しい",
     "reading": "めずらしい",
-    "meanings": ["raro, inusual", "rare, unusual"],
+    "meanings": [
+      "raro, inusual",
+      "rare, unusual"
+    ],
     "pos": "adjective-i",
     "level": "n4",
-    "tags": ["i-adjective"],
+    "tags": [
+      "i-adjective"
+    ],
     "examples": [
       {
         "text": "この花は珍しいです。",
@@ -902,10 +1231,16 @@
   {
     "word": "恥ずかしい",
     "reading": "はずかしい",
-    "meanings": ["vergonzoso", "embarrassing, shy"],
+    "meanings": [
+      "vergonzoso",
+      "embarrassing, shy"
+    ],
     "pos": "adjective-i",
     "level": "n4",
-    "tags": ["i-adjective", "emotion"],
+    "tags": [
+      "i-adjective",
+      "emotion"
+    ],
     "examples": [
       {
         "text": "みんなの前で歌うのは恥ずかしいです。",
@@ -917,10 +1252,15 @@
   {
     "word": "素晴らしい",
     "reading": "すばらしい",
-    "meanings": ["maravilloso, espléndido", "wonderful, splendid"],
+    "meanings": [
+      "maravilloso, espléndido",
+      "wonderful, splendid"
+    ],
     "pos": "adjective-i",
     "level": "n4",
-    "tags": ["i-adjective"],
+    "tags": [
+      "i-adjective"
+    ],
     "examples": [
       {
         "text": "今日の景色は素晴らしいです。",
@@ -932,10 +1272,15 @@
   {
     "word": "うるさい",
     "reading": "うるさい",
-    "meanings": ["ruidoso, molesto", "noisy, annoying"],
+    "meanings": [
+      "ruidoso, molesto",
+      "noisy, annoying"
+    ],
     "pos": "adjective-i",
     "level": "n4",
-    "tags": ["i-adjective"],
+    "tags": [
+      "i-adjective"
+    ],
     "examples": [
       {
         "text": "隣の部屋がうるさいです。",
@@ -947,10 +1292,15 @@
   {
     "word": "厳しい",
     "reading": "きびしい",
-    "meanings": ["estricto, severo", "strict, severe"],
+    "meanings": [
+      "estricto, severo",
+      "strict, severe"
+    ],
     "pos": "adjective-i",
     "level": "n4",
-    "tags": ["i-adjective"],
+    "tags": [
+      "i-adjective"
+    ],
     "examples": [
       {
         "text": "この先生は厳しいです。",
@@ -962,10 +1312,16 @@
   {
     "word": "悲しい",
     "reading": "かなしい",
-    "meanings": ["triste", "sad"],
+    "meanings": [
+      "triste",
+      "sad"
+    ],
     "pos": "adjective-i",
     "level": "n4",
-    "tags": ["i-adjective", "emotion"],
+    "tags": [
+      "i-adjective",
+      "emotion"
+    ],
     "examples": [
       {
         "text": "友達が引っ越して悲しいです。",
@@ -977,10 +1333,16 @@
   {
     "word": "嬉しい",
     "reading": "うれしい",
-    "meanings": ["feliz, contento", "happy, glad"],
+    "meanings": [
+      "feliz, contento",
+      "happy, glad"
+    ],
     "pos": "adjective-i",
     "level": "n4",
-    "tags": ["i-adjective", "emotion"],
+    "tags": [
+      "i-adjective",
+      "emotion"
+    ],
     "examples": [
       {
         "text": "プレゼントをもらって嬉しいです。",
@@ -992,10 +1354,15 @@
   {
     "word": "柔らかい",
     "reading": "やわらかい",
-    "meanings": ["suave, blando", "soft"],
+    "meanings": [
+      "suave, blando",
+      "soft"
+    ],
     "pos": "adjective-i",
     "level": "n4",
-    "tags": ["i-adjective"],
+    "tags": [
+      "i-adjective"
+    ],
     "examples": [
       {
         "text": "このパンは柔らかいです。",
@@ -1007,10 +1374,15 @@
   {
     "word": "硬い",
     "reading": "かたい",
-    "meanings": ["duro, firme", "hard, firm"],
+    "meanings": [
+      "duro, firme",
+      "hard, firm"
+    ],
     "pos": "adjective-i",
     "level": "n4",
-    "tags": ["i-adjective"],
+    "tags": [
+      "i-adjective"
+    ],
     "examples": [
       {
         "text": "この肉は硬いです。",
@@ -1022,10 +1394,16 @@
   {
     "word": "眠い",
     "reading": "ねむい",
-    "meanings": ["somnoliento", "sleepy"],
+    "meanings": [
+      "somnoliento",
+      "sleepy"
+    ],
     "pos": "adjective-i",
     "level": "n4",
-    "tags": ["i-adjective", "body"],
+    "tags": [
+      "i-adjective",
+      "body"
+    ],
     "examples": [
       {
         "text": "昨日あまり寝なかったので眠いです。",
@@ -1037,10 +1415,15 @@
   {
     "word": "たいてい",
     "reading": "たいてい",
-    "meanings": ["generalmente", "usually"],
+    "meanings": [
+      "generalmente",
+      "usually"
+    ],
     "pos": "adverb",
     "level": "n4",
-    "tags": ["frequency"],
+    "tags": [
+      "frequency"
+    ],
     "examples": [
       {
         "text": "たいてい七時に起きます。",
@@ -1052,10 +1435,15 @@
   {
     "word": "だんだん",
     "reading": "だんだん",
-    "meanings": ["gradualmente", "gradually"],
+    "meanings": [
+      "gradualmente",
+      "gradually"
+    ],
     "pos": "adverb",
     "level": "n4",
-    "tags": ["manner"],
+    "tags": [
+      "manner"
+    ],
     "examples": [
       {
         "text": "だんだん暖かくなってきました。",
@@ -1067,10 +1455,15 @@
   {
     "word": "やっと",
     "reading": "やっと",
-    "meanings": ["finalmente, por fin", "finally, at last"],
+    "meanings": [
+      "finalmente, por fin",
+      "finally, at last"
+    ],
     "pos": "adverb",
     "level": "n4",
-    "tags": ["manner"],
+    "tags": [
+      "manner"
+    ],
     "examples": [
       {
         "text": "やっと仕事が終わりました。",
@@ -1082,10 +1475,15 @@
   {
     "word": "きっと",
     "reading": "きっと",
-    "meanings": ["seguramente", "surely, certainly"],
+    "meanings": [
+      "seguramente",
+      "surely, certainly"
+    ],
     "pos": "adverb",
     "level": "n4",
-    "tags": ["certainty"],
+    "tags": [
+      "certainty"
+    ],
     "examples": [
       {
         "text": "明日はきっと晴れるでしょう。",
@@ -1097,10 +1495,15 @@
   {
     "word": "なかなか",
     "reading": "なかなか",
-    "meanings": ["difícilmente, bastante", "not easily, quite"],
+    "meanings": [
+      "difícilmente, bastante",
+      "not easily, quite"
+    ],
     "pos": "adverb",
     "level": "n4",
-    "tags": ["manner"],
+    "tags": [
+      "manner"
+    ],
     "examples": [
       {
         "text": "漢字がなかなか覚えられません。",
@@ -1112,10 +1515,15 @@
   {
     "word": "たまに",
     "reading": "たまに",
-    "meanings": ["de vez en cuando", "occasionally"],
+    "meanings": [
+      "de vez en cuando",
+      "occasionally"
+    ],
     "pos": "adverb",
     "level": "n4",
-    "tags": ["frequency"],
+    "tags": [
+      "frequency"
+    ],
     "examples": [
       {
         "text": "たまに映画を見に行きます。",
@@ -1127,10 +1535,15 @@
   {
     "word": "ちゃんと",
     "reading": "ちゃんと",
-    "meanings": ["correctamente, como se debe", "properly"],
+    "meanings": [
+      "correctamente, como se debe",
+      "properly"
+    ],
     "pos": "adverb",
     "level": "n4",
-    "tags": ["manner"],
+    "tags": [
+      "manner"
+    ],
     "examples": [
       {
         "text": "宿題をちゃんとやりなさい。",
@@ -1142,10 +1555,15 @@
   {
     "word": "そろそろ",
     "reading": "そろそろ",
-    "meanings": ["pronto, ya casi", "soon, about time"],
+    "meanings": [
+      "pronto, ya casi",
+      "soon, about time"
+    ],
     "pos": "adverb",
     "level": "n4",
-    "tags": ["time"],
+    "tags": [
+      "time"
+    ],
     "examples": [
       {
         "text": "そろそろ帰りましょう。",
@@ -1157,10 +1575,15 @@
   {
     "word": "つまり",
     "reading": "つまり",
-    "meanings": ["es decir, o sea", "in other words"],
+    "meanings": [
+      "es decir, o sea",
+      "in other words"
+    ],
     "pos": "adverb",
     "level": "n4",
-    "tags": ["discourse"],
+    "tags": [
+      "discourse"
+    ],
     "examples": [
       {
         "text": "つまり、もう一度やり直すということです。",
@@ -1172,10 +1595,16 @@
   {
     "word": "ずっと",
     "reading": "ずっと",
-    "meanings": ["mucho más, todo el tiempo", "by far, all along"],
+    "meanings": [
+      "mucho más, todo el tiempo",
+      "by far, all along"
+    ],
     "pos": "adverb",
     "level": "n4",
-    "tags": ["manner", "time"],
+    "tags": [
+      "manner",
+      "time"
+    ],
     "examples": [
       {
         "text": "ずっとここに住んでいます。",
@@ -1187,10 +1616,15 @@
   {
     "word": "やはり",
     "reading": "やはり",
-    "meanings": ["como esperaba, al fin y al cabo", "as expected, after all"],
+    "meanings": [
+      "como esperaba, al fin y al cabo",
+      "as expected, after all"
+    ],
     "pos": "adverb",
     "level": "n4",
-    "tags": ["discourse"],
+    "tags": [
+      "discourse"
+    ],
     "examples": [
       {
         "text": "やはり日本語は難しいです。",
@@ -1202,10 +1636,15 @@
   {
     "word": "かなり",
     "reading": "かなり",
-    "meanings": ["bastante, considerablemente", "fairly, considerably"],
+    "meanings": [
+      "bastante, considerablemente",
+      "fairly, considerably"
+    ],
     "pos": "adverb",
     "level": "n4",
-    "tags": ["degree"],
+    "tags": [
+      "degree"
+    ],
     "examples": [
       {
         "text": "日本語がかなり上手になりました。",
@@ -1217,10 +1656,15 @@
   {
     "word": "もし",
     "reading": "もし",
-    "meanings": ["si (condicional)", "if"],
+    "meanings": [
+      "si (condicional)",
+      "if"
+    ],
     "pos": "adverb",
     "level": "n4",
-    "tags": ["conditional"],
+    "tags": [
+      "conditional"
+    ],
     "examples": [
       {
         "text": "もし時間があれば、来てください。",
@@ -1232,10 +1676,15 @@
   {
     "word": "必ず",
     "reading": "かならず",
-    "meanings": ["sin falta, siempre", "without fail, always"],
+    "meanings": [
+      "sin falta, siempre",
+      "without fail, always"
+    ],
     "pos": "adverb",
     "level": "n4",
-    "tags": ["certainty"],
+    "tags": [
+      "certainty"
+    ],
     "examples": [
       {
         "text": "約束は必ず守ります。",
@@ -1247,10 +1696,15 @@
   {
     "word": "予定",
     "reading": "よてい",
-    "meanings": ["plan, programa", "plan, schedule"],
+    "meanings": [
+      "plan, programa",
+      "plan, schedule"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["daily"],
+    "tags": [
+      "daily"
+    ],
     "examples": [
       {
         "text": "明日の予定を教えてください。",
@@ -1262,10 +1716,15 @@
   {
     "word": "準備",
     "reading": "じゅんび",
-    "meanings": ["preparación", "preparation"],
+    "meanings": [
+      "preparación",
+      "preparation"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["daily"],
+    "tags": [
+      "daily"
+    ],
     "examples": [
       {
         "text": "旅行の準備をしています。",
@@ -1277,10 +1736,16 @@
   {
     "word": "連絡",
     "reading": "れんらく",
-    "meanings": ["contacto, comunicación", "contact, communication"],
+    "meanings": [
+      "contacto, comunicación",
+      "contact, communication"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["daily", "communication"],
+    "tags": [
+      "daily",
+      "communication"
+    ],
     "examples": [
       {
         "text": "後で連絡します。",
@@ -1292,10 +1757,15 @@
   {
     "word": "約束",
     "reading": "やくそく",
-    "meanings": ["promesa, cita", "promise, appointment"],
+    "meanings": [
+      "promesa, cita",
+      "promise, appointment"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["daily"],
+    "tags": [
+      "daily"
+    ],
     "examples": [
       {
         "text": "友達と約束があります。",
@@ -1307,10 +1777,16 @@
   {
     "word": "相談",
     "reading": "そうだん",
-    "meanings": ["consulta", "consultation"],
+    "meanings": [
+      "consulta",
+      "consultation"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["daily", "communication"],
+    "tags": [
+      "daily",
+      "communication"
+    ],
     "examples": [
       {
         "text": "先生に相談したいことがあります。",
@@ -1322,10 +1798,16 @@
   {
     "word": "紹介",
     "reading": "しょうかい",
-    "meanings": ["presentación, introducción", "introduction"],
+    "meanings": [
+      "presentación, introducción",
+      "introduction"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["daily", "communication"],
+    "tags": [
+      "daily",
+      "communication"
+    ],
     "examples": [
       {
         "text": "友達を紹介します。",
@@ -1337,10 +1819,15 @@
   {
     "word": "注意",
     "reading": "ちゅうい",
-    "meanings": ["atención, precaución", "attention, caution"],
+    "meanings": [
+      "atención, precaución",
+      "attention, caution"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["daily"],
+    "tags": [
+      "daily"
+    ],
     "examples": [
       {
         "text": "車に注意してください。",
@@ -1352,10 +1839,16 @@
   {
     "word": "交通",
     "reading": "こうつう",
-    "meanings": ["tránsito, transporte", "traffic, transportation"],
+    "meanings": [
+      "tránsito, transporte",
+      "traffic, transportation"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["daily", "travel"],
+    "tags": [
+      "daily",
+      "travel"
+    ],
     "examples": [
       {
         "text": "この辺は交通が便利です。",
@@ -1367,10 +1860,15 @@
   {
     "word": "生活",
     "reading": "せいかつ",
-    "meanings": ["vida, vida diaria", "life, daily life"],
+    "meanings": [
+      "vida, vida diaria",
+      "life, daily life"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["daily"],
+    "tags": [
+      "daily"
+    ],
     "examples": [
       {
         "text": "日本での生活に慣れました。",
@@ -1382,10 +1880,15 @@
   {
     "word": "場合",
     "reading": "ばあい",
-    "meanings": ["caso, situación", "case, situation"],
+    "meanings": [
+      "caso, situación",
+      "case, situation"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["daily"],
+    "tags": [
+      "daily"
+    ],
     "examples": [
       {
         "text": "雨の場合は中止です。",
@@ -1397,10 +1900,15 @@
   {
     "word": "理由",
     "reading": "りゆう",
-    "meanings": ["razón, motivo", "reason"],
+    "meanings": [
+      "razón, motivo",
+      "reason"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["daily"],
+    "tags": [
+      "daily"
+    ],
     "examples": [
       {
         "text": "遅刻の理由を教えてください。",
@@ -1412,10 +1920,16 @@
   {
     "word": "挨拶",
     "reading": "あいさつ",
-    "meanings": ["saludo", "greeting"],
+    "meanings": [
+      "saludo",
+      "greeting"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["daily", "communication"],
+    "tags": [
+      "daily",
+      "communication"
+    ],
     "examples": [
       {
         "text": "朝の挨拶は大切です。",
@@ -1427,10 +1941,16 @@
   {
     "word": "お礼",
     "reading": "おれい",
-    "meanings": ["agradecimiento", "thanks, gratitude"],
+    "meanings": [
+      "agradecimiento",
+      "thanks, gratitude"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["daily", "polite"],
+    "tags": [
+      "daily",
+      "polite"
+    ],
     "examples": [
       {
         "text": "お礼を言いたいです。",
@@ -1442,10 +1962,16 @@
   {
     "word": "お見舞い",
     "reading": "おみまい",
-    "meanings": ["visita a un enfermo", "visiting someone who is ill"],
+    "meanings": [
+      "visita a un enfermo",
+      "visiting someone who is ill"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["daily", "polite"],
+    "tags": [
+      "daily",
+      "polite"
+    ],
     "examples": [
       {
         "text": "友達のお見舞いに行きました。",
@@ -1457,10 +1983,16 @@
   {
     "word": "お祝い",
     "reading": "おいわい",
-    "meanings": ["celebración, felicitación", "celebration, congratulations"],
+    "meanings": [
+      "celebración, felicitación",
+      "celebration, congratulations"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["daily", "polite"],
+    "tags": [
+      "daily",
+      "polite"
+    ],
     "examples": [
       {
         "text": "誕生日のお祝いをしました。",
@@ -1472,10 +2004,16 @@
   {
     "word": "景色",
     "reading": "けしき",
-    "meanings": ["paisaje, vista", "scenery, view"],
+    "meanings": [
+      "paisaje, vista",
+      "scenery, view"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["daily", "nature"],
+    "tags": [
+      "daily",
+      "nature"
+    ],
     "examples": [
       {
         "text": "山の景色がきれいです。",
@@ -1487,10 +2025,15 @@
   {
     "word": "人気",
     "reading": "にんき",
-    "meanings": ["popularidad", "popularity"],
+    "meanings": [
+      "popularidad",
+      "popularity"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["daily"],
+    "tags": [
+      "daily"
+    ],
     "examples": [
       {
         "text": "このレストランは人気があります。",
@@ -1502,10 +2045,16 @@
   {
     "word": "気持ち",
     "reading": "きもち",
-    "meanings": ["sentimiento", "feeling"],
+    "meanings": [
+      "sentimiento",
+      "feeling"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["daily", "emotion"],
+    "tags": [
+      "daily",
+      "emotion"
+    ],
     "examples": [
       {
         "text": "あなたの気持ちは分かります。",
@@ -1517,10 +2066,16 @@
   {
     "word": "心配",
     "reading": "しんぱい",
-    "meanings": ["preocupación", "worry"],
+    "meanings": [
+      "preocupación",
+      "worry"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["daily", "emotion"],
+    "tags": [
+      "daily",
+      "emotion"
+    ],
     "examples": [
       {
         "text": "心配しないでください。",
@@ -1532,10 +2087,15 @@
   {
     "word": "会議",
     "reading": "かいぎ",
-    "meanings": ["reunión, junta", "meeting, conference"],
+    "meanings": [
+      "reunión, junta",
+      "meeting, conference"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["work"],
+    "tags": [
+      "work"
+    ],
     "examples": [
       {
         "text": "午後三時に会議があります。",
@@ -1547,10 +2107,15 @@
   {
     "word": "出張",
     "reading": "しゅっちょう",
-    "meanings": ["viaje de negocios", "business trip"],
+    "meanings": [
+      "viaje de negocios",
+      "business trip"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["work"],
+    "tags": [
+      "work"
+    ],
     "examples": [
       {
         "text": "来週、大阪に出張します。",
@@ -1562,10 +2127,16 @@
   {
     "word": "発表",
     "reading": "はっぴょう",
-    "meanings": ["presentación, anuncio", "presentation, announcement"],
+    "meanings": [
+      "presentación, anuncio",
+      "presentation, announcement"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["work", "academic"],
+    "tags": [
+      "work",
+      "academic"
+    ],
     "examples": [
       {
         "text": "明日、研究の発表があります。",
@@ -1577,10 +2148,15 @@
   {
     "word": "報告",
     "reading": "ほうこく",
-    "meanings": ["informe, reporte", "report"],
+    "meanings": [
+      "informe, reporte",
+      "report"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["work"],
+    "tags": [
+      "work"
+    ],
     "examples": [
       {
         "text": "部長に報告しなければなりません。",
@@ -1592,10 +2168,15 @@
   {
     "word": "授業",
     "reading": "じゅぎょう",
-    "meanings": ["clase, lección", "class, lesson"],
+    "meanings": [
+      "clase, lección",
+      "class, lesson"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["academic"],
+    "tags": [
+      "academic"
+    ],
     "examples": [
       {
         "text": "今日の授業は面白かったです。",
@@ -1607,10 +2188,15 @@
   {
     "word": "試験",
     "reading": "しけん",
-    "meanings": ["examen", "exam, test"],
+    "meanings": [
+      "examen",
+      "exam, test"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["academic"],
+    "tags": [
+      "academic"
+    ],
     "examples": [
       {
         "text": "来月、日本語の試験があります。",
@@ -1622,10 +2208,15 @@
   {
     "word": "卒業",
     "reading": "そつぎょう",
-    "meanings": ["graduación", "graduation"],
+    "meanings": [
+      "graduación",
+      "graduation"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["academic"],
+    "tags": [
+      "academic"
+    ],
     "examples": [
       {
         "text": "来年、大学を卒業します。",
@@ -1637,10 +2228,15 @@
   {
     "word": "入学",
     "reading": "にゅうがく",
-    "meanings": ["ingreso escolar", "enrollment, entering school"],
+    "meanings": [
+      "ingreso escolar",
+      "enrollment, entering school"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["academic"],
+    "tags": [
+      "academic"
+    ],
     "examples": [
       {
         "text": "四月に大学に入学しました。",
@@ -1652,10 +2248,15 @@
   {
     "word": "留学",
     "reading": "りゅうがく",
-    "meanings": ["estudiar en el extranjero", "study abroad"],
+    "meanings": [
+      "estudiar en el extranjero",
+      "study abroad"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["academic"],
+    "tags": [
+      "academic"
+    ],
     "examples": [
       {
         "text": "日本に留学したいです。",
@@ -1667,10 +2268,16 @@
   {
     "word": "翻訳",
     "reading": "ほんやく",
-    "meanings": ["traducción", "translation"],
+    "meanings": [
+      "traducción",
+      "translation"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["work", "academic"],
+    "tags": [
+      "work",
+      "academic"
+    ],
     "examples": [
       {
         "text": "この本の翻訳は上手です。",
@@ -1682,10 +2289,16 @@
   {
     "word": "説明",
     "reading": "せつめい",
-    "meanings": ["explicación", "explanation"],
+    "meanings": [
+      "explicación",
+      "explanation"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["work", "academic"],
+    "tags": [
+      "work",
+      "academic"
+    ],
     "examples": [
       {
         "text": "もう一度説明してください。",
@@ -1697,10 +2310,15 @@
   {
     "word": "受付",
     "reading": "うけつけ",
-    "meanings": ["recepción", "reception desk"],
+    "meanings": [
+      "recepción",
+      "reception desk"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["work"],
+    "tags": [
+      "work"
+    ],
     "examples": [
       {
         "text": "受付で名前を書いてください。",
@@ -1712,10 +2330,15 @@
   {
     "word": "締め切り",
     "reading": "しめきり",
-    "meanings": ["fecha límite", "deadline"],
+    "meanings": [
+      "fecha límite",
+      "deadline"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["work"],
+    "tags": [
+      "work"
+    ],
     "examples": [
       {
         "text": "レポートの締め切りは金曜日です。",
@@ -1727,10 +2350,15 @@
   {
     "word": "面接",
     "reading": "めんせつ",
-    "meanings": ["entrevista", "interview"],
+    "meanings": [
+      "entrevista",
+      "interview"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["work"],
+    "tags": [
+      "work"
+    ],
     "examples": [
       {
         "text": "来週、面接を受けます。",
@@ -1742,10 +2370,15 @@
   {
     "word": "給料",
     "reading": "きゅうりょう",
-    "meanings": ["salario, sueldo", "salary"],
+    "meanings": [
+      "salario, sueldo",
+      "salary"
+    ],
     "pos": "noun",
     "level": "n4",
-    "tags": ["work"],
+    "tags": [
+      "work"
+    ],
     "examples": [
       {
         "text": "給料は毎月二十五日に出ます。",
@@ -1757,10 +2390,16 @@
   {
     "word": "間に合う",
     "reading": "まにあう",
-    "meanings": ["llegar a tiempo", "to be on time"],
+    "meanings": [
+      "llegar a tiempo",
+      "to be on time"
+    ],
     "pos": "verb-godan",
     "level": "n4",
-    "tags": ["action", "time"],
+    "tags": [
+      "action",
+      "time"
+    ],
     "examples": [
       {
         "text": "電車に間に合いました。",
@@ -1772,10 +2411,15 @@
   {
     "word": "申し込む",
     "reading": "もうしこむ",
-    "meanings": ["solicitar, inscribirse", "to apply, to sign up"],
+    "meanings": [
+      "solicitar, inscribirse",
+      "to apply, to sign up"
+    ],
     "pos": "verb-godan",
     "level": "n4",
-    "tags": ["action"],
+    "tags": [
+      "action"
+    ],
     "examples": [
       {
         "text": "日本語のコースに申し込みました。",
@@ -1787,10 +2431,15 @@
   {
     "word": "参加する",
     "reading": "さんかする",
-    "meanings": ["participar", "to participate"],
+    "meanings": [
+      "participar",
+      "to participate"
+    ],
     "pos": "verb-irregular",
     "level": "n4",
-    "tags": ["action"],
+    "tags": [
+      "action"
+    ],
     "examples": [
       {
         "text": "パーティーに参加しませんか。",
@@ -1802,10 +2451,16 @@
   {
     "word": "退院する",
     "reading": "たいいんする",
-    "meanings": ["salir del hospital", "to leave the hospital"],
+    "meanings": [
+      "salir del hospital",
+      "to leave the hospital"
+    ],
     "pos": "verb-irregular",
     "level": "n4",
-    "tags": ["action", "medical"],
+    "tags": [
+      "action",
+      "medical"
+    ],
     "examples": [
       {
         "text": "来週退院できるそうです。",
@@ -1817,10 +2472,16 @@
   {
     "word": "入院する",
     "reading": "にゅういんする",
-    "meanings": ["ser hospitalizado", "to be hospitalized"],
+    "meanings": [
+      "ser hospitalizado",
+      "to be hospitalized"
+    ],
     "pos": "verb-irregular",
     "level": "n4",
-    "tags": ["action", "medical"],
+    "tags": [
+      "action",
+      "medical"
+    ],
     "examples": [
       {
         "text": "父が入院しました。",
@@ -1832,10 +2493,16 @@
   {
     "word": "引っ越す",
     "reading": "ひっこす",
-    "meanings": ["mudarse", "to move (residence)"],
+    "meanings": [
+      "mudarse",
+      "to move (residence)"
+    ],
     "pos": "verb-godan",
     "level": "n4",
-    "tags": ["action", "daily"],
+    "tags": [
+      "action",
+      "daily"
+    ],
     "examples": [
       {
         "text": "来月、東京に引っ越します。",
@@ -1847,10 +2514,15 @@
   {
     "word": "慣れる",
     "reading": "なれる",
-    "meanings": ["acostumbrarse", "to get used to"],
+    "meanings": [
+      "acostumbrarse",
+      "to get used to"
+    ],
     "pos": "verb-ichidan",
     "level": "n4",
-    "tags": ["action"],
+    "tags": [
+      "action"
+    ],
     "examples": [
       {
         "text": "日本の生活に慣れましたか。",
@@ -1862,10 +2534,15 @@
   {
     "word": "足りる",
     "reading": "たりる",
-    "meanings": ["ser suficiente", "to be enough"],
+    "meanings": [
+      "ser suficiente",
+      "to be enough"
+    ],
     "pos": "verb-ichidan",
     "level": "n4",
-    "tags": ["action"],
+    "tags": [
+      "action"
+    ],
     "examples": [
       {
         "text": "お金が足りません。",
@@ -1877,10 +2554,15 @@
   {
     "word": "込む",
     "reading": "こむ",
-    "meanings": ["estar lleno, congestionarse", "to be crowded"],
+    "meanings": [
+      "estar lleno, congestionarse",
+      "to be crowded"
+    ],
     "pos": "verb-godan",
     "level": "n4",
-    "tags": ["action"],
+    "tags": [
+      "action"
+    ],
     "examples": [
       {
         "text": "朝の電車はとても込んでいます。",
@@ -1892,10 +2574,16 @@
   {
     "word": "治る",
     "reading": "なおる",
-    "meanings": ["curarse, sanarse", "to be cured, to heal"],
+    "meanings": [
+      "curarse, sanarse",
+      "to be cured, to heal"
+    ],
     "pos": "verb-godan",
     "level": "n4",
-    "tags": ["action", "medical"],
+    "tags": [
+      "action",
+      "medical"
+    ],
     "examples": [
       {
         "text": "病気が治って良かったです。",
@@ -1907,10 +2595,15 @@
   {
     "word": "受ける",
     "reading": "うける",
-    "meanings": ["recibir, tomar (examen)", "to receive, to take (exam)"],
+    "meanings": [
+      "recibir, tomar (examen)",
+      "to receive, to take (exam)"
+    ],
     "pos": "verb-ichidan",
     "level": "n4",
-    "tags": ["action"],
+    "tags": [
+      "action"
+    ],
     "examples": [
       {
         "text": "来月、日本語能力試験を受けます。",
@@ -1922,10 +2615,16 @@
   {
     "word": "泊まる",
     "reading": "とまる",
-    "meanings": ["alojarse, hospedarse", "to stay (overnight)"],
+    "meanings": [
+      "alojarse, hospedarse",
+      "to stay (overnight)"
+    ],
     "pos": "verb-godan",
     "level": "n4",
-    "tags": ["action", "travel"],
+    "tags": [
+      "action",
+      "travel"
+    ],
     "examples": [
       {
         "text": "旅館に泊まりました。",
@@ -1937,10 +2636,15 @@
   {
     "word": "迎える",
     "reading": "むかえる",
-    "meanings": ["recibir, ir a buscar", "to welcome, to pick up"],
+    "meanings": [
+      "recibir, ir a buscar",
+      "to welcome, to pick up"
+    ],
     "pos": "verb-ichidan",
     "level": "n4",
-    "tags": ["action"],
+    "tags": [
+      "action"
+    ],
     "examples": [
       {
         "text": "空港に友達を迎えに行きます。",
@@ -1952,10 +2656,15 @@
   {
     "word": "送る",
     "reading": "おくる",
-    "meanings": ["enviar, acompañar", "to send, to see off"],
+    "meanings": [
+      "enviar, acompañar",
+      "to send, to see off"
+    ],
     "pos": "verb-godan",
     "level": "n4",
-    "tags": ["action"],
+    "tags": [
+      "action"
+    ],
     "examples": [
       {
         "text": "家族に荷物を送りました。",
@@ -1967,10 +2676,16 @@
   {
     "word": "伝える",
     "reading": "つたえる",
-    "meanings": ["transmitir, comunicar", "to convey, to tell"],
+    "meanings": [
+      "transmitir, comunicar",
+      "to convey, to tell"
+    ],
     "pos": "verb-ichidan",
     "level": "n4",
-    "tags": ["action", "communication"],
+    "tags": [
+      "action",
+      "communication"
+    ],
     "examples": [
       {
         "text": "先生に伝えておきます。",
@@ -1982,10 +2697,15 @@
   {
     "word": "調べる",
     "reading": "しらべる",
-    "meanings": ["investigar, averiguar", "to investigate, to look up"],
+    "meanings": [
+      "investigar, averiguar",
+      "to investigate, to look up"
+    ],
     "pos": "verb-ichidan",
     "level": "n4",
-    "tags": ["action"],
+    "tags": [
+      "action"
+    ],
     "examples": [
       {
         "text": "辞書で言葉を調べました。",
@@ -1997,10 +2717,15 @@
   {
     "word": "比べる",
     "reading": "くらべる",
-    "meanings": ["comparar", "to compare"],
+    "meanings": [
+      "comparar",
+      "to compare"
+    ],
     "pos": "verb-ichidan",
     "level": "n4",
-    "tags": ["action"],
+    "tags": [
+      "action"
+    ],
     "examples": [
       {
         "text": "二つの商品を比べてみましょう。",
@@ -2012,10 +2737,16 @@
   {
     "word": "片付ける",
     "reading": "かたづける",
-    "meanings": ["ordenar, limpiar", "to tidy up, to clean up"],
+    "meanings": [
+      "ordenar, limpiar",
+      "to tidy up, to clean up"
+    ],
     "pos": "verb-ichidan",
     "level": "n4",
-    "tags": ["action", "daily"],
+    "tags": [
+      "action",
+      "daily"
+    ],
     "examples": [
       {
         "text": "部屋を片付けなさい。",
@@ -2027,10 +2758,15 @@
   {
     "word": "間違える",
     "reading": "まちがえる",
-    "meanings": ["equivocarse", "to make a mistake"],
+    "meanings": [
+      "equivocarse",
+      "to make a mistake"
+    ],
     "pos": "verb-ichidan",
     "level": "n4",
-    "tags": ["action"],
+    "tags": [
+      "action"
+    ],
     "examples": [
       {
         "text": "道を間違えてしまいました。",
@@ -2042,10 +2778,15 @@
   {
     "word": "育てる",
     "reading": "そだてる",
-    "meanings": ["criar, cultivar", "to raise, to grow"],
+    "meanings": [
+      "criar, cultivar",
+      "to raise, to grow"
+    ],
     "pos": "verb-ichidan",
     "level": "n4",
-    "tags": ["action"],
+    "tags": [
+      "action"
+    ],
     "examples": [
       {
         "text": "庭で花を育てています。",
@@ -2057,10 +2798,15 @@
   {
     "word": "売れる",
     "reading": "うれる",
-    "meanings": ["venderse", "to sell (intransitive)"],
+    "meanings": [
+      "venderse",
+      "to sell (intransitive)"
+    ],
     "pos": "verb-ichidan",
     "level": "n4",
-    "tags": ["action"],
+    "tags": [
+      "action"
+    ],
     "examples": [
       {
         "text": "この本はよく売れています。",
@@ -2072,10 +2818,15 @@
   {
     "word": "役に立つ",
     "reading": "やくにたつ",
-    "meanings": ["ser útil", "to be useful"],
+    "meanings": [
+      "ser útil",
+      "to be useful"
+    ],
     "pos": "verb-godan",
     "level": "n4",
-    "tags": ["action"],
+    "tags": [
+      "action"
+    ],
     "examples": [
       {
         "text": "この辞書はとても役に立ちます。",
@@ -2087,10 +2838,15 @@
   {
     "word": "～によると",
     "reading": "～によると",
-    "meanings": ["según ～", "according to ～"],
+    "meanings": [
+      "según ～",
+      "according to ～"
+    ],
     "pos": "expression",
     "level": "n4",
-    "tags": ["grammar-expression"],
+    "tags": [
+      "grammar-expression"
+    ],
     "examples": [
       {
         "text": "天気予報によると、明日は雨です。",
@@ -2102,10 +2858,15 @@
   {
     "word": "～について",
     "reading": "～について",
-    "meanings": ["acerca de ～, sobre ～", "about ～, concerning ～"],
+    "meanings": [
+      "acerca de ～, sobre ～",
+      "about ～, concerning ～"
+    ],
     "pos": "expression",
     "level": "n4",
-    "tags": ["grammar-expression"],
+    "tags": [
+      "grammar-expression"
+    ],
     "examples": [
       {
         "text": "日本の文化について調べています。",
@@ -2117,10 +2878,15 @@
   {
     "word": "～のために",
     "reading": "～のために",
-    "meanings": ["para ～, por causa de ～", "for the sake of ～, because of ～"],
+    "meanings": [
+      "para ～, por causa de ～",
+      "for the sake of ～, because of ～"
+    ],
     "pos": "expression",
     "level": "n4",
-    "tags": ["grammar-expression"],
+    "tags": [
+      "grammar-expression"
+    ],
     "examples": [
       {
         "text": "家族のために一生懸命働きます。",
@@ -2132,10 +2898,15 @@
   {
     "word": "～ようにする",
     "reading": "～ようにする",
-    "meanings": ["intentar ～, procurar ～", "to try to ～, to make sure to ～"],
+    "meanings": [
+      "intentar ～, procurar ～",
+      "to try to ～, to make sure to ～"
+    ],
     "pos": "expression",
     "level": "n4",
-    "tags": ["grammar-expression"],
+    "tags": [
+      "grammar-expression"
+    ],
     "examples": [
       {
         "text": "毎日運動するようにしています。",
@@ -2147,10 +2918,15 @@
   {
     "word": "～ようになる",
     "reading": "～ようになる",
-    "meanings": ["llegar a poder ～", "to become able to ～"],
+    "meanings": [
+      "llegar a poder ～",
+      "to become able to ～"
+    ],
     "pos": "expression",
     "level": "n4",
-    "tags": ["grammar-expression"],
+    "tags": [
+      "grammar-expression"
+    ],
     "examples": [
       {
         "text": "日本語が話せるようになりました。",
@@ -2162,10 +2938,15 @@
   {
     "word": "～ことにする",
     "reading": "～ことにする",
-    "meanings": ["decidir ～", "to decide to ～"],
+    "meanings": [
+      "decidir ～",
+      "to decide to ～"
+    ],
     "pos": "expression",
     "level": "n4",
-    "tags": ["grammar-expression"],
+    "tags": [
+      "grammar-expression"
+    ],
     "examples": [
       {
         "text": "来年、留学することにしました。",
@@ -2177,10 +2958,15 @@
   {
     "word": "～ことになる",
     "reading": "～ことになる",
-    "meanings": ["resultar que ～, quedar en que ～", "it has been decided that ～"],
+    "meanings": [
+      "resultar que ～, quedar en que ～",
+      "it has been decided that ～"
+    ],
     "pos": "expression",
     "level": "n4",
-    "tags": ["grammar-expression"],
+    "tags": [
+      "grammar-expression"
+    ],
     "examples": [
       {
         "text": "来月から大阪で働くことになりました。",
@@ -2192,10 +2978,15 @@
   {
     "word": "～てしまう",
     "reading": "～てしまう",
-    "meanings": ["terminar de ～ (con pesar)", "to end up ～, to finish ～ (with regret)"],
+    "meanings": [
+      "terminar de ～ (con pesar)",
+      "to end up ～, to finish ～ (with regret)"
+    ],
     "pos": "expression",
     "level": "n4",
-    "tags": ["grammar-expression"],
+    "tags": [
+      "grammar-expression"
+    ],
     "examples": [
       {
         "text": "大事な書類をなくしてしまいました。",
@@ -2207,10 +2998,15 @@
   {
     "word": "～はずだ",
     "reading": "～はずだ",
-    "meanings": ["se supone que ～, debería ～", "it should be ～, it is expected that ～"],
+    "meanings": [
+      "se supone que ～, debería ～",
+      "it should be ～, it is expected that ～"
+    ],
     "pos": "expression",
     "level": "n4",
-    "tags": ["grammar-expression"],
+    "tags": [
+      "grammar-expression"
+    ],
     "examples": [
       {
         "text": "彼はもう着いているはずです。",
@@ -2222,10 +3018,15 @@
   {
     "word": "つれていく",
     "reading": "つれていく",
-    "meanings": ["llevar (a alguien)", "to take (someone) along"],
+    "meanings": [
+      "llevar (a alguien)",
+      "to take (someone) along"
+    ],
     "pos": "verb-godan",
     "level": "n4",
-    "tags": ["action"],
+    "tags": [
+      "action"
+    ],
     "examples": [
       {
         "text": "子供を公園につれていきました。",
@@ -2237,15 +3038,987 @@
   {
     "word": "やめる",
     "reading": "やめる",
-    "meanings": ["dejar, renunciar", "to quit, to stop"],
+    "meanings": [
+      "dejar, renunciar",
+      "to quit, to stop"
+    ],
     "pos": "verb-ichidan",
     "level": "n4",
-    "tags": ["action"],
+    "tags": [
+      "action"
+    ],
     "examples": [
       {
         "text": "タバコをやめることにしました。",
         "reading": "たばこをやめることにしました。",
         "translation": "Decidí dejar de fumar."
+      }
+    ]
+  },
+  {
+    "word": "開ける",
+    "reading": "あける",
+    "meanings": [
+      "abrir (transitivo)"
+    ],
+    "pos": "verb",
+    "level": "n4",
+    "tags": [
+      "verb",
+      "transitive"
+    ],
+    "examples": [
+      {
+        "text": "ドアを開けてください。",
+        "reading": "ドアをあけてください。",
+        "translation": "Por favor, abra la puerta."
+      }
+    ]
+  },
+  {
+    "word": "開く",
+    "reading": "あく",
+    "meanings": [
+      "abrirse (intransitivo)"
+    ],
+    "pos": "verb",
+    "level": "n4",
+    "tags": [
+      "verb",
+      "intransitive"
+    ],
+    "examples": [
+      {
+        "text": "ドアが開いた。",
+        "reading": "ドアがあいた。",
+        "translation": "La puerta se abrió."
+      }
+    ]
+  },
+  {
+    "word": "閉める",
+    "reading": "しめる",
+    "meanings": [
+      "cerrar (transitivo)"
+    ],
+    "pos": "verb",
+    "level": "n4",
+    "tags": [
+      "verb",
+      "transitive"
+    ],
+    "examples": [
+      {
+        "text": "窓を閉めてください。",
+        "reading": "まどをしめてください。",
+        "translation": "Por favor, cierre la ventana."
+      }
+    ]
+  },
+  {
+    "word": "閉まる",
+    "reading": "しまる",
+    "meanings": [
+      "cerrarse (intransitivo)"
+    ],
+    "pos": "verb",
+    "level": "n4",
+    "tags": [
+      "verb",
+      "intransitive"
+    ],
+    "examples": [
+      {
+        "text": "店が閉まっている。",
+        "reading": "みせがしまっている。",
+        "translation": "La tienda está cerrada."
+      }
+    ]
+  },
+  {
+    "word": "付ける",
+    "reading": "つける",
+    "meanings": [
+      "encender",
+      "prender (transitivo)"
+    ],
+    "pos": "verb",
+    "level": "n4",
+    "tags": [
+      "verb",
+      "transitive"
+    ],
+    "examples": [
+      {
+        "text": "電気を付けてください。",
+        "reading": "でんきをつけてください。",
+        "translation": "Por favor, enciende la luz."
+      }
+    ]
+  },
+  {
+    "word": "消す",
+    "reading": "けす",
+    "meanings": [
+      "apagar",
+      "borrar (transitivo)"
+    ],
+    "pos": "verb",
+    "level": "n4",
+    "tags": [
+      "verb",
+      "transitive"
+    ],
+    "examples": [
+      {
+        "text": "テレビを消す。",
+        "reading": "テレビをけす。",
+        "translation": "Apagar la televisión."
+      }
+    ]
+  },
+  {
+    "word": "押す",
+    "reading": "おす",
+    "meanings": [
+      "empujar",
+      "apretar",
+      "presionar"
+    ],
+    "pos": "verb",
+    "level": "n4",
+    "tags": [
+      "verb",
+      "action"
+    ],
+    "examples": [
+      {
+        "text": "ボタンを押してください。",
+        "reading": "ボタンをおしてください。",
+        "translation": "Por favor, apriete el botón."
+      }
+    ]
+  },
+  {
+    "word": "引く",
+    "reading": "ひく",
+    "meanings": [
+      "jalar",
+      "tirar",
+      "halar"
+    ],
+    "pos": "verb",
+    "level": "n4",
+    "tags": [
+      "verb",
+      "action"
+    ],
+    "examples": [
+      {
+        "text": "ドアを引いてください。",
+        "reading": "ドアをひいてください。",
+        "translation": "Por favor, tire la puerta."
+      }
+    ]
+  },
+  {
+    "word": "もちろん",
+    "reading": "もちろん",
+    "meanings": [
+      "por supuesto",
+      "claro que sí"
+    ],
+    "pos": "adverb",
+    "level": "n4",
+    "tags": [
+      "expression",
+      "adverb"
+    ],
+    "examples": [
+      {
+        "text": "もちろん行きます。",
+        "reading": "もちろんいきます。",
+        "translation": "Por supuesto que voy."
+      }
+    ]
+  },
+  {
+    "word": "ぜひ",
+    "reading": "ぜひ",
+    "meanings": [
+      "sin falta",
+      "definitivamente",
+      "por favor (énfasis)"
+    ],
+    "pos": "adverb",
+    "level": "n4",
+    "tags": [
+      "expression",
+      "adverb"
+    ],
+    "examples": [
+      {
+        "text": "ぜひ来てください。",
+        "reading": "ぜひきてください。",
+        "translation": "Por favor, venga sin falta."
+      }
+    ]
+  },
+  {
+    "word": "やっぱり",
+    "reading": "やっぱり",
+    "meanings": [
+      "como pensaba",
+      "al final",
+      "como era de esperar"
+    ],
+    "pos": "adverb",
+    "level": "n4",
+    "tags": [
+      "expression",
+      "adverb"
+    ],
+    "examples": [
+      {
+        "text": "やっぱり難しい。",
+        "reading": "やっぱりむずかしい。",
+        "translation": "Como pensaba, es difícil."
+      }
+    ]
+  },
+  {
+    "word": "特に",
+    "reading": "とくに",
+    "meanings": [
+      "especialmente",
+      "en particular"
+    ],
+    "pos": "adverb",
+    "level": "n4",
+    "tags": [
+      "adverb"
+    ],
+    "examples": [
+      {
+        "text": "特にラーメンが好きです。",
+        "reading": "とくにラーメンがすきです。",
+        "translation": "Me gusta especialmente el ramen."
+      }
+    ]
+  },
+  {
+    "word": "急に",
+    "reading": "きゅうに",
+    "meanings": [
+      "de repente",
+      "súbitamente"
+    ],
+    "pos": "adverb",
+    "level": "n4",
+    "tags": [
+      "adverb",
+      "time"
+    ],
+    "examples": [
+      {
+        "text": "急に雨が降った。",
+        "reading": "きゅうにあめがふった。",
+        "translation": "De repente llovió."
+      }
+    ]
+  },
+  {
+    "word": "問題",
+    "reading": "もんだい",
+    "meanings": [
+      "problema",
+      "pregunta (de examen)"
+    ],
+    "pos": "noun",
+    "level": "n4",
+    "tags": [
+      "noun",
+      "abstract"
+    ],
+    "examples": [
+      {
+        "text": "問題がある。",
+        "reading": "もんだいがある。",
+        "translation": "Hay un problema."
+      }
+    ]
+  },
+  {
+    "word": "計画",
+    "reading": "けいかく",
+    "meanings": [
+      "plan",
+      "proyecto"
+    ],
+    "pos": "noun",
+    "level": "n4",
+    "tags": [
+      "noun",
+      "planning"
+    ],
+    "examples": [
+      {
+        "text": "旅行の計画を立てる。",
+        "reading": "りょこうのけいかくをたてる。",
+        "translation": "Hacer planes de viaje."
+      }
+    ]
+  },
+  {
+    "word": "別れる",
+    "reading": "わかれる",
+    "meanings": [
+      "separarse",
+      "despedirse"
+    ],
+    "pos": "verb",
+    "level": "n4",
+    "tags": [
+      "verb",
+      "action"
+    ],
+    "examples": [
+      {
+        "text": "駅で別れた。",
+        "reading": "えきでわかれた。",
+        "translation": "Nos despedimos en la estación."
+      }
+    ]
+  },
+  {
+    "word": "渡る",
+    "reading": "わたる",
+    "meanings": [
+      "cruzar (puente, calle)"
+    ],
+    "pos": "verb",
+    "level": "n4",
+    "tags": [
+      "verb",
+      "movement"
+    ],
+    "examples": [
+      {
+        "text": "橋を渡る。",
+        "reading": "はしをわたる。",
+        "translation": "Cruzar el puente."
+      }
+    ]
+  },
+  {
+    "word": "曲がる",
+    "reading": "まがる",
+    "meanings": [
+      "doblar",
+      "girar"
+    ],
+    "pos": "verb",
+    "level": "n4",
+    "tags": [
+      "verb",
+      "movement",
+      "direction"
+    ],
+    "examples": [
+      {
+        "text": "右に曲がってください。",
+        "reading": "みぎにまがってください。",
+        "translation": "Doble a la derecha."
+      }
+    ]
+  },
+  {
+    "word": "止まる",
+    "reading": "とまる",
+    "meanings": [
+      "detenerse",
+      "parar (intransitivo)"
+    ],
+    "pos": "verb",
+    "level": "n4",
+    "tags": [
+      "verb",
+      "movement"
+    ],
+    "examples": [
+      {
+        "text": "バスが止まった。",
+        "reading": "バスがとまった。",
+        "translation": "El autobús se detuvo."
+      }
+    ]
+  },
+  {
+    "word": "動く",
+    "reading": "うごく",
+    "meanings": [
+      "moverse",
+      "funcionar"
+    ],
+    "pos": "verb",
+    "level": "n4",
+    "tags": [
+      "verb",
+      "movement"
+    ],
+    "examples": [
+      {
+        "text": "機械が動かない。",
+        "reading": "きかいがうごかない。",
+        "translation": "La máquina no funciona."
+      }
+    ]
+  },
+  {
+    "word": "走る",
+    "reading": "はしる",
+    "meanings": [
+      "correr"
+    ],
+    "pos": "verb",
+    "level": "n4",
+    "tags": [
+      "verb",
+      "movement"
+    ],
+    "examples": [
+      {
+        "text": "毎朝走ります。",
+        "reading": "まいあさはしります。",
+        "translation": "Corro todas las mañanas."
+      }
+    ]
+  },
+  {
+    "word": "最近",
+    "reading": "さいきん",
+    "meanings": [
+      "últimamente",
+      "recientemente"
+    ],
+    "pos": "adverb",
+    "level": "n4",
+    "tags": [
+      "adverb",
+      "time"
+    ],
+    "examples": [
+      {
+        "text": "最近どう？",
+        "reading": "さいきんどう？",
+        "translation": "¿Cómo estás últimamente?"
+      }
+    ]
+  },
+  {
+    "word": "以前",
+    "reading": "いぜん",
+    "meanings": [
+      "antes",
+      "anteriormente"
+    ],
+    "pos": "adverb",
+    "level": "n4",
+    "tags": [
+      "adverb",
+      "time"
+    ],
+    "examples": [
+      {
+        "text": "以前は東京に住んでいた。",
+        "reading": "いぜんはとうきょうにすんでいた。",
+        "translation": "Antes vivía en Tokio."
+      }
+    ]
+  },
+  {
+    "word": "突然",
+    "reading": "とつぜん",
+    "meanings": [
+      "de repente",
+      "súbitamente"
+    ],
+    "pos": "adverb",
+    "level": "n4",
+    "tags": [
+      "adverb",
+      "time"
+    ],
+    "examples": [
+      {
+        "text": "突然電話が来た。",
+        "reading": "とつぜんでんわがきた。",
+        "translation": "De repente llegó una llamada."
+      }
+    ]
+  },
+  {
+    "word": "だいたい",
+    "reading": "だいたい",
+    "meanings": [
+      "aproximadamente",
+      "generalmente"
+    ],
+    "pos": "adverb",
+    "level": "n4",
+    "tags": [
+      "adverb"
+    ],
+    "examples": [
+      {
+        "text": "だいたい三時間かかる。",
+        "reading": "だいたいさんじかんかかる。",
+        "translation": "Tarda aproximadamente tres horas."
+      }
+    ]
+  },
+  {
+    "word": "かならず",
+    "reading": "かならず",
+    "meanings": [
+      "sin falta",
+      "con certeza",
+      "siempre sin excepción"
+    ],
+    "pos": "adverb",
+    "level": "n4",
+    "tags": [
+      "adverb"
+    ],
+    "examples": [
+      {
+        "text": "かならず来てください。",
+        "reading": "かならずきてください。",
+        "translation": "Venga sin falta."
+      }
+    ]
+  },
+  {
+    "word": "丁寧な",
+    "reading": "ていねいな",
+    "meanings": [
+      "cortés",
+      "cuidadoso",
+      "esmerado"
+    ],
+    "pos": "adjective-na",
+    "level": "n4",
+    "tags": [
+      "adjective",
+      "personality"
+    ],
+    "examples": [
+      {
+        "text": "丁寧な言葉を使う。",
+        "reading": "ていねいなことばをつかう。",
+        "translation": "Usar un lenguaje cortés."
+      }
+    ]
+  },
+  {
+    "word": "正直な",
+    "reading": "しょうじきな",
+    "meanings": [
+      "honesto",
+      "sincero"
+    ],
+    "pos": "adjective-na",
+    "level": "n4",
+    "tags": [
+      "adjective",
+      "personality"
+    ],
+    "examples": [
+      {
+        "text": "正直に言う。",
+        "reading": "しょうじきにいう。",
+        "translation": "Decir honestamente."
+      }
+    ]
+  },
+  {
+    "word": "親切な",
+    "reading": "しんせつな",
+    "meanings": [
+      "amable",
+      "bondadoso"
+    ],
+    "pos": "adjective-na",
+    "level": "n4",
+    "tags": [
+      "adjective",
+      "personality"
+    ],
+    "examples": [
+      {
+        "text": "親切な人です。",
+        "reading": "しんせつなひとです。",
+        "translation": "Es una persona amable."
+      }
+    ]
+  },
+  {
+    "word": "複雑な",
+    "reading": "ふくざつな",
+    "meanings": [
+      "complicado",
+      "complejo"
+    ],
+    "pos": "adjective-na",
+    "level": "n4",
+    "tags": [
+      "adjective"
+    ],
+    "examples": [
+      {
+        "text": "複雑な気持ちです。",
+        "reading": "ふくざつなきもちです。",
+        "translation": "Tengo sentimientos complicados."
+      }
+    ]
+  },
+  {
+    "word": "面倒な",
+    "reading": "めんどうな",
+    "meanings": [
+      "molesto",
+      "latoso",
+      "que requiere esfuerzo"
+    ],
+    "pos": "adjective-na",
+    "level": "n4",
+    "tags": [
+      "adjective"
+    ],
+    "examples": [
+      {
+        "text": "面倒な仕事だ。",
+        "reading": "めんどうなしごとだ。",
+        "translation": "Es un trabajo latoso."
+      }
+    ]
+  },
+  {
+    "word": "せっかく",
+    "reading": "せっかく",
+    "meanings": [
+      "habiendo hecho el esfuerzo de",
+      "ya que (aprovechando)"
+    ],
+    "pos": "adverb",
+    "level": "n4",
+    "tags": [
+      "expression",
+      "adverb"
+    ],
+    "examples": [
+      {
+        "text": "せっかく来たんだから楽しもう。",
+        "reading": "せっかくきたんだからたのしもう。",
+        "translation": "Ya que viniste, disfrutemos."
+      }
+    ]
+  },
+  {
+    "word": "なるほど",
+    "reading": "なるほど",
+    "meanings": [
+      "ah, ya veo",
+      "tiene sentido"
+    ],
+    "pos": "interjection",
+    "level": "n4",
+    "tags": [
+      "expression",
+      "interjection"
+    ],
+    "examples": [
+      {
+        "text": "なるほど、そういうことか。",
+        "reading": "なるほど、そういうことか。",
+        "translation": "Ah, ya veo, eso es."
+      }
+    ]
+  },
+  {
+    "word": "ところで",
+    "reading": "ところで",
+    "meanings": [
+      "a propósito",
+      "cambiando de tema"
+    ],
+    "pos": "conjunction",
+    "level": "n4",
+    "tags": [
+      "expression",
+      "conjunction"
+    ],
+    "examples": [
+      {
+        "text": "ところで、来週の予定は？",
+        "reading": "ところで、らいしゅうのよていは？",
+        "translation": "A propósito, ¿qué planes tienes la semana que viene?"
+      }
+    ]
+  },
+  {
+    "word": "それに",
+    "reading": "それに",
+    "meanings": [
+      "además",
+      "y encima de eso"
+    ],
+    "pos": "conjunction",
+    "level": "n4",
+    "tags": [
+      "expression",
+      "conjunction"
+    ],
+    "examples": [
+      {
+        "text": "高い。それに、遠い。",
+        "reading": "たかい。それに、とおい。",
+        "translation": "Es caro. Y encima, está lejos."
+      }
+    ]
+  },
+  {
+    "word": "けっきょく",
+    "reading": "けっきょく",
+    "meanings": [
+      "al final",
+      "en definitiva",
+      "después de todo"
+    ],
+    "pos": "adverb",
+    "level": "n4",
+    "tags": [
+      "expression",
+      "adverb"
+    ],
+    "examples": [
+      {
+        "text": "けっきょく行かなかった。",
+        "reading": "けっきょくいかなかった。",
+        "translation": "Al final no fui."
+      }
+    ]
+  },
+  {
+    "word": "自分",
+    "reading": "じぶん",
+    "meanings": [
+      "uno mismo",
+      "yo (reflexivo)"
+    ],
+    "pos": "pronoun",
+    "level": "n4",
+    "tags": [
+      "pronoun",
+      "self"
+    ],
+    "examples": [
+      {
+        "text": "自分でやる。",
+        "reading": "じぶんでやる。",
+        "translation": "Hacerlo uno mismo."
+      }
+    ]
+  },
+  {
+    "word": "相手",
+    "reading": "あいて",
+    "meanings": [
+      "la otra parte",
+      "interlocutor",
+      "rival"
+    ],
+    "pos": "noun",
+    "level": "n4",
+    "tags": [
+      "noun",
+      "social"
+    ],
+    "examples": [
+      {
+        "text": "相手の気持ちを考える。",
+        "reading": "あいてのきもちをかんがえる。",
+        "translation": "Pensar en los sentimientos del otro."
+      }
+    ]
+  },
+  {
+    "word": "様子",
+    "reading": "ようす",
+    "meanings": [
+      "aspecto",
+      "situación",
+      "apariencia"
+    ],
+    "pos": "noun",
+    "level": "n4",
+    "tags": [
+      "noun",
+      "observation"
+    ],
+    "examples": [
+      {
+        "text": "様子を見る。",
+        "reading": "ようすをみる。",
+        "translation": "Ver cómo va la cosa."
+      }
+    ]
+  },
+  {
+    "word": "以上",
+    "reading": "いじょう",
+    "meanings": [
+      "más de",
+      "o más",
+      "eso es todo (al concluir)"
+    ],
+    "pos": "noun",
+    "level": "n4",
+    "tags": [
+      "noun",
+      "quantity"
+    ],
+    "examples": [
+      {
+        "text": "三十人以上います。",
+        "reading": "さんじゅうにんいじょういます。",
+        "translation": "Hay más de treinta personas."
+      }
+    ]
+  },
+  {
+    "word": "付く",
+    "reading": "つく",
+    "meanings": [
+      "pegarse, adherirse",
+      "to stick, to be attached"
+    ],
+    "pos": "verb-godan",
+    "level": "n4",
+    "tags": [
+      "intransitive",
+      "pair:付ける"
+    ],
+    "examples": [
+      {
+        "text": "シールが付いています。",
+        "reading": "しーるがついています。",
+        "translation": "El sticker está pegado."
+      }
+    ]
+  },
+  {
+    "word": "消える",
+    "reading": "きえる",
+    "meanings": [
+      "desaparecer, apagarse",
+      "to disappear, to go out"
+    ],
+    "pos": "verb-ichidan",
+    "level": "n4",
+    "tags": [
+      "intransitive",
+      "pair:消す"
+    ],
+    "examples": [
+      {
+        "text": "電気が消えました。",
+        "reading": "でんきがきえました。",
+        "translation": "La luz se apagó."
+      }
+    ]
+  },
+  {
+    "word": "逃げる",
+    "reading": "にげる",
+    "meanings": [
+      "escapar, huir",
+      "to escape, to flee"
+    ],
+    "pos": "verb-ichidan",
+    "level": "n4",
+    "tags": [
+      "intransitive",
+      "motion"
+    ],
+    "examples": [
+      {
+        "text": "猫が逃げました。",
+        "reading": "ねこがにげました。",
+        "translation": "El gato escapó."
+      }
+    ]
+  },
+  {
+    "word": "ところが",
+    "reading": "ところが",
+    "meanings": [
+      "sin embargo, pero (sorpresa)",
+      "however, but (unexpected result)"
+    ],
+    "pos": "conjunction",
+    "level": "n4",
+    "tags": [
+      "conjunction",
+      "contrast"
+    ],
+    "examples": [
+      {
+        "text": "電話したところが、誰も出なかった。",
+        "reading": "でんわしたところが、だれもでなかった。",
+        "translation": "Llamé por teléfono, pero nadie contestó."
+      }
+    ]
+  },
+  {
+    "word": "わざわざ",
+    "reading": "わざわざ",
+    "meanings": [
+      "especialmente, tomarse la molestia de",
+      "expressly, going out of one's way"
+    ],
+    "pos": "adverb",
+    "level": "n4",
+    "tags": [
+      "adverb",
+      "expression"
+    ],
+    "examples": [
+      {
+        "text": "わざわざ来てくれてありがとう。",
+        "reading": "わざわざきてくれてありがとう。",
+        "translation": "Gracias por tomarte la molestia de venir."
+      }
+    ]
+  },
+  {
+    "word": "どうせ",
+    "reading": "どうせ",
+    "meanings": [
+      "de todos modos, al fin y al cabo",
+      "anyway, in any case"
+    ],
+    "pos": "adverb",
+    "level": "n4",
+    "tags": [
+      "adverb",
+      "expression"
+    ],
+    "examples": [
+      {
+        "text": "どうせなら、いいものを買いましょう。",
+        "reading": "どうせなら、いいものをかいましょう。",
+        "translation": "Si total lo vamos a hacer, compremos algo bueno."
       }
     ]
   }

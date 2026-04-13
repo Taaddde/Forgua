@@ -9,36 +9,31 @@
       "front": "ある",
       "back": "existir / haber (inanimado)",
       "reading": "ある",
-      "explanation": "ある (aru) se usa para cosas inanimadas: objetos, lugares, conceptos. 'テーブルの上に本がある' = 'Hay un libro sobre la mesa'. También significa 'tener' para objetos: '時間がある' = 'Tengo tiempo'.",
-      "cardRef": { "category": "grammar", "front": "ある" }
+      "explanation": "ある (aru) se usa para cosas inanimadas: objetos, lugares, conceptos. 'テーブルの上に本がある' = 'Hay un libro sobre la mesa'. También significa 'tener' para objetos: '時間がある' = 'Tengo tiempo'."
     },
     {
       "front": "いる",
       "back": "existir / haber (animado)",
       "reading": "いる",
-      "explanation": "いる (iru) se usa para seres vivos: personas, animales, insectos. '公園に子供がいる' = 'Hay niños en el parque'. Nunca usés ある para personas o animales; es un error común.",
-      "cardRef": { "category": "grammar", "front": "いる" }
+      "explanation": "いる (iru) se usa para seres vivos: personas, animales, insectos. '公園に子供がいる' = 'Hay niños en el parque'. Nunca usés ある para personas o animales; es un error común."
     },
     {
       "front": "本がある",
       "back": "hay un libro / there is a book",
       "reading": "ほんがある",
-      "explanation": "本がある (hon ga aru) = 'hay un libro' o 'existe un libro'. La estructura básica es: Cosa + が + ある. が marca el sujeto (lo que existe). Para decir dónde: 場所に + Cosa が + ある.",
-      "cardRef": { "category": "grammar", "front": "本がある" }
+      "explanation": "本がある (hon ga aru) = 'hay un libro' o 'existe un libro'. La estructura básica es: Cosa + が + ある. が marca el sujeto (lo que existe). Para decir dónde: 場所に + Cosa が + ある."
     },
     {
       "front": "猫がいる",
       "back": "hay un gato / there is a cat",
       "reading": "ねこがいる",
-      "explanation": "猫がいる (neko ga iru) = 'hay un gato'. Como el gato es un ser vivo, usamos いる y no ある. La estructura es la misma: Ser vivo + が + いる.",
-      "cardRef": { "category": "grammar", "front": "猫がいる" }
+      "explanation": "猫がいる (neko ga iru) = 'hay un gato'. Como el gato es un ser vivo, usamos いる y no ある. La estructura es la misma: Ser vivo + が + いる."
     },
     {
       "front": "ここにある",
       "back": "está aquí / it's here",
       "reading": "ここにある",
-      "explanation": "ここにある (koko ni aru) = 'está aquí'. La estructura completa para ubicación es: 場所 + に + Cosa + が + ある/いる. ここ = aquí, に = en (partícula de lugar).",
-      "cardRef": { "category": "grammar", "front": "ここにある" }
+      "explanation": "ここにある (koko ni aru) = 'está aquí'. La estructura completa para ubicación es: 場所 + に + Cosa + が + ある/いる. ここ = aquí, に = en (partícula de lugar)."
     }
   ],
   "steps": [
@@ -46,40 +41,89 @@
       "type": "introduce",
       "title": "Dos verbos para existir",
       "instruction": "El japonés distingue entre cosas que se mueven solas (seres vivos → いる) y cosas que no (objetos → ある). Es una distinción que no existe en español pero es fundamental en japonés. Si hablás de una persona o animal, siempre いる. Si es un objeto, siempre ある.",
-      "itemIndices": [0, 1]
+      "itemIndices": [
+        0,
+        1
+      ]
     },
     {
       "type": "introduce",
       "title": "La estructura: lugar に cosa が ある/いる",
       "instruction": "Para decir dónde está algo usás: Lugar + に + Cosa + が + ある/いる. Por ejemplo: 'テーブルの上に本がある' = 'En la mesa hay un libro'. El lugar va primero con に, después la cosa con が.",
-      "itemIndices": [2, 3, 4]
+      "itemIndices": [
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "recognize",
       "title": "¿ある o いる?",
       "instruction": "Elegí el verbo correcto (ある para inanimados, いる para animados) y su traducción.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "sentence-build",
       "title": "Armá la oración de existencia",
       "instruction": "Ordená las piezas usando la estructura correcta con ある o いる.",
-      "itemIndices": [2, 3, 4],
+      "itemIndices": [
+        2,
+        3,
+        4
+      ],
       "config": {
         "sentences": [
           {
-            "fragments": ["テーブルの上", "に", "本", "が", "ある"],
-            "correctOrder": [0, 1, 2, 3, 4],
+            "fragments": [
+              "テーブルの上",
+              "に",
+              "本",
+              "が",
+              "ある"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3,
+              4
+            ],
             "translation": "Hay un libro sobre la mesa"
           },
           {
-            "fragments": ["公園", "に", "猫", "が", "いる"],
-            "correctOrder": [0, 1, 2, 3, 4],
+            "fragments": [
+              "公園",
+              "に",
+              "猫",
+              "が",
+              "いる"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3,
+              4
+            ],
             "translation": "Hay un gato en el parque"
           },
           {
-            "fragments": ["ここ", "に", "ある"],
-            "correctOrder": [0, 1, 2],
+            "fragments": [
+              "ここ",
+              "に",
+              "ある"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2
+            ],
             "translation": "Está aquí"
           }
         ]
@@ -89,13 +133,25 @@
       "type": "recall",
       "title": "¿Cómo se dice en japonés?",
       "instruction": "Ves la oración en español. Recordá la expresión japonesa con ある o いる.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "summary",
       "title": "¡Lección completa!",
       "instruction": "Aprendiste la diferencia entre ある (inanimado) e いる (animado), y la estructura 場所に + Cosa が + ある/いる para decir dónde están las cosas. Nunca uses ある para personas o animales.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     }
   ]
 }

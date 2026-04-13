@@ -4,6 +4,35 @@ All notable changes to Forgua will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.2.0] - 2026-04-13
+
+### Added
+
+- Italian Language Pack (vocabulary and grammar)
+- English course content completed
+- Japanese lessons content expanded
+- Comprehensive audio settings page with device management
+- GitHub repository link with icon in header
+- Roadmap enhancements: milestones and actions structure
+
+### Fixed
+
+- STT: auto-restart in continuous mode on mobile browsers
+- STT: handle network error as unsupported browser; improved degradation banner
+- STT: normalize input and strip punctuation in adapters for more lenient matching
+- PWA: blank screen on GitHub Pages subdirectory deploy
+- PWA: broken logo on GitHub Pages subdirectory
+- PWA: auto-reload on chunk load failure after new deploy
+- Light mode visual inconsistencies across components
+- Hardcoded dictionary path in dictation exercise
+- ESLint: unused `blank` variable in `ClozeMulti`; unstable `lessons` useMemo dependency in `Lessons` page; exclude `src-tauri/` from lint to match CI
+
+### Changed
+
+- Component styles updated for improved accessibility and dark mode support
+- Validation scripts and Zod schemas updated for roadmap phases and actions
+- CI: lint errors resolved; PWA deployed to GitHub Pages
+
 ## [0.1.0] - 2026-04-08
 
 ### Added
@@ -39,4 +68,5 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 - Unit tests with Vitest + React Testing Library
 - Strict TypeScript throughout
 
+[0.1.1]: https://github.com/taaddde/Forgua/compare/v0.1.0...v0.1.1
 [0.1.0]: https://github.com/taaddde/Forgua/releases/tag/v0.1.0

@@ -4,42 +4,39 @@
   "description": "Aprendé a indicar dónde ocurre una acción con で y hacia dónde te movés con へ. Estas dos partículas son esenciales para hablar de actividades y desplazamientos.",
   "level": "n5",
   "category": "grammar",
-  "prereqs": ["grammar-n5-03"],
+  "prereqs": [
+    "grammar-n5-03"
+  ],
   "items": [
     {
       "front": "で (lugar de acción)",
       "back": "en (indica dónde ocurre la acción)",
       "reading": "で",
-      "explanation": "で (de) indica el lugar donde se realiza una acción. La clave es que siempre acompaña a un verbo de acción: 図書館で勉強します (estudio en la biblioteca), 公園で遊びます (juego en el parque). で NO se usa con verbos de estado como いる o ある — para esos usás に.",
-      "cardRef": { "category": "grammar", "front": "で (lugar de acción)" }
+      "explanation": "で (de) indica el lugar donde se realiza una acción. La clave es que siempre acompaña a un verbo de acción: 図書館で勉強します (estudio en la biblioteca), 公園で遊びます (juego en el parque). で NO se usa con verbos de estado como いる o ある — para esos usás に."
     },
     {
       "front": "へ (dirección)",
       "back": "hacia / a (indica la dirección del movimiento)",
       "reading": "え (partícula)",
-      "explanation": "へ (e) indica la dirección hacia donde te movés. Se escribe へ pero se pronuncia 'e' cuando es partícula. 学校へ行きます (voy hacia la escuela). La diferencia con に: に marca el destino exacto, へ enfatiza el proceso de dirigirse hacia ese lugar. En muchos casos son intercambiables.",
-      "cardRef": { "category": "grammar", "front": "へ (dirección)" }
+      "explanation": "へ (e) indica la dirección hacia donde te movés. Se escribe へ pero se pronuncia 'e' cuando es partícula. 学校へ行きます (voy hacia la escuela). La diferencia con に: に marca el destino exacto, へ enfatiza el proceso de dirigirse hacia ese lugar. En muchos casos son intercambiables."
     },
     {
       "front": "図書館で勉強します",
       "back": "Estudio en la biblioteca",
       "reading": "としょかんでべんきょうします",
-      "explanation": "図書館で勉強します (toshokan de benkyou shimasu). 図書館 = biblioteca, で = en (lugar de acción), 勉強します = estudiar. で indica que la acción de estudiar ocurre dentro de la biblioteca.",
-      "cardRef": { "category": "grammar", "front": "図書館で勉強します" }
+      "explanation": "図書館で勉強します (toshokan de benkyou shimasu). 図書館 = biblioteca, で = en (lugar de acción), 勉強します = estudiar. で indica que la acción de estudiar ocurre dentro de la biblioteca."
     },
     {
       "front": "学校へ行きます",
       "back": "Voy hacia la escuela / Voy a la escuela",
       "reading": "がっこうへいきます",
-      "explanation": "学校へ行きます (gakkou e ikimasu). 学校 = escuela, へ = hacia (dirección), 行きます = ir. へ acompaña verbos de movimiento como 行く (ir), 来る (venir), 帰る (volver). Con estos verbos, へ y に son casi siempre intercambiables.",
-      "cardRef": { "category": "grammar", "front": "学校へ行きます" }
+      "explanation": "学校へ行きます (gakkou e ikimasu). 学校 = escuela, へ = hacia (dirección), 行きます = ir. へ acompaña verbos de movimiento como 行く (ir), 来る (venir), 帰る (volver). Con estos verbos, へ y に son casi siempre intercambiables."
     },
     {
       "front": "に vs へ",
       "back": "に = destino exacto; へ = dirección general",
       "reading": "に vs へ",
-      "explanation": "La diferencia sutil: に enfatiza llegar al destino (学校に着きます = llego a la escuela), へ enfatiza el movimiento hacia (学校へ向かいます = me dirijo a la escuela). Con 行く/来る/帰る son casi intercambiables: 学校に行く ≈ 学校へ行く. Sin embargo, に también indica tiempo, destinatario y lugar de existencia, mientras que へ solo indica dirección.",
-      "cardRef": { "category": "grammar", "front": "に vs へ (diferencia)" }
+      "explanation": "La diferencia sutil: に enfatiza llegar al destino (学校に着きます = llego a la escuela), へ enfatiza el movimiento hacia (学校へ向かいます = me dirijo a la escuela). Con 行く/来る/帰る son casi intercambiables: 学校に行く ≈ 学校へ行く. Sin embargo, に también indica tiempo, destinatario y lugar de existencia, mientras que へ solo indica dirección."
     }
   ],
   "steps": [
@@ -47,25 +44,41 @@
       "type": "introduce",
       "title": "で: el lugar donde ocurre la acción",
       "instruction": "で indica dónde realizás una acción. Siempre va con verbos de acción: comer, estudiar, trabajar, jugar. 図書館で読む (leer en la biblioteca), カフェで話す (hablar en el café). Recordá: で necesita que algo pase en ese lugar, no solo que estés ahí.",
-      "itemIndices": [0, 2]
+      "itemIndices": [
+        0,
+        2
+      ]
     },
     {
       "type": "introduce",
       "title": "へ: la dirección del movimiento",
       "instruction": "へ se pronuncia 'e' cuando es partícula y marca hacia dónde te dirigís. Va principalmente con verbos de movimiento: 行く (ir), 来る (venir), 帰る (volver). La diferencia clave con に: へ enfatiza el camino/dirección, に enfatiza el punto de llegada. En la práctica con 行く/来る son casi iguales.",
-      "itemIndices": [1, 3, 4]
+      "itemIndices": [
+        1,
+        3,
+        4
+      ]
     },
     {
       "type": "recognize",
       "title": "¿Qué partícula es?",
       "instruction": "Identificá la función de cada partícula y el significado de cada oración.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "write",
       "title": "Completá con で o へ",
       "instruction": "Ves la oración incompleta. Escribí la partícula correcta: で para lugar de acción, へ para dirección de movimiento.",
-      "itemIndices": [2, 3]
+      "itemIndices": [
+        2,
+        3
+      ]
     },
     {
       "type": "word-in-context",
@@ -119,19 +132,59 @@
         "exercises": [
           {
             "template": "公園{0}サッカーをします。",
-            "blanks": [{ "answer": "で", "options": ["で", "へ", "に", "を"] }]
+            "blanks": [
+              {
+                "answer": "で",
+                "options": [
+                  "で",
+                  "へ",
+                  "に",
+                  "を"
+                ]
+              }
+            ]
           },
           {
             "template": "明日、東京{0}行きます。",
-            "blanks": [{ "answer": "へ", "options": ["で", "へ", "が", "を"] }]
+            "blanks": [
+              {
+                "answer": "へ",
+                "options": [
+                  "で",
+                  "へ",
+                  "が",
+                  "を"
+                ]
+              }
+            ]
           },
           {
             "template": "うち{0}ご飯を食べます。",
-            "blanks": [{ "answer": "で", "options": ["で", "へ", "に", "が"] }]
+            "blanks": [
+              {
+                "answer": "で",
+                "options": [
+                  "で",
+                  "へ",
+                  "に",
+                  "が"
+                ]
+              }
+            ]
           },
           {
             "template": "駅{0}バスで行きます。",
-            "blanks": [{ "answer": "へ", "options": ["で", "へ", "は", "を"] }]
+            "blanks": [
+              {
+                "answer": "へ",
+                "options": [
+                  "で",
+                  "へ",
+                  "は",
+                  "を"
+                ]
+              }
+            ]
           }
         ]
       }
@@ -140,13 +193,25 @@
       "type": "recall",
       "title": "Traducí al japonés",
       "instruction": "Ves la oración en español. Recordá qué partícula usar y formá la oración en japonés.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "summary",
       "title": "¡Lección completa!",
       "instruction": "Aprendiste dos partículas clave: で indica dónde ocurre una acción (公園で遊ぶ = jugar en el parque) y へ indica la dirección del movimiento (学校へ行く = ir a la escuela). La diferencia con に: con verbos de movimiento son casi intercambiables, pero に también marca destino exacto, tiempo y destinatario. で solo marca lugar de acción.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     }
   ]
 }

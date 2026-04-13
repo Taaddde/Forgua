@@ -9,36 +9,31 @@
       "front": "静かだ",
       "back": "es tranquilo / is quiet",
       "reading": "しずかだ",
-      "explanation": "静かだ (shizuka da) es la forma base informal de un adjetivo な. En forma educada: 静かです. Los adjetivos な no terminan en い; usan だ/です como los sustantivos. Antes de un sustantivo usan な: 静かな部屋 = 'habitación tranquila'.",
-      "cardRef": { "category": "grammar", "front": "静かだ" }
+      "explanation": "静かだ (shizuka da) es la forma base informal de un adjetivo な. En forma educada: 静かです. Los adjetivos な no terminan en い; usan だ/です como los sustantivos. Antes de un sustantivo usan な: 静かな部屋 = 'habitación tranquila'."
     },
     {
       "front": "静かじゃない",
       "back": "no es tranquilo / is not quiet",
       "reading": "しずかじゃない",
-      "explanation": "静かじゃない (shizuka ja nai) es la forma negativa. Regla: sacás だ y ponés じゃない. En forma educada: 静かじゃないです o 静かじゃありません. じゃ es la contracción de では.",
-      "cardRef": { "category": "grammar", "front": "静かじゃない" }
+      "explanation": "静かじゃない (shizuka ja nai) es la forma negativa. Regla: sacás だ y ponés じゃない. En forma educada: 静かじゃないです o 静かじゃありません. じゃ es la contracción de では."
     },
     {
       "front": "静かだった",
       "back": "era tranquilo / was quiet",
       "reading": "しずかだった",
-      "explanation": "静かだった (shizuka datta) es la forma pasada. Regla: sacás だ y ponés だった. En forma educada: 静かでした. 'この町は静かだった' = 'Este pueblo era tranquilo'.",
-      "cardRef": { "category": "grammar", "front": "静かだった" }
+      "explanation": "静かだった (shizuka datta) es la forma pasada. Regla: sacás だ y ponés だった. En forma educada: 静かでした. 'この町は静かだった' = 'Este pueblo era tranquilo'."
     },
     {
       "front": "静かじゃなかった",
       "back": "no era tranquilo / wasn't quiet",
       "reading": "しずかじゃなかった",
-      "explanation": "静かじゃなかった (shizuka ja nakatta) es la forma pasada negativa. Regla: sacás だ y ponés じゃなかった. En forma educada: 静かじゃなかったです o 静かじゃありませんでした.",
-      "cardRef": { "category": "grammar", "front": "静かじゃなかった" }
+      "explanation": "静かじゃなかった (shizuka ja nakatta) es la forma pasada negativa. Regla: sacás だ y ponés じゃなかった. En forma educada: 静かじゃなかったです o 静かじゃありませんでした."
     },
     {
       "front": "きれいで",
       "back": "es bonito y... / pretty and...",
       "reading": "きれいで",
-      "explanation": "きれいで (kirei de) es la forma て del adjetivo な きれい. Regla: sacás だ y ponés で. Se usa para conectar: 'きれいで静かです' = 'Es bonito y tranquilo'. Ojo: きれい parece adjetivo い pero es な.",
-      "cardRef": { "category": "grammar", "front": "きれいで" }
+      "explanation": "きれいで (kirei de) es la forma て del adjetivo な きれい. Regla: sacás だ y ponés で. Se usa para conectar: 'きれいで静かです' = 'Es bonito y tranquilo'. Ojo: きれい parece adjetivo い pero es な."
     }
   ],
   "steps": [
@@ -46,40 +41,89 @@
       "type": "introduce",
       "title": "¿Qué son los adjetivos な?",
       "instruction": "Los adjetivos な son el segundo tipo de adjetivos del japonés. A diferencia de los い, los な se conjugan igual que los sustantivos, usando だ/です. La clave: para negar usás じゃない, para pasado usás だった.",
-      "itemIndices": [0, 1, 2, 3]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
     },
     {
       "type": "introduce",
       "title": "La forma て: conectar adjetivos な",
       "instruction": "Para decir 'bonito y tranquilo' usás la forma て del adjetivo な, que es simplemente で. Ojo con きれい: aunque termina en い, es un adjetivo な.",
-      "itemIndices": [4]
+      "itemIndices": [
+        4
+      ]
     },
     {
       "type": "recognize",
       "title": "¿Qué forma es?",
       "instruction": "Identificá si el adjetivo está en presente, negativo, pasado, pasado negativo o forma て.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "sentence-build",
       "title": "Armá la oración con adjetivos な",
       "instruction": "Ordená las piezas para formar oraciones con adjetivos な.",
-      "itemIndices": [0, 1, 4],
+      "itemIndices": [
+        0,
+        1,
+        4
+      ],
       "config": {
         "sentences": [
           {
-            "fragments": ["この", "町", "は", "静か", "です"],
-            "correctOrder": [0, 1, 2, 3, 4],
+            "fragments": [
+              "この",
+              "町",
+              "は",
+              "静か",
+              "です"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3,
+              4
+            ],
             "translation": "Este pueblo es tranquilo"
           },
           {
-            "fragments": ["この", "部屋", "は", "静かじゃない", "です"],
-            "correctOrder": [0, 1, 2, 3, 4],
+            "fragments": [
+              "この",
+              "部屋",
+              "は",
+              "静かじゃない",
+              "です"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3,
+              4
+            ],
             "translation": "Esta habitación no es tranquila"
           },
           {
-            "fragments": ["きれいで", "静か", "です"],
-            "correctOrder": [0, 1, 2],
+            "fragments": [
+              "きれいで",
+              "静か",
+              "です"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2
+            ],
             "translation": "Es bonito y tranquilo"
           }
         ]
@@ -89,13 +133,25 @@
       "type": "recall",
       "title": "Conjugá el adjetivo な",
       "instruction": "Ves la forma que necesitás en español. Recordá la conjugación correcta.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "summary",
       "title": "¡Lección completa!",
       "instruction": "Aprendiste las conjugaciones de los adjetivos な: だ (presente), じゃない (negativo), だった (pasado), じゃなかった (pasado negativo), で (forma て). Comparalos con los adjetivos い: los な se conjugan como sustantivos, los い se conjugan solos.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     }
   ]
 }

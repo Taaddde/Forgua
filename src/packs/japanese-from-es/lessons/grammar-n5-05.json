@@ -9,43 +9,37 @@
       "front": "食べました",
       "back": "comí / I ate (polite)",
       "reading": "たべました",
-      "explanation": "食べました (tabemashita) es el pasado educado de 食べます. La regla es simple: ます → ました. Siempre funciona igual, sin excepciones.",
-      "cardRef": { "category": "grammar", "front": "食べました" }
+      "explanation": "食べました (tabemashita) es el pasado educado de 食べます. La regla es simple: ます → ました. Siempre funciona igual, sin excepciones."
     },
     {
       "front": "飲みました",
       "back": "bebí / I drank (polite)",
       "reading": "のみました",
-      "explanation": "飲みました (nomimashita) es el pasado educado de 飲みます. Misma regla: ます → ました. '昨日ビールを飲みました' = 'Ayer bebí cerveza'.",
-      "cardRef": { "category": "grammar", "front": "飲みました" }
+      "explanation": "飲みました (nomimashita) es el pasado educado de 飲みます. Misma regla: ます → ました. '昨日ビールを飲みました' = 'Ayer bebí cerveza'."
     },
     {
       "front": "行きました",
       "back": "fui / I went (polite)",
       "reading": "いきました",
-      "explanation": "行きました (ikimashita) es el pasado educado de 行きます. '東京に行きました' = 'Fui a Tokio'.",
-      "cardRef": { "category": "grammar", "front": "行きました" }
+      "explanation": "行きました (ikimashita) es el pasado educado de 行きます. '東京に行きました' = 'Fui a Tokio'."
     },
     {
       "front": "食べませんでした",
       "back": "no comí / I didn't eat (polite)",
       "reading": "たべませんでした",
-      "explanation": "食べませんでした (tabemasen deshita) es el pasado negativo educado. La regla: ます → ませんでした. Primero negás (ません) y después pasás a pasado (でした).",
-      "cardRef": { "category": "grammar", "front": "食べませんでした" }
+      "explanation": "食べませんでした (tabemasen deshita) es el pasado negativo educado. La regla: ます → ませんでした. Primero negás (ません) y después pasás a pasado (でした)."
     },
     {
       "front": "行きませんでした",
       "back": "no fui / I didn't go (polite)",
       "reading": "いきませんでした",
-      "explanation": "行きませんでした (ikimasen deshita) es el pasado negativo de 行きます. '昨日学校に行きませんでした' = 'Ayer no fui a la escuela'.",
-      "cardRef": { "category": "grammar", "front": "行きませんでした" }
+      "explanation": "行きませんでした (ikimasen deshita) es el pasado negativo de 行きます. '昨日学校に行きませんでした' = 'Ayer no fui a la escuela'."
     },
     {
       "front": "しました",
       "back": "hice / I did (polite)",
       "reading": "しました",
-      "explanation": "しました (shimashita) es el pasado educado de します. '宿題をしました' = 'Hice la tarea'. Incluso los verbos irregulares siguen la regla ます → ました.",
-      "cardRef": { "category": "grammar", "front": "しました" }
+      "explanation": "しました (shimashita) es el pasado educado de します. '宿題をしました' = 'Hice la tarea'. Incluso los verbos irregulares siguen la regla ます → ました."
     }
   ],
   "steps": [
@@ -53,40 +47,85 @@
       "type": "introduce",
       "title": "El pasado afirmativo: ました",
       "instruction": "Formar el pasado educado es de las cosas más fáciles del japonés. Solo reemplazás ます por ました. Funciona con TODOS los verbos sin excepción: 食べます→食べました, 飲みます→飲みました, 行きます→行きました.",
-      "itemIndices": [0, 1, 2]
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
     },
     {
       "type": "introduce",
       "title": "El pasado negativo: ませんでした",
       "instruction": "Para decir que NO hiciste algo en el pasado, reemplazás ます por ませんでした. Es largo pero siempre igual: 食べます→食べませんでした, 行きます→行きませんでした.",
-      "itemIndices": [3, 4, 5]
+      "itemIndices": [
+        3,
+        4,
+        5
+      ]
     },
     {
       "type": "recognize",
       "title": "¿Afirmativo o negativo? ¿Presente o pasado?",
       "instruction": "Identificá el significado correcto de cada forma verbal.",
-      "itemIndices": [0, 1, 2, 3, 4, 5]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
     },
     {
       "type": "sentence-build",
       "title": "Armá la oración en pasado",
       "instruction": "Ordená las piezas para formar oraciones en pasado.",
-      "itemIndices": [0, 2, 4],
+      "itemIndices": [
+        0,
+        2,
+        4
+      ],
       "config": {
         "sentences": [
           {
-            "fragments": ["昨日", "ごはん", "を", "食べました"],
-            "correctOrder": [0, 1, 2, 3],
+            "fragments": [
+              "昨日",
+              "ごはん",
+              "を",
+              "食べました"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
             "translation": "Ayer comí arroz"
           },
           {
-            "fragments": ["東京", "に", "行きました"],
-            "correctOrder": [0, 1, 2],
+            "fragments": [
+              "東京",
+              "に",
+              "行きました"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2
+            ],
             "translation": "Fui a Tokio"
           },
           {
-            "fragments": ["学校", "に", "行きませんでした"],
-            "correctOrder": [0, 1, 2],
+            "fragments": [
+              "学校",
+              "に",
+              "行きませんでした"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2
+            ],
             "translation": "No fui a la escuela"
           }
         ]
@@ -96,13 +135,27 @@
       "type": "recall",
       "title": "Conjugá en pasado",
       "instruction": "Ves el significado en español. Recordá la forma en pasado (afirmativo o negativo).",
-      "itemIndices": [0, 1, 2, 3, 4, 5]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
     },
     {
       "type": "summary",
       "title": "¡Lección completa!",
       "instruction": "Aprendiste las 4 formas de la conjugación educada: ます (presente +), ません (presente −), ました (pasado +), ませんでした (pasado −). Con esto ya podés hablar de lo que hiciste y lo que no hiciste.",
-      "itemIndices": [0, 1, 2, 3, 4, 5]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
     }
   ]
 }

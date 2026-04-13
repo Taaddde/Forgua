@@ -9,36 +9,31 @@
       "front": "食べて",
       "back": "comer y... / eat and...",
       "reading": "たべて",
-      "explanation": "食べて (tabete) es la forma て de 食べる. Los verbos ichidan (る) simplemente reemplazan る por て: 食べる → 食べて. Se usa para conectar acciones: '食べて寝る' = 'como y duermo'.",
-      "cardRef": { "category": "grammar", "front": "食べて" }
+      "explanation": "食べて (tabete) es la forma て de 食べる. Los verbos ichidan (る) simplemente reemplazan る por て: 食べる → 食べて. Se usa para conectar acciones: '食べて寝る' = 'como y duermo'."
     },
     {
       "front": "飲んで",
       "back": "beber y... / drink and...",
       "reading": "のんで",
-      "explanation": "飲んで (nonde) es la forma て de 飲む. Los verbos que terminan en む, ぶ, ぬ cambian a んで: 飲む → 飲んで, 遊ぶ → 遊んで. Este cambio de sonido se llama 'onbin' (音便).",
-      "cardRef": { "category": "grammar", "front": "飲んで" }
+      "explanation": "飲んで (nonde) es la forma て de 飲む. Los verbos que terminan en む, ぶ, ぬ cambian a んで: 飲む → 飲んで, 遊ぶ → 遊んで. Este cambio de sonido se llama 'onbin' (音便)."
     },
     {
       "front": "行って",
       "back": "ir y... / go and...",
       "reading": "いって",
-      "explanation": "行って (itte) es la forma て de 行く. Los verbos que terminan en く cambian a いて: 書く → 書いて. Pero 行く es excepción: 行く → 行って (no 行いて). Es la única excepción de este grupo.",
-      "cardRef": { "category": "grammar", "front": "行って" }
+      "explanation": "行って (itte) es la forma て de 行く. Los verbos que terminan en く cambian a いて: 書く → 書いて. Pero 行く es excepción: 行く → 行って (no 行いて). Es la única excepción de este grupo."
     },
     {
       "front": "して",
       "back": "hacer y... / do and...",
       "reading": "して",
-      "explanation": "して (shite) es la forma て del verbo irregular する. Simplemente memorizalo: する → して. También aplica a todos los verbos compuestos con する: 勉強する → 勉強して.",
-      "cardRef": { "category": "grammar", "front": "して" }
+      "explanation": "して (shite) es la forma て del verbo irregular する. Simplemente memorizalo: する → して. También aplica a todos los verbos compuestos con する: 勉強する → 勉強して."
     },
     {
       "front": "来て",
       "back": "venir y... / come and...",
       "reading": "きて",
-      "explanation": "来て (kite) es la forma て del verbo irregular 来る (kuru). Otro caso para memorizar: 来る → 来て. Con estos dos irregulares (する→して, 来る→来て) cubrís todas las excepciones.",
-      "cardRef": { "category": "grammar", "front": "来て" }
+      "explanation": "来て (kite) es la forma て del verbo irregular 来る (kuru). Otro caso para memorizar: 来る → 来て. Con estos dos irregulares (する→して, 来る→来て) cubrís todas las excepciones."
     }
   ],
   "steps": [
@@ -46,40 +41,93 @@
       "type": "introduce",
       "title": "¿Qué es la forma て?",
       "instruction": "La forma て es una de las formas más importantes del japonés. Su uso más básico es conectar acciones en secuencia: 'como y después duermo' = 食べて寝る. También es la base de muchas otras estructuras: 〜ている (estar haciendo), 〜てください (por favor hacé), 〜てもいい (está bien si...).",
-      "itemIndices": [0, 1]
+      "itemIndices": [
+        0,
+        1
+      ]
     },
     {
       "type": "introduce",
       "title": "Verbos irregulares y excepciones",
       "instruction": "行く es la única excepción entre los verbos regulares: 行く → 行って (no 行いて). Los dos verbos irregulares する y 来る tienen formas て que hay que memorizar: する → して, 来る → 来て.",
-      "itemIndices": [2, 3, 4]
+      "itemIndices": [
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "recognize",
       "title": "¿De qué verbo viene?",
       "instruction": "Identificá el significado de cada forma て y de qué verbo proviene.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "sentence-build",
       "title": "Conectá las acciones",
       "instruction": "Ordená las piezas para formar oraciones que conecten acciones con la forma て.",
-      "itemIndices": [0, 2, 3],
+      "itemIndices": [
+        0,
+        2,
+        3
+      ],
       "config": {
         "sentences": [
           {
-            "fragments": ["朝ごはん", "を", "食べて", "学校", "に", "行きます"],
-            "correctOrder": [0, 1, 2, 3, 4, 5],
+            "fragments": [
+              "朝ごはん",
+              "を",
+              "食べて",
+              "学校",
+              "に",
+              "行きます"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5
+            ],
             "translation": "Desayuno y voy a la escuela"
           },
           {
-            "fragments": ["宿題", "を", "して", "寝ます"],
-            "correctOrder": [0, 1, 2, 3],
+            "fragments": [
+              "宿題",
+              "を",
+              "して",
+              "寝ます"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
             "translation": "Hago la tarea y duermo"
           },
           {
-            "fragments": ["友だち", "が", "来て", "一緒に", "遊びます"],
-            "correctOrder": [0, 1, 2, 3, 4],
+            "fragments": [
+              "友だち",
+              "が",
+              "来て",
+              "一緒に",
+              "遊びます"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3,
+              4
+            ],
             "translation": "Mi amigo viene y jugamos juntos"
           }
         ]
@@ -89,13 +137,25 @@
       "type": "recall",
       "title": "Formá la て-form",
       "instruction": "Ves el verbo base. Recordá su forma て correcta.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "summary",
       "title": "¡Lección completa!",
       "instruction": "Aprendiste la forma て de 5 verbos clave. Las reglas principales: ichidan (る→て), godan む/ぶ/ぬ (→んで), godan く (→いて, excepto 行く→行って), irregulares (する→して, 来る→来て). La forma て es la puerta a docenas de estructuras gramaticales.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     }
   ]
 }

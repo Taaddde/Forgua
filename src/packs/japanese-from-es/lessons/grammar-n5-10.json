@@ -9,43 +9,37 @@
       "front": "一つ",
       "back": "uno (contador general)",
       "reading": "ひとつ",
-      "explanation": "一つ (hitotsu) es el número 1 con el contador general つ. Este contador funciona para casi cualquier objeto y se basa en la numeración nativa japonesa (no la china). Se usa del 1 al 10: ひとつ、ふたつ、みっつ...",
-      "cardRef": { "category": "grammar", "front": "一つ" }
+      "explanation": "一つ (hitotsu) es el número 1 con el contador general つ. Este contador funciona para casi cualquier objeto y se basa en la numeración nativa japonesa (no la china). Se usa del 1 al 10: ひとつ、ふたつ、みっつ..."
     },
     {
       "front": "一人",
       "back": "una persona",
       "reading": "ひとり",
-      "explanation": "一人 (hitori) significa 'una persona'. El contador 人 se usa exclusivamente para personas. Ojo: 一人 (hitori) y 二人 (futari) son lecturas irregulares. A partir de 三人 (sannin) se usa la lectura china regular.",
-      "cardRef": { "category": "grammar", "front": "一人" }
+      "explanation": "一人 (hitori) significa 'una persona'. El contador 人 se usa exclusivamente para personas. Ojo: 一人 (hitori) y 二人 (futari) son lecturas irregulares. A partir de 三人 (sannin) se usa la lectura china regular."
     },
     {
       "front": "一枚",
       "back": "una hoja / una unidad plana",
       "reading": "いちまい",
-      "explanation": "一枚 (ichimai) usa el contador 枚 para objetos planos y delgados: hojas de papel, fotos, platos, camisetas, rebanadas de pan. Pensalo como todo lo que podrías apilar.",
-      "cardRef": { "category": "grammar", "front": "一枚" }
+      "explanation": "一枚 (ichimai) usa el contador 枚 para objetos planos y delgados: hojas de papel, fotos, platos, camisetas, rebanadas de pan. Pensalo como todo lo que podrías apilar."
     },
     {
       "front": "一本",
       "back": "uno (cilíndrico/alargado)",
       "reading": "いっぽん",
-      "explanation": "一本 (ippon) usa el contador 本 para objetos largos y cilíndricos: lápices, botellas, árboles, ríos, caminos, películas. Ojo con los cambios de sonido: いっぽん (1), にほん (2), さんぼん (3).",
-      "cardRef": { "category": "grammar", "front": "一本" }
+      "explanation": "一本 (ippon) usa el contador 本 para objetos largos y cilíndricos: lápices, botellas, árboles, ríos, caminos, películas. Ojo con los cambios de sonido: いっぽん (1), にほん (2), さんぼん (3)."
     },
     {
       "front": "二人",
       "back": "dos personas",
       "reading": "ふたり",
-      "explanation": "二人 (futari) significa 'dos personas'. Es lectura irregular como 一人 (hitori). A partir de 三人 (sannin) la lectura es regular: よにん (4), ごにん (5), etc.",
-      "cardRef": { "category": "grammar", "front": "二人" }
+      "explanation": "二人 (futari) significa 'dos personas'. Es lectura irregular como 一人 (hitori). A partir de 三人 (sannin) la lectura es regular: よにん (4), ごにん (5), etc."
     },
     {
       "front": "三つ",
       "back": "tres (contador general)",
       "reading": "みっつ",
-      "explanation": "三つ (mittsu) es el número 3 con el contador general. La serie completa: ひとつ(1)、ふたつ(2)、みっつ(3)、よっつ(4)、いつつ(5)、むっつ(6)、ななつ(7)、やっつ(8)、ここのつ(9)、とお(10).",
-      "cardRef": { "category": "grammar", "front": "三つ" }
+      "explanation": "三つ (mittsu) es el número 3 con el contador general. La serie completa: ひとつ(1)、ふたつ(2)、みっつ(3)、よっつ(4)、いつつ(5)、むっつ(6)、ななつ(7)、やっつ(8)、ここのつ(9)、とお(10)."
     }
   ],
   "steps": [
@@ -53,40 +47,89 @@
       "type": "introduce",
       "title": "¿Por qué contadores?",
       "instruction": "En japonés no podés decir simplemente 'tres libros' — necesitás un contador que describe la forma o tipo del objeto. Es como en español decimos 'dos hojas de papel' o 'tres cabezas de ganado', pero en japonés pasa con TODO. El contador general つ sirve como comodín.",
-      "itemIndices": [0, 5]
+      "itemIndices": [
+        0,
+        5
+      ]
     },
     {
       "type": "introduce",
       "title": "Contadores específicos: 人、枚、本",
       "instruction": "人 para personas (ojo: 一人 y 二人 son irregulares), 枚 para cosas planas, 本 para cosas alargadas. Cada uno tiene sus propios cambios de sonido que hay que memorizar.",
-      "itemIndices": [1, 2, 3, 4]
+      "itemIndices": [
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "recognize",
       "title": "¿Qué contador se usa?",
       "instruction": "Identificá qué significa cada expresión con contador.",
-      "itemIndices": [0, 1, 2, 3, 4, 5]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
     },
     {
       "type": "sentence-build",
       "title": "Armá la oración con contadores",
       "instruction": "Ordená las piezas para formar oraciones que usen contadores correctamente.",
-      "itemIndices": [0, 1, 2],
+      "itemIndices": [
+        0,
+        1,
+        2
+      ],
       "config": {
         "sentences": [
           {
-            "fragments": ["りんご", "を", "三つ", "ください"],
-            "correctOrder": [0, 1, 2, 3],
+            "fragments": [
+              "りんご",
+              "を",
+              "三つ",
+              "ください"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
             "translation": "Deme tres manzanas, por favor"
           },
           {
-            "fragments": ["学生", "が", "二人", "います"],
-            "correctOrder": [0, 1, 2, 3],
+            "fragments": [
+              "学生",
+              "が",
+              "二人",
+              "います"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
             "translation": "Hay dos estudiantes"
           },
           {
-            "fragments": ["紙", "を", "一枚", "ください"],
-            "correctOrder": [0, 1, 2, 3],
+            "fragments": [
+              "紙",
+              "を",
+              "一枚",
+              "ください"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
             "translation": "Deme una hoja de papel, por favor"
           }
         ]
@@ -96,13 +139,27 @@
       "type": "recall",
       "title": "¿Cómo se dice?",
       "instruction": "Ves la cantidad en español. Recordá cómo se dice con el contador correcto.",
-      "itemIndices": [0, 1, 2, 3, 4, 5]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
     },
     {
       "type": "summary",
       "title": "¡Lección completa!",
       "instruction": "Aprendiste 4 contadores esenciales: つ (general), 人 (personas), 枚 (objetos planos), 本 (objetos alargados). Recordá las lecturas irregulares de 一人 (hitori) y 二人 (futari). El contador つ es tu salvavidas cuando no sabés cuál usar.",
-      "itemIndices": [0, 1, 2, 3, 4, 5]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
     }
   ]
 }

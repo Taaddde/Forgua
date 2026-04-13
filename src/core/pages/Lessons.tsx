@@ -53,7 +53,7 @@ export function Lessons() {
     return () => { cancelled = true; };
   }, [packId, lessonIndexPackId, setLessonIndex]);
 
-  const lessons = lessonIndex?.lessons ?? [];
+  const lessons = useMemo(() => lessonIndex?.lessons ?? [], [lessonIndex]);
 
   const completedIds = useMemo(() => {
     const set = new Set<string>();

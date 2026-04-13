@@ -9,36 +9,31 @@
       "front": "食べたら",
       "back": "si como... / cuando coma...",
       "reading": "たべたら",
-      "explanation": "食べたら (tabetara) es la forma condicional たら del verbo 食べる. Se forma: pasado (食べた) + ら. たら es el condicional más versátil — sirve para 'si' y para 'cuando'. Ejemplo: 食べたら出かけよう (cuando comamos, salgamos).",
-      "cardRef": { "category": "grammar", "front": "食べたら" }
+      "explanation": "食べたら (tabetara) es la forma condicional たら del verbo 食べる. Se forma: pasado (食べた) + ら. たら es el condicional más versátil — sirve para 'si' y para 'cuando'. Ejemplo: 食べたら出かけよう (cuando comamos, salgamos)."
     },
     {
       "front": "行ったら",
       "back": "si voy... / cuando vaya...",
       "reading": "いったら",
-      "explanation": "行ったら (ittara) es la forma たら de 行く. La formación es siempre igual: forma pasada (行った) + ら. Ejemplo: 日本に行ったら寿司を食べたい (si voy a Japón, quiero comer sushi).",
-      "cardRef": { "category": "grammar", "front": "行ったら" }
+      "explanation": "行ったら (ittara) es la forma たら de 行く. La formación es siempre igual: forma pasada (行った) + ら. Ejemplo: 日本に行ったら寿司を食べたい (si voy a Japón, quiero comer sushi)."
     },
     {
       "front": "安ければ",
       "back": "si es barato...",
       "reading": "やすければ",
-      "explanation": "安ければ (yasukereba) es la forma condicional ば del adjetivo-i 安い. Para adjetivos-i: sacás い y ponés ければ. ば es más hipotético que たら — plantea una condición que puede o no cumplirse. Ejemplo: 安ければ買う (si es barato, lo compro).",
-      "cardRef": { "category": "grammar", "front": "安ければ" }
+      "explanation": "安ければ (yasukereba) es la forma condicional ば del adjetivo-i 安い. Para adjetivos-i: sacás い y ponés ければ. ば es más hipotético que たら — plantea una condición que puede o no cumplirse. Ejemplo: 安ければ買う (si es barato, lo compro)."
     },
     {
       "front": "静かなら",
       "back": "si es tranquilo...",
       "reading": "しずかなら",
-      "explanation": "静かなら (shizuka nara) es la forma condicional de un adjetivo-na. Para adjetivos-na y sustantivos: se agrega なら directamente. Ejemplo: 静かなら勉強できる (si es tranquilo, puedo estudiar). なら es como una versión más suave de ば.",
-      "cardRef": { "category": "grammar", "front": "静かなら" }
+      "explanation": "静かなら (shizuka nara) es la forma condicional de un adjetivo-na. Para adjetivos-na y sustantivos: se agrega なら directamente. Ejemplo: 静かなら勉強できる (si es tranquilo, puedo estudiar). なら es como una versión más suave de ば."
     },
     {
       "front": "雨だったら",
       "back": "si llueve... / si es lluvia...",
       "reading": "あめだったら",
-      "explanation": "雨だったら (ame dattara) es la forma たら de un sustantivo. Para sustantivos y adjetivos-na: だった + ら. Ejemplo: 雨だったら家にいる (si llueve, me quedo en casa). Fijate que たら funciona con verbos, adjetivos y sustantivos.",
-      "cardRef": { "category": "grammar", "front": "雨だったら" }
+      "explanation": "雨だったら (ame dattara) es la forma たら de un sustantivo. Para sustantivos y adjetivos-na: だった + ら. Ejemplo: 雨だったら家にいる (si llueve, me quedo en casa). Fijate que たら funciona con verbos, adjetivos y sustantivos."
     }
   ],
   "steps": [
@@ -46,40 +41,77 @@
       "type": "introduce",
       "title": "Dos formas de decir 'si'",
       "instruction": "En japonés hay varias formas de decir 'si...'. Las dos más importantes son たら (general, versátil) y ば (hipotético). たら se forma con la forma pasada + ら, y es la más fácil de usar porque funciona en casi cualquier contexto.",
-      "itemIndices": [0, 1, 4]
+      "itemIndices": [
+        0,
+        1,
+        4
+      ]
     },
     {
       "type": "introduce",
       "title": "La forma ば y なら",
       "instruction": "La forma ば es más hipotética: plantea una condición para que algo se cumpla. Para verbos: cambiás la última vocal a え y agregás ば. Para adjetivos-i: sacás い y ponés ければ. Para adjetivos-na y sustantivos: usás なら.",
-      "itemIndices": [2, 3]
+      "itemIndices": [
+        2,
+        3
+      ]
     },
     {
       "type": "recognize",
       "title": "¿Qué significa cada condicional?",
       "instruction": "Elegí la traducción correcta de cada forma condicional.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "sentence-build",
       "title": "Armá oraciones condicionales",
       "instruction": "Arrastrá las piezas para formar oraciones con たら y ば.",
-      "itemIndices": [0, 2, 4],
+      "itemIndices": [
+        0,
+        2,
+        4
+      ],
       "config": {
         "sentences": [
           {
-            "fragments": ["食べたら", "出かけよう"],
-            "correctOrder": [0, 1],
+            "fragments": [
+              "食べたら",
+              "出かけよう"
+            ],
+            "correctOrder": [
+              0,
+              1
+            ],
             "translation": "Cuando comamos, salgamos"
           },
           {
-            "fragments": ["安ければ", "買う"],
-            "correctOrder": [0, 1],
+            "fragments": [
+              "安ければ",
+              "買う"
+            ],
+            "correctOrder": [
+              0,
+              1
+            ],
             "translation": "Si es barato, lo compro"
           },
           {
-            "fragments": ["雨だったら", "家に", "いる"],
-            "correctOrder": [0, 1, 2],
+            "fragments": [
+              "雨だったら",
+              "家に",
+              "いる"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2
+            ],
             "translation": "Si llueve, me quedo en casa"
           }
         ]
@@ -89,13 +121,25 @@
       "type": "recall",
       "title": "Formá el condicional",
       "instruction": "Ves la oración en español. Escribí la forma condicional en japonés.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "summary",
       "title": "¡Condicionales aprendidos!",
       "instruction": "Aprendiste dos formas de decir 'si' en japonés: たら (forma pasada + ら, versátil) y ば/なら (hipotético). たら es la más segura para empezar — si tenés dudas, usá たら. Con el tiempo vas a sentir cuándo conviene cada una.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     }
   ]
 }

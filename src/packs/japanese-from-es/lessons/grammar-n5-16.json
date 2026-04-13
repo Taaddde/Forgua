@@ -4,42 +4,39 @@
   "description": "Aprendé el sistema ko-so-a-do del japonés: los pronombres demostrativos (これ/それ/あれ/どれ) y los adjetivos demostrativos (この/その/あの/どの) para señalar objetos según su distancia.",
   "level": "n5",
   "category": "grammar",
-  "prereqs": ["grammar-n5-01"],
+  "prereqs": [
+    "grammar-n5-01"
+  ],
   "items": [
     {
       "front": "これ / それ / あれ / どれ",
       "back": "esto / eso / aquello / cuál (pronombres demostrativos)",
       "reading": "これ / それ / あれ / どれ",
-      "explanation": "Son pronombres: reemplazan al sustantivo. これ (kore) = esto [cerca del hablante]. それ (sore) = eso [cerca del oyente, o distancia media]. あれ (are) = aquello [lejos de ambos]. どれ (dore) = cuál (interrogativo). Ejemplos: これは本です (esto es un libro), あれは何ですか (¿qué es aquello?).",
-      "cardRef": { "category": "grammar", "front": "これ/それ/あれ/どれ (pronombres)" }
+      "explanation": "Son pronombres: reemplazan al sustantivo. これ (kore) = esto [cerca del hablante]. それ (sore) = eso [cerca del oyente, o distancia media]. あれ (are) = aquello [lejos de ambos]. どれ (dore) = cuál (interrogativo). Ejemplos: これは本です (esto es un libro), あれは何ですか (¿qué es aquello?)."
     },
     {
       "front": "この / その / あの / どの",
       "back": "este / ese / aquel / qué (adjetivos demostrativos)",
       "reading": "この / その / あの / どの",
-      "explanation": "Son adjetivos: modifican a un sustantivo que los sigue. この本 (este libro), その本 (ese libro), あの本 (aquel libro), どの本 (qué libro). La regla de distancia es igual que con これ/それ/あれ. Importante: この/その/あの/どの SIEMPRE van seguidos de un sustantivo, nunca solos.",
-      "cardRef": { "category": "grammar", "front": "この/その/あの/どの (adjetivos)" }
+      "explanation": "Son adjetivos: modifican a un sustantivo que los sigue. この本 (este libro), その本 (ese libro), あの本 (aquel libro), どの本 (qué libro). La regla de distancia es igual que con これ/それ/あれ. Importante: この/その/あの/どの SIEMPRE van seguidos de un sustantivo, nunca solos."
     },
     {
       "front": "こちら / そちら / あちら",
       "back": "por aquí / por ahí / por allá (formal y direcciones)",
       "reading": "こちら / そちら / あちら",
-      "explanation": "こちら/そちら/あちら son las versiones formales de ここ/そこ/あそこ (lugares) y también se usan para presentar personas o indicar direcciones de manera educada. こちらは田中さんです = 'Este es el señor Tanaka' (presentación formal). Seguidas de へ indican dirección: こちらへどうぞ = 'Por favor, por aquí'.",
-      "cardRef": { "category": "grammar", "front": "こちら/そちら/あちら (formal)" }
+      "explanation": "こちら/そちら/あちら son las versiones formales de ここ/そこ/あそこ (lugares) y también se usan para presentar personas o indicar direcciones de manera educada. こちらは田中さんです = 'Este es el señor Tanaka' (presentación formal). Seguidas de へ indican dirección: こちらへどうぞ = 'Por favor, por aquí'."
     },
     {
       "front": "これは何ですか",
       "back": "¿Qué es esto?",
       "reading": "これはなんですか",
-      "explanation": "これは何ですか (kore wa nan desu ka) = '¿Qué es esto?' Es una de las preguntas más útiles del japonés. これ = esto (pronombre, reemplaza al objeto), は = partícula de tema, 何 = qué (se pronuncia なん antes de です), ですか = pregunta formal.",
-      "cardRef": { "category": "grammar", "front": "これは何ですか" }
+      "explanation": "これは何ですか (kore wa nan desu ka) = '¿Qué es esto?' Es una de las preguntas más útiles del japonés. これ = esto (pronombre, reemplaza al objeto), は = partícula de tema, 何 = qué (se pronuncia なん antes de です), ですか = pregunta formal."
     },
     {
       "front": "このかばんは私のです",
       "back": "Esta cartera es mía",
       "reading": "このかばんはわたしのです",
-      "explanation": "このかばんは私のです (kono kaban wa watashi no desu) = 'Esta cartera es mía'. この = este/esta (adjetivo demostrativo), かばん = cartera (sustantivo que modifica この), は = partícula de tema, 私の = mío/de mí, です = es. Notá cómo この va directamente antes del sustantivo que modifica.",
-      "cardRef": { "category": "grammar", "front": "このかばんは私のです" }
+      "explanation": "このかばんは私のです (kono kaban wa watashi no desu) = 'Esta cartera es mía'. この = este/esta (adjetivo demostrativo), かばん = cartera (sustantivo que modifica この), は = partícula de tema, 私の = mío/de mí, です = es. Notá cómo この va directamente antes del sustantivo que modifica."
     }
   ],
   "steps": [
@@ -47,46 +44,107 @@
       "type": "introduce",
       "title": "El sistema ko-so-a-do",
       "instruction": "El japonés tiene un sistema elegante de tres distancias: ko- (cerca del hablante), so- (cerca del oyente o distancia media), a- (lejos de ambos) y do- (pregunta). Este sistema aplica a pronombres (これ/それ/あれ/どれ), adjetivos (この/その/あの/どの), lugares (ここ/そこ/あそこ/どこ) y más. Hoy vemos las dos series más usadas.",
-      "itemIndices": [0, 1]
+      "itemIndices": [
+        0,
+        1
+      ]
     },
     {
       "type": "introduce",
       "title": "Pronombres vs adjetivos y formas formales",
       "instruction": "La diferencia clave: これ/それ/あれ son pronombres (van solos, reemplazan al sustantivo) — 'これは本です'. この/その/あの son adjetivos (siempre van antes de un sustantivo) — 'この本は...'. こちら/そちら/あちら son las formas formales para presentar personas y dar direcciones.",
-      "itemIndices": [2, 3, 4]
+      "itemIndices": [
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "recognize",
       "title": "¿Pronombre o adjetivo demostrativo?",
       "instruction": "Identificá si el demostrativo es un pronombre (va solo) o un adjetivo (modifica un sustantivo) y cuál es la distancia que indica.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "write",
       "title": "Completá con el demostrativo correcto",
       "instruction": "Ves la oración con un espacio en blanco. Escribí el demostrativo correcto según la distancia indicada y si necesitás pronombre o adjetivo.",
-      "itemIndices": [3, 4]
+      "itemIndices": [
+        3,
+        4
+      ]
     },
     {
       "type": "sentence-build",
       "title": "Armá oraciones demostrativas",
       "instruction": "Ordená las piezas para formar oraciones con demostrativos. Prestá atención a si necesitás pronombre (solo) o adjetivo (con sustantivo).",
-      "itemIndices": [3, 4],
+      "itemIndices": [
+        3,
+        4
+      ],
       "config": {
         "sentences": [
           {
-            "fragments": ["これ", "は", "何", "です", "か"],
-            "correctOrder": [0, 1, 2, 3, 4],
+            "fragments": [
+              "これ",
+              "は",
+              "何",
+              "です",
+              "か"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3,
+              4
+            ],
             "translation": "¿Qué es esto?"
           },
           {
-            "fragments": ["この", "かばん", "は", "私", "の", "です"],
-            "correctOrder": [0, 1, 2, 3, 4, 5],
+            "fragments": [
+              "この",
+              "かばん",
+              "は",
+              "私",
+              "の",
+              "です"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5
+            ],
             "translation": "Esta cartera es mía"
           },
           {
-            "fragments": ["あれ", "は", "田中", "さん", "の", "車", "です"],
-            "correctOrder": [0, 1, 2, 3, 4, 5, 6],
+            "fragments": [
+              "あれ",
+              "は",
+              "田中",
+              "さん",
+              "の",
+              "車",
+              "です"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6
+            ],
             "translation": "Aquello es el auto del señor Tanaka"
           }
         ]
@@ -101,19 +159,59 @@
         "exercises": [
           {
             "template": "（物を手に持って）{0}は何ですか？",
-            "blanks": [{ "answer": "これ", "options": ["これ", "それ", "あれ", "この"] }]
+            "blanks": [
+              {
+                "answer": "これ",
+                "options": [
+                  "これ",
+                  "それ",
+                  "あれ",
+                  "この"
+                ]
+              }
+            ]
           },
           {
             "template": "（遠くの山を見て）{0}山はきれいですね。",
-            "blanks": [{ "answer": "あの", "options": ["この", "その", "あの", "どの"] }]
+            "blanks": [
+              {
+                "answer": "あの",
+                "options": [
+                  "この",
+                  "その",
+                  "あの",
+                  "どの"
+                ]
+              }
+            ]
           },
           {
             "template": "（相手の近くにある物について）{0}本は面白いですか？",
-            "blanks": [{ "answer": "その", "options": ["この", "その", "あの", "それ"] }]
+            "blanks": [
+              {
+                "answer": "その",
+                "options": [
+                  "この",
+                  "その",
+                  "あの",
+                  "それ"
+                ]
+              }
+            ]
           },
           {
             "template": "（どれか分からない時）{0}がいいですか？",
-            "blanks": [{ "answer": "どれ", "options": ["これ", "それ", "あれ", "どれ"] }]
+            "blanks": [
+              {
+                "answer": "どれ",
+                "options": [
+                  "これ",
+                  "それ",
+                  "あれ",
+                  "どれ"
+                ]
+              }
+            ]
           }
         ]
       }
@@ -122,13 +220,25 @@
       "type": "recall",
       "title": "Recordá el demostrativo",
       "instruction": "Ves la descripción en español. Recordá el demostrativo japonés correcto (pronombre o adjetivo, distancia correcta).",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "summary",
       "title": "¡Lección completa!",
       "instruction": "Aprendiste el sistema ko-so-a-do: これ/それ/あれ/どれ (pronombres — van solos) y この/その/あの/どの (adjetivos — siempre con sustantivo). Las distancias: ko- cerca del hablante, so- cerca del oyente, a- lejos de ambos, do- pregunta. Y las formas formales こちら/そちら/あちら para presentaciones y direcciones. Es un sistema muy regular — una vez que lo entendés, lo usás en muchos contextos.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     }
   ]
 }

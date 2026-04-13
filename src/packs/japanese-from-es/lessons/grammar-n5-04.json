@@ -9,43 +9,37 @@
       "front": "食べます",
       "back": "como / I eat (polite)",
       "reading": "たべます",
-      "explanation": "食べます (tabemasu) es la forma educada de 食べる (taberu = comer). Los verbos る (ichidan) simplemente reemplazan る por ます: 食べる → 食べます.",
-      "cardRef": { "category": "grammar", "front": "食べます" }
+      "explanation": "食べます (tabemasu) es la forma educada de 食べる (taberu = comer). Los verbos る (ichidan) simplemente reemplazan る por ます: 食べる → 食べます."
     },
     {
       "front": "飲みます",
       "back": "bebo / I drink (polite)",
       "reading": "のみます",
-      "explanation": "飲みます (nomimasu) es la forma educada de 飲む (nomu = beber). Los verbos う (godan) cambian la última sílaba a la columna い y agregan ます: 飲む → 飲み + ます.",
-      "cardRef": { "category": "grammar", "front": "飲みます" }
+      "explanation": "飲みます (nomimasu) es la forma educada de 飲む (nomu = beber). Los verbos う (godan) cambian la última sílaba a la columna い y agregan ます: 飲む → 飲み + ます."
     },
     {
       "front": "行きます",
       "back": "voy / I go (polite)",
       "reading": "いきます",
-      "explanation": "行きます (ikimasu) es la forma educada de 行く (iku = ir). Verbo godan: く → き + ます. 行く es uno de los verbos más usados del japonés.",
-      "cardRef": { "category": "grammar", "front": "行きます" }
+      "explanation": "行きます (ikimasu) es la forma educada de 行く (iku = ir). Verbo godan: く → き + ます. 行く es uno de los verbos más usados del japonés."
     },
     {
       "front": "来ます",
       "back": "vengo / I come (polite)",
       "reading": "きます",
-      "explanation": "来ます (kimasu) es la forma educada de 来る (kuru = venir). 来る es uno de los dos verbos irregulares del japonés. Su conjugación no sigue ningún patrón regular: 来る → 来ます.",
-      "cardRef": { "category": "grammar", "front": "来ます" }
+      "explanation": "来ます (kimasu) es la forma educada de 来る (kuru = venir). 来る es uno de los dos verbos irregulares del japonés. Su conjugación no sigue ningún patrón regular: 来る → 来ます."
     },
     {
       "front": "します",
       "back": "hago / I do (polite)",
       "reading": "します",
-      "explanation": "します (shimasu) es la forma educada de する (suru = hacer). する es el otro verbo irregular del japonés. Se usa muchísimo, también para formar verbos compuestos: 勉強する (benkyou suru = estudiar).",
-      "cardRef": { "category": "grammar", "front": "します" }
+      "explanation": "します (shimasu) es la forma educada de する (suru = hacer). する es el otro verbo irregular del japonés. Se usa muchísimo, también para formar verbos compuestos: 勉強する (benkyou suru = estudiar)."
     },
     {
       "front": "見ます",
       "back": "veo / I see (polite)",
       "reading": "みます",
-      "explanation": "見ます (mimasu) es la forma educada de 見る (miru = ver). Otro verbo ichidan: 見る → 見ます. Se usa para 'ver', 'mirar' y 'observar'.",
-      "cardRef": { "category": "grammar", "front": "見ます" }
+      "explanation": "見ます (mimasu) es la forma educada de 見る (miru = ver). Otro verbo ichidan: 見る → 見ます. Se usa para 'ver', 'mirar' y 'observar'."
     }
   ],
   "steps": [
@@ -53,40 +47,87 @@
       "type": "introduce",
       "title": "¿Qué es la forma ます?",
       "instruction": "La forma ます es la conjugación educada (formal) de los verbos. Es la primera forma que se aprende porque es la que usás con desconocidos, en el trabajo y en situaciones formales. Hay dos tipos de verbos regulares: ichidan (る) y godan (う), más dos irregulares (する y 来る).",
-      "itemIndices": [0, 1, 2]
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
     },
     {
       "type": "introduce",
       "title": "Verbos irregulares y más ejemplos",
       "instruction": "来る (kuru) y する (suru) son los únicos dos verbos irregulares del japonés. Memorízalos tal cual. 見る es ichidan como 食べる: simplemente cambiás る por ます.",
-      "itemIndices": [3, 4, 5]
+      "itemIndices": [
+        3,
+        4,
+        5
+      ]
     },
     {
       "type": "recognize",
       "title": "¿Qué significa cada verbo?",
       "instruction": "Elegí la traducción correcta para cada verbo en forma ます.",
-      "itemIndices": [0, 1, 2, 3, 4, 5]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
     },
     {
       "type": "sentence-build",
       "title": "Armá la oración",
       "instruction": "Ordená las piezas para formar oraciones con verbos en forma ます.",
-      "itemIndices": [0, 2, 4],
+      "itemIndices": [
+        0,
+        2,
+        4
+      ],
       "config": {
         "sentences": [
           {
-            "fragments": ["私", "は", "ごはん", "を", "食べます"],
-            "correctOrder": [0, 1, 2, 3, 4],
+            "fragments": [
+              "私",
+              "は",
+              "ごはん",
+              "を",
+              "食べます"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3,
+              4
+            ],
             "translation": "Yo como arroz"
           },
           {
-            "fragments": ["学校", "に", "行きます"],
-            "correctOrder": [0, 1, 2],
+            "fragments": [
+              "学校",
+              "に",
+              "行きます"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2
+            ],
             "translation": "Voy a la escuela"
           },
           {
-            "fragments": ["勉強", "を", "します"],
-            "correctOrder": [0, 1, 2],
+            "fragments": [
+              "勉強",
+              "を",
+              "します"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2
+            ],
             "translation": "Estudio (hago estudio)"
           }
         ]
@@ -96,13 +137,27 @@
       "type": "recall",
       "title": "Del español al japonés",
       "instruction": "Ves el significado en español. Recordá el verbo en forma ます.",
-      "itemIndices": [0, 1, 2, 3, 4, 5]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
     },
     {
       "type": "summary",
       "title": "¡Lección completa!",
       "instruction": "Aprendiste la forma ます de 6 verbos fundamentales. Recordá: ichidan (る→ます), godan (última sílaba a columna い + ます), e irregulares (する→します, 来る→来ます). Estos verbos van a aparecer en tus repasos diarios.",
-      "itemIndices": [0, 1, 2, 3, 4, 5]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
     }
   ]
 }

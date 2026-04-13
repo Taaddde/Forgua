@@ -9,36 +9,31 @@
       "front": "食べたい",
       "back": "quiero comer / I want to eat",
       "reading": "たべたい",
-      "explanation": "食べたい (tabetai) significa 'quiero comer'. Se forma con la raíz ます (食べ) + たい. たい se conjuga como un adjetivo い: 食べたくない (no quiero comer), 食べたかった (quería comer). Solo se usa para tus propios deseos, nunca para terceras personas.",
-      "cardRef": { "category": "grammar", "front": "食べたい" }
+      "explanation": "食べたい (tabetai) significa 'quiero comer'. Se forma con la raíz ます (食べ) + たい. たい se conjuga como un adjetivo い: 食べたくない (no quiero comer), 食べたかった (quería comer). Solo se usa para tus propios deseos, nunca para terceras personas."
     },
     {
       "front": "行きたい",
       "back": "quiero ir / I want to go",
       "reading": "いきたい",
-      "explanation": "行きたい (ikitai) significa 'quiero ir'. Raíz ます de 行きます (行き) + たい. '日本に行きたい' = 'Quiero ir a Japón'. El objeto puede marcarse con が o を: 水が飲みたい / 水を飲みたい (quiero tomar agua).",
-      "cardRef": { "category": "grammar", "front": "行きたい" }
+      "explanation": "行きたい (ikitai) significa 'quiero ir'. Raíz ます de 行きます (行き) + たい. '日本に行きたい' = 'Quiero ir a Japón'. El objeto puede marcarse con が o を: 水が飲みたい / 水を飲みたい (quiero tomar agua)."
     },
     {
       "front": "飲みたくない",
       "back": "no quiero beber / I don't want to drink",
       "reading": "のみたくない",
-      "explanation": "飲みたくない (nomitakunai) significa 'no quiero beber'. Como たい es un adjetivo い, se niega igual: たい → たくない. 'お酒を飲みたくない' = 'No quiero beber alcohol'.",
-      "cardRef": { "category": "grammar", "front": "飲みたくない" }
+      "explanation": "飲みたくない (nomitakunai) significa 'no quiero beber'. Como たい es un adjetivo い, se niega igual: たい → たくない. 'お酒を飲みたくない' = 'No quiero beber alcohol'."
     },
     {
       "front": "食べましょう",
       "back": "comamos / let's eat",
       "reading": "たべましょう",
-      "explanation": "食べましょう (tabemashou) significa 'comamos' o 'vamos a comer'. Se forma cambiando ます por ましょう. Es una invitación o propuesta: '一緒に食べましょう' = 'Comamos juntos'. Es educado y amigable.",
-      "cardRef": { "category": "grammar", "front": "食べましょう" }
+      "explanation": "食べましょう (tabemashou) significa 'comamos' o 'vamos a comer'. Se forma cambiando ます por ましょう. Es una invitación o propuesta: '一緒に食べましょう' = 'Comamos juntos'. Es educado y amigable."
     },
     {
       "front": "行きましょう",
       "back": "vayamos / let's go",
       "reading": "いきましょう",
-      "explanation": "行きましょう (ikimashou) significa 'vayamos' o 'vamos'. ます → ましょう. 'カラオケに行きましょう' = 'Vayamos al karaoke'. Para preguntar '¿vamos?', podés agregar か: 行きましょうか.",
-      "cardRef": { "category": "grammar", "front": "行きましょう" }
+      "explanation": "行きましょう (ikimashou) significa 'vayamos' o 'vamos'. ます → ましょう. 'カラオケに行きましょう' = 'Vayamos al karaoke'. Para preguntar '¿vamos?', podés agregar か: 行きましょうか."
     }
   ],
   "steps": [
@@ -46,40 +41,83 @@
       "type": "introduce",
       "title": "〜たい: expresar deseos",
       "instruction": "Para decir 'quiero hacer algo', usás la raíz ます del verbo + たい. La raíz ます es lo que queda cuando sacás ます: 食べます → 食べ, 行きます → 行き. たい se comporta como un adjetivo い, así que se conjuga igual: たくない (no quiero), たかった (quería).",
-      "itemIndices": [0, 1, 2]
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
     },
     {
       "type": "introduce",
       "title": "〜ましょう: proponer actividades",
       "instruction": "Para decir 'hagamos algo' o proponer una actividad, cambiás ます por ましょう. Es como el 'let's' del inglés o el 'vamos a' del español. Es una forma educada y amigable de sugerir algo.",
-      "itemIndices": [3, 4]
+      "itemIndices": [
+        3,
+        4
+      ]
     },
     {
       "type": "recognize",
       "title": "¿Deseo o propuesta?",
       "instruction": "Identificá si la oración expresa un deseo personal (たい) o una propuesta grupal (ましょう).",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "sentence-build",
       "title": "Armá la oración",
       "instruction": "Ordená las piezas para formar oraciones que expresen deseos o propuestas.",
-      "itemIndices": [0, 1, 3],
+      "itemIndices": [
+        0,
+        1,
+        3
+      ],
       "config": {
         "sentences": [
           {
-            "fragments": ["日本", "に", "行きたい", "です"],
-            "correctOrder": [0, 1, 2, 3],
+            "fragments": [
+              "日本",
+              "に",
+              "行きたい",
+              "です"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
             "translation": "Quiero ir a Japón"
           },
           {
-            "fragments": ["一緒に", "食べましょう"],
-            "correctOrder": [0, 1],
+            "fragments": [
+              "一緒に",
+              "食べましょう"
+            ],
+            "correctOrder": [
+              0,
+              1
+            ],
             "translation": "Comamos juntos"
           },
           {
-            "fragments": ["ラーメン", "を", "食べたい", "です"],
-            "correctOrder": [0, 1, 2, 3],
+            "fragments": [
+              "ラーメン",
+              "を",
+              "食べたい",
+              "です"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
             "translation": "Quiero comer ramen"
           }
         ]
@@ -89,13 +127,25 @@
       "type": "recall",
       "title": "Expresá el deseo o la propuesta",
       "instruction": "Ves la oración en español. Recordá cómo se dice en japonés usando たい o ましょう.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "summary",
       "title": "¡Lección completa!",
       "instruction": "Aprendiste dos formas clave: raíz ます + たい para expresar deseos ('quiero comer' = 食べたい) y ます → ましょう para propuestas ('comamos' = 食べましょう). Recordá: たい solo se usa para tus propios deseos y se conjuga como adjetivo い.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     }
   ]
 }

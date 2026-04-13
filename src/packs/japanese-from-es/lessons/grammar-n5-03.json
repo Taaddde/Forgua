@@ -10,35 +10,42 @@
       "back": "partícula de tema",
       "reading": "wa",
       "explanation": "Marca el TEMA de la oración. 'En cuanto a X...' → 私は = 'En cuanto a mí...'",
-      "cardRef": { "category": "grammar", "front": "は（partícula） ([tema] + は + [comentario])" }
+      "cardRef": {
+        "category": "grammar",
+        "front": "は（partícula） ([tema] + は + [comentario])"
+      }
     },
     {
       "front": "を",
       "back": "partícula de objeto directo",
       "reading": "o",
       "explanation": "Marca el OBJETO del verbo. ごはんを食べる = 'comer arroz' (arroz es el objeto).",
-      "cardRef": { "category": "grammar", "front": "を（partícula） ([objeto directo] + を + [verbo])" }
+      "cardRef": {
+        "category": "grammar",
+        "front": "を（partícula） ([objeto directo] + を + [verbo])"
+      }
     },
     {
       "front": "に",
       "back": "partícula de dirección/tiempo",
       "reading": "ni",
       "explanation": "Marca DESTINO, TIEMPO, o DESTINATARIO. 学校に行く = 'ir a la escuela'.",
-      "cardRef": { "category": "grammar", "front": "に（partícula） ([destino/tiempo/lugar] + に)" }
+      "cardRef": {
+        "category": "grammar",
+        "front": "に（partícula） ([destino/tiempo/lugar] + に)"
+      }
     },
     {
       "front": "私はごはんを食べます",
       "back": "Yo como arroz",
       "reading": "watashi wa gohan wo tabemasu",
-      "explanation": "Estructura SOV completa: Sujeto(私) は Objeto(ごはん) を Verbo(食べます).",
-      "cardRef": { "category": "grammar", "front": "XはYをVます" }
+      "explanation": "Estructura SOV completa: Sujeto(私) は Objeto(ごはん) を Verbo(食べます)."
     },
     {
       "front": "友だちに会います",
       "back": "Me encuentro con un amigo",
       "reading": "tomodachi ni aimasu",
-      "explanation": "に marca la persona con quien te encontrás. El sujeto (私) se omite porque es obvio.",
-      "cardRef": { "category": "grammar", "front": "XにVます" }
+      "explanation": "に marca la persona con quien te encontrás. El sujeto (私) se omite porque es obvio."
     }
   ],
   "steps": [
@@ -46,40 +53,82 @@
       "type": "introduce",
       "title": "Las 3 partículas esenciales",
       "instruction": "Las partículas son como señales de tránsito: indican la función de cada palabra en la oración. Son la clave para entender y producir japonés.",
-      "itemIndices": [0, 1, 2]
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
     },
     {
       "type": "introduce",
       "title": "Oraciones de ejemplo",
       "instruction": "Mirá cómo se combinan las partículas para formar oraciones completas.",
-      "itemIndices": [3, 4]
+      "itemIndices": [
+        3,
+        4
+      ]
     },
     {
       "type": "recognize",
       "title": "¿Qué partícula va?",
       "instruction": "Elegí la partícula correcta para completar cada oración.",
-      "itemIndices": [0, 1, 2]
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
     },
     {
       "type": "sentence-build",
       "title": "Armá la oración",
       "instruction": "Arrastrá las piezas para formar la oración correcta.",
-      "itemIndices": [3, 4],
+      "itemIndices": [
+        3,
+        4
+      ],
       "config": {
         "sentences": [
           {
-            "fragments": ["私", "は", "ごはん", "を", "食べます"],
-            "correctOrder": [0, 1, 2, 3, 4],
+            "fragments": [
+              "私",
+              "は",
+              "ごはん",
+              "を",
+              "食べます"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3,
+              4
+            ],
             "translation": "Yo como arroz"
           },
           {
-            "fragments": ["友だち", "に", "会います"],
-            "correctOrder": [0, 1, 2],
+            "fragments": [
+              "友だち",
+              "に",
+              "会います"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2
+            ],
             "translation": "Me encuentro con un amigo"
           },
           {
-            "fragments": ["学校", "に", "行きます"],
-            "correctOrder": [0, 1, 2],
+            "fragments": [
+              "学校",
+              "に",
+              "行きます"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2
+            ],
             "translation": "Voy a la escuela"
           }
         ]
@@ -89,13 +138,22 @@
       "type": "recall",
       "title": "Producí la oración",
       "instruction": "Ves la traducción en español. Escribí la oración en japonés.",
-      "itemIndices": [3, 4]
+      "itemIndices": [
+        3,
+        4
+      ]
     },
     {
       "type": "summary",
       "title": "¡Ya podés hacer oraciones!",
       "instruction": "Ahora entendés la estructura básica SOV del japonés y las partículas は, を, に. Con estas herramientas podés construir cientos de oraciones.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     }
   ]
 }

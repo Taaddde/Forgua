@@ -9,36 +9,31 @@
       "front": "あげる",
       "back": "dar (yo/alguien → otro) / to give (to someone)",
       "reading": "あげる",
-      "explanation": "あげる (ageru) se usa cuando VOS (o alguien de tu grupo) das algo a OTRO. La dirección es siempre 'de mí hacia afuera'. Ejemplo: 友達にプレゼントをあげる (le doy un regalo a mi amigo). Nunca se usa para algo que te dan a vos.",
-      "cardRef": { "category": "grammar", "front": "あげる" }
+      "explanation": "あげる (ageru) se usa cuando VOS (o alguien de tu grupo) das algo a OTRO. La dirección es siempre 'de mí hacia afuera'. Ejemplo: 友達にプレゼントをあげる (le doy un regalo a mi amigo). Nunca se usa para algo que te dan a vos."
     },
     {
       "front": "もらう",
       "back": "recibir / to receive",
       "reading": "もらう",
-      "explanation": "もらう (morau) se usa cuando VOS (o alguien de tu grupo) RECIBÍS algo. La dirección es 'de afuera hacia mí'. Ejemplo: 友達にプレゼントをもらう (recibo un regalo de mi amigo). Fijate: に marca de quién recibís.",
-      "cardRef": { "category": "grammar", "front": "もらう" }
+      "explanation": "もらう (morau) se usa cuando VOS (o alguien de tu grupo) RECIBÍS algo. La dirección es 'de afuera hacia mí'. Ejemplo: 友達にプレゼントをもらう (recibo un regalo de mi amigo). Fijate: に marca de quién recibís."
     },
     {
       "front": "くれる",
       "back": "dar (otro → yo) / to give (to me/us)",
       "reading": "くれる",
-      "explanation": "くれる (kureru) se usa cuando OTRO te da algo a VOS. Es como もらう pero visto desde el lado del que da. Ejemplo: 友達がプレゼントをくれた (mi amigo me dio un regalo). Tiene un matiz de gratitud — reconocés el favor del otro.",
-      "cardRef": { "category": "grammar", "front": "くれる" }
+      "explanation": "くれる (kureru) se usa cuando OTRO te da algo a VOS. Es como もらう pero visto desde el lado del que da. Ejemplo: 友達がプレゼントをくれた (mi amigo me dio un regalo). Tiene un matiz de gratitud — reconocés el favor del otro."
     },
     {
       "front": "教えてあげる",
       "back": "enseñarle (hacerle el favor de enseñar) / to teach (as a favor)",
       "reading": "おしえてあげる",
-      "explanation": "教えてあげる (oshiete ageru) = 'enseñarle (como favor)'. Cuando combinás te-form + あげる, indicás que hacés una acción COMO FAVOR para otro. Cuidado: puede sonar condescendiente si lo usás mucho.",
-      "cardRef": { "category": "grammar", "front": "教えてあげる" }
+      "explanation": "教えてあげる (oshiete ageru) = 'enseñarle (como favor)'. Cuando combinás te-form + あげる, indicás que hacés una acción COMO FAVOR para otro. Cuidado: puede sonar condescendiente si lo usás mucho."
     },
     {
       "front": "教えてもらう",
       "back": "que me enseñen (recibir el favor de que me enseñen) / to have someone teach me",
       "reading": "おしえてもらう",
-      "explanation": "教えてもらう (oshiete morau) = 'que me enseñen (recibir ese favor)'. Te-form + もらう indica que recibís el favor de una acción. Es muy educado porque reconocés que el otro hace algo por vos. Ejemplo: 先生に教えてもらった (el profesor me enseñó [y se lo agradezco]).",
-      "cardRef": { "category": "grammar", "front": "教えてもらう" }
+      "explanation": "教えてもらう (oshiete morau) = 'que me enseñen (recibir ese favor)'. Te-form + もらう indica que recibís el favor de una acción. Es muy educado porque reconocés que el otro hace algo por vos. Ejemplo: 先生に教えてもらった (el profesor me enseñó [y se lo agradezco])."
     }
   ],
   "steps": [
@@ -46,40 +41,93 @@
       "type": "introduce",
       "title": "El triángulo de dar y recibir",
       "instruction": "En japonés hay 3 verbos donde en español usamos solo 'dar' y 'recibir'. La clave es la DIRECCIÓN: あげる (yo→otro), もらう (yo←otro, yo recibo), くれる (otro→yo, otro me da). Pensalo como flechas: ¿de dónde sale y a dónde llega?",
-      "itemIndices": [0, 1, 2]
+      "itemIndices": [
+        0,
+        1,
+        2
+      ]
     },
     {
       "type": "introduce",
       "title": "Favores con て + あげる/もらう",
       "instruction": "Cuando combinás la te-form de un verbo + あげる o もらう, expresás FAVORES. 教えてあげる = 'le enseño (como favor)'. 教えてもらう = 'me enseñan (y lo agradezco)'. Este sistema es clave para la cortesía japonesa.",
-      "itemIndices": [3, 4]
+      "itemIndices": [
+        3,
+        4
+      ]
     },
     {
       "type": "recognize",
       "title": "¿Quién da a quién?",
       "instruction": "Elegí el significado correcto. Prestá atención a la dirección: ¿quién da y quién recibe?",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "sentence-build",
       "title": "Armá la oración",
       "instruction": "Arrastrá las piezas para formar oraciones con あげる, もらう y くれる.",
-      "itemIndices": [0, 1, 2],
+      "itemIndices": [
+        0,
+        1,
+        2
+      ],
       "config": {
         "sentences": [
           {
-            "fragments": ["友達", "に", "プレゼント", "を", "あげる"],
-            "correctOrder": [0, 1, 2, 3, 4],
+            "fragments": [
+              "友達",
+              "に",
+              "プレゼント",
+              "を",
+              "あげる"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3,
+              4
+            ],
             "translation": "Le doy un regalo a mi amigo"
           },
           {
-            "fragments": ["友達", "に", "プレゼント", "を", "もらう"],
-            "correctOrder": [0, 1, 2, 3, 4],
+            "fragments": [
+              "友達",
+              "に",
+              "プレゼント",
+              "を",
+              "もらう"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3,
+              4
+            ],
             "translation": "Recibo un regalo de mi amigo"
           },
           {
-            "fragments": ["友達", "が", "プレゼント", "を", "くれた"],
-            "correctOrder": [0, 1, 2, 3, 4],
+            "fragments": [
+              "友達",
+              "が",
+              "プレゼント",
+              "を",
+              "くれた"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3,
+              4
+            ],
             "translation": "Mi amigo me dio un regalo"
           }
         ]
@@ -89,13 +137,25 @@
       "type": "recall",
       "title": "Elegí el verbo correcto",
       "instruction": "Ves la situación en español. Escribí la oración en japonés con el verbo de dar/recibir correcto.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "summary",
       "title": "¡Sistema de dar/recibir dominado!",
       "instruction": "Aprendiste el triángulo あげる (yo→otro), もらう (yo←otro), くれる (otro→yo), y cómo combinarlos con te-form para expresar favores. Este sistema es único del japonés y esencial para la cortesía. Van a aparecer en tus repasos.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     }
   ]
 }

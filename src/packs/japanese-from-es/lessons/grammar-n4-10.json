@@ -4,42 +4,39 @@
   "description": "Aprendé a expresar esfuerzo por cambiar una conducta (ようにする) y cambios graduales que lográs con el tiempo (ようになる). Dos estructuras esenciales para hablar de progreso.",
   "level": "n4",
   "category": "grammar",
-  "prerequisites": ["grammar-n4-01"],
+  "prerequisites": [
+    "grammar-n4-01"
+  ],
   "items": [
     {
       "front": "〜ようにする",
       "back": "esforzarse por hacer... / procurar hacer... (cambio voluntario)",
       "reading": "you ni suru",
-      "explanation": "〜ようにする (yō ni suru) expresa un esfuerzo VOLUNTARIO por cambiar una conducta o establecer un hábito. Se forma: plain form del verbo + ようにする. Ejemplo: 毎日運動するようにしています (me esfuerzo por hacer ejercicio cada día). Implica que todavía no es automático — estás trabajando en eso. Para la negativa: 〜ないようにする (esforzarse por no hacer).",
-      "cardRef": { "category": "grammar", "front": "〜ようにする" }
+      "explanation": "〜ようにする (yō ni suru) expresa un esfuerzo VOLUNTARIO por cambiar una conducta o establecer un hábito. Se forma: plain form del verbo + ようにする. Ejemplo: 毎日運動するようにしています (me esfuerzo por hacer ejercicio cada día). Implica que todavía no es automático — estás trabajando en eso. Para la negativa: 〜ないようにする (esforzarse por no hacer)."
     },
     {
       "front": "〜ようになる",
       "back": "llegar a poder/hacer... / empezar a... (cambio gradual)",
       "reading": "you ni naru",
-      "explanation": "〜ようになる (yō ni naru) expresa un CAMBIO GRADUAL — algo que antes no podías o no hacías, y ahora sí. Se forma: plain form del verbo + ようになる. Ejemplo: 日本語が話せるようになりました (llegué a poder hablar japonés). No implica esfuerzo directo — describe el resultado de un proceso. Es el equivalente de 'con el tiempo llegué a...'",
-      "cardRef": { "category": "grammar", "front": "〜ようになる" }
+      "explanation": "〜ようになる (yō ni naru) expresa un CAMBIO GRADUAL — algo que antes no podías o no hacías, y ahora sí. Se forma: plain form del verbo + ようになる. Ejemplo: 日本語が話せるようになりました (llegué a poder hablar japonés). No implica esfuerzo directo — describe el resultado de un proceso. Es el equivalente de 'con el tiempo llegué a...'"
     },
     {
       "front": "毎日運動するようにしています",
       "back": "Me esfuerzo por hacer ejercicio cada día",
       "reading": "まいにちうんどうするようにしています",
-      "explanation": "運動するようにしています: 運動する (plain form) + ようにしています (presente continuo, indica esfuerzo habitual). El ています aquí indica que es un esfuerzo continuo, no puntual. Comparado con 運動しています (estoy haciendo ejercicio — estado), ようにしています agrega el matiz de 'me lo propongo conscientemente'.",
-      "cardRef": { "category": "grammar", "front": "毎日運動するようにしています" }
+      "explanation": "運動するようにしています: 運動する (plain form) + ようにしています (presente continuo, indica esfuerzo habitual). El ています aquí indica que es un esfuerzo continuo, no puntual. Comparado con 運動しています (estoy haciendo ejercicio — estado), ようにしています agrega el matiz de 'me lo propongo conscientemente'."
     },
     {
       "front": "日本語が話せるようになりました",
       "back": "Llegué a poder hablar japonés",
       "reading": "にほんごがはなせるようになりました",
-      "explanation": "話せるようになりました: 話せる (potencial) + ようになりました (cambio completado). La combinación de potencial + ようになる es muy frecuente para hablar de habilidades adquiridas. Ojo: ようになりました (pasado) indica que el cambio ya ocurrió. ようになります (presente) o ようになっている es más raro.",
-      "cardRef": { "category": "grammar", "front": "日本語が話せるようになりました" }
+      "explanation": "話せるようになりました: 話せる (potencial) + ようになりました (cambio completado). La combinación de potencial + ようになる es muy frecuente para hablar de habilidades adquiridas. Ojo: ようになりました (pasado) indica que el cambio ya ocurrió. ようになります (presente) o ようになっている es más raro."
     },
     {
       "front": "漢字が読めるようになる",
       "back": "Llegar a poder leer kanji",
       "reading": "かんじがよめるようになる",
-      "explanation": "読めるようになる: 読める (potencial) + ようになる. Este ejemplo en presente expresa un proceso o meta: 'voy a llegar a poder leer kanji'. Si usás ようになった, ya lo lograste. Si usás ようになる, todavía es un objetivo. Una estructura muy útil para hablar de metas de aprendizaje.",
-      "cardRef": { "category": "grammar", "front": "漢字が読めるようになる" }
+      "explanation": "読めるようになる: 読める (potencial) + ようになる. Este ejemplo en presente expresa un proceso o meta: 'voy a llegar a poder leer kanji'. Si usás ようになった, ya lo lograste. Si usás ようになる, todavía es un objetivo. Una estructura muy útil para hablar de metas de aprendizaje."
     }
   ],
   "steps": [
@@ -47,46 +44,101 @@
       "type": "introduce",
       "title": "ようにする: el esfuerzo consciente",
       "instruction": "ようにする dice 'me esfuerzo por hacer X' — es un acto de voluntad. Se usa para hábitos que estás intentando establecer o conductas que querés cambiar: 毎日運動するようにしています (me esfuerzo por hacer ejercicio cada día). Para lo que querés EVITAR: お菓子を食べないようにしています (me esfuerzo por no comer golosinas).",
-      "itemIndices": [0, 2]
+      "itemIndices": [
+        0,
+        2
+      ]
     },
     {
       "type": "introduce",
       "title": "ようになる: el cambio gradual",
       "instruction": "ようになる describe un cambio que ocurrió CON EL TIEMPO, sin necesariamente describir el esfuerzo. 日本語が話せるようになりました = llegué a poder hablar japonés (después de un proceso). Es el 'before & after' del aprendizaje. Con el potencial es muy común: 〜できるようになる (llegar a poder hacer).",
-      "itemIndices": [1, 3, 4]
+      "itemIndices": [
+        1,
+        3,
+        4
+      ]
     },
     {
       "type": "recognize",
       "title": "¿Esfuerzo o cambio?",
       "instruction": "Elegí el significado correcto. Fijate si expresa un esfuerzo voluntario o un cambio gradual alcanzado.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "write",
       "title": "Escribí con ようにする o ようになる",
       "instruction": "Ves la oración en español. Escribí en japonés con la estructura correcta.",
-      "itemIndices": [0, 1, 2, 3]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
     },
     {
       "type": "sentence-build",
       "title": "Armá oraciones de cambio y esfuerzo",
       "instruction": "Arrastrá las piezas para formar oraciones con ようにする y ようになる.",
-      "itemIndices": [0, 1, 2, 3],
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ],
       "config": {
         "sentences": [
           {
-            "fragments": ["毎日", "運動する", "ようにして", "います"],
-            "correctOrder": [0, 1, 2, 3],
+            "fragments": [
+              "毎日",
+              "運動する",
+              "ようにして",
+              "います"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
             "translation": "Me esfuerzo por hacer ejercicio cada día"
           },
           {
-            "fragments": ["日本語", "が", "話せる", "ようになりました"],
-            "correctOrder": [0, 1, 2, 3],
+            "fragments": [
+              "日本語",
+              "が",
+              "話せる",
+              "ようになりました"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
             "translation": "Llegué a poder hablar japonés"
           },
           {
-            "fragments": ["お菓子", "を", "食べない", "ようにして", "います"],
-            "correctOrder": [0, 1, 2, 3, 4],
+            "fragments": [
+              "お菓子",
+              "を",
+              "食べない",
+              "ようにして",
+              "います"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3,
+              4
+            ],
             "translation": "Me esfuerzo por no comer golosinas"
           }
         ]
@@ -167,13 +219,25 @@
       "type": "recall",
       "title": "Producí la estructura correcta",
       "instruction": "Ves la situación en español. Escribí en japonés con ようにする o ようになる.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "summary",
       "title": "¡Cambio de estado dominado!",
       "instruction": "Aprendiste la diferencia entre 〜ようにする (esfuerzo voluntario — 'me propongo hacer X', hábito en construcción) y 〜ようになる (cambio gradual logrado — 'llegué a poder hacer X'). ようにする = vos controlás el proceso. ようになる = el resultado habla solo. Combinados con el potencial (〜できるようになる) son perfectos para hablar de tu progreso en japonés.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     }
   ]
 }

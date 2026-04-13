@@ -9,36 +9,31 @@
       "front": "大きい",
       "back": "grande / big (presente)",
       "reading": "おおきい",
-      "explanation": "大きい (ookii) es un adjetivo い en su forma base (presente afirmativo). Los adjetivos い terminan siempre en い y se conjugan cambiando esa terminación. 'この家は大きいです' = 'Esta casa es grande'.",
-      "cardRef": { "category": "grammar", "front": "大きい" }
+      "explanation": "大きい (ookii) es un adjetivo い en su forma base (presente afirmativo). Los adjetivos い terminan siempre en い y se conjugan cambiando esa terminación. 'この家は大きいです' = 'Esta casa es grande'."
     },
     {
       "front": "大きくない",
       "back": "no es grande / not big",
       "reading": "おおきくない",
-      "explanation": "大きくない (ookikunai) es la forma negativa. Regla: sacás い y ponés くない. 大きい → 大きくない. 'この部屋は大きくないです' = 'Esta habitación no es grande'.",
-      "cardRef": { "category": "grammar", "front": "大きくない" }
+      "explanation": "大きくない (ookikunai) es la forma negativa. Regla: sacás い y ponés くない. 大きい → 大きくない. 'この部屋は大きくないです' = 'Esta habitación no es grande'."
     },
     {
       "front": "大きかった",
       "back": "era grande / was big",
       "reading": "おおきかった",
-      "explanation": "大きかった (ookikatta) es la forma pasada. Regla: sacás い y ponés かった. 大きい → 大きかった. 'あの犬は大きかったです' = 'Ese perro era grande'.",
-      "cardRef": { "category": "grammar", "front": "大きかった" }
+      "explanation": "大きかった (ookikatta) es la forma pasada. Regla: sacás い y ponés かった. 大きい → 大きかった. 'あの犬は大きかったです' = 'Ese perro era grande'."
     },
     {
       "front": "大きくなかった",
       "back": "no era grande / wasn't big",
       "reading": "おおきくなかった",
-      "explanation": "大きくなかった (ookikunakatta) es la forma pasada negativa. Regla: sacás い y ponés くなかった. 大きい → 大きくなかった. Pensalo como: くない (negativo) → くなかった (negativo pasado).",
-      "cardRef": { "category": "grammar", "front": "大きくなかった" }
+      "explanation": "大きくなかった (ookikunakatta) es la forma pasada negativa. Regla: sacás い y ponés くなかった. 大きい → 大きくなかった. Pensalo como: くない (negativo) → くなかった (negativo pasado)."
     },
     {
       "front": "高くて",
       "back": "es caro y... / expensive and...",
       "reading": "たかくて",
-      "explanation": "高くて (takakute) es la forma て (te-form) del adjetivo 高い (takai = caro/alto). Regla: sacás い y ponés くて. Se usa para conectar adjetivos: '高くておいしい' = 'Es caro y delicioso'.",
-      "cardRef": { "category": "grammar", "front": "高くて" }
+      "explanation": "高くて (takakute) es la forma て (te-form) del adjetivo 高い (takai = caro/alto). Regla: sacás い y ponés くて. Se usa para conectar adjetivos: '高くておいしい' = 'Es caro y delicioso'."
     }
   ],
   "steps": [
@@ -46,46 +41,101 @@
       "type": "introduce",
       "title": "Los adjetivos い se conjugan",
       "instruction": "A diferencia del español, los adjetivos い del japonés se conjugan como si fueran verbos. La clave está en reemplazar la い final por diferentes terminaciones: くない (negativo), かった (pasado), くなかった (pasado negativo).",
-      "itemIndices": [0, 1, 2, 3]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
     },
     {
       "type": "introduce",
       "title": "La forma て de los adjetivos",
       "instruction": "La forma て (くて) sirve para conectar adjetivos: 'grande y bonito', 'caro y delicioso'. Es como decir 'y' entre adjetivos.",
-      "itemIndices": [4]
+      "itemIndices": [
+        4
+      ]
     },
     {
       "type": "recognize",
       "title": "¿Qué forma es?",
       "instruction": "Identificá si el adjetivo está en presente, negativo, pasado, pasado negativo o forma て.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "recall",
       "title": "Conjugá el adjetivo",
       "instruction": "Ves la forma que necesitás en español. Recordá la conjugación correcta.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "sentence-build",
       "title": "Armá la oración con adjetivos",
       "instruction": "Ordená las piezas para formar oraciones con adjetivos い conjugados.",
-      "itemIndices": [0, 1, 4],
+      "itemIndices": [
+        0,
+        1,
+        4
+      ],
       "config": {
         "sentences": [
           {
-            "fragments": ["この", "家", "は", "大きい", "です"],
-            "correctOrder": [0, 1, 2, 3, 4],
+            "fragments": [
+              "この",
+              "家",
+              "は",
+              "大きい",
+              "です"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3,
+              4
+            ],
             "translation": "Esta casa es grande"
           },
           {
-            "fragments": ["この", "部屋", "は", "大きくない", "です"],
-            "correctOrder": [0, 1, 2, 3, 4],
+            "fragments": [
+              "この",
+              "部屋",
+              "は",
+              "大きくない",
+              "です"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3,
+              4
+            ],
             "translation": "Esta habitación no es grande"
           },
           {
-            "fragments": ["高くて", "おいしい", "です"],
-            "correctOrder": [0, 1, 2],
+            "fragments": [
+              "高くて",
+              "おいしい",
+              "です"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2
+            ],
             "translation": "Es caro y delicioso"
           }
         ]
@@ -95,7 +145,13 @@
       "type": "summary",
       "title": "¡Lección completa!",
       "instruction": "Aprendiste las conjugaciones de los adjetivos い: -い (presente), -くない (negativo), -かった (pasado), -くなかった (pasado negativo), -くて (forma て). Este patrón funciona con TODOS los adjetivos い excepto いい (bueno), que es irregular.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     }
   ]
 }

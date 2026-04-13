@@ -9,29 +9,25 @@
       "front": "の",
       "back": "partícula posesiva / possessive particle",
       "reading": "no",
-      "explanation": "の (no) conecta dos sustantivos mostrando posesión o relación. Funciona como 'de' en español pero al revés: 私の本 = 'mi libro' (literalmente 'yo de libro'). También: 日本の食べ物 = 'comida de Japón'.",
-      "cardRef": { "category": "grammar", "front": "の" }
+      "explanation": "の (no) conecta dos sustantivos mostrando posesión o relación. Funciona como 'de' en español pero al revés: 私の本 = 'mi libro' (literalmente 'yo de libro'). También: 日本の食べ物 = 'comida de Japón'."
     },
     {
       "front": "も",
       "back": "también / also, too",
       "reading": "mo",
-      "explanation": "も (mo) significa 'también'. Reemplaza a は o を cuando querés agregar algo similar: '私は学生です' → '田中さんも学生です' = 'Tanaka también es estudiante'. も toma el lugar de は, no se ponen juntas.",
-      "cardRef": { "category": "grammar", "front": "も" }
+      "explanation": "も (mo) significa 'también'. Reemplaza a は o を cuando querés agregar algo similar: '私は学生です' → '田中さんも学生です' = 'Tanaka también es estudiante'. も toma el lugar de は, no se ponen juntas."
     },
     {
       "front": "私の本",
       "back": "mi libro / my book",
       "reading": "わたしのほん",
-      "explanation": "私の本 (watashi no hon) = 'mi libro'. La estructura es Poseedor + の + Cosa poseída. Otros ejemplos: 先生の車 (sensei no kuruma) = 'el auto del profesor', 友だちの家 (tomodachi no ie) = 'la casa de mi amigo'.",
-      "cardRef": { "category": "grammar", "front": "私の本" }
+      "explanation": "私の本 (watashi no hon) = 'mi libro'. La estructura es Poseedor + の + Cosa poseída. Otros ejemplos: 先生の車 (sensei no kuruma) = 'el auto del profesor', 友だちの家 (tomodachi no ie) = 'la casa de mi amigo'."
     },
     {
       "front": "私も学生です",
       "back": "yo también soy estudiante / I'm also a student",
       "reading": "わたしもがくせいです",
-      "explanation": "私も学生です (watashi mo gakusei desu) = 'Yo también soy estudiante'. Fijate que も reemplazó a は. Si alguien dice '田中さんは学生です' (Tanaka es estudiante), vos respondés '私も学生です' (yo también).",
-      "cardRef": { "category": "grammar", "front": "私も学生です" }
+      "explanation": "私も学生です (watashi mo gakusei desu) = 'Yo también soy estudiante'. Fijate que も reemplazó a は. Si alguien dice '田中さんは学生です' (Tanaka es estudiante), vos respondés '私も学生です' (yo también)."
     }
   ],
   "steps": [
@@ -39,40 +35,82 @@
       "type": "introduce",
       "title": "の: la partícula de posesión",
       "instruction": "の conecta dos sustantivos. El primero es el poseedor y el segundo es lo poseído. Es como 'de' pero al revés: 'mi libro' = 私の本 (yo + の + libro). Funciona para cualquier relación entre sustantivos.",
-      "itemIndices": [0, 2]
+      "itemIndices": [
+        0,
+        2
+      ]
     },
     {
       "type": "introduce",
       "title": "も: la partícula de 'también'",
       "instruction": "も significa 'también' y reemplaza a は (o a veces a を/が). No se acumula con は: es uno u otro. Si decís 'yo también', usás 私も, no 私はも.",
-      "itemIndices": [1, 3]
+      "itemIndices": [
+        1,
+        3
+      ]
     },
     {
       "type": "recognize",
       "title": "¿Qué función cumple la partícula?",
       "instruction": "Identificá el significado correcto de cada expresión con の o も.",
-      "itemIndices": [0, 1, 2, 3]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
     },
     {
       "type": "sentence-build",
       "title": "Armá la oración",
       "instruction": "Ordená las piezas para formar oraciones con の y も.",
-      "itemIndices": [2, 3],
+      "itemIndices": [
+        2,
+        3
+      ],
       "config": {
         "sentences": [
           {
-            "fragments": ["私", "の", "本", "です"],
-            "correctOrder": [0, 1, 2, 3],
+            "fragments": [
+              "私",
+              "の",
+              "本",
+              "です"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
             "translation": "Es mi libro"
           },
           {
-            "fragments": ["先生", "の", "車"],
-            "correctOrder": [0, 1, 2],
+            "fragments": [
+              "先生",
+              "の",
+              "車"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2
+            ],
             "translation": "El auto del profesor"
           },
           {
-            "fragments": ["私", "も", "学生", "です"],
-            "correctOrder": [0, 1, 2, 3],
+            "fragments": [
+              "私",
+              "も",
+              "学生",
+              "です"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3
+            ],
             "translation": "Yo también soy estudiante"
           }
         ]
@@ -82,13 +120,23 @@
       "type": "recall",
       "title": "Usá la partícula correcta",
       "instruction": "Ves la oración en español. Recordá cómo se dice en japonés usando の o も.",
-      "itemIndices": [0, 1, 2, 3]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
     },
     {
       "type": "summary",
       "title": "¡Lección completa!",
       "instruction": "Aprendiste dos partículas muy frecuentes: の para posesión/relación (私の本 = mi libro) y も para 'también' (私も = yo también). Recordá: も reemplaza a は, nunca van juntas.",
-      "itemIndices": [0, 1, 2, 3]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3
+      ]
     }
   ]
 }

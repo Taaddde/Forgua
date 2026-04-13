@@ -4,49 +4,45 @@
   "description": "Aprendé a expresar que hacés que alguien haga algo, o que le permitís hacerlo. La voz causativa es clave para hablar de autoridad, permiso y trabajo en equipo.",
   "level": "n4",
   "category": "grammar",
-  "prerequisites": ["grammar-n4-01"],
+  "prerequisites": [
+    "grammar-n4-01"
+  ],
   "items": [
     {
       "front": "〜させる",
       "back": "hacer que alguien haga / dejar que alguien haga (verbos ichidan)",
       "reading": "saseru",
-      "explanation": "〜させる (saseru) es la forma causativa de los verbos ichidan (grupo 2, terminan en る): sacás る y agregás させる. 食べる → 食べさせる. Tiene dos sentidos: CAUSAR (hacer que hagan) y PERMITIR (dejar que hagan). El contexto y las partículas distinguen cuál es: に marca al que hace la acción bajo orden; が/は marca al que recibe el permiso.",
-      "cardRef": { "category": "grammar", "front": "〜させる" }
+      "explanation": "〜させる (saseru) es la forma causativa de los verbos ichidan (grupo 2, terminan en る): sacás る y agregás させる. 食べる → 食べさせる. Tiene dos sentidos: CAUSAR (hacer que hagan) y PERMITIR (dejar que hagan). El contexto y las partículas distinguen cuál es: に marca al que hace la acción bajo orden; が/は marca al que recibe el permiso."
     },
     {
       "front": "〜せる",
       "back": "hacer que alguien haga / dejar que alguien haga (verbos godan)",
       "reading": "seru",
-      "explanation": "〜せる (seru) es la forma causativa de los verbos godan (grupo 1): cambiás la última sílaba a la columna あ y agregás せる. 行く → 行か + せる = 行かせる. 飲む → 飲ま + せる = 飲ませる. 話す → 話さ + せる = 話させる. El mismo doble sentido: causar o permitir.",
-      "cardRef": { "category": "grammar", "front": "〜せる" }
+      "explanation": "〜せる (seru) es la forma causativa de los verbos godan (grupo 1): cambiás la última sílaba a la columna あ y agregás せる. 行く → 行か + せる = 行かせる. 飲む → 飲ま + せる = 飲ませる. 話す → 話さ + せる = 話させる. El mismo doble sentido: causar o permitir."
     },
     {
       "front": "食べさせる",
       "back": "hacer comer / dejar comer",
       "reading": "たべさせる",
-      "explanation": "食べさせる (tabesaseru) viene de 食べる (ichidan) → 食べさせる. Ejemplo de causar: 子供に野菜を食べさせる (hago que el niño coma verduras). Ejemplo de permitir: 子供に好きな物を食べさせる (dejo que el niño coma lo que quiera). El contexto lo aclara.",
-      "cardRef": { "category": "grammar", "front": "食べさせる" }
+      "explanation": "食べさせる (tabesaseru) viene de 食べる (ichidan) → 食べさせる. Ejemplo de causar: 子供に野菜を食べさせる (hago que el niño coma verduras). Ejemplo de permitir: 子供に好きな物を食べさせる (dejo que el niño coma lo que quiera). El contexto lo aclara."
     },
     {
       "front": "勉強させる",
       "back": "hacer estudiar",
       "reading": "べんきょうさせる",
-      "explanation": "勉強させる (benkyō saseru) viene de 勉強する (suru → saseru). Los verbos する irregulares forman el causativo con させる directamente. Ejemplo: 毎日子供に漢字を勉強させる (hago que el niño estudie kanji todos los días). Este es un uso típico de causar con sentido de autoridad.",
-      "cardRef": { "category": "grammar", "front": "勉強させる" }
+      "explanation": "勉強させる (benkyō saseru) viene de 勉強する (suru → saseru). Los verbos する irregulares forman el causativo con させる directamente. Ejemplo: 毎日子供に漢字を勉強させる (hago que el niño estudie kanji todos los días). Este es un uso típico de causar con sentido de autoridad."
     },
     {
       "front": "行かせる",
       "back": "hacer ir / dejar ir",
       "reading": "いかせる",
-      "explanation": "行かせる (ikaseru) viene de 行く (godan): 行く → 行か + せる. Ejemplo de causar: 子供を一人で行かせた (hice que el niño fuera solo). Ejemplo de permitir: 子供を旅行に行かせてあげた (dejé que el niño fuera de viaje). Con が/を marca al que va; con に marca al que ordena.",
-      "cardRef": { "category": "grammar", "front": "行かせる" }
+      "explanation": "行かせる (ikaseru) viene de 行く (godan): 行く → 行か + せる. Ejemplo de causar: 子供を一人で行かせた (hice que el niño fuera solo). Ejemplo de permitir: 子供を旅行に行かせてあげた (dejé que el niño fuera de viaje). Con が/を marca al que va; con に marca al que ordena."
     },
     {
       "front": "〜させてください",
       "back": "por favor, déjame hacer... (pedir permiso educado)",
       "reading": "sasete kudasai",
-      "explanation": "〜させてください (sasete kudasai) es la forma de pedir permiso con el causativo. Se forma: causativo (させる/せる) → te-form (させて/せて) + ください. Ejemplo: 説明させてください (déjeme explicar). Es muy común en situaciones formales y de negocios. Es una forma cortés y directa a la vez.",
-      "cardRef": { "category": "grammar", "front": "〜させてください" }
+      "explanation": "〜させてください (sasete kudasai) es la forma de pedir permiso con el causativo. Se forma: causativo (させる/せる) → te-form (させて/せて) + ください. Ejemplo: 説明させてください (déjeme explicar). Es muy común en situaciones formales y de negocios. Es una forma cortés y directa a la vez."
     }
   ],
   "steps": [
@@ -54,46 +50,106 @@
       "type": "introduce",
       "title": "Cómo se forma el causativo",
       "instruction": "El causativo expresa que alguien HACE QUE otro haga algo, o le PERMITE hacerlo. Formación: verbos ichidan (grupo 2): sacás る y ponés させる (食べる→食べさせる). Verbos godan (grupo 1): columna あ + せる (行く→行かせる, 飲む→飲ませる). する → させる. くる → こさせる.",
-      "itemIndices": [0, 1]
+      "itemIndices": [
+        0,
+        1
+      ]
     },
     {
       "type": "introduce",
       "title": "Causar, permitir y pedir permiso",
       "instruction": "El causativo tiene dos caras: CAUSAR (tengo autoridad, hago que lo hagan) y PERMITIR (los dejo hacerlo). 子供に勉強させる = hago que el niño estudie. 子供に遊ばせる = dejo que el niño juegue. Y para pedir permiso vos mismo: 説明させてください (déjeme explicar). ¡Tres usos con una forma!",
-      "itemIndices": [2, 3, 4, 5]
+      "itemIndices": [
+        2,
+        3,
+        4,
+        5
+      ]
     },
     {
       "type": "recognize",
       "title": "¿Qué significa esta forma causativa?",
       "instruction": "Elegí el significado correcto. Fijate en el contexto para saber si es causar o permitir.",
-      "itemIndices": [0, 1, 2, 3, 4, 5]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
     },
     {
       "type": "write",
       "title": "Formá el causativo",
       "instruction": "Ves el verbo en diccionario. Escribí su forma causativa.",
-      "itemIndices": [0, 1, 2, 3, 4]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
     },
     {
       "type": "sentence-build",
       "title": "Armá oraciones causativas",
       "instruction": "Arrastrá las piezas para formar oraciones con el causativo.",
-      "itemIndices": [2, 3, 4, 5],
+      "itemIndices": [
+        2,
+        3,
+        4,
+        5
+      ],
       "config": {
         "sentences": [
           {
-            "fragments": ["子供", "に", "野菜", "を", "食べさせる"],
-            "correctOrder": [0, 1, 2, 3, 4],
+            "fragments": [
+              "子供",
+              "に",
+              "野菜",
+              "を",
+              "食べさせる"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3,
+              4
+            ],
             "translation": "Hago que el niño coma verduras"
           },
           {
-            "fragments": ["毎日", "子供", "に", "漢字", "を", "勉強させる"],
-            "correctOrder": [0, 1, 2, 3, 4, 5],
+            "fragments": [
+              "毎日",
+              "子供",
+              "に",
+              "漢字",
+              "を",
+              "勉強させる"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5
+            ],
             "translation": "Hago que el niño estudie kanji todos los días"
           },
           {
-            "fragments": ["説明", "させて", "ください"],
-            "correctOrder": [0, 1, 2],
+            "fragments": [
+              "説明",
+              "させて",
+              "ください"
+            ],
+            "correctOrder": [
+              0,
+              1,
+              2
+            ],
             "translation": "Por favor, déjeme explicar"
           }
         ]
@@ -109,20 +165,52 @@
           {
             "template": "先生が学生{0}発表{1}。",
             "blanks": [
-              { "answer": "に", "options": ["に", "を", "が", "は"] },
-              { "answer": "させた", "options": ["させた", "せた", "させられた", "した"] }
+              {
+                "answer": "に",
+                "options": [
+                  "に",
+                  "を",
+                  "が",
+                  "は"
+                ]
+              },
+              {
+                "answer": "させた",
+                "options": [
+                  "させた",
+                  "せた",
+                  "させられた",
+                  "した"
+                ]
+              }
             ]
           },
           {
             "template": "もう一度{0}ください。",
             "blanks": [
-              { "answer": "言わせて", "options": ["言わせて", "言って", "言えて", "言わせられて"] }
+              {
+                "answer": "言わせて",
+                "options": [
+                  "言わせて",
+                  "言って",
+                  "言えて",
+                  "言わせられて"
+                ]
+              }
             ]
           },
           {
             "template": "子供を一人で{0}のは心配だ。",
             "blanks": [
-              { "answer": "行かせる", "options": ["行かせる", "行かれる", "行けさせる", "行かする"] }
+              {
+                "answer": "行かせる",
+                "options": [
+                  "行かせる",
+                  "行かれる",
+                  "行けさせる",
+                  "行かする"
+                ]
+              }
             ]
           }
         ]
@@ -132,13 +220,27 @@
       "type": "recall",
       "title": "Producí el causativo",
       "instruction": "Ves la situación en español. Escribí la oración en japonés con la forma causativa correcta.",
-      "itemIndices": [0, 1, 2, 3, 4, 5]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
     },
     {
       "type": "summary",
       "title": "¡Causativo dominado!",
       "instruction": "Aprendiste la voz causativa: ichidan → させる (食べ→食べさせる), godan → せる (行く→行かせる). Tiene tres usos: causar que alguien haga algo (autoridad), permitir que lo haga (permiso), y pedir permiso vos mismo (させてください). Acordate: に marca al que realiza la acción bajo la orden o permiso.",
-      "itemIndices": [0, 1, 2, 3, 4, 5]
+      "itemIndices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
     }
   ]
 }

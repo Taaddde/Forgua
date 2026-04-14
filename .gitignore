@@ -42,5 +42,7 @@ e2e/screenshots
 test-results
 .playwright-cli
 .playwright
+.playwright-mcp
 playwright-report
 forgua-temp
+.screenshots
